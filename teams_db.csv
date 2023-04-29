@@ -772,8 +772,6 @@ team_id,team_full_name,team_display_name,team_short_name,team_location,team_abbr
 193,Cleveland Guardians,Guardians,Guardians,Cleveland,CLE,https://assets.actionnetwork.com/253329_Guardians2.png,E31937,002B5C,AL,CENTRAL,cleveland-guardians,10.0,11.0,,,,193766,
 214,Miami Marlins,Marlins,Marlins,Miami,MIA,https://static.sprtactn.co/teamlogos/mlb/100/mia_n.png,FF6600,0077C8,NL,EAST,miami-marlins,10.0,9.0,,,,193766,
 214,Miami Marlins,Marlins,Marlins,Miami,MIA,https://static.sprtactn.co/teamlogos/mlb/100/mia_n.png,FF6600,0077C8,NL,EAST,miami-marlins,12.0,9.0,,,,193766,
-1130,1. FC Cologne,Köln,Geißböcke,Cologne,KOE,https://static.sprtactn.co/teamlogos/soccer/100/1130.png,FF0000,000000,,,,7.0,10.0,11.0,,,185696,
-1130,1. FC Cologne,Köln,Geißböcke,Cologne,KOE,https://static.sprtactn.co/teamlogos/soccer/100/1130.png,FF0000,000000,,,,8.0,10.0,11.0,,,185696,
 3362,AC Ajaccio,AC Ajaccio,L'ours,Ajaccio,ACA,https://assets.actionnetwork.com/49133_ACAjaccio1.png,FFFFFF,000000,,,,6.0,22.0,3.0,,,185742,
 3362,AC Ajaccio,AC Ajaccio,L'ours,Ajaccio,ACA,https://assets.actionnetwork.com/49133_ACAjaccio1.png,FFFFFF,000000,,,,6.0,22.0,4.0,,,185742,
 1933,Los Angeles FC,LAFC,LAFC,Los Angeles,LAN,https://static.sprtactn.co/teamlogos/soccer/100/1933.png,000000,D9BA64,WESTERN,,,5.0,0.0,2.0,,,189417,
@@ -941,3 +939,4 @@ team_id,team_full_name,team_display_name,team_short_name,team_location,team_abbr
 198,Los Angeles Angels,Angels,Angels,Los Angeles,LAA,https://static.sprtactn.co/teamlogos/mlb/100/laa.png,BA0021,003263,AL,WEST,los-angeles-angels,14.0,12.0,,,,192760,
 200,Texas Rangers,Rangers,Rangers,Texas,TEX,https://static.sprtactn.co/teamlogos/mlb/100/tex.png,C0111F,003278,AL,WEST,texas-rangers,14.0,11.0,,,,192760,
 197,Seattle Mariners,Mariners,Mariners,Seattle,SEA,https://static.sprtactn.co/teamlogos/mlb/100/sea.png,0C2C56,005C5C,AL,WEST,seattle-mariners,11.0,14.0,,,,192761,
+1130,1. FC Cologne,Köln,Geißböcke,Cologne,KOE,https://static.sprtactn.co/teamlogos/soccer/100/1130.png,FF0000,000000,,,,8.0,10.0,11.0,,,186128,
