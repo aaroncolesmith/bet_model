@@ -2,8 +2,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-09 16:04:23.015102,Apple Specials - Apple / Disney Acquisition - Will Apple Buy Disney?,Yes,0.5091,0.6,0.0909
 2023-08-09 11:02:09.751489,Scores - 1st Round Score - Jon Rahm - 1st Round Score,Under 68.5,0.19199999999999995,0.6364,0.4444
 2023-08-09 14:02:27.123485,CFL Specials - EDM Elks First Home Win - Proposition,No Home Wins,0.17400000000000002,0.274,0.1
-2023-08-09 11:02:09.786306,Scores - 1st Round Score - Tyrrell Hatton - 1st Round Score,Under 68.5,0.14850000000000002,0.5652,0.4167
 2023-08-09 11:02:09.771741,Scores - 1st Round Score - Rickie Fowler - 1st Round Score,Under 68.5,0.14850000000000002,0.5652,0.4167
+2023-08-09 11:02:09.786306,Scores - 1st Round Score - Tyrrell Hatton - 1st Round Score,Under 68.5,0.14850000000000002,0.5652,0.4167
 2023-08-09 11:02:09.795899,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Under 68.5,0.1473,0.5917,0.4444
 2023-08-09 14:02:21.113568,Celebrity Boxing - Logan Paul vs Dillon Danis - Logan Paul vs Dillon Danis,Logan Paul,0.14279999999999993,0.8571,0.7143
 2023-08-09 14:02:27.123485,CFL Specials - EDM Elks First Home Win - Proposition,OTT Redblacks,0.13099999999999998,0.3636,0.2326
@@ -11,8 +11,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-09 08:04:30.435356,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Wolverhampton Wanderers,0.11109999999999998,0.3333,0.2222
 2023-08-09 08:04:30.455018,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Wolverhampton Wanderers,0.09999999999999998,0.9,0.8
 2023-08-09 13:02:24.979131,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Sheffield United,0.0857,0.2857,0.2
-2023-08-09 07:02:08.318680,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,0.08340000000000003,0.4167,0.3333
-2023-08-09 07:02:08.343296,MLB Futures - MLB 2023 Player Awards - National League MVP,Freddie Freeman (LAD),0.07649999999999998,0.1818,0.1053
 2023-08-09 09:03:07.005646,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - Winner,Nashville SC,0.0762,0.1429,0.0667
 2023-08-09 09:03:07.005646,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - Winner,Los Angeles FC,0.07500000000000001,0.2,0.125
 2023-08-09 09:03:07.127682,Copa Libertadores - Copa Libertadores 2023 - Outright,Internacional,0.0655,0.1,0.0345
@@ -25,13 +23,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-09 11:02:09.776529,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Under 68.5,0.04820000000000002,0.6226,0.5744
 2023-08-09 08:04:30.451781,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Aston Villa,0.04760000000000009,0.7143,0.6667
 2023-08-09 09:03:07.005646,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - Winner,Inter Miami,0.047599999999999976,0.3333,0.2857
-2023-08-09 07:02:08.327025,MLB Futures - MLB 2023 National League West - National League West Winner,Los Angeles Dodgers,0.0474,0.9565,0.9091
 2023-08-09 08:04:30.457938,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Bournemouth,0.044500000000000095,0.7778,0.7333
 2023-08-09 09:03:07.005646,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - Winner,Minnesota United,0.04329999999999999,0.0909,0.0476
 2023-08-09 08:04:30.451781,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Bournemouth,0.04269999999999999,0.1538,0.1111
 2023-08-09 09:03:07.005646,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - Winner,Philadelphia Union,0.04240000000000001,0.1333,0.0909
 2023-08-09 12:01:59.443257,Regular Season Wins O/U - 2023 Regular Season Wins - Los Angeles Sparks,Over 14.5,0.04139999999999999,0.4762,0.4348
-2023-08-09 07:02:08.331371,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Gerrit Cole (NYY),0.03980000000000006,0.7368,0.697
 2023-08-09 09:03:07.127682,Copa Libertadores - Copa Libertadores 2023 - Outright,Athletico Paranaense,0.0384,0.0769,0.0385
 2023-08-09 12:02:04.904247,MLB Futures - MLB 2023 Player Awards - National League MVP,Ronald Acuña Jr.,0.0383,0.9474,0.9091
 2023-08-09 09:03:08.404635,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,0.03640000000000004,0.4,0.3636
@@ -42,51 +38,46 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-09 08:04:30.438790,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Wolverhampton Wanderers,0.03420000000000001,0.1111,0.0769
 2023-08-09 09:03:07.005646,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - Winner,CF Monterrey,0.034100000000000005,0.125,0.0909
 2023-08-09 17:01:54.274762,Stage of Elimination - 2023-24 Stage of Elimination - Tampa Bay Buccaneers - Stage of Elimination,To Miss the Playoffs,0.03369999999999995,0.8519,0.8182
-2023-08-09 07:02:08.314543,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,0.033399999999999985,0.6078,0.5744
 2023-08-09 09:03:07.148507,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Corinthians,0.033300000000000024,0.2,0.1667
 2023-08-09 09:03:07.381019,Premier League Futures/Specials - English Premier League 2023/24 - Season Match Bets - Season Match Bet - Aston Villa vs. Brighton,Aston Villa,0.033299999999999996,0.4878,0.4545
 2023-08-09 08:04:30.435356,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Sheffield United,0.03259999999999996,0.6552,0.6226
 2023-08-09 09:03:07.127682,Copa Libertadores - Copa Libertadores 2023 - Outright,Fluminense,0.031799999999999995,0.1429,0.1111
 2023-08-09 09:03:07.516762,Premier League Futures/Specials - English Premier League 2023/24 - Team Total Points - Wolves Total Points,Under 39.5,0.03179999999999994,0.5556,0.5238
-2023-08-09 07:02:08.314543,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.030299999999999994,0.4651,0.4348
 2023-08-09 09:03:07.420258,Premier League Futures/Specials - English Premier League 2023/24 - Season Match Bets - Season Match Bet - Everton vs. Wolves,Everton,0.028900000000000037,0.5744,0.5455
 2023-08-09 14:02:27.123485,CFL Specials - EDM Elks First Home Win - Proposition,MTL Alouettes,0.02840000000000001,0.1053,0.0769
 2023-08-09 14:02:27.123485,CFL Specials - EDM Elks First Home Win - Proposition,CGY Stampeders,0.027999999999999997,0.1333,0.1053
 2023-08-09 08:04:30.455018,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Everton,0.027999999999999914,0.8462,0.8182
+2023-08-09 18:02:43.203713,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Las Vegas Raiders,Yes,0.02779999999999999,0.25,0.2222
 2023-08-09 09:03:07.127682,Copa Libertadores - Copa Libertadores 2023 - Outright,Palmeiras,0.02779999999999999,0.25,0.2222
 2023-08-09 11:02:09.766971,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Under 68.5,0.026499999999999968,0.5917,0.5652
 2023-08-09 08:04:30.455018,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,West Ham United,0.025599999999999956,0.6,0.5744
 2023-08-09 17:01:54.187506,Stage of Elimination - 2023-24 Stage of Elimination - Cincinnati Bengals - Stage of Elimination,To Miss the Playoffs,0.0252,0.303,0.2778
 2023-08-09 09:03:08.391777,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Vivek Ramaswamy,0.024999999999999994,0.125,0.1
 2023-08-09 17:01:54.256845,Stage of Elimination - 2023-24 Stage of Elimination - New York Jets - Stage of Elimination,To Win Super Bowl,0.024299999999999995,0.0769,0.0526
-2023-08-09 13:02:31.669638,Round Match-Ups - 1st Round Match-Up - D. Burmester v S. Munoz - 1st Round Match-Up,Dean Burmester,0.023800000000000043,0.5238,0.5
-2023-08-09 13:02:31.374482,Round Match-Ups - Parlays - 1st Round Match-Up - S. Straka vs K. Bradley - 1st Round Match-Up,Keegan Bradley,0.023800000000000043,0.5238,0.5
-2023-08-09 13:02:31.632079,Scores - 1st Round Score - Rickie Fowler - 1st Round Score,Over 68.5,0.023800000000000043,0.5238,0.5
 2023-08-09 13:02:31.646085,Scores - 1st Round Score - Tyrrell Hatton - 1st Round Score,Over 68.5,0.023800000000000043,0.5238,0.5
-2023-08-09 07:02:08.331371,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Kevin Gausman (TOR),0.023799999999999988,0.1667,0.1429
+2023-08-09 13:02:31.632079,Scores - 1st Round Score - Rickie Fowler - 1st Round Score,Over 68.5,0.023800000000000043,0.5238,0.5
+2023-08-09 13:02:31.374482,Round Match-Ups - Parlays - 1st Round Match-Up - S. Straka vs K. Bradley - 1st Round Match-Up,Keegan Bradley,0.023800000000000043,0.5238,0.5
+2023-08-09 13:02:31.669638,Round Match-Ups - 1st Round Match-Up - D. Burmester v S. Munoz - 1st Round Match-Up,Dean Burmester,0.023800000000000043,0.5238,0.5
 2023-08-09 13:02:30.856075,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Alabama,0.023799999999999988,0.1667,0.1429
 2023-08-09 17:01:54.225653,Stage of Elimination - 2023-24 Stage of Elimination - Las Vegas Raiders - Stage of Elimination,To Miss the Playoffs,0.0232,0.8462,0.823
 2023-08-09 13:02:24.979131,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Nottingham Forest,0.02310000000000001,0.1,0.0769
 2023-08-09 17:01:54.267645,Stage of Elimination - 2023-24 Stage of Elimination - San Francisco 49ers - Stage of Elimination,To Miss the Playoffs,0.022699999999999998,0.25,0.2273
-2023-08-09 16:04:33.918456,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-09 17:01:55.106568,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-09 19:03:40.194304,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-09 13:02:29.904384,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-09 15:05:49.698085,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-09 08:04:37.421989,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-09 09:03:12.576614,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-09 10:02:09.389248,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-09 17:01:55.106568,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-09 11:02:07.905994,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-09 16:04:33.918456,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-09 12:02:03.716591,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-09 13:02:29.904384,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-09 18:02:43.389246,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-09 15:05:49.698085,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-09 14:02:26.086572,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-09 07:02:07.243842,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-09 07:02:08.339286,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Blake Snell (SD),0.02250000000000002,0.2857,0.2632
 2023-08-09 09:03:07.269360,Premier League Futures/Specials - English Premier League 2023/24 - Winner without Manchester City,Arsenal,0.022199999999999998,0.3448,0.3226
 2023-08-09 17:01:54.214921,Stage of Elimination - 2023-24 Stage of Elimination - Indianapolis Colts - Stage of Elimination,To Miss the Playoffs,0.02210000000000001,0.8403,0.8182
-2023-08-09 07:02:08.335377,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Masataka Yoshida (BOS),0.021999999999999964,0.3077,0.2857
 2023-08-09 08:04:30.435356,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Nottingham Forest,0.021999999999999964,0.3077,0.2857
 2023-08-09 17:01:54.264075,Stage of Elimination - 2023-24 Stage of Elimination - Pittsburgh Steelers - Stage of Elimination,To Miss the Playoffs,0.02180000000000004,0.6296,0.6078
-2023-08-09 07:02:08.650516,Tournament Match-Ups - Parlays - Tournament Match-Up - M. Homa vs C. Young - Tournament Match-Up,Cameron Young,0.02169999999999994,0.5455,0.5238
 2023-08-09 16:04:37.682783,Round Match-Ups - Parlays - 1st Round Match-Up - S. Straka vs K. Bradley - 1st Round Match-Up,Keegan Bradley,0.02169999999999994,0.5455,0.5238
 2023-08-09 18:02:42.181998,Stage of Elimination - 2023-24 Stage of Elimination - Chicago Bears - Stage of Elimination,To Miss the Playoffs,0.021499999999999964,0.6825,0.661
 2023-08-09 18:02:43.120316,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Arizona Cardinals,Yes,0.021199999999999997,0.1212,0.1
@@ -97,25 +88,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-09 09:03:07.148507,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Defensa y Justicia,0.02020000000000001,0.1111,0.0909
 2023-08-09 11:02:09.791054,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Under 68.5,0.01970000000000005,0.5652,0.5455
 2023-08-09 15:05:38.919820,FIBA World Cup Futures - Group E - Winner,Finland,0.01949999999999999,0.0909,0.0714
-2023-08-09 09:03:07.425807,Premier League Futures/Specials - English Premier League 2023/24 - Season Match Bets - Season Match Bet - Liverpool vs. Man Utd,Liverpool,0.01880000000000004,0.5744,0.5556
 2023-08-09 13:02:31.641450,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Under 68.5,0.01880000000000004,0.6552,0.6364
+2023-08-09 09:03:07.425807,Premier League Futures/Specials - English Premier League 2023/24 - Season Match Bets - Season Match Bet - Liverpool vs. Man Utd,Liverpool,0.01880000000000004,0.5744,0.5556
 2023-08-09 18:02:42.230901,Stage of Elimination - 2023-24 Stage of Elimination - Los Angeles Chargers - Stage of Elimination,To Lose in Divisional Round,0.01820000000000002,0.2,0.1818
 2023-08-09 08:04:30.455018,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Nottingham Forest,0.017900000000000027,0.875,0.8571
 2023-08-09 18:02:42.227051,Stage of Elimination - 2023-24 Stage of Elimination - Las Vegas Raiders - Stage of Elimination,To Lose in Wildcard Round,0.0179,0.1429,0.125
 2023-08-09 13:02:31.619260,Scores - 1st Round Score - Matt Fitzpatrick - 1st Round Score,Over 68.5,0.017299999999999982,0.5917,0.5744
 2023-08-09 09:03:07.269360,Premier League Futures/Specials - English Premier League 2023/24 - Winner without Manchester City,Liverpool,0.016699999999999993,0.2667,0.25
 2023-08-09 17:01:54.253258,Stage of Elimination - 2023-24 Stage of Elimination - New York Giants - Stage of Elimination,To Miss the Playoffs,0.01639999999999997,0.6774,0.661
+2023-08-09 19:03:43.155443,Scores - 1st Round Score - Matt Fitzpatrick - 1st Round Score,Over 68.5,0.016100000000000003,0.6078,0.5917
 2023-08-09 18:02:43.223285,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - New England Patriots,Yes,0.015400000000000025,0.3279,0.3125
 2023-08-09 17:01:56.416429,FedEx St. Jude Championship - 2/3 Balls - 1st Round 3 Balls - S. Scheffler / J. Rahm / R. McIlroy - 1st Round 3 Balls,Scottie Scheffler,0.015400000000000025,0.4,0.3846
 2023-08-09 09:03:07.403389,Premier League Futures/Specials - English Premier League 2023/24 - Season Match Bets - Season Match Bet - Chelsea vs. Liverpool,Liverpool,0.01539999999999997,0.6154,0.6
 2023-08-09 17:01:54.238825,Stage of Elimination - 2023-24 Stage of Elimination - Miami Dolphins - Stage of Elimination,To Win Super Bowl,0.015300000000000001,0.0588,0.0435
+2023-08-09 19:03:40.002650,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Tampa Bay Buccaneers,Yes,0.015199999999999991,0.2326,0.2174
 2023-08-09 08:04:30.451781,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Tottenham Hotspur,0.015100000000000002,0.8333,0.8182
 2023-08-09 17:01:54.191860,Stage of Elimination - 2023-24 Stage of Elimination - Cleveland Browns - Stage of Elimination,To Lose in Wildcard Round,0.014600000000000002,0.2778,0.2632
 2023-08-09 17:01:54.267645,Stage of Elimination - 2023-24 Stage of Elimination - San Francisco 49ers - Stage of Elimination,To Win Super Bowl,0.01440000000000001,0.1053,0.0909
 2023-08-09 18:02:43.173603,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Denver Broncos,Yes,0.01419999999999999,0.3846,0.3704
-2023-08-09 08:04:30.435356,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,West Ham United,0.013999999999999999,0.0909,0.0769
 2023-08-09 18:02:42.227051,Stage of Elimination - 2023-24 Stage of Elimination - Las Vegas Raiders - Stage of Elimination,To Lose in Divisional Round,0.013999999999999999,0.0909,0.0769
 2023-08-09 13:02:30.856075,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Michigan,0.013999999999999999,0.0909,0.0769
+2023-08-09 08:04:30.435356,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,West Ham United,0.013999999999999999,0.0909,0.0769
+2023-08-09 19:03:38.704998,Stage of Elimination - 2023-24 Stage of Elimination - Tampa Bay Buccaneers - Stage of Elimination,To Lose in Divisional Round,0.013999999999999999,0.0909,0.0769
 2023-08-09 14:02:27.306072,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,0.013899999999999996,0.125,0.1111
 2023-08-09 11:02:09.781474,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Under 68.5,0.013799999999999923,0.6364,0.6226
 2023-08-09 17:01:54.249534,Stage of Elimination - 2023-24 Stage of Elimination - New Orleans Saints - Stage of Elimination,To Lose in Wildcard Round,0.013600000000000001,0.3077,0.2941
@@ -125,24 +119,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-09 17:01:54.191860,Stage of Elimination - 2023-24 Stage of Elimination - Cleveland Browns - Stage of Elimination,To Lose in Divisional Round,0.012899999999999995,0.1667,0.1538
 2023-08-09 17:01:54.260405,Stage of Elimination - 2023-24 Stage of Elimination - Philadelphia Eagles - Stage of Elimination,To Lose in Super Bowl,0.012899999999999995,0.1667,0.1538
 2023-08-09 09:03:08.400007,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Any Other,0.012800000000000002,0.0345,0.0217
-2023-08-09 17:01:54.229821,Stage of Elimination - 2023-24 Stage of Elimination - Los Angeles Chargers - Stage of Elimination,To Miss the Playoffs,0.012199999999999989,0.5122,0.5
 2023-08-09 09:03:13.975813,FedEx St. Jude Championship - 2/3 Balls - 1st Round 3 Balls - C. Young / T. Hoge / M. Hughes - 1st Round 3 Balls,Cameron Young,0.012199999999999989,0.5,0.4878
+2023-08-09 17:01:54.229821,Stage of Elimination - 2023-24 Stage of Elimination - Los Angeles Chargers - Stage of Elimination,To Miss the Playoffs,0.012199999999999989,0.5122,0.5
 2023-08-09 18:02:43.239631,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Philadelphia Eagles,No,0.011899999999999994,0.25,0.2381
 2023-08-09 18:02:42.268993,Stage of Elimination - 2023-24 Stage of Elimination - Philadelphia Eagles - Stage of Elimination,To Miss the Playoffs,0.011899999999999994,0.25,0.2381
-2023-08-09 17:01:54.222068,Stage of Elimination - 2023-24 Stage of Elimination - Kansas City Chiefs - Stage of Elimination,To Miss the Playoffs,0.011700000000000016,0.2222,0.2105
 2023-08-09 18:02:42.177543,Stage of Elimination - 2023-24 Stage of Elimination - Carolina Panthers - Stage of Elimination,To Lose in Wildcard Round,0.011700000000000016,0.2222,0.2105
+2023-08-09 17:01:54.222068,Stage of Elimination - 2023-24 Stage of Elimination - Kansas City Chiefs - Stage of Elimination,To Miss the Playoffs,0.011700000000000016,0.2222,0.2105
 2023-08-09 18:02:42.230901,Stage of Elimination - 2023-24 Stage of Elimination - Los Angeles Chargers - Stage of Elimination,To Lose in Wildcard Round,0.011699999999999988,0.2857,0.274
 2023-08-09 09:03:13.996774,FedEx St. Jude Championship - 2/3 Balls - 1st Round 3 Balls - C. Morikawa / K. Kitayama / A. Schenk - 1st Round 3 Balls,Collin Morikawa,0.011600000000000055,0.5238,0.5122
 2023-08-09 09:03:13.992464,FedEx St. Jude Championship - 2/3 Balls - 1st Round 3 Balls - T. Fleetwood / D. McCarthy / T. Moore - 1st Round 3 Balls,Denny McCarthy,0.01150000000000001,0.3448,0.3333
 2023-08-09 18:02:42.172733,Stage of Elimination - 2023-24 Stage of Elimination - Buffalo Bills - Stage of Elimination,To Miss the Playoffs,0.01150000000000001,0.3448,0.3333
 2023-08-09 09:03:07.269360,Premier League Futures/Specials - English Premier League 2023/24 - Winner without Manchester City,Aston Villa,0.011399999999999997,0.0278,0.0164
 2023-08-09 16:04:38.817583,Pinnacle Bank Championship - Pinnacle Bank Championship - Winner,Nicholas Lindheim,0.011199999999999995,0.0588,0.0476
-2023-08-09 17:01:54.271205,Stage of Elimination - 2023-24 Stage of Elimination - Seattle Seahawks - Stage of Elimination,To Lose in Wildcard Round,0.011099999999999999,0.2778,0.2667
-2023-08-09 17:01:54.256845,Stage of Elimination - 2023-24 Stage of Elimination - New York Jets - Stage of Elimination,To Miss the Playoffs,0.011099999999999999,0.4762,0.4651
-2023-08-09 09:03:08.391777,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,0.011099999999999999,0.1111,0.1
-2023-08-09 14:02:27.316066,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.011099999999999999,0.4762,0.4651
 2023-08-09 09:03:07.276235,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer - Haaland vs The Field,Any Other Player,0.011099999999999999,0.4762,0.4651
+2023-08-09 17:01:54.256845,Stage of Elimination - 2023-24 Stage of Elimination - New York Jets - Stage of Elimination,To Miss the Playoffs,0.011099999999999999,0.4762,0.4651
 2023-08-09 18:02:42.198620,Stage of Elimination - 2023-24 Stage of Elimination - Denver Broncos - Stage of Elimination,To Lose in Divisional Round,0.011099999999999999,0.1111,0.1
+2023-08-09 14:02:27.316066,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.011099999999999999,0.4762,0.4651
+2023-08-09 09:03:08.391777,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,0.011099999999999999,0.1111,0.1
+2023-08-09 17:01:54.271205,Stage of Elimination - 2023-24 Stage of Elimination - Seattle Seahawks - Stage of Elimination,To Lose in Wildcard Round,0.011099999999999999,0.2778,0.2667
 2023-08-09 18:02:42.162184,Stage of Elimination - 2023-24 Stage of Elimination - Atlanta Falcons - Stage of Elimination,To Lose in Divisional Round,0.010899999999999993,0.1538,0.1429
 2023-08-09 17:01:54.229821,Stage of Elimination - 2023-24 Stage of Elimination - Los Angeles Chargers - Stage of Elimination,To Lose in Wildcard Round,0.010800000000000032,0.274,0.2632
 2023-08-09 17:01:54.260405,Stage of Elimination - 2023-24 Stage of Elimination - Philadelphia Eagles - Stage of Elimination,To Miss the Playoffs,0.010800000000000004,0.2381,0.2273
@@ -157,50 +151,47 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-09 14:02:27.331138,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,-0.010699999999999932,0.5348,0.5455
 2023-08-09 18:02:42.254922,Stage of Elimination - 2023-24 Stage of Elimination - New York Giants - Stage of Elimination,To Miss the Playoffs,-0.010700000000000043,0.6667,0.6774
 2023-08-09 18:02:43.232110,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - New York Giants,No,-0.010700000000000043,0.6667,0.6774
-2023-08-09 18:02:42.261972,Stage of Elimination - 2023-24 Stage of Elimination - New York Jets - Stage of Elimination,To Lose in Divisional Round,-0.010899999999999993,0.1429,0.1538
 2023-08-09 17:01:54.264075,Stage of Elimination - 2023-24 Stage of Elimination - Pittsburgh Steelers - Stage of Elimination,To Lose in Divisional Round,-0.010899999999999993,0.1429,0.1538
-2023-08-09 18:02:42.283691,Stage of Elimination - 2023-24 Stage of Elimination - Seattle Seahawks - Stage of Elimination,To Miss the Playoffs,-0.011099999999999999,0.4651,0.4762
-2023-08-09 18:02:43.252062,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Seattle Seahawks,No,-0.011099999999999999,0.4651,0.4762
-2023-08-09 09:03:07.272460,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Mohamed Salah,-0.011099999999999999,0.1,0.1111
-2023-08-09 08:04:30.455018,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Chelsea,-0.011099999999999999,0.1,0.1111
+2023-08-09 18:02:42.261972,Stage of Elimination - 2023-24 Stage of Elimination - New York Jets - Stage of Elimination,To Lose in Divisional Round,-0.010899999999999993,0.1429,0.1538
 2023-08-09 08:04:30.435356,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Brentford,-0.011099999999999999,0.1,0.1111
+2023-08-09 08:04:30.455018,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Chelsea,-0.011099999999999999,0.1,0.1111
+2023-08-09 18:02:42.283691,Stage of Elimination - 2023-24 Stage of Elimination - Seattle Seahawks - Stage of Elimination,To Miss the Playoffs,-0.011099999999999999,0.4651,0.4762
+2023-08-09 09:03:07.272460,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Mohamed Salah,-0.011099999999999999,0.1,0.1111
+2023-08-09 18:02:43.252062,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Seattle Seahawks,No,-0.011099999999999999,0.4651,0.4762
 2023-08-09 09:03:07.127682,Copa Libertadores - Copa Libertadores 2023 - Outright,Racing Club,-0.011199999999999995,0.0476,0.0588
 2023-08-09 09:03:07.272460,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Marcus Rashford,-0.011199999999999995,0.0476,0.0588
 2023-08-09 18:02:42.268993,Stage of Elimination - 2023-24 Stage of Elimination - Philadelphia Eagles - Stage of Elimination,To Lose in Divisional Round,-0.011300000000000004,0.2326,0.2439
 2023-08-09 18:02:43.228404,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - New Orleans Saints,Yes,-0.011499999999999955,0.6552,0.6667
 2023-08-09 13:02:31.619260,Scores - 1st Round Score - Matt Fitzpatrick - 1st Round Score,Under 68.5,-0.0116,0.4762,0.4878
 2023-08-09 17:01:54.271205,Stage of Elimination - 2023-24 Stage of Elimination - Seattle Seahawks - Stage of Elimination,To Miss the Playoffs,-0.0116,0.4762,0.4878
+2023-08-09 09:03:07.516762,Premier League Futures/Specials - English Premier League 2023/24 - Team Total Points - Wolves Total Points,Over 39.5,-0.011600000000000055,0.5122,0.5238
 2023-08-09 12:01:59.431388,Regular Season Wins O/U - 2023 Regular Season Wins - Dallas Wings,Over 21.5,-0.011600000000000055,0.5122,0.5238
 2023-08-09 09:03:08.400007,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,-0.011600000000000055,0.5122,0.5238
-2023-08-09 09:03:07.516762,Premier League Futures/Specials - English Premier League 2023/24 - Team Total Points - Wolves Total Points,Over 39.5,-0.011600000000000055,0.5122,0.5238
 2023-08-09 08:04:30.435356,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Fulham,-0.011700000000000016,0.2105,0.2222
 2023-08-09 17:01:54.264075,Stage of Elimination - 2023-24 Stage of Elimination - Pittsburgh Steelers - Stage of Elimination,To Lose in Wildcard Round,-0.011899999999999994,0.2381,0.25
 2023-08-09 08:04:30.435356,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Aston Villa,-0.012100000000000001,0.0123,0.0244
-2023-08-09 09:03:07.363964,Premier League Futures/Specials - English Premier League 2023/24 - Season Match Bets - Season Match Bet - Arsenal vs. Liverpool,Liverpool,-0.012199999999999989,0.5,0.5122
 2023-08-09 09:03:07.485639,Premier League Futures/Specials - English Premier League 2023/24 - Team Total Points - Liverpool Total Points,Over 75.5,-0.012199999999999989,0.5,0.5122
-2023-08-09 07:02:08.327025,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,-0.012299999999999991,0.1053,0.1176
+2023-08-09 09:03:07.363964,Premier League Futures/Specials - English Premier League 2023/24 - Season Match Bets - Season Match Bet - Arsenal vs. Liverpool,Liverpool,-0.012199999999999989,0.5,0.5122
 2023-08-09 17:01:54.214921,Stage of Elimination - 2023-24 Stage of Elimination - Indianapolis Colts - Stage of Elimination,To Lose in Wildcard Round,-0.012899999999999995,0.1538,0.1667
 2023-08-09 17:01:54.282036,Stage of Elimination - 2023-24 Stage of Elimination - Washington Commanders - Stage of Elimination,To Lose in Wildcard Round,-0.012899999999999995,0.1538,0.1667
-2023-08-09 18:02:42.167399,Stage of Elimination - 2023-24 Stage of Elimination - Baltimore Ravens - Stage of Elimination,To Lose in Wildcard Round,-0.01319999999999999,0.25,0.2632
 2023-08-09 18:02:42.246279,Stage of Elimination - 2023-24 Stage of Elimination - New England Patriots - Stage of Elimination,To Miss the Playoffs,-0.01319999999999999,0.7368,0.75
 2023-08-09 18:02:43.223285,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - New England Patriots,No,-0.01319999999999999,0.7368,0.75
+2023-08-09 18:02:42.167399,Stage of Elimination - 2023-24 Stage of Elimination - Baltimore Ravens - Stage of Elimination,To Lose in Wildcard Round,-0.01319999999999999,0.25,0.2632
 2023-08-09 09:03:13.992464,FedEx St. Jude Championship - 2/3 Balls - 1st Round 3 Balls - T. Fleetwood / D. McCarthy / T. Moore - 1st Round 3 Balls,Taylor Moore,-0.013600000000000001,0.2941,0.3077
 2023-08-09 09:03:07.269360,Premier League Futures/Specials - English Premier League 2023/24 - Winner without Manchester City,Newcastle United,-0.013899999999999996,0.1111,0.125
 2023-08-09 09:03:07.269360,Premier League Futures/Specials - English Premier League 2023/24 - Winner without Manchester City,Chelsea,-0.013899999999999996,0.1111,0.125
 2023-08-09 17:01:54.225653,Stage of Elimination - 2023-24 Stage of Elimination - Las Vegas Raiders - Stage of Elimination,To Lose in Divisional Round,-0.013999999999999999,0.0769,0.0909
 2023-08-09 17:01:54.207840,Stage of Elimination - 2023-24 Stage of Elimination - Green Bay Packers - Stage of Elimination,To Miss the Playoffs,-0.014000000000000012,0.6875,0.7015
-2023-08-09 07:02:08.339286,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Zack Wheeler,-0.014099999999999994,0.0526,0.0667
 2023-08-09 14:02:27.343627,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,-0.01440000000000001,0.0909,0.1053
-2023-08-09 18:02:42.198620,Stage of Elimination - 2023-24 Stage of Elimination - Denver Broncos - Stage of Elimination,To Miss the Playoffs,-0.014499999999999957,0.6825,0.697
 2023-08-09 18:02:43.173603,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Denver Broncos,No,-0.014499999999999957,0.6825,0.697
+2023-08-09 18:02:42.198620,Stage of Elimination - 2023-24 Stage of Elimination - Denver Broncos - Stage of Elimination,To Miss the Playoffs,-0.014499999999999957,0.6825,0.697
 2023-08-09 08:04:30.451781,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Sheffield United,-0.014899999999999997,0.0476,0.0625
 2023-08-09 09:03:13.975813,FedEx St. Jude Championship - 2/3 Balls - 1st Round 3 Balls - C. Young / T. Hoge / M. Hughes - 1st Round 3 Balls,Tom Hoge,-0.014900000000000024,0.3077,0.3226
 2023-08-09 12:02:04.904247,MLB Futures - MLB 2023 Player Awards - National League MVP,Freddie Freeman (LAD),-0.015100000000000002,0.1667,0.1818
-2023-08-09 07:02:08.331371,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Framber Valdez (HOU),-0.015100000000000002,0.1667,0.1818
 2023-08-09 17:01:54.267645,Stage of Elimination - 2023-24 Stage of Elimination - San Francisco 49ers - Stage of Elimination,To Lose in Wildcard Round,-0.015199999999999991,0.2174,0.2326
 2023-08-09 13:02:24.979131,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Brentford,-0.015300000000000001,0.0323,0.0476
-2023-08-09 09:03:08.375139,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Field,-0.015400000000000025,0.3125,0.3279
 2023-08-09 14:02:21.286861,Eastern Conference - Eastern Conference Number 1 Seed - Number 1 Seed,Boston Celtics,-0.015400000000000025,0.3846,0.4
+2023-08-09 09:03:08.375139,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Field,-0.015400000000000025,0.3125,0.3279
 2023-08-09 09:03:07.276235,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer - Haaland vs The Field,Erling Haaland,-0.016699999999999937,0.5833,0.6
 2023-08-09 09:03:07.272460,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Erling Braut Haaland,-0.016699999999999937,0.5833,0.6
 2023-08-09 08:04:39.140735,Boxing Lines - Campbell Hatton vs Tom Ansell - To Win the Bout,Tom Ansell,-0.016700000000000007,0.0833,0.1
@@ -208,44 +199,44 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-09 13:02:31.641450,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Over 68.5,-0.017299999999999982,0.4082,0.4255
 2023-08-09 09:03:07.005646,Leagues Cup - 2023 - Leagues Cup 2023 - Futures - Winner,Querétaro FC,-0.018099999999999998,0.0588,0.0769
 2023-08-09 08:04:30.451781,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Nottingham Forest,-0.01820000000000002,0.1818,0.2
+2023-08-09 19:03:38.704998,Stage of Elimination - 2023-24 Stage of Elimination - Tampa Bay Buccaneers - Stage of Elimination,To Miss the Playoffs,-0.01859999999999995,0.8333,0.8519
+2023-08-09 19:03:40.002650,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Tampa Bay Buccaneers,No,-0.01859999999999995,0.8333,0.8519
 2023-08-09 18:02:42.261972,Stage of Elimination - 2023-24 Stage of Elimination - New York Jets - Stage of Elimination,To Lose in Wildcard Round,-0.018699999999999994,0.241,0.2597
-2023-08-09 09:03:08.379348,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Hillary Clinton,-0.0189,0.0196,0.0385
 2023-08-09 09:03:07.272460,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Christopher Nkunku,-0.0189,0.0196,0.0385
+2023-08-09 09:03:08.379348,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Hillary Clinton,-0.0189,0.0196,0.0385
 2023-08-09 11:02:09.781474,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Over 68.5,-0.018900000000000028,0.4255,0.4444
 2023-08-09 18:02:43.120316,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Arizona Cardinals,No,-0.01969999999999994,0.9474,0.9671
-2023-08-09 13:02:31.646085,Scores - 1st Round Score - Tyrrell Hatton - 1st Round Score,Under 68.5,-0.01970000000000005,0.5455,0.5652
 2023-08-09 13:02:31.632079,Scores - 1st Round Score - Rickie Fowler - 1st Round Score,Under 68.5,-0.01970000000000005,0.5455,0.5652
-2023-08-09 07:02:08.318680,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,-0.01970000000000005,0.5455,0.5652
+2023-08-09 13:02:31.646085,Scores - 1st Round Score - Tyrrell Hatton - 1st Round Score,Under 68.5,-0.01970000000000005,0.5455,0.5652
 2023-08-09 18:02:42.181998,Stage of Elimination - 2023-24 Stage of Elimination - Chicago Bears - Stage of Elimination,To Lose in Wildcard Round,-0.020100000000000007,0.2299,0.25
 2023-08-09 13:02:24.979131,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Bournemouth,-0.02020000000000001,0.0909,0.1111
-2023-08-09 07:02:08.310405,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,-0.020299999999999985,0.6226,0.6429
 2023-08-09 18:02:42.162184,Stage of Elimination - 2023-24 Stage of Elimination - Atlanta Falcons - Stage of Elimination,To Miss the Playoffs,-0.02079999999999993,0.5348,0.5556
-2023-08-09 13:02:31.374482,Round Match-Ups - Parlays - 1st Round Match-Up - S. Straka vs K. Bradley - 1st Round Match-Up,Sepp Straka,-0.02169999999999994,0.5238,0.5455
 2023-08-09 13:02:31.669638,Round Match-Ups - 1st Round Match-Up - D. Burmester v S. Munoz - 1st Round Match-Up,Sebastian Munoz,-0.02169999999999994,0.5238,0.5455
-2023-08-09 07:02:08.650516,Tournament Match-Ups - Parlays - Tournament Match-Up - M. Homa vs C. Young - Tournament Match-Up,Max Homa,-0.02169999999999994,0.5238,0.5455
+2023-08-09 13:02:31.374482,Round Match-Ups - Parlays - 1st Round Match-Up - S. Straka vs K. Bradley - 1st Round Match-Up,Sepp Straka,-0.02169999999999994,0.5238,0.5455
+2023-08-09 19:03:43.155443,Scores - 1st Round Score - Matt Fitzpatrick - 1st Round Score,Under 68.5,-0.021699999999999997,0.4545,0.4762
+2023-08-09 18:02:37.773264,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning State,Field,-0.02200000000000002,0.6923,0.7143
 2023-08-09 08:04:30.457938,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Nottingham Forest,-0.022199999999999998,0.7778,0.8
 2023-08-09 14:02:26.079123,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-09 11:02:07.898211,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-09 15:05:49.677660,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-09 16:04:33.892779,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-09 17:01:55.099254,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-09 18:02:43.381381,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-09 10:02:09.381880,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-09 12:01:59.448032,Regular Season Wins O/U - 2023 Regular Season Wins - Minnesota Lynx,Over 18.5,-0.022600000000000064,0.5122,0.5348
-2023-08-09 09:03:12.569272,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-09 13:02:29.897005,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-09 12:02:03.708822,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-09 10:02:09.381880,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-09 15:05:49.677660,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-09 09:03:12.569272,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-09 17:01:55.099254,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-09 16:04:33.892779,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-09 18:02:43.381381,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-09 08:04:37.410043,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-09 07:02:07.235573,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-09 19:03:40.182838,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-09 12:01:59.448032,Regular Season Wins O/U - 2023 Regular Season Wins - Minnesota Lynx,Over 18.5,-0.022600000000000064,0.5122,0.5348
+2023-08-09 11:02:07.898211,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-09 12:02:03.708822,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-09 08:04:30.451781,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,West Ham United,-0.023799999999999988,0.4762,0.5
 2023-08-09 11:02:09.766971,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Over 68.5,-0.023799999999999988,0.4762,0.5
 2023-08-09 09:03:07.148507,Copa Sudamericana - Copa Sudamericana 2023 - Outright,São Paulo,-0.023799999999999988,0.1429,0.1667
-2023-08-09 08:04:30.451781,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,West Ham United,-0.023799999999999988,0.4762,0.5
+2023-08-09 16:04:37.682783,Round Match-Ups - Parlays - 1st Round Match-Up - S. Straka vs K. Bradley - 1st Round Match-Up,Sepp Straka,-0.023800000000000043,0.5,0.5238
 2023-08-09 17:01:54.238825,Stage of Elimination - 2023-24 Stage of Elimination - Miami Dolphins - Stage of Elimination,To Miss the Playoffs,-0.023800000000000043,0.5,0.5238
 2023-08-09 11:02:09.791054,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Over 68.5,-0.023800000000000043,0.5,0.5238
-2023-08-09 16:04:37.682783,Round Match-Ups - Parlays - 1st Round Match-Up - S. Straka vs K. Bradley - 1st Round Match-Up,Sepp Straka,-0.023800000000000043,0.5,0.5238
 2023-08-09 09:03:07.425807,Premier League Futures/Specials - English Premier League 2023/24 - Season Match Bets - Season Match Bet - Liverpool vs. Man Utd,Manchester United,-0.024399999999999977,0.4878,0.5122
 2023-08-09 17:01:54.187506,Stage of Elimination - 2023-24 Stage of Elimination - Cincinnati Bengals - Stage of Elimination,To Lose in Divisional Round,-0.024800000000000016,0.2105,0.2353
-2023-08-09 07:02:08.339286,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Spencer Strider (ATL),-0.026100000000000012,0.1739,0.2
 2023-08-09 09:03:07.272460,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Gabriel Jesus,-0.026499999999999996,0.0323,0.0588
 2023-08-09 17:01:54.274762,Stage of Elimination - 2023-24 Stage of Elimination - Tampa Bay Buccaneers - Stage of Elimination,To Lose in Wildcard Round,-0.0267,0.1333,0.16
 2023-08-09 08:04:30.451781,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Everton,-0.02779999999999999,0.2222,0.25
@@ -260,17 +251,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-09 09:03:07.381019,Premier League Futures/Specials - English Premier League 2023/24 - Season Match Bets - Season Match Bet - Aston Villa vs. Brighton,Brighton & Hove Albion,-0.033399999999999985,0.5744,0.6078
 2023-08-09 18:02:42.177543,Stage of Elimination - 2023-24 Stage of Elimination - Carolina Panthers - Stage of Elimination,To Miss the Playoffs,-0.03469999999999995,0.6875,0.7222
 2023-08-09 09:03:07.369659,Premier League Futures/Specials - English Premier League 2023/24 - Season Match Bets - Season Match Bet - Arsenal vs. Man Utd,Manchester United,-0.03489999999999999,0.4651,0.5
-2023-08-09 18:02:43.207338,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Los Angeles Chargers,No,-0.035999999999999976,0.4762,0.5122
 2023-08-09 18:02:42.230901,Stage of Elimination - 2023-24 Stage of Elimination - Los Angeles Chargers - Stage of Elimination,To Miss the Playoffs,-0.035999999999999976,0.4762,0.5122
+2023-08-09 18:02:43.207338,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Los Angeles Chargers,No,-0.035999999999999976,0.4762,0.5122
 2023-08-09 09:03:08.400007,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Republican,-0.03600000000000003,0.4878,0.5238
 2023-08-09 09:03:07.420258,Premier League Futures/Specials - English Premier League 2023/24 - Season Match Bets - Season Match Bet - Everton vs. Wolves,Wolverhampton Wanderers,-0.03600000000000003,0.4878,0.5238
 2023-08-09 18:02:43.235665,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - New York Jets,Yes,-0.03610000000000002,0.5556,0.5917
 2023-08-09 08:04:30.455018,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Aston Villa,-0.03640000000000004,0.3636,0.4
 2023-08-09 08:04:30.457938,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Sheffield United,-0.0378,0.4167,0.4545
 2023-08-09 13:02:24.979131,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Luton Town,-0.0393,0.3774,0.4167
-2023-08-09 07:02:08.343296,MLB Futures - MLB 2023 Player Awards - National League MVP,Ronald Acuña Jr.,-0.043300000000000005,0.9091,0.9524
 2023-08-09 11:02:09.776529,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Over 68.5,-0.043399999999999994,0.4444,0.4878
-2023-08-09 07:02:08.318680,MLB Futures - MLB 2023 National League Central - National League Central Winner,Cincinnati Reds,-0.04999999999999999,0.2,0.25
 2023-08-09 12:01:59.458349,Regular Season Wins O/U - 2023 Regular Season Wins - Washington Mystics,Over 22.5,-0.05509999999999998,0.3704,0.4255
 2023-08-09 18:02:43.125077,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Atlanta Falcons,No,-0.05689999999999995,0.5348,0.5917
 2023-08-09 14:02:27.123485,CFL Specials - EDM Elks First Home Win - Proposition,WPG Blue Bombers,-0.0587,0.1739,0.2326
