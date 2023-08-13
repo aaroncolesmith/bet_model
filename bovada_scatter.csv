@@ -1,18 +1,13 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Steven Alker,0.1587,0.3125,0.1538
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Stephen Ames,0.1524,0.2857,0.1333
 2023-08-13 10:03:11.695597,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Triston Casas (BOS),0.12310000000000001,0.2,0.0769
 2023-08-13 09:04:04.847026,National League - England National League 2023/24 - Outright,Chesterfield,0.11780000000000002,0.4255,0.3077
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Miguel Angel Jimenez,0.0889,0.2222,0.1333
 2023-08-13 10:03:01.528993,La Liga - Spain La Liga 2023/24 - To Be Relegated,Sevilla,0.0715,0.1429,0.0714
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Timothy ONeal,0.0703,0.0769,0.0066
 2023-08-13 10:03:01.777339,Eredivisie - Dutch Eredivisie 2023/24 - To Be Relegated,PEC Zwolle,0.06779999999999997,0.5122,0.4444
 2023-08-13 10:03:01.503618,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Rennes,0.05130000000000001,0.3846,0.3333
 2023-08-13 10:03:01.528993,La Liga - Spain La Liga 2023/24 - To Be Relegated,Getafe,0.04999999999999999,0.25,0.2
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Dicky Pride,0.0465,0.0588,0.0123
 2023-08-13 09:04:04.697541,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Botafogo,0.04620000000000002,0.5917,0.5455
-2023-08-13 10:03:01.604740,Championship - England Championship 2023/24 - Top Goalscorer,Adam Armstrong,0.04440000000000001,0.1111,0.0667
 2023-08-13 10:03:01.696412,League One - England - League One 2023/24 - Top Goalscorer,Dion Charles,0.04440000000000001,0.1111,0.0667
+2023-08-13 10:03:01.604740,Championship - England Championship 2023/24 - Top Goalscorer,Adam Armstrong,0.04440000000000001,0.1111,0.0667
 2023-08-13 10:03:11.701151,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Logan Webb (SF),0.042899999999999994,0.1429,0.1
 2023-08-13 10:03:01.507547,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Lille,0.035699999999999954,0.75,0.7143
 2023-08-13 10:03:01.532531,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Celta de Vigo,0.0334,0.0769,0.0435
@@ -28,34 +23,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-13 15:05:27.777854,Season Player Specials - NFL 2023-24 Receiving TDs - Brandon Aiyuk 2023-24 Regular Season Total Receiving TDs,Over 5.5,0.024399999999999977,0.5122,0.4878
 2023-08-13 10:03:01.532531,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Valencia,0.0242,0.0909,0.0667
 2023-08-13 09:04:04.847026,National League - England National League 2023/24 - Outright,Barnet,0.0242,0.0909,0.0667
+2023-08-13 15:05:27.808612,Season Player Specials - NFL 2023-24 Receiving TDs - Christian Kirk 2023-24 Regular Season Total Receiving TDs,Under 4.5,0.023800000000000043,0.5238,0.5
 2023-08-13 12:02:19.165523,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - B. Hossler v A. Hadwin - Final Round 2 Balls,Adam Hadwin,0.023800000000000043,0.5238,0.5
 2023-08-13 12:02:19.143546,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - B. Todd v E. Cole - Final Round 2 Balls,Eric Cole,0.023800000000000043,0.5238,0.5
-2023-08-13 15:05:27.808612,Season Player Specials - NFL 2023-24 Receiving TDs - Christian Kirk 2023-24 Regular Season Total Receiving TDs,Under 4.5,0.023800000000000043,0.5238,0.5
 2023-08-13 10:03:01.503618,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Lille,0.023800000000000043,0.5238,0.5
 2023-08-13 10:03:01.528993,La Liga - Spain La Liga 2023/24 - To Be Relegated,Celta de Vigo,0.023799999999999988,0.1667,0.1429
 2023-08-13 10:03:01.503618,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Nantes,0.0236,0.0385,0.0149
 2023-08-13 10:03:01.532531,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Getafe,0.023200000000000002,0.0476,0.0244
 2023-08-13 09:04:04.847026,National League - England National League 2023/24 - Outright,Southend Utd,0.0232,0.0667,0.0435
 2023-08-13 13:04:55.980680,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - T. Kim v E. Grillo - Final Round 2 Balls,Emiliano Grillo,0.022699999999999998,0.4878,0.4651
-2023-08-13 09:04:12.444009,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-13 08:05:18.566837,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-13 11:02:16.752793,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-13 19:04:28.956258,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - T. Moore v L. Glover - Final Round 2 Balls,Lucas Glover,0.022600000000000064,0.5348,0.5122
+2023-08-13 15:05:27.795731,Season Player Specials - NFL 2023-24 Receiving TDs - Chris Godwin 2023-24 Regular Season Total Receiving TDs,Under 4.5,0.022600000000000064,0.5348,0.5122
+2023-08-13 18:02:22.697441,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-13 17:05:46.974353,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-13 16:07:41.204668,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-13 15:05:33.531240,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - T. Fleetwood v M. Homa - Final Round 2 Balls,Tommy Fleetwood,0.022600000000000064,0.5348,0.5122
+2023-08-13 15:05:31.009039,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-13 19:04:26.554976,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-13 08:05:20.518726,Scores - Final Round Score - Patrick Cantlay - Final Round Score,Over 67.5,0.022600000000000064,0.5348,0.5122
 2023-08-13 19:04:18.606300,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Manchester City,0.022600000000000064,0.6226,0.6
+2023-08-13 08:05:18.566837,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-13 09:04:12.444009,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-13 10:03:09.466823,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-13 07:04:35.315294,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-13 14:04:06.348192,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-13 08:05:20.513518,Scores - Final Round Score - Lucas Glover - Final Round Score,Over 68.5,0.022600000000000064,0.5348,0.5122
+2023-08-13 11:02:16.752793,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-13 12:02:17.559213,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-13 13:04:54.337559,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-13 15:05:31.009039,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-13 16:07:41.204668,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-13 17:05:46.974353,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-13 18:02:22.697441,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-13 19:04:26.554976,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-13 08:05:20.513518,Scores - Final Round Score - Lucas Glover - Final Round Score,Over 68.5,0.022600000000000064,0.5348,0.5122
-2023-08-13 08:05:20.518726,Scores - Final Round Score - Patrick Cantlay - Final Round Score,Over 67.5,0.022600000000000064,0.5348,0.5122
-2023-08-13 15:05:27.795731,Season Player Specials - NFL 2023-24 Receiving TDs - Chris Godwin 2023-24 Regular Season Total Receiving TDs,Under 4.5,0.022600000000000064,0.5348,0.5122
-2023-08-13 15:05:33.531240,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - T. Fleetwood v M. Homa - Final Round 2 Balls,Tommy Fleetwood,0.022600000000000064,0.5348,0.5122
+2023-08-13 14:04:06.348192,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-13 20:03:15.825723,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-13 10:03:01.507547,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Monaco,0.02200000000000002,0.7143,0.6923
 2023-08-13 10:03:01.493080,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Marseille,0.021999999999999964,0.3077,0.2857
 2023-08-13 10:03:01.532531,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Villarreal,0.021999999999999964,0.3077,0.2857
@@ -75,13 +70,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-13 08:05:20.503880,Scores - Final Round Score - Jon Rahm - Final Round Score,Over 67.5,0.018900000000000028,0.4444,0.4255
 2023-08-13 15:05:27.765508,Season Player Specials - NFL 2023-24 Receiving TDs - Amari Cooper 2023-24 Regular Season Total Receiving TDs,Under 6.5,0.01880000000000004,0.5744,0.5556
 2023-08-13 10:03:01.532531,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Rayo Vallecano,0.018200000000000004,0.0476,0.0294
-2023-08-13 13:04:55.938006,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - S. Theegala v K. Kitayama - Final Round 2 Balls,Sahith Theegala,0.018100000000000005,0.5833,0.5652
 2023-08-13 08:05:20.523675,Scores - Final Round Score - Rory McIlroy - Final Round Score,Over 67.5,0.018100000000000005,0.4348,0.4167
+2023-08-13 13:04:55.938006,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - S. Theegala v K. Kitayama - Final Round 2 Balls,Sahith Theegala,0.018100000000000005,0.5833,0.5652
 2023-08-13 10:03:01.588422,DFB Pokal - Germany DFB Pokal 2023/24 - Winner,RB Leipzig,0.0179,0.1429,0.125
 2023-08-13 09:04:04.790314,First Division A - Belgium First Division A 2023/24 - Outright,Union Saint-Gilloise,0.0179,0.1429,0.125
 2023-08-13 08:05:20.221861,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Houston Astros,0.0174,0.25,0.2326
 2023-08-13 08:05:20.221861,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Texas Rangers,0.0174,0.25,0.2326
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Notah Begay III,0.0169,0.0179,0.001
 2023-08-13 08:05:20.221861,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Seattle Mariners,0.016700000000000007,0.1,0.0833
 2023-08-13 09:04:04.836620,Superettan - Superettan 2023 - Winner,Utsiktens,0.015400000000000025,0.4,0.3846
 2023-08-13 09:04:04.618646,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Osasuna,0.015300000000000001,0.0476,0.0323
@@ -90,47 +84,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-13 10:03:01.604740,Championship - England Championship 2023/24 - Top Goalscorer,Che Adams,0.013999999999999999,0.0909,0.0769
 2023-08-13 09:04:04.618646,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Villarreal,0.013899999999999996,0.125,0.1111
 2023-08-13 10:03:01.744072,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Copenhagen,0.013799999999999923,0.6364,0.6226
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Tim Herron,0.013699999999999999,0.0278,0.0141
 2023-08-13 09:04:04.713992,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,RB Bragantino,0.012199999999999989,0.5122,0.5
 2023-08-13 10:03:01.777339,Eredivisie - Dutch Eredivisie 2023/24 - To Be Relegated,RKC Waalwijk,0.011700000000000016,0.2222,0.2105
 2023-08-13 15:05:27.856752,Season Player Specials - NFL 2023-24 Receiving TDs - DeAndre Hopkins 2023-24 Regular Season Total Receiving TDs,Under 4.5,0.011600000000000055,0.5238,0.5122
 2023-08-13 19:04:18.606300,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Chelsea,0.011199999999999995,0.0588,0.0476
-2023-08-13 09:04:04.705002,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Internacional,0.011199999999999995,0.0588,0.0476
 2023-08-13 10:03:01.696412,League One - England - League One 2023/24 - Top Goalscorer,Shayne Lavery,0.011199999999999995,0.0588,0.0476
+2023-08-13 09:04:04.705002,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Internacional,0.011199999999999995,0.0588,0.0476
 2023-08-13 09:04:04.836620,Superettan - Superettan 2023 - Winner,GAIS,0.011099999999999999,0.1111,0.1
 2023-08-13 10:03:11.650374,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,0.010899999999999993,0.1538,0.1429
-2023-08-13 07:04:35.175196,Regular Season Wins - 2023-24 Exact Regular Season Wins - Colorado - Exact Regular Season Wins,7 or more,0.010700000000000001,0.0385,0.0278
 2023-08-13 08:05:17.625473,Team Specials - Chicago Bears - CHI Bears Specials,Chicago Bears to score 1+ Passing Touchdown in every Regular Season Game,0.010700000000000001,0.0385,0.0278
 2023-08-13 10:03:01.718135,League Two - England - League Two 2023/24 - Top Goalscorer,Mohamed Eisa,0.0102,0.0769,0.0667
 2023-08-13 09:04:04.713992,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Grêmio,0.010099999999999998,0.5556,0.5455
 2023-08-13 15:05:27.856752,Season Player Specials - NFL 2023-24 Receiving TDs - DeAndre Hopkins 2023-24 Regular Season Total Receiving TDs,Over 4.5,-0.010099999999999998,0.5455,0.5556
-2023-08-13 10:03:01.604740,Championship - England Championship 2023/24 - Top Goalscorer,Patson Daka,-0.0102,0.0667,0.0769
-2023-08-13 10:03:01.604740,Championship - England Championship 2023/24 - Top Goalscorer,Jamie Vardy,-0.0102,0.0667,0.0769
 2023-08-13 09:04:04.708725,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Internacional,-0.0102,0.0667,0.0769
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Paul Goydos,-0.0108,0.0033,0.0141
+2023-08-13 10:03:01.604740,Championship - England Championship 2023/24 - Top Goalscorer,Jamie Vardy,-0.0102,0.0667,0.0769
+2023-08-13 10:03:01.604740,Championship - England Championship 2023/24 - Top Goalscorer,Patson Daka,-0.0102,0.0667,0.0769
 2023-08-13 10:03:01.718135,League Two - England - League Two 2023/24 - Top Goalscorer,David McGoldrick,-0.011099999999999999,0.1,0.1111
 2023-08-13 13:04:55.938006,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - S. Theegala v K. Kitayama - Final Round 2 Balls,Kurt Kitayama,-0.011099999999999999,0.4651,0.4762
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Ernie Els,-0.011199999999999995,0.0323,0.0435
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Paul Broadhurst,-0.011300000000000001,0.001,0.0123
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Ken Tanigawa,-0.011300000000000001,0.001,0.0123
 2023-08-13 10:03:01.507547,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Lyon,-0.011499999999999955,0.6552,0.6667
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Rod Pampling,-0.0118,0.0005,0.0123
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Robert Karlsson,-0.0119,0.0004,0.0123
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Keith Horne,-0.0121,0.002,0.0141
 2023-08-13 08:05:20.221861,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Toronto Blue Jays,-0.012299999999999991,0.1053,0.1176
 2023-08-13 08:05:20.503880,Scores - Final Round Score - Jon Rahm - Final Round Score,Under 67.5,-0.013799999999999923,0.6226,0.6364
 2023-08-13 10:03:01.696412,League One - England - League One 2023/24 - Top Goalscorer,Kabongo Tshimanga,-0.014099999999999994,0.0526,0.0667
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Kevin Sutherland,-0.01440000000000001,0.0909,0.1053
 2023-08-13 19:04:18.606300,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Arsenal,-0.015100000000000002,0.1667,0.1818
 2023-08-13 10:03:11.658998,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,-0.016000000000000014,0.3922,0.4082
-2023-08-13 09:04:04.836620,Superettan - Superettan 2023 - Winner,Östers IF,-0.018099999999999998,0.0588,0.0769
 2023-08-13 09:04:04.697541,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Fluminense,-0.018099999999999998,0.0588,0.0769
+2023-08-13 09:04:04.836620,Superettan - Superettan 2023 - Winner,Östers IF,-0.018099999999999998,0.0588,0.0769
 2023-08-13 13:04:55.980680,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - T. Kim v E. Grillo - Final Round 2 Balls,Tom Kim,-0.018100000000000005,0.5652,0.5833
 2023-08-13 10:03:11.675308,MLB Futures - MLB 2023 National League Central - National League Central Winner,Cincinnati Reds,-0.01820000000000002,0.1818,0.2
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Colin Montgomerie,-0.0186,0.001,0.0196
 2023-08-13 15:05:27.777854,Season Player Specials - NFL 2023-24 Receiving TDs - Brandon Aiyuk 2023-24 Regular Season Total Receiving TDs,Under 5.5,-0.01880000000000004,0.5556,0.5744
-2023-08-13 10:03:01.503618,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Toulouse,-0.0189,0.0196,0.0385
 2023-08-13 09:04:04.847026,National League - England National League 2023/24 - Outright,Dagenham & Redbridge,-0.0189,0.0196,0.0385
+2023-08-13 10:03:01.503618,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Toulouse,-0.0189,0.0196,0.0385
 2023-08-13 10:03:01.528993,La Liga - Spain La Liga 2023/24 - To Be Relegated,Cádiz,-0.018900000000000028,0.4255,0.4444
 2023-08-13 10:03:01.777339,Eredivisie - Dutch Eredivisie 2023/24 - To Be Relegated,Sparta Rotterdam,-0.019099999999999992,0.0476,0.0667
 2023-08-13 09:04:04.847026,National League - England National League 2023/24 - Outright,Rochdale,-0.019099999999999992,0.0476,0.0667
@@ -138,74 +121,61 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-13 08:05:20.523675,Scores - Final Round Score - Rory McIlroy - Final Round Score,Under 67.5,-0.019499999999999962,0.6296,0.6491
 2023-08-13 15:05:27.808612,Season Player Specials - NFL 2023-24 Receiving TDs - Christian Kirk 2023-24 Regular Season Total Receiving TDs,Over 4.5,-0.01970000000000005,0.5455,0.5652
 2023-08-13 09:04:04.618646,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Athletic Bilbao,-0.02020000000000001,0.0909,0.1111
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Paul Stankowski,-0.0204,0.004,0.0244
-2023-08-13 10:03:11.701151,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Justin Steele (CHC),-0.02049999999999999,0.1333,0.1538
 2023-08-13 09:04:04.713992,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Internacional,-0.02049999999999999,0.1333,0.1538
-2023-08-13 08:05:20.513518,Scores - Final Round Score - Lucas Glover - Final Round Score,Under 68.5,-0.02079999999999993,0.5348,0.5556
-2023-08-13 08:05:20.518726,Scores - Final Round Score - Patrick Cantlay - Final Round Score,Under 67.5,-0.02079999999999993,0.5348,0.5556
+2023-08-13 10:03:11.701151,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Justin Steele (CHC),-0.02049999999999999,0.1333,0.1538
 2023-08-13 15:05:27.795731,Season Player Specials - NFL 2023-24 Receiving TDs - Chris Godwin 2023-24 Regular Season Total Receiving TDs,Over 4.5,-0.02079999999999993,0.5348,0.5556
+2023-08-13 08:05:20.518726,Scores - Final Round Score - Patrick Cantlay - Final Round Score,Under 67.5,-0.02079999999999993,0.5348,0.5556
+2023-08-13 08:05:20.513518,Scores - Final Round Score - Lucas Glover - Final Round Score,Under 68.5,-0.02079999999999993,0.5348,0.5556
 2023-08-13 10:03:01.777339,Eredivisie - Dutch Eredivisie 2023/24 - To Be Relegated,Excelsior Maassluis,-0.02100000000000002,0.3636,0.3846
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Alex Cejka,-0.0211,0.0033,0.0244
-2023-08-13 12:02:19.143546,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - B. Todd v E. Cole - Final Round 2 Balls,Brendon Todd,-0.02169999999999994,0.5238,0.5455
 2023-08-13 12:02:19.165523,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - B. Hossler v A. Hadwin - Final Round 2 Balls,Beau Hossler,-0.02169999999999994,0.5238,0.5455
-2023-08-13 11:02:16.760252,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-13 12:02:17.566432,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-13 10:03:09.485364,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-13 14:04:06.363536,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-13 09:04:12.454579,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-13 15:05:31.023914,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-13 08:05:18.574771,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-13 12:02:19.143546,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - B. Todd v E. Cole - Final Round 2 Balls,Brendon Todd,-0.02169999999999994,0.5238,0.5455
 2023-08-13 16:07:41.224848,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-13 07:04:35.327571,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-13 19:04:28.956258,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - T. Moore v L. Glover - Final Round 2 Balls,Taylor Moore,-0.022600000000000064,0.5122,0.5348
-2023-08-13 17:05:46.998373,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-13 15:05:33.531240,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - T. Fleetwood v M. Homa - Final Round 2 Balls,Max Homa,-0.022600000000000064,0.5122,0.5348
-2023-08-13 18:02:22.705359,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-13 14:04:06.363536,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-13 15:05:31.023914,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-13 08:05:20.508828,Scores - Final Round Score - Jordan Spieth - Final Round Score,Under 67.5,-0.022600000000000064,0.5122,0.5348
+2023-08-13 17:05:46.998373,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-13 18:02:22.705359,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-13 19:04:26.568297,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-13 20:03:15.836544,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-13 15:05:33.531240,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - T. Fleetwood v M. Homa - Final Round 2 Balls,Max Homa,-0.022600000000000064,0.5122,0.5348
+2023-08-13 12:02:17.566432,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-13 13:04:54.347006,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-13 09:04:12.454579,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-13 11:02:16.760252,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-13 19:04:28.956258,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - T. Moore v L. Glover - Final Round 2 Balls,Taylor Moore,-0.022600000000000064,0.5122,0.5348
+2023-08-13 10:03:09.485364,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-13 08:05:18.574771,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-13 09:04:04.847026,National League - England National League 2023/24 - Outright,AFC Fylde,-0.023200000000000002,0.0244,0.0476
 2023-08-13 09:04:04.847026,National League - England National League 2023/24 - Outright,Bromley,-0.023200000000000002,0.0244,0.0476
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Richard Green,-0.0233,0.0152,0.0385
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Harrison Frazar,-0.0234,0.001,0.0244
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Justin Leonard,-0.023700000000000002,0.0007,0.0244
+2023-08-13 08:05:20.485174,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - R. McIlroy v P. Cantlay - Final Round 2 Balls,Patrick Cantlay,-0.023799999999999988,0.4762,0.5
 2023-08-13 10:03:01.528993,La Liga - Spain La Liga 2023/24 - To Be Relegated,Las Palmas,-0.023799999999999988,0.4762,0.5
 2023-08-13 15:05:33.525412,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - V. Hovland v J. Spieth - Final Round 2 Balls,Jordan Spieth,-0.023799999999999988,0.4762,0.5
-2023-08-13 08:05:20.485174,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - R. McIlroy v P. Cantlay - Final Round 2 Balls,Patrick Cantlay,-0.023799999999999988,0.4762,0.5
 2023-08-13 12:02:19.200946,Round Match-Ups - Final Round Match-Ups - J. Day v M. Fitzpatrick - Final Round Match-Ups ,Jason Day,-0.023800000000000043,0.5,0.5238
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Brett Quigley,-0.024,0.0004,0.0244
 2023-08-13 10:03:01.604740,Championship - England Championship 2023/24 - Top Goalscorer,Chuba Akpom,-0.0242,0.0667,0.0909
-2023-08-13 15:05:27.765508,Season Player Specials - NFL 2023-24 Receiving TDs - Amari Cooper 2023-24 Regular Season Total Receiving TDs,Over 6.5,-0.024399999999999977,0.4878,0.5122
 2023-08-13 15:05:33.467937,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - J.T. Poston v S. Jaeger - Final Round 2 Balls,Stephan Jaeger,-0.024399999999999977,0.4878,0.5122
+2023-08-13 15:05:27.765508,Season Player Specials - NFL 2023-24 Receiving TDs - Amari Cooper 2023-24 Regular Season Total Receiving TDs,Over 6.5,-0.024399999999999977,0.4878,0.5122
 2023-08-13 10:03:01.777339,Eredivisie - Dutch Eredivisie 2023/24 - To Be Relegated,Go Ahead Eagles,-0.024999999999999994,0.1,0.125
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Marco Dawson,-0.027299999999999998,0.0005,0.0278
 2023-08-13 09:04:04.847026,National League - England National League 2023/24 - Outright,Solihull Moors,-0.028000000000000004,0.0196,0.0476
-2023-08-13 10:03:01.503618,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Reims,-0.028199999999999996,0.0385,0.0667
 2023-08-13 09:04:04.847026,National League - England National League 2023/24 - Outright,Hartlepool United,-0.028199999999999996,0.0385,0.0667
+2023-08-13 10:03:01.503618,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Reims,-0.028199999999999996,0.0385,0.0667
 2023-08-13 10:03:11.706593,MLB Futures - MLB 2023 Player Awards - National League MVP,Ronald Acuña Jr.,-0.028299999999999992,0.8948,0.9231
 2023-08-13 09:04:04.618646,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Sevilla,-0.02840000000000001,0.0769,0.1053
 2023-08-13 09:04:04.697541,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Palmeiras,-0.028599999999999987,0.2381,0.2667
 2023-08-13 10:03:01.503618,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Marseille,-0.030299999999999994,0.6364,0.6667
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,KJ Choi,-0.032400000000000005,0.0152,0.0476
 2023-08-13 10:03:11.658998,MLB Futures - MLB 2023 American League East - American League East Winner,Toronto Blue Jays,-0.03330000000000001,0.0667,0.1
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Woody Austin,-0.0335,0.005,0.0385
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Y E Yang,-0.0335,0.005,0.0385
 2023-08-13 10:03:01.532531,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Madrid,-0.034399999999999986,0.9412,0.9756
 2023-08-13 10:03:01.528993,La Liga - Spain La Liga 2023/24 - To Be Relegated,Alavés,-0.03640000000000004,0.3636,0.4
 2023-08-13 09:04:04.847026,National League - England National League 2023/24 - Outright,York City,-0.0384,0.0385,0.0769
 2023-08-13 10:03:11.682771,MLB Futures - MLB 2023 National League West - National League West Winner,San Francisco Giants,-0.0391,0.0323,0.0714
 2023-08-13 10:03:11.675308,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,-0.04290000000000005,0.3571,0.4
 2023-08-13 10:03:01.532531,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Athletic Bilbao,-0.044499999999999984,0.2222,0.2667
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Fred Couples,-0.0447,0.0141,0.0588
 2023-08-13 13:04:55.893455,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - M. NeSmith v T. Montgomery - Final Round 2 Balls,Taylor Montgomery,-0.04760000000000003,0.4762,0.5238
 2023-08-13 10:03:01.503618,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Lens,-0.05559999999999998,0.4444,0.5
 2023-08-13 10:03:01.507547,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Lens,-0.05910000000000004,0.6552,0.7143
 2023-08-13 10:03:11.695597,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Masataka Yoshida (BOS),-0.0625,0.25,0.3125
 2023-08-13 10:03:01.532531,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Sociedad,-0.06270000000000003,0.3077,0.3704
 2023-08-13 10:03:01.528993,La Liga - Spain La Liga 2023/24 - To Be Relegated,Granada,-0.06519999999999998,0.2857,0.3509
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Jerry Kelly,-0.0662,0.0005,0.0667
 2023-08-13 10:03:01.532531,La Liga - Spain La Liga 2023/24 - Top 4 Finish,FC Barcelona,-0.0665,0.9091,0.9756
-2023-08-13 07:04:39.014934,Boeing Classic - Boeing Classic - Winner,Bernhard Langer,-0.07220000000000001,0.0278,0.1
 2023-08-13 10:03:01.507547,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Nice,-0.07440000000000002,0.5,0.5744
 2023-08-13 10:03:01.532531,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Betis,-0.07500000000000001,0.125,0.2
 2023-08-13 10:03:01.528993,La Liga - Spain La Liga 2023/24 - To Be Relegated,Mallorca,-0.0847,0.2857,0.3704
