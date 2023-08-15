@@ -1,6 +1,10 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-15 11:05:23.130756,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Hinata Miyazawa,0.26539999999999997,0.8571,0.5917
+2023-08-15 12:03:36.890393,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,Spain (W) 1st / England (W) 2nd,0.2454,0.3704,0.125
+2023-08-15 12:03:36.890393,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,Spain (W) 1st / Australia (W) 2nd,0.2,0.2667,0.0667
+2023-08-15 12:03:36.890393,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,England (W) 1st / Spain (W) 2nd,0.1875,0.3125,0.125
 2023-08-15 11:05:23.127937,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Spain (W),0.18330000000000002,0.5833,0.4
+2023-08-15 12:03:36.890393,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Straight Forecast,Australia (W) 1st / Spain (W) 2nd,0.15650000000000003,0.2,0.0435
 2023-08-15 09:04:01.837152,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Palmeiras,0.05709999999999993,0.8571,0.8
 2023-08-15 08:05:20.061507,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Crystal Palace,0.055499999999999994,0.3333,0.2778
 2023-08-15 08:05:21.341845,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,0.05349999999999999,0.8182,0.7647
@@ -16,43 +20,43 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-15 08:05:20.067353,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Bournemouth,0.03260000000000007,0.8,0.7674
 2023-08-15 08:05:20.058536,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Chelsea,0.025600000000000067,0.6923,0.6667
 2023-08-15 08:05:20.067353,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Fulham,0.025000000000000022,0.9,0.875
-2023-08-15 08:05:20.061507,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Nottingham Forest,0.023799999999999988,0.1667,0.1429
 2023-08-15 08:05:20.055587,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Brighton & Hove Albion,0.023799999999999988,0.1667,0.1429
-2023-08-15 07:05:34.659703,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-15 01:02:21.836422,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-15 03:03:34.587115,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-15 04:01:54.560874,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-15 05:03:19.643252,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-15 06:03:33.125010,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-15 00:03:31.067691,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-15 08:05:25.978976,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-15 02:03:22.217084,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-15 08:05:20.061507,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Nottingham Forest,0.023799999999999988,0.1667,0.1429
 2023-08-15 09:04:09.422112,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-15 03:03:34.587115,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-15 06:03:33.125010,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-15 07:05:34.659703,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-15 08:05:25.978976,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-15 05:03:19.643252,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-15 10:02:42.928782,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-15 11:05:30.163142,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-15 02:03:22.217084,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-15 12:03:43.324195,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-15 01:02:21.836422,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-15 04:01:54.560874,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-15 04:01:48.732183,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Randers,0.022199999999999998,0.2222,0.2
-2023-08-15 08:05:20.049724,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Nottingham Forest,0.021999999999999964,0.3077,0.2857
 2023-08-15 08:05:20.049724,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Everton,0.021999999999999964,0.3077,0.2857
 2023-08-15 09:04:01.707230,La Liga - Spain La Liga 2023/24 - To Be Relegated,Granada,0.021999999999999964,0.3077,0.2857
+2023-08-15 08:05:20.049724,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Nottingham Forest,0.021999999999999964,0.3077,0.2857
 2023-08-15 09:04:01.980918,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,FC Porto,0.021699999999999997,0.4762,0.4545
 2023-08-15 09:04:02.006498,Superettan - Superettan 2023 - Winner,Västerås SK,0.02169999999999994,0.5455,0.5238
 2023-08-15 09:04:01.841735,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Palmeiras,0.019100000000000006,0.9524,0.9333
 2023-08-15 09:04:02.015457,Professional League - Saudi Professional League 2023/24 - Winner,Al Hilal,0.019000000000000017,0.2857,0.2667
+2023-08-15 12:03:36.789480,Allsvenskan - Allsvenskan 2023 - Winner,IF Elfsborg,0.018900000000000028,0.4444,0.4255
 2023-08-15 09:04:01.832627,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Santos,0.01880000000000004,0.5744,0.5556
 2023-08-15 09:04:01.837152,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Athletico Paranaense,0.01820000000000002,0.2,0.1818
 2023-08-15 08:05:21.384240,US Presidential Election 2024 - US Presidential Election 2024 - Party Of Popular Vote Winner - Party of Popular Vote Winner,Democratic,0.018199999999999994,0.8182,0.8
 2023-08-15 01:02:13.521861,NBA Specials - Doncic v Wembanyama - First Matchup Specials - Points - H2H,Doncic -9.5 Points,0.018100000000000005,0.5833,0.5652
 2023-08-15 09:04:02.015457,Professional League - Saudi Professional League 2023/24 - Winner,Al Ittifaq Dammam,0.018099999999999998,0.0769,0.0588
 2023-08-15 08:05:20.064432,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Burnley,0.017900000000000027,0.875,0.8571
-2023-08-15 02:03:17.624704,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
 2023-08-15 04:01:50.077078,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-08-15 06:03:28.372514,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-08-15 00:03:26.247308,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-08-15 05:03:15.285807,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-08-15 02:03:17.624704,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
 2023-08-15 03:03:29.861970,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-08-15 01:02:14.265514,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-08-15 06:03:28.372514,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
 2023-08-15 09:04:01.709929,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Atlético Madrid,0.016700000000000048,0.75,0.7333
 2023-08-15 07:05:29.776699,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-08-15 01:02:14.265514,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-08-15 05:03:15.285807,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
 2023-08-15 09:04:02.001951,Super Lig - Turkey Super Lig 2023/24 - Winner,Besiktas,0.01629999999999998,0.2941,0.2778
 2023-08-15 08:05:20.064432,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Tottenham Hotspur,0.01469999999999999,0.25,0.2353
 2023-08-15 08:05:20.064432,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Sheffield United,0.014499999999999957,0.9901,0.9756
@@ -72,60 +76,61 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-15 08:05:20.049724,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Luton Town,0.010400000000000076,0.7778,0.7674
 2023-08-15 08:05:21.405726,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Vivek Ramaswamy,0.0102,0.0769,0.0667
 2023-08-15 08:05:27.631444,Boxing Lines - Cyrus Pattinson vs Conah Walker - To Win the Bout,Cyrus Pattinson,0.010199999999999987,0.9333,0.9231
-2023-08-15 02:03:23.812125,Boxing Lines - Cyrus Pattinson vs Conah Walker - To Win the Bout,Cyrus Pattinson,-0.010199999999999987,0.9231,0.9333
+2023-08-15 12:03:36.789480,Allsvenskan - Allsvenskan 2023 - Winner,Malmö FF,-0.010099999999999998,0.4444,0.4545
 2023-08-15 09:04:11.463520,Boxing Lines - Cyrus Pattinson vs Conah Walker - To Win the Bout,Cyrus Pattinson,-0.010199999999999987,0.9231,0.9333
+2023-08-15 02:03:23.812125,Boxing Lines - Cyrus Pattinson vs Conah Walker - To Win the Bout,Cyrus Pattinson,-0.010199999999999987,0.9231,0.9333
 2023-08-15 08:05:27.716492,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Robert MacIntyre,-0.0102,0.0667,0.0769
 2023-08-15 04:01:56.136338,Boxing Lines - Jordan Flynn vs Kane Baker - To Win the Bout,Kane Baker,-0.010499999999999982,0.2,0.2105
 2023-08-15 11:05:23.127937,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Australia (W),-0.010499999999999982,0.2,0.2105
 2023-08-15 09:04:11.468682,Boxing Lines - Galal Yafai vs Tommy Frank - To Win the Bout,Galal Yafai,-0.010699999999999932,0.9615,0.9722
-2023-08-15 08:05:20.061507,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Wolverhampton Wanderers,-0.010899999999999993,0.1429,0.1538
 2023-08-15 02:03:23.821988,Boxing Lines - Oleksandr Usyk vs Daniel Dubois - To Win the Bout,Daniel Dubois,-0.010899999999999993,0.1429,0.1538
+2023-08-15 08:05:20.061507,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Wolverhampton Wanderers,-0.010899999999999993,0.1429,0.1538
 2023-08-15 02:03:23.826782,Boxing Lines - Liam Smith vs Chris Eubank Jr - To Win the Bout,Liam Smith,-0.011700000000000044,0.6109,0.6226
 2023-08-15 09:04:01.837152,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,RB Bragantino,-0.012699999999999989,0.3509,0.3636
 2023-08-15 11:05:32.415356,Boxing Lines - Dennis McCann vs Ionut Baluta - To Win the Bout,Dennis McCann,-0.012899999999999912,0.8333,0.8462
 2023-08-15 09:04:11.431815,Boxing Lines - Dennis McCann vs Ionut Baluta - To Win the Bout,Dennis McCann,-0.012899999999999912,0.8333,0.8462
 2023-08-15 09:04:01.841735,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,RB Bragantino,-0.013799999999999923,0.6226,0.6364
-2023-08-15 04:01:48.735103,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Viborg FF,-0.013899999999999996,0.1111,0.125
 2023-08-15 09:04:01.841735,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Cruzeiro,-0.013899999999999996,0.1111,0.125
+2023-08-15 04:01:48.735103,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Viborg FF,-0.013899999999999996,0.1111,0.125
 2023-08-15 08:05:20.058536,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Arsenal,-0.014000000000000012,0.9091,0.9231
 2023-08-15 08:05:20.064432,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Bournemouth,-0.014000000000000012,0.9091,0.9231
 2023-08-15 08:05:20.064432,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Liverpool,-0.014100000000000001,0.0385,0.0526
 2023-08-15 09:04:02.006498,Superettan - Superettan 2023 - Winner,Jönköpings Södra IF,-0.014499999999999999,0.0149,0.0294
 2023-08-15 08:05:20.055587,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Tottenham Hotspur,-0.015100000000000002,0.1667,0.1818
 2023-08-15 08:05:20.055587,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Liverpool,-0.01539999999999997,0.6,0.6154
-2023-08-15 06:03:28.368259,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-08-15 12:03:36.789480,Allsvenskan - Allsvenskan 2023 - Winner,BK Häcken,-0.016699999999999993,0.25,0.2667
+2023-08-15 09:04:01.832627,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Vasco da Gama,-0.016700000000000048,0.7333,0.75
 2023-08-15 01:02:14.260364,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-08-15 00:03:26.243064,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-08-15 02:03:17.619336,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-08-15 06:03:28.368259,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-08-15 03:03:29.857645,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-08-15 08:05:20.055587,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Arsenal,-0.016700000000000048,0.7333,0.75
 2023-08-15 04:01:50.072820,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-08-15 05:03:15.281174,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-08-15 02:03:17.619336,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-08-15 08:05:20.055587,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Arsenal,-0.016700000000000048,0.7333,0.75
-2023-08-15 09:04:01.832627,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Vasco da Gama,-0.016700000000000048,0.7333,0.75
 2023-08-15 07:05:29.772156,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-08-15 08:05:21.389552,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,-0.0179,0.125,0.1429
 2023-08-15 08:05:20.058536,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Manchester United,-0.018199999999999994,0.8,0.8182
 2023-08-15 08:05:20.064432,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Arsenal,-0.018200000000000004,0.0294,0.0476
-2023-08-15 08:05:20.046412,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Erling Braut Haaland,-0.018999999999999906,0.7143,0.7333
 2023-08-15 08:05:20.064432,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Brentford,-0.018999999999999906,0.7143,0.7333
+2023-08-15 08:05:20.046412,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Erling Braut Haaland,-0.018999999999999906,0.7143,0.7333
 2023-08-15 02:03:16.780545,Season Player Props - Average Points Per Game During the 2023-24 Regular Season - Kristaps Porzingis (BOS) - Average Points Per Game,Over 20.5,-0.019699999999999995,0.4348,0.4545
 2023-08-15 08:05:20.067353,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Brentford,-0.020299999999999985,0.9412,0.9615
 2023-08-15 08:05:21.371931,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Field,-0.020799999999999985,0.3125,0.3333
 2023-08-15 11:05:23.127937,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,England (W),-0.020799999999999985,0.3125,0.3333
 2023-08-15 09:04:01.837152,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Flamengo,-0.02200000000000002,0.6923,0.7143
 2023-08-15 04:01:48.732183,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Hvidovre IF,-0.022199999999999998,0.7778,0.8
-2023-08-15 10:02:42.939516,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-15 11:05:30.174970,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-15 03:03:34.594764,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-15 12:03:43.331902,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-15 09:04:09.430214,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-15 00:03:31.079509,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-15 11:05:30.174970,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-15 04:01:54.570833,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-15 08:05:25.986848,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-15 01:02:21.853688,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-15 10:02:42.939516,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-15 07:05:34.670097,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-15 01:02:21.853688,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-15 06:03:33.134494,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-15 02:03:22.225409,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-15 05:03:19.651056,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-15 04:01:54.570833,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-15 06:03:33.134494,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-15 03:03:34.594764,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-15 08:05:20.058536,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,West Ham United,-0.02310000000000001,0.0769,0.1
 2023-08-15 08:05:20.058536,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Liverpool,-0.023799999999999932,0.8333,0.8571
 2023-08-15 09:04:01.980918,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,Benfica,-0.023799999999999988,0.4762,0.5
@@ -134,8 +139,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-15 08:05:21.384240,US Presidential Election 2024 - US Presidential Election 2024 - Party Of Popular Vote Winner - Party of Popular Vote Winner,Republican,-0.031399999999999983,0.2353,0.2667
 2023-08-15 08:05:20.064432,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Newcastle United,-0.03330000000000001,0.0667,0.1
 2023-08-15 09:04:01.837152,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Atlético Mineiro,-0.033300000000000024,0.1667,0.2
-2023-08-15 08:05:20.064432,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Brighton & Hove Albion,-0.03409999999999999,0.2326,0.2667
 2023-08-15 09:04:02.015457,Professional League - Saudi Professional League 2023/24 - Winner,Al Nassr,-0.03409999999999999,0.2326,0.2667
+2023-08-15 08:05:20.064432,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Brighton & Hove Albion,-0.03409999999999999,0.2326,0.2667
 2023-08-15 08:05:20.061507,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Chelsea,-0.034399999999999986,0.9412,0.9756
 2023-08-15 08:05:20.058536,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Aston Villa,-0.03570000000000001,0.25,0.2857
 2023-08-15 09:04:01.826452,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Botafogo,-0.03639999999999999,0.6,0.6364
@@ -145,8 +150,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-15 08:05:20.061507,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Everton,-0.03889999999999999,0.1429,0.1818
 2023-08-15 08:05:20.067353,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,West Ham United,-0.03920000000000001,0.9412,0.9804
 2023-08-15 08:05:21.389552,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Vivek Ramaswamy,-0.04169999999999999,0.125,0.1667
-2023-08-15 08:05:21.389552,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,-0.044500000000000095,0.7333,0.7778
 2023-08-15 08:05:20.064432,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Crystal Palace,-0.044500000000000095,0.7333,0.7778
+2023-08-15 08:05:21.389552,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,-0.044500000000000095,0.7333,0.7778
 2023-08-15 11:05:23.130756,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Top Goalscorer,Jennifer Hermoso,-0.05,0.0833,0.1333
 2023-08-15 08:05:20.067353,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Nottingham Forest,-0.050000000000000044,0.75,0.8
 2023-08-15 08:05:21.341845,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,-0.05299999999999999,0.25,0.303
