@@ -7,21 +7,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-16 01:02:28.425375,NBA Specials - Off-Season Specials - Where will James Harden play next season?,Philadelphia 76ers,0.047599999999999976,0.3333,0.2857
 2023-08-15 19:03:07.483870,US Senate Elections 2024 - West Virginia Senate Seat Election 2024 - West Virginia,Jim Justice (Rep),0.04579999999999995,0.7333,0.6875
 2023-08-15 15:04:01.338354,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Over 70.5,0.043399999999999994,0.4878,0.4444
-2023-08-15 14:03:52.483286,Tournament Match-Ups - Tournament Match-Ups - S. Im vs C. Young - Tournament Match-Ups,Cameron Young,0.03480000000000005,0.5348,0.5
 2023-08-15 21:03:16.929477,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,0.031400000000000095,0.7647,0.7333
 2023-08-15 16:04:48.805685,NFC North - NFC North 2023/24 - Most Regular Season Rushing Yards,Khalil Herbert,0.031200000000000002,0.0476,0.0164
-2023-08-15 15:03:57.107809,Season Player Specials - NFL 2023-24 Passing Yards - Justin Herbert 2023-24 Regular Season Total Passing Yards,Over 4450.5,0.030399999999999983,0.5652,0.5348
-2023-08-15 21:03:19.833905,Season Player Specials - NFL 2023-24 Receptions - Darren Waller 2023-24 Regular Season Total Receptions,Under 60.5,0.030399999999999983,0.5652,0.5348
 2023-08-15 19:03:15.721768,Round Match-Ups - 1st Round Match-Up - H. Matsuyama vs L. Glover - 1st Round Match-Up,Hideki Matsuyama,0.030399999999999983,0.5652,0.5348
 2023-08-15 21:03:20.911065,Team Specials - Cincinnati Bengals - Regular Season Team Total Points,Under 444.5,0.030399999999999983,0.5652,0.5348
-2023-08-15 21:03:20.809518,Team Specials - Arizona Cardinals - Regular Season Team Total Points,Under 330.5,0.030399999999999983,0.5652,0.5348
-2023-08-15 17:03:53.848468,Season Player Specials - NFL 2023-24 Passing TDs - Aaron Rodgers 2023-24 Regular Season Total Passing TDs,Under 28.5,0.030399999999999983,0.5652,0.5348
 2023-08-15 21:03:21.030428,Team Specials - Houston Texans - Regular Season Team Total Points,Under 347.5,0.030399999999999983,0.5652,0.5348
-2023-08-15 21:03:18.825633,Season Player Specials - NFL 2023-24 Combined Tackles - Nick Bolton 2023-24 Regular Season Total Combined Tackles,Under 155.5,0.030399999999999983,0.5652,0.5348
 2023-08-15 21:03:21.101649,Team Specials - Las Vegas Raiders - Regular Season Team Total Points,Under 376.5,0.030399999999999983,0.5652,0.5348
 2023-08-15 21:03:21.319737,Team Specials - Tampa Bay Buccaneers - Regular Season Team Total Points,Under 342.5,0.030399999999999983,0.5652,0.5348
+2023-08-15 21:03:20.809518,Team Specials - Arizona Cardinals - Regular Season Team Total Points,Under 330.5,0.030399999999999983,0.5652,0.5348
+2023-08-15 21:03:19.833905,Season Player Specials - NFL 2023-24 Receptions - Darren Waller 2023-24 Regular Season Total Receptions,Under 60.5,0.030399999999999983,0.5652,0.5348
+2023-08-15 21:03:18.825633,Season Player Specials - NFL 2023-24 Combined Tackles - Nick Bolton 2023-24 Regular Season Total Combined Tackles,Under 155.5,0.030399999999999983,0.5652,0.5348
+2023-08-15 15:03:57.107809,Season Player Specials - NFL 2023-24 Passing Yards - Justin Herbert 2023-24 Regular Season Total Passing Yards,Over 4450.5,0.030399999999999983,0.5652,0.5348
+2023-08-15 17:03:53.848468,Season Player Specials - NFL 2023-24 Passing TDs - Aaron Rodgers 2023-24 Regular Season Total Passing TDs,Under 28.5,0.030399999999999983,0.5652,0.5348
 2023-08-15 19:03:15.760094,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Over 71.5,0.029000000000000026,0.4545,0.4255
-2023-08-15 14:03:48.124707,Season Player Specials - NFL 2023-24 Passing Yards - Daniel Jones 2023-24 Regular Season Total Passing Yards,Under 3350.5,0.028900000000000037,0.5744,0.5455
 2023-08-15 15:03:57.146045,Season Player Specials - NFL 2023-24 Passing Yards - Trevor Lawrence 2023-24 Regular Season Total Passing Yards,Over 4100.5,0.026499999999999968,0.5917,0.5652
 2023-08-15 16:04:51.722945,Season Player Specials - NFL 2023-24 QB Interceptions - Geno Smith 2023-24 Regular Season Total Interceptions,Under 11.5,0.026499999999999968,0.5917,0.5652
 2023-08-15 19:03:14.272456,Regular Season Wins - 2023-24 Regular Season Wins - San Jose St. - Regular Season Wins,Over 5.5,0.025599999999999956,0.6,0.5744
@@ -32,35 +30,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-15 19:03:07.470964,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the classified documents federal charges? - Will Donald Trump be found guilty of one or more of the classified documents federal charges?,No,0.0232,0.2899,0.2667
 2023-08-15 15:04:01.314572,Scores - 1st Round Score - Jon Rahm - 1st Round Score,Over 70.5,0.022699999999999998,0.4878,0.4651
 2023-08-15 21:03:19.387285,Season Player Specials - NFL 2023-24 Receiving TDs - Courtland Sutton 2023-24 Regular Season Total Receiving TDs,Over 4.5,0.022699999999999998,0.4878,0.4651
-2023-08-16 01:02:33.932326,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-15 16:04:56.254022,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-15 21:03:22.001963,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-16 00:02:10.965000,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-16 02:03:32.860954,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-15 14:03:50.829536,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-15 17:03:56.936117,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-15 21:03:22.119808,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,California,0.022600000000000064,0.5348,0.5122
-2023-08-15 23:03:05.807150,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-15 19:03:13.551772,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-15 15:03:59.640336,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-15 22:03:13.673461,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-15 21:03:22.001963,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-15 16:04:56.254022,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-15 16:04:51.682274,Season Player Specials - NFL 2023-24 QB Interceptions - Derek Carr 2023-24 Regular Season Total Interceptions,Under 11.5,0.022600000000000064,0.5348,0.5122
-2023-08-15 16:04:51.814977,Season Player Specials - NFL 2023-24 QB Interceptions - Patrick Mahomes 2023-24 Regular Season Total Interceptions,Under 11.5,0.022600000000000064,0.5348,0.5122
+2023-08-16 00:02:10.965000,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-15 15:03:59.640336,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-15 23:03:05.807150,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-16 01:02:33.932326,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-16 02:03:32.860954,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-16 03:03:29.385741,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-15 21:03:22.119808,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,California,0.022600000000000064,0.5348,0.5122
 2023-08-15 16:04:51.699017,Season Player Specials - NFL 2023-24 QB Interceptions - Deshaun Watson 2023-24 Regular Season Total Interceptions,Under 11.5,0.022600000000000064,0.5348,0.5122
+2023-08-15 17:03:56.936117,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-15 19:03:13.551772,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-15 16:04:51.814977,Season Player Specials - NFL 2023-24 QB Interceptions - Patrick Mahomes 2023-24 Regular Season Total Interceptions,Under 11.5,0.022600000000000064,0.5348,0.5122
 2023-08-15 21:03:19.598032,Season Player Specials - NFL 2023-24 Receiving Yards - Calvin Ridley 2023-24 Regular Season Total Receiving Yards,Under 900.5,0.02169999999999994,0.5455,0.5238
 2023-08-15 21:03:22.019600,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,South Carolina,0.02169999999999994,0.5455,0.5238
 2023-08-15 19:03:10.104552,Season Player Specials - NFL 2023-24 Passing Yards - Dak Prescott 2023-24 Regular Season Total Passing Yards,Under 4050.5,0.02169999999999994,0.5455,0.5238
-2023-08-15 14:03:48.121236,Season Player Specials - NFL 2023-24 Passing Yards - Dak Prescott 2023-24 Regular Season Total Passing Yards,Over 4050.5,0.02169999999999994,0.5455,0.5238
-2023-08-15 21:03:19.899673,Season Player Specials - NFL 2023-24 Receptions - Jaxon Smith Njigba 2023-24 Regular Season Total Receptions,Under 57.5,0.02079999999999993,0.5556,0.5348
 2023-08-15 21:03:20.132782,Season Player Specials - NFL 2023-24 Rushing TDs - Nick Chubb 2023-24 Regular Season Total Rushing TDs,Over 9.5,0.02079999999999993,0.5556,0.5348
+2023-08-15 16:04:51.763867,Season Player Specials - NFL 2023-24 QB Interceptions - Kenny Pickett 2023-24 Regular Season Total Interceptions,Under 11.5,0.02079999999999993,0.5556,0.5348
 2023-08-15 21:03:19.792328,Season Player Specials - NFL 2023-24 Receptions - Calvin Ridley 2023-24 Regular Season Total Receptions,Under 72.5,0.02079999999999993,0.5556,0.5348
+2023-08-15 21:03:19.660763,Season Player Specials - NFL 2023-24 Receiving Yards - Garrett Wilson 2023-24 Regular Season Total Receiving Yards,Under 1125.5,0.02079999999999993,0.5556,0.5348
 2023-08-15 21:03:19.616704,Season Player Specials - NFL 2023-24 Receiving Yards - Christian Watson 2023-24 Regular Season Total Receiving Yards,Under 850.5,0.02079999999999993,0.5556,0.5348
 2023-08-15 21:03:19.605445,Season Player Specials - NFL 2023-24 Receiving Yards - Chris Godwin 2023-24 Regular Season Total Receiving Yards,Over 800.5,0.02079999999999993,0.5556,0.5348
-2023-08-15 16:04:51.763867,Season Player Specials - NFL 2023-24 QB Interceptions - Kenny Pickett 2023-24 Regular Season Total Interceptions,Under 11.5,0.02079999999999993,0.5556,0.5348
+2023-08-15 21:03:19.899673,Season Player Specials - NFL 2023-24 Receptions - Jaxon Smith Njigba 2023-24 Regular Season Total Receptions,Under 57.5,0.02079999999999993,0.5556,0.5348
 2023-08-15 21:03:19.285320,Season Player Specials - NFL 2023-24 QB Interceptions - Kirk Cousins 2023-24 Regular Season Total Interceptions,Under 12.5,0.02079999999999993,0.5556,0.5348
 2023-08-15 19:03:10.386729,Season Player Specials - NFL 2023-24 QB Interceptions - Russell Wilson 2023-24 Regular Season Total Interceptions,Under 10.5,0.02079999999999993,0.5556,0.5348
 2023-08-15 19:03:10.403979,Season Player Specials - NFL 2023-24 QB Interceptions - Tua Tagovailoa 2023-24 Regular Season Total Interceptions,Under 10.5,0.02079999999999993,0.5556,0.5348
-2023-08-15 21:03:19.660763,Season Player Specials - NFL 2023-24 Receiving Yards - Garrett Wilson 2023-24 Regular Season Total Receiving Yards,Under 1125.5,0.02079999999999993,0.5556,0.5348
 2023-08-15 17:03:57.131578,Regular Season Wins - 2023-24 Regular Season Wins - Central Michigan - Regular Season Wins,Under 5.5,0.020299999999999985,0.6429,0.6226
 2023-08-15 21:03:23.731822,NCAA Football Futures - 2023 Sun Belt Championship - Sun Belt West Division Winner,Texas State,0.019800000000000005,0.0476,0.0278
 2023-08-15 17:03:58.627900,BMW Championship - 2/3 Balls - 1st Round 2 Balls - J.T. Poston v B. Todd - 1st Round 2 Balls,J.T. Poston,0.01970000000000005,0.5652,0.5455
@@ -69,17 +66,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-15 19:03:15.712328,Round Match-Ups - 1st Round Match-Up - R. Henley vs T. Hatton - 1st Round Match-Up,Tyrrell Hatton,0.01970000000000005,0.5652,0.5455
 2023-08-15 16:04:47.021067,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Tyrese Maxey (PHI),0.01949999999999999,0.0909,0.0714
 2023-08-15 17:03:58.674612,BMW Championship - 2/3 Balls - 1st Round 2 Balls - R. McIlroy v L. Glover - 1st Round 2 Balls,Rory McIlroy,0.019499999999999962,0.6491,0.6296
-2023-08-15 21:03:18.832880,Season Player Specials - NFL 2023-24 Combined Tackles - Roquan Smith 2023-24 Regular Season Total Combined Tackles,Under 155.5,0.01880000000000004,0.5744,0.5556
 2023-08-15 17:03:54.015175,Season Player Specials - NFL 2023-24 Passing Yards - Joe Burrow 2023-24 Regular Season Total Passing Yards,Under 4425.5,0.01880000000000004,0.5744,0.5556
+2023-08-15 21:03:18.832880,Season Player Specials - NFL 2023-24 Combined Tackles - Roquan Smith 2023-24 Regular Season Total Combined Tackles,Under 155.5,0.01880000000000004,0.5744,0.5556
 2023-08-15 15:03:53.731852,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Arsenal,0.01820000000000002,0.2,0.1818
 2023-08-15 17:03:58.637028,BMW Championship - 2/3 Balls - 1st Round 2 Balls - B.H. An v A. Hadwin - 1st Round 2 Balls,Byeong Hun An,0.018100000000000005,0.5833,0.5652
 2023-08-15 19:03:07.532577,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Gavin Newsom,0.018099999999999998,0.0769,0.0588
-2023-08-15 16:04:48.418940,AFC North - AFC North 2023/24 - Most Regular Season Rushing Yards,J.K. Dobbins,0.0179,0.1429,0.125
 2023-08-15 21:03:16.929477,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Vivek Ramaswamy,0.0179,0.1429,0.125
+2023-08-15 16:04:48.418940,AFC North - AFC North 2023/24 - Most Regular Season Rushing Yards,J.K. Dobbins,0.0179,0.1429,0.125
 2023-08-15 19:03:15.586806,BMW Championship - 2/3 Balls - 1st Round 2 Balls - R. McIlroy v L. Glover - 1st Round 2 Balls,Rory McIlroy,0.01759999999999995,0.6667,0.6491
 2023-08-15 19:03:14.193000,Regular Season Wins - 2023-24 Regular Season Wins - Ohio - Regular Season Wins,Over 7.5,0.017299999999999982,0.5917,0.5744
-2023-08-15 21:03:19.343842,Season Player Specials - NFL 2023-24 Receiving TDs - Adam Thielen 2023-24 Regular Season Total Receiving TDs,Under 4.5,0.017299999999999982,0.5917,0.5744
 2023-08-15 19:03:09.927233,Season Player Specials - NFL 2023-24 Passing TDs - Bryce Young 2023-24 Regular Season Total Passing TDs,Under 21.5,0.017299999999999982,0.5917,0.5744
+2023-08-15 21:03:19.343842,Season Player Specials - NFL 2023-24 Receiving TDs - Adam Thielen 2023-24 Regular Season Total Receiving TDs,Under 4.5,0.017299999999999982,0.5917,0.5744
 2023-08-15 16:04:48.377132,AFC North - AFC North 2023/24 - AFC North Winner,Cleveland Browns,0.01680000000000001,0.2273,0.2105
 2023-08-15 17:03:56.535758,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Green Bay Packers,Yes,0.015400000000000025,0.4,0.3846
 2023-08-15 19:03:14.385355,Regular Season Wins - 2023-24 Regular Season Wins - UTEP - Regular Season Wins,Over 5.5,0.01539999999999997,0.6154,0.6
@@ -99,67 +96,68 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-15 21:03:23.731822,NCAA Football Futures - 2023 Sun Belt Championship - Sun Belt West Division Winner,ULM,0.012100000000000001,0.0244,0.0123
 2023-08-15 19:03:14.368801,Regular Season Wins - 2023-24 Regular Season Wins - UNLV - Regular Season Wins,Under 5.5,0.011099999999999999,0.4762,0.4651
 2023-08-15 21:03:19.365023,Season Player Specials - NFL 2023-24 Receiving TDs - Calvin Ridley 2023-24 Regular Season Total Receiving TDs,Under 5.5,0.01100000000000001,0.5348,0.5238
-2023-08-15 19:03:15.514019,Boxing Lines - Oleksandr Usyk vs Daniel Dubois - To Win the Bout,Daniel Dubois,0.010899999999999993,0.1538,0.1429
 2023-08-15 23:03:07.575088,Boxing Lines - Oleksandr Usyk vs Daniel Dubois - To Win the Bout,Daniel Dubois,0.010899999999999993,0.1538,0.1429
+2023-08-15 19:03:15.514019,Boxing Lines - Oleksandr Usyk vs Daniel Dubois - To Win the Bout,Daniel Dubois,0.010899999999999993,0.1538,0.1429
 2023-08-15 21:03:16.929477,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Glenn Youngkin,0.010700000000000001,0.0385,0.0278
-2023-08-15 15:04:01.247395,Boxing Lines - Galal Yafai vs Tommy Frank - To Win the Bout,Galal Yafai,0.010699999999999932,0.9722,0.9615
-2023-08-15 17:03:58.597264,Boxing Lines - Galal Yafai vs Tommy Frank - To Win the Bout,Galal Yafai,0.010699999999999932,0.9722,0.9615
-2023-08-15 19:03:13.616019,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Iowa,0.010699999999999932,0.5455,0.5348
+2023-08-15 19:03:13.890088,Regular Season Wins - 2023-24 Regular Season Wins - Florida International - Regular Season Wins,Under 3.5,0.010699999999999932,0.5455,0.5348
+2023-08-15 17:03:58.891855,Tournament Match-Ups - Tournament Match-Ups - S. Im vs C. Young - Tournament Match-Ups,Cameron Young,0.010699999999999932,0.5455,0.5348
 2023-08-15 23:03:07.569828,Boxing Lines - Galal Yafai vs Tommy Frank - To Win the Bout,Galal Yafai,0.010699999999999932,0.9722,0.9615
 2023-08-15 21:03:19.594336,Season Player Specials - NFL 2023-24 Receiving Yards - Amon-Ra St. Brown 2023-24 Regular Season Total Receiving Yards,Over 1000.5,0.010699999999999932,0.5455,0.5348
-2023-08-15 17:03:58.891855,Tournament Match-Ups - Tournament Match-Ups - S. Im vs C. Young - Tournament Match-Ups,Cameron Young,0.010699999999999932,0.5455,0.5348
-2023-08-15 19:03:13.890088,Regular Season Wins - 2023-24 Regular Season Wins - Florida International - Regular Season Wins,Under 3.5,0.010699999999999932,0.5455,0.5348
-2023-08-15 14:03:52.440856,Boxing Lines - Jordan Flynn vs Kane Baker - To Win the Bout,Kane Baker,0.010499999999999982,0.2105,0.2
-2023-08-15 21:03:23.873083,Boxing Lines - Jordan Flynn vs Kane Baker - To Win the Bout,Kane Baker,0.010499999999999982,0.2105,0.2
-2023-08-16 00:02:12.786094,Boxing Lines - Jordan Flynn vs Kane Baker - To Win the Bout,Kane Baker,0.010499999999999982,0.2105,0.2
+2023-08-15 19:03:13.616019,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Iowa,0.010699999999999932,0.5455,0.5348
+2023-08-16 03:03:31.879157,Boxing Lines - Galal Yafai vs Tommy Frank - To Win the Bout,Galal Yafai,0.010699999999999932,0.9722,0.9615
+2023-08-15 17:03:58.597264,Boxing Lines - Galal Yafai vs Tommy Frank - To Win the Bout,Galal Yafai,0.010699999999999932,0.9722,0.9615
+2023-08-15 15:04:01.247395,Boxing Lines - Galal Yafai vs Tommy Frank - To Win the Bout,Galal Yafai,0.010699999999999932,0.9722,0.9615
 2023-08-15 16:04:59.580367,Boxing Lines - Jordan Flynn vs Kane Baker - To Win the Bout,Kane Baker,0.010499999999999982,0.2105,0.2
-2023-08-15 15:03:53.731852,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Newcastle United,0.0102,0.0769,0.0667
+2023-08-16 00:02:12.786094,Boxing Lines - Jordan Flynn vs Kane Baker - To Win the Bout,Kane Baker,0.010499999999999982,0.2105,0.2
+2023-08-15 21:03:23.873083,Boxing Lines - Jordan Flynn vs Kane Baker - To Win the Bout,Kane Baker,0.010499999999999982,0.2105,0.2
 2023-08-15 21:03:16.916033,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Michelle Obama,0.0102,0.0769,0.0667
-2023-08-15 15:04:01.242948,Boxing Lines - Cyrus Pattinson vs Conah Walker - To Win the Bout,Cyrus Pattinson,0.010199999999999987,0.9333,0.9231
+2023-08-15 15:03:53.731852,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Newcastle United,0.0102,0.0769,0.0667
 2023-08-15 19:03:15.504940,Boxing Lines - Cyrus Pattinson vs Conah Walker - To Win the Bout,Cyrus Pattinson,0.010199999999999987,0.9333,0.9231
-2023-08-15 21:03:22.054561,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Iowa,0.010099999999999998,0.5556,0.5455
+2023-08-15 15:04:01.242948,Boxing Lines - Cyrus Pattinson vs Conah Walker - To Win the Bout,Cyrus Pattinson,0.010199999999999987,0.9333,0.9231
 2023-08-15 19:03:15.631109,BMW Championship - 2/3 Balls - 1st Round 2 Balls - T. Hatton v C. Conners - 1st Round 2 Balls,Tyrrell Hatton,0.010099999999999998,0.5556,0.5455
+2023-08-15 21:03:22.054561,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Iowa,0.010099999999999998,0.5556,0.5455
 2023-08-15 21:03:23.878799,Boxing Lines - Cyrus Pattinson vs Conah Walker - To Win the Bout,Cyrus Pattinson,-0.010199999999999987,0.9231,0.9333
 2023-08-15 16:04:59.595822,Boxing Lines - Cyrus Pattinson vs Conah Walker - To Win the Bout,Cyrus Pattinson,-0.010199999999999987,0.9231,0.9333
+2023-08-16 03:03:31.866327,Boxing Lines - Jordan Flynn vs Kane Baker - To Win the Bout,Kane Baker,-0.010499999999999982,0.2,0.2105
 2023-08-15 15:04:01.238530,Boxing Lines - Jordan Flynn vs Kane Baker - To Win the Bout,Kane Baker,-0.010499999999999982,0.2,0.2105
 2023-08-15 19:03:15.500349,Boxing Lines - Jordan Flynn vs Kane Baker - To Win the Bout,Kane Baker,-0.010499999999999982,0.2,0.2105
 2023-08-15 23:03:07.559660,Boxing Lines - Jordan Flynn vs Kane Baker - To Win the Bout,Kane Baker,-0.010499999999999982,0.2,0.2105
 2023-08-15 19:03:14.385355,Regular Season Wins - 2023-24 Regular Season Wins - UTEP - Regular Season Wins,Under 5.5,-0.010599999999999998,0.4545,0.4651
-2023-08-15 16:04:59.611261,Boxing Lines - Galal Yafai vs Tommy Frank - To Win the Bout,Galal Yafai,-0.010699999999999932,0.9615,0.9722
 2023-08-16 01:02:35.783047,Tournament Match-Ups - Tournament Match-Ups - S. Scheffler vs R. McIIroy - Tournament Match-Ups,Scottie Scheffler,-0.010699999999999932,0.5348,0.5455
+2023-08-16 01:02:35.778263,Tournament Match-Ups - Tournament Match-Ups - J. Rahm vs P. Cantlay - Tournament Match-Ups,Jon Rahm,-0.010699999999999932,0.5348,0.5455
 2023-08-16 01:02:35.764370,Tournament Match-Ups - Tournament Match-Ups - V. Hovland vs X. Schauffele - Tournament Match-Ups,Viktor Hovland,-0.010699999999999932,0.5348,0.5455
+2023-08-15 21:03:23.884547,Boxing Lines - Galal Yafai vs Tommy Frank - To Win the Bout,Galal Yafai,-0.010699999999999932,0.9615,0.9722
 2023-08-15 21:03:19.365023,Season Player Specials - NFL 2023-24 Receiving TDs - Calvin Ridley 2023-24 Regular Season Total Receiving TDs,Over 5.5,-0.010699999999999932,0.5348,0.5455
+2023-08-15 16:04:59.611261,Boxing Lines - Galal Yafai vs Tommy Frank - To Win the Bout,Galal Yafai,-0.010699999999999932,0.9615,0.9722
 2023-08-16 01:02:35.753268,Tournament Match-Ups - Tournament Match-Ups - S. Im vs C. Young - Tournament Match-Ups,Cameron Young,-0.010699999999999932,0.5348,0.5455
 2023-08-16 00:02:12.801396,Boxing Lines - Galal Yafai vs Tommy Frank - To Win the Bout,Galal Yafai,-0.010699999999999932,0.9615,0.9722
-2023-08-15 21:03:23.884547,Boxing Lines - Galal Yafai vs Tommy Frank - To Win the Bout,Galal Yafai,-0.010699999999999932,0.9615,0.9722
-2023-08-16 01:02:35.778263,Tournament Match-Ups - Tournament Match-Ups - J. Rahm vs P. Cantlay - Tournament Match-Ups,Jon Rahm,-0.010699999999999932,0.5348,0.5455
-2023-08-15 21:03:23.890221,Boxing Lines - Oleksandr Usyk vs Daniel Dubois - To Win the Bout,Daniel Dubois,-0.010899999999999993,0.1429,0.1538
 2023-08-16 00:02:12.809562,Boxing Lines - Oleksandr Usyk vs Daniel Dubois - To Win the Bout,Daniel Dubois,-0.010899999999999993,0.1429,0.1538
-2023-08-15 17:03:58.891855,Tournament Match-Ups - Tournament Match-Ups - S. Im vs C. Young - Tournament Match-Ups,Sungjae Im,-0.01100000000000001,0.5238,0.5348
-2023-08-16 01:02:35.821881,Tournament Match-Ups - Tournament Match-Ups - J. Day vs T. Kim - Tournament Match-Ups,Tom Kim,-0.01100000000000001,0.5238,0.5348
-2023-08-15 19:03:13.616019,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Louisville,-0.01100000000000001,0.5238,0.5348
+2023-08-15 21:03:23.890221,Boxing Lines - Oleksandr Usyk vs Daniel Dubois - To Win the Bout,Daniel Dubois,-0.010899999999999993,0.1429,0.1538
 2023-08-16 01:02:35.747498,Tournament Match-Ups - Tournament Match-Ups - J. Spieth vs M. Homa - Tournament Match-Ups,Max Homa,-0.01100000000000001,0.5238,0.5348
 2023-08-15 19:03:13.890088,Regular Season Wins - 2023-24 Regular Season Wins - Florida International - Regular Season Wins,Over 3.5,-0.01100000000000001,0.5238,0.5348
-2023-08-16 01:02:35.821881,Tournament Match-Ups - Tournament Match-Ups - J. Day vs T. Kim - Tournament Match-Ups,Jason Day,-0.01100000000000001,0.5238,0.5348
-2023-08-15 21:03:19.594336,Season Player Specials - NFL 2023-24 Receiving Yards - Amon-Ra St. Brown 2023-24 Regular Season Total Receiving Yards,Under 1000.5,-0.01100000000000001,0.5238,0.5348
 2023-08-16 01:02:35.747498,Tournament Match-Ups - Tournament Match-Ups - J. Spieth vs M. Homa - Tournament Match-Ups,Jordan Spieth,-0.01100000000000001,0.5238,0.5348
-2023-08-15 19:03:10.165384,Season Player Specials - NFL 2023-24 Passing Yards - Jordan Love 2023-24 Regular Season Total Passing Yards,Over 3350.5,-0.011099999999999999,0.4651,0.4762
+2023-08-15 19:03:13.616019,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Louisville,-0.01100000000000001,0.5238,0.5348
+2023-08-15 21:03:19.594336,Season Player Specials - NFL 2023-24 Receiving Yards - Amon-Ra St. Brown 2023-24 Regular Season Total Receiving Yards,Under 1000.5,-0.01100000000000001,0.5238,0.5348
+2023-08-15 17:03:58.891855,Tournament Match-Ups - Tournament Match-Ups - S. Im vs C. Young - Tournament Match-Ups,Sungjae Im,-0.01100000000000001,0.5238,0.5348
+2023-08-16 01:02:35.821881,Tournament Match-Ups - Tournament Match-Ups - J. Day vs T. Kim - Tournament Match-Ups,Jason Day,-0.01100000000000001,0.5238,0.5348
+2023-08-16 01:02:35.821881,Tournament Match-Ups - Tournament Match-Ups - J. Day vs T. Kim - Tournament Match-Ups,Tom Kim,-0.01100000000000001,0.5238,0.5348
 2023-08-15 17:03:58.637028,BMW Championship - 2/3 Balls - 1st Round 2 Balls - B.H. An v A. Hadwin - 1st Round 2 Balls,Adam Hadwin,-0.011099999999999999,0.4651,0.4762
+2023-08-15 19:03:10.165384,Season Player Specials - NFL 2023-24 Passing Yards - Jordan Love 2023-24 Regular Season Total Passing Yards,Over 3350.5,-0.011099999999999999,0.4651,0.4762
 2023-08-15 19:03:09.927233,Season Player Specials - NFL 2023-24 Passing TDs - Bryce Young 2023-24 Regular Season Total Passing TDs,Over 21.5,-0.0116,0.4762,0.4878
-2023-08-15 19:03:14.193000,Regular Season Wins - 2023-24 Regular Season Wins - Ohio - Regular Season Wins,Under 7.5,-0.0116,0.4762,0.4878
 2023-08-15 21:03:19.343842,Season Player Specials - NFL 2023-24 Receiving TDs - Adam Thielen 2023-24 Regular Season Total Receiving TDs,Over 4.5,-0.0116,0.4762,0.4878
-2023-08-16 01:02:35.778263,Tournament Match-Ups - Tournament Match-Ups - J. Rahm vs P. Cantlay - Tournament Match-Ups,Patrick Cantlay,-0.011600000000000055,0.5122,0.5238
-2023-08-16 01:02:35.753268,Tournament Match-Ups - Tournament Match-Ups - S. Im vs C. Young - Tournament Match-Ups,Sungjae Im,-0.011600000000000055,0.5122,0.5238
-2023-08-16 01:02:35.764370,Tournament Match-Ups - Tournament Match-Ups - V. Hovland vs X. Schauffele - Tournament Match-Ups,Xander Schauffele,-0.011600000000000055,0.5122,0.5238
+2023-08-15 19:03:14.193000,Regular Season Wins - 2023-24 Regular Season Wins - Ohio - Regular Season Wins,Under 7.5,-0.0116,0.4762,0.4878
 2023-08-15 21:03:22.054561,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Louisville,-0.011600000000000055,0.5122,0.5238
+2023-08-16 01:02:35.778263,Tournament Match-Ups - Tournament Match-Ups - J. Rahm vs P. Cantlay - Tournament Match-Ups,Patrick Cantlay,-0.011600000000000055,0.5122,0.5238
+2023-08-16 01:02:35.764370,Tournament Match-Ups - Tournament Match-Ups - V. Hovland vs X. Schauffele - Tournament Match-Ups,Xander Schauffele,-0.011600000000000055,0.5122,0.5238
+2023-08-16 01:02:35.753268,Tournament Match-Ups - Tournament Match-Ups - S. Im vs C. Young - Tournament Match-Ups,Sungjae Im,-0.011600000000000055,0.5122,0.5238
 2023-08-16 01:02:35.783047,Tournament Match-Ups - Tournament Match-Ups - S. Scheffler vs R. McIIroy - Tournament Match-Ups,Rory McIlroy,-0.011600000000000055,0.5122,0.5238
-2023-08-15 21:03:20.386940,Season Player Specials - NFL 2023-24 Sacks - Trey Hendrickson 2023-24 Regular Season Total Sacks,Over 9.75,-0.012199999999999989,0.5,0.5122
 2023-08-15 21:03:19.262797,Season Player Specials - NFL 2023-24 QB Interceptions - Joe Burrow 2023-24 Regular Season Total Interceptions,Over 12.5,-0.012199999999999989,0.4878,0.5
-2023-08-15 16:04:51.741043,Season Player Specials - NFL 2023-24 QB Interceptions - Joe Burrow 2023-24 Regular Season Total Interceptions,Over 12.5,-0.012199999999999989,0.5,0.5122
 2023-08-15 21:03:19.376655,Season Player Specials - NFL 2023-24 Receiving TDs - Chris Olave 2023-24 Regular Season Total Receiving TDs,Over 5.5,-0.012199999999999989,0.4878,0.5
-2023-08-15 16:04:51.661265,Season Player Specials - NFL 2023-24 QB Interceptions - Dak Prescott 2023-24 Regular Season Total Interceptions,Over 12.5,-0.012199999999999989,0.4878,0.5
 2023-08-15 21:03:19.306135,Season Player Specials - NFL 2023-24 QB Interceptions - Russell Wilson 2023-24 Regular Season Total Interceptions,Over 10.5,-0.012199999999999989,0.5,0.5122
+2023-08-15 21:03:20.386940,Season Player Specials - NFL 2023-24 Sacks - Trey Hendrickson 2023-24 Regular Season Total Sacks,Over 9.75,-0.012199999999999989,0.5,0.5122
+2023-08-15 16:04:51.741043,Season Player Specials - NFL 2023-24 QB Interceptions - Joe Burrow 2023-24 Regular Season Total Interceptions,Over 12.5,-0.012199999999999989,0.5,0.5122
 2023-08-15 17:03:53.848468,Season Player Specials - NFL 2023-24 Passing TDs - Aaron Rodgers 2023-24 Regular Season Total Passing TDs,Over 28.5,-0.012199999999999989,0.5,0.5122
+2023-08-15 16:04:51.661265,Season Player Specials - NFL 2023-24 QB Interceptions - Dak Prescott 2023-24 Regular Season Total Interceptions,Over 12.5,-0.012199999999999989,0.4878,0.5
 2023-08-15 19:03:15.631109,BMW Championship - 2/3 Balls - 1st Round 2 Balls - T. Hatton v C. Conners - 1st Round 2 Balls,Corey Conners,-0.012199999999999989,0.4878,0.5
 2023-08-16 01:02:28.425375,NBA Specials - Off-Season Specials - Where will James Harden play next season?,Phoenix Suns,-0.012700000000000003,0.0196,0.0323
 2023-08-15 16:04:59.546253,Boxing Lines - Dennis McCann vs Ionut Baluta - To Win the Bout,Dennis McCann,-0.012899999999999912,0.8333,0.8462
@@ -167,81 +165,79 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-15 16:04:48.805685,NFC North - NFC North 2023/24 - Most Regular Season Rushing Yards,Jahmyr Gibbs,-0.013999999999999999,0.0769,0.0909
 2023-08-15 23:02:59.921064,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - East Group B Winner,Washington Wizards,-0.014399999999999996,0.0625,0.0769
 2023-08-15 15:03:53.731852,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Manchester United,-0.01440000000000001,0.0909,0.1053
-2023-08-15 16:04:48.377132,AFC North - AFC North 2023/24 - AFC North Winner,Cincinnati Bengals,-0.015400000000000025,0.3846,0.4
 2023-08-15 21:03:23.731822,NCAA Football Futures - 2023 Sun Belt Championship - Sun Belt West Division Winner,South Alabama,-0.015400000000000025,0.3846,0.4
-2023-08-15 17:03:56.535758,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Green Bay Packers,No,-0.015800000000000036,0.6667,0.6825
+2023-08-15 16:04:48.377132,AFC North - AFC North 2023/24 - AFC North Winner,Cincinnati Bengals,-0.015400000000000025,0.3846,0.4
+2023-08-16 03:03:20.968272,MLS - MLS 2023 - Winner,Los Angeles FC,-0.015700000000000006,0.1176,0.1333
 2023-08-15 17:03:55.569048,Stage of Elimination - 2023-24 Stage of Elimination - Green Bay Packers - Stage of Elimination,To Miss the Playoffs,-0.015800000000000036,0.6667,0.6825
+2023-08-15 17:03:56.535758,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Green Bay Packers,No,-0.015800000000000036,0.6667,0.6825
 2023-08-15 17:03:58.674612,BMW Championship - 2/3 Balls - 1st Round 2 Balls - R. McIlroy v L. Glover - 1st Round 2 Balls,Lucas Glover,-0.016699999999999993,0.4,0.4167
 2023-08-15 16:04:48.418940,AFC North - AFC North 2023/24 - Most Regular Season Rushing Yards,Joe Mixon,-0.0179,0.125,0.1429
 2023-08-15 17:03:57.131578,Regular Season Wins - 2023-24 Regular Season Wins - Central Michigan - Regular Season Wins,Over 5.5,-0.018900000000000028,0.4255,0.4444
-2023-08-16 01:02:35.815134,Tournament Match-Ups - Tournament Match-Ups - C. Morikawa vs T. Hatton - Tournament Match-Ups,Collin Morikawa,-0.01970000000000005,0.5455,0.5652
 2023-08-15 21:03:19.270350,Season Player Specials - NFL 2023-24 QB Interceptions - Josh Allen 2023-24 Regular Season Total Interceptions,Under 13.5,-0.01970000000000005,0.5455,0.5652
 2023-08-16 01:02:35.773768,Tournament Match-Ups - Tournament Match-Ups - W. Clark vs R. Henley - Tournament Match-Ups,Russell Henley,-0.01970000000000005,0.5455,0.5652
+2023-08-16 01:02:35.815134,Tournament Match-Ups - Tournament Match-Ups - C. Morikawa vs T. Hatton - Tournament Match-Ups,Collin Morikawa,-0.01970000000000005,0.5455,0.5652
 2023-08-16 01:02:28.425375,NBA Specials - Off-Season Specials - Where will James Harden play next season?,Houston Rockets,-0.02049999999999999,0.1333,0.1538
-2023-08-15 16:04:51.814977,Season Player Specials - NFL 2023-24 QB Interceptions - Patrick Mahomes 2023-24 Regular Season Total Interceptions,Over 11.5,-0.02079999999999993,0.5348,0.5556
 2023-08-15 21:03:20.035416,Season Player Specials - NFL 2023-24 Rushing TDs - A.J. Dillon 2023-24 Regular Season Total Rushing TDs,Over 5.5,-0.02079999999999993,0.5348,0.5556
-2023-08-15 16:04:51.699017,Season Player Specials - NFL 2023-24 QB Interceptions - Deshaun Watson 2023-24 Regular Season Total Interceptions,Over 11.5,-0.02079999999999993,0.5348,0.5556
+2023-08-15 16:04:51.814977,Season Player Specials - NFL 2023-24 QB Interceptions - Patrick Mahomes 2023-24 Regular Season Total Interceptions,Over 11.5,-0.02079999999999993,0.5348,0.5556
 2023-08-15 16:04:51.682274,Season Player Specials - NFL 2023-24 QB Interceptions - Derek Carr 2023-24 Regular Season Total Interceptions,Over 11.5,-0.02079999999999993,0.5348,0.5556
+2023-08-15 16:04:51.699017,Season Player Specials - NFL 2023-24 QB Interceptions - Deshaun Watson 2023-24 Regular Season Total Interceptions,Over 11.5,-0.02079999999999993,0.5348,0.5556
 2023-08-15 21:03:22.119808,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Iowa State,-0.02079999999999993,0.5348,0.5556
 2023-08-15 21:03:23.731822,NCAA Football Futures - 2023 Sun Belt Championship - Sun Belt West Division Winner,Troy,-0.02100000000000002,0.3636,0.3846
+2023-08-15 21:03:19.598032,Season Player Specials - NFL 2023-24 Receiving Yards - Calvin Ridley 2023-24 Regular Season Total Receiving Yards,Over 900.5,-0.02169999999999994,0.5238,0.5455
 2023-08-15 19:03:10.104552,Season Player Specials - NFL 2023-24 Passing Yards - Dak Prescott 2023-24 Regular Season Total Passing Yards,Over 4050.5,-0.02169999999999994,0.5238,0.5455
 2023-08-15 21:03:22.019600,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Missouri,-0.02169999999999994,0.5238,0.5455
-2023-08-15 21:03:19.598032,Season Player Specials - NFL 2023-24 Receiving Yards - Calvin Ridley 2023-24 Regular Season Total Receiving Yards,Over 900.5,-0.02169999999999994,0.5238,0.5455
-2023-08-15 14:03:48.121236,Season Player Specials - NFL 2023-24 Passing Yards - Dak Prescott 2023-24 Regular Season Total Passing Yards,Under 4050.5,-0.02169999999999994,0.5238,0.5455
 2023-08-15 19:03:14.267914,Regular Season Wins - 2023-24 Regular Season Wins - San Diego St. - Regular Season Wins,Under 6.5,-0.021699999999999997,0.4545,0.4762
 2023-08-15 19:03:07.470964,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the classified documents federal charges? - Will Donald Trump be found guilty of one or more of the classified documents federal charges?,Yes,-0.022199999999999998,0.7778,0.8
 2023-08-15 19:03:15.586806,BMW Championship - 2/3 Balls - 1st Round 2 Balls - R. McIlroy v L. Glover - 1st Round 2 Balls,Lucas Glover,-0.02260000000000001,0.3774,0.4
 2023-08-15 21:03:19.899673,Season Player Specials - NFL 2023-24 Receptions - Jaxon Smith Njigba 2023-24 Regular Season Total Receptions,Over 57.5,-0.022600000000000064,0.5122,0.5348
 2023-08-15 21:03:20.132782,Season Player Specials - NFL 2023-24 Rushing TDs - Nick Chubb 2023-24 Regular Season Total Rushing TDs,Under 9.5,-0.022600000000000064,0.5122,0.5348
 2023-08-15 21:03:19.792328,Season Player Specials - NFL 2023-24 Receptions - Calvin Ridley 2023-24 Regular Season Total Receptions,Over 72.5,-0.022600000000000064,0.5122,0.5348
-2023-08-15 21:03:22.011033,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-15 21:03:19.660763,Season Player Specials - NFL 2023-24 Receiving Yards - Garrett Wilson 2023-24 Regular Season Total Receiving Yards,Over 1125.5,-0.022600000000000064,0.5122,0.5348
 2023-08-15 17:03:56.949941,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-15 14:03:50.836985,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-16 02:03:32.869428,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-15 21:03:19.660763,Season Player Specials - NFL 2023-24 Receiving Yards - Garrett Wilson 2023-24 Regular Season Total Receiving Yards,Over 1125.5,-0.022600000000000064,0.5122,0.5348
+2023-08-15 16:04:51.763867,Season Player Specials - NFL 2023-24 QB Interceptions - Kenny Pickett 2023-24 Regular Season Total Interceptions,Over 11.5,-0.022600000000000064,0.5122,0.5348
 2023-08-15 21:03:19.616704,Season Player Specials - NFL 2023-24 Receiving Yards - Christian Watson 2023-24 Regular Season Total Receiving Yards,Over 850.5,-0.022600000000000064,0.5122,0.5348
+2023-08-16 03:03:29.404521,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-16 02:03:32.869428,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-16 01:02:33.939944,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-16 00:02:10.972581,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-15 16:04:56.263966,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-15 23:03:05.819461,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-15 22:03:13.682631,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-15 15:03:59.648623,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-15 21:03:22.011033,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-15 23:03:05.819461,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-15 19:03:13.578125,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-15 16:04:51.763867,Season Player Specials - NFL 2023-24 QB Interceptions - Kenny Pickett 2023-24 Regular Season Total Interceptions,Over 11.5,-0.022600000000000064,0.5122,0.5348
-2023-08-15 21:03:19.285320,Season Player Specials - NFL 2023-24 QB Interceptions - Kirk Cousins 2023-24 Regular Season Total Interceptions,Over 12.5,-0.022600000000000064,0.5122,0.5348
+2023-08-15 16:04:56.263966,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-15 19:03:10.386729,Season Player Specials - NFL 2023-24 QB Interceptions - Russell Wilson 2023-24 Regular Season Total Interceptions,Over 10.5,-0.022600000000000064,0.5122,0.5348
 2023-08-15 19:03:10.403979,Season Player Specials - NFL 2023-24 QB Interceptions - Tua Tagovailoa 2023-24 Regular Season Total Interceptions,Over 10.5,-0.022600000000000064,0.5122,0.5348
+2023-08-15 21:03:19.285320,Season Player Specials - NFL 2023-24 QB Interceptions - Kirk Cousins 2023-24 Regular Season Total Interceptions,Over 12.5,-0.022600000000000064,0.5122,0.5348
 2023-08-15 21:03:19.605445,Season Player Specials - NFL 2023-24 Receiving Yards - Chris Godwin 2023-24 Regular Season Total Receiving Yards,Under 800.5,-0.022600000000000064,0.5122,0.5348
-2023-08-16 01:02:33.939944,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-15 19:03:14.272456,Regular Season Wins - 2023-24 Regular Season Wins - San Jose St. - Regular Season Wins,Under 5.5,-0.022699999999999998,0.4651,0.4878
 2023-08-15 17:03:58.627900,BMW Championship - 2/3 Balls - 1st Round 2 Balls - J.T. Poston v B. Todd - 1st Round 2 Balls,Brendon Todd,-0.023799999999999988,0.4762,0.5
-2023-08-15 19:03:15.702773,Round Match-Ups - 1st Round Match-Up - E. Grillo vs S.W. Kim - 1st Round Match-Up,Emiliano Grillo,-0.023799999999999988,0.4762,0.5
-2023-08-15 19:03:15.712328,Round Match-Ups - 1st Round Match-Up - R. Henley vs T. Hatton - 1st Round Match-Up,Russell Henley,-0.023799999999999988,0.4762,0.5
 2023-08-15 16:04:59.698036,BMW Championship - 2/3 Balls - 1st Round 2 Balls - B.H. An v A. Hadwin - 1st Round 2 Balls,Adam Hadwin,-0.023799999999999988,0.4762,0.5
-2023-08-15 15:03:57.146045,Season Player Specials - NFL 2023-24 Passing Yards - Trevor Lawrence 2023-24 Regular Season Total Passing Yards,Under 4100.5,-0.023799999999999988,0.4762,0.5
+2023-08-15 19:03:15.712328,Round Match-Ups - 1st Round Match-Up - R. Henley vs T. Hatton - 1st Round Match-Up,Russell Henley,-0.023799999999999988,0.4762,0.5
 2023-08-15 16:04:51.722945,Season Player Specials - NFL 2023-24 QB Interceptions - Geno Smith 2023-24 Regular Season Total Interceptions,Over 11.5,-0.023799999999999988,0.4762,0.5
-2023-08-15 21:03:18.832880,Season Player Specials - NFL 2023-24 Combined Tackles - Roquan Smith 2023-24 Regular Season Total Combined Tackles,Over 155.5,-0.024399999999999977,0.4878,0.5122
+2023-08-15 15:03:57.146045,Season Player Specials - NFL 2023-24 Passing Yards - Trevor Lawrence 2023-24 Regular Season Total Passing Yards,Under 4100.5,-0.023799999999999988,0.4762,0.5
+2023-08-15 19:03:15.702773,Round Match-Ups - 1st Round Match-Up - E. Grillo vs S.W. Kim - 1st Round Match-Up,Emiliano Grillo,-0.023799999999999988,0.4762,0.5
 2023-08-15 17:03:54.015175,Season Player Specials - NFL 2023-24 Passing Yards - Joe Burrow 2023-24 Regular Season Total Passing Yards,Over 4425.5,-0.024399999999999977,0.4878,0.5122
-2023-08-15 15:04:01.314572,Scores - 1st Round Score - Jon Rahm - 1st Round Score,Under 70.5,-0.025599999999999956,0.5744,0.6
-2023-08-15 15:03:53.731852,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Manchester City,-0.025599999999999956,0.5744,0.6
+2023-08-15 21:03:18.832880,Season Player Specials - NFL 2023-24 Combined Tackles - Roquan Smith 2023-24 Regular Season Total Combined Tackles,Over 155.5,-0.024399999999999977,0.4878,0.5122
 2023-08-15 21:03:19.387285,Season Player Specials - NFL 2023-24 Receiving TDs - Courtland Sutton 2023-24 Regular Season Total Receiving TDs,Under 4.5,-0.025599999999999956,0.5744,0.6
-2023-08-16 01:02:35.795280,Tournament Match-Ups - Tournament Match-Ups - H. Matsuyama vs S. Burns - Tournament Match-Ups,Hideki Matsuyama,-0.026499999999999968,0.5652,0.5917
-2023-08-15 21:03:19.257746,Season Player Specials - NFL 2023-24 QB Interceptions - Jared Goff 2023-24 Regular Season Total Interceptions,Under 11.5,-0.026499999999999968,0.5652,0.5917
+2023-08-15 15:03:53.731852,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Manchester City,-0.025599999999999956,0.5744,0.6
+2023-08-15 15:04:01.314572,Scores - 1st Round Score - Jon Rahm - 1st Round Score,Under 70.5,-0.025599999999999956,0.5744,0.6
 2023-08-16 01:02:35.789539,Tournament Match-Ups - Tournament Match-Ups - R. Fowler vs T. Fleetwood - Tournament Match-Ups,Tommy Fleetwood,-0.026499999999999968,0.5652,0.5917
+2023-08-16 01:02:35.795280,Tournament Match-Ups - Tournament Match-Ups - H. Matsuyama vs S. Burns - Tournament Match-Ups,Hideki Matsuyama,-0.026499999999999968,0.5652,0.5917
 2023-08-15 15:04:01.328832,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Under 70.5,-0.026499999999999968,0.5652,0.5917
+2023-08-15 21:03:19.257746,Season Player Specials - NFL 2023-24 QB Interceptions - Jared Goff 2023-24 Regular Season Total Interceptions,Under 11.5,-0.026499999999999968,0.5652,0.5917
 2023-08-15 19:03:15.760094,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Under 71.5,-0.02859999999999996,0.6078,0.6364
-2023-08-15 14:03:52.483286,Tournament Match-Ups - Tournament Match-Ups - S. Im vs C. Young - Tournament Match-Ups,Sungjae Im,-0.030399999999999983,0.5348,0.5652
 2023-08-15 16:04:48.854749,NFC South - NFC South 2023/24 - Most Regular Season Passing TD's,Baker Mayfield,-0.031799999999999995,0.1111,0.1429
 2023-08-15 21:03:23.731822,NCAA Football Futures - 2023 Sun Belt Championship - Sun Belt West Division Winner,Louisiana-Lafayette,-0.033300000000000024,0.1667,0.2
-2023-08-15 21:03:18.825633,Season Player Specials - NFL 2023-24 Combined Tackles - Nick Bolton 2023-24 Regular Season Total Combined Tackles,Over 155.5,-0.03480000000000005,0.5,0.5348
-2023-08-15 21:03:21.319737,Team Specials - Tampa Bay Buccaneers - Regular Season Team Total Points,Over 342.5,-0.03480000000000005,0.5,0.5348
-2023-08-15 15:03:57.107809,Season Player Specials - NFL 2023-24 Passing Yards - Justin Herbert 2023-24 Regular Season Total Passing Yards,Under 4450.5,-0.03480000000000005,0.5,0.5348
-2023-08-15 21:03:19.833905,Season Player Specials - NFL 2023-24 Receptions - Darren Waller 2023-24 Regular Season Total Receptions,Over 60.5,-0.03480000000000005,0.5,0.5348
 2023-08-15 21:03:20.809518,Team Specials - Arizona Cardinals - Regular Season Team Total Points,Over 330.5,-0.03480000000000005,0.5,0.5348
-2023-08-15 21:03:20.911065,Team Specials - Cincinnati Bengals - Regular Season Team Total Points,Over 444.5,-0.03480000000000005,0.5,0.5348
-2023-08-15 21:03:21.030428,Team Specials - Houston Texans - Regular Season Team Total Points,Over 347.5,-0.03480000000000005,0.5,0.5348
+2023-08-15 21:03:19.833905,Season Player Specials - NFL 2023-24 Receptions - Darren Waller 2023-24 Regular Season Total Receptions,Over 60.5,-0.03480000000000005,0.5,0.5348
+2023-08-15 21:03:18.825633,Season Player Specials - NFL 2023-24 Combined Tackles - Nick Bolton 2023-24 Regular Season Total Combined Tackles,Over 155.5,-0.03480000000000005,0.5,0.5348
+2023-08-15 15:03:57.107809,Season Player Specials - NFL 2023-24 Passing Yards - Justin Herbert 2023-24 Regular Season Total Passing Yards,Under 4450.5,-0.03480000000000005,0.5,0.5348
+2023-08-15 21:03:21.319737,Team Specials - Tampa Bay Buccaneers - Regular Season Team Total Points,Over 342.5,-0.03480000000000005,0.5,0.5348
 2023-08-15 21:03:21.101649,Team Specials - Las Vegas Raiders - Regular Season Team Total Points,Over 376.5,-0.03480000000000005,0.5,0.5348
+2023-08-15 21:03:21.030428,Team Specials - Houston Texans - Regular Season Team Total Points,Over 347.5,-0.03480000000000005,0.5,0.5348
+2023-08-15 21:03:20.911065,Team Specials - Cincinnati Bengals - Regular Season Team Total Points,Over 444.5,-0.03480000000000005,0.5,0.5348
 2023-08-15 19:03:15.721768,Round Match-Ups - 1st Round Match-Up - H. Matsuyama vs L. Glover - 1st Round Match-Up,Lucas Glover,-0.035999999999999976,0.4762,0.5122
-2023-08-15 14:03:48.124707,Season Player Specials - NFL 2023-24 Passing Yards - Daniel Jones 2023-24 Regular Season Total Passing Yards,Over 3350.5,-0.03600000000000003,0.4878,0.5238
 2023-08-15 16:04:48.951433,NFC West - NFC West 2023/24 - Most Regular Season Receiving Yards,DK Metcalf,-0.04169999999999999,0.2083,0.25
 2023-08-15 19:03:07.483870,US Senate Elections 2024 - West Virginia Senate Seat Election 2024 - West Virginia,Joe Manchin (Dem),-0.04410000000000003,0.3333,0.3774
 2023-08-15 15:04:01.338354,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Under 70.5,-0.04820000000000002,0.5744,0.6226
