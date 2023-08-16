@@ -47,8 +47,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-16 11:04:49.436000,League Two - England - League Two 2023/24 - Top 3 Finish,Grimsby Town,0.02310000000000001,0.1,0.0769
 2023-08-16 20:04:06.909632,Tournament Match-Ups - Tournament Match-Ups - L. Glover v M. Fitzpatrick - Tournament Match-Ups,Lucas Glover,0.022699999999999998,0.4878,0.4651
 2023-08-16 13:02:15.298709,ISPS Handa Invitational - 2/3 Balls - 1st Round 3 Balls - D. Howell / K. Higa / L. Bjerregaard - 1st Round 3 Balls,Kazuki Higa,0.022699999999999998,0.4878,0.4651
-2023-08-16 20:04:04.751653,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-16 21:02:11.501387,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-16 22:02:51.032221,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-16 20:04:04.751653,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-16 19:04:41.775733,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-16 18:02:45.993780,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-16 17:02:27.446283,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
@@ -56,10 +57,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-16 15:03:28.220764,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-16 14:03:20.565416,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-16 13:02:12.304407,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-16 12:02:19.710930,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-16 09:03:27.457502,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-16 11:04:55.404275,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-16 10:03:13.080529,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-16 12:02:19.710930,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-16 11:04:55.404275,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-16 10:03:06.833008,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Athletico Paranaense,0.022199999999999998,0.2222,0.2
 2023-08-16 13:02:15.298709,ISPS Handa Invitational - 2/3 Balls - 1st Round 3 Balls - D. Howell / K. Higa / L. Bjerregaard - 1st Round 3 Balls,David Howell,0.022199999999999998,0.2222,0.2
 2023-08-16 11:04:49.415159,League One - England - League One 2023/24 - Top 2 Finish,Portsmouth,0.022199999999999998,0.2222,0.2
@@ -199,19 +199,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-16 11:04:49.438964,League Two - England - League Two 2023/24 - Top 7 Finish,Morecambe,-0.022199999999999998,0.1111,0.1333
 2023-08-16 11:04:49.418014,League One - England - League One 2023/24 - Top 6 Finish,Exeter City,-0.022199999999999998,0.2,0.2222
 2023-08-16 11:04:49.415159,League One - England - League One 2023/24 - Top 2 Finish,Barnsley,-0.022199999999999998,0.2,0.2222
-2023-08-16 10:03:13.090757,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-16 21:02:11.509310,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-16 20:04:04.759970,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-16 09:03:27.467030,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-16 19:04:41.783918,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-16 12:02:19.722873,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-16 18:02:46.004237,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-16 15:03:28.228961,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-16 17:02:27.456812,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-16 11:04:55.412019,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-16 22:02:51.044531,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-16 21:02:11.509310,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-16 10:03:13.090757,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-16 20:04:04.759970,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-16 13:02:12.314461,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-16 19:04:41.783918,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-16 16:02:31.472031,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-16 18:02:46.004237,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-16 12:02:19.722873,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-16 14:03:20.573842,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-16 17:02:27.456812,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-16 15:03:28.228961,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-16 18:02:41.102857,Chicago Bears - 2023-24 Regular Season Wins O/U - Regular Season Wins - Chicago Bears O/U  7.5,Under 7.5,-0.022699999999999998,0.4651,0.4878
 2023-08-16 11:04:49.432947,League Two - England - League Two 2023/24 - To Be Promoted,Sutton United,-0.02310000000000001,0.0769,0.1
 2023-08-16 12:02:17.930707,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Receptions,Davante Adams,-0.02310000000000001,0.0769,0.1
