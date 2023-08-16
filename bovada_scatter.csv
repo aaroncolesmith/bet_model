@@ -11,6 +11,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-16 17:02:23.535041,Season Player Specials - NFL 2023-24 Defensive Interceptions - Marlon Humphrey 2023 -24 Regular Season Defensive Interceptions,Under 1.5,0.05689999999999995,0.5917,0.5348
 2023-08-16 18:02:41.747193,New York Jets - 2023-24 Regular Season Wins O/U - Regular Season Wins - New York Jets O/U  9.5,Over 9.5,0.05019999999999991,0.6154,0.5652
 2023-08-16 15:03:23.258583,Regular Season Wins O/U - 2023 Regular Season Wins - Indiana Fever,Under 11.5,0.04849999999999999,0.5833,0.5348
+2023-08-16 21:02:13.433743,Round Match-Ups - 1st Round Match-Up - M. Homa v V. Hovland - 1st Round Match-Up ,Viktor Hovland,0.04139999999999999,0.5652,0.5238
 2023-08-16 15:03:25.962432,Season Player Specials - NFL 2023-24 Receiving Yards - D.J. Moore 2023-24 Regular Season Total Receiving Yards,Over 800.5,0.03959999999999997,0.5744,0.5348
 2023-08-16 11:04:49.418014,League One - England - League One 2023/24 - Top 6 Finish,Portsmouth,0.037800000000000056,0.5833,0.5455
 2023-08-16 10:03:06.836211,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Athletico Paranaense,0.03640000000000004,0.4,0.3636
@@ -22,65 +23,66 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-16 19:04:37.936657,Arizona Cardinals - 2023-24 Regular Season Wins O/U - Regular Season Wins - Arizona Cardinals O/U 4.5,Under 4.5,0.03179999999999994,0.5556,0.5238
 2023-08-16 11:04:49.418014,League One - England - League One 2023/24 - Top 6 Finish,Oxford United,0.030299999999999994,0.3636,0.3333
 2023-08-16 16:02:25.457315,Joe Biden Specials - Will Joe Biden be impeached during his first term as President? - Will Joe Biden be impeached during his first term as President?,No,0.029100000000000015,0.7727,0.7436
-2023-08-16 11:04:49.426605,League Two - England - League Two 2023/24 - League Winner,Gillingham,0.028799999999999992,0.1538,0.125
 2023-08-16 11:04:49.301317,MLS - MLS 2023 - Winner,Inter Miami,0.028799999999999992,0.1538,0.125
+2023-08-16 11:04:49.426605,League Two - England - League Two 2023/24 - League Winner,Gillingham,0.028799999999999992,0.1538,0.125
 2023-08-16 12:02:17.930707,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Receptions,Ja'Marr Chase,0.0286,0.1429,0.1143
 2023-08-16 11:04:49.432947,League Two - England - League Two 2023/24 - To Be Promoted,Swindon Town,0.027999999999999997,0.1818,0.1538
 2023-08-16 11:04:49.418014,League One - England - League One 2023/24 - Top 6 Finish,Peterborough United,0.027700000000000058,0.5833,0.5556
 2023-08-16 17:02:29.673857,Little League World Series - World Series Champion - Outright,International Team,0.026499999999999968,0.5917,0.5652
-2023-08-16 19:04:38.506673,New Orleans Saints - 2023-24 Regular Season Wins O/U - Regular Season Wins - New Orleans Saints O/U  9.5,Under 9.5,0.026499999999999968,0.5917,0.5652
 2023-08-16 18:02:41.298781,Green Bay Packers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Green Bay Packers O/U  7.5,Over 7.5,0.026499999999999968,0.5917,0.5652
+2023-08-16 19:04:38.506673,New Orleans Saints - 2023-24 Regular Season Wins O/U - Regular Season Wins - New Orleans Saints O/U  9.5,Under 9.5,0.026499999999999968,0.5917,0.5652
 2023-08-16 15:03:30.096068,BMW Championship - 2/3 Balls - 1st Round 2 Balls - R. McIlroy v L. Glover - 1st Round 2 Balls,Rory McIlroy,0.025600000000000067,0.6923,0.6667
 2023-08-16 11:04:49.432947,League Two - England - League Two 2023/24 - To Be Promoted,Mansfield Town,0.02560000000000001,0.3333,0.3077
 2023-08-16 18:02:41.102857,Chicago Bears - 2023-24 Regular Season Wins O/U - Regular Season Wins - Chicago Bears O/U  7.5,Over 7.5,0.025599999999999956,0.6,0.5744
 2023-08-16 18:02:41.362113,Indianapolis Colts - 2023-24 Regular Season Wins O/U - Regular Season Wins - Indianapolis Colts O/U  6.5,Under 6.5,0.024399999999999977,0.5122,0.4878
 2023-08-16 20:04:06.154655,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion Ohio State,Field,0.023800000000000043,0.9524,0.9286
 2023-08-16 11:04:49.438964,League Two - England - League Two 2023/24 - Top 7 Finish,Milton Keynes Dons,0.023800000000000043,0.5238,0.5
+2023-08-16 11:04:49.432947,League Two - England - League Two 2023/24 - To Be Promoted,Wrexham,0.023799999999999988,0.5,0.4762
+2023-08-16 19:04:38.745839,Washington Commanders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Washington Commanders O/U  6.5,Over 6.5,0.023799999999999988,0.5,0.4762
+2023-08-16 13:02:15.305021,ISPS Handa Invitational - 2/3 Balls - 1st Round 3 Balls - D. Whitby-Smith / J. Kruyswijk / R. McGowan - 1st Round 3 Balls,Ross McGowan,0.023799999999999988,0.5,0.4762
 2023-08-16 11:04:49.412215,League One - England - League One 2023/24 - To Be Promoted,Bolton Wanderers,0.023799999999999988,0.5,0.4762
 2023-08-16 16:02:29.069327,Season Player Specials - NFL 2023-24 Receiving Yards - Terry McLaurin 2023-24 Regular Season Total Receiving Yards,Under 950.5,0.023799999999999988,0.5,0.4762
-2023-08-16 19:04:38.745839,Washington Commanders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Washington Commanders O/U  6.5,Over 6.5,0.023799999999999988,0.5,0.4762
-2023-08-16 11:04:49.432947,League Two - England - League Two 2023/24 - To Be Promoted,Wrexham,0.023799999999999988,0.5,0.4762
-2023-08-16 13:02:15.305021,ISPS Handa Invitational - 2/3 Balls - 1st Round 3 Balls - D. Whitby-Smith / J. Kruyswijk / R. McGowan - 1st Round 3 Balls,Ross McGowan,0.023799999999999988,0.5,0.4762
 2023-08-16 20:04:06.148283,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion Michigan,Field,0.0232,0.9756,0.9524
 2023-08-16 11:04:49.438964,League Two - England - League Two 2023/24 - Top 7 Finish,Crawley Town,0.02310000000000001,0.1,0.0769
 2023-08-16 11:04:49.436000,League Two - England - League Two 2023/24 - Top 3 Finish,Grimsby Town,0.02310000000000001,0.1,0.0769
-2023-08-16 13:02:15.298709,ISPS Handa Invitational - 2/3 Balls - 1st Round 3 Balls - D. Howell / K. Higa / L. Bjerregaard - 1st Round 3 Balls,Kazuki Higa,0.022699999999999998,0.4878,0.4651
 2023-08-16 20:04:06.909632,Tournament Match-Ups - Tournament Match-Ups - L. Glover v M. Fitzpatrick - Tournament Match-Ups,Lucas Glover,0.022699999999999998,0.4878,0.4651
-2023-08-16 17:02:27.446283,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-16 13:02:15.298709,ISPS Handa Invitational - 2/3 Balls - 1st Round 3 Balls - D. Howell / K. Higa / L. Bjerregaard - 1st Round 3 Balls,Kazuki Higa,0.022699999999999998,0.4878,0.4651
+2023-08-16 20:04:04.751653,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-16 21:02:11.501387,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-16 19:04:41.775733,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-16 18:02:45.993780,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-16 17:02:27.446283,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-16 16:02:31.462752,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-16 15:03:28.220764,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-16 14:03:20.565416,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-16 19:04:41.775733,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-16 13:02:12.304407,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-16 12:02:19.710930,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-16 16:02:31.462752,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-16 09:03:27.457502,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-16 11:04:55.404275,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-16 10:03:13.080529,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-16 09:03:27.457502,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-16 08:04:20.970534,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-16 20:04:04.751653,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-16 13:02:15.298709,ISPS Handa Invitational - 2/3 Balls - 1st Round 3 Balls - D. Howell / K. Higa / L. Bjerregaard - 1st Round 3 Balls,David Howell,0.022199999999999998,0.2222,0.2
-2023-08-16 10:03:06.876582,League One - England - League One 2023/24 - Top Goalscorer,Colby Bishop,0.022199999999999998,0.1333,0.1111
 2023-08-16 10:03:06.833008,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Athletico Paranaense,0.022199999999999998,0.2222,0.2
+2023-08-16 13:02:15.298709,ISPS Handa Invitational - 2/3 Balls - 1st Round 3 Balls - D. Howell / K. Higa / L. Bjerregaard - 1st Round 3 Balls,David Howell,0.022199999999999998,0.2222,0.2
 2023-08-16 11:04:49.415159,League One - England - League One 2023/24 - Top 2 Finish,Portsmouth,0.022199999999999998,0.2222,0.2
+2023-08-16 10:03:06.876582,League One - England - League One 2023/24 - Top Goalscorer,Colby Bishop,0.022199999999999998,0.1333,0.1111
 2023-08-16 11:04:49.412215,League One - England - League One 2023/24 - To Be Promoted,Peterborough United,0.021999999999999964,0.3077,0.2857
+2023-08-16 21:02:13.439076,Round Match-Ups - 1st Round Match-Up - J. Spieth vs M. Homa - 1st Round Match-Up,Jordan Spieth,0.02169999999999994,0.5455,0.5238
 2023-08-16 20:04:06.904703,Tournament Match-Ups - Tournament Match-Ups - A. Svensson v A. Putnam - Tournament Match-Ups,Adam Svensson,0.02169999999999994,0.5455,0.5238
 2023-08-16 11:04:49.415159,League One - England - League One 2023/24 - Top 2 Finish,Bolton Wanderers,0.02100000000000002,0.3846,0.3636
 2023-08-16 11:04:49.432947,League Two - England - League Two 2023/24 - To Be Promoted,Barrow FC,0.02020000000000001,0.1111,0.0909
-2023-08-16 18:02:41.563347,Miami Dolphins - 2023-24 Regular Season Wins O/U - Regular Season Wins - Miami Dolphins O/U  9.5,Over 9.5,0.01970000000000005,0.5652,0.5455
 2023-08-16 18:02:41.069797,Carolina Panthers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Carolina Panthers O/U  7.5,Over 7.5,0.01970000000000005,0.5652,0.5455
+2023-08-16 18:02:41.563347,Miami Dolphins - 2023-24 Regular Season Wins O/U - Regular Season Wins - Miami Dolphins O/U  9.5,Over 9.5,0.01970000000000005,0.5652,0.5455
 2023-08-16 10:03:06.960874,National League - England National League 2023/24 - Outright,Gateshead,0.019099999999999995,0.0435,0.0244
-2023-08-16 11:04:49.412215,League One - England - League One 2023/24 - To Be Promoted,Portsmouth,0.019000000000000017,0.2857,0.2667
 2023-08-16 11:04:49.436000,League Two - England - League Two 2023/24 - Top 3 Finish,Stockport County,0.019000000000000017,0.2857,0.2667
+2023-08-16 11:04:49.412215,League One - England - League One 2023/24 - To Be Promoted,Portsmouth,0.019000000000000017,0.2857,0.2667
 2023-08-16 19:04:38.587088,Philadelphia Eagles - 2023-24 Regular Season Wins O/U - Regular Season Wins - Philadelphia Eagles O/U 11.5,Under 11.5,0.01880000000000004,0.5744,0.5556
 2023-08-16 11:04:49.426605,League Two - England - League Two 2023/24 - League Winner,Wrexham,0.01820000000000002,0.2,0.1818
 2023-08-16 13:02:15.260559,ISPS Handa Invitational - 2/3 Balls - 1st Round 3 Balls - J. Murphy / B. Easton / J. Axelsen - 1st Round 3 Balls,Bryce Easton,0.018100000000000005,0.4348,0.4167
 2023-08-16 10:03:06.876582,League One - England - League One 2023/24 - Top Goalscorer,Jonson Clarke-Harris,0.0179,0.1429,0.125
 2023-08-16 18:02:41.393586,Jacksonville Jaguars - 2023-24 Regular Season Wins O/U - Regular Season Wins - Jacksonville Jaguars O/U  9.5,Over 9.5,0.017299999999999982,0.5917,0.5744
 2023-08-16 11:04:49.418014,League One - England - League One 2023/24 - Top 6 Finish,Bolton Wanderers,0.016700000000000048,0.75,0.7333
-2023-08-16 11:04:49.432947,League Two - England - League Two 2023/24 - To Be Promoted,Stockport County,0.016699999999999993,0.4167,0.4
-2023-08-16 11:04:49.432947,League Two - England - League Two 2023/24 - To Be Promoted,Notts County,0.016699999999999993,0.4167,0.4
 2023-08-16 11:04:49.418014,League One - England - League One 2023/24 - Top 6 Finish,Reading,0.016699999999999993,0.2667,0.25
+2023-08-16 11:04:49.432947,League Two - England - League Two 2023/24 - To Be Promoted,Notts County,0.016699999999999993,0.4167,0.4
+2023-08-16 11:04:49.432947,League Two - England - League Two 2023/24 - To Be Promoted,Stockport County,0.016699999999999993,0.4167,0.4
 2023-08-16 10:03:06.876582,League One - England - League One 2023/24 - Top Goalscorer,Charlie Wyke,0.016600000000000004,0.0833,0.0667
 2023-08-16 13:02:15.327728,ISPS Handa Invitational - 2/3 Balls - 1st Round 3 Balls - J. Parry / P. Figueiredo / J. Lee - 1st Round 3 Balls,John Parry,0.015400000000000025,0.4,0.3846
 2023-08-16 19:04:38.698424,Tampa Bay Buccaneers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tampa Bay Buccaneers O/U  6.5,Under 6.5,0.01539999999999997,0.6154,0.6
@@ -88,71 +90,78 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-16 11:04:49.418014,League One - England - League One 2023/24 - Top 6 Finish,Stevenage,0.015100000000000002,0.1818,0.1667
 2023-08-16 19:04:43.233890,NCAA Football Futures - Odds to win 2023 Fred Biletnikoff Award - 2023 Fred Biletnikoff Award,Keon Coleman,0.014899999999999997,0.0625,0.0476
 2023-08-16 20:04:06.219251,NCAA Football Futures - 2023 MAC Conference Championship - Championship Game Winner,Central Michigan,0.014099999999999994,0.0667,0.0526
+2023-08-16 11:04:49.429770,League Two - England - League Two 2023/24 - Top Goalscorer,Mohamed Eisa,0.013999999999999999,0.0909,0.0769
 2023-08-16 11:04:49.436000,League Two - England - League Two 2023/24 - Top 3 Finish,Barrow FC,0.013999999999999999,0.0909,0.0769
 2023-08-16 11:04:49.436000,League Two - England - League Two 2023/24 - Top 3 Finish,Accrington Stanley,0.013999999999999999,0.0909,0.0769
-2023-08-16 11:04:49.429770,League Two - England - League Two 2023/24 - Top Goalscorer,Mohamed Eisa,0.013999999999999999,0.0909,0.0769
-2023-08-16 11:04:49.415159,League One - England - League One 2023/24 - Top 2 Finish,Oxford United,0.013899999999999996,0.125,0.1111
 2023-08-16 11:04:49.412215,League One - England - League One 2023/24 - To Be Promoted,Reading,0.013899999999999996,0.125,0.1111
-2023-08-16 11:04:49.418014,League One - England - League One 2023/24 - Top 6 Finish,Wycombe,0.0131,0.2353,0.2222
+2023-08-16 11:04:49.415159,League One - England - League One 2023/24 - Top 2 Finish,Oxford United,0.013899999999999996,0.125,0.1111
 2023-08-16 11:04:49.415159,League One - England - League One 2023/24 - Top 2 Finish,Peterborough United,0.0131,0.2353,0.2222
 2023-08-16 11:04:49.436000,League Two - England - League Two 2023/24 - Top 3 Finish,Milton Keynes Dons,0.0131,0.2353,0.2222
+2023-08-16 11:04:49.418014,League One - England - League One 2023/24 - Top 6 Finish,Wycombe,0.0131,0.2353,0.2222
 2023-08-16 11:04:49.412215,League One - England - League One 2023/24 - To Be Promoted,Oxford United,0.012899999999999995,0.1667,0.1538
-2023-08-16 15:03:25.981591,Season Player Specials - NFL 2023-24 Receiving Yards - DK Metcalf 2023-24 Regular Season Total Receiving Yards,Under 900.5,0.012199999999999989,0.5,0.4878
 2023-08-16 15:03:30.200906,BMW Championship - 2/3 Balls - 1st Round 2 Balls - H. English v P. Rodgers - 1st Round 2 Balls,Patrick Rodgers,0.012199999999999989,0.5122,0.5
-2023-08-16 20:03:58.937111,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Australia,Josh  Giddey,0.011899999999999994,0.25,0.2381
+2023-08-16 21:02:13.420502,Round Match-Ups - 1st Round Match-Up - J. Rose v E. Grillo - 1st Round Match-Up,Emiliano Grillo,0.012199999999999989,0.5122,0.5
+2023-08-16 15:03:25.981591,Season Player Specials - NFL 2023-24 Receiving Yards - DK Metcalf 2023-24 Regular Season Total Receiving Yards,Under 900.5,0.012199999999999989,0.5,0.4878
 2023-08-16 20:03:58.944212,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - USA,Anthony  Edwards,0.011899999999999994,0.25,0.2381
+2023-08-16 20:03:58.937111,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Australia,Josh  Giddey,0.011899999999999994,0.25,0.2381
 2023-08-16 20:04:06.392896,Boxing Lines - Jordan Flynn vs Kane Baker - To Win the Bout,Kane Baker,0.011700000000000016,0.2222,0.2105
 2023-08-16 19:04:38.265530,Indianapolis Colts - 2023-24 Regular Season Wins O/U - Regular Season Wins - Indianapolis Colts O/U  6.5,Under 6.5,0.011600000000000055,0.5238,0.5122
+2023-08-16 18:02:41.327829,Houston Texans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Houston Texans O/U  6.5,Over 6.5,0.0116,0.4878,0.4762
 2023-08-16 18:02:41.492272,Los Angeles Chargers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Los Angeles Chargers O/U  9.5,Under 9.5,0.0116,0.4878,0.4762
 2023-08-16 13:02:15.372331,ISPS Handa Invitational - 2/3 Balls - 1st Round 3 Balls - J.W. Ko / K. Reitan / H. Sturehed - 1st Round 3 Balls,Jeong Weon Ko,0.0116,0.4878,0.4762
-2023-08-16 18:02:41.327829,Houston Texans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Houston Texans O/U  6.5,Over 6.5,0.0116,0.4878,0.4762
 2023-08-16 11:04:49.415159,League One - England - League One 2023/24 - Top 2 Finish,Stevenage,0.011199999999999995,0.0588,0.0476
 2023-08-16 11:04:49.412215,League One - England - League One 2023/24 - To Be Promoted,Wycombe,0.011099999999999999,0.1111,0.1
 2023-08-16 11:04:49.412215,League One - England - League One 2023/24 - To Be Promoted,Bristol Rovers,0.011099999999999999,0.1111,0.1
+2023-08-16 21:02:13.457925,Round Match-Ups - 1st Round Match-Up - V. Hovland vs X. Schauffele - 1st Round Match-Up,Viktor Hovland,0.01100000000000001,0.5348,0.5238
+2023-08-16 21:02:13.148550,Boxing Lines - Jordan Flynn vs Kane Baker - To Win the Bout,Jordan Flynn,0.01090000000000002,0.8571,0.8462
 2023-08-16 14:03:22.917264,Magnit Championship - Magnit Championship - Winner,Chris Gotterup,0.010700000000000001,0.0385,0.0278
 2023-08-16 16:02:33.837884,Tournament Match-Ups - Tournament Match-Ups - J. Rahm vs P. Cantlay - Tournament Match-Ups,Jon Rahm,0.010699999999999932,0.5455,0.5348
+2023-08-16 16:02:28.921578,Season Player Specials - NFL 2023-24 Receiving Yards - Drake London 2023-24 Regular Season Total Receiving Yards,Over 800.5,0.010699999999999932,0.5455,0.5348
+2023-08-16 15:03:25.942786,Season Player Specials - NFL 2023-24 Receiving Yards - Christian Kirk 2023-24 Regular Season Total Receiving Yards,Over 825.5,0.010699999999999932,0.5455,0.5348
 2023-08-16 16:02:28.941690,Season Player Specials - NFL 2023-24 Receiving Yards - George Kittle 2023-24 Regular Season Total Receiving Yards,Over 675.5,0.010699999999999932,0.5455,0.5348
 2023-08-16 16:02:29.026527,Season Player Specials - NFL 2023-24 Receiving Yards - Michael Pittman Jr. 2023-24 Regular Season Total Receiving Yards,Under 800.5,0.010699999999999932,0.5455,0.5348
-2023-08-16 16:02:29.052459,Season Player Specials - NFL 2023-24 Receiving Yards - Stefon Diggs 2023-24 Regular Season Total Receiving Yards,Over 1125.5,0.010699999999999932,0.5455,0.5348
 2023-08-16 15:03:25.970675,Season Player Specials - NFL 2023-24 Receiving Yards - Deebo Samuel 2023-24 Regular Season Total Receiving Yards,Over 750.5,0.010699999999999932,0.5455,0.5348
-2023-08-16 16:02:28.921578,Season Player Specials - NFL 2023-24 Receiving Yards - Drake London 2023-24 Regular Season Total Receiving Yards,Over 800.5,0.010699999999999932,0.5455,0.5348
+2023-08-16 16:02:29.052459,Season Player Specials - NFL 2023-24 Receiving Yards - Stefon Diggs 2023-24 Regular Season Total Receiving Yards,Over 1125.5,0.010699999999999932,0.5455,0.5348
 2023-08-16 19:04:44.029106,Tournament Match-Ups - Tournament Match-Ups - V. Hovland vs X. Schauffele - Tournament Match-Ups,Viktor Hovland,0.010699999999999932,0.5455,0.5348
-2023-08-16 15:03:25.942786,Season Player Specials - NFL 2023-24 Receiving Yards - Christian Kirk 2023-24 Regular Season Total Receiving Yards,Over 825.5,0.010699999999999932,0.5455,0.5348
 2023-08-16 18:02:41.032185,Buffalo Bills - 2023-24 Regular Season Wins O/U - Regular Season Wins - Buffalo Bills O/U 10.5,Under 10.5,0.010599999999999998,0.4651,0.4545
 2023-08-16 11:04:49.415159,League One - England - League One 2023/24 - Top 2 Finish,Reading,0.0102,0.0769,0.0667
-2023-08-16 11:04:49.438964,League Two - England - League Two 2023/24 - Top 7 Finish,Mansfield Town,-0.010099999999999998,0.5455,0.5556
+2023-08-16 21:02:13.059167,NCAA Football Futures - 2023 USA Conference Championship - Championship Game Winner,New Mexico State,0.0102,0.0769,0.0667
 2023-08-16 19:04:38.265530,Indianapolis Colts - 2023-24 Regular Season Wins O/U - Regular Season Wins - Indianapolis Colts O/U  6.5,Over 6.5,-0.010099999999999998,0.5455,0.5556
-2023-08-16 11:04:49.426605,League Two - England - League Two 2023/24 - League Winner,Milton Keynes Dons,-0.0102,0.0667,0.0769
+2023-08-16 11:04:49.438964,League Two - England - League Two 2023/24 - Top 7 Finish,Mansfield Town,-0.010099999999999998,0.5455,0.5556
 2023-08-16 11:04:49.412215,League One - England - League One 2023/24 - To Be Promoted,Exeter City,-0.0102,0.0667,0.0769
+2023-08-16 11:04:49.426605,League Two - England - League Two 2023/24 - League Winner,Milton Keynes Dons,-0.0102,0.0667,0.0769
 2023-08-16 10:03:06.873389,League One - England - League One 2023/24 - League Winner,Bolton Wanderers,-0.010399999999999993,0.2222,0.2326
 2023-08-16 20:03:58.614992,Regular Season Parlays - 2023-24 Regular Season Parlays - Regular Season Parlays,Brandon Miller to average 15+ Points & 8+ Rebounds in 2023/24 Regular Season,-0.01050000000000001,0.1818,0.1923
 2023-08-16 19:04:38.698424,Tampa Bay Buccaneers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tampa Bay Buccaneers O/U  6.5,Over 6.5,-0.010599999999999998,0.4545,0.4651
+2023-08-16 21:02:13.420502,Round Match-Ups - 1st Round Match-Up - J. Rose v E. Grillo - 1st Round Match-Up,Justin Rose,-0.010699999999999932,0.5348,0.5455
 2023-08-16 15:03:30.200906,BMW Championship - 2/3 Balls - 1st Round 2 Balls - H. English v P. Rodgers - 1st Round 2 Balls,Harris English,-0.010699999999999932,0.5348,0.5455
 2023-08-16 17:02:29.807883,Boxing Lines - Raven Chapman vs Lila Dos Santos Furtado - To Win the Bout,Lila Dos Santos Furtado,-0.010899999999999993,0.1429,0.1538
 2023-08-16 20:04:06.392896,Boxing Lines - Jordan Flynn vs Kane Baker - To Win the Bout,Jordan Flynn,-0.01090000000000002,0.8462,0.8571
-2023-08-16 16:02:29.052459,Season Player Specials - NFL 2023-24 Receiving Yards - Stefon Diggs 2023-24 Regular Season Total Receiving Yards,Under 1125.5,-0.01100000000000001,0.5238,0.5348
-2023-08-16 16:02:28.941690,Season Player Specials - NFL 2023-24 Receiving Yards - George Kittle 2023-24 Regular Season Total Receiving Yards,Under 675.5,-0.01100000000000001,0.5238,0.5348
-2023-08-16 16:02:29.026527,Season Player Specials - NFL 2023-24 Receiving Yards - Michael Pittman Jr. 2023-24 Regular Season Total Receiving Yards,Over 800.5,-0.01100000000000001,0.5238,0.5348
-2023-08-16 15:03:25.942786,Season Player Specials - NFL 2023-24 Receiving Yards - Christian Kirk 2023-24 Regular Season Total Receiving Yards,Under 825.5,-0.01100000000000001,0.5238,0.5348
 2023-08-16 16:02:28.921578,Season Player Specials - NFL 2023-24 Receiving Yards - Drake London 2023-24 Regular Season Total Receiving Yards,Under 800.5,-0.01100000000000001,0.5238,0.5348
 2023-08-16 15:03:25.970675,Season Player Specials - NFL 2023-24 Receiving Yards - Deebo Samuel 2023-24 Regular Season Total Receiving Yards,Under 750.5,-0.01100000000000001,0.5238,0.5348
+2023-08-16 16:02:28.941690,Season Player Specials - NFL 2023-24 Receiving Yards - George Kittle 2023-24 Regular Season Total Receiving Yards,Under 675.5,-0.01100000000000001,0.5238,0.5348
+2023-08-16 16:02:29.052459,Season Player Specials - NFL 2023-24 Receiving Yards - Stefon Diggs 2023-24 Regular Season Total Receiving Yards,Under 1125.5,-0.01100000000000001,0.5238,0.5348
+2023-08-16 16:02:29.026527,Season Player Specials - NFL 2023-24 Receiving Yards - Michael Pittman Jr. 2023-24 Regular Season Total Receiving Yards,Over 800.5,-0.01100000000000001,0.5238,0.5348
+2023-08-16 15:03:25.942786,Season Player Specials - NFL 2023-24 Receiving Yards - Christian Kirk 2023-24 Regular Season Total Receiving Yards,Under 825.5,-0.01100000000000001,0.5238,0.5348
+2023-08-16 11:04:49.418014,League One - England - League One 2023/24 - Top 6 Finish,Burton Albion,-0.011099999999999999,0.1,0.1111
 2023-08-16 19:04:38.476306,New England Patriots - 2023-24 Regular Season Wins O/U - Regular Season Wins - New England Patriots O/U  7.5,Over 7.5,-0.011099999999999999,0.4651,0.4762
 2023-08-16 10:03:06.876582,League One - England - League One 2023/24 - Top Goalscorer,Dion Charles,-0.011099999999999999,0.1,0.1111
-2023-08-16 11:04:49.418014,League One - England - League One 2023/24 - Top 6 Finish,Burton Albion,-0.011099999999999999,0.1,0.1111
-2023-08-16 11:04:49.429770,League Two - England - League Two 2023/24 - Top Goalscorer,Paul Mullin,-0.011199999999999995,0.0476,0.0588
-2023-08-16 10:03:06.876582,League One - England - League One 2023/24 - Top Goalscorer,Shayne Lavery,-0.011199999999999995,0.0476,0.0588
-2023-08-16 11:04:49.418014,League One - England - League One 2023/24 - Top 6 Finish,Cheltenham Town,-0.011199999999999995,0.0476,0.0588
-2023-08-16 11:04:49.415159,League One - England - League One 2023/24 - Top 2 Finish,Cambridge United,-0.011199999999999995,0.0476,0.0588
 2023-08-16 11:04:49.432947,League Two - England - League Two 2023/24 - To Be Promoted,Colchester United,-0.011199999999999995,0.0476,0.0588
 2023-08-16 11:04:49.432947,League Two - England - League Two 2023/24 - To Be Promoted,Harrogate Town,-0.011199999999999995,0.0476,0.0588
+2023-08-16 11:04:49.415159,League One - England - League One 2023/24 - Top 2 Finish,Cambridge United,-0.011199999999999995,0.0476,0.0588
+2023-08-16 11:04:49.418014,League One - England - League One 2023/24 - Top 6 Finish,Cheltenham Town,-0.011199999999999995,0.0476,0.0588
+2023-08-16 10:03:06.876582,League One - England - League One 2023/24 - Top Goalscorer,Shayne Lavery,-0.011199999999999995,0.0476,0.0588
+2023-08-16 11:04:49.429770,League Two - England - League Two 2023/24 - Top Goalscorer,Paul Mullin,-0.011199999999999995,0.0476,0.0588
 2023-08-16 13:02:15.327728,ISPS Handa Invitational - 2/3 Balls - 1st Round 3 Balls - J. Parry / P. Figueiredo / J. Lee - 1st Round 3 Balls,Joshua Lee,-0.01150000000000001,0.3333,0.3448
 2023-08-16 17:02:21.054567,Regular Season Wins O/U - 2023 Regular Season Wins - Chicago Sky,Under 15.5,-0.0116,0.4762,0.4878
 2023-08-16 18:02:41.393586,Jacksonville Jaguars - 2023-24 Regular Season Wins O/U - Regular Season Wins - Jacksonville Jaguars O/U  9.5,Under 9.5,-0.0116,0.4762,0.4878
+2023-08-16 21:02:13.457925,Round Match-Ups - 1st Round Match-Up - V. Hovland vs X. Schauffele - 1st Round Match-Up,Xander Schauffele,-0.011600000000000055,0.5122,0.5238
+2023-08-16 21:02:13.148550,Boxing Lines - Jordan Flynn vs Kane Baker - To Win the Bout,Kane Baker,-0.011700000000000016,0.2105,0.2222
+2023-08-16 15:03:25.935439,Season Player Specials - NFL 2023-24 Receiving Yards - Chris Godwin 2023-24 Regular Season Total Receiving Yards,Under 800.5,-0.012199999999999989,0.5,0.5122
+2023-08-16 19:04:44.029106,Tournament Match-Ups - Tournament Match-Ups - V. Hovland vs X. Schauffele - Tournament Match-Ups,Xander Schauffele,-0.012199999999999989,0.5,0.5122
 2023-08-16 16:02:33.837884,Tournament Match-Ups - Tournament Match-Ups - J. Rahm vs P. Cantlay - Tournament Match-Ups,Patrick Cantlay,-0.012199999999999989,0.5,0.5122
 2023-08-16 19:04:38.405155,Los Angeles Rams - 2023-24 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U  6.5,Over 6.5,-0.012199999999999989,0.4878,0.5
-2023-08-16 19:04:44.029106,Tournament Match-Ups - Tournament Match-Ups - V. Hovland vs X. Schauffele - Tournament Match-Ups,Xander Schauffele,-0.012199999999999989,0.5,0.5122
 2023-08-16 19:04:38.452922,Minnesota Vikings - 2023-24 Regular Season Wins O/U - Regular Season Wins - Minnesota Vikings O/U  8.5,Under 8.5,-0.012199999999999989,0.5,0.5122
-2023-08-16 15:03:25.935439,Season Player Specials - NFL 2023-24 Receiving Yards - Chris Godwin 2023-24 Regular Season Total Receiving Yards,Under 800.5,-0.012199999999999989,0.5,0.5122
 2023-08-16 19:04:43.249627,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion Georgia,Georgia,-0.012799999999999978,0.2857,0.2985
 2023-08-16 16:02:29.848575,Awards & League Leaders - NFL 2023/24 NFL Scoring / Defense Leaders - NFL 2023/24 Most Regular Season Points,KC Chiefs,-0.012899999999999995,0.1538,0.1667
 2023-08-16 19:04:43.240177,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Alabama,-0.012899999999999995,0.1538,0.1667
@@ -184,38 +193,39 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-16 10:03:06.960874,National League - England National League 2023/24 - Outright,Southend Utd,-0.019099999999999992,0.0476,0.0667
 2023-08-16 20:04:06.148283,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion Michigan,Michigan,-0.02020000000000001,0.0909,0.1111
 2023-08-16 11:04:49.432947,League Two - England - League Two 2023/24 - To Be Promoted,Walsall,-0.02020000000000001,0.0909,0.1111
-2023-08-16 11:04:49.432947,League Two - England - League Two 2023/24 - To Be Promoted,Bradford City,-0.021999999999999964,0.2857,0.3077
 2023-08-16 11:04:49.418014,League One - England - League One 2023/24 - Top 6 Finish,Charlton Athletic,-0.021999999999999964,0.2857,0.3077
+2023-08-16 11:04:49.432947,League Two - England - League Two 2023/24 - To Be Promoted,Bradford City,-0.021999999999999964,0.2857,0.3077
 2023-08-16 11:04:49.432947,League Two - England - League Two 2023/24 - To Be Promoted,Salford City,-0.021999999999999964,0.2857,0.3077
 2023-08-16 11:04:49.438964,League Two - England - League Two 2023/24 - Top 7 Finish,Morecambe,-0.022199999999999998,0.1111,0.1333
 2023-08-16 11:04:49.418014,League One - England - League One 2023/24 - Top 6 Finish,Exeter City,-0.022199999999999998,0.2,0.2222
 2023-08-16 11:04:49.415159,League One - England - League One 2023/24 - Top 2 Finish,Barnsley,-0.022199999999999998,0.2,0.2222
-2023-08-16 17:02:27.456812,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-16 18:02:46.004237,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-16 16:02:31.472031,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-16 19:04:41.783918,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-16 15:03:28.228961,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-16 13:02:12.314461,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-16 14:03:20.573842,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-16 12:02:19.722873,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-16 11:04:55.412019,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-16 10:03:13.090757,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-16 09:03:27.467030,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-16 08:04:20.978199,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-16 21:02:11.509310,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-16 20:04:04.759970,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-16 09:03:27.467030,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-16 19:04:41.783918,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-16 12:02:19.722873,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-16 18:02:46.004237,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-16 15:03:28.228961,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-16 17:02:27.456812,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-16 11:04:55.412019,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-16 13:02:12.314461,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-16 16:02:31.472031,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-16 14:03:20.573842,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-16 18:02:41.102857,Chicago Bears - 2023-24 Regular Season Wins O/U - Regular Season Wins - Chicago Bears O/U  7.5,Under 7.5,-0.022699999999999998,0.4651,0.4878
 2023-08-16 11:04:49.432947,League Two - England - League Two 2023/24 - To Be Promoted,Sutton United,-0.02310000000000001,0.0769,0.1
 2023-08-16 12:02:17.930707,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Receptions,Davante Adams,-0.02310000000000001,0.0769,0.1
 2023-08-16 10:03:06.873389,League One - England - League One 2023/24 - League Winner,Lincoln City,-0.023200000000000002,0.0244,0.0476
-2023-08-16 11:04:49.418014,League One - England - League One 2023/24 - Top 6 Finish,Cambridge United,-0.023799999999999988,0.1429,0.1667
-2023-08-16 11:04:49.412215,League One - England - League One 2023/24 - To Be Promoted,Derby County,-0.023799999999999988,0.4762,0.5
 2023-08-16 19:04:38.506673,New Orleans Saints - 2023-24 Regular Season Wins O/U - Regular Season Wins - New Orleans Saints O/U  9.5,Over 9.5,-0.023799999999999988,0.4762,0.5
-2023-08-16 17:02:29.673857,Little League World Series - World Series Champion - Outright,US Team,-0.023799999999999988,0.4762,0.5
 2023-08-16 18:02:41.298781,Green Bay Packers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Green Bay Packers O/U  7.5,Under 7.5,-0.023799999999999988,0.4762,0.5
+2023-08-16 11:04:49.412215,League One - England - League One 2023/24 - To Be Promoted,Derby County,-0.023799999999999988,0.4762,0.5
+2023-08-16 11:04:49.418014,League One - England - League One 2023/24 - Top 6 Finish,Cambridge United,-0.023799999999999988,0.1429,0.1667
+2023-08-16 17:02:29.673857,Little League World Series - World Series Champion - Outright,US Team,-0.023799999999999988,0.4762,0.5
 2023-08-16 20:04:06.904703,Tournament Match-Ups - Tournament Match-Ups - A. Svensson v A. Putnam - Tournament Match-Ups,Andrew Putnam,-0.023800000000000043,0.5,0.5238
-2023-08-16 11:04:49.438964,League Two - England - League Two 2023/24 - Top 7 Finish,Salford City,-0.023800000000000043,0.5,0.5238
-2023-08-16 18:02:41.563347,Miami Dolphins - 2023-24 Regular Season Wins O/U - Regular Season Wins - Miami Dolphins O/U  9.5,Under 9.5,-0.023800000000000043,0.5,0.5238
 2023-08-16 18:02:41.069797,Carolina Panthers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Carolina Panthers O/U  7.5,Under 7.5,-0.023800000000000043,0.5,0.5238
+2023-08-16 18:02:41.563347,Miami Dolphins - 2023-24 Regular Season Wins O/U - Regular Season Wins - Miami Dolphins O/U  9.5,Under 9.5,-0.023800000000000043,0.5,0.5238
+2023-08-16 21:02:13.439076,Round Match-Ups - 1st Round Match-Up - J. Spieth vs M. Homa - 1st Round Match-Up,Max Homa,-0.023800000000000043,0.5,0.5238
+2023-08-16 11:04:49.438964,League Two - England - League Two 2023/24 - Top 7 Finish,Salford City,-0.023800000000000043,0.5,0.5238
 2023-08-16 11:04:49.436000,League Two - England - League Two 2023/24 - Top 3 Finish,Doncaster Rovers,-0.0242,0.0667,0.0909
 2023-08-16 19:04:38.587088,Philadelphia Eagles - 2023-24 Regular Season Wins O/U - Regular Season Wins - Philadelphia Eagles O/U 11.5,Over 11.5,-0.024399999999999977,0.4878,0.5122
 2023-08-16 10:03:06.873389,League One - England - League One 2023/24 - League Winner,Blackpool,-0.0245,0.0588,0.0833
@@ -245,6 +255,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-16 18:02:41.747193,New York Jets - 2023-24 Regular Season Wins O/U - Regular Season Wins - New York Jets O/U  9.5,Under 9.5,-0.045499999999999985,0.4545,0.5
 2023-08-16 11:04:49.438964,League Two - England - League Two 2023/24 - Top 7 Finish,Forest Green Rovers,-0.04620000000000002,0.1538,0.2
 2023-08-16 15:03:25.962432,Season Player Specials - NFL 2023-24 Receiving Yards - D.J. Moore 2023-24 Regular Season Total Receiving Yards,Under 800.5,-0.04700000000000004,0.4878,0.5348
+2023-08-16 21:02:13.433743,Round Match-Ups - 1st Round Match-Up - M. Homa v V. Hovland - 1st Round Match-Up ,Max Homa,-0.04760000000000003,0.4762,0.5238
 2023-08-16 15:03:23.268656,Regular Season Wins O/U - 2023 Regular Season Wins - Phoenix Mercury,Over 11.5,-0.04849999999999999,0.5348,0.5833
 2023-08-16 12:02:12.288510,Womens World Cup 2023 - FIFA Womens World Cup 2023 - Outright,Spain (W),-0.04849999999999999,0.5348,0.5833
 2023-08-16 17:02:23.535041,Season Player Specials - NFL 2023-24 Defensive Interceptions - Marlon Humphrey 2023 -24 Regular Season Defensive Interceptions,Over 1.5,-0.05860000000000004,0.4762,0.5348
