@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2023-08-18 21:02:03.680143,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Daniel Brown,0.4166000000000001,0.5833,0.1667
 2023-08-18 15:04:33.772908,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Australia,Duop  Reath,0.16670000000000001,0.25,0.0833
 2023-08-18 15:04:41.354544,Little League World Series - United States Bracket Winner - Outright,Northwest - Washington,0.15910000000000002,0.25,0.0909
 2023-08-18 15:04:33.724309,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Australia,Duop  Reath,0.15450000000000003,0.4444,0.2899
@@ -9,6 +10,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-18 15:04:41.347532,Little League World Series - International Bracket Winner - Outright,Asia-Pacific - Chinese Taipei,0.09799999999999998,0.3333,0.2353
 2023-08-18 12:03:17.912951,Scores - 2nd Round Score - Collin Morikawa - 2nd Round Score,Over 68.5,0.08660000000000001,0.5744,0.4878
 2023-08-18 15:04:33.724309,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Australia,Xavier  Cooks,0.0776,0.25,0.1724
+2023-08-18 21:01:55.872210,75th Primetime Emmy Awards - Emmy - Outstanding Comedy Series - Outstanding Comedy Series,Ted Lasso,0.07690000000000008,0.6923,0.6154
 2023-08-18 20:02:09.902495,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Marissa Steen,0.07300000000000001,0.1053,0.0323
 2023-08-18 20:02:09.902495,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Olivia Cowan,0.06999999999999999,0.1176,0.0476
 2023-08-18 09:02:32.543645,Scores - 2nd Round Score - Rory McIlroy - 2nd Round Score,Over 67.5,0.06520000000000004,0.5652,0.5
@@ -20,6 +22,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-18 15:04:41.354544,Little League World Series - United States Bracket Winner - Outright,West - Southern California,0.0484,0.4651,0.4167
 2023-08-18 13:02:14.992651,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Blake Snell (SD),0.047599999999999976,0.3333,0.2857
 2023-08-18 15:04:33.772908,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Australia,Xavier  Cooks,0.0417,0.125,0.0833
+2023-08-18 21:02:03.680143,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Angel Hidalgo,0.0384,0.0769,0.0385
 2023-08-18 15:04:41.354544,Little League World Series - United States Bracket Winner - Outright,Southwest - Texas,0.037599999999999995,0.1429,0.1053
 2023-08-18 16:02:18.562027,Little League World Series - International Bracket Winner - Outright,Asia-Pacific - Chinese Taipei,0.03710000000000002,0.3704,0.3333
 2023-08-18 09:02:32.525924,Scores - 2nd Round Score - Jordan Spieth - 2nd Round Score,Over 68.5,0.03489999999999999,0.5,0.4651
@@ -28,45 +31,56 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-18 15:04:41.347532,Little League World Series - International Bracket Winner - Outright,Latin America - Venezuela,0.034100000000000005,0.125,0.0909
 2023-08-18 20:02:09.902495,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Ryann OToole,0.0321,0.0909,0.0588
 2023-08-18 17:02:28.659795,BMW Championship - 2/3 Balls - 2nd Round 2 Balls - X. Schauffele v A. Schenk - 2nd Round 3 Balls,Adam Schenk,0.030799999999999994,0.4082,0.3774
+2023-08-18 21:02:03.680143,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Adrian Otaegui,0.029299999999999993,0.0769,0.0476
 2023-08-18 13:02:15.006496,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Matt McLain (CIN),0.02840000000000001,0.1053,0.0769
+2023-08-18 21:02:03.680143,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Eddie Pepperell,0.028000000000000004,0.0476,0.0196
 2023-08-18 16:02:10.411994,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Germany,Moritz  Wagner,0.02779999999999999,0.25,0.2222
 2023-08-18 13:02:14.986799,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Triston Casas (BOS),0.02779999999999999,0.25,0.2222
 2023-08-18 15:04:33.772908,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Australia,Josh  Giddey,0.027500000000000024,0.3846,0.3571
+2023-08-18 21:02:03.680143,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Richard Mansell,0.026600000000000002,0.0323,0.0057
+2023-08-18 21:01:56.695186,FIBA World Cup Futures - Group E - Winner,Germany,0.02560000000000001,0.3333,0.3077
+2023-08-18 21:01:56.695186,FIBA World Cup Futures - Group E - Winner,Finland,0.0242,0.0909,0.0667
 2023-08-18 09:02:32.519278,Scores - 2nd Round Score - Jon Rahm - 2nd Round Score,Over 68.5,0.022699999999999998,0.4878,0.4651
-2023-08-18 08:02:58.141784,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-18 09:02:30.123926,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-18 10:01:55.834272,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-18 11:01:51.060875,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-18 18:05:05.906822,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-18 12:03:16.045144,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-18 13:02:12.898155,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-18 16:02:16.790445,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-18 14:03:38.450150,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-18 17:02:26.551338,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-18 19:03:33.628429,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-18 18:05:05.906822,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-18 11:01:53.407303,Round Match-Ups - 2nd Round Match-Up - A. Putnam v L. Hodges - 2nd Round Match-Up,Andrew Putnam,0.022600000000000064,0.5348,0.5122
-2023-08-18 15:04:39.745713,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-18 17:02:26.551338,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-18 11:01:51.060875,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-18 20:02:07.972734,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-18 14:03:38.450150,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-18 10:01:55.834272,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-18 15:04:39.745713,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-18 21:02:02.118929,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-18 11:01:53.407303,Round Match-Ups - 2nd Round Match-Up - A. Putnam v L. Hodges - 2nd Round Match-Up,Andrew Putnam,0.022600000000000064,0.5348,0.5122
+2023-08-18 09:02:30.123926,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-18 16:02:16.790445,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-18 13:02:15.474510,Scores - 2nd Round Score - Jon Rahm - 2nd Round Score,Under 68.5,0.02169999999999994,0.5455,0.5238
 2023-08-18 11:01:53.373052,BMW Championship - 2/3 Balls - 2nd Round 2 Balls - R. McIlroy v L. Glover - 2nd Round 3 Balls,Lucas Glover,0.020799999999999985,0.3333,0.3125
 2023-08-18 13:02:14.969258,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.020699999999999996,0.4651,0.4444
 2023-08-18 20:02:09.902495,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Albane Valenzuela,0.0206,0.0385,0.0179
 2023-08-18 20:02:09.902495,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Jasmine Suwannapura,0.0203,0.0588,0.0385
 2023-08-18 13:02:14.963437,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.02020000000000005,0.3279,0.3077
+2023-08-18 21:02:03.680143,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Connor Syme,0.019800000000000005,0.0476,0.0278
 2023-08-18 10:01:57.698373,Boxing Lines - Raven Chapman vs Lila Dos Santos Furtado - To Win the Bout,Raven Chapman,0.018100000000000005,0.9412,0.9231
 2023-08-18 13:02:14.975178,MLB Futures - MLB 2023 National League Central - National League Central Winner,Cincinnati Reds,0.0179,0.1429,0.125
+2023-08-18 21:02:03.680143,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Alex Fitzpatrick,0.01759999999999999,0.1176,0.1
 2023-08-18 10:01:48.524642,Professional League - Saudi Professional League 2023/24 - Winner,Al Ahli,0.016700000000000007,0.1,0.0833
+2023-08-18 21:02:03.680143,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Rasmus Neergaard-Petersen,0.0159,0.0323,0.0164
 2023-08-18 19:03:35.330648,Boxing Lines - Raven Chapman vs Lila Dos Santos Furtado - To Win the Bout,Lila Dos Santos Furtado,0.015700000000000006,0.1333,0.1176
 2023-08-18 20:02:09.821222,Boxing Lines - Nathaniel Collins vs Raza Hamza - To Win the Bout,Raza Hamza,0.015700000000000006,0.1333,0.1176
 2023-08-18 15:04:41.361319,Little League World Series - World Series Champion - Outright,International Team,0.01539999999999997,0.6154,0.6
 2023-08-18 20:02:09.902495,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Alexa Pano,0.015100000000000002,0.0164,0.0013
 2023-08-18 17:02:28.463024,Little League World Series - International Bracket Winner - Outright,Asia-Pacific - Chinese Taipei,0.01419999999999999,0.3846,0.3704
+2023-08-18 21:02:03.618197,Boxing Lines - Javon Campbell vs Lorenzo Parra - To Win the Bout,Javon Campbell,0.014000000000000012,0.9231,0.9091
 2023-08-18 20:02:09.902495,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Ana Pelaez,0.0139,0.0179,0.004
 2023-08-18 13:02:14.986799,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Masataka Yoshida (BOS),0.0131,0.2353,0.2222
+2023-08-18 21:02:03.680143,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Tom Lewis,0.0131,0.0164,0.0033
 2023-08-18 19:03:27.662230,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Australia,Josh  Giddey,0.012799999999999978,0.2985,0.2857
 2023-08-18 20:02:09.902495,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Kim Metraux,0.012700000000000003,0.0323,0.0196
-2023-08-18 09:02:32.551175,Scores - 2nd Round Score - Scottie Scheffler - 2nd Round Score,Over 67.5,0.012199999999999989,0.5122,0.5
+2023-08-18 21:01:56.601403,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - USA,Jaren  Jackson Jr,0.012299999999999978,0.3571,0.3448
 2023-08-18 09:02:32.565783,Scores - 2nd Round Score - Viktor Hovland - 2nd Round Score,Over 68.5,0.012199999999999989,0.5122,0.5
+2023-08-18 09:02:32.551175,Scores - 2nd Round Score - Scottie Scheffler - 2nd Round Score,Over 67.5,0.012199999999999989,0.5122,0.5
 2023-08-18 12:03:17.644438,BMW Championship - 2/3 Balls - 2nd Round 2 Balls - C. Young v C. Davis - 2nd Round 2 Balls,Cam Davis,0.011099999999999999,0.4762,0.4651
 2023-08-18 20:02:09.902495,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Gabriella Cowley,0.010700000000000001,0.0385,0.0278
 2023-08-18 11:01:53.512135,Round Match-Ups - 2nd Round Match-Up - M. Homa v R. Henley - 2nd Round Match-Up,Max Homa,0.010699999999999932,0.5455,0.5348
@@ -77,56 +91,74 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-18 15:04:41.361319,Little League World Series - World Series Champion - Outright,US Team,-0.010599999999999998,0.4545,0.4651
 2023-08-18 20:02:09.902495,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Ellinor Sudow,-0.0107,0.0025,0.0132
 2023-08-18 20:02:09.902495,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Bronte Law,-0.010700000000000001,0.0278,0.0385
+2023-08-18 21:02:03.680143,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Marcus Helligkilde,-0.010700000000000001,0.011,0.0217
 2023-08-18 19:03:27.662230,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Australia,Patty  Mills,-0.01100000000000001,0.5238,0.5348
 2023-08-18 13:02:14.963437,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,-0.011099999999999999,0.7222,0.7333
 2023-08-18 20:02:09.902495,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Anne Charlotte Mora,-0.0112,0.002,0.0132
 2023-08-18 20:02:09.902495,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Yuna Nishimura,-0.0113,0.0066,0.0179
+2023-08-18 21:02:03.680143,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Robin Sciot-Siegrist,-0.011399999999999997,0.0164,0.0278
 2023-08-18 17:02:28.659795,BMW Championship - 2/3 Balls - 2nd Round 2 Balls - X. Schauffele v A. Schenk - 2nd Round 3 Balls,Xander Schauffele,-0.011499999999999955,0.6552,0.6667
 2023-08-18 11:01:53.520326,Round Match-Ups - 2nd Round Match-Up - R. McIlroy v P. Cantlay - 2nd Round Match-Up,Patrick Cantlay,-0.0116,0.4762,0.4878
-2023-08-18 11:01:53.512135,Round Match-Ups - 2nd Round Match-Up - M. Homa v R. Henley - 2nd Round Match-Up,Russell Henley,-0.012199999999999989,0.5,0.5122
+2023-08-18 21:02:03.680143,ISPS Handa Invitational - ISPS Handa Invitational - Winner,David Law,-0.011699999999999999,0.0079,0.0196
+2023-08-18 21:02:03.680143,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Niklas Lemke,-0.011699999999999999,0.0079,0.0196
+2023-08-18 21:01:57.590621,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,-0.011899999999999994,0.2381,0.25
 2023-08-18 14:03:40.474925,BMW Championship - 2/3 Balls - 2nd Round 2 Balls - S. Scheffler v J. Rahm - 2nd Round 2 Balls,Jon Rahm,-0.012199999999999989,0.4878,0.5
+2023-08-18 11:01:53.512135,Round Match-Ups - 2nd Round Match-Up - M. Homa v R. Henley - 2nd Round Match-Up,Russell Henley,-0.012199999999999989,0.5,0.5122
+2023-08-18 21:02:03.680143,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Todd Clements,-0.012799999999999999,0.0013,0.0141
 2023-08-18 13:02:15.006496,MLB Futures - MLB 2023 Player Awards - National League Rookie of the Year,Francisco Alvarez (NYM),-0.012800000000000002,0.0116,0.0244
 2023-08-18 20:02:09.902495,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Wichanee Meechai,-0.014400000000000003,0.0179,0.0323
-2023-08-18 20:02:09.902495,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Peiyun Chien,-0.015300000000000001,0.0323,0.0476
+2023-08-18 21:02:03.680143,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Ewen Ferguson,-0.014599999999999998,0.0033,0.0179
 2023-08-18 20:02:09.902495,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Cara Gainer,-0.015300000000000001,0.0323,0.0476
+2023-08-18 20:02:09.902495,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Peiyun Chien,-0.015300000000000001,0.0323,0.0476
 2023-08-18 10:01:57.698373,Boxing Lines - Raven Chapman vs Lila Dos Santos Furtado - To Win the Bout,Lila Dos Santos Furtado,-0.015700000000000006,0.1176,0.1333
+2023-08-18 21:02:03.680143,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Darius Van Driel,-0.0163,0.0033,0.0196
 2023-08-18 13:02:14.986799,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Gunnar Henderson (BAL),-0.017300000000000093,0.697,0.7143
 2023-08-18 15:04:41.347532,Little League World Series - International Bracket Winner - Outright,Canada - Saskatchewan,-0.017400000000000002,0.0149,0.0323
 2023-08-18 15:04:41.347532,Little League World Series - International Bracket Winner - Outright,Mexico,-0.01759999999999999,0.1,0.1176
 2023-08-18 15:04:33.821182,FIBA World Cup Futures - FIBA World Cup - Top Total Rebounds,Walter  Tavares,-0.0179,0.125,0.1429
-2023-08-18 19:03:35.330648,Boxing Lines - Raven Chapman vs Lila Dos Santos Furtado - To Win the Bout,Raven Chapman,-0.018100000000000005,0.9231,0.9412
+2023-08-18 21:02:03.680143,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Matthew Jordan,-0.0179,0.0099,0.0278
 2023-08-18 20:02:09.821222,Boxing Lines - Nathaniel Collins vs Raza Hamza - To Win the Bout,Nathaniel Collins,-0.018100000000000005,0.9231,0.9412
+2023-08-18 19:03:35.330648,Boxing Lines - Raven Chapman vs Lila Dos Santos Furtado - To Win the Bout,Raven Chapman,-0.018100000000000005,0.9231,0.9412
+2023-08-18 21:02:03.680143,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Jeung-Hun Wang,-0.0183,0.0013,0.0196
 2023-08-18 15:04:41.347532,Little League World Series - International Bracket Winner - Outright,Europe-Africa - Czech Republic,-0.0189,0.0196,0.0385
 2023-08-18 11:01:53.373052,BMW Championship - 2/3 Balls - 2nd Round 2 Balls - R. McIlroy v L. Glover - 2nd Round 3 Balls,Rory McIlroy,-0.018999999999999906,0.7143,0.7333
 2023-08-18 16:02:18.562027,Little League World Series - International Bracket Winner - Outright,Japan,-0.019000000000000017,0.2667,0.2857
+2023-08-18 21:02:03.680143,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Jamie Rutherford,-0.019200000000000002,0.0025,0.0217
+2023-08-18 21:02:03.680143,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Marcus Kinhult,-0.019899999999999998,0.0079,0.0278
+2023-08-18 21:02:03.618197,Boxing Lines - Javon Campbell vs Lorenzo Parra - To Win the Bout,Lorenzo Parra,-0.02049999999999999,0.1333,0.1538
 2023-08-18 13:02:14.957438,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,-0.02049999999999999,0.1333,0.1538
 2023-08-18 13:02:15.474510,Scores - 2nd Round Score - Jon Rahm - 2nd Round Score,Over 68.5,-0.02169999999999994,0.5238,0.5455
-2023-08-18 11:01:53.407303,Round Match-Ups - 2nd Round Match-Up - A. Putnam v L. Hodges - 2nd Round Match-Up,Lee Hodges,-0.022600000000000064,0.5122,0.5348
-2023-08-18 20:02:07.981612,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-18 19:03:33.636579,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-18 18:05:05.918156,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-18 16:02:16.802523,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-18 17:02:26.559869,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-18 11:01:51.072298,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-18 21:02:03.680143,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Sam Bairstow,-0.022099999999999998,0.0057,0.0278
+2023-08-18 21:01:55.872210,75th Primetime Emmy Awards - Emmy - Outstanding Comedy Series - Outstanding Comedy Series,Jury Duty,-0.022199999999999998,0.1111,0.1333
 2023-08-18 15:04:39.754344,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-18 14:03:38.461757,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-18 08:02:58.152744,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-18 09:02:30.134319,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-18 11:01:53.407303,Round Match-Ups - 2nd Round Match-Up - A. Putnam v L. Hodges - 2nd Round Match-Up,Lee Hodges,-0.022600000000000064,0.5122,0.5348
+2023-08-18 16:02:16.802523,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-18 13:02:12.908715,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-18 17:02:26.559869,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-18 12:03:16.053217,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-18 18:05:05.918156,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-18 11:01:51.072298,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-18 19:03:33.636579,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-18 10:01:55.843543,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-18 20:02:07.981612,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-18 09:02:30.134319,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-18 21:02:02.126772,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-18 14:03:38.461757,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-18 15:04:41.347532,Little League World Series - International Bracket Winner - Outright,Cuba,-0.0232,0.0435,0.0667
 2023-08-18 16:02:18.562027,Little League World Series - International Bracket Winner - Outright,Caribbean - Curacao,-0.024500000000000022,0.3922,0.4167
 2023-08-18 09:02:32.519278,Scores - 2nd Round Score - Jon Rahm - 2nd Round Score,Under 68.5,-0.025599999999999956,0.5744,0.6
 2023-08-18 15:04:41.347532,Little League World Series - International Bracket Winner - Outright,Caribbean - Curacao,-0.027700000000000002,0.4167,0.4444
 2023-08-18 13:02:14.992651,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Logan Webb (SF),-0.02779999999999999,0.2222,0.25
-2023-08-18 15:04:41.354544,Little League World Series - United States Bracket Winner - Outright,Mid-Atlantic - Pennsylvania,-0.0343,0.0833,0.1176
 2023-08-18 15:04:41.354544,Little League World Series - United States Bracket Winner - Outright,Midwest - North Dakota,-0.0343,0.0833,0.1176
+2023-08-18 15:04:41.354544,Little League World Series - United States Bracket Winner - Outright,Mid-Atlantic - Pennsylvania,-0.0343,0.0833,0.1176
 2023-08-18 09:02:32.525924,Scores - 2nd Round Score - Jordan Spieth - 2nd Round Score,Under 68.5,-0.03479999999999994,0.5652,0.6
 2023-08-18 13:02:15.501159,Scores - 2nd Round Score - Rory McIlroy - 2nd Round Score,Under 67.5,-0.03489999999999999,0.4651,0.5
 2023-08-18 13:02:14.986799,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Oscar Colas (CWS),-0.036000000000000004,0.0116,0.0476
 2023-08-18 20:02:09.902495,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Georgia Hall,-0.04169999999999999,0.125,0.1667
+2023-08-18 21:02:03.680143,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Matthew Southgate,-0.04239999999999999,0.0164,0.0588
 2023-08-18 13:02:14.975178,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,-0.04290000000000005,0.6,0.6429
+2023-08-18 21:02:03.680143,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Calum Hill,-0.0451,0.0025,0.0476
+2023-08-18 21:02:03.680143,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Paul Waring,-0.0456,0.002,0.0476
 2023-08-18 20:02:09.902495,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Leona Maguire,-0.04650000000000001,0.0588,0.1053
 2023-08-18 12:03:17.922812,Scores - 2nd Round Score - Jon Rahm - 2nd Round Score,Under 68.5,-0.05059999999999998,0.5238,0.5744
 2023-08-18 15:04:41.354544,Little League World Series - United States Bracket Winner - Outright,New England - Maine,-0.051,0.0323,0.0833
