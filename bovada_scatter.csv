@@ -3,7 +3,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-19 19:05:26.994629,Milwaukee Fox News Debate - Which candidate will get the most time to speak? - Most Talking Time,Ron DeSantis,0.23330000000000004,0.4,0.1667
 2023-08-19 19:05:37.712431,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Gabriella Cowley,0.2282,0.2667,0.0385
 2023-08-19 18:04:45.472458,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Miley Cyrus,0.2088,0.2857,0.0769
+2023-08-20 03:02:53.673745,Scores - Final Round Score - Rory McIlroy - Final Round Score,Over 67.5,0.18780000000000002,0.6226,0.4348
 2023-08-19 19:05:37.712431,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Ryann OToole,0.1723,0.2632,0.0909
+2023-08-20 03:02:53.679400,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 67.5,0.14890000000000003,0.5744,0.4255
 2023-08-19 19:05:37.712431,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Esther Henseleit,0.12739999999999999,0.2941,0.1667
 2023-08-19 18:04:45.472458,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Harry Styles,0.125,0.25,0.125
 2023-08-19 18:04:45.503198,75th Primetime Emmy Awards - Emmy - Limited Or Anthology Series - Limited Or Anthology Series,Beef,0.10709999999999997,0.8571,0.75
@@ -11,10 +13,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-19 19:05:24.665246,Big Brother - Big Brother 2023 - Big Brother 2023 Winner,Cory Wurtenberger,0.0635,0.1111,0.0476
 2023-08-19 18:04:45.507263,75th Primetime Emmy Awards - Emmy - Lead Actor (Drama) - Lead Actor (Drama),Kieran Culkin (Succession),0.05559999999999998,0.5,0.4444
 2023-08-19 19:05:24.665246,Big Brother - Big Brother 2023 - Big Brother 2023 Winner,Izzy Gleicher,0.052300000000000006,0.1111,0.0588
+2023-08-20 03:02:44.851353,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Canada,Kelly  Olynyk,0.04999999999999999,0.25,0.2
 2023-08-19 19:05:37.712431,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Kim Metraux,0.044599999999999994,0.0769,0.0323
 2023-08-19 19:05:24.665246,Big Brother - Big Brother 2023 - Big Brother 2023 Winner,Jared Fields,0.04440000000000001,0.1111,0.0667
 2023-08-19 18:04:45.491460,75th Primetime Emmy Awards - Emmy - Outstanding Comedy Series - Outstanding Comedy Series,Ted Lasso,0.040999999999999925,0.7333,0.6923
 2023-08-20 02:04:43.932588,Ligue 1 - France Ligue 1 2023/24 - Winner,Marseille,0.03860000000000001,0.1053,0.0667
+2023-08-20 03:02:44.784413,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Italy,Alessandro Pajola,0.037599999999999995,0.1429,0.1053
 2023-08-19 18:04:45.491460,75th Primetime Emmy Awards - Emmy - Outstanding Comedy Series - Outstanding Comedy Series,The Bear,0.03570000000000001,0.2857,0.25
 2023-08-19 19:05:24.665246,Big Brother - Big Brother 2023 - Big Brother 2023 Winner,Cirie Fields,0.03420000000000001,0.1111,0.0769
 2023-08-19 18:04:45.472458,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Billie Eilish,0.033100000000000004,0.0625,0.0294
@@ -23,18 +27,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-19 18:04:45.472458,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Elton John,0.028000000000000004,0.0476,0.0196
 2023-08-19 16:04:41.763942,Round Match-Ups - 3rd Round Match-Up - T. Fleetwood v C. Conners - 3rd Round Match-Up,Tommy Fleetwood,0.026499999999999968,0.5917,0.5652
 2023-08-20 02:04:43.922985,MLS - MLS 2023 - Winner,Nashville SC,0.0242,0.0909,0.0667
-2023-08-19 20:02:38.892206,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-19 19:05:34.677080,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-19 16:04:38.333994,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-19 17:03:11.766951,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-19 18:04:52.467762,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-19 22:05:32.121295,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-19 17:03:11.766951,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-19 16:04:38.333994,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-19 19:05:34.677080,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-19 20:02:38.892206,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-19 21:03:32.760629,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-19 15:02:00.901039,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-20 00:04:41.147614,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-19 23:02:11.204978,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-20 01:02:46.106384,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-20 02:04:50.852275,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-20 03:02:51.725453,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-20 00:04:41.147614,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-19 16:04:41.784122,Round Match-Ups - 3rd Round Match-Up - S. Scheffler v R. McIlroy - 3rd Round Match-Up,Scottie Scheffler,0.02079999999999993,0.5556,0.5348
 2023-08-19 16:04:41.774022,Round Match-Ups - 3rd Round Match-Up - V. Hovland v C. Morikawa - 3rd Round Match-Up,Viktor Hovland,0.02079999999999993,0.5556,0.5348
 2023-08-19 19:05:37.712431,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Albane Valenzuela,0.0203,0.0588,0.0385
@@ -62,10 +66,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-19 18:04:45.472458,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Drake,-0.013899999999999996,0.1111,0.125
 2023-08-19 19:05:37.712431,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Ana Pelaez,-0.0139,0.004,0.0179
 2023-08-20 02:04:43.922985,MLS - MLS 2023 - Winner,New England Revolution,-0.013999999999999999,0.0769,0.0909
-2023-08-20 02:04:44.925675,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Thomas  Walkup,-0.013999999999999999,0.0769,0.0909
-2023-08-20 02:04:44.925675,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Tremont  Waters,-0.013999999999999999,0.0769,0.0909
 2023-08-19 18:04:45.503198,75th Primetime Emmy Awards - Emmy - Limited Or Anthology Series - Limited Or Anthology Series,Fleishman Is In Trouble,-0.013999999999999999,0.0769,0.0909
+2023-08-20 02:04:44.925675,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Tremont  Waters,-0.013999999999999999,0.0769,0.0909
 2023-08-19 18:04:45.503198,75th Primetime Emmy Awards - Emmy - Limited Or Anthology Series - Limited Or Anthology Series,Daisy Jones & The Six,-0.013999999999999999,0.0769,0.0909
+2023-08-20 02:04:44.925675,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Thomas  Walkup,-0.013999999999999999,0.0769,0.0909
 2023-08-19 19:05:37.702050,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Adrian Otaegui,-0.014099999999999994,0.0526,0.0667
 2023-08-19 18:04:45.472458,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Dua Lipa,-0.014399999999999996,0.0625,0.0769
 2023-08-19 18:04:45.472458,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Adele,-0.014399999999999996,0.0625,0.0769
@@ -74,31 +78,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-19 18:04:45.512215,75th Primetime Emmy Awards - Emmy - Lead Actress (Drama) - Lead Actress (Drama),Sharon Horgan (Bad Sisters),-0.015300000000000001,0.0323,0.0476
 2023-08-19 19:05:37.712431,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Su Oh,-0.0166,0.0013,0.0179
 2023-08-20 02:04:44.925675,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Marcelinho  Huertas,-0.016600000000000004,0.0667,0.0833
+2023-08-20 02:04:44.925675,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Bogdan  Bogdanovic,-0.016600000000000004,0.0667,0.0833
 2023-08-19 19:05:26.967819,Milwaukee Fox News Debate - Will Donald Trump debate as a candidate on August 23rd 2023 in Milwaukee? - Will Trump Debate In Milwaukee?,Yes,-0.0179,0.125,0.1429
 2023-08-20 02:04:43.902874,La Liga - Spain La Liga 2023/24 - Winner,Real Madrid,-0.018100000000000005,0.5652,0.5833
-2023-08-19 19:05:24.665246,Big Brother - Big Brother 2023 - Big Brother 2023 Winner,Jag Bains,-0.01820000000000002,0.1818,0.2
 2023-08-19 19:05:24.665246,Big Brother - Big Brother 2023 - Big Brother 2023 Winner,America Lopez,-0.01820000000000002,0.1818,0.2
+2023-08-19 19:05:24.665246,Big Brother - Big Brother 2023 - Big Brother 2023 Winner,Jag Bains,-0.01820000000000002,0.1818,0.2
 2023-08-19 19:05:37.712431,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Trichat Cheenglab,-0.0183,0.0013,0.0196
 2023-08-19 18:04:45.495386,75th Primetime Emmy Awards - Emmy - Outstanding Drama Series - Outstanding Drama Series,The Crown,-0.019099999999999992,0.0476,0.0667
 2023-08-19 16:04:41.763942,Round Match-Ups - 3rd Round Match-Up - T. Fleetwood v C. Conners - 3rd Round Match-Up,Corey Conners,-0.021699999999999997,0.4545,0.4762
 2023-08-19 16:04:28.242712,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Manchester City,-0.021999999999999964,0.2857,0.3077
 2023-08-19 19:05:37.712431,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Soo Bin Joo,-0.022099999999999998,0.0164,0.0385
-2023-08-19 15:02:00.910910,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-19 20:02:38.900123,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-20 02:04:50.860509,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-20 01:02:46.114267,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-20 00:04:41.162472,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-19 23:02:11.212781,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-19 21:03:32.771580,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-19 22:05:32.131170,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-19 18:04:52.478871,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-19 19:05:34.690849,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-19 16:04:38.351445,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-20 00:04:41.162472,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-19 21:03:32.771580,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-19 20:02:38.900123,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-19 17:03:11.777180,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-19 19:05:34.690849,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-20 01:02:46.114267,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-19 18:04:52.478871,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-19 16:04:38.351445,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-20 02:04:50.860509,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-20 03:02:51.735157,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-19 23:02:11.212781,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-19 19:05:37.712431,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Emily Kristine Pedersen,-0.0234,0.001,0.0244
 2023-08-19 16:04:41.682280,BMW Championship - 2/3 Balls - 3rd Round 2 Balls - C. Morikawa v C. Conners - 3rd Round 2 Balls,Corey Conners,-0.023799999999999988,0.4762,0.5
-2023-08-19 19:05:26.994629,Milwaukee Fox News Debate - Which candidate will get the most time to speak? - Most Talking Time,Chris Christie,-0.023799999999999988,0.1429,0.1667
 2023-08-19 19:05:26.994629,Milwaukee Fox News Debate - Which candidate will get the most time to speak? - Most Talking Time,Nikki Haley,-0.023799999999999988,0.1429,0.1667
+2023-08-19 19:05:26.994629,Milwaukee Fox News Debate - Which candidate will get the most time to speak? - Most Talking Time,Chris Christie,-0.023799999999999988,0.1429,0.1667
 2023-08-20 02:04:43.932588,Ligue 1 - France Ligue 1 2023/24 - Winner,Monaco,-0.0242,0.0667,0.0909
 2023-08-19 16:04:41.774022,Round Match-Ups - 3rd Round Match-Up - V. Hovland v C. Morikawa - 3rd Round Match-Up,Collin Morikawa,-0.024399999999999977,0.4878,0.5122
 2023-08-19 16:04:41.784122,Round Match-Ups - 3rd Round Match-Up - S. Scheffler v R. McIlroy - 3rd Round Match-Up,Rory McIlroy,-0.024399999999999977,0.4878,0.5122
@@ -107,8 +112,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-19 19:05:37.712431,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Diksha Dagar,-0.026600000000000002,0.0057,0.0323
 2023-08-19 19:05:37.712431,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Arpichaya Yubol,-0.028300000000000002,0.004,0.0323
 2023-08-19 18:04:45.495386,75th Primetime Emmy Awards - Emmy - Outstanding Drama Series - Outstanding Drama Series,Better Call Saul,-0.028399999999999995,0.0625,0.0909
-2023-08-19 18:04:45.512215,75th Primetime Emmy Awards - Emmy - Lead Actress (Drama) - Lead Actress (Drama),Elisabeth Moss (The Handmaid's Tale),-0.029299999999999993,0.0476,0.0769
 2023-08-19 18:04:45.472458,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Britney Spears,-0.029299999999999993,0.0476,0.0769
+2023-08-19 18:04:45.512215,75th Primetime Emmy Awards - Emmy - Lead Actress (Drama) - Lead Actress (Drama),Elisabeth Moss (The Handmaid's Tale),-0.029299999999999993,0.0476,0.0769
 2023-08-19 22:05:24.932432,WNBA Championship - WNBA Championship 2023 - Outright Winner,New York Liberty,-0.030299999999999994,0.3333,0.3636
 2023-08-19 18:04:45.495386,75th Primetime Emmy Awards - Emmy - Outstanding Drama Series - Outstanding Drama Series,The White Lotus,-0.03420000000000001,0.0769,0.1111
 2023-08-19 18:04:45.507263,75th Primetime Emmy Awards - Emmy - Lead Actor (Drama) - Lead Actor (Drama),Bob Odenkirk (Better Call Saul),-0.03570000000000001,0.25,0.2857
@@ -119,6 +124,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-20 02:04:44.925675,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Luka  Doncic,-0.044499999999999984,0.2222,0.2667
 2023-08-20 01:02:39.016887,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Manchester United,-0.0448,0.0385,0.0833
 2023-08-19 19:05:37.702050,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Connor Syme,-0.0456,0.002,0.0476
+2023-08-20 03:02:44.851353,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Canada,Shai  Gilgeous - Alexander,-0.04580000000000001,0.2667,0.3125
 2023-08-19 18:04:45.512215,75th Primetime Emmy Awards - Emmy - Lead Actress (Drama) - Lead Actress (Drama),Bella Ramsey (The Last Of Us),-0.048100000000000004,0.0769,0.125
 2023-08-19 18:04:45.491460,75th Primetime Emmy Awards - Emmy - Outstanding Comedy Series - Outstanding Comedy Series,Jury Duty,-0.048600000000000004,0.0625,0.1111
 2023-08-19 18:04:45.472458,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Taylor Swift,-0.052000000000000005,0.0909,0.1429
@@ -130,3 +136,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-19 19:05:37.712431,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Marissa Steen,-0.09960000000000001,0.0057,0.1053
 2023-08-19 19:05:37.712431,ISPS Handa Invitational - ISPS Handa Invitational - Winner,Georgia Hall,-0.12,0.005,0.125
 2023-08-19 18:04:45.503198,75th Primetime Emmy Awards - Emmy - Limited Or Anthology Series - Limited Or Anthology Series,Dahmer - Monster: The Jeffrey Dahmer Story,-0.14139999999999997,0.2222,0.3636
+2023-08-20 03:02:53.679400,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Under 67.5,-0.14859999999999995,0.4878,0.6364
+2023-08-20 03:02:53.673745,Scores - Final Round Score - Rory McIlroy - Final Round Score,Under 67.5,-0.18520000000000003,0.4444,0.6296
