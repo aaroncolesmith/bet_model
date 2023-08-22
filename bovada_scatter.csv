@@ -21,8 +21,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-22 01:04:03.105742,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Australia,Matisse  Thybulle,0.033299999999999996,0.4878,0.4545
 2023-08-22 01:04:03.154912,FIBA World Cup Futures - FIBA World Cup - Top Points Scorer,Anthony  Edwards,0.031799999999999995,0.1429,0.1111
 2023-08-21 19:04:54.629628,The Ally Challenge - The Ally Challenge - Outright,Steven Alker,0.02840000000000001,0.1053,0.0769
-2023-08-22 01:04:03.266638,FIBA World Cup Futures - Group Qualification - Japan - Group Qualification,No - Will not qualify from the group,0.028200000000000003,0.9615,0.9333
 2023-08-22 00:02:01.151046,FIBA World Cup Futures - Stage of Elimination - Japan - Stage of Elimination,Group Stage,0.028200000000000003,0.9615,0.9333
+2023-08-22 01:04:03.266638,FIBA World Cup Futures - Group Qualification - Japan - Group Qualification,No - Will not qualify from the group,0.028200000000000003,0.9615,0.9333
 2023-08-22 06:06:34.100231,Tournament Match-Ups - Tournament Match-Ups - P. Cantlay vs M. Homa - Tournament Match-Ups,Patrick Cantlay,0.026499999999999968,0.5917,0.5652
 2023-08-22 01:04:03.515360,FIBA World Cup Futures - Tournament Match-Ups - Tournament Match-Ups (Italy vs Brazil),Italy,0.025600000000000067,0.6923,0.6667
 2023-08-21 21:03:06.169426,To Make the Playoffs - 2023-24 To Make the Playoffs - Houston Rockets,No,0.024500000000000077,0.9412,0.9167
@@ -30,22 +30,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-22 06:06:34.104762,Tournament Match-Ups - Tournament Match-Ups - R. Fowler vs R. Henley - Tournament Match-Ups,Russell Henley,0.023800000000000043,0.5238,0.5
 2023-08-22 06:06:34.128151,Tournament Match-Ups - Tournament Match-Ups - W. Clark vs T. Fleetwood - Tournament Match-Ups,Tommy Fleetwood,0.023800000000000043,0.5238,0.5
 2023-08-21 19:04:54.629628,The Ally Challenge - The Ally Challenge - Outright,Thongchai Jaidee,0.023100000000000002,0.0244,0.0013
-2023-08-21 21:03:12.785909,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-21 20:04:50.361158,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-22 07:02:39.005294,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-21 19:04:52.872571,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-22 00:02:06.952746,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-21 20:04:50.361158,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-22 06:06:32.294605,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-22 01:04:09.366389,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-21 21:03:12.785909,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-22 04:06:29.066820,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-21 22:04:14.969651,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-21 23:02:16.388015,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-22 02:02:22.091683,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-22 01:04:09.366389,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-22 04:06:29.066820,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-22 06:06:32.294605,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-22 06:06:25.284407,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Liverpool,0.022600000000000064,0.6226,0.6
-2023-08-21 19:04:52.872571,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-22 07:02:41.078605,Tournament Match-Ups - Tournament Match-Ups - W. Clark vs T. Fleetwood - Tournament Match-Ups,Tommy Fleetwood,0.02169999999999994,0.5455,0.5238
 2023-08-21 19:04:54.629628,The Ally Challenge - The Ally Challenge - Outright,Dicky Pride,0.0211,0.0244,0.0033
 2023-08-21 22:04:07.953092,Victor Wembanyama Specials - Average Points Per Game During the 2023-24 Regular Season - Victor Wembanyama (SAS) - Average Points Per Game,Under 17.5,0.02079999999999993,0.5556,0.5348
 2023-08-22 06:06:34.113554,Tournament Match-Ups - Tournament Match-Ups - S. Im vs C. Morikawa - Tournament Match-Ups,Sungjae Im,0.01970000000000005,0.5652,0.5455
-2023-08-22 01:04:03.123959,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Greece,Thomas Walkup,0.01880000000000004,0.5744,0.5556
 2023-08-21 21:03:05.832031,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Conference,Western Conference,0.01880000000000004,0.5744,0.5556
+2023-08-22 01:04:03.123959,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Greece,Thomas Walkup,0.01880000000000004,0.5744,0.5556
 2023-08-22 06:06:25.284407,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Brighton & Hove Albion,0.0174,0.25,0.2326
 2023-08-22 06:06:25.284407,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Arsenal,0.016700000000000048,0.75,0.7333
 2023-08-21 19:04:48.092386,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Vivek Ramaswamy,0.015100000000000002,0.1818,0.1667
@@ -54,16 +56,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-22 06:06:25.230904,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Viborg FF,0.013899999999999996,0.125,0.1111
 2023-08-22 00:02:01.204347,FIBA World Cup Futures - Stage of Elimination - USA - Stage of Elimination,Winner,0.010699999999999932,0.5455,0.5348
 2023-08-21 21:03:05.835550,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Division,Northwest Division,0.01050000000000001,0.1923,0.1818
-2023-08-21 19:04:54.629628,The Ally Challenge - The Ally Challenge - Outright,Paul Broadhurst,0.0102,0.0152,0.005
 2023-08-22 06:06:25.281526,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,West Ham United,0.0102,0.0769,0.0667
+2023-08-21 19:04:54.629628,The Ally Challenge - The Ally Challenge - Outright,Paul Broadhurst,0.0102,0.0152,0.005
 2023-08-22 02:02:15.749004,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,USA,0.010099999999999998,0.5556,0.5455
-2023-08-22 02:02:16.289603,FIBA World Cup Futures - Stage of Elimination - USA - Stage of Elimination,Winner,0.010099999999999998,0.5556,0.5455
 2023-08-22 00:02:00.906751,FIBA World Cup Futures - FIBA World Cup - Winners Group,Group C,0.010099999999999998,0.5556,0.5455
+2023-08-22 02:02:16.289603,FIBA World Cup Futures - Stage of Elimination - USA - Stage of Elimination,Winner,0.010099999999999998,0.5556,0.5455
 2023-08-21 20:04:52.051076,Tour Championship - Tour Championship - Winner,Adam Schenk,-0.0107,0.0025,0.0132
 2023-08-21 21:03:05.835550,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Division,Central Division,-0.010899999999999993,0.1429,0.1538
-2023-08-21 19:04:47.991475,Milwaukee Fox News Debate - Donald Trump - Tucker Carlson Interview: First Cliche - Trump - Carlson Interview: First Cliche,Crooked Joe Biden,-0.011099999999999999,0.1,0.1111
 2023-08-22 06:06:25.228098,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Odense,-0.011099999999999999,0.1,0.1111
 2023-08-21 21:03:05.835550,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Division,Southwest Division,-0.011099999999999999,0.1,0.1111
+2023-08-21 19:04:47.991475,Milwaukee Fox News Debate - Donald Trump - Tucker Carlson Interview: First Cliche - Trump - Carlson Interview: First Cliche,Crooked Joe Biden,-0.011099999999999999,0.1,0.1111
 2023-08-22 00:02:01.204347,FIBA World Cup Futures - Stage of Elimination - USA - Stage of Elimination,Quarter Final,-0.011099999999999999,0.1,0.1111
 2023-08-22 00:02:00.906751,FIBA World Cup Futures - FIBA World Cup - Winners Group,Group H,-0.011700000000000016,0.2105,0.2222
 2023-08-22 06:06:25.281526,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Brentford,-0.012600000000000007,0.0588,0.0714
@@ -75,28 +77,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-22 06:06:25.278640,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Manchester City,-0.01539999999999997,0.6,0.6154
 2023-08-21 19:04:54.629628,The Ally Challenge - The Ally Challenge - Outright,Wes Short Jr,-0.0156,0.004,0.0196
 2023-08-21 19:04:54.629628,The Ally Challenge - The Ally Challenge - Outright,Shane Bertsch,-0.0163,0.0033,0.0196
+2023-08-22 07:02:30.807308,La Liga - Spain La Liga 2023/24 - Winner,Real Madrid,-0.016699999999999937,0.5833,0.6
 2023-08-22 06:06:25.281526,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Crystal Palace,-0.01759999999999999,0.1,0.1176
 2023-08-22 00:02:01.151046,FIBA World Cup Futures - Stage of Elimination - Japan - Stage of Elimination,2nd Round,-0.01759999999999999,0.1,0.1176
 2023-08-22 06:06:25.228098,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Viborg FF,-0.018099999999999998,0.0588,0.0769
 2023-08-21 19:04:47.991475,Milwaukee Fox News Debate - Donald Trump - Tucker Carlson Interview: First Cliche - Trump - Carlson Interview: First Cliche,Bogus indictments,-0.01820000000000002,0.1818,0.2
 2023-08-22 06:06:25.233681,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,FC Nordsjælland,-0.01849999999999996,0.9524,0.9709
 2023-08-22 00:02:00.914354,FIBA World Cup Futures - FIBA World Cup - Top Total Blocks,Rudy  Gobert,-0.019000000000000017,0.2667,0.2857
-2023-08-22 06:06:34.128151,Tournament Match-Ups - Tournament Match-Ups - W. Clark vs T. Fleetwood - Tournament Match-Ups,Wyndham Clark,-0.01970000000000005,0.5455,0.5652
 2023-08-22 06:06:34.104762,Tournament Match-Ups - Tournament Match-Ups - R. Fowler vs R. Henley - Tournament Match-Ups,Rickie Fowler,-0.01970000000000005,0.5455,0.5652
+2023-08-22 06:06:34.128151,Tournament Match-Ups - Tournament Match-Ups - W. Clark vs T. Fleetwood - Tournament Match-Ups,Wyndham Clark,-0.01970000000000005,0.5455,0.5652
 2023-08-21 19:04:47.991475,Milwaukee Fox News Debate - Donald Trump - Tucker Carlson Interview: First Cliche - Trump - Carlson Interview: First Cliche,Perfect phone call,-0.02020000000000001,0.0909,0.1111
 2023-08-21 21:03:06.208293,To Make the Playoffs - 2023-24 To Make the Playoffs - Philadelphia 76ers,No,-0.02049999999999999,0.1333,0.1538
+2023-08-22 07:02:41.078605,Tournament Match-Ups - Tournament Match-Ups - W. Clark vs T. Fleetwood - Tournament Match-Ups,Wyndham Clark,-0.02169999999999994,0.5238,0.5455
 2023-08-22 06:06:25.281526,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Burnley,-0.02210000000000001,0.2105,0.2326
 2023-08-22 06:06:25.228098,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Lyngby BK,-0.022199999999999998,0.2,0.2222
-2023-08-21 22:04:14.980972,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-21 20:04:50.369253,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-21 19:04:52.884033,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-21 22:04:07.953092,Victor Wembanyama Specials - Average Points Per Game During the 2023-24 Regular Season - Victor Wembanyama (SAS) - Average Points Per Game,Over 17.5,-0.022600000000000064,0.5122,0.5348
-2023-08-21 21:03:12.793933,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-21 23:02:16.396798,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-22 01:04:09.376329,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-22 04:06:29.075535,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-22 00:02:06.965571,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-22 01:04:09.376329,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-22 07:02:39.020389,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-21 23:02:16.396798,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-21 22:04:14.980972,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-21 21:03:12.793933,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-22 04:06:29.075535,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-21 20:04:50.369253,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-22 06:06:32.302352,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-21 19:04:52.884033,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-22 02:02:22.101805,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-21 21:03:06.169426,To Make the Playoffs - 2023-24 To Make the Playoffs - Houston Rockets,Yes,-0.02310000000000001,0.125,0.1481
 2023-08-22 06:06:34.100231,Tournament Match-Ups - Tournament Match-Ups - P. Cantlay vs M. Homa - Tournament Match-Ups,Max Homa,-0.023799999999999988,0.4762,0.5
@@ -106,11 +111,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-22 06:06:25.233681,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,AGF Aarhus,-0.025999999999999912,0.7143,0.7403
 2023-08-22 06:06:25.281526,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Nottingham Forest,-0.028599999999999987,0.2381,0.2667
 2023-08-22 06:06:25.233681,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,FC Midtjylland,-0.03410000000000002,0.875,0.9091
-2023-08-22 04:06:24.606369,NFL Specials - Who will be the Tampa Bay Buccaneers Week 1 starter? - Proposition,Kyle Trask,-0.03570000000000001,0.25,0.2857
 2023-08-22 00:02:01.204347,FIBA World Cup Futures - Stage of Elimination - USA - Stage of Elimination,Runner-Up,-0.03570000000000001,0.25,0.2857
+2023-08-22 04:06:24.606369,NFL Specials - Who will be the Tampa Bay Buccaneers Week 1 starter? - Proposition,Kyle Trask,-0.03570000000000001,0.25,0.2857
 2023-08-21 19:04:54.629628,The Ally Challenge - The Ally Challenge - Outright,Duffy Waldorf,-0.0375,0.001,0.0385
-2023-08-21 21:03:07.593577,Regular Season Wins O/U - 2023 Regular Season Wins - Atlanta Dream,Under 20.5,-0.037800000000000056,0.5455,0.5833
 2023-08-21 21:03:07.603947,Regular Season Wins O/U - 2023 Regular Season Wins - Dallas Wings,Under 22.5,-0.037800000000000056,0.5455,0.5833
+2023-08-21 21:03:07.593577,Regular Season Wins O/U - 2023 Regular Season Wins - Atlanta Dream,Under 20.5,-0.037800000000000056,0.5455,0.5833
 2023-08-22 06:06:25.233681,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Odense,-0.043399999999999994,0.4444,0.4878
 2023-08-22 06:06:25.284407,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Chelsea,-0.044399999999999995,0.4,0.4444
 2023-08-21 19:04:54.629628,The Ally Challenge - The Ally Challenge - Outright,Stephen Ames,-0.04440000000000001,0.0667,0.1111
