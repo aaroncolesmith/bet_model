@@ -5,8 +5,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-22 16:02:04.772202,Little League World Series - United States Bracket Winner - Outright,Northwest - Washington,0.15000000000000002,0.4,0.25
 2023-08-22 14:03:47.190295,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Under 67.5,0.1491,0.5,0.3509
 2023-08-22 14:03:46.973751,Tour Championship - 2/3 Balls - 1st Round 2 Balls - T. Hatton v E. Grillo - 1st Round 2 Balls,Tyrrell Hatton,0.1372,0.5917,0.4545
-2023-08-22 10:03:26.378663,Milwaukee Fox News Debate - Which candidate will get the most time to speak? - Most Talking Time,Vivek Ramaswamy,0.11359999999999998,0.3636,0.25
-2023-08-22 10:03:26.374446,Milwaukee Fox News Debate - Milwaukee Fox News Debate Winner According to Fox News - Debate Winner According To Fox News,Vivek Ramaswamy,0.10769999999999996,0.3077,0.2
 2023-08-22 11:05:16.354826,Boxing Lines - Koen Mazoudier vs Benjamin Hussain - To Win the Bout,Benjamin Hussain,0.10039999999999999,0.3636,0.2632
 2023-08-22 22:02:50.121197,Milwaukee Fox News Debate - Milwaukee Fox News Debate Winner According to Fox News - Debate Winner According To Fox News,Vivek Ramaswamy,0.09230000000000005,0.4,0.3077
 2023-08-22 14:03:47.184867,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Over 66.5,0.08779999999999999,0.6,0.5122
@@ -14,13 +12,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-22 21:02:29.678193,Boxing Lines - Toese Vousiutu vs Kiki Toa Leutele - To Win the Bout,Toese Vousiutu,0.07850000000000001,0.8824,0.8039
 2023-08-22 14:03:47.164292,Scores - 1st Round Score - Matt Fitzpatrick - 1st Round Score,Under 68.5,0.06930000000000003,0.5238,0.4545
 2023-08-22 16:02:04.772202,Little League World Series - United States Bracket Winner - Outright,Mountain - Nevada,0.06620000000000001,0.125,0.0588
-2023-08-22 10:03:26.378663,Milwaukee Fox News Debate - Which candidate will get the most time to speak? - Most Talking Time,Chris Christie,0.05710000000000001,0.2,0.1429
-2023-08-22 10:03:26.369866,Milwaukee Fox News Debate - Donald Trump - Tucker Carlson Interview: First Cliche - Trump - Carlson Interview: First Cliche,Bogus indictments,0.04040000000000002,0.2222,0.1818
 2023-08-22 16:02:04.864475,Boxing Lines - Toese Vousiutu vs Kiki Toa Leutele - To Win the Bout,Kiki Toa Leutele,0.0368,0.2273,0.1905
 2023-08-22 14:03:46.845957,Boxing Lines - Toese Vousiutu vs Kiki Toa Leutele - To Win the Bout,Kiki Toa Leutele,0.03670000000000001,0.1905,0.1538
 2023-08-22 18:02:55.129102,Boxing Lines - Toese Vousiutu vs Kiki Toa Leutele - To Win the Bout,Kiki Toa Leutele,0.03589999999999999,0.2632,0.2273
 2023-08-22 14:03:47.201613,Chicago - Chicago - Winner,Bryson DeChambeau,0.03420000000000001,0.1111,0.0769
-2023-08-22 10:03:26.387108,"Milwaukee Fox News Debate - Minute Of First Mention Of ""Stolen Election"" By A Candidate - First Mention Of ""Stolen Election"" By A Candidate",1.00 to 15.00,0.034100000000000005,0.125,0.0909
 2023-08-22 14:03:47.201613,Chicago - Chicago - Winner,Cameron Smith,0.031799999999999995,0.1429,0.1111
 2023-08-22 14:03:47.195537,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Under 68.5,0.03090000000000004,0.6226,0.5917
 2023-08-22 14:03:47.174374,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Under 68.5,0.03090000000000004,0.6226,0.5917
@@ -28,39 +23,37 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-22 13:05:11.076274,MMA PFL - Abigail Montes vs Michelle Montague - To Win the Bout,Abigail Montes,0.025599999999999956,0.6,0.5744
 2023-08-22 14:03:47.201613,Chicago - Chicago - Winner,Brooks Koepka,0.024299999999999995,0.0769,0.0526
 2023-08-22 21:02:18.782419,Premiership - Scotland Premiership 2023/24 - Winner,Rangers,0.023799999999999988,0.3571,0.3333
-2023-08-22 19:02:35.667835,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-22 23:03:54.802789,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-22 20:02:36.723234,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-22 15:02:16.389901,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-22 17:04:58.230111,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-22 16:02:03.214918,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-22 22:02:56.039614,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-22 21:02:27.543063,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-22 10:03:31.269346,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-22 19:02:35.667835,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-22 18:02:52.444005,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-22 13:05:08.966219,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-22 21:02:27.543063,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-22 11:05:14.446044,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-22 12:02:58.737941,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-22 14:03:45.082631,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-22 22:02:56.039614,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-22 17:04:58.230111,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-22 12:02:58.737941,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-22 16:02:03.214918,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-22 13:05:08.966219,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-22 15:02:16.389901,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-22 15:02:18.486102,Tournament Match-Ups - Tournament Match-Ups - X. Schauffele vs M. Fitzpatrick - Tournament Match-Ups,Xander Schauffele,0.02180000000000004,0.6296,0.6078
 2023-08-22 14:03:47.118537,Tournament Match-Ups - Tournament Match-Ups - R. Fowler vs R. Henley - Tournament Match-Ups,Russell Henley,0.02169999999999994,0.5455,0.5238
 2023-08-22 17:05:00.022601,Boxing Lines - Koen Mazoudier vs Benjamin Hussain - To Win the Bout,Benjamin Hussain,0.02100000000000002,0.3846,0.3636
 2023-08-22 15:02:18.584498,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Over 68.5,0.020699999999999996,0.4651,0.4444
 2023-08-22 11:05:16.367694,Boxing Lines - Toese Vousiutu vs Kiki Toa Leutele - To Win the Bout,Kiki Toa Leutele,0.02049999999999999,0.1538,0.1333
-2023-08-22 10:03:26.387108,"Milwaukee Fox News Debate - Minute Of First Mention Of ""Stolen Election"" By A Candidate - First Mention Of ""Stolen Election"" By A Candidate",30.01 to 45.00,0.02020000000000001,0.1111,0.0909
-2023-08-22 10:03:26.387108,"Milwaukee Fox News Debate - Minute Of First Mention Of ""Stolen Election"" By A Candidate - First Mention Of ""Stolen Election"" By A Candidate",15.01 to 30.00,0.02020000000000001,0.1111,0.0909
 2023-08-22 21:02:29.894096,Tournament Match-Ups - Tournament Match-Ups - W. Clark vs T. Fleetwood - Tournament Match-Ups,Tommy Fleetwood,0.01970000000000005,0.5652,0.5455
 2023-08-22 18:02:55.115985,Boxing Lines - Koen Mazoudier vs Benjamin Hussain - To Win the Bout,Koen Mazoudier,0.01959999999999995,0.697,0.6774
 2023-08-22 21:02:29.882116,Tournament Match-Ups - Tournament Match-Ups - X. Schauffele vs M. Fitzpatrick - Tournament Match-Ups,Xander Schauffele,0.019499999999999962,0.6491,0.6296
 2023-08-22 11:05:16.424226,MMA PFL - Abigail Montes vs Michelle Montague - To Win the Bout,Abigail Montes,0.01880000000000004,0.5744,0.5556
 2023-08-22 16:01:57.167628,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Italy,Simone  Fontecchio,0.01820000000000002,0.2,0.1818
-2023-08-22 10:03:26.396880,Donald Trump Specials - Georgia Arraignment Specials - Georgia Arraignment Specials,Fulton County Sheriff to release a mugshot of Trump smiling,0.018100000000000005,0.4348,0.4167
 2023-08-22 14:03:47.201613,Chicago - Chicago - Winner,Talor Gooch,0.018099999999999998,0.0769,0.0588
 2023-08-22 18:02:55.194743,Boxing Lines - Teraji Kenshiro vs Hekkie Budler - To Win the Bout,Teraji Kenshiro,0.01760000000000006,0.9,0.8824
+2023-08-22 23:03:56.780390,Boxing Lines - luke jackson vs Tyson Lantry - To Win the Bout,Luke Jackson (SF),0.017300000000000093,0.7143,0.697
 2023-08-22 18:02:55.221639,MMA PFL - John Caldone vs Nathaniel Grimard - To Win the Bout,John Caldone,0.016700000000000048,0.75,0.7333
 2023-08-22 14:03:46.797965,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.016699999999999993,0.4167,0.4
+2023-08-22 14:03:46.772393,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Baltimore Orioles,0.016600000000000004,0.2439,0.2273
 2023-08-22 14:03:47.201613,Chicago - Chicago - Winner,Dustin Johnson,0.016600000000000004,0.0833,0.0667
 2023-08-22 14:03:47.201613,Chicago - Chicago - Winner,Patrick Reed,0.016600000000000004,0.0833,0.0667
-2023-08-22 14:03:46.772393,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Baltimore Orioles,0.016600000000000004,0.2439,0.2273
 2023-08-22 18:02:55.013792,Little League World Series - World Series Champion - Outright,International Team,0.01629999999999998,0.7222,0.7059
 2023-08-22 13:05:11.089299,MMA PFL - Carlos Leal vs Sadibou Sy - To Win the Bout,Sadibou Sy,0.014800000000000035,0.6226,0.6078
 2023-08-22 13:05:03.417899,AFC West - AFC West 2023/24 - AFC West Winner,Denver Broncos,0.013899999999999996,0.1429,0.129
@@ -72,13 +65,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-22 19:02:38.082675,MMA PFL - Abigail Montes vs Michelle Montague - To Win the Bout,Abigail Montes,0.011499999999999955,0.6,0.5885
 2023-08-22 16:02:04.912758,MMA PFL - John Caldone vs Nathaniel Grimard - To Win the Bout,John Caldone,0.011099999999999999,0.7333,0.7222
 2023-08-22 16:02:04.879232,Boxing Lines - Oleksandr Usyk vs Daniel Dubois - To Win the Bout,Daniel Dubois,0.010899999999999993,0.1538,0.1429
-2023-08-22 15:02:18.449782,Round Match-Ups - 1st Round Match-Ups - T. Finau vs T. Kim - 1st Round Match-Ups,Tom Kim,0.010699999999999932,0.5455,0.5348
 2023-08-22 14:03:47.093714,Round Match-Ups - 1st Round Match-Ups - M. Homa vs P. Cantlay - 1st Round Match-Ups,Patrick Cantlay,0.010699999999999932,0.5455,0.5348
+2023-08-22 15:02:18.449782,Round Match-Ups - 1st Round Match-Ups - T. Finau vs T. Kim - 1st Round Match-Ups,Tom Kim,0.010699999999999932,0.5455,0.5348
 2023-08-22 16:01:57.406580,FIBA World Cup Futures - FIBA World Cup - Tournament MVP,Anthony  Edwards,0.010299999999999976,0.2667,0.2564
-2023-08-22 13:05:11.083104,MMA PFL - Mostafa Rashed Neda vs Korey Kuppe - To Win the Bout,Korey Kuppe,-0.010099999999999998,0.5816,0.5917
 2023-08-22 15:02:18.566067,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Under 67.5,-0.010099999999999998,0.5455,0.5556
-2023-08-22 19:02:38.115028,MMA PFL - Olivier Aubin-Mercier vs Bruno Miranda - To Win the Bout,Bruno Miranda,-0.010599999999999998,0.2247,0.2353
+2023-08-22 13:05:11.083104,MMA PFL - Mostafa Rashed Neda vs Korey Kuppe - To Win the Bout,Korey Kuppe,-0.010099999999999998,0.5816,0.5917
 2023-08-22 12:03:02.104684,Tournament Match-Ups - Tournament Match-Ups - P. Cantlay vs M. Homa - Tournament Match-Ups,Max Homa,-0.010599999999999998,0.4545,0.4651
+2023-08-22 19:02:38.115028,MMA PFL - Olivier Aubin-Mercier vs Bruno Miranda - To Win the Bout,Bruno Miranda,-0.010599999999999998,0.2247,0.2353
 2023-08-22 14:03:47.113861,Tournament Match-Ups - Tournament Match-Ups - X. Schauffele vs M. Fitzpatrick - Tournament Match-Ups,Matt Fitzpatrick,-0.010599999999999998,0.4545,0.4651
 2023-08-22 13:05:11.106935,MMA PFL - Clay Collard vs Shane Burgos - To Win the Bout,Clay Collard,-0.01100000000000001,0.5238,0.5348
 2023-08-22 12:03:02.063747,Tournament Match-Ups - Tournament Match-Ups - X. Schauffele vs M. Fitzpatrick - Tournament Match-Ups,Matt Fitzpatrick,-0.011099999999999999,0.4651,0.4762
@@ -86,41 +79,38 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-22 13:05:11.062891,MMA PFL - John Caldone vs Nathaniel Grimard - To Win the Bout,Nathaniel Grimard,-0.01150000000000001,0.3333,0.3448
 2023-08-22 14:03:47.083615,Round Match-Ups - 1st Round Match-Ups - R. Fowler vs X. Schauffele - 1st Round Match-Ups,Rickie Fowler,-0.0116,0.4762,0.4878
 2023-08-22 13:05:11.089299,MMA PFL - Carlos Leal vs Sadibou Sy - To Win the Bout,Carlos Leal,-0.01200000000000001,0.4425,0.4545
-2023-08-22 14:03:47.093714,Round Match-Ups - 1st Round Match-Ups - M. Homa vs P. Cantlay - 1st Round Match-Ups,Max Homa,-0.012199999999999989,0.5,0.5122
 2023-08-22 15:02:18.449782,Round Match-Ups - 1st Round Match-Ups - T. Finau vs T. Kim - 1st Round Match-Ups,Tony Finau,-0.012199999999999989,0.5,0.5122
+2023-08-22 14:03:47.093714,Round Match-Ups - 1st Round Match-Ups - M. Homa vs P. Cantlay - 1st Round Match-Ups,Max Homa,-0.012199999999999989,0.5,0.5122
 2023-08-22 14:03:38.403650,WNBA Championship - WNBA Championship 2023 - Outright Winner,New York Liberty,-0.012299999999999978,0.3448,0.3571
 2023-08-22 18:02:55.013792,Little League World Series - World Series Champion - Outright,US Team,-0.012299999999999978,0.3448,0.3571
-2023-08-22 10:03:26.369866,Milwaukee Fox News Debate - Donald Trump - Tucker Carlson Interview: First Cliche - Trump - Carlson Interview: First Cliche,Perfect phone call,-0.013999999999999999,0.0769,0.0909
+2023-08-22 23:03:56.780390,Boxing Lines - luke jackson vs Tyson Lantry - To Win the Bout,Tyson Lantry,-0.012699999999999989,0.3509,0.3636
 2023-08-22 11:05:16.367694,Boxing Lines - Toese Vousiutu vs Kiki Toa Leutele - To Win the Bout,Toese Vousiutu,-0.014000000000000012,0.9091,0.9231
-2023-08-22 10:03:26.369866,Milwaukee Fox News Debate - Donald Trump - Tucker Carlson Interview: First Cliche - Trump - Carlson Interview: First Cliche,Radical left communists,-0.014399999999999996,0.0625,0.0769
-2023-08-22 10:03:26.378663,Milwaukee Fox News Debate - Which candidate will get the most time to speak? - Most Talking Time,Nikki Haley,-0.014399999999999996,0.0625,0.0769
-2023-08-22 14:03:46.772393,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Houston Astros,-0.01469999999999999,0.2353,0.25
 2023-08-22 14:03:46.772393,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Texas Rangers,-0.01469999999999999,0.2353,0.25
+2023-08-22 14:03:46.772393,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Houston Astros,-0.01469999999999999,0.2353,0.25
 2023-08-22 18:02:55.194743,Boxing Lines - Teraji Kenshiro vs Hekkie Budler - To Win the Bout,Hekkie Budler,-0.015100000000000002,0.1667,0.1818
-2023-08-22 11:05:16.374924,Boxing Lines - luke jackson vs Tyson Lantry - To Win the Bout,Luke Jackson (SF),-0.017300000000000093,0.697,0.7143
 2023-08-22 14:03:38.403650,WNBA Championship - WNBA Championship 2023 - Outright Winner,Las Vegas Aces,-0.017300000000000093,0.697,0.7143
+2023-08-22 11:05:16.374924,Boxing Lines - luke jackson vs Tyson Lantry - To Win the Bout,Luke Jackson (SF),-0.017300000000000093,0.697,0.7143
 2023-08-22 21:02:29.882116,Tournament Match-Ups - Tournament Match-Ups - X. Schauffele vs M. Fitzpatrick - Tournament Match-Ups,Matt Fitzpatrick,-0.018100000000000005,0.4167,0.4348
 2023-08-22 14:03:46.772393,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Tampa Bay Rays,-0.01820000000000002,0.1818,0.2
 2023-08-22 21:02:18.782419,Premiership - Scotland Premiership 2023/24 - Winner,Celtic,-0.018999999999999906,0.7143,0.7333
 2023-08-22 17:05:00.022601,Boxing Lines - Koen Mazoudier vs Benjamin Hussain - To Win the Bout,Koen Mazoudier,-0.01959999999999995,0.6774,0.697
 2023-08-22 15:02:18.486102,Tournament Match-Ups - Tournament Match-Ups - X. Schauffele vs M. Fitzpatrick - Tournament Match-Ups,Matt Fitzpatrick,-0.019699999999999995,0.4348,0.4545
-2023-08-22 10:03:26.378663,Milwaukee Fox News Debate - Which candidate will get the most time to speak? - Most Talking Time,Tim Scott,-0.02020000000000001,0.0909,0.1111
 2023-08-22 18:02:55.115985,Boxing Lines - Koen Mazoudier vs Benjamin Hussain - To Win the Bout,Benjamin Hussain,-0.02100000000000002,0.3636,0.3846
 2023-08-22 14:03:47.118537,Tournament Match-Ups - Tournament Match-Ups - R. Fowler vs R. Henley - Tournament Match-Ups,Rickie Fowler,-0.02169999999999994,0.5238,0.5455
-2023-08-22 16:02:03.222993,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-22 22:02:56.051108,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-22 15:02:18.584498,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Under 68.5,-0.022600000000000064,0.6,0.6226
-2023-08-22 11:05:14.456594,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-22 10:03:31.277248,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-22 15:02:16.401093,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-22 13:05:08.975708,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-22 12:02:58.750808,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-22 14:03:45.090756,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-22 17:04:58.239640,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-22 18:02:52.461736,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-22 16:02:03.222993,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-22 15:02:18.584498,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Under 68.5,-0.022600000000000064,0.6,0.6226
+2023-08-22 13:05:08.975708,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-22 15:02:16.401093,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-22 12:02:58.750808,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-22 11:05:14.456594,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-22 23:03:54.811934,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-22 22:02:56.051108,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-22 17:04:58.239640,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-22 21:02:27.557427,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-22 20:02:36.734401,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-22 19:02:35.679026,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-22 21:02:27.557427,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-22 14:03:45.090756,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-22 13:05:11.076274,MMA PFL - Abigail Montes vs Michelle Montague - To Win the Bout,Michelle Montague,-0.022699999999999998,0.4651,0.4878
 2023-08-22 16:02:04.772202,Little League World Series - United States Bracket Winner - Outright,Metro - Rhode Island,-0.02310000000000001,0.0769,0.1
 2023-08-22 21:02:29.894096,Tournament Match-Ups - Tournament Match-Ups - W. Clark vs T. Fleetwood - Tournament Match-Ups,Wyndham Clark,-0.023800000000000043,0.5,0.5238
@@ -134,12 +124,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-22 14:03:46.845957,Boxing Lines - Toese Vousiutu vs Kiki Toa Leutele - To Win the Bout,Toese Vousiutu,-0.03410000000000002,0.875,0.9091
 2023-08-22 16:02:04.864475,Boxing Lines - Toese Vousiutu vs Kiki Toa Leutele - To Win the Bout,Toese Vousiutu,-0.03469999999999995,0.8403,0.875
 2023-08-22 18:02:55.129102,Boxing Lines - Toese Vousiutu vs Kiki Toa Leutele - To Win the Bout,Toese Vousiutu,-0.0364000000000001,0.8039,0.8403
-2023-08-22 10:03:26.374446,Milwaukee Fox News Debate - Milwaukee Fox News Debate Winner According to Fox News - Debate Winner According To Fox News,Tim Scott,-0.04620000000000002,0.1538,0.2
 2023-08-22 16:02:04.763008,Little League World Series - International Bracket Winner - Outright,Mexico,-0.0524,0.0476,0.1
-2023-08-22 10:03:26.374446,Milwaukee Fox News Debate - Milwaukee Fox News Debate Winner According to Fox News - Debate Winner According To Fox News,Mike Pence,-0.05550000000000002,0.1667,0.2222
 2023-08-22 14:03:47.164292,Scores - 1st Round Score - Matt Fitzpatrick - 1st Round Score,Over 68.5,-0.06230000000000002,0.5455,0.6078
-2023-08-22 10:03:26.378663,Milwaukee Fox News Debate - Which candidate will get the most time to speak? - Most Talking Time,Mike Pence,-0.06669999999999998,0.2,0.2667
-2023-08-22 10:03:26.378663,Milwaukee Fox News Debate - Which candidate will get the most time to speak? - Most Talking Time,Ron DeSantis,-0.07619999999999999,0.4,0.4762
 2023-08-22 21:02:29.678193,Boxing Lines - Toese Vousiutu vs Kiki Toa Leutele - To Win the Bout,Kiki Toa Leutele,-0.0814,0.1818,0.2632
 2023-08-22 16:02:04.781695,Little League World Series - World Series Champion - Outright,US Team,-0.08730000000000004,0.3571,0.4444
 2023-08-22 14:03:47.184867,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Under 66.5,-0.09049999999999997,0.4651,0.5556
