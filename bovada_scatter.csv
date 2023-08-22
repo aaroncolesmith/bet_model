@@ -6,8 +6,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-22 10:03:26.378663,Milwaukee Fox News Debate - Which candidate will get the most time to speak? - Most Talking Time,Vivek Ramaswamy,0.11359999999999998,0.3636,0.25
 2023-08-22 10:03:26.374446,Milwaukee Fox News Debate - Milwaukee Fox News Debate Winner According to Fox News - Debate Winner According To Fox News,Vivek Ramaswamy,0.10769999999999996,0.3077,0.2
 2023-08-22 11:05:16.354826,Boxing Lines - Koen Mazoudier vs Benjamin Hussain - To Win the Bout,Benjamin Hussain,0.10039999999999999,0.3636,0.2632
-2023-08-22 06:06:25.233681,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Silkeborg IF,0.08779999999999999,0.4878,0.4
 2023-08-22 14:03:47.184867,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Over 66.5,0.08779999999999999,0.6,0.5122
+2023-08-22 06:06:25.233681,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Silkeborg IF,0.08779999999999999,0.4878,0.4
 2023-08-22 06:06:25.233681,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Lyngby BK,0.08549999999999996,0.3077,0.2222
 2023-08-22 14:03:47.164292,Scores - 1st Round Score - Matt Fitzpatrick - 1st Round Score,Under 68.5,0.06930000000000003,0.5238,0.4545
 2023-08-22 06:06:25.233681,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Brøndby IF,0.06670000000000009,0.8,0.7333
@@ -24,30 +24,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-22 04:06:24.606369,NFL Specials - Who will be the Tampa Bay Buccaneers Week 1 starter? - Proposition,Baker Mayfield,0.033299999999999996,0.8333,0.8
 2023-08-22 14:03:47.201613,Chicago - Chicago - Winner,Cameron Smith,0.031799999999999995,0.1429,0.1111
 2023-08-22 14:03:47.174374,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Under 68.5,0.03090000000000004,0.6226,0.5917
-2023-08-22 09:03:20.657214,Tournament Match-Ups - Tournament Match-Ups - V. Hovland vs J. Rahm - Tournament Match-Ups,Viktor Hovland,0.03090000000000004,0.6226,0.5917
 2023-08-22 14:03:47.195537,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Under 68.5,0.03090000000000004,0.6226,0.5917
+2023-08-22 09:03:20.657214,Tournament Match-Ups - Tournament Match-Ups - V. Hovland vs J. Rahm - Tournament Match-Ups,Viktor Hovland,0.03090000000000004,0.6226,0.5917
 2023-08-22 09:03:11.159377,La Liga - Spain La Liga 2023/24 - To Be Relegated,Cádiz,0.030299999999999994,0.3636,0.3333
 2023-08-22 09:03:11.161934,La Liga - Spain La Liga 2023/24 - Top 4 Finish,FC Barcelona,0.02839999999999998,0.9375,0.9091
 2023-08-22 09:03:11.161934,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Atlético Madrid,0.027800000000000047,0.7778,0.75
 2023-08-22 06:06:34.100231,Tournament Match-Ups - Tournament Match-Ups - P. Cantlay vs M. Homa - Tournament Match-Ups,Patrick Cantlay,0.026499999999999968,0.5917,0.5652
 2023-08-22 13:05:11.076274,MMA PFL - Abigail Montes vs Michelle Montague - To Win the Bout,Abigail Montes,0.025599999999999956,0.6,0.5744
 2023-08-22 14:03:47.201613,Chicago - Chicago - Winner,Brooks Koepka,0.024299999999999995,0.0769,0.0526
-2023-08-22 06:06:34.104762,Tournament Match-Ups - Tournament Match-Ups - R. Fowler vs R. Henley - Tournament Match-Ups,Russell Henley,0.023800000000000043,0.5238,0.5
 2023-08-22 06:06:34.128151,Tournament Match-Ups - Tournament Match-Ups - W. Clark vs T. Fleetwood - Tournament Match-Ups,Tommy Fleetwood,0.023800000000000043,0.5238,0.5
-2023-08-22 07:02:39.005294,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-22 06:06:34.104762,Tournament Match-Ups - Tournament Match-Ups - R. Fowler vs R. Henley - Tournament Match-Ups,Russell Henley,0.023800000000000043,0.5238,0.5
+2023-08-22 06:06:25.284407,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Liverpool,0.022600000000000064,0.6226,0.6
+2023-08-22 09:03:18.721652,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-22 11:05:14.446044,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-22 14:03:45.082631,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-22 10:03:31.269346,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-22 15:02:16.389901,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-22 12:02:58.737941,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-22 13:05:08.966219,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-22 08:02:03.846514,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-22 14:03:45.082631,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-22 04:06:29.066820,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-22 09:03:18.721652,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
 2023-08-22 06:06:32.294605,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
-2023-08-22 06:06:25.284407,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Liverpool,0.022600000000000064,0.6226,0.6
+2023-08-22 08:02:03.846514,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-22 07:02:39.005294,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.022600000000000064,0.5348,0.5122
+2023-08-22 15:02:18.486102,Tournament Match-Ups - Tournament Match-Ups - X. Schauffele vs M. Fitzpatrick - Tournament Match-Ups,Xander Schauffele,0.02180000000000004,0.6296,0.6078
 2023-08-22 07:02:41.078605,Tournament Match-Ups - Tournament Match-Ups - W. Clark vs T. Fleetwood - Tournament Match-Ups,Tommy Fleetwood,0.02169999999999994,0.5455,0.5238
 2023-08-22 14:03:47.118537,Tournament Match-Ups - Tournament Match-Ups - R. Fowler vs R. Henley - Tournament Match-Ups,Russell Henley,0.02169999999999994,0.5455,0.5238
 2023-08-22 09:03:11.397878,Super Lig - Turkey Super Lig 2023/24 - Winner,Fenerbahce,0.02100000000000002,0.3846,0.3636
+2023-08-22 15:02:18.584498,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Over 68.5,0.020699999999999996,0.4651,0.4444
 2023-08-22 11:05:16.367694,Boxing Lines - Toese Vousiutu vs Kiki Toa Leutele - To Win the Bout,Kiki Toa Leutele,0.02049999999999999,0.1538,0.1333
 2023-08-22 10:03:26.387108,"Milwaukee Fox News Debate - Minute Of First Mention Of ""Stolen Election"" By A Candidate - First Mention Of ""Stolen Election"" By A Candidate",30.01 to 45.00,0.02020000000000001,0.1111,0.0909
 2023-08-22 10:03:26.387108,"Milwaukee Fox News Debate - Minute Of First Mention Of ""Stolen Election"" By A Candidate - First Mention Of ""Stolen Election"" By A Candidate",15.01 to 30.00,0.02020000000000001,0.1111,0.0909
@@ -67,51 +70,56 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-22 09:03:11.164407,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Atlético Madrid,0.01539999999999997,0.6154,0.6
 2023-08-22 09:03:11.248355,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Vitor Roque (Athletico PR),0.015100000000000002,0.1818,0.1667
 2023-08-22 13:05:11.089299,MMA PFL - Carlos Leal vs Sadibou Sy - To Win the Bout,Sadibou Sy,0.014800000000000035,0.6226,0.6078
-2023-08-22 06:06:25.230904,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Viborg FF,0.013899999999999996,0.125,0.1111
 2023-08-22 13:05:03.417899,AFC West - AFC West 2023/24 - AFC West Winner,Denver Broncos,0.013899999999999996,0.1429,0.129
+2023-08-22 06:06:25.230904,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Viborg FF,0.013899999999999996,0.125,0.1111
 2023-08-22 13:05:11.068674,MMA PFL - Abdullah Al-Qahtani vs David Zelner - To Win the Bout,Abdullah Al-Qahtani,0.0131,0.8131,0.8
 2023-08-22 09:03:11.164407,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Rayo Vallecano,0.013,0.0196,0.0066
 2023-08-22 13:05:11.101059,MMA PFL - Olivier Aubin-Mercier vs Bruno Miranda - To Win the Bout,Olivier Aubin-Mercier,0.0129999999999999,0.8261,0.8131
 2023-08-22 11:05:16.374924,Boxing Lines - luke jackson vs Tyson Lantry - To Win the Bout,Tyson Lantry,0.012699999999999989,0.3636,0.3509
+2023-08-22 15:02:18.566067,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Over 67.5,0.011600000000000055,0.5238,0.5122
 2023-08-22 09:03:11.161934,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Rayo Vallecano,0.011199999999999995,0.0588,0.0476
+2023-08-22 15:02:18.449782,Round Match-Ups - 1st Round Match-Ups - T. Finau vs T. Kim - 1st Round Match-Ups,Tom Kim,0.010699999999999932,0.5455,0.5348
 2023-08-22 14:03:47.093714,Round Match-Ups - 1st Round Match-Ups - M. Homa vs P. Cantlay - 1st Round Match-Ups,Patrick Cantlay,0.010699999999999932,0.5455,0.5348
 2023-08-22 06:06:25.281526,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,West Ham United,0.0102,0.0769,0.0667
+2023-08-22 15:02:18.566067,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Under 67.5,-0.010099999999999998,0.5455,0.5556
 2023-08-22 09:03:11.257137,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Athletico Paranaense,-0.010099999999999998,0.4444,0.4545
 2023-08-22 13:05:11.083104,MMA PFL - Mostafa Rashed Neda vs Korey Kuppe - To Win the Bout,Korey Kuppe,-0.010099999999999998,0.5816,0.5917
 2023-08-22 12:03:02.104684,Tournament Match-Ups - Tournament Match-Ups - P. Cantlay vs M. Homa - Tournament Match-Ups,Max Homa,-0.010599999999999998,0.4545,0.4651
 2023-08-22 14:03:47.113861,Tournament Match-Ups - Tournament Match-Ups - X. Schauffele vs M. Fitzpatrick - Tournament Match-Ups,Matt Fitzpatrick,-0.010599999999999998,0.4545,0.4651
 2023-08-22 09:03:20.644896,Tournament Match-Ups - Tournament Match-Ups - S. Scheffler vs R. McIIroy - Tournament Match-Ups,Scottie Scheffler,-0.010700000000000043,0.6667,0.6774
 2023-08-22 13:05:11.106935,MMA PFL - Clay Collard vs Shane Burgos - To Win the Bout,Clay Collard,-0.01100000000000001,0.5238,0.5348
-2023-08-22 12:03:02.063747,Tournament Match-Ups - Tournament Match-Ups - X. Schauffele vs M. Fitzpatrick - Tournament Match-Ups,Matt Fitzpatrick,-0.011099999999999999,0.4651,0.4762
 2023-08-22 09:03:20.623281,Tournament Match-Ups - Tournament Match-Ups - P. Cantlay vs M. Homa - Tournament Match-Ups,Max Homa,-0.011099999999999999,0.4651,0.4762
 2023-08-22 06:06:25.228098,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Odense,-0.011099999999999999,0.1,0.1111
+2023-08-22 12:03:02.063747,Tournament Match-Ups - Tournament Match-Ups - X. Schauffele vs M. Fitzpatrick - Tournament Match-Ups,Matt Fitzpatrick,-0.011099999999999999,0.4651,0.4762
 2023-08-22 13:05:11.062891,MMA PFL - John Caldone vs Nathaniel Grimard - To Win the Bout,Nathaniel Grimard,-0.01150000000000001,0.3333,0.3448
 2023-08-22 14:03:47.083615,Round Match-Ups - 1st Round Match-Ups - R. Fowler vs X. Schauffele - 1st Round Match-Ups,Rickie Fowler,-0.0116,0.4762,0.4878
 2023-08-22 13:05:11.089299,MMA PFL - Carlos Leal vs Sadibou Sy - To Win the Bout,Carlos Leal,-0.01200000000000001,0.4425,0.4545
-2023-08-22 09:03:20.637237,Tournament Match-Ups - Tournament Match-Ups - S. Im vs C. Morikawa - Tournament Match-Ups,Collin Morikawa,-0.012199999999999989,0.4878,0.5
 2023-08-22 14:03:47.093714,Round Match-Ups - 1st Round Match-Ups - M. Homa vs P. Cantlay - 1st Round Match-Ups,Max Homa,-0.012199999999999989,0.5,0.5122
+2023-08-22 09:03:20.637237,Tournament Match-Ups - Tournament Match-Ups - S. Im vs C. Morikawa - Tournament Match-Ups,Collin Morikawa,-0.012199999999999989,0.4878,0.5
+2023-08-22 15:02:18.449782,Round Match-Ups - 1st Round Match-Ups - T. Finau vs T. Kim - 1st Round Match-Ups,Tony Finau,-0.012199999999999989,0.5,0.5122
 2023-08-22 14:03:38.403650,WNBA Championship - WNBA Championship 2023 - Outright Winner,New York Liberty,-0.012299999999999978,0.3448,0.3571
 2023-08-22 06:06:25.281526,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Brentford,-0.012600000000000007,0.0588,0.0714
 2023-08-22 09:03:11.164407,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Real Sociedad,-0.013899999999999996,0.1111,0.125
-2023-08-22 10:03:26.369866,Milwaukee Fox News Debate - Donald Trump - Tucker Carlson Interview: First Cliche - Trump - Carlson Interview: First Cliche,Perfect phone call,-0.013999999999999999,0.0769,0.0909
 2023-08-22 06:06:25.233681,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Vejle BK,-0.013999999999999999,0.0769,0.0909
+2023-08-22 10:03:26.369866,Milwaukee Fox News Debate - Donald Trump - Tucker Carlson Interview: First Cliche - Trump - Carlson Interview: First Cliche,Perfect phone call,-0.013999999999999999,0.0769,0.0909
 2023-08-22 11:05:16.367694,Boxing Lines - Toese Vousiutu vs Kiki Toa Leutele - To Win the Bout,Toese Vousiutu,-0.014000000000000012,0.9091,0.9231
-2023-08-22 10:03:26.369866,Milwaukee Fox News Debate - Donald Trump - Tucker Carlson Interview: First Cliche - Trump - Carlson Interview: First Cliche,Radical left communists,-0.014399999999999996,0.0625,0.0769
 2023-08-22 10:03:26.378663,Milwaukee Fox News Debate - Which candidate will get the most time to speak? - Most Talking Time,Nikki Haley,-0.014399999999999996,0.0625,0.0769
+2023-08-22 10:03:26.369866,Milwaukee Fox News Debate - Donald Trump - Tucker Carlson Interview: First Cliche - Trump - Carlson Interview: First Cliche,Radical left communists,-0.014399999999999996,0.0625,0.0769
 2023-08-22 14:03:46.772393,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Houston Astros,-0.01469999999999999,0.2353,0.25
 2023-08-22 14:03:46.772393,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Texas Rangers,-0.01469999999999999,0.2353,0.25
 2023-08-22 09:03:11.159377,La Liga - Spain La Liga 2023/24 - To Be Relegated,Girona,-0.015100000000000002,0.1667,0.1818
 2023-08-22 06:06:25.278640,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Manchester City,-0.01539999999999997,0.6,0.6154
 2023-08-22 07:02:30.807308,La Liga - Spain La Liga 2023/24 - Winner,Real Madrid,-0.016699999999999937,0.5833,0.6
 2023-08-22 09:03:11.245620,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Palmeiras,-0.016699999999999993,0.25,0.2667
-2023-08-22 14:03:38.403650,WNBA Championship - WNBA Championship 2023 - Outright Winner,Las Vegas Aces,-0.017300000000000093,0.697,0.7143
 2023-08-22 11:05:16.374924,Boxing Lines - luke jackson vs Tyson Lantry - To Win the Bout,Luke Jackson (SF),-0.017300000000000093,0.697,0.7143
+2023-08-22 14:03:38.403650,WNBA Championship - WNBA Championship 2023 - Outright Winner,Las Vegas Aces,-0.017300000000000093,0.697,0.7143
 2023-08-22 06:06:25.281526,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Crystal Palace,-0.01759999999999999,0.1,0.1176
 2023-08-22 06:06:25.228098,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Viborg FF,-0.018099999999999998,0.0588,0.0769
 2023-08-22 14:03:46.772393,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Tampa Bay Rays,-0.01820000000000002,0.1818,0.2
 2023-08-22 06:06:25.233681,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,FC Nordsjælland,-0.01849999999999996,0.9524,0.9709
-2023-08-22 09:03:11.161934,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Sociedad,-0.019000000000000017,0.2667,0.2857
 2023-08-22 09:03:11.397878,Super Lig - Turkey Super Lig 2023/24 - Winner,Besiktas,-0.019000000000000017,0.2667,0.2857
+2023-08-22 09:03:11.161934,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Sociedad,-0.019000000000000017,0.2667,0.2857
+2023-08-22 15:02:18.486102,Tournament Match-Ups - Tournament Match-Ups - X. Schauffele vs M. Fitzpatrick - Tournament Match-Ups,Matt Fitzpatrick,-0.019699999999999995,0.4348,0.4545
 2023-08-22 06:06:34.104762,Tournament Match-Ups - Tournament Match-Ups - R. Fowler vs R. Henley - Tournament Match-Ups,Rickie Fowler,-0.01970000000000005,0.5455,0.5652
 2023-08-22 06:06:34.128151,Tournament Match-Ups - Tournament Match-Ups - W. Clark vs T. Fleetwood - Tournament Match-Ups,Wyndham Clark,-0.01970000000000005,0.5455,0.5652
 2023-08-22 10:03:26.378663,Milwaukee Fox News Debate - Which candidate will get the most time to speak? - Most Talking Time,Tim Scott,-0.02020000000000001,0.0909,0.1111
@@ -120,16 +128,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-22 09:03:11.257137,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fortaleza,-0.021999999999999964,0.2857,0.3077
 2023-08-22 06:06:25.281526,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Burnley,-0.02210000000000001,0.2105,0.2326
 2023-08-22 06:06:25.228098,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Lyngby BK,-0.022199999999999998,0.2,0.2222
-2023-08-22 08:02:03.855581,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-22 10:03:31.277248,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-22 11:05:14.456594,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-22 07:02:39.020389,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-22 12:02:58.750808,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-22 06:06:32.302352,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-22 04:06:29.075535,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-22 13:05:08.975708,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
-2023-08-22 09:03:18.729568,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-22 14:03:45.090756,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-22 07:02:39.020389,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-22 08:02:03.855581,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-22 15:02:16.401093,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-22 09:03:18.729568,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-22 04:06:29.075535,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-22 15:02:18.584498,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Under 68.5,-0.022600000000000064,0.6,0.6226
+2023-08-22 10:03:31.277248,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
+2023-08-22 13:05:08.975708,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.022600000000000064,0.5122,0.5348
 2023-08-22 13:05:11.076274,MMA PFL - Abigail Montes vs Michelle Montague - To Win the Bout,Michelle Montague,-0.022699999999999998,0.4651,0.4878
 2023-08-22 09:03:11.161934,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Sevilla,-0.023799999999999988,0.1429,0.1667
 2023-08-22 06:06:34.100231,Tournament Match-Ups - Tournament Match-Ups - P. Cantlay vs M. Homa - Tournament Match-Ups,Max Homa,-0.023799999999999988,0.4762,0.5
@@ -140,9 +150,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-22 06:06:25.233681,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,AGF Aarhus,-0.025999999999999912,0.7143,0.7403
 2023-08-22 06:06:25.281526,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Nottingham Forest,-0.028599999999999987,0.2381,0.2667
 2023-08-22 14:03:46.797965,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,-0.03179999999999994,0.5238,0.5556
-2023-08-22 09:03:20.657214,Tournament Match-Ups - Tournament Match-Ups - V. Hovland vs J. Rahm - Tournament Match-Ups,Jon Rahm,-0.031799999999999995,0.4444,0.4762
 2023-08-22 14:03:47.195537,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Over 68.5,-0.031799999999999995,0.4444,0.4762
 2023-08-22 14:03:47.174374,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Over 68.5,-0.031799999999999995,0.4444,0.4762
+2023-08-22 09:03:20.657214,Tournament Match-Ups - Tournament Match-Ups - V. Hovland vs J. Rahm - Tournament Match-Ups,Jon Rahm,-0.031799999999999995,0.4444,0.4762
 2023-08-22 06:06:25.233681,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,FC Midtjylland,-0.03410000000000002,0.875,0.9091
 2023-08-22 14:03:46.845957,Boxing Lines - Toese Vousiutu vs Kiki Toa Leutele - To Win the Bout,Toese Vousiutu,-0.03410000000000002,0.875,0.9091
 2023-08-22 04:06:24.606369,NFL Specials - Who will be the Tampa Bay Buccaneers Week 1 starter? - Proposition,Kyle Trask,-0.03570000000000001,0.25,0.2857
