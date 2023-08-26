@@ -4,6 +4,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-25 20:01:54.977828,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Australia,Josh  Giddey,0.2645,0.6491,0.3846
 2023-08-25 22:02:54.734513,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Canada,Shai  Gilgeous - Alexander,0.25880000000000003,0.4255,0.1667
 2023-08-25 19:02:20.993929,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Australia,Patty  Mills,0.2378,0.6923,0.4545
+2023-08-26 04:02:37.511647,CP Womens Open - CP Womens Open - Winner,Megan Khang,0.22469999999999998,0.2632,0.0385
 2023-08-26 00:03:59.258398,D+D Real Czech Masters - 2/3 Balls - 3rd Round 2 Balls - P. Figueiredo vs R. Hisatsune - Outright,Ryo Hisatsune,0.21440000000000003,0.6226,0.4082
 2023-08-25 20:01:54.916099,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Japan,Yuta  Watanabe,0.2,0.4,0.2
 2023-08-25 21:02:46.726782,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Australia,Patty  Mills,0.18969999999999998,0.3636,0.1739
@@ -15,14 +16,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-25 22:03:03.868974,D+D Real Czech Masters - D+D Real Czech Masters 2023 - Winner,Alexander Bjork,0.1667,0.2667,0.1
 2023-08-25 23:02:13.261741,FIBA World Cup Futures - Group D - Exacta,1. Lithuania 2. Montenegro,0.15349999999999997,0.7368,0.5833
 2023-08-25 22:02:54.687219,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - France,Evan  Fournier,0.15000000000000002,0.75,0.6
-2023-08-25 16:02:17.332185,NFL Specials - Where will Jonathan Taylor Play Game 1 of the Season - Jonathan Taylor Special,Dolphins,0.141,0.3077,0.1667
 2023-08-25 23:02:13.269843,FIBA World Cup Futures - Group E - Exacta,1. Germany 2. Australia,0.13180000000000003,0.4651,0.3333
 2023-08-25 23:02:13.296911,FIBA World Cup Futures - Group H - Exacta,1. Canada 2. Latvia,0.123,0.1818,0.0588
 2023-08-25 20:01:54.888701,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Italy,Alessandro Pajola,0.11909999999999998,0.1667,0.0476
 2023-08-25 22:02:54.744566,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - France,Rudy  Gobert,0.11669999999999991,0.9167,0.8
 2023-08-25 21:02:46.563807,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Australia,Josh  Giddey,0.1129,0.8462,0.7333
-2023-08-25 20:01:54.899385,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Australia,Duop  Reath,0.11119999999999997,0.5556,0.4444
 2023-08-25 19:02:21.019335,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Mexico,Francisco  Cruz,0.11119999999999997,0.5556,0.4444
+2023-08-25 20:01:54.899385,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Australia,Duop  Reath,0.11119999999999997,0.5556,0.4444
 2023-08-25 20:01:54.919648,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Lithuania,Donatas  Motiejunas,0.10910000000000002,0.2,0.0909
 2023-08-26 03:03:10.803933,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Over 66.5,0.10389999999999999,0.5917,0.4878
 2023-08-25 22:03:03.868974,D+D Real Czech Masters - D+D Real Czech Masters 2023 - Winner,Matt Wallace,0.1012,0.1111,0.0099
@@ -39,27 +39,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-25 19:02:21.000655,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - China,Kyle  Anderson,0.0771,0.4545,0.3774
 2023-08-25 21:02:46.730503,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Canada,Luguentz  Dort,0.07500000000000001,0.2,0.125
 2023-08-25 19:02:21.009664,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Italy,Stefano  Tonut,0.07220000000000001,0.1,0.0278
-2023-08-25 22:03:01.296726,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
-2023-08-25 21:02:53.689716,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
-2023-08-25 16:02:22.962527,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
-2023-08-25 17:02:18.585067,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-26 00:03:57.121392,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-25 23:02:18.703192,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
 2023-08-25 18:03:08.336273,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
 2023-08-25 19:02:27.390773,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
 2023-08-25 20:02:00.287657,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
-2023-08-26 00:03:57.121392,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
-2023-08-25 23:02:18.703192,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
-2023-08-26 01:04:42.322658,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
-2023-08-26 02:02:36.282110,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-26 04:02:34.971180,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-25 17:02:18.585067,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
 2023-08-26 03:03:07.964275,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-26 02:02:36.282110,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-25 21:02:53.689716,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-25 22:03:01.296726,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-26 01:04:42.322658,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
 2023-08-25 22:03:03.868974,D+D Real Czech Masters - D+D Real Czech Masters 2023 - Winner,Nicolai Hojgaard,0.06820000000000001,0.25,0.1818
+2023-08-26 04:02:28.322788,FIBA World Cup Futures - Group A - Winner,Dominican Republic,0.06670000000000004,0.4,0.3333
 2023-08-25 22:03:03.868974,D+D Real Czech Masters - D+D Real Czech Masters 2023 - Winner,Ludvig Aberg,0.06620000000000001,0.125,0.0588
 2023-08-25 19:02:21.013887,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Japan,Yuta  Watanabe,0.0635,0.7778,0.7143
-2023-08-25 16:02:25.712588,Scores - 2nd Round Score - Scottie Scheffler - 2nd Round Score ,Under 67.5,0.06230000000000002,0.6078,0.5455
 2023-08-26 03:03:10.818958,Scores - 3rd Round Score - Viktor Hovland - 3rd Round Score,Under 67.5,0.06230000000000002,0.6078,0.5455
 2023-08-25 22:02:54.580021,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Germany,Franz  Wagner,0.0596,0.1429,0.0833
 2023-08-25 20:01:54.992926,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Lithuania,Donatas  Motiejunas,0.058300000000000005,0.125,0.0667
 2023-08-25 21:02:46.748774,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Mexico,Gabriel  Giron,0.05710000000000001,0.2,0.1429
-2023-08-25 16:02:25.506183,BKFC 49: Slaveski vs Lindsey - Bryce Henry vs Tom Shoaff - To Win the Bout,Bryce Henry,0.05679999999999996,0.875,0.8182
 2023-08-25 21:02:46.567556,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Canada,Shai  Gilgeous - Alexander,0.056400000000000006,0.8,0.7436
 2023-08-25 19:02:21.810666,US Presidential Election 2024 - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win more than 60% of the popular vote,0.05559999999999998,0.1667,0.1111
 2023-08-25 21:02:46.737767,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - France,Evan  Fournier,0.05550000000000002,0.2222,0.1667
@@ -67,10 +66,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-25 21:02:56.208882,BKFC 49: Slaveski vs Lindsey - Alberto Blas vs Joao Guerra - To Win the Bout,Alberto Blas,0.05380000000000007,0.9,0.8462
 2023-08-25 19:02:21.036142,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - USA,Anthony  Edwards,0.05299999999999999,0.4878,0.4348
 2023-08-25 22:02:54.678701,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Canada,Kelly  Olynyk,0.052300000000000006,0.1111,0.0588
-2023-08-26 03:03:00.433036,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Canada,Shai  Gilgeous - Alexander,0.05070000000000002,0.4762,0.4255
 2023-08-26 03:03:10.549493,Tour Championship - 2/3 Balls - 3rd Round 2 Balls - E. Grillo / T. Moore - 3rd Round 2 Balls,Taylor Moore,0.05070000000000002,0.4762,0.4255
+2023-08-26 03:03:00.433036,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Canada,Shai  Gilgeous - Alexander,0.05070000000000002,0.4762,0.4255
 2023-08-25 19:02:21.009664,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Italy,Giampaolo  Ricci,0.0493,0.0625,0.0132
-2023-08-25 16:02:25.499308,BKFC 49: Slaveski vs Lindsey - Bryan Duran vs Dakota Highpine - To Win the Bout,Dakota Highpine,0.0489,0.1739,0.125
+2023-08-26 04:02:37.511647,CP Womens Open - CP Womens Open - Winner,Jin Young Ko,0.04849999999999999,0.1538,0.1053
 2023-08-26 03:03:00.608065,FIBA World Cup Futures - Group D - Winner,Montenegro,0.047599999999999976,0.3333,0.2857
 2023-08-25 22:02:54.584342,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Japan,Hirotaka Yoshii,0.0461,0.0625,0.0164
 2023-08-25 20:01:54.912727,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Germany,Daniel  Theis,0.045499999999999985,0.5455,0.5
@@ -79,52 +78,52 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-25 23:02:13.261741,FIBA World Cup Futures - Group D - Exacta,1. Montenegro 2. Lithuania,0.04099999999999998,0.2632,0.2222
 2023-08-25 20:01:55.002989,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Spain,Usman  Garuba,0.04040000000000002,0.2222,0.1818
 2023-08-26 03:03:10.549493,Tour Championship - 2/3 Balls - 3rd Round 2 Balls - E. Grillo / T. Moore - 3rd Round 2 Balls,Emiliano Grillo,0.03610000000000002,0.5917,0.5556
-2023-08-25 16:02:17.326863,NFL Specials - What will the Name of the Washington Football Franchise be for game 1 of the 2024/2025 Regular Season - Proposition,Any Other Name,0.03570000000000001,0.2857,0.25
 2023-08-25 19:02:21.810666,US Presidential Election 2024 - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win 55.01 to 60% of the popular vote,0.03420000000000001,0.1111,0.0769
 2023-08-25 21:02:46.567556,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Canada,RJ  Barrett,0.034100000000000005,0.125,0.0909
 2023-08-25 20:01:54.906056,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Canada,Zach  Edey,0.03330000000000001,0.1,0.0667
+2023-08-26 04:02:37.511647,CP Womens Open - CP Womens Open - Winner,Nelly Korda,0.033299999999999996,0.1333,0.1
 2023-08-25 23:02:13.269843,FIBA World Cup Futures - Group E - Exacta,1. Australia 2. Germany,0.033299999999999996,0.5455,0.5122
 2023-08-25 22:02:54.707178,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Lithuania,Margiris  Normantas,0.033,0.0526,0.0196
 2023-08-25 21:02:46.741410,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Japan,Yuki Kawamura,0.031799999999999995,0.1429,0.1111
-2023-08-25 21:02:56.187080,BKFC 49: Slaveski vs Lindsey - Joshua Famez vs Aaron Sutterfield - To Win the Bout,Joshua Famez,0.031400000000000095,0.7647,0.7333
 2023-08-25 21:02:56.178893,BKFC 49: Slaveski vs Lindsey - Valeria Mejia vs Sarah Click - To Win the Bout,Sarah Click,0.031400000000000095,0.7647,0.7333
+2023-08-25 21:02:56.187080,BKFC 49: Slaveski vs Lindsey - Joshua Famez vs Aaron Sutterfield - To Win the Bout,Joshua Famez,0.031400000000000095,0.7647,0.7333
+2023-08-26 04:02:37.511647,CP Womens Open - CP Womens Open - Winner,Georgia Hall,0.0312,0.0435,0.0123
 2023-08-25 23:02:13.296911,FIBA World Cup Futures - Group H - Exacta,1. Latvia 2. Canada,0.0306,0.0385,0.0079
 2023-08-25 20:01:54.922957,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Mexico,Josh  Ibarra,0.030299999999999994,0.3636,0.3333
+2023-08-26 04:02:37.511647,CP Womens Open - CP Womens Open - Winner,Linn Grant,0.02779999999999999,0.25,0.2222
 2023-08-25 21:02:46.571538,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - France,Elie  Okobo,0.02779999999999999,0.25,0.2222
 2023-08-25 21:02:56.217020,BKFC 49: Slaveski vs Lindsey - Bryan Duran vs Dakota Highpine - To Win the Bout,Bryan Duran,0.027799999999999936,0.9167,0.8889
 2023-08-25 17:02:13.322371,US Presidential Election 2024 - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win 45.01 to 50% of the popular vote,0.027700000000000002,0.4444,0.4167
 2023-08-25 21:02:56.172750,BKFC 49: Slaveski vs Lindsey - Matt Russo vs James Hyder - To Win the Bout,Matt Russo,0.027200000000000002,0.8403,0.8131
-2023-08-25 16:02:25.676683,Scores - 2nd Round Score - Collin Morikawa - 2nd Round Score ,Under 68.5,0.026499999999999968,0.5917,0.5652
 2023-08-25 21:02:46.741410,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Japan,Yudai Baba,0.02560000000000001,0.3333,0.3077
 2023-08-25 22:02:54.734513,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Canada,Luguentz  Dort,0.025300000000000003,0.1429,0.1176
 2023-08-25 21:02:46.745150,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Lithuania,Vaidas  Kariniauskas,0.024299999999999995,0.0769,0.0526
 2023-08-25 21:02:46.555855,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Italy,Stefano Tonut,0.024,0.0625,0.0385
+2023-08-26 04:02:37.236123,Tour Championship - 2/3 Balls - 3rd Round 2 Balls - R. Henley / L. Glover - Including Tie,Russell Henley,0.023800000000000043,0.5238,0.5
 2023-08-25 19:02:21.019335,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Mexico,Josh  Ibarra,0.023799999999999988,0.1667,0.1429
 2023-08-26 03:03:00.465351,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Mexico,Gael  Bonilla,0.02310000000000001,0.1,0.0769
-2023-08-25 16:02:25.538406,Tour Championship - 2/3 Balls - 2nd Round 2-Balls - M. Homa v S. Burns - 2nd Round 2-Balls,Sam Burns,0.022699999999999998,0.4878,0.4651
 2023-08-25 21:02:46.571538,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - France,Nando  De Colo,0.02260000000000001,0.4,0.3774
 2023-08-25 21:02:56.166393,BKFC 49: Slaveski vs Lindsey - Freddy Masabo vs Bovar Khanakov - To Win the Bout,Freddy Masabo,0.02260000000000001,0.4,0.3774
 2023-08-25 20:01:54.922957,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Mexico,Gael  Bonilla,0.021999999999999964,0.3077,0.2857
 2023-08-25 20:01:54.912727,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Germany,Moritz  Wagner,0.021999999999999964,0.3077,0.2857
 2023-08-25 23:02:13.261741,FIBA World Cup Futures - Group D - Exacta,1. Montenegro 2. Mexico,0.0203,0.0588,0.0385
 2023-08-25 21:02:46.741410,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Japan,Makoto Hiejima,0.0203,0.0526,0.0323
-2023-08-25 20:01:54.989501,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Japan,Yudai  Baba,0.02020000000000001,0.1111,0.0909
 2023-08-25 18:03:02.491820,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,Canada,0.02020000000000001,0.1111,0.0909
-2023-08-25 19:02:21.088119,FIBA World Cup Futures - Group D - Winner,Montenegro,0.019000000000000017,0.2857,0.2667
+2023-08-25 20:01:54.989501,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Japan,Yudai  Baba,0.02020000000000001,0.1111,0.0909
+2023-08-26 04:02:37.355869,Round Match-Ups - 3rd Round Match-Up - V. Hovland vs S. Scheffler - 3rd Round Match-Up,Scottie Scheffler,0.01970000000000005,0.5652,0.5455
 2023-08-25 18:03:02.495492,FIBA World Cup Futures - FIBA World Cup - Tournament MVP,Anthony  Edwards,0.019000000000000017,0.2857,0.2667
-2023-08-25 16:02:25.576788,Tour Championship - 2/3 Balls - 2nd Round 2-Balls - R. Henley v A. Schenk - 2nd Round 2-Balls ,Adam Schenk,0.018100000000000005,0.4348,0.4167
+2023-08-25 19:02:21.088119,FIBA World Cup Futures - Group D - Winner,Montenegro,0.019000000000000017,0.2857,0.2667
 2023-08-25 22:02:54.541173,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Italy,Simone  Fontecchio,0.016699999999999993,0.2667,0.25
 2023-08-25 21:02:56.197683,BKFC 49: Slaveski vs Lindsey - Howard Davis vs Jeff Chiffens - To Win the Bout,Howard Davis,0.016699999999999937,0.9167,0.9
-2023-08-25 23:02:13.235758,FIBA World Cup Futures - Group A - Exacta,1. Dominican Republic 2. Italy,0.015400000000000025,0.4,0.3846
 2023-08-26 03:03:00.437386,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - China,Zhou  Qi,0.015400000000000025,0.4,0.3846
+2023-08-25 23:02:13.235758,FIBA World Cup Futures - Group A - Exacta,1. Dominican Republic 2. Italy,0.015400000000000025,0.4,0.3846
 2023-08-25 22:02:54.584342,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Japan,Yudai Baba,0.014899999999999997,0.0625,0.0476
 2023-08-26 01:04:45.873218,BKFC 49: Slaveski vs Lindsey - Gorjan Slaveski vs Jake Lindsey - To Win the Bout,Gorjan Slaveski,0.014700000000000046,0.7647,0.75
-2023-08-25 19:02:21.098340,FIBA World Cup Futures - Group F - Winner,Georgia,0.013999999999999999,0.0909,0.0769
 2023-08-25 19:02:21.013887,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Japan,Yudai  Baba,0.013999999999999999,0.0909,0.0769
-2023-08-25 16:02:25.492569,BKFC 49: Slaveski vs Lindsey - Howard Davis vs Jeff Chiffens - To Win the Bout,Jeff Chiffens,0.012899999999999995,0.1667,0.1538
+2023-08-25 19:02:21.098340,FIBA World Cup Futures - Group F - Winner,Georgia,0.013999999999999999,0.0909,0.0769
+2023-08-26 04:02:37.511647,CP Womens Open - CP Womens Open - Winner,Brooke Henderson,0.013,0.0196,0.0066
 2023-08-25 19:02:21.039620,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Josh  Giddey,0.012899999999999995,0.1667,0.1538
 2023-08-25 20:01:54.885328,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Brazil,Raulzinho Neto,0.012899999999999995,0.1667,0.1538
-2023-08-25 16:02:17.326863,NFL Specials - What will the Name of the Washington Football Franchise be for game 1 of the 2024/2025 Regular Season - Proposition,Washington Commanders,0.012899999999999912,0.8462,0.8333
 2023-08-25 21:02:45.417063,MLS - MLS 2023 - Top Goalscorer,Josef Martinez (MIA),0.012700000000000003,0.0323,0.0196
 2023-08-25 21:02:46.541576,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Italy,Gabriele Procida,0.012700000000000003,0.0323,0.0196
 2023-08-25 19:02:21.083087,FIBA World Cup Futures - Group C - Winner,New Zealand,0.012100000000000001,0.0244,0.0123
@@ -133,130 +132,135 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-25 19:02:21.068481,FIBA World Cup Futures - FIBA World Cup - Winning Confederation,Americas,0.011499999999999955,0.6667,0.6552
 2023-08-25 22:02:54.744566,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - France,Nicolas  Batum,0.011199999999999995,0.0588,0.0476
 2023-08-25 19:02:21.043047,FIBA World Cup Futures - FIBA World Cup - Top Total Rebounds,Karl  Anthony-Towns,0.011099999999999999,0.1111,0.1
-2023-08-25 16:02:25.463940,BKFC 49: Slaveski vs Lindsey - John Escoboza vs Esteban Rodriguez - To Win the Bout,Esteban Rodriguez,0.010699999999999932,0.5455,0.5348
 2023-08-25 19:02:21.050484,FIBA World Cup Futures - FIBA World Cup - Top Points Scorer,Patty  Mills,0.0102,0.0769,0.0667
 2023-08-25 22:02:54.591896,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Mexico,Gabriel  Giron,-0.0102,0.0667,0.0769
 2023-08-25 20:01:54.912727,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Germany,Johannes  Thiemann,-0.0102,0.0667,0.0769
 2023-08-25 19:02:21.036142,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - USA,Jaren  Jackson Jr,-0.0102,0.0667,0.0769
 2023-08-25 22:03:03.868974,D+D Real Czech Masters - D+D Real Czech Masters 2023 - Winner,Hurly Long,-0.0103,0.002,0.0123
+2023-08-26 04:02:37.511647,CP Womens Open - CP Womens Open - Winner,Ruoning Yin,-0.0106,0.009,0.0196
 2023-08-25 22:02:54.591896,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Mexico,Orlando  Mendez,-0.010700000000000001,0.0278,0.0385
 2023-08-25 19:02:20.988778,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Brazil,Leonardo Meindl,-0.010899999999999993,0.1429,0.1538
 2023-08-25 19:02:21.009664,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Italy,Simone  Fontecchio,-0.01090000000000002,0.8462,0.8571
-2023-08-25 16:02:25.463940,BKFC 49: Slaveski vs Lindsey - John Escoboza vs Esteban Rodriguez - To Win the Bout,John Escoboza,-0.01100000000000001,0.5238,0.5348
-2023-08-25 20:01:54.906056,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Canada,Dwight  Powell,-0.011099999999999999,0.1,0.1111
 2023-08-25 21:02:46.571538,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - France,Nicolas  Batum,-0.011099999999999999,0.1,0.1111
-2023-08-25 16:02:17.332185,NFL Specials - Where will Jonathan Taylor Play Game 1 of the Season - Jonathan Taylor Special,Cowboys,-0.011199999999999995,0.0476,0.0588
-2023-08-25 16:02:17.332185,NFL Specials - Where will Jonathan Taylor Play Game 1 of the Season - Jonathan Taylor Special,Bills,-0.011199999999999995,0.0476,0.0588
+2023-08-25 20:01:54.906056,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Canada,Dwight  Powell,-0.011099999999999999,0.1,0.1111
 2023-08-25 19:02:21.064047,FIBA World Cup Futures - FIBA World Cup - Top Total Steals,Nicolas  Batum,-0.011199999999999995,0.0476,0.0588
 2023-08-25 19:02:21.009664,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Italy,Gabriele  Procida,-0.011200000000000002,0.0132,0.0244
+2023-08-26 04:02:37.511647,CP Womens Open - CP Womens Open - Winner,Alison Lee,-0.011300000000000001,0.001,0.0123
 2023-08-25 19:02:21.068481,FIBA World Cup Futures - FIBA World Cup - Winning Confederation,Europe,-0.01150000000000001,0.3333,0.3448
 2023-08-25 22:03:03.868974,D+D Real Czech Masters - D+D Real Czech Masters 2023 - Winner,Fabrizio Zanotti,-0.0119,0.0033,0.0152
+2023-08-26 04:02:37.511647,CP Womens Open - CP Womens Open - Winner,Carlota Ciganda,-0.0124,0.0017,0.0141
 2023-08-25 22:03:03.868974,D+D Real Czech Masters - D+D Real Czech Masters 2023 - Winner,Max Schmitt,-0.012599999999999998,0.0152,0.0278
 2023-08-25 22:03:03.868974,D+D Real Czech Masters - D+D Real Czech Masters 2023 - Winner,Pablo Larrazabal,-0.012799999999999999,0.0013,0.0141
+2023-08-26 04:02:37.511647,CP Womens Open - CP Womens Open - Winner,Celine Boutier,-0.012899999999999998,0.0149,0.0278
 2023-08-25 22:03:03.868974,D+D Real Czech Masters - D+D Real Czech Masters 2023 - Winner,Julien Guerrier,-0.013,0.0066,0.0196
 2023-08-25 22:03:03.868974,D+D Real Czech Masters - D+D Real Czech Masters 2023 - Winner,Niklas Norgaard Mller,-0.0138,0.0079,0.0217
 2023-08-25 17:02:13.331065,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,-0.013899999999999996,0.1111,0.125
 2023-08-25 20:01:54.906056,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Canada,Kyle  Alexander,-0.013899999999999996,0.1111,0.125
-2023-08-25 19:02:21.009664,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Italy,Nicolo  Melli,-0.013899999999999996,0.1111,0.125
 2023-08-25 20:01:54.912727,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Germany,Johannes  Voigtmann,-0.013899999999999996,0.1111,0.125
+2023-08-25 19:02:21.009664,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Italy,Nicolo  Melli,-0.013899999999999996,0.1111,0.125
 2023-08-25 20:01:54.912727,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Germany,Franz  Wagner,-0.013899999999999996,0.1111,0.125
 2023-08-25 19:02:21.000655,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - China,Zhao  Rui,-0.013999999999999999,0.0769,0.0909
-2023-08-25 19:02:21.043047,FIBA World Cup Futures - FIBA World Cup - Top Total Rebounds,Lauri  Markkanen,-0.013999999999999999,0.0769,0.0909
 2023-08-25 22:02:54.734513,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Canada,Nickeil  Alexander - Walker,-0.013999999999999999,0.0769,0.0909
-2023-08-25 22:02:54.734513,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Canada,Kyle  Alexander,-0.014099999999999994,0.0526,0.0667
-2023-08-25 16:02:17.332185,NFL Specials - Where will Jonathan Taylor Play Game 1 of the Season - Jonathan Taylor Special,Broncos,-0.014099999999999994,0.0526,0.0667
+2023-08-25 19:02:21.043047,FIBA World Cup Futures - FIBA World Cup - Top Total Rebounds,Lauri  Markkanen,-0.013999999999999999,0.0769,0.0909
 2023-08-25 22:02:54.635994,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - France,Guerschon  Yabusele,-0.014099999999999994,0.0526,0.0667
 2023-08-25 19:02:21.050484,FIBA World Cup Futures - FIBA World Cup - Top Points Scorer,Dennis  Schroder,-0.014099999999999994,0.0526,0.0667
 2023-08-25 22:02:54.734513,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Canada,Melvin  Ejim,-0.014099999999999994,0.0526,0.0667
-2023-08-25 19:02:21.050484,FIBA World Cup Futures - FIBA World Cup - Top Points Scorer,Franz  Wagner,-0.014099999999999998,0.0244,0.0385
-2023-08-25 19:02:21.050484,FIBA World Cup Futures - FIBA World Cup - Top Points Scorer,Josh  Giddey,-0.014099999999999998,0.0244,0.0385
+2023-08-25 22:02:54.734513,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Canada,Kyle  Alexander,-0.014099999999999994,0.0526,0.0667
 2023-08-25 19:02:21.050484,FIBA World Cup Futures - FIBA World Cup - Top Points Scorer,Nando de Colo (FRA),-0.014099999999999998,0.0244,0.0385
+2023-08-25 19:02:21.050484,FIBA World Cup Futures - FIBA World Cup - Top Points Scorer,Josh  Giddey,-0.014099999999999998,0.0244,0.0385
+2023-08-25 19:02:21.050484,FIBA World Cup Futures - FIBA World Cup - Top Points Scorer,Franz  Wagner,-0.014099999999999998,0.0244,0.0385
+2023-08-25 20:01:54.919648,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Lithuania,Ignas  Brazdeikis,-0.014100000000000001,0.0385,0.0526
+2023-08-25 21:02:46.567556,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Canada,Luguentz  Dort,-0.014100000000000001,0.0385,0.0526
 2023-08-25 19:02:21.043047,FIBA World Cup Futures - FIBA World Cup - Top Total Rebounds,Nicolo  Melli,-0.014100000000000001,0.0385,0.0526
 2023-08-25 21:02:46.730503,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Canada,Kyle  Alexander,-0.014100000000000001,0.0385,0.0526
-2023-08-25 21:02:46.567556,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Canada,Luguentz  Dort,-0.014100000000000001,0.0385,0.0526
-2023-08-25 20:01:54.919648,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Lithuania,Ignas  Brazdeikis,-0.014100000000000001,0.0385,0.0526
 2023-08-25 19:02:21.039620,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Nando  De Colo,-0.014100000000000001,0.0385,0.0526
 2023-08-25 22:02:54.678701,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Canada,Dwight  Powell,-0.014499999999999999,0.0149,0.0294
 2023-08-25 23:02:13.261741,FIBA World Cup Futures - Group D - Exacta,1. Mexico 2. Montenegro,-0.0145,0.0099,0.0244
 2023-08-26 01:04:45.873218,BKFC 49: Slaveski vs Lindsey - Gorjan Slaveski vs Jake Lindsey - To Win the Bout,Jake Lindsey,-0.014500000000000013,0.303,0.3175
-2023-08-25 22:02:54.591896,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Mexico,Fabian  Jaimes,-0.014899999999999997,0.0476,0.0625
+2023-08-26 04:02:37.511647,CP Womens Open - CP Womens Open - Winner,Hye-Jin Choi,-0.014599999999999998,0.0132,0.0278
 2023-08-25 22:02:54.580021,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Germany,Maodo  Lo,-0.014899999999999997,0.0476,0.0625
+2023-08-25 22:02:54.591896,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Mexico,Fabian  Jaimes,-0.014899999999999997,0.0476,0.0625
 2023-08-25 19:02:21.073981,FIBA World Cup Futures - Group A - Winner,Philippines,-0.014899999999999997,0.0476,0.0625
 2023-08-25 22:02:54.687219,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - France,Nicolas  Batum,-0.014900000000000004,0.0196,0.0345
+2023-08-26 04:02:37.511647,CP Womens Open - CP Womens Open - Winner,Alena Sharp,-0.015100000000000002,0.0013,0.0164
 2023-08-25 19:02:21.036142,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - USA,Brandon  Ingram,-0.015100000000000002,0.1667,0.1818
 2023-08-25 22:02:54.734513,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Canada,Zach  Edey,-0.015300000000000001,0.0323,0.0476
 2023-08-25 19:02:21.039620,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Evan  Fournier,-0.015300000000000001,0.0323,0.0476
 2023-08-25 20:01:55.006208,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - USA,Bobby  Portis,-0.015400000000000025,0.3846,0.4
 2023-08-25 21:02:46.745150,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Lithuania,Donatas  Motiejunas,-0.016600000000000004,0.0667,0.0833
-2023-08-25 21:02:46.782424,FIBA World Cup Futures - FIBA World Cup - Top Total Blocks,Rudy  Gobert,-0.016699999999999993,0.25,0.2667
 2023-08-26 03:03:00.465351,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Mexico,Daniel  Amigo,-0.016699999999999993,0.25,0.2667
+2023-08-25 21:02:46.782424,FIBA World Cup Futures - FIBA World Cup - Top Total Blocks,Rudy  Gobert,-0.016699999999999993,0.25,0.2667
 2023-08-25 17:02:13.322371,US Presidential Election 2024 - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win 40.01 to 45% of the popular vote,-0.016699999999999993,0.25,0.2667
-2023-08-25 16:02:17.332185,NFL Specials - Where will Jonathan Taylor Play Game 1 of the Season - Jonathan Taylor Special,Bears,-0.016700000000000007,0.0833,0.1
+2023-08-26 04:02:37.511647,CP Womens Open - CP Womens Open - Winner,Lilia Vu,-0.0168,0.011,0.0278
 2023-08-25 21:02:51.415076,Season Player Specials - NFL 2023-24 Rushing TDs - J.K. Dobbins 2023-24 Regular Season Total Rushing TDs,Under 6.5,-0.017299999999999982,0.5744,0.5917
 2023-08-25 20:01:54.926245,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Serbia,Marko  Guduric,-0.0179,0.125,0.1429
-2023-08-25 21:02:46.576441,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Serbia,Nikola  Milutinov,-0.0179,0.125,0.1429
+2023-08-25 21:02:46.541576,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Italy,Simone  Fontecchio,-0.0179,0.125,0.1429
 2023-08-25 20:01:54.985756,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Germany,Franz  Wagner,-0.0179,0.125,0.1429
 2023-08-25 21:02:46.748774,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Mexico,Francisco  Cruz,-0.0179,0.125,0.1429
-2023-08-25 21:02:46.541576,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Italy,Simone  Fontecchio,-0.0179,0.125,0.1429
+2023-08-25 21:02:46.576441,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Serbia,Nikola  Milutinov,-0.0179,0.125,0.1429
 2023-08-25 22:02:54.687219,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - France,Nando  De Colo,-0.01820000000000002,0.1818,0.2
 2023-08-25 22:02:54.687219,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - France,Rudy  Gobert,-0.018800000000000004,0.0526,0.0714
 2023-08-25 19:02:21.019335,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Mexico,Orlando  Mendez,-0.0189,0.0196,0.0385
-2023-08-25 19:02:21.039620,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Patty  Mills,-0.019099999999999992,0.0476,0.0667
-2023-08-25 19:02:21.050484,FIBA World Cup Futures - FIBA World Cup - Top Points Scorer,RJ  Barrett,-0.019099999999999992,0.0476,0.0667
 2023-08-25 21:02:46.782424,FIBA World Cup Futures - FIBA World Cup - Top Total Blocks,Karl Anthony -Towns,-0.019099999999999992,0.0476,0.0667
+2023-08-25 19:02:21.050484,FIBA World Cup Futures - FIBA World Cup - Top Points Scorer,RJ  Barrett,-0.019099999999999992,0.0476,0.0667
+2023-08-25 19:02:21.039620,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Patty  Mills,-0.019099999999999992,0.0476,0.0667
 2023-08-25 20:01:54.895313,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Italy,Mouhamet Diouf,-0.019100000000000002,0.0132,0.0323
 2023-08-25 23:02:13.269843,FIBA World Cup Futures - Group E - Exacta,1. Australia 2. Japan,-0.0194,0.005,0.0244
 2023-08-25 23:02:13.269843,FIBA World Cup Futures - Group E - Exacta,1. Australia 2. Finland,-0.019699999999999995,0.1053,0.125
-2023-08-25 19:02:21.019335,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Mexico,Daniel  Amigo,-0.019800000000000005,0.0278,0.0476
 2023-08-25 19:02:21.013887,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Japan,Yuki  Togashi,-0.019800000000000005,0.0278,0.0476
+2023-08-25 19:02:21.019335,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Mexico,Daniel  Amigo,-0.019800000000000005,0.0278,0.0476
 2023-08-25 19:02:21.064047,FIBA World Cup Futures - FIBA World Cup - Top Total Steals,Matisse  Thybulle,-0.02020000000000001,0.0909,0.1111
 2023-08-25 18:03:02.499084,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,Greece,-0.0203,0.0385,0.0588
+2023-08-26 04:02:37.511647,CP Womens Open - CP Womens Open - Winner,Hyo Joo Kim,-0.0203,0.0385,0.0588
 2023-08-25 22:02:54.580021,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Germany,Dennis  Schroder,-0.020500000000000074,0.8462,0.8667
 2023-08-25 20:01:54.999621,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Slovenia,Mike  Tobey,-0.020699999999999996,0.4444,0.4651
-2023-08-25 22:02:54.580021,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Germany,Johannes  Voigtmann,-0.0208,0.0625,0.0833
 2023-08-25 22:02:54.571622,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - China,Zhang  Zhenlin,-0.0208,0.0625,0.0833
 2023-08-25 19:02:21.043047,FIBA World Cup Futures - FIBA World Cup - Top Total Rebounds,Hamed  Haddadi,-0.0208,0.0625,0.0833
 2023-08-25 20:01:54.992926,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Lithuania,Mindaugas  Kuzminskas,-0.0208,0.0625,0.0833
+2023-08-25 22:02:54.580021,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Germany,Johannes  Voigtmann,-0.0208,0.0625,0.0833
 2023-08-25 21:02:56.166393,BKFC 49: Slaveski vs Lindsey - Freddy Masabo vs Bovar Khanakov - To Win the Bout,Bovar Khanakov,-0.02080000000000004,0.6667,0.6875
-2023-08-25 16:02:25.513594,BKFC 49: Slaveski vs Lindsey - Gorjan Slaveski vs Jake Lindsey - To Win the Bout,Gorjan Slaveski,-0.021100000000000008,0.7436,0.7647
+2023-08-26 04:02:37.236123,Tour Championship - 2/3 Balls - 3rd Round 2 Balls - R. Henley / L. Glover - Including Tie,Lucas Glover,-0.021699999999999997,0.4545,0.4762
 2023-08-25 21:02:46.555855,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Italy,Simone  Fontecchio,-0.022199999999999998,0.2,0.2222
+2023-08-26 04:02:37.511647,CP Womens Open - CP Womens Open - Winner,Xiyu Lin,-0.022400000000000003,0.002,0.0244
 2023-08-25 23:02:13.269843,FIBA World Cup Futures - Group E - Exacta,1. Finland 2. Germany,-0.022799999999999997,0.005,0.0278
 2023-08-25 19:02:21.050484,FIBA World Cup Futures - FIBA World Cup - Top Points Scorer,Lauri  Markkanen,-0.02310000000000001,0.0769,0.1
 2023-08-25 20:01:54.992926,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Lithuania,Eimantas  Bendzius,-0.0236,0.0149,0.0385
-2023-08-25 21:02:46.726782,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Australia,Josh  Giddey,-0.023799999999999988,0.1429,0.1667
+2023-08-26 04:02:37.355869,Round Match-Ups - 3rd Round Match-Up - V. Hovland vs S. Scheffler - 3rd Round Match-Up,Viktor Hovland,-0.023799999999999988,0.4762,0.5
 2023-08-25 21:02:56.197683,BKFC 49: Slaveski vs Lindsey - Howard Davis vs Jeff Chiffens - To Win the Bout,Jeff Chiffens,-0.023799999999999988,0.1429,0.1667
-2023-08-25 16:02:25.676683,Scores - 2nd Round Score - Collin Morikawa - 2nd Round Score ,Over 68.5,-0.023799999999999988,0.4762,0.5
-2023-08-25 23:02:13.261741,FIBA World Cup Futures - Group D - Exacta,1. Mexico 2. Lithuania,-0.023899999999999998,0.0196,0.0435
+2023-08-25 21:02:46.726782,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Australia,Josh  Giddey,-0.023799999999999988,0.1429,0.1667
 2023-08-25 22:02:54.734513,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Canada,Trae  Bell - Haynes,-0.023899999999999998,0.0196,0.0435
+2023-08-25 23:02:13.261741,FIBA World Cup Futures - Group D - Exacta,1. Mexico 2. Lithuania,-0.023899999999999998,0.0196,0.0435
 2023-08-25 22:02:54.591896,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Mexico,Daniel  Amigo,-0.024,0.0385,0.0625
 2023-08-25 19:02:21.000655,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - China,Zhou  Qi,-0.02560000000000001,0.3077,0.3333
+2023-08-26 04:02:37.511647,CP Womens Open - CP Womens Open - Winner,Gabriela Ruffels,-0.0257,0.0066,0.0323
 2023-08-25 23:02:13.235758,FIBA World Cup Futures - Group A - Exacta,1. Philippines 2. Italy,-0.026600000000000002,0.0079,0.0345
 2023-08-26 03:03:00.465351,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Mexico,Josh  Ibarra,-0.02679999999999999,0.2857,0.3125
-2023-08-25 19:02:21.019335,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Mexico,Fabian  Jaimes,-0.02779999999999999,0.2222,0.25
 2023-08-25 21:02:46.741410,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Japan,Josh Hawkinson,-0.02779999999999999,0.2222,0.25
+2023-08-25 19:02:21.019335,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Mexico,Fabian  Jaimes,-0.02779999999999999,0.2222,0.25
 2023-08-25 18:03:02.499084,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,France,-0.027999999999999997,0.1538,0.1818
 2023-08-25 21:02:46.555855,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Italy,Mouhamet Diouf,-0.028000000000000004,0.0196,0.0476
-2023-08-25 19:02:21.005070,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Germany,Maodo  Lo,-0.028199999999999996,0.0385,0.0667
+2023-08-25 22:02:54.588057,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Lithuania,Donatas  Motiejunas,-0.028199999999999996,0.0385,0.0667
 2023-08-25 19:02:21.064047,FIBA World Cup Futures - FIBA World Cup - Top Total Steals,Alessandro Pajola,-0.028199999999999996,0.0385,0.0667
 2023-08-25 22:02:54.635994,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - France,Terry  Tarpey,-0.028199999999999996,0.0385,0.0667
-2023-08-25 22:02:54.588057,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Lithuania,Donatas  Motiejunas,-0.028199999999999996,0.0385,0.0667
+2023-08-25 19:02:21.005070,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Germany,Maodo  Lo,-0.028199999999999996,0.0385,0.0667
 2023-08-25 19:02:21.019335,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Mexico,Gabriel  Giron,-0.028399999999999995,0.0625,0.0909
 2023-08-25 21:02:56.172750,BKFC 49: Slaveski vs Lindsey - Matt Russo vs James Hyder - To Win the Bout,James Hyder,-0.029100000000000015,0.2273,0.2564
 2023-08-25 21:02:46.555855,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Italy,Gabriele Procida,-0.029299999999999993,0.0476,0.0769
+2023-08-25 21:02:56.178893,BKFC 49: Slaveski vs Lindsey - Valeria Mejia vs Sarah Click - To Win the Bout,Valeria Mejia,-0.030299999999999994,0.303,0.3333
 2023-08-25 20:01:54.985756,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Germany,Daniel  Theis,-0.030299999999999994,0.3333,0.3636
 2023-08-25 21:02:56.187080,BKFC 49: Slaveski vs Lindsey - Joshua Famez vs Aaron Sutterfield - To Win the Bout,Aaron Sutterfield,-0.030299999999999994,0.303,0.3333
-2023-08-25 21:02:56.178893,BKFC 49: Slaveski vs Lindsey - Valeria Mejia vs Sarah Click - To Win the Bout,Valeria Mejia,-0.030299999999999994,0.303,0.3333
 2023-08-25 21:02:56.217020,BKFC 49: Slaveski vs Lindsey - Bryan Duran vs Dakota Highpine - To Win the Bout,Dakota Highpine,-0.031,0.1429,0.1739
+2023-08-26 04:02:37.511647,CP Womens Open - CP Womens Open - Winner,Danielle Kang,-0.0313,0.001,0.0323
 2023-08-25 21:02:46.745150,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Lithuania,Eimantas  Bendzius,-0.031799999999999995,0.1111,0.1429
 2023-08-25 20:01:54.919648,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Lithuania,Jonas  Valanciunas,-0.033299999999999996,0.8,0.8333
-2023-08-25 23:02:13.235758,FIBA World Cup Futures - Group A - Exacta,1. Philippines 2. Dominican Republic,-0.0335,0.005,0.0385
 2023-08-25 23:02:13.269843,FIBA World Cup Futures - Group E - Exacta,1. Finland 2. Australia,-0.0335,0.005,0.0385
-2023-08-25 22:02:54.635994,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - France,Moustapha  Fall,-0.034100000000000005,0.0909,0.125
+2023-08-25 23:02:13.235758,FIBA World Cup Futures - Group A - Exacta,1. Philippines 2. Dominican Republic,-0.0335,0.005,0.0385
 2023-08-25 21:02:46.726782,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Australia,Joe  Ingles,-0.034100000000000005,0.0909,0.125
+2023-08-25 22:02:54.635994,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - France,Moustapha  Fall,-0.034100000000000005,0.0909,0.125
 2023-08-25 22:02:54.591896,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Mexico,Jorge  Gutierrez,-0.034100000000000005,0.0909,0.125
-2023-08-25 18:03:02.491820,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,France,-0.03420000000000001,0.0769,0.1111
-2023-08-25 22:03:03.868974,D+D Real Czech Masters - D+D Real Czech Masters 2023 - Winner,Sami Valimaki,-0.03420000000000001,0.0769,0.1111
 2023-08-25 19:02:21.088119,FIBA World Cup Futures - Group D - Winner,Mexico,-0.03420000000000001,0.0769,0.1111
+2023-08-25 22:03:03.868974,D+D Real Czech Masters - D+D Real Czech Masters 2023 - Winner,Sami Valimaki,-0.03420000000000001,0.0769,0.1111
+2023-08-25 18:03:02.491820,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,France,-0.03420000000000001,0.0769,0.1111
 2023-08-25 22:03:03.868974,D+D Real Czech Masters - D+D Real Czech Masters 2023 - Winner,Yannik Paul,-0.0344,0.0244,0.0588
 2023-08-25 22:02:54.584342,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Japan,Yuki Kawamura,-0.03489999999999999,0.4651,0.5
 2023-08-25 21:02:46.726782,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Australia,Nick  Kay,-0.035699999999999996,0.0476,0.0833
@@ -269,13 +273,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-25 22:02:54.707178,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Lithuania,Ignas  Brazdeikis,-0.03889999999999999,0.1429,0.1818
 2023-08-25 21:02:46.555855,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Italy,Matteo Spagnolo,-0.03950000000000001,0.2105,0.25
 2023-08-25 22:02:54.687219,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - France,Guerschon  Yabusele,-0.0407,0.0769,0.1176
-2023-08-25 16:02:17.326863,NFL Specials - What will the Name of the Washington Football Franchise be for game 1 of the 2024/2025 Regular Season - Proposition,Washington Football Team,-0.0407,0.0769,0.1176
 2023-08-26 02:02:38.359823,Scores - 3rd Round Score - Patrick Cantlay - 3rd Round Score,Under 67.5,-0.04139999999999999,0.5238,0.5652
 2023-08-25 20:01:54.888701,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Italy,Nicolo Mell,-0.04169999999999999,0.125,0.1667
 2023-08-25 21:02:46.745150,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Lithuania,Jonas  Valanciunas,-0.04169999999999999,0.125,0.1667
 2023-08-25 23:02:13.296911,FIBA World Cup Futures - Group H - Exacta,1. France 2. Latvia,-0.042600000000000006,0.005,0.0476
-2023-08-25 16:02:25.506183,BKFC 49: Slaveski vs Lindsey - Bryce Henry vs Tom Shoaff - To Win the Bout,Tom Shoaff,-0.043800000000000006,0.2062,0.25
-2023-08-25 16:02:25.499308,BKFC 49: Slaveski vs Lindsey - Bryan Duran vs Dakota Highpine - To Win the Bout,Bryan Duran,-0.044399999999999995,0.8889,0.9333
 2023-08-25 19:02:20.993929,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Australia,Nick  Kay,-0.0448,0.0385,0.0833
 2023-08-25 19:02:21.092898,FIBA World Cup Futures - Group E - Winner,Australia,-0.045600000000000085,0.6154,0.661
 2023-08-25 21:02:46.737767,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - France,Terry  Tarpey,-0.04620000000000002,0.1538,0.2
@@ -295,32 +296,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-25 22:02:54.744566,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - France,Moustapha  Fall,-0.0635,0.0476,0.1111
 2023-08-25 19:02:21.013887,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Japan,Josh  Hawkinson,-0.06590000000000001,0.1667,0.2326
 2023-08-25 22:02:54.707178,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Lithuania,Rokas  Jokubaitis,-0.06669999999999998,0.1,0.1667
-2023-08-25 16:02:25.712588,Scores - 2nd Round Score - Scottie Scheffler - 2nd Round Score ,Over 67.5,-0.06930000000000003,0.4545,0.5238
-2023-08-26 03:03:10.818958,Scores - 3rd Round Score - Viktor Hovland - 3rd Round Score,Over 67.5,-0.06930000000000003,0.4545,0.5238
 2023-08-25 19:02:21.005070,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Germany,Dennis  Schroder,-0.06930000000000003,0.4545,0.5238
-2023-08-25 16:02:17.332185,NFL Specials - Where will Jonathan Taylor Play Game 1 of the Season - Jonathan Taylor Special,Colts,-0.0695,0.6364,0.7059
-2023-08-26 01:04:42.339463,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-25 20:02:00.296532,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-25 16:02:22.975303,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-26 03:03:10.818958,Scores - 3rd Round Score - Viktor Hovland - 3rd Round Score,Over 67.5,-0.06930000000000003,0.4545,0.5238
+2023-08-25 23:02:18.713535,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
 2023-08-26 03:03:07.979316,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
 2023-08-26 02:02:36.290349,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-25 17:02:18.594426,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-25 21:02:53.700823,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-25 22:03:01.306775,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-26 01:04:42.339463,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
 2023-08-26 00:03:57.130029,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-25 18:03:08.348207,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-25 23:02:18.713535,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-25 22:03:01.306775,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-26 04:02:34.982060,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-25 21:02:53.700823,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-25 20:02:00.296532,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
 2023-08-25 19:02:27.398330,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-25 18:03:08.348207,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-25 17:02:18.594426,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
 2023-08-25 21:02:46.726782,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Australia,Matisse  Thybulle,-0.0711,0.4167,0.4878
 2023-08-25 22:03:03.868974,D+D Real Czech Masters - D+D Real Czech Masters 2023 - Winner,Robert MacIntyre,-0.0712,0.0057,0.0769
 2023-08-25 23:02:13.269843,FIBA World Cup Futures - Group E - Exacta,1. Germany 2. Finland,-0.07189999999999999,0.005,0.0769
 2023-08-26 03:03:10.825865,Scores - 3rd Round Score - Xander Schauffele - 3rd Round Score,Over 67.5,-0.07440000000000002,0.5,0.5744
 2023-08-25 19:02:21.073981,FIBA World Cup Futures - Group A - Winner,Dominican Republic,-0.07490000000000002,0.3333,0.4082
+2023-08-26 04:02:37.511647,CP Womens Open - CP Womens Open - Winner,Yuka Saso,-0.07649999999999998,0.1053,0.1818
 2023-08-25 19:02:21.009664,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Italy,Matteo  Spagnolo,-0.07880000000000001,0.0323,0.1111
 2023-08-25 21:02:46.748774,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Mexico,Fabian  Jaimes,-0.08329999999999999,0.25,0.3333
 2023-08-25 20:01:54.977828,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Australia,Nick  Kay,-0.08330000000000001,0.1667,0.25
 2023-08-25 22:02:54.588057,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Lithuania,Rokas  Jokubaitis,-0.08330000000000004,0.6667,0.75
 2023-08-25 22:02:54.635994,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - France,Rudy  Gobert,-0.0857,0.7143,0.8
+2023-08-26 04:02:37.511647,CP Womens Open - CP Womens Open - Winner,Rose Zhang,-0.097,0.0141,0.1111
 2023-08-26 03:03:10.803933,Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score,Under 66.5,-0.09820000000000001,0.4762,0.5744
 2023-08-25 19:02:21.005070,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Germany,Franz  Wagner,-0.10370000000000001,0.2667,0.3704
 2023-08-25 23:02:13.235758,FIBA World Cup Futures - Group A - Exacta,1. Italy 2. Philippines,-0.1109,0.0141,0.125
