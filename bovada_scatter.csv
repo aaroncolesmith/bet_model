@@ -14,18 +14,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-28 09:04:29.895251,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Strasbourg,0.07789999999999997,0.3636,0.2857
 2023-08-28 09:04:29.891064,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Strasbourg,0.07069999999999999,0.1818,0.1111
 2023-08-28 02:04:28.665330,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Silkeborg IF,0.07069999999999999,0.1818,0.1111
-2023-08-28 09:04:37.365534,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
 2023-08-28 10:02:54.364403,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
 2023-08-28 11:02:27.613697,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
-2023-08-28 05:02:42.299648,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
-2023-08-28 08:02:35.716500,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-28 12:03:42.440120,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
 2023-08-28 07:05:19.252516,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-28 09:04:37.365534,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-28 08:02:35.716500,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-28 05:02:42.299648,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
 2023-08-28 04:03:27.615910,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
 2023-08-28 03:02:46.917498,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
-2023-08-28 02:04:39.187930,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
-2023-08-28 12:03:42.440120,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
-2023-08-28 00:05:03.607690,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-28 13:03:46.774367,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
 2023-08-28 01:06:18.835186,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-28 02:04:39.187930,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
 2023-08-28 04:03:21.281840,Championship - England Championship 2023/24 - Top 6 Finish,Southampton,0.06969999999999998,0.6923,0.6226
 2023-08-28 10:02:48.339913,Superettan - Superettan 2023 - Winner,Västerås SK,0.06930000000000003,0.5238,0.4545
 2023-08-28 02:04:28.677343,Eredivisie - Dutch Eredivisie 2023/24 - To Be Relegated,RKC Waalwijk,0.06820000000000001,0.25,0.1818
@@ -293,19 +293,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-28 04:03:21.281840,Championship - England Championship 2023/24 - Top 6 Finish,Stoke City,-0.06659999999999999,0.2667,0.3333
 2023-08-28 02:04:29.863000,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Italy,Simone  Fontecchio,-0.06669999999999998,0.2,0.2667
 2023-08-28 09:04:29.970453,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,CF Monterrey,-0.06820000000000001,0.1818,0.25
-2023-08-28 04:03:27.610864,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-28 06:04:44.371345,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-28 03:02:46.910904,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-28 10:02:54.371881,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-28 09:04:37.378259,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
 2023-08-28 05:02:42.295343,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-28 12:03:42.447758,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-28 11:02:27.622099,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
 2023-08-28 07:05:19.267175,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-28 02:04:39.179309,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-28 01:06:18.822118,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-28 04:03:27.610864,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-28 11:02:27.622099,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-28 10:02:54.371881,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-28 06:04:44.371345,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-28 13:03:46.786117,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-28 12:03:42.447758,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
 2023-08-28 08:02:35.725167,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-28 00:05:03.601110,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-28 03:02:46.910904,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-28 02:04:39.179309,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-28 09:04:37.378259,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-28 01:06:18.822118,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
 2023-08-28 03:02:39.676140,Championship - England Championship 2023/24 - To Be Promoted,Middlesbrough,-0.07500000000000001,0.125,0.2
 2023-08-28 02:04:28.658491,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Copenhagen,-0.07690000000000008,0.6154,0.6923
 2023-08-28 02:04:28.677343,Eredivisie - Dutch Eredivisie 2023/24 - To Be Relegated,PEC Zwolle,-0.07939999999999997,0.4762,0.5556
