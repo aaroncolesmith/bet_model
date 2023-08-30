@@ -1,510 +1,189 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-08-29 18:50:12.296858,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Australia,Xavier  Cooks,0.4455,0.5455,0.1
-2023-08-29 18:50:12.224735,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Germany,Dennis  Schroder,0.36049999999999993,0.9901,0.6296
-2023-08-29 18:50:12.184448,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Australia,Josh  Giddey,0.33480000000000004,0.5348,0.2
-2023-08-29 18:50:12.423714,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Germany,Dennis  Schroder,0.2745,0.6078,0.3333
-2023-08-29 18:03:27.653391,MTV VMAs - VMAs 2023 - Artist Of The Year - Artist Of The Year,Taylor Swift,0.25450000000000006,0.8,0.5455
-2023-08-29 18:50:12.327839,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Germany,Johannes  Voigtmann,0.2262,0.4762,0.25
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Total of 15 or more cards,0.22619999999999996,0.75,0.5238
-2023-08-29 18:50:12.446531,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Lithuania,Rokas  Jokubaitis,0.19480000000000003,0.2857,0.0909
-2023-08-29 18:50:12.053196,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Lithuania,Rokas  Jokubaitis,0.18369999999999997,0.9615,0.7778
-2023-08-29 18:50:12.194678,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Brazil,Bruno  Caboclo,0.18330000000000002,0.5833,0.4
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",5+ cards in 2+ matches,0.17559999999999998,0.75,0.5744
-2023-08-29 18:50:12.134304,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Germany,Daniel  Theis,0.16880000000000006,0.7143,0.5455
-2023-08-29 18:50:12.033646,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Germany,Dennis  Schroder,0.15679999999999994,0.9901,0.8333
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Total of 20 or more cards,0.1524,0.2857,0.1333
-2023-08-29 18:50:12.194678,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Brazil,Yago  Mateus,0.14479999999999998,0.3448,0.2
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",5+ cards in each match,0.14279999999999998,0.3333,0.1905
-2023-08-29 18:50:12.317736,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - China,Kyle  Anderson,0.1346,0.3846,0.25
-2023-08-29 18:50:12.402023,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Canada,Dillon  Brooks,0.13329999999999997,0.3333,0.2
-2023-08-29 18:50:12.093428,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Australia,Duop  Reath,0.13,0.5744,0.4444
-2023-08-29 18:50:10.467005,Big Brother - BB25: Outright Winner - Outright Winner,Jared Fields,0.1167,0.25,0.1333
-2023-08-29 18:50:16.347065,Carolina Panthers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Carolina Panthers O/U  7.5,Under 7.5,0.11539999999999995,0.6154,0.5
-2023-08-29 18:50:10.299817,MTV VMAs - VMAs 2023 - Song Of The Year - Song Of The Year,Miley Cyrus - Flowers,0.11430000000000007,0.7143,0.6
+2023-08-30 07:02:35.299820,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Blake Snell (SD),0.2769,0.5122,0.2353
+2023-08-30 07:02:35.305823,MLB Futures - MLB 2023 Player Awards - National League MVP,Mookie Betts (LAD),0.16670000000000001,0.5,0.3333
 2023-08-30 03:02:30.364175,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Japan,Keisei Tominaga,0.11109999999999998,0.3333,0.2222
-2023-08-29 18:50:12.063389,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Serbia,Stefan  Jovic,0.10109999999999997,0.5556,0.4545
-2023-08-29 18:03:27.662143,MTV VMAs - VMAs 2023 - Song Of The Year - Song Of The Year,Miley Cyrus - Flowers,0.09999999999999998,0.6,0.5
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Each match to have 1 or more cards in each half,0.09740000000000004,0.6429,0.5455
-2023-08-29 18:50:17.862616,New York Jets - 2023-24 Regular Season Wins O/U - Regular Season Wins - New York Jets O/U  9.5,Under 9.5,0.09099999999999997,0.5455,0.4545
-2023-08-29 18:03:28.394905,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Italy,Marco Spissu (ITA),0.09050000000000002,0.9,0.8095
-2023-08-29 18:50:12.402023,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Canada,Melvin  Ejim,0.08979999999999999,0.1667,0.0769
-2023-08-29 18:50:12.254349,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Lithuania,Rokas  Jokubaitis,0.08979999999999999,0.1667,0.0769
-2023-08-29 18:50:12.446531,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Lithuania,Donatas  Motiejunas,0.0857,0.2857,0.2
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Each match to have 2 or more cards in each half,0.08549999999999999,0.2105,0.125
+2023-08-30 07:02:28.320903,WNBA Awards - WNBA Awards 2023 - Regular Season MVP,Breanna Stewart (NYL),0.10109999999999997,0.5556,0.4545
 2023-08-30 03:02:30.364175,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Japan,Hirotaka Yoshii,0.08549999999999996,0.3077,0.2222
+2023-08-30 07:02:35.290742,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Luis Castillo (SEA),0.0849,0.2667,0.1818
 2023-08-30 03:02:29.147337,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Napoli,0.08330000000000004,0.8333,0.75
-2023-08-29 18:50:12.306951,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Canada,Shai  Gilgeous - Alexander,0.08330000000000004,0.75,0.6667
-2023-08-29 18:03:28.416927,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Serbia,Bogdan  Bogdanovic,0.08330000000000001,0.25,0.1667
-2023-08-29 18:50:12.327839,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Germany,Moritz  Wagner,0.08329999999999999,0.3333,0.25
-2023-08-29 18:50:12.412063,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - China,Kyle  Anderson,0.08329999999999999,0.5,0.4167
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Galatasaray or Young Boys to score 3 or more goals,0.0805999999999999,0.6154,0.5348
-2023-08-29 18:03:27.666993,MTV VMAs - VMAs 2023 - Video Of The Year - Video Of The Year,Sam Smith & Kim Petras - Unholy,0.07930000000000001,0.2222,0.1429
-2023-08-29 18:03:27.666993,MTV VMAs - VMAs 2023 - Video Of The Year - Video Of The Year,Nicki Minaj - Super Freaky Girl,0.07930000000000001,0.2222,0.1429
+2023-08-30 07:02:35.281722,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.0796,0.4878,0.4082
 2023-08-30 03:02:29.144782,Serie A - Italy Serie A 2023/24 - To Be Relegated,Cagliari,0.07619999999999999,0.4762,0.4
-2023-08-29 18:50:12.010004,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Canada,Shai  Gilgeous - Alexander,0.07499999999999996,0.875,0.8
-2023-08-29 18:50:16.783384,Detroit Lions - 2023-24 Regular Season Wins O/U - Regular Season Wins - Detroit Lions O/U  9.5,Under 9.5,0.07440000000000002,0.5744,0.5
 2023-08-30 04:01:55.465316,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Japan,Yuki Kawamura,0.0726,0.9615,0.8889
-2023-08-29 18:50:12.043433,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Greece,Thomas Walkup (GRE),0.07130000000000003,0.9804,0.9091
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",10+ corners in 2+ matches; 5+ cards in 2+ matches,0.07120000000000004,0.4348,0.3636
 2023-08-29 22:03:05.573161,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
-2023-08-29 23:03:04.934308,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
-2023-08-30 00:02:10.092951,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
-2023-08-29 18:03:34.706771,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
-2023-08-30 02:03:16.255329,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
-2023-08-30 03:02:35.464510,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
-2023-08-30 04:02:00.338194,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
-2023-08-30 05:03:24.579739,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
 2023-08-30 06:02:50.047351,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-30 05:03:24.579739,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-30 04:02:00.338194,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-30 03:02:35.464510,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-30 02:03:16.255329,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-30 01:02:36.950328,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-30 00:02:10.092951,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-29 23:03:04.934308,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-30 07:02:33.806909,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-29 19:02:45.997060,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
 2023-08-29 21:03:10.901489,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
 2023-08-29 20:03:16.629056,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
-2023-08-29 18:50:27.864973,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
-2023-08-30 01:02:36.950328,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
-2023-08-29 19:02:45.997060,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
-2023-08-29 18:50:18.246711,Tampa Bay Buccaneers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tampa Bay Buccaneers O/U  6.5,Over 6.5,0.06930000000000003,0.5238,0.4545
-2023-08-29 18:50:16.087071,Arizona Cardinals - 2023-24 Regular Season Wins O/U - Regular Season Wins - Arizona Cardinals O/U 4.5,Under 4.5,0.06700000000000006,0.6226,0.5556
 2023-08-30 00:02:06.756703,Kansas City Chiefs - 2023-24 Regular Season Wins O/U - Regular Season Wins - Kansas City Chiefs O/U 11.5,Under 11.5,0.05870000000000003,0.5238,0.4651
-2023-08-29 18:50:17.168973,Kansas City Chiefs - 2023-24 Regular Season Wins O/U - Regular Season Wins - Kansas City Chiefs O/U 11.5,Under 11.5,0.05870000000000003,0.5238,0.4651
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Each Match to have 1 or more Cards in each half and 2 or more corners in each half,0.05860000000000004,0.5348,0.4762
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Any player to score 2 or more goals,0.057699999999999974,0.75,0.6923
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Galatasaray to score more goals than Young Boys,0.057699999999999974,0.5122,0.4545
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August","Galatasaray, Young Boys and Panathinaikos to score 6 or more goals combined",0.057699999999999974,0.5122,0.4545
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Home teams to score 6 or more goals,0.057699999999999974,0.5122,0.4545
-2023-08-29 18:03:28.416927,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Serbia,Ognjen Dobric,0.05710000000000001,0.2,0.1429
+2023-08-30 07:02:27.650317,96th Academy Awards - Best Director - Best Director,Christopher Nolan - Oppenheimer,0.05559999999999998,0.5,0.4444
 2023-08-29 23:03:01.376600,Kansas City Chiefs - 2023-24 Regular Season Wins O/U - Regular Season Wins - Kansas City Chiefs O/U 11.5,Over 11.5,0.05449999999999999,0.6,0.5455
-2023-08-29 18:50:12.204410,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Canada,Shai  Gilgeous - Alexander,0.052100000000000035,0.9231,0.871
 2023-08-30 03:02:29.144782,Serie A - Italy Serie A 2023/24 - To Be Relegated,Sassuolo,0.052000000000000005,0.1429,0.0909
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",3+ goals in 2+ matches; 10+ corners in 2+ matches; 5+ cards in 2+ matches,0.0504,0.2857,0.2353
-2023-08-29 18:03:28.410115,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Italy,Achille Polonara (ITA),0.04999999999999999,0.25,0.2
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Galatasaray or Young Boys to score 5 or more goals,0.04909999999999999,0.1667,0.1176
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",9 or more goals scored,0.04849999999999999,0.5833,0.5348
 2023-08-30 03:02:29.147337,Serie A - Italy Serie A 2023/24 - Top 4 Finish,AC Milan,0.04760000000000009,0.7143,0.6667
-2023-08-29 18:50:17.415110,Los Angeles Rams - 2023-24 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U  6.5,Over 6.5,0.04700000000000004,0.5348,0.4878
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August","Galatasaray, Young Boys and Panathinaikos to score 3 or more combined 2nd half goals",0.04630000000000001,0.6296,0.5833
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Total of 25 or more cards,0.0461,0.0625,0.0164
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",5 or more goals in at least 1 match,0.045499999999999985,0.5,0.4545
-2023-08-29 18:50:12.134304,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Germany,Johannes  Thiemann,0.04440000000000001,0.1111,0.0667
 2023-08-30 03:02:29.144782,Serie A - Italy Serie A 2023/24 - To Be Relegated,Monza,0.04440000000000001,0.1111,0.0667
-2023-08-29 18:03:36.816086,Boxing Lines - Koki Inoue vs Abdurasul Ismoilov - To Win the Bout,Abdurasul Ismoilov,0.043800000000000006,0.2105,0.1667
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",3+ goals scored in 2+ matches,0.04290000000000005,0.6429,0.6
-2023-08-29 18:50:16.306759,Buffalo Bills - 2023-24 Regular Season Wins O/U - Regular Season Wins - Buffalo Bills O/U 10.5,Over 10.5,0.04290000000000005,0.6429,0.6
-2023-08-29 18:50:16.098569,Arizona Cardinals - 2023-24 Regular Season Wins O/U - Regular Season Wins - Arizona Cardinals O/U 6.5,Under 6.5,0.04270000000000007,0.8889,0.8462
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August","Galatasaray, Young Boys and Panathinaikos to score 3 or more combined 1st half goals",0.04139999999999999,0.4762,0.4348
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Galatasaray to score more goals than any other team,0.04099999999999998,0.3077,0.2667
-2023-08-29 18:50:17.337894,Los Angeles Chargers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Los Angeles Chargers O/U  9.5,Over 9.5,0.040999999999999925,0.6154,0.5744
-2023-08-29 18:50:16.938152,Houston Texans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Houston Texans O/U  6.5,Under 6.5,0.040999999999999925,0.6154,0.5744
-2023-08-29 18:50:17.426828,Los Angeles Rams - 2023-24 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U  8.5,Under 8.5,0.04039999999999999,0.8182,0.7778
 2023-08-30 00:02:06.832633,Los Angeles Rams - 2023-24 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U  8.5,Under 8.5,0.04039999999999999,0.8182,0.7778
 2023-08-29 23:03:01.465259,Los Angeles Rams - 2023-24 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U  8.5,Over 8.5,0.03989999999999999,0.2899,0.25
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August","Galatasaray, Young Boys and Panathinaikos to score 5 or more combined 2nd half goals",0.03950000000000001,0.25,0.2105
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",12 or more goals scored,0.03950000000000001,0.25,0.2105
 2023-08-30 03:02:29.147337,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Inter Milan,0.038899999999999935,0.8571,0.8182
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",10 or more goals scored,0.0378,0.4545,0.4167
-2023-08-29 18:50:11.999841,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Australia,Josh  Giddey,0.03770000000000007,0.8948,0.8571
 2023-08-30 02:03:17.886495,Boxing Lines - Kazuki Anaguchi vs Shori Umezu - To Win the Bout,Kazuki Anaguchi,0.03709999999999991,0.6667,0.6296
-2023-08-29 18:50:32.801783,Boxing Lines - Kazuki Anaguchi vs Shori Umezu - To Win the Bout,Kazuki Anaguchi,0.03709999999999991,0.6667,0.6296
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Any team to score 5 or more goals,0.03670000000000001,0.1905,0.1538
 2023-08-30 03:02:29.144782,Serie A - Italy Serie A 2023/24 - To Be Relegated,Empoli,0.03640000000000004,0.4,0.3636
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",4 or more goals scored in 1st Half,0.03610000000000002,0.5917,0.5556
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August","Galatasaray, Young Boys and Panathinaikos to score 8 or more goals combined",0.0353,0.2353,0.2
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Home teams to score 8 or more goals,0.0353,0.2353,0.2
 2023-08-30 06:02:43.344052,"Daily Soccer Specials - MLS Specials - Wednesday, 30th August - 7:30 pm (EST) kick-off specials",Inter Miami to score more goals than New York City,0.03480000000000005,0.5348,0.5
-2023-08-29 18:50:17.572752,Minnesota Vikings - 2023-24 Regular Season Wins O/U - Regular Season Wins - Minnesota Vikings O/U  8.5,Under 8.5,0.03480000000000005,0.5348,0.5
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Any team to score 4 or more goals,0.0348,0.4348,0.4
 2023-08-30 01:02:38.694638,Boxing Lines - Kazuki Anaguchi vs Shori Umezu - To Win the Bout,Shori Umezu,0.0348,0.4348,0.4
-2023-08-29 18:50:12.194678,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Brazil,Tim  Soares,0.03420000000000001,0.1111,0.0769
 2023-08-30 05:03:26.328045,Boxing Lines - Keisuke Matsumoto vs Ridwan Oyekola - To Win the Bout,Keisuke Matsumoto,0.03410000000000002,0.9091,0.875
-2023-08-29 18:03:28.410115,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Italy,Giampaolo Ricci,0.034100000000000005,0.125,0.0909
-2023-08-29 18:50:12.254349,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Lithuania,Mindaugas  Kuzminskas,0.033300000000000024,0.2,0.1667
+2023-08-30 07:02:35.299820,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Spencer Strider (ATL),0.032299999999999995,0.3448,0.3125
 2023-08-30 03:02:29.144782,Serie A - Italy Serie A 2023/24 - To Be Relegated,Torino,0.0321,0.0909,0.0588
-2023-08-29 18:03:28.420762,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Shai  Gilgeous-Alexander,0.031799999999999995,0.1429,0.1111
-2023-08-29 18:50:11.999841,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Australia,Patty  Mills,0.031799999999999995,0.1429,0.1111
 2023-08-30 02:03:17.895512,Boxing Lines - Koki Inoue vs Abdurasul Ismoilov - To Win the Bout,Abdurasul Ismoilov,0.031700000000000006,0.2222,0.1905
 2023-08-30 00:02:07.042601,San Francisco 49ers - 2023-24 Regular Season Wins O/U - Regular Season Wins - San Francisco 49ers O/U 11.5,Over 11.5,0.030299999999999994,0.4651,0.4348
-2023-08-29 18:50:18.090996,San Francisco 49ers - 2023-24 Regular Season Wins O/U - Regular Season Wins - San Francisco 49ers O/U 11.5,Over 11.5,0.030299999999999994,0.4651,0.4348
 2023-08-29 23:03:01.717591,San Francisco 49ers - 2023-24 Regular Season Wins O/U - Regular Season Wins - San Francisco 49ers O/U 11.5,Under 11.5,0.02960000000000007,0.6296,0.6
-2023-08-29 18:50:10.467005,Big Brother - BB25: Outright Winner - Outright Winner,Cameron Harding,0.028199999999999996,0.0667,0.0385
-2023-08-29 18:50:12.010004,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Canada,Trae  Bell - Haynes,0.028000000000000004,0.0476,0.0196
+2023-08-30 07:02:27.425809,EFL Cup - EFL Cup 2023/24 - Winner,Manchester City,0.02779999999999999,0.25,0.2222
+2023-08-30 07:02:29.313787,Gubernatorial Elections - Kentucky: 2023 Gubernatorial Election - Kentucky,Andy Beshear (Dem),0.026800000000000046,0.7143,0.6875
+2023-08-30 07:02:29.308773,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,"Robert Kennedy, Jr",0.026699999999999995,0.0667,0.04
 2023-08-30 02:03:17.899925,Boxing Lines - Seiya Tsutsumi vs Riku Masuda - To Win the Bout,Riku Masuda,0.02560000000000001,0.3333,0.3077
-2023-08-29 18:50:17.919270,Philadelphia Eagles - 2023-24 Regular Season Wins O/U - Regular Season Wins - Philadelphia Eagles O/U 11.5,Under 11.5,0.025599999999999956,0.6,0.5744
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",7 or more goals in at least 1 match,0.025300000000000003,0.1429,0.1176
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",3+ goals scored in each match,0.024800000000000016,0.2353,0.2105
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August","Galatasaray, Young Boys and Panathinaikos each to score 2 or more goals",0.023800000000000016,0.1905,0.1667
-2023-08-29 18:50:12.559603,FIBA World Cup Futures - FIBA World Cup - Top Total Steals,Shai  Gilgeous-Alexander,0.023799999999999988,0.1667,0.1429
 2023-08-30 00:02:07.021421,Pittsburgh Steelers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Pittsburgh Steelers O/U 12.5,Over 12.5,0.023799999999999988,0.1667,0.1429
-2023-08-29 18:50:18.025242,Pittsburgh Steelers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Pittsburgh Steelers O/U 12.5,Over 12.5,0.023799999999999988,0.1667,0.1429
-2023-08-29 18:03:28.413521,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Brazil,Raulzinho Neto,0.023799999999999988,0.1667,0.1429
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Any player to score a Hat Trick,0.023799999999999988,0.1667,0.1429
-2023-08-29 18:50:17.092346,Jacksonville Jaguars - 2023-24 Regular Season Wins O/U - Regular Season Wins - Jacksonville Jaguars O/U  9.5,Under 9.5,0.023799999999999988,0.5,0.4762
-2023-08-29 18:50:12.327839,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Germany,Johannes  Thiemann,0.023799999999999988,0.1667,0.1429
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Panathinaikos to score more goals than Maccabi Haifa,0.023799999999999988,0.5,0.4762
-2023-08-29 18:50:17.729001,New Orleans Saints - 2023-24 Regular Season Wins O/U - Regular Season Wins - New Orleans Saints O/U  9.5,Over 9.5,0.023799999999999988,0.5,0.4762
-2023-08-29 18:03:28.402661,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Italy,Nicolo Melli (ITA),0.023799999999999932,0.8571,0.8333
-2023-08-29 18:50:16.318976,Buffalo Bills - 2023-24 Regular Season Wins O/U - Regular Season Wins - Buffalo Bills O/U 12.5,Under12.5,0.023799999999999932,0.7674,0.7436
 2023-08-29 23:03:01.789808,Tennessee Titans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U  5.5,Under 5.5,0.0232,0.2899,0.2667
 2023-08-29 23:03:01.696925,Pittsburgh Steelers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Pittsburgh Steelers O/U 12.5,Under 12.5,0.02310000000000001,0.9231,0.9
-2023-08-29 18:50:32.785723,Boxing Lines - Dave Apolinario vs Bryan Mosinos - To Win the Bout,Dave Apolinario,0.02310000000000001,0.9231,0.9
 2023-08-30 03:02:29.144782,Serie A - Italy Serie A 2023/24 - To Be Relegated,Fiorentina,0.0228,0.0294,0.0066
-2023-08-29 18:50:12.093428,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Australia,Xavier  Cooks,0.022699999999999998,0.4878,0.4651
-2023-08-29 18:50:16.759215,Detroit Lions - 2023-24 Regular Season Wins O/U - Regular Season Wins - Detroit Lions O/U  5.5,Under 5.5,0.022199999999999998,0.1333,0.1111
+2023-08-30 07:02:35.277183,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.02250000000000002,0.2857,0.2632
 2023-08-30 00:02:07.110288,Tennessee Titans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U  5.5,Over 5.5,0.022199999999999998,0.8,0.7778
-2023-08-29 18:50:18.312672,Tennessee Titans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U  5.5,Over 5.5,0.022199999999999998,0.8,0.7778
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",14 or more goals scored,0.022000000000000006,0.1053,0.0833
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August","Galatasaray, Young Boys and Panathinaikos each to score 1 or more 2nd half goals",0.021999999999999964,0.3077,0.2857
-2023-08-29 18:50:32.850473,Boxing Lines - Seiya Tsutsumi vs Riku Masuda - To Win the Bout,Riku Masuda,0.021999999999999964,0.3077,0.2857
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Any team to score 6 or more goals,0.0213,0.0769,0.0556
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August","Galatasaray, Young Boys and Panathinaikos to score 10 or more goals combined",0.0208,0.0833,0.0625
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Home teams to score 10 or more goals,0.0208,0.0833,0.0625
-2023-08-29 18:50:17.626035,New England Patriots - 2023-24 Regular Season Wins O/U - Regular Season Wins - New England Patriots O/U  3.5,Under 3.5,0.02049999999999999,0.1538,0.1333
-2023-08-30 03:02:29.144782,Serie A - Italy Serie A 2023/24 - To Be Relegated,Udinese,0.02020000000000001,0.1111,0.0909
+2023-08-30 07:02:29.297986,US Presidential Election 2024 - US Presidential Election 2024 - Sex Of Winner - Sex of Winner,Female,0.02049999999999999,0.1538,0.1333
+2023-08-30 07:02:28.320903,WNBA Awards - WNBA Awards 2023 - Regular Season MVP,Alyssa Thomas (CON),0.02049999999999999,0.1538,0.1333
 2023-08-30 03:02:29.144782,Serie A - Italy Serie A 2023/24 - To Be Relegated,Bologna,0.02020000000000001,0.1111,0.0909
-2023-08-29 18:50:18.001077,Pittsburgh Steelers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Pittsburgh Steelers O/U  8.5,Under 8.5,0.019699999999999995,0.4545,0.4348
+2023-08-30 03:02:29.144782,Serie A - Italy Serie A 2023/24 - To Be Relegated,Udinese,0.02020000000000001,0.1111,0.0909
+2023-08-30 07:02:27.425809,EFL Cup - EFL Cup 2023/24 - Winner,Chelsea,0.02020000000000001,0.1111,0.0909
 2023-08-30 00:02:07.013046,Pittsburgh Steelers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Pittsburgh Steelers O/U  8.5,Under 8.5,0.019699999999999995,0.4545,0.4348
 2023-08-29 23:03:01.231688,Detroit Lions - 2023-24 Regular Season Wins O/U - Regular Season Wins - Detroit Lions O/U 11.5,Over 11.5,0.019600000000000006,0.2899,0.2703
 2023-08-29 23:03:01.458137,Los Angeles Rams - 2023-24 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U  4.5,Under 4.5,0.019600000000000006,0.2899,0.2703
-2023-08-29 18:03:27.344904,League Two - England - League Two 2023/24 - Top Goalscorer,Abo Eisa,0.019499999999999997,0.0294,0.0099
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",10+ corners in each match; 5+ cards in each match,0.019000000000000003,0.0625,0.0435
-2023-08-29 18:50:12.559603,FIBA World Cup Futures - FIBA World Cup - Top Total Steals,Nando de Colo (FRA),0.019000000000000003,0.0625,0.0435
+2023-08-30 07:02:35.262795,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Minnesota Twins,0.01949999999999999,0.0909,0.0714
 2023-08-29 23:03:01.693316,Pittsburgh Steelers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Pittsburgh Steelers O/U 10.5,Under 10.5,0.018999999999999906,0.7333,0.7143
 2023-08-30 03:02:29.147337,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Udinese,0.018200000000000004,0.0476,0.0294
-2023-08-29 18:50:16.795096,Detroit Lions - 2023-24 Regular Season Wins O/U - Regular Season Wins - Detroit Lions O/U 11.5,Under 11.5,0.018100000000000005,0.7959,0.7778
-2023-08-29 18:50:17.402656,Los Angeles Rams - 2023-24 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U  4.5,Over 4.5,0.018100000000000005,0.7959,0.7778
 2023-08-30 00:02:06.825687,Los Angeles Rams - 2023-24 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U  4.5,Over 4.5,0.018100000000000005,0.7959,0.7778
 2023-08-30 00:02:06.636332,Detroit Lions - 2023-24 Regular Season Wins O/U - Regular Season Wins - Detroit Lions O/U 11.5,Under 11.5,0.018100000000000005,0.7959,0.7778
-2023-08-29 18:50:32.834525,Boxing Lines - Koki Inoue vs Abdurasul Ismoilov - To Win the Bout,Koki Inoue,0.017900000000000027,0.875,0.8571
-2023-08-29 18:50:12.244385,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Italy,Stefano  Tonut,0.0179,0.1429,0.125
-2023-08-29 18:03:28.420762,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Dennis  Schroder,0.0179,0.1429,0.125
-2023-08-29 18:50:18.013196,Pittsburgh Steelers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Pittsburgh Steelers O/U 10.5,Over 10.5,0.017600000000000005,0.3509,0.3333
 2023-08-30 00:02:07.017738,Pittsburgh Steelers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Pittsburgh Steelers O/U 10.5,Over 10.5,0.017600000000000005,0.3509,0.3333
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August","Galatasaray, Young Boys and Panathinaikos each to score 1 or more goals",0.017299999999999982,0.5917,0.5744
 2023-08-30 00:02:07.114679,Tennessee Titans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U  7.5,Over 7.5,0.017299999999999982,0.5917,0.5744
-2023-08-29 18:50:18.325421,Tennessee Titans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U  7.5,Over 7.5,0.017299999999999982,0.5917,0.5744
-2023-08-29 18:03:28.420762,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Luka  Doncic,0.016699999999999993,0.2667,0.25
 2023-08-30 03:02:37.000428,Boxing Lines - Keisuke Matsumoto vs Ridwan Oyekola - To Win the Bout,Ridwan Oyekola,0.016600000000000004,0.1905,0.1739
-2023-08-29 18:50:33.743856,Tournament Match-Ups - Tournament Match-Ups - A. Bjork vs M. Wallace - Tournament Match-Ups,Alexander Bjork,0.016100000000000003,0.6078,0.5917
 2023-08-29 23:03:01.657987,Philadelphia Eagles - 2023-24 Regular Season Wins O/U - Regular Season Wins - Philadelphia Eagles O/U  9.5,Over 9.5,0.015900000000000025,0.7778,0.7619
 2023-08-29 23:03:01.223136,Detroit Lions - 2023-24 Regular Season Wins O/U - Regular Season Wins - Detroit Lions O/U  7.5,Over 7.5,0.015900000000000025,0.7778,0.7619
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August","Galatasaray, Young Boys and Panathinaikos to score 5 or more combined 1st half goals",0.015700000000000006,0.1333,0.1176
 2023-08-30 03:02:29.144782,Serie A - Italy Serie A 2023/24 - To Be Relegated,Lazio,0.0156,0.0196,0.004
-2023-08-29 18:50:17.246864,Las Vegas Raiders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Las Vegas Raiders O/U  6.5,Under 6.5,0.01539999999999997,0.6154,0.6
 2023-08-30 00:02:06.779760,Las Vegas Raiders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Las Vegas Raiders O/U  6.5,Under 6.5,0.01539999999999997,0.6154,0.6
-2023-08-29 18:50:12.285611,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - USA,Anthony  Edwards,0.01539999999999997,0.6154,0.6
 2023-08-29 23:03:01.799865,Tennessee Titans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U  9.5,Under 9.5,0.015199999999999991,0.7826,0.7674
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August","Galatasaray, Young Boys and Panathinaikos to score 7 or more combined 2nd half goals",0.014899999999999997,0.0625,0.0476
-2023-08-29 18:50:14.406746,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Nikki Haley,0.014899999999999997,0.0625,0.0476
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",6 or more goals scored in 1st Half,0.01469999999999999,0.25,0.2353
-2023-08-29 18:03:27.629411,Hollywood Strikes - What month will the Screen Actors Guild strike end? - What month will the SAG strike end?,October 2023,0.01469999999999999,0.25,0.2353
-2023-08-29 18:03:27.344904,League Two - England - League Two 2023/24 - Top Goalscorer,Ashley Nadesan,0.014499999999999999,0.0294,0.0149
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",8 or more goals scored in 1st Half,0.014399999999999996,0.0769,0.0625
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Both teams to score in 2+ matches,0.014200000000000101,0.6296,0.6154
+2023-08-30 07:02:29.289316,US Presidential Election 2024 - US Presidential Election 2024 - Party Of Popular Vote Winner - Party of Popular Vote Winner,Democratic,0.015100000000000002,0.8333,0.8182
+2023-08-30 07:02:29.267488,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,0.015100000000000002,0.8333,0.8182
 2023-08-29 23:03:01.689813,Pittsburgh Steelers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Pittsburgh Steelers O/U  8.5,Over 8.5,0.014200000000000101,0.6296,0.6154
-2023-08-29 18:50:10.467005,Big Brother - BB25: Outright Winner - Outright Winner,Bowie Jane,0.013999999999999999,0.0909,0.0769
-2023-08-29 18:50:10.467005,Big Brother - BB25: Outright Winner - Outright Winner,Red Utley,0.013999999999999999,0.0909,0.0769
-2023-08-29 18:50:14.406746,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,0.013899999999999996,0.125,0.1111
-2023-08-29 18:50:12.559603,FIBA World Cup Futures - FIBA World Cup - Top Total Steals,Luka  Doncic,0.013899999999999996,0.125,0.1111
-2023-08-29 18:50:17.820960,New York Giants - 2023-24 Regular Season Wins O/U - Regular Season Wins - New York Giants O/U  8.5,Over 8.5,0.013800000000000034,0.3774,0.3636
+2023-08-30 07:02:27.425809,EFL Cup - EFL Cup 2023/24 - Winner,Brighton & Hove Albion,0.013999999999999999,0.0909,0.0769
+2023-08-30 07:02:35.294941,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Gunnar Henderson (BAL),0.013900000000000023,0.8889,0.875
 2023-08-30 05:03:26.333772,Boxing Lines - Koki Inoue vs Abdurasul Ismoilov - To Win the Bout,Abdurasul Ismoilov,0.01369999999999999,0.241,0.2273
-2023-08-29 18:50:18.168624,Seattle Seahawks - 2023-24 Regular Season Wins O/U - Regular Season Wins - Seattle Seahawks O/U  8.5,Over 8.5,0.013299999999999979,0.6429,0.6296
+2023-08-30 07:02:29.259407,Joe Biden Specials - Will Joe Biden be impeached during his first term as President? - Will Joe Biden be impeached during his first term as President?,Yes,0.013600000000000001,0.3077,0.2941
 2023-08-30 00:02:06.983869,Philadelphia Eagles - 2023-24 Regular Season Wins O/U - Regular Season Wins - Philadelphia Eagles O/U  9.5,Under 9.5,0.0131,0.303,0.2899
-2023-08-29 18:50:16.771376,Detroit Lions - 2023-24 Regular Season Wins O/U - Regular Season Wins - Detroit Lions O/U  7.5,Under 7.5,0.0131,0.303,0.2899
-2023-08-29 18:50:17.906595,Philadelphia Eagles - 2023-24 Regular Season Wins O/U - Regular Season Wins - Philadelphia Eagles O/U  9.5,Under 9.5,0.0131,0.303,0.2899
 2023-08-30 00:02:06.629578,Detroit Lions - 2023-24 Regular Season Wins O/U - Regular Season Wins - Detroit Lions O/U  7.5,Under 7.5,0.0131,0.303,0.2899
-2023-08-29 18:50:18.337747,Tennessee Titans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U  9.5,Over 9.5,0.012799999999999978,0.2985,0.2857
 2023-08-30 00:02:07.120059,Tennessee Titans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U  9.5,Over 9.5,0.012799999999999978,0.2985,0.2857
-2023-08-29 18:03:27.344904,League Two - England - League Two 2023/24 - Top Goalscorer,Dan Kemp,0.012100000000000001,0.0244,0.0123
-2023-08-29 18:50:16.164396,Atlanta Falcons - 2023-24 Regular Season Wins O/U - Regular Season Wins - Atlanta Falcons O/U 10.5,Under 10.5,0.011900000000000022,0.7619,0.75
 2023-08-29 23:03:01.666317,Philadelphia Eagles - 2023-24 Regular Season Wins O/U - Regular Season Wins - Philadelphia Eagles O/U 13.5,Over 13.5,0.011899999999999994,0.25,0.2381
-2023-08-29 18:50:32.834525,Boxing Lines - Koki Inoue vs Abdurasul Ismoilov - To Win the Bout,Abdurasul Ismoilov,0.011700000000000016,0.2222,0.2105
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Both teams to score in each match,0.011700000000000016,0.2222,0.2105
 2023-08-30 03:02:29.147337,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Genoa,0.0116,0.0149,0.0033
 2023-08-29 23:03:01.794057,Tennessee Titans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U  7.5,Under 7.5,0.0116,0.4878,0.4762
 2023-08-30 05:03:26.339964,Boxing Lines - Seiya Tsutsumi vs Riku Masuda - To Win the Bout,Riku Masuda,0.01150000000000001,0.3448,0.3333
-2023-08-29 18:50:10.467005,Big Brother - BB25: Outright Winner - Outright Winner,Mecole Hayes,0.011199999999999995,0.0588,0.0476
-2023-08-29 18:03:27.344904,League Two - England - League Two 2023/24 - Top Goalscorer,Elliot Lee,0.011199999999999995,0.0588,0.0476
 2023-08-30 03:02:29.147337,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Torino,0.011199999999999995,0.0588,0.0476
-2023-08-29 18:50:16.152229,Atlanta Falcons - 2023-24 Regular Season Wins O/U - Regular Season Wins - Atlanta Falcons O/U  8.5,Under 8.5,0.011099999999999999,0.4762,0.4651
-2023-08-29 18:50:16.399769,Chicago Bears - 2023-24 Regular Season Wins O/U - Regular Season Wins - Chicago Bears O/U  7.5,Under 7.5,0.011099999999999999,0.4762,0.4651
-2023-08-29 18:50:32.866956,Boxing Lines - Florian Marku vs Dylan Moran - To Win the Bout,Florian Marku,0.011099999999999999,0.9,0.8889
-2023-08-29 18:03:37.394364,Portland Classic - Portland Classic - Winner,Allisen Corpuz,0.010700000000000001,0.0385,0.0278
 2023-08-29 23:03:01.401215,Las Vegas Raiders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Las Vegas Raiders O/U  6.5,Over 6.5,0.010599999999999998,0.4651,0.4545
-2023-08-29 18:50:16.074994,Arizona Cardinals - 2023-24 Regular Season Wins O/U - Regular Season Wins - Arizona Cardinals O/U 2.5,Under 2.5,0.010299999999999976,0.2667,0.2564
 2023-08-29 19:02:40.557652,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,Australia,0.0102,0.0769,0.0667
 2023-08-30 03:02:36.982203,Boxing Lines - Dave Apolinario vs Bryan Mosinos - To Win the Bout,Dave Apolinario,0.010199999999999987,0.9333,0.9231
-2023-08-29 18:50:17.015340,Indianapolis Colts - 2023-24 Regular Season Wins O/U - Regular Season Wins - Indianapolis Colts O/U  6.5,Over 6.5,0.010099999999999998,0.5556,0.5455
-2023-08-29 18:50:17.661893,New England Patriots - 2023-24 Regular Season Wins O/U - Regular Season Wins - New England Patriots O/U  9.5,Under 9.5,0.010099999999999998,0.8214,0.8113
-2023-08-29 18:50:33.777666,Tournament Match-Ups - Tournament Match-Ups - A. Meronk vs N. Hojgaard - Tournament Match-Ups,Nicolai Hojgaard,0.010099999999999998,0.5556,0.5455
-2023-08-29 18:50:11.915341,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,Serbia,-0.0102,0.0667,0.0769
 2023-08-29 20:03:08.840256,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,Australia,-0.0102,0.0667,0.0769
+2023-08-30 07:02:29.308773,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Vivek Ramaswamy,-0.0102,0.0667,0.0769
 2023-08-30 00:02:06.779760,Las Vegas Raiders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Las Vegas Raiders O/U  6.5,Over 6.5,-0.010599999999999998,0.4545,0.4651
-2023-08-29 18:50:17.246864,Las Vegas Raiders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Las Vegas Raiders O/U  6.5,Over 6.5,-0.010599999999999998,0.4545,0.4651
-2023-08-29 18:50:12.392138,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Australia,Joe  Ingles,-0.010700000000000001,0.0278,0.0385
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Total of 43 or more corners taken,-0.010700000000000001,0.0278,0.0385
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Each match to have 5 or more corners taken in each half,-0.011099999999999999,0.0556,0.0667
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August","Galatasaray, Young Boys and Panathinaikos each to take 4 or more corners in each half",-0.011099999999999999,0.0556,0.0667
+2023-08-30 07:02:35.299820,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Logan Webb (SF),-0.010700000000000001,0.0278,0.0385
+2023-08-30 07:02:35.258099,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Texas Rangers,-0.011099999999999999,0.1,0.1111
 2023-08-30 05:03:26.339964,Boxing Lines - Seiya Tsutsumi vs Riku Masuda - To Win the Bout,Seiya Tsutsumi,-0.011099999999999999,0.7222,0.7333
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Panathinaikos or Maccabi Haifa to score 4 or more goals,-0.011099999999999999,0.1,0.1111
-2023-08-29 18:50:12.402023,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Canada,Zach  Edey,-0.011200000000000002,0.0132,0.0244
-2023-08-29 18:50:16.074994,Arizona Cardinals - 2023-24 Regular Season Wins O/U - Regular Season Wins - Arizona Cardinals O/U 2.5,Over 2.5,-0.011299999999999977,0.8,0.8113
 2023-08-30 00:02:07.114679,Tennessee Titans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U  7.5,Under 7.5,-0.0116,0.4762,0.4878
-2023-08-29 18:50:18.325421,Tennessee Titans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U  7.5,Under 7.5,-0.0116,0.4762,0.4878
-2023-08-29 18:50:33.777666,Tournament Match-Ups - Tournament Match-Ups - A. Meronk vs N. Hojgaard - Tournament Match-Ups,Adrian Meronk,-0.011600000000000055,0.5122,0.5238
-2023-08-29 18:50:17.015340,Indianapolis Colts - 2023-24 Regular Season Wins O/U - Regular Season Wins - Indianapolis Colts O/U  6.5,Under 6.5,-0.011600000000000055,0.5122,0.5238
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Young Boys to score more goals than any other team,-0.011700000000000016,0.2105,0.2222
-2023-08-29 18:50:16.949686,Houston Texans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Houston Texans O/U  8.5,Over 8.5,-0.011899999999999994,0.2381,0.25
-2023-08-29 18:50:17.933680,Philadelphia Eagles - 2023-24 Regular Season Wins O/U - Regular Season Wins - Philadelphia Eagles O/U 13.5,Over 13.5,-0.011899999999999994,0.2381,0.25
+2023-08-30 07:02:29.303493,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,-0.011600000000000055,0.5122,0.5238
 2023-08-30 00:02:06.991610,Philadelphia Eagles - 2023-24 Regular Season Wins O/U - Regular Season Wins - Philadelphia Eagles O/U 13.5,Over 13.5,-0.011899999999999994,0.2381,0.25
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Under 3.5 goals scored,-0.0121,0.0435,0.0556
-2023-08-29 18:50:16.547661,Cleveland Browns - 2023-24 Regular Season Wins O/U - Regular Season Wins - Cleveland Browns O/U  9.5,Over 9.5,-0.012199999999999989,0.4878,0.5
-2023-08-29 18:50:16.706070,Denver Broncos - 2023-24 Regular Season Wins O/U - Regular Season Wins - Denver Broncos O/U  8.5,Over 8.5,-0.012199999999999989,0.5,0.5122
-2023-08-29 18:50:18.404831,Washington Commanders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Washington Commanders O/U  6.5,Over 6.5,-0.012199999999999989,0.4878,0.5
-2023-08-29 18:50:17.661893,New England Patriots - 2023-24 Regular Season Wins O/U - Regular Season Wins - New England Patriots O/U  9.5,Over 9.5,-0.012500000000000011,0.2439,0.2564
-2023-08-29 18:50:12.559603,FIBA World Cup Futures - FIBA World Cup - Top Total Steals,Alessandro Pajola,-0.012599999999999998,0.0152,0.0278
-2023-08-29 18:50:12.053196,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Lithuania,Tomas  Dimsa,-0.012700000000000003,0.0196,0.0323
 2023-08-29 23:03:01.799865,Tennessee Titans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U  9.5,Over 9.5,-0.012799999999999978,0.2857,0.2985
+2023-08-30 07:02:35.272548,MLB Futures - MLB 2023 American League Central - American League Central Winner,Detroit Tigers,-0.012899999999999998,0.005,0.0179
 2023-08-30 03:02:36.986947,Boxing Lines - Koki Inoue vs Abdurasul Ismoilov - To Win the Bout,Koki Inoue,-0.012900000000000023,0.8621,0.875
-2023-08-29 18:50:12.194678,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Brazil,Raulzinho  Neto,-0.013,0.0066,0.0196
 2023-08-29 23:03:01.657987,Philadelphia Eagles - 2023-24 Regular Season Wins O/U - Regular Season Wins - Philadelphia Eagles O/U  9.5,Under 9.5,-0.0131,0.2899,0.303
 2023-08-29 23:03:01.223136,Detroit Lions - 2023-24 Regular Season Wins O/U - Regular Season Wins - Detroit Lions O/U  7.5,Under 7.5,-0.0131,0.2899,0.303
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Each team to take 5 or more corners,-0.013899999999999996,0.1111,0.125
+2023-08-30 07:02:29.293708,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,-0.013899999999999996,0.1111,0.125
 2023-08-30 03:02:37.000428,Boxing Lines - Keisuke Matsumoto vs Ridwan Oyekola - To Win the Bout,Keisuke Matsumoto,-0.013900000000000023,0.875,0.8889
-2023-08-29 18:50:14.446932,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Vivek Ramaswamy,-0.013999999999999999,0.0769,0.0909
-2023-08-29 18:50:12.392138,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Australia,Nick  Kay,-0.014099999999999998,0.0244,0.0385
-2023-08-29 18:03:27.344904,League Two - England - League Two 2023/24 - Top Goalscorer,Paddy Madden,-0.014099999999999998,0.0244,0.0385
-2023-08-29 18:50:12.063389,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Serbia,Nikola  Milutinov,-0.014099999999999998,0.0244,0.0385
-2023-08-29 18:03:27.344904,League Two - England - League Two 2023/24 - Top Goalscorer,Kristian Dennis,-0.014099999999999998,0.0244,0.0385
-2023-08-29 18:50:12.559603,FIBA World Cup Futures - FIBA World Cup - Top Total Steals,Matisse  Thybulle,-0.014099999999999998,0.0244,0.0385
-2023-08-29 18:50:12.254349,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Lithuania,Margiris  Normantas,-0.014100000000000001,0.0385,0.0526
 2023-08-30 00:02:07.013046,Pittsburgh Steelers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Pittsburgh Steelers O/U  8.5,Over 8.5,-0.014200000000000101,0.6154,0.6296
-2023-08-29 18:50:18.001077,Pittsburgh Steelers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Pittsburgh Steelers O/U  8.5,Over 8.5,-0.014200000000000101,0.6154,0.6296
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Each team to take 3 or more corners,-0.014200000000000101,0.6154,0.6296
 2023-08-30 05:03:26.333772,Boxing Lines - Koki Inoue vs Abdurasul Ismoilov - To Win the Bout,Koki Inoue,-0.014200000000000101,0.8261,0.8403
-2023-08-29 18:03:27.653391,MTV VMAs - VMAs 2023 - Artist Of The Year - Artist Of The Year,Doja Cat,-0.014399999999999996,0.0625,0.0769
-2023-08-29 18:03:27.662143,MTV VMAs - VMAs 2023 - Song Of The Year - Song Of The Year,Olivia Rodrigo - Vampire,-0.014399999999999996,0.0625,0.0769
-2023-08-29 18:03:28.420762,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Stefan  Jovic,-0.014399999999999996,0.0625,0.0769
-2023-08-29 18:50:12.053196,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Lithuania,Mindaugas  Kuzminskas,-0.014399999999999996,0.0625,0.0769
-2023-08-29 18:03:27.344904,League Two - England - League Two 2023/24 - Top Goalscorer,George Miller,-0.0145,0.0099,0.0244
-2023-08-29 18:03:27.344904,League Two - England - League Two 2023/24 - Top Goalscorer,Omar Bogle,-0.0145,0.0099,0.0244
-2023-08-29 18:50:12.033646,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Germany,Andreas  Obst,-0.014599999999999998,0.0132,0.0278
-2023-08-29 18:03:28.402661,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Italy,Simone  Fontecchio,-0.014899999999999997,0.0476,0.0625
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August","Galatasaray, Young Boys and Panathinaikos to score 1 or less goals combined",-0.014899999999999997,0.0476,0.0625
 2023-08-30 03:02:30.364175,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Japan,Yuki Kawamura,-0.014899999999999997,0.0476,0.0625
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Home teams to score 1 or less goals,-0.014899999999999997,0.0476,0.0625
 2023-08-30 00:02:07.120059,Tennessee Titans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U  9.5,Under 9.5,-0.015199999999999991,0.7674,0.7826
-2023-08-29 18:50:18.337747,Tennessee Titans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U  9.5,Under 9.5,-0.015199999999999991,0.7674,0.7826
-2023-08-29 18:50:11.999841,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Australia,Joe  Ingles,-0.015300000000000001,0.0323,0.0476
 2023-08-29 23:03:01.401215,Las Vegas Raiders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Las Vegas Raiders O/U  6.5,Under 6.5,-0.01539999999999997,0.6,0.6154
-2023-08-29 18:03:27.662143,MTV VMAs - VMAs 2023 - Song Of The Year - Song Of The Year,Taylor Swift - Anti-Hero,-0.015400000000000025,0.3846,0.4
-2023-08-29 18:50:16.771376,Detroit Lions - 2023-24 Regular Season Wins O/U - Regular Season Wins - Detroit Lions O/U  7.5,Over 7.5,-0.015900000000000025,0.7619,0.7778
 2023-08-30 00:02:06.629578,Detroit Lions - 2023-24 Regular Season Wins O/U - Regular Season Wins - Detroit Lions O/U  7.5,Over 7.5,-0.015900000000000025,0.7619,0.7778
-2023-08-29 18:50:17.906595,Philadelphia Eagles - 2023-24 Regular Season Wins O/U - Regular Season Wins - Philadelphia Eagles O/U  9.5,Over 9.5,-0.015900000000000025,0.7619,0.7778
 2023-08-30 00:02:06.983869,Philadelphia Eagles - 2023-24 Regular Season Wins O/U - Regular Season Wins - Philadelphia Eagles O/U  9.5,Over 9.5,-0.015900000000000025,0.7619,0.7778
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Total of 40 or more corners taken,-0.016600000000000004,0.0667,0.0833
+2023-08-30 07:02:29.259407,Joe Biden Specials - Will Joe Biden be impeached during his first term as President? - Will Joe Biden be impeached during his first term as President?,No,-0.01660000000000006,0.7561,0.7727
+2023-08-30 07:02:29.281122,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-08-29 23:03:01.794057,Tennessee Titans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U  7.5,Over 7.5,-0.017299999999999982,0.5744,0.5917
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August","Galatasaray, Young Boys and Panathinaikos to concede 3 or less goals combined",-0.017299999999999982,0.5744,0.5917
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Away teams to score 3 or less goals,-0.017299999999999982,0.5744,0.5917
+2023-08-30 07:02:29.267488,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,-0.0174,0.2326,0.25
 2023-08-29 23:03:01.693316,Pittsburgh Steelers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Pittsburgh Steelers O/U 10.5,Over 10.5,-0.017600000000000005,0.3333,0.3509
-2023-08-29 18:03:27.344904,League Two - England - League Two 2023/24 - Top Goalscorer,Callum Hendry,-0.018099999999999998,0.0588,0.0769
-2023-08-29 23:03:01.231688,Detroit Lions - 2023-24 Regular Season Wins O/U - Regular Season Wins - Detroit Lions O/U 11.5,Under 11.5,-0.018100000000000005,0.7778,0.7959
+2023-08-30 07:02:29.308773,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Gavin Newsom,-0.018099999999999998,0.0588,0.0769
 2023-08-29 23:03:01.458137,Los Angeles Rams - 2023-24 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U  4.5,Over 4.5,-0.018100000000000005,0.7778,0.7959
-2023-08-29 18:50:12.063389,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Serbia,Bogdan  Bogdanovic,-0.01820000000000002,0.1818,0.2
-2023-08-29 18:50:17.820960,New York Giants - 2023-24 Regular Season Wins O/U - Regular Season Wins - New York Giants O/U  8.5,Under 8.5,-0.018399999999999972,0.6875,0.7059
-2023-08-29 18:03:27.344904,League Two - England - League Two 2023/24 - Top Goalscorer,Will Swan,-0.0189,0.0196,0.0385
-2023-08-29 18:03:28.416927,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Serbia,Filip Petrusev,-0.0189,0.0196,0.0385
-2023-08-29 18:50:12.381733,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - USA,Walker  Kessler,-0.0189,0.0196,0.0385
+2023-08-29 23:03:01.231688,Detroit Lions - 2023-24 Regular Season Wins O/U - Regular Season Wins - Detroit Lions O/U 11.5,Under 11.5,-0.018100000000000005,0.7778,0.7959
+2023-08-30 07:02:35.262795,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Texas Rangers,-0.01820000000000002,0.1818,0.2
 2023-08-30 00:02:07.017738,Pittsburgh Steelers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Pittsburgh Steelers O/U 10.5,Under 10.5,-0.018999999999999906,0.7143,0.7333
-2023-08-29 18:50:18.013196,Pittsburgh Steelers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Pittsburgh Steelers O/U 10.5,Under 10.5,-0.018999999999999906,0.7143,0.7333
-2023-08-29 18:50:12.446531,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Lithuania,Tadas  Sedekerskis,-0.019099999999999992,0.0476,0.0667
-2023-08-29 18:50:12.446531,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Lithuania,Margiris  Normantas,-0.019099999999999992,0.0476,0.0667
-2023-08-29 18:50:12.254349,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Lithuania,Eimantas  Bendzius,-0.019099999999999992,0.0476,0.0667
-2023-08-29 18:50:12.446531,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Lithuania,Jonas  Valanciunas,-0.019099999999999992,0.0476,0.0667
-2023-08-29 18:50:16.795096,Detroit Lions - 2023-24 Regular Season Wins O/U - Regular Season Wins - Detroit Lions O/U 11.5,Over 11.5,-0.019600000000000006,0.2703,0.2899
-2023-08-30 00:02:06.636332,Detroit Lions - 2023-24 Regular Season Wins O/U - Regular Season Wins - Detroit Lions O/U 11.5,Over 11.5,-0.019600000000000006,0.2703,0.2899
-2023-08-29 18:50:17.402656,Los Angeles Rams - 2023-24 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U  4.5,Under 4.5,-0.019600000000000006,0.2703,0.2899
 2023-08-30 00:02:06.825687,Los Angeles Rams - 2023-24 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U  4.5,Under 4.5,-0.019600000000000006,0.2703,0.2899
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Panathinaikos to score more goals than any other team,-0.019699999999999995,0.1053,0.125
+2023-08-30 00:02:06.636332,Detroit Lions - 2023-24 Regular Season Wins O/U - Regular Season Wins - Detroit Lions O/U 11.5,Over 11.5,-0.019600000000000006,0.2703,0.2899
 2023-08-29 23:03:01.689813,Pittsburgh Steelers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Pittsburgh Steelers O/U  8.5,Under 8.5,-0.019699999999999995,0.4348,0.4545
-2023-08-29 18:50:12.214600,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - China,Zhang  Zhenlin,-0.019800000000000005,0.0278,0.0476
-2023-08-29 18:50:12.402023,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Canada,Nickeil  Alexander - Walker,-0.02020000000000001,0.0909,0.1111
-2023-08-29 18:03:27.653391,MTV VMAs - VMAs 2023 - Artist Of The Year - Artist Of The Year,Karol G,-0.02020000000000001,0.0909,0.1111
-2023-08-29 18:03:27.662143,MTV VMAs - VMAs 2023 - Song Of The Year - Song Of The Year,SZA - Kill Bill,-0.02020000000000001,0.0909,0.1111
-2023-08-29 18:50:12.204410,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Canada,RJ  Barrett,-0.02020000000000001,0.0909,0.1111
-2023-08-29 18:03:27.662143,MTV VMAs - VMAs 2023 - Song Of The Year - Song Of The Year,Steve Lacy - Bad Habit,-0.02020000000000001,0.0909,0.1111
+2023-08-30 07:02:27.650317,96th Academy Awards - Best Director - Best Director,Greta Gerwig – Barbie,-0.02020000000000001,0.0909,0.1111
+2023-08-30 07:02:27.650317,96th Academy Awards - Best Director - Best Director,Jonathan Glazer - The Zone Of Interest,-0.02020000000000001,0.0909,0.1111
+2023-08-30 07:02:27.650317,96th Academy Awards - Best Director - Best Director,Justine Triet - Anatomy Of A Fall,-0.02020000000000001,0.0909,0.1111
 2023-08-30 03:02:30.364175,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Japan,Josh Hawkinson,-0.02020000000000001,0.0909,0.1111
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Under 8.5 goals scored,-0.02079999999999993,0.5348,0.5556
-2023-08-29 18:50:12.214600,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - China,Zhao  Rui,-0.020799999999999985,0.3125,0.3333
-2023-08-29 18:50:33.743856,Tournament Match-Ups - Tournament Match-Ups - A. Bjork vs M. Wallace - Tournament Match-Ups,Matt Wallace,-0.021699999999999997,0.4545,0.4762
-2023-08-29 18:50:32.850473,Boxing Lines - Seiya Tsutsumi vs Riku Masuda - To Win the Bout,Seiya Tsutsumi,-0.021700000000000053,0.7561,0.7778
+2023-08-30 07:02:27.650317,96th Academy Awards - Best Director - Best Director,Denis Villeneuve - Dune: Part Two,-0.02020000000000001,0.0909,0.1111
+2023-08-30 07:02:27.650317,96th Academy Awards - Best Director - Best Director,Celine Song - Past Lives,-0.02020000000000001,0.0909,0.1111
+2023-08-30 07:02:35.290742,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Kevin Gausman (TOR),-0.02049999999999999,0.1333,0.1538
 2023-08-30 04:02:01.787248,Boxing Lines - Koki Inoue vs Abdurasul Ismoilov - To Win the Bout,Koki Inoue,-0.02179999999999993,0.8403,0.8621
-2023-08-29 18:03:28.416927,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Serbia,Nikola Milutinov,-0.021999999999999964,0.2857,0.3077
 2023-08-30 03:02:29.147337,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Juventus,-0.02200000000000002,0.6923,0.7143
 2023-08-29 23:03:01.789808,Tennessee Titans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U  5.5,Over 5.5,-0.022199999999999998,0.7778,0.8
-2023-08-29 18:50:17.919270,Philadelphia Eagles - 2023-24 Regular Season Wins O/U - Regular Season Wins - Philadelphia Eagles O/U 11.5,Over 11.5,-0.022699999999999998,0.4651,0.4878
+2023-08-30 07:02:28.320903,WNBA Awards - WNBA Awards 2023 - Regular Season MVP,A'ja Wilson (LVA),-0.022699999999999998,0.4651,0.4878
 2023-08-30 02:03:17.899925,Boxing Lines - Seiya Tsutsumi vs Riku Masuda - To Win the Bout,Seiya Tsutsumi,-0.022800000000000042,0.7333,0.7561
-2023-08-29 18:50:18.025242,Pittsburgh Steelers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Pittsburgh Steelers O/U 12.5,Under 12.5,-0.02310000000000001,0.9,0.9231
 2023-08-30 00:02:07.021421,Pittsburgh Steelers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Pittsburgh Steelers O/U 12.5,Under 12.5,-0.02310000000000001,0.9,0.9231
-2023-08-29 18:50:18.312672,Tennessee Titans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U  5.5,Under 5.5,-0.0232,0.2667,0.2899
 2023-08-30 00:02:07.110288,Tennessee Titans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U  5.5,Under 5.5,-0.0232,0.2667,0.2899
-2023-08-29 18:50:12.306951,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Canada,Luguentz  Dort,-0.023200000000000002,0.0244,0.0476
-2023-08-29 18:50:12.194678,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Brazil,Cristiano  Felicio,-0.0233,0.0152,0.0385
-2023-08-29 18:50:12.043433,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Greece,Michalis Lountzis,-0.023799999999999988,0.1429,0.1667
-2023-08-29 18:50:14.406746,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Vivek Ramaswamy,-0.023799999999999988,0.1429,0.1667
 2023-08-29 23:03:01.696925,Pittsburgh Steelers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Pittsburgh Steelers O/U 12.5,Over 12.5,-0.023799999999999988,0.1429,0.1667
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Braga to score more goals than Molde,-0.023799999999999988,0.4762,0.5
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Under 5.5 goals scored,-0.023800000000000016,0.1667,0.1905
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Each match to have 3 or more corners taken in each half,-0.023800000000000043,0.5,0.5238
-2023-08-29 18:50:12.402023,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Canada,Trae  Bell - Haynes,-0.023899999999999998,0.0196,0.0435
-2023-08-29 18:03:28.394905,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Italy,Stefano Tonut,-0.024,0.0385,0.0625
-2023-08-30 04:01:55.465316,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Japan,Yuta Watanabe (JPN),-0.024,0.0385,0.0625
-2023-08-29 18:50:12.402023,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Canada,Kelly  Olynyk,-0.024,0.0385,0.0625
+2023-08-30 07:02:29.303493,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Republican,-0.023800000000000043,0.5,0.5238
 2023-08-30 04:01:55.465316,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Japan,Makoto Hiejima,-0.024,0.0385,0.0625
-2023-08-29 18:50:16.318976,Buffalo Bills - 2023-24 Regular Season Wins O/U - Regular Season Wins - Buffalo Bills O/U 12.5,Over 12.5,-0.02410000000000001,0.2985,0.3226
-2023-08-29 18:50:10.467005,Big Brother - BB25: Outright Winner - Outright Winner,Matt Klotz,-0.0242,0.0667,0.0909
-2023-08-29 18:50:10.467005,Big Brother - BB25: Outright Winner - Outright Winner,Izzy Gleicher,-0.0242,0.0667,0.0909
-2023-08-29 18:50:12.083405,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - USA,Brandon  Ingram,-0.0242,0.0667,0.0909
-2023-08-29 18:50:10.467005,Big Brother - BB25: Outright Winner - Outright Winner,Blue Kim,-0.0242,0.0667,0.0909
-2023-08-29 18:50:17.626035,New England Patriots - 2023-24 Regular Season Wins O/U - Regular Season Wins - New England Patriots O/U  3.5,Over 3.5,-0.0242,0.9091,0.9333
-2023-08-29 18:50:11.915341,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,Australia,-0.0242,0.0667,0.0909
-2023-08-29 18:03:27.629411,Hollywood Strikes - What month will the Screen Actors Guild strike end? - What month will the SAG strike end?,September 2023,-0.02560000000000001,0.3077,0.3333
+2023-08-30 07:02:29.293708,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Nikki Haley,-0.024,0.0385,0.0625
+2023-08-30 04:01:55.465316,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Japan,Yuta Watanabe (JPN),-0.024,0.0385,0.0625
 2023-08-30 03:02:29.144782,Serie A - Italy Serie A 2023/24 - To Be Relegated,Salernitana,-0.02560000000000001,0.3077,0.3333
-2023-08-29 18:03:28.410115,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Italy,Nicolo Melli (ITA),-0.025600000000000067,0.6667,0.6923
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August","Galatasaray, Young Boys and Panathinaikos each to take 3 or more corners in each half",-0.026100000000000012,0.1739,0.2
-2023-08-29 18:50:17.729001,New Orleans Saints - 2023-24 Regular Season Wins O/U - Regular Season Wins - New Orleans Saints O/U  9.5,Under 9.5,-0.026499999999999968,0.5652,0.5917
-2023-08-29 18:50:17.092346,Jacksonville Jaguars - 2023-24 Regular Season Wins O/U - Regular Season Wins - Jacksonville Jaguars O/U  9.5,Over 9.5,-0.026499999999999968,0.5652,0.5917
-2023-08-29 18:50:12.423714,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Germany,Daniel  Theis,-0.02779999999999999,0.2222,0.25
-2023-08-29 18:03:27.666993,MTV VMAs - VMAs 2023 - Video Of The Year - Video Of The Year,Miley Cyrus - Flowers,-0.02779999999999999,0.2222,0.25
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Total of 37 or more corners taken,-0.027999999999999997,0.1538,0.1818
-2023-08-29 18:50:12.224735,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Germany,Daniel  Theis,-0.028199999999999996,0.0385,0.0667
-2023-08-29 18:50:12.194678,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Brazil,Marcelinho  Huertas,-0.028199999999999996,0.0385,0.0667
-2023-08-29 18:50:12.244385,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Italy,Giampaolo  Ricci,-0.028399999999999995,0.0625,0.0909
-2023-08-29 18:50:12.402023,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Canada,RJ  Barrett,-0.028399999999999995,0.0625,0.0909
-2023-08-29 18:03:27.666993,MTV VMAs - VMAs 2023 - Video Of The Year - Video Of The Year,Doja Cat - Attention,-0.028399999999999995,0.0625,0.0909
-2023-08-29 18:03:27.666993,MTV VMAs - VMAs 2023 - Video Of The Year - Video Of The Year,Olivia Rodrigo - Vampire,-0.028399999999999995,0.0625,0.0909
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",10+ corners taken in each match,-0.028700000000000003,0.1818,0.2105
-2023-08-29 18:50:12.063389,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Serbia,Aleksa  Avramovic,-0.029299999999999993,0.0476,0.0769
-2023-08-29 18:50:12.254349,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Lithuania,Jonas  Valanciunas,-0.029299999999999993,0.7143,0.7436
-2023-08-29 18:03:28.394905,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Italy,Nicolo Mell,-0.029299999999999993,0.0476,0.0769
-2023-08-29 18:03:27.629411,Hollywood Strikes - What month will the Screen Actors Guild strike end? - What month will the SAG strike end?,August 2023,-0.029299999999999993,0.0476,0.0769
+2023-08-30 07:02:29.313787,Gubernatorial Elections - Kentucky: 2023 Gubernatorial Election - Kentucky,Daniel Cameron (Rep),-0.026500000000000024,0.3509,0.3774
 2023-08-30 03:02:30.364175,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Japan,Yudai Baba,-0.029600000000000015,0.3704,0.4
 2023-08-30 00:02:07.042601,San Francisco 49ers - 2023-24 Regular Season Wins O/U - Regular Season Wins - San Francisco 49ers O/U 11.5,Under 11.5,-0.02960000000000007,0.6,0.6296
-2023-08-29 18:50:18.090996,San Francisco 49ers - 2023-24 Regular Season Wins O/U - Regular Season Wins - San Francisco 49ers O/U 11.5,Under 11.5,-0.02960000000000007,0.6,0.6296
+2023-08-30 07:02:35.286139,MLB Futures - MLB 2023 National League Central - National League Central Winner,Cincinnati Reds,-0.029700000000000004,0.0179,0.0476
 2023-08-29 23:03:01.717591,San Francisco 49ers - 2023-24 Regular Season Wins O/U - Regular Season Wins - San Francisco 49ers O/U 11.5,Over 11.5,-0.030299999999999994,0.4348,0.4651
-2023-08-29 18:50:17.572752,Minnesota Vikings - 2023-24 Regular Season Wins O/U - Regular Season Wins - Minnesota Vikings O/U  8.5,Over 8.5,-0.030399999999999983,0.5348,0.5652
 2023-08-29 22:03:07.904977,Boxing Lines - Koki Inoue vs Abdurasul Ismoilov - To Win the Bout,Abdurasul Ismoilov,-0.031700000000000006,0.1905,0.2222
-2023-08-29 18:03:27.666993,MTV VMAs - VMAs 2023 - Video Of The Year - Video Of The Year,Taylor Swift - Anti-Hero,-0.03179999999999994,0.5238,0.5556
-2023-08-29 18:03:27.662143,MTV VMAs - VMAs 2023 - Song Of The Year - Song Of The Year,Sam Smith & Kim Petras - Unholy,-0.031799999999999995,0.1111,0.1429
 2023-08-30 04:01:55.465316,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Japan,Yuki Togashi,-0.031799999999999995,0.1111,0.1429
-2023-08-29 18:50:12.010004,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Canada,Nickeil  Alexander - Walker,-0.031799999999999995,0.1111,0.1429
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Panathinaikos or Maccabi Haifa to score 2 or more goals,-0.032099999999999906,0.5833,0.6154
-2023-08-29 18:50:17.337894,Los Angeles Chargers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Los Angeles Chargers O/U  9.5,Under 9.5,-0.033299999999999996,0.4545,0.4878
-2023-08-29 18:50:16.938152,Houston Texans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Houston Texans O/U  6.5,Over 6.5,-0.033299999999999996,0.4545,0.4878
-2023-08-29 18:50:12.306951,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Canada,Kelly  Olynyk,-0.033300000000000024,0.1667,0.2
-2023-08-29 18:50:12.446531,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Lithuania,Ignas  Brazdeikis,-0.033300000000000024,0.1667,0.2
-2023-08-29 18:50:12.446531,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Lithuania,Vaidas  Kariniauskas,-0.033300000000000024,0.1667,0.2
-2023-08-29 18:50:32.785723,Boxing Lines - Dave Apolinario vs Bryan Mosinos - To Win the Bout,Bryan Mosinos,-0.033399999999999985,0.1333,0.1667
-2023-08-29 18:50:10.467005,Big Brother - BB25: Outright Winner - Outright Winner,America Lopez,-0.034100000000000005,0.0909,0.125
-2023-08-29 18:50:12.134304,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Germany,Johannes  Voigtmann,-0.03420000000000001,0.0769,0.1111
-2023-08-29 18:50:12.254349,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Lithuania,Ignas  Brazdeikis,-0.03420000000000001,0.0769,0.1111
-2023-08-29 18:50:32.801783,Boxing Lines - Kazuki Anaguchi vs Shori Umezu - To Win the Bout,Shori Umezu,-0.0348,0.4,0.4348
 2023-08-30 02:03:17.886495,Boxing Lines - Kazuki Anaguchi vs Shori Umezu - To Win the Bout,Shori Umezu,-0.0348,0.4,0.4348
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Under 7.5 goals scored,-0.0348,0.4,0.4348
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Each match to have 4 or more corners taken in each half,-0.0353,0.2,0.2353
-2023-08-29 18:50:10.467005,Big Brother - BB25: Outright Winner - Outright Winner,Cory Wurtenberger,-0.03570000000000001,0.25,0.2857
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Young Boys to score more goals than Galatasaray,-0.03640000000000004,0.3636,0.4
+2023-08-30 07:02:35.262795,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Baltimore Orioles,-0.034999999999999976,0.2353,0.2703
+2023-08-30 07:02:35.290742,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Gerrit Cole (NYY),-0.035699999999999954,0.7143,0.75
 2023-08-30 01:02:38.694638,Boxing Lines - Kazuki Anaguchi vs Shori Umezu - To Win the Bout,Kazuki Anaguchi,-0.03709999999999991,0.6296,0.6667
-2023-08-29 18:50:12.194678,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Brazil,Lucas  Dias,-0.0373,0.0294,0.0667
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August","Galatasaray, Young Boys and Panathinaikos to score 4 or less goals combined",-0.0378,0.4167,0.4545
-2023-08-29 18:50:12.317736,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - China,Zhou  Qi,-0.0378,0.4167,0.4545
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Home teams to score 4 or less goals,-0.0378,0.4167,0.4545
-2023-08-29 18:50:12.559603,FIBA World Cup Futures - FIBA World Cup - Top Total Steals,Luguentz  Dort,-0.038099999999999995,0.0244,0.0625
-2023-08-29 18:50:10.467005,Big Brother - BB25: Outright Winner - Outright Winner,Jag Bains,-0.03889999999999999,0.1429,0.1818
-2023-08-29 18:50:17.415110,Los Angeles Rams - 2023-24 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U  6.5,Under 6.5,-0.03959999999999997,0.5348,0.5744
-2023-08-29 18:50:16.306759,Buffalo Bills - 2023-24 Regular Season Wins O/U - Regular Season Wins - Buffalo Bills O/U 10.5,Under 10.5,-0.039600000000000024,0.4255,0.4651
-2023-08-29 18:50:17.426828,Los Angeles Rams - 2023-24 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U  8.5,Over 8.5,-0.03989999999999999,0.25,0.2899
 2023-08-30 00:02:06.832633,Los Angeles Rams - 2023-24 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U  8.5,Over 8.5,-0.03989999999999999,0.25,0.2899
 2023-08-29 23:03:01.465259,Los Angeles Rams - 2023-24 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U  8.5,Under 8.5,-0.04039999999999999,0.7778,0.8182
-2023-08-29 18:50:12.083405,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - USA,Jalen  Brunson,-0.04040000000000002,0.1818,0.2222
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Galatasaray or Young Boys to take 12 or more corners,-0.0406,0.1333,0.1739
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Under 6.5 goals scored,-0.04099999999999998,0.2667,0.3077
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August","Galatasaray, Young Boys and Panathinaikos each to take 2 or more corners in each half",-0.04139999999999999,0.4348,0.4762
-2023-08-29 18:50:12.204410,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Canada,Kelly  Olynyk,-0.042899999999999994,0.1,0.1429
-2023-08-29 18:03:36.816086,Boxing Lines - Koki Inoue vs Abdurasul Ismoilov - To Win the Bout,Koki Inoue,-0.04290000000000005,0.8571,0.9
-2023-08-29 18:50:12.381733,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - USA,Brandon  Ingram,-0.04329999999999999,0.0476,0.0909
-2023-08-29 18:50:16.098569,Arizona Cardinals - 2023-24 Regular Season Wins O/U - Regular Season Wins - Arizona Cardinals O/U 6.5,Over 6.5,-0.0436,0.1786,0.2222
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Total of 34 or more corners taken,-0.047599999999999976,0.2857,0.3333
-2023-08-29 18:03:28.416927,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Serbia,Aleksa Avramovic,-0.047599999999999976,0.2857,0.3333
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Total of 31 or more corners taken,-0.04760000000000003,0.4762,0.5238
-2023-08-29 18:03:28.416927,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Serbia,Marko Guduric (SRB),-0.048100000000000004,0.0769,0.125
-2023-08-29 18:50:12.234536,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Greece,Kostas Papanikolaou (GRE),-0.048600000000000004,0.0625,0.1111
-2023-08-29 18:50:12.423714,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Germany,Moritz  Wagner,-0.048600000000000004,0.0625,0.1111
-2023-08-29 18:50:12.402023,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Canada,Luguentz  Dort,-0.0493,0.0132,0.0625
-2023-08-29 18:50:10.467005,Big Brother - BB25: Outright Winner - Outright Winner,Cirie Fields,-0.04999999999999999,0.2,0.25
-2023-08-29 18:50:12.296858,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Australia,Duop  Reath,-0.052000000000000005,0.0909,0.1429
-2023-08-29 18:50:12.392138,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Australia,Patty  Mills,-0.052200000000000024,0.5556,0.6078
-2023-08-29 18:50:11.999841,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Australia,Dante  Exum,-0.052399999999999995,0.0385,0.0909
-2023-08-29 18:50:12.381733,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - USA,Bobby  Portis,-0.052399999999999995,0.0385,0.0909
-2023-08-29 18:50:12.043433,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Greece,Kostas Papanikolaou (GRE),-0.0524,0.0476,0.1
+2023-08-30 07:02:29.293708,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Vivek Ramaswamy,-0.042899999999999994,0.1,0.1429
 2023-08-30 00:02:06.756703,Kansas City Chiefs - 2023-24 Regular Season Wins O/U - Regular Season Wins - Kansas City Chiefs O/U 11.5,Over 11.5,-0.05449999999999999,0.5455,0.6
-2023-08-29 18:50:12.214600,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - China,Kyle  Anderson,-0.05449999999999999,0.4,0.4545
-2023-08-29 18:50:17.168973,Kansas City Chiefs - 2023-24 Regular Season Wins O/U - Regular Season Wins - Kansas City Chiefs O/U 11.5,Over 11.5,-0.05449999999999999,0.5455,0.6
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",10+ corners taken in 2+ matches,-0.05520000000000003,0.5744,0.6296
 2023-08-30 03:02:30.364175,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Japan,Yuta Watanabe (JPN),-0.05559999999999998,0.1111,0.1667
-2023-08-29 18:50:12.402023,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Canada,Dwight  Powell,-0.05559999999999998,0.1111,0.1667
-2023-08-29 18:50:12.063389,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Serbia,Marko  Guduric,-0.055900000000000005,0.3077,0.3636
 2023-08-30 03:02:29.144782,Serie A - Italy Serie A 2023/24 - To Be Relegated,Frosinone,-0.05590000000000006,0.6364,0.6923
-2023-08-29 18:03:27.653391,MTV VMAs - VMAs 2023 - Artist Of The Year - Artist Of The Year,Beyoncé,-0.0562,0.2105,0.2667
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Galatasaray or Young Boys to take 8 or more corners,-0.05689999999999995,0.5348,0.5917
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August",Home teams to score 3 or less goals,-0.057699999999999974,0.25,0.3077
-2023-08-29 18:50:16.783384,Detroit Lions - 2023-24 Regular Season Wins O/U - Regular Season Wins - Detroit Lions O/U  9.5,Over 9.5,-0.057699999999999974,0.4878,0.5455
-2023-08-29 18:03:27.510282,"Daily Soccer Specials - Champions League Qualifiers Specials - Tuesday, 29th August - Champions League Qualifiers Specials - Tuesday, 29th August","Galatasaray, Young Boys and Panathinaikos to score 3 or less goals combined",-0.057699999999999974,0.25,0.3077
 2023-08-29 23:03:01.376600,Kansas City Chiefs - 2023-24 Regular Season Wins O/U - Regular Season Wins - Kansas City Chiefs O/U 11.5,Under 11.5,-0.05870000000000003,0.4651,0.5238
-2023-08-29 18:50:12.053196,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Lithuania,Ignas  Brazdeikis,-0.0625,0.0625,0.125
-2023-08-29 18:50:12.010004,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Canada,RJ  Barrett,-0.0625,0.0625,0.125
-2023-08-29 18:50:12.093428,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Australia,Nick  Kay,-0.06309999999999999,0.0278,0.0909
-2023-08-29 18:50:12.392138,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Australia,Josh  Giddey,-0.0635,0.0476,0.1111
-2023-08-29 18:50:12.327839,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Germany,Franz  Wagner,-0.0637,0.0196,0.0833
-2023-08-29 18:50:12.381733,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - USA,Jaren  Jackson Jr,-0.06669999999999998,0.2,0.2667
-2023-08-29 18:50:16.087071,Arizona Cardinals - 2023-24 Regular Season Wins O/U - Regular Season Wins - Arizona Cardinals O/U 4.5,Over 4.5,-0.06779999999999997,0.4444,0.5122
-2023-08-29 21:03:10.909156,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-29 23:03:04.942068,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-29 20:03:16.643132,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-29 19:02:46.007787,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-29 18:50:27.894648,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-29 22:03:05.584010,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-29 18:03:34.717385,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-30 04:02:00.345759,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-30 00:02:10.102819,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-30 07:02:35.305823,MLB Futures - MLB 2023 Player Awards - National League MVP,Freddie Freeman (LAD),-0.0666,0.0667,0.1333
 2023-08-30 02:03:16.264040,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-30 05:03:24.589575,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-30 03:02:35.473521,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
 2023-08-30 06:02:50.055073,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-30 05:03:24.589575,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-30 04:02:00.345759,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-30 03:02:35.473521,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-29 23:03:04.942068,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-29 19:02:46.007787,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-29 20:03:16.643132,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-29 21:03:10.909156,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
 2023-08-30 01:02:36.959408,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-29 18:50:18.246711,Tampa Bay Buccaneers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tampa Bay Buccaneers O/U  6.5,Under 6.5,-0.06989999999999996,0.5455,0.6154
-2023-08-29 18:50:12.296858,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Australia,Nick  Kay,-0.0726,0.0385,0.1111
-2023-08-29 18:50:12.134304,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Germany,Franz  Wagner,-0.0726,0.0385,0.1111
-2023-08-29 18:03:28.410115,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Italy,Simone  Fontecchio,-0.07500000000000001,0.125,0.2
-2023-08-29 18:50:12.053196,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Lithuania,Margiris  Normantas,-0.07579999999999999,0.0909,0.1667
-2023-08-29 18:50:12.124002,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - China,Kyle  Anderson,-0.0769,0.0769,0.1538
+2023-08-29 22:03:05.584010,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-30 00:02:10.102819,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-30 07:02:33.815667,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
 2023-08-30 03:02:29.147337,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Atalanta,-0.07789999999999997,0.2857,0.3636
-2023-08-29 18:03:27.653391,MTV VMAs - VMAs 2023 - Artist Of The Year - Artist Of The Year,Nicki Minaj,-0.0849,0.1818,0.2667
-2023-08-29 18:50:12.446531,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Lithuania,Mindaugas  Kuzminskas,-0.0909,0.0909,0.1818
-2023-08-29 18:50:17.862616,New York Jets - 2023-24 Regular Season Wins O/U - Regular Season Wins - New York Jets O/U  9.5,Over 9.5,-0.0915999999999999,0.5238,0.6154
-2023-08-29 18:50:10.299817,MTV VMAs - VMAs 2023 - Song Of The Year - Song Of The Year,Taylor Swift - Anti-Hero,-0.09889999999999999,0.2857,0.3846
+2023-08-30 07:02:35.281722,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,-0.09230000000000005,0.3077,0.4
+2023-08-30 07:02:35.305823,MLB Futures - MLB 2023 Player Awards - National League MVP,Ronald Acuña Jr.,-0.0948,0.6552,0.75
 2023-08-30 03:02:29.144782,Serie A - Italy Serie A 2023/24 - To Be Relegated,Lecce,-0.09999999999999998,0.4,0.5
-2023-08-29 18:50:12.194678,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Brazil,Leonardo  Meindl,-0.10619999999999999,0.0476,0.1538
 2023-08-30 03:02:29.144782,Serie A - Italy Serie A 2023/24 - To Be Relegated,Hellas Verona,-0.10900000000000004,0.3077,0.4167
-2023-08-29 18:50:16.347065,Carolina Panthers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Carolina Panthers O/U  7.5,Over 7.5,-0.11070000000000002,0.4545,0.5652
 2023-08-30 03:02:29.147337,Serie A - Italy Serie A 2023/24 - Top 4 Finish,AS Roma,-0.11430000000000001,0.2857,0.4
-2023-08-29 18:50:12.194678,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Brazil,Vitor  Benite,-0.1151,0.0667,0.1818
-2023-08-29 18:50:12.033646,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Germany,Franz  Wagner,-0.12329999999999999,0.0196,0.1429
-2023-08-29 18:50:12.423714,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Germany,Maodo  Lo,-0.12819999999999998,0.0385,0.1667
-2023-08-29 18:50:12.392138,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Australia,Matisse  Thybulle,-0.13130000000000003,0.0909,0.2222
 2023-08-30 03:02:29.147337,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Lazio,-0.13329999999999997,0.2,0.3333
-2023-08-29 18:50:12.423714,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Germany,Franz  Wagner,-0.1344,0.0323,0.1667
-2023-08-29 18:50:12.224735,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Germany,Franz  Wagner,-0.1495,0.0323,0.1818
-2023-08-29 18:50:12.134304,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Germany,Moritz  Wagner,-0.16479999999999997,0.1429,0.3077
-2023-08-29 18:50:12.327839,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Germany,Daniel  Theis,-0.1666,0.1667,0.3333
 2023-08-30 03:02:29.144782,Serie A - Italy Serie A 2023/24 - To Be Relegated,Genoa,-0.16850000000000004,0.3077,0.4762
-2023-08-29 18:50:12.083405,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - USA,Tyrese  Haliburton,-0.1688,0.2857,0.4545
-2023-08-29 18:50:12.214600,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - China,Zhou  Qi,-0.1875,0.3125,0.5
-2023-08-29 18:50:12.296858,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Australia,Josh  Giddey,-0.2143,0.4348,0.6491
-2023-08-29 18:50:12.224735,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Germany,Moritz  Wagner,-0.2708,0.0625,0.3333
-2023-08-29 18:50:12.184448,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Australia,Patty  Mills,-0.34930000000000005,0.5455,0.8948
+2023-08-30 07:02:35.299820,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Zac Gallen,-0.33330000000000004,0.1905,0.5238
