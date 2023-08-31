@@ -6,11 +6,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-31 07:02:30.324965,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.07139999999999996,0.3571,0.2857
 2023-08-31 05:01:49.499689,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
 2023-08-31 07:02:27.704688,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
-2023-08-31 11:02:23.805550,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
 2023-08-31 08:02:42.371086,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
 2023-08-31 09:02:54.802080,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
 2023-08-31 10:03:00.188792,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-31 11:02:23.805550,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
 2023-08-31 13:04:39.357809,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-31 15:02:05.610683,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
 2023-08-31 12:02:07.674994,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
 2023-08-31 10:02:54.121834,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Club América,0.06700000000000006,0.6226,0.5556
 2023-08-31 10:02:54.121834,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Cruz Azul,0.05679999999999999,0.1818,0.125
@@ -27,6 +28,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-31 07:02:25.171579,Season Player Specials - NFL 2023-24 Rushing TDs - 2023-24 To Have 6+Regular Season Rushing TDs,Dameon Pierce,0.031799999999999995,0.4762,0.4444
 2023-08-31 10:02:54.121834,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,FC Puebla,0.029299999999999993,0.0769,0.0476
 2023-08-31 12:02:09.191699,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Gerrit Cole (NYY),0.026800000000000046,0.7143,0.6875
+2023-08-31 15:02:06.468631,Regular Season Wins - 2023-24 Regular Season Wins - Kansas - Regular Season Wins,Under 6½,0.026499999999999968,0.5917,0.5652
 2023-08-31 13:04:29.613993,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Manchester City,0.02560000000000001,0.3333,0.3077
 2023-08-31 10:02:54.121834,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Tigres UANL,0.025599999999999956,0.6,0.5744
 2023-08-31 05:01:51.530139,Scores - 1st Round Score - Matt Wallace - 1st Round Score,Over 68.5,0.024399999999999977,0.5122,0.4878
@@ -36,51 +38,53 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-31 07:02:30.387986,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Spencer Strider (ATL),0.018799999999999983,0.3636,0.3448
 2023-08-31 10:02:54.121834,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Atlas FC,0.01820000000000002,0.2,0.1818
 2023-08-31 07:02:30.423800,Boxing Lines - Samuel Antwi vs Mason Cartwright - To Win the Bout,Mason Cartwright,0.017600000000000005,0.3509,0.3333
+2023-08-31 12:02:03.318058,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-08-31 13:04:32.281809,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-08-31 11:02:18.199447,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-08-31 15:02:01.017938,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
 2023-08-31 10:02:55.892818,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
 2023-08-31 09:02:48.834811,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-08-31 05:01:45.109330,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
 2023-08-31 08:02:38.108603,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-08-31 11:02:18.199447,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-08-31 12:02:03.318058,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
 2023-08-31 07:02:20.583990,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-08-31 13:04:32.281809,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-08-31 05:01:45.109330,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
 2023-08-31 05:01:45.135081,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Kristi Noem,0.016600000000000004,0.0833,0.0667
 2023-08-31 10:02:54.115753,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Tigres UANL,0.015100000000000002,0.1818,0.1667
 2023-08-31 07:02:30.101999,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Michael Penix Jr.,0.014899999999999997,0.0625,0.0476
 2023-08-31 07:02:30.387986,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Justin Steele (CHC),0.01440000000000001,0.1053,0.0909
 2023-08-31 10:02:54.019502,MLS - MLS 2023 - Winner,Saint Louis City SC,0.013999999999999999,0.0909,0.0769
-2023-08-31 10:02:54.115753,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Deportivo Toluca,0.011199999999999995,0.0588,0.0476
 2023-08-31 10:02:54.019502,MLS - MLS 2023 - Winner,Orlando City,0.011199999999999995,0.0588,0.0476
 2023-08-31 10:02:54.115753,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Atlas FC,0.011199999999999995,0.0588,0.0476
+2023-08-31 10:02:54.115753,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Deportivo Toluca,0.011199999999999995,0.0588,0.0476
 2023-08-31 05:01:51.022179,Boxing Lines - Samuel Antwi vs Mason Cartwright - To Win the Bout,Samuel Antwi,0.011099999999999999,0.7333,0.7222
 2023-08-31 05:01:51.378162,Round Match-Ups - 1st Round Match-Up - A. DuMont De Chassart vs J. Smith - 1st Round Match-Up,Adrien DuMont De Chassart,0.01100000000000001,0.5348,0.5238
 2023-08-31 10:02:54.022294,MLS - MLS 2023 - Top Goalscorer,Jordan Morris (SEA),0.010700000000000001,0.0385,0.0278
 2023-08-31 11:02:25.709759,Ryder Cup - Ryder Cup 2023 - Winner,USA,-0.010099999999999998,0.5455,0.5556
-2023-08-31 10:02:54.118674,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Lucas Di Yorio (LEO),-0.0102,0.0667,0.0769
-2023-08-31 10:02:54.118674,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Camilo Sanvezzo (TOL),-0.0102,0.0667,0.0769
-2023-08-31 10:02:54.118674,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Juan Dinenno (PUM),-0.0102,0.0667,0.0769
 2023-08-31 10:02:54.118674,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Rogelio Funes Mori (MON),-0.0102,0.0667,0.0769
 2023-08-31 10:02:54.118674,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Nicolas Ibanez (TIG),-0.0102,0.0667,0.0769
+2023-08-31 10:02:54.118674,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Lucas Di Yorio (LEO),-0.0102,0.0667,0.0769
+2023-08-31 10:02:54.118674,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Juan Dinenno (PUM),-0.0102,0.0667,0.0769
+2023-08-31 10:02:54.118674,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Camilo Sanvezzo (TOL),-0.0102,0.0667,0.0769
 2023-08-31 12:02:09.215703,Boxing Lines - Ricky Burns vs Willie Limond - To Win the Bout,Willie Limond,-0.010499999999999982,0.2,0.2105
 2023-08-31 09:02:48.065160,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - USA,Mikal  Bridges,-0.010700000000000001,0.0278,0.0385
 2023-08-31 10:02:54.118674,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Henry Martin (AME),-0.011099999999999999,0.1,0.1111
-2023-08-31 10:02:54.019502,MLS - MLS 2023 - Winner,Nashville SC,-0.011199999999999995,0.0476,0.0588
 2023-08-31 10:02:54.115753,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Santos Laguna,-0.011199999999999995,0.0476,0.0588
+2023-08-31 10:02:54.019502,MLS - MLS 2023 - Winner,Nashville SC,-0.011199999999999995,0.0476,0.0588
 2023-08-31 05:01:51.378162,Round Match-Ups - 1st Round Match-Up - A. DuMont De Chassart vs J. Smith - 1st Round Match-Up,Jordan Smith,-0.011600000000000055,0.5122,0.5238
-2023-08-31 10:02:54.118674,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,German Berterame (MON),-0.013899999999999996,0.1111,0.125
 2023-08-31 10:02:54.019502,MLS - MLS 2023 - Winner,Los Angeles FC,-0.013899999999999996,0.1111,0.125
+2023-08-31 10:02:54.118674,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,German Berterame (MON),-0.013899999999999996,0.1111,0.125
 2023-08-31 12:02:09.191699,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Kevin Gausman (TOR),-0.013999999999999999,0.0769,0.0909
 2023-08-31 10:02:54.118674,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Andre-Pierre Gignac (TIG),-0.013999999999999999,0.0769,0.0909
 2023-08-31 07:02:30.368325,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,George Kirby (SEA),-0.014100000000000001,0.0385,0.0526
 2023-08-31 10:02:54.115753,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,CF Monterrey,-0.015100000000000002,0.1667,0.1818
-2023-08-31 11:02:18.205733,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-08-31 07:02:20.593079,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-08-31 08:02:38.112836,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-08-31 09:02:48.841101,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-08-31 10:02:55.897105,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-08-31 05:01:45.114215,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-08-31 15:02:01.023801,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-08-31 12:02:03.322386,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-08-31 11:02:18.205733,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-08-31 10:02:55.897105,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-08-31 09:02:48.841101,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-08-31 08:02:38.112836,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-08-31 13:04:32.290336,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-08-31 07:02:20.593079,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-08-31 10:02:54.022294,MLS - MLS 2023 - Top Goalscorer,Georgios Giakoumakis (ATL),-0.0179,0.125,0.1429
 2023-08-31 10:02:54.115753,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Club América,-0.01820000000000002,0.1818,0.2
 2023-08-31 05:01:51.530139,Scores - 1st Round Score - Matt Wallace - 1st Round Score,Under 68.5,-0.01880000000000004,0.5556,0.5744
@@ -91,6 +95,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-31 10:02:54.019502,MLS - MLS 2023 - Winner,Atlanta United,-0.0203,0.0385,0.0588
 2023-08-31 09:02:48.059539,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Serbia,Aleksa  Avramovic,-0.0232,0.0435,0.0667
 2023-08-31 11:02:17.264435,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Lithuania,Ignas  Brazdeikis,-0.023200000000000002,0.0244,0.0476
+2023-08-31 15:02:06.468631,Regular Season Wins - 2023-24 Regular Season Wins - Kansas - Regular Season Wins,Over 6½,-0.023799999999999988,0.4762,0.5
 2023-08-31 10:02:54.121834,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,CF Monterrey,-0.025599999999999956,0.5744,0.6
 2023-08-31 07:02:30.368325,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Gerrit Cole (NYY),-0.026800000000000046,0.6875,0.7143
 2023-08-31 09:02:48.059539,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Serbia,Nikola  Milutinov,-0.027800000000000005,0.0833,0.1111
@@ -98,21 +103,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-08-31 11:02:17.378866,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Japan,Yuta Watanabe (JPN),-0.03420000000000001,0.0769,0.1111
 2023-08-31 05:01:51.540533,Scores - 1st Round Score - Rasmus Hojgaard - 1st Round Score,Over 68.5,-0.03639999999999999,0.6,0.6364
 2023-08-31 09:02:48.065160,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - USA,Paolo  Banchero,-0.04169999999999999,0.125,0.1667
-2023-08-31 10:02:55.227921,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Serbia,Bogdan  Bogdanovic,-0.04169999999999999,0.125,0.1667
 2023-08-31 09:02:48.065160,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - USA,Austin  Reaves,-0.04169999999999999,0.125,0.1667
+2023-08-31 10:02:55.227921,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Serbia,Bogdan  Bogdanovic,-0.04169999999999999,0.125,0.1667
 2023-08-31 07:02:30.368325,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Kevin Gausman (TOR),-0.04240000000000001,0.0909,0.1333
 2023-08-31 10:02:54.121834,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Club León,-0.04620000000000002,0.1538,0.2
 2023-08-31 10:02:54.121834,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,CF Pachuca,-0.047599999999999976,0.2857,0.3333
 2023-08-31 10:02:55.190113,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Italy,Simone  Fontecchio,-0.05559999999999998,0.1111,0.1667
 2023-08-31 07:02:30.324965,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,-0.059700000000000086,0.7403,0.8
-2023-08-31 13:04:39.374811,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-31 12:02:07.683694,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
 2023-08-31 11:02:23.814367,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-31 10:03:00.197340,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-31 12:02:07.683694,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
 2023-08-31 09:02:54.811126,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-31 13:04:39.374811,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-31 08:02:42.381813,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
 2023-08-31 07:02:27.720361,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
 2023-08-31 05:01:49.507484,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
-2023-08-31 08:02:42.381813,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-31 15:02:05.618981,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
+2023-08-31 10:03:00.197340,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
 2023-08-31 07:02:30.340399,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,-0.0701,0.2632,0.3333
 2023-08-31 07:02:30.351313,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,-0.07720000000000005,0.7895,0.8667
 2023-08-31 10:02:54.121834,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,FC Juarez,-0.08330000000000001,0.1667,0.25
