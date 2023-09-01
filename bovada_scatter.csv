@@ -1,43 +1,89 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Linn Grant,0.14120000000000002,0.2,0.0588
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Nelly Korda,0.13330000000000003,0.2,0.0667
 2023-09-01 09:02:36.037809,Copa Libertadores - Copa Libertadores 2023 - Outright,Boca Juniors,0.1111,0.2222,0.1111
-2023-08-31 23:02:28.989493,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Perrine Delacour,0.0767,0.0833,0.0066
 2023-08-31 22:03:47.930652,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
+2023-08-31 23:02:28.989493,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,0.06970000000000004,0.5348,0.4651
 2023-09-01 00:02:30.619849,FIBA World Cup Futures - FIBA World Cup - Winning Confederation,Americas,0.05300000000000005,0.75,0.697
 2023-09-01 00:02:37.234654,Round Match-Ups - 2nd Round Match-Up - E. Ferguson vs J. Luiten - 2nd Round Match-Up,Joost Luiten,0.04620000000000002,0.5917,0.5455
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Olivia Cowan,0.0397,0.0476,0.0079
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Megan Khang,0.035699999999999996,0.0833,0.0476
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Charley Hull,0.029299999999999993,0.0769,0.0476
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Andrea Lee,0.0282,0.0526,0.0244
 2023-09-01 03:02:43.326539,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - USA,Anthony  Edwards,0.022199999999999998,0.8,0.7778
 2023-08-31 22:03:50.431531,Boxing Lines - Ricky Burns vs Willie Limond - To Win the Bout,Ricky Burns,0.022199999999999998,0.8889,0.8667
-2023-09-01 08:02:47.559531,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-01 04:02:44.333556,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-01 01:02:58.527287,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-01 05:02:20.480899,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-01 02:02:09.669185,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-01 07:02:43.617721,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-01 09:02:38.299711,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-01 00:02:31.215165,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-01 03:02:44.052488,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-01 06:01:58.748810,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-08-31 23:02:24.491487,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Madelene Sagstrom,0.020000000000000004,0.0323,0.0123
+2023-09-01 10:02:11.422183,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,0.019000000000000017,0.2857,0.2667
+2023-09-01 10:02:11.422183,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.018199999999999994,0.8077,0.7895
+2023-09-01 10:02:11.398876,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Tampa Bay Rays,0.0179,0.2353,0.2174
 2023-08-31 22:03:41.551608,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-08-31 23:02:24.491487,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-01 00:02:31.215165,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-01 01:02:58.527287,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-01 04:02:44.333556,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-01 05:02:20.480899,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-01 03:02:44.052488,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-01 10:02:06.064668,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-01 09:02:38.299711,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-01 08:02:47.559531,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-01 07:02:43.617721,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-01 06:01:58.748810,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-01 02:02:09.669185,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-01 10:02:11.394023,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Atlanta Braves,0.01629999999999998,0.2941,0.2778
+2023-09-01 10:02:11.725708,Round Match-Ups - 2nd Round Match-Up - E. Ferguson vs J. Luiten - 2nd Round Match-Up,Joost Luiten,0.016100000000000003,0.6078,0.5917
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Sarah Kemp,0.0156,0.0196,0.004
+2023-09-01 10:02:11.417617,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,0.014900000000000024,0.3226,0.3077
+2023-09-01 10:02:11.398876,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Baltimore Orioles,0.01469999999999999,0.25,0.2353
+2023-09-01 10:02:11.398876,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Houston Astros,0.01469999999999999,0.25,0.2353
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Danielle Kang,0.0145,0.0244,0.0099
 2023-09-01 07:02:49.308533,Boxing Lines - Kenichi Ogawa vs Marvin Esquierdo - To Win the Bout,Kenichi Ogawa,0.013900000000000023,0.8889,0.875
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Nanna Koerstz Madsen,0.0139,0.0179,0.004
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Gina Kim,0.012799999999999999,0.0141,0.0013
+2023-09-01 10:02:11.439185,Boxing Lines - Ricky Burns vs Willie Limond - To Win the Bout,Ricky Burns,0.011099999999999999,0.9,0.8889
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Lydia Ko,-0.0103,0.002,0.0123
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Jenny Bae,-0.0103,0.002,0.0123
+2023-09-01 10:02:11.725708,Round Match-Ups - 2nd Round Match-Up - E. Ferguson vs J. Luiten - 2nd Round Match-Up,Ewen Ferguson,-0.010599999999999998,0.4545,0.4651
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Sei Young Kim,-0.012899999999999998,0.005,0.0179
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Gaby Lopez,-0.0132,0.002,0.0152
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Jenny Shin,-0.0139,0.004,0.0179
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Maja Stark,-0.0139,0.0057,0.0196
+2023-09-01 10:02:11.398876,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Toronto Blue Jays,-0.013999999999999999,0.0769,0.0909
+2023-09-01 10:02:11.394023,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Texas Rangers,-0.01440000000000001,0.0909,0.1053
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,In Gee Chun,-0.0156,0.004,0.0196
 2023-09-01 07:02:49.308533,Boxing Lines - Kenichi Ogawa vs Marvin Esquierdo - To Win the Bout,Marvin Esquierdo,-0.016600000000000004,0.1739,0.1905
 2023-09-01 09:02:36.037809,Copa Libertadores - Copa Libertadores 2023 - Outright,Palmeiras,-0.016699999999999993,0.4,0.4167
-2023-09-01 05:02:20.486087,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-08-31 23:02:24.495851,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-09-01 06:01:58.753135,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-09-01 04:02:44.339622,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-01 03:02:44.056903,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-01 02:02:09.673594,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-09-01 07:02:43.622207,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-09-01 08:02:47.568736,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-01 03:02:44.056903,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-08-31 23:02:24.495851,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-01 02:02:09.673594,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-09-01 01:02:58.531753,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-01 00:02:31.219695,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-08-31 22:03:41.557565,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-09-01 09:02:38.304647,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-01 00:02:31.219695,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-01 05:02:20.486087,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-01 10:02:06.069058,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-08-31 22:03:41.557565,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Hae Ran Ryu,-0.017800000000000003,0.0066,0.0244
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Georgia Hall,-0.0182,0.0141,0.0323
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Atthaya Thitikul,-0.0189,0.0196,0.0385
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Brooke Henderson,-0.019800000000000005,0.0278,0.0476
 2023-09-01 09:02:36.037809,Copa Libertadores - Copa Libertadores 2023 - Outright,Fluminense,-0.021999999999999964,0.2857,0.3077
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Hannah Green,-0.022400000000000003,0.0099,0.0323
+2023-09-01 10:02:11.398876,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Texas Rangers,-0.023800000000000016,0.1667,0.1905
+2023-09-01 10:02:11.398876,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Minnesota Twins,-0.0242,0.0667,0.0909
 2023-08-31 22:03:50.431531,Boxing Lines - Ricky Burns vs Willie Limond - To Win the Bout,Willie Limond,-0.026100000000000012,0.1739,0.2
 2023-09-01 00:02:30.522569,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Lithuania,Jonas  Valanciunas,-0.026800000000000046,0.6875,0.7143
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Ruoning Yin,-0.029700000000000004,0.0179,0.0476
 2023-09-01 09:02:36.037809,Copa Libertadores - Copa Libertadores 2023 - Outright,Internacional,-0.03409999999999999,0.2326,0.2667
 2023-09-01 00:02:37.234654,Round Match-Ups - 2nd Round Match-Up - E. Ferguson vs J. Luiten - 2nd Round Match-Up,Ewen Ferguson,-0.03489999999999999,0.4651,0.5
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Lilia Vu,-0.035300000000000005,0.0123,0.0476
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Xiyu Lin,-0.035300000000000005,0.0123,0.0476
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Allisen Corpuz,-0.036,0.0025,0.0385
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Rose Zhang,-0.044300000000000006,0.0033,0.0476
+2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Nasa Hataoka,-0.0509,0.0079,0.0588
 2023-09-01 00:02:30.619849,FIBA World Cup Futures - FIBA World Cup - Winning Confederation,Europe,-0.0635,0.2222,0.2857
 2023-08-31 23:02:28.999945,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
 2023-08-31 22:03:47.941888,Regular Season Wins - 2023-24 Most Regular Season Wins Matchups - Most Regular Season Wins,Toledo,-0.06970000000000004,0.4651,0.5348
