@@ -1,196 +1,253 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Linn Grant,0.14120000000000002,0.2,0.0588
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Nelly Korda,0.13330000000000003,0.2,0.0667
-2023-09-01 09:12:18.602534,Soccer Specials - Transfer Deadline Day Specials - Emile Smith Rowe - To sign for before 3rd September 2023,To Stay at Arsenal,0.13239999999999996,0.8824,0.75
-2023-09-01 09:02:36.037809,Copa Libertadores - Copa Libertadores 2023 - Outright,Boca Juniors,0.1111,0.2222,0.1111
-2023-09-01 09:12:18.530901,Soccer Specials - Transfer Deadline Day Specials - Mohamed Salah - To sign for before 3rd September 2023,Any Saudi Pro League side,0.09620000000000001,0.25,0.1538
-2023-09-01 09:12:52.877260,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Blake Snell (SD),0.08779999999999999,0.6,0.5122
-2023-09-01 09:12:52.039989,NCAA Football Futures - Odds to win 2023 Doak Walker Award - 2023 Doak Walker Award,Kevorian Barnes,0.0768,0.0909,0.0141
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Perrine Delacour,0.0767,0.0833,0.0066
-2023-09-01 12:01:49.151585,Soccer Specials - Transfer Deadline Day Specials - Mohamed Salah - To sign for before 3rd September 2023,Any Saudi Pro League side,0.0642,0.1818,0.1176
-2023-09-01 00:02:30.619849,FIBA World Cup Futures - FIBA World Cup - Winning Confederation,Americas,0.05300000000000005,0.75,0.697
-2023-09-01 09:12:52.415302,NCAA Football Futures - 2023 Sun Belt Championship - Sun Belt East Division Winner,Marshall,0.05070000000000002,0.2174,0.1667
-2023-09-01 12:01:56.418368,NCAA Football Futures - Odds to win 2023 Commander-in-Chief's Trophy - 2023 Commander-in-Chief's Trophy Winner,Navy,0.0494,0.3571,0.3077
-2023-09-01 00:02:37.234654,Round Match-Ups - 2nd Round Match-Up - E. Ferguson vs J. Luiten - 2nd Round Match-Up,Joost Luiten,0.04620000000000002,0.5917,0.5455
-2023-09-01 09:12:52.190729,NCAA Football Futures - 2023 Big Ten Conference Championship - Big Ten West Division Winner,Minnesota,0.04319999999999999,0.1667,0.1235
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Olivia Cowan,0.0397,0.0476,0.0079
-2023-09-01 09:12:18.655641,Soccer Specials - Transfer Deadline Day Specials - Kylian Mbappe - To sign for before 3rd September 2023,To stay at PSG,0.037699999999999956,0.9901,0.9524
-2023-09-01 09:12:52.067155,NCAA Football Futures - 2023 ACC Conference Championship - Championship Game Winner,Florida State,0.03640000000000004,0.4,0.3636
-2023-09-01 09:12:52.123749,NCAA Football Futures - 2023 Big 12 Championship - Big 12 Championship Game Winner ,Kansas State,0.036199999999999996,0.1538,0.1176
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Megan Khang,0.035699999999999996,0.0833,0.0476
-2023-09-01 09:12:52.490731,NCAA Football Futures - Odds to win 2023 Commander-in-Chief's Trophy - 2023 Commander-in-Chief's Trophy Winner,Air Force,0.03479999999999994,0.6,0.5652
-2023-09-01 09:12:52.039989,NCAA Football Futures - Odds to win 2023 Doak Walker Award - 2023 Doak Walker Award,Blake Corum,0.03420000000000001,0.1111,0.0769
-2023-09-01 12:01:49.187473,Soccer Specials - Transfer Deadline Day Specials - Kylian Mbappe - To sign for before 3rd September 2023,Real Madrid,0.03420000000000001,0.1111,0.0769
-2023-09-01 09:12:52.096643,NCAA Football Futures - 2023 American Athletic Championship - American Athletic Championship Game Winner,UTSA,0.033300000000000024,0.2,0.1667
-2023-09-01 09:12:52.039989,NCAA Football Futures - Odds to win 2023 Doak Walker Award - 2023 Doak Walker Award,TreVeyon Henderson,0.0321,0.0909,0.0588
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Charley Hull,0.029299999999999993,0.0769,0.0476
-2023-09-01 11:02:20.721317,Soccer Specials - Transfer Deadline Day Specials - Mohamed Salah - To sign for before 3rd September 2023,To stay at Liverpool,0.02839999999999998,0.9375,0.9091
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Andrea Lee,0.0282,0.0526,0.0244
-2023-09-01 09:12:52.014119,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Caleb Williams,0.027999999999999997,0.1818,0.1538
-2023-09-01 09:12:52.877260,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Justin Steele (CHC),0.027999999999999997,0.1333,0.1053
-2023-09-01 09:12:51.899451,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Georgia,0.02679999999999999,0.3125,0.2857
-2023-09-01 09:12:51.899451,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Michigan,0.0267,0.1176,0.0909
-2023-09-01 09:12:52.283805,NCAA Football Futures - 2023 Mountain West Conference Championship - Championship Game Winner,Air Force,0.026500000000000024,0.2083,0.1818
-2023-09-01 09:12:52.306790,NCAA Football Futures - 2023 Pac-12 Championship - Pac-12 Championship Game Winner,Oregon State,0.023400000000000004,0.1143,0.0909
-2023-09-01 09:12:52.306790,NCAA Football Futures - 2023 Pac-12 Championship - Pac-12 Championship Game Winner,USC,0.022199999999999998,0.3448,0.3226
-2023-09-01 03:02:43.326539,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - USA,Anthony  Edwards,0.022199999999999998,0.8,0.7778
-2023-09-01 09:12:19.630604,Big Brother - BB25: Outright Winner - Outright Winner,Cirie Fields,0.022199999999999998,0.2222,0.2
-2023-09-01 09:12:52.096643,NCAA Football Futures - 2023 American Athletic Championship - American Athletic Championship Game Winner,Memphis,0.022199999999999998,0.1333,0.1111
-2023-09-01 09:12:52.123749,NCAA Football Futures - 2023 Big 12 Championship - Big 12 Championship Game Winner ,Oklahoma,0.022199999999999998,0.2222,0.2
-2023-09-01 12:01:49.174833,Soccer Specials - Transfer Deadline Day Specials - Emile Smith Rowe - To sign for before 3rd September 2023,West Ham,0.02020000000000001,0.1111,0.0909
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Madelene Sagstrom,0.020000000000000004,0.0323,0.0123
-2023-09-01 09:12:52.877260,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Logan Webb (SF),0.019800000000000005,0.0476,0.0278
-2023-09-01 09:12:52.770736,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,0.019000000000000017,0.2857,0.2667
-2023-09-01 09:12:52.306790,NCAA Football Futures - 2023 Pac-12 Championship - Pac-12 Championship Game Winner,Colorado,0.0189,0.0385,0.0196
-2023-09-01 09:12:52.770736,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.018199999999999994,0.8077,0.7895
-2023-09-01 09:12:52.600383,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Tampa Bay Rays,0.0179,0.2353,0.2174
-2023-09-01 05:02:20.480899,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-01 04:02:44.333556,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-01 03:02:44.052488,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-01 09:02:38.299711,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-01 06:01:58.748810,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-01 09:12:25.388057,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-01 02:02:09.669185,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-01 07:02:43.617721,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-01 01:02:58.527287,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-01 08:02:47.559531,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-01 00:02:31.215165,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-01 10:02:06.064668,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-01 11:02:22.367464,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-01 12:01:50.668297,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-01 09:12:53.086541,Boxing Lines - Kenichi Ogawa vs Marvin Esquierdo - To Win the Bout,Marvin Esquierdo,0.016600000000000004,0.1905,0.1739
-2023-09-01 09:12:52.570236,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Atlanta Braves,0.01629999999999998,0.2941,0.2778
-2023-09-01 10:02:11.725708,Round Match-Ups - 2nd Round Match-Up - E. Ferguson vs J. Luiten - 2nd Round Match-Up,Joost Luiten,0.016100000000000003,0.6078,0.5917
-2023-09-01 09:12:53.421669,Boxing Lines - Liam Smith vs Chris Eubank Jr - To Win the Bout,Chris Eubank Jr,0.015900000000000025,0.4545,0.4386
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Sarah Kemp,0.0156,0.0196,0.004
-2023-09-01 09:12:52.735339,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,0.014900000000000024,0.3226,0.3077
-2023-09-01 09:12:52.600383,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Baltimore Orioles,0.01469999999999999,0.25,0.2353
-2023-09-01 09:12:52.600383,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Houston Astros,0.01469999999999999,0.25,0.2353
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Danielle Kang,0.0145,0.0244,0.0099
-2023-09-01 09:12:52.067155,NCAA Football Futures - 2023 ACC Conference Championship - Championship Game Winner,Pittsburgh,0.014100000000000001,0.0526,0.0385
-2023-09-01 09:12:52.039989,NCAA Football Futures - Odds to win 2023 Doak Walker Award - 2023 Doak Walker Award,Kendall Milton,0.014099999999999998,0.0385,0.0244
-2023-09-01 09:12:52.466109,NCAA Football Futures - 2023 USA Conference Championship - Championship Game Winner,Liberty,0.014000000000000012,0.3125,0.2985
-2023-09-01 09:12:19.630604,Big Brother - BB25: Outright Winner - Outright Winner,Mecole Hayes,0.013999999999999999,0.0909,0.0769
-2023-09-01 09:12:52.039989,NCAA Football Futures - Odds to win 2023 Doak Walker Award - 2023 Doak Walker Award,Trey Benson,0.013999999999999999,0.0909,0.0769
-2023-09-01 12:01:56.496583,Boxing Lines - Kenichi Ogawa vs Marvin Esquierdo - To Win the Bout,Kenichi Ogawa,0.013900000000000023,0.8889,0.875
-2023-09-01 07:02:49.308533,Boxing Lines - Kenichi Ogawa vs Marvin Esquierdo - To Win the Bout,Kenichi Ogawa,0.013900000000000023,0.8889,0.875
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Nanna Koerstz Madsen,0.0139,0.0179,0.004
-2023-09-01 09:12:52.490731,NCAA Football Futures - Odds to win 2023 Commander-in-Chief's Trophy - 2023 Commander-in-Chief's Trophy Winner,Army West Point,0.01369999999999999,0.1923,0.1786
-2023-09-01 09:12:52.096643,NCAA Football Futures - 2023 American Athletic Championship - American Athletic Championship Game Winner,Tulane,0.013600000000000001,0.3077,0.2941
-2023-09-01 09:12:52.393232,NCAA Football Futures - 2023 Sun Belt Championship - Championship Game Winner,Appalachian State,0.013499999999999998,0.1333,0.1198
-2023-09-01 09:12:53.374728,Boxing Lines - Mark Heffron vs Jack Cullen - To Win the Bout,Mark Heffron,0.0131,0.8131,0.8
-2023-09-01 09:12:52.148697,NCAA Football Futures - 2023 Big Ten Conference Championship - Big Ten Championship Game Winner,Penn State,0.012899999999999995,0.1667,0.1538
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Gina Kim,0.012799999999999999,0.0141,0.0013
-2023-09-01 09:12:52.908481,MLB Futures - MLB 2023 Player Awards - National League MVP,Mookie Betts (LAD),0.012199999999999989,0.5122,0.5
-2023-09-01 12:01:56.550619,Boxing Lines - Liam Smith vs Chris Eubank Jr - To Win the Bout,Liam Smith,0.011700000000000044,0.6226,0.6109
-2023-09-01 12:01:56.294285,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,British Columbia Lions,0.01150000000000001,0.3448,0.3333
-2023-09-01 12:01:49.174833,Soccer Specials - Transfer Deadline Day Specials - Emile Smith Rowe - To sign for before 3rd September 2023,Brentford,0.011199999999999995,0.0588,0.0476
-2023-09-01 09:12:18.561462,Soccer Specials - Transfer Deadline Day Specials - Douglas Luiz - To sign for before 3rd September 2023,To Stay at Aston Villa,0.011199999999999988,0.9524,0.9412
-2023-09-01 09:12:52.039989,NCAA Football Futures - Odds to win 2023 Doak Walker Award - 2023 Doak Walker Award,Nicholas Singleton,0.011099999999999999,0.1111,0.1
-2023-09-01 09:12:52.987384,Boxing Lines - Ricky Burns vs Willie Limond - To Win the Bout,Ricky Burns,0.011099999999999999,0.9,0.8889
-2023-09-01 09:12:52.039989,NCAA Football Futures - Odds to win 2023 Doak Walker Award - 2023 Doak Walker Award,Jase McClellan,0.010700000000000001,0.0385,0.0278
-2023-09-01 09:12:52.148697,NCAA Football Futures - 2023 Big Ten Conference Championship - Big Ten Championship Game Winner,Illinois,0.010600000000000002,0.0323,0.0217
-2023-09-01 12:01:56.541359,Boxing Lines - Mark Heffron vs Jack Cullen - To Win the Bout,Jack Cullen,0.010299999999999976,0.2667,0.2564
-2023-09-01 09:12:19.630604,Big Brother - BB25: Outright Winner - Outright Winner,Blue Kim,0.0102,0.0769,0.0667
-2023-09-01 09:12:19.630604,Big Brother - BB25: Outright Winner - Outright Winner,Cameron Harding,0.0102,0.0769,0.0667
-2023-09-01 09:12:52.014119,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Jordan Travis,-0.0102,0.0667,0.0769
-2023-09-01 09:12:53.374728,Boxing Lines - Mark Heffron vs Jack Cullen - To Win the Bout,Jack Cullen,-0.010299999999999976,0.2564,0.2667
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Jenny Bae,-0.0103,0.002,0.0123
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Lydia Ko,-0.0103,0.002,0.0123
-2023-09-01 10:02:11.725708,Round Match-Ups - 2nd Round Match-Up - E. Ferguson vs J. Luiten - 2nd Round Match-Up,Ewen Ferguson,-0.010599999999999998,0.4545,0.4651
-2023-09-01 09:12:52.039989,NCAA Football Futures - Odds to win 2023 Doak Walker Award - 2023 Doak Walker Award,Donovan Edwards,-0.010700000000000001,0.0278,0.0385
-2023-09-01 09:12:52.039989,NCAA Football Futures - Odds to win 2023 Doak Walker Award - 2023 Doak Walker Award,Rasheen Ali,-0.010700000000000001,0.0278,0.0385
-2023-09-01 09:12:52.096643,NCAA Football Futures - 2023 American Athletic Championship - American Athletic Championship Game Winner,Florida Atlantic,-0.010899999999999993,0.1429,0.1538
-2023-09-01 09:12:51.899451,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Alabama,-0.010899999999999993,0.1429,0.1538
-2023-09-01 09:12:19.630604,Big Brother - BB25: Outright Winner - Outright Winner,Felicia Cannon,-0.011199999999999995,0.0476,0.0588
-2023-09-01 09:12:19.630604,Big Brother - BB25: Outright Winner - Outright Winner,Matt Klotz,-0.011199999999999995,0.0476,0.0588
-2023-09-01 09:12:18.602534,Soccer Specials - Transfer Deadline Day Specials - Emile Smith Rowe - To sign for before 3rd September 2023,Brentford,-0.011199999999999995,0.0476,0.0588
-2023-09-01 09:12:51.870062,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,British Columbia Lions,-0.01150000000000001,0.3333,0.3448
-2023-09-01 09:12:53.421669,Boxing Lines - Liam Smith vs Chris Eubank Jr - To Win the Bout,Liam Smith,-0.011700000000000044,0.6109,0.6226
-2023-09-01 09:12:51.899451,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Texas,-0.0121,0.0435,0.0556
-2023-09-01 09:12:52.329763,NCAA Football Futures - 2023 SEC Championship  - SEC Championship Game Winner,Auburn,-0.012100000000000001,0.0123,0.0244
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Sei Young Kim,-0.012899999999999998,0.005,0.0179
-2023-09-01 09:12:52.306790,NCAA Football Futures - 2023 Pac-12 Championship - Pac-12 Championship Game Winner,Oregon,-0.0131,0.2222,0.2353
-2023-09-01 12:01:56.541359,Boxing Lines - Mark Heffron vs Jack Cullen - To Win the Bout,Mark Heffron,-0.0131,0.8,0.8131
-2023-09-01 09:12:52.306790,NCAA Football Futures - 2023 Pac-12 Championship - Pac-12 Championship Game Winner,Washington,-0.01319999999999999,0.25,0.2632
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Gaby Lopez,-0.0132,0.002,0.0152
-2023-09-01 12:01:56.418368,NCAA Football Futures - Odds to win 2023 Commander-in-Chief's Trophy - 2023 Commander-in-Chief's Trophy Winner,Army West Point,-0.01369999999999999,0.1786,0.1923
-2023-09-01 09:12:52.039989,NCAA Football Futures - Odds to win 2023 Doak Walker Award - 2023 Doak Walker Award,Raheim Sanders,-0.013899999999999996,0.1111,0.125
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Jenny Shin,-0.0139,0.004,0.0179
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Maja Stark,-0.0139,0.0057,0.0196
-2023-09-01 09:12:53.086541,Boxing Lines - Kenichi Ogawa vs Marvin Esquierdo - To Win the Bout,Kenichi Ogawa,-0.013900000000000023,0.875,0.8889
-2023-09-01 09:12:52.600383,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Toronto Blue Jays,-0.013999999999999999,0.0769,0.0909
-2023-09-01 09:12:19.630604,Big Brother - BB25: Outright Winner - Outright Winner,Bowie Jane,-0.013999999999999999,0.0769,0.0909
-2023-09-01 09:12:51.899451,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Clemson,-0.014099999999999994,0.0526,0.0667
-2023-09-01 09:12:52.283805,NCAA Football Futures - 2023 Mountain West Conference Championship - Championship Game Winner,Utah State,-0.014099999999999998,0.0244,0.0385
-2023-09-01 09:12:52.039989,NCAA Football Futures - Odds to win 2023 Doak Walker Award - 2023 Doak Walker Award,Will Shipley,-0.014399999999999996,0.0625,0.0769
-2023-09-01 09:12:52.123749,NCAA Football Futures - 2023 Big 12 Championship - Big 12 Championship Game Winner ,Texas Tech,-0.01440000000000001,0.0909,0.1053
-2023-09-01 09:12:52.570236,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Texas Rangers,-0.01440000000000001,0.0909,0.1053
-2023-09-01 09:12:52.415302,NCAA Football Futures - 2023 Sun Belt Championship - Sun Belt East Division Winner,Appalachian State,-0.014600000000000002,0.2632,0.2778
-2023-09-01 09:12:52.350581,NCAA Football Futures - 2023 SEC Championship  - SEC East Division Winner,Tennessee,-0.015100000000000002,0.1667,0.1818
-2023-09-01 09:12:52.393232,NCAA Football Futures - 2023 Sun Belt Championship - Championship Game Winner,Coastal Carolina,-0.015100000000000002,0.1667,0.1818
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,In Gee Chun,-0.0156,0.004,0.0196
-2023-09-01 12:01:56.550619,Boxing Lines - Liam Smith vs Chris Eubank Jr - To Win the Bout,Chris Eubank Jr,-0.015900000000000025,0.4386,0.4545
-2023-09-01 07:02:49.308533,Boxing Lines - Kenichi Ogawa vs Marvin Esquierdo - To Win the Bout,Marvin Esquierdo,-0.016600000000000004,0.1739,0.1905
-2023-09-01 09:12:52.014119,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Cade Klubnik,-0.016600000000000004,0.0667,0.0833
-2023-09-01 12:01:56.496583,Boxing Lines - Kenichi Ogawa vs Marvin Esquierdo - To Win the Bout,Marvin Esquierdo,-0.016600000000000004,0.1739,0.1905
-2023-09-01 09:02:36.037809,Copa Libertadores - Copa Libertadores 2023 - Outright,Palmeiras,-0.016699999999999993,0.4,0.4167
-2023-09-01 09:12:52.014119,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Jayden Daniels,-0.016700000000000007,0.0833,0.1
-2023-09-01 03:02:44.056903,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-01 07:02:43.622207,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-01 01:02:58.531753,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-01 02:02:09.673594,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-01 06:01:58.753135,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-01 05:02:20.486087,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-01 08:02:47.568736,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-01 00:02:31.219695,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-01 12:01:50.676203,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-01 04:02:44.339622,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-01 09:02:38.304647,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-01 11:02:22.374101,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-01 10:02:06.069058,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-01 09:12:25.408344,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-01 09:12:52.350581,NCAA Football Futures - 2023 SEC Championship  - SEC East Division Winner,South Carolina,-0.0168,0.0217,0.0385
-2023-09-01 09:12:52.283805,NCAA Football Futures - 2023 Mountain West Conference Championship - Championship Game Winner,San Diego State,-0.01759999999999999,0.1,0.1176
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Hae Ran Ryu,-0.017800000000000003,0.0066,0.0244
-2023-09-01 09:12:52.123749,NCAA Football Futures - 2023 Big 12 Championship - Big 12 Championship Game Winner ,TCU,-0.018099999999999998,0.0588,0.0769
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Georgia Hall,-0.0182,0.0141,0.0323
-2023-09-01 09:12:52.039989,NCAA Football Futures - Odds to win 2023 Doak Walker Award - 2023 Doak Walker Award,Jabari Small,-0.0189,0.0196,0.0385
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Atthaya Thitikul,-0.0189,0.0196,0.0385
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Brooke Henderson,-0.019800000000000005,0.0278,0.0476
-2023-09-01 09:12:18.602534,Soccer Specials - Transfer Deadline Day Specials - Emile Smith Rowe - To sign for before 3rd September 2023,West Ham,-0.02020000000000001,0.0909,0.1111
-2023-09-01 09:12:52.306790,NCAA Football Futures - 2023 Pac-12 Championship - Pac-12 Championship Game Winner,UCLA,-0.02020000000000001,0.0909,0.1111
-2023-09-01 09:12:52.148697,NCAA Football Futures - 2023 Big Ten Conference Championship - Big Ten Championship Game Winner,Ohio State,-0.02030000000000004,0.3571,0.3774
-2023-09-01 09:12:17.638755,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Manchester City,-0.020799999999999985,0.3125,0.3333
-2023-09-01 09:12:52.014119,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Conner Weigman,-0.021799999999999996,0.0217,0.0435
-2023-09-01 09:02:36.037809,Copa Libertadores - Copa Libertadores 2023 - Outright,Fluminense,-0.021999999999999964,0.2857,0.3077
-2023-09-01 09:12:19.630604,Big Brother - BB25: Outright Winner - Outright Winner,Jared Fields,-0.022199999999999998,0.2,0.2222
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Hannah Green,-0.022400000000000003,0.0099,0.0323
-2023-09-01 09:12:52.039989,NCAA Football Futures - Odds to win 2023 Doak Walker Award - 2023 Doak Walker Award,Quinshon Judkins,-0.023799999999999988,0.1429,0.1667
-2023-09-01 09:12:52.600383,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Texas Rangers,-0.023800000000000016,0.1667,0.1905
-2023-09-01 09:12:52.096643,NCAA Football Futures - 2023 American Athletic Championship - American Athletic Championship Game Winner,SMU,-0.02400000000000002,0.25,0.274
-2023-09-01 09:12:52.600383,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Minnesota Twins,-0.0242,0.0667,0.0909
-2023-09-01 00:02:30.522569,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Lithuania,Jonas  Valanciunas,-0.026800000000000046,0.6875,0.7143
-2023-09-01 09:12:52.466109,NCAA Football Futures - 2023 USA Conference Championship - Championship Game Winner,New Mexico State,-0.029299999999999993,0.0476,0.0769
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Ruoning Yin,-0.029700000000000004,0.0179,0.0476
-2023-09-01 09:12:19.630604,Big Brother - BB25: Outright Winner - Outright Winner,Jag Bains,-0.031799999999999995,0.1111,0.1429
-2023-09-01 09:02:36.037809,Copa Libertadores - Copa Libertadores 2023 - Outright,Internacional,-0.03409999999999999,0.2326,0.2667
-2023-09-01 09:12:18.655641,Soccer Specials - Transfer Deadline Day Specials - Kylian Mbappe - To sign for before 3rd September 2023,Real Madrid,-0.03420000000000001,0.0769,0.1111
-2023-09-01 12:01:56.418368,NCAA Football Futures - Odds to win 2023 Commander-in-Chief's Trophy - 2023 Commander-in-Chief's Trophy Winner,Air Force,-0.03479999999999994,0.5652,0.6
-2023-09-01 00:02:37.234654,Round Match-Ups - 2nd Round Match-Up - E. Ferguson vs J. Luiten - 2nd Round Match-Up,Ewen Ferguson,-0.03489999999999999,0.4651,0.5
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Xiyu Lin,-0.035300000000000005,0.0123,0.0476
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Lilia Vu,-0.035300000000000005,0.0123,0.0476
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Allisen Corpuz,-0.036,0.0025,0.0385
-2023-09-01 12:01:49.187473,Soccer Specials - Transfer Deadline Day Specials - Kylian Mbappe - To sign for before 3rd September 2023,To stay at PSG,-0.037699999999999956,0.9524,0.9901
-2023-09-01 09:12:52.067155,NCAA Football Futures - 2023 ACC Conference Championship - Championship Game Winner,Clemson,-0.0378,0.4167,0.4545
-2023-09-01 09:12:52.415302,NCAA Football Futures - 2023 Sun Belt Championship - Sun Belt East Division Winner,Georgia Southern,-0.043800000000000006,0.1667,0.2105
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Rose Zhang,-0.044300000000000006,0.0033,0.0476
-2023-09-01 09:12:19.630604,Big Brother - BB25: Outright Winner - Outright Winner,Cory Wurtenberger,-0.044499999999999984,0.2222,0.2667
-2023-09-01 09:12:52.014119,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Quinn Ewers,-0.048600000000000004,0.0625,0.1111
-2023-09-01 09:12:52.490731,NCAA Football Futures - Odds to win 2023 Commander-in-Chief's Trophy - 2023 Commander-in-Chief's Trophy Winner,Navy,-0.0494,0.3077,0.3571
-2023-09-01 10:02:11.790488,Portland Classic - Portland Classic - Winner,Nasa Hataoka,-0.0509,0.0079,0.0588
-2023-09-01 09:12:52.908481,MLB Futures - MLB 2023 Player Awards - National League MVP,Freddie Freeman (LAD),-0.05859999999999999,0.0323,0.0909
-2023-09-01 00:02:30.619849,FIBA World Cup Futures - FIBA World Cup - Winning Confederation,Europe,-0.0635,0.2222,0.2857
-2023-09-01 09:12:52.877260,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Spencer Strider (ATL),-0.12040000000000001,0.25,0.3704
-2023-09-01 12:01:49.174833,Soccer Specials - Transfer Deadline Day Specials - Emile Smith Rowe - To sign for before 3rd September 2023,To Stay at Arsenal,-0.13239999999999996,0.75,0.8824
-2023-09-01 11:02:20.721317,Soccer Specials - Transfer Deadline Day Specials - Mohamed Salah - To sign for before 3rd September 2023,Any Saudi Pro League side,-0.13240000000000002,0.1176,0.25
+2023-09-02 12:05:04.170973,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Serbia,Nikola  Milutinov,0.5953,0.9524,0.3571
+2023-09-02 12:05:04.107039,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Brazil,Bruno  Caboclo,0.4091,0.9091,0.5
+2023-09-02 12:05:04.123538,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Canada,Kelly  Olynyk,0.359,0.6667,0.3077
+2023-09-02 12:05:04.336330,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Slovenia,Mike  Tobey,0.3116,0.4545,0.1429
+2023-09-02 12:05:04.089244,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - USA,Tyrese  Haliburton,0.29630000000000006,0.6296,0.3333
+2023-09-02 12:05:04.229557,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Brazil,Bruno  Caboclo,0.23190000000000005,0.5652,0.3333
+2023-09-02 12:05:04.018645,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Italy,Marco Spissu (ITA),0.2262,0.4762,0.25
+2023-09-02 12:05:04.002594,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Italy,Nicolo Melli (ITA),0.20000000000000007,0.8667,0.6667
+2023-09-02 12:05:04.275930,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Spain,Willy  Hernangomez,0.1994999999999999,0.9722,0.7727
+2023-09-02 12:05:04.185076,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Slovenia,Ziga  Dimec,0.1667,0.2667,0.1
+2023-09-02 12:05:04.034333,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Serbia,Bogdan  Bogdanovic,0.16479999999999995,0.9375,0.7727
+2023-09-02 12:05:04.400973,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Spain,Dario  Brizuela,0.1624,0.3846,0.2222
+2023-09-02 12:05:04.260788,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Serbia,Bogdan  Bogdanovic,0.16149999999999998,0.9615,0.8
+2023-09-02 12:05:00.310223,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Defensa y Justicia,0.1417,0.2667,0.125
+2023-09-02 12:05:04.290674,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - USA,Anthony  Edwards,0.12859999999999994,0.9286,0.8
+2023-09-02 12:05:04.214487,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - USA,Walker  Kessler,0.12710000000000005,0.4348,0.3077
+2023-09-02 12:05:00.310223,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Liga de Quito,0.1242,0.2353,0.1111
+2023-09-02 12:05:09.070572,NFC North - NFC North 2023/24 - Most Regular Season Rushing Yards,Khalil Herbert,0.11909999999999998,0.1667,0.0476
+2023-09-02 12:05:04.243453,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Lithuania,Rokas  Jokubaitis,0.11900000000000002,0.2857,0.1667
+2023-09-02 12:05:04.305676,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Canada,Kelly  Olynyk,0.11900000000000002,0.2857,0.1667
+2023-09-02 12:05:04.140742,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Germany,Daniel  Theis,0.119,0.8333,0.7143
+2023-09-02 12:05:04.436586,FIBA World Cup Futures - FIBA World Cup - Tournament MVP,Luka  Doncic,0.10910000000000002,0.2,0.0909
+2023-09-02 12:05:04.351874,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Spain,Willy  Hernangomez,0.10109999999999997,0.5556,0.4545
+2023-09-02 12:05:04.451895,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,Slovenia,0.09999999999999999,0.1667,0.0667
+2023-09-02 12:05:04.155840,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Lithuania,Ignas  Brazdeikis,0.0867,0.1111,0.0244
+2023-09-02 12:05:04.367745,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - USA,Josh  Hart,0.08330000000000004,0.75,0.6667
+2023-09-02 12:05:04.155840,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Lithuania,Jonas  Valanciunas,0.08080000000000004,0.4444,0.3636
+2023-09-02 12:05:04.465988,FIBA World Cup Futures - FIBA World Cup - Winning Confederation,Europe,0.08079999999999998,0.303,0.2222
+2023-09-02 12:05:04.451895,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,Germany,0.07930000000000001,0.2222,0.1429
+2023-09-02 12:05:07.968853,AFC East - AFC East 2023/24 - Most Regular Season Receiving Yards,Garrett Wilson,0.07930000000000001,0.2222,0.1429
+2023-09-02 12:05:03.986966,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Italy,Nicolo Melli (ITA),0.06879999999999997,0.9259,0.8571
+2023-09-02 12:05:04.123538,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Canada,Shai  Gilgeous - Alexander,0.0676,0.2105,0.1429
+2023-09-02 12:05:04.367745,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - USA,Anthony  Edwards,0.0635,0.2857,0.2222
+2023-09-02 12:05:04.383842,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Germany,Moritz  Wagner,0.0625,0.125,0.0625
+2023-09-02 12:05:03.957484,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,Germany,0.052300000000000006,0.1111,0.0588
+2023-09-02 12:05:03.972018,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Italy,Alessandro Pajola,0.04999999999999999,0.25,0.2
+2023-09-02 12:05:04.419921,FIBA World Cup Futures - FIBA World Cup - Winners Group,Group C,0.04910000000000003,0.6491,0.6
+2023-09-02 12:05:04.436586,FIBA World Cup Futures - FIBA World Cup - Tournament MVP,Dennis  Schroder,0.048600000000000004,0.1111,0.0625
+2023-09-02 12:05:03.957484,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,Slovenia,0.04089999999999999,0.0909,0.05
+2023-09-02 12:05:04.052392,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Canada,Shai  Gilgeous - Alexander,0.04070000000000007,0.9231,0.8824
+2023-09-02 12:05:04.123538,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Canada,Melvin  Ejim,0.038299999999999994,0.0909,0.0526
+2023-09-02 12:05:00.602871,Celebrity Boxing - Logan Paul vs Dillon Danis - Logan Paul vs Dillon Danis,Dillon Danis,0.03710000000000002,0.3704,0.3333
+2023-09-02 12:05:04.199934,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Spain,Santi  Aldama,0.03709999999999991,0.6667,0.6296
+2023-09-02 12:05:00.310223,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Fortaleza,0.03570000000000001,0.2857,0.25
+2023-09-02 12:05:04.140742,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Germany,Johannes  Voigtmann,0.03420000000000001,0.1111,0.0769
+2023-09-02 12:05:00.378597,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Odense,0.03420000000000001,0.1111,0.0769
+2023-09-02 12:05:04.451895,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,Lithuania,0.034100000000000005,0.125,0.0909
+2023-09-02 12:05:04.400973,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Spain,Alex  Abrines,0.034100000000000005,0.125,0.0909
+2023-09-02 12:05:03.572802,WNBA Awards - WNBA Awards 2023 - Regular Season MVP,Alyssa Thomas (CON),0.033300000000000024,0.2,0.1667
+2023-09-02 12:05:27.532052,MLB Futures - MLB 2023 Player Awards - National League MVP,Ronald Acuña Jr.,0.030299999999999994,0.6667,0.6364
+2023-09-02 12:05:08.363150,AFC South - AFC South 2023/24 - Most Regular Season Receiving Yards,Calvin Ridley,0.030299999999999994,0.3636,0.3333
+2023-09-02 12:05:04.400973,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Spain,Sergio  Llull,0.030199999999999998,0.0625,0.0323
+2023-09-02 12:05:04.185076,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Slovenia,Luka  Doncic,0.029000000000000026,0.4545,0.4255
+2023-09-02 12:05:08.039184,AFC East - AFC East 2023/24 - BUF Bills Exact Finishing Position,1st,0.029000000000000026,0.4545,0.4255
+2023-09-02 12:05:07.924005,AFC East - AFC East 2023/24 - AFC East Winner 23/24,Buffalo Bills,0.029000000000000026,0.4545,0.4255
+2023-09-02 12:05:04.243453,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Lithuania,Jonas  Valanciunas,0.026800000000000046,0.7143,0.6875
+2023-09-02 12:05:27.447302,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.025600000000000067,0.8333,0.8077
+2023-09-02 12:05:00.389998,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Midtjylland,0.02560000000000001,0.3333,0.3077
+2023-09-02 12:05:27.379797,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,0.0242,0.0909,0.0667
+2023-09-02 12:05:03.551749,WNBA Championship - WNBA Championship 2023 - Outright Winner,Las Vegas Aces,0.023799999999999932,0.6667,0.6429
+2023-09-02 12:05:09.469034,NFC West - NFC West 2023/24 - Most Regular Season Receiving Yards,Van Jefferson,0.023200000000000002,0.0476,0.0244
+2023-09-02 12:05:07.733928,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Buffalo Bills,0.02239999999999999,0.1176,0.0952
+2023-09-02 12:05:00.310223,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Corinthians,0.021999999999999964,0.3077,0.2857
+2023-09-02 12:05:00.401260,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Viborg FF,0.021699999999999997,0.4762,0.4545
+2023-09-02 12:05:08.363150,AFC South - AFC South 2023/24 - Most Regular Season Receiving Yards,Evan Engram,0.0213,0.0769,0.0556
+2023-09-02 12:05:27.603402,Boxing Lines - Shingo Wake vs Jose Velasquez - To Win the Bout,Shingo Wake,0.018399999999999972,0.7059,0.6875
+2023-09-02 12:05:00.401260,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Brøndby IF,0.018199999999999994,0.8182,0.8
+2023-09-02 12:05:08.122879,AFC North - AFC North 2023/24 - Most Regular Season Passing TD's,Lamar Jackson,0.01759999999999999,0.1176,0.1
+2023-09-02 12:05:04.089244,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - USA,Brandon  Ingram,0.01759999999999999,0.1176,0.1
+2023-09-02 12:05:08.803005,NFC East - NFC East 2023/24 - Most Regular Season Receiving Yards,Brandin Cooks,0.017100000000000004,0.0323,0.0152
+2023-09-02 12:05:07.220491,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-02 12:05:04.451895,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,Brazil,0.0159,0.0323,0.0164
+2023-09-02 12:05:08.803005,NFC East - NFC East 2023/24 - Most Regular Season Receiving Yards,Jahan Dotson,0.015300000000000001,0.0588,0.0435
+2023-09-02 12:05:00.271181,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,FC Juarez,0.015100000000000002,0.1818,0.1667
+2023-09-02 12:05:04.321265,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Germany,Johannes  Thiemann,0.015100000000000002,0.1818,0.1667
+2023-09-02 12:05:00.378597,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Hvidovre IF,0.015100000000000002,0.8333,0.8182
+2023-09-02 12:05:27.353651,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Chicago Cubs,0.014899999999999997,0.0625,0.0476
+2023-09-02 12:05:27.489524,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Tanner Bibee,0.014399999999999996,0.0769,0.0625
+2023-09-02 12:05:08.540786,AFC West - AFC West 2023/24 - Most Regular Season Receiving Yards,Mike Williams,0.014399999999999996,0.0769,0.0625
+2023-09-02 12:05:07.733928,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Philadelphia Eagles,0.014299999999999993,0.1143,0.1
+2023-09-02 12:05:07.300781,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Nikki Haley,0.014100000000000001,0.0526,0.0385
+2023-09-02 12:05:04.451895,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,Italy,0.014100000000000001,0.0526,0.0385
+2023-09-02 12:05:04.018645,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Italy,Stefano Tonut,0.013999999999999999,0.0909,0.0769
+2023-09-02 12:05:04.002594,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Italy,Simone  Fontecchio,0.013899999999999996,0.125,0.1111
+2023-09-02 12:05:09.469034,NFC West - NFC West 2023/24 - Most Regular Season Receiving Yards,DK Metcalf,0.013899999999999996,0.2222,0.2083
+2023-09-02 12:05:07.300781,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,0.013899999999999996,0.125,0.1111
+2023-09-02 12:05:27.403558,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.013300000000000034,0.3704,0.3571
+2023-09-02 12:05:09.469034,NFC West - NFC West 2023/24 - Most Regular Season Receiving Yards,Tyler Lockett,0.012899999999999995,0.1667,0.1538
+2023-09-02 12:05:04.400973,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Spain,Rudy  Fernandez,0.012899999999999995,0.1667,0.1538
+2023-09-02 12:05:09.486149,NFC West - NFC West 2023/24 - Most Regular Season Rushing Yards,James Conner,0.012899999999999995,0.1667,0.1538
+2023-09-02 12:05:08.540786,AFC West - AFC West 2023/24 - Most Regular Season Receiving Yards,Courtland Sutton,0.011199999999999995,0.0588,0.0476
+2023-09-02 12:05:04.436586,FIBA World Cup Futures - FIBA World Cup - Tournament MVP,Jonas  Valanciunas,0.010700000000000001,0.0385,0.0278
+2023-09-02 12:05:04.275930,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Spain,Usman  Garuba,0.010700000000000001,0.0385,0.0278
+2023-09-02 12:05:04.199934,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Spain,Usman  Garuba,0.010699999999999987,0.3333,0.3226
+2023-09-02 12:05:27.425231,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,0.010699999999999987,0.3333,0.3226
+2023-09-02 12:05:27.310153,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Chicago Cubs,0.010600000000000002,0.0323,0.0217
+2023-09-02 12:05:00.401260,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Lyngby BK,0.010499999999999982,0.2105,0.2
+2023-09-02 12:05:00.378597,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Randers,0.010499999999999982,0.2105,0.2
+2023-09-02 12:05:07.794543,Super Bowl LVIII - Superbowl 58 (2024) - Winning Division,NFC East,0.010499999999999982,0.2105,0.2
+2023-09-02 12:05:27.425231,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,-0.010099999999999998,0.5455,0.5556
+2023-09-02 12:05:09.070572,NFC North - NFC North 2023/24 - Most Regular Season Rushing Yards,Jahmyr Gibbs,-0.0102,0.0667,0.0769
+2023-09-02 12:05:04.400973,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Spain,Alberto  Diaz,-0.0102,0.0667,0.0769
+2023-09-02 12:05:04.436586,FIBA World Cup Futures - FIBA World Cup - Tournament MVP,Juancho  Hernangomez,-0.010700000000000001,0.0278,0.0385
+2023-09-02 12:05:04.305676,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Canada,RJ  Barrett,-0.010700000000000001,0.0278,0.0385
+2023-09-02 12:05:08.122879,AFC North - AFC North 2023/24 - Most Regular Season Passing TD's,Deshaun Watson,-0.010899999999999993,0.1429,0.1538
+2023-09-02 12:05:07.794543,Super Bowl LVIII - Superbowl 58 (2024) - Winning Division,NFC West,-0.010899999999999993,0.1429,0.1538
+2023-09-02 12:05:04.260788,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Serbia,Aleksa  Avramovic,-0.011199999999999995,0.0323,0.0435
+2023-09-02 12:05:03.986966,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Italy,Achille Polonara (ITA),-0.011199999999999995,0.0323,0.0435
+2023-09-02 12:05:04.034333,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Serbia,Marko Guduric (SRB),-0.011399999999999997,0.0164,0.0278
+2023-09-02 12:05:27.235091,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,British Columbia Lions,-0.01150000000000001,0.3333,0.3448
+2023-09-02 12:05:08.039184,AFC East - AFC East 2023/24 - BUF Bills Exact Finishing Position,2nd,-0.01150000000000001,0.3333,0.3448
+2023-09-02 12:05:04.229557,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Brazil,Lucas  Dias,-0.011699999999999999,0.0079,0.0196
+2023-09-02 12:05:04.229557,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Brazil,Marcelinho  Huertas,-0.011699999999999999,0.0079,0.0196
+2023-09-02 12:05:04.275930,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Spain,Alberto  Diaz,-0.012100000000000001,0.0123,0.0244
+2023-09-02 12:05:27.532052,MLB Futures - MLB 2023 Player Awards - National League MVP,Mookie Betts (LAD),-0.012199999999999989,0.5,0.5122
+2023-09-02 12:05:04.123538,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Canada,Philip  Scrubb,-0.012999999999999998,0.0164,0.0294
+2023-09-02 12:05:04.123538,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Canada,Trae  Bell - Haynes,-0.012999999999999998,0.0164,0.0294
+2023-09-02 12:05:27.509148,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Logan Webb (SF),-0.0131,0.0345,0.0476
+2023-09-02 12:05:07.924005,AFC East - AFC East 2023/24 - AFC East Winner 23/24,Miami Dolphins,-0.01319999999999999,0.25,0.2632
+2023-09-02 12:05:04.351874,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Spain,Joel  Parra,-0.013400000000000002,0.011,0.0244
+2023-09-02 12:05:04.305676,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Canada,Zach  Edey,-0.013400000000000002,0.011,0.0244
+2023-09-02 12:05:07.377513,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Vivek Ramaswamy,-0.014099999999999994,0.0526,0.0667
+2023-09-02 12:05:00.578131,96th Academy Awards - Best Picture - Best Picture,Asteroid City,-0.014099999999999998,0.0244,0.0385
+2023-09-02 12:05:00.578131,96th Academy Awards - Best Picture - Best Picture,The Killer,-0.014099999999999998,0.0244,0.0385
+2023-09-02 12:05:00.578131,96th Academy Awards - Best Picture - Best Picture,Poor Things,-0.014099999999999998,0.0244,0.0385
+2023-09-02 12:05:04.170973,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Serbia,Vanja  Marinkovic,-0.014099999999999998,0.0244,0.0385
+2023-09-02 12:05:04.290674,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - USA,Tyrese  Haliburton,-0.014099999999999998,0.0244,0.0385
+2023-09-02 12:05:00.578131,96th Academy Awards - Best Picture - Best Picture,Napoleon,-0.014099999999999998,0.0244,0.0385
+2023-09-02 12:05:27.489524,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Masataka Yoshida (BOS),-0.014100000000000001,0.0385,0.0526
+2023-09-02 12:05:03.957484,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,Serbia,-0.014399999999999996,0.0625,0.0769
+2023-09-02 12:05:04.436586,FIBA World Cup Futures - FIBA World Cup - Tournament MVP,Bogdan  Bogdanovic,-0.014399999999999996,0.0625,0.0769
+2023-09-02 12:05:08.363150,AFC South - AFC South 2023/24 - Most Regular Season Receiving Yards,Chigoziem Okonkwo,-0.014399999999999996,0.0625,0.0769
+2023-09-02 12:05:04.034333,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Serbia,Vanja Marinkovic,-0.014400000000000003,0.0179,0.0323
+2023-09-02 12:05:04.199934,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Spain,Joel  Parra,-0.014599999999999998,0.0132,0.0278
+2023-09-02 12:05:04.170973,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Serbia,Marko  Guduric,-0.014899999999999997,0.0476,0.0625
+2023-09-02 12:05:04.400973,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Spain,Usman  Garuba,-0.014899999999999997,0.0476,0.0625
+2023-09-02 12:05:04.336330,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Slovenia,Bine  Prepelic,-0.014899999999999997,0.0476,0.0625
+2023-09-02 12:05:09.070572,NFC North - NFC North 2023/24 - Most Regular Season Rushing Yards,David Montgomery,-0.015100000000000002,0.1667,0.1818
+2023-09-02 12:05:04.170973,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Serbia,Bogdan  Bogdanovic,-0.015300000000000001,0.0323,0.0476
+2023-09-02 12:05:04.052392,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Canada,Trae  Bell - Haynes,-0.015300000000000001,0.0323,0.0476
+2023-09-02 12:05:27.509148,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Justin Steele (CHC),-0.015700000000000006,0.1176,0.1333
+2023-09-02 12:05:04.305676,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Canada,Dillon  Brooks,-0.0159,0.0164,0.0323
+2023-09-02 12:05:04.260788,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Serbia,Nikola  Milutinov,-0.016600000000000004,0.0667,0.0833
+2023-09-02 12:05:07.240096,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-02 12:05:04.155840,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Lithuania,Donatas  Motiejunas,-0.0179,0.125,0.1429
+2023-09-02 12:05:04.018645,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Italy,Simone  Fontecchio,-0.01820000000000002,0.1818,0.2
+2023-09-02 12:05:04.123538,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Canada,Luguentz  Dort,-0.0189,0.0196,0.0385
+2023-09-02 12:05:04.367745,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - USA,Brandon  Ingram,-0.0189,0.0196,0.0385
+2023-09-02 12:05:04.367745,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - USA,Austin  Reaves,-0.0189,0.0196,0.0385
+2023-09-02 12:05:04.170973,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Serbia,Filip  Petrusev,-0.0189,0.0196,0.0385
+2023-09-02 12:05:04.243453,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Lithuania,Donatas  Motiejunas,-0.0189,0.0196,0.0385
+2023-09-02 12:05:27.447302,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,-0.019000000000000017,0.2667,0.2857
+2023-09-02 12:05:00.578131,96th Academy Awards - Best Picture - Best Picture,Lee,-0.019099999999999992,0.0476,0.0667
+2023-09-02 12:05:04.123538,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Canada,Kyle  Alexander,-0.019800000000000005,0.0278,0.0476
+2023-09-02 12:05:04.107039,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Brazil,George  De  Paula,-0.020000000000000004,0.0123,0.0323
+2023-09-02 12:05:04.052392,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Canada,Nickeil  Alexander - Walker,-0.02020000000000001,0.0909,0.1111
+2023-09-02 12:05:04.260788,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Serbia,Marko  Guduric,-0.0203,0.0323,0.0526
+2023-09-02 12:05:27.603402,Boxing Lines - Shingo Wake vs Jose Velasquez - To Win the Bout,Jose Velasquez,-0.02030000000000004,0.3571,0.3774
+2023-09-02 12:05:03.572802,WNBA Awards - WNBA Awards 2023 - Regular Season MVP,Breanna Stewart (NYL),-0.02079999999999993,0.5348,0.5556
+2023-09-02 12:05:09.486149,NFC West - NFC West 2023/24 - Most Regular Season Rushing Yards,Christian McCaffrey,-0.02100000000000002,0.3636,0.3846
+2023-09-02 12:05:08.540786,AFC West - AFC West 2023/24 - Most Regular Season Receiving Yards,Jerry Jeudy,-0.02310000000000001,0.0769,0.1
+2023-09-02 12:05:04.243453,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Lithuania,Eimantas  Bendzius,-0.023200000000000002,0.0244,0.0476
+2023-09-02 12:05:04.107039,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Brazil,Cristiano  Felicio,-0.023200000000000002,0.0244,0.0476
+2023-09-02 12:05:04.170973,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Serbia,Dusan  Ristic,-0.023200000000000002,0.0244,0.0476
+2023-09-02 12:05:04.290674,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - USA,Bobby  Portis,-0.0236,0.0149,0.0385
+2023-09-02 12:05:08.363150,AFC South - AFC South 2023/24 - Most Regular Season Receiving Yards,Christian Kirk,-0.023799999999999988,0.1429,0.1667
+2023-09-02 12:05:08.363150,AFC South - AFC South 2023/24 - Most Regular Season Receiving Yards,Michael Pittman Jr,-0.023799999999999988,0.1429,0.1667
+2023-09-02 12:05:04.018645,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Italy,Nicolo Melli (ITA),-0.023799999999999988,0.1429,0.1667
+2023-09-02 12:05:07.968853,AFC East - AFC East 2023/24 - Most Regular Season Receiving Yards,Tyreek Hill,-0.023800000000000043,0.5,0.5238
+2023-09-02 12:05:04.367745,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - USA,Paolo  Banchero,-0.024,0.0385,0.0625
+2023-09-02 12:05:00.578131,96th Academy Awards - Best Picture - Best Picture,Barbie,-0.024,0.0385,0.0625
+2023-09-02 12:05:04.400973,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Spain,Santi  Aldama,-0.024,0.0385,0.0625
+2023-09-02 12:05:00.389998,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Odense,-0.0242,0.0667,0.0909
+2023-09-02 12:05:04.140742,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Germany,Franz  Wagner,-0.0262,0.0123,0.0385
+2023-09-02 12:05:04.419921,FIBA World Cup Futures - FIBA World Cup - Winners Group,Group H,-0.027999999999999997,0.1538,0.1818
+2023-09-02 12:05:04.052392,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Canada,RJ  Barrett,-0.027999999999999997,0.0345,0.0625
+2023-09-02 12:05:04.107039,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Brazil,Victor  Benite,-0.028000000000000004,0.0196,0.0476
+2023-09-02 12:05:04.305676,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Canada,Kyle  Alexander,-0.028000000000000004,0.0196,0.0476
+2023-09-02 12:05:04.199934,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Spain,Victor  Claver,-0.028000000000000004,0.0196,0.0476
+2023-09-02 12:05:04.419921,FIBA World Cup Futures - FIBA World Cup - Winners Group,Group B,-0.028199999999999996,0.0385,0.0667
+2023-09-02 12:05:04.243453,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Lithuania,Margiris  Normantas,-0.0286,0.0099,0.0385
+2023-09-02 12:05:04.419921,FIBA World Cup Futures - FIBA World Cup - Winners Group,Group G,-0.029299999999999993,0.0476,0.0769
+2023-09-02 12:05:00.578131,96th Academy Awards - Best Picture - Best Picture,Anatomy Of A Fall,-0.029299999999999993,0.0476,0.0769
+2023-09-02 12:05:04.243453,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Lithuania,Ignas  Brazdeikis,-0.029299999999999993,0.0476,0.0769
+2023-09-02 12:05:00.578131,96th Academy Awards - Best Picture - Best Picture,Dune: Part Two,-0.029299999999999993,0.0476,0.0769
+2023-09-02 12:05:00.578131,96th Academy Awards - Best Picture - Best Picture,Maestro,-0.029299999999999993,0.0476,0.0769
+2023-09-02 12:05:04.321265,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Germany,Moritz  Wagner,-0.029600000000000015,0.3704,0.4
+2023-09-02 12:05:09.469034,NFC West - NFC West 2023/24 - Most Regular Season Receiving Yards,Cooper Kupp,-0.032299999999999995,0.6552,0.6875
+2023-09-02 12:05:04.290674,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - USA,Jaren  Jackson Jr,-0.0334,0.0435,0.0769
+2023-09-02 12:05:04.034333,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Serbia,Ognjen Dobric,-0.034100000000000005,0.0909,0.125
+2023-09-02 12:05:04.068559,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Serbia,Bogdan  Bogdanovic,-0.034100000000000005,0.0909,0.125
+2023-09-02 12:05:07.924005,AFC East - AFC East 2023/24 - AFC East Winner 23/24,New York Jets,-0.03570000000000001,0.25,0.2857
+2023-09-02 12:05:04.436586,FIBA World Cup Futures - FIBA World Cup - Tournament MVP,Josh  Giddey,-0.037700000000000004,0.0099,0.0476
+2023-09-02 12:05:04.305676,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Canada,Dwight  Powell,-0.038099999999999995,0.0244,0.0625
+2023-09-02 12:05:04.018645,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Italy,Matteo Spagnolo (ITA),-0.038299999999999994,0.0526,0.0909
+2023-09-02 12:05:04.305676,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Canada,Melvin  Ejim,-0.038299999999999994,0.0526,0.0909
+2023-09-02 12:05:04.367745,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - USA,Jalen  Brunson,-0.0408,0.0217,0.0625
+2023-09-02 12:05:07.968853,AFC East - AFC East 2023/24 - Most Regular Season Receiving Yards,Stefon Diggs,-0.04099999999999998,0.2667,0.3077
+2023-09-02 12:05:04.321265,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Germany,Johannes  Voigtmann,-0.04139999999999999,0.4348,0.4762
+2023-09-02 12:05:04.321265,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Germany,Daniel  Theis,-0.04169999999999999,0.125,0.1667
+2023-09-02 12:05:00.578131,96th Academy Awards - Best Picture - Best Picture,Past Lives,-0.04329999999999999,0.0476,0.0909
+2023-09-02 12:05:04.290674,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - USA,Austin  Reaves,-0.04440000000000001,0.0667,0.1111
+2023-09-02 12:05:03.957484,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,Spain,-0.044599999999999994,0.0323,0.0769
+2023-09-02 12:05:04.290674,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - USA,Jalen  Brunson,-0.044599999999999994,0.0323,0.0769
+2023-09-02 12:05:03.572802,WNBA Awards - WNBA Awards 2023 - Regular Season MVP,A'ja Wilson (LVA),-0.04630000000000001,0.4082,0.4545
+2023-09-02 12:05:04.123538,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Canada,Dwight  Powell,-0.047400000000000005,0.0526,0.1
+2023-09-02 12:05:04.451895,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,Canada,-0.047599999999999976,0.2857,0.3333
+2023-09-02 12:05:00.578131,96th Academy Awards - Best Picture - Best Picture,Killers Of The Flower Moon,-0.047599999999999976,0.2857,0.3333
+2023-09-02 12:05:04.451895,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,Spain,-0.048100000000000004,0.0769,0.125
+2023-09-02 12:05:04.002594,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Italy,Achille Polonara (ITA),-0.04999999999999999,0.2,0.25
+2023-09-02 12:05:00.378597,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Vejle BK,-0.050000000000000044,0.75,0.8
+2023-09-02 12:05:04.214487,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - USA,Jaren  Jackson  Jr,-0.05019999999999991,0.5652,0.6154
+2023-09-02 12:05:04.400973,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Spain,Juan  Nunez,-0.052300000000000006,0.0588,0.1111
+2023-09-02 12:05:04.229557,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Brazil,Tim  Soares,-0.052399999999999995,0.0385,0.0909
+2023-09-02 12:05:04.034333,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Serbia,Aleksa Avramovic,-0.052399999999999995,0.0385,0.0909
+2023-09-02 12:05:04.018645,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Italy,Alessandro Pajola,-0.0524,0.0476,0.1
+2023-09-02 12:05:04.436586,FIBA World Cup Futures - FIBA World Cup - Tournament MVP,Patty  Mills,-0.054599999999999996,0.0079,0.0625
+2023-09-02 12:05:03.957484,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,Canada,-0.05710000000000001,0.1429,0.2
+2023-09-02 12:05:03.986966,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Italy,Giampaolo Ricci,-0.05710000000000001,0.1429,0.2
+2023-09-02 12:05:04.351874,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Spain,Juan  Nunez,-0.058899999999999994,0.0244,0.0833
+2023-09-02 12:05:04.351874,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Spain,Santi  Aldama,-0.06059999999999999,0.303,0.3636
+2023-09-02 12:05:00.401260,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Odense,-0.06509999999999999,0.4,0.4651
+2023-09-02 12:05:04.123538,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Canada,Zach  Edey,-0.06669999999999998,0.1,0.1667
+2023-09-02 12:05:04.419921,FIBA World Cup Futures - FIBA World Cup - Winners Group,Group E,-0.06669999999999998,0.1,0.1667
+2023-09-02 12:05:04.123538,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Canada,Dillon  Brooks,-0.06770000000000001,0.0323,0.1
+2023-09-02 12:05:04.383842,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Germany,Daniel  Theis,-0.06840000000000002,0.1538,0.2222
+2023-09-02 12:05:04.260788,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Serbia,Nikola  Jovic,-0.07579999999999999,0.0909,0.1667
+2023-09-02 12:05:04.123538,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Canada,RJ  Barrett,-0.0766,0.0345,0.1111
+2023-09-02 12:05:04.400973,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Spain,Joel  Parra,-0.0804,0.0625,0.1429
+2023-09-02 12:05:04.275930,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Spain,Santi  Aldama,-0.0815,0.0435,0.125
+2023-09-02 12:05:04.018645,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Italy,Achille Polonara (ITA),-0.08330000000000001,0.1667,0.25
+2023-09-02 12:05:04.002594,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Italy,Giampaolo Ricci,-0.0865,0.0385,0.125
+2023-09-02 12:05:04.089244,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - USA,Austin  Reaves,-0.08750000000000002,0.3125,0.4
+2023-09-02 12:05:04.123538,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Canada,Nickeil  Alexander - Walker,-0.08979999999999999,0.0769,0.1667
+2023-09-02 12:05:04.034333,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Serbia,Nikola Milutinov,-0.1006,0.0244,0.125
+2023-09-02 12:05:04.170973,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Serbia,Nikola  Jovic,-0.10119999999999998,0.0526,0.1538
+2023-09-02 12:05:04.140742,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Germany,Moritz  Wagner,-0.10439999999999999,0.0385,0.1429
+2023-09-02 12:05:04.383842,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Germany,Dennis  Schroder,-0.1078,0.5,0.6078
+2023-09-02 12:05:04.089244,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - USA,Jalen  Brunson,-0.10910000000000002,0.0909,0.2
+2023-09-02 12:05:04.275930,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Spain,Juancho  Hernangomez,-0.10910000000000002,0.0909,0.2
+2023-09-02 12:05:04.199934,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Spain,Juancho  Hernangomez,-0.11909999999999998,0.0476,0.1667
+2023-09-02 12:05:04.155840,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Lithuania,Tadas  Sedekerskis,-0.12829999999999997,0.2353,0.3636
+2023-09-02 12:05:04.367745,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - USA,Jaren  Jackson Jr,-0.14229999999999998,0.0244,0.1667
+2023-09-02 12:05:04.243453,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Lithuania,Mindaugas  Kuzminskas,-0.1474,0.0526,0.2
+2023-09-02 12:05:04.089244,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - USA,Anthony  Edwards,-0.1524,0.0476,0.2
+2023-09-02 12:05:04.155840,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Lithuania,Mindaugas  Kuzminskas,-0.1647,0.2353,0.4
+2023-09-02 12:05:04.400973,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Spain,Juancho  Hernangomez,-0.1666,0.1667,0.3333
+2023-09-02 12:05:04.229557,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Brazil,Yago  Mateus,-0.20450000000000002,0.5455,0.75
+2023-09-02 12:05:04.185076,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Slovenia,Mike  Tobey,-0.21970000000000006,0.3636,0.5833
+2023-09-02 12:05:04.336330,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Slovenia,Luka  Doncic,-0.3228,0.6296,0.9524
+2023-09-02 12:05:04.170973,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Serbia,Dejan  Davidovac,-0.35450000000000004,0.1,0.4545
+2023-09-02 12:05:04.107039,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Brazil,Tim  Soares,-0.3889,0.1111,0.5
