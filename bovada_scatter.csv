@@ -14,9 +14,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-04 00:02:38.751923,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - USA,Anthony  Edwards,0.10439999999999999,0.1429,0.0385
 2023-09-03 21:01:53.864068,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Canada,Dillon  Brooks,0.10150000000000003,0.4651,0.3636
 2023-09-04 00:02:36.074210,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Motherwell,0.09999999999999998,0.6,0.5
+2023-09-04 01:01:39.038499,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Italy,Alessandro Pajola,0.09409999999999996,0.2941,0.2
 2023-09-03 20:04:04.866402,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Slovenia,Mike  Tobey,0.09090000000000004,0.4545,0.3636
 2023-09-03 20:04:04.835916,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Italy,Simone  Fontecchio,0.08549999999999999,0.2105,0.125
 2023-09-03 20:04:04.886119,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Canada,Shai  Gilgeous - Alexander,0.08330000000000004,0.8333,0.75
+2023-09-04 01:01:39.236361,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,Canada,0.07770000000000005,0.4348,0.3571
 2023-09-03 16:06:08.229997,FIBA World Cup Futures - FIBA World Cup - To Make Final,USA,0.06820000000000004,0.8182,0.75
 2023-09-04 00:02:36.030348,Eredivisie - Dutch Eredivisie 2023/24 - Winner,PSV Eindhoven,0.06670000000000004,0.4,0.3333
 2023-09-03 22:01:41.916754,FIBA World Cup Futures - FIBA World Cup - Top Points Scorer,Shai Gilgeous –Alexander,0.06440000000000001,0.4348,0.3704
@@ -30,11 +32,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-03 16:06:08.229997,FIBA World Cup Futures - FIBA World Cup - To Make Final,Serbia,0.043800000000000006,0.2105,0.1667
 2023-09-03 14:06:49.499504,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Evan Ferguson,0.04229999999999999,0.0667,0.0244
 2023-09-03 14:06:49.513962,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,Phil Foden (Man City),0.0417,0.125,0.0833
+2023-09-04 01:01:39.118191,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - USA,Walker  Kessler,0.04139999999999999,0.4762,0.4348
 2023-09-04 00:02:36.019016,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Randers,0.03950000000000001,0.25,0.2105
 2023-09-04 00:02:38.709110,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Slovenia,Luka  Doncic,0.03709999999999991,0.6667,0.6296
 2023-09-03 23:01:58.014430,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,British Columbia Lions,0.03640000000000004,0.4,0.3636
-2023-09-03 20:04:04.876234,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Lithuania,Jonas  Valanciunas,0.035699999999999954,0.75,0.7143
 2023-09-04 00:02:36.081103,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Kilmarnock,0.035699999999999954,0.75,0.7143
+2023-09-03 20:04:04.876234,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Lithuania,Jonas  Valanciunas,0.035699999999999954,0.75,0.7143
 2023-09-04 00:02:36.011915,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Copenhagen,0.03370000000000006,0.6491,0.6154
 2023-09-03 16:06:03.381610,Ligue 1 - France Ligue 1 2023/24 - Winner,Paris Saint-Germain,0.033299999999999996,0.8333,0.8
 2023-09-04 00:02:36.066817,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Livingston,0.031799999999999995,0.1429,0.1111
@@ -42,16 +45,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-03 22:01:57.993931,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Atlanta Braves,0.028500000000000025,0.3226,0.2941
 2023-09-03 16:06:08.229997,FIBA World Cup Futures - FIBA World Cup - To Make Final,Latvia,0.028399999999999995,0.0909,0.0625
 2023-09-03 14:06:49.513962,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,James Ward-Prowse (West Ham),0.028199999999999996,0.0667,0.0385
-2023-09-03 14:06:49.528039,Premier League Futures/Specials - English Premier League 2023/24 - Golden Glove Award,Alisson,0.023799999999999988,0.1667,0.1429
-2023-09-03 16:06:08.244567,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,Canada,0.023799999999999988,0.3571,0.3333
+2023-09-04 01:01:39.078771,FIBA World Cup Futures - FIBA World Cup - To Make Final,Lithuania,0.027999999999999997,0.1818,0.1538
+2023-09-04 01:01:39.236361,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,Lithuania,0.027999999999999997,0.1818,0.1538
 2023-09-03 14:06:49.474067,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Arsenal,0.023799999999999988,0.1667,0.1429
+2023-09-03 16:06:08.244567,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,Canada,0.023799999999999988,0.3571,0.3333
+2023-09-03 14:06:49.528039,Premier League Futures/Specials - English Premier League 2023/24 - Golden Glove Award,Alisson,0.023799999999999988,0.1667,0.1429
 2023-09-03 23:01:57.998041,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Saskatchewan Roughriders,0.0232,0.0667,0.0435
-2023-09-03 14:06:49.513962,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,Bruno Fernandes (Man Utd),0.02310000000000001,0.1,0.0769
 2023-09-04 00:02:36.019016,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Viborg FF,0.02310000000000001,0.1,0.0769
+2023-09-03 14:06:49.513962,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,Bruno Fernandes (Man Utd),0.02310000000000001,0.1,0.0769
 2023-09-04 00:02:36.081103,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Hearts,0.022199999999999998,0.2222,0.2
 2023-09-03 22:01:58.025006,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Atlanta Braves,0.021699999999999997,0.4762,0.4545
-2023-09-04 00:02:36.060040,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,St. Mirren,0.02020000000000001,0.1111,0.0909
 2023-09-04 00:02:36.011915,Superligaen - Denmark Superligaen 2023/24 - Winner,Brøndby IF,0.02020000000000001,0.1111,0.0909
+2023-09-04 00:02:36.060040,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,St. Mirren,0.02020000000000001,0.1111,0.0909
 2023-09-03 14:06:49.499504,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Heung-Min Son,0.02020000000000001,0.1111,0.0909
 2023-09-03 20:04:04.886119,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Canada,RJ  Barrett,0.019800000000000005,0.0476,0.0278
 2023-09-03 18:05:58.792609,Boxing Lines - Elijah Garcia vs Jose Armando Resendiz - To Win the Bout,Jose Armando Resendiz,0.01820000000000002,0.2,0.1818
@@ -61,19 +66,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-03 15:06:53.360937,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayern Munich,0.017900000000000027,0.875,0.8571
 2023-09-03 14:06:49.474067,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Liverpool,0.0179,0.1429,0.125
 2023-09-04 00:02:36.060040,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Hibernian,0.0179,0.1429,0.125
-2023-09-03 23:01:43.903807,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-04 00:02:40.527421,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-03 22:01:43.627056,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-03 20:04:06.878063,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-03 21:01:55.683653,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-03 19:03:39.135806,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
 2023-09-03 18:05:42.991011,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-03 17:06:15.181572,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-03 16:06:11.072385,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-03 15:07:01.905704,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
 2023-09-03 14:06:55.271635,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-03 17:06:15.181572,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-03 19:03:39.135806,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-03 22:01:43.627056,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-03 16:06:11.072385,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-04 01:01:41.155766,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-03 20:04:06.878063,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-04 00:02:40.527421,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-03 21:01:55.683653,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-03 15:07:01.905704,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-03 23:01:43.903807,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
 2023-09-03 13:04:55.055021,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-03 12:04:51.869146,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
 2023-09-03 16:06:03.348018,Serie A - Italy Serie A 2023/24 - Winner,AC Milan,0.016699999999999993,0.2667,0.25
 2023-09-03 20:04:04.590735,WNBA Championship - WNBA Championship 2023 - Outright Winner,New York Liberty,0.016699999999999993,0.4167,0.4
 2023-09-03 16:06:03.348018,Serie A - Italy Serie A 2023/24 - Winner,Inter Milan,0.015400000000000025,0.4,0.3846
@@ -81,9 +86,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-03 20:04:04.845737,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Serbia,Bogdan  Bogdanovic,0.014900000000000024,0.9524,0.9375
 2023-09-03 22:01:41.916754,FIBA World Cup Futures - FIBA World Cup - Top Points Scorer,Anthony  Edwards,0.014899999999999997,0.0625,0.0476
 2023-09-03 14:06:49.528039,Premier League Futures/Specials - English Premier League 2023/24 - Golden Glove Award,Aaron Ramsdale,0.013999999999999999,0.0909,0.0769
-2023-09-03 14:06:49.499504,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Julian Alvarez,0.013999999999999999,0.0909,0.0769
 2023-09-03 16:06:08.214547,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,Serbia,0.013999999999999999,0.0909,0.0769
 2023-09-04 00:02:36.066817,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Kilmarnock,0.013999999999999999,0.0909,0.0769
+2023-09-03 14:06:49.499504,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Julian Alvarez,0.013999999999999999,0.0909,0.0769
 2023-09-04 00:02:36.081103,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Livingston,0.0131,0.7778,0.7647
 2023-09-04 00:02:36.030348,Eredivisie - Dutch Eredivisie 2023/24 - Winner,AZ Alkmaar,0.011199999999999995,0.0588,0.0476
 2023-09-03 16:06:08.244567,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,Lithuania,0.010899999999999993,0.1538,0.1429
@@ -94,58 +99,61 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-03 14:06:49.499504,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Mohamed Salah,-0.010399999999999993,0.2222,0.2326
 2023-09-03 20:04:04.603355,WNBA Awards - WNBA Awards 2023 - Regular Season MVP,Breanna Stewart (NYL),-0.01100000000000001,0.5238,0.5348
 2023-09-04 00:02:38.655386,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Germany,Johannes  Thiemann,-0.011099999999999999,0.1,0.1111
-2023-09-03 14:06:49.499504,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Raheem Sterling,-0.011199999999999995,0.0476,0.0588
-2023-09-03 14:06:49.499504,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Nicolas Jackson,-0.011199999999999995,0.0476,0.0588
-2023-09-04 00:02:36.066817,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,St. Mirren,-0.011199999999999995,0.0476,0.0588
 2023-09-03 14:06:49.513962,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,Kevin de Bruyne (Man City),-0.011199999999999995,0.0476,0.0588
+2023-09-03 14:06:49.499504,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Nicolas Jackson,-0.011199999999999995,0.0476,0.0588
+2023-09-03 14:06:49.499504,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Raheem Sterling,-0.011199999999999995,0.0476,0.0588
+2023-09-04 00:02:36.066817,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,St. Mirren,-0.011199999999999995,0.0476,0.0588
 2023-09-03 19:03:37.328220,FIBA World Cup Futures - FIBA World Cup - Top Points Scorer,Simone  Fontecchio,-0.011200000000000002,0.0132,0.0244
 2023-09-03 21:01:53.864068,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Canada,Philip  Scrubb,-0.012100000000000001,0.0123,0.0244
 2023-09-04 00:02:54.635782,Boxing Lines - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Joseph Joyce,-0.012199999999999989,0.4878,0.5
 2023-09-03 22:01:57.993931,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Tampa Bay Rays,-0.012299999999999991,0.1053,0.1176
 2023-09-03 14:06:48.539238,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Borussia Dortmund,-0.012600000000000007,0.0588,0.0714
 2023-09-03 16:06:08.229997,FIBA World Cup Futures - FIBA World Cup - To Make Final,Lithuania,-0.012899999999999995,0.1538,0.1667
+2023-09-04 01:01:39.038499,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Italy,Stefano Tonut,-0.013400000000000002,0.011,0.0244
+2023-09-04 01:01:39.038499,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Italy,Simone  Fontecchio,-0.013400000000000002,0.011,0.0244
 2023-09-03 13:04:52.469820,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,USA,-0.013799999999999923,0.6226,0.6364
 2023-09-03 20:04:04.845737,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Serbia,Ognjen Dobric,-0.013999999999999999,0.0769,0.0909
-2023-09-03 20:04:04.845737,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Serbia,Aleksa Avramovic,-0.014099999999999998,0.0244,0.0385
 2023-09-04 00:02:36.019016,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Silkeborg IF,-0.014099999999999998,0.0294,0.0435
-2023-09-03 14:06:49.474067,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Manchester United,-0.014099999999999998,0.0294,0.0435
+2023-09-03 20:04:04.845737,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Serbia,Aleksa Avramovic,-0.014099999999999998,0.0244,0.0385
 2023-09-04 00:02:38.739813,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Germany,Maodo  Lo,-0.014099999999999998,0.0244,0.0385
+2023-09-03 14:06:49.474067,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Manchester United,-0.014099999999999998,0.0294,0.0435
 2023-09-04 00:02:38.739813,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Germany,Daniel  Theis,-0.014399999999999996,0.0625,0.0769
 2023-09-03 16:06:08.214547,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,USA,-0.014800000000000035,0.6078,0.6226
 2023-09-03 18:05:58.792609,Boxing Lines - Elijah Garcia vs Jose Armando Resendiz - To Win the Bout,Elijah Garcia,-0.015699999999999936,0.8667,0.8824
 2023-09-03 22:01:58.025006,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Los Angeles Dodgers,-0.016000000000000014,0.3922,0.4082
-2023-09-03 20:04:04.866402,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Slovenia,Ziga  Dimec,-0.016699999999999993,0.25,0.2667
 2023-09-04 00:02:36.030348,Eredivisie - Dutch Eredivisie 2023/24 - Winner,Feyenoord,-0.016699999999999993,0.25,0.2667
-2023-09-03 22:01:43.639457,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-03 19:03:39.148993,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-03 16:06:11.092263,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-03 20:04:06.890628,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-03 21:01:55.696291,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-03 15:07:01.927271,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-03 17:06:15.199918,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-03 14:06:55.284505,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-03 18:05:43.003610,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-03 13:04:55.073877,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-03 12:04:51.881229,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-03 20:04:04.866402,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Slovenia,Ziga  Dimec,-0.016699999999999993,0.25,0.2667
 2023-09-04 00:02:36.019016,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Vejle BK,-0.016700000000000048,0.7333,0.75
-2023-09-03 23:01:43.935980,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-03 16:06:11.092263,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-03 18:05:43.003610,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-04 01:01:41.168311,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-09-04 00:02:40.540204,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-03 19:03:39.148993,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-03 20:04:06.890628,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-03 13:04:55.073877,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-03 15:07:01.927271,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-03 14:06:55.284505,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-03 21:01:55.696291,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-03 17:06:15.199918,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-03 22:01:43.639457,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-03 23:01:43.935980,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-09-03 20:04:04.835916,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Italy,Giampaolo Ricci,-0.0168,0.0217,0.0385
 2023-09-03 16:06:03.348018,Serie A - Italy Serie A 2023/24 - Winner,Napoli,-0.0174,0.2326,0.25
-2023-09-03 14:06:49.528039,Premier League Futures/Specials - English Premier League 2023/24 - Golden Glove Award,Andre Onana,-0.0179,0.125,0.1429
 2023-09-03 20:04:04.905513,FIBA World Cup Futures - FIBA World Cup - Top Total Rebounds,Kelly  Olynyk,-0.0179,0.0099,0.0278
+2023-09-03 14:06:49.528039,Premier League Futures/Specials - English Premier League 2023/24 - Golden Glove Award,Andre Onana,-0.0179,0.125,0.1429
+2023-09-04 01:01:39.236361,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,Italy,-0.018200000000000004,0.0294,0.0476
 2023-09-03 19:03:37.308222,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,Canada,-0.01820000000000002,0.1818,0.2
-2023-09-04 00:02:38.645696,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - USA,Anthony  Edwards,-0.0189,0.0196,0.0385
-2023-09-03 14:06:49.513962,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,Kieran Trippier (Newcastle),-0.0189,0.0196,0.0385
 2023-09-03 20:04:04.895548,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - USA,Paolo  Banchero,-0.0189,0.0196,0.0385
+2023-09-03 14:06:49.513962,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,Kieran Trippier (Newcastle),-0.0189,0.0196,0.0385
+2023-09-04 00:02:38.645696,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - USA,Anthony  Edwards,-0.0189,0.0196,0.0385
 2023-09-03 20:04:04.876234,FIBA World Cup Futures - FIBA World Cup - Top Team Total Points Scorer - Lithuania,Rokas  Jokubaitis,-0.019000000000000017,0.2667,0.2857
 2023-09-04 00:02:36.011915,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Midtjylland,-0.019099999999999992,0.0476,0.0667
 2023-09-03 14:06:49.528039,Premier League Futures/Specials - English Premier League 2023/24 - Golden Glove Award,Ederson,-0.020299999999999985,0.6226,0.6429
 2023-09-03 23:01:58.014430,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Winnipeg Blue Bombers,-0.02080000000000004,0.6667,0.6875
 2023-09-03 23:01:57.998041,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Winnipeg Blue Bombers,-0.02100000000000002,0.3636,0.3846
-2023-09-04 00:02:36.011915,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Nordsjælland,-0.022199999999999998,0.2,0.2222
-2023-09-03 16:06:08.214547,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,Canada,-0.022199999999999998,0.2,0.2222
 2023-09-03 16:06:08.244567,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,Germany,-0.022199999999999998,0.2,0.2222
+2023-09-03 16:06:08.214547,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,Canada,-0.022199999999999998,0.2,0.2222
+2023-09-04 00:02:36.011915,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Nordsjælland,-0.022199999999999998,0.2,0.2222
 2023-09-03 14:06:49.513962,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,Kaoru Mitoma (Brigton),-0.0242,0.0667,0.0909
 2023-09-03 20:04:04.905513,FIBA World Cup Futures - FIBA World Cup - Top Total Rebounds,Brandon  Ingram,-0.0244,0.0079,0.0323
 2023-09-04 00:02:38.600593,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Italy,Giampaolo Ricci,-0.025300000000000003,0.1176,0.1429
@@ -158,24 +166,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-03 20:04:04.905513,FIBA World Cup Futures - FIBA World Cup - Top Total Rebounds,Jaren  Jackson Jr,-0.0306,0.0079,0.0385
 2023-09-03 14:06:48.539238,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayern Munich,-0.03180000000000005,0.8571,0.8889
 2023-09-03 14:06:49.513962,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,Mohamed Salah (Liverpool),-0.03330000000000001,0.0667,0.1
-2023-09-03 16:06:08.244567,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,Slovenia,-0.033399999999999985,0.1333,0.1667
 2023-09-03 20:04:04.835916,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Italy,Nicolo Melli (ITA),-0.033399999999999985,0.8333,0.8667
+2023-09-03 16:06:08.244567,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,Slovenia,-0.033399999999999985,0.1333,0.1667
 2023-09-03 20:04:04.905513,FIBA World Cup Futures - FIBA World Cup - Top Total Rebounds,Luka  Doncic,-0.0347,0.0278,0.0625
 2023-09-03 19:03:37.328220,FIBA World Cup Futures - FIBA World Cup - Top Points Scorer,Luka  Doncic,-0.035699999999999954,0.7143,0.75
 2023-09-03 14:06:49.474067,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Manchester City,-0.0363,0.697,0.7333
 2023-09-04 00:02:36.074210,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Hearts,-0.038899999999999935,0.8182,0.8571
 2023-09-04 00:02:36.081103,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Ross County,-0.038899999999999935,0.8182,0.8571
+2023-09-04 01:01:39.236361,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,Germany,-0.04620000000000002,0.1538,0.2
 2023-09-03 14:06:49.499504,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Alexander Isak,-0.048100000000000004,0.0769,0.125
 2023-09-04 00:02:36.019016,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Lyngby BK,-0.04999999999999999,0.2,0.25
 2023-09-03 20:04:04.590735,WNBA Championship - WNBA Championship 2023 - Outright Winner,Las Vegas Aces,-0.05130000000000001,0.6154,0.6667
-2023-09-03 23:01:39.222869,Premiership - Scotland Premiership 2023/24 - Winner,Rangers,-0.05449999999999999,0.4,0.4545
 2023-09-04 00:02:36.081103,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Hibernian,-0.05449999999999999,0.4,0.4545
 2023-09-04 00:02:38.709110,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Slovenia,Mike  Tobey,-0.05449999999999999,0.4,0.4545
+2023-09-03 23:01:39.222869,Premiership - Scotland Premiership 2023/24 - Winner,Rangers,-0.05449999999999999,0.4,0.4545
 2023-09-04 00:02:36.074210,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Kilmarnock,-0.055900000000000005,0.3077,0.3636
 2023-09-03 20:04:04.905513,FIBA World Cup Futures - FIBA World Cup - Top Total Rebounds,Walter  Tavares,-0.0625,0.0625,0.125
 2023-09-04 00:02:38.645696,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - USA,Brandon  Ingram,-0.0726,0.0385,0.1111
 2023-09-04 00:02:38.751923,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - USA,Austin  Reaves,-0.07619999999999999,0.4,0.4762
 2023-09-04 00:02:36.030348,Eredivisie - Dutch Eredivisie 2023/24 - Winner,Ajax,-0.07619999999999999,0.4,0.4762
+2023-09-04 01:01:39.118191,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - USA,Paolo Banchero (USA),-0.0804,0.0625,0.1429
 2023-09-04 00:02:36.066817,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Ross County,-0.08330000000000001,0.1667,0.25
 2023-09-03 20:04:04.866402,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Slovenia,Luka  Doncic,-0.08410000000000001,0.3704,0.4545
 2023-09-03 20:04:04.886119,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Canada,Kelly  Olynyk,-0.0857,0.2,0.2857
@@ -184,10 +194,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-04 00:02:36.060040,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Aberdeen,-0.09689999999999999,0.2667,0.3636
 2023-09-04 00:02:36.081103,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Motherwell,-0.09820000000000001,0.4762,0.5744
 2023-09-04 00:02:36.074210,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Aberdeen,-0.10389999999999999,0.7143,0.8182
+2023-09-04 01:01:39.038499,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Italy,Marco Spissu (ITA),-0.10709999999999997,0.75,0.8571
 2023-09-03 20:04:04.603355,WNBA Awards - WNBA Awards 2023 - Regular Season MVP,Alyssa Thomas (CON),-0.10910000000000002,0.0909,0.2
 2023-09-04 00:02:38.739813,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Germany,Dennis  Schroder,-0.1154,0.3846,0.5
 2023-09-03 20:04:04.895548,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - USA,Anthony  Edwards,-0.11900000000000002,0.1667,0.2857
 2023-09-03 16:06:08.229997,FIBA World Cup Futures - FIBA World Cup - To Make Final,Germany,-0.12589999999999998,0.1818,0.3077
+2023-09-04 01:01:39.118191,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - USA,Jaren  Jackson  Jr,-0.13040000000000002,0.4348,0.5652
+2023-09-04 01:01:39.058100,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Italy,Achille Polonara (ITA),-0.1375,0.0625,0.2
 2023-09-03 21:01:53.864068,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Canada,Melvin  Ejim,-0.14440000000000003,0.0909,0.2353
 2023-09-04 00:02:38.645696,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - USA,Austin  Reaves,-0.2331,0.0526,0.2857
 2023-09-04 00:02:38.655386,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Germany,Daniel  Theis,-0.25,0.5833,0.8333
