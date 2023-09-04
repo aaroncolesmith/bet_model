@@ -1,6 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-04 00:02:38.655386,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Germany,Johannes  Voigtmann,0.28890000000000005,0.4,0.1111
-2023-09-03 21:01:53.864068,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Canada,Shai  Gilgeous - Alexander,0.2699,0.5556,0.2857
 2023-09-04 08:04:52.813422,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Kylian Mbappe (PSG),0.24119999999999997,0.6667,0.4255
 2023-09-04 00:02:38.645696,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - USA,Tyrese  Haliburton,0.2037,0.8333,0.6296
 2023-09-04 05:03:18.460840,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Tottenham Hotspur,0.16519999999999996,0.6,0.4348
@@ -13,12 +12,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-04 00:02:38.645696,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - USA,Jalen  Brunson,0.10910000000000002,0.2,0.0909
 2023-09-04 08:04:53.514289,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Brøndby IF,0.1049,0.9231,0.8182
 2023-09-04 00:02:38.751923,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - USA,Anthony  Edwards,0.10439999999999999,0.1429,0.0385
-2023-09-03 21:01:53.864068,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Canada,Dillon  Brooks,0.10150000000000003,0.4651,0.3636
 2023-09-04 00:02:36.074210,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Motherwell,0.09999999999999998,0.6,0.5
 2023-09-04 05:03:18.394748,Premier League Futures/Specials - English Premier League 2023/24 - Winner without ''The Big 6'',Brighton & Hove Albion,0.09889999999999999,0.3846,0.2857
 2023-09-04 08:04:52.824828,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Le Havre,0.09830000000000005,0.5238,0.4255
 2023-09-04 01:01:39.038499,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Italy,Alessandro Pajola,0.09409999999999996,0.2941,0.2
+2023-09-04 10:04:28.131064,Ascension Charity Classic - Ascension Charity Classic - Outright,Stephen Ames,0.09340000000000001,0.1,0.0066
 2023-09-04 05:03:18.468686,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Aston Villa,0.09089999999999998,0.9091,0.8182
+2023-09-04 10:04:28.131064,Ascension Charity Classic - Ascension Charity Classic - Outright,David Toms,0.0876,0.0909,0.0033
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,Tyrrell Hatton,0.08589999999999999,0.0909,0.005
 2023-09-04 08:04:52.732843,Serie A - Italy Serie A 2023/24 - Top 4 Finish,AC Milan,0.0857,0.8,0.7143
 2023-09-04 08:04:52.848347,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Monaco,0.08330000000000004,0.8333,0.75
 2023-09-04 08:05:13.915032,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Travis Hunter,0.08,0.0833,0.0033
@@ -30,13 +31,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-04 05:03:18.437076,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Luton Town,0.06990000000000002,0.4545,0.3846
 2023-09-04 05:03:18.445067,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Arsenal,0.06670000000000004,0.4,0.3333
 2023-09-04 00:02:36.030348,Eredivisie - Dutch Eredivisie 2023/24 - Winner,PSV Eindhoven,0.06670000000000004,0.4,0.3333
+2023-09-04 08:04:53.333843,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Tigres UANL,0.06669999999999998,0.6667,0.6
 2023-09-04 08:04:52.802025,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Monaco,0.06669999999999998,0.2667,0.2
 2023-09-04 08:04:52.948183,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Vitor Roque (Athletico PR),0.06669999999999998,0.2667,0.2
-2023-09-04 08:04:53.333843,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Tigres UANL,0.06669999999999998,0.6667,0.6
 2023-09-04 05:03:18.476989,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Brentford,0.06659999999999999,0.7333,0.6667
 2023-09-04 08:05:13.915032,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Shedeur Sanders,0.0659,0.0769,0.011
 2023-09-04 08:04:53.617195,Allsvenskan - Allsvenskan 2023 - Winner,IF Elfsborg,0.06519999999999992,0.6,0.5348
-2023-09-03 22:01:41.916754,FIBA World Cup Futures - FIBA World Cup - Top Points Scorer,Shai Gilgeous –Alexander,0.06440000000000001,0.4348,0.3704
 2023-09-04 08:04:53.476785,First Division A - Belgium First Division A 2023/24 - Outright,Gent,0.0635,0.2857,0.2222
 2023-09-04 05:03:18.468686,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Brighton & Hove Albion,0.06290000000000007,0.9091,0.8462
 2023-09-04 08:04:53.333843,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,CF Monterrey,0.061999999999999944,0.6364,0.5744
@@ -47,228 +47,267 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-04 05:03:18.476989,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Aston Villa,0.057699999999999974,0.3077,0.25
 2023-09-04 08:05:05.210103,Season Player Specials - NFL 2023-24 Receiving TDs - Juwan Johnson 2023-24 Regular Season Total Receiving TDs,Over 3.5,0.05689999999999995,0.5917,0.5348
 2023-09-04 00:02:38.739813,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Germany,Johannes Voigtmann (GER),0.05679999999999999,0.1818,0.125
-2023-09-04 08:04:53.552355,Eredivisie - Dutch Eredivisie 2023/24 - Top 3 Finish,PSV Eindhoven,0.05559999999999998,0.8889,0.8333
 2023-09-04 00:02:36.060040,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Motherwell,0.05559999999999998,0.1667,0.1111
+2023-09-04 08:04:53.552355,Eredivisie - Dutch Eredivisie 2023/24 - Top 3 Finish,PSV Eindhoven,0.05559999999999998,0.8889,0.8333
 2023-09-04 05:03:18.468686,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Tottenham Hotspur,0.0524,0.9615,0.9091
-2023-09-04 08:04:52.836223,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Reims,0.052300000000000006,0.1111,0.0588
 2023-09-04 08:05:13.915032,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Michael Penix Jr.,0.052300000000000006,0.1111,0.0588
+2023-09-04 08:04:52.836223,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Reims,0.052300000000000006,0.1111,0.0588
 2023-09-04 08:04:53.514289,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Silkeborg IF,0.05130000000000001,0.6667,0.6154
 2023-09-04 08:04:52.824828,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Montpellier,0.05080000000000001,0.2326,0.1818
-2023-09-04 00:02:36.074210,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Ross County,0.04999999999999999,0.25,0.2
 2023-09-04 08:04:52.732843,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Lazio,0.04999999999999999,0.25,0.2
+2023-09-04 00:02:36.074210,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Ross County,0.04999999999999999,0.25,0.2
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,Min Woo Lee,0.049300000000000004,0.0526,0.0033
 2023-09-03 23:01:58.014430,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Saskatchewan Roughriders,0.048100000000000004,0.125,0.0769
 2023-09-04 08:04:53.545000,Eredivisie - Dutch Eredivisie 2023/24 - To Be Relegated,Volendam,0.04760000000000003,0.5238,0.4762
 2023-09-04 05:03:18.403142,Premier League Futures/Specials - English Premier League 2023/24 - Winner without Manchester City,Tottenham Hotspur,0.0474,0.0909,0.0435
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,Scott Jamieson,0.0466,0.0476,0.001
 2023-09-04 05:03:18.460840,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Brighton & Hove Albion,0.045499999999999985,0.5,0.4545
 2023-09-04 08:04:52.848347,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Nice,0.045499999999999985,0.5,0.4545
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,Shane Lowry,0.044700000000000004,0.0526,0.0079
 2023-09-04 08:04:52.813422,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Wissam Ben Yedder (Monaco),0.04440000000000001,0.1111,0.0667
 2023-09-04 08:04:52.715082,Serie A - Italy Serie A 2023/24 - To Be Relegated,Empoli,0.044399999999999995,0.4444,0.4
-2023-09-03 23:01:39.222869,Premiership - Scotland Premiership 2023/24 - Winner,Celtic,0.04409999999999992,0.6667,0.6226
-2023-09-04 08:04:53.545000,Eredivisie - Dutch Eredivisie 2023/24 - To Be Relegated,Almere City,0.04409999999999992,0.6667,0.6226
-2023-09-04 08:04:53.333843,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Club América,0.04409999999999992,0.6667,0.6226
 2023-09-04 00:02:36.074210,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Hibernian,0.04409999999999992,0.6667,0.6226
+2023-09-03 23:01:39.222869,Premiership - Scotland Premiership 2023/24 - Winner,Celtic,0.04409999999999992,0.6667,0.6226
+2023-09-04 08:04:53.333843,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Club América,0.04409999999999992,0.6667,0.6226
+2023-09-04 08:04:53.545000,Eredivisie - Dutch Eredivisie 2023/24 - To Be Relegated,Almere City,0.04409999999999992,0.6667,0.6226
 2023-09-04 08:04:53.525535,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Hamburger SV,0.043200000000000016,0.3509,0.3077
 2023-09-04 05:03:18.484941,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Nottingham Forest,0.04169999999999996,0.875,0.8333
 2023-09-04 01:01:39.118191,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - USA,Walker  Kessler,0.04139999999999999,0.4762,0.4348
 2023-09-04 08:05:13.885144,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Florida State,0.04120000000000001,0.1,0.0588
+2023-09-04 10:04:25.551871,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Rushing Yards,Bijan Robinson,0.0407,0.1176,0.0769
 2023-09-04 08:04:53.506821,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Silkeborg IF,0.04040000000000002,0.2222,0.1818
 2023-09-04 00:02:36.019016,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Randers,0.03950000000000001,0.25,0.2105
 2023-09-04 05:03:18.468686,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Nottingham Forest,0.03889999999999999,0.1818,0.1429
 2023-09-04 05:03:18.445067,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Brighton & Hove Albion,0.038299999999999994,0.0909,0.0526
 2023-09-04 00:02:38.709110,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Slovenia,Luka  Doncic,0.03709999999999991,0.6667,0.6296
 2023-09-03 23:01:58.014430,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,British Columbia Lions,0.03640000000000004,0.4,0.3636
-2023-09-04 05:03:18.429322,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Wolverhampton Wanderers,0.03570000000000001,0.2857,0.25
 2023-09-04 08:04:52.657210,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Sociedad,0.03570000000000001,0.2857,0.25
+2023-09-04 05:03:18.429322,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Wolverhampton Wanderers,0.03570000000000001,0.2857,0.25
 2023-09-04 00:02:36.081103,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Kilmarnock,0.035699999999999954,0.75,0.7143
+2023-09-04 10:04:28.131064,Ascension Charity Classic - Ascension Charity Classic - Outright,Brett Quigley,0.0345,0.0385,0.004
 2023-09-04 00:02:36.011915,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Copenhagen,0.03370000000000006,0.6491,0.6154
 2023-09-04 08:04:53.318353,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,CF Monterrey,0.033300000000000024,0.2,0.1667
-2023-09-04 08:05:13.915032,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Jordan Travis,0.03330000000000001,0.1,0.0667
 2023-09-04 05:03:18.476989,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Newcastle United,0.03330000000000001,0.1,0.0667
+2023-09-04 08:05:13.915032,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Jordan Travis,0.03330000000000001,0.1,0.0667
 2023-09-04 05:03:18.403142,Premier League Futures/Specials - English Premier League 2023/24 - Winner without Manchester City,Brighton & Hove Albion,0.03219999999999999,0.0667,0.0345
 2023-09-04 08:04:52.657210,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Betis,0.031799999999999995,0.1429,0.1111
 2023-09-04 00:02:36.066817,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Livingston,0.031799999999999995,0.1429,0.1111
+2023-09-04 10:04:28.131064,Ascension Charity Classic - Ascension Charity Classic - Outright,Justin Leonard,0.0314,0.0385,0.0071
+2023-09-04 10:04:28.131064,Ascension Charity Classic - Ascension Charity Classic - Outright,Robert Karlsson,0.031000000000000003,0.0323,0.0013
 2023-09-04 05:03:18.445067,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Liverpool,0.030299999999999994,0.3636,0.3333
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,Alexander Bjork,0.029800000000000004,0.0323,0.0025
+2023-09-04 10:04:28.131064,Ascension Charity Classic - Ascension Charity Classic - Outright,Jerry Kelly,0.0294,0.0588,0.0294
+2023-09-04 10:04:25.529607,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Rushing TDs,David Montgomery,0.029299999999999993,0.0769,0.0476
 2023-09-04 08:04:53.629143,Super Lig - Turkey Super Lig 2023/24 - Winner,Galatasaray,0.029000000000000026,0.4545,0.4255
 2023-09-04 05:03:21.148974,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,Canada,0.028700000000000003,0.2105,0.1818
-2023-09-03 22:01:57.993931,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Atlanta Braves,0.028500000000000025,0.3226,0.2941
 2023-09-04 08:05:01.608971,Los Angeles Rams - 2023-24 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U  4.5,Under 4.5,0.028200000000000003,0.2985,0.2703
 2023-09-04 08:04:53.318353,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Atletico San Luis,0.028199999999999996,0.0667,0.0385
-2023-09-04 01:01:39.078771,FIBA World Cup Futures - FIBA World Cup - To Make Final,Lithuania,0.027999999999999997,0.1818,0.1538
 2023-09-04 01:01:39.236361,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,Lithuania,0.027999999999999997,0.1818,0.1538
+2023-09-04 01:01:39.078771,FIBA World Cup Futures - FIBA World Cup - To Make Final,Lithuania,0.027999999999999997,0.1818,0.1538
 2023-09-04 08:04:53.326073,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Harold Preciado (SAN),0.027999999999999997,0.1818,0.1538
 2023-09-04 08:04:53.333843,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Deportivo Toluca,0.02779999999999999,0.25,0.2222
+2023-09-04 10:04:28.131064,Ascension Charity Classic - Ascension Charity Classic - Outright,Dicky Pride,0.0271,0.0278,0.0007
 2023-09-04 08:04:52.836223,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Marseille,0.025600000000000067,0.6923,0.6667
 2023-09-04 08:04:53.552355,Eredivisie - Dutch Eredivisie 2023/24 - Top 3 Finish,AZ Alkmaar,0.02560000000000001,0.3333,0.3077
 2023-09-04 08:04:52.715082,Serie A - Italy Serie A 2023/24 - To Be Relegated,Salernitana,0.02560000000000001,0.3333,0.3077
-2023-09-04 05:03:18.476989,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Manchester United,0.0242,0.0909,0.0667
+2023-09-04 10:04:28.131064,Ascension Charity Classic - Ascension Charity Classic - Outright,Joe Durant,0.0253,0.0278,0.0025
+2023-09-04 10:04:28.131064,Ascension Charity Classic - Ascension Charity Classic - Outright,Kevin Sutherland,0.0252,0.0323,0.0071
 2023-09-04 05:03:18.476989,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Wolverhampton Wanderers,0.0242,0.9333,0.9091
+2023-09-04 05:03:18.476989,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Manchester United,0.0242,0.0909,0.0667
 2023-09-04 08:04:53.639958,Superettan - Superettan 2023 - Winner,Utsiktens,0.023800000000000043,0.5238,0.5
-2023-09-04 08:04:52.956156,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Internacional,0.023799999999999988,0.1667,0.1429
 2023-09-04 08:04:52.715082,Serie A - Italy Serie A 2023/24 - To Be Relegated,Cagliari,0.023799999999999988,0.5,0.4762
+2023-09-04 08:04:52.956156,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Internacional,0.023799999999999988,0.1667,0.1429
 2023-09-04 08:05:00.162715,Atlanta Falcons - 2023-24 Regular Season Wins O/U - Regular Season Wins - Atlanta Falcons O/U  8.5,Over 8.5,0.023699999999999943,0.6154,0.5917
 2023-09-03 23:01:57.998041,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Saskatchewan Roughriders,0.0232,0.0667,0.0435
 2023-09-04 00:02:36.019016,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Viborg FF,0.02310000000000001,0.1,0.0769
 2023-09-04 05:03:18.445067,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Manchester City,0.02310000000000001,0.9231,0.9
 2023-09-04 08:04:53.326073,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Andre-Pierre Gignac (TIG),0.02310000000000001,0.1,0.0769
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,Yannik Paul,0.023100000000000002,0.0244,0.0013
 2023-09-04 08:04:53.552355,Eredivisie - Dutch Eredivisie 2023/24 - Top 3 Finish,Feyenoord,0.022199999999999998,0.8,0.7778
 2023-09-04 00:02:36.081103,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Hearts,0.022199999999999998,0.2222,0.2
 2023-09-04 08:04:52.732843,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Juventus,0.02200000000000002,0.7143,0.6923
-2023-09-03 22:01:58.025006,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Atlanta Braves,0.021699999999999997,0.4762,0.4545
 2023-09-04 08:05:01.621093,Los Angeles Rams - 2023-24 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U  6.5,Under 6.5,0.02079999999999993,0.5556,0.5348
 2023-09-04 08:04:56.304116,FIBA World Cup Futures - FIBA World Cup - Top Points Scorer,Dennis  Schroder,0.0203,0.0526,0.0323
 2023-09-04 05:03:38.284021,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,0.020299999999999985,0.2703,0.25
-2023-09-04 00:02:36.011915,Superligaen - Denmark Superligaen 2023/24 - Winner,Brøndby IF,0.02020000000000001,0.1111,0.0909
-2023-09-04 00:02:36.060040,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,St. Mirren,0.02020000000000001,0.1111,0.0909
 2023-09-04 08:04:52.667572,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Athletic Bilbao,0.02020000000000001,0.1111,0.0909
+2023-09-04 00:02:36.060040,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,St. Mirren,0.02020000000000001,0.1111,0.0909
+2023-09-04 00:02:36.011915,Superligaen - Denmark Superligaen 2023/24 - Winner,Brøndby IF,0.02020000000000001,0.1111,0.0909
 2023-09-04 08:05:14.190685,Boxing Lines - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Joseph Joyce,0.019600000000000006,0.5122,0.4926
+2023-09-04 10:04:25.529607,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Rushing TDs,Jalen Hurts,0.01949999999999999,0.0909,0.0714
+2023-09-04 10:04:28.131064,Ascension Charity Classic - Ascension Charity Classic - Outright,Paul Stankowski,0.0194,0.0244,0.005
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,Thomas Detry,0.0194,0.0244,0.005
+2023-09-04 10:04:28.131064,Ascension Charity Classic - Ascension Charity Classic - Outright,Ernie Els,0.019099999999999992,0.0667,0.0476
 2023-09-04 08:04:52.657210,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Celta de Vigo,0.019099999999999992,0.0667,0.0476
 2023-09-04 05:03:18.452907,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Brighton & Hove Albion,0.019000000000000017,0.2857,0.2667
 2023-09-04 05:03:18.452907,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Arsenal,0.018999999999999906,0.7333,0.7143
 2023-09-04 08:04:52.657210,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Madrid,0.018900000000000028,0.9804,0.9615
 2023-09-04 08:05:13.915032,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Jalen Milroe,0.0189,0.0385,0.0196
-2023-09-04 05:03:18.468686,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,West Ham United,0.01880000000000004,0.5744,0.5556
 2023-09-04 08:04:52.956156,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Santos,0.01880000000000004,0.6552,0.6364
+2023-09-04 05:03:18.468686,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,West Ham United,0.01880000000000004,0.5744,0.5556
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,Alex Fitzpatrick,0.0186,0.0196,0.001
 2023-09-04 05:03:18.484941,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Crystal Palace,0.01849999999999996,0.9709,0.9524
-2023-09-04 08:04:52.764162,MLS - MLS 2023 - Top Goalscorer,Alan Pulido (SKC),0.018200000000000004,0.0476,0.0294
 2023-09-04 08:04:52.941290,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Grêmio,0.018200000000000004,0.0476,0.0294
+2023-09-04 08:04:52.764162,MLS - MLS 2023 - Top Goalscorer,Alan Pulido (SKC),0.018200000000000004,0.0476,0.0294
 2023-09-04 05:03:21.148974,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,Latvia,0.0182,0.0323,0.0141
-2023-09-04 08:04:52.824828,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Toulouse,0.018099999999999998,0.0769,0.0588
 2023-09-04 05:03:18.394748,Premier League Futures/Specials - English Premier League 2023/24 - Winner without ''The Big 6'',West Ham United,0.018099999999999998,0.0769,0.0588
 2023-09-04 08:04:53.318353,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Deportivo Toluca,0.018099999999999998,0.0769,0.0588
+2023-09-04 08:04:52.824828,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Toulouse,0.018099999999999998,0.0769,0.0588
+2023-09-04 10:04:28.131064,Ascension Charity Classic - Ascension Charity Classic - Outright,Darren Clarke,0.018099999999999998,0.0526,0.0345
 2023-09-04 08:04:52.732843,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Inter Milan,0.017900000000000027,0.875,0.8571
-2023-09-04 00:02:36.060040,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Hibernian,0.0179,0.1429,0.125
+2023-09-04 10:04:27.755930,Elite Boxing - Tyson Fury vs Francis Ngannou - To Win the Bout,Francis Ngannou,0.0179,0.1429,0.125
 2023-09-04 08:04:52.764162,MLS - MLS 2023 - Top Goalscorer,Georgios Giakoumakis (ATL),0.0179,0.1429,0.125
-2023-09-04 00:02:40.527421,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-03 21:01:55.683653,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-03 23:01:43.903807,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-04 05:03:23.271988,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-03 22:01:43.627056,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-04 01:01:41.155766,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-04 02:03:07.047410,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-04 00:02:36.060040,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Hibernian,0.0179,0.1429,0.125
+2023-09-04 10:04:28.131064,Ascension Charity Classic - Ascension Charity Classic - Outright,Billy Andrade,0.017599999999999998,0.0196,0.002
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,Thorbjorn Olesen,0.0171,0.0196,0.0025
+2023-09-04 10:04:28.131064,Ascension Charity Classic - Ascension Charity Classic - Outright,Brian Gay,0.0171,0.0196,0.0025
+2023-09-04 10:04:25.529607,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Rushing TDs,Tony Pollard,0.017099999999999997,0.0588,0.0417
 2023-09-04 08:04:58.214999,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-04 08:04:52.764162,MLS - MLS 2023 - Top Goalscorer,Hany Mukhtar (NAS),0.016699999999999993,0.2667,0.25
+2023-09-04 10:04:09.357479,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-04 00:02:40.527421,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-03 23:01:43.903807,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-04 02:03:07.047410,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-04 05:03:23.271988,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-04 01:01:41.155766,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
 2023-09-04 08:05:01.633363,Los Angeles Rams - 2023-24 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U  8.5,Over 8.5,0.016699999999999993,0.2667,0.25
-2023-09-04 08:04:53.545000,Eredivisie - Dutch Eredivisie 2023/24 - To Be Relegated,RKC Waalwijk,0.016699999999999993,0.2667,0.25
 2023-09-04 08:04:52.824828,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Nantes,0.016699999999999993,0.2667,0.25
+2023-09-04 08:04:53.545000,Eredivisie - Dutch Eredivisie 2023/24 - To Be Relegated,RKC Waalwijk,0.016699999999999993,0.2667,0.25
+2023-09-04 08:04:52.764162,MLS - MLS 2023 - Top Goalscorer,Hany Mukhtar (NAS),0.016699999999999993,0.2667,0.25
+2023-09-04 10:04:25.461757,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Receiving TDs,Amon-Ra St. Brown,0.015799999999999998,0.0385,0.0227
 2023-09-04 08:04:52.657210,La Liga - Spain La Liga 2023/24 - Top 4 Finish,FC Barcelona,0.015699999999999936,0.9681,0.9524
 2023-09-04 08:04:52.956156,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Bahia,0.015400000000000025,0.4,0.3846
 2023-09-04 08:04:52.746874,MLS - MLS 2023 - Winner,Inter Miami,0.015100000000000002,0.1818,0.1667
-2023-09-03 22:01:41.916754,FIBA World Cup Futures - FIBA World Cup - Top Points Scorer,Anthony  Edwards,0.014899999999999997,0.0625,0.0476
 2023-09-04 05:03:21.148974,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,USA,0.014800000000000035,0.6226,0.6078
 2023-09-04 08:05:00.149357,Atlanta Falcons - 2023-24 Regular Season Wins O/U - Regular Season Wins - Atlanta Falcons O/U  6.5,Over 6.5,0.014799999999999924,0.8148,0.8
 2023-09-04 08:04:52.824828,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Lens,0.014499999999999999,0.0294,0.0149
 2023-09-04 05:03:21.431195,FIBA World Cup Futures - FIBA World Cup - Tournament MVP,Jalen  Brunson,0.014399999999999996,0.0769,0.0625
 2023-09-04 08:05:00.380996,Carolina Panthers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Carolina Panthers O/U  7.5,Under 7.5,0.014200000000000101,0.6296,0.6154
 2023-09-04 08:04:52.764162,MLS - MLS 2023 - Top Goalscorer,Christian Benteke (DCU),0.014099999999999998,0.0385,0.0244
-2023-09-04 08:04:52.956156,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Cuiabá,0.013999999999999999,0.0909,0.0769
-2023-09-04 08:04:52.657210,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Girona,0.013999999999999999,0.0909,0.0769
-2023-09-04 08:04:53.525535,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Holstein Kiel,0.013999999999999999,0.0909,0.0769
-2023-09-04 00:02:36.066817,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Kilmarnock,0.013999999999999999,0.0909,0.0769
 2023-09-04 05:03:18.437076,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Wolverhampton Wanderers,0.013999999999999999,0.0909,0.0769
+2023-09-04 08:04:53.525535,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Holstein Kiel,0.013999999999999999,0.0909,0.0769
+2023-09-04 08:04:52.956156,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Cuiabá,0.013999999999999999,0.0909,0.0769
 2023-09-04 08:04:53.476785,First Division A - Belgium First Division A 2023/24 - Outright,Anderlecht,0.013999999999999999,0.0909,0.0769
+2023-09-04 08:04:52.657210,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Girona,0.013999999999999999,0.0909,0.0769
+2023-09-04 00:02:36.066817,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Kilmarnock,0.013999999999999999,0.0909,0.0769
 2023-09-04 05:03:18.476989,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Fulham,0.013900000000000023,0.8889,0.875
 2023-09-04 05:03:18.460840,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Liverpool,0.013900000000000023,0.8889,0.875
 2023-09-04 08:04:53.476785,First Division A - Belgium First Division A 2023/24 - Outright,Union Saint-Gilloise,0.013899999999999996,0.125,0.1111
+2023-09-04 10:04:28.131064,Ascension Charity Classic - Ascension Charity Classic - Outright,Ken Duke,0.0132,0.0152,0.002
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,Padraig Harrington,0.0131,0.0164,0.0033
+2023-09-04 10:04:28.131064,Ascension Charity Classic - Ascension Charity Classic - Outright,K J Choi,0.0131,0.0476,0.0345
 2023-09-04 00:02:36.081103,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Livingston,0.0131,0.7778,0.7647
+2023-09-04 10:04:28.131064,Ascension Charity Classic - Ascension Charity Classic - Outright,Harrison Frazar,0.013,0.0196,0.0066
 2023-09-04 08:05:02.502715,Tampa Bay Buccaneers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tampa Bay Buccaneers O/U  8.5,Under 8.5,0.012899999999999912,0.8462,0.8333
 2023-09-04 08:05:00.393432,Carolina Panthers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Carolina Panthers O/U  9.5,Under 9.5,0.012899999999999912,0.8462,0.8333
 2023-09-04 08:04:52.848347,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Marseille,0.012899999999999912,0.8462,0.8333
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,Eddie Pepperell,0.0127,0.0152,0.0025
 2023-09-04 05:03:18.403142,Premier League Futures/Specials - English Premier League 2023/24 - Winner without Manchester City,Arsenal,0.012699999999999989,0.3636,0.3509
-2023-09-04 05:03:18.484941,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Everton,0.011499999999999955,0.6667,0.6552
+2023-09-04 10:04:28.131064,Ascension Charity Classic - Ascension Charity Classic - Outright,Woody Austin,0.011699999999999999,0.0196,0.0079
 2023-09-04 08:04:52.941290,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Botafogo,0.011499999999999955,0.6667,0.6552
+2023-09-04 05:03:18.484941,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Everton,0.011499999999999955,0.6667,0.6552
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,Matthew Jordan,0.011300000000000001,0.0123,0.001
 2023-09-04 00:02:36.030348,Eredivisie - Dutch Eredivisie 2023/24 - Winner,AZ Alkmaar,0.011199999999999995,0.0588,0.0476
 2023-09-04 08:05:02.042618,New York Giants - 2023-24 Regular Season Wins O/U - Regular Season Wins - New York Giants O/U  7.5,Over 7.5,0.01100000000000001,0.5348,0.5238
 2023-09-04 05:03:21.148974,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,Slovenia,0.0109,0.0526,0.0417
+2023-09-04 10:04:25.551871,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Rushing Yards,Cam Akers,0.010700000000000001,0.0385,0.0278
 2023-09-03 23:01:58.014430,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Toronto Argonauts,0.010500000000000065,0.8,0.7895
 2023-09-04 08:04:53.333843,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Atletico San Luis,0.010499999999999982,0.2105,0.2
 2023-09-03 23:01:57.998041,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,British Columbia Lions,0.010499999999999982,0.2105,0.2
 2023-09-04 05:03:38.252583,MLB Futures - MLB 2023 American League Central - American League Central Winner,Minnesota Twins,0.010400000000000076,0.9785,0.9681
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,Maximilian Kieffer,0.0103,0.0123,0.002
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,Grant Forrest,0.0103,0.0123,0.002
 2023-09-04 05:03:18.437076,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Burnley,0.0102,0.0769,0.0667
-2023-09-04 08:04:52.848347,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Montpellier,0.0102,0.0769,0.0667
 2023-09-04 08:04:53.326073,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Nicolas Ibanez (TIG),0.0102,0.0769,0.0667
+2023-09-04 08:04:52.848347,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Montpellier,0.0102,0.0769,0.0667
 2023-09-04 08:05:02.489896,Tampa Bay Buccaneers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tampa Bay Buccaneers O/U  6.5,Under 6.5,0.010099999999999998,0.5556,0.5455
 2023-09-04 08:04:52.667572,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Villarreal,-0.0102,0.0667,0.0769
-2023-09-04 08:05:00.393432,Carolina Panthers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Carolina Panthers O/U  9.5,Over 9.5,-0.010399999999999993,0.2222,0.2326
+2023-09-04 10:04:28.131064,Ascension Charity Classic - Ascension Charity Classic - Outright,Tom Pernice Jr,-0.0103,0.002,0.0123
 2023-09-04 08:05:02.502715,Tampa Bay Buccaneers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tampa Bay Buccaneers O/U  8.5,Over 8.5,-0.010399999999999993,0.2222,0.2326
+2023-09-04 08:05:00.393432,Carolina Panthers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Carolina Panthers O/U  9.5,Over 9.5,-0.010399999999999993,0.2222,0.2326
 2023-09-04 08:04:53.514289,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Lyngby BK,-0.010499999999999982,0.2,0.2105
 2023-09-04 08:05:02.042618,New York Giants - 2023-24 Regular Season Wins O/U - Regular Season Wins - New York Giants O/U  7.5,Under 7.5,-0.010699999999999932,0.5348,0.5455
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,Kazuki Higa,-0.011,0.0013,0.0123
+2023-09-04 00:02:38.655386,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Germany,Johannes  Thiemann,-0.011099999999999999,0.1,0.1111
 2023-09-04 08:04:53.326073,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,German Berterame (MON),-0.011099999999999999,0.1,0.1111
 2023-09-04 05:03:18.468686,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Burnley,-0.011099999999999999,0.1,0.1111
-2023-09-04 00:02:38.655386,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Germany,Johannes  Thiemann,-0.011099999999999999,0.1,0.1111
 2023-09-04 05:03:18.468686,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Chelsea,-0.011199999999999988,0.9412,0.9524
+2023-09-04 08:04:53.318353,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Atlas FC,-0.011199999999999995,0.0476,0.0588
+2023-09-04 08:04:52.824828,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Strasbourg,-0.011199999999999995,0.0476,0.0588
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,Aaron Rai,-0.011199999999999995,0.0323,0.0435
 2023-09-04 00:02:36.066817,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,St. Mirren,-0.011199999999999995,0.0476,0.0588
 2023-09-04 08:04:52.732843,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Torino,-0.011199999999999995,0.0476,0.0588
-2023-09-04 08:04:52.824828,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Strasbourg,-0.011199999999999995,0.0476,0.0588
-2023-09-04 08:04:53.318353,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Atlas FC,-0.011199999999999995,0.0476,0.0588
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,James Morrison,-0.0116,0.0033,0.0149
 2023-09-04 08:05:02.489896,Tampa Bay Buccaneers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tampa Bay Buccaneers O/U  6.5,Over 6.5,-0.011600000000000055,0.5122,0.5238
+2023-09-04 10:04:28.131064,Ascension Charity Classic - Ascension Charity Classic - Outright,Scott Parel,-0.011699999999999999,0.0079,0.0196
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,David Law,-0.011699999999999999,0.0079,0.0196
 2023-09-04 05:03:21.431195,FIBA World Cup Futures - FIBA World Cup - Tournament MVP,Mikal  Bridges,-0.0118,0.0099,0.0217
 2023-09-04 08:05:00.176029,Atlanta Falcons - 2023-24 Regular Season Wins O/U - Regular Season Wins - Atlanta Falcons O/U 10.5,Under 10.5,-0.011900000000000022,0.75,0.7619
-2023-09-03 21:01:53.864068,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Canada,Philip  Scrubb,-0.012100000000000001,0.0123,0.0244
 2023-09-04 00:02:54.635782,Boxing Lines - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Joseph Joyce,-0.012199999999999989,0.4878,0.5
-2023-09-03 22:01:57.993931,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Tampa Bay Rays,-0.012299999999999991,0.1053,0.1176
 2023-09-04 08:04:52.732843,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Fiorentina,-0.012899999999999995,0.1538,0.1667
+2023-09-04 10:04:28.131064,Ascension Charity Classic - Ascension Charity Classic - Outright,Bob Estes,-0.013,0.0066,0.0196
 2023-09-04 05:03:18.403142,Premier League Futures/Specials - English Premier League 2023/24 - Winner without Manchester City,West Ham United,-0.013,0.0066,0.0196
-2023-09-04 01:01:39.038499,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Italy,Stefano Tonut,-0.013400000000000002,0.011,0.0244
 2023-09-04 01:01:39.038499,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Italy,Simone  Fontecchio,-0.013400000000000002,0.011,0.0244
+2023-09-04 01:01:39.038499,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Italy,Stefano Tonut,-0.013400000000000002,0.011,0.0244
 2023-09-04 08:05:00.149357,Atlanta Falcons - 2023-24 Regular Season Wins O/U - Regular Season Wins - Atlanta Falcons O/U  6.5,Under 6.5,-0.013500000000000012,0.2532,0.2667
 2023-09-04 05:03:18.468686,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Wolverhampton Wanderers,-0.013899999999999996,0.1111,0.125
 2023-09-04 08:04:53.552355,Eredivisie - Dutch Eredivisie 2023/24 - Top 3 Finish,Ajax,-0.013900000000000023,0.875,0.8889
-2023-09-04 08:04:52.764162,MLS - MLS 2023 - Top Goalscorer,Cristian Espinoza (SJE),-0.013999999999999999,0.0769,0.0909
 2023-09-04 05:03:21.148974,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,Serbia,-0.013999999999999999,0.0769,0.0909
+2023-09-04 08:04:52.764162,MLS - MLS 2023 - Top Goalscorer,Cristian Espinoza (SJE),-0.013999999999999999,0.0769,0.0909
 2023-09-04 00:02:38.739813,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Germany,Maodo  Lo,-0.014099999999999998,0.0244,0.0385
 2023-09-04 00:02:36.019016,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Silkeborg IF,-0.014099999999999998,0.0294,0.0435
 2023-09-04 00:02:38.739813,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Germany,Daniel  Theis,-0.014399999999999996,0.0625,0.0769
 2023-09-04 08:04:52.948183,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Hulk (Atletico MG),-0.01440000000000001,0.0909,0.1053
 2023-09-04 08:04:52.813422,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Iliman-Cheikh Ndiaye (Marseille),-0.014499999999999999,0.0149,0.0294
-2023-09-04 08:04:53.333843,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,FC Juarez,-0.015100000000000002,0.1667,0.1818
 2023-09-04 05:03:18.468686,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Fulham,-0.015100000000000002,0.1667,0.1818
+2023-09-04 08:04:53.333843,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,FC Juarez,-0.015100000000000002,0.1667,0.1818
 2023-09-04 08:04:52.956156,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Vasco da Gama,-0.01539999999999997,0.6,0.6154
 2023-09-04 08:04:53.506821,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,AGF Aarhus,-0.015400000000000025,0.3846,0.4
-2023-09-04 08:04:53.514289,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Odense,-0.015400000000000025,0.3846,0.4
 2023-09-04 08:04:53.617195,Allsvenskan - Allsvenskan 2023 - Winner,Malmö FF,-0.015400000000000025,0.3846,0.4
-2023-09-03 22:01:58.025006,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Los Angeles Dodgers,-0.016000000000000014,0.3922,0.4082
+2023-09-04 08:04:53.514289,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Odense,-0.015400000000000025,0.3846,0.4
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,Dale Whitnell,-0.0156,0.004,0.0196
 2023-09-04 08:04:52.646113,La Liga - Spain La Liga 2023/24 - Winner,Real Madrid,-0.016699999999999937,0.5833,0.6
-2023-09-04 08:04:53.552355,Eredivisie - Dutch Eredivisie 2023/24 - Top 3 Finish,FC Twente,-0.016699999999999993,0.25,0.2667
 2023-09-04 00:02:36.030348,Eredivisie - Dutch Eredivisie 2023/24 - Winner,Feyenoord,-0.016699999999999993,0.25,0.2667
+2023-09-04 08:04:53.552355,Eredivisie - Dutch Eredivisie 2023/24 - Top 3 Finish,FC Twente,-0.016699999999999993,0.25,0.2667
 2023-09-04 05:03:18.429322,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Everton,-0.016699999999999993,0.4,0.4167
-2023-09-04 08:04:53.514289,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,FC Midtjylland,-0.016700000000000048,0.7333,0.75
-2023-09-04 00:02:36.019016,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Vejle BK,-0.016700000000000048,0.7333,0.75
-2023-09-03 21:01:55.696291,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-04 05:03:23.298016,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-04 02:03:07.060663,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-03 22:01:43.639457,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-04 01:01:41.168311,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-03 23:01:43.935980,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-04 00:02:40.540204,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-09-04 08:04:58.229944,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-04 00:02:36.019016,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Vejle BK,-0.016700000000000048,0.7333,0.75
+2023-09-04 02:03:07.060663,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-04 00:02:40.540204,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-04 01:01:41.168311,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-04 05:03:23.298016,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-03 23:01:43.935980,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-04 08:04:53.514289,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,FC Midtjylland,-0.016700000000000048,0.7333,0.75
+2023-09-04 10:04:09.377256,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-09-04 08:04:53.552355,Eredivisie - Dutch Eredivisie 2023/24 - Top 3 Finish,Heerenveen,-0.017099999999999997,0.0123,0.0294
 2023-09-04 08:04:52.646113,La Liga - Spain La Liga 2023/24 - Winner,Atlético Madrid,-0.01759999999999999,0.1,0.1176
-2023-09-04 08:04:53.476785,First Division A - Belgium First Division A 2023/24 - Outright,Genk,-0.0179,0.125,0.1429
 2023-09-04 05:03:18.460840,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,West Ham United,-0.0179,0.125,0.1429
+2023-09-04 08:04:53.476785,First Division A - Belgium First Division A 2023/24 - Outright,Genk,-0.0179,0.125,0.1429
 2023-09-04 05:03:18.484941,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Fulham,-0.017900000000000027,0.8571,0.875
 2023-09-04 08:05:13.915032,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Marvin Harrison Jr.,-0.018099999999999998,0.0345,0.0526
 2023-09-04 05:03:21.431195,FIBA World Cup Futures - FIBA World Cup - Tournament MVP,Austin Reaves (USA),-0.018099999999999998,0.0588,0.0769
-2023-09-04 08:05:01.633363,Los Angeles Rams - 2023-24 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U  8.5,Under 8.5,-0.018199999999999994,0.8,0.8182
+2023-09-04 10:04:27.755930,Elite Boxing - Tyson Fury vs Francis Ngannou - To Win the Bout,Tyson Fury,-0.018100000000000005,0.905,0.9231
 2023-09-04 08:04:53.514289,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,AGF Aarhus,-0.018199999999999994,0.8,0.8182
+2023-09-04 08:05:01.633363,Los Angeles Rams - 2023-24 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U  8.5,Under 8.5,-0.018199999999999994,0.8,0.8182
 2023-09-04 08:04:52.813422,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Terem Moffi (Nice),-0.018200000000000004,0.0294,0.0476
 2023-09-04 01:01:39.236361,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,Italy,-0.018200000000000004,0.0294,0.0476
 2023-09-04 08:04:52.836223,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Lyon,-0.01820000000000002,0.1818,0.2
 2023-09-04 05:03:18.468686,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Manchester United,-0.01849999999999996,0.9524,0.9709
 2023-09-04 08:04:52.667572,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Atlético Madrid,-0.01880000000000004,0.6364,0.6552
-2023-09-04 00:02:38.645696,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - USA,Anthony  Edwards,-0.0189,0.0196,0.0385
-2023-09-04 08:04:52.813422,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Pierre-Emerick Aubameyang (Marseille),-0.0189,0.0196,0.0385
-2023-09-04 08:04:52.813422,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Martin Terrier (Rennes),-0.0189,0.0196,0.0385
 2023-09-04 08:04:52.813422,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Arnaud Kalimuendo (Rennes),-0.0189,0.0196,0.0385
+2023-09-04 08:04:52.813422,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Martin Terrier (Rennes),-0.0189,0.0196,0.0385
+2023-09-04 08:04:52.813422,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Pierre-Emerick Aubameyang (Marseille),-0.0189,0.0196,0.0385
 2023-09-04 08:04:53.506821,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Randers,-0.0189,0.0196,0.0385
+2023-09-04 00:02:38.645696,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - USA,Anthony  Edwards,-0.0189,0.0196,0.0385
 2023-09-04 08:04:53.514289,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Vejle BK,-0.019000000000000003,0.0435,0.0625
 2023-09-04 08:04:52.732843,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Atalanta,-0.019000000000000017,0.2667,0.2857
 2023-09-04 00:02:36.011915,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Midtjylland,-0.019099999999999992,0.0476,0.0667
 2023-09-04 08:04:52.802025,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Lens,-0.019099999999999992,0.0476,0.0667
 2023-09-04 08:04:53.506821,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Odense,-0.019099999999999992,0.0476,0.0667
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,Romain Langasque,-0.019300000000000005,0.0152,0.0345
+2023-09-04 10:04:25.551871,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Rushing Yards,Jonathan Taylor,-0.019699999999999995,0.1053,0.125
 2023-09-04 08:05:00.380996,Carolina Panthers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Carolina Panthers O/U  7.5,Over 7.5,-0.019699999999999995,0.4348,0.4545
+2023-09-04 08:04:53.333843,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Querétaro FC,-0.02020000000000001,0.0909,0.1111
 2023-09-04 08:04:52.715082,Serie A - Italy Serie A 2023/24 - To Be Relegated,Bologna,-0.02020000000000001,0.0909,0.1111
 2023-09-04 08:04:52.813422,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Jonathan David (Lille),-0.02020000000000001,0.0909,0.1111
-2023-09-04 08:04:53.333843,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Querétaro FC,-0.02020000000000001,0.0909,0.1111
 2023-09-04 08:04:52.764162,MLS - MLS 2023 - Top Goalscorer,Jesus Ferreira (DAL),-0.0203,0.0385,0.0588
 2023-09-04 08:04:53.333843,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Club León,-0.02049999999999999,0.1333,0.1538
 2023-09-04 08:04:53.506821,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Midtjylland,-0.020799999999999985,0.3125,0.3333
@@ -277,40 +316,41 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-03 23:01:57.998041,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Winnipeg Blue Bombers,-0.02100000000000002,0.3636,0.3846
 2023-09-04 08:04:52.836223,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Lille,-0.02169999999999994,0.5238,0.5455
 2023-09-04 08:05:00.162715,Atlanta Falcons - 2023-24 Regular Season Wins O/U - Regular Season Wins - Atlanta Falcons O/U  8.5,Under 8.5,-0.021699999999999997,0.4545,0.4762
-2023-09-04 08:04:52.941290,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Palmeiras,-0.021999999999999964,0.2857,0.3077
-2023-09-04 08:04:52.715082,Serie A - Italy Serie A 2023/24 - To Be Relegated,Hellas Verona,-0.021999999999999964,0.2857,0.3077
 2023-09-04 08:04:52.715082,Serie A - Italy Serie A 2023/24 - To Be Relegated,Genoa,-0.021999999999999964,0.2857,0.3077
-2023-09-04 08:04:52.698195,Serie A - Italy Serie A 2023/24 - Winner,Juventus,-0.022199999999999998,0.2,0.2222
+2023-09-04 08:04:52.715082,Serie A - Italy Serie A 2023/24 - To Be Relegated,Hellas Verona,-0.021999999999999964,0.2857,0.3077
+2023-09-04 08:04:52.941290,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Palmeiras,-0.021999999999999964,0.2857,0.3077
 2023-09-04 05:03:18.460840,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Aston Villa,-0.022199999999999998,0.2,0.2222
 2023-09-04 00:02:36.011915,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Nordsjælland,-0.022199999999999998,0.2,0.2222
+2023-09-04 08:04:52.698195,Serie A - Italy Serie A 2023/24 - Winner,Juventus,-0.022199999999999998,0.2,0.2222
 2023-09-04 08:05:01.621093,Los Angeles Rams - 2023-24 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U  6.5,Over 6.5,-0.022600000000000064,0.5122,0.5348
 2023-09-04 05:03:21.431195,FIBA World Cup Futures - FIBA World Cup - Tournament MVP,RJ  Barrett,-0.022799999999999997,0.005,0.0278
-2023-09-04 08:04:52.948183,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,German Cano (Fluminense),-0.02310000000000001,0.0769,0.1
 2023-09-04 08:04:52.836223,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Toulouse,-0.02310000000000001,0.0769,0.1
+2023-09-04 08:04:52.948183,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,German Cano (Fluminense),-0.02310000000000001,0.0769,0.1
 2023-09-04 08:04:53.514289,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Hvidovre IF,-0.023200000000000002,0.0244,0.0476
 2023-09-04 08:05:13.915032,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Drake Maye,-0.023200000000000002,0.0294,0.0526
 2023-09-04 08:04:52.956156,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,América Mineiro,-0.023799999999999932,0.8333,0.8571
 2023-09-04 05:03:18.476989,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,West Ham United,-0.023800000000000043,0.5,0.5238
 2023-09-04 05:03:21.431195,FIBA World Cup Futures - FIBA World Cup - Tournament MVP,Jaren Jackson  Jr.,-0.024,0.0385,0.0625
-2023-09-04 05:03:18.429322,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Crystal Palace,-0.0242,0.0667,0.0909
-2023-09-04 05:03:18.437076,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Bournemouth,-0.0242,0.0667,0.0909
 2023-09-04 08:04:53.318353,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,CF Pachuca,-0.0242,0.0667,0.0909
-2023-09-04 08:04:52.764162,MLS - MLS 2023 - Top Goalscorer,Denis Bouanga (LAFC),-0.025300000000000003,0.1176,0.1429
+2023-09-04 05:03:18.437076,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Bournemouth,-0.0242,0.0667,0.0909
+2023-09-04 05:03:18.429322,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Crystal Palace,-0.0242,0.0667,0.0909
 2023-09-04 00:02:38.600593,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Italy,Giampaolo Ricci,-0.025300000000000003,0.1176,0.1429
+2023-09-04 08:04:52.764162,MLS - MLS 2023 - Top Goalscorer,Denis Bouanga (LAFC),-0.025300000000000003,0.1176,0.1429
 2023-09-04 05:03:38.284021,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,-0.025499999999999967,0.4,0.4255
 2023-09-04 08:04:52.802025,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Marseille,-0.02560000000000001,0.3077,0.3333
 2023-09-04 05:03:18.484941,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Luton Town,-0.02739999999999998,0.2667,0.2941
 2023-09-04 08:04:52.746874,MLS - MLS 2023 - Winner,Los Angeles FC,-0.027800000000000005,0.0833,0.1111
 2023-09-04 00:02:38.709110,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Slovenia,Bine  Prepelic,-0.028000000000000004,0.0196,0.0476
-2023-09-03 21:01:53.815080,FIBA World Cup Futures - FIBA World Cup - To Make Final,Latvia,-0.028399999999999995,0.0625,0.0909
 2023-09-04 08:05:01.608971,Los Angeles Rams - 2023-24 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U  4.5,Over 4.5,-0.02850000000000008,0.7674,0.7959
 2023-09-04 08:04:52.948183,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Tiquinho Soares (Botafogo),-0.028900000000000037,0.5455,0.5744
 2023-09-04 00:02:38.751923,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - USA,Tyrese  Haliburton,-0.029600000000000015,0.3704,0.4
 2023-09-04 05:03:18.468686,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Newcastle United,-0.02969999999999995,0.9412,0.9709
 2023-09-04 00:02:36.060040,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Hearts,-0.030299999999999994,0.3333,0.3636
-2023-09-04 08:04:52.715082,Serie A - Italy Serie A 2023/24 - To Be Relegated,Sassuolo,-0.031799999999999995,0.1111,0.1429
 2023-09-04 05:03:18.403142,Premier League Futures/Specials - English Premier League 2023/24 - Winner without Manchester City,Manchester United,-0.031799999999999995,0.1111,0.1429
+2023-09-04 08:04:52.715082,Serie A - Italy Serie A 2023/24 - To Be Relegated,Sassuolo,-0.031799999999999995,0.1111,0.1429
 2023-09-04 05:03:18.437076,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Everton,-0.031799999999999995,0.1111,0.1429
+2023-09-04 10:04:28.131064,Ascension Charity Classic - Ascension Charity Classic - Outright,Bernhard Langer,-0.031799999999999995,0.1111,0.1429
+2023-09-04 10:04:25.529607,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Rushing TDs,Jonathan Taylor,-0.0321,0.0588,0.0909
 2023-09-04 05:03:18.460840,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Brentford,-0.0321,0.0588,0.0909
 2023-09-04 08:04:53.545000,Eredivisie - Dutch Eredivisie 2023/24 - To Be Relegated,Heracles Almelo,-0.033299999999999996,0.1,0.1333
 2023-09-04 08:04:53.476785,First Division A - Belgium First Division A 2023/24 - Outright,Royal Antwerp,-0.033300000000000024,0.1667,0.2
@@ -319,20 +359,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-04 05:03:18.394748,Premier League Futures/Specials - English Premier League 2023/24 - Winner without ''The Big 6'',Aston Villa,-0.034100000000000005,0.0909,0.125
 2023-09-04 05:03:18.476989,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Nottingham Forest,-0.03410000000000002,0.875,0.9091
 2023-09-04 08:04:53.545000,Eredivisie - Dutch Eredivisie 2023/24 - To Be Relegated,Go Ahead Eagles,-0.03420000000000001,0.0769,0.1111
-2023-09-04 08:04:52.813422,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Amine Gouiri (Rennes),-0.0344,0.0244,0.0588
 2023-09-04 05:03:18.437076,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Nottingham Forest,-0.0344,0.0244,0.0588
+2023-09-04 08:04:52.813422,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Amine Gouiri (Rennes),-0.0344,0.0244,0.0588
 2023-09-04 05:03:18.460840,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Manchester United,-0.035699999999999954,0.7143,0.75
 2023-09-04 08:04:52.732843,Serie A - Italy Serie A 2023/24 - Top 4 Finish,AS Roma,-0.03570000000000001,0.25,0.2857
 2023-09-04 08:04:52.848347,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Lyon,-0.03640000000000004,0.3636,0.4
-2023-09-04 05:03:18.437076,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Sheffield United,-0.03710000000000002,0.3077,0.3448
 2023-09-04 08:04:52.963172,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,RB Bragantino,-0.03710000000000002,0.3333,0.3704
+2023-09-04 05:03:18.437076,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Sheffield United,-0.03710000000000002,0.3077,0.3448
 2023-09-04 08:04:53.506821,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Viborg FF,-0.038299999999999994,0.0526,0.0909
 2023-09-04 00:02:36.081103,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Ross County,-0.038899999999999935,0.8182,0.8571
 2023-09-04 00:02:36.074210,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Hearts,-0.038899999999999935,0.8182,0.8571
-2023-09-04 08:04:52.963172,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fortaleza,-0.03889999999999999,0.1429,0.1818
 2023-09-04 08:04:53.525535,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Schalke 04,-0.03889999999999999,0.1429,0.1818
-2023-09-04 05:03:18.484941,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Burnley,-0.04039999999999999,0.7778,0.8182
+2023-09-04 08:04:52.963172,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fortaleza,-0.03889999999999999,0.1429,0.1818
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,Thriston Lawrence,-0.0397,0.0079,0.0476
 2023-09-04 05:03:18.484941,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Wolverhampton Wanderers,-0.04039999999999999,0.7778,0.8182
+2023-09-04 05:03:18.484941,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Burnley,-0.04039999999999999,0.7778,0.8182
 2023-09-04 05:03:21.431195,FIBA World Cup Futures - FIBA World Cup - Tournament MVP,Tyrese  Haliburton,-0.0408,0.0217,0.0625
 2023-09-04 08:04:53.318353,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Chivas Guadalajara,-0.04169999999999999,0.125,0.1667
 2023-09-04 08:04:52.802025,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Rennes,-0.042899999999999994,0.1,0.1429
@@ -340,20 +381,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-04 08:04:52.824828,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Lorient,-0.044499999999999984,0.2222,0.2667
 2023-09-04 08:04:52.848347,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Lille,-0.044500000000000095,0.7333,0.7778
 2023-09-04 08:04:53.333843,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Chivas Guadalajara,-0.045499999999999985,0.5,0.5455
-2023-09-04 08:04:52.764162,MLS - MLS 2023 - Top Goalscorer,Lionel Messi (MIA),-0.04620000000000002,0.1538,0.2
 2023-09-04 01:01:39.236361,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,Germany,-0.04620000000000002,0.1538,0.2
+2023-09-04 08:04:52.764162,MLS - MLS 2023 - Top Goalscorer,Lionel Messi (MIA),-0.04620000000000002,0.1538,0.2
 2023-09-04 08:05:13.915032,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Carson Beck,-0.0474,0.0435,0.0909
 2023-09-04 08:04:52.813422,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Alexandre Lacazette (Lyon),-0.0475,0.0294,0.0769
 2023-09-04 08:04:53.639958,Superettan - Superettan 2023 - Winner,Västerås SK,-0.04760000000000003,0.4762,0.5238
 2023-09-04 08:04:56.304116,FIBA World Cup Futures - FIBA World Cup - Top Points Scorer,Luka  Doncic,-0.04760000000000009,0.6667,0.7143
 2023-09-04 08:04:53.506821,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Nordsjælland,-0.04910000000000003,0.6,0.6491
-2023-09-04 08:04:52.836223,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Lens,-0.04999999999999999,0.2,0.25
 2023-09-04 00:02:36.019016,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Lyngby BK,-0.04999999999999999,0.2,0.25
+2023-09-04 08:04:52.836223,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Lens,-0.04999999999999999,0.2,0.25
+2023-09-04 10:04:28.131064,Ascension Charity Classic - Ascension Charity Classic - Outright,John Huston,-0.0509,0.0079,0.0588
 2023-09-04 08:05:13.915032,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Jayden Daniels,-0.051,0.0323,0.0833
 2023-09-04 08:04:52.802025,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Lille,-0.05350000000000002,0.1818,0.2353
 2023-09-04 05:03:18.403142,Premier League Futures/Specials - English Premier League 2023/24 - Winner without Manchester City,Newcastle United,-0.05379999999999999,0.1,0.1538
-2023-09-04 00:02:38.709110,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Slovenia,Mike  Tobey,-0.05449999999999999,0.4,0.4545
 2023-09-04 00:02:36.081103,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Hibernian,-0.05449999999999999,0.4,0.4545
+2023-09-04 00:02:38.709110,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Slovenia,Mike  Tobey,-0.05449999999999999,0.4,0.4545
 2023-09-03 23:01:39.222869,Premiership - Scotland Premiership 2023/24 - Winner,Rangers,-0.05449999999999999,0.4,0.4545
 2023-09-04 05:03:18.445067,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Newcastle United,-0.05559999999999998,0.1111,0.1667
 2023-09-04 08:04:52.848347,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Strasbourg,-0.055900000000000005,0.3077,0.3636
@@ -364,19 +406,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-04 08:05:05.210103,Season Player Specials - NFL 2023-24 Receiving TDs - Juwan Johnson 2023-24 Regular Season Total Receiving TDs,Under 3.5,-0.05860000000000004,0.4762,0.5348
 2023-09-04 08:04:52.836223,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Rennes,-0.05980000000000002,0.3846,0.4444
 2023-09-04 05:03:18.452907,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Manchester United,-0.06190000000000001,0.3636,0.4255
+2023-09-04 08:04:52.824828,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Reims,-0.066,0.0769,0.1429
 2023-09-04 05:03:18.476989,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Tottenham Hotspur,-0.066,0.0769,0.1429
 2023-09-04 05:03:18.403142,Premier League Futures/Specials - English Premier League 2023/24 - Winner without Manchester City,Chelsea,-0.066,0.0769,0.1429
-2023-09-04 08:04:52.824828,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Reims,-0.066,0.0769,0.1429
 2023-09-04 08:04:52.848347,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Rennes,-0.06669999999999998,0.6,0.6667
 2023-09-04 05:03:18.468686,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Brentford,-0.06670000000000004,0.3333,0.4
 2023-09-04 08:04:52.698195,Serie A - Italy Serie A 2023/24 - Winner,Inter Milan,-0.06670000000000004,0.3333,0.4
 2023-09-04 08:04:52.657210,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Villarreal,-0.06820000000000001,0.1818,0.25
 2023-09-04 08:04:53.617195,Allsvenskan - Allsvenskan 2023 - Winner,BK Häcken,-0.06840000000000002,0.1538,0.2222
-2023-09-04 08:04:53.333843,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Cruz Azul,-0.07069999999999999,0.1111,0.1818
 2023-09-04 05:03:18.445067,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Chelsea,-0.07069999999999999,0.1111,0.1818
+2023-09-04 08:04:53.333843,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Cruz Azul,-0.07069999999999999,0.1111,0.1818
 2023-09-04 00:02:38.645696,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - USA,Brandon  Ingram,-0.0726,0.0385,0.1111
-2023-09-04 05:03:18.445067,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Manchester United,-0.07500000000000001,0.125,0.2
 2023-09-04 08:04:52.963172,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Athletico Paranaense,-0.07500000000000001,0.125,0.2
+2023-09-04 05:03:18.445067,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Manchester United,-0.07500000000000001,0.125,0.2
 2023-09-04 08:04:53.514289,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Viborg FF,-0.07619999999999999,0.4,0.4762
 2023-09-04 00:02:38.751923,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - USA,Austin  Reaves,-0.07619999999999999,0.4,0.4762
 2023-09-04 00:02:36.030348,Eredivisie - Dutch Eredivisie 2023/24 - Winner,Ajax,-0.07619999999999999,0.4,0.4762
@@ -388,6 +430,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-04 00:02:36.066817,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Ross County,-0.08330000000000001,0.1667,0.25
 2023-09-04 08:04:53.333843,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,CF Pachuca,-0.0857,0.2,0.2857
 2023-09-04 08:04:53.545000,Eredivisie - Dutch Eredivisie 2023/24 - To Be Relegated,PEC Zwolle,-0.09160000000000001,0.3846,0.4762
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,John Catlin,-0.096,0.004,0.1
 2023-09-04 00:02:36.060040,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Aberdeen,-0.09689999999999999,0.2667,0.3636
 2023-09-04 00:02:36.081103,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Motherwell,-0.09820000000000001,0.4762,0.5744
 2023-09-04 08:04:53.514289,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Randers,-0.1,0.1667,0.2667
@@ -396,12 +439,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-04 01:01:39.038499,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - Italy,Marco Spissu (ITA),-0.10709999999999997,0.75,0.8571
 2023-09-04 08:04:52.715082,Serie A - Italy Serie A 2023/24 - To Be Relegated,Lecce,-0.11430000000000001,0.2857,0.4
 2023-09-04 00:02:38.739813,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Germany,Dennis  Schroder,-0.1154,0.3846,0.5
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,Jorge Campillo,-0.1171,0.0079,0.125
 2023-09-04 08:04:52.813422,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Matias Goncalo Ramos (PSG),-0.125,0.125,0.25
 2023-09-04 01:01:39.118191,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - USA,Jaren  Jackson  Jr,-0.13040000000000002,0.4348,0.5652
 2023-09-04 05:03:18.394748,Premier League Futures/Specials - English Premier League 2023/24 - Winner without ''The Big 6'',Newcastle United,-0.13139999999999996,0.5238,0.6552
 2023-09-04 08:04:52.824828,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Brest,-0.13330000000000003,0.2667,0.4
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,Seamus Power,-0.13419999999999999,0.0196,0.1538
 2023-09-04 01:01:39.058100,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Italy,Achille Polonara (ITA),-0.1375,0.0625,0.2
 2023-09-04 05:03:18.460840,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Chelsea,-0.14289999999999992,0.5238,0.6667
-2023-09-03 21:01:53.864068,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Canada,Melvin  Ejim,-0.14440000000000003,0.0909,0.2353
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,Fabrizio Zanotti,-0.1459,0.0079,0.1538
 2023-09-04 00:02:38.645696,FIBA World Cup Futures - FIBA World Cup - Top Team Total Assists - USA,Austin  Reaves,-0.2331,0.0526,0.2857
 2023-09-04 00:02:38.655386,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Germany,Daniel  Theis,-0.25,0.5833,0.8333
+2023-09-04 10:04:28.103957,Irish Open - Irish Open - Outright,Adrian Meronk,-0.2841,0.0385,0.3226
