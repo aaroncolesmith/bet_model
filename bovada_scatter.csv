@@ -1,13 +1,17 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-05 07:02:22.041637,96th Academy Awards - Best Actress - Best Actress,Emma Stone - Poor Things,0.2948,0.3333,0.0385
+2023-09-05 11:02:29.454038,Film and TV Awards - Venice Film Festival: Golden Lion Winner - Golden Lion Winner 2023,Poor Things (Yorgos Lanthimos),0.14139999999999997,0.3636,0.2222
+2023-09-05 11:02:29.454038,Film and TV Awards - Venice Film Festival: Golden Lion Winner - Golden Lion Winner 2023,La Bete (Bertrand Bonello),0.13419999999999999,0.1818,0.0476
 2023-09-05 07:02:22.041637,96th Academy Awards - Best Actress - Best Actress,Fantasia Barrino - The Color Purple,0.11109999999999998,0.3333,0.2222
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",Charlton to score more goals than Nottingham U21,0.11069999999999997,0.5455,0.4348
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials","Port Vale, Harrogate and Bolton to score 6 or more goals combined",0.10710000000000003,0.5833,0.4762
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials","Port Vale, Harrogate and Bolton to score 8 or more goals combined",0.09719999999999998,0.3077,0.2105
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials","Port Vale, Harrogate and Bolton to score 3 or more combined 2nd half goals",0.09230000000000005,0.6923,0.6
+2023-09-05 11:02:29.454038,Film and TV Awards - Venice Film Festival: Golden Lion Winner - Golden Lion Winner 2023,The Killer (David Fincher),0.0909,0.1818,0.0909
 2023-09-05 08:03:44.682215,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,0.0857,0.2857,0.2
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",Home teams to score 10 or more goals,0.08410000000000006,0.6296,0.5455
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",Bolton or Bristol Rovers to score 3 or more goals,0.07939999999999997,0.5556,0.4762
+2023-09-05 11:02:29.479111,Hollywood Strikes - What month will the Screen Actors Guild strike end? - What month will the SAG strike end?,November 2023,0.07930000000000001,0.2222,0.1429
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials","Port Vale, Harrogate and Bolton to concede 3 or less goals combined",0.07690000000000008,0.6923,0.6154
 2023-09-05 08:03:44.620684,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,0.07450000000000001,0.8571,0.7826
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",Any team to score 5 or more goals,0.07239999999999996,0.3077,0.2353
@@ -21,17 +25,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",17 or more goals scored,0.059799999999999964,0.6154,0.5556
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials","Port Vale, Harrogate and Bolton each to score 2 or more goals",0.0595,0.25,0.1905
 2023-09-05 08:03:44.652549,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.05860000000000004,0.5348,0.4762
+2023-09-05 11:02:29.479111,Hollywood Strikes - What month will the Screen Actors Guild strike end? - What month will the SAG strike end?,October 2023,0.057699999999999974,0.3077,0.25
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",Home teams to score 14 or more goals,0.0567,0.2105,0.1538
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials","Port Vale, Harrogate and Bolton each to score 1 or more 2nd half goals",0.055900000000000005,0.3636,0.3077
 2023-09-05 02:04:13.142371,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,0.05559999999999998,0.8889,0.8333
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials","Port Vale, Harrogate and Bolton combined to score 5 or more goals and take 17 or more corners",0.05449999999999999,0.4545,0.4
-2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",Any player to score a Hat Trick,0.0504,0.2857,0.2353
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",21 or more goals scored,0.0504,0.2857,0.2353
+2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",Any player to score a Hat Trick,0.0504,0.2857,0.2353
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials","Port Vale, Harrogate and Bolton each to score 1 or more 1st half goals",0.04999999999999999,0.25,0.2
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials","Port Vale, Harrogate and Bolton to concede 1 or less goals combined",0.04999999999999999,0.25,0.2
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials","Port Vale, Harrogate and Bolton to score 10 or more goals combined",0.04619999999999999,0.1176,0.0714
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",3+ goals scored in 4+ matches,0.045499999999999985,0.5,0.4545
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",Bolton or Bristol Rovers to score 5 or more goals,0.04240000000000001,0.1333,0.0909
+2023-09-05 11:02:29.479111,Hollywood Strikes - What month will the Screen Actors Guild strike end? - What month will the SAG strike end?,December 2023,0.04169999999999999,0.1667,0.125
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",23 or more goals scored,0.04169999999999999,0.1667,0.125
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials","Port Vale, Harrogate and Bolton to score 5 or more combined 1st half goals",0.04169999999999999,0.1667,0.125
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",10 or more goals scored in 1st Half,0.04099999999999998,0.3077,0.2667
@@ -39,10 +45,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-05 02:04:12.454026,Detroit Pistons - 2023-24 Regular Season Wins O/U - Exact Season Wins,26 - 35,0.03639999999999999,0.6364,0.6
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials","Port Vale, Harrogate and Bolton combined to score 7 or more goals and take 21 or more corners",0.036199999999999996,0.1538,0.1176
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",8 or more goals scored in 1st Half,0.03480000000000005,0.5348,0.5
+2023-09-05 11:02:41.630203,Season Player Specials - NFL 2023-24 Receptions - Darren Waller 2023-24 Regular Season Total Receptions,Over 60.5,0.03480000000000005,0.5348,0.5
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",6 or more goals in at least 1 match,0.0348,0.4348,0.4
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",19 or more goals scored,0.0348,0.4348,0.4
-2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",Port Vale or Harrogate to score 5 or more goals,0.033299999999999996,0.1333,0.1
 2023-09-05 02:04:12.454026,Detroit Pistons - 2023-24 Regular Season Wins O/U - Exact Season Wins,36 - 45,0.033299999999999996,0.1333,0.1
+2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",Port Vale or Harrogate to score 5 or more goals,0.033299999999999996,0.1333,0.1
 2023-09-05 02:04:11.433357,Philadelphia 76ers - 2023-24 Regular Season Wins O/U - Exact Season Wins,36 - 45,0.031399999999999983,0.2667,0.2353
 2023-09-05 02:04:12.821741,Charlotte Hornets - 2023-24 Regular Season Wins O/U - Team Wins,Over 33.5,0.030299999999999994,0.3636,0.3333
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",A total of 17 or more goals and 62 or more corners taken,0.030299999999999994,0.3636,0.3333
@@ -66,55 +73,62 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",Bolton to score more goals than Bristol Rovers,0.019699999999999995,0.4545,0.4348
 2023-09-05 02:04:13.109604,Joe Biden Specials - Will Joe Biden be impeached during his first term as President? - Will Joe Biden be impeached during his first term as President?,No,0.019299999999999984,0.7561,0.7368
 2023-09-05 09:07:04.591183,NFL Weekly Specials - NFL Week 1 Leaders - Lowest Scoring Game - Week 1 (Sunday Only),CIN Bengals @ CLE Browns,0.019099999999999995,0.0435,0.0244
-2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",4 or more goals scored before 15:00,0.019000000000000017,0.2857,0.2667
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",3+ goals in 4+ matches; 10+ corners in 4+ matches,0.019000000000000017,0.2857,0.2667
+2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",4 or more goals scored before 15:00,0.019000000000000017,0.2857,0.2667
 2023-09-05 10:06:02.429671,Season Player Specials - NFL 2023-24 Receptions - Cooper Kupp 2023-24 Regular Season Total Receptions,Under 106.5,0.01880000000000004,0.5744,0.5556
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",2 or more own goals,0.01820000000000002,0.2,0.1818
+2023-09-05 11:02:49.115875,Boxing Lines - Opetaia Jai Tapu vs Jordan Thompson - To Win the Bout,Opetaia Jai Tapu,0.018199999999999994,0.8182,0.8
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",Harrogate to score more goals than Port Vale,0.018100000000000005,0.4348,0.4167
-2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",5 or more goals scored before 15:00,0.0179,0.1429,0.125
 2023-09-05 02:04:08.341007,League One - England - League One 2023/24 - Top 6 Finish,Cambridge United,0.0179,0.1429,0.125
+2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",5 or more goals scored before 15:00,0.0179,0.1429,0.125
 2023-09-05 07:02:28.783848,NFC South - NFC South 2023/24 - NFC South Exacta (1-2),1st NO Saints / 2nd ATL Falcons,0.017799999999999983,0.3077,0.2899
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",3+ goals scored in each match,0.017099999999999997,0.0556,0.0385
-2023-09-05 10:05:50.876168,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-05 11:02:33.718886,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
 2023-09-05 07:02:26.818484,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-05 02:04:12.836842,Charlotte Hornets - 2023-24 Regular Season Wins O/U - Team Wins,Over 27.5,0.016700000000000048,0.75,0.7333
 2023-09-05 08:03:28.250104,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-05 09:06:43.619499,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
 2023-09-05 02:04:13.175513,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-05 10:05:50.876168,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
 2023-09-05 03:05:04.041937,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-05 09:06:43.619499,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-05 02:04:12.836842,Charlotte Hornets - 2023-24 Regular Season Wins O/U - Team Wins,Over 27.5,0.016700000000000048,0.75,0.7333
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",Harrogate to score more goals than any other team,0.015700000000000006,0.1333,0.1176
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",A total of 19 or more goals and 66 or more corners taken,0.015100000000000002,0.1818,0.1667
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",Any team to score 7 or more goals,0.014099999999999998,0.0385,0.0244
+2023-09-05 11:02:49.099970,Boxing Lines - Ellie Scotney vs Laura Soledad Griffa - To Win the Bout,Ellie Scotney,0.014000000000000012,0.9231,0.9091
 2023-09-05 03:05:19.320656,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Toronto Blue Jays,0.013999999999999999,0.0909,0.0769
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",8 or more goals in at least 1 match,0.013999999999999999,0.0909,0.0769
 2023-09-05 07:02:28.783848,NFC South - NFC South 2023/24 - NFC South Exacta (1-2),1st ATL Falcons / 2nd NO Saints,0.013899999999999996,0.2222,0.2083
 2023-09-05 02:04:12.925455,Atlanta Hawks - 2023-24 Regular Season Wins O/U - Team Wins,Over 45.5,0.013300000000000034,0.3704,0.3571
 2023-09-05 03:05:19.789743,Tournament Match-Ups - Tournament Match-Ups - R. McIIroy vs T. Hatton - Tournament Match-Ups,Tyrrell Hatton,0.012699999999999989,0.3636,0.3509
 2023-09-05 02:04:13.270036,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,0.011600000000000055,0.5238,0.5122
-2023-09-05 02:04:08.326079,League One - England - League One 2023/24 - To Be Promoted,Cambridge United,0.011199999999999995,0.0588,0.0476
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",Any player to score 4 or more goals,0.011199999999999995,0.0435,0.0323
+2023-09-05 02:04:08.326079,League One - England - League One 2023/24 - To Be Promoted,Cambridge United,0.011199999999999995,0.0588,0.0476
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",1 or more own goals,0.01100000000000001,0.5348,0.5238
 2023-09-05 08:03:28.839020,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Pittsburgh Steelers,0.010700000000000001,0.0385,0.0278
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials","Port Vale, Harrogate and Bolton to score 7 or more combined 1st half goals",0.010600000000000002,0.0323,0.0217
-2023-09-05 02:04:27.533459,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Hamilton Tiger-Cats,-0.0102,0.0667,0.0769
 2023-09-05 07:02:28.783848,NFC South - NFC South 2023/24 - NFC South Exacta (1-2),1st ATL Falcons / 2nd CAR Panthers,-0.0102,0.0667,0.0769
+2023-09-05 02:04:27.533459,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Hamilton Tiger-Cats,-0.0102,0.0667,0.0769
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",Under 8.5 goals scored,-0.010600000000000002,0.0217,0.0323
 2023-09-05 02:04:11.433357,Philadelphia 76ers - 2023-24 Regular Season Wins O/U - Exact Season Wins,46 - 55,-0.010699999999999932,0.5348,0.5455
 2023-09-05 02:04:08.326079,League One - England - League One 2023/24 - To Be Promoted,Reading,-0.011199999999999995,0.0476,0.0588
 2023-09-05 02:04:13.270036,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Republican,-0.012199999999999989,0.4878,0.5
-2023-09-05 03:05:19.205434,NFL Weekly Specials - NFL Week 1 Leaders - Highest Scoring Team - Week 1 (Sunday Only),NO Saints,-0.0131,0.0345,0.0476
 2023-09-05 02:04:12.925455,Atlanta Hawks - 2023-24 Regular Season Wins O/U - Team Wins,Under 45.5,-0.0131,0.697,0.7101
+2023-09-05 03:05:19.205434,NFL Weekly Specials - NFL Week 1 Leaders - Highest Scoring Team - Week 1 (Sunday Only),NO Saints,-0.0131,0.0345,0.0476
 2023-09-05 08:03:44.652549,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,-0.013899999999999968,0.2564,0.2703
 2023-09-05 02:04:08.341007,League One - England - League One 2023/24 - Top 6 Finish,Reading,-0.013899999999999996,0.1111,0.125
+2023-09-05 11:02:29.479111,Hollywood Strikes - What month will the Screen Actors Guild strike end? - What month will the SAG strike end?,February 2024,-0.013999999999999999,0.0769,0.0909
 2023-09-05 02:04:08.333277,League One - England - League One 2023/24 - Top 2 Finish,Reading,-0.014099999999999998,0.0244,0.0385
+2023-09-05 11:02:29.454038,Film and TV Awards - Venice Film Festival: Golden Lion Winner - Golden Lion Winner 2023,Origin (Ava DuVernay),-0.014899999999999997,0.0476,0.0625
 2023-09-05 03:05:19.205434,NFL Weekly Specials - NFL Week 1 Leaders - Highest Scoring Team - Week 1 (Sunday Only),CLE Browns,-0.015300000000000001,0.0435,0.0588
-2023-09-05 02:04:11.725142,Toronto Raptors - 2023-24 Regular Season Wins O/U - Team Wins,Under 39.5,-0.016700000000000048,0.7333,0.75
-2023-09-05 02:04:13.189042,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-05 11:02:49.115875,Boxing Lines - Opetaia Jai Tapu vs Jordan Thompson - To Win the Bout,Jordan Thompson,-0.016699999999999993,0.25,0.2667
+2023-09-05 11:02:33.733811,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-09-05 10:05:50.897835,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-05 09:06:43.647134,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-05 08:03:28.270025,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-05 02:04:13.189042,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-09-05 03:05:04.055544,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-09-05 07:02:26.831495,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-05 08:03:28.270025,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-05 02:04:11.725142,Toronto Raptors - 2023-24 Regular Season Wins O/U - Team Wins,Under 39.5,-0.016700000000000048,0.7333,0.75
+2023-09-05 09:06:43.647134,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials","Port Vale, Harrogate and Bolton to score 1 or less goals combined",-0.017099999999999997,0.0385,0.0556
 2023-09-05 03:05:19.789743,Tournament Match-Ups - Tournament Match-Ups - R. McIIroy vs T. Hatton - Tournament Match-Ups,Rory McIlroy,-0.017300000000000093,0.697,0.7143
 2023-09-05 03:05:19.205434,NFL Weekly Specials - NFL Week 1 Leaders - Highest Scoring Team - Week 1 (Sunday Only),DAL Cowboys,-0.01759999999999999,0.1,0.1176
@@ -122,10 +136,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",Port Vale to score more goals than Harrogate,-0.019699999999999995,0.4348,0.4545
 2023-09-05 02:04:13.109604,Joe Biden Specials - Will Joe Biden be impeached during his first term as President? - Will Joe Biden be impeached during his first term as President?,Yes,-0.02020000000000005,0.3077,0.3279
 2023-09-05 03:05:19.205434,NFL Weekly Specials - NFL Week 1 Leaders - Highest Scoring Team - Week 1 (Sunday Only),WAS Commanders,-0.0203,0.0385,0.0588
+2023-09-05 11:02:49.099970,Boxing Lines - Ellie Scotney vs Laura Soledad Griffa - To Win the Bout,Laura Soledad Griffa,-0.02049999999999999,0.1333,0.1538
 2023-09-05 02:04:11.444924,Philadelphia 76ers - 2023-24 Regular Season Wins O/U - Team Wins,Over 49.5,-0.02079999999999993,0.5348,0.5556
 2023-09-05 02:04:12.836842,Charlotte Hornets - 2023-24 Regular Season Wins O/U - Team Wins,Under 27.5,-0.020799999999999985,0.3125,0.3333
 2023-09-05 02:04:11.465661,Philadelphia 76ers - 2023-24 Regular Season Wins O/U - Team Wins,Over 52.5,-0.02260000000000001,0.3774,0.4
 2023-09-05 02:04:12.809495,Charlotte Hornets - 2023-24 Regular Season Wins O/U - Team Wins,Under 30.5,-0.022600000000000064,0.5122,0.5348
+2023-09-05 11:02:29.454038,Film and TV Awards - Venice Film Festival: Golden Lion Winner - Golden Lion Winner 2023,Maestro (Bradley Cooper),-0.023799999999999988,0.1429,0.1667
+2023-09-05 11:02:29.479111,Hollywood Strikes - What month will the Screen Actors Guild strike end? - What month will the SAG strike end?,January 2024,-0.023799999999999988,0.1429,0.1667
 2023-09-05 03:05:19.205434,NFL Weekly Specials - NFL Week 1 Leaders - Highest Scoring Team - Week 1 (Sunday Only),MIN Vikings,-0.023799999999999988,0.1429,0.1667
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",Under 10.5 goals scored,-0.0242,0.0667,0.0909
 2023-09-05 03:05:19.205434,NFL Weekly Specials - NFL Week 1 Leaders - Highest Scoring Team - Week 1 (Sunday Only),DEN Broncos,-0.024299999999999995,0.0526,0.0769
@@ -139,9 +156,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-05 03:05:19.303443,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Los Angeles Dodgers,-0.02779999999999999,0.2222,0.25
 2023-09-05 03:05:19.205434,NFL Weekly Specials - NFL Week 1 Leaders - Highest Scoring Team - Week 1 (Sunday Only),JAX Jaguars,-0.027800000000000005,0.0833,0.1111
 2023-09-05 03:05:19.205434,NFL Weekly Specials - NFL Week 1 Leaders - Highest Scoring Team - Week 1 (Sunday Only),BAL Ravens,-0.027999999999999997,0.1538,0.1818
+2023-09-05 11:02:29.454038,Film and TV Awards - Venice Film Festival: Golden Lion Winner - Golden Lion Winner 2023,Ferrari (Michael Mann),-0.029299999999999993,0.0476,0.0769
+2023-09-05 11:02:41.630203,Season Player Specials - NFL 2023-24 Receptions - Darren Waller 2023-24 Regular Season Total Receptions,Under 60.5,-0.030399999999999983,0.5348,0.5652
 2023-09-05 03:05:19.205434,NFL Weekly Specials - NFL Week 1 Leaders - Highest Scoring Team - Week 1 (Sunday Only),MIA Dolphins,-0.0321,0.0588,0.0909
-2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",Under 12.5 goals scored,-0.033300000000000024,0.1667,0.2
 2023-09-05 03:05:19.205434,NFL Weekly Specials - NFL Week 1 Leaders - Highest Scoring Team - Week 1 (Sunday Only),LA Chargers,-0.033300000000000024,0.1667,0.2
+2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",Under 12.5 goals scored,-0.033300000000000024,0.1667,0.2
+2023-09-05 11:02:29.454038,Film and TV Awards - Venice Film Festival: Golden Lion Winner - Golden Lion Winner 2023,Io Capitano (Matteo Garrone),-0.03420000000000001,0.0769,0.1111
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",Home teams to score 5 or less goals,-0.0343,0.0833,0.1176
 2023-09-05 03:05:19.205434,NFL Weekly Specials - NFL Week 1 Leaders - Highest Scoring Team - Week 1 (Sunday Only),SEA Seahawks,-0.036199999999999996,0.1176,0.1538
 2023-09-05 03:05:19.205434,NFL Weekly Specials - NFL Week 1 Leaders - Highest Scoring Team - Week 1 (Sunday Only),BUF Bills,-0.037500000000000006,0.0625,0.1
@@ -160,5 +180,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials","Port Vale, Harrogate and Bolton to concede 4 or more goals combined",-0.07619999999999999,0.4,0.4762
 2023-09-05 02:04:12.454026,Detroit Pistons - 2023-24 Regular Season Wins O/U - Exact Season Wins,0 - 25,-0.0816,0.2632,0.3448
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials","Port Vale, Harrogate and Bolton to score 3 or less goals combined",-0.0857,0.2,0.2857
+2023-09-05 11:02:29.454038,Film and TV Awards - Venice Film Festival: Golden Lion Winner - Golden Lion Winner 2023,Finalmente l'alba (Saverio Costanzo),-0.08979999999999999,0.0769,0.1667
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials",Nottingham U21 to score more goals than Charlton,-0.09230000000000005,0.3077,0.4
 2023-09-05 07:02:22.018291,"Daily Soccer Specials - EFL Trophy Specials - Tuesday, 5th September - 12:45 EST kick off specials","Port Vale, Harrogate and Bolton to score 5 or less goals combined",-0.09999999999999998,0.5,0.6
