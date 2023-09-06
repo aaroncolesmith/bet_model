@@ -6,10 +6,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-05 14:05:40.777902,96th Academy Awards - Best Actress - Best Actress,Annette Bening - Nyad,0.10439999999999999,0.1429,0.0385
 2023-09-05 11:02:29.454038,Film and TV Awards - Venice Film Festival: Golden Lion Winner - Golden Lion Winner 2023,The Killer (David Fincher),0.0909,0.1818,0.0909
 2023-09-05 14:05:40.812592,96th Academy Awards - Best Picture - Best Picture,Poor Things,0.0867,0.1111,0.0244
-2023-09-05 08:03:44.682215,MLB Futures - MLB 2023 National League Central - National League Central Winner,Chicago Cubs,0.0857,0.2857,0.2
 2023-09-05 11:02:29.479111,Hollywood Strikes - What month will the Screen Actors Guild strike end? - What month will the SAG strike end?,November 2023,0.07930000000000001,0.2222,0.1429
-2023-09-05 08:03:44.620684,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,0.07450000000000001,0.8571,0.7826
-2023-09-05 08:03:44.652549,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.05860000000000004,0.5348,0.4762
 2023-09-05 11:02:29.479111,Hollywood Strikes - What month will the Screen Actors Guild strike end? - What month will the SAG strike end?,October 2023,0.057699999999999974,0.3077,0.25
 2023-09-05 12:02:43.727618,FIBA World Cup Futures - FIBA World Cup - Tournament MVP,Mikal  Bridges,0.0573,0.0769,0.0196
 2023-09-05 12:02:43.747992,FIBA World Cup Futures - FIBA World Cup - Winning Confederation,Americas,0.056400000000000006,0.8,0.7436
@@ -24,15 +21,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-05 17:03:41.120436,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Jordan Travis,0.037599999999999995,0.1429,0.1053
 2023-09-05 11:02:41.630203,Season Player Specials - NFL 2023-24 Receptions - Darren Waller 2023-24 Regular Season Total Receptions,Over 60.5,0.03480000000000005,0.5348,0.5
 2023-09-05 18:02:49.554326,NFC South - NFC South 2023/24 - ATL Falcons Exact Finishing Position,1st,0.030299999999999994,0.3636,0.3333
-2023-09-05 14:05:40.812592,96th Academy Awards - Best Picture - Best Picture,Past Lives,0.029299999999999993,0.0769,0.0476
 2023-09-05 14:05:40.812592,96th Academy Awards - Best Picture - Best Picture,Anatomy Of A Fall,0.029299999999999993,0.0769,0.0476
+2023-09-05 14:05:40.812592,96th Academy Awards - Best Picture - Best Picture,Past Lives,0.029299999999999993,0.0769,0.0476
 2023-09-05 12:02:43.727618,FIBA World Cup Futures - FIBA World Cup - Tournament MVP,Paolo  Banchero,0.028000000000000004,0.0476,0.0196
-2023-09-05 08:03:29.135187,AFC North - AFC North 2023/24 - AFC North Winner,Pittsburgh Steelers,0.026100000000000012,0.2,0.1739
-2023-09-05 15:03:30.437957,96th Academy Awards - Best Director - Best Director,Yorgos Lanthimos - Poor Things,0.024,0.0625,0.0385
 2023-09-05 15:03:30.437957,96th Academy Awards - Best Director - Best Director,David Fincher - The Killer,0.024,0.0625,0.0385
 2023-09-05 14:05:40.812592,96th Academy Awards - Best Picture - Best Picture,Barbie,0.024,0.0625,0.0385
-2023-09-05 15:03:30.437957,96th Academy Awards - Best Director - Best Director,Christopher Nolan - Oppenheimer,0.023800000000000043,0.5238,0.5
+2023-09-05 15:03:30.437957,96th Academy Awards - Best Director - Best Director,Yorgos Lanthimos - Poor Things,0.024,0.0625,0.0385
 2023-09-05 16:03:25.623232,FIBA World Cup Futures - FIBA World Cup - Top Points Scorer,Shai Gilgeous –Alexander,0.023800000000000043,0.5238,0.5
+2023-09-05 15:03:30.437957,96th Academy Awards - Best Director - Best Director,Christopher Nolan - Oppenheimer,0.023800000000000043,0.5238,0.5
 2023-09-05 12:02:41.212214,96th Academy Awards - Best Actor - Best Actor,Colman Domingo - Rustin,0.023799999999999988,0.1667,0.1429
 2023-09-05 14:05:40.812592,96th Academy Awards - Best Picture - Best Picture,The Killer,0.023200000000000002,0.0476,0.0244
 2023-09-05 14:05:40.812592,96th Academy Awards - Best Picture - Best Picture,Asteroid City,0.023200000000000002,0.0476,0.0244
@@ -42,26 +38,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-05 12:02:43.706572,FIBA World Cup Futures - FIBA World Cup - Top Total Rebounds,Nicolo  Melli,0.0189,0.0385,0.0196
 2023-09-05 10:06:02.429671,Season Player Specials - NFL 2023-24 Receptions - Cooper Kupp 2023-24 Regular Season Total Receptions,Under 106.5,0.01880000000000004,0.5744,0.5556
 2023-09-05 11:02:49.115875,Boxing Lines - Opetaia Jai Tapu vs Jordan Thompson - To Win the Bout,Opetaia Jai Tapu,0.018199999999999994,0.8182,0.8
-2023-09-05 17:03:25.374458,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
 2023-09-05 18:02:47.979834,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-05 11:02:33.718886,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-05 14:05:47.852016,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-05 17:03:25.374458,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-05 20:02:04.562382,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-05 21:03:35.352989,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-05 19:02:48.475855,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
 2023-09-05 15:03:36.474606,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
 2023-09-05 16:03:28.663082,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-05 20:02:04.562382,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-05 09:06:43.619499,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-05 11:02:33.718886,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
 2023-09-05 12:02:45.905045,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
 2023-09-05 13:06:17.524217,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
 2023-09-05 10:05:50.876168,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-05 09:06:43.619499,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-05 19:02:48.475855,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-09-05 08:03:28.250104,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
+2023-09-05 14:05:47.852016,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
 2023-09-05 16:03:25.606401,FIBA World Cup Futures - FIBA World Cup - Top Total Rebounds,Nikola  Milutinov,0.016699999999999937,0.6,0.5833
 2023-09-05 17:03:41.604384,Irish Open - Irish Open - Winner,Rory McIlroy,0.015199999999999991,0.2326,0.2174
-2023-09-05 14:05:40.892922,Kardashian Specials - Kourtney Kardashian's Next Baby Name - Kourtney's Next Baby Name,Travis,0.014899999999999997,0.0625,0.0476
 2023-09-05 12:02:41.212214,96th Academy Awards - Best Actor - Best Actor,Ryan Gosling - Barbie,0.014899999999999997,0.0625,0.0476
+2023-09-05 14:05:40.892922,Kardashian Specials - Kourtney Kardashian's Next Baby Name - Kourtney's Next Baby Name,Rocky,0.014899999999999997,0.0625,0.0476
 2023-09-05 14:05:40.812592,96th Academy Awards - Best Picture - Best Picture,Dune: Part Two,0.014899999999999997,0.0625,0.0476
 2023-09-05 14:05:40.812592,96th Academy Awards - Best Picture - Best Picture,Maestro,0.014899999999999997,0.0625,0.0476
-2023-09-05 14:05:40.892922,Kardashian Specials - Kourtney Kardashian's Next Baby Name - Kourtney's Next Baby Name,Rocky,0.014899999999999997,0.0625,0.0476
+2023-09-05 14:05:40.892922,Kardashian Specials - Kourtney Kardashian's Next Baby Name - Kourtney's Next Baby Name,Travis,0.014899999999999997,0.0625,0.0476
 2023-09-05 14:05:40.812592,96th Academy Awards - Best Picture - Best Picture,Napoleon,0.014099999999999998,0.0385,0.0244
 2023-09-05 14:05:40.812592,96th Academy Awards - Best Picture - Best Picture,The Holdovers,0.014099999999999998,0.0385,0.0244
 2023-09-05 11:02:49.099970,Boxing Lines - Ellie Scotney vs Laura Soledad Griffa - To Win the Bout,Ellie Scotney,0.014000000000000012,0.9231,0.9091
@@ -69,7 +65,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-05 16:03:25.472499,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,USA,0.012299999999999978,0.6552,0.6429
 2023-09-05 12:02:43.737728,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,Canada,0.0116,0.4878,0.4762
 2023-09-05 12:02:43.727618,FIBA World Cup Futures - FIBA World Cup - Tournament MVP,RJ  Barrett,0.011399999999999997,0.0278,0.0164
-2023-09-05 08:03:28.839020,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Pittsburgh Steelers,0.010700000000000001,0.0385,0.0278
 2023-09-05 19:03:03.439477,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Yordenis Ugas,0.010500000000000065,0.8,0.7895
 2023-09-05 17:03:41.120436,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Shedeur Sanders,-0.0102,0.0667,0.0769
 2023-09-05 14:05:40.761580,96th Academy Awards - Best Actor - Best Actor,Bradley Cooper - Maestro,-0.010499999999999982,0.2,0.2105
@@ -79,40 +74,39 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-05 18:02:49.554326,NFC South - NFC South 2023/24 - ATL Falcons Exact Finishing Position,3rd,-0.011099999999999999,0.2667,0.2778
 2023-09-05 12:03:02.774178,Boxing Lines - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Joseph Joyce,-0.012199999999999989,0.5,0.5122
 2023-09-05 18:02:49.554326,NFC South - NFC South 2023/24 - ATL Falcons Exact Finishing Position,2nd,-0.012799999999999978,0.2857,0.2985
-2023-09-05 08:03:44.652549,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,-0.013899999999999968,0.2564,0.2703
-2023-09-05 14:05:40.892922,Kardashian Specials - Kourtney Kardashian's Next Baby Name - Kourtney's Next Baby Name,Ajax,-0.013999999999999999,0.0769,0.0909
 2023-09-05 15:03:30.437957,96th Academy Awards - Best Director - Best Director,Justine Triet - Anatomy Of A Fall,-0.013999999999999999,0.0769,0.0909
 2023-09-05 17:03:41.604384,Irish Open - Irish Open - Winner,Tyrrell Hatton,-0.013999999999999999,0.0769,0.0909
+2023-09-05 14:05:40.892922,Kardashian Specials - Kourtney Kardashian's Next Baby Name - Kourtney's Next Baby Name,Ajax,-0.013999999999999999,0.0769,0.0909
 2023-09-05 15:03:30.437957,96th Academy Awards - Best Director - Best Director,Celine Song - Past Lives,-0.013999999999999999,0.0769,0.0909
 2023-09-05 11:02:29.479111,Hollywood Strikes - What month will the Screen Actors Guild strike end? - What month will the SAG strike end?,February 2024,-0.013999999999999999,0.0769,0.0909
-2023-09-05 14:05:40.892922,Kardashian Specials - Kourtney Kardashian's Next Baby Name - Kourtney's Next Baby Name,Scout,-0.014399999999999996,0.0625,0.0769
-2023-09-05 15:03:30.437957,96th Academy Awards - Best Director - Best Director,Bradley Cooper - Maestro,-0.014399999999999996,0.0625,0.0769
 2023-09-05 14:05:40.761580,96th Academy Awards - Best Actor - Best Actor,Paul Giamatti - The Holdovers,-0.014399999999999996,0.0625,0.0769
+2023-09-05 15:03:30.437957,96th Academy Awards - Best Director - Best Director,Bradley Cooper - Maestro,-0.014399999999999996,0.0625,0.0769
+2023-09-05 14:05:40.892922,Kardashian Specials - Kourtney Kardashian's Next Baby Name - Kourtney's Next Baby Name,Scout,-0.014399999999999996,0.0625,0.0769
 2023-09-05 12:02:43.696399,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Marko  Guduric,-0.0145,0.0099,0.0244
 2023-09-05 14:05:40.761580,96th Academy Awards - Best Actor - Best Actor,Leonardo DiCaprio - Killers of the Flower Moon,-0.01469999999999999,0.2353,0.25
-2023-09-05 14:05:40.892922,Kardashian Specials - Kourtney Kardashian's Next Baby Name - Kourtney's Next Baby Name,Dash,-0.014899999999999997,0.0476,0.0625
 2023-09-05 15:03:30.437957,96th Academy Awards - Best Director - Best Director,Blitz Bazawule - The Color Purple,-0.014899999999999997,0.0476,0.0625
-2023-09-05 11:02:29.454038,Film and TV Awards - Venice Film Festival: Golden Lion Winner - Golden Lion Winner 2023,Origin (Ava DuVernay),-0.014899999999999997,0.0476,0.0625
 2023-09-05 15:03:30.437957,96th Academy Awards - Best Director - Best Director,Alexander Payne - The Holdovers,-0.014899999999999997,0.0476,0.0625
+2023-09-05 11:02:29.454038,Film and TV Awards - Venice Film Festival: Golden Lion Winner - Golden Lion Winner 2023,Origin (Ava DuVernay),-0.014899999999999997,0.0476,0.0625
+2023-09-05 14:05:40.892922,Kardashian Specials - Kourtney Kardashian's Next Baby Name - Kourtney's Next Baby Name,Dash,-0.014899999999999997,0.0476,0.0625
 2023-09-05 16:03:25.540144,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Slovenia,Mike  Tobey,-0.015400000000000025,0.3846,0.4
 2023-09-05 17:03:25.524179,45th Federal Election - Sworn In Government After Election - Government After Election,Conservative,-0.016699999999999937,0.5833,0.6
 2023-09-05 11:02:49.115875,Boxing Lines - Opetaia Jai Tapu vs Jordan Thompson - To Win the Bout,Jordan Thompson,-0.016699999999999993,0.25,0.2667
-2023-09-05 20:02:04.575807,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-05 15:03:36.494151,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
-2023-09-05 08:03:28.270025,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-05 21:03:35.366192,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-09-05 09:06:43.647134,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-09-05 10:05:50.897835,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-09-05 11:02:33.733811,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-09-05 12:02:45.924091,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-09-05 13:06:17.544800,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-09-05 14:05:47.871624,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-05 15:03:36.494151,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-09-05 16:03:28.682923,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-09-05 17:03:25.387810,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-09-05 18:02:47.997041,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-09-05 19:02:48.489146,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
+2023-09-05 20:02:04.575807,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.016700000000000048,0.7333,0.75
 2023-09-05 12:02:43.737728,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,Slovenia,-0.01759999999999999,0.1,0.1176
-2023-09-05 16:03:25.472499,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,Serbia,-0.0179,0.125,0.1429
 2023-09-05 14:05:40.761580,96th Academy Awards - Best Actor - Best Actor,Barry Keoghan - Saltburn,-0.0179,0.125,0.1429
+2023-09-05 16:03:25.472499,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,Serbia,-0.0179,0.125,0.1429
 2023-09-05 14:05:40.892922,Kardashian Specials - Kourtney Kardashian's Next Baby Name - Kourtney's Next Baby Name,Atticus,-0.02020000000000001,0.0909,0.1111
 2023-09-05 11:02:49.099970,Boxing Lines - Ellie Scotney vs Laura Soledad Griffa - To Win the Bout,Laura Soledad Griffa,-0.02049999999999999,0.1333,0.1538
 2023-09-05 14:05:40.761580,96th Academy Awards - Best Actor - Best Actor,Colman Domingo - Rustin,-0.023799999999999988,0.1429,0.1667
@@ -122,32 +116,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-05 12:02:43.706572,FIBA World Cup Futures - FIBA World Cup - Top Total Rebounds,Jonas  Valanciunas,-0.023800000000000043,0.5,0.5238
 2023-09-05 16:03:25.623232,FIBA World Cup Futures - FIBA World Cup - Top Points Scorer,Anthony  Edwards,-0.024,0.0385,0.0625
 2023-09-05 10:06:02.429671,Season Player Specials - NFL 2023-24 Receptions - Cooper Kupp 2023-24 Regular Season Total Receptions,Over 106.5,-0.024399999999999977,0.4878,0.5122
-2023-09-05 08:03:44.682215,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,-0.02529999999999999,0.8571,0.8824
-2023-09-05 15:03:30.437957,96th Academy Awards - Best Director - Best Director,Martin Scorsese - Killers of the Flower Moon,-0.02560000000000001,0.3077,0.3333
 2023-09-05 16:03:25.589829,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Dennis  Schroder,-0.02560000000000001,0.3077,0.3333
-2023-09-05 08:03:29.135187,AFC North - AFC North 2023/24 - AFC North Winner,Cleveland Browns,-0.02729999999999999,0.2,0.2273
+2023-09-05 15:03:30.437957,96th Academy Awards - Best Director - Best Director,Martin Scorsese - Killers of the Flower Moon,-0.02560000000000001,0.3077,0.3333
 2023-09-05 17:03:41.120436,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Cade Klubnik,-0.028199999999999996,0.0385,0.0667
 2023-09-05 15:03:30.437957,96th Academy Awards - Best Director - Best Director,Jonathan Glazer - The Zone Of Interest,-0.028399999999999995,0.0625,0.0909
-2023-09-05 15:03:30.437957,96th Academy Awards - Best Director - Best Director,Denis Villeneuve - Dune: Part Two,-0.028399999999999995,0.0625,0.0909
 2023-09-05 15:03:30.437957,96th Academy Awards - Best Director - Best Director,Greta Gerwig – Barbie,-0.028399999999999995,0.0625,0.0909
+2023-09-05 15:03:30.437957,96th Academy Awards - Best Director - Best Director,Denis Villeneuve - Dune: Part Two,-0.028399999999999995,0.0625,0.0909
 2023-09-05 12:02:43.737728,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,Germany,-0.028799999999999992,0.125,0.1538
-2023-09-05 15:03:30.437957,96th Academy Awards - Best Director - Best Director,Emerald Fennell - Saltburn,-0.029299999999999993,0.0476,0.0769
 2023-09-05 11:02:29.454038,Film and TV Awards - Venice Film Festival: Golden Lion Winner - Golden Lion Winner 2023,Ferrari (Michael Mann),-0.029299999999999993,0.0476,0.0769
+2023-09-05 15:03:30.437957,96th Academy Awards - Best Director - Best Director,Emerald Fennell - Saltburn,-0.029299999999999993,0.0476,0.0769
 2023-09-05 11:02:41.630203,Season Player Specials - NFL 2023-24 Receptions - Darren Waller 2023-24 Regular Season Total Receptions,Under 60.5,-0.030399999999999983,0.5348,0.5652
 2023-09-05 15:03:30.427633,96th Academy Awards - Best Actress - Best Actress,Lily Gladstone - Killers Of The Flower Moon,-0.031799999999999995,0.1111,0.1429
 2023-09-05 16:03:25.589829,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Stefan  Jovic,-0.033300000000000024,0.1667,0.2
 2023-09-05 11:02:29.454038,Film and TV Awards - Venice Film Festival: Golden Lion Winner - Golden Lion Winner 2023,Io Capitano (Matteo Garrone),-0.03420000000000001,0.0769,0.1111
 2023-09-05 14:05:40.812592,96th Academy Awards - Best Picture - Best Picture,Killers Of The Flower Moon,-0.03570000000000001,0.25,0.2857
 2023-09-05 09:07:05.711125,Kroger Queen City Championship - Kroger Queen City Championship - Winner,Olivia Cowan,-0.0427,0.0099,0.0526
-2023-09-05 08:03:44.652549,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,-0.04290000000000005,0.3571,0.4
 2023-09-05 16:03:25.589829,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Shai  Gilgeous-Alexander,-0.048600000000000004,0.0625,0.1111
 2023-09-05 12:02:43.727618,FIBA World Cup Futures - FIBA World Cup - Tournament MVP,Jonas  Valanciunas,-0.0526,0.0099,0.0625
 2023-09-05 12:02:41.212214,96th Academy Awards - Best Actor - Best Actor,Leonardo DiCaprio - Killers of the Flower Moon,-0.057699999999999974,0.25,0.3077
 2023-09-05 12:02:43.747992,FIBA World Cup Futures - FIBA World Cup - Winning Confederation,Europe,-0.0625,0.25,0.3125
-2023-09-05 08:03:44.620684,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,-0.06489999999999999,0.2381,0.303
 2023-09-05 12:02:41.212214,96th Academy Awards - Best Actor - Best Actor,Cillian Murphy - Oppenheimer,-0.07619999999999993,0.5238,0.6
-2023-09-05 14:05:40.777902,96th Academy Awards - Best Actress - Best Actress,Lily Gladstone - Killers Of The Flower Moon,-0.07930000000000001,0.1429,0.2222
 2023-09-05 14:05:40.777902,96th Academy Awards - Best Actress - Best Actress,Margot Robbie - Barbie,-0.07930000000000001,0.1429,0.2222
+2023-09-05 14:05:40.777902,96th Academy Awards - Best Actress - Best Actress,Lily Gladstone - Killers Of The Flower Moon,-0.07930000000000001,0.1429,0.2222
 2023-09-05 14:05:40.812592,96th Academy Awards - Best Picture - Best Picture,Oppenheimer,-0.07939999999999997,0.4762,0.5556
 2023-09-05 16:03:25.606401,FIBA World Cup Futures - FIBA World Cup - Top Total Rebounds,Jonas  Valanciunas,-0.08329999999999999,0.4167,0.5
 2023-09-05 16:03:25.623232,FIBA World Cup Futures - FIBA World Cup - Top Points Scorer,Luka  Doncic,-0.08339999999999992,0.5833,0.6667
