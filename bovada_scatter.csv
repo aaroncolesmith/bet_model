@@ -22,8 +22,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-07 00:03:14.033118,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Gunnar Henderson (BAL),0.01429999999999998,0.9091,0.8948
 2023-09-07 02:01:51.774017,Boxing Lines - Teraji Kenshiro vs Hekkie Budler - To Win the Bout,Teraji Kenshiro,0.014000000000000012,0.9231,0.9091
 2023-09-07 05:03:03.398866,Big Brother - BB25: Outright Winner - Outright Winner,Cameron Harding,0.013999999999999999,0.0909,0.0769
-2023-09-07 04:02:51.309735,Boxing Lines - Benjamin Kelleher vs Luke Modini - To Win the Bout,Luke Modini,0.0131,0.8131,0.8
 2023-09-07 05:03:03.398866,Big Brother - BB25: Outright Winner - Outright Winner,Cirie Fields,0.0131,0.2353,0.2222
+2023-09-07 04:02:51.309735,Boxing Lines - Benjamin Kelleher vs Luke Modini - To Win the Bout,Luke Modini,0.0131,0.8131,0.8
 2023-09-07 05:03:05.914703,FIBA World Cup Futures - FIBA World Cup - Betting Without Favorite,Canada,0.012700000000000045,0.6491,0.6364
 2023-09-07 02:01:51.795777,Boxing Lines - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Joseph Joyce,0.012199999999999989,0.5122,0.5
 2023-09-07 02:01:52.057460,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,0.01150000000000001,0.3448,0.3333
@@ -34,10 +34,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-07 00:03:13.901259,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Texas Rangers,-0.0102,0.0667,0.0769
 2023-09-07 04:02:51.309735,Boxing Lines - Benjamin Kelleher vs Luke Modini - To Win the Bout,Benjamin Kelleher,-0.010299999999999976,0.2564,0.2667
 2023-09-07 00:03:13.951802,MLB Futures - MLB 2023 American League Central - American League Central Winner,Cleveland Guardians,-0.010700000000000001,0.0278,0.0385
-2023-09-07 02:01:52.057460,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Leigh Wood,-0.011099999999999999,0.7222,0.7333
 2023-09-07 00:03:13.934966,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Milwaukee Brewers,-0.011099999999999999,0.1,0.1111
+2023-09-07 02:01:52.057460,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Leigh Wood,-0.011099999999999999,0.7222,0.7333
 2023-09-07 00:03:13.901259,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Los Angeles Dodgers,-0.011700000000000016,0.2105,0.2222
 2023-09-07 08:03:57.856421,Kroger Queen City Championship - 2/3 Balls - 1st Round 3-Balls - L. Thompson / R. Zhang / H.J. Choi - 1st Round 3-Balls,Hye Jin Choi,-0.012699999999999989,0.3509,0.3636
+2023-09-07 09:01:54.024010,UEFA Europa Conference League - Europa Conference League 2023/24 - Winner,Aston Villa,-0.0131,0.2222,0.2353
 2023-09-07 00:03:13.918276,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Tampa Bay Rays,-0.0131,0.2222,0.2353
 2023-09-07 04:02:51.341472,Boxing Lines - Floyd Masson vs Yves Ngabu - To Win the Bout,Yves Ngabu,-0.013800000000000034,0.3636,0.3774
 2023-09-07 05:03:30.119635,Boxing Lines - Andres Campos vs Bienvenido Ligas - To Win the Bout,Bienvenido Ligas,-0.013800000000000034,0.3636,0.3774
@@ -48,8 +49,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-07 00:03:14.063843,MLB Futures - MLB 2023 Player Awards - National League MVP,Mookie Betts (LAD),-0.018100000000000005,0.4167,0.4348
 2023-09-06 22:03:51.490464,Irish Open - 2/3 Balls - 1st Round 3 Balls - T. Lawrence / D. Hillier / A. Rai - 1st Round 3 Balls ,Thriston Lawrence,-0.018400000000000027,0.2941,0.3125
 2023-09-07 00:03:14.033118,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Tanner Bibee,-0.019000000000000003,0.0435,0.0625
-2023-09-06 22:03:51.417173,Irish Open - 2/3 Balls - 1st Round 3 Balls - R. McIlroy / A. Meronk / B. Horschel - 1st Round 3 Balls ,Adrian Meronk,-0.019000000000000017,0.2667,0.2857
 2023-09-07 00:03:13.984491,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,-0.019000000000000017,0.2667,0.2857
+2023-09-06 22:03:51.417173,Irish Open - 2/3 Balls - 1st Round 3 Balls - R. McIlroy / A. Meronk / B. Horschel - 1st Round 3 Balls ,Adrian Meronk,-0.019000000000000017,0.2667,0.2857
 2023-09-07 02:01:51.774017,Boxing Lines - Teraji Kenshiro vs Hekkie Budler - To Win the Bout,Hekkie Budler,-0.02049999999999999,0.1333,0.1538
 2023-09-07 05:03:03.398866,Big Brother - BB25: Outright Winner - Outright Winner,Cory Wurtenberger,-0.022199999999999998,0.2,0.2222
 2023-09-07 07:04:54.685820,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Yordenis Ugas,-0.022199999999999998,0.7778,0.8
