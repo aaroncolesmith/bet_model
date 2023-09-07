@@ -4,8 +4,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-06 15:04:32.832719,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Luka  Doncic,0.03570000000000001,0.2857,0.25
 2023-09-06 15:04:32.832719,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Stefan  Jovic,0.033300000000000024,0.2,0.1667
 2023-09-06 13:04:14.667629,NBA Specials - Off-Season Specials - Where will James Harden play next season?,Philadelphia 76ers,0.030299999999999994,0.3636,0.3333
+2023-09-06 22:03:51.417173,Irish Open - 2/3 Balls - 1st Round 3 Balls - R. McIlroy / A. Meronk / B. Horschel - 1st Round 3 Balls ,Rory McIlroy,0.025599999999999956,0.6,0.5744
+2023-09-06 22:03:51.490464,Irish Open - 2/3 Balls - 1st Round 3 Balls - T. Lawrence / D. Hillier / A. Rai - 1st Round 3 Balls ,Aaron Rai,0.024399999999999977,0.5122,0.4878
 2023-09-06 13:04:14.496293,Victor Wembanyama Specials - Average Blocks Per Game - 2023-24 Regular Season - Victor Wembanyama (SAS) - BPG,Over 2.5,0.023799999999999988,0.5,0.4762
-2023-09-06 09:04:26.072831,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Yordenis Ugas,0.022199999999999998,0.8,0.7778
 2023-09-06 13:04:14.582182,Victor Wembanyama Specials - Who Will Average More PPG - 2023/2024 Regular Season - Who Will Average More PPG?,Chet Holmgren (OKC),0.021999999999999964,0.3077,0.2857
 2023-09-06 10:04:58.940728,FIBA World Cup Futures - FIBA World Cup - Top Points Scorer,Shai Gilgeous –Alexander,0.02169999999999994,0.5455,0.5238
 2023-09-06 15:04:57.823201,Boxing Lines - Radivoje Kalajdzic vs Mickey Ellison - To Win the Bout,Radivoje Kalajdzic,0.020500000000000074,0.8667,0.8462
@@ -19,10 +20,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-06 13:04:14.667629,NBA Specials - Off-Season Specials - Where will James Harden play next season?,Los Angeles Clippers,0.01539999999999997,0.6154,0.6
 2023-09-06 10:05:26.179635,Boxing Lines - Steve Claggett vs Carlos Sanchez Valdez - To Win the Bout,Carlos Sanchez Valdez,0.01369999999999999,0.241,0.2273
 2023-09-06 16:05:48.171621,Boxing Lines - Steve Claggett vs Carlos Sanchez Valdez - To Win the Bout,Steve Claggett,0.012899999999999912,0.8462,0.8333
-2023-09-06 09:04:25.663126,Boxing Lines - Radivoje Kalajdzic vs Mickey Ellison - To Win the Bout,Mickey Ellison,0.011700000000000016,0.2222,0.2105
 2023-09-06 15:04:58.209916,Boxing Lines - Saul 'Canelo' Alvarez vs Jermell Charlo - To Win the Bout,Jermell Charlo,-0.010299999999999976,0.2564,0.2667
 2023-09-06 15:04:58.075803,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Sandy Ryan,-0.010599999999999998,0.4545,0.4651
-2023-09-06 09:04:25.663126,Boxing Lines - Radivoje Kalajdzic vs Mickey Ellison - To Win the Bout,Radivoje Kalajdzic,-0.01090000000000002,0.8462,0.8571
 2023-09-06 13:04:14.667629,NBA Specials - Off-Season Specials - Where will James Harden play next season?,Dallas Mavericks,-0.011199999999999995,0.0323,0.0435
 2023-09-06 16:05:48.171621,Boxing Lines - Steve Claggett vs Carlos Sanchez Valdez - To Win the Bout,Carlos Sanchez Valdez,-0.0131,0.2222,0.2353
 2023-09-06 10:05:26.179635,Boxing Lines - Steve Claggett vs Carlos Sanchez Valdez - To Win the Bout,Steve Claggett,-0.014200000000000101,0.8261,0.8403
@@ -31,7 +30,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-06 15:04:58.059233,Boxing Lines - Austin Williams vs Steve Rolls - To Win the Bout,Austin Williams,-0.01660000000000006,0.9167,0.9333
 2023-09-06 10:04:58.921773,FIBA World Cup Futures - FIBA World Cup - Top Total Rebounds,Jonas  Valanciunas,-0.016699999999999993,0.4,0.4167
 2023-09-06 17:03:41.511391,Boxing Lines - Radivoje Kalajdzic vs Mickey Ellison - To Win the Bout,Mickey Ellison,-0.01820000000000002,0.1818,0.2
-2023-09-06 09:04:26.072831,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Mario Barrios,-0.019000000000000017,0.2667,0.2857
+2023-09-06 22:03:51.490464,Irish Open - 2/3 Balls - 1st Round 3 Balls - T. Lawrence / D. Hillier / A. Rai - 1st Round 3 Balls ,Thriston Lawrence,-0.018400000000000027,0.2941,0.3125
+2023-09-06 22:03:51.417173,Irish Open - 2/3 Balls - 1st Round 3 Balls - R. McIlroy / A. Meronk / B. Horschel - 1st Round 3 Balls ,Adrian Meronk,-0.019000000000000017,0.2667,0.2857
 2023-09-06 13:04:14.667629,NBA Specials - Off-Season Specials - Where will James Harden play next season?,Los Angeles Lakers,-0.0203,0.0385,0.0588
 2023-09-06 14:03:42.696770,WNBA Awards - WNBA Awards 2023 - Regular Season MVP,Breanna Stewart (NYL),-0.02169999999999994,0.5238,0.5455
 2023-09-06 13:04:14.582182,Victor Wembanyama Specials - Who Will Average More PPG - 2023/2024 Regular Season - Who Will Average More PPG?,Victor Wembanyama (SAS),-0.022199999999999998,0.7778,0.8
