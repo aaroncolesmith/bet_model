@@ -13,6 +13,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-08 08:04:16.906436,UEFA Europa League - Group H - Winner,Bayer Leverkusen,0.035699999999999954,0.75,0.7143
 2023-09-08 13:06:58.729657,MLB Futures - MLB 2023 Player Awards - National League MVP,Ronald Acuña Jr.,0.033299999999999996,0.8333,0.8
 2023-09-08 05:04:22.582467,Boxing Lines - Benjamin Kelleher vs Luke Modini - To Win the Bout,Luke Modini,0.0260999999999999,0.8261,0.8
+2023-09-08 15:02:26.885235,Boxing Lines - Andres Campos vs Bienvenido Ligas - To Win the Bout,Bienvenido Ligas,0.02100000000000002,0.3846,0.3636
 2023-09-08 06:03:34.898893,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.02080000000000004,0.6875,0.6667
 2023-09-08 11:05:47.527887,Boxing Lines - Benjamin Kelleher vs Luke Modini - To Win the Bout,Luke Modini,0.020100000000000007,0.8462,0.8261
 2023-09-08 06:03:34.922744,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Luis Castillo (SEA),0.01820000000000002,0.2,0.1818
@@ -34,6 +35,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-08 05:04:10.961672,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,Germany,-0.016700000000000007,0.0833,0.1
 2023-09-08 03:02:40.078367,UEFA Euro 2024 Futures - UEFA Euro 2024 - Outright Winner,Spain,-0.01759999999999999,0.1,0.1176
 2023-09-08 11:05:47.527887,Boxing Lines - Benjamin Kelleher vs Luke Modini - To Win the Bout,Benjamin Kelleher,-0.018799999999999983,0.2222,0.241
+2023-09-08 15:02:26.885235,Boxing Lines - Andres Campos vs Bienvenido Ligas - To Win the Bout,Andres Campos,-0.01959999999999995,0.6774,0.697
 2023-09-08 14:06:23.157460,Boxing Lines - Alexandre Gaumont vs Ulices Tovar Rivera - To Win the Bout,Ulices Tovar Rivera,-0.01999999999999999,0.1905,0.2105
 2023-09-08 05:04:22.521122,Boxing Lines - Steve Claggett vs Carlos Sanchez Valdez - To Win the Bout,Carlos Sanchez Valdez,-0.021100000000000008,0.2062,0.2273
 2023-09-08 06:03:34.854133,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,-0.023800000000000016,0.1667,0.1905
