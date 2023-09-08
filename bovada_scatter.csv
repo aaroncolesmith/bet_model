@@ -8,24 +8,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-07 12:03:16.411050,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Drake,0.05559999999999998,0.1667,0.1111
 2023-09-07 10:03:09.809186,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Stefan  Jovic,0.04999999999999999,0.25,0.2
 2023-09-07 15:05:56.321480,Boxing Lines - Kento Hatanaka vs Akira Hoshuyama - To Win the Bout,Kento Hatanaka,0.04820000000000002,0.6226,0.5744
+2023-09-07 22:02:02.232755,Boxing Lines - Kento Hatanaka vs Akira Hoshuyama - To Win the Bout,Kento Hatanaka,0.03839999999999999,0.6875,0.6491
 2023-09-07 17:05:58.295395,Boxing Lines - Kento Hatanaka vs Akira Hoshuyama - To Win the Bout,Kento Hatanaka,0.026499999999999968,0.6491,0.6226
 2023-09-07 11:02:23.207047,MTV VMAs - VMAs 2023 - Video Of The Year - Video Of The Year,Olivia Rodrigo - Vampire,0.024,0.0625,0.0385
 2023-09-07 10:03:34.251294,Boxing Lines - Floyd Masson vs Yves Ngabu - To Win the Bout,Yves Ngabu,0.02100000000000002,0.3846,0.3636
 2023-09-07 12:03:17.485313,Southeast Division - Southeast Division 2023-24 - Division Winner,Atlanta Hawks,0.017799999999999983,0.3077,0.2899
 2023-09-07 10:03:09.676008,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Canada,Dillon  Brooks,0.015300000000000001,0.0476,0.0323
 2023-09-07 21:05:32.788745,Big Green Egg Open - Big Green Egg Open - Winner,Annabel Dimmock,0.014099999999999998,0.0385,0.0244
+2023-09-07 22:02:02.198258,Boxing Lines - Steve Claggett vs Carlos Sanchez Valdez - To Win the Bout,Steve Claggett,0.011900000000000022,0.8333,0.8214
 2023-09-07 10:03:09.777943,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Germany,Dennis  Schroder,-0.010699999999999932,0.5348,0.5455
+2023-09-07 22:02:02.198258,Boxing Lines - Steve Claggett vs Carlos Sanchez Valdez - To Win the Bout,Carlos Sanchez Valdez,-0.0116,0.2353,0.2469
 2023-09-07 10:03:34.221402,Boxing Lines - Benjamin Kelleher vs Luke Modini - To Win the Bout,Luke Modini,-0.0131,0.8,0.8131
 2023-09-07 12:03:16.411050,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Ariana Grande,-0.014399999999999996,0.0625,0.0769
 2023-09-07 10:03:09.825693,FIBA World Cup Futures - FIBA World Cup - Top Total Rebounds,Luka  Doncic,-0.0145,0.0099,0.0244
 2023-09-07 12:03:16.411050,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Dua Lipa,-0.014899999999999997,0.0476,0.0625
-2023-09-07 11:02:23.207047,MTV VMAs - VMAs 2023 - Video Of The Year - Video Of The Year,Nicki Minaj - Super Freaky Girl,-0.015100000000000002,0.1667,0.1818
 2023-09-07 11:02:23.207047,MTV VMAs - VMAs 2023 - Video Of The Year - Video Of The Year,Sam Smith & Kim Petras - Unholy,-0.015100000000000002,0.1667,0.1818
+2023-09-07 11:02:23.207047,MTV VMAs - VMAs 2023 - Video Of The Year - Video Of The Year,Nicki Minaj - Super Freaky Girl,-0.015100000000000002,0.1667,0.1818
 2023-09-07 12:03:16.411050,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Britney Spears,-0.015300000000000001,0.0323,0.0476
 2023-09-07 10:03:09.762387,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Canada,Melvin  Ejim,-0.017400000000000002,0.0149,0.0323
 2023-09-07 12:03:17.485313,Southeast Division - Southeast Division 2023-24 - Division Winner,Miami Heat,-0.01759999999999995,0.6491,0.6667
-2023-09-07 10:03:09.730171,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - USA,Tyrese Haliburton (USA),-0.01820000000000002,0.1818,0.2
 2023-09-07 11:02:23.207047,MTV VMAs - VMAs 2023 - Video Of The Year - Video Of The Year,Miley Cyrus - Flowers,-0.01820000000000002,0.1818,0.2
+2023-09-07 10:03:09.730171,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - USA,Tyrese Haliburton (USA),-0.01820000000000002,0.1818,0.2
 2023-09-07 10:03:09.762387,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Canada,Dwight  Powell,-0.0189,0.0196,0.0385
 2023-09-07 10:03:34.251294,Boxing Lines - Floyd Masson vs Yves Ngabu - To Win the Bout,Floyd Masson,-0.01959999999999995,0.6774,0.697
 2023-09-07 10:03:09.809186,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Dennis  Schroder,-0.021999999999999964,0.2857,0.3077
@@ -33,6 +36,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-07 10:03:09.746767,FIBA World Cup Futures - FIBA World Cup - Top Team Total Rebounds - Germany,Johannes  Thiemann,-0.023200000000000002,0.0244,0.0476
 2023-09-07 17:05:58.295395,Boxing Lines - Kento Hatanaka vs Akira Hoshuyama - To Win the Bout,Akira Hoshuyama,-0.027700000000000002,0.4167,0.4444
 2023-09-07 10:03:09.762387,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Canada,Nickeil  Alexander - Walker,-0.033100000000000004,0.0294,0.0625
+2023-09-07 22:02:02.232755,Boxing Lines - Kento Hatanaka vs Akira Hoshuyama - To Win the Bout,Akira Hoshuyama,-0.0393,0.3774,0.4167
 2023-09-07 10:03:09.762387,FIBA World Cup Futures - FIBA World Cup - Top Team Total Steals - Canada,RJ  Barrett,-0.0429,0.0196,0.0625
 2023-09-07 15:05:56.321480,Boxing Lines - Kento Hatanaka vs Akira Hoshuyama - To Win the Bout,Akira Hoshuyama,-0.043399999999999994,0.4444,0.4878
 2023-09-07 10:03:09.676008,FIBA World Cup Futures - FIBA World Cup - Top Team Total Blocks - Canada,Nickeil  Alexander - Walker,-0.0475,0.0294,0.0769
