@@ -12,7 +12,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-08 03:02:54.346531,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Kansas City Chiefs,No,0.07189999999999996,0.2941,0.2222
 2023-09-08 06:03:34.972539,MLB Futures - MLB 2023 Player Awards - National League MVP,Ronald Acuña Jr.,0.05620000000000003,0.7895,0.7333
 2023-09-07 23:03:00.565719,NFC North - NFC North 2023/24 - CHI Bears Exact Finishing Position,4th,0.04630000000000001,0.3448,0.2985
-2023-09-07 22:02:02.232755,Boxing Lines - Kento Hatanaka vs Akira Hoshuyama - To Win the Bout,Kento Hatanaka,0.03839999999999999,0.6875,0.6491
 2023-09-08 08:04:16.906436,UEFA Europa League - Group H - Winner,Bayer Leverkusen,0.035699999999999954,0.75,0.7143
 2023-09-08 02:03:43.506314,Irish Open - 2nd Round - 2nd Round Six Shooter - Group A - A. Bjork / J. Smith / M. Wallace / R. Fox / T. Detry / V. Norrman - 2nd Round Six Shooter,Ryan Fox,0.028700000000000003,0.2105,0.1818
 2023-09-08 00:02:52.935702,NFL Requested Specials - Requested Specials: +500 or Lower - Season Specials,David Montgomery Over 999.5 Regular Season Rushing Yards,0.02779999999999999,0.25,0.2222
@@ -44,7 +43,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-08 00:02:58.809508,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Denver Broncos,No,0.014499999999999957,0.697,0.6825
 2023-09-08 00:02:58.741909,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Chicago Bears,No,0.014499999999999957,0.697,0.6825
 2023-09-07 23:02:59.661820,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Detroit Lions,0.014100000000000001,0.0526,0.0385
-2023-09-07 21:05:32.788745,Big Green Egg Open - Big Green Egg Open - Winner,Annabel Dimmock,0.014099999999999998,0.0385,0.0244
 2023-09-07 23:03:00.565719,NFC North - NFC North 2023/24 - CHI Bears Exact Finishing Position,3rd,0.014000000000000012,0.3125,0.2985
 2023-09-08 00:02:59.781284,Season Win Record Specials - 2023-24 Team to Have a Perfect Season - Last Team to Be Undefeated,San Francisco 49ers,0.013999999999999999,0.0909,0.0769
 2023-09-07 23:03:00.235656,AFC West - AFC West 2023/24 - DEN Broncos Exact Finishing Position,1st,0.013899999999999996,0.1429,0.129
@@ -52,23 +50,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-07 23:02:59.677313,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Buffalo Bills,0.012899999999999995,0.1667,0.1538
 2023-09-08 06:03:34.854133,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,0.012400000000000078,0.8948,0.8824
 2023-09-07 23:03:00.579272,NFC North - NFC North 2023/24 - GB Packers Exact Finishing Position,4th,0.012299999999999978,0.3571,0.3448
-2023-09-07 22:02:02.198258,Boxing Lines - Steve Claggett vs Carlos Sanchez Valdez - To Win the Bout,Steve Claggett,0.011900000000000022,0.8333,0.8214
 2023-09-07 23:03:00.590797,NFC North - NFC North 2023/24 - MIN Vikings Exact Finishing Position,4th,0.011700000000000016,0.2222,0.2105
 2023-09-08 01:03:37.694690,NFL Requested Specials - Requested Specials: +1001 to +3000 - Season Specials,"Lions To Win NFC North, Panthers To Win NFC South & Jets To Make The Playoffs",0.011199999999999995,0.0588,0.0476
 2023-09-08 00:02:58.970770,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Minnesota Vikings,Yes,0.01100000000000001,0.5348,0.5238
 2023-09-08 07:03:02.974371,MLB Futures - MLB 2023 Player Awards - National League MVP,Ronald Acuña Jr.,0.010500000000000065,0.8,0.7895
 2023-09-08 07:03:02.934461,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Luis Castillo (SEA),0.010499999999999982,0.2105,0.2
-2023-09-08 00:02:59.781284,Season Win Record Specials - 2023-24 Team to Have a Perfect Season - Last Team to Be Undefeated,Los Angeles Chargers,0.0102,0.0769,0.0667
 2023-09-08 01:03:37.694690,NFL Requested Specials - Requested Specials: +1001 to +3000 - Season Specials,"Amon-Ra St.Brown, Chris Olave, Jaylen Waddle & DJ Moore 1000+ Regular Season Receiving Yards Each",0.0102,0.0769,0.0667
+2023-09-08 00:02:59.781284,Season Win Record Specials - 2023-24 Team to Have a Perfect Season - Last Team to Be Undefeated,Los Angeles Chargers,0.0102,0.0769,0.0667
+2023-09-08 08:04:16.906436,UEFA Europa League - Group H - Winner,BK Häcken,-0.0102,0.0667,0.0769
 2023-09-08 01:03:37.694690,NFL Requested Specials - Requested Specials: +1001 to +3000 - Season Specials,"Bills, Bengals, Jaguars, Chiefs All To Win Their Division",-0.0102,0.0667,0.0769
 2023-09-08 01:03:37.694690,NFL Requested Specials - Requested Specials: +1001 to +3000 - Season Specials,Chiefs AFC Number One Seed & 49ers NFC Number One Seed,-0.0102,0.0667,0.0769
 2023-09-08 01:03:37.694690,NFL Requested Specials - Requested Specials: +1001 to +3000 - Season Specials,"Jets, Jaguars, Chiefs & 49ers All To Win Their Division",-0.0102,0.0667,0.0769
-2023-09-08 08:04:16.906436,UEFA Europa League - Group H - Winner,BK Häcken,-0.0102,0.0667,0.0769
 2023-09-08 00:02:52.935702,NFL Requested Specials - Requested Specials: +500 or Lower - Season Specials,"Chiefs & 49ers Both To Win Their Division, Bears Over 6.5 Regular Season Wins",-0.010399999999999993,0.2222,0.2326
 2023-09-07 23:02:59.677313,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Kansas City Chiefs,-0.010499999999999982,0.2,0.2105
 2023-09-08 00:02:58.970770,To Make the Playoffs - 2023-24 To Make the Playoffs  - To Make the Playoffs - Minnesota Vikings,No,-0.010699999999999932,0.5348,0.5455
 2023-09-08 03:02:40.078367,UEFA Euro 2024 Futures - UEFA Euro 2024 - Outright Winner,Germany,-0.010899999999999993,0.1429,0.1538
-2023-09-07 22:02:02.198258,Boxing Lines - Steve Claggett vs Carlos Sanchez Valdez - To Win the Bout,Carlos Sanchez Valdez,-0.0116,0.2353,0.2469
 2023-09-08 01:03:37.672200,NFL Requested Specials - Requested Specials: +501 to +1000 - Season Specials,Chiefs AFC Number One Seed & Patrick Mahomes Regular Season MVP,-0.012299999999999991,0.1053,0.1176
 2023-09-08 00:02:52.935702,NFL Requested Specials - Requested Specials: +500 or Lower - Season Specials,"All to Win Their Division: Chiefs, Bills & 49ers",-0.012899999999999995,0.1538,0.1667
 2023-09-08 00:03:00.591941,Boxing Lines - Steve Claggett vs Carlos Sanchez Valdez - To Win the Bout,Carlos Sanchez Valdez,-0.0131,0.2222,0.2353
@@ -91,7 +87,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-08 06:03:34.874842,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,-0.031400000000000095,0.7333,0.7647
 2023-09-07 23:03:00.247977,AFC West - AFC West 2023/24 - LA Chargers Exact Finishing Position,2nd,-0.03260000000000002,0.3448,0.3774
 2023-09-08 00:02:52.935702,NFL Requested Specials - Requested Specials: +500 or Lower - Season Specials,Isiah Pacheco Over 999.5 Regular Season Rushing Yards,-0.03570000000000001,0.25,0.2857
-2023-09-07 22:02:02.232755,Boxing Lines - Kento Hatanaka vs Akira Hoshuyama - To Win the Bout,Akira Hoshuyama,-0.0393,0.3774,0.4167
 2023-09-08 00:02:52.935702,NFL Requested Specials - Requested Specials: +500 or Lower - Season Specials,"Kansas City Chiefs AFC West Winner, Jacksonville Jaguars AFC South Winner",-0.04290000000000005,0.3571,0.4
 2023-09-08 00:02:52.935702,NFL Requested Specials - Requested Specials: +500 or Lower - Season Specials,DeVonta Smith Under 1024.5 Regular Season Receiving Yards & Kansas City Chiefs to Make the Playoffs,-0.045499999999999985,0.5,0.5455
 2023-09-07 23:03:00.247977,AFC West - AFC West 2023/24 - LA Chargers Exact Finishing Position,3rd,-0.04849999999999999,0.25,0.2985
