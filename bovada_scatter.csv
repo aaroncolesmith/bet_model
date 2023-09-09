@@ -3,21 +3,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-08 08:04:18.508948,Celebrity Boxing - Logan Paul vs Dillon Danis - Will the Fight Take Place on October 14,No,0.3299,0.5652,0.2353
 2023-09-08 08:04:22.222350,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,Serbia,0.28850000000000003,0.5238,0.2353
 2023-09-08 12:06:21.363805,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Dennis  Schroder,0.1905,0.4762,0.2857
-2023-09-08 06:03:34.874842,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,0.0781,0.3448,0.2667
 2023-09-08 11:05:35.179449,FIBA World Cup Futures - FIBA World Cup - Top Total Rebounds,Jonas  Valanciunas,0.05860000000000004,0.5348,0.4762
-2023-09-08 06:03:34.972539,MLB Futures - MLB 2023 Player Awards - National League MVP,Ronald Acuña Jr.,0.05620000000000003,0.7895,0.7333
 2023-09-08 17:02:52.496695,NBL - NBL 2023/2024 - Outright,New Zealand Breakers,0.052000000000000005,0.1429,0.0909
 2023-09-08 08:04:16.906436,UEFA Europa League - Group H - Winner,Bayer Leverkusen,0.035699999999999954,0.75,0.7143
 2023-09-08 13:06:58.729657,MLB Futures - MLB 2023 Player Awards - National League MVP,Ronald Acuña Jr.,0.033299999999999996,0.8333,0.8
 2023-09-08 15:02:26.885235,Boxing Lines - Andres Campos vs Bienvenido Ligas - To Win the Bout,Bienvenido Ligas,0.02100000000000002,0.3846,0.3636
-2023-09-08 06:03:34.898893,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.02080000000000004,0.6875,0.6667
 2023-09-08 11:05:47.527887,Boxing Lines - Benjamin Kelleher vs Luke Modini - To Win the Bout,Luke Modini,0.020100000000000007,0.8462,0.8261
-2023-09-08 06:03:34.922744,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Luis Castillo (SEA),0.01820000000000002,0.2,0.1818
 2023-09-08 14:06:23.157460,Boxing Lines - Alexandre Gaumont vs Ulices Tovar Rivera - To Win the Bout,Alexandre Gaumont,0.017900000000000027,0.875,0.8571
-2023-09-08 06:03:34.945961,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Triston Casas (BOS),0.01759999999999999,0.1176,0.1
 2023-09-08 07:03:02.961326,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Justin Steele (CHC),0.016699999999999993,0.4167,0.4
 2023-09-08 14:06:23.217173,Boxing Lines - Christian Mbilli vs Demond Nicholson - To Win the Bout,Christian Mbilli,0.014900000000000024,0.9804,0.9655
-2023-09-08 06:03:34.854133,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,0.012400000000000078,0.8948,0.8824
 2023-09-08 14:06:23.300611,Boxing Lines - Benjamin Kelleher vs Luke Modini - To Win the Bout,Luke Modini,0.01090000000000002,0.8571,0.8462
 2023-09-08 07:03:02.974371,MLB Futures - MLB 2023 Player Awards - National League MVP,Ronald Acuña Jr.,0.010500000000000065,0.8,0.7895
 2023-09-08 07:03:02.934461,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Luis Castillo (SEA),0.010499999999999982,0.2105,0.2
@@ -28,10 +22,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-08 11:05:47.527887,Boxing Lines - Benjamin Kelleher vs Luke Modini - To Win the Bout,Benjamin Kelleher,-0.018799999999999983,0.2222,0.241
 2023-09-08 15:02:26.885235,Boxing Lines - Andres Campos vs Bienvenido Ligas - To Win the Bout,Andres Campos,-0.01959999999999995,0.6774,0.697
 2023-09-08 14:06:23.157460,Boxing Lines - Alexandre Gaumont vs Ulices Tovar Rivera - To Win the Bout,Ulices Tovar Rivera,-0.01999999999999999,0.1905,0.2105
-2023-09-08 06:03:34.854133,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,-0.023800000000000016,0.1667,0.1905
 2023-09-08 11:05:35.179449,FIBA World Cup Futures - FIBA World Cup - Top Total Rebounds,Nikola  Milutinov,-0.030399999999999983,0.5348,0.5652
-2023-09-08 06:03:34.874842,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,-0.031400000000000095,0.7333,0.7647
-2023-09-08 06:03:34.972539,MLB Futures - MLB 2023 Player Awards - National League MVP,Mookie Betts (LAD),-0.053100000000000036,0.3636,0.4167
 2023-09-08 12:06:21.363805,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Stefan  Jovic,-0.08330000000000001,0.1667,0.25
 2023-09-08 12:06:21.363805,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Carlik  Jones,-0.09799999999999998,0.2353,0.3333
 2023-09-08 08:04:18.508948,Celebrity Boxing - Logan Paul vs Dillon Danis - Will the Fight Take Place on October 14,Yes,-0.3223999999999999,0.5238,0.8462
