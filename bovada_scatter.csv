@@ -1,7 +1,4 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-09-08 08:04:22.222350,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,Germany,0.44050000000000006,0.5238,0.0833
-2023-09-08 08:04:18.508948,Celebrity Boxing - Logan Paul vs Dillon Danis - Will the Fight Take Place on October 14,No,0.3299,0.5652,0.2353
-2023-09-08 08:04:22.222350,FIBA World Cup Futures - FIBA World Cup - 2023 FIBA World Cup Winner,Serbia,0.28850000000000003,0.5238,0.2353
 2023-09-08 12:06:21.363805,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Dennis  Schroder,0.1905,0.4762,0.2857
 2023-09-08 20:01:22.829494,Ascension Charity Classic - Ascension Charity Classic - Winner,Billy Mayfair,0.08689999999999999,0.0909,0.004
 2023-09-08 11:05:35.179449,FIBA World Cup Futures - FIBA World Cup - Top Total Rebounds,Jonas  Valanciunas,0.05860000000000004,0.5348,0.4762
@@ -11,7 +8,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-08 20:01:22.829494,Ascension Charity Classic - Ascension Charity Classic - Winner,Ken Duke,0.0436,0.0588,0.0152
 2023-09-08 20:01:22.829494,Ascension Charity Classic - Ascension Charity Classic - Winner,Wes Short Jr,0.042600000000000006,0.0476,0.005
 2023-09-08 20:01:22.829494,Ascension Charity Classic - Ascension Charity Classic - Winner,Retief Goosen,0.0384,0.0769,0.0385
-2023-09-08 08:04:16.906436,UEFA Europa League - Group H - Winner,Bayer Leverkusen,0.035699999999999954,0.75,0.7143
 2023-09-08 13:06:58.729657,MLB Futures - MLB 2023 Player Awards - National League MVP,Ronald Acuña Jr.,0.033299999999999996,0.8333,0.8
 2023-09-08 20:01:21.664651,Boxing Lines - Steve Claggett vs Carlos Sanchez Valdez - To Win the Bout,Steve Claggett,0.03180000000000005,0.8889,0.8571
 2023-09-08 20:01:22.829494,Ascension Charity Classic - Ascension Charity Classic - Winner,Tim Petrovic,0.0286,0.0385,0.0099
@@ -21,6 +17,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-08 20:01:18.506977,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Kristi Noem,0.02020000000000001,0.1111,0.0909
 2023-09-08 11:05:47.527887,Boxing Lines - Benjamin Kelleher vs Luke Modini - To Win the Bout,Luke Modini,0.020100000000000007,0.8462,0.8261
 2023-09-08 20:01:22.829494,Ascension Charity Classic - Ascension Charity Classic - Winner,Steve Flesch,0.020000000000000004,0.0323,0.0123
+2023-09-08 21:02:49.439982,Boxing Lines - Floyd Masson vs Yves Ngabu - To Win the Bout,Floyd Masson,0.01959999999999995,0.697,0.6774
 2023-09-08 20:01:22.829494,Ascension Charity Classic - Ascension Charity Classic - Winner,Tim O'Neal,0.0189,0.0385,0.0196
 2023-09-08 14:06:23.157460,Boxing Lines - Alexandre Gaumont vs Ulices Tovar Rivera - To Win the Bout,Alexandre Gaumont,0.017900000000000027,0.875,0.8571
 2023-09-08 20:01:22.829494,Ascension Charity Classic - Ascension Charity Classic - Winner,Kenny Perry,0.0179,0.0278,0.0099
@@ -29,7 +26,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-08 14:06:23.300611,Boxing Lines - Benjamin Kelleher vs Luke Modini - To Win the Bout,Luke Modini,0.01090000000000002,0.8571,0.8462
 2023-09-08 20:01:22.829494,Ascension Charity Classic - Ascension Charity Classic - Winner,Joe Durant,0.010700000000000001,0.0385,0.0278
 2023-09-08 17:02:52.496695,NBL - NBL 2023/2024 - Outright,Adelaide 36ers,0.0102,0.0769,0.0667
-2023-09-08 08:04:16.906436,UEFA Europa League - Group H - Winner,BK Häcken,-0.0102,0.0667,0.0769
 2023-09-08 20:01:22.829494,Ascension Charity Classic - Ascension Charity Classic - Winner,Richard Green,-0.010700000000000001,0.0278,0.0385
 2023-09-08 14:06:23.300611,Boxing Lines - Benjamin Kelleher vs Luke Modini - To Win the Bout,Benjamin Kelleher,-0.011700000000000016,0.2105,0.2222
 2023-09-08 20:01:22.829494,Ascension Charity Classic - Ascension Charity Classic - Winner,Woody Austin,-0.013,0.0066,0.0196
@@ -42,6 +38,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-08 20:01:22.829494,Ascension Charity Classic - Ascension Charity Classic - Winner,Ernie Els,-0.019099999999999992,0.0476,0.0667
 2023-09-08 15:02:26.885235,Boxing Lines - Andres Campos vs Bienvenido Ligas - To Win the Bout,Andres Campos,-0.01959999999999995,0.6774,0.697
 2023-09-08 14:06:23.157460,Boxing Lines - Alexandre Gaumont vs Ulices Tovar Rivera - To Win the Bout,Ulices Tovar Rivera,-0.01999999999999999,0.1905,0.2105
+2023-09-08 21:02:49.439982,Boxing Lines - Floyd Masson vs Yves Ngabu - To Win the Bout,Yves Ngabu,-0.02100000000000002,0.3636,0.3846
 2023-09-08 20:01:22.829494,Ascension Charity Classic - Ascension Charity Classic - Winner,K J Choi,-0.023200000000000002,0.0244,0.0476
 2023-09-08 20:01:22.829494,Ascension Charity Classic - Ascension Charity Classic - Winner,Justin Leonard,-0.0233,0.0152,0.0385
 2023-09-08 20:01:22.829494,Ascension Charity Classic - Ascension Charity Classic - Winner,Bernhard Langer,-0.027800000000000005,0.0833,0.1111
@@ -53,4 +50,3 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-08 12:06:21.363805,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Stefan  Jovic,-0.08330000000000001,0.1667,0.25
 2023-09-08 20:01:22.829494,Ascension Charity Classic - Ascension Charity Classic - Winner,Stephen Ames,-0.0901,0.0099,0.1
 2023-09-08 12:06:21.363805,FIBA World Cup Futures - FIBA World Cup - Top Total Assists,Carlik  Jones,-0.09799999999999998,0.2353,0.3333
-2023-09-08 08:04:18.508948,Celebrity Boxing - Logan Paul vs Dillon Danis - Will the Fight Take Place on October 14,Yes,-0.3223999999999999,0.5238,0.8462
