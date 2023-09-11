@@ -9,12 +9,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-10 23:06:22.499105,AFC West - AFC West 2023/24 - AFC West Winner,Las Vegas Raiders,0.0509,0.1176,0.0667
 2023-09-10 23:06:22.424746,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Cleveland Browns,0.04329999999999999,0.0909,0.0476
 2023-09-10 23:06:22.485207,AFC South - AFC South 2023/24 - AFC South Winner,Jacksonville Jaguars,0.03980000000000006,0.6552,0.6154
-2023-09-10 23:06:22.556023,NFC West - NFC West 2023/24 - NFC West Winner,Los Angeles Rams,0.037599999999999995,0.1176,0.08
 2023-09-10 23:06:22.408441,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,San Francisco 49ers,0.037599999999999995,0.1429,0.1053
+2023-09-10 23:06:22.556023,NFC West - NFC West 2023/24 - NFC West Winner,Los Angeles Rams,0.037599999999999995,0.1176,0.08
 2023-09-10 23:06:22.527889,NFC North - NFC North 2023/24 - NFC North Winner,Detroit Lions,0.03480000000000005,0.5348,0.5
 2023-09-11 00:06:31.173673,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Dallas Cowboys,0.0321,0.0909,0.0588
 2023-09-10 23:06:22.541885,NFC South - NFC South 2023/24 - NFC South Winner,Tampa Bay Buccaneers,0.028799999999999992,0.1538,0.125
 2023-09-11 00:06:30.823135,US Presidential Election 2024 - US Presidential Election 2024 - Sex Of Winner - Sex of Winner,Female,0.024800000000000016,0.1786,0.1538
+2023-09-11 02:05:30.917781,Boxing Lines - Sabrina Maribel Perez vs Skye Nicolson - To Win the Bout,Skye Nicolson,0.0242,0.9333,0.9091
 2023-09-11 00:06:32.131565,Solheim Cup - Solheim Cup 2023 - Winner,USA,0.023799999999999988,0.5,0.4762
 2023-09-10 19:05:11.588786,Boxing Lines - William Zepeda vs Mercito Gesta - To Win the Bout,William Zepeda,0.02310000000000001,0.9231,0.9
 2023-09-11 00:06:30.737149,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Field,0.020799999999999985,0.3333,0.3125
@@ -32,10 +33,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-10 23:06:22.438872,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Atlanta Falcons,0.0131,0.0476,0.0345
 2023-09-10 23:06:22.438872,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Dallas Cowboys,0.012899999999999995,0.1667,0.1538
 2023-09-10 23:06:22.541885,NFC South - NFC South 2023/24 - NFC South Winner,Atlanta Falcons,0.012699999999999989,0.3636,0.3509
+2023-09-11 02:05:23.551369,UEFA Euro 2024 Futures - UEFA Euro 2024 - Outright Winner,Netherlands,0.0102,0.0769,0.0667
 2023-09-11 00:06:30.750988,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,"Robert Kennedy, Jr",0.0102,0.0769,0.0667
 2023-09-11 00:06:30.808684,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Elise Stefanik,0.0102,0.0769,0.0667
-2023-09-10 23:06:22.453216,AFC East - AFC East 2023/24 - AFC East Winner 23/24,Buffalo Bills,-0.010099999999999998,0.4444,0.4545
 2023-09-10 23:06:22.513517,NFC East - NFC East 2023/24 - NFC East Winner,New York Giants,-0.010099999999999998,0.0952,0.1053
+2023-09-10 23:06:22.453216,AFC East - AFC East 2023/24 - AFC East Winner 23/24,Buffalo Bills,-0.010099999999999998,0.4444,0.4545
+2023-09-11 02:05:23.551369,UEFA Euro 2024 Futures - UEFA Euro 2024 - Outright Winner,Italy,-0.0102,0.0667,0.0769
 2023-09-10 23:06:22.424746,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Miami Dolphins,-0.011099999999999999,0.1,0.1111
 2023-09-10 23:06:22.541885,NFC South - NFC South 2023/24 - NFC South Winner,New Orleans Saints,-0.011099999999999999,0.4651,0.4762
 2023-09-10 23:06:22.438872,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Carolina Panthers,-0.011399999999999997,0.0164,0.0278
@@ -54,6 +57,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-11 00:06:32.131565,Solheim Cup - Solheim Cup 2023 - Winner,Europe,-0.023800000000000043,0.5,0.5238
 2023-09-11 00:06:30.836781,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Republican,-0.023800000000000043,0.5,0.5238
 2023-09-10 23:06:22.408441,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,New York Jets,-0.024299999999999995,0.0526,0.0769
+2023-09-11 02:05:30.917781,Boxing Lines - Sabrina Maribel Perez vs Skye Nicolson - To Win the Bout,Sabrina Maribel Perez,-0.028799999999999992,0.125,0.1538
 2023-09-11 00:06:30.778232,US Presidential Election 2024 - US Presidential Election 2024 - Party Of Popular Vote Winner - Party of Popular Vote Winner,Republican,-0.03259999999999999,0.2,0.2326
 2023-09-10 19:05:06.907096,NFL Draft Social Media Specials - Bryce Young Instagram Followers On Super Bowl Day - Bryce Young Instagram Followers On Super Bowl Day,500k to 600k,-0.033299999999999996,0.4545,0.4878
 2023-09-10 23:06:22.408441,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Cincinnati Bengals,-0.03330000000000001,0.0667,0.1
