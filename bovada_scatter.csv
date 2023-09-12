@@ -19,8 +19,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-12 01:03:52.018221,Boxing Lines - William Zepeda vs Mercito Gesta - To Win the Bout,William Zepeda,0.029299999999999993,0.9524,0.9231
 2023-09-12 00:04:57.124984,NCAA Football Futures - 2023 Big 12 Championship - Big 12 Championship Game Winner ,UCF,0.028199999999999996,0.0667,0.0385
 2023-09-12 02:03:46.417222,NCAA Football Futures - 2023 MAC Conference Championship - Championship Game Winner,Ohio,0.02789999999999998,0.2632,0.2353
-2023-09-12 00:04:57.124984,NCAA Football Futures - 2023 Big 12 Championship - Big 12 Championship Game Winner ,Oklahoma,0.02779999999999999,0.25,0.2222
 2023-09-12 01:03:51.796252,NCAA Football Futures - 2023 American Athletic Championship - American Athletic Championship Game Winner,SMU,0.02779999999999999,0.2778,0.25
+2023-09-12 00:04:57.124984,NCAA Football Futures - 2023 Big 12 Championship - Big 12 Championship Game Winner ,Oklahoma,0.02779999999999999,0.25,0.2222
 2023-09-12 00:04:57.096818,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Michigan,0.0267,0.16,0.1333
 2023-09-12 02:03:46.473273,NCAA Football Futures - 2023 Sun Belt Championship - Championship Game Winner,Old Dominion,0.0244,0.0323,0.0079
 2023-09-11 23:04:56.927550,NFC East - NFC East 2023/24 - NFC East Winner,Washington Commanders,0.0242,0.0909,0.0667
@@ -29,8 +29,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-12 00:04:57.152904,NCAA Football Futures - 2023 SEC Championship  - SEC Championship Game Winner,Ole Miss,0.023200000000000002,0.0476,0.0244
 2023-09-12 00:04:57.166688,NCAA Football Futures - 2023 Pac-12 Championship - Pac-12 Championship Game Winner,Utah,0.022199999999999998,0.1538,0.1316
 2023-09-12 02:03:46.417222,NCAA Football Futures - 2023 MAC Conference Championship - Championship Game Winner,Ball State,0.019099999999999995,0.0435,0.0244
-2023-09-11 23:04:56.911450,AFC West - AFC West 2023/24 - AFC West Winner,Kansas City Chiefs,0.018100000000000005,0.5833,0.5652
 2023-09-11 23:04:57.458303,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Leigh Wood,0.018100000000000005,0.7403,0.7222
+2023-09-11 23:04:56.911450,AFC West - AFC West 2023/24 - AFC West Winner,Kansas City Chiefs,0.018100000000000005,0.5833,0.5652
 2023-09-11 23:04:56.862927,AFC East - AFC East 2023/24 - AFC East Winner 23/24,New England Patriots,0.016700000000000007,0.1,0.0833
 2023-09-12 01:03:51.837063,NCAA Football Futures - 2023 Mountain West Conference Championship - Championship Game Winner,Wyoming,0.016700000000000007,0.1,0.0833
 2023-09-12 01:03:52.005209,Boxing Lines - Brayan Alejandro Zamarripa Rodriguez vs Angel Fierro - To Win the Bout,Angel Fierro,0.016699999999999937,0.9167,0.9
@@ -45,6 +45,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-11 15:07:57.380542,Boxing Lines - Brayan Alejandro Zamarripa Rodriguez vs Angel Fierro - To Win the Bout,Brayan Alejandro Zamarripa Rodriguez,0.012899999999999995,0.1667,0.1538
 2023-09-12 00:04:57.111227,NCAA Football Futures - 2023 ACC Conference Championship - Championship Game Winner,Syracuse,0.012100000000000001,0.0244,0.0123
 2023-09-12 00:04:57.152904,NCAA Football Futures - 2023 SEC Championship  - SEC Championship Game Winner,Auburn,0.012100000000000001,0.0244,0.0123
+2023-09-12 03:03:28.215513,Boxing Lines - William Zepeda vs Mercito Gesta - To Win the Bout,Mercito Gesta,0.011099999999999999,0.1111,0.1
 2023-09-12 02:03:46.906213,Boxing Lines - Harper Terri vs Cecilia Braekhus - To Win the Bout,Cecilia Braekhus,0.010499999999999982,0.2105,0.2
 2023-09-12 02:03:46.458553,NCAA Football Futures - 2023 USA Conference Championship - Championship Game Winner,Western Kentucky,0.010099999999999998,0.4545,0.4444
 2023-09-12 00:04:57.111227,NCAA Football Futures - 2023 ACC Conference Championship - Championship Game Winner,Louisville,-0.0102,0.0667,0.0769
