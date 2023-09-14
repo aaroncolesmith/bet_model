@@ -6,13 +6,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-14 00:07:26.150970,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.08330000000000001,0.25,0.1667
 2023-09-14 03:02:54.440736,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Grêmio,0.07809999999999995,0.7333,0.6552
 2023-09-13 19:04:37.361719,NBA Awards - NBA Awards 2023-24 - All-Rookie First Team,Keyonte George (UTA),0.0625,0.125,0.0625
-2023-09-13 16:06:47.048239,Round Match-Ups - 1st Round Match-Up - R. McIlroy vs S. Lowry - 1st Round Match-Up,Shane Lowry,0.05740000000000001,0.4348,0.3774
+2023-09-14 05:03:47.142544,Tournament Match-Ups - Tournament Match-Ups - C. Ramey v A. Baddeley - Tournament Match-Ups,Chad Ramey,0.05559999999999998,0.5556,0.5
 2023-09-14 03:02:54.440736,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Athletico Paranaense,0.05559999999999998,0.5,0.4444
 2023-09-14 04:04:53.642536,Joe Biden Specials - Hunter Biden Specials - Hunter Biden Specials,To confirm he is in rehab in 2023,0.05550000000000002,0.2222,0.1667
 2023-09-14 04:04:53.916685,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Byron Donalds,0.052399999999999995,0.0909,0.0385
 2023-09-14 03:02:54.406606,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Palmeiras,0.05109999999999998,0.3636,0.3125
-2023-09-13 16:06:47.540014,Tournament Match-Ups - Tournament Match-Ups - S. Lowry vs M.W. Lee - Tournament Match-Ups,Shane Lowry,0.04620000000000002,0.5917,0.5455
 2023-09-14 04:04:48.298588,Big Brother - BB25: Outright Winner - Outright Winner,Mecole Hayes,0.034100000000000005,0.125,0.0909
+2023-09-14 05:03:44.925237,Boxing Lines - Deon Nicholson vs Quinton Rankin - To Win the Bout,Quinton Rankin,0.033300000000000024,0.2,0.1667
+2023-09-14 05:03:47.023879,Tournament Match-Ups - Tournament Match-Ups - M. NeSmith vs R. Palmer - Tournament Match-Ups,Matthew NeSmith,0.030399999999999983,0.5652,0.5348
 2023-09-14 01:01:47.829392,MLS - MLS 2023 - Winner,Los Angeles FC,0.0267,0.1176,0.0909
 2023-09-13 19:04:43.131343,Tournament Match-Ups - Tournament Match-Ups - J.J. Spaun vs L. Herbert - Tournament Matchups,J J Spaun,0.026499999999999968,0.5917,0.5652
 2023-09-14 03:02:54.440736,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Atlético Mineiro,0.02560000000000001,0.3333,0.3077
@@ -31,7 +32,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-14 03:03:03.782349,Boxing Lines - Eric Priest vs Simon Madsen - To Win the Bout,Eric Priest,0.018100000000000005,0.9655,0.9474
 2023-09-13 23:04:30.460930,NFL Requested Specials - Requested Specials: +1001 to +3000 - Season Specials,DPOY: Micah Parsons & OROY: Bijan Robinson,0.018099999999999998,0.0769,0.0588
 2023-09-14 03:02:54.414722,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Jonathan Calleri (Sao Paulo),0.018099999999999998,0.0769,0.0588
-2023-09-13 16:06:42.791663,Boxing Lines - Robson Conceicao vs Humberto Galindo - To Win the Bout,Humberto Galindo,0.01759999999999999,0.1176,0.1
 2023-09-14 00:07:26.193805,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Gerrit Cole (NYY),0.017199999999999993,0.9615,0.9443
 2023-09-13 22:04:30.505674,WNBA Championship - WNBA Championship 2023 - Outright Winner,Connecticut Sun,0.017,0.0625,0.0455
 2023-09-14 00:07:26.164879,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,0.015899999999999997,0.2381,0.2222
@@ -44,7 +44,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-14 04:04:53.897411,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,0.013899999999999996,0.125,0.1111
 2023-09-14 04:04:53.953730,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Republican,0.012199999999999989,0.5122,0.5
 2023-09-13 19:04:42.915340,Scores - 1st Round Score - Sahith Theegala - 1st Round Score - Sahith Theegala,Over 69.5,0.012199999999999989,0.5122,0.5
-2023-09-13 16:06:40.571033,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Cincinnati Bengals,0.011099999999999999,0.0667,0.0556
 2023-09-13 22:04:35.201242,NFL Weekly Specials - NFL Week 2 RedZone Specials - NFL Week 2 Highest Scoring Team Total,Over 39.5,0.010699999999999932,0.5455,0.5348
 2023-09-14 00:07:28.079506,Scores - 1st Round Score - Beau Hossler - 1st Round Score - Beau Hossler,Under 69.5,0.010699999999999932,0.5455,0.5348
 2023-09-13 19:04:41.651701,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Yordenis Ugas,0.010499999999999954,0.7752,0.7647
@@ -55,13 +54,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-14 01:01:55.735159,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Passing Yards,Justin Herbert,-0.010899999999999993,0.1429,0.1538
 2023-09-14 00:07:28.079506,Scores - 1st Round Score - Beau Hossler - 1st Round Score - Beau Hossler,Over 69.5,-0.01100000000000001,0.5238,0.5348
 2023-09-13 22:04:35.201242,NFL Weekly Specials - NFL Week 2 RedZone Specials - NFL Week 2 Highest Scoring Team Total,Under 39.5,-0.01100000000000001,0.5238,0.5348
-2023-09-13 16:06:42.791663,Boxing Lines - Robson Conceicao vs Humberto Galindo - To Win the Bout,Robson Conceicao,-0.011199999999999988,0.9412,0.9524
 2023-09-14 04:04:53.852919,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,"Robert Kennedy, Jr",-0.011199999999999995,0.0476,0.0588
 2023-09-14 04:04:53.953730,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,-0.011600000000000055,0.5122,0.5238
 2023-09-14 00:07:28.143944,Scores - 1st Round Score - Max Homa - 1st Round Score - Max Homa,Under 68.5,-0.012199999999999989,0.5,0.5122
 2023-09-14 04:04:53.916685,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Nikki Haley,-0.013899999999999996,0.1111,0.125
-2023-09-14 00:07:26.193805,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Luis Castillo (SEA),-0.013999999999999999,0.0769,0.0909
 2023-09-14 03:02:54.414722,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Acosta Deyverson (Cuiaba),-0.013999999999999999,0.0769,0.0909
+2023-09-14 00:07:26.193805,MLB Futures - MLB 2023 Player Awards - American League Cy Young Award,Luis Castillo (SEA),-0.013999999999999999,0.0769,0.0909
 2023-09-14 03:02:54.414722,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Hulk (Atletico MG),-0.013999999999999999,0.0769,0.0909
 2023-09-14 01:01:55.188841,NFL Specials - Aaron Rodgers / NY Jets Specials - 2023/24 Season Specials,New York Jets to Sign Andy Dalton in 2023,-0.014100000000000001,0.0385,0.0526
 2023-09-14 04:04:53.897411,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Nikki Haley,-0.014399999999999996,0.0625,0.0769
@@ -83,16 +81,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-14 03:03:03.782349,Boxing Lines - Eric Priest vs Simon Madsen - To Win the Bout,Simon Madsen,-0.027800000000000005,0.0833,0.1111
 2023-09-14 03:02:54.440736,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Cuiabá,-0.029299999999999993,0.0476,0.0769
 2023-09-14 04:04:48.298588,Big Brother - BB25: Outright Winner - Outright Winner,Cirie Fields,-0.030299999999999994,0.3333,0.3636
+2023-09-14 03:02:54.406606,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Flamengo,-0.0321,0.0588,0.0909
 2023-09-14 01:01:55.188841,NFL Specials - Aaron Rodgers / NY Jets Specials - 2023/24 Season Specials,New York Jets to Sign Cooper Rush in 2023,-0.0321,0.0588,0.0909
 2023-09-14 01:01:55.188841,NFL Specials - Aaron Rodgers / NY Jets Specials - 2023/24 Season Specials,New York Jets to Sign Taylor Heinicke in 2023,-0.0321,0.0588,0.0909
-2023-09-14 03:02:54.406606,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Flamengo,-0.0321,0.0588,0.0909
+2023-09-14 05:03:44.925237,Boxing Lines - Deon Nicholson vs Quinton Rankin - To Win the Bout,Deon Nicholson,-0.033299999999999996,0.8667,0.9
 2023-09-14 01:01:55.188841,NFL Specials - Aaron Rodgers / NY Jets Specials - 2023/24 Season Specials,New York Jets to Sign Nick Foles in 2023,-0.034100000000000005,0.0909,0.125
+2023-09-14 05:03:47.023879,Tournament Match-Ups - Tournament Match-Ups - M. NeSmith vs R. Palmer - Tournament Match-Ups,Ryan Palmer,-0.03480000000000005,0.5,0.5348
 2023-09-14 00:07:26.164879,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,-0.036599999999999994,0.1739,0.2105
-2023-09-14 01:01:55.188841,NFL Specials - Aaron Rodgers / NY Jets Specials - 2023/24 Season Specials,New York Jets to Sign Teddy Bridgewater in 2023,-0.04329999999999999,0.0476,0.0909
 2023-09-14 01:01:55.188841,NFL Specials - Aaron Rodgers / NY Jets Specials - 2023/24 Season Specials,New York Jets to Sign Taysom Hill in 2023,-0.04329999999999999,0.0476,0.0909
-2023-09-13 16:06:47.540014,Tournament Match-Ups - Tournament Match-Ups - S. Lowry vs M.W. Lee - Tournament Match-Ups,Min Woo Lee,-0.04760000000000003,0.4762,0.5238
+2023-09-14 01:01:55.188841,NFL Specials - Aaron Rodgers / NY Jets Specials - 2023/24 Season Specials,New York Jets to Sign Teddy Bridgewater in 2023,-0.04329999999999999,0.0476,0.0909
+2023-09-14 05:03:47.142544,Tournament Match-Ups - Tournament Match-Ups - C. Ramey v A. Baddeley - Tournament Match-Ups,Aaron Baddeley,-0.05300000000000005,0.5122,0.5652
 2023-09-14 00:07:26.220437,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Justin Steele (CHC),-0.05520000000000003,0.3448,0.4
-2023-09-13 16:06:47.048239,Round Match-Ups - 1st Round Match-Up - R. McIlroy vs S. Lowry - 1st Round Match-Up,Rory McIlroy,-0.05889999999999995,0.6078,0.6667
 2023-09-14 00:07:26.220437,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Zac Gallen (ARIZ),-0.0635,0.0476,0.1111
 2023-09-14 00:07:26.150970,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,-0.07069999999999999,0.8182,0.8889
 2023-09-14 01:01:55.188841,NFL Specials - Aaron Rodgers / NY Jets Specials - 2023/24 Season Specials,New York Jets to Sign Jameis Winston in 2023,-0.08330000000000001,0.1667,0.25
