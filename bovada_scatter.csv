@@ -1,9 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-14 14:08:00.897273,Round Match-Ups - 2nd Round Match-Up - T. Hatton vs M. W. Lee - 2nd Round Match-Up,Tyrrell Hatton,0.08900000000000002,0.5652,0.4762
 2023-09-14 14:08:00.839913,Round Match-Ups - 2nd Round Match-Up - R. Langsaque vs A. Fitzpatrick - 2nd Round Match-Up,Romain Langasque,0.06779999999999997,0.5556,0.4878
-2023-09-14 05:03:47.142544,Tournament Match-Ups - Tournament Match-Ups - C. Ramey v A. Baddeley - Tournament Match-Ups,Chad Ramey,0.05559999999999998,0.5556,0.5
-2023-09-14 05:03:44.925237,Boxing Lines - Deon Nicholson vs Quinton Rankin - To Win the Bout,Quinton Rankin,0.033300000000000024,0.2,0.1667
-2023-09-14 05:03:47.023879,Tournament Match-Ups - Tournament Match-Ups - M. NeSmith vs R. Palmer - Tournament Match-Ups,Matthew NeSmith,0.030399999999999983,0.5652,0.5348
 2023-09-14 09:08:09.318803,NFC East - NFC East 2023/24 - NFC East Winner,Dallas Cowboys,0.030299999999999994,0.4651,0.4348
 2023-09-14 13:07:59.932062,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Jessica McCaskill,0.025599999999999956,0.6,0.5744
 2023-09-14 17:03:41.440707,BMW PGA Championship - 2/3 Balls - 2nd Round 3 Balls - G. Migliozzi / T. McKibbin / H. Li - 2nd Round 3 Balls,Tom McKibbin,0.025499999999999967,0.4255,0.4
@@ -20,10 +17,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-14 08:08:21.947483,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,Las Vegas Aces to beat New York Liberty,0.015400000000000025,0.4,0.3846
 2023-09-14 08:08:21.931863,WNBA Championship - WNBA Championship 2023 - Finals Exact Matchup,Las Vegas Aces vs Connecticut Sun,0.015100000000000002,0.1818,0.1667
 2023-09-14 08:08:21.931863,WNBA Championship - WNBA Championship 2023 - Finals Exact Matchup,Las Vegas Aces vs New York Liberty,0.014900000000000024,0.6923,0.6774
-2023-09-14 14:07:59.686621,Boxing Lines - Deon Nicholson vs Quinton Rankin - To Win the Bout,Quinton Rankin,0.0131,0.2353,0.2222
 2023-09-14 13:08:00.051882,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Yordenis Ugas,0.0131,0.7778,0.7647
-2023-09-14 07:02:56.113362,WNBA Awards - WNBA Awards 2023 - WNBA Finals MVP 2023,Kelsey Plum (LVA),0.012899999999999995,0.1667,0.1538
+2023-09-14 14:07:59.686621,Boxing Lines - Deon Nicholson vs Quinton Rankin - To Win the Bout,Quinton Rankin,0.0131,0.2353,0.2222
 2023-09-14 09:08:09.362414,NFC South - NFC South 2023/24 - NFC South Winner,Tampa Bay Buccaneers,0.012899999999999995,0.1667,0.1538
+2023-09-14 07:02:56.113362,WNBA Awards - WNBA Awards 2023 - WNBA Finals MVP 2023,Kelsey Plum (LVA),0.012899999999999995,0.1667,0.1538
 2023-09-14 09:08:09.295155,AFC West - AFC West 2023/24 - AFC West Winner,Los Angeles Chargers,0.012799999999999978,0.2985,0.2857
 2023-09-14 09:08:09.269792,AFC South - AFC South 2023/24 - AFC South Winner,Jacksonville Jaguars,0.011499999999999955,0.6667,0.6552
 2023-09-14 10:07:21.212476,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,"Robert Kennedy, Jr",0.011199999999999995,0.0588,0.0476
@@ -33,8 +30,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-14 13:07:59.862724,Boxing Lines - Kenshiro Teraji vs Hekkie Budler - To Win the Bout,Kenshiro Teraji,0.010199999999999987,0.9333,0.9231
 2023-09-14 09:08:09.249023,AFC North - AFC North 2023/24 - AFC North Winner,Cincinnati Bengals,-0.010099999999999998,0.3125,0.3226
 2023-09-14 07:03:02.612381,Fortinet Championship - 2/3 Balls - 1st Round 3 Balls - C. Champ / J. Dahmen / M. Homa - 1st Round 3 Balls,Joel Dahmen,-0.010399999999999993,0.2222,0.2326
-2023-09-14 08:08:21.931863,WNBA Championship - WNBA Championship 2023 - Finals Exact Matchup,Dallas Wings vs New York Liberty,-0.011099999999999999,0.1,0.1111
 2023-09-14 07:03:02.612381,Fortinet Championship - 2/3 Balls - 1st Round 3 Balls - C. Champ / J. Dahmen / M. Homa - 1st Round 3 Balls,Cameron Champ,-0.011099999999999999,0.2667,0.2778
+2023-09-14 08:08:21.931863,WNBA Championship - WNBA Championship 2023 - Finals Exact Matchup,Dallas Wings vs New York Liberty,-0.011099999999999999,0.1,0.1111
 2023-09-14 08:08:21.947483,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,New York Liberty to beat Dallas Wings,-0.011900000000000008,0.0833,0.0952
 2023-09-14 09:08:09.295155,AFC West - AFC West 2023/24 - AFC West Winner,Denver Broncos,-0.012299999999999991,0.1053,0.1176
 2023-09-14 13:08:00.113059,Boxing Lines - Jesus Alejandro Ramos vs Erickson Lubin - To Win the Bout,Jesus Alejandro Ramos,-0.012700000000000045,0.8276,0.8403
@@ -57,9 +54,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-14 13:07:59.932062,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Sandy Ryan,-0.022699999999999998,0.4651,0.4878
 2023-09-14 09:08:12.913795,Round Match-Ups - 1st Round Match-Ups - A. Bhatia vs N. Hardy - 1st Round Match-Ups,Akshay Bhatia,-0.023800000000000043,0.5,0.5238
 2023-09-14 17:03:41.440707,BMW PGA Championship - 2/3 Balls - 2nd Round 3 Balls - G. Migliozzi / T. McKibbin / H. Li - 2nd Round 3 Balls,Guido Migliozzi,-0.024399999999999977,0.4878,0.5122
-2023-09-14 05:03:44.925237,Boxing Lines - Deon Nicholson vs Quinton Rankin - To Win the Bout,Deon Nicholson,-0.033299999999999996,0.8667,0.9
 2023-09-14 08:08:21.947483,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,Las Vegas Aces to beat Connecticut Sun,-0.033399999999999985,0.1333,0.1667
-2023-09-14 05:03:47.023879,Tournament Match-Ups - Tournament Match-Ups - M. NeSmith vs R. Palmer - Tournament Match-Ups,Ryan Palmer,-0.03480000000000005,0.5,0.5348
-2023-09-14 05:03:47.142544,Tournament Match-Ups - Tournament Match-Ups - C. Ramey v A. Baddeley - Tournament Match-Ups,Aaron Baddeley,-0.05300000000000005,0.5122,0.5652
 2023-09-14 14:08:00.839913,Round Match-Ups - 2nd Round Match-Up - R. Langsaque vs A. Fitzpatrick - 2nd Round Match-Up,Alex Fitzpatrick,-0.06779999999999997,0.4878,0.5556
 2023-09-14 14:08:00.897273,Round Match-Ups - 2nd Round Match-Up - T. Hatton vs M. W. Lee - 2nd Round Match-Up,Min Woo Lee,-0.08900000000000002,0.4762,0.5652
