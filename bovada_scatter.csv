@@ -16,15 +16,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-15 06:02:31.850054,MLB Futures - MLB 2023 National League Central - National League Central Winner,Milwaukee Brewers,0.035700000000000065,0.9524,0.9167
 2023-09-15 02:03:41.349631,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Seattle Seahawks,Yes,0.034499999999999975,0.3571,0.3226
 2023-09-15 02:03:41.053060,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Buffalo Bills,No,0.03260000000000002,0.3774,0.3448
-2023-09-15 02:03:40.438823,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Nikki Haley,0.031799999999999995,0.1429,0.1111
 2023-09-15 02:03:41.135335,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Detroit Lions,No,0.031799999999999995,0.2985,0.2667
+2023-09-15 02:03:40.438823,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Nikki Haley,0.031799999999999995,0.1429,0.1111
 2023-09-15 02:03:41.522936,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Josh Allen,0.027800000000000005,0.1111,0.0833
 2023-09-15 05:02:26.030239,Fortinet Championship - 2/3 Balls - 2nd Round 3 Balls - B. Hossler / C. Young / S. O'Hair - 2nd Round 3 Balls,Beau Hossler,0.023800000000000043,0.5238,0.5
 2023-09-15 02:03:41.246310,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Los Angeles Chargers,Yes,0.02169999999999994,0.5455,0.5238
 2023-09-15 02:03:42.637713,Boxing Lines - Junto Nakatani vs Argi Cortes - To Win the Bout,Argi Cortes,0.02020000000000001,0.1111,0.0909
 2023-09-15 02:03:41.502221,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Jordan Whitehead,0.020000000000000004,0.0323,0.0123
-2023-09-15 02:03:41.121307,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Denver Broncos,Yes,0.01830000000000001,0.2564,0.2381
 2023-09-15 02:03:41.298706,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - New England Patriots,Yes,0.01830000000000001,0.2564,0.2381
+2023-09-15 02:03:41.121307,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Denver Broncos,Yes,0.01830000000000001,0.2564,0.2381
 2023-09-15 02:03:41.583453,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Anthony Richardson,0.01820000000000002,0.2,0.1818
 2023-09-15 02:03:32.635775,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Cruzeiro,0.018099999999999998,0.0769,0.0588
 2023-09-15 02:03:32.621426,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Corinthians,0.0179,0.1429,0.125
@@ -36,32 +36,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-14 23:04:21.528022,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,New Orleans Saints,0.016600000000000004,0.0833,0.0667
 2023-09-15 02:03:41.093877,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Cincinnati Bengals,No,0.016000000000000014,0.4082,0.3922
 2023-09-15 02:03:32.635775,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Bahia,0.0156,0.0196,0.004
-2023-09-15 02:03:40.489736,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Nikki Haley,0.015300000000000001,0.0476,0.0323
 2023-09-15 02:03:32.635775,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Internacional,0.015300000000000001,0.0476,0.0323
+2023-09-15 02:03:40.489736,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Nikki Haley,0.015300000000000001,0.0476,0.0323
 2023-09-14 22:03:21.774889,Boxing Lines - Rafael Pedroza vs Ramon Cardenas - To Win the Bout,Ramon Cardenas,0.014900000000000024,0.3226,0.3077
 2023-09-15 02:03:41.550120,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Austin Ekeler,0.014900000000000004,0.0345,0.0196
 2023-09-14 23:04:21.528022,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Green Bay Packers,0.014899999999999997,0.0625,0.0476
 2023-09-15 02:03:41.550120,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Stefon Diggs,0.014099999999999998,0.0385,0.0244
-2023-09-14 23:04:21.694756,NFC North - NFC North 2023/24 - NFC North Winner,Chicago Bears,0.013999999999999999,0.0909,0.0769
 2023-09-15 02:03:41.550120,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Christian McCaffrey,0.013999999999999999,0.0909,0.0769
+2023-09-14 23:04:21.694756,NFC North - NFC North 2023/24 - NFC North Winner,Chicago Bears,0.013999999999999999,0.0909,0.0769
 2023-09-15 02:03:41.583453,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Bijan Robinson,0.013600000000000001,0.3077,0.2941
-2023-09-14 22:03:21.723498,Boxing Lines - Mirco Cuello vs Rudy Garcia - To Win the Bout,Mirco Cuello,0.0131,0.7778,0.7647
 2023-09-15 05:02:24.995474,Boxing Lines - Robson Conceicao vs Humberto Galindo - To Win the Bout,Robson Conceicao,0.0131,0.9655,0.9524
+2023-09-14 22:03:21.723498,Boxing Lines - Mirco Cuello vs Rudy Garcia - To Win the Bout,Mirco Cuello,0.0131,0.7778,0.7647
 2023-09-15 06:02:32.336773,Boxing Lines - Alejandro Reyes vs Roberto Gomez - To Win the Bout,Roberto Gomez,0.012899999999999995,0.1667,0.1538
 2023-09-15 02:03:32.621426,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,América Mineiro,0.012899999999999912,0.8462,0.8333
 2023-09-15 02:03:41.522936,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Joe Burrow,0.012299999999999991,0.1176,0.1053
 2023-09-15 02:03:41.322425,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Pittsburgh Steelers,Yes,0.012299999999999978,0.3571,0.3448
 2023-09-15 05:02:25.579348,Round Match-Ups - 2nd Round Match-Up - J. Suh v C. Hadley - 2nd Round Match-Up,Chesson Hadley,0.012199999999999989,0.5,0.4878
 2023-09-15 02:03:41.550120,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Justin Fields,0.012100000000000001,0.0244,0.0123
-2023-09-15 02:03:41.228478,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Las Vegas Raiders,Yes,0.011899999999999994,0.25,0.2381
 2023-09-15 02:03:42.722385,Boxing Lines - Richardson Hitchins vs Jose Zepeda - To Win the Bout,Jose Zepeda,0.011899999999999994,0.25,0.2381
+2023-09-15 02:03:41.228478,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Las Vegas Raiders,Yes,0.011899999999999994,0.25,0.2381
 2023-09-15 02:03:40.474136,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,0.011600000000000055,0.5238,0.5122
-2023-09-15 02:03:41.041039,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Baltimore Ravens,Yes,0.011499999999999955,0.6667,0.6552
-2023-09-15 02:03:41.273365,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Miami Dolphins,Yes,0.011499999999999955,0.6667,0.6552
 2023-09-14 22:03:14.361880,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Botafogo,0.011499999999999955,0.6667,0.6552
+2023-09-15 02:03:41.273365,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Miami Dolphins,Yes,0.011499999999999955,0.6667,0.6552
+2023-09-15 02:03:41.041039,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Baltimore Ravens,Yes,0.011499999999999955,0.6667,0.6552
 2023-09-15 02:03:32.635775,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Cuiabá,0.011199999999999995,0.0588,0.0476
 2023-09-15 06:02:31.903615,MLB Futures - MLB 2023 Player Awards - American League Rookie of the Year,Gunnar Henderson (BAL),0.011199999999999988,0.9868,0.9756
-2023-09-14 20:02:37.323971,Boxing Lines - Ruben Villa vs Brandon Valdes - To Win the Bout,Brandon Valdes,0.011099999999999999,0.1111,0.1
 2023-09-15 02:03:42.980564,Round Match-Ups - 2nd Round Match-Up - J. Thomas v S. Theegala - 2nd Round Match-Up,Justin Thomas,0.01100000000000001,0.5348,0.5238
 2023-09-15 02:03:32.635775,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Goiás,0.0109,0.0149,0.004
 2023-09-15 02:03:42.539825,Boxing Lines - Brayan Zamarripa vs Angel Fierro - To Win the Bout,Brayan Zamarripa,0.010899999999999993,0.1538,0.1429
@@ -86,9 +85,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-15 02:03:40.474136,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Republican,-0.012199999999999989,0.5,0.5122
 2023-09-15 02:03:41.568189,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,B.J. Ojulari,-0.012700000000000003,0.0196,0.0323
 2023-09-15 02:03:40.438823,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tim Scott,-0.013899999999999996,0.1111,0.125
+2023-09-15 02:03:41.502221,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,T.J. Watt,-0.013899999999999996,0.1111,0.125
 2023-09-15 02:03:40.374364,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Michelle Obama,-0.013899999999999996,0.1111,0.125
 2023-09-15 02:03:40.421434,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,-0.013899999999999996,0.1111,0.125
-2023-09-15 02:03:41.502221,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,T.J. Watt,-0.013899999999999996,0.1111,0.125
 2023-09-15 02:03:41.583453,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Jordan Addison,-0.013999999999999999,0.0769,0.0909
 2023-09-15 02:03:40.421434,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Vivek Ramaswamy,-0.013999999999999999,0.0769,0.0909
 2023-09-15 02:03:41.568189,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Calijah Kancey,-0.014099999999999998,0.0244,0.0385
@@ -108,8 +107,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-14 22:03:14.361880,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Grêmio,-0.018200000000000004,0.0294,0.0476
 2023-09-15 02:03:41.522936,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Brock Purdy,-0.018799999999999997,0.04,0.0588
 2023-09-15 02:03:40.359705,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.018999999999999906,0.7143,0.7333
-2023-09-15 05:02:26.030239,Fortinet Championship - 2/3 Balls - 2nd Round 3 Balls - B. Hossler / C. Young / S. O'Hair - 2nd Round 3 Balls,Sean OHair,-0.019000000000000017,0.2667,0.2857
 2023-09-14 23:04:21.528022,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,San Francisco 49ers,-0.019000000000000017,0.2667,0.2857
+2023-09-15 05:02:26.030239,Fortinet Championship - 2/3 Balls - 2nd Round 3 Balls - B. Hossler / C. Young / S. O'Hair - 2nd Round 3 Balls,Sean OHair,-0.019000000000000017,0.2667,0.2857
 2023-09-15 06:02:31.925433,MLB Futures - MLB 2023 Player Awards - National League Cy Young Award,Zac Gallen (ARIZ),-0.019800000000000005,0.0278,0.0476
 2023-09-15 02:03:41.568189,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Trenton Simpson,-0.020000000000000004,0.0123,0.0323
 2023-09-15 02:03:41.568189,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Drew Sanders,-0.020000000000000004,0.0123,0.0323
@@ -119,8 +118,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-15 02:03:32.628335,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fluminense,-0.021699999999999997,0.4545,0.4762
 2023-09-15 02:03:41.093877,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Cincinnati Bengals,Yes,-0.022199999999999998,0.6552,0.6774
 2023-09-15 02:03:41.502221,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Myles Garrett,-0.023799999999999988,0.1429,0.1667
-2023-09-15 02:03:41.522936,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Trevor Lawrence,-0.0242,0.0667,0.0909
 2023-09-15 02:03:40.489736,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Gavin Newsom,-0.0242,0.0667,0.0909
+2023-09-15 02:03:41.522936,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Trevor Lawrence,-0.0242,0.0667,0.0909
 2023-09-15 02:03:41.568189,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Lukas Van Ness,-0.024299999999999995,0.0526,0.0769
 2023-09-15 02:03:32.635775,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Atlético Mineiro,-0.02560000000000001,0.3077,0.3333
 2023-09-15 02:03:41.568189,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Myles Murphy,-0.025900000000000003,0.0217,0.0476
