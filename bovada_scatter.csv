@@ -2,8 +2,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-15 12:05:11.910738,Video Game Specials - Call Of Duty: Modern Warfare 3 - To Be A Playable Character - COD: MW3 - To Be A Playable Character,Ghostface Killah,0.14229999999999998,0.1667,0.0244
 2023-09-15 14:05:12.781605,Apple Specials - iPhone 15 2024 Game Releases - iPhone 15 2024 Game Releases,UFC 5,0.11119999999999997,0.5556,0.4444
 2023-09-15 20:03:33.446599,Championship - England Championship 2023/24 - League Winner,Leicester City,0.047599999999999976,0.3333,0.2857
+2023-09-15 22:04:00.682378,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,Las Vegas Aces to beat Connecticut Sun,0.033399999999999985,0.1667,0.1333
 2023-09-15 16:04:37.296726,Boxing Lines - Alejandro Reyes vs Roberto Gomez - To Win the Bout,Roberto Gomez,0.033300000000000024,0.2,0.1667
 2023-09-15 12:05:11.910738,Video Game Specials - Call Of Duty: Modern Warfare 3 - To Be A Playable Character - COD: MW3 - To Be A Playable Character,Drake,0.028399999999999995,0.0909,0.0625
+2023-09-15 22:04:00.661159,WNBA Championship - WNBA Championship 2023 - Finals Exact Matchup,Dallas Wings vs New York Liberty,0.024999999999999994,0.125,0.1
 2023-09-15 21:04:10.394593,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayer Leverkusen,0.024299999999999995,0.0769,0.0526
 2023-09-15 20:03:40.337649,Boxing Lines - Xander Zayas vs Roberto Valenzuela Jr - To Win the Bout,Xander Zayas,0.023499999999999965,0.9709,0.9474
 2023-09-15 12:05:11.910738,Video Game Specials - Call Of Duty: Modern Warfare 3 - To Be A Playable Character - COD: MW3 - To Be A Playable Character,Kylian Mbappé,0.023200000000000002,0.0476,0.0244
@@ -12,41 +14,53 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-15 12:05:18.529995,Round Match-Ups - 2nd Round Match-Up - L. Herbert v M. Laird - 2nd Round Match-Up,Lucas Herbert,0.022600000000000064,0.6226,0.6
 2023-09-15 12:05:17.797194,Boxing Lines - Kevin Barron Crespo vs Christian Olivo Barredo - To Win the Bout,Kevin Barron Crespo,0.02079999999999993,0.5556,0.5348
 2023-09-15 12:05:18.502623,Round Match-Ups - 2nd Round Match-Up - M. Kuchar v W. Simpson - 2nd Round Match-Up,Matt Kuchar,0.01880000000000004,0.5744,0.5556
+2023-09-15 22:04:00.661159,WNBA Championship - WNBA Championship 2023 - Finals Exact Matchup,Las Vegas Aces vs Connecticut Sun,0.01820000000000002,0.2,0.1818
 2023-09-15 20:03:40.324712,Boxing Lines - Brayan Zamarripa vs Angel Fierro - To Win the Bout,Angel Fierro,0.018100000000000005,0.9231,0.905
+2023-09-15 22:04:00.682378,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,Connecticut Sun to beat Dallas Wings,0.017800000000000003,0.0244,0.0066
 2023-09-15 20:03:33.891056,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Copenhagen,0.01759999999999995,0.6667,0.6491
+2023-09-15 22:04:00.682378,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,New York Liberty to beat Dallas Wings,0.016700000000000007,0.1,0.0833
 2023-09-15 21:04:10.499113,Ligue 1 - France Ligue 1 2023/24 - Winner,Monaco,0.016600000000000004,0.0833,0.0667
 2023-09-15 12:05:11.910738,Video Game Specials - Call Of Duty: Modern Warfare 3 - To Be A Playable Character - COD: MW3 - To Be A Playable Character,Kendrick Lamar,0.014399999999999996,0.0769,0.0625
 2023-09-15 12:05:11.910738,Video Game Specials - Call Of Duty: Modern Warfare 3 - To Be A Playable Character - COD: MW3 - To Be A Playable Character,Justin Bieber,0.014399999999999996,0.0769,0.0625
+2023-09-15 22:04:00.682378,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,Connecticut Sun to beat vs Las Vegas Aces,0.014099999999999998,0.0385,0.0244
 2023-09-15 21:04:13.972406,NBL - NBL Blitz 2023 - Outright,Brisbane Bullets,0.013999999999999999,0.0909,0.0769
 2023-09-15 18:02:28.538604,Boxing Lines - Brayan Zamarripa vs Angel Fierro - To Win the Bout,Brayan Zamarripa,0.012899999999999995,0.1667,0.1538
-2023-09-15 10:03:34.051099,Boxing Lines - Omar Alejandro Aguilar vs Julio Luna Avila - To Win the Bout,Omar Alejandro Aguilar,0.012899999999999912,0.8462,0.8333
+2023-09-15 22:04:00.682378,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,Dallas Wings to beat New York Liberty,0.011399999999999997,0.0278,0.0164
 2023-09-15 15:05:12.587750,Boxing Lines - Erika Cruz Hernandez vs Melissa Oddesa Parker - To Win the Bout,Erika Cruz Hernandez,0.011399999999999966,0.8824,0.871
 2023-09-15 17:04:32.649957,Boxing Lines - Xander Zayas vs Roberto Valenzuela Jr - To Win the Bout,Roberto Valenzuela Jr,0.011099999999999999,0.1111,0.1
 2023-09-15 14:05:20.303182,Boxing Lines - Omar Alejandro Aguilar vs Julio Luna Avila - To Win the Bout,Omar Alejandro Aguilar,0.01090000000000002,0.8571,0.8462
 2023-09-15 16:04:30.215837,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,James Ward-Prowse (West Ham),0.0102,0.0769,0.0667
 2023-09-15 18:02:28.656822,Boxing Lines - Kenshiro Teraji vs Hekkie Budler - To Win the Bout,Kenshiro Teraji,0.010199999999999987,0.9333,0.9231
 2023-09-15 18:02:28.525973,Boxing Lines - Rafael Pedroza vs Ramon Cardenas - To Win the Bout,Ramon Cardenas,-0.010099999999999998,0.3125,0.3226
+2023-09-15 22:04:00.661159,WNBA Championship - WNBA Championship 2023 - Finals Exact Matchup,Atlanta Dream vs New York Liberty,-0.010600000000000002,0.0217,0.0323
 2023-09-15 13:08:12.706862,Boxing Lines - Junto Nakatani vs Argi Cortes - To Win the Bout,Argi Cortes,-0.011099999999999999,0.1,0.1111
 2023-09-15 16:04:37.327613,Boxing Lines - Victor Morales Jr vs Edwin Palomares - To Win the Bout,Victor Morales Jr,-0.011099999999999999,0.8889,0.9
+2023-09-15 22:04:00.682378,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,New York Liberty to beat Atlanta Dream,-0.0115,0.0179,0.0294
 2023-09-15 12:05:18.502623,Round Match-Ups - 2nd Round Match-Up - M. Kuchar v W. Simpson - 2nd Round Match-Up,Webb Simpson,-0.0116,0.4762,0.4878
 2023-09-15 14:05:20.303182,Boxing Lines - Omar Alejandro Aguilar vs Julio Luna Avila - To Win the Bout,Julio Luna Avila,-0.011700000000000016,0.2105,0.2222
-2023-09-15 12:05:11.910738,Video Game Specials - Call Of Duty: Modern Warfare 3 - To Be A Playable Character - COD: MW3 - To Be A Playable Character,Ice-T,-0.013899999999999996,0.1111,0.125
 2023-09-15 12:05:11.910738,Video Game Specials - Call Of Duty: Modern Warfare 3 - To Be A Playable Character - COD: MW3 - To Be A Playable Character,A$AP Rocky,-0.013899999999999996,0.1111,0.125
 2023-09-15 12:05:11.910738,Video Game Specials - Call Of Duty: Modern Warfare 3 - To Be A Playable Character - COD: MW3 - To Be A Playable Character,Bukayo Saka,-0.013899999999999996,0.1111,0.125
-2023-09-15 12:05:11.910738,Video Game Specials - Call Of Duty: Modern Warfare 3 - To Be A Playable Character - COD: MW3 - To Be A Playable Character,Eminem,-0.013999999999999999,0.0769,0.0909
+2023-09-15 12:05:11.910738,Video Game Specials - Call Of Duty: Modern Warfare 3 - To Be A Playable Character - COD: MW3 - To Be A Playable Character,Ice-T,-0.013899999999999996,0.1111,0.125
 2023-09-15 12:05:11.910738,Video Game Specials - Call Of Duty: Modern Warfare 3 - To Be A Playable Character - COD: MW3 - To Be A Playable Character,50 Cent,-0.013999999999999999,0.0769,0.0909
 2023-09-15 12:05:11.910738,Video Game Specials - Call Of Duty: Modern Warfare 3 - To Be A Playable Character - COD: MW3 - To Be A Playable Character,Dr. Dre,-0.013999999999999999,0.0769,0.0909
+2023-09-15 12:05:11.910738,Video Game Specials - Call Of Duty: Modern Warfare 3 - To Be A Playable Character - COD: MW3 - To Be A Playable Character,Eminem,-0.013999999999999999,0.0769,0.0909
 2023-09-15 12:05:11.910738,Video Game Specials - Call Of Duty: Modern Warfare 3 - To Be A Playable Character - COD: MW3 - To Be A Playable Character,Lil Wayne,-0.014399999999999996,0.0625,0.0769
 2023-09-15 12:05:11.910738,Video Game Specials - Call Of Duty: Modern Warfare 3 - To Be A Playable Character - COD: MW3 - To Be A Playable Character,Missy Elliott,-0.014899999999999997,0.0476,0.0625
+2023-09-15 22:04:00.682378,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,Las Vegas Aces to beat Washington Mystics,-0.015300000000000001,0.0323,0.0476
+2023-09-15 22:04:00.632972,WNBA Championship - WNBA Championship 2023 - Outright Winner,Las Vegas Aces,-0.01539999999999997,0.6,0.6154
 2023-09-15 20:03:33.891056,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Nordsjælland,-0.01820000000000002,0.1818,0.2
 2023-09-15 12:05:18.529995,Round Match-Ups - 2nd Round Match-Up - L. Herbert v M. Laird - 2nd Round Match-Up,Martin Laird,-0.018900000000000028,0.4255,0.4444
+2023-09-15 22:04:00.661159,WNBA Championship - WNBA Championship 2023 - Finals Exact Matchup,Las Vegas Aces vs Minnesota Lynx,-0.021300000000000003,0.0132,0.0345
+2023-09-15 22:04:00.682378,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,Las Vegas Aces to beat Minnesota Lynx,-0.021300000000000003,0.0132,0.0345
 2023-09-15 12:05:17.797194,Boxing Lines - Kevin Barron Crespo vs Christian Olivo Barredo - To Win the Bout,Christian Olivo Barredo,-0.022600000000000064,0.5122,0.5348
 2023-09-15 12:05:11.910738,Video Game Specials - Call Of Duty: Modern Warfare 3 - To Be A Playable Character - COD: MW3 - To Be A Playable Character,Pete Davidson,-0.023799999999999988,0.1429,0.1667
 2023-09-15 20:03:33.906900,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Midtjylland,-0.02679999999999999,0.2857,0.3125
 2023-09-15 21:04:10.394593,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayern Munich,-0.028800000000000048,0.8462,0.875
+2023-09-15 22:04:00.682378,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,New York Liberty to beat Las Vegas Aces,-0.030299999999999994,0.303,0.3333
+2023-09-15 22:04:00.661159,WNBA Championship - WNBA Championship 2023 - Finals Exact Matchup,Las Vegas Aces vs Washington Mystics,-0.03219999999999999,0.0345,0.0667
 2023-09-15 16:04:37.296726,Boxing Lines - Alejandro Reyes vs Roberto Gomez - To Win the Bout,Alejandro Reyes,-0.033299999999999996,0.8667,0.9
-2023-09-15 20:03:40.324712,Boxing Lines - Brayan Zamarripa vs Angel Fierro - To Win the Bout,Brayan Zamarripa,-0.033399999999999985,0.1333,0.1667
 2023-09-15 15:05:12.547557,Boxing Lines - Jamaine Ortiz vs Antonio Moran - To Win the Bout,Antonio Moran,-0.033399999999999985,0.1333,0.1667
+2023-09-15 20:03:40.324712,Boxing Lines - Brayan Zamarripa vs Angel Fierro - To Win the Bout,Brayan Zamarripa,-0.033399999999999985,0.1333,0.1667
 2023-09-15 20:03:40.337649,Boxing Lines - Xander Zayas vs Roberto Valenzuela Jr - To Win the Bout,Roberto Valenzuela Jr,-0.03420000000000001,0.0769,0.1111
 2023-09-15 20:03:33.446599,Championship - England Championship 2023/24 - League Winner,Southampton,-0.04169999999999999,0.125,0.1667
 2023-09-15 21:04:10.499113,Ligue 1 - France Ligue 1 2023/24 - Winner,Paris Saint-Germain,-0.055499999999999994,0.7778,0.8333
