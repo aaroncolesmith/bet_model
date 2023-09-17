@@ -1,50 +1,40 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-16 18:02:03.901349,Serie A - Italy Serie A 2023/24 - Winner,Inter Milan,0.08340000000000003,0.4167,0.3333
 2023-09-16 18:02:03.916328,Ligue 1 - France Ligue 1 2023/24 - Winner,Paris Saint-Germain,0.055499999999999994,0.8333,0.7778
-2023-09-16 08:03:24.203563,96th Academy Awards - Best Director - Best Director,Christopher Nolan - Oppenheimer,0.05449999999999999,0.6,0.5455
 2023-09-16 18:02:04.312179,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Luton Town,0.04619999999999991,0.8462,0.8
 2023-09-16 18:02:04.312179,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Sheffield United,0.035699999999999954,0.75,0.7143
 2023-09-16 19:02:22.474185,La Liga - Spain La Liga 2023/24 - Winner,FC Barcelona,0.0348,0.4348,0.4
 2023-09-16 18:02:10.787539,Scores - Final Round Score - Viktor Hovland - Final Round Score,Under 68.5,0.03479999999999994,0.6,0.5652
 2023-09-16 17:02:25.960803,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Erling Braut Haaland,0.033299999999999996,0.8333,0.8
 2023-09-16 17:02:25.953434,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Liverpool,0.028799999999999992,0.1538,0.125
-2023-09-16 18:02:04.312179,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Burnley,0.02679999999999999,0.3125,0.2857
 2023-09-16 18:02:04.312179,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Wolverhampton Wanderers,0.02679999999999999,0.3125,0.2857
+2023-09-16 18:02:04.312179,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Burnley,0.02679999999999999,0.3125,0.2857
 2023-09-16 18:02:04.312179,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Crystal Palace,0.0242,0.0909,0.0667
 2023-09-16 18:02:03.901349,Serie A - Italy Serie A 2023/24 - Winner,Juventus,0.022199999999999998,0.2222,0.2
 2023-09-16 17:02:25.953434,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Manchester City,0.02200000000000002,0.7143,0.6923
 2023-09-16 11:07:12.869191,Fortinet Championship - 2/3 Balls - 3rd Round 2 Ball - C. Davis v S. Ryder - 3rd Round 2 Ball,Cam Davis,0.01970000000000005,0.5652,0.5455
 2023-09-16 19:02:22.474185,La Liga - Spain La Liga 2023/24 - Winner,Atlético Madrid,0.01759999999999999,0.1176,0.1
-2023-09-16 08:03:29.795205,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.014900000000000024,0.3226,0.3077
 2023-09-16 18:02:03.883243,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,RB Leipzig,0.013999999999999999,0.0909,0.0769
 2023-09-16 11:07:12.793950,Fortinet Championship - 2/3 Balls - 3rd Round 2 Ball - M. Trainer v R. Shelton - 3rd Round 2 Ball,Martin Trainer,-0.010099999999999998,0.4444,0.4545
-2023-09-16 08:03:29.743380,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Vivek Ramaswamy,-0.0102,0.0667,0.0769
-2023-09-16 11:07:12.849965,Fortinet Championship - 2/3 Balls - 3rd Round 2 Ball - J. Lower v M. Homa - 3rd Round 2 Ball,Justin Lower,-0.010699999999999987,0.3226,0.3333
 2023-09-16 11:07:12.897247,Fortinet Championship - 2/3 Balls - 3rd Round 2 Ball - K. Kraft v J. Thomas - 3rd Round 2 Ball,Kelly Kraft,-0.010699999999999987,0.3226,0.3333
-2023-09-16 11:07:12.518823,Fortinet Championship - 2/3 Balls - 3rd Round 2 Ball - L. Herbert v S. Stevens - 3rd Round 2 Ball,Lucas Herbert,-0.01100000000000001,0.5238,0.5348
+2023-09-16 11:07:12.849965,Fortinet Championship - 2/3 Balls - 3rd Round 2 Ball - J. Lower v M. Homa - 3rd Round 2 Ball,Justin Lower,-0.010699999999999987,0.3226,0.3333
 2023-09-16 11:07:12.538321,Fortinet Championship - 2/3 Balls - 3rd Round 2 Ball - E. Van Rooyen v C. Ramey - 3rd Round 2 Ball,Erik Van Rooyen,-0.01100000000000001,0.5238,0.5348
-2023-09-16 11:07:12.761734,Fortinet Championship - 2/3 Balls - 3rd Round 2 Ball - M. Kuchar v K.H. Lee - 3rd Round 2 Ball,Matt Kuchar,-0.011099999999999999,0.4651,0.4762
+2023-09-16 11:07:12.518823,Fortinet Championship - 2/3 Balls - 3rd Round 2 Ball - L. Herbert v S. Stevens - 3rd Round 2 Ball,Lucas Herbert,-0.01100000000000001,0.5238,0.5348
 2023-09-16 11:07:12.950402,Fortinet Championship - 2/3 Balls - 3rd Round 2 Ball - S. Theegala v S.H. Kim - 3rd Round 2 Ball,S.H. Kim,-0.011099999999999999,0.4651,0.4762
+2023-09-16 11:07:12.761734,Fortinet Championship - 2/3 Balls - 3rd Round 2 Ball - M. Kuchar v K.H. Lee - 3rd Round 2 Ball,Matt Kuchar,-0.011099999999999999,0.4651,0.4762
 2023-09-16 17:02:25.960803,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Mohamed Salah,-0.011199999999999995,0.0476,0.0588
 2023-09-16 11:07:12.929277,Fortinet Championship - 2/3 Balls - 3rd Round 2 Ball - S. Bae v E. Cole - 3rd Round 2 Ball,Sangmoon Bae,-0.01150000000000001,0.3333,0.3448
-2023-09-16 11:07:12.730052,Fortinet Championship - 2/3 Balls - 3rd Round 2 Ball - J. Dufner v R. Moore - 3rd Round 2 Ball,Ryan Moore,-0.012199999999999989,0.5,0.5122
-2023-09-16 11:07:12.667129,Fortinet Championship - 2/3 Balls - 3rd Round 2 Ball - D. Thompson v N. Lashley - 3rd Round 2 Ball,Nate Lashley,-0.012199999999999989,0.5,0.5122
 2023-09-16 11:07:12.698278,Fortinet Championship - 2/3 Balls - 3rd Round 2 Ball - A. Cook v S. Kang - 3rd Round 2 Ball,Sung Kang,-0.012199999999999989,0.5,0.5122
+2023-09-16 11:07:12.667129,Fortinet Championship - 2/3 Balls - 3rd Round 2 Ball - D. Thompson v N. Lashley - 3rd Round 2 Ball,Nate Lashley,-0.012199999999999989,0.5,0.5122
+2023-09-16 11:07:12.730052,Fortinet Championship - 2/3 Balls - 3rd Round 2 Ball - J. Dufner v R. Moore - 3rd Round 2 Ball,Ryan Moore,-0.012199999999999989,0.5,0.5122
 2023-09-16 15:01:59.375719,Boxing Lines - William Zepeda vs Mercito Gesta - To Win the Bout,Mercito Gesta,-0.012299999999999991,0.1053,0.1176
 2023-09-16 18:02:09.747213,Boxing Lines - Yokasta Valle vs Maria Micheo Santizo - To Win the Bout,Maria Micheo Santizo,-0.013999999999999999,0.0769,0.0909
-2023-09-16 08:03:24.203563,96th Academy Awards - Best Director - Best Director,Ridley Scott - Napoleon,-0.014099999999999998,0.0244,0.0385
-2023-09-16 08:03:24.203563,96th Academy Awards - Best Director - Best Director,Ellen Kuras - Lee,-0.014099999999999998,0.0244,0.0385
-2023-09-16 08:03:24.203563,96th Academy Awards - Best Director - Best Director,Ben Affleck - Air,-0.014099999999999998,0.0244,0.0385
-2023-09-16 08:03:24.203563,96th Academy Awards - Best Director - Best Director,Wes Anderson - Asteroid City,-0.014099999999999998,0.0244,0.0385
 2023-09-16 18:02:04.312179,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Nottingham Forest,-0.015100000000000002,0.1667,0.1818
 2023-09-16 18:02:04.312179,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Everton,-0.015400000000000025,0.3846,0.4
 2023-09-16 18:02:03.901349,Serie A - Italy Serie A 2023/24 - Winner,AC Milan,-0.016699999999999993,0.25,0.2667
-2023-09-16 08:03:24.203563,96th Academy Awards - Best Director - Best Director,Jimmy Chin & Elizabeth Chai Vasarhelyi - Nyad,-0.023200000000000002,0.0244,0.0476
-2023-09-16 08:03:24.203563,96th Academy Awards - Best Director - Best Director,Sofia Coppola - Priscilla,-0.023200000000000002,0.0244,0.0476
 2023-09-16 11:07:12.826305,Fortinet Championship - 2/3 Balls - 3rd Round 2 Ball - C. Tarren v H. Hall - 3rd Round 2 Ball,Harry Hall,-0.023800000000000043,0.5,0.5238
 2023-09-16 19:02:22.474185,La Liga - Spain La Liga 2023/24 - Winner,Real Madrid,-0.027700000000000058,0.5556,0.5833
 2023-09-16 18:02:04.312179,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Fulham,-0.033300000000000024,0.1667,0.2
 2023-09-16 18:02:10.787539,Scores - Final Round Score - Viktor Hovland - Final Round Score,Over 68.5,-0.03489999999999999,0.4651,0.5
 2023-09-16 11:07:12.869191,Fortinet Championship - 2/3 Balls - 3rd Round 2 Ball - C. Davis v S. Ryder - 3rd Round 2 Ball,Sam Ryder,-0.035999999999999976,0.4762,0.5122
-2023-09-16 08:03:24.203563,96th Academy Awards - Best Director - Best Director,Martin Scorsese - Killers of the Flower Moon,-0.04409999999999997,0.25,0.2941
 2023-09-16 18:02:03.901349,Serie A - Italy Serie A 2023/24 - Winner,Napoli,-0.06590000000000001,0.1667,0.2326
