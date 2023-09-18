@@ -6,6 +6,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-17 22:02:44.617230,AFC West - AFC West 2023/24 - AFC West Winner,Kansas City Chiefs,0.12990000000000002,0.7299,0.6
 2023-09-18 02:04:07.502805,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Anthony Richardson,0.12259999999999999,0.3226,0.2
 2023-09-17 21:05:12.304820,AFC North - AFC North 2023/24 - AFC North Winner,Baltimore Ravens,0.12120000000000003,0.4545,0.3333
+2023-09-18 02:04:06.983650,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Dallas Cowboys,Yes,0.11509999999999998,0.9333,0.8182
 2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Ipswich Town,0.11109999999999998,0.6667,0.5556
 2023-09-18 02:04:07.268225,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Tampa Bay Buccaneers,Yes,0.09960000000000002,0.4444,0.3448
 2023-09-18 02:04:07.293961,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Tennessee Titans,Yes,0.09920000000000001,0.4167,0.3175
@@ -38,16 +39,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-17 23:03:55.160872,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Brøndby IF,0.047799999999999954,0.9709,0.9231
 2023-09-17 22:02:44.644955,NFC North - NFC North 2023/24 - NFC North Winner,Green Bay Packers,0.047599999999999976,0.3333,0.2857
 2023-09-17 22:02:38.430178,Championship - England Championship 2023/24 - To Be Relegated,Plymouth Argyle,0.047599999999999976,0.3333,0.2857
-2023-09-17 22:02:38.443697,Championship - England Championship 2023/24 - Top 2 Finish,Ipswich Town,0.044499999999999984,0.2667,0.2222
 2023-09-17 22:02:38.443697,Championship - England Championship 2023/24 - Top 2 Finish,Leeds United,0.044499999999999984,0.2667,0.2222
+2023-09-17 22:02:38.443697,Championship - England Championship 2023/24 - Top 2 Finish,Ipswich Town,0.044499999999999984,0.2667,0.2222
 2023-09-17 15:06:32.169379,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,Mohamed Salah (Liverpool),0.04440000000000001,0.1111,0.0667
 2023-09-17 22:02:38.430178,Championship - England Championship 2023/24 - To Be Relegated,Sheffield Wednesday,0.044399999999999995,0.4444,0.4
 2023-09-17 15:06:35.372103,WNBA Championship - WNBA Championship 2023 - Finals Exact Matchup,Las Vegas Aces vs Connecticut Sun,0.043899999999999995,0.2439,0.2
+2023-09-18 02:04:06.967404,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Cleveland Browns,Yes,0.04179999999999995,0.697,0.6552
 2023-09-17 22:02:38.876355,League One - England - League One 2023/24 - Top Goalscorer,Devante Cole,0.04169999999999999,0.1667,0.125
-2023-09-17 22:02:38.437072,Championship - England Championship 2023/24 - To Finish Bottom,Rotherham Utd,0.04099999999999998,0.3077,0.2667
 2023-09-18 02:04:07.318285,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Washington Commanders,Yes,0.04099999999999998,0.3077,0.2667
-2023-09-17 21:05:12.255542,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Dallas Cowboys,0.04040000000000002,0.2222,0.1818
+2023-09-17 22:02:38.437072,Championship - England Championship 2023/24 - To Finish Bottom,Rotherham Utd,0.04099999999999998,0.3077,0.2667
 2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Blackburn Rovers,0.04040000000000002,0.2222,0.1818
+2023-09-17 21:05:12.255542,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Dallas Cowboys,0.04040000000000002,0.2222,0.1818
 2023-09-18 02:04:07.141306,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - New Orleans Saints,No,0.0398,0.3846,0.3448
 2023-09-17 23:03:55.145759,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Hvidovre IF,0.03949999999999998,0.9091,0.8696
 2023-09-17 22:02:38.430178,Championship - England Championship 2023/24 - To Be Relegated,Swansea City,0.03889999999999999,0.1818,0.1429
@@ -65,14 +67,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-17 16:05:16.252225,Serie A - Italy Serie A 2023/24 - Winner,Inter Milan,0.027700000000000002,0.4444,0.4167
 2023-09-18 02:04:07.194852,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Pittsburgh Steelers,Yes,0.027500000000000024,0.3846,0.3571
 2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Ipswich Town,0.026500000000000024,0.3774,0.3509
-2023-09-17 15:06:35.386494,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,Las Vegas Aces to beat Connecticut Sun,0.02560000000000001,0.1923,0.1667
 2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Norwich City,0.02560000000000001,0.3333,0.3077
+2023-09-17 15:06:35.386494,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,Las Vegas Aces to beat Connecticut Sun,0.02560000000000001,0.1923,0.1667
 2023-09-17 22:02:38.430178,Championship - England Championship 2023/24 - To Be Relegated,Rotherham Utd,0.025599999999999956,0.6,0.5744
 2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Leicester City,0.025599999999999956,0.6,0.5744
 2023-09-17 15:06:35.386494,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,Las Vegas Aces to beat New York Liberty,0.025499999999999967,0.4255,0.4
 2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Cardiff City,0.0242,0.0909,0.0667
-2023-09-17 15:06:32.184488,Premier League Futures/Specials - English Premier League 2023/24 - Golden Glove Award,Nick Pope,0.0242,0.0909,0.0667
 2023-09-17 15:06:32.155494,Premier League Futures/Specials - English Premier League 2023/24 - Winner without Manchester City,Brighton & Hove Albion,0.0242,0.0909,0.0667
+2023-09-17 15:06:32.184488,Premier League Futures/Specials - English Premier League 2023/24 - Golden Glove Award,Nick Pope,0.0242,0.0909,0.0667
 2023-09-18 02:04:06.685845,NFC Championship - NFC Championship 2023/24 - NFC Conference Winning Division,NFC South,0.023799999999999988,0.1667,0.1429
 2023-09-17 22:02:38.415674,Championship - England Championship 2023/24 - Top Goalscorer,Conor Chaplin,0.023200000000000002,0.0476,0.0244
 2023-09-17 22:02:38.443697,Championship - England Championship 2023/24 - Top 2 Finish,Preston North End,0.02310000000000001,0.1,0.0769
@@ -86,8 +88,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-18 02:04:07.162985,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Philadelphia Eagles,Yes,0.020199999999999996,0.9091,0.8889
 2023-09-17 15:06:32.184488,Premier League Futures/Specials - English Premier League 2023/24 - Golden Glove Award,Robert Sanchez,0.019099999999999992,0.0667,0.0476
 2023-09-17 23:03:55.172094,Eredivisie - Dutch Eredivisie 2023/24 - Winner,Feyenoord,0.019000000000000017,0.2857,0.2667
-2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Preston North End,0.019000000000000017,0.2857,0.2667
 2023-09-17 21:05:12.255542,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,San Francisco 49ers,0.019000000000000017,0.2857,0.2667
+2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Preston North End,0.019000000000000017,0.2857,0.2667
 2023-09-18 02:04:07.844502,Boxing Lines - Kenshiro Teraji vs Hekkie Budler - To Win the Bout,Hekkie Budler,0.019000000000000003,0.1333,0.1143
 2023-09-17 23:03:55.172094,Eredivisie - Dutch Eredivisie 2023/24 - Winner,PSV Eindhoven,0.018900000000000028,0.4444,0.4255
 2023-09-17 22:02:38.443697,Championship - England Championship 2023/24 - Top 2 Finish,Leicester City,0.018900000000000028,0.4444,0.4255
@@ -107,37 +109,38 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-17 22:02:44.658654,NFC South - NFC South 2023/24 - NFC South Winner,Tampa Bay Buccaneers,0.015100000000000002,0.1818,0.1667
 2023-09-18 02:04:07.440629,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Lamar Jackson,0.014399999999999996,0.0769,0.0625
 2023-09-18 02:04:07.440629,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Dak Prescott,0.014099999999999994,0.0667,0.0526
-2023-09-18 02:04:07.471156,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Justin Jefferson,0.013999999999999999,0.0909,0.0769
-2023-09-17 23:03:55.102686,League Two - England - League Two 2023/24 - Top Goalscorer,Elliot Lee,0.013999999999999999,0.0909,0.0769
-2023-09-17 23:03:55.102686,League Two - England - League Two 2023/24 - Top Goalscorer,Mohamed Eisa,0.013999999999999999,0.0909,0.0769
 2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Blackburn Rovers,0.013999999999999999,0.0909,0.0769
-2023-09-17 22:02:44.603546,AFC South - AFC South 2023/24 - AFC South Winner,Indianapolis Colts,0.013899999999999996,0.125,0.1111
+2023-09-17 23:03:55.102686,League Two - England - League Two 2023/24 - Top Goalscorer,Mohamed Eisa,0.013999999999999999,0.0909,0.0769
+2023-09-17 23:03:55.102686,League Two - England - League Two 2023/24 - Top Goalscorer,Elliot Lee,0.013999999999999999,0.0909,0.0769
+2023-09-18 02:04:07.471156,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Justin Jefferson,0.013999999999999999,0.0909,0.0769
 2023-09-18 02:04:07.440629,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Josh Allen,0.013899999999999996,0.125,0.1111
+2023-09-17 22:02:44.603546,AFC South - AFC South 2023/24 - AFC South Winner,Indianapolis Colts,0.013899999999999996,0.125,0.1111
 2023-09-17 22:02:44.658654,NFC South - NFC South 2023/24 - NFC South Winner,Atlanta Falcons,0.013800000000000034,0.3774,0.3636
 2023-09-18 02:04:07.440629,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Deshaun Watson,0.0131,0.0476,0.0345
 2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Bristol City,0.012899999999999995,0.1667,0.1538
 2023-09-17 23:03:55.153505,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Nordsjælland,0.012700000000000045,0.6491,0.6364
 2023-09-17 22:02:38.437072,Championship - England Championship 2023/24 - To Finish Bottom,Swansea City,0.011199999999999995,0.0588,0.0476
-2023-09-17 22:02:38.876355,League One - England - League One 2023/24 - Top Goalscorer,Dion Charles,0.011099999999999999,0.1111,0.1
-2023-09-17 21:05:12.222655,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Dallas Cowboys,0.011099999999999999,0.1111,0.1
 2023-09-17 22:02:38.876355,League One - England - League One 2023/24 - Top Goalscorer,Colby Bishop,0.011099999999999999,0.1111,0.1
 2023-09-18 02:04:07.440629,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Jalen Hurts,0.011099999999999999,0.1111,0.1
+2023-09-17 21:05:12.222655,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Dallas Cowboys,0.011099999999999999,0.1111,0.1
+2023-09-17 22:02:38.876355,League One - England - League One 2023/24 - Top Goalscorer,Dion Charles,0.011099999999999999,0.1111,0.1
 2023-09-17 21:05:12.239396,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Kansas City Chiefs,0.010399999999999993,0.2326,0.2222
-2023-09-17 15:06:32.169379,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,Bukayo Saka (Arsenal),0.0102,0.0769,0.0667
 2023-09-17 22:02:38.430178,Championship - England Championship 2023/24 - To Be Relegated,Hull City,0.0102,0.0769,0.0667
+2023-09-17 15:06:32.169379,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,Bukayo Saka (Arsenal),0.0102,0.0769,0.0667
 2023-09-17 22:02:38.443697,Championship - England Championship 2023/24 - Top 2 Finish,Watford,0.0102,0.0769,0.0667
-2023-09-17 18:05:11.037473,Boxing Lines - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Zhilei Zhang,0.010099999999999998,0.5556,0.5455
 2023-09-18 02:04:07.123669,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - New England Patriots,No,0.010099999999999998,0.8214,0.8113
+2023-09-17 18:05:11.037473,Boxing Lines - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Zhilei Zhang,0.010099999999999998,0.5556,0.5455
 2023-09-18 02:04:07.844502,Boxing Lines - Kenshiro Teraji vs Hekkie Budler - To Win the Bout,Kenshiro Teraji,-0.010199999999999987,0.9231,0.9333
-2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Bristol City,-0.0102,0.0667,0.0769
 2023-09-18 02:04:07.385577,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Matt Lafleur,-0.0102,0.0667,0.0769
 2023-09-18 02:04:07.502805,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Jordan Addison,-0.0102,0.0667,0.0769
+2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Bristol City,-0.0102,0.0667,0.0769
 2023-09-17 22:02:38.443697,Championship - England Championship 2023/24 - Top 2 Finish,Southampton,-0.010399999999999993,0.2222,0.2326
 2023-09-18 02:04:07.385577,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,DeMeco Ryans,-0.010700000000000001,0.0278,0.0385
 2023-09-17 19:03:53.782463,Boxing Lines - Kenshiro Teraji vs Hekkie Budler - To Win the Bout,Hekkie Budler,-0.010700000000000001,0.1143,0.125
+2023-09-18 03:03:56.397682,Boxing Lines - Khalil Coe vs Kenmon Evans - To Win the Bout,Kenmon Evans,-0.011099999999999999,0.1,0.1111
+2023-09-18 02:04:07.385577,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Mike McCarthy,-0.011199999999999995,0.0323,0.0435
 2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Plymouth Argyle,-0.011199999999999995,0.0476,0.0588
 2023-09-17 22:02:38.443697,Championship - England Championship 2023/24 - Top 2 Finish,Bristol City,-0.011199999999999995,0.0476,0.0588
-2023-09-18 02:04:07.385577,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Mike McCarthy,-0.011199999999999995,0.0323,0.0435
 2023-09-17 18:05:11.037473,Boxing Lines - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Joseph Joyce,-0.011600000000000055,0.5122,0.5238
 2023-09-17 15:06:32.138400,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Chelsea,-0.012100000000000001,0.0123,0.0244
 2023-09-18 02:04:06.685845,NFC Championship - NFC Championship 2023/24 - NFC Conference Winning Division,NFC West,-0.012299999999999978,0.3448,0.3571
@@ -145,29 +148,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-18 02:04:07.440629,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Dereck Carr,-0.012700000000000003,0.0196,0.0323
 2023-09-17 16:05:17.366165,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Cody Gakpo,-0.013,0.0066,0.0196
 2023-09-17 21:05:12.255542,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Philadelphia Eagles,-0.0131,0.2222,0.2353
-2023-09-18 02:04:07.821435,Boxing Lines - Junto Nakatani vs Argi Cortes - To Win the Bout,Junto Nakatani,-0.0131,0.9524,0.9655
 2023-09-17 15:06:32.169379,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,Gabriel Martinelli (Arsenal),-0.0131,0.0345,0.0476
+2023-09-18 02:04:07.821435,Boxing Lines - Junto Nakatani vs Argi Cortes - To Win the Bout,Junto Nakatani,-0.0131,0.9524,0.9655
 2023-09-17 15:06:35.386494,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,Dallas Wings to beat New York Liberty,-0.013699999999999999,0.0141,0.0278
 2023-09-17 22:02:38.876355,League One - England - League One 2023/24 - Top Goalscorer,Martyn Waghorn,-0.013999999999999999,0.0769,0.0909
-2023-09-17 22:02:38.443697,Championship - England Championship 2023/24 - Top 2 Finish,Swansea City,-0.014099999999999998,0.0244,0.0385
 2023-09-17 16:05:16.252225,Serie A - Italy Serie A 2023/24 - Winner,Lazio,-0.014099999999999998,0.0244,0.0385
+2023-09-17 22:02:38.443697,Championship - England Championship 2023/24 - Top 2 Finish,Swansea City,-0.014099999999999998,0.0244,0.0385
 2023-09-18 02:04:07.471156,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Ja'Marr Chase,-0.014100000000000001,0.0385,0.0526
 2023-09-17 23:03:55.160872,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Odense,-0.01419999999999999,0.3704,0.3846
 2023-09-17 22:02:44.617230,AFC West - AFC West 2023/24 - AFC West Winner,Denver Broncos,-0.01440000000000001,0.0909,0.1053
+2023-09-17 16:05:17.366165,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Rasmus Hojlund,-0.014499999999999999,0.0149,0.0294
 2023-09-17 16:05:17.366165,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Richarlison,-0.014499999999999999,0.0149,0.0294
 2023-09-17 16:05:17.366165,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Bukayo Saka,-0.014499999999999999,0.0149,0.0294
-2023-09-17 16:05:17.366165,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Rasmus Hojlund,-0.014499999999999999,0.0149,0.0294
 2023-09-17 21:05:12.255542,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Green Bay Packers,-0.014899999999999997,0.0476,0.0625
 2023-09-18 02:04:07.440629,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Jared Goff,-0.014900000000000004,0.0196,0.0345
 2023-09-17 16:05:16.319217,Ligue 1 - France Ligue 1 2023/24 - Winner,Paris Saint-Germain,-0.015100000000000002,0.8182,0.8333
 2023-09-18 02:04:07.385577,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Kevin Stefanski,-0.015300000000000001,0.0435,0.0588
 2023-09-18 02:04:06.926602,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Carolina Panthers,Yes,-0.01680000000000001,0.2105,0.2273
-2023-09-17 16:05:17.366165,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Nicholas Jackson,-0.017099999999999997,0.0123,0.0294
 2023-09-17 16:05:17.366165,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Raheem Sterling,-0.017099999999999997,0.0123,0.0294
+2023-09-17 16:05:17.366165,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Nicholas Jackson,-0.017099999999999997,0.0123,0.0294
 2023-09-17 16:05:16.252225,Serie A - Italy Serie A 2023/24 - Winner,AC Milan,-0.0174,0.2326,0.25
 2023-09-17 23:03:55.102686,League Two - England - League Two 2023/24 - Top Goalscorer,Macauley Langstaff,-0.0179,0.125,0.1429
-2023-09-17 22:02:38.443697,Championship - England Championship 2023/24 - Top 2 Finish,Birmingham City,-0.018099999999999998,0.0588,0.0769
 2023-09-17 15:06:32.169379,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,James Ward-Prowse (West Ham),-0.018099999999999998,0.0588,0.0769
+2023-09-17 22:02:38.443697,Championship - England Championship 2023/24 - Top 2 Finish,Birmingham City,-0.018099999999999998,0.0588,0.0769
 2023-09-17 23:03:55.138558,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Nordsjælland,-0.01820000000000002,0.1818,0.2
 2023-09-17 23:03:55.160872,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,FC Midtjylland,-0.018999999999999906,0.7143,0.7333
 2023-09-17 23:03:55.138558,Superligaen - Denmark Superligaen 2023/24 - Winner,AGF Aarhus,-0.019000000000000003,0.0435,0.0625
@@ -175,14 +178,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-18 02:04:07.413325,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Lamar Jackson,-0.019099999999999995,0.0244,0.0435
 2023-09-17 16:05:17.366165,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Bryan Mbeumo,-0.019499999999999997,0.0099,0.0294
 2023-09-18 02:04:07.413325,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Matthew Stafford,-0.019800000000000005,0.0278,0.0476
-2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Middlesbrough,-0.02020000000000001,0.0909,0.1111
-2023-09-17 23:03:55.145759,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Odense,-0.02020000000000001,0.0909,0.1111
-2023-09-17 22:02:44.672405,NFC West - NFC West 2023/24 - NFC West Winner,Los Angeles Rams,-0.02020000000000001,0.0909,0.1111
 2023-09-17 22:02:38.876355,League One - England - League One 2023/24 - Top Goalscorer,Jonson Clarke-Harris,-0.02020000000000001,0.0909,0.1111
 2023-09-17 22:02:38.876355,League One - England - League One 2023/24 - Top Goalscorer,Charlie Wyke,-0.02020000000000001,0.0909,0.1111
-2023-09-17 22:02:38.430178,Championship - England Championship 2023/24 - To Be Relegated,Preston North End,-0.0203,0.0385,0.0588
-2023-09-17 22:02:38.430178,Championship - England Championship 2023/24 - To Be Relegated,Watford,-0.0203,0.0385,0.0588
+2023-09-17 22:02:44.672405,NFC West - NFC West 2023/24 - NFC West Winner,Los Angeles Rams,-0.02020000000000001,0.0909,0.1111
+2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Middlesbrough,-0.02020000000000001,0.0909,0.1111
+2023-09-17 23:03:55.145759,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Odense,-0.02020000000000001,0.0909,0.1111
 2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Queens Park Rangers,-0.0203,0.0385,0.0588
+2023-09-17 22:02:38.430178,Championship - England Championship 2023/24 - To Be Relegated,Watford,-0.0203,0.0385,0.0588
+2023-09-17 22:02:38.430178,Championship - England Championship 2023/24 - To Be Relegated,Preston North End,-0.0203,0.0385,0.0588
 2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,West Bromwich Albion,-0.02049999999999999,0.1333,0.1538
 2023-09-17 15:06:32.138400,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Liverpool,-0.02049999999999999,0.1333,0.1538
 2023-09-17 21:05:12.304820,AFC North - AFC North 2023/24 - AFC North Winner,Cleveland Browns,-0.020799999999999985,0.3125,0.3333
@@ -191,15 +194,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-17 23:03:55.153505,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Silkeborg IF,-0.022199999999999998,0.2,0.2222
 2023-09-17 23:03:55.153505,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Midtjylland,-0.02250000000000002,0.2632,0.2857
 2023-09-18 02:04:06.909133,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Baltimore Ravens,No,-0.02260000000000001,0.3774,0.4
-2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Hull City,-0.02310000000000001,0.0769,0.1
-2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Birmingham City,-0.02310000000000001,0.0769,0.1
 2023-09-17 22:02:38.430178,Championship - England Championship 2023/24 - To Be Relegated,Blackburn Rovers,-0.02310000000000001,0.0769,0.1
+2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Birmingham City,-0.02310000000000001,0.0769,0.1
+2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Hull City,-0.02310000000000001,0.0769,0.1
 2023-09-17 16:05:17.366165,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Gabriel Jesus,-0.0236,0.0149,0.0385
 2023-09-17 23:03:55.102686,League Two - England - League Two 2023/24 - Top Goalscorer,Jake Young,-0.023799999999999988,0.1429,0.1667
 2023-09-17 22:02:44.603546,AFC South - AFC South 2023/24 - AFC South Winner,Houston Texans,-0.0238,0.0714,0.0952
-2023-09-17 22:02:44.644955,NFC North - NFC North 2023/24 - NFC North Winner,Chicago Bears,-0.0242,0.0667,0.0909
 2023-09-17 22:02:38.443697,Championship - England Championship 2023/24 - Top 2 Finish,West Bromwich Albion,-0.0242,0.0667,0.0909
 2023-09-17 15:06:32.184488,Premier League Futures/Specials - English Premier League 2023/24 - Golden Glove Award,Aaron Ramsdale,-0.0242,0.0667,0.0909
+2023-09-17 22:02:44.644955,NFC North - NFC North 2023/24 - NFC North Winner,Chicago Bears,-0.0242,0.0667,0.0909
 2023-09-18 02:04:07.440629,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Justin Herbert,-0.0245,0.0588,0.0833
 2023-09-18 02:04:07.162985,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Philadelphia Eagles,No,-0.024800000000000016,0.1538,0.1786
 2023-09-17 15:06:32.169379,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,Phil Foden (Man City),-0.024999999999999994,0.1,0.125
@@ -208,13 +211,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-17 21:05:12.255542,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Detroit Lions,-0.0267,0.0909,0.1176
 2023-09-18 02:04:07.050389,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Jacksonville Jaguars,Yes,-0.02739999999999998,0.7059,0.7333
 2023-09-18 02:04:07.194852,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Pittsburgh Steelers,No,-0.027599999999999958,0.6825,0.7101
-2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Middlesbrough,-0.02779999999999999,0.2222,0.25
 2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Stoke City,-0.02779999999999999,0.2222,0.25
+2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Middlesbrough,-0.02779999999999999,0.2222,0.25
 2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Birmingham City,-0.02779999999999999,0.2222,0.25
 2023-09-17 22:02:44.658654,NFC South - NFC South 2023/24 - NFC South Winner,Carolina Panthers,-0.027800000000000005,0.0833,0.1111
-2023-09-18 02:04:07.385577,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Sean McVay,-0.028199999999999996,0.0385,0.0667
 2023-09-17 21:05:12.222655,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Detroit Lions,-0.028199999999999996,0.0385,0.0667
 2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Swansea City,-0.028199999999999996,0.0385,0.0667
+2023-09-18 02:04:07.385577,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Sean McVay,-0.028199999999999996,0.0385,0.0667
 2023-09-17 21:05:12.239396,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Los Angeles Chargers,-0.028399999999999995,0.0625,0.0909
 2023-09-17 15:06:35.386494,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,New York Liberty to beat Dallas Wings,-0.0286,0.0714,0.1
 2023-09-17 16:05:17.342902,Premier League Futures/Specials - English Premier League 2023/24 - Winner without ''The Big 6'',West Ham United,-0.029299999999999993,0.0476,0.0769
@@ -222,14 +225,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Southampton,-0.030299999999999994,0.3333,0.3636
 2023-09-17 22:02:38.415674,Championship - England Championship 2023/24 - Top Goalscorer,Adam Armstrong,-0.031799999999999995,0.1111,0.1429
 2023-09-18 00:03:35.854040,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,DEN Broncos to beat PHI Eagles,-0.0319,0.0066,0.0385
-2023-09-18 02:04:07.502805,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Bryce Young,-0.0321,0.0588,0.0909
 2023-09-17 15:06:32.169379,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,Jack Grealish (Man City),-0.0321,0.0588,0.0909
-2023-09-17 15:06:32.184488,Premier League Futures/Specials - English Premier League 2023/24 - Golden Glove Award,Andre Onana,-0.034100000000000005,0.0909,0.125
+2023-09-18 02:04:07.502805,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Bryce Young,-0.0321,0.0588,0.0909
 2023-09-17 15:06:32.169379,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,Trent Alexander-Arnold (Liverpool),-0.034100000000000005,0.0909,0.125
-2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Stoke City,-0.03420000000000001,0.0769,0.1111
+2023-09-17 15:06:32.184488,Premier League Futures/Specials - English Premier League 2023/24 - Golden Glove Award,Andre Onana,-0.034100000000000005,0.0909,0.125
 2023-09-17 15:06:32.169379,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,James Maddison (Tottenham),-0.03420000000000001,0.0769,0.1111
-2023-09-17 21:05:12.271032,AFC East - AFC East 2023/24 - AFC East Winner 23/24,New England Patriots,-0.037500000000000006,0.0625,0.1
+2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Stoke City,-0.03420000000000001,0.0769,0.1111
 2023-09-18 02:04:07.502805,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Jahmyr Gibbs,-0.037500000000000006,0.0625,0.1
+2023-09-17 21:05:12.271032,AFC East - AFC East 2023/24 - AFC East Winner 23/24,New England Patriots,-0.037500000000000006,0.0625,0.1
 2023-09-18 02:04:06.967404,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Cleveland Browns,No,-0.0378,0.3704,0.4082
 2023-09-18 02:04:07.034988,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Houston Texans,Yes,-0.03810000000000001,0.0909,0.129
 2023-09-18 02:04:07.413325,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Baker Mayfield,-0.0392,0.0196,0.0588
