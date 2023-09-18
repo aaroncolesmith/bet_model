@@ -16,6 +16,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-18 02:04:07.268225,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Tampa Bay Buccaneers,Yes,0.09960000000000002,0.4444,0.3448
 2023-09-18 02:04:07.293961,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Tennessee Titans,Yes,0.09920000000000001,0.4167,0.3175
 2023-09-18 02:04:07.247129,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Seattle Seahawks,Yes,0.09740000000000004,0.4545,0.3571
+2023-09-18 06:03:34.350625,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Micah Parsons,0.09689999999999999,0.3636,0.2667
 2023-09-18 02:04:07.001234,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Detroit Lions,No,0.0937,0.3922,0.2985
 2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Leeds United,0.09350000000000003,0.6491,0.5556
 2023-09-17 22:02:44.603546,AFC South - AFC South 2023/24 - AFC South Winner,Tennessee Titans,0.09029999999999999,0.3125,0.2222
@@ -24,148 +25,194 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-18 02:04:07.502805,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Puka Nacua,0.07880000000000001,0.1111,0.0323
 2023-09-17 23:03:55.145759,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Vejle BK,0.07790000000000008,0.8182,0.7403
 2023-09-17 23:03:55.160872,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Randers,0.06860000000000002,0.2353,0.1667
+2023-09-18 06:03:25.892583,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Nice,0.06670000000000004,0.4,0.3333
 2023-09-17 22:02:44.644955,NFC North - NFC North 2023/24 - NFC North Winner,Minnesota Vikings,0.06670000000000001,0.2,0.1333
 2023-09-18 05:04:22.319063,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Rushing Yards,Christian McCaffrey,0.06669999999999998,0.2667,0.2
 2023-09-18 02:04:07.385577,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Mike McDaniel,0.0666,0.1333,0.0667
 2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Sunderland,0.06659999999999999,0.3333,0.2667
 2023-09-18 02:04:06.893428,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Atlanta Falcons,Yes,0.06440000000000001,0.6296,0.5652
 2023-09-17 23:03:55.138558,Superligaen - Denmark Superligaen 2023/24 - Winner,Brøndby IF,0.0642,0.1818,0.1176
+2023-09-18 06:03:25.900977,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Lille,0.0635,0.7778,0.7143
 2023-09-18 02:04:07.502805,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Bijan Robinson,0.06270000000000003,0.3704,0.3077
 2023-09-17 21:05:12.271032,AFC East - AFC East 2023/24 - AFC East Winner 23/24,Miami Dolphins,0.06230000000000002,0.4878,0.4255
+2023-09-18 06:03:25.900977,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Nice,0.061999999999999944,0.6364,0.5744
 2023-09-18 02:04:07.385577,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Arthur Smith,0.0588,0.1176,0.0588
 2023-09-17 21:05:12.271032,AFC East - AFC East 2023/24 - AFC East Winner 23/24,Buffalo Bills,0.056900000000000006,0.4651,0.4082
+2023-09-18 06:03:25.900977,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Strasbourg,0.055900000000000005,0.3636,0.3077
 2023-09-18 02:04:06.949423,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Chicago Bears,No,0.05380000000000007,0.9,0.8462
+2023-09-18 06:03:27.113233,Eredivisie - Dutch Eredivisie 2023/24 - Top 3 Finish,FC Twente,0.05310000000000001,0.2857,0.2326
 2023-09-17 22:02:44.631133,NFC East - NFC East 2023/24 - NFC East Winner,Dallas Cowboys,0.05299999999999999,0.4878,0.4348
 2023-09-18 02:04:07.385577,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,John Harbaugh,0.052399999999999995,0.0909,0.0385
 2023-09-18 02:04:07.471156,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Christian McCaffrey,0.052000000000000005,0.1429,0.0909
 2023-09-18 05:04:22.319063,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Rushing Yards,D'Andre Swift,0.0515,0.0667,0.0152
 2023-09-18 02:04:07.105058,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Minnesota Vikings,No,0.0505000000000001,0.7727,0.7222
-2023-09-18 05:04:22.477474,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Tampa Bay Rays,0.04999999999999999,0.25,0.2
 2023-09-17 23:03:55.160872,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Lyngby BK,0.04999999999999999,0.25,0.2
+2023-09-18 05:04:22.477474,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Tampa Bay Rays,0.04999999999999999,0.25,0.2
 2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Leeds United,0.04910000000000003,0.4,0.3509
+2023-09-18 06:03:34.529882,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Sacks,Danielle Hunter,0.048799999999999996,0.0833,0.0345
 2023-09-17 23:03:55.160872,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Brøndby IF,0.047799999999999954,0.9709,0.9231
 2023-09-17 22:02:44.644955,NFC North - NFC North 2023/24 - NFC North Winner,Green Bay Packers,0.047599999999999976,0.3333,0.2857
 2023-09-17 22:02:38.430178,Championship - England Championship 2023/24 - To Be Relegated,Plymouth Argyle,0.047599999999999976,0.3333,0.2857
 2023-09-18 05:04:22.299729,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Receiving Yards,Puka Nacua,0.0461,0.0625,0.0164
-2023-09-17 22:02:38.443697,Championship - England Championship 2023/24 - Top 2 Finish,Ipswich Town,0.044499999999999984,0.2667,0.2222
+2023-09-18 06:03:34.529882,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Sacks,Josh Allen (JAX),0.045899999999999996,0.0667,0.0208
 2023-09-17 22:02:38.443697,Championship - England Championship 2023/24 - Top 2 Finish,Leeds United,0.044499999999999984,0.2667,0.2222
+2023-09-17 22:02:38.443697,Championship - England Championship 2023/24 - Top 2 Finish,Ipswich Town,0.044499999999999984,0.2667,0.2222
 2023-09-17 22:02:38.430178,Championship - England Championship 2023/24 - To Be Relegated,Sheffield Wednesday,0.044399999999999995,0.4444,0.4
+2023-09-18 06:03:25.884568,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Nice,0.042899999999999994,0.1429,0.1
 2023-09-18 02:04:06.967404,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Cleveland Browns,Yes,0.04179999999999995,0.697,0.6552
 2023-09-17 22:02:38.876355,League One - England - League One 2023/24 - Top Goalscorer,Devante Cole,0.04169999999999999,0.1667,0.125
-2023-09-17 22:02:38.437072,Championship - England Championship 2023/24 - To Finish Bottom,Rotherham Utd,0.04099999999999998,0.3077,0.2667
 2023-09-18 02:04:07.318285,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Washington Commanders,Yes,0.04099999999999998,0.3077,0.2667
-2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Blackburn Rovers,0.04040000000000002,0.2222,0.1818
+2023-09-17 22:02:38.437072,Championship - England Championship 2023/24 - To Finish Bottom,Rotherham Utd,0.04099999999999998,0.3077,0.2667
 2023-09-17 21:05:12.255542,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Dallas Cowboys,0.04040000000000002,0.2222,0.1818
+2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Blackburn Rovers,0.04040000000000002,0.2222,0.1818
 2023-09-18 02:04:07.141306,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - New Orleans Saints,No,0.0398,0.3846,0.3448
 2023-09-17 23:03:55.145759,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Hvidovre IF,0.03949999999999998,0.9091,0.8696
+2023-09-18 06:03:25.834160,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Werder Bremen,0.03889999999999999,0.1818,0.1429
 2023-09-17 22:02:38.430178,Championship - England Championship 2023/24 - To Be Relegated,Swansea City,0.03889999999999999,0.1818,0.1429
 2023-09-18 02:04:07.034988,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Houston Texans,No,0.03810000000000002,0.9756,0.9375
 2023-09-18 02:04:06.647001,AFC Championship - AFC Championship 2023/24 - AFC Conference Winning Division,AFC North,0.03710000000000002,0.3704,0.3333
+2023-09-18 06:03:27.251271,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Arsenal,0.036800000000000055,0.7701,0.7333
 2023-09-17 22:02:38.430178,Championship - England Championship 2023/24 - To Be Relegated,Queens Park Rangers,0.03640000000000004,0.4,0.3636
 2023-09-18 05:04:22.279713,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Passing Yards,Matt Stafford,0.035699999999999996,0.0833,0.0476
 2023-09-17 22:02:38.443697,Championship - England Championship 2023/24 - Top 2 Finish,Norwich City,0.0353,0.2353,0.2
 2023-09-18 00:03:35.854040,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,BUF Bills to beat SEA Seahawks,0.034,0.0385,0.0045
+2023-09-18 06:03:27.070816,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Hertha BSC,0.03330000000000001,0.1,0.0667
 2023-09-17 21:05:12.239396,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Baltimore Ravens,0.033299999999999996,0.1333,0.1
 2023-09-18 05:04:22.299729,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Receiving Yards,Amon-Ra St. Brown,0.0309,0.0526,0.0217
+2023-09-18 06:03:34.529882,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Sacks,Montez Sweat,0.030299999999999997,0.0435,0.0132
 2023-09-18 02:04:07.050389,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Jacksonville Jaguars,No,0.030299999999999994,0.3636,0.3333
+2023-09-18 06:03:25.834160,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Augsburg,0.030299999999999994,0.3636,0.3333
 2023-09-17 23:03:55.172094,Eredivisie - Dutch Eredivisie 2023/24 - Winner,AZ Alkmaar,0.029299999999999993,0.0769,0.0476
 2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Norwich City,0.028900000000000037,0.5744,0.5455
+2023-09-18 06:03:25.892583,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Strasbourg,0.028799999999999992,0.1538,0.125
 2023-09-18 02:04:07.194852,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Pittsburgh Steelers,Yes,0.027500000000000024,0.3846,0.3571
 2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Ipswich Town,0.026500000000000024,0.3774,0.3509
+2023-09-18 06:03:27.113233,Eredivisie - Dutch Eredivisie 2023/24 - Top 3 Finish,AZ Alkmaar,0.02560000000000001,0.3333,0.3077
 2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Norwich City,0.02560000000000001,0.3333,0.3077
-2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Leicester City,0.025599999999999956,0.6,0.5744
 2023-09-17 22:02:38.430178,Championship - England Championship 2023/24 - To Be Relegated,Rotherham Utd,0.025599999999999956,0.6,0.5744
+2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Leicester City,0.025599999999999956,0.6,0.5744
 2023-09-18 05:04:22.319063,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Rushing Yards,James Cook,0.024600000000000004,0.0345,0.0099
-2023-09-18 05:04:22.279713,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Passing Yards,Josh Allen,0.0242,0.0909,0.0667
+2023-09-18 06:03:27.259079,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Arsenal,0.0242,0.9333,0.9091
 2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Cardiff City,0.0242,0.0909,0.0667
+2023-09-18 05:04:22.279713,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Passing Yards,Josh Allen,0.0242,0.0909,0.0667
 2023-09-18 05:04:22.299729,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Receiving Yards,DeVonta Smith,0.023899999999999998,0.0435,0.0196
 2023-09-18 05:04:22.279713,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Passing Yards,Tua Tagovailoa,0.023800000000000016,0.1905,0.1667
-2023-09-18 04:03:12.583439,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Gavin Newsom,0.023799999999999988,0.1667,0.1429
 2023-09-18 02:04:06.685845,NFC Championship - NFC Championship 2023/24 - NFC Conference Winning Division,NFC South,0.023799999999999988,0.1667,0.1429
+2023-09-18 04:03:12.583439,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Gavin Newsom,0.023799999999999988,0.1667,0.1429
 2023-09-18 05:04:22.299729,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Receiving Yards,Mike Evans,0.0233,0.0385,0.0152
 2023-09-18 05:04:22.299729,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Receiving Yards,Keenan Allen,0.0233,0.0385,0.0152
 2023-09-17 22:02:38.415674,Championship - England Championship 2023/24 - Top Goalscorer,Conor Chaplin,0.023200000000000002,0.0476,0.0244
+2023-09-18 06:03:34.529882,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Sacks,Joey Bosa,0.023200000000000002,0.0476,0.0244
 2023-09-17 22:02:38.430178,Championship - England Championship 2023/24 - To Be Relegated,Middlesbrough,0.02310000000000001,0.1,0.0769
 2023-09-17 22:02:38.443697,Championship - England Championship 2023/24 - Top 2 Finish,Preston North End,0.02310000000000001,0.1,0.0769
+2023-09-18 06:03:25.834160,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Borussia Mönchengladbach,0.02310000000000001,0.1,0.0769
+2023-09-18 06:03:34.529882,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Sacks,TJ Watt,0.022199999999999998,0.1333,0.1111
 2023-09-18 04:03:12.583439,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Michelle Obama,0.022199999999999998,0.1333,0.1111
 2023-09-17 22:02:44.672405,NFC West - NFC West 2023/24 - NFC West Winner,San Francisco 49ers,0.02210000000000001,0.8403,0.8182
+2023-09-18 06:03:34.430931,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Jalen Carter,0.021999999999999964,0.3077,0.2857
 2023-09-18 02:04:06.685845,NFC Championship - NFC Championship 2023/24 - NFC Conference Winning Division,NFC East,0.021699999999999997,0.4762,0.4545
+2023-09-18 06:03:25.892583,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Lille,0.02169999999999994,0.5455,0.5238
 2023-09-18 02:04:06.909133,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Baltimore Ravens,Yes,0.02080000000000004,0.6875,0.6667
 2023-09-17 22:02:38.437072,Championship - England Championship 2023/24 - To Finish Bottom,Plymouth Argyle,0.02020000000000001,0.1111,0.0909
 2023-09-18 02:04:07.162985,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Philadelphia Eagles,Yes,0.020199999999999996,0.9091,0.8889
-2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Preston North End,0.019000000000000017,0.2857,0.2667
 2023-09-17 23:03:55.172094,Eredivisie - Dutch Eredivisie 2023/24 - Winner,Feyenoord,0.019000000000000017,0.2857,0.2667
+2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Preston North End,0.019000000000000017,0.2857,0.2667
 2023-09-17 21:05:12.255542,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,San Francisco 49ers,0.019000000000000017,0.2857,0.2667
-2023-09-18 02:04:07.844502,Boxing Lines - Kenshiro Teraji vs Hekkie Budler - To Win the Bout,Hekkie Budler,0.019000000000000003,0.1333,0.1143
 2023-09-18 05:04:22.299729,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Receiving Yards,CeeDee Lamb,0.019000000000000003,0.0625,0.0435
+2023-09-18 02:04:07.844502,Boxing Lines - Kenshiro Teraji vs Hekkie Budler - To Win the Bout,Hekkie Budler,0.019000000000000003,0.1333,0.1143
 2023-09-17 22:02:38.443697,Championship - England Championship 2023/24 - Top 2 Finish,Leicester City,0.018900000000000028,0.4444,0.4255
 2023-09-17 23:03:55.172094,Eredivisie - Dutch Eredivisie 2023/24 - Winner,PSV Eindhoven,0.018900000000000028,0.4444,0.4255
+2023-09-18 06:03:25.884568,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Lille,0.01820000000000002,0.2,0.1818
+2023-09-18 06:03:25.834160,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Mainz,0.01820000000000002,0.2,0.1818
 2023-09-17 21:05:09.192325,Euroleague - Euroleague 2023/24 - Outright,Real Madrid BC,0.01820000000000002,0.2,0.1818
 2023-09-18 05:04:22.319063,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Rushing Yards,Brian Robinson Jr.,0.0181,0.0345,0.0164
-2023-09-18 02:04:07.471156,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Tyreek Hill,0.0179,0.1429,0.125
 2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Sunderland,0.0179,0.1429,0.125
+2023-09-18 02:04:07.471156,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Tyreek Hill,0.0179,0.1429,0.125
+2023-09-18 06:03:25.834160,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Bochum,0.017600000000000005,0.3509,0.3333
 2023-09-18 02:04:06.926602,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Carolina Panthers,No,0.016799999999999926,0.8571,0.8403
+2023-09-18 06:03:27.251271,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Liverpool,0.016700000000000048,0.75,0.7333
+2023-09-18 00:03:36.121489,Boxing Lines - Junto Nakatani vs Argi Cortes - To Win the Bout,Argi Cortes,0.016700000000000007,0.1,0.0833
 2023-09-17 22:02:38.443697,Championship - England Championship 2023/24 - Top 2 Finish,Sunderland,0.016700000000000007,0.1,0.0833
 2023-09-18 05:04:22.319063,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Rushing Yards,Bijan Robinson,0.016700000000000007,0.1,0.0833
-2023-09-18 00:03:36.121489,Boxing Lines - Junto Nakatani vs Argi Cortes - To Win the Bout,Argi Cortes,0.016700000000000007,0.1,0.0833
 2023-09-17 23:03:55.160872,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Viborg FF,0.016699999999999993,0.4167,0.4
-2023-09-17 22:02:38.430178,Championship - England Championship 2023/24 - To Be Relegated,Stoke City,0.016600000000000004,0.0833,0.0667
 2023-09-18 05:04:22.967285,Exhibition Fights - Logan Paul vs Dillon Danis - To Win the Bout,Dillon Danis,0.016600000000000004,0.1905,0.1739
+2023-09-17 22:02:38.430178,Championship - England Championship 2023/24 - To Be Relegated,Stoke City,0.016600000000000004,0.0833,0.0667
 2023-09-18 02:04:07.385577,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Mike Vrabel,0.0157,0.0435,0.0278
-2023-09-17 22:02:38.437072,Championship - England Championship 2023/24 - To Finish Bottom,Sheffield Wednesday,0.015100000000000002,0.1818,0.1667
-2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Leicester City,0.015100000000000002,0.8333,0.8182
+2023-09-18 05:04:22.299729,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Receiving Yards,Brandon Aiyuk,0.0156,0.04,0.0244
+2023-09-18 06:03:27.243356,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Everton,0.015400000000000025,0.4,0.3846
 2023-09-17 22:02:44.658654,NFC South - NFC South 2023/24 - NFC South Winner,Tampa Bay Buccaneers,0.015100000000000002,0.1818,0.1667
+2023-09-17 22:02:38.437072,Championship - England Championship 2023/24 - To Finish Bottom,Sheffield Wednesday,0.015100000000000002,0.1818,0.1667
+2023-09-18 06:03:25.900977,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Monaco,0.015100000000000002,0.8333,0.8182
+2023-09-18 06:03:27.113233,Eredivisie - Dutch Eredivisie 2023/24 - Top 3 Finish,Feyenoord,0.015100000000000002,0.8333,0.8182
+2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Leicester City,0.015100000000000002,0.8333,0.8182
 2023-09-18 05:04:22.299729,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Receiving Yards,Jaylen Waddle,0.014900000000000004,0.0345,0.0196
+2023-09-18 06:03:34.430931,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Christian Gonzalez,0.014399999999999996,0.0769,0.0625
 2023-09-18 02:04:07.440629,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Lamar Jackson,0.014399999999999996,0.0769,0.0625
-2023-09-18 02:04:07.440629,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Dak Prescott,0.014099999999999994,0.0667,0.0526
+2023-09-18 06:03:25.900977,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Brest,0.014099999999999998,0.0385,0.0244
 2023-09-18 05:04:22.299729,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Receiving Yards,Stefon Diggs,0.014099999999999994,0.0667,0.0526
-2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Blackburn Rovers,0.013999999999999999,0.0909,0.0769
+2023-09-18 02:04:07.440629,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Dak Prescott,0.014099999999999994,0.0667,0.0526
+2023-09-18 06:03:27.259079,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Liverpool,0.014000000000000012,0.9231,0.9091
 2023-09-17 23:03:55.102686,League Two - England - League Two 2023/24 - Top Goalscorer,Elliot Lee,0.013999999999999999,0.0909,0.0769
 2023-09-18 02:04:07.471156,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Justin Jefferson,0.013999999999999999,0.0909,0.0769
+2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Blackburn Rovers,0.013999999999999999,0.0909,0.0769
 2023-09-17 23:03:55.102686,League Two - England - League Two 2023/24 - Top Goalscorer,Mohamed Eisa,0.013999999999999999,0.0909,0.0769
+2023-09-18 06:03:34.350625,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,T.J. Watt,0.013899999999999996,0.125,0.1111
 2023-09-18 02:04:07.440629,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Josh Allen,0.013899999999999996,0.125,0.1111
 2023-09-17 22:02:44.603546,AFC South - AFC South 2023/24 - AFC South Winner,Indianapolis Colts,0.013899999999999996,0.125,0.1111
 2023-09-17 22:02:44.658654,NFC South - NFC South 2023/24 - NFC South Winner,Atlanta Falcons,0.013800000000000034,0.3774,0.3636
 2023-09-18 02:04:07.440629,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Deshaun Watson,0.0131,0.0476,0.0345
 2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Bristol City,0.012899999999999995,0.1667,0.1538
+2023-09-18 06:03:25.900977,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Marseille,0.012899999999999912,0.8462,0.8333
+2023-09-18 06:03:27.259079,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Brighton & Hove Albion,0.012700000000000045,0.6491,0.6364
 2023-09-17 23:03:55.153505,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Nordsjælland,0.012700000000000045,0.6491,0.6364
+2023-09-18 06:03:34.529882,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Sacks,Trey Hendrickson,0.011500000000000003,0.0323,0.0208
 2023-09-17 22:02:38.437072,Championship - England Championship 2023/24 - To Finish Bottom,Swansea City,0.011199999999999995,0.0588,0.0476
-2023-09-18 05:04:22.648671,Boxing Lines - Khalil Coe vs Kenmon Evans - To Win the Bout,Kenmon Evans,0.011099999999999999,0.1111,0.1
-2023-09-18 02:04:07.440629,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Jalen Hurts,0.011099999999999999,0.1111,0.1
+2023-09-18 06:03:27.070816,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Hannover 96,0.011199999999999995,0.0588,0.0476
+2023-09-18 06:03:25.884568,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Monaco,0.011099999999999999,0.2778,0.2667
 2023-09-17 21:05:12.222655,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Dallas Cowboys,0.011099999999999999,0.1111,0.1
+2023-09-18 02:04:07.440629,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Jalen Hurts,0.011099999999999999,0.1111,0.1
+2023-09-18 05:04:22.648671,Boxing Lines - Khalil Coe vs Kenmon Evans - To Win the Bout,Kenmon Evans,0.011099999999999999,0.1111,0.1
 2023-09-17 22:02:38.876355,League One - England - League One 2023/24 - Top Goalscorer,Dion Charles,0.011099999999999999,0.1111,0.1
 2023-09-17 22:02:38.876355,League One - England - League One 2023/24 - Top Goalscorer,Colby Bishop,0.011099999999999999,0.1111,0.1
 2023-09-18 05:04:22.279713,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Passing Yards,Patrick Mahomes,0.010499999999999982,0.2105,0.2
 2023-09-17 21:05:12.239396,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Kansas City Chiefs,0.010399999999999993,0.2326,0.2222
 2023-09-17 22:02:38.443697,Championship - England Championship 2023/24 - Top 2 Finish,Watford,0.0102,0.0769,0.0667
 2023-09-17 22:02:38.430178,Championship - England Championship 2023/24 - To Be Relegated,Hull City,0.0102,0.0769,0.0667
-2023-09-17 18:05:11.037473,Boxing Lines - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Zhilei Zhang,0.010099999999999998,0.5556,0.5455
 2023-09-18 02:04:07.123669,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - New England Patriots,No,0.010099999999999998,0.8214,0.8113
+2023-09-17 18:05:11.037473,Boxing Lines - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Zhilei Zhang,0.010099999999999998,0.5556,0.5455
+2023-09-18 06:03:27.259079,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Manchester United,-0.010099999999999998,0.5455,0.5556
 2023-09-18 02:04:07.844502,Boxing Lines - Kenshiro Teraji vs Hekkie Budler - To Win the Bout,Kenshiro Teraji,-0.010199999999999987,0.9231,0.9333
-2023-09-18 02:04:07.502805,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Jordan Addison,-0.0102,0.0667,0.0769
 2023-09-18 02:04:07.385577,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Matt Lafleur,-0.0102,0.0667,0.0769
 2023-09-18 05:04:22.455006,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Texas Rangers,-0.0102,0.0667,0.0769
+2023-09-18 06:03:34.350625,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Nick Bosa,-0.0102,0.0667,0.0769
 2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Bristol City,-0.0102,0.0667,0.0769
+2023-09-18 02:04:07.502805,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Jordan Addison,-0.0102,0.0667,0.0769
 2023-09-17 22:02:38.443697,Championship - England Championship 2023/24 - Top 2 Finish,Southampton,-0.010399999999999993,0.2222,0.2326
-2023-09-18 02:04:07.385577,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,DeMeco Ryans,-0.010700000000000001,0.0278,0.0385
 2023-09-17 19:03:53.782463,Boxing Lines - Kenshiro Teraji vs Hekkie Budler - To Win the Bout,Hekkie Budler,-0.010700000000000001,0.1143,0.125
+2023-09-18 02:04:07.385577,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,DeMeco Ryans,-0.010700000000000001,0.0278,0.0385
 2023-09-18 03:03:56.397682,Boxing Lines - Khalil Coe vs Kenmon Evans - To Win the Bout,Kenmon Evans,-0.011099999999999999,0.1,0.1111
 2023-09-17 22:02:38.443697,Championship - England Championship 2023/24 - Top 2 Finish,Bristol City,-0.011199999999999995,0.0476,0.0588
-2023-09-18 02:04:07.385577,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Mike McCarthy,-0.011199999999999995,0.0323,0.0435
 2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Plymouth Argyle,-0.011199999999999995,0.0476,0.0588
+2023-09-18 02:04:07.385577,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Mike McCarthy,-0.011199999999999995,0.0323,0.0435
 2023-09-18 05:04:22.299729,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Receiving Yards,Cooper Kupp,-0.011200000000000002,0.0132,0.0244
 2023-09-17 18:05:11.037473,Boxing Lines - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Joseph Joyce,-0.011600000000000055,0.5122,0.5238
 2023-09-18 05:04:22.299729,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Receiving Yards,Jerry Jeudy,-0.011699999999999999,0.0079,0.0196
+2023-09-18 06:03:34.529882,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Sacks,Alex Highsmith,-0.0118,0.0152,0.027
+2023-09-18 06:03:25.900977,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Clermont Foot,-0.012100000000000001,0.0123,0.0244
 2023-09-18 02:04:06.685845,NFC Championship - NFC Championship 2023/24 - NFC Conference Winning Division,NFC West,-0.012299999999999978,0.3448,0.3571
 2023-09-18 02:04:07.123669,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - New England Patriots,Yes,-0.012500000000000011,0.2439,0.2564
 2023-09-18 05:04:22.279713,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Passing Yards,Jalen Hurts,-0.012599999999999998,0.0152,0.0278
-2023-09-18 02:04:07.440629,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Dereck Carr,-0.012700000000000003,0.0196,0.0323
+2023-09-18 06:03:34.529882,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Sacks,Chris Jones,-0.012700000000000003,0.0196,0.0323
 2023-09-18 05:04:22.319063,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Rushing Yards,Justin Fields,-0.012700000000000003,0.0196,0.0323
+2023-09-18 02:04:07.440629,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Dereck Carr,-0.012700000000000003,0.0196,0.0323
+2023-09-18 06:03:27.243356,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Nottingham Forest,-0.012899999999999995,0.1538,0.1667
 2023-09-18 02:04:07.821435,Boxing Lines - Junto Nakatani vs Argi Cortes - To Win the Bout,Junto Nakatani,-0.0131,0.9524,0.9655
 2023-09-17 21:05:12.255542,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Philadelphia Eagles,-0.0131,0.2222,0.2353
 2023-09-18 05:04:22.319063,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Rushing Yards,Javonte Williams,-0.013699999999999999,0.0141,0.0278
 2023-09-18 05:04:22.967285,Exhibition Fights - Logan Paul vs Dillon Danis - To Win the Bout,Logan Paul,-0.013900000000000023,0.875,0.8889
+2023-09-18 06:03:27.070816,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Holstein Kiel,-0.013999999999999999,0.0769,0.0909
 2023-09-17 22:02:38.876355,League One - England - League One 2023/24 - Top Goalscorer,Martyn Waghorn,-0.013999999999999999,0.0769,0.0909
+2023-09-18 06:03:27.243356,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Crystal Palace,-0.013999999999999999,0.0769,0.0909
 2023-09-17 22:02:38.443697,Championship - England Championship 2023/24 - Top 2 Finish,Swansea City,-0.014099999999999998,0.0244,0.0385
 2023-09-18 02:04:07.471156,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Ja'Marr Chase,-0.014100000000000001,0.0385,0.0526
 2023-09-17 23:03:55.160872,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Odense,-0.01419999999999999,0.3704,0.3846
@@ -175,11 +222,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-17 21:05:12.255542,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Green Bay Packers,-0.014899999999999997,0.0476,0.0625
 2023-09-18 02:04:07.440629,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Jared Goff,-0.014900000000000004,0.0196,0.0345
 2023-09-18 02:04:07.385577,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Kevin Stefanski,-0.015300000000000001,0.0435,0.0588
+2023-09-18 06:03:34.430931,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Brian Branch,-0.015300000000000001,0.0435,0.0588
+2023-09-18 06:03:27.243356,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Bournemouth,-0.016699999999999993,0.25,0.2667
+2023-09-18 06:03:27.243356,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Sheffield United,-0.016700000000000048,0.7333,0.75
 2023-09-18 02:04:06.926602,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Carolina Panthers,Yes,-0.01680000000000001,0.2105,0.2273
 2023-09-18 05:04:22.319063,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Rushing Yards,Najee Harris,-0.017100000000000004,0.0152,0.0323
+2023-09-18 06:03:25.900977,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Toulouse,-0.0174,0.2326,0.25
+2023-09-18 06:03:27.101290,Eredivisie - Dutch Eredivisie 2023/24 - To Be Relegated,Almere City,-0.01759999999999995,0.6491,0.6667
 2023-09-17 23:03:55.102686,League Two - England - League Two 2023/24 - Top Goalscorer,Macauley Langstaff,-0.0179,0.125,0.1429
+2023-09-18 06:03:25.900977,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Montpellier,-0.018099999999999998,0.0588,0.0769
 2023-09-17 22:02:38.443697,Championship - England Championship 2023/24 - Top 2 Finish,Birmingham City,-0.018099999999999998,0.0588,0.0769
 2023-09-18 04:03:06.735313,Ligue 1 - France Ligue 1 2023/24 - Winner,Paris Saint-Germain,-0.018199999999999994,0.8,0.8182
+2023-09-18 06:03:34.350625,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Jordan Whitehead,-0.0182,0.0141,0.0323
+2023-09-18 06:03:25.884568,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Lens,-0.018200000000000004,0.0294,0.0476
+2023-09-18 06:03:34.529882,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Sacks,Aiden Hutchinson,-0.018200000000000004,0.0294,0.0476
 2023-09-17 23:03:55.138558,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Nordsjælland,-0.01820000000000002,0.1818,0.2
 2023-09-17 23:03:55.160872,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,FC Midtjylland,-0.018999999999999906,0.7143,0.7333
 2023-09-17 23:03:55.138558,Superligaen - Denmark Superligaen 2023/24 - Winner,AGF Aarhus,-0.019000000000000003,0.0435,0.0625
@@ -187,16 +243,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-18 02:04:07.413325,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Lamar Jackson,-0.019099999999999995,0.0244,0.0435
 2023-09-18 02:04:07.413325,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Matthew Stafford,-0.019800000000000005,0.0278,0.0476
 2023-09-17 22:02:38.876355,League One - England - League One 2023/24 - Top Goalscorer,Jonson Clarke-Harris,-0.02020000000000001,0.0909,0.1111
+2023-09-17 22:02:38.876355,League One - England - League One 2023/24 - Top Goalscorer,Charlie Wyke,-0.02020000000000001,0.0909,0.1111
 2023-09-17 23:03:55.145759,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Odense,-0.02020000000000001,0.0909,0.1111
 2023-09-17 22:02:44.672405,NFC West - NFC West 2023/24 - NFC West Winner,Los Angeles Rams,-0.02020000000000001,0.0909,0.1111
-2023-09-17 22:02:38.876355,League One - England - League One 2023/24 - Top Goalscorer,Charlie Wyke,-0.02020000000000001,0.0909,0.1111
 2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Middlesbrough,-0.02020000000000001,0.0909,0.1111
+2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Queens Park Rangers,-0.0203,0.0385,0.0588
 2023-09-17 22:02:38.430178,Championship - England Championship 2023/24 - To Be Relegated,Watford,-0.0203,0.0385,0.0588
 2023-09-17 22:02:38.430178,Championship - England Championship 2023/24 - To Be Relegated,Preston North End,-0.0203,0.0385,0.0588
-2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Queens Park Rangers,-0.0203,0.0385,0.0588
-2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,West Bromwich Albion,-0.02049999999999999,0.1333,0.1538
 2023-09-18 05:04:22.477474,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Texas Rangers,-0.02049999999999999,0.1333,0.1538
+2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,West Bromwich Albion,-0.02049999999999999,0.1333,0.1538
+2023-09-18 06:03:25.892583,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Rennes,-0.020799999999999985,0.3125,0.3333
 2023-09-17 21:05:12.304820,AFC North - AFC North 2023/24 - AFC North Winner,Cleveland Browns,-0.020799999999999985,0.3125,0.3333
+2023-09-18 06:03:25.834160,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Darmstadt,-0.02100000000000002,0.6154,0.6364
 2023-09-18 05:04:22.319063,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Rushing Yards,Dameon Pierce,-0.021300000000000003,0.0132,0.0345
 2023-09-18 00:03:35.854040,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,DEN Broncos to beat DAL Cowboys,-0.021900000000000003,0.0025,0.0244
 2023-09-18 04:03:12.570446,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.02200000000000002,0.6923,0.7143
@@ -204,12 +262,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-18 05:04:22.319063,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Rushing Yards,Jonathan Taylor,-0.022400000000000003,0.0099,0.0323
 2023-09-17 23:03:55.153505,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Midtjylland,-0.02250000000000002,0.2632,0.2857
 2023-09-18 02:04:06.909133,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Baltimore Ravens,No,-0.02260000000000001,0.3774,0.4
-2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Hull City,-0.02310000000000001,0.0769,0.1
-2023-09-18 05:04:22.299729,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Receiving Yards,Ja'Marr Chase,-0.02310000000000001,0.0769,0.1
-2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Birmingham City,-0.02310000000000001,0.0769,0.1
 2023-09-17 22:02:38.430178,Championship - England Championship 2023/24 - To Be Relegated,Blackburn Rovers,-0.02310000000000001,0.0769,0.1
-2023-09-18 05:04:22.319063,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Rushing Yards,Saquon Barkley,-0.023200000000000002,0.0244,0.0476
+2023-09-18 05:04:22.299729,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Receiving Yards,Ja'Marr Chase,-0.02310000000000001,0.0769,0.1
+2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Hull City,-0.02310000000000001,0.0769,0.1
+2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Birmingham City,-0.02310000000000001,0.0769,0.1
+2023-09-18 06:03:25.900977,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Lorient,-0.0232,0.0435,0.0667
 2023-09-18 05:04:22.299729,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Receiving Yards,Garrett Wilson,-0.023200000000000002,0.0244,0.0476
+2023-09-18 05:04:22.319063,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Rushing Yards,Saquon Barkley,-0.023200000000000002,0.0244,0.0476
+2023-09-18 06:03:34.529882,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Sacks,Haason Reddick,-0.023299999999999994,0.0323,0.0556
+2023-09-18 06:03:34.350625,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Chris Jones,-0.0233,0.0152,0.0385
 2023-09-17 23:03:55.102686,League Two - England - League Two 2023/24 - Top Goalscorer,Jake Young,-0.023799999999999988,0.1429,0.1667
 2023-09-17 22:02:44.603546,AFC South - AFC South 2023/24 - AFC South Winner,Houston Texans,-0.0238,0.0714,0.0952
 2023-09-17 22:02:44.644955,NFC North - NFC North 2023/24 - NFC North Winner,Chicago Bears,-0.0242,0.0667,0.0909
@@ -217,25 +278,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-18 02:04:07.440629,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Justin Herbert,-0.0245,0.0588,0.0833
 2023-09-18 02:04:07.162985,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Philadelphia Eagles,No,-0.024800000000000016,0.1538,0.1786
 2023-09-17 22:02:38.437072,Championship - England Championship 2023/24 - To Finish Bottom,Cardiff City,-0.025300000000000003,0.1176,0.1429
+2023-09-18 06:03:25.892583,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Marseille,-0.025600000000000067,0.6667,0.6923
 2023-09-18 05:04:22.279713,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Passing Yards,Trevor Lawrence,-0.025900000000000003,0.0217,0.0476
 2023-09-17 23:03:55.138558,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Copenhagen,-0.026499999999999968,0.6226,0.6491
 2023-09-17 21:05:12.255542,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Detroit Lions,-0.0267,0.0909,0.1176
+2023-09-18 06:03:27.243356,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Burnley,-0.02679999999999999,0.2857,0.3125
 2023-09-18 05:04:22.319063,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Rushing Yards,Alexander Mattison,-0.0269,0.0116,0.0385
 2023-09-18 02:04:07.050389,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Jacksonville Jaguars,Yes,-0.02739999999999998,0.7059,0.7333
 2023-09-18 02:04:07.194852,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Pittsburgh Steelers,No,-0.027599999999999958,0.6825,0.7101
-2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Birmingham City,-0.02779999999999999,0.2222,0.25
-2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Middlesbrough,-0.02779999999999999,0.2222,0.25
 2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Stoke City,-0.02779999999999999,0.2222,0.25
+2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Middlesbrough,-0.02779999999999999,0.2222,0.25
+2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Birmingham City,-0.02779999999999999,0.2222,0.25
+2023-09-18 06:03:25.892583,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Reims,-0.027800000000000005,0.0833,0.1111
 2023-09-17 22:02:44.658654,NFC South - NFC South 2023/24 - NFC South Winner,Carolina Panthers,-0.027800000000000005,0.0833,0.1111
+2023-09-18 06:03:25.892583,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Lyon,-0.027999999999999997,0.1538,0.1818
 2023-09-18 05:04:22.319063,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Rushing Yards,Josh Jacobs,-0.028000000000000004,0.0196,0.0476
 2023-09-17 21:05:12.222655,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Detroit Lions,-0.028199999999999996,0.0385,0.0667
 2023-09-18 02:04:07.385577,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Sean McVay,-0.028199999999999996,0.0385,0.0667
 2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Swansea City,-0.028199999999999996,0.0385,0.0667
 2023-09-17 21:05:12.239396,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Los Angeles Chargers,-0.028399999999999995,0.0625,0.0909
+2023-09-18 06:03:27.251271,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Newcastle United,-0.030299999999999994,0.3333,0.3636
 2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Southampton,-0.030299999999999994,0.3333,0.3636
+2023-09-18 06:03:27.259079,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Chelsea,-0.03179999999999994,0.5238,0.5556
 2023-09-17 22:02:38.415674,Championship - England Championship 2023/24 - Top Goalscorer,Adam Armstrong,-0.031799999999999995,0.1111,0.1429
 2023-09-18 00:03:35.854040,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,DEN Broncos to beat PHI Eagles,-0.0319,0.0066,0.0385
 2023-09-18 02:04:07.502805,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Bryce Young,-0.0321,0.0588,0.0909
+2023-09-18 06:03:34.529882,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Sacks,Myles Garrett,-0.03259999999999999,0.1053,0.1379
 2023-09-18 05:04:22.319063,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Rushing Yards,Derrick Henry,-0.033300000000000024,0.1667,0.2
 2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Stoke City,-0.03420000000000001,0.0769,0.1111
 2023-09-18 02:04:07.502805,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Jahmyr Gibbs,-0.037500000000000006,0.0625,0.1
@@ -247,23 +315,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-18 02:04:07.413325,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Baker Mayfield,-0.0392,0.0196,0.0588
 2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,West Bromwich Albion,-0.03920000000000001,0.2941,0.3333
 2023-09-18 02:04:07.141306,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - New Orleans Saints,Yes,-0.03969999999999996,0.6825,0.7222
+2023-09-18 06:03:27.251271,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Chelsea,-0.04099999999999998,0.2667,0.3077
 2023-09-17 22:02:38.423236,Championship - England Championship 2023/24 - To Be Promoted,Millwall,-0.0417,0.0833,0.125
-2023-09-17 22:02:38.437072,Championship - England Championship 2023/24 - To Finish Bottom,Huddersfield Town,-0.04240000000000001,0.0909,0.1333
 2023-09-18 02:04:07.385577,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Dan Campbell,-0.04240000000000001,0.0909,0.1333
+2023-09-17 22:02:38.437072,Championship - England Championship 2023/24 - To Finish Bottom,Huddersfield Town,-0.04240000000000001,0.0909,0.1333
 2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Swansea City,-0.042899999999999994,0.1,0.1429
 2023-09-18 02:04:07.318285,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Washington Commanders,No,-0.04390000000000005,0.7561,0.8
 2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Millwall,-0.044499999999999984,0.2222,0.2667
 2023-09-18 05:04:22.540254,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,-0.044499999999999984,0.2222,0.2667
+2023-09-18 06:03:27.243356,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Wolverhampton Wanderers,-0.04580000000000001,0.2667,0.3125
+2023-09-18 06:03:27.177232,Superettan - Superettan 2023 - Winner,Utsiktens,-0.04760000000000003,0.4762,0.5238
 2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Southampton,-0.04820000000000002,0.5744,0.6226
 2023-09-17 23:03:55.145759,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Lyngby BK,-0.04849999999999999,0.1333,0.1818
 2023-09-17 22:02:38.450058,Championship - England Championship 2023/24 - Top 6 Finish,Hull City,-0.04999999999999999,0.2,0.25
+2023-09-18 06:03:25.834160,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Heidenheim,-0.05059999999999998,0.5238,0.5744
 2023-09-18 02:04:07.105058,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Minnesota Vikings,Yes,-0.05070000000000002,0.2941,0.3448
+2023-09-18 06:03:34.529882,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Sacks,Nick Bosa,-0.052000000000000005,0.0909,0.1429
 2023-09-18 05:04:22.319063,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Rushing Yards,Austin Ekeler,-0.05249999999999999,0.0244,0.0769
+2023-09-18 06:03:25.900977,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Reims,-0.05310000000000001,0.2326,0.2857
 2023-09-18 02:04:07.440629,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Joe Burrow,-0.055099999999999996,0.0625,0.1176
 2023-09-18 05:04:22.279713,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Passing Yards,Joe Burrow,-0.0555,0.0278,0.0833
 2023-09-18 02:04:06.949423,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Chicago Bears,Yes,-0.05550000000000002,0.1667,0.2222
 2023-09-17 22:02:44.631133,NFC East - NFC East 2023/24 - NFC East Winner,Philadelphia Eagles,-0.05559999999999998,0.5,0.5556
 2023-09-17 22:02:38.430178,Championship - England Championship 2023/24 - To Be Relegated,Cardiff City,-0.055900000000000005,0.3077,0.3636
+2023-09-18 06:03:27.113233,Eredivisie - Dutch Eredivisie 2023/24 - Top 3 Finish,Ajax,-0.05709999999999993,0.8,0.8571
+2023-09-18 06:03:25.892583,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Lens,-0.05710000000000001,0.1429,0.2
 2023-09-18 05:04:22.319063,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Rushing Yards,Nick Chubb,-0.057699999999999974,0.25,0.3077
 2023-09-18 02:04:06.893428,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Atlanta Falcons,No,-0.06519999999999998,0.4348,0.5
 2023-09-17 22:02:44.603546,AFC South - AFC South 2023/24 - AFC South Winner,Jacksonville Jaguars,-0.06669999999999998,0.6,0.6667
@@ -274,6 +350,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-18 05:04:22.517239,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,-0.08340000000000003,0.3333,0.4167
 2023-09-17 23:03:55.145759,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Randers,-0.08430000000000001,0.1538,0.2381
 2023-09-17 23:03:55.160872,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,AGF Aarhus,-0.0857,0.7143,0.8
+2023-09-18 06:03:25.900977,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Lens,-0.08750000000000002,0.3125,0.4
 2023-09-18 05:04:22.299729,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Receiving Yards,Davante Adams,-0.0898,0.0435,0.1333
 2023-09-18 02:04:07.001234,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Detroit Lions,Yes,-0.08999999999999997,0.6774,0.7674
 2023-09-17 21:05:12.304820,AFC North - AFC North 2023/24 - AFC North Winner,Cincinnati Bengals,-0.09029999999999999,0.2222,0.3125
@@ -283,9 +360,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-18 02:04:07.268225,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Tampa Bay Buccaneers,No,-0.09959999999999991,0.6226,0.7222
 2023-09-17 23:03:55.153505,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,AGF Aarhus,-0.10039999999999999,0.2632,0.3636
 2023-09-18 05:04:22.299729,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Receiving Yards,Tyreek Hill,-0.10949999999999999,0.2353,0.3448
-2023-09-18 02:04:06.983650,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Dallas Cowboys,No,-0.1167,0.1333,0.25
 2023-09-17 22:02:44.617230,AFC West - AFC West 2023/24 - AFC West Winner,Los Angeles Chargers,-0.1167,0.1818,0.2985
+2023-09-18 02:04:06.983650,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Dallas Cowboys,No,-0.1167,0.1333,0.25
 2023-09-17 23:03:55.172094,Eredivisie - Dutch Eredivisie 2023/24 - Winner,Ajax,-0.1179,0.2667,0.3846
-2023-09-18 02:04:07.413325,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Damar Hamlin,-0.14289999999999992,0.5238,0.6667
 2023-09-18 02:04:07.352274,Awards & League Leaders - Comeback Player of the Year: D.Hamlin vs The Field - Who Will Win Comeback Player of the Year?,Damar Hamlin,-0.14289999999999992,0.5238,0.6667
+2023-09-18 02:04:07.413325,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Damar Hamlin,-0.14289999999999992,0.5238,0.6667
 2023-09-18 02:04:07.087282,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Miami Dolphins,No,-0.16190000000000002,0.2381,0.4
