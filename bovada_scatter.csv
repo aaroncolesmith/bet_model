@@ -4,7 +4,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-17 15:06:35.372103,WNBA Championship - WNBA Championship 2023 - Finals Exact Matchup,Las Vegas Aces vs Connecticut Sun,0.043899999999999995,0.2439,0.2
 2023-09-17 16:05:16.190298,La Liga - Spain La Liga 2023/24 - Winner,Real Madrid,0.03610000000000002,0.5917,0.5556
 2023-09-17 15:06:32.155494,Premier League Futures/Specials - English Premier League 2023/24 - Winner without Manchester City,Liverpool,0.030299999999999994,0.3636,0.3333
-2023-09-17 08:02:26.662209,44th Razzie Awards - Razzies - Worst Picture - Worst Picture,Winnie The Pooh: Blood And Honey,0.027999999999999997,0.1818,0.1538
 2023-09-17 16:05:16.252225,Serie A - Italy Serie A 2023/24 - Winner,Inter Milan,0.027700000000000002,0.4444,0.4167
 2023-09-17 15:06:35.386494,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,Las Vegas Aces to beat Connecticut Sun,0.02560000000000001,0.1923,0.1667
 2023-09-17 15:06:35.386494,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,Las Vegas Aces to beat New York Liberty,0.025499999999999967,0.4255,0.4
@@ -25,8 +24,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-17 18:05:11.037473,Boxing Lines - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Zhilei Zhang,0.010099999999999998,0.5556,0.5455
 2023-09-17 12:07:42.499657,Fortinet Championship - 2/3 Balls - Final Round 2 Balls - C. Davis v S. Theegala - Final Round 2 Balls,Cam Davis,-0.010699999999999932,0.5348,0.5455
 2023-09-17 19:03:53.782463,Boxing Lines - Kenshiro Teraji vs Hekkie Budler - To Win the Bout,Hekkie Budler,-0.010700000000000001,0.1143,0.125
-2023-09-17 09:06:47.063328,Round Match-Ups - Final Round Match-Up - M. Homa v J. Thomas - Final Round Match-Up,Justin Thomas,-0.0116,0.4762,0.4878
 2023-09-17 12:07:41.837090,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Sandy Ryan,-0.0116,0.4762,0.4878
+2023-09-17 09:06:47.063328,Round Match-Ups - Final Round Match-Up - M. Homa v J. Thomas - Final Round Match-Up,Justin Thomas,-0.0116,0.4762,0.4878
 2023-09-17 18:05:11.037473,Boxing Lines - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Joseph Joyce,-0.011600000000000055,0.5122,0.5238
 2023-09-17 15:06:32.138400,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Chelsea,-0.012100000000000001,0.0123,0.0244
 2023-09-17 10:09:08.267747,Elite Boxing - Tyson Fury vs Francis Ngannou - To Win the Bout,Francis Ngannou,-0.012899999999999995,0.1538,0.1667
@@ -35,8 +34,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-17 15:06:35.386494,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,Dallas Wings to beat New York Liberty,-0.013699999999999999,0.0141,0.0278
 2023-09-17 16:05:16.252225,Serie A - Italy Serie A 2023/24 - Winner,Lazio,-0.014099999999999998,0.0244,0.0385
 2023-09-17 16:05:17.366165,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Rasmus Hojlund,-0.014499999999999999,0.0149,0.0294
-2023-09-17 16:05:17.366165,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Bukayo Saka,-0.014499999999999999,0.0149,0.0294
 2023-09-17 16:05:17.366165,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Richarlison,-0.014499999999999999,0.0149,0.0294
+2023-09-17 16:05:17.366165,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Bukayo Saka,-0.014499999999999999,0.0149,0.0294
 2023-09-17 16:05:16.319217,Ligue 1 - France Ligue 1 2023/24 - Winner,Paris Saint-Germain,-0.015100000000000002,0.8182,0.8333
 2023-09-17 13:07:38.570856,Boxing Lines - Tim Tszyu vs Brian Mendoza - To Win the Bout,Brian Mendoza,-0.01629999999999998,0.2469,0.2632
 2023-09-17 10:09:09.694317,Chicago - Chicago - Winner,Patrick Reed,-0.016600000000000004,0.0667,0.0833
@@ -44,7 +43,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-17 16:05:17.366165,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Raheem Sterling,-0.017099999999999997,0.0123,0.0294
 2023-09-17 16:05:16.252225,Serie A - Italy Serie A 2023/24 - Winner,AC Milan,-0.0174,0.2326,0.25
 2023-09-17 15:06:32.169379,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,James Ward-Prowse (West Ham),-0.018099999999999998,0.0588,0.0769
-2023-09-17 08:02:26.662209,44th Razzie Awards - Razzies - Worst Picture - Worst Picture,Big Shark,-0.019000000000000017,0.2667,0.2857
 2023-09-17 16:05:17.366165,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Bryan Mbeumo,-0.019499999999999997,0.0099,0.0294
 2023-09-17 15:06:32.138400,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Liverpool,-0.02049999999999999,0.1333,0.1538
 2023-09-17 16:05:16.252225,Serie A - Italy Serie A 2023/24 - Winner,Juventus,-0.022199999999999998,0.2,0.2222
@@ -56,8 +54,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-17 15:06:32.155494,Premier League Futures/Specials - English Premier League 2023/24 - Winner without Manchester City,Chelsea,-0.029299999999999993,0.0476,0.0769
 2023-09-17 16:05:17.342902,Premier League Futures/Specials - English Premier League 2023/24 - Winner without ''The Big 6'',West Ham United,-0.029299999999999993,0.0476,0.0769
 2023-09-17 15:06:32.169379,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,Jack Grealish (Man City),-0.0321,0.0588,0.0909
-2023-09-17 15:06:32.169379,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,Trent Alexander-Arnold (Liverpool),-0.034100000000000005,0.0909,0.125
 2023-09-17 15:06:32.184488,Premier League Futures/Specials - English Premier League 2023/24 - Golden Glove Award,Andre Onana,-0.034100000000000005,0.0909,0.125
+2023-09-17 15:06:32.169379,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,Trent Alexander-Arnold (Liverpool),-0.034100000000000005,0.0909,0.125
 2023-09-17 15:06:32.169379,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,James Maddison (Tottenham),-0.03420000000000001,0.0769,0.1111
 2023-09-17 15:06:32.184488,Premier League Futures/Specials - English Premier League 2023/24 - Golden Glove Award,Ederson,-0.0393,0.5833,0.6226
 2023-09-17 16:05:16.190298,La Liga - Spain La Liga 2023/24 - Winner,Atlético Madrid,-0.0407,0.0769,0.1176
