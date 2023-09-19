@@ -1,95 +1,23 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-18 07:05:30.141848,Copa do Brasil - Copa do Brasil 2023 - Outright,São Paulo,0.3556,0.8,0.4444
-2023-09-18 06:03:34.350625,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Micah Parsons,0.09689999999999999,0.3636,0.2667
-2023-09-18 06:03:25.892583,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Nice,0.06670000000000004,0.4,0.3333
-2023-09-18 06:03:25.900977,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Lille,0.0635,0.7778,0.7143
-2023-09-18 06:03:25.900977,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Nice,0.061999999999999944,0.6364,0.5744
-2023-09-18 06:03:25.900977,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Strasbourg,0.055900000000000005,0.3636,0.3077
-2023-09-18 06:03:27.113233,Eredivisie - Dutch Eredivisie 2023/24 - Top 3 Finish,FC Twente,0.05310000000000001,0.2857,0.2326
-2023-09-18 06:03:34.529882,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Sacks,Danielle Hunter,0.048799999999999996,0.0833,0.0345
 2023-09-18 12:03:24.559954,Exhibition Fights - Logan Paul vs Dillon Danis - To Win the Bout,Dillon Danis,0.0476,0.2381,0.1905
-2023-09-18 06:03:34.529882,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Sacks,Josh Allen (JAX),0.045899999999999996,0.0667,0.0208
-2023-09-18 06:03:25.884568,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Nice,0.042899999999999994,0.1429,0.1
-2023-09-18 06:03:25.834160,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Werder Bremen,0.03889999999999999,0.1818,0.1429
-2023-09-18 06:03:27.251271,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Arsenal,0.036800000000000055,0.7701,0.7333
 2023-09-18 17:05:29.716212,Super Ligi - Turkey BSL 2023/24 - Outright,Besiktas,0.0344,0.0588,0.0244
-2023-09-18 06:03:27.070816,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Hertha BSC,0.03330000000000001,0.1,0.0667
-2023-09-18 06:03:34.529882,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Sacks,Montez Sweat,0.030299999999999997,0.0435,0.0132
-2023-09-18 06:03:25.834160,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Augsburg,0.030299999999999994,0.3636,0.3333
-2023-09-18 06:03:25.892583,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Strasbourg,0.028799999999999992,0.1538,0.125
-2023-09-18 06:03:27.113233,Eredivisie - Dutch Eredivisie 2023/24 - Top 3 Finish,AZ Alkmaar,0.02560000000000001,0.3333,0.3077
-2023-09-18 06:03:27.259079,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Arsenal,0.0242,0.9333,0.9091
-2023-09-18 06:03:34.529882,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Sacks,Joey Bosa,0.023200000000000002,0.0476,0.0244
-2023-09-18 06:03:25.834160,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Borussia Mönchengladbach,0.02310000000000001,0.1,0.0769
-2023-09-18 06:03:34.529882,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Sacks,TJ Watt,0.022199999999999998,0.1333,0.1111
-2023-09-18 06:03:34.430931,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Jalen Carter,0.021999999999999964,0.3077,0.2857
-2023-09-18 06:03:25.892583,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Lille,0.02169999999999994,0.5455,0.5238
-2023-09-18 06:03:25.884568,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Lille,0.01820000000000002,0.2,0.1818
-2023-09-18 06:03:25.834160,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Mainz,0.01820000000000002,0.2,0.1818
-2023-09-18 06:03:25.834160,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Bochum,0.017600000000000005,0.3509,0.3333
-2023-09-18 06:03:27.251271,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Liverpool,0.016700000000000048,0.75,0.7333
-2023-09-18 06:03:27.243356,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Everton,0.015400000000000025,0.4,0.3846
+2023-09-18 18:05:06.231757,UEFA Europa League - UEFA Europa League 2023/24 - Outright,Liverpool,0.022199999999999998,0.2222,0.2
+2023-09-18 18:05:13.385668,Boxing Lines - Richardson Hitchins vs Jose Zepeda - To Win the Bout,Jose Zepeda,0.020199999999999996,0.2353,0.2151
 2023-09-18 07:05:30.098930,Super Lig - Turkey Super Lig 2023/24 - Winner,Fenerbahce,0.015400000000000025,0.4,0.3846
-2023-09-18 06:03:25.900977,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Monaco,0.015100000000000002,0.8333,0.8182
-2023-09-18 06:03:27.113233,Eredivisie - Dutch Eredivisie 2023/24 - Top 3 Finish,Feyenoord,0.015100000000000002,0.8333,0.8182
-2023-09-18 06:03:34.430931,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Christian Gonzalez,0.014399999999999996,0.0769,0.0625
 2023-09-18 14:06:58.886621,Boxing Lines - Richardson Hitchins vs Jose Zepeda - To Win the Bout,Richardson Hitchins,0.014200000000000101,0.8403,0.8261
-2023-09-18 06:03:25.900977,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Brest,0.014099999999999998,0.0385,0.0244
 2023-09-18 07:05:30.098930,Super Lig - Turkey Super Lig 2023/24 - Winner,Trabzonspor,0.014099999999999998,0.0385,0.0244
-2023-09-18 06:03:27.259079,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Liverpool,0.014000000000000012,0.9231,0.9091
-2023-09-18 06:03:34.350625,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,T.J. Watt,0.013899999999999996,0.125,0.1111
-2023-09-18 06:03:25.900977,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Marseille,0.012899999999999912,0.8462,0.8333
-2023-09-18 06:03:27.259079,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Brighton & Hove Albion,0.012700000000000045,0.6491,0.6364
 2023-09-18 10:06:15.016203,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Sandy Ryan,0.0116,0.4878,0.4762
-2023-09-18 06:03:34.529882,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Sacks,Trey Hendrickson,0.011500000000000003,0.0323,0.0208
-2023-09-18 06:03:27.070816,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Hannover 96,0.011199999999999995,0.0588,0.0476
 2023-09-18 17:05:29.716212,Super Ligi - Turkey BSL 2023/24 - Outright,Pinar Karsiyaka,0.011199999999999995,0.0588,0.0476
-2023-09-18 06:03:25.884568,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Monaco,0.011099999999999999,0.2778,0.2667
-2023-09-18 06:03:27.259079,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Manchester United,-0.010099999999999998,0.5455,0.5556
-2023-09-18 10:06:15.449000,Cazoo Open de France - Cazoo Open de France - Winner,Ryan Fox,-0.0102,0.0667,0.0769
 2023-09-18 10:06:15.449000,Cazoo Open de France - Cazoo Open de France - Winner,Min Woo Lee,-0.0102,0.0667,0.0769
-2023-09-18 06:03:34.350625,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Nick Bosa,-0.0102,0.0667,0.0769
-2023-09-18 06:03:34.529882,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Sacks,Alex Highsmith,-0.0118,0.0152,0.027
-2023-09-18 06:03:25.900977,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Clermont Foot,-0.012100000000000001,0.0123,0.0244
-2023-09-18 06:03:34.529882,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Sacks,Chris Jones,-0.012700000000000003,0.0196,0.0323
-2023-09-18 06:03:27.243356,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Nottingham Forest,-0.012899999999999995,0.1538,0.1667
-2023-09-18 06:03:27.243356,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Crystal Palace,-0.013999999999999999,0.0769,0.0909
-2023-09-18 06:03:27.070816,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Holstein Kiel,-0.013999999999999999,0.0769,0.0909
-2023-09-18 06:03:34.430931,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Brian Branch,-0.015300000000000001,0.0435,0.0588
-2023-09-18 06:03:27.243356,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Bournemouth,-0.016699999999999993,0.25,0.2667
-2023-09-18 06:03:27.243356,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Sheffield United,-0.016700000000000048,0.7333,0.75
+2023-09-18 10:06:15.449000,Cazoo Open de France - Cazoo Open de France - Winner,Ryan Fox,-0.0102,0.0667,0.0769
+2023-09-18 18:05:06.231757,UEFA Europa League - UEFA Europa League 2023/24 - Outright,West Ham United,-0.014899999999999997,0.0476,0.0625
 2023-09-18 10:06:15.016203,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Jessica McCaskill,-0.017299999999999982,0.5744,0.5917
-2023-09-18 06:03:25.900977,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Toulouse,-0.0174,0.2326,0.25
-2023-09-18 06:03:27.101290,Eredivisie - Dutch Eredivisie 2023/24 - To Be Relegated,Almere City,-0.01759999999999995,0.6491,0.6667
-2023-09-18 06:03:25.900977,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Montpellier,-0.018099999999999998,0.0588,0.0769
-2023-09-18 06:03:34.350625,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Jordan Whitehead,-0.0182,0.0141,0.0323
-2023-09-18 06:03:25.884568,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Lens,-0.018200000000000004,0.0294,0.0476
-2023-09-18 06:03:34.529882,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Sacks,Aiden Hutchinson,-0.018200000000000004,0.0294,0.0476
-2023-09-18 06:03:25.892583,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Rennes,-0.020799999999999985,0.3125,0.3333
-2023-09-18 06:03:25.834160,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Darmstadt,-0.02100000000000002,0.6154,0.6364
-2023-09-18 06:03:25.900977,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Lorient,-0.0232,0.0435,0.0667
 2023-09-18 17:05:29.716212,Super Ligi - Turkey BSL 2023/24 - Outright,Galatasaray SK,-0.023200000000000002,0.0294,0.0526
-2023-09-18 06:03:34.529882,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Sacks,Haason Reddick,-0.023299999999999994,0.0323,0.0556
-2023-09-18 06:03:34.350625,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Chris Jones,-0.0233,0.0152,0.0385
-2023-09-18 06:03:25.892583,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Marseille,-0.025600000000000067,0.6667,0.6923
+2023-09-18 18:05:06.231757,UEFA Europa League - UEFA Europa League 2023/24 - Outright,Brighton & Hove Albion,-0.0242,0.0667,0.0909
 2023-09-18 14:06:58.886621,Boxing Lines - Richardson Hitchins vs Jose Zepeda - To Win the Bout,Jose Zepeda,-0.02589999999999998,0.2151,0.241
-2023-09-18 06:03:27.243356,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Burnley,-0.02679999999999999,0.2857,0.3125
-2023-09-18 06:03:25.892583,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Reims,-0.027800000000000005,0.0833,0.1111
-2023-09-18 06:03:25.892583,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Lyon,-0.027999999999999997,0.1538,0.1818
 2023-09-18 07:05:30.098930,Super Lig - Turkey Super Lig 2023/24 - Winner,Galatasaray,-0.029000000000000026,0.4255,0.4545
-2023-09-18 06:03:27.251271,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Newcastle United,-0.030299999999999994,0.3333,0.3636
-2023-09-18 06:03:27.259079,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Chelsea,-0.03179999999999994,0.5238,0.5556
-2023-09-18 06:03:34.529882,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Sacks,Myles Garrett,-0.03259999999999999,0.1053,0.1379
-2023-09-18 06:03:27.251271,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Chelsea,-0.04099999999999998,0.2667,0.3077
-2023-09-18 06:03:27.243356,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Wolverhampton Wanderers,-0.04580000000000001,0.2667,0.3125
 2023-09-18 12:03:24.559954,Exhibition Fights - Logan Paul vs Dillon Danis - To Win the Bout,Logan Paul,-0.04590000000000005,0.8291,0.875
-2023-09-18 06:03:27.177232,Superettan - Superettan 2023 - Winner,Utsiktens,-0.04760000000000003,0.4762,0.5238
 2023-09-18 07:05:30.098930,Super Lig - Turkey Super Lig 2023/24 - Winner,Besiktas,-0.04999999999999999,0.2,0.25
-2023-09-18 06:03:25.834160,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Heidenheim,-0.05059999999999998,0.5238,0.5744
-2023-09-18 06:03:34.529882,Awards & League Leaders - NFL 2023/24 Stat Leaders - NFL 2023/24 Most Regular Season Sacks,Nick Bosa,-0.052000000000000005,0.0909,0.1429
-2023-09-18 06:03:25.900977,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Reims,-0.05310000000000001,0.2326,0.2857
-2023-09-18 06:03:27.113233,Eredivisie - Dutch Eredivisie 2023/24 - Top 3 Finish,Ajax,-0.05709999999999993,0.8,0.8571
-2023-09-18 06:03:25.892583,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Lens,-0.05710000000000001,0.1429,0.2
 2023-09-18 07:05:38.131860,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Cam Akers,-0.08099999999999999,0.0099,0.0909
-2023-09-18 06:03:25.900977,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Lens,-0.08750000000000002,0.3125,0.4
 2023-09-18 07:05:30.141848,Copa do Brasil - Copa do Brasil 2023 - Outright,Flamengo,-0.3697,0.2667,0.6364
