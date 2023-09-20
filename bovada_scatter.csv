@@ -20,8 +20,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-20 05:04:37.993915,League One - England - League One 2023/24 - Top 6 Finish,Oxford United,0.05520000000000003,0.6296,0.5744
 2023-09-20 05:04:37.960410,League One - England - League One 2023/24 - To Be Promoted,Portsmouth,0.05449999999999999,0.4545,0.4
 2023-09-20 07:05:21.153571,Super Bowl LVIII - Superbowl 58 (2024) - Winning State,New Jersey + New York,0.0524,0.1,0.0476
-2023-09-20 08:03:05.053934,Boxing Lines - Mitchell Frearson vs Brad Pauls - To Win the Bout,Mitchell Frearson,0.04999999999999999,0.25,0.2
 2023-09-20 09:03:41.191104,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Kylian Mbappe (PSG),0.04999999999999999,0.25,0.2
+2023-09-20 08:03:05.053934,Boxing Lines - Mitchell Frearson vs Brad Pauls - To Win the Bout,Mitchell Frearson,0.04999999999999999,0.25,0.2
 2023-09-20 12:02:52.034391,Joe Biden Specials - Joe Biden Approval Rating At Year End - Joe Biden Approval Rating At Year End,41 or under,0.0494,0.6923,0.6429
 2023-09-20 14:05:12.834660,UEFA Champions League - Group G - Not To Advance From Group,Crvena Zvezda,0.047699999999999965,0.9852,0.9375
 2023-09-20 13:06:55.952378,Bundesliga - Germany Bundesliga 2023/24 - Outright,Bayern Munich,0.04760000000000009,0.7143,0.6667
@@ -34,10 +34,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-20 04:04:27.531905,National League - England National League 2023/24 - Outright,Chesterfield,0.036900000000000044,0.6369,0.6
 2023-09-20 05:04:37.993915,League One - England - League One 2023/24 - Top 6 Finish,Bristol Rovers,0.03570000000000001,0.2857,0.25
 2023-09-20 06:04:29.737607,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Everton,0.0348,0.4348,0.4
-2023-09-20 14:05:12.834660,UEFA Champions League - Group G - Not To Advance From Group,Young Boys,0.033399999999999985,0.9709,0.9375
 2023-09-20 04:04:35.225663,Boxing Lines - Mitchell Frearson vs Brad Pauls - To Win the Bout,Brad Pauls,0.033399999999999985,0.8667,0.8333
-2023-09-20 05:04:37.974492,League One - England - League One 2023/24 - Top 2 Finish,Peterborough United,0.033300000000000024,0.2,0.1667
+2023-09-20 14:05:12.834660,UEFA Champions League - Group G - Not To Advance From Group,Young Boys,0.033399999999999985,0.9709,0.9375
 2023-09-20 14:05:12.752325,UEFA Champions League - Group E - Winner,Feyenoord,0.033300000000000024,0.2,0.1667
+2023-09-20 05:04:37.974492,League One - England - League One 2023/24 - Top 2 Finish,Peterborough United,0.033300000000000024,0.2,0.1667
 2023-09-20 14:05:12.866730,UEFA Champions League - Group H - Not To Advance From Group,Royal Antwerp,0.03180000000000005,0.8889,0.8571
 2023-09-20 05:04:37.960410,League One - England - League One 2023/24 - To Be Promoted,Peterborough United,0.029899999999999982,0.3077,0.2778
 2023-09-20 14:05:14.384365,Big Brother - BB25: Outright Winner - Outright Winner,Jared Fields,0.028799999999999992,0.1538,0.125
@@ -70,6 +70,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-20 07:05:22.581126,Boxing Lines - Tim Tszyu vs Brian Mendoza - To Win the Bout,Tim Tszyu,0.014200000000000101,0.8403,0.8261
 2023-09-20 13:07:00.317294,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,"Robert Kennedy, Jr",0.014099999999999998,0.0385,0.0244
 2023-09-20 13:07:00.295362,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Any Other,0.014099999999999998,0.0435,0.0294
+2023-09-20 15:04:40.519112,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Jessica McCaskill,0.01330000000000009,0.5348,0.5215
 2023-09-20 04:04:35.266338,Boxing Lines - Zach Parker vs Khalid Graidia - To Win the Bout,Zach Parker,0.0131,0.9655,0.9524
 2023-09-20 14:05:12.791649,UEFA Champions League - Group F - Winner,AC Milan,0.012899999999999995,0.1667,0.1538
 2023-09-20 07:05:21.153571,Super Bowl LVIII - Superbowl 58 (2024) - Winning State,Ohio,0.011900000000000008,0.0952,0.0833
@@ -77,32 +78,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-20 07:05:22.232970,Boxing Lines - Clay AJ Waterman vs Kareem Hackett - To Win the Bout,Clay AJ Waterman,0.011699999999999933,0.7895,0.7778
 2023-09-20 05:04:37.960410,League One - England - League One 2023/24 - To Be Promoted,Bolton Wanderers,0.011600000000000055,0.5238,0.5122
 2023-09-20 06:04:37.768387,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Sandy Ryan,0.010699999999999932,0.5455,0.5348
-2023-09-20 05:04:37.974492,League One - England - League One 2023/24 - Top 2 Finish,Exeter City,0.0102,0.0769,0.0667
 2023-09-20 03:04:49.224898,UEFA Europa League - Group H - Winner,BK Häcken,0.0102,0.0769,0.0667
 2023-09-20 03:04:49.181840,UEFA Europa League - Group F - Winner,Maccabi Haifa,0.0102,0.0769,0.0667
+2023-09-20 05:04:37.974492,League One - England - League One 2023/24 - Top 2 Finish,Exeter City,0.0102,0.0769,0.0667
 2023-09-20 12:02:53.302164,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Anthony Richardson,-0.010099999999999998,0.3125,0.3226
-2023-09-20 14:05:12.752325,UEFA Champions League - Group E - Winner,Celtic,-0.0102,0.0667,0.0769
 2023-09-20 13:06:55.827519,Euroleague - Euroleague 2023/24 - Outright,Anadolu Efes,-0.0102,0.0667,0.0769
+2023-09-20 14:05:12.752325,UEFA Champions League - Group E - Winner,Celtic,-0.0102,0.0667,0.0769
+2023-09-20 15:04:40.519112,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Sandy Ryan,-0.010699999999999932,0.5348,0.5455
 2023-09-20 05:04:46.469486,Boxing Lines - Austin Williams vs Steve Rolls - To Win the Bout,Steve Rolls,-0.010899999999999993,0.1429,0.1538
 2023-09-20 07:05:22.219784,Boxing Lines - Batyrzhan Jukembayev vs Hugo Alberto Roldan - To Win the Bout,Batyrzhan Jukembayev,-0.01090000000000002,0.8462,0.8571
 2023-09-20 06:04:37.768387,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Jessica McCaskill,-0.01100000000000001,0.5238,0.5348
-2023-09-20 05:04:37.946853,League One - England - League One 2023/24 - Top Goalscorer,Alfie May,-0.011099999999999999,0.1,0.1111
-2023-09-20 13:06:55.952378,Bundesliga - Germany Bundesliga 2023/24 - Outright,Oldenburg,-0.011099999999999999,0.1,0.1111
 2023-09-20 11:03:08.379047,96th Academy Awards - Best Actress - Best Actress,Greta Lee - Past Lives,-0.011099999999999999,0.1,0.1111
+2023-09-20 13:06:55.952378,Bundesliga - Germany Bundesliga 2023/24 - Outright,Oldenburg,-0.011099999999999999,0.1,0.1111
+2023-09-20 05:04:37.946853,League One - England - League One 2023/24 - Top Goalscorer,Alfie May,-0.011099999999999999,0.1,0.1111
 2023-09-20 14:05:14.384365,Big Brother - BB25: Outright Winner - Outright Winner,Felicia Cannon,-0.011199999999999995,0.0476,0.0588
 2023-09-20 14:05:14.384365,Big Brother - BB25: Outright Winner - Outright Winner,Blue Kim,-0.011199999999999995,0.0476,0.0588
 2023-09-20 08:03:05.001587,Boxing Lines - Clay AJ Waterman vs Kareem Hackett - To Win the Bout,Clay AJ Waterman,-0.011699999999999933,0.7778,0.7895
 2023-09-20 05:04:37.993915,League One - England - League One 2023/24 - Top 6 Finish,Wigan Athletic,-0.011899999999999994,0.2381,0.25
 2023-09-20 09:03:49.152539,Boxing Lines - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Joseph Joyce,-0.012199999999999989,0.4878,0.5
-2023-09-20 14:05:14.384365,Big Brother - BB25: Outright Winner - Outright Winner,Cirie Fields,-0.0131,0.2222,0.2353
-2023-09-20 13:06:55.874822,Euro Cup - Euro Cup 2023/24 - Outright,Joventut,-0.0131,0.2222,0.2353
 2023-09-20 14:05:12.764897,UEFA Champions League - Group E - Not To Advance From Group,Atlético Madrid,-0.0131,0.2222,0.2353
+2023-09-20 13:06:55.874822,Euro Cup - Euro Cup 2023/24 - Outright,Joventut,-0.0131,0.2222,0.2353
+2023-09-20 14:05:14.384365,Big Brother - BB25: Outright Winner - Outright Winner,Cirie Fields,-0.0131,0.2222,0.2353
 2023-09-20 12:02:53.302164,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Bijan Robinson,-0.013300000000000034,0.3571,0.3704
 2023-09-20 05:04:37.974492,League One - England - League One 2023/24 - Top 2 Finish,Derby County,-0.013600000000000001,0.2941,0.3077
 2023-09-20 07:05:22.581126,Boxing Lines - Tim Tszyu vs Brian Mendoza - To Win the Bout,Brian Mendoza,-0.01369999999999999,0.2273,0.241
 2023-09-20 13:06:55.993341,LKL - Lithuania LKL 2023/24 - Outright,Wolves,-0.013899999999999996,0.1111,0.125
-2023-09-20 09:03:41.198669,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Atlético Madrid,-0.013999999999999999,0.0769,0.0909
 2023-09-20 11:03:08.379047,96th Academy Awards - Best Actress - Best Actress,Cailee Spaeny - Priscilla,-0.013999999999999999,0.0769,0.0909
+2023-09-20 09:03:41.198669,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Atlético Madrid,-0.013999999999999999,0.0769,0.0909
 2023-09-20 14:05:12.834660,UEFA Champions League - Group G - Not To Advance From Group,Manchester City,-0.014099999999999998,0.0244,0.0385
 2023-09-20 10:03:27.145167,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Bruno Mars,-0.014099999999999998,0.0244,0.0385
 2023-09-20 10:03:27.145167,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Ariana Grande,-0.014899999999999997,0.0476,0.0625
@@ -115,8 +117,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-20 13:06:51.626744,96th Academy Awards - Best Actress - Best Actress,Carey Mulligan - Maestro,-0.016699999999999993,0.25,0.2667
 2023-09-20 04:04:35.266338,Boxing Lines - Zach Parker vs Khalid Graidia - To Win the Bout,Khalid Graidia,-0.016700000000000007,0.0833,0.1
 2023-09-20 13:06:55.952378,Bundesliga - Germany Bundesliga 2023/24 - Outright,Telekom Baskets Bonn,-0.016700000000000007,0.0833,0.1
-2023-09-20 07:05:22.311495,Boxing Lines - Pierce O'Leary vs Kane Gardner - To Win the Bout,Pierce O'Leary,-0.017900000000000027,0.8571,0.875
 2023-09-20 03:04:49.158651,UEFA Europa League - Group E - Winner,Liverpool,-0.017900000000000027,0.8571,0.875
+2023-09-20 07:05:22.311495,Boxing Lines - Pierce O'Leary vs Kane Gardner - To Win the Bout,Pierce O'Leary,-0.017900000000000027,0.8571,0.875
 2023-09-20 04:04:27.531905,National League - England National League 2023/24 - Outright,Woking,-0.018099999999999998,0.0588,0.0769
 2023-09-20 05:04:46.310914,Boxing Lines - Clay AJ Waterman vs Kareem Hackett - To Win the Bout,Clay AJ Waterman,-0.018199999999999994,0.8,0.8182
 2023-09-20 03:04:49.203881,UEFA Europa League - Group G - Winner,AS Roma,-0.018199999999999994,0.8,0.8182
@@ -129,8 +131,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-20 06:04:37.558856,Boxing Lines - Clay AJ Waterman vs Kareem Hackett - To Win the Bout,Clay AJ Waterman,-0.022199999999999998,0.7778,0.8
 2023-09-20 03:04:58.338785,Boxing Lines - Clay AJ Waterman vs Kareem Hackett - To Win the Bout,Clay AJ Waterman,-0.023799999999999932,0.8333,0.8571
 2023-09-20 06:04:29.805645,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Everton,-0.023799999999999932,0.6429,0.6667
-2023-09-20 03:04:49.181840,UEFA Europa League - Group F - Winner,Rennes,-0.023799999999999988,0.3333,0.3571
 2023-09-20 13:06:51.931428,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Bad Bunny,-0.023799999999999988,0.1429,0.1667
+2023-09-20 03:04:49.181840,UEFA Europa League - Group F - Winner,Rennes,-0.023799999999999988,0.3333,0.3571
 2023-09-20 08:03:06.363009,Round Match-Ups - 1st Round Match-Ups - A. Otaegui vs Y. Paul - 1st Round Match-Ups,Adrian Otaegui,-0.023800000000000043,0.5,0.5238
 2023-09-20 14:05:12.803312,UEFA Champions League - Group F - Not To Advance From Group,Newcastle United,-0.023800000000000043,0.5,0.5238
 2023-09-20 05:04:37.974492,League One - England - League One 2023/24 - Top 2 Finish,Port Vale,-0.024299999999999995,0.0345,0.0588
@@ -140,17 +142,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-20 05:04:37.960410,League One - England - League One 2023/24 - To Be Promoted,Port Vale,-0.030699999999999998,0.0526,0.0833
 2023-09-20 14:05:12.812762,UEFA Champions League - Group F - To Advance From Group,AC Milan,-0.031799999999999995,0.4444,0.4762
 2023-09-20 04:04:27.531905,National League - England National League 2023/24 - Outright,Rochdale,-0.0321,0.0588,0.0909
-2023-09-20 13:06:55.952378,Bundesliga - Germany Bundesliga 2023/24 - Outright,Alba Berlin,-0.033300000000000024,0.1667,0.2
 2023-09-20 14:05:12.875807,UEFA Champions League - Group H - To Advance From Group,Royal Antwerp,-0.033300000000000024,0.1667,0.2
+2023-09-20 05:04:37.993915,League One - England - League One 2023/24 - Top 6 Finish,Charlton Athletic,-0.033300000000000024,0.1667,0.2
 2023-09-20 10:03:27.145167,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Bad Bunny,-0.033300000000000024,0.1667,0.2
 2023-09-20 10:03:27.145167,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Harry Styles,-0.033300000000000024,0.1667,0.2
-2023-09-20 05:04:37.993915,League One - England - League One 2023/24 - Top 6 Finish,Charlton Athletic,-0.033300000000000024,0.1667,0.2
+2023-09-20 13:06:55.952378,Bundesliga - Germany Bundesliga 2023/24 - Outright,Alba Berlin,-0.033300000000000024,0.1667,0.2
 2023-09-20 13:06:55.874822,Euro Cup - Euro Cup 2023/24 - Outright,Gran Canaria,-0.0353,0.2,0.2353
 2023-09-20 04:04:35.225663,Boxing Lines - Mitchell Frearson vs Brad Pauls - To Win the Bout,Mitchell Frearson,-0.0353,0.2,0.2353
 2023-09-20 03:04:49.224898,UEFA Europa League - Group H - Winner,Bayer Leverkusen,-0.035699999999999954,0.7143,0.75
+2023-09-20 05:04:37.960410,League One - England - League One 2023/24 - To Be Promoted,Barnsley,-0.03570000000000001,0.25,0.2857
 2023-09-20 14:05:12.791649,UEFA Champions League - Group F - Winner,Newcastle United,-0.03570000000000001,0.25,0.2857
 2023-09-20 14:05:14.384365,Big Brother - BB25: Outright Winner - Outright Winner,Cory Wurtenberger,-0.03570000000000001,0.25,0.2857
-2023-09-20 05:04:37.960410,League One - England - League One 2023/24 - To Be Promoted,Barnsley,-0.03570000000000001,0.25,0.2857
 2023-09-20 14:05:12.776993,UEFA Champions League - Group E - To Advance From Group,Lazio,-0.03610000000000002,0.5556,0.5917
 2023-09-20 05:04:37.993915,League One - England - League One 2023/24 - Top 6 Finish,Northampton Town,-0.038299999999999994,0.0526,0.0909
 2023-09-20 11:03:08.379047,96th Academy Awards - Best Actress - Best Actress,Carey Mulligan - Maestro,-0.04099999999999998,0.2667,0.3077
