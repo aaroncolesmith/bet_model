@@ -5,8 +5,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-21 03:03:24.568729,UEFA Champions League - Group D - Winner,FC Salzburg,0.10910000000000002,0.2,0.0909
 2023-09-21 03:03:24.532695,UEFA Champions League - Group B - To Advance From Group,Lens,0.1058,0.4762,0.3704
 2023-09-21 03:03:24.868056,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,RB Bragantino,0.09999999999999998,0.5,0.4
-2023-09-21 03:03:24.482090,UEFA Champions League - Group A - Winner,Bayern Munich,0.09800000000000009,0.7647,0.6667
 2023-09-21 03:03:24.515602,UEFA Champions League - Group B - Winner,Arsenal FC,0.09800000000000009,0.7647,0.6667
+2023-09-21 03:03:24.482090,UEFA Champions League - Group A - Winner,Bayern Munich,0.09800000000000009,0.7647,0.6667
 2023-09-21 03:03:24.929679,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Julian Quinones (AME),0.0956,0.125,0.0294
 2023-09-21 03:03:24.875345,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,RB Bragantino,0.08550000000000002,0.7778,0.6923
 2023-09-21 02:04:36.941712,Championship - England Championship 2023/24 - Top 2 Finish,Ipswich Town,0.0842,0.3509,0.2667
@@ -42,7 +42,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-21 00:04:02.577242,MLB Futures - MLB 2023 Player Awards - National League MVP,Ronald Acuña Jr.,0.03610000000000002,0.9804,0.9443
 2023-09-20 20:02:58.896192,Round Match-Ups - 1st Round Match-Ups - G. Migliozzi vs M. Siem - 1st Round Match-Ups,Guido Migliozzi,0.035999999999999976,0.5122,0.4762
 2023-09-21 03:03:24.617115,UEFA Champions League - Group D - To Advance From Group,Inter Milan,0.0353,0.8,0.7647
-2023-09-20 16:04:48.717178,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Arsenal FC,0.03420000000000001,0.1111,0.0769
 2023-09-21 03:03:24.505402,UEFA Champions League - Group A - To Advance From Group,Bayern Munich,0.03420000000000001,0.9231,0.8889
 2023-09-21 02:04:47.226457,BKFC 50: Hunt vs Camozzi - Keegan Vandermeer vs Dillon Winemiller - To Win the Bout,Dillon Winemiller,0.032299999999999995,0.4082,0.3759
 2023-09-21 02:04:36.925165,Championship - England Championship 2023/24 - To Be Relegated,Sheffield Wednesday,0.031799999999999995,0.4762,0.4444
@@ -53,24 +52,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-21 03:03:24.868056,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fortaleza,0.027999999999999997,0.1818,0.1538
 2023-09-21 03:03:24.938778,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Club América,0.027800000000000047,0.7778,0.75
 2023-09-21 02:04:36.949521,Championship - England Championship 2023/24 - Top 6 Finish,Preston North End,0.02679999999999999,0.3125,0.2857
-2023-09-20 16:04:57.828290,Tournament Match-Ups - Tournament Match-Ups - R. Hojgaard vs Y. Paul - Tournament Match-Ups,Yannik Paul,0.026499999999999968,0.5917,0.5652
 2023-09-21 02:04:36.949521,Championship - England Championship 2023/24 - Top 6 Finish,Ipswich Town,0.025600000000000067,0.6923,0.6667
 2023-09-20 20:02:59.580896,Scores - 1st Round Score - Thorbjorn Olesen - 1st Round Score,Over 70.5,0.024399999999999977,0.5122,0.4878
 2023-09-20 20:02:59.616331,Scores - 1st Round Score - Yannik Paul - 1st Round Score,Over 70.5,0.024399999999999977,0.5122,0.4878
 2023-09-21 02:04:36.917772,Championship - England Championship 2023/24 - To Be Promoted,Bristol City,0.0242,0.0909,0.0667
 2023-09-21 02:04:36.925165,Championship - England Championship 2023/24 - To Be Relegated,Birmingham City,0.0242,0.0909,0.0667
-2023-09-20 16:04:57.881953,Tournament Match-Ups - Tournament Match-Ups - T. Detry v A. Bjork - Tournament Match-Ups,Alexander Bjork,0.02079999999999993,0.5556,0.5348
 2023-09-21 03:03:24.778338,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Joao Felix (Barcelona),0.0203,0.0588,0.0385
 2023-09-20 21:02:49.153961,WNBA Awards - WNBA Awards 2023 - WNBA Finals MVP 2023,Alyssa Thomas (CON),0.019099999999999995,0.0435,0.0244
 2023-09-21 02:04:36.949521,Championship - England Championship 2023/24 - Top 6 Finish,Watford,0.019000000000000017,0.2857,0.2667
-2023-09-20 16:04:52.260916,NBL - NBL 2023/2024 - Regular Season MVP,Parker Jackson-Cartwright,0.0189,0.0385,0.0196
-2023-09-20 16:04:57.908357,Tournament Match-Ups - Tournament Match-Ups - T. Lawrence v H. Du Plessis - Tournament Match-Ups,Hennie Du Plessis,0.01880000000000004,0.5744,0.5556
 2023-09-21 02:04:36.933150,Championship - England Championship 2023/24 - To Finish Bottom,Sheffield Wednesday,0.01820000000000002,0.2,0.1818
-2023-09-21 03:03:24.778338,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Gabriel Jesus (Arsenal),0.018200000000000004,0.0476,0.0294
 2023-09-21 04:04:08.185745,MLS - MLS 2023 - Top Goalscorer,Jesus Ferreira (DAL),0.018200000000000004,0.0476,0.0294
-2023-09-20 16:04:57.801354,Tournament Match-Ups - Tournament Match-Ups - C. Syme vs E. Ferguson - Tournament Match-Ups,Connor Syme,0.018100000000000005,0.5833,0.5652
-2023-09-20 21:02:49.135697,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,Connecticut Sun to beat vs Las Vegas Aces,0.018099999999999998,0.0526,0.0345
+2023-09-21 03:03:24.778338,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Gabriel Jesus (Arsenal),0.018200000000000004,0.0476,0.0294
 2023-09-21 04:04:08.185745,MLS - MLS 2023 - Top Goalscorer,Daniel Gazdag (PHI),0.018099999999999998,0.0769,0.0588
+2023-09-20 21:02:49.135697,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,Connecticut Sun to beat vs Las Vegas Aces,0.018099999999999998,0.0526,0.0345
 2023-09-21 02:04:36.933150,Championship - England Championship 2023/24 - To Finish Bottom,Swansea City,0.018099999999999998,0.0769,0.0588
 2023-09-21 03:03:24.515602,UEFA Champions League - Group B - Winner,Lens,0.0179,0.1429,0.125
 2023-09-21 02:04:36.941712,Championship - England Championship 2023/24 - Top 2 Finish,Sunderland,0.01759999999999999,0.1176,0.1
@@ -82,18 +76,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-21 02:04:36.897886,Championship - England Championship 2023/24 - League Winner,Ipswich Town,0.015100000000000002,0.1818,0.1667
 2023-09-21 02:04:47.280087,BKFC 50: Hunt vs Camozzi - Lorenzo Hunt vs Chris Camozzi - To Win the Bout,Lorenzo Hunt,0.014900000000000024,0.6923,0.6774
 2023-09-21 03:03:34.714276,Boxing Lines - Orestes Velazquez vs Mohamed Soumaoro - To Win the Bout,Orestes Velazquez,0.01429999999999998,0.9091,0.8948
-2023-09-21 03:03:24.778338,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Jude Bellingham (Real Madrid),0.014099999999999998,0.0385,0.0244
-2023-09-21 02:04:36.941712,Championship - England Championship 2023/24 - Top 2 Finish,Cardiff City,0.014099999999999998,0.0385,0.0244
 2023-09-20 21:02:49.126041,WNBA Championship - WNBA Championship 2023 - Finals Exact Matchup,Dallas Wings vs Connecticut Sun,0.014099999999999998,0.0385,0.0244
-2023-09-21 02:04:36.933150,Championship - England Championship 2023/24 - To Finish Bottom,Middlesbrough,0.014099999999999998,0.0385,0.0244
 2023-09-21 03:03:24.860453,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,São Paulo,0.014099999999999998,0.0385,0.0244
+2023-09-21 03:03:24.778338,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Jude Bellingham (Real Madrid),0.014099999999999998,0.0385,0.0244
+2023-09-21 02:04:36.933150,Championship - England Championship 2023/24 - To Finish Bottom,Middlesbrough,0.014099999999999998,0.0385,0.0244
+2023-09-21 02:04:36.941712,Championship - England Championship 2023/24 - Top 2 Finish,Cardiff City,0.014099999999999998,0.0385,0.0244
 2023-09-21 02:04:36.917772,Championship - England Championship 2023/24 - To Be Promoted,Hull City,0.013999999999999999,0.0909,0.0769
 2023-09-21 02:04:37.166518,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Palmeiras,0.013800000000000034,0.3774,0.3636
 2023-09-21 03:03:24.917894,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Club América,0.0131,0.2353,0.2222
-2023-09-20 16:04:48.717178,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Bayern Munich,0.012899999999999995,0.1667,0.1538
 2023-09-21 03:03:24.860453,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Corinthians,0.012899999999999995,0.1667,0.1538
 2023-09-21 03:03:24.778338,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Bukayo Saka (Arsenal),0.012700000000000003,0.0323,0.0196
-2023-09-20 16:04:56.284504,Boxing Lines - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Joseph Joyce,0.012199999999999989,0.5,0.4878
 2023-09-21 02:04:37.173545,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Pedro (Flamengo),0.012100000000000001,0.0244,0.0123
 2023-09-21 03:03:24.778338,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Rasmus Hojlund (Man Utd),0.012100000000000001,0.0244,0.0123
 2023-09-21 02:04:47.200178,BKFC 50: Hunt vs Camozzi - Andrew Yates vs Christian Torres - To Win the Bout,Christian Torres,0.01150000000000001,0.3448,0.3333
@@ -107,30 +99,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-21 03:03:24.812427,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Furthest Progressing Premier League Team,Newcastle United,0.0102,0.0769,0.0667
 2023-09-21 03:03:24.875345,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fortaleza,0.010099999999999998,0.4545,0.4444
 2023-09-21 03:03:24.860453,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Goiás,0.010099999999999998,0.4545,0.4444
-2023-09-21 02:04:36.897886,Championship - England Championship 2023/24 - League Winner,Southampton,-0.0102,0.0667,0.0769
+2023-09-21 04:04:13.376239,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Brandon Miller (CHA),-0.0102,0.0667,0.0769
 2023-09-21 02:04:36.917772,Championship - England Championship 2023/24 - To Be Promoted,Birmingham City,-0.0102,0.0667,0.0769
 2023-09-21 02:04:36.941712,Championship - England Championship 2023/24 - Top 2 Finish,Watford,-0.0102,0.0667,0.0769
-2023-09-21 04:04:13.376239,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Brandon Miller (CHA),-0.0102,0.0667,0.0769
-2023-09-21 03:03:24.778338,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Goncalo Ramos (PSG),-0.010700000000000001,0.0278,0.0385
+2023-09-21 02:04:36.897886,Championship - England Championship 2023/24 - League Winner,Southampton,-0.0102,0.0667,0.0769
 2023-09-21 02:04:36.917772,Championship - England Championship 2023/24 - To Be Promoted,Swansea City,-0.010700000000000001,0.0278,0.0385
+2023-09-21 03:03:24.778338,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Goncalo Ramos (PSG),-0.010700000000000001,0.0278,0.0385
 2023-09-21 03:03:24.778338,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Victor Osimhen (Napoli),-0.010700000000000001,0.0278,0.0385
 2023-09-20 22:04:12.847432,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Jessica McCaskill,-0.01100000000000001,0.5238,0.5348
-2023-09-21 02:04:47.200178,BKFC 50: Hunt vs Camozzi - Andrew Yates vs Christian Torres - To Win the Bout,Andrew Yates,-0.011099999999999999,0.7222,0.7333
-2023-09-21 02:04:36.933150,Championship - England Championship 2023/24 - To Finish Bottom,Plymouth Argyle,-0.011099999999999999,0.1,0.1111
 2023-09-21 02:04:36.917772,Championship - England Championship 2023/24 - To Be Promoted,Coventry City,-0.011099999999999999,0.1,0.1111
+2023-09-21 02:04:36.933150,Championship - England Championship 2023/24 - To Finish Bottom,Plymouth Argyle,-0.011099999999999999,0.1,0.1111
+2023-09-21 02:04:47.200178,BKFC 50: Hunt vs Camozzi - Andrew Yates vs Christian Torres - To Win the Bout,Andrew Yates,-0.011099999999999999,0.7222,0.7333
 2023-09-21 02:04:36.941712,Championship - England Championship 2023/24 - Top 2 Finish,Millwall,-0.011199999999999995,0.0476,0.0588
 2023-09-21 02:04:36.941712,Championship - England Championship 2023/24 - Top 2 Finish,Birmingham City,-0.011199999999999995,0.0476,0.0588
 2023-09-21 03:03:24.875345,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Grêmio,-0.011499999999999955,0.6552,0.6667
 2023-09-20 21:02:49.135697,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,New York Liberty to beat Las Vegas Aces,-0.01150000000000001,0.3333,0.3448
 2023-09-20 21:02:49.135697,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,Las Vegas Aces to beat New York Liberty,-0.0116,0.4762,0.4878
-2023-09-20 16:04:56.474926,Boxing Lines - Harper Terri vs Cecilia Braekhus - To Win the Bout,Cecilia Braekhus,-0.012499999999999983,0.198,0.2105
 2023-09-21 03:03:24.482090,UEFA Champions League - Group A - Winner,FC Copenhagen,-0.012599999999999998,0.0152,0.0278
-2023-09-21 03:03:24.768124,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Bayern Munich,-0.012899999999999995,0.1538,0.1667
 2023-09-21 03:03:34.714276,Boxing Lines - Orestes Velazquez vs Mohamed Soumaoro - To Win the Bout,Mohamed Soumaoro,-0.012899999999999995,0.1538,0.1667
+2023-09-21 03:03:24.768124,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Bayern Munich,-0.012899999999999995,0.1538,0.1667
 2023-09-21 02:04:36.933150,Championship - England Championship 2023/24 - To Finish Bottom,Sunderland,-0.013,0.0066,0.0196
 2023-09-21 01:04:07.550672,BKFC 50: Hunt vs Camozzi - Khortni Kamyron vs Monica Franco - To Win the Bout,Khortni Kamyron,-0.0131,0.8,0.8131
 2023-09-20 21:02:49.153961,WNBA Awards - WNBA Awards 2023 - WNBA Finals MVP 2023,Satou Sabally (DAL),-0.013400000000000002,0.011,0.0244
-2023-09-20 16:04:48.717178,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Real Madrid,-0.013899999999999996,0.1111,0.125
 2023-09-21 03:03:29.755145,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Scottie Barnes (TOR),-0.013999999999999999,0.0769,0.0909
 2023-09-21 03:03:24.788115,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Newcastle United,-0.013999999999999999,0.0769,0.0909
 2023-09-21 02:04:47.280087,BKFC 50: Hunt vs Camozzi - Lorenzo Hunt vs Chris Camozzi - To Win the Bout,Chris Camozzi,-0.01419999999999999,0.3704,0.3846
@@ -150,36 +140,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-21 03:03:24.875345,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Cruzeiro,-0.018099999999999998,0.0588,0.0769
 2023-09-21 04:04:13.376239,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Victor Wembanyama (SAS),-0.018100000000000005,0.5652,0.5833
 2023-09-21 04:04:08.185745,MLS - MLS 2023 - Top Goalscorer,Denis Bouanga (LAFC),-0.01820000000000002,0.1818,0.2
-2023-09-20 20:02:59.580896,Scores - 1st Round Score - Thorbjorn Olesen - 1st Round Score,Under 70.5,-0.01880000000000004,0.5556,0.5744
-2023-09-21 04:04:19.637773,BKFC 50: Hunt vs Camozzi - Keegan Vandermeer vs Dillon Winemiller - To Win the Bout,Keegan Vandermeer,-0.01880000000000004,0.6364,0.6552
 2023-09-20 20:02:59.616331,Scores - 1st Round Score - Yannik Paul - 1st Round Score,Under 70.5,-0.01880000000000004,0.5556,0.5744
+2023-09-21 04:04:19.637773,BKFC 50: Hunt vs Camozzi - Keegan Vandermeer vs Dillon Winemiller - To Win the Bout,Keegan Vandermeer,-0.01880000000000004,0.6364,0.6552
+2023-09-20 20:02:59.580896,Scores - 1st Round Score - Thorbjorn Olesen - 1st Round Score,Under 70.5,-0.01880000000000004,0.5556,0.5744
 2023-09-21 03:03:24.600801,UEFA Champions League - Group D - Not To Advance From Group,Inter Milan,-0.019000000000000017,0.2667,0.2857
+2023-09-21 04:04:08.185745,MLS - MLS 2023 - Top Goalscorer,Cristian Espinoza (SJE),-0.019099999999999992,0.0476,0.0667
+2023-09-21 02:04:36.941712,Championship - England Championship 2023/24 - Top 2 Finish,Coventry City,-0.019099999999999992,0.0476,0.0667
 2023-09-21 02:04:36.909575,Championship - England Championship 2023/24 - Top Goalscorer,Che Adams,-0.019099999999999992,0.0476,0.0667
 2023-09-21 02:04:36.941712,Championship - England Championship 2023/24 - Top 2 Finish,Blackburn Rovers,-0.019099999999999992,0.0476,0.0667
 2023-09-21 02:04:36.949521,Championship - England Championship 2023/24 - Top 6 Finish,Huddersfield Town,-0.019099999999999992,0.0476,0.0667
-2023-09-21 04:04:08.185745,MLS - MLS 2023 - Top Goalscorer,Cristian Espinoza (SJE),-0.019099999999999992,0.0476,0.0667
-2023-09-21 02:04:36.941712,Championship - England Championship 2023/24 - Top 2 Finish,Coventry City,-0.019099999999999992,0.0476,0.0667
 2023-09-21 02:04:36.909575,Championship - England Championship 2023/24 - Top Goalscorer,Adam Armstrong,-0.02020000000000001,0.0909,0.1111
 2023-09-21 02:04:36.941712,Championship - England Championship 2023/24 - Top 2 Finish,Middlesbrough,-0.0203,0.0385,0.0588
 2023-09-21 02:04:36.941712,Championship - England Championship 2023/24 - Top 2 Finish,Stoke City,-0.0203,0.0385,0.0588
 2023-09-20 21:02:49.153961,WNBA Awards - WNBA Awards 2023 - WNBA Finals MVP 2023,Sabrina Ionescu (NYL),-0.02049999999999999,0.1333,0.1538
 2023-09-21 03:03:24.768124,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Manchester City,-0.020799999999999985,0.3125,0.3333
-2023-09-21 02:04:36.949521,Championship - England Championship 2023/24 - Top 6 Finish,Blackburn Rovers,-0.022199999999999998,0.2,0.2222
 2023-09-21 02:04:36.949521,Championship - England Championship 2023/24 - Top 6 Finish,Stoke City,-0.022199999999999998,0.2,0.2222
+2023-09-21 02:04:36.949521,Championship - England Championship 2023/24 - Top 6 Finish,Blackburn Rovers,-0.022199999999999998,0.2,0.2222
 2023-09-21 02:04:36.925165,Championship - England Championship 2023/24 - To Be Relegated,Queens Park Rangers,-0.02260000000000001,0.3774,0.4
 2023-09-21 03:03:24.868056,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Flamengo,-0.022600000000000064,0.6,0.6226
-2023-09-20 16:04:57.881953,Tournament Match-Ups - Tournament Match-Ups - T. Detry v A. Bjork - Tournament Match-Ups,Thomas Detry,-0.022600000000000064,0.5122,0.5348
 2023-09-21 03:03:24.868056,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,São Paulo,-0.0233,0.0152,0.0385
 2023-09-21 03:03:24.875345,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Flamengo,-0.023799999999999932,0.8333,0.8571
-2023-09-20 16:04:57.828290,Tournament Match-Ups - Tournament Match-Ups - R. Hojgaard vs Y. Paul - Tournament Match-Ups,Rasmus Hojgaard,-0.023799999999999988,0.4762,0.5
-2023-09-20 16:04:57.801354,Tournament Match-Ups - Tournament Match-Ups - C. Syme vs E. Ferguson - Tournament Match-Ups,Ewen Ferguson,-0.023799999999999988,0.4762,0.5
 2023-09-21 02:04:36.917772,Championship - England Championship 2023/24 - To Be Promoted,Middlesbrough,-0.0242,0.0667,0.0909
-2023-09-20 16:04:57.908357,Tournament Match-Ups - Tournament Match-Ups - T. Lawrence v H. Du Plessis - Tournament Match-Ups,Thriston Lawrence,-0.024399999999999977,0.4878,0.5122
 2023-09-21 03:03:24.496263,UEFA Champions League - Group A - Not To Advance From Group,FC Copenhagen,-0.025000000000000022,0.875,0.9
 2023-09-21 03:03:24.600801,UEFA Champions League - Group D - Not To Advance From Group,Real Sociedad,-0.026499999999999968,0.6226,0.6491
 2023-09-21 02:04:36.949521,Championship - England Championship 2023/24 - Top 6 Finish,West Bromwich Albion,-0.02739999999999998,0.2667,0.2941
-2023-09-21 02:04:36.949521,Championship - England Championship 2023/24 - Top 6 Finish,Coventry City,-0.02779999999999999,0.2222,0.25
 2023-09-21 03:03:24.778338,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Kylian Mbappe (PSG),-0.02779999999999999,0.2222,0.25
+2023-09-21 02:04:36.949521,Championship - England Championship 2023/24 - Top 6 Finish,Coventry City,-0.02779999999999999,0.2222,0.25
 2023-09-21 00:04:02.577242,MLB Futures - MLB 2023 Player Awards - National League MVP,Mookie Betts (LAD),-0.027999999999999997,0.1053,0.1333
 2023-09-21 02:04:36.949521,Championship - England Championship 2023/24 - Top 6 Finish,Norwich City,-0.028900000000000037,0.5455,0.5744
 2023-09-21 03:03:24.868056,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fluminense,-0.029000000000000026,0.4255,0.4545
@@ -195,8 +181,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-21 03:03:24.523683,UEFA Champions League - Group B - Not To Advance From Group,Arsenal FC,-0.03889999999999999,0.1429,0.1818
 2023-09-21 00:04:02.536408,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,-0.03920000000000001,0.2941,0.3333
 2023-09-21 03:03:24.568729,UEFA Champions League - Group D - Winner,Inter Milan,-0.03959999999999997,0.5348,0.5744
-2023-09-21 02:04:36.949521,Championship - England Championship 2023/24 - Top 6 Finish,Birmingham City,-0.04040000000000002,0.1818,0.2222
 2023-09-21 02:04:36.941712,Championship - England Championship 2023/24 - Top 2 Finish,Southampton,-0.04040000000000002,0.1818,0.2222
+2023-09-21 02:04:36.949521,Championship - England Championship 2023/24 - Top 6 Finish,Birmingham City,-0.04040000000000002,0.1818,0.2222
 2023-09-20 21:02:49.153961,WNBA Awards - WNBA Awards 2023 - WNBA Finals MVP 2023,Kelsey Plum (LVA),-0.0406,0.1333,0.1739
 2023-09-20 21:02:49.126041,WNBA Championship - WNBA Championship 2023 - Finals Exact Matchup,Las Vegas Aces vs New York Liberty,-0.04169999999999996,0.75,0.7917
 2023-09-21 03:03:24.875345,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,São Paulo,-0.042899999999999994,0.1,0.1429
