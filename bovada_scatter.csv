@@ -17,8 +17,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-20 13:06:55.952378,Bundesliga - Germany Bundesliga 2023/24 - Outright,Bayern Munich,0.04760000000000009,0.7143,0.6667
 2023-09-21 00:04:02.536408,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,0.0476,0.2857,0.2381
 2023-09-20 13:07:00.340276,Gubernatorial Elections - Kentucky: 2023 Gubernatorial Election - Kentucky,Andy Beshear (Dem),0.044500000000000095,0.7778,0.7333
-2023-09-20 14:05:12.875807,UEFA Champions League - Group H - To Advance From Group,FC Barcelona,0.03920000000000001,0.9804,0.9412
 2023-09-20 21:02:49.153961,WNBA Awards - WNBA Awards 2023 - WNBA Finals MVP 2023,A'ja Wilson (LVA),0.03920000000000001,0.3333,0.2941
+2023-09-20 14:05:12.875807,UEFA Champions League - Group H - To Advance From Group,FC Barcelona,0.03920000000000001,0.9804,0.9412
 2023-09-20 21:02:49.112127,WNBA Championship - WNBA Championship 2023 - Outright Winner,Connecticut Sun,0.0384,0.0769,0.0385
 2023-09-21 00:04:02.577242,MLB Futures - MLB 2023 Player Awards - National League MVP,Ronald Acuña Jr.,0.03610000000000002,0.9804,0.9443
 2023-09-20 20:02:58.896192,Round Match-Ups - 1st Round Match-Ups - G. Migliozzi vs M. Siem - 1st Round Match-Ups,Guido Migliozzi,0.035999999999999976,0.5122,0.4762
@@ -59,17 +59,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-20 15:04:40.519112,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Sandy Ryan,-0.010699999999999932,0.5348,0.5455
 2023-09-20 22:04:12.847432,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Jessica McCaskill,-0.01100000000000001,0.5238,0.5348
 2023-09-20 13:06:55.952378,Bundesliga - Germany Bundesliga 2023/24 - Outright,Oldenburg,-0.011099999999999999,0.1,0.1111
-2023-09-20 14:05:14.384365,Big Brother - BB25: Outright Winner - Outright Winner,Blue Kim,-0.011199999999999995,0.0476,0.0588
 2023-09-20 14:05:14.384365,Big Brother - BB25: Outright Winner - Outright Winner,Felicia Cannon,-0.011199999999999995,0.0476,0.0588
+2023-09-20 14:05:14.384365,Big Brother - BB25: Outright Winner - Outright Winner,Blue Kim,-0.011199999999999995,0.0476,0.0588
 2023-09-20 21:02:49.135697,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,New York Liberty to beat Las Vegas Aces,-0.01150000000000001,0.3333,0.3448
 2023-09-20 21:02:49.135697,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,Las Vegas Aces to beat New York Liberty,-0.0116,0.4762,0.4878
 2023-09-20 16:04:56.474926,Boxing Lines - Harper Terri vs Cecilia Braekhus - To Win the Bout,Cecilia Braekhus,-0.012499999999999983,0.198,0.2105
-2023-09-20 13:06:55.874822,Euro Cup - Euro Cup 2023/24 - Outright,Joventut,-0.0131,0.2222,0.2353
 2023-09-20 14:05:12.764897,UEFA Champions League - Group E - Not To Advance From Group,Atlético Madrid,-0.0131,0.2222,0.2353
 2023-09-20 14:05:14.384365,Big Brother - BB25: Outright Winner - Outright Winner,Cirie Fields,-0.0131,0.2222,0.2353
+2023-09-20 13:06:55.874822,Euro Cup - Euro Cup 2023/24 - Outright,Joventut,-0.0131,0.2222,0.2353
+2023-09-21 01:04:07.550672,BKFC 50: Hunt vs Camozzi - Khortni Kamyron vs Monica Franco - To Win the Bout,Khortni Kamyron,-0.0131,0.8,0.8131
 2023-09-20 21:02:49.153961,WNBA Awards - WNBA Awards 2023 - WNBA Finals MVP 2023,Satou Sabally (DAL),-0.013400000000000002,0.011,0.0244
-2023-09-20 13:06:55.993341,LKL - Lithuania LKL 2023/24 - Outright,Wolves,-0.013899999999999996,0.1111,0.125
 2023-09-20 16:04:48.717178,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Real Madrid,-0.013899999999999996,0.1111,0.125
+2023-09-20 13:06:55.993341,LKL - Lithuania LKL 2023/24 - Outright,Wolves,-0.013899999999999996,0.1111,0.125
 2023-09-20 14:05:12.834660,UEFA Champions League - Group G - Not To Advance From Group,Manchester City,-0.014099999999999998,0.0244,0.0385
 2023-09-20 13:06:56.015992,Liga ACB - Spain Liga ACB 2023/24 - Outright,Valencia,-0.016600000000000004,0.0667,0.0833
 2023-09-20 13:06:51.626744,96th Academy Awards - Best Actress - Best Actress,Carey Mulligan - Maestro,-0.016699999999999993,0.25,0.2667
