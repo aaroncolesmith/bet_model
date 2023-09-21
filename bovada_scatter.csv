@@ -4,7 +4,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-20 14:05:12.812762,UEFA Champions League - Group F - To Advance From Group,Paris Saint-Germain,0.12380000000000002,0.8571,0.7333
 2023-09-20 13:06:51.931428,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Usher,0.11929999999999999,0.1818,0.0625
 2023-09-20 14:05:12.776993,UEFA Champions League - Group E - To Advance From Group,Feyenoord,0.1154,0.5,0.3846
-2023-09-20 11:03:08.379047,96th Academy Awards - Best Actress - Best Actress,Lily Gladstone - Killers Of The Flower Moon,0.1111,0.2222,0.1111
 2023-09-20 14:05:12.764897,UEFA Champions League - Group E - Not To Advance From Group,Celtic,0.11109999999999998,0.8889,0.7778
 2023-09-20 14:05:12.843817,UEFA Champions League - Group G - To Advance From Group,RB Leipzig,0.10440000000000005,0.9615,0.8571
 2023-09-20 14:05:12.875807,UEFA Champions League - Group H - To Advance From Group,FC Porto,0.08330000000000004,0.8333,0.75
@@ -19,8 +18,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-20 14:05:12.834660,UEFA Champions League - Group G - Not To Advance From Group,Crvena Zvezda,0.047699999999999965,0.9852,0.9375
 2023-09-20 13:06:55.952378,Bundesliga - Germany Bundesliga 2023/24 - Outright,Bayern Munich,0.04760000000000009,0.7143,0.6667
 2023-09-20 13:07:00.340276,Gubernatorial Elections - Kentucky: 2023 Gubernatorial Election - Kentucky,Andy Beshear (Dem),0.044500000000000095,0.7778,0.7333
-2023-09-20 21:02:49.153961,WNBA Awards - WNBA Awards 2023 - WNBA Finals MVP 2023,A'ja Wilson (LVA),0.03920000000000001,0.3333,0.2941
 2023-09-20 14:05:12.875807,UEFA Champions League - Group H - To Advance From Group,FC Barcelona,0.03920000000000001,0.9804,0.9412
+2023-09-20 21:02:49.153961,WNBA Awards - WNBA Awards 2023 - WNBA Finals MVP 2023,A'ja Wilson (LVA),0.03920000000000001,0.3333,0.2941
 2023-09-20 21:02:49.112127,WNBA Championship - WNBA Championship 2023 - Outright Winner,Connecticut Sun,0.0384,0.0769,0.0385
 2023-09-20 20:02:58.896192,Round Match-Ups - 1st Round Match-Ups - G. Migliozzi vs M. Siem - 1st Round Match-Ups,Guido Migliozzi,0.035999999999999976,0.5122,0.4762
 2023-09-20 16:04:48.717178,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Arsenal FC,0.03420000000000001,0.1111,0.0769
@@ -45,12 +44,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-20 21:02:49.135697,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,Connecticut Sun to beat vs Las Vegas Aces,0.018099999999999998,0.0526,0.0345
 2023-09-20 14:05:21.960940,Boxing Lines - Clay AJ Waterman vs Kareem Hackett - To Win the Bout,Kareem Hackett,0.017600000000000005,0.3509,0.3333
 2023-09-20 21:02:49.153961,WNBA Awards - WNBA Awards 2023 - WNBA Finals MVP 2023,Jonquel Jones (NYL),0.015300000000000001,0.0476,0.0323
-2023-09-20 21:02:49.126041,WNBA Championship - WNBA Championship 2023 - Finals Exact Matchup,Dallas Wings vs Connecticut Sun,0.014099999999999998,0.0385,0.0244
 2023-09-20 13:07:00.295362,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Any Other,0.014099999999999998,0.0435,0.0294
 2023-09-20 13:07:00.317294,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,"Robert Kennedy, Jr",0.014099999999999998,0.0385,0.0244
+2023-09-20 21:02:49.126041,WNBA Championship - WNBA Championship 2023 - Finals Exact Matchup,Dallas Wings vs Connecticut Sun,0.014099999999999998,0.0385,0.0244
 2023-09-20 15:04:40.519112,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Jessica McCaskill,0.01330000000000009,0.5348,0.5215
-2023-09-20 14:05:12.791649,UEFA Champions League - Group F - Winner,AC Milan,0.012899999999999995,0.1667,0.1538
 2023-09-20 16:04:48.717178,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Bayern Munich,0.012899999999999995,0.1667,0.1538
+2023-09-20 14:05:12.791649,UEFA Champions League - Group F - Winner,AC Milan,0.012899999999999995,0.1667,0.1538
 2023-09-20 16:04:56.284504,Boxing Lines - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Joseph Joyce,0.012199999999999989,0.5,0.4878
 2023-09-20 19:03:49.382468,Nationwide Children's Hospital Championship - Nationwide Children's Hospital Championship - Winner,Christopher Gotterup,0.011199999999999995,0.0588,0.0476
 2023-09-20 22:04:12.847432,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Sandy Ryan,0.010699999999999932,0.5455,0.5348
@@ -59,59 +58,54 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-20 13:06:55.827519,Euroleague - Euroleague 2023/24 - Outright,Anadolu Efes,-0.0102,0.0667,0.0769
 2023-09-20 15:04:40.519112,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Sandy Ryan,-0.010699999999999932,0.5348,0.5455
 2023-09-20 22:04:12.847432,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Jessica McCaskill,-0.01100000000000001,0.5238,0.5348
-2023-09-20 11:03:08.379047,96th Academy Awards - Best Actress - Best Actress,Greta Lee - Past Lives,-0.011099999999999999,0.1,0.1111
 2023-09-20 13:06:55.952378,Bundesliga - Germany Bundesliga 2023/24 - Outright,Oldenburg,-0.011099999999999999,0.1,0.1111
-2023-09-20 14:05:14.384365,Big Brother - BB25: Outright Winner - Outright Winner,Felicia Cannon,-0.011199999999999995,0.0476,0.0588
 2023-09-20 14:05:14.384365,Big Brother - BB25: Outright Winner - Outright Winner,Blue Kim,-0.011199999999999995,0.0476,0.0588
+2023-09-20 14:05:14.384365,Big Brother - BB25: Outright Winner - Outright Winner,Felicia Cannon,-0.011199999999999995,0.0476,0.0588
 2023-09-20 21:02:49.135697,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,New York Liberty to beat Las Vegas Aces,-0.01150000000000001,0.3333,0.3448
 2023-09-20 21:02:49.135697,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,Las Vegas Aces to beat New York Liberty,-0.0116,0.4762,0.4878
 2023-09-20 16:04:56.474926,Boxing Lines - Harper Terri vs Cecilia Braekhus - To Win the Bout,Cecilia Braekhus,-0.012499999999999983,0.198,0.2105
-2023-09-20 13:06:55.874822,Euro Cup - Euro Cup 2023/24 - Outright,Joventut,-0.0131,0.2222,0.2353
 2023-09-20 14:05:14.384365,Big Brother - BB25: Outright Winner - Outright Winner,Cirie Fields,-0.0131,0.2222,0.2353
+2023-09-20 13:06:55.874822,Euro Cup - Euro Cup 2023/24 - Outright,Joventut,-0.0131,0.2222,0.2353
 2023-09-20 14:05:12.764897,UEFA Champions League - Group E - Not To Advance From Group,Atlético Madrid,-0.0131,0.2222,0.2353
 2023-09-20 12:02:53.302164,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Bijan Robinson,-0.013300000000000034,0.3571,0.3704
 2023-09-20 21:02:49.153961,WNBA Awards - WNBA Awards 2023 - WNBA Finals MVP 2023,Satou Sabally (DAL),-0.013400000000000002,0.011,0.0244
 2023-09-20 16:04:48.717178,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Real Madrid,-0.013899999999999996,0.1111,0.125
 2023-09-20 13:06:55.993341,LKL - Lithuania LKL 2023/24 - Outright,Wolves,-0.013899999999999996,0.1111,0.125
-2023-09-20 11:03:08.379047,96th Academy Awards - Best Actress - Best Actress,Cailee Spaeny - Priscilla,-0.013999999999999999,0.0769,0.0909
 2023-09-20 14:05:12.834660,UEFA Champions League - Group G - Not To Advance From Group,Manchester City,-0.014099999999999998,0.0244,0.0385
 2023-09-20 13:06:56.015992,Liga ACB - Spain Liga ACB 2023/24 - Outright,Valencia,-0.016600000000000004,0.0667,0.0833
 2023-09-20 13:06:51.626744,96th Academy Awards - Best Actress - Best Actress,Carey Mulligan - Maestro,-0.016699999999999993,0.25,0.2667
 2023-09-20 13:06:55.952378,Bundesliga - Germany Bundesliga 2023/24 - Outright,Telekom Baskets Bonn,-0.016700000000000007,0.0833,0.1
 2023-09-20 21:02:49.112127,WNBA Championship - WNBA Championship 2023 - Outright Winner,New York Liberty,-0.017299999999999982,0.4082,0.4255
-2023-09-20 20:02:59.616331,Scores - 1st Round Score - Yannik Paul - 1st Round Score,Under 70.5,-0.01880000000000004,0.5556,0.5744
 2023-09-20 20:02:59.580896,Scores - 1st Round Score - Thorbjorn Olesen - 1st Round Score,Under 70.5,-0.01880000000000004,0.5556,0.5744
+2023-09-20 20:02:59.616331,Scores - 1st Round Score - Yannik Paul - 1st Round Score,Under 70.5,-0.01880000000000004,0.5556,0.5744
 2023-09-20 14:05:21.960940,Boxing Lines - Clay AJ Waterman vs Kareem Hackett - To Win the Bout,Clay AJ Waterman,-0.018999999999999906,0.7143,0.7333
 2023-09-20 13:06:56.088201,A1 - Greece A1 2023/2024 - Outright,Olympiakos,-0.019699999999999995,0.4348,0.4545
 2023-09-20 21:02:49.153961,WNBA Awards - WNBA Awards 2023 - WNBA Finals MVP 2023,Sabrina Ionescu (NYL),-0.02049999999999999,0.1333,0.1538
 2023-09-20 13:06:56.015992,Liga ACB - Spain Liga ACB 2023/24 - Outright,Barcelona,-0.02100000000000002,0.3636,0.3846
 2023-09-20 14:05:21.947700,Boxing Lines - Batyrzhan Jukembayev vs Hugo Alberto Roldan - To Win the Bout,Hugo Alberto Roldan,-0.022199999999999998,0.2,0.2222
 2023-09-20 16:04:57.881953,Tournament Match-Ups - Tournament Match-Ups - T. Detry v A. Bjork - Tournament Match-Ups,Thomas Detry,-0.022600000000000064,0.5122,0.5348
-2023-09-20 13:06:51.931428,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Bad Bunny,-0.023799999999999988,0.1429,0.1667
 2023-09-20 16:04:57.828290,Tournament Match-Ups - Tournament Match-Ups - R. Hojgaard vs Y. Paul - Tournament Match-Ups,Rasmus Hojgaard,-0.023799999999999988,0.4762,0.5
+2023-09-20 13:06:51.931428,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Bad Bunny,-0.023799999999999988,0.1429,0.1667
 2023-09-20 16:04:57.801354,Tournament Match-Ups - Tournament Match-Ups - C. Syme vs E. Ferguson - Tournament Match-Ups,Ewen Ferguson,-0.023799999999999988,0.4762,0.5
 2023-09-20 14:05:12.803312,UEFA Champions League - Group F - Not To Advance From Group,Newcastle United,-0.023800000000000043,0.5,0.5238
 2023-09-20 16:04:57.908357,Tournament Match-Ups - Tournament Match-Ups - T. Lawrence v H. Du Plessis - Tournament Match-Ups,Thriston Lawrence,-0.024399999999999977,0.4878,0.5122
 2023-09-20 14:05:12.752325,UEFA Champions League - Group E - Winner,Lazio,-0.02779999999999999,0.2222,0.25
 2023-09-20 20:02:58.896192,Round Match-Ups - 1st Round Match-Ups - G. Migliozzi vs M. Siem - 1st Round Match-Ups,Marcel Siem,-0.030399999999999983,0.5348,0.5652
 2023-09-20 14:05:12.812762,UEFA Champions League - Group F - To Advance From Group,AC Milan,-0.031799999999999995,0.4444,0.4762
-2023-09-20 14:05:12.875807,UEFA Champions League - Group H - To Advance From Group,Royal Antwerp,-0.033300000000000024,0.1667,0.2
 2023-09-20 13:06:55.952378,Bundesliga - Germany Bundesliga 2023/24 - Outright,Alba Berlin,-0.033300000000000024,0.1667,0.2
+2023-09-20 14:05:12.875807,UEFA Champions League - Group H - To Advance From Group,Royal Antwerp,-0.033300000000000024,0.1667,0.2
 2023-09-20 13:06:55.874822,Euro Cup - Euro Cup 2023/24 - Outright,Gran Canaria,-0.0353,0.2,0.2353
-2023-09-20 14:05:14.384365,Big Brother - BB25: Outright Winner - Outright Winner,Cory Wurtenberger,-0.03570000000000001,0.25,0.2857
 2023-09-20 14:05:12.791649,UEFA Champions League - Group F - Winner,Newcastle United,-0.03570000000000001,0.25,0.2857
+2023-09-20 14:05:14.384365,Big Brother - BB25: Outright Winner - Outright Winner,Cory Wurtenberger,-0.03570000000000001,0.25,0.2857
 2023-09-20 14:05:12.776993,UEFA Champions League - Group E - To Advance From Group,Lazio,-0.03610000000000002,0.5556,0.5917
 2023-09-20 21:02:49.153961,WNBA Awards - WNBA Awards 2023 - WNBA Finals MVP 2023,Kelsey Plum (LVA),-0.0406,0.1333,0.1739
-2023-09-20 11:03:08.379047,96th Academy Awards - Best Actress - Best Actress,Carey Mulligan - Maestro,-0.04099999999999998,0.2667,0.3077
 2023-09-20 21:02:49.126041,WNBA Championship - WNBA Championship 2023 - Finals Exact Matchup,Las Vegas Aces vs New York Liberty,-0.04169999999999996,0.75,0.7917
 2023-09-20 13:06:51.931428,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Harry Styles,-0.04169999999999999,0.125,0.1667
 2023-09-20 13:07:00.340276,Gubernatorial Elections - Kentucky: 2023 Gubernatorial Election - Kentucky,Daniel Cameron (Rep),-0.043399999999999994,0.2899,0.3333
 2023-09-20 14:05:12.866730,UEFA Champions League - Group H - Not To Advance From Group,FC Barcelona,-0.047400000000000005,0.0526,0.1
-2023-09-20 11:03:08.379047,96th Academy Awards - Best Actress - Best Actress,Fantasia Barrino - The Color Purple,-0.0476,0.1429,0.1905
 2023-09-20 13:06:51.931428,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Miley Cyrus,-0.05710000000000001,0.1429,0.2
 2023-09-20 12:02:52.034391,Joe Biden Specials - Joe Biden Approval Rating At Year End - Joe Biden Approval Rating At Year End,Over 41,-0.06190000000000001,0.3636,0.4255
 2023-09-20 14:05:12.843817,UEFA Champions League - Group G - To Advance From Group,Young Boys,-0.0666,0.0667,0.1333
-2023-09-20 11:03:08.379047,96th Academy Awards - Best Actress - Best Actress,Annette Bening - Nyad,-0.07500000000000001,0.125,0.2
 2023-09-20 14:05:12.866730,UEFA Champions League - Group H - Not To Advance From Group,FC Porto,-0.07509999999999997,0.2326,0.3077
 2023-09-20 14:05:12.843817,UEFA Champions League - Group G - To Advance From Group,Crvena Zvezda,-0.0857,0.0476,0.1333
 2023-09-20 14:05:12.764897,UEFA Champions League - Group E - Not To Advance From Group,Feyenoord,-0.09409999999999996,0.5833,0.6774
