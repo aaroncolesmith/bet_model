@@ -9,13 +9,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-22 04:04:25.206282,UEFA Europa League - Group A - Not To Advance From Group,Olympiakos,0.14140000000000008,0.7778,0.6364
 2023-09-22 04:04:25.345736,UEFA Europa League - Group E - Not To Advance From Group,LASK Linz,0.1412,0.9412,0.8
 2023-09-22 04:04:25.466559,UEFA Europa League - Group H - To Advance From Group,Qarabag FK,0.13890000000000002,0.5833,0.4444
-2023-09-22 00:05:37.074633,Season Win Record Specials - 2023-24 Regular Season Wins - Las Vegas Raiders - Regular Season Wins,Over 7.5,0.12530000000000002,0.4762,0.3509
 2023-09-22 04:04:25.459219,UEFA Europa League - Group H - Not To Advance From Group,BK Häcken,0.12470000000000003,0.8948,0.7701
 2023-09-22 04:04:25.271425,UEFA Europa League - Group C - Not To Advance From Group,Real Betis,0.1238,0.2667,0.1429
 2023-09-22 04:04:25.372745,UEFA Europa League - Group F - Winner,Rennes,0.12120000000000003,0.4545,0.3333
 2023-09-22 04:04:25.381230,UEFA Europa League - Group F - Not To Advance From Group,Villarreal,0.11900000000000002,0.2857,0.1667
 2023-09-22 04:04:25.221068,UEFA Europa League - Group A - To Advance From Group,Freiburg,0.119,0.8333,0.7143
-2023-09-22 00:05:37.936041,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,0.11670000000000001,0.2,0.0833
 2023-09-22 04:04:25.232646,UEFA Europa League - Group B - Winner,AEK Athens,0.1151,0.1818,0.0667
 2023-09-22 04:04:25.297139,UEFA Europa League - Group C - To Advance From Group,Rangers,0.11309999999999998,0.6875,0.5744
 2023-09-22 04:04:26.569317,Hollywood Strikes - When will the Writers Guild of America strike end? - When will the WGA strike end?,2023,0.11069999999999997,0.5455,0.4348
@@ -41,7 +39,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-22 04:04:25.206282,UEFA Europa League - Group A - Not To Advance From Group,TSC Backa Topola,0.0635,0.9524,0.8889
 2023-09-22 04:04:25.320227,UEFA Europa League - Group D - Not To Advance From Group,Rakow Czestochowa,0.06290000000000007,0.9091,0.8462
 2023-09-22 04:04:25.381230,UEFA Europa League - Group F - Not To Advance From Group,Maccabi Haifa,0.05830000000000002,0.9333,0.875
-2023-09-22 00:05:37.132431,Season Win Record Specials - 2023-24 Regular Season Wins - Seattle Seahawks - Regular Season Wins,Under 8.5,0.057699999999999974,0.5122,0.4545
 2023-09-22 04:04:25.297139,UEFA Europa League - Group C - To Advance From Group,Sparta Prague,0.05559999999999998,0.5,0.4444
 2023-09-22 04:04:25.320227,UEFA Europa League - Group D - Not To Advance From Group,Sturm Graz,0.055499999999999994,0.8333,0.7778
 2023-09-22 06:03:35.697020,Billboard Latin Music Awards - Artist Of The Year 2023 - Artist Of The Year,Peso Pluma,0.053099999999999925,0.6364,0.5833
@@ -61,13 +58,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-22 06:03:35.732046,44th Razzie Awards - Razzies - Worst Picture - Worst Picture,Winnie The Pooh: Blood And Honey,0.04040000000000002,0.2222,0.1818
 2023-09-22 02:04:58.446530,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Grêmio,0.03710000000000002,0.6923,0.6552
 2023-09-22 02:04:58.431241,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Athletico Paranaense,0.0353,0.2353,0.2
-2023-09-22 00:05:37.005567,Season Win Record Specials - 2023-24 Regular Season Wins - Buffalo Bills - Regular Season Wins,Under 10.5,0.03489999999999999,0.5,0.4651
-2023-09-22 00:05:37.114473,Season Win Record Specials - 2023-24 Regular Season Wins - Pittsburgh Steelers - Regular Season Wins,Under 8.5,0.03489999999999999,0.5,0.4651
 2023-09-22 04:04:25.271425,UEFA Europa League - Group C - Not To Advance From Group,Aris Limassol,0.03410000000000002,0.9091,0.875
 2023-09-22 01:04:51.668415,UEFA Europa Conference League - Europa Conference League 2023/24 - Winner,Eintracht Frankfurt,0.034100000000000005,0.125,0.0909
 2023-09-22 04:04:25.399660,UEFA Europa League - Group G - Winner,Slavia Prague,0.033300000000000024,0.2,0.1667
 2023-09-22 04:04:25.399660,UEFA Europa League - Group G - Winner,AS Roma,0.033299999999999996,0.8333,0.8
-2023-09-22 00:05:27.622799,MLS - MLS 2023 - Top Goalscorer,Juan Hernandez (CLB),0.03270000000000001,0.0476,0.0149
 2023-09-22 06:03:35.404128,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2024,Ukraine,0.031799999999999995,0.1429,0.1111
 2023-09-22 04:04:25.415906,UEFA Europa League - Group G - To Advance From Group,AS Roma,0.029299999999999993,0.9524,0.9231
 2023-09-22 06:03:42.396824,Joe Biden Specials - Will Hunter Biden be convicted of a felony and serve time in prison before 2025? - Will Hunter Biden serve time in prison?,Yes,0.028799999999999992,0.1538,0.125
@@ -76,25 +70,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-22 06:03:42.383916,Joe Biden Specials - Hunter Biden Specials - Hunter Biden Specials,To confirm he is in rehab in 2023,0.02779999999999999,0.25,0.2222
 2023-09-22 04:04:25.345736,UEFA Europa League - Group E - Not To Advance From Group,Toulouse,0.027700000000000058,0.5833,0.5556
 2023-09-22 06:03:42.697069,US Presidential Election 2024 - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win 45.01 to 50% of the popular vote,0.027700000000000002,0.4444,0.4167
-2023-09-22 00:05:38.728762,BKFC 50: Hunt vs Camozzi - Lorenzo Hunt vs Chris Camozzi - To Win the Bout,Chris Camozzi,0.027600000000000013,0.4167,0.3891
 2023-09-22 11:07:26.983784,BKFC 50: Hunt vs Camozzi - Lamont Stafford vs Gabriel Mota - To Win the Bout,Lamont Stafford,0.02739999999999998,0.7333,0.7059
 2023-09-22 03:04:05.855138,Professional League - Saudi Professional League 2023/24 - Winner,Al Ittihad,0.02560000000000001,0.3333,0.3077
+2023-09-22 12:07:39.163963,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Mario Barrios,0.0252,0.303,0.2778
 2023-09-22 06:03:35.651251,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Drake,0.023799999999999988,0.1667,0.1429
 2023-09-22 04:04:25.436670,UEFA Europa League - Group H - Winner,Qarabag FK,0.023799999999999988,0.1667,0.1429
-2023-09-22 00:05:37.050614,Season Win Record Specials - 2023-24 Regular Season Wins - Jacksonville Jaguars - Regular Season Wins,Under 9.5,0.023799999999999988,0.5,0.4762
 2023-09-22 01:05:06.400625,Chicago - 2/3 Balls - 1st Round 3 Balls - S. Vincent / D. Lee / S. Kim - 1st Round 3 Balls,Scott Vincent,0.022699999999999998,0.4878,0.4651
 2023-09-22 05:04:19.707218,Big Brother - BB25: Winning Sex - Winning Sex,Female,0.022600000000000064,0.5348,0.5122
 2023-09-22 06:03:42.457047,Joe Biden Specials - Joe Biden Approval Rating At Year End - Joe Biden Approval Rating At Year End,41 or under,0.02200000000000002,0.7143,0.6923
 2023-09-22 01:05:05.094964,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Mario Barrios,0.021399999999999975,0.2778,0.2564
 2023-09-22 02:04:58.415481,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Bahia,0.02100000000000002,0.3846,0.3636
-2023-09-22 06:03:35.518968,Kardashian Specials - Kim & Odell Beckham Jr Specials - Kim & Odell,Kim Kardashian to confirm that Odell Beckham Jr is her boyfriend via social media in 2023,0.02020000000000001,0.1111,0.0909
 2023-09-22 05:04:25.981707,"Republican Debate 2: Simi Valley, CA - Which candidate will get the most time to speak? - Most Speaking Time",Nikki Haley,0.02020000000000001,0.1111,0.0909
+2023-09-22 06:03:35.518968,Kardashian Specials - Kim & Odell Beckham Jr Specials - Kim & Odell,Kim Kardashian to confirm that Odell Beckham Jr is her boyfriend via social media in 2023,0.02020000000000001,0.1111,0.0909
 2023-09-22 01:05:05.276337,Boxing Lines - Zhanibek Alimkhanuly vs Vincenzo Gualtieri - To Win the Bout,Zhanibek Alimkhanuly,0.020199999999999996,0.9091,0.8889
 2023-09-22 02:04:58.401143,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Botafogo,0.019499999999999962,0.6491,0.6296
 2023-09-22 04:04:25.361910,UEFA Europa League - Group E - To Advance From Group,Liverpool,0.019199999999999995,0.9901,0.9709
 2023-09-22 05:04:19.693499,Big Brother - BB25: Outright Winner - Outright Winner,Bowie Jane,0.019099999999999992,0.0667,0.0476
-2023-09-22 06:03:42.497864,Donald Trump Specials - Will Donald Trump be found guilty of one or more felonies in New York? - Business Records New York State Trial,No,0.018900000000000028,0.4444,0.4255
 2023-09-22 04:04:25.310969,UEFA Europa League - Group D - Winner,Sporting CP,0.018900000000000028,0.4444,0.4255
+2023-09-22 06:03:42.497864,Donald Trump Specials - Will Donald Trump be found guilty of one or more felonies in New York? - Business Records New York State Trial,No,0.018900000000000028,0.4444,0.4255
 2023-09-22 02:04:58.401143,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Grêmio,0.0189,0.0385,0.0196
 2023-09-22 09:07:10.697353,Boxing Lines - Pierce O'Leary vs Kane Gardner - To Win the Bout,Pierce O'Leary,0.017900000000000027,0.875,0.8571
 2023-09-22 06:03:42.747821,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Kristi Noem,0.0179,0.1429,0.125
@@ -104,87 +97,85 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-22 04:04:35.986978,Boxing Lines - Elijah Garcia vs Jose Armando Resendiz - To Win the Bout,Jose Armando Resendiz,0.015899999999999997,0.2381,0.2222
 2023-09-22 06:03:42.437044,Joe Biden Specials - Will Joe Biden be impeached during his first term as President? - Will Joe Biden be impeached during his first term as President?,No,0.015800000000000036,0.6825,0.6667
 2023-09-22 06:03:42.747821,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Glenn Youngkin,0.015300000000000001,0.0476,0.0323
+2023-09-22 05:04:19.693499,Big Brother - BB25: Outright Winner - Outright Winner,Mecole Hayes,0.015100000000000002,0.1818,0.1667
 2023-09-22 06:03:35.745179,Royal Family - Harry & Meghan: Year Of Divorce - Harry & Meghan: Year Of Divorce,2024,0.015100000000000002,0.1818,0.1667
 2023-09-22 02:04:58.415481,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Corinthians,0.015100000000000002,0.1818,0.1667
-2023-09-22 05:04:19.693499,Big Brother - BB25: Outright Winner - Outright Winner,Mecole Hayes,0.015100000000000002,0.1818,0.1667
 2023-09-22 05:04:25.956771,"Republican Debate 2: Simi Valley, CA - California Debate Winner - Debate Winner",Nikki Haley,0.01469999999999999,0.25,0.2353
 2023-09-22 06:03:42.590104,Donald Trump Specials - Will Joe Biden pardon Donald Trump? - Will Joe Biden pardon Donald Trump?,Joe Biden to pardon Donald Trump for all potential federal crimes before the 2024 election,0.01440000000000001,0.1053,0.0909
-2023-09-22 05:04:25.995508,"Republican Debate 2: Simi Valley, CA - Donald Trump Detroit Speech - First Cliche - Trump Detroit Speech First Cliche",America first,0.014399999999999996,0.0769,0.0625
 2023-09-22 05:04:25.995508,"Republican Debate 2: Simi Valley, CA - Donald Trump Detroit Speech - First Cliche - Trump Detroit Speech First Cliche",Hardworking patriots,0.014399999999999996,0.0769,0.0625
-2023-09-22 05:04:25.995508,"Republican Debate 2: Simi Valley, CA - Donald Trump Detroit Speech - First Cliche - Trump Detroit Speech First Cliche",Make America great again,0.014399999999999996,0.0769,0.0625
+2023-09-22 05:04:25.995508,"Republican Debate 2: Simi Valley, CA - Donald Trump Detroit Speech - First Cliche - Trump Detroit Speech First Cliche",America first,0.014399999999999996,0.0769,0.0625
 2023-09-22 05:04:25.995508,"Republican Debate 2: Simi Valley, CA - Donald Trump Detroit Speech - First Cliche - Trump Detroit Speech First Cliche",Bring back our jobs,0.014399999999999996,0.0769,0.0625
+2023-09-22 05:04:25.995508,"Republican Debate 2: Simi Valley, CA - Donald Trump Detroit Speech - First Cliche - Trump Detroit Speech First Cliche",Make America great again,0.014399999999999996,0.0769,0.0625
 2023-09-22 06:03:42.747821,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Ben Carson,0.014099999999999998,0.0385,0.0244
 2023-09-22 01:04:51.656052,UEFA Europa League - UEFA Europa League 2023/24 - Outright,Rennes,0.014099999999999998,0.0385,0.0244
 2023-09-22 06:03:42.747821,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Donald Trump Jr.,0.014099999999999998,0.0385,0.0244
 2023-09-22 02:04:58.401143,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Flamengo,0.014099999999999994,0.0667,0.0526
-2023-09-22 05:04:25.995508,"Republican Debate 2: Simi Valley, CA - Donald Trump Detroit Speech - First Cliche - Trump Detroit Speech First Cliche",Buy American and hire American,0.013999999999999999,0.0909,0.0769
-2023-09-22 06:03:42.747821,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Byron Donalds,0.013999999999999999,0.0909,0.0769
 2023-09-22 05:04:25.995508,"Republican Debate 2: Simi Valley, CA - Donald Trump Detroit Speech - First Cliche - Trump Detroit Speech First Cliche",Sold down the river,0.013999999999999999,0.0909,0.0769
+2023-09-22 06:03:42.747821,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Byron Donalds,0.013999999999999999,0.0909,0.0769
 2023-09-22 02:04:58.415481,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Internacional,0.013999999999999999,0.0909,0.0769
+2023-09-22 05:04:25.995508,"Republican Debate 2: Simi Valley, CA - Donald Trump Detroit Speech - First Cliche - Trump Detroit Speech First Cliche",Buy American and hire American,0.013999999999999999,0.0909,0.0769
 2023-09-22 06:03:35.732046,44th Razzie Awards - Razzies - Worst Picture - Worst Picture,Cocaine Bear,0.013899999999999996,0.125,0.1111
 2023-09-22 09:07:10.717004,Boxing Lines - Tom Schwarz vs Kostiantyn Dovbyshchenko - To Win the Bout,Kostiantyn Dovbyshchenko,0.012899999999999995,0.1667,0.1538
 2023-09-22 02:05:09.468577,BKFC 50: Hunt vs Camozzi - Lorenzo Hunt vs Chris Camozzi - To Win the Bout,Chris Camozzi,0.012500000000000011,0.4292,0.4167
 2023-09-22 05:04:28.438712,Elite Boxing - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Joseph Joyce,0.012199999999999989,0.5,0.4878
 2023-09-22 06:03:42.472155,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,0.011700000000000016,0.2222,0.2105
-2023-09-22 00:05:37.038515,Season Win Record Specials - 2023-24 Regular Season Wins - Indianapolis Colts - Regular Season Wins,Under 6.5,0.011099999999999999,0.4762,0.4651
+2023-09-22 12:07:39.557832,BKFC 50: Hunt vs Camozzi - Marcus Edwards vs Michael Manno - To Win the Bout,Michael Manno,0.011400000000000021,0.3623,0.3509
 2023-09-22 01:05:04.702978,Boxing Lines - Austin Williams vs Steve Rolls - To Win the Bout,Austin Williams,0.010199999999999987,0.9333,0.9231
-2023-09-22 08:04:21.940149,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Sandy Ryan,0.010099999999999998,0.5556,0.5455
 2023-09-22 06:03:44.801946,Elite Boxing - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Zhilei Zhang,0.010099999999999998,0.5556,0.5455
+2023-09-22 08:04:21.940149,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Sandy Ryan,0.010099999999999998,0.5556,0.5455
 2023-09-22 05:04:28.438712,Elite Boxing - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Zhilei Zhang,-0.010099999999999998,0.5455,0.5556
-2023-09-22 00:05:37.990182,MLB Futures - MLB 2023 Player Awards - National League MVP,Mookie Betts (LAD),-0.010099999999999998,0.0952,0.1053
 2023-09-22 02:04:58.446530,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Corinthians,-0.010700000000000001,0.0278,0.0385
 2023-09-22 06:03:42.472155,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,-0.01090000000000002,0.8462,0.8571
 2023-09-22 06:03:35.651251,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Harry Styles,-0.011099999999999999,0.1,0.1111
 2023-09-22 02:04:58.446530,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Cruzeiro,-0.011199999999999995,0.0476,0.0588
 2023-09-22 01:04:51.656052,UEFA Europa League - UEFA Europa League 2023/24 - Outright,Villarreal,-0.011199999999999995,0.0476,0.0588
 2023-09-22 08:04:21.940149,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Jessica McCaskill,-0.011600000000000055,0.5122,0.5238
-2023-09-22 01:05:04.338519,Elite Boxing - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Joseph Joyce,-0.012199999999999989,0.4878,0.5
 2023-09-22 06:03:44.801946,Elite Boxing - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Joseph Joyce,-0.012199999999999989,0.4878,0.5
+2023-09-22 01:05:04.338519,Elite Boxing - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Joseph Joyce,-0.012199999999999989,0.4878,0.5
 2023-09-22 02:05:09.468577,BKFC 50: Hunt vs Camozzi - Lorenzo Hunt vs Chris Camozzi - To Win the Bout,Lorenzo Hunt,-0.012700000000000045,0.6364,0.6491
-2023-09-22 06:03:42.697069,US Presidential Election 2024 - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win 40.01 to 45% of the popular vote,-0.0131,0.2222,0.2353
 2023-09-22 05:04:19.693499,Big Brother - BB25: Outright Winner - Outright Winner,Cory Wurtenberger,-0.0131,0.2222,0.2353
+2023-09-22 06:03:42.697069,US Presidential Election 2024 - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win 40.01 to 45% of the popular vote,-0.0131,0.2222,0.2353
 2023-09-22 05:04:25.981707,"Republican Debate 2: Simi Valley, CA - Which candidate will get the most time to speak? - Most Speaking Time",Vivek Ramaswamy,-0.013600000000000001,0.2941,0.3077
 2023-09-22 05:04:25.981707,"Republican Debate 2: Simi Valley, CA - Which candidate will get the most time to speak? - Most Speaking Time",Ron DeSantis,-0.013600000000000001,0.2941,0.3077
 2023-09-22 05:04:25.981707,"Republican Debate 2: Simi Valley, CA - Which candidate will get the most time to speak? - Most Speaking Time",Mike Pence,-0.013600000000000001,0.2941,0.3077
-2023-09-22 06:03:42.747821,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Nikki Haley,-0.013899999999999996,0.1111,0.125
 2023-09-22 06:03:35.745179,Royal Family - Harry & Meghan: Year Of Divorce - Harry & Meghan: Year Of Divorce,2025,-0.013899999999999996,0.1111,0.125
-2023-09-22 11:07:27.121530,BKFC 50: Hunt vs Camozzi - Marcus Edwards vs Michael Manno - To Win the Bout,Michael Manno,-0.014100000000000001,0.3509,0.365
+2023-09-22 06:03:42.747821,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Nikki Haley,-0.013899999999999996,0.1111,0.125
 2023-09-22 06:03:42.590104,Donald Trump Specials - Will Joe Biden pardon Donald Trump? - Will Joe Biden pardon Donald Trump?,Joe Biden NOT to pardon Donald Trump before the 2024 election,-0.014100000000000001,0.9615,0.9756
+2023-09-22 11:07:27.121530,BKFC 50: Hunt vs Camozzi - Marcus Edwards vs Michael Manno - To Win the Bout,Michael Manno,-0.014100000000000001,0.3509,0.365
 2023-09-22 02:04:58.446530,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Palmeiras,-0.014499999999999957,0.9756,0.9901
-2023-09-22 01:05:06.400625,Chicago - 2/3 Balls - 1st Round 3 Balls - S. Vincent / D. Lee / S. Kim - 1st Round 3 Balls,Sihwan Kim,-0.01469999999999999,0.2353,0.25
 2023-09-22 06:03:35.360936,96th Academy Awards - Best Actress - Best Actress,Carey Mulligan - Maestro,-0.01469999999999999,0.2353,0.25
+2023-09-22 01:05:06.400625,Chicago - 2/3 Balls - 1st Round 3 Balls - S. Vincent / D. Lee / S. Kim - 1st Round 3 Balls,Sihwan Kim,-0.01469999999999999,0.2353,0.25
 2023-09-22 06:03:35.745179,Royal Family - Harry & Meghan: Year Of Divorce - Harry & Meghan: Year Of Divorce,2023,-0.014899999999999997,0.0476,0.0625
-2023-09-22 05:04:25.995508,"Republican Debate 2: Simi Valley, CA - Donald Trump Detroit Speech - First Cliche - Trump Detroit Speech First Cliche",We are/we're a nation in decline,-0.014899999999999997,0.0476,0.0625
 2023-09-22 01:04:51.668415,UEFA Europa Conference League - Europa Conference League 2023/24 - Winner,AZ Alkmaar,-0.014899999999999997,0.0476,0.0625
-2023-09-22 02:04:58.431241,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fortaleza,-0.015100000000000002,0.1667,0.1818
+2023-09-22 05:04:25.995508,"Republican Debate 2: Simi Valley, CA - Donald Trump Detroit Speech - First Cliche - Trump Detroit Speech First Cliche",We are/we're a nation in decline,-0.014899999999999997,0.0476,0.0625
+2023-09-22 06:03:42.697069,US Presidential Election 2024 - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win 55.01 to 60% of the popular vote,-0.015100000000000002,0.1667,0.1818
 2023-09-22 06:03:35.697020,Billboard Latin Music Awards - Artist Of The Year 2023 - Artist Of The Year,Grupo Frontera,-0.015100000000000002,0.1667,0.1818
 2023-09-22 06:03:35.697020,Billboard Latin Music Awards - Artist Of The Year 2023 - Artist Of The Year,Karol G,-0.015100000000000002,0.1667,0.1818
-2023-09-22 06:03:42.697069,US Presidential Election 2024 - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win 55.01 to 60% of the popular vote,-0.015100000000000002,0.1667,0.1818
+2023-09-22 02:04:58.431241,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fortaleza,-0.015100000000000002,0.1667,0.1818
 2023-09-22 01:05:05.382504,BKFC 50: Hunt vs Camozzi - Keegan Vandermeer vs Dillon Winemiller - To Win the Bout,Dillon Winemiller,-0.015199999999999991,0.4292,0.4444
 2023-09-22 06:03:42.437044,Joe Biden Specials - Will Joe Biden be impeached during his first term as President? - Will Joe Biden be impeached during his first term as President?,Yes,-0.015400000000000025,0.3846,0.4
-2023-09-22 06:03:42.697069,US Presidential Election 2024 - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win more than 60% of the popular vote,-0.016699999999999993,0.25,0.2667
 2023-09-22 06:03:35.732046,44th Razzie Awards - Razzies - Worst Picture - Worst Picture,Big Shark,-0.016699999999999993,0.25,0.2667
+2023-09-22 06:03:42.697069,US Presidential Election 2024 - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win more than 60% of the popular vote,-0.016699999999999993,0.25,0.2667
 2023-09-22 04:04:35.986978,Boxing Lines - Elijah Garcia vs Jose Armando Resendiz - To Win the Bout,Elijah Garcia,-0.017100000000000004,0.8291,0.8462
 2023-09-22 10:06:59.601046,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,-0.0174,0.2326,0.25
-2023-09-22 00:05:37.050614,Season Win Record Specials - 2023-24 Regular Season Wins - Jacksonville Jaguars - Regular Season Wins,Over 9.5,-0.018100000000000005,0.5652,0.5833
 2023-09-22 05:04:19.707218,Big Brother - BB25: Winning Sex - Winning Sex,Male,-0.01880000000000004,0.5556,0.5744
 2023-09-22 02:04:58.446530,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Internacional,-0.019800000000000005,0.0278,0.0476
 2023-09-22 06:03:42.497864,Donald Trump Specials - Will Donald Trump be found guilty of one or more felonies in New York? - Business Records New York State Trial,Yes,-0.020299999999999985,0.6226,0.6429
-2023-09-22 02:04:58.446530,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Cuiabá,-0.0203,0.0385,0.0588
 2023-09-22 04:04:25.399660,UEFA Europa League - Group G - Winner,Sheriff Tiraspol,-0.0203,0.0385,0.0588
+2023-09-22 02:04:58.446530,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Cuiabá,-0.0203,0.0385,0.0588
 2023-09-22 11:07:27.149301,BKFC 50: Hunt vs Camozzi - Lorenzo Hunt vs Chris Camozzi - To Win the Bout,Chris Camozzi,-0.021699999999999997,0.4545,0.4762
 2023-09-22 04:04:25.232646,UEFA Europa League - Group B - Winner,Ajax,-0.022199999999999998,0.2,0.2222
 2023-09-22 03:04:05.855138,Professional League - Saudi Professional League 2023/24 - Winner,Al Hilal,-0.02260000000000001,0.3774,0.4
 2023-09-22 04:04:25.195540,UEFA Europa League - Group A - Winner,TSC Backa Topola,-0.0233,0.0152,0.0385
 2023-09-22 01:05:05.094964,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Yordenis Ugas,-0.023600000000000065,0.7895,0.8131
-2023-09-22 11:07:26.983784,BKFC 50: Hunt vs Camozzi - Lamont Stafford vs Gabriel Mota - To Win the Bout,Gabriel Mota,-0.023799999999999988,0.3333,0.3571
 2023-09-22 06:03:42.360755,"Republican Debate 2: Simi Valley, CA - Donald Trump Detroit Speech - First Cliche - Trump Detroit Speech First Cliche",Motor City,-0.023799999999999988,0.1429,0.1667
+2023-09-22 11:07:26.983784,BKFC 50: Hunt vs Camozzi - Lamont Stafford vs Gabriel Mota - To Win the Bout,Gabriel Mota,-0.023799999999999988,0.3333,0.3571
 2023-09-22 04:04:25.361910,UEFA Europa League - Group E - To Advance From Group,Toulouse,-0.023800000000000043,0.5,0.5238
 2023-09-22 06:03:35.651251,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,The Killers,-0.024299999999999995,0.0526,0.0769
+2023-09-22 12:07:39.163963,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Yordenis Ugas,-0.024799999999999933,0.7647,0.7895
 2023-09-22 06:03:35.651251,Super Bowl Halftime Specials - Super Bowl 58 Halftime Show - Super Bowl 58 Halftime Show Headliner,Bad Bunny,-0.024999999999999994,0.1,0.125
 2023-09-22 02:04:58.446530,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,RB Bragantino,-0.027800000000000047,0.75,0.7778
 2023-09-22 04:04:25.345736,UEFA Europa League - Group E - Not To Advance From Group,Liverpool,-0.028199999999999996,0.0385,0.0667
-2023-09-22 00:05:38.728762,BKFC 50: Hunt vs Camozzi - Lorenzo Hunt vs Chris Camozzi - To Win the Bout,Lorenzo Hunt,-0.028299999999999992,0.6491,0.6774
 2023-09-22 04:04:25.336971,UEFA Europa League - Group E - Winner,LASK Linz,-0.028599999999999997,0.0149,0.0435
 2023-09-22 02:04:58.446530,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fortaleza,-0.029000000000000026,0.4255,0.4545
 2023-09-22 04:04:25.399660,UEFA Europa League - Group G - Winner,Servette,-0.029299999999999993,0.0476,0.0769
@@ -197,13 +188,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-22 04:04:25.336971,UEFA Europa League - Group E - Winner,Toulouse,-0.03420000000000001,0.0769,0.1111
 2023-09-22 02:04:58.431241,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Palmeiras,-0.03420000000000001,0.8889,0.9231
 2023-09-22 04:04:25.459219,UEFA Europa League - Group H - Not To Advance From Group,Bayer Leverkusen,-0.03420000000000001,0.0769,0.1111
-2023-09-22 00:05:37.005567,Season Win Record Specials - 2023-24 Regular Season Wins - Buffalo Bills - Regular Season Wins,Over 10.5,-0.03479999999999994,0.5652,0.6
-2023-09-22 00:05:37.114473,Season Win Record Specials - 2023-24 Regular Season Wins - Pittsburgh Steelers - Regular Season Wins,Over 8.5,-0.03479999999999994,0.5652,0.6
-2023-09-22 00:05:37.954735,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,-0.03570000000000001,0.25,0.2857
 2023-09-22 04:04:25.381230,UEFA Europa League - Group F - Not To Advance From Group,Rennes,-0.03570000000000001,0.25,0.2857
 2023-09-22 11:07:27.135082,BKFC 50: Hunt vs Camozzi - Josh Copeland vs Steve Herelius - To Win the Bout,Josh Copeland,-0.037900000000000045,0.5917,0.6296
-2023-09-22 04:04:25.372745,UEFA Europa League - Group F - Winner,Maccabi Haifa,-0.0384,0.0385,0.0769
 2023-09-22 04:04:25.436670,UEFA Europa League - Group H - Winner,BK Häcken,-0.0384,0.0385,0.0769
+2023-09-22 04:04:25.372745,UEFA Europa League - Group F - Winner,Maccabi Haifa,-0.0384,0.0385,0.0769
 2023-09-22 04:04:25.297139,UEFA Europa League - Group C - To Advance From Group,Aris Limassol,-0.03889999999999999,0.1429,0.1818
 2023-09-22 02:04:58.415481,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Santos,-0.0393,0.5833,0.6226
 2023-09-22 01:04:51.668415,UEFA Europa Conference League - Europa Conference League 2023/24 - Winner,Aston Villa,-0.04040000000000002,0.1818,0.2222
@@ -215,24 +203,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-22 10:06:59.851800,Boxing Lines - Yaser Al-Ghena vs Aaron Prospere - To Win the Bout,Aaron Prospere,-0.04849999999999999,0.8182,0.8667
 2023-09-22 04:04:25.258441,UEFA Europa League - Group C - Winner,Aris Limassol,-0.052399999999999995,0.0385,0.0909
 2023-09-22 04:04:25.310969,UEFA Europa League - Group D - Winner,Rakow Czestochowa,-0.05249999999999999,0.0244,0.0769
-2023-09-22 04:04:25.271425,UEFA Europa League - Group C - Not To Advance From Group,Sparta Prague,-0.053099999999999925,0.5833,0.6364
 2023-09-22 06:03:42.536399,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the classified documents federal charges? - Classified Documents Federal Trial,Yes,-0.053099999999999925,0.7143,0.7674
+2023-09-22 04:04:25.271425,UEFA Europa League - Group C - Not To Advance From Group,Sparta Prague,-0.053099999999999925,0.5833,0.6364
 2023-09-22 04:04:25.327599,UEFA Europa League - Group D - To Advance From Group,Sturm Graz,-0.05310000000000001,0.2326,0.2857
 2023-09-22 04:04:25.466559,UEFA Europa League - Group H - To Advance From Group,Molde FK,-0.05449999999999999,0.4,0.4545
 2023-09-22 05:04:19.693499,Big Brother - BB25: Outright Winner - Outright Winner,Cirie Fields,-0.05550000000000002,0.1667,0.2222
 2023-09-22 06:03:42.516224,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the 2020 election result federal charges? - Election Result Federal Trial,Yes,-0.057699999999999974,0.6923,0.75
-2023-09-22 00:05:37.132431,Season Win Record Specials - 2023-24 Regular Season Wins - Seattle Seahawks - Regular Season Wins,Over 8.5,-0.059799999999999964,0.5556,0.6154
 2023-09-22 04:04:25.240972,UEFA Europa League - Group B - Not To Advance From Group,Marseille,-0.06190000000000001,0.3636,0.4255
 2023-09-22 04:04:25.415906,UEFA Europa League - Group G - To Advance From Group,Sheriff Tiraspol,-0.0635,0.2222,0.2857
 2023-09-22 02:04:58.446530,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fluminense,-0.06659999999999999,0.6667,0.7333
 2023-09-22 04:04:25.388876,UEFA Europa League - Group F - To Advance From Group,Maccabi Haifa,-0.07069999999999999,0.1111,0.1818
 2023-09-22 04:04:25.249525,UEFA Europa League - Group B - To Advance From Group,Ajax,-0.07450000000000001,0.4255,0.5
-2023-09-22 04:04:25.436670,UEFA Europa League - Group H - Winner,Molde FK,-0.07579999999999999,0.0909,0.1667
 2023-09-22 04:04:25.221068,UEFA Europa League - Group A - To Advance From Group,TSC Backa Topola,-0.07579999999999999,0.0909,0.1667
+2023-09-22 04:04:25.436670,UEFA Europa League - Group H - Winner,Molde FK,-0.07579999999999999,0.0909,0.1667
 2023-09-22 05:04:19.693499,Big Brother - BB25: Outright Winner - Outright Winner,Jared Fields,-0.0769,0.0769,0.1538
 2023-09-22 10:07:00.738577,BKFC 50: Hunt vs Camozzi - Josh Copeland vs Steve Herelius - To Win the Bout,Steve Herelius,-0.07739999999999997,0.4348,0.5122
 2023-09-22 04:04:25.327599,UEFA Europa League - Group D - To Advance From Group,Rakow Czestochowa,-0.07930000000000001,0.1429,0.2222
-2023-09-22 00:05:37.936041,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,-0.08310000000000006,0.8824,0.9655
 2023-09-22 04:04:25.415906,UEFA Europa League - Group G - To Advance From Group,Servette,-0.08329999999999999,0.25,0.3333
 2023-09-22 04:04:25.320227,UEFA Europa League - Group D - Not To Advance From Group,Atalanta,-0.08330000000000001,0.1667,0.25
 2023-09-22 05:04:25.995508,"Republican Debate 2: Simi Valley, CA - Donald Trump Detroit Speech - First Cliche - Trump Detroit Speech First Cliche",Motor City,-0.08330000000000001,0.1667,0.25
@@ -244,7 +230,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-22 04:04:25.297139,UEFA Europa League - Group C - To Advance From Group,Real Betis,-0.10909999999999997,0.8,0.9091
 2023-09-22 04:04:25.388876,UEFA Europa League - Group F - To Advance From Group,Villarreal,-0.11109999999999998,0.7778,0.8889
 2023-09-22 04:04:25.271425,UEFA Europa League - Group C - Not To Advance From Group,Rangers,-0.1154,0.3846,0.5
-2023-09-22 00:05:37.074633,Season Win Record Specials - 2023-24 Regular Season Wins - Las Vegas Raiders - Regular Season Wins,Under 7.5,-0.12260000000000004,0.5917,0.7143
 2023-09-22 04:04:25.466559,UEFA Europa League - Group H - To Advance From Group,BK Häcken,-0.12739999999999999,0.1667,0.2941
 2023-09-22 04:04:25.206282,UEFA Europa League - Group A - Not To Advance From Group,Freiburg,-0.13099999999999998,0.2326,0.3636
 2023-09-22 04:04:25.459219,UEFA Europa League - Group H - Not To Advance From Group,Qarabag FK,-0.13639999999999997,0.5,0.6364
