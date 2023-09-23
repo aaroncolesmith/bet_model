@@ -1,93 +1,53 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-23 00:05:08.604747,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,0.20220000000000002,0.4348,0.2326
-2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),Justin Jefferson,0.1334,0.2667,0.1333
-2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),Tyreek Hill,0.123,0.1818,0.0588
 2023-09-23 09:05:39.441261,MLB Specials 2023 - To Make 2023 MLB Playoffs - Blue Jays ,Yes,0.12090000000000001,0.9286,0.8077
-2023-09-22 23:05:37.340914,NFL Weekly Specials - NFL Week 3 Leaders - Most Passing Yards - Week 3 (Sunday Only),Kirk Cousins,0.1,0.2,0.1
 2023-09-23 09:05:39.458631,MLB Specials 2023 - To Make 2023 MLB Playoffs - Marlins ,No,0.0917,0.5917,0.5
-2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Josh Jacobs,0.0774,0.125,0.0476
-2023-09-22 23:05:37.340914,NFL Weekly Specials - NFL Week 3 Leaders - Most Passing Yards - Week 3 (Sunday Only),Jared Goff,0.06760000000000001,0.1111,0.0435
-2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Raheem Mostert,0.06649999999999999,0.0909,0.0244
 2023-09-23 02:06:21.143216,Boxing Lines - Yaser Al-Ghena vs Aaron Prospere - To Win the Bout,Yaser Al-Ghena,0.057699999999999974,0.3077,0.25
 2023-09-23 08:07:58.051000,"Republican Debate 2: Simi Valley, CA - Which candidate will get the most time to speak? - Most Speaking Time",Nikki Haley,0.05559999999999998,0.1667,0.1111
 2023-09-23 09:05:39.715480,Boxing Lines - Denis Denikajev vs Sajid Abid - To Win the Bout,Denis Denikajev,0.04820000000000002,0.6226,0.5744
 2023-09-23 09:05:39.752187,Boxing Lines - Yaser Al-Ghena vs Aaron Prospere - To Win the Bout,Aaron Prospere,0.04390000000000005,0.8,0.7561
 2023-09-23 04:05:50.840341,Round Match-Ups - 2nd Round Match-Up - P. Reed vs J. Niemann - 2nd Round Match-Up,Joaquin Niemann,0.043399999999999994,0.5556,0.5122
 2023-09-23 10:09:27.620717,Round Match-Ups - 2nd Round Match-Up - P. Reed vs J. Niemann - 2nd Round Match-Up,Joaquin Niemann,0.04139999999999999,0.5652,0.5238
-2023-09-22 23:05:37.340914,NFL Weekly Specials - NFL Week 3 Leaders - Most Passing Yards - Week 3 (Sunday Only),Geno Smith,0.0403,0.0526,0.0123
 2023-09-23 01:05:05.699252,Boxing Lines - Orestes Velazquez vs Mohamed Soumaoro - To Win the Bout,Mohamed Soumaoro,0.03670000000000001,0.1905,0.1538
 2023-09-23 08:07:58.030595,"Republican Debate 2: Simi Valley, CA - California Debate Winner - Debate Winner",Nikki Haley,0.03570000000000001,0.2857,0.25
 2023-09-23 00:05:08.589341,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,0.0343,0.9167,0.8824
-2023-09-22 23:05:37.340914,NFL Weekly Specials - NFL Week 3 Leaders - Most Passing Yards - Week 3 (Sunday Only),Tua Tagovailoa,0.03330000000000001,0.1,0.0667
-2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Breece Hall,0.028000000000000004,0.0476,0.0196
-2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Justin Fields,0.028000000000000004,0.0476,0.0196
-2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),James Conner,0.028000000000000004,0.0476,0.0196
 2023-09-23 00:05:08.908102,Boxing Lines - Orestes Velazquez vs Mohamed Soumaoro - To Win the Bout,Orestes Velazquez,0.026700000000000057,0.9091,0.8824
-2023-09-22 23:05:37.340914,NFL Weekly Specials - NFL Week 3 Leaders - Most Passing Yards - Week 3 (Sunday Only),Justin Herbert,0.0267,0.1176,0.0909
-2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),Travis Kelce,0.024299999999999995,0.0769,0.0526
 2023-09-23 05:07:17.818123,Round Match-Ups - 2nd Round Match-Up - D. Burmester vs T. Pieters - 2nd Round Match-Up,Thomas Pieters,0.023800000000000043,0.5238,0.5
-2023-09-23 05:07:17.861849,Round Match-Ups - 2nd Round Match-Up - P. Reed vs J. Niemann - 2nd Round Match-Up,Patrick Reed,0.023800000000000043,0.5238,0.5
 2023-09-23 01:05:06.251286,Cazoo Open - 2/3 Balls - 3rd Round 3 Balls - A. Otaegui / D. Law / M. Woo Lee - 3rd Round 3 Balls,Min Woo Lee,0.023800000000000043,0.5238,0.5
-2023-09-22 23:05:37.340914,NFL Weekly Specials - NFL Week 3 Leaders - Most Passing Yards - Week 3 (Sunday Only),Trevor Lawrence,0.0232,0.0667,0.0435
+2023-09-23 05:07:17.861849,Round Match-Ups - 2nd Round Match-Up - P. Reed vs J. Niemann - 2nd Round Match-Up,Patrick Reed,0.023800000000000043,0.5238,0.5
 2023-09-23 01:05:05.591767,Boxing Lines - Denis Denikajev vs Sajid Abid - To Win the Bout,Sajid Abid,0.022699999999999998,0.4878,0.4651
 2023-09-23 00:05:08.554334,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Texas Rangers,0.022199999999999998,0.1333,0.1111
-2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),Keenan Allen,0.019099999999999992,0.0667,0.0476
-2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),DK Metcalf,0.0189,0.0385,0.0196
 2023-09-23 08:07:58.497775,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,0.0179,0.1429,0.125
-2023-09-22 23:05:37.340914,NFL Weekly Specials - NFL Week 3 Leaders - Most Passing Yards - Week 3 (Sunday Only),Patrick Mahomes,0.0179,0.1429,0.125
 2023-09-23 08:07:58.586473,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.017600000000000005,0.3509,0.3333
 2023-09-23 05:07:17.371862,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Mario Barrios,0.017299999999999982,0.303,0.2857
 2023-09-23 01:05:05.752700,Boxing Lines - Richardson Hitchins vs Jose Zepeda - To Win the Bout,Richardson Hitchins,0.017100000000000004,0.8462,0.8291
-2023-09-22 23:05:37.340914,NFL Weekly Specials - NFL Week 3 Leaders - Most Passing Yards - Week 3 (Sunday Only),Lamar Jackson,0.0168,0.0385,0.0217
 2023-09-23 00:05:08.525050,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Texas Rangers,0.016600000000000004,0.0833,0.0667
-2023-09-22 23:05:37.709746,Boxing Lines - Richardson Hitchins vs Jose Zepeda - To Win the Bout,Jose Zepeda,0.015899999999999997,0.2381,0.2222
 2023-09-23 03:05:22.051929,Boxing Lines - Elijah Garcia vs Jose Armando Resendiz - To Win the Bout,Jose Armando Resendiz,0.01469999999999999,0.25,0.2353
 2023-09-23 01:05:05.794558,Boxing Lines - Viddal Riley vs Nathan Quarless - To Win the Bout,Viddal Riley,0.014100000000000001,0.9474,0.9333
-2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),Davante Adams,0.013999999999999999,0.0909,0.0769
 2023-09-23 04:05:50.452198,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Yordenis Ugas,0.0131,0.7778,0.7647
-2023-09-22 23:05:37.925226,Boxing Lines - Zhanibek Alimkhanuly vs Vincenzo Gualtieri - To Win the Bout,Vincenzo Gualtieri,0.012899999999999995,0.1667,0.1538
 2023-09-23 05:07:17.317177,Boxing Lines - Elijah Garcia vs Jose Armando Resendiz - To Win the Bout,Elijah Garcia,0.011900000000000022,0.8214,0.8095
 2023-09-23 08:07:58.497775,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Nikki Haley,0.0102,0.0769,0.0667
 2023-09-23 06:07:09.919122,Elite Boxing - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Zhilei Zhang,0.010099999999999998,0.5556,0.5455
 2023-09-23 02:06:21.454327,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,0.010099999999999998,0.3226,0.3125
 2023-09-23 05:07:16.689095,Elite Boxing - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Zhilei Zhang,-0.010099999999999998,0.5455,0.5556
-2023-09-22 23:05:37.340914,NFL Weekly Specials - NFL Week 3 Leaders - Most Passing Yards - Week 3 (Sunday Only),Mac Jones,-0.010700000000000001,0.0278,0.0385
 2023-09-23 05:07:16.295149,NFL Weekly Specials - NFL Week 3 RedZone Specials - Sunday 24th September,Any Team To Score A Safety On Sunday,-0.0116,0.4762,0.4878
-2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Josh Allen,-0.011699999999999999,0.0079,0.0196
 2023-09-23 06:07:09.919122,Elite Boxing - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Joseph Joyce,-0.012199999999999989,0.4878,0.5
 2023-09-23 08:07:58.586473,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,-0.012699999999999989,0.3509,0.3636
-2023-09-22 23:05:37.340914,NFL Weekly Specials - NFL Week 3 Leaders - Most Passing Yards - Week 3 (Sunday Only),Russell Wilson,-0.012700000000000003,0.0196,0.0323
 2023-09-23 05:07:17.317177,Boxing Lines - Elijah Garcia vs Jose Armando Resendiz - To Win the Bout,Jose Armando Resendiz,-0.012799999999999978,0.2469,0.2597
 2023-09-23 00:05:09.299364,Boxing Lines - Zhanibek Alimkhanuly vs Vincenzo Gualtieri - To Win the Bout,Vincenzo Gualtieri,-0.012899999999999995,0.1538,0.1667
 2023-09-23 05:07:17.371862,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Yordenis Ugas,-0.0131,0.7647,0.7778
 2023-09-23 08:07:58.408862,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.013599999999999945,0.6923,0.7059
 2023-09-23 01:05:05.794558,Boxing Lines - Viddal Riley vs Nathan Quarless - To Win the Bout,Nathan Quarless,-0.013899999999999996,0.1111,0.125
-2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),Rashod Bateman,-0.014599999999999998,0.005,0.0196
-2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Clyde Edwards-Helaire,-0.014599999999999998,0.0132,0.0278
 2023-09-23 01:05:06.251286,Cazoo Open - 2/3 Balls - 3rd Round 3 Balls - A. Otaegui / D. Law / M. Woo Lee - 3rd Round 3 Balls,David Law,-0.01469999999999999,0.2353,0.25
 2023-09-23 03:05:22.051929,Boxing Lines - Elijah Garcia vs Jose Armando Resendiz - To Win the Bout,Elijah Garcia,-0.015100000000000002,0.8182,0.8333
-2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),Courtland Sutton,-0.015499999999999998,0.0123,0.0278
 2023-09-23 01:05:05.752700,Boxing Lines - Richardson Hitchins vs Jose Zepeda - To Win the Bout,Jose Zepeda,-0.015899999999999997,0.2222,0.2381
-2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),Mark Andrews,-0.0159,0.0164,0.0323
-2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),Christian Kirk,-0.0159,0.0164,0.0323
-2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),Jaylen Waddle,-0.0159,0.0164,0.0323
-2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Damien Harris,-0.0165,0.0079,0.0244
-2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Devin Singletary,-0.0165,0.0079,0.0244
 2023-09-23 08:07:58.497775,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,-0.016700000000000048,0.7333,0.75
-2023-09-22 23:05:37.709746,Boxing Lines - Richardson Hitchins vs Jose Zepeda - To Win the Bout,Richardson Hitchins,-0.017100000000000004,0.8291,0.8462
 2023-09-23 04:05:50.452198,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Mario Barrios,-0.017299999999999982,0.2857,0.303
-2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),Stefon Diggs,-0.018099999999999998,0.0588,0.0769
-2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Javonte Williams,-0.0189,0.0196,0.0385
-2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Lamar Jackson,-0.0189,0.0196,0.0385
-2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Antonio Gibson,-0.019899999999999998,0.0079,0.0278
 2023-09-23 05:07:17.818123,Round Match-Ups - 2nd Round Match-Up - D. Burmester vs T. Pieters - 2nd Round Match-Up,Dean Burmester,-0.02169999999999994,0.5238,0.5455
-2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),DJ Moore,-0.022099999999999998,0.0164,0.0385
-2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Miles Sanders,-0.023200000000000002,0.0244,0.0476
 2023-09-23 10:09:27.620717,Round Match-Ups - 2nd Round Match-Up - P. Reed vs J. Niemann - 2nd Round Match-Up,Patrick Reed,-0.023800000000000043,0.5,0.5238
 2023-09-23 01:05:05.591767,Boxing Lines - Denis Denikajev vs Sajid Abid - To Win the Bout,Denis Denikajev,-0.025599999999999956,0.5744,0.6
 2023-09-23 00:05:08.554334,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Tampa Bay Rays,-0.02779999999999999,0.2222,0.25
 2023-09-23 00:05:08.908102,Boxing Lines - Orestes Velazquez vs Mohamed Soumaoro - To Win the Bout,Mohamed Soumaoro,-0.027999999999999997,0.1538,0.1818
-2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Derrick Henry,-0.028799999999999992,0.125,0.1538
 2023-09-23 05:07:17.861849,Round Match-Ups - 2nd Round Match-Up - P. Reed vs J. Niemann - 2nd Round Match-Up,Joaquin Niemann,-0.03179999999999994,0.5238,0.5556
 2023-09-23 01:05:05.699252,Boxing Lines - Orestes Velazquez vs Mohamed Soumaoro - To Win the Bout,Orestes Velazquez,-0.03410000000000002,0.875,0.9091
 2023-09-23 04:05:50.840341,Round Match-Ups - 2nd Round Match-Up - P. Reed vs J. Niemann - 2nd Round Match-Up,Patrick Reed,-0.03480000000000005,0.5,0.5348
@@ -102,7 +62,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-23 05:07:16.295149,NFL Weekly Specials - NFL Week 3 RedZone Specials - Sunday 24th September,Any Team To Recover An Onside Kick On Sunday,-0.05710000000000001,0.1429,0.2
 2023-09-23 02:06:21.143216,Boxing Lines - Yaser Al-Ghena vs Aaron Prospere - To Win the Bout,Aaron Prospere,-0.062100000000000044,0.7561,0.8182
 2023-09-23 00:05:08.589341,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,-0.06670000000000001,0.1333,0.2
-2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Dalvin Cook,-0.06899999999999999,0.0079,0.0769
 2023-09-23 09:05:39.458631,MLB Specials 2023 - To Make 2023 MLB Playoffs - Marlins ,Yes,-0.08900000000000002,0.4762,0.5652
 2023-09-23 09:05:39.441261,MLB Specials 2023 - To Make 2023 MLB Playoffs - Blue Jays ,No,-0.12179999999999999,0.1379,0.2597
 2023-09-23 00:05:08.604747,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,-0.16089999999999993,0.4545,0.6154
