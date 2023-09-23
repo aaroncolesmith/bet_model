@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2023-09-23 00:05:08.604747,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,0.20220000000000002,0.4348,0.2326
 2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),Justin Jefferson,0.1334,0.2667,0.1333
 2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),Tyreek Hill,0.123,0.1818,0.0588
 2023-09-22 23:05:37.340914,NFL Weekly Specials - NFL Week 3 Leaders - Most Passing Yards - Week 3 (Sunday Only),Kirk Cousins,0.1,0.2,0.1
@@ -13,23 +14,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Richard Green,0.051,0.0833,0.0323
 2023-09-22 15:08:21.098765,BKFC 50: Hunt vs Camozzi - Marcus Edwards vs Michael Manno - To Win the Bout,Marcus Edwards,0.0504,0.7647,0.7143
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Vijay Singh,0.0448,0.0833,0.0385
-2023-09-22 11:07:27.135082,BKFC 50: Hunt vs Camozzi - Josh Copeland vs Steve Herelius - To Win the Bout,Steve Herelius,0.04139999999999999,0.4762,0.4348
 2023-09-22 23:05:37.340914,NFL Weekly Specials - NFL Week 3 Leaders - Most Passing Yards - Week 3 (Sunday Only),Geno Smith,0.0403,0.0526,0.0123
 2023-09-22 21:05:13.911039,Ligue 1 - France Ligue 1 2023/24 - Winner,Nice,0.0373,0.0667,0.0294
 2023-09-22 15:08:21.079089,BKFC 50: Hunt vs Camozzi - Keegan Vandermeer vs Dillon Winemiller - To Win the Bout,Dillon Winemiller,0.03589999999999999,0.4651,0.4292
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Justin Leonard,0.0344,0.0588,0.0244
+2023-09-23 00:05:08.589341,MLB Futures - MLB 2023 American League East - American League East Winner,Baltimore Orioles,0.0343,0.9167,0.8824
 2023-09-22 21:05:13.863953,Serie A - Italy Serie A 2023/24 - Winner,Juventus,0.033300000000000024,0.2,0.1667
 2023-09-22 23:05:37.340914,NFL Weekly Specials - NFL Week 3 Leaders - Most Passing Yards - Week 3 (Sunday Only),Tua Tagovailoa,0.03330000000000001,0.1,0.0667
 2023-09-22 15:08:21.718847,Cazoo Open - 2/3 Balls - 3rd Round 3 Balls - J. Axelsen / K. Higa / M. Southgate - 3rd Round 3 Balls,Matthew Southgate,0.031799999999999995,0.4762,0.4444
 2023-09-22 15:08:21.121042,BKFC 50: Hunt vs Camozzi - Josh Copeland vs Steve Herelius - To Win the Bout,Josh Copeland,0.03090000000000004,0.6226,0.5917
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Dicky Pride,0.0309,0.0526,0.0217
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Mike Weir,0.0286,0.0385,0.0099
-2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Breece Hall,0.028000000000000004,0.0476,0.0196
 2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Justin Fields,0.028000000000000004,0.0476,0.0196
+2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Breece Hall,0.028000000000000004,0.0476,0.0196
 2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),James Conner,0.028000000000000004,0.0476,0.0196
 2023-09-22 15:08:21.009613,BKFC 50: Hunt vs Camozzi - Andrew Yates vs Christian Torres - To Win the Bout,Andrew Yates,0.027800000000000047,0.75,0.7222
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Lee Janzen,0.0275,0.0385,0.011
-2023-09-22 11:07:26.983784,BKFC 50: Hunt vs Camozzi - Lamont Stafford vs Gabriel Mota - To Win the Bout,Lamont Stafford,0.02739999999999998,0.7333,0.7059
+2023-09-23 00:05:08.908102,Boxing Lines - Orestes Velazquez vs Mohamed Soumaoro - To Win the Bout,Orestes Velazquez,0.026700000000000057,0.9091,0.8824
 2023-09-22 23:05:37.340914,NFL Weekly Specials - NFL Week 3 Leaders - Most Passing Yards - Week 3 (Sunday Only),Justin Herbert,0.0267,0.1176,0.0909
 2023-09-22 19:03:51.263610,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Sandy Ryan,0.026499999999999968,0.5917,0.5652
 2023-09-22 15:08:21.694359,Cazoo Open - 2/3 Balls - 3rd Round 3 Balls - J. Winther / J. Parry / T. Kim - 3rd Round 3 Balls,Tom Kim,0.025599999999999956,0.6,0.5744
@@ -40,6 +41,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Brian Gay,0.023200000000000002,0.0476,0.0244
 2023-09-22 23:05:37.340914,NFL Weekly Specials - NFL Week 3 Leaders - Most Passing Yards - Week 3 (Sunday Only),Trevor Lawrence,0.0232,0.0667,0.0435
 2023-09-22 17:06:27.953509,BKFC 50: Hunt vs Camozzi - Keegan Vandermeer vs Dillon Winemiller - To Win the Bout,Keegan Vandermeer,0.022600000000000064,0.6226,0.6
+2023-09-23 00:05:08.554334,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Texas Rangers,0.022199999999999998,0.1333,0.1111
 2023-09-22 15:08:21.779664,Cazoo Open - 2/3 Balls - 3rd Round 3 Balls - E. Ferguson / J. Smith / R. Hojgaard - 3rd Round 3 Balls,Ewen Ferguson,0.021999999999999964,0.3077,0.2857
 2023-09-22 14:08:30.425306,BKFC 50: Hunt vs Camozzi - Lorenzo Hunt vs Chris Camozzi - To Win the Bout,Chris Camozzi,0.021699999999999997,0.4762,0.4545
 2023-09-22 18:05:56.755594,Day 2 - Day 2 Foursomes - M. Stark / L. Grant v D. Kang / A. Lee - Winner,M. Stark / L. Grant,0.02079999999999993,0.5556,0.5348
@@ -54,9 +56,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Alex Cejka,0.018099999999999998,0.0769,0.0588
 2023-09-22 23:05:37.340914,NFL Weekly Specials - NFL Week 3 Leaders - Most Passing Yards - Week 3 (Sunday Only),Patrick Mahomes,0.0179,0.1429,0.125
 2023-09-22 21:05:13.953401,Championship - England Championship 2023/24 - To Be Relegated,Plymouth Argyle,0.017600000000000005,0.3509,0.3333
-2023-09-22 11:07:27.121530,BKFC 50: Hunt vs Camozzi - Marcus Edwards vs Michael Manno - To Win the Bout,Marcus Edwards,0.017300000000000093,0.7143,0.697
 2023-09-22 23:05:37.340914,NFL Weekly Specials - NFL Week 3 Leaders - Most Passing Yards - Week 3 (Sunday Only),Lamar Jackson,0.0168,0.0385,0.0217
-2023-09-22 11:07:27.149301,BKFC 50: Hunt vs Camozzi - Lorenzo Hunt vs Chris Camozzi - To Win the Bout,Lorenzo Hunt,0.016100000000000003,0.6078,0.5917
+2023-09-23 00:05:08.525050,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Texas Rangers,0.016600000000000004,0.0833,0.0667
 2023-09-22 23:05:37.709746,Boxing Lines - Richardson Hitchins vs Jose Zepeda - To Win the Bout,Jose Zepeda,0.015899999999999997,0.2381,0.2222
 2023-09-22 21:05:13.931450,Championship - England Championship 2023/24 - League Winner,Preston North End,0.015300000000000001,0.0588,0.0435
 2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),Davante Adams,0.013999999999999999,0.0909,0.0769
@@ -70,8 +71,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-22 15:08:20.926874,BKFC 50: Hunt vs Camozzi - Lamont Stafford vs Gabriel Mota - To Win the Bout,Gabriel Mota,0.01150000000000001,0.3448,0.3333
 2023-09-22 12:07:39.557832,BKFC 50: Hunt vs Camozzi - Marcus Edwards vs Michael Manno - To Win the Bout,Michael Manno,0.011400000000000021,0.3623,0.3509
 2023-09-22 21:05:13.942312,Championship - England Championship 2023/24 - To Be Promoted,Middlesbrough,0.0102,0.0769,0.0667
-2023-09-22 15:08:21.718847,Cazoo Open - 2/3 Balls - 3rd Round 3 Balls - J. Axelsen / K. Higa / M. Southgate - 3rd Round 3 Balls,John Axelsen,-0.010099999999999998,0.3125,0.3226
 2023-09-22 15:08:21.718847,Cazoo Open - 2/3 Balls - 3rd Round 3 Balls - J. Axelsen / K. Higa / M. Southgate - 3rd Round 3 Balls,Kazuki Higa,-0.010099999999999998,0.3125,0.3226
+2023-09-22 15:08:21.718847,Cazoo Open - 2/3 Balls - 3rd Round 3 Balls - J. Axelsen / K. Higa / M. Southgate - 3rd Round 3 Balls,John Axelsen,-0.010099999999999998,0.3125,0.3226
 2023-09-22 21:05:13.863953,Serie A - Italy Serie A 2023/24 - Winner,AC Milan,-0.010399999999999993,0.2222,0.2326
 2023-09-22 15:08:21.036071,BKFC 50: Hunt vs Camozzi - Brian Maronek vs Tony Jenkins - To Win the Bout,Brian Maronek,-0.01050000000000001,0.1818,0.1923
 2023-09-22 14:08:31.517780,Ryder Cup - Player Points - Player Points - Tyrrell Hatton - Player Points - Tyrrell Hatton,Under 1.5,-0.010599999999999998,0.4545,0.4651
@@ -83,12 +84,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-22 13:06:55.909752,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Jessica McCaskill,-0.012199999999999989,0.5,0.5122
 2023-09-22 23:05:37.340914,NFL Weekly Specials - NFL Week 3 Leaders - Most Passing Yards - Week 3 (Sunday Only),Russell Wilson,-0.012700000000000003,0.0196,0.0323
 2023-09-22 21:05:13.848971,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayern Munich,-0.012899999999999912,0.8333,0.8462
-2023-09-22 21:05:13.942312,Championship - England Championship 2023/24 - To Be Promoted,Watford,-0.013899999999999996,0.1111,0.125
+2023-09-23 00:05:09.299364,Boxing Lines - Zhanibek Alimkhanuly vs Vincenzo Gualtieri - To Win the Bout,Vincenzo Gualtieri,-0.012899999999999995,0.1538,0.1667
 2023-09-22 21:05:13.942312,Championship - England Championship 2023/24 - To Be Promoted,Preston North End,-0.013899999999999996,0.1111,0.125
+2023-09-22 21:05:13.942312,Championship - England Championship 2023/24 - To Be Promoted,Watford,-0.013899999999999996,0.1111,0.125
 2023-09-22 21:05:13.942312,Championship - England Championship 2023/24 - To Be Promoted,Blackburn Rovers,-0.013999999999999999,0.0769,0.0909
-2023-09-22 21:05:13.931450,Championship - England Championship 2023/24 - League Winner,Southampton,-0.014099999999999994,0.0526,0.0667
 2023-09-22 21:05:13.931450,Championship - England Championship 2023/24 - League Winner,Norwich City,-0.014099999999999994,0.0526,0.0667
-2023-09-22 11:07:27.121530,BKFC 50: Hunt vs Camozzi - Marcus Edwards vs Michael Manno - To Win the Bout,Michael Manno,-0.014100000000000001,0.3509,0.365
+2023-09-22 21:05:13.931450,Championship - England Championship 2023/24 - League Winner,Southampton,-0.014099999999999994,0.0526,0.0667
 2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),Rashod Bateman,-0.014599999999999998,0.005,0.0196
 2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Clyde Edwards-Helaire,-0.014599999999999998,0.0132,0.0278
 2023-09-22 21:05:13.953401,Championship - England Championship 2023/24 - To Be Relegated,Swansea City,-0.01469999999999999,0.2353,0.25
@@ -109,20 +110,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),Stefon Diggs,-0.018099999999999998,0.0588,0.0769
 2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Javonte Williams,-0.0189,0.0196,0.0385
 2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Lamar Jackson,-0.0189,0.0196,0.0385
-2023-09-22 21:05:13.942312,Championship - England Championship 2023/24 - To Be Promoted,Norwich City,-0.019000000000000017,0.2667,0.2857
 2023-09-22 15:08:21.694359,Cazoo Open - 2/3 Balls - 3rd Round 3 Balls - J. Winther / J. Parry / T. Kim - 3rd Round 3 Balls,Jeff Winther,-0.019000000000000017,0.2667,0.2857
-2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Antonio Gibson,-0.019899999999999998,0.0079,0.0278
+2023-09-22 21:05:13.942312,Championship - England Championship 2023/24 - To Be Promoted,Norwich City,-0.019000000000000017,0.2667,0.2857
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Joe Durant,-0.019899999999999998,0.0079,0.0278
+2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Antonio Gibson,-0.019899999999999998,0.0079,0.0278
 2023-09-22 15:08:21.059630,BKFC 50: Hunt vs Camozzi - Brett Hudson vs Andrew Angelcor - To Win the Bout,Brett Hudson,-0.020100000000000007,0.1538,0.1739
 2023-09-22 17:06:27.953509,BKFC 50: Hunt vs Camozzi - Keegan Vandermeer vs Dillon Winemiller - To Win the Bout,Dillon Winemiller,-0.020699999999999996,0.4444,0.4651
-2023-09-22 11:07:27.149301,BKFC 50: Hunt vs Camozzi - Lorenzo Hunt vs Chris Camozzi - To Win the Bout,Chris Camozzi,-0.021699999999999997,0.4545,0.4762
 2023-09-22 21:05:13.953401,Championship - England Championship 2023/24 - To Be Relegated,Sheffield Wednesday,-0.021699999999999997,0.4545,0.4762
 2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),DJ Moore,-0.022099999999999998,0.0164,0.0385
 2023-09-22 21:05:13.911039,Ligue 1 - France Ligue 1 2023/24 - Winner,Paris Saint-Germain,-0.022199999999999998,0.7778,0.8
 2023-09-22 17:06:28.017296,BKFC 50: Hunt vs Camozzi - Lorenzo Hunt vs Chris Camozzi - To Win the Bout,Chris Camozzi,-0.022600000000000064,0.5122,0.5348
 2023-09-22 15:08:21.079089,BKFC 50: Hunt vs Camozzi - Keegan Vandermeer vs Dillon Winemiller - To Win the Bout,Keegan Vandermeer,-0.022600000000000064,0.6,0.6226
 2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Miles Sanders,-0.023200000000000002,0.0244,0.0476
-2023-09-22 11:07:26.983784,BKFC 50: Hunt vs Camozzi - Lamont Stafford vs Gabriel Mota - To Win the Bout,Gabriel Mota,-0.023799999999999988,0.3333,0.3571
 2023-09-22 19:03:51.263610,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Jessica McCaskill,-0.023799999999999988,0.4762,0.5
 2023-09-22 21:05:13.863953,Serie A - Italy Serie A 2023/24 - Winner,Napoli,-0.023799999999999988,0.1429,0.1667
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Fred Couples,-0.024499999999999997,0.0033,0.0278
@@ -131,17 +130,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Steve Flesch,-0.0257,0.0066,0.0323
 2023-09-22 17:06:27.973141,BKFC 50: Hunt vs Camozzi - Marcus Edwards vs Michael Manno - To Win the Bout,Michael Manno,-0.02679999999999999,0.2857,0.3125
 2023-09-22 15:08:21.779664,Cazoo Open - 2/3 Balls - 3rd Round 3 Balls - E. Ferguson / J. Smith / R. Hojgaard - 3rd Round 3 Balls,Rasmus Hojgaard,-0.027500000000000024,0.3571,0.3846
+2023-09-23 00:05:08.554334,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Tampa Bay Rays,-0.02779999999999999,0.2222,0.25
+2023-09-23 00:05:08.908102,Boxing Lines - Orestes Velazquez vs Mohamed Soumaoro - To Win the Bout,Mohamed Soumaoro,-0.027999999999999997,0.1538,0.1818
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Paul Stankowski,-0.0282,0.0244,0.0526
 2023-09-22 15:08:21.761117,Cazoo Open - 2/3 Balls - 3rd Round 3 Balls - J. Brun / R. Hisatsune / Y. Paul - 3rd Round 3 Balls,Julien Brun,-0.028299999999999992,0.3226,0.3509
 2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Derrick Henry,-0.028799999999999992,0.125,0.1538
 2023-09-22 21:05:13.911039,Ligue 1 - France Ligue 1 2023/24 - Winner,Monaco,-0.029299999999999993,0.0476,0.0769
 2023-09-22 15:08:21.121042,BKFC 50: Hunt vs Camozzi - Josh Copeland vs Steve Herelius - To Win the Bout,Steve Herelius,-0.031799999999999995,0.4444,0.4762
+2023-09-23 00:05:08.604747,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,-0.03570000000000001,0.25,0.2857
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Kevin Sutherland,-0.037700000000000004,0.0099,0.0476
-2023-09-22 11:07:27.135082,BKFC 50: Hunt vs Camozzi - Josh Copeland vs Steve Herelius - To Win the Bout,Josh Copeland,-0.037900000000000045,0.5917,0.6296
 2023-09-22 21:05:13.942312,Championship - England Championship 2023/24 - To Be Promoted,Sunderland,-0.04040000000000002,0.1818,0.2222
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Ernie Els,-0.0489,0.0099,0.0588
 2023-09-22 15:08:21.098765,BKFC 50: Hunt vs Camozzi - Marcus Edwards vs Michael Manno - To Win the Bout,Michael Manno,-0.04980000000000001,0.3125,0.3623
 2023-09-22 15:08:21.160265,BKFC 50: Hunt vs Camozzi - Lorenzo Hunt vs Chris Camozzi - To Win the Bout,Lorenzo Hunt,-0.05689999999999995,0.5348,0.5917
+2023-09-23 00:05:08.589341,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,-0.06670000000000001,0.1333,0.2
 2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Dalvin Cook,-0.06899999999999999,0.0079,0.0769
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,K J Choi,-0.07189999999999999,0.005,0.0769
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Stewart Cink,-0.10619999999999999,0.0476,0.1538
+2023-09-23 00:05:08.604747,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,-0.16089999999999993,0.4545,0.6154
