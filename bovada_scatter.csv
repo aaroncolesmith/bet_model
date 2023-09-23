@@ -23,23 +23,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-22 23:05:37.340914,NFL Weekly Specials - NFL Week 3 Leaders - Most Passing Yards - Week 3 (Sunday Only),Tua Tagovailoa,0.03330000000000001,0.1,0.0667
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Dicky Pride,0.0309,0.0526,0.0217
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Mike Weir,0.0286,0.0385,0.0099
-2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Breece Hall,0.028000000000000004,0.0476,0.0196
-2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),James Conner,0.028000000000000004,0.0476,0.0196
 2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Justin Fields,0.028000000000000004,0.0476,0.0196
+2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),James Conner,0.028000000000000004,0.0476,0.0196
+2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Breece Hall,0.028000000000000004,0.0476,0.0196
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Lee Janzen,0.0275,0.0385,0.011
 2023-09-23 00:05:08.908102,Boxing Lines - Orestes Velazquez vs Mohamed Soumaoro - To Win the Bout,Orestes Velazquez,0.026700000000000057,0.9091,0.8824
 2023-09-22 23:05:37.340914,NFL Weekly Specials - NFL Week 3 Leaders - Most Passing Yards - Week 3 (Sunday Only),Justin Herbert,0.0267,0.1176,0.0909
 2023-09-22 19:03:51.263610,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Sandy Ryan,0.026499999999999968,0.5917,0.5652
 2023-09-22 21:05:13.931450,Championship - England Championship 2023/24 - League Winner,Leicester City,0.025499999999999967,0.4255,0.4
 2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),Travis Kelce,0.024299999999999995,0.0769,0.0526
-2023-09-23 05:07:17.818123,Round Match-Ups - 2nd Round Match-Up - D. Burmester vs T. Pieters - 2nd Round Match-Up,Thomas Pieters,0.023800000000000043,0.5238,0.5
-2023-09-23 05:07:17.861849,Round Match-Ups - 2nd Round Match-Up - P. Reed vs J. Niemann - 2nd Round Match-Up,Patrick Reed,0.023800000000000043,0.5238,0.5
 2023-09-23 01:05:06.251286,Cazoo Open - 2/3 Balls - 3rd Round 3 Balls - A. Otaegui / D. Law / M. Woo Lee - 3rd Round 3 Balls,Min Woo Lee,0.023800000000000043,0.5238,0.5
+2023-09-23 05:07:17.861849,Round Match-Ups - 2nd Round Match-Up - P. Reed vs J. Niemann - 2nd Round Match-Up,Patrick Reed,0.023800000000000043,0.5238,0.5
+2023-09-23 05:07:17.818123,Round Match-Ups - 2nd Round Match-Up - D. Burmester vs T. Pieters - 2nd Round Match-Up,Thomas Pieters,0.023800000000000043,0.5238,0.5
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Brian Gay,0.023200000000000002,0.0476,0.0244
 2023-09-22 23:05:37.340914,NFL Weekly Specials - NFL Week 3 Leaders - Most Passing Yards - Week 3 (Sunday Only),Trevor Lawrence,0.0232,0.0667,0.0435
 2023-09-23 01:05:05.591767,Boxing Lines - Denis Denikajev vs Sajid Abid - To Win the Bout,Sajid Abid,0.022699999999999998,0.4878,0.4651
 2023-09-23 00:05:08.554334,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Texas Rangers,0.022199999999999998,0.1333,0.1111
-2023-09-22 18:05:56.755594,Day 2 - Day 2 Foursomes - M. Stark / L. Grant v D. Kang / A. Lee - Winner,M. Stark / L. Grant,0.02079999999999993,0.5556,0.5348
 2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),Keenan Allen,0.019099999999999992,0.0667,0.0476
 2023-09-22 21:05:13.942312,Championship - England Championship 2023/24 - To Be Promoted,Ipswich Town,0.018900000000000028,0.4444,0.4255
 2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),DK Metcalf,0.0189,0.0385,0.0196
@@ -63,55 +62,55 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-23 05:07:17.317177,Boxing Lines - Elijah Garcia vs Jose Armando Resendiz - To Win the Bout,Elijah Garcia,0.011900000000000022,0.8214,0.8095
 2023-09-22 21:05:13.942312,Championship - England Championship 2023/24 - To Be Promoted,Middlesbrough,0.0102,0.0769,0.0667
 2023-09-23 02:06:21.454327,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,0.010099999999999998,0.3226,0.3125
+2023-09-23 06:07:09.919122,Elite Boxing - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Zhilei Zhang,0.010099999999999998,0.5556,0.5455
 2023-09-23 05:07:16.689095,Elite Boxing - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Zhilei Zhang,-0.010099999999999998,0.5455,0.5556
 2023-09-22 21:05:13.863953,Serie A - Italy Serie A 2023/24 - Winner,AC Milan,-0.010399999999999993,0.2222,0.2326
 2023-09-22 23:05:37.340914,NFL Weekly Specials - NFL Week 3 Leaders - Most Passing Yards - Week 3 (Sunday Only),Mac Jones,-0.010700000000000001,0.0278,0.0385
 2023-09-23 05:07:16.295149,NFL Weekly Specials - NFL Week 3 RedZone Specials - Sunday 24th September,Any Team To Score A Safety On Sunday,-0.0116,0.4762,0.4878
 2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Josh Allen,-0.011699999999999999,0.0079,0.0196
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Marco Dawson,-0.0119,0.0013,0.0132
+2023-09-23 06:07:09.919122,Elite Boxing - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Joseph Joyce,-0.012199999999999989,0.4878,0.5
 2023-09-22 23:05:37.340914,NFL Weekly Specials - NFL Week 3 Leaders - Most Passing Yards - Week 3 (Sunday Only),Russell Wilson,-0.012700000000000003,0.0196,0.0323
 2023-09-23 05:07:17.317177,Boxing Lines - Elijah Garcia vs Jose Armando Resendiz - To Win the Bout,Jose Armando Resendiz,-0.012799999999999978,0.2469,0.2597
 2023-09-22 21:05:13.848971,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayern Munich,-0.012899999999999912,0.8333,0.8462
 2023-09-23 00:05:09.299364,Boxing Lines - Zhanibek Alimkhanuly vs Vincenzo Gualtieri - To Win the Bout,Vincenzo Gualtieri,-0.012899999999999995,0.1538,0.1667
 2023-09-23 05:07:17.371862,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Yordenis Ugas,-0.0131,0.7647,0.7778
-2023-09-22 21:05:13.942312,Championship - England Championship 2023/24 - To Be Promoted,Watford,-0.013899999999999996,0.1111,0.125
 2023-09-23 01:05:05.794558,Boxing Lines - Viddal Riley vs Nathan Quarless - To Win the Bout,Nathan Quarless,-0.013899999999999996,0.1111,0.125
 2023-09-22 21:05:13.942312,Championship - England Championship 2023/24 - To Be Promoted,Preston North End,-0.013899999999999996,0.1111,0.125
+2023-09-22 21:05:13.942312,Championship - England Championship 2023/24 - To Be Promoted,Watford,-0.013899999999999996,0.1111,0.125
 2023-09-22 21:05:13.942312,Championship - England Championship 2023/24 - To Be Promoted,Blackburn Rovers,-0.013999999999999999,0.0769,0.0909
-2023-09-22 21:05:13.931450,Championship - England Championship 2023/24 - League Winner,Norwich City,-0.014099999999999994,0.0526,0.0667
 2023-09-22 21:05:13.931450,Championship - England Championship 2023/24 - League Winner,Southampton,-0.014099999999999994,0.0526,0.0667
-2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Clyde Edwards-Helaire,-0.014599999999999998,0.0132,0.0278
+2023-09-22 21:05:13.931450,Championship - England Championship 2023/24 - League Winner,Norwich City,-0.014099999999999994,0.0526,0.0667
 2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),Rashod Bateman,-0.014599999999999998,0.005,0.0196
-2023-09-22 21:05:13.953401,Championship - England Championship 2023/24 - To Be Relegated,Swansea City,-0.01469999999999999,0.2353,0.25
+2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Clyde Edwards-Helaire,-0.014599999999999998,0.0132,0.0278
 2023-09-23 01:05:06.251286,Cazoo Open - 2/3 Balls - 3rd Round 3 Balls - A. Otaegui / D. Law / M. Woo Lee - 3rd Round 3 Balls,David Law,-0.01469999999999999,0.2353,0.25
-2023-09-23 03:05:22.051929,Boxing Lines - Elijah Garcia vs Jose Armando Resendiz - To Win the Bout,Elijah Garcia,-0.015100000000000002,0.8182,0.8333
+2023-09-22 21:05:13.953401,Championship - England Championship 2023/24 - To Be Relegated,Swansea City,-0.01469999999999999,0.2353,0.25
 2023-09-22 21:05:13.931450,Championship - England Championship 2023/24 - League Winner,Ipswich Town,-0.015100000000000002,0.1667,0.1818
-2023-09-22 18:05:56.755594,Day 2 - Day 2 Foursomes - M. Stark / L. Grant v D. Kang / A. Lee - Winner,D. Kang / A. Lee,-0.015400000000000025,0.3846,0.4
+2023-09-23 03:05:22.051929,Boxing Lines - Elijah Garcia vs Jose Armando Resendiz - To Win the Bout,Elijah Garcia,-0.015100000000000002,0.8182,0.8333
 2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),Courtland Sutton,-0.015499999999999998,0.0123,0.0278
 2023-09-23 01:05:05.752700,Boxing Lines - Richardson Hitchins vs Jose Zepeda - To Win the Bout,Jose Zepeda,-0.015899999999999997,0.2222,0.2381
+2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),Mark Andrews,-0.0159,0.0164,0.0323
 2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),Christian Kirk,-0.0159,0.0164,0.0323
 2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),Jaylen Waddle,-0.0159,0.0164,0.0323
-2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),Mark Andrews,-0.0159,0.0164,0.0323
 2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Devin Singletary,-0.0165,0.0079,0.0244
 2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Damien Harris,-0.0165,0.0079,0.0244
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Ken Duke,-0.0169,0.001,0.0179
 2023-09-22 23:05:37.709746,Boxing Lines - Richardson Hitchins vs Jose Zepeda - To Win the Bout,Richardson Hitchins,-0.017100000000000004,0.8291,0.8462
 2023-09-23 04:05:50.452198,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Mario Barrios,-0.017299999999999982,0.2857,0.303
-2023-09-22 18:05:55.001701,Boxing Lines - Orestes Velazquez vs Mohamed Soumaoro - To Win the Bout,Orestes Velazquez,-0.01760000000000006,0.8824,0.9
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Mark Hensby,-0.017800000000000003,0.0066,0.0244
 2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),Stefon Diggs,-0.018099999999999998,0.0588,0.0769
-2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Lamar Jackson,-0.0189,0.0196,0.0385
 2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Javonte Williams,-0.0189,0.0196,0.0385
+2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Lamar Jackson,-0.0189,0.0196,0.0385
 2023-09-22 21:05:13.942312,Championship - England Championship 2023/24 - To Be Promoted,Norwich City,-0.019000000000000017,0.2667,0.2857
-2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Antonio Gibson,-0.019899999999999998,0.0079,0.0278
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Joe Durant,-0.019899999999999998,0.0079,0.0278
+2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Antonio Gibson,-0.019899999999999998,0.0079,0.0278
 2023-09-23 05:07:17.818123,Round Match-Ups - 2nd Round Match-Up - D. Burmester vs T. Pieters - 2nd Round Match-Up,Dean Burmester,-0.02169999999999994,0.5238,0.5455
 2023-09-22 21:05:13.953401,Championship - England Championship 2023/24 - To Be Relegated,Sheffield Wednesday,-0.021699999999999997,0.4545,0.4762
 2023-09-22 23:05:37.354314,NFL Weekly Specials - NFL Week 3 Leaders - Most Receiving Yards - Week 3 (Sunday Only),DJ Moore,-0.022099999999999998,0.0164,0.0385
 2023-09-22 21:05:13.911039,Ligue 1 - France Ligue 1 2023/24 - Winner,Paris Saint-Germain,-0.022199999999999998,0.7778,0.8
 2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Miles Sanders,-0.023200000000000002,0.0244,0.0476
-2023-09-22 19:03:51.263610,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Jessica McCaskill,-0.023799999999999988,0.4762,0.5
 2023-09-22 21:05:13.863953,Serie A - Italy Serie A 2023/24 - Winner,Napoli,-0.023799999999999988,0.1429,0.1667
+2023-09-22 19:03:51.263610,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Jessica McCaskill,-0.023799999999999988,0.4762,0.5
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Fred Couples,-0.024499999999999997,0.0033,0.0278
 2023-09-23 01:05:05.591767,Boxing Lines - Denis Denikajev vs Sajid Abid - To Win the Bout,Denis Denikajev,-0.025599999999999956,0.5744,0.6
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Steve Flesch,-0.0257,0.0066,0.0323
@@ -124,10 +123,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-23 01:05:05.699252,Boxing Lines - Orestes Velazquez vs Mohamed Soumaoro - To Win the Bout,Orestes Velazquez,-0.03410000000000002,0.875,0.9091
 2023-09-23 04:05:50.840341,Round Match-Ups - 2nd Round Match-Up - P. Reed vs J. Niemann - 2nd Round Match-Up,Patrick Reed,-0.03480000000000005,0.5,0.5348
 2023-09-23 00:05:08.604747,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,-0.03570000000000001,0.25,0.2857
+2023-09-23 05:07:16.295149,NFL Weekly Specials - NFL Week 3 RedZone Specials - Sunday 24th September,Any Non QB to Throw A TD Pass on Sunday,-0.03689999999999999,0.2857,0.3226
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Kevin Sutherland,-0.037700000000000004,0.0099,0.0476
-2023-09-23 05:07:16.295149,NFL Weekly Specials - NFL Week 3 RedZone Specials - Sunday 24th September,Any Offensive Lineman to Score on Sunday,-0.04040000000000002,0.1818,0.2222
 2023-09-22 21:05:13.942312,Championship - England Championship 2023/24 - To Be Promoted,Sunderland,-0.04040000000000002,0.1818,0.2222
+2023-09-23 05:07:16.295149,NFL Weekly Specials - NFL Week 3 RedZone Specials - Sunday 24th September,Any Offensive Lineman to Score on Sunday,-0.04040000000000002,0.1818,0.2222
 2023-09-22 21:05:27.857488,Pure Insurance Championship - Pure Insurance Championship - Winner,Ernie Els,-0.0489,0.0099,0.0588
+2023-09-23 05:07:16.295149,NFL Weekly Specials - NFL Week 3 RedZone Specials - Sunday 24th September,Any Team To Recover An Onside Kick On Sunday,-0.05710000000000001,0.1429,0.2
 2023-09-23 02:06:21.143216,Boxing Lines - Yaser Al-Ghena vs Aaron Prospere - To Win the Bout,Aaron Prospere,-0.062100000000000044,0.7561,0.8182
 2023-09-23 00:05:08.589341,MLB Futures - MLB 2023 American League East - American League East Winner,Tampa Bay Rays,-0.06670000000000001,0.1333,0.2
 2023-09-22 23:05:37.368898,NFL Weekly Specials - NFL Week 3 Leaders - Most Rushing Yards - Week 3 (Sunday Only),Dalvin Cook,-0.06899999999999999,0.0079,0.0769
