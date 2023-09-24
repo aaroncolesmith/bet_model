@@ -5,14 +5,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-23 08:07:58.051000,"Republican Debate 2: Simi Valley, CA - Which candidate will get the most time to speak? - Most Speaking Time",Nikki Haley,0.05559999999999998,0.1667,0.1111
 2023-09-23 09:05:39.715480,Boxing Lines - Denis Denikajev vs Sajid Abid - To Win the Bout,Denis Denikajev,0.04820000000000002,0.6226,0.5744
 2023-09-23 09:05:39.752187,Boxing Lines - Yaser Al-Ghena vs Aaron Prospere - To Win the Bout,Aaron Prospere,0.04390000000000005,0.8,0.7561
-2023-09-23 04:05:50.840341,Round Match-Ups - 2nd Round Match-Up - P. Reed vs J. Niemann - 2nd Round Match-Up,Joaquin Niemann,0.043399999999999994,0.5556,0.5122
 2023-09-23 14:07:41.865970,WNBA Awards - WNBA Awards 2023 - WNBA Finals MVP 2023,Courtney Vandersloot (NYL),0.04239999999999999,0.0588,0.0164
 2023-09-23 10:09:27.620717,Round Match-Ups - 2nd Round Match-Up - P. Reed vs J. Niemann - 2nd Round Match-Up,Joaquin Niemann,0.04139999999999999,0.5652,0.5238
 2023-09-23 08:07:58.030595,"Republican Debate 2: Simi Valley, CA - California Debate Winner - Debate Winner",Nikki Haley,0.03570000000000001,0.2857,0.25
+2023-09-23 17:05:21.500855,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Sandy Ryan,0.033399999999999985,0.6078,0.5744
 2023-09-23 14:07:41.865970,WNBA Awards - WNBA Awards 2023 - WNBA Finals MVP 2023,Breanna Stewart (NYL),0.02400000000000002,0.274,0.25
+2023-09-23 05:07:17.818123,Round Match-Ups - 2nd Round Match-Up - D. Burmester vs T. Pieters - 2nd Round Match-Up,Thomas Pieters,0.023800000000000043,0.5238,0.5
 2023-09-23 05:07:17.861849,Round Match-Ups - 2nd Round Match-Up - P. Reed vs J. Niemann - 2nd Round Match-Up,Patrick Reed,0.023800000000000043,0.5238,0.5
 2023-09-23 15:03:39.517571,Day 3 - Day 3 - 2 Balls - M. Sagstrom vs L. Vu - Winner,Madelene Sagstrom,0.023800000000000043,0.5238,0.5
-2023-09-23 05:07:17.818123,Round Match-Ups - 2nd Round Match-Up - D. Burmester vs T. Pieters - 2nd Round Match-Up,Thomas Pieters,0.023800000000000043,0.5238,0.5
 2023-09-23 15:03:39.489425,Day 3 - Day 3 - 2 Balls - C. Boutier vs A. Yin - Winner,Angel Yin,0.021699999999999997,0.4762,0.4545
 2023-09-23 15:03:39.423222,Day 3 - Day 3 - 2 Balls - C. Hull vs D. Kang - Winner,Charley Hull,0.02169999999999994,0.5455,0.5238
 2023-09-23 16:03:58.253620,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Jessica McCaskill,0.020500000000000018,0.4878,0.4673
@@ -22,7 +22,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-23 05:07:17.371862,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Mario Barrios,0.017299999999999982,0.303,0.2857
 2023-09-23 14:07:41.818035,WNBA Championship - WNBA Championship 2023 - Outright Winner,Las Vegas Aces,0.014200000000000101,0.6296,0.6154
 2023-09-23 16:03:58.232778,Boxing Lines - Austin Williams vs Steve Rolls - To Win the Bout,Austin Williams,0.014100000000000001,0.9474,0.9333
-2023-09-23 04:05:50.452198,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Yordenis Ugas,0.0131,0.7778,0.7647
 2023-09-23 05:07:17.317177,Boxing Lines - Elijah Garcia vs Jose Armando Resendiz - To Win the Bout,Elijah Garcia,0.011900000000000022,0.8214,0.8095
 2023-09-23 08:07:58.497775,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Nikki Haley,0.0102,0.0769,0.0667
 2023-09-23 06:07:09.919122,Elite Boxing - Zhilei Zhang vs Joseph Joyce - To Win the Bout,Zhilei Zhang,0.010099999999999998,0.5556,0.5455
@@ -38,11 +37,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-23 08:07:58.408862,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.013599999999999945,0.6923,0.7059
 2023-09-23 14:07:41.846902,WNBA Championship - WNBA Championship 2023 - Finals Exact Outcome,Connecticut Sun to beat vs Las Vegas Aces,-0.014100000000000001,0.0385,0.0526
 2023-09-23 08:07:58.497775,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,-0.016700000000000048,0.7333,0.75
-2023-09-23 04:05:50.452198,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Mario Barrios,-0.017299999999999982,0.2857,0.303
-2023-09-23 16:03:58.253620,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Sandy Ryan,-0.017299999999999982,0.5744,0.5917
 2023-09-23 15:03:39.489425,Day 3 - Day 3 - 2 Balls - C. Boutier vs A. Yin - Winner,Celine Boutier,-0.017299999999999982,0.5744,0.5917
-2023-09-23 15:03:39.517571,Day 3 - Day 3 - 2 Balls - M. Sagstrom vs L. Vu - Winner,Lilia Vu,-0.02169999999999994,0.5238,0.5455
+2023-09-23 16:03:58.253620,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Sandy Ryan,-0.017299999999999982,0.5744,0.5917
 2023-09-23 05:07:17.818123,Round Match-Ups - 2nd Round Match-Up - D. Burmester vs T. Pieters - 2nd Round Match-Up,Dean Burmester,-0.02169999999999994,0.5238,0.5455
+2023-09-23 15:03:39.517571,Day 3 - Day 3 - 2 Balls - M. Sagstrom vs L. Vu - Winner,Lilia Vu,-0.02169999999999994,0.5238,0.5455
 2023-09-23 14:07:41.865970,WNBA Awards - WNBA Awards 2023 - WNBA Finals MVP 2023,Sabrina Ionescu (NYL),-0.022199999999999998,0.1111,0.1333
 2023-09-23 15:03:39.407936,Day 3 - Day 3 - 2 Balls - L. Maguire vs R. Zhang - Winner,Rose Zhang,-0.023799999999999988,0.4762,0.5
 2023-09-23 10:09:27.620717,Round Match-Ups - 2nd Round Match-Up - P. Reed vs J. Niemann - 2nd Round Match-Up,Patrick Reed,-0.023800000000000043,0.5,0.5238
@@ -50,7 +48,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-23 14:07:41.865970,WNBA Awards - WNBA Awards 2023 - WNBA Finals MVP 2023,Jackie Young (LVA),-0.028399999999999995,0.0625,0.0909
 2023-09-23 14:07:41.818035,WNBA Championship - WNBA Championship 2023 - Outright Winner,Connecticut Sun,-0.029299999999999993,0.0476,0.0769
 2023-09-23 05:07:17.861849,Round Match-Ups - 2nd Round Match-Up - P. Reed vs J. Niemann - 2nd Round Match-Up,Joaquin Niemann,-0.03179999999999994,0.5238,0.5556
-2023-09-23 04:05:50.840341,Round Match-Ups - 2nd Round Match-Up - P. Reed vs J. Niemann - 2nd Round Match-Up,Patrick Reed,-0.03480000000000005,0.5,0.5348
+2023-09-23 17:05:21.500855,Boxing Lines - Jessica McCaskill vs Sandy Ryan - To Win the Bout,Jessica McCaskill,-0.033299999999999996,0.4545,0.4878
 2023-09-23 08:07:58.030595,"Republican Debate 2: Simi Valley, CA - California Debate Winner - Debate Winner",Vivek Ramaswamy,-0.03640000000000004,0.3636,0.4
 2023-09-23 08:07:58.030595,"Republican Debate 2: Simi Valley, CA - California Debate Winner - Debate Winner",Ron DeSantis,-0.03640000000000004,0.3636,0.4
 2023-09-23 05:07:16.295149,NFL Weekly Specials - NFL Week 3 RedZone Specials - Sunday 24th September,Any Non QB to Throw A TD Pass on Sunday,-0.03689999999999999,0.2857,0.3226
