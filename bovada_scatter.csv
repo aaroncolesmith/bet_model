@@ -25,9 +25,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-25 04:04:59.307608,Serie A - Italy Serie A 2023/24 - To Be Relegated,Salernitana,0.06190000000000001,0.4255,0.3636
 2023-09-25 04:04:59.307608,Serie A - Italy Serie A 2023/24 - To Be Relegated,Hellas Verona,0.057699999999999974,0.3077,0.25
 2023-09-25 04:04:59.324602,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Empoli,0.057699999999999974,0.3077,0.25
-2023-09-25 03:04:25.891183,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Michael Penix Jr.,0.05710000000000001,0.2,0.1429
-2023-09-25 07:08:23.865833,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Athletic Bilbao,0.05710000000000001,0.2,0.1429
 2023-09-25 03:04:18.104952,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Lens,0.05710000000000001,0.2,0.1429
+2023-09-25 07:08:23.865833,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Athletic Bilbao,0.05710000000000001,0.2,0.1429
+2023-09-25 03:04:25.891183,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Michael Penix Jr.,0.05710000000000001,0.2,0.1429
 2023-09-25 07:08:23.854677,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Athletic Bilbao,0.055900000000000005,0.3636,0.3077
 2023-09-25 05:04:57.178057,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Chivas Guadalajara,0.05559999999999998,0.5,0.4444
 2023-09-25 07:08:25.522404,Super Lig - Turkey Super Lig 2023/24 - Winner,Fenerbahce,0.05449999999999999,0.4545,0.4
@@ -43,8 +43,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-25 03:04:18.112301,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Strasbourg,0.03640000000000004,0.4,0.3636
 2023-09-25 04:04:59.208924,1. Bundesliga - Germany Bundesliga 2023/24 - Winner without Bayern Munich,RB Leipzig,0.03640000000000004,0.4,0.3636
 2023-09-25 07:08:23.865833,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Atlético Madrid,0.03590000000000004,0.5814,0.5455
-2023-09-25 03:04:19.022167,First Division A - Belgium First Division A 2023/24 - Outright,Gent,0.03570000000000001,0.2857,0.25
 2023-09-25 04:04:59.307608,Serie A - Italy Serie A 2023/24 - To Be Relegated,Genoa,0.03570000000000001,0.2857,0.25
+2023-09-25 03:04:19.022167,First Division A - Belgium First Division A 2023/24 - Outright,Gent,0.03570000000000001,0.2857,0.25
 2023-09-25 03:04:19.022167,First Division A - Belgium First Division A 2023/24 - Outright,Union Saint-Gilloise,0.034100000000000005,0.125,0.0909
 2023-09-25 04:05:07.556574,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Tyreek Hill,0.033300000000000024,0.2,0.1667
 2023-09-25 03:04:25.906162,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Oregon,0.03219999999999999,0.0667,0.0345
@@ -59,28 +59,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-25 04:04:59.235621,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Borussia Mönchengladbach,0.024999999999999994,0.125,0.1
 2023-09-25 03:04:25.906162,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Washington,0.024,0.0625,0.0385
 2023-09-25 03:04:25.875602,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Christian McCaffrey,0.023899999999999998,0.0435,0.0196
-2023-09-25 05:04:57.178057,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Pumas UNAM,0.023799999999999988,0.1667,0.1429
-2023-09-25 07:08:25.418225,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,FC Porto,0.023799999999999988,0.5,0.4762
 2023-09-25 07:08:25.575615,Premier League Futures/Specials - English Premier League 2023/24 - Winner without ''The Big 6'',Newcastle United,0.023799999999999988,0.5,0.4762
+2023-09-25 07:08:25.418225,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,FC Porto,0.023799999999999988,0.5,0.4762
+2023-09-25 05:04:57.178057,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Pumas UNAM,0.023799999999999988,0.1667,0.1429
 2023-09-25 04:04:59.307608,Serie A - Italy Serie A 2023/24 - To Be Relegated,Cagliari,0.022599999999999953,0.5464,0.5238
-2023-09-25 04:04:59.248848,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,VfB Stuttgart,0.022199999999999998,0.1333,0.1111
-2023-09-25 05:04:57.178057,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Club América,0.022199999999999998,0.8,0.7778
 2023-09-25 09:07:55.668476,Boxing Lines - Rhiannon Dixon vs Katharina Thanderz - To Win the Bout,Rhiannon Dixon,0.022199999999999998,0.8,0.7778
+2023-09-25 05:04:57.178057,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Club América,0.022199999999999998,0.8,0.7778
+2023-09-25 04:04:59.248848,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,VfB Stuttgart,0.022199999999999998,0.1333,0.1111
 2023-09-25 09:07:55.760450,Boxing Lines - Jesus Alejandro Ramos vs Erickson Lubin - To Win the Bout,Jesus Alejandro Ramos,0.02210000000000001,0.8403,0.8182
 2023-09-25 07:08:23.854677,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Girona,0.02049999999999999,0.1538,0.1333
 2023-09-25 03:04:25.891183,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Jayden Daniels,0.0203,0.0526,0.0323
 2023-09-25 05:04:57.162321,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Chivas Guadalajara,0.02020000000000001,0.1111,0.0909
-2023-09-25 04:04:59.248848,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Bayer Leverkusen,0.01969999999999994,0.8197,0.8
 2023-09-25 04:04:59.248848,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Borussia Dortmund,0.01969999999999994,0.8197,0.8
+2023-09-25 04:04:59.248848,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Bayer Leverkusen,0.01969999999999994,0.8197,0.8
 2023-09-25 04:04:59.334995,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Atalanta,0.019000000000000017,0.2857,0.2667
 2023-09-25 03:04:25.891183,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Cameron Ward,0.019,0.0294,0.0104
 2023-09-25 05:04:57.178057,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Atletico San Luis,0.01820000000000002,0.2,0.1818
-2023-09-25 03:04:18.097268,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Lens,0.018200000000000004,0.0476,0.0294
 2023-09-25 03:04:18.080368,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Lens,0.018200000000000004,0.0476,0.0294
-2023-09-25 07:08:23.865833,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Girona,0.018099999999999998,0.0769,0.0588
-2023-09-25 04:04:59.248848,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Hoffenheim,0.018099999999999998,0.0769,0.0588
+2023-09-25 03:04:18.097268,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Lens,0.018200000000000004,0.0476,0.0294
 2023-09-25 04:04:59.220088,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Victor Boniface,0.018099999999999998,0.0769,0.0588
 2023-09-25 05:04:57.162321,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Atlas FC,0.018099999999999998,0.0769,0.0588
+2023-09-25 07:08:23.865833,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Girona,0.018099999999999998,0.0769,0.0588
+2023-09-25 04:04:59.248848,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Hoffenheim,0.018099999999999998,0.0769,0.0588
 2023-09-25 03:04:25.875602,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Patrick Mahomes,0.0179,0.1429,0.125
 2023-09-25 07:08:33.359678,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Montreal Alouettes,0.01759999999999999,0.1176,0.1
 2023-09-25 03:04:18.097268,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Montpellier,0.0174,0.25,0.2326
@@ -92,8 +92,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-25 03:04:25.863832,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Kyle Shanahan,0.014899999999999997,0.0625,0.0476
 2023-09-25 05:04:57.162321,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Club América,0.01469999999999999,0.25,0.2353
 2023-09-25 05:04:57.169458,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Juan Dinenno (PUM),0.013999999999999999,0.0909,0.0769
-2023-09-25 09:07:55.707892,Boxing Lines - Viddal Riley vs Nathan Quarless - To Win the Bout,Nathan Quarless,0.013899999999999996,0.125,0.1111
+2023-09-25 14:02:13.119086,LKL - Lithuania LKL 2023/24 - Outright,Zalgiris,0.013900000000000023,0.8889,0.875
 2023-09-25 07:08:23.865833,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Real Sociedad,0.013899999999999996,0.125,0.1111
+2023-09-25 09:07:55.707892,Boxing Lines - Viddal Riley vs Nathan Quarless - To Win the Bout,Nathan Quarless,0.013899999999999996,0.125,0.1111
 2023-09-25 07:08:33.346091,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,British Columbia Lions,0.0131,0.2353,0.2222
 2023-09-25 03:04:18.104952,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Brest,0.012100000000000001,0.0244,0.0123
 2023-09-25 03:04:25.891183,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Jordan Travis,0.011899999999999994,0.0833,0.0714
@@ -116,15 +117,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-25 04:05:07.638197,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Texas Rangers,-0.010499999999999982,0.2,0.2105
 2023-09-25 04:04:59.248848,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Eintracht Frankfurt,-0.011099999999999999,0.1,0.1111
 2023-09-25 09:07:55.668476,Boxing Lines - Rhiannon Dixon vs Katharina Thanderz - To Win the Bout,Katharina Thanderz,-0.011099999999999999,0.2667,0.2778
-2023-09-25 07:08:33.346091,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Saskatchewan Roughriders,-0.011199999999999995,0.0323,0.0435
-2023-09-25 03:04:25.863832,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Doug Pederson,-0.011199999999999995,0.0323,0.0435
-2023-09-25 03:04:18.087873,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Folarin Balogun (Monaco),-0.011199999999999995,0.0476,0.0588
 2023-09-25 07:08:23.865833,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Valencia,-0.011199999999999995,0.0476,0.0588
+2023-09-25 03:04:25.863832,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Doug Pederson,-0.011199999999999995,0.0323,0.0435
+2023-09-25 07:08:33.346091,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Saskatchewan Roughriders,-0.011199999999999995,0.0323,0.0435
+2023-09-25 03:04:18.087873,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Folarin Balogun (Monaco),-0.011199999999999995,0.0476,0.0588
 2023-09-25 04:05:07.556574,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Jaylen Waddle,-0.011399999999999997,0.0164,0.0278
 2023-09-25 13:06:09.590548,Player Points - Player Points - Jordan Spieth - Player Points - Jordan Spieth,Under 1.5,-0.0116,0.4762,0.4878
-2023-09-25 04:05:07.556574,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Jerry Jeudy,-0.011699999999999999,0.0079,0.0196
 2023-09-25 03:04:25.863832,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Brian Daboll,-0.011699999999999999,0.0079,0.0196
 2023-09-25 04:05:07.556574,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Christian Watson,-0.011699999999999999,0.0079,0.0196
+2023-09-25 04:05:07.556574,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Jerry Jeudy,-0.011699999999999999,0.0079,0.0196
 2023-09-25 04:05:07.556574,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Deshaun Watson,-0.0118,0.0099,0.0217
 2023-09-25 04:04:59.235621,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,VfB Stuttgart,-0.012100000000000001,0.0123,0.0244
 2023-09-25 04:05:07.556574,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Justin Herbert,-0.012599999999999998,0.0152,0.0278
@@ -136,17 +137,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-25 03:04:25.875602,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Derrick Henry,-0.013,0.0066,0.0196
 2023-09-25 05:04:57.162321,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Cruz Azul,-0.013,0.0066,0.0196
 2023-09-25 04:04:59.248848,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Freiburg,-0.013899999999999996,0.1111,0.125
-2023-09-25 07:08:23.854677,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Sevilla,-0.013999999999999999,0.0769,0.0909
 2023-09-25 03:04:18.087873,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Jonathan David (Lille),-0.013999999999999999,0.0769,0.0909
-2023-09-25 03:04:18.087873,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Wissam Ben Yedder (Monaco),-0.013999999999999999,0.0769,0.0909
-2023-09-25 07:08:23.865833,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Villarreal,-0.013999999999999999,0.0769,0.0909
 2023-09-25 03:04:18.080368,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Rennes,-0.013999999999999999,0.0769,0.0909
+2023-09-25 07:08:23.854677,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Sevilla,-0.013999999999999999,0.0769,0.0909
+2023-09-25 07:08:23.865833,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Villarreal,-0.013999999999999999,0.0769,0.0909
+2023-09-25 03:04:18.087873,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Wissam Ben Yedder (Monaco),-0.013999999999999999,0.0769,0.0909
 2023-09-25 03:04:25.875602,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Trevor Lawrence,-0.014099999999999994,0.0526,0.0667
 2023-09-25 07:08:33.359678,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Calgary Stampeders,-0.014099999999999998,0.0244,0.0385
 2023-09-25 09:07:55.707892,Boxing Lines - Viddal Riley vs Nathan Quarless - To Win the Bout,Viddal Riley,-0.014100000000000001,0.9333,0.9474
 2023-09-25 07:08:23.854677,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Getafe,-0.014100000000000001,0.0385,0.0526
-2023-09-25 03:04:25.863832,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Sean Payton,-0.0145,0.0099,0.0244
 2023-09-25 05:04:57.169458,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Lucas Rodriguez (TIJ),-0.0145,0.0099,0.0244
+2023-09-25 03:04:25.863832,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Sean Payton,-0.0145,0.0099,0.0244
 2023-09-25 04:05:07.623839,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Milwaukee Brewers,-0.014899999999999997,0.0476,0.0625
 2023-09-25 07:08:33.346091,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Hamilton Tiger-Cats,-0.014899999999999997,0.0476,0.0625
 2023-09-25 03:04:25.863832,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Zac Taylor,-0.0153,0.0141,0.0294
@@ -158,16 +159,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-25 07:08:23.854677,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Valencia,-0.0179,0.125,0.1429
 2023-09-25 05:04:57.162321,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,CF Pachuca,-0.018099999999999998,0.0588,0.0769
 2023-09-25 03:04:25.875602,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Lamar Jackson,-0.018099999999999998,0.0588,0.0769
-2023-09-25 05:04:57.169458,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Henry Martin (AME),-0.018200000000000004,0.0294,0.0476
 2023-09-25 07:08:25.575615,Premier League Futures/Specials - English Premier League 2023/24 - Winner without ''The Big 6'',West Ham United,-0.018200000000000004,0.0294,0.0476
-2023-09-25 03:04:25.891183,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,J.J. McCarthy,-0.018200000000000004,0.0294,0.0476
 2023-09-25 05:04:57.169458,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,German Berterame (MON),-0.018200000000000004,0.0294,0.0476
+2023-09-25 03:04:25.891183,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,J.J. McCarthy,-0.018200000000000004,0.0294,0.0476
+2023-09-25 05:04:57.169458,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Henry Martin (AME),-0.018200000000000004,0.0294,0.0476
 2023-09-25 04:04:59.220088,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Donyell Malen,-0.018200000000000004,0.0294,0.0476
 2023-09-25 03:04:18.112301,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Rennes,-0.01880000000000004,0.5556,0.5744
-2023-09-25 04:04:59.248848,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Borussia Mönchengladbach,-0.0189,0.0196,0.0385
-2023-09-25 03:04:25.891183,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Travis Hunter,-0.0189,0.0196,0.0385
-2023-09-25 05:04:57.169458,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Alexis Vega (GUA),-0.0189,0.0196,0.0385
 2023-09-25 05:04:57.169458,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Jean Meneses (TOL),-0.0189,0.0196,0.0385
+2023-09-25 05:04:57.169458,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Alexis Vega (GUA),-0.0189,0.0196,0.0385
+2023-09-25 03:04:25.891183,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Travis Hunter,-0.0189,0.0196,0.0385
+2023-09-25 04:04:59.248848,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Borussia Mönchengladbach,-0.0189,0.0196,0.0385
 2023-09-25 03:04:18.097268,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Metz,-0.018900000000000028,0.4255,0.4444
 2023-09-25 03:04:25.875602,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Russell Wilson,-0.0194,0.005,0.0244
 2023-09-25 07:08:25.712183,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Bournemouth,-0.01969999999999994,0.8,0.8197
@@ -181,10 +182,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-25 07:08:23.854677,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Villarreal,-0.022199999999999998,0.2,0.2222
 2023-09-25 03:04:25.863832,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Matt Eberflus,-0.022400000000000003,0.0099,0.0323
 2023-09-25 09:07:55.760450,Boxing Lines - Jesus Alejandro Ramos vs Erickson Lubin - To Win the Bout,Erickson Lubin,-0.022699999999999998,0.2273,0.25
-2023-09-25 05:04:57.162321,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Santos Laguna,-0.023200000000000002,0.0294,0.0526
 2023-09-25 04:04:59.220088,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Benjamin Sesko,-0.023200000000000002,0.0244,0.0476
-2023-09-25 07:08:23.843428,La Liga - Spain La Liga 2023/24 - To Be Relegated,Girona,-0.023200000000000002,0.0244,0.0476
+2023-09-25 05:04:57.162321,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Santos Laguna,-0.023200000000000002,0.0294,0.0526
 2023-09-25 04:04:59.220088,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Sebastian Haller,-0.023200000000000002,0.0244,0.0476
+2023-09-25 07:08:23.843428,La Liga - Spain La Liga 2023/24 - To Be Relegated,Girona,-0.023200000000000002,0.0244,0.0476
 2023-09-25 05:04:57.178057,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,FC Juarez,-0.023799999999999988,0.1429,0.1667
 2023-09-25 04:04:59.235621,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Heidenheim,-0.023800000000000043,0.5,0.5238
 2023-09-25 07:08:23.854677,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Betis,-0.024999999999999994,0.1,0.125
@@ -193,8 +194,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-25 04:05:07.530460,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,T.J. Watt,-0.02779999999999999,0.2222,0.25
 2023-09-25 03:04:18.112301,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Lille,-0.027800000000000047,0.75,0.7778
 2023-09-25 03:04:25.875602,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Joe Burrow,-0.027999999999999997,0.0345,0.0625
-2023-09-25 05:04:57.169458,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Rogelio Funes Mori (MON),-0.028199999999999996,0.0385,0.0667
 2023-09-25 05:04:57.178057,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Tijuana,-0.028199999999999996,0.0385,0.0667
+2023-09-25 05:04:57.169458,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Rogelio Funes Mori (MON),-0.028199999999999996,0.0385,0.0667
 2023-09-25 03:04:25.863832,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,John Harbaugh,-0.028399999999999995,0.0625,0.0909
 2023-09-25 03:04:25.875602,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Jordan Love,-0.0286,0.0099,0.0385
 2023-09-25 03:04:18.104952,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Lyon,-0.028799999999999992,0.125,0.1538
@@ -205,13 +206,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-25 05:04:57.178057,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,FC Puebla,-0.0321,0.0588,0.0909
 2023-09-25 07:08:25.712183,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Burnley,-0.03259999999999996,0.75,0.7826
 2023-09-25 03:04:18.112301,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Reims,-0.03259999999999999,0.2,0.2326
-2023-09-25 07:08:33.359678,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Saskatchewan Roughriders,-0.03330000000000001,0.0667,0.1
 2023-09-25 05:04:57.178057,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Cruz Azul,-0.03330000000000001,0.0667,0.1
-2023-09-25 04:04:59.290672,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Dusan Vlahovic (Juventus),-0.033300000000000024,0.1667,0.2
+2023-09-25 07:08:33.359678,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Saskatchewan Roughriders,-0.03330000000000001,0.0667,0.1
 2023-09-25 07:08:25.522404,Super Lig - Turkey Super Lig 2023/24 - Winner,Besiktas,-0.033300000000000024,0.1667,0.2
-2023-09-25 04:04:59.248848,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Union Berlin,-0.034100000000000005,0.0909,0.125
-2023-09-25 07:08:33.359678,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Hamilton Tiger-Cats,-0.034100000000000005,0.0909,0.125
+2023-09-25 04:04:59.290672,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Dusan Vlahovic (Juventus),-0.033300000000000024,0.1667,0.2
 2023-09-25 05:04:57.169458,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Julian Quinones (AME),-0.034100000000000005,0.0909,0.125
+2023-09-25 07:08:33.359678,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Hamilton Tiger-Cats,-0.034100000000000005,0.0909,0.125
+2023-09-25 04:04:59.248848,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Union Berlin,-0.034100000000000005,0.0909,0.125
 2023-09-25 04:04:59.220088,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Niclas Fullkrug,-0.0344,0.0244,0.0588
 2023-09-25 03:04:25.906162,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Notre Dame,-0.0344,0.0244,0.0588
 2023-09-25 04:04:59.220088,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Lois Openda,-0.0373,0.0294,0.0667
