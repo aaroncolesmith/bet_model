@@ -1,5 +1,7 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-25 22:04:05.560053,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - New York Jets,No,0.42110000000000003,0.9333,0.5122
+2023-09-26 08:06:18.463162,MLB Futures - To Make The Playoffs - To Make The Playoffs - Seattle Mariners,No,0.18430000000000002,0.6721,0.4878
+2023-09-26 08:06:18.422301,MLB Futures - To Make The Playoffs - To Make The Playoffs - Houston Astros,Yes,0.17910000000000004,0.7183,0.5392
 2023-09-25 22:04:05.571225,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Pittsburgh Steelers,Yes,0.17099999999999999,0.5556,0.3846
 2023-09-25 22:04:05.427142,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Jacksonville Jaguars,No,0.13640000000000002,0.5,0.3636
 2023-09-25 22:04:05.298554,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Carolina Panthers,No,0.1281,0.9852,0.8571
@@ -12,6 +14,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-25 22:04:05.492834,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Miami Dolphins,Yes,0.08300000000000007,0.9091,0.8261
 2023-09-26 02:04:06.490344,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,Sporting CP,0.07880000000000001,0.2326,0.1538
 2023-09-25 22:04:05.375134,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Green Bay Packers,Yes,0.07619999999999993,0.6,0.5238
+2023-09-26 08:06:18.361736,MLB Futures - To Make The Playoffs - To Make The Playoffs - Arizona Diamondbacks,No,0.0673,0.2273,0.16
 2023-09-25 22:04:05.615783,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Tennessee Titans,No,0.04789999999999994,0.697,0.6491
 2023-09-25 21:04:05.504495,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Copenhagen,0.04760000000000009,0.7143,0.6667
 2023-09-25 22:04:05.631500,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Washington Commanders,No,0.04390000000000005,0.8,0.7561
@@ -20,9 +23,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-25 22:04:05.535869,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - New Orleans Saints,No,0.04089999999999999,0.4255,0.3846
 2023-09-25 22:04:05.160706,NFC East - NFC East 2023/24 - NFC East Winner,Philadelphia Eagles,0.03479999999999994,0.6,0.5652
 2023-09-26 02:04:05.468733,Championship - England Championship 2023/24 - Top 6 Finish,Swansea City,0.03330000000000001,0.1,0.0667
-2023-09-26 06:03:48.685345,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Texas Rangers,0.033299999999999996,0.1333,0.1
-2023-09-26 06:03:49.638340,Player Points - Player Points - Viktor Hovland - Player Points - Viktor Hovland,Over 2.5,0.033299999999999996,0.5455,0.5122
 2023-09-25 22:04:05.594778,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Seattle Seahawks,Yes,0.033299999999999996,0.4878,0.4545
+2023-09-26 06:03:49.638340,Player Points - Player Points - Viktor Hovland - Player Points - Viktor Hovland,Over 2.5,0.033299999999999996,0.5455,0.5122
+2023-09-26 06:03:48.685345,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Texas Rangers,0.033299999999999996,0.1333,0.1
 2023-09-25 22:04:05.286961,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Buffalo Bills,Yes,0.031400000000000095,0.7647,0.7333
 2023-09-26 02:04:05.468733,Championship - England Championship 2023/24 - Top 6 Finish,Hull City,0.031399999999999983,0.2667,0.2353
 2023-09-25 22:04:05.548504,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - New York Giants,No,0.031000000000000028,0.8571,0.8261
@@ -31,24 +34,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-25 22:04:05.080189,AFC North - AFC North 2023/24 - AFC North Winner,Cincinnati Bengals,0.028700000000000003,0.2105,0.1818
 2023-09-25 21:04:05.527609,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Midtjylland,0.02560000000000001,0.3333,0.3077
 2023-09-25 22:04:05.051815,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Philadelphia Eagles,0.024800000000000016,0.2353,0.2105
+2023-09-26 08:06:18.441920,MLB Futures - To Make The Playoffs - To Make The Playoffs - Miami Marlins,Yes,0.024499999999999966,0.6078,0.5833
 2023-09-26 06:03:49.652971,Player Points - Player Points - Wyndham Clark - Player Points - Wyndham Clark,Over 1.5,0.022699999999999998,0.4878,0.4651
-2023-09-26 01:03:43.464702,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Caleb Williams,0.022199999999999998,0.2222,0.2
 2023-09-26 02:04:05.468733,Championship - England Championship 2023/24 - Top 6 Finish,Coventry City,0.022199999999999998,0.2222,0.2
+2023-09-26 01:03:43.464702,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Caleb Williams,0.022199999999999998,0.2222,0.2
 2023-09-26 02:04:05.468733,Championship - England Championship 2023/24 - Top 6 Finish,West Bromwich Albion,0.021999999999999964,0.3077,0.2857
 2023-09-26 04:03:47.236716,Main Markets - Ryder Cup 2023 - Winner,Europe,0.021699999999999997,0.4762,0.4545
 2023-09-26 02:04:06.551550,Allsvenskan - Allsvenskan 2023 - Winner,IF Elfsborg,0.02100000000000002,0.3846,0.3636
 2023-09-25 22:04:05.357505,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Detroit Lions,Yes,0.01959999999999995,0.697,0.6774
 2023-09-26 02:04:06.490344,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,Braga,0.0189,0.0385,0.0196
+2023-09-26 08:06:18.385838,MLB Futures - To Make The Playoffs - To Make The Playoffs - Chicago Cubs,Yes,0.01880000000000004,0.5744,0.5556
 2023-09-26 07:06:20.906330,Boxing Lines - Murat Gassiev vs Otto Wallin - To Win the Bout,Otto Wallin,0.017299999999999982,0.303,0.2857
 2023-09-25 22:04:05.023214,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Philadelphia Eagles,0.015700000000000006,0.1333,0.1176
 2023-09-25 22:04:05.179192,NFC North - NFC North 2023/24 - NFC North Winner,Green Bay Packers,0.015400000000000025,0.4,0.3846
-2023-09-25 22:04:05.037567,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Kansas City Chiefs,0.01469999999999999,0.25,0.2353
 2023-09-25 22:03:56.159469,Championship - England Championship 2023/24 - To Be Relegated,Swansea City,0.01469999999999999,0.25,0.2353
+2023-09-25 22:04:05.037567,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Kansas City Chiefs,0.01469999999999999,0.25,0.2353
 2023-09-26 07:06:20.732283,Elite Boxing - Saul 'Canelo' Alvarez vs Jermell Charlo - To Win the Bout,Jermell Charlo,0.01469999999999999,0.25,0.2353
+2023-09-26 08:06:18.479789,MLB Futures - To Make The Playoffs - To Make The Playoffs - Texas Rangers,Yes,0.014499999999999957,0.9901,0.9756
 2023-09-26 06:03:48.699327,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Minnesota Twins,0.01440000000000001,0.1053,0.0909
-2023-09-25 22:04:05.583052,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - San Francisco 49ers,Yes,0.014100000000000001,0.9615,0.9474
 2023-09-25 22:04:05.023214,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Cincinnati Bengals,0.014100000000000001,0.0526,0.0385
+2023-09-25 22:04:05.583052,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - San Francisco 49ers,Yes,0.014100000000000001,0.9615,0.9474
 2023-09-26 02:04:05.450215,Championship - England Championship 2023/24 - To Finish Bottom,Plymouth Argyle,0.013999999999999999,0.0909,0.0769
+2023-09-26 08:06:18.404047,MLB Futures - To Make The Playoffs - To Make The Playoffs - Cincinnati Reds,Yes,0.013999999999999999,0.0909,0.0769
 2023-09-26 02:04:05.450215,Championship - England Championship 2023/24 - To Finish Bottom,Queens Park Rangers,0.013899999999999996,0.125,0.1111
 2023-09-26 05:03:39.882430,Boxing Lines - Murat Gassiev vs Otto Wallin - To Win the Bout,Murat Gassiev,0.0131,0.7778,0.7647
 2023-09-26 05:03:39.895785,Boxing Lines - Opetaia Jai Tapu vs Jordan Thompson - To Win the Bout,Opetaia Jai Tapu,0.012899999999999912,0.8462,0.8333
@@ -67,11 +74,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-25 22:04:05.179192,NFC North - NFC North 2023/24 - NFC North Winner,Detroit Lions,-0.01100000000000001,0.5238,0.5348
 2023-09-26 04:03:46.947363,Boxing Lines - Ellie Scotney vs Laura Soledad Griffa - To Win the Bout,Laura Soledad Griffa,-0.011400000000000007,0.1176,0.129
 2023-09-26 06:03:49.480058,Player Points - Player Points - Rickie Fowler - Player Points - Rickie Fowler,Under 1.5,-0.012199999999999989,0.5,0.5122
+2023-09-26 08:06:18.385838,MLB Futures - To Make The Playoffs - To Make The Playoffs - Chicago Cubs,No,-0.012199999999999989,0.4878,0.5
 2023-09-25 22:04:05.023214,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,San Francisco 49ers,-0.012899999999999995,0.1538,0.1667
 2023-09-26 07:06:20.906330,Boxing Lines - Murat Gassiev vs Otto Wallin - To Win the Bout,Murat Gassiev,-0.0131,0.7647,0.7778
 2023-09-25 22:03:56.151748,Championship - England Championship 2023/24 - To Be Promoted,Coventry City,-0.013999999999999999,0.0769,0.0909
 2023-09-26 05:03:39.975866,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Leigh Wood,-0.01429999999999998,0.726,0.7403
 2023-09-26 04:03:38.352489,Super Lig - Turkey Super Lig 2023/24 - Winner,Adana Demirspor,-0.014599999999999998,0.005,0.0196
+2023-09-26 08:06:18.479789,MLB Futures - To Make The Playoffs - To Make The Playoffs - Texas Rangers,No,-0.014899999999999997,0.0476,0.0625
 2023-09-25 22:04:05.583052,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - San Francisco 49ers,No,-0.015899999999999997,0.1053,0.1212
 2023-09-26 05:03:39.200768,NFL Requested Specials - Requested Specials: +500 or Lower - Season Specials,Seattle Seahawks to Make the Playoffs & Damar Hamlin to Win Comeback Player of the Year,-0.016699999999999993,0.25,0.2667
 2023-09-26 05:03:39.882430,Boxing Lines - Murat Gassiev vs Otto Wallin - To Win the Bout,Otto Wallin,-0.017299999999999982,0.2857,0.303
@@ -91,6 +100,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-25 21:04:05.527609,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Nordsjælland,-0.030299999999999994,0.6364,0.6667
 2023-09-25 22:04:05.461172,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Las Vegas Raiders,Yes,-0.031399999999999983,0.2353,0.2667
 2023-09-26 06:03:49.638340,Player Points - Player Points - Viktor Hovland - Player Points - Viktor Hovland,Under 2.5,-0.03179999999999994,0.5238,0.5556
+2023-09-26 08:06:18.441920,MLB Futures - To Make The Playoffs - To Make The Playoffs - Miami Marlins,No,-0.031799999999999995,0.4444,0.4762
 2023-09-26 02:04:05.468733,Championship - England Championship 2023/24 - Top 6 Finish,Sunderland,-0.03260000000000002,0.3448,0.3774
 2023-09-25 21:04:05.515990,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Hvidovre IF,-0.03410000000000002,0.875,0.9091
 2023-09-26 06:03:49.317512,Player Points - Player Points - Brooks Koepka - Player Points - Brooks Koepka,Over 2.5,-0.0348,0.4,0.4348
@@ -104,6 +114,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-25 22:04:05.615783,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Tennessee Titans,Yes,-0.04630000000000001,0.3704,0.4167
 2023-09-25 21:04:05.504495,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Nordsjælland,-0.05710000000000001,0.1429,0.2
 2023-09-25 22:04:05.509335,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Minnesota Vikings,Yes,-0.05879999999999996,0.2353,0.2941
+2023-09-26 08:06:18.361736,MLB Futures - To Make The Playoffs - To Make The Playoffs - Arizona Diamondbacks,Yes,-0.06099999999999994,0.8214,0.8824
 2023-09-25 22:04:05.375134,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Green Bay Packers,No,-0.08039999999999997,0.4651,0.5455
 2023-09-25 22:04:05.492834,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Miami Dolphins,No,-0.08430000000000001,0.1538,0.2381
 2023-09-25 22:04:05.345892,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Denver Broncos,Yes,-0.08549999999999999,0.125,0.2105
@@ -115,4 +126,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-25 22:04:05.298554,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Carolina Panthers,Yes,-0.1336,0.0769,0.2105
 2023-09-25 22:04:05.427142,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Jacksonville Jaguars,Yes,-0.14069999999999994,0.5652,0.7059
 2023-09-25 22:04:05.571225,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Pittsburgh Steelers,No,-0.1703,0.5122,0.6825
+2023-09-26 08:06:18.422301,MLB Futures - To Make The Playoffs - To Make The Playoffs - Houston Astros,No,-0.1779,0.339,0.5169
+2023-09-26 08:06:18.463162,MLB Futures - To Make The Playoffs - To Make The Playoffs - Seattle Mariners,Yes,-0.197,0.3774,0.5744
 2023-09-25 22:04:05.560053,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - New York Jets,Yes,-0.4223,0.1333,0.5556
