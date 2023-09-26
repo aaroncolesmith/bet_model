@@ -31,8 +31,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-25 22:04:05.179192,NFC North - NFC North 2023/24 - NFC North Winner,Green Bay Packers,0.015400000000000025,0.4,0.3846
 2023-09-25 22:04:05.037567,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Kansas City Chiefs,0.01469999999999999,0.25,0.2353
 2023-09-25 22:03:56.159469,Championship - England Championship 2023/24 - To Be Relegated,Swansea City,0.01469999999999999,0.25,0.2353
-2023-09-25 22:04:05.023214,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Cincinnati Bengals,0.014100000000000001,0.0526,0.0385
 2023-09-25 22:04:05.583052,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - San Francisco 49ers,Yes,0.014100000000000001,0.9615,0.9474
+2023-09-25 22:04:05.023214,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Cincinnati Bengals,0.014100000000000001,0.0526,0.0385
 2023-09-25 14:02:13.119086,LKL - Lithuania LKL 2023/24 - Outright,Zalgiris,0.013900000000000023,0.8889,0.875
 2023-09-25 21:04:05.527609,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Silkeborg IF,0.01150000000000001,0.3448,0.3333
 2023-09-25 18:02:18.691778,MLS - MLS 2023 - Top Goalscorer,Juan Hernandez (CLB),0.011199999999999995,0.0588,0.0476
@@ -46,13 +46,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-25 22:03:56.151748,Championship - England Championship 2023/24 - To Be Promoted,Coventry City,-0.013999999999999999,0.0769,0.0909
 2023-09-25 22:04:05.583052,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - San Francisco 49ers,No,-0.015899999999999997,0.1053,0.1212
 2023-09-25 18:02:18.691778,MLS - MLS 2023 - Top Goalscorer,Daniel Gazdag (PHI),-0.018099999999999998,0.0588,0.0769
-2023-09-25 18:02:18.691778,MLS - MLS 2023 - Top Goalscorer,Jesus Ferreira (DAL),-0.018200000000000004,0.0294,0.0476
 2023-09-25 18:02:18.691778,MLS - MLS 2023 - Top Goalscorer,Cristian Espinoza (SJE),-0.018200000000000004,0.0294,0.0476
+2023-09-25 18:02:18.691778,MLS - MLS 2023 - Top Goalscorer,Jesus Ferreira (DAL),-0.018200000000000004,0.0294,0.0476
 2023-09-25 18:02:18.684383,MLS - MLS 2023 - Winner,FC Cincinnati,-0.01820000000000002,0.1818,0.2
 2023-09-25 22:04:05.249455,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Arizona Cardinals,Yes,-0.0203,0.0385,0.0588
 2023-09-25 22:04:05.357505,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Detroit Lions,No,-0.021799999999999986,0.3704,0.3922
 2023-09-25 22:04:05.548504,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - New York Giants,Yes,-0.027600000000000013,0.2105,0.2381
 2023-09-25 21:04:05.527609,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Nordsjælland,-0.030299999999999994,0.6364,0.6667
+2023-09-25 22:04:05.461172,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Las Vegas Raiders,Yes,-0.031399999999999983,0.2353,0.2667
 2023-09-25 18:02:18.691778,MLS - MLS 2023 - Top Goalscorer,Lionel Messi (MIA),-0.03219999999999999,0.0345,0.0667
 2023-09-25 21:04:05.515990,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Hvidovre IF,-0.03410000000000002,0.875,0.9091
 2023-09-25 22:04:05.160706,NFC East - NFC East 2023/24 - NFC East Winner,Dallas Cowboys,-0.03620000000000001,0.4082,0.4444
@@ -73,6 +74,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-25 18:02:18.684383,MLS - MLS 2023 - Winner,New York Red Bulls,-0.0901,0.0099,0.1
 2023-09-25 22:04:05.409022,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Indianapolis Colts,No,-0.09040000000000004,0.697,0.7874
 2023-09-25 22:04:05.472659,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Los Angeles Chargers,No,-0.10149999999999992,0.5652,0.6667
+2023-09-25 22:04:05.333770,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Dallas Cowboys,Yes,-0.1049,0.8182,0.9231
 2023-09-25 22:04:05.275831,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Baltimore Ravens,Yes,-0.11319999999999997,0.6429,0.7561
 2023-09-25 22:04:05.298554,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Carolina Panthers,Yes,-0.1336,0.0769,0.2105
 2023-09-25 22:04:05.427142,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Jacksonville Jaguars,Yes,-0.14069999999999994,0.5652,0.7059
