@@ -5,8 +5,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-26 08:06:18.361736,MLB Futures - To Make The Playoffs - To Make The Playoffs - Arizona Diamondbacks,No,0.0673,0.2273,0.16
 2023-09-26 09:06:54.005268,Season Player Props - Average Points Per Game - 2023-24 Regular Season - DeMar DeRozan (CHI) - PPG,Under 24.5,0.04139999999999999,0.5652,0.5238
 2023-09-26 02:04:05.468733,Championship - England Championship 2023/24 - Top 6 Finish,Swansea City,0.03330000000000001,0.1,0.0667
-2023-09-26 06:03:49.638340,Player Points - Player Points - Viktor Hovland - Player Points - Viktor Hovland,Over 2.5,0.033299999999999996,0.5455,0.5122
 2023-09-26 06:03:48.685345,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Texas Rangers,0.033299999999999996,0.1333,0.1
+2023-09-26 06:03:49.638340,Player Points - Player Points - Viktor Hovland - Player Points - Viktor Hovland,Over 2.5,0.033299999999999996,0.5455,0.5122
 2023-09-26 10:08:02.032600,Season Player Props - Average Threes Made Per Game - 2023/24 Regular Season - Luka Doncic (DAL),Over 2.5,0.03179999999999994,0.5556,0.5238
 2023-09-26 02:04:05.468733,Championship - England Championship 2023/24 - Top 6 Finish,Hull City,0.031399999999999983,0.2667,0.2353
 2023-09-26 10:08:02.107697,Season Player Props - Average Threes Made Per Game - 2023/24 Regular Season - Klay Thompson (GSW),Under 4.5,0.030399999999999983,0.5652,0.5348
@@ -15,25 +15,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-26 08:06:18.441920,MLB Futures - To Make The Playoffs - To Make The Playoffs - Miami Marlins,Yes,0.024499999999999966,0.6078,0.5833
 2023-09-26 09:07:02.403572,Main Markets - Ryder Cup 2023 - Winner,Europe,0.023799999999999988,0.5,0.4762
 2023-09-26 06:03:49.652971,Player Points - Player Points - Wyndham Clark - Player Points - Wyndham Clark,Over 1.5,0.022699999999999998,0.4878,0.4651
-2023-09-26 02:04:05.468733,Championship - England Championship 2023/24 - Top 6 Finish,Coventry City,0.022199999999999998,0.2222,0.2
 2023-09-26 01:03:43.464702,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Caleb Williams,0.022199999999999998,0.2222,0.2
+2023-09-26 02:04:05.468733,Championship - England Championship 2023/24 - Top 6 Finish,Coventry City,0.022199999999999998,0.2222,0.2
 2023-09-26 02:04:05.468733,Championship - England Championship 2023/24 - Top 6 Finish,West Bromwich Albion,0.021999999999999964,0.3077,0.2857
 2023-09-26 04:03:47.236716,Main Markets - Ryder Cup 2023 - Winner,Europe,0.021699999999999997,0.4762,0.4545
 2023-09-26 02:04:06.551550,Allsvenskan - Allsvenskan 2023 - Winner,IF Elfsborg,0.02100000000000002,0.3846,0.3636
-2023-09-26 09:06:53.961441,Season Player Props - Average Points Per Game - 2023-24 Regular Season - Anthony Edwards (MIN) - PPG,Over 25.5,0.02079999999999993,0.5556,0.5348
 2023-09-26 10:08:01.803595,Season Player Props - Average Rebounds Per Game - 2023-24 Regular Sesaon - Nikola Jokic -RPG,Over 11.5,0.02079999999999993,0.5556,0.5348
-2023-09-26 09:06:53.773255,Season Player Props - Average Assists Per Game - 2023-24 Regular Season - Domantas Sabonis (SAC),Over 6.5,0.01970000000000005,0.5652,0.5455
-2023-09-26 10:08:01.736953,Season Player Props - Average Rebounds Per Game - 2023-24 Regular Sesaon - Julius Randle -RPG,Under 10.5,0.01970000000000005,0.5652,0.5455
+2023-09-26 09:06:53.961441,Season Player Props - Average Points Per Game - 2023-24 Regular Season - Anthony Edwards (MIN) - PPG,Over 25.5,0.02079999999999993,0.5556,0.5348
 2023-09-26 09:06:53.885420,Season Player Props - Average Assists Per Game - 2023-24 Regular Season - Stephen Curry (GSW),Under 6.5,0.01970000000000005,0.5652,0.5455
 2023-09-26 09:06:53.722155,Season Player Props - Average Assists Per Game - 2023-24 Regular Season - Darius Garland (CLE),Under 8.5,0.01970000000000005,0.5652,0.5455
+2023-09-26 10:08:01.736953,Season Player Props - Average Rebounds Per Game - 2023-24 Regular Sesaon - Julius Randle -RPG,Under 10.5,0.01970000000000005,0.5652,0.5455
+2023-09-26 09:06:53.773255,Season Player Props - Average Assists Per Game - 2023-24 Regular Season - Domantas Sabonis (SAC),Over 6.5,0.01970000000000005,0.5652,0.5455
 2023-09-26 02:04:06.490344,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,Braga,0.0189,0.0385,0.0196
 2023-09-26 08:06:18.385838,MLB Futures - To Make The Playoffs - To Make The Playoffs - Chicago Cubs,Yes,0.01880000000000004,0.5744,0.5556
 2023-09-26 07:06:20.906330,Boxing Lines - Murat Gassiev vs Otto Wallin - To Win the Bout,Otto Wallin,0.017299999999999982,0.303,0.2857
+2023-09-26 11:07:30.873966,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Mario Barrios,0.014900000000000024,0.3226,0.3077
 2023-09-26 07:06:20.732283,Elite Boxing - Saul 'Canelo' Alvarez vs Jermell Charlo - To Win the Bout,Jermell Charlo,0.01469999999999999,0.25,0.2353
 2023-09-26 08:06:18.479789,MLB Futures - To Make The Playoffs - To Make The Playoffs - Texas Rangers,Yes,0.014499999999999957,0.9901,0.9756
 2023-09-26 06:03:48.699327,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Minnesota Twins,0.01440000000000001,0.1053,0.0909
-2023-09-26 02:04:05.450215,Championship - England Championship 2023/24 - To Finish Bottom,Plymouth Argyle,0.013999999999999999,0.0909,0.0769
 2023-09-26 08:06:18.404047,MLB Futures - To Make The Playoffs - To Make The Playoffs - Cincinnati Reds,Yes,0.013999999999999999,0.0909,0.0769
+2023-09-26 02:04:05.450215,Championship - England Championship 2023/24 - To Finish Bottom,Plymouth Argyle,0.013999999999999999,0.0909,0.0769
 2023-09-26 02:04:05.450215,Championship - England Championship 2023/24 - To Finish Bottom,Queens Park Rangers,0.013899999999999996,0.125,0.1111
 2023-09-26 05:03:39.882430,Boxing Lines - Murat Gassiev vs Otto Wallin - To Win the Bout,Murat Gassiev,0.0131,0.7778,0.7647
 2023-09-26 05:03:39.895785,Boxing Lines - Opetaia Jai Tapu vs Jordan Thompson - To Win the Bout,Opetaia Jai Tapu,0.012899999999999912,0.8462,0.8333
@@ -52,20 +53,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-26 05:03:39.975866,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Leigh Wood,-0.01429999999999998,0.726,0.7403
 2023-09-26 04:03:38.352489,Super Lig - Turkey Super Lig 2023/24 - Winner,Adana Demirspor,-0.014599999999999998,0.005,0.0196
 2023-09-26 08:06:18.479789,MLB Futures - To Make The Playoffs - To Make The Playoffs - Texas Rangers,No,-0.014899999999999997,0.0476,0.0625
+2023-09-26 11:07:30.873966,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Yordenis Ugas,-0.015800000000000036,0.7403,0.7561
 2023-09-26 05:03:39.200768,NFL Requested Specials - Requested Specials: +500 or Lower - Season Specials,Seattle Seahawks to Make the Playoffs & Damar Hamlin to Win Comeback Player of the Year,-0.016699999999999993,0.25,0.2667
 2023-09-26 05:03:39.882430,Boxing Lines - Murat Gassiev vs Otto Wallin - To Win the Bout,Otto Wallin,-0.017299999999999982,0.2857,0.303
 2023-09-26 02:04:05.468733,Championship - England Championship 2023/24 - Top 6 Finish,Cardiff City,-0.0179,0.125,0.1429
 2023-09-26 04:03:38.352489,Super Lig - Turkey Super Lig 2023/24 - Winner,Trabzonspor,-0.0189,0.0196,0.0385
 2023-09-26 02:04:05.450215,Championship - England Championship 2023/24 - To Finish Bottom,Swansea City,-0.019099999999999992,0.0476,0.0667
 2023-09-26 04:03:47.236716,Main Markets - Ryder Cup 2023 - Winner,USA,-0.02169999999999994,0.5238,0.5455
-2023-09-26 10:08:01.803595,Season Player Props - Average Rebounds Per Game - 2023-24 Regular Sesaon - Nikola Jokic -RPG,Under 11.5,-0.022600000000000064,0.5122,0.5348
 2023-09-26 09:06:53.961441,Season Player Props - Average Points Per Game - 2023-24 Regular Season - Anthony Edwards (MIN) - PPG,Under 25.5,-0.022600000000000064,0.5122,0.5348
+2023-09-26 10:08:01.803595,Season Player Props - Average Rebounds Per Game - 2023-24 Regular Sesaon - Nikola Jokic -RPG,Under 11.5,-0.022600000000000064,0.5122,0.5348
 2023-09-26 02:04:06.490344,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,FC Porto,-0.023799999999999988,0.4762,0.5
 2023-09-26 04:03:38.352489,Super Lig - Turkey Super Lig 2023/24 - Winner,Besiktas,-0.023799999999999988,0.1429,0.1667
 2023-09-26 10:08:01.736953,Season Player Props - Average Rebounds Per Game - 2023-24 Regular Sesaon - Julius Randle -RPG,Over 10.5,-0.023800000000000043,0.5,0.5238
-2023-09-26 09:06:53.722155,Season Player Props - Average Assists Per Game - 2023-24 Regular Season - Darius Garland (CLE),Over 8.5,-0.023800000000000043,0.5,0.5238
 2023-09-26 09:07:02.403572,Main Markets - Ryder Cup 2023 - Winner,USA,-0.023800000000000043,0.5,0.5238
 2023-09-26 09:06:53.773255,Season Player Props - Average Assists Per Game - 2023-24 Regular Season - Domantas Sabonis (SAC),Under 6.5,-0.023800000000000043,0.5,0.5238
+2023-09-26 09:06:53.722155,Season Player Props - Average Assists Per Game - 2023-24 Regular Season - Darius Garland (CLE),Over 8.5,-0.023800000000000043,0.5,0.5238
 2023-09-26 09:06:53.885420,Season Player Props - Average Assists Per Game - 2023-24 Regular Season - Stephen Curry (GSW),Over 6.5,-0.023800000000000043,0.5,0.5238
 2023-09-26 06:03:49.402525,Player Points - Player Points - Ludvig Aberg - Player Points - Ludvig Aberg,Under 1.5,-0.025499999999999967,0.4,0.4255
 2023-09-26 06:03:49.652971,Player Points - Player Points - Wyndham Clark - Player Points - Wyndham Clark,Under 1.5,-0.025599999999999956,0.5744,0.6
@@ -77,8 +79,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-26 10:08:02.032600,Season Player Props - Average Threes Made Per Game - 2023/24 Regular Season - Luka Doncic (DAL),Under 2.5,-0.033299999999999996,0.5122,0.5455
 2023-09-26 06:03:49.317512,Player Points - Player Points - Brooks Koepka - Player Points - Brooks Koepka,Over 2.5,-0.0348,0.4,0.4348
 2023-09-26 10:08:02.107697,Season Player Props - Average Threes Made Per Game - 2023/24 Regular Season - Klay Thompson (GSW),Over 4.5,-0.03480000000000005,0.5,0.5348
-2023-09-26 09:06:54.005268,Season Player Props - Average Points Per Game - 2023-24 Regular Season - DeMar DeRozan (CHI) - PPG,Over 24.5,-0.045499999999999985,0.5,0.5455
 2023-09-26 02:04:05.468733,Championship - England Championship 2023/24 - Top 6 Finish,Southampton,-0.045499999999999985,0.4545,0.5
+2023-09-26 09:06:54.005268,Season Player Props - Average Points Per Game - 2023-24 Regular Season - DeMar DeRozan (CHI) - PPG,Over 24.5,-0.045499999999999985,0.5,0.5455
 2023-09-26 08:06:18.361736,MLB Futures - To Make The Playoffs - To Make The Playoffs - Arizona Diamondbacks,Yes,-0.06099999999999994,0.8214,0.8824
 2023-09-26 08:06:18.422301,MLB Futures - To Make The Playoffs - To Make The Playoffs - Houston Astros,No,-0.1779,0.339,0.5169
 2023-09-26 08:06:18.463162,MLB Futures - To Make The Playoffs - To Make The Playoffs - Seattle Mariners,Yes,-0.197,0.3774,0.5744
