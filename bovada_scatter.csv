@@ -1,17 +1,12 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-09-26 14:09:22.523317,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,CJ Stroud,0.2143,0.2857,0.0714
-2023-09-26 14:09:21.980086,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Cincinnati Bengals,No,0.14739999999999998,0.5556,0.4082
 2023-09-26 23:06:02.638263,La Liga - Spain La Liga 2023/24 - Winner,Athletic Bilbao,0.07859999999999999,0.0909,0.0123
 2023-09-26 16:08:30.586824,Super Bowl LVIII - Superbowl 58 (2024) - Winning State,Any Other State,0.07490000000000002,0.4082,0.3333
-2023-09-26 14:09:22.456387,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,T.J. Watt,0.0635,0.2857,0.2222
-2023-09-26 14:09:22.523317,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Devon Achane,0.06309999999999999,0.0909,0.0278
-2023-09-26 14:09:22.502333,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Will Anderson,0.05550000000000002,0.2222,0.1667
 2023-09-26 21:05:52.237025,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Tampa Bay Buccaneers,No,0.05479999999999996,0.6774,0.6226
+2023-09-27 03:07:41.286390,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Lorient,0.05310000000000001,0.2857,0.2326
+2023-09-27 03:07:53.044396,"Republican Debate 2: Simi Valley, CA - Donald Trump Detroit Speech - First Cliche - Trump Detroit Speech First Cliche",Crooked Joe Biden,0.052000000000000005,0.1429,0.0909
 2023-09-27 00:05:56.615489,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Texas Rangers,0.04999999999999999,0.25,0.2
 2023-09-26 19:05:19.621213,Player Points - Player Points - Sam Burns - Player Points - Sam Burns,Over 1.5,0.04700000000000004,0.5348,0.4878
-2023-09-26 14:09:24.028670,Player Points - Player Points - Robert MacIntyre - Player Points - Robert MacIntyre,Under 1.5,0.04179999999999995,0.697,0.6552
-2023-09-26 14:09:22.523317,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Nathaniel Dell,0.0392,0.0588,0.0196
-2023-09-26 14:09:22.502333,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Jack Campbell,0.0334,0.0769,0.0435
+2023-09-27 03:07:41.312031,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Reims,0.03259999999999999,0.2326,0.2
 2023-09-26 16:08:30.506536,Super Bowl LVIII - Superbowl 58 (2024) - Conference Winner,AFC,0.03179999999999994,0.5556,0.5238
 2023-09-26 16:08:30.586824,Super Bowl LVIII - Superbowl 58 (2024) - Winning State,Florida,0.031,0.16,0.129
 2023-09-26 16:08:30.603918,Super Bowl LVIII - Superbowl 58 (2024) - Winning Division,AFC East,0.030200000000000005,0.2041,0.1739
@@ -20,110 +15,105 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-26 23:06:02.638263,La Liga - Spain La Liga 2023/24 - Winner,Atlético Madrid,0.027800000000000005,0.1111,0.0833
 2023-09-26 16:08:30.688909,NFC Championship - NFC Championship 2023/24 - NFC Conference Winning Division,NFC West,0.027500000000000024,0.3846,0.3571
 2023-09-26 16:08:30.646807,AFC Championship - AFC Championship 2023/24 - AFC Conference Winning Division,AFC East,0.026500000000000024,0.3774,0.3509
+2023-09-27 03:07:52.912094,"Republican Debate 2: Simi Valley, CA - California Debate Winner - Debate Winner",Nikki Haley,0.02560000000000001,0.3333,0.3077
+2023-09-27 03:07:41.301621,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Reims,0.02310000000000001,0.1,0.0769
 2023-09-26 21:05:52.065647,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Los Angeles Rams,No,0.022299999999999986,0.8182,0.7959
+2023-09-27 03:07:41.182619,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Atalanta,0.021999999999999964,0.3077,0.2857
 2023-09-27 00:05:57.400767,Boxing Lines - Joshua Buatsi vs Dan Azeez - To Win the Bout,Joshua Buatsi,0.021700000000000053,0.7778,0.7561
-2023-09-26 14:09:22.502333,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Tuli Tuipulotu,0.0206,0.0385,0.0179
+2023-09-27 03:07:42.899120,Super Lig - Turkey Super Lig 2023/24 - Winner,Galatasaray,0.021699999999999997,0.4762,0.4545
+2023-09-27 03:07:41.301621,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Monaco,0.02169999999999994,0.5455,0.5238
 2023-09-26 21:05:52.737593,Boxing Lines - Elijah Garcia vs Jose Armando Resendiz - To Win the Bout,Jose Armando Resendiz,0.019299999999999984,0.2632,0.2439
+2023-09-27 03:07:41.254924,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Marseille,0.019000000000000017,0.2857,0.2667
+2023-09-27 03:07:41.154983,Serie A - Italy Serie A 2023/24 - To Be Relegated,Salernitana,0.018900000000000028,0.4444,0.4255
 2023-09-26 23:06:03.651132,DFB Pokal - Germany DFB Pokal 2023/24 - Winner,Bayern Munich,0.018900000000000028,0.4444,0.4255
+2023-09-27 03:07:40.956392,La Liga - Spain La Liga 2023/24 - To Be Relegated,Almería,0.01880000000000004,0.5744,0.5556
+2023-09-27 03:07:41.254924,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Monaco,0.01820000000000002,0.2,0.1818
 2023-09-26 18:06:51.918083,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Yordenis Ugas,0.018100000000000005,0.7403,0.7222
 2023-09-26 23:06:03.651132,DFB Pokal - Germany DFB Pokal 2023/24 - Winner,Bayer Leverkusen,0.018099999999999998,0.0769,0.0588
 2023-09-27 00:05:56.655802,MLB Futures - MLB 2023 American League West - American League West Winner,Texas Rangers,0.017900000000000027,0.875,0.8571
+2023-09-27 03:07:41.254924,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Nice,0.0174,0.25,0.2326
 2023-09-26 18:06:51.735127,Elite Boxing - Saul 'Canelo' Alvarez vs Jermell Charlo - To Win the Bout,Jermell Charlo,0.0174,0.25,0.2326
 2023-09-26 19:05:19.197084,Point Match-Ups - Brian Harman vs Robert MacIntyre - Point Match-Ups,Brian Harman,0.017299999999999982,0.5917,0.5744
 2023-09-26 20:03:24.232851,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Yordenis Ugas,0.015800000000000036,0.7561,0.7403
-2023-09-26 14:09:23.693912,Day 1 - Day 1 - Day 1 Fourballs,Europe,0.015400000000000025,0.4,0.3846
-2023-09-26 14:09:22.502333,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Jalen Carter,0.015400000000000025,0.4,0.3846
-2023-09-26 14:09:22.502333,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Brian Branch,0.015300000000000001,0.0588,0.0435
 2023-09-26 16:08:30.565582,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,MIA Dolphins to beat SF 49ers,0.015299999999999998,0.037,0.0217
 2023-09-26 22:08:49.415674,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Mario Barrios,0.014900000000000024,0.3226,0.3077
+2023-09-27 03:07:41.182619,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Juventus,0.014700000000000046,0.75,0.7353
 2023-09-27 00:05:56.655802,MLB Futures - MLB 2023 American League West - American League West Winner,Seattle Mariners,0.01440000000000001,0.1053,0.0909
 2023-09-26 18:06:51.777036,Boxing Lines - Ellie Scotney vs Laura Soledad Griffa - To Win the Bout,Ellie Scotney,0.014100000000000001,0.9474,0.9333
 2023-09-26 16:08:30.538399,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Matchup,MIA Dolphins vs PHI Eagles,0.014099999999999998,0.0435,0.0294
 2023-09-26 21:05:52.179818,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Philadelphia Eagles,Yes,0.014000000000000012,0.9231,0.9091
-2023-09-27 00:05:56.615489,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Toronto Blue Jays,0.013899999999999996,0.125,0.1111
+2023-09-27 03:07:41.254924,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Rennes,0.013999999999999999,0.0909,0.0769
+2023-09-27 03:07:40.968952,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Sevilla,0.013999999999999999,0.0909,0.0769
 2023-09-26 16:08:30.688909,NFC Championship - NFC Championship 2023/24 - NFC Conference Winning Division,NFC North,0.013899999999999996,0.1739,0.16
+2023-09-27 00:05:56.615489,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Toronto Blue Jays,0.013899999999999996,0.125,0.1111
+2023-09-27 03:07:41.025572,La Liga - Spain La Liga 2023/24 - Barcelona - Trophy Special,La Liga & Champions League,0.0131,0.0476,0.0345
 2023-09-26 15:08:21.502653,Elite Boxing - Saul 'Canelo' Alvarez vs Jermell Charlo - To Win the Bout,Saul 'Canelo' Alvarez,0.0131,0.8131,0.8
+2023-09-27 03:07:57.949080,Player Points - Player Points - Wyndham Clark - Player Points - Wyndham Clark,Over 1.5,0.012199999999999989,0.5,0.4878
 2023-09-27 01:06:27.069090,Main Markets - Ryder Cup 2023 - Winner,Europe,0.012199999999999989,0.5122,0.5
-2023-09-26 14:09:22.456387,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Myles Garrett,0.011700000000000016,0.2222,0.2105
+2023-09-27 03:07:53.659233,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,0.011600000000000055,0.5238,0.5122
 2023-09-27 02:05:03.400864,Point Match-Ups - Tommy Fleetwood vs Brooks Koepka - Point Match-Ups,Brooks Koepka,0.011600000000000055,0.5238,0.5122
-2023-09-26 18:06:51.994136,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,0.01150000000000001,0.3448,0.3333
 2023-09-26 20:03:24.284829,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,0.01150000000000001,0.3448,0.3333
+2023-09-26 18:06:51.994136,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,0.01150000000000001,0.3448,0.3333
 2023-09-26 19:05:19.011067,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Leigh Wood,0.011099999999999999,0.7333,0.7222
 2023-09-27 02:05:02.821666,Boxing Lines - Cheavon Clarke vs Vasil Ducar - To Win the Bout,Vasil Ducar,0.011099999999999999,0.1111,0.1
 2023-09-26 18:06:51.900030,Boxing Lines - Opetaia Jai Tapu vs Jordan Thompson - To Win the Bout,Opetaia Jai Tapu,0.01090000000000002,0.8571,0.8462
 2023-09-26 16:08:30.538399,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Matchup,MIA Dolphins vs DAL Cowboys,0.010700000000000001,0.0385,0.0278
-2023-09-26 14:09:22.456387,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Aidan Hutchinson,0.010100000000000001,0.0345,0.0244
 2023-09-27 02:05:03.346323,Point Match-Ups - Rory McIIroy vs Patrick Cantlay - Point Match-Ups,Rory McIlroy,0.010099999999999998,0.5556,0.5455
-2023-09-27 00:05:56.615489,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Seattle Mariners,-0.010099999999999998,0.0952,0.1053
-2023-09-26 23:06:02.638263,La Liga - Spain La Liga 2023/24 - Winner,FC Barcelona,-0.010099999999999998,0.4444,0.4545
+2023-09-27 03:07:57.446679,Player Points - Player Points - Justin Rose - Player Points - Justin Rose,Under 1.5,0.010099999999999998,0.5556,0.5455
 2023-09-27 02:05:03.400864,Point Match-Ups - Tommy Fleetwood vs Brooks Koepka - Point Match-Ups,Tommy Fleetwood,-0.010099999999999998,0.5455,0.5556
+2023-09-26 23:06:02.638263,La Liga - Spain La Liga 2023/24 - Winner,FC Barcelona,-0.010099999999999998,0.4444,0.4545
+2023-09-27 03:07:42.899120,Super Lig - Turkey Super Lig 2023/24 - Winner,Fenerbahce,-0.010099999999999998,0.4444,0.4545
+2023-09-27 00:05:56.615489,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Seattle Mariners,-0.010099999999999998,0.0952,0.1053
+2023-09-27 03:07:53.690302,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Michelle Obama,-0.0102,0.0667,0.0769
+2023-09-27 03:07:57.332878,Player Points - Player Points - Collin Morikawa - Player Points - Collin Morikawa,Under 1.5,-0.010599999999999998,0.4545,0.4651
 2023-09-26 16:08:30.646807,AFC Championship - AFC Championship 2023/24 - AFC Conference Winning Division,AFC West,-0.010699999999999987,0.3226,0.3333
 2023-09-26 21:05:52.179818,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Philadelphia Eagles,No,-0.010899999999999993,0.1429,0.1538
 2023-09-26 23:06:03.651132,DFB Pokal - Germany DFB Pokal 2023/24 - Winner,RB Leipzig,-0.010899999999999993,0.1429,0.1538
-2023-09-26 16:08:30.688909,NFC Championship - NFC Championship 2023/24 - NFC Conference Winning Division,NFC East,-0.011099999999999999,0.4651,0.4762
-2023-09-27 02:05:03.293431,Point Match-Ups - Brian Harman vs Robert MacIntyre - Point Match-Ups,Robert MacIntyre,-0.011099999999999999,0.4651,0.4762
 2023-09-26 20:03:24.284829,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Leigh Wood,-0.011099999999999999,0.7222,0.7333
 2023-09-27 01:06:26.448944,Boxing Lines - Cheavon Clarke vs Vasil Ducar - To Win the Bout,Vasil Ducar,-0.011099999999999999,0.1,0.1111
+2023-09-27 03:07:40.956392,La Liga - Spain La Liga 2023/24 - To Be Relegated,Mallorca,-0.011099999999999999,0.2667,0.2778
 2023-09-26 18:06:51.994136,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Leigh Wood,-0.011099999999999999,0.7222,0.7333
-2023-09-26 14:09:22.523317,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Tank Bigsby,-0.011200000000000002,0.0132,0.0244
-2023-09-26 14:09:22.523317,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Rashee Rice,-0.011399999999999997,0.0164,0.0278
+2023-09-27 02:05:03.293431,Point Match-Ups - Brian Harman vs Robert MacIntyre - Point Match-Ups,Robert MacIntyre,-0.011099999999999999,0.4651,0.4762
+2023-09-26 16:08:30.688909,NFC Championship - NFC Championship 2023/24 - NFC Conference Winning Division,NFC East,-0.011099999999999999,0.4651,0.4762
 2023-09-26 19:05:19.011067,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,-0.01150000000000001,0.3333,0.3448
 2023-09-26 16:08:30.646807,AFC Championship - AFC Championship 2023/24 - AFC Conference Winning Division,AFC North,-0.01150000000000001,0.3333,0.3448
 2023-09-26 19:05:19.197084,Point Match-Ups - Brian Harman vs Robert MacIntyre - Point Match-Ups,Robert MacIntyre,-0.0116,0.4762,0.4878
 2023-09-27 02:05:03.346323,Point Match-Ups - Rory McIIroy vs Patrick Cantlay - Point Match-Ups,Patrick Cantlay,-0.011600000000000055,0.5122,0.5238
+2023-09-27 03:07:57.446679,Player Points - Player Points - Justin Rose - Player Points - Justin Rose,Over 1.5,-0.011600000000000055,0.5122,0.5238
 2023-09-26 18:06:51.900030,Boxing Lines - Opetaia Jai Tapu vs Jordan Thompson - To Win the Bout,Jordan Thompson,-0.011700000000000016,0.2105,0.2222
-2023-09-26 14:09:22.502333,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Myles Murphy,-0.0118,0.0099,0.0217
-2023-09-26 14:09:22.502333,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Cam Smith,-0.0118,0.0099,0.0217
 2023-09-27 01:06:27.069090,Main Markets - Ryder Cup 2023 - Winner,USA,-0.012199999999999989,0.4878,0.5
-2023-09-26 14:09:22.523317,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Jaylin Hyatt,-0.013,0.0066,0.0196
-2023-09-26 14:09:22.523317,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Jonathan Mingo,-0.013,0.0066,0.0196
+2023-09-27 03:07:53.659233,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Republican,-0.012199999999999989,0.5,0.5122
 2023-09-26 18:06:51.735127,Elite Boxing - Saul 'Canelo' Alvarez vs Jermell Charlo - To Win the Bout,Saul 'Canelo' Alvarez,-0.0131,0.8,0.8131
-2023-09-26 14:09:22.456387,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Nick Bosa,-0.0131,0.0345,0.0476
 2023-09-26 23:06:03.651132,DFB Pokal - Germany DFB Pokal 2023/24 - Winner,Borussia Mönchengladbach,-0.014099999999999998,0.0244,0.0385
 2023-09-26 21:05:52.737593,Boxing Lines - Elijah Garcia vs Jose Armando Resendiz - To Win the Bout,Elijah Garcia,-0.01430000000000009,0.8039,0.8182
-2023-09-26 14:09:22.502333,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Calijah Kancey,-0.0145,0.0099,0.0244
-2023-09-26 14:09:22.502333,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Deonte Banks,-0.0145,0.0099,0.0244
 2023-09-26 18:06:51.881266,Boxing Lines - Murat Gassiev vs Otto Wallin - To Win the Bout,Murat Gassiev,-0.014700000000000046,0.75,0.7647
-2023-09-26 14:09:22.523317,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Quentin Johnston,-0.014900000000000004,0.0196,0.0345
 2023-09-26 20:03:24.232851,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Mario Barrios,-0.014900000000000024,0.3077,0.3226
-2023-09-26 14:09:22.523317,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Tyler Scott,-0.0151,0.0066,0.0217
-2023-09-26 14:09:22.502333,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Tyree Wilson,-0.0157,0.0278,0.0435
 2023-09-26 22:08:49.415674,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Yordenis Ugas,-0.015800000000000036,0.7403,0.7561
-2023-09-26 14:09:22.523317,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Dalton Kincaid,-0.0162,0.0132,0.0294
 2023-09-26 16:08:30.586824,Super Bowl LVIII - Superbowl 58 (2024) - Winning State,Maryland,-0.016600000000000004,0.0667,0.0833
 2023-09-27 00:05:56.595259,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Houston Astros,-0.016700000000000007,0.0833,0.1
 2023-09-26 15:08:21.502653,Elite Boxing - Saul 'Canelo' Alvarez vs Jermell Charlo - To Win the Bout,Jermell Charlo,-0.0174,0.2326,0.25
-2023-09-26 14:09:22.523317,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Zach Charbonnet,-0.017800000000000003,0.0066,0.0244
-2023-09-26 14:09:22.523317,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Michael Mayer,-0.017800000000000003,0.0066,0.0244
-2023-09-26 14:09:22.502333,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Keion White,-0.0179,0.0099,0.0278
-2023-09-26 14:09:22.523317,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Zay Flowers,-0.018099999999999998,0.0588,0.0769
+2023-09-27 03:07:53.690302,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,-0.017600000000000005,0.3333,0.3509
+2023-09-27 03:07:41.286390,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Reims,-0.018099999999999998,0.0588,0.0769
 2023-09-27 00:05:56.615489,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Tampa Bay Rays,-0.01820000000000002,0.1818,0.2
 2023-09-27 00:05:49.123416,WNBA Championship - WNBA Championship 2023 - Outright Winner,Connecticut Sun,-0.01830000000000001,0.0769,0.0952
-2023-09-26 14:09:22.523317,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Jahmyr Gibbs,-0.019000000000000003,0.0435,0.0625
-2023-09-26 14:09:23.693912,Day 1 - Day 1 - Day 1 Fourballs,Tie,-0.019000000000000017,0.2667,0.2857
-2023-09-26 14:09:22.523317,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Jordan Addison,-0.019099999999999992,0.0476,0.0667
-2023-09-26 14:09:22.523317,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Tyjae Spears,-0.019499999999999997,0.0099,0.0294
+2023-09-27 03:07:41.154983,Serie A - Italy Serie A 2023/24 - To Be Relegated,Genoa,-0.019000000000000017,0.2667,0.2857
 2023-09-26 16:08:30.586824,Super Bowl LVIII - Superbowl 58 (2024) - Winning State,Texas,-0.019699999999999995,0.1053,0.125
 2023-09-26 21:05:52.065647,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Los Angeles Rams,Yes,-0.020299999999999985,0.25,0.2703
-2023-09-26 14:09:22.523317,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Cedric Tillman,-0.021199999999999997,0.0066,0.0278
 2023-09-27 00:05:57.400767,Boxing Lines - Joshua Buatsi vs Dan Azeez - To Win the Bout,Dan Azeez,-0.021999999999999964,0.2857,0.3077
+2023-09-27 03:07:41.182619,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Napoli,-0.02200000000000002,0.6923,0.7143
 2023-09-26 18:06:51.918083,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Mario Barrios,-0.022199999999999998,0.3226,0.3448
-2023-09-26 14:09:22.523317,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Josh Downs,-0.022400000000000003,0.0099,0.0323
-2023-09-26 14:09:22.523317,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Hendon Hooker,-0.0228,0.0066,0.0294
-2023-09-26 14:09:22.502333,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Will McDonald IV,-0.024600000000000004,0.0099,0.0345
+2023-09-27 03:07:41.254924,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Lyon,-0.023200000000000002,0.0244,0.0476
+2023-09-27 03:07:41.154983,Serie A - Italy Serie A 2023/24 - To Be Relegated,Frosinone,-0.023799999999999988,0.4762,0.5
 2023-09-26 16:08:30.603918,Super Bowl LVIII - Superbowl 58 (2024) - Winning Division,NFC East,-0.025099999999999983,0.2381,0.2632
-2023-09-26 14:09:22.523317,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Jaxon Smith-Njigba,-0.0253,0.0132,0.0385
-2023-09-26 14:09:22.502333,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Nolan Smith,-0.0286,0.0099,0.0385
 2023-09-26 16:08:30.688909,NFC Championship - NFC Championship 2023/24 - NFC Conference Winning Division,NFC South,-0.031,0.129,0.16
 2023-09-26 16:08:30.506536,Super Bowl LVIII - Superbowl 58 (2024) - Conference Winner,NFC,-0.033299999999999996,0.5122,0.5455
-2023-09-26 14:09:22.523317,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Bryce Young,-0.0344,0.0244,0.0588
+2023-09-27 03:07:41.037446,La Liga - Spain La Liga 2023/24 - Real Madrid - Trophy Specials,Copa del Rey & La Liga,-0.033300000000000024,0.1667,0.2
+2023-09-27 03:07:40.956392,La Liga - Spain La Liga 2023/24 - To Be Relegated,Sevilla,-0.03420000000000001,0.0769,0.1111
+2023-09-27 03:07:41.312031,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Lille,-0.035699999999999954,0.7143,0.75
 2023-09-26 19:05:19.621213,Player Points - Player Points - Sam Burns - Player Points - Sam Burns,Under 1.5,-0.03959999999999997,0.5348,0.5744
-2023-09-26 14:09:22.523317,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Puka Nacua,-0.04169999999999999,0.125,0.1667
+2023-09-27 03:07:41.301621,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Lille,-0.0464,0.5,0.5464
 2023-09-26 21:05:52.237025,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Tampa Bay Buccaneers,Yes,-0.052200000000000024,0.3922,0.4444
-2023-09-26 14:09:24.028670,Player Points - Player Points - Robert MacIntyre - Player Points - Robert MacIntyre,Over 1.5,-0.053100000000000036,0.3636,0.4167
+2023-09-27 03:07:41.254924,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Lille,-0.05710000000000001,0.1429,0.2
 2023-09-27 00:05:56.615489,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Houston Astros,-0.05710000000000001,0.1429,0.2
 2023-09-27 00:05:56.655802,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,-0.06139999999999998,0.1053,0.1667
-2023-09-26 14:09:22.523317,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Bijan Robinson,-0.07139999999999996,0.2857,0.3571
 2023-09-26 16:08:30.586824,Super Bowl LVIII - Superbowl 58 (2024) - Winning State,New Jersey + New York,-0.08360000000000001,0.0164,0.1
-2023-09-26 14:09:21.980086,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Cincinnati Bengals,Yes,-0.14300000000000002,0.5122,0.6552
-2023-09-26 14:09:22.523317,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Anthony Richardson,-0.1696,0.1429,0.3125
