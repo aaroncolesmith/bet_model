@@ -57,8 +57,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-27 10:07:58.003153,"Republican Debate 2: Simi Valley, CA - First to say ""Trump"" - First to say ""Trump""",Mike Pence,0.01820000000000002,0.2,0.1818
 2023-09-27 15:07:50.041141,EFL Cup - EFL Cup 2023/24 - Winner,Fulham,0.018200000000000004,0.0476,0.0294
 2023-09-27 15:07:50.041141,EFL Cup - EFL Cup 2023/24 - Winner,Ipswich Town,0.017800000000000003,0.0244,0.0066
-2023-09-27 10:07:58.106156,"Republican Debate 2: Simi Valley, CA - Which candidate will get the most time to speak? - Most Speaking Time",Mike Pence,0.016699999999999993,0.2667,0.25
+2023-09-27 22:06:14.296416,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,0.016700000000000048,0.75,0.7333
 2023-09-27 10:07:58.106156,"Republican Debate 2: Simi Valley, CA - Which candidate will get the most time to speak? - Most Speaking Time",Vivek Ramaswamy,0.016699999999999993,0.2667,0.25
+2023-09-27 10:07:58.106156,"Republican Debate 2: Simi Valley, CA - Which candidate will get the most time to speak? - Most Speaking Time",Mike Pence,0.016699999999999993,0.2667,0.25
 2023-09-27 15:07:52.596092,East Group A - East Group A 2023 - Winner,Philadelphia 76ers,0.016699999999999993,0.4167,0.4
 2023-09-27 12:03:08.482214,Eastern Conference - Eastern Conference Number 1 Seed - Number 1 Seed,Philadelphia 76ers,0.015700000000000006,0.1333,0.1176
 2023-09-27 13:07:50.340009,NBL - NBL 2023/2024 - To Make Top 4,Brisbane Bullets,0.015400000000000025,0.2857,0.2703
@@ -76,18 +77,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-27 13:07:50.353324,NBL - NBL 2023/2024 - To Make Top 6,Brisbane Bullets,0.012199999999999989,0.5,0.4878
 2023-09-27 20:06:54.351946,Elite Boxing - Saul 'Canelo' Alvarez vs Jermell Charlo - To Win the Bout,Jermell Charlo,0.0116,0.2469,0.2353
 2023-09-27 15:07:52.648392,East Group C - East Group C 2023 - Winner,Toronto Raptors,0.011300000000000004,0.2,0.1887
-2023-09-27 10:08:01.107061,MLB Futures - To Make The Playoffs - To Make The Playoffs - Texas Rangers,No,0.011199999999999995,0.0588,0.0476
 2023-09-27 14:08:01.414718,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,New York Knicks,0.011199999999999995,0.0588,0.0476
+2023-09-27 10:08:01.107061,MLB Futures - To Make The Playoffs - To Make The Playoffs - Texas Rangers,No,0.011199999999999995,0.0588,0.0476
 2023-09-27 13:07:48.195946,Atlantic Division - Atlantic Division 2023-24 - NY Knicks - Exact Finishing Position,1st,0.011099999999999999,0.1111,0.1
 2023-09-27 13:07:48.150865,Atlantic Division - Atlantic Division 2023-24 - Division Winner,New York Knicks,0.011099999999999999,0.1111,0.1
-2023-09-27 13:07:50.478168,NBL - NBL Regular Season Wins 2023/2024 - Cairns Taipans,Over 10.5,0.01100000000000001,0.5348,0.5238
 2023-09-27 13:07:52.809986,Phoenix Suns - 2023-24 Regular Season Wins O/U - Team Wins,Under 51.5,0.01100000000000001,0.5348,0.5238
-2023-09-27 13:07:48.150865,Atlantic Division - Atlantic Division 2023-24 - Division Winner,Boston Celtics,0.010700000000000043,0.6774,0.6667
+2023-09-27 13:07:50.478168,NBL - NBL Regular Season Wins 2023/2024 - Cairns Taipans,Over 10.5,0.01100000000000001,0.5348,0.5238
 2023-09-27 13:07:48.170794,Atlantic Division - Atlantic Division 2023-24 - BOS Celtics - Exact Finishing Position,1st,0.010700000000000043,0.6774,0.6667
-2023-09-27 20:06:55.007799,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,0.010699999999999987,0.3333,0.3226
-2023-09-27 17:08:54.136455,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,0.010699999999999987,0.3333,0.3226
+2023-09-27 13:07:48.150865,Atlantic Division - Atlantic Division 2023-24 - Division Winner,Boston Celtics,0.010700000000000043,0.6774,0.6667
 2023-09-27 13:07:58.468852,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,0.010699999999999987,0.3333,0.3226
 2023-09-27 11:08:32.553880,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,0.010699999999999987,0.3333,0.3226
+2023-09-27 20:06:55.007799,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,0.010699999999999987,0.3333,0.3226
+2023-09-27 17:08:54.136455,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,0.010699999999999987,0.3333,0.3226
 2023-09-27 15:07:48.848036,Serie A - Italy Serie A 2023/24 - Winner,AC Milan,0.010399999999999993,0.2326,0.2222
 2023-09-27 13:07:55.347956,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Michelle Obama,0.0102,0.0769,0.0667
 2023-09-27 14:08:01.433747,Western Conference - Western Conference 2023-24 - Western Conference Winner,Memphis Grizzlies,-0.0102,0.0667,0.0769
@@ -101,10 +102,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-27 16:09:01.896214,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,-0.010699999999999987,0.3226,0.3333
 2023-09-27 12:03:13.718049,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,-0.010699999999999987,0.3226,0.3333
 2023-09-27 15:07:52.648392,East Group C - East Group C 2023 - Winner,Brooklyn Nets,-0.010899999999999993,0.1429,0.1538
-2023-09-27 17:08:40.801374,La Liga - Spain La Liga 2023/24 - Winner,Atlético Madrid,-0.011099999999999999,0.1,0.1111
 2023-09-27 11:08:29.454260,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Nikki Haley,-0.011099999999999999,0.1,0.1111
-2023-09-27 13:07:50.635103,LKL - Lithuania LKL 2023/24 - Outright,Wolves,-0.011099999999999999,0.1,0.1111
+2023-09-27 17:08:40.801374,La Liga - Spain La Liga 2023/24 - Winner,Atlético Madrid,-0.011099999999999999,0.1,0.1111
 2023-09-27 14:08:11.326529,Boxing Lines - Ellie Scotney vs Laura Soledad Griffa - To Win the Bout,Laura Soledad Griffa,-0.011099999999999999,0.1,0.1111
+2023-09-27 13:07:50.635103,LKL - Lithuania LKL 2023/24 - Outright,Wolves,-0.011099999999999999,0.1,0.1111
 2023-09-27 14:08:11.234642,Elite Boxing - Saul 'Canelo' Alvarez vs Jermell Charlo - To Win the Bout,Jermell Charlo,-0.0116,0.2353,0.2469
 2023-09-27 18:09:53.549183,EFL Cup - EFL Cup 2023/24 - Winner,Manchester United,-0.011700000000000016,0.2105,0.2222
 2023-09-27 18:09:53.549183,EFL Cup - EFL Cup 2023/24 - Winner,Ipswich Town,-0.012100000000000001,0.0123,0.0244
@@ -112,13 +113,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-27 10:07:53.259101,WNBA Awards - WNBA Awards 2023 - WNBA Finals MVP 2023,Arike Ogunbowale (DAL),-0.013,0.0066,0.0196
 2023-09-27 18:09:53.549183,EFL Cup - EFL Cup 2023/24 - Winner,Everton,-0.0131,0.0345,0.0476
 2023-09-27 10:07:58.106156,"Republican Debate 2: Simi Valley, CA - Which candidate will get the most time to speak? - Most Speaking Time",Ron DeSantis,-0.0131,0.2222,0.2353
-2023-09-27 12:03:08.448306,NBA Championship - NBA Championship 2023-24 - NBA Champion,Los Angeles Lakers,-0.013999999999999999,0.0769,0.0909
 2023-09-27 12:03:08.448306,NBA Championship - NBA Championship 2023-24 - NBA Champion,Golden State Warriors,-0.013999999999999999,0.0769,0.0909
-2023-09-27 14:08:02.342025,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Miami Heat,-0.014399999999999996,0.0625,0.0769
+2023-09-27 12:03:08.448306,NBA Championship - NBA Championship 2023-24 - NBA Champion,Los Angeles Lakers,-0.013999999999999999,0.0769,0.0909
 2023-09-27 13:07:55.145837,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Kamala Harris,-0.014399999999999996,0.0625,0.0769
+2023-09-27 14:08:02.342025,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Miami Heat,-0.014399999999999996,0.0625,0.0769
 2023-09-27 10:08:01.107061,MLB Futures - To Make The Playoffs - To Make The Playoffs - Texas Rangers,Yes,-0.014499999999999957,0.9756,0.9901
-2023-09-27 14:08:02.384206,West Group B - West Group B 2023 - Winner,L.A. Clippers,-0.01469999999999999,0.2353,0.25
 2023-09-27 18:10:04.275346,Elite Boxing - Saul 'Canelo' Alvarez vs Jermell Charlo - To Win the Bout,Jermell Charlo,-0.01469999999999999,0.2353,0.25
+2023-09-27 14:08:02.384206,West Group B - West Group B 2023 - Winner,L.A. Clippers,-0.01469999999999999,0.2353,0.25
 2023-09-27 15:07:52.623415,East Group B - East Group B 2023 - Winner,Washington Wizards,-0.014899999999999997,0.0476,0.0625
 2023-09-27 12:03:08.470783,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Boston Celtics,-0.014900000000000024,0.3077,0.3226
 2023-09-27 13:07:54.551607,"Republican Debate 2: Simi Valley, CA - First to say ""Trump"" - First to say ""Trump""",Ron DeSantis,-0.015100000000000002,0.1667,0.1818
@@ -137,9 +138,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-27 14:08:08.571857,"Republican Debate 2: Simi Valley, CA - Which candidate will get the most time to speak? - Most Speaking Time",Ron DeSantis,-0.022199999999999998,0.2,0.2222
 2023-09-27 14:08:08.571857,"Republican Debate 2: Simi Valley, CA - Which candidate will get the most time to speak? - Most Speaking Time",Nikki Haley,-0.022199999999999998,0.2,0.2222
 2023-09-27 13:07:50.588595,NBL - NBL Regular Season Wins 2023/2024 - Tasmania JackJumpers,Over 14.5,-0.022600000000000064,0.5122,0.5348
+2023-09-27 15:07:48.848036,Serie A - Italy Serie A 2023/24 - Winner,Inter Milan,-0.023799999999999988,0.4762,0.5
 2023-09-27 14:08:08.467807,"Republican Debate 2: Simi Valley, CA - First to say ""Trump"" - First to say ""Trump""",Ron DeSantis,-0.023799999999999988,0.1429,0.1667
 2023-09-27 17:08:54.783673,Point Match-Ups - Sam Burns v Shane Lowry - Point Match-Ups,Shane Lowry,-0.023799999999999988,0.4762,0.5
-2023-09-27 15:07:48.848036,Serie A - Italy Serie A 2023/24 - Winner,Inter Milan,-0.023799999999999988,0.4762,0.5
 2023-09-27 10:07:53.259101,WNBA Awards - WNBA Awards 2023 - WNBA Finals MVP 2023,Alyssa Thomas (CON),-0.024,0.0385,0.0625
 2023-09-27 14:08:02.342025,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Boston Celtics,-0.024999999999999994,0.1,0.125
 2023-09-27 19:08:21.979652,Player Points - Player Points - Matt Fitzpatrick - Player Points - Matt Fitzpatrick,Over 1.5,-0.025599999999999956,0.5744,0.6
