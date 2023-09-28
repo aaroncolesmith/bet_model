@@ -16,7 +16,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-28 03:05:37.810498,Serie A - Italy Serie A 2023/24 - To Be Relegated,Cagliari,0.05359999999999998,0.6,0.5464
 2023-09-28 04:08:11.777882,Player Points - Player Points - Tyrrell Hatton - Player Points - Tyrrell Hatton,Over 1.5,0.05130000000000001,0.6667,0.6154
 2023-09-28 03:05:37.818450,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Cagliari,0.047599999999999976,0.3333,0.2857
-2023-09-27 17:08:47.752711,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Scoot Henderson (POR),0.044499999999999984,0.2667,0.2222
 2023-09-28 04:08:11.519899,Player Points - Player Points - Max Homa - Player Points - Max Homa,Over 1.5,0.04409999999999992,0.6667,0.6226
 2023-09-27 18:09:54.882347,44th Razzie Awards - Razzies - Worst Picture - Worst Picture,Cocaine Bear,0.04169999999999999,0.1667,0.125
 2023-09-28 03:05:37.666651,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Sociedad,0.04099999999999998,0.3077,0.2667
@@ -28,13 +27,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-27 18:09:54.762366,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Charles III,0.029299999999999993,0.0769,0.0476
 2023-09-28 00:07:04.279193,Neuralink - First to have a Neuralink brain-implant - First To Have A Neuralink Brain Implant,Jake Paul,0.0286,0.0385,0.0099
 2023-09-28 03:05:37.666651,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Girona,0.027999999999999997,0.1818,0.1538
-2023-09-27 17:08:54.783673,Point Match-Ups - Sam Burns v Shane Lowry - Point Match-Ups,Sam Burns,0.026499999999999968,0.5917,0.5652
 2023-09-28 04:08:10.931079,Point Match-Ups - Matt Fitzpatrick v Wyndham Clark - Point Match-Ups,Matt Fitzpatrick,0.026499999999999968,0.5917,0.5652
 2023-09-28 03:05:37.810498,Serie A - Italy Serie A 2023/24 - To Be Relegated,Hellas Verona,0.02560000000000001,0.3333,0.3077
 2023-09-28 03:05:37.650086,La Liga - Spain La Liga 2023/24 - To Be Relegated,Las Palmas,0.023800000000000043,0.5238,0.5
-2023-09-28 04:07:58.849938,Super Lig - Turkey Super Lig 2023/24 - Winner,Galatasaray,0.023799999999999988,0.5,0.4762
 2023-09-28 00:07:11.950739,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Houston Astros,0.023799999999999988,0.1667,0.1429
 2023-09-28 05:04:22.842804,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Mario Barrios,0.023799999999999988,0.3571,0.3333
+2023-09-28 04:07:58.849938,Super Lig - Turkey Super Lig 2023/24 - Winner,Galatasaray,0.023799999999999988,0.5,0.4762
 2023-09-28 03:05:37.682576,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Girona,0.02310000000000001,0.1,0.0769
 2023-09-27 19:08:21.979652,Player Points - Player Points - Matt Fitzpatrick - Player Points - Matt Fitzpatrick,Under 1.5,0.022699999999999998,0.4878,0.4651
 2023-09-27 19:08:22.005586,Player Points - Player Points - Max Homa - Player Points - Max Homa,Over 1.5,0.022600000000000064,0.6226,0.6
@@ -47,6 +45,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-27 22:06:14.296416,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,0.016700000000000048,0.75,0.7333
 2023-09-28 02:06:18.304272,LNB Pro A - France LNB Pro A 2023/24 - Outright,Paris,0.016600000000000004,0.0833,0.0667
 2023-09-28 03:05:37.830427,Serie A - Italy Serie A 2023/24 - Top 4 Finish,AC Milan,0.015100000000000002,0.8333,0.8182
+2023-09-28 06:08:36.082829,Boxing Lines - Maisey Rose Courtney vs Martina Bernile - To Win the Bout,Maisey Rose Courtney,0.014900000000000024,0.9804,0.9655
 2023-09-28 01:07:17.106279,BKFC 51: Hart vs Shah - Stanislav Grosu vs Blake Lacaze - To Win the Bout,Stanislav Grosu,0.014700000000000046,0.7647,0.75
 2023-09-27 18:10:04.658660,Boxing Lines - Caroline Dubois vs Isela Magali Rodriguez Lopez - To Win the Bout,Caroline Dubois,0.014100000000000001,0.9615,0.9474
 2023-09-28 00:07:11.963804,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Miami Marlins,0.014100000000000001,0.0526,0.0385
@@ -54,31 +53,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-28 03:05:37.810498,Serie A - Italy Serie A 2023/24 - To Be Relegated,Monza,0.013899999999999996,0.125,0.1111
 2023-09-27 20:06:54.351946,Elite Boxing - Saul 'Canelo' Alvarez vs Jermell Charlo - To Win the Bout,Jermell Charlo,0.0116,0.2469,0.2353
 2023-09-28 00:07:12.087841,Boxing Lines - Cheavon Clarke vs Vasil Ducar - To Win the Bout,Vasil Ducar,0.011099999999999999,0.1111,0.1
+2023-09-28 00:07:12.486718,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,0.010699999999999987,0.3333,0.3226
 2023-09-27 20:06:55.007799,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,0.010699999999999987,0.3333,0.3226
 2023-09-28 02:06:23.320798,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Mario Barrios,0.010699999999999987,0.3333,0.3226
-2023-09-27 17:08:54.136455,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,0.010699999999999987,0.3333,0.3226
-2023-09-28 00:07:12.486718,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,0.010699999999999987,0.3333,0.3226
 2023-09-28 04:07:58.869154,Superettan - Superettan 2023 - Winner,GAIS,0.0102,0.0769,0.0667
 2023-09-28 04:07:58.849938,Super Lig - Turkey Super Lig 2023/24 - Winner,Fenerbahce,0.010099999999999998,0.4545,0.4444
 2023-09-28 00:07:11.983381,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,-0.010099999999999998,0.0952,0.1053
 2023-09-28 03:05:37.802651,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Olivier Giroud (AC Milan),-0.0102,0.0667,0.0769
-2023-09-27 21:07:09.682909,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Scottie Barnes (TOR),-0.0102,0.0667,0.0769
 2023-09-27 18:09:53.549183,EFL Cup - EFL Cup 2023/24 - Winner,West Ham United,-0.0102,0.0667,0.0769
+2023-09-27 21:07:09.682909,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Scottie Barnes (TOR),-0.0102,0.0667,0.0769
 2023-09-27 19:08:21.132682,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,-0.010699999999999987,0.3226,0.3333
 2023-09-27 23:06:42.345479,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,-0.010699999999999987,0.3226,0.3333
 2023-09-28 04:08:11.364238,Player Points - Player Points - Jordan Spieth - Player Points - Jordan Spieth,Under 1.5,-0.011099999999999999,0.4651,0.4762
-2023-09-27 17:08:40.801374,La Liga - Spain La Liga 2023/24 - Winner,Atlético Madrid,-0.011099999999999999,0.1,0.1111
 2023-09-27 23:06:41.838706,Boxing Lines - Cheavon Clarke vs Vasil Ducar - To Win the Bout,Vasil Ducar,-0.011099999999999999,0.1,0.1111
 2023-09-28 03:05:37.802651,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Ciro Immobile (Lazio),-0.011199999999999995,0.0476,0.0588
 2023-09-27 18:09:53.549183,EFL Cup - EFL Cup 2023/24 - Winner,Manchester United,-0.011700000000000016,0.2105,0.2222
 2023-09-27 18:09:53.549183,EFL Cup - EFL Cup 2023/24 - Winner,Ipswich Town,-0.012100000000000001,0.0123,0.0244
 2023-09-28 02:06:24.069789,Point Match-Ups - Tyrrell Hatton vs Max Homa - Point Match-Ups,Max Homa,-0.012199999999999989,0.5,0.5122
+2023-09-28 06:08:36.897819,Main Markets - Ryder Cup 2023 - Winner,Europe,-0.012199999999999989,0.5,0.5122
 2023-09-28 03:05:37.802651,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Mateo Retegui (Genoa),-0.0131,0.0345,0.0476
 2023-09-27 18:09:53.549183,EFL Cup - EFL Cup 2023/24 - Winner,Everton,-0.0131,0.0345,0.0476
 2023-09-28 03:05:37.818450,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Sassuolo,-0.014499999999999999,0.0149,0.0294
 2023-09-27 18:10:04.275346,Elite Boxing - Saul 'Canelo' Alvarez vs Jermell Charlo - To Win the Bout,Jermell Charlo,-0.01469999999999999,0.2353,0.25
 2023-09-28 00:07:11.950739,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Tampa Bay Rays,-0.015100000000000002,0.1667,0.1818
 2023-09-28 00:07:11.963804,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Chicago Cubs,-0.015300000000000001,0.0323,0.0476
+2023-09-28 06:08:36.082829,Boxing Lines - Maisey Rose Courtney vs Martina Bernile - To Win the Bout,Martina Bernile,-0.016600000000000004,0.0667,0.0833
 2023-09-28 03:05:37.810498,Serie A - Italy Serie A 2023/24 - To Be Relegated,Sassuolo,-0.016600000000000004,0.0667,0.0833
 2023-09-28 03:05:37.810498,Serie A - Italy Serie A 2023/24 - To Be Relegated,Genoa,-0.016699999999999993,0.25,0.2667
 2023-09-28 03:05:37.830427,Serie A - Italy Serie A 2023/24 - Top 4 Finish,AS Roma,-0.0174,0.2326,0.25
@@ -92,24 +91,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-27 23:06:42.711220,Point Match-Ups - Ludvig Aberg v Justin Thomas - Point Match-Ups,Ludvig Aberg,-0.02079999999999993,0.5348,0.5556
 2023-09-28 04:08:10.885367,Point Match-Ups - Ludvig Aberg vs Wyndham Clark - Point Match-Ups,Ludvig Aberg,-0.022600000000000064,0.6,0.6226
 2023-09-28 03:05:37.830427,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Inter Milan,-0.02310000000000001,0.9,0.9231
+2023-09-28 03:05:37.802651,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Dusan Vlahovic (Juventus),-0.023799999999999988,0.1429,0.1667
 2023-09-28 03:05:37.810498,Serie A - Italy Serie A 2023/24 - To Be Relegated,Lecce,-0.023799999999999988,0.1429,0.1667
 2023-09-28 04:08:10.931079,Point Match-Ups - Matt Fitzpatrick v Wyndham Clark - Point Match-Ups,Wyndham Clark,-0.023799999999999988,0.4762,0.5
-2023-09-28 03:05:37.802651,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Dusan Vlahovic (Juventus),-0.023799999999999988,0.1429,0.1667
-2023-09-27 17:08:54.783673,Point Match-Ups - Sam Burns v Shane Lowry - Point Match-Ups,Shane Lowry,-0.023799999999999988,0.4762,0.5
 2023-09-28 03:05:37.666651,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Valencia,-0.024999999999999994,0.1,0.125
 2023-09-27 19:08:21.979652,Player Points - Player Points - Matt Fitzpatrick - Player Points - Matt Fitzpatrick,Over 1.5,-0.025599999999999956,0.5744,0.6
 2023-09-28 03:05:37.650086,La Liga - Spain La Liga 2023/24 - To Be Relegated,Alavés,-0.02560000000000001,0.3077,0.3333
 2023-09-28 05:04:22.842804,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Yordenis Ugas,-0.02739999999999998,0.7059,0.7333
 2023-09-28 03:05:37.666651,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Athletic Bilbao,-0.030299999999999994,0.3333,0.3636
 2023-09-28 04:07:58.849938,Super Lig - Turkey Super Lig 2023/24 - Winner,Besiktas,-0.031799999999999995,0.1111,0.1429
-2023-09-28 03:05:37.666651,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Villarreal,-0.033300000000000024,0.1667,0.2
 2023-09-28 03:05:37.682576,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Athletic Bilbao,-0.033300000000000024,0.1667,0.2
+2023-09-28 03:05:37.666651,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Villarreal,-0.033300000000000024,0.1667,0.2
 2023-09-28 03:05:37.818450,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Frosinone,-0.033399999999999985,0.1333,0.1667
 2023-09-27 20:06:56.256997,Player Points - Player Points - Scottie Scheffler - Player Points - Scottie Scheffler,Over 2.5,-0.03610000000000002,0.5556,0.5917
 2023-09-27 20:06:55.823187,Player Points - Player Points - Brian Harman - Player Points - Brian Harman,Under 1.5,-0.03639999999999999,0.6,0.6364
 2023-09-28 00:07:11.950739,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Seattle Mariners,-0.03640000000000001,0.0588,0.0952
 2023-09-28 01:07:17.187305,Point Match-Ups - Brian Harman vs Robert MacIntyre - Point Match-Ups,Robert MacIntyre,-0.039600000000000024,0.4255,0.4651
-2023-09-27 17:08:47.752711,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Victor Wembanyama (SAS),-0.04139999999999999,0.5238,0.5652
 2023-09-28 04:07:58.869154,Superettan - Superettan 2023 - Winner,Östers IF,-0.04329999999999999,0.0476,0.0909
 2023-09-28 04:08:11.519899,Player Points - Player Points - Max Homa - Player Points - Max Homa,Under 1.5,-0.044399999999999995,0.4,0.4444
 2023-09-28 04:08:11.777882,Player Points - Player Points - Tyrrell Hatton - Player Points - Tyrrell Hatton,Under 1.5,-0.044399999999999995,0.4,0.4444
@@ -119,7 +116,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-28 03:05:37.810498,Serie A - Italy Serie A 2023/24 - To Be Relegated,Empoli,-0.05559999999999998,0.5,0.5556
 2023-09-28 04:08:11.491920,Player Points - Player Points - Matt Fitzpatrick - Player Points - Matt Fitzpatrick,Under 1.5,-0.06230000000000002,0.4255,0.4878
 2023-09-28 04:07:58.349977,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Corinthians,-0.07509999999999997,0.2326,0.3077
-2023-09-27 17:08:40.801374,La Liga - Spain La Liga 2023/24 - Winner,Athletic Bilbao,-0.07859999999999999,0.0123,0.0909
 2023-09-28 03:05:37.818450,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Empoli,-0.08549999999999996,0.2222,0.3077
 2023-09-28 00:07:12.024842,MLB Futures - To Make The Playoffs - To Make The Playoffs - Miami Marlins,No,-0.12180000000000002,0.3226,0.4444
 2023-09-28 04:07:58.349977,Copa Sudamericana - Copa Sudamericana 2023 - Outright,Defensa y Justicia,-0.1238,0.1429,0.2667
