@@ -15,7 +15,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-29 20:02:31.813848,Player Points - Player Points - Viktor Hovland - Player Points - Viktor Hovland,Over 2.5,0.21820000000000006,0.8182,0.6
 2023-09-29 20:02:31.786917,Player Points - Player Points - Tommy Fleetwood - Player Points - Tommy Fleetwood,Over 2.5,0.1946,0.6491,0.4545
 2023-09-29 20:02:31.746692,Player Points - Player Points - Scottie Scheffler - Player Points - Scottie Scheffler,Under 2.5,0.1795,0.7143,0.5348
-2023-09-29 18:04:11.930034,Player Points - Player Points - Brooks Koepka - Player Points - Brooks Koepka,Over 2.5,0.1794,0.4651,0.2857
 2023-09-29 20:02:24.189897,Championship - England Championship 2023/24 - To Be Relegated,Sheffield Wednesday,0.16849999999999998,0.6923,0.5238
 2023-09-29 20:02:31.621845,Player Points - Player Points - Ludvig Aberg - Player Points - Ludvig Aberg,Over 1.5,0.15389999999999993,0.8462,0.6923
 2023-09-29 20:02:31.887499,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Hae Ran Ryu,0.14329999999999998,0.1818,0.0385
@@ -48,8 +47,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-30 03:06:12.016040,Championship - England Championship 2023/24 - Top 2 Finish,Sunderland,0.025300000000000003,0.1429,0.1176
 2023-09-30 05:05:10.007915,Boxing Lines - Jesus Alejandro Ramos vs Erickson Lubin - To Win the Bout,Jesus Alejandro Ramos,0.0252,0.8291,0.8039
 2023-09-30 00:03:21.825153,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Miami Marlins,0.0238,0.0714,0.0476
-2023-09-29 20:02:31.512576,Matches - Day 2 Foursomes - Lowry/Straka vs Homa/Harman - Winner,Max Homa / Brian Harman,0.023799999999999988,0.5,0.4762
 2023-09-29 20:02:24.183700,Championship - England Championship 2023/24 - To Be Promoted,Sunderland,0.023799999999999988,0.1667,0.1429
+2023-09-29 20:02:31.512576,Matches - Day 2 Foursomes - Lowry/Straka vs Homa/Harman - Winner,Max Homa / Brian Harman,0.023799999999999988,0.5,0.4762
 2023-09-29 20:02:24.853223,Eredivisie - Dutch Eredivisie 2023/24 - To Be Relegated,Fortuna Sittard,0.023799999999999988,0.1667,0.1429
 2023-09-29 20:02:31.581737,Player Points - Player Points - Jordan Spieth - Player Points - Jordan Spieth,Over 1.5,0.022699999999999998,0.4878,0.4651
 2023-09-30 03:06:13.228476,Professional League - Saudi Professional League 2023/24 - Winner,Al Hilal,0.02260000000000001,0.4,0.3774
@@ -66,7 +65,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-29 20:02:31.887499,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Yuna Nishimura,0.015499999999999998,0.0278,0.0123
 2023-09-30 00:03:21.812153,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Houston Astros,0.015100000000000002,0.1818,0.1667
 2023-09-29 20:02:24.183700,Championship - England Championship 2023/24 - To Be Promoted,Norwich City,0.01469999999999999,0.25,0.2353
-2023-09-29 18:04:11.216119,Elite Boxing - Saul 'Canelo' Alvarez vs Jermell Charlo - To Win the Bout,Jermell Charlo,0.01469999999999999,0.25,0.2353
 2023-09-29 20:02:31.887499,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Linnea Strom,0.0145,0.0244,0.0099
 2023-09-29 20:02:31.168950,Boxing Lines - Jesus Alejandro Ramos vs Erickson Lubin - To Win the Bout,Erickson Lubin,0.014300000000000007,0.2469,0.2326
 2023-09-29 20:02:24.853223,Eredivisie - Dutch Eredivisie 2023/24 - To Be Relegated,Heerenveen,0.014099999999999998,0.0385,0.0244
@@ -75,18 +73,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-29 20:02:24.853223,Eredivisie - Dutch Eredivisie 2023/24 - To Be Relegated,Heracles Almelo,0.013899999999999996,0.125,0.1111
 2023-09-30 03:06:13.228476,Professional League - Saudi Professional League 2023/24 - Winner,Al Taawoun,0.0131,0.0476,0.0345
 2023-09-30 00:03:21.825153,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Arizona Diamondbacks,0.012600000000000007,0.0714,0.0588
-2023-09-29 20:02:31.887499,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Kelly Tan,0.0113,0.0141,0.0028
 2023-09-29 20:02:31.887499,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Morgane Metraux,0.0113,0.0179,0.0066
+2023-09-29 20:02:31.887499,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Kelly Tan,0.0113,0.0141,0.0028
 2023-09-30 05:05:08.505417,NCAA Football Specials - College Football Requested Specials - Saturday 30th Sept,"Z.Branch, B.Rice, J.Horn Jr to Combine for 350+ Rec Yards",0.011199999999999995,0.0588,0.0476
 2023-09-30 00:03:21.798918,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Seattle Mariners,0.011199999999999995,0.0435,0.0323
 2023-09-30 03:06:11.856257,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Lens,0.011199999999999995,0.0588,0.0476
 2023-09-29 20:02:31.541014,Player Points - Player Points - Brooks Koepka - Player Points - Brooks Koepka,Over 2.5,0.011099999999999999,0.4762,0.4651
+2023-09-30 06:05:02.948427,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,0.010699999999999987,0.3333,0.3226
 2023-09-30 00:03:21.798918,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Miami Marlins,0.010600000000000002,0.0323,0.0217
 2023-09-29 20:02:31.887499,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Christina Kim,0.0103,0.0123,0.002
 2023-09-30 01:02:19.486341,Boxing Lines - Viddal Riley vs Nathan Quarless - To Win the Bout,Viddal Riley,0.010199999999999987,0.9333,0.9231
 2023-09-30 05:05:10.109696,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,-0.010699999999999987,0.3226,0.3333
-2023-09-29 20:02:31.887499,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,So Yeon Ryu,-0.011300000000000001,0.001,0.0123
 2023-09-29 20:02:31.887499,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Sophia Schubert,-0.011300000000000001,0.001,0.0123
+2023-09-29 20:02:31.887499,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,So Yeon Ryu,-0.011300000000000001,0.001,0.0123
 2023-09-29 20:02:31.887499,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Alison Lee,-0.0116,0.0025,0.0141
 2023-09-29 20:02:31.168950,Boxing Lines - Jesus Alejandro Ramos vs Erickson Lubin - To Win the Bout,Jesus Alejandro Ramos,-0.011900000000000022,0.8214,0.8333
 2023-09-29 20:02:31.887499,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Chanettee Wannasaen,-0.0124,0.0017,0.0141
@@ -95,9 +94,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-30 03:06:11.787471,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Wolfsburg,-0.013899999999999996,0.1111,0.125
 2023-09-29 20:02:24.183700,Championship - England Championship 2023/24 - To Be Promoted,West Bromwich Albion,-0.013899999999999996,0.1111,0.125
 2023-09-29 20:02:31.887499,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Stephanie Kyriacou,-0.0139,0.0013,0.0152
-2023-09-30 03:06:12.001320,Championship - England Championship 2023/24 - To Finish Bottom,Plymouth Argyle,-0.013999999999999999,0.0769,0.0909
-2023-09-30 03:06:12.001320,Championship - England Championship 2023/24 - To Finish Bottom,Huddersfield Town,-0.013999999999999999,0.0769,0.0909
 2023-09-30 03:06:11.687209,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Sevilla,-0.013999999999999999,0.0769,0.0909
+2023-09-30 03:06:12.001320,Championship - England Championship 2023/24 - To Finish Bottom,Huddersfield Town,-0.013999999999999999,0.0769,0.0909
+2023-09-30 03:06:12.001320,Championship - England Championship 2023/24 - To Finish Bottom,Plymouth Argyle,-0.013999999999999999,0.0769,0.0909
 2023-09-29 20:02:24.853223,Eredivisie - Dutch Eredivisie 2023/24 - To Be Relegated,Sparta Rotterdam,-0.014499999999999999,0.0149,0.0294
 2023-09-30 03:06:12.016040,Championship - England Championship 2023/24 - Top 2 Finish,Southampton,-0.015100000000000002,0.1667,0.1818
 2023-09-30 03:06:11.740723,1. Bundesliga - Germany Bundesliga 2023/24 - Winner without Bayern Munich,RB Leipzig,-0.015400000000000025,0.3846,0.4
@@ -148,7 +147,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-29 20:02:24.843988,Eredivisie - Dutch Eredivisie 2023/24 - Winner,Ajax,-0.1417,0.125,0.2667
 2023-09-29 20:02:31.595133,Player Points - Player Points - Justin Rose - Player Points - Justin Rose,Over 1.5,-0.14290000000000003,0.3333,0.4762
 2023-09-29 20:02:31.621845,Player Points - Player Points - Ludvig Aberg - Player Points - Ludvig Aberg,Under 1.5,-0.1482,0.2222,0.3704
-2023-09-29 18:04:11.930034,Player Points - Player Points - Brooks Koepka - Player Points - Brooks Koepka,Under 2.5,-0.17780000000000007,0.6,0.7778
 2023-09-29 20:02:31.746692,Player Points - Player Points - Scottie Scheffler - Player Points - Scottie Scheffler,Over 2.5,-0.18390000000000006,0.3509,0.5348
 2023-09-29 20:02:31.786917,Player Points - Player Points - Tommy Fleetwood - Player Points - Tommy Fleetwood,Under 2.5,-0.1911,0.4167,0.6078
 2023-09-29 20:02:31.813848,Player Points - Player Points - Viktor Hovland - Player Points - Viktor Hovland,Under 2.5,-0.2151,0.25,0.4651
