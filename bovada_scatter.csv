@@ -5,6 +5,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-29 12:08:28.954244,Point Match-Ups - Tyrrell Hatton vs Max Homa - Point Match-Ups,Tyrrell Hatton,0.33330000000000004,0.9333,0.6
 2023-09-29 12:08:28.879426,Point Match-Ups - Brian Harman vs Robert MacIntyre - Point Match-Ups,Robert MacIntyre,0.2374,0.6078,0.3704
 2023-09-29 12:08:28.891978,Point Match-Ups - Ludvig Aberg vs Wyndham Clark - Point Match-Ups,Ludvig Aberg,0.18269999999999997,0.875,0.6923
+2023-09-29 18:04:11.930034,Player Points - Player Points - Brooks Koepka - Player Points - Brooks Koepka,Over 2.5,0.1794,0.4651,0.2857
 2023-09-29 11:09:30.263620,MLB Futures - To Make The Playoffs - To Make The Playoffs - Miami Marlins,Yes,0.1632,0.9,0.7368
 2023-09-29 11:09:30.199613,MLB Futures - To Make The Playoffs - To Make The Playoffs - Chicago Cubs,No,0.14390000000000003,0.9,0.7561
 2023-09-29 11:09:30.240853,MLB Futures - To Make The Playoffs - To Make The Playoffs - Houston Astros,No,0.10599999999999998,0.3333,0.2273
@@ -25,9 +26,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-29 13:07:56.754702,Matches - Day 2 Foursomes - McIlroy/Fleetwood vs Spieth/Thomas - Winner,Rory McIlroy / Tommy Fleetwood,0.02079999999999993,0.5556,0.5348
 2023-09-29 17:04:17.851477,BKFC 51: Hart vs Shah - Kaine Tomlinson vs Brett Fields - To Win the Bout,Kaine Tomlinson,0.020500000000000018,0.4878,0.4673
 2023-09-29 14:04:26.357599,Matches - Day 2 Foursomes - McIlroy/Fleetwood vs Spieth/Thomas - Winner,Tie,0.02049999999999999,0.1538,0.1333
+2023-09-29 08:06:37.428110,BKFC 51: Hart vs Shah - Kasim Ruffin vs Daniel Gary - To Win the Bout,Daniel Gary,0.02049999999999999,0.1538,0.1333
 2023-09-29 14:04:26.402596,Matches - Day 2 Foursomes - Lowry/Straka vs Homa/Harman - Winner,Tie,0.02049999999999999,0.1538,0.1333
 2023-09-29 14:04:26.378424,Matches - Day 2 Foursomes - Hovland/Aberg vs Scheffler/Koepka - Winner,Tie,0.02049999999999999,0.1538,0.1333
-2023-09-29 08:06:37.428110,BKFC 51: Hart vs Shah - Kasim Ruffin vs Daniel Gary - To Win the Bout,Daniel Gary,0.02049999999999999,0.1538,0.1333
 2023-09-29 14:04:26.422767,Matches - Day 2 Foursomes - Rahm/Hatton vs Cantlay/Schauffele - Winner,Tie,0.02049999999999999,0.1538,0.1333
 2023-09-29 07:04:17.395863,Day 2 - Day 2  -  Day 2 Winner,USA,0.019699999999999995,0.4545,0.4348
 2023-09-29 14:04:26.357599,Matches - Day 2 Foursomes - McIlroy/Fleetwood vs Spieth/Thomas - Winner,Rory McIlroy / Tommy Fleetwood,0.01880000000000004,0.5744,0.5556
@@ -39,24 +40,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-29 17:04:17.933503,BKFC 51: Hart vs Shah - Britain Hart vs Melanie Shah - To Win the Bout,Britain Hart,0.015699999999999936,0.8824,0.8667
 2023-09-29 06:05:28.280844,BKFC 51: Hart vs Shah - Bruce Abramski vs Mark Culp - To Win the Bout,Mark Culp,0.015000000000000013,0.2817,0.2667
 2023-09-29 06:05:26.167165,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,0.014700000000000046,0.7647,0.75
-2023-09-29 05:06:21.262582,Boxing Lines - Elijah Garcia vs Jose Armando Resendiz - To Win the Bout,Jose Armando Resendiz,0.014600000000000002,0.2778,0.2632
+2023-09-29 18:04:11.216119,Elite Boxing - Saul 'Canelo' Alvarez vs Jermell Charlo - To Win the Bout,Jermell Charlo,0.01469999999999999,0.25,0.2353
 2023-09-29 06:05:27.177482,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Robert Saleh,0.014099999999999998,0.0385,0.0244
-2023-09-29 05:06:20.812622,Elite Boxing - Saul 'Canelo' Alvarez vs Jermell Charlo - To Win the Bout,Jermell Charlo,0.0131,0.2353,0.2222
 2023-09-29 11:09:30.144448,MLB Futures - MLB 2023 American League West - American League West Winner,Houston Astros,0.012299999999999991,0.1176,0.1053
 2023-09-29 06:05:28.280844,BKFC 51: Hart vs Shah - Bruce Abramski vs Mark Culp - To Win the Bout,Bruce Abramski,0.011699999999999933,0.7895,0.7778
 2023-09-29 14:04:26.402596,Matches - Day 2 Foursomes - Lowry/Straka vs Homa/Harman - Winner,Max Homa / Brian Harman,0.011099999999999999,0.4762,0.4651
-2023-09-29 05:06:21.642965,BKFC 51: Hart vs Shah - Ronnie Lee Glass vs Joseph Creer - To Win the Bout,Ronnie Lee Glass,0.01100000000000001,0.5348,0.5238
 2023-09-29 17:04:17.648716,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,0.010699999999999987,0.3333,0.3226
-2023-09-29 07:04:17.123926,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,0.010699999999999987,0.3333,0.3226
 2023-09-29 14:04:25.724400,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,0.010699999999999987,0.3333,0.3226
+2023-09-29 07:04:17.123926,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,0.010699999999999987,0.3333,0.3226
 2023-09-29 17:04:17.919286,BKFC 51: Hart vs Shah - Dustin Pague vs Joe Elmore - To Win the Bout,Dustin Pague,0.010500000000000065,0.8,0.7895
-2023-09-29 11:09:30.599742,Boxing Lines - Jai Opetaia vs Jordan Thompson - To Win the Bout,Jordan Thompson,0.010499999999999982,0.2105,0.2
 2023-09-29 07:04:17.328387,BKFC 51: Hart vs Shah - Brian Maxwell vs Harris Stephenson - To Win the Bout,Brian Maxwell,0.010499999999999982,0.2105,0.2
+2023-09-29 11:09:30.599742,Boxing Lines - Jai Opetaia vs Jordan Thompson - To Win the Bout,Jordan Thompson,0.010499999999999982,0.2105,0.2
 2023-09-29 14:04:26.378424,Matches - Day 2 Foursomes - Hovland/Aberg vs Scheffler/Koepka - Winner,Viktor Hovland / Ludvig Aberg,-0.010599999999999998,0.4545,0.4651
-2023-09-29 05:06:21.642965,BKFC 51: Hart vs Shah - Ronnie Lee Glass vs Joseph Creer - To Win the Bout,Joseph Creer,-0.010699999999999932,0.5348,0.5455
-2023-09-29 12:08:28.473148,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,-0.010699999999999987,0.3226,0.3333
 2023-09-29 16:04:45.689410,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,-0.010699999999999987,0.3226,0.3333
-2023-09-29 05:06:21.356456,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,-0.010699999999999987,0.3226,0.3333
+2023-09-29 12:08:28.473148,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,-0.010699999999999987,0.3226,0.3333
 2023-09-29 14:04:26.422767,Matches - Day 2 Foursomes - Rahm/Hatton vs Cantlay/Schauffele - Winner,Jon Rahm / Tyrrell Hatton,-0.01100000000000001,0.5238,0.5348
 2023-09-29 14:04:26.402596,Matches - Day 2 Foursomes - Lowry/Straka vs Homa/Harman - Winner,Shane Lowry / Sepp Straka,-0.011099999999999999,0.4651,0.4762
 2023-09-29 17:04:17.919286,BKFC 51: Hart vs Shah - Dustin Pague vs Joe Elmore - To Win the Bout,Joe Elmore,-0.011099999999999999,0.2667,0.2778
@@ -65,7 +62,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-29 08:06:37.428110,BKFC 51: Hart vs Shah - Kasim Ruffin vs Daniel Gary - To Win the Bout,Kasim Ruffin,-0.014000000000000012,0.9091,0.9231
 2023-09-29 06:05:27.177482,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Nick Sirianni,-0.014099999999999998,0.0244,0.0385
 2023-09-29 14:04:26.357599,Matches - Day 2 Foursomes - McIlroy/Fleetwood vs Spieth/Thomas - Winner,Jordan Spieth / Justin Thomas,-0.01419999999999999,0.3704,0.3846
-2023-09-29 05:06:21.262582,Boxing Lines - Elijah Garcia vs Jose Armando Resendiz - To Win the Bout,Elijah Garcia,-0.014399999999999968,0.7895,0.8039
 2023-09-29 13:07:56.754702,Matches - Day 2 Foursomes - McIlroy/Fleetwood vs Spieth/Thomas - Winner,Jordan Spieth / Justin Thomas,-0.015400000000000025,0.3846,0.4
 2023-09-29 11:09:30.220581,MLB Futures - To Make The Playoffs - To Make The Playoffs - Cincinnati Reds,No,-0.015699999999999936,0.9565,0.9722
 2023-09-29 13:07:55.811987,Boxing Lines - Jai Opetaia vs Jordan Thompson - To Win the Bout,Jordan Thompson,-0.01629999999999998,0.1942,0.2105
@@ -77,9 +73,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-29 06:05:27.177482,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Kyle Shanahan,-0.0245,0.0588,0.0833
 2023-09-29 07:04:17.354008,BKFC 51: Hart vs Shah - Dustin Pague vs Joe Elmore - To Win the Bout,Joe Elmore,-0.0252,0.2778,0.303
 2023-09-29 11:09:30.284096,MLB Futures - To Make The Playoffs - To Make The Playoffs - Seattle Mariners,No,-0.026800000000000046,0.6875,0.7143
-2023-09-29 05:06:21.280886,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Mario Barrios,-0.030299999999999994,0.3333,0.3636
-2023-09-29 06:05:27.177482,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Mike McDaniel,-0.03570000000000001,0.25,0.2857
 2023-09-29 06:05:27.200989,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,T.J. Watt,-0.03570000000000001,0.25,0.2857
+2023-09-29 06:05:27.177482,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Mike McDaniel,-0.03570000000000001,0.25,0.2857
 2023-09-29 17:04:17.866464,BKFC 51: Hart vs Shah - Ronnie Lee Glass vs Joseph Creer - To Win the Bout,Joseph Creer,-0.035999999999999976,0.4762,0.5122
 2023-09-29 12:08:28.941678,Point Match-Ups - Tommy Fleetwood vs Brooks Koepka - Point Match-Ups,Brooks Koepka,-0.03710000000000002,0.3333,0.3704
 2023-09-29 06:05:27.177482,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Matt Lafleur,-0.0398,0.0435,0.0833
@@ -88,6 +83,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-29 11:09:30.240853,MLB Futures - To Make The Playoffs - To Make The Playoffs - Houston Astros,Yes,-0.09540000000000004,0.726,0.8214
 2023-09-29 11:09:30.199613,MLB Futures - To Make The Playoffs - To Make The Playoffs - Chicago Cubs,Yes,-0.12739999999999999,0.1667,0.2941
 2023-09-29 11:09:30.263620,MLB Futures - To Make The Playoffs - To Make The Playoffs - Miami Marlins,No,-0.1587,0.1538,0.3125
+2023-09-29 18:04:11.930034,Player Points - Player Points - Brooks Koepka - Player Points - Brooks Koepka,Under 2.5,-0.17780000000000007,0.6,0.7778
 2023-09-29 12:08:28.891978,Point Match-Ups - Ludvig Aberg vs Wyndham Clark - Point Match-Ups,Wyndham Clark,-0.1799,0.1905,0.3704
 2023-09-29 12:08:28.879426,Point Match-Ups - Brian Harman vs Robert MacIntyre - Point Match-Ups,Brian Harman,-0.2378,0.4545,0.6923
 2023-09-29 12:08:28.954244,Point Match-Ups - Tyrrell Hatton vs Max Homa - Point Match-Ups,Max Homa,-0.3401,0.125,0.4651
