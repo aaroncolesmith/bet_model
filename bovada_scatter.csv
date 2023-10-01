@@ -11,9 +11,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-01 03:03:55.200632,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,St. Pauli,0.08979999999999999,0.1667,0.0769
 2023-10-01 03:03:55.256686,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Aberdeen,0.0857,0.8,0.7143
 2023-10-01 03:03:54.359280,1. Bundesliga - Germany Bundesliga 2023/24 - Winner without Bayern Munich,Bayer Leverkusen,0.08080000000000004,0.4444,0.3636
-2023-09-30 16:08:45.984619,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Arsenal,0.07069999999999999,0.1818,0.1111
-2023-10-01 03:03:55.264678,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Ross County,0.07069999999999999,0.8889,0.8182
 2023-10-01 03:03:54.388091,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Bayer Leverkusen,0.07069999999999999,0.8889,0.8182
+2023-10-01 03:03:55.264678,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Ross County,0.07069999999999999,0.8889,0.8182
 2023-10-01 01:04:01.771349,Premiership - Scotland Premiership 2023/24 - Winner,Celtic,0.06670000000000009,0.8,0.7333
 2023-10-01 02:03:33.344318,A1 - Greece A1 2023/2024 - Outright,Olympiakos,0.06519999999999998,0.5,0.4348
 2023-10-01 03:03:54.388091,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,VfB Stuttgart,0.05679999999999999,0.1818,0.125
@@ -30,18 +29,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-01 01:04:06.939314,Matches - Day 3 Singles - Shane Lowry v Jordan Spieth - Winner,Shane Lowry,0.035999999999999976,0.5122,0.4762
 2023-10-01 03:03:54.425280,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Napoli,0.035699999999999954,0.75,0.7143
 2023-10-01 03:03:54.809085,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Internacional,0.034100000000000005,0.125,0.0909
-2023-09-30 16:08:45.984619,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Liverpool,0.033399999999999985,0.1667,0.1333
 2023-10-01 00:03:58.249037,National League - England National League 2023/24 - Outright,Barnet,0.033300000000000024,0.2,0.1667
 2023-10-01 03:03:54.823174,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Flamengo,0.033299999999999996,0.8333,0.8
-2023-10-01 01:04:01.760029,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,Benfica,0.031799999999999995,0.4762,0.4444
 2023-10-01 00:04:03.971219,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,British Columbia Lions,0.031799999999999995,0.4762,0.4444
-2023-10-01 01:04:06.833228,Matches - Day 3 Singles - Jon Rahm v Scottie Scheffler - Winner,Jon Rahm,0.03179999999999994,0.5556,0.5238
+2023-10-01 01:04:01.760029,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,Benfica,0.031799999999999995,0.4762,0.4444
 2023-10-01 03:03:55.256686,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,St. Mirren,0.03179999999999994,0.5556,0.5238
 2023-10-01 03:03:55.264678,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Motherwell,0.03179999999999994,0.5556,0.5238
+2023-10-01 01:04:06.833228,Matches - Day 3 Singles - Jon Rahm v Scottie Scheffler - Winner,Jon Rahm,0.03179999999999994,0.5556,0.5238
 2023-09-30 17:09:36.890254,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Mario Barrios,0.029600000000000015,0.4,0.3704
 2023-10-01 03:03:54.418570,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Lecce,0.0294,0.0588,0.0294
 2023-09-30 19:05:00.640136,Off-Season Specials - Off-Season Specials - Where will Jrue Holiday play next season?,Los Angeles Clippers,0.028799999999999992,0.1538,0.125
-2023-09-30 16:08:45.984619,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Newcastle United,0.028000000000000004,0.0476,0.0196
 2023-10-01 00:03:58.227574,League Two - England - League Two 2023/24 - League Winner,Mansfield Town,0.027999999999999997,0.1818,0.1538
 2023-10-01 01:04:01.760029,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,Sporting CP,0.02779999999999999,0.25,0.2222
 2023-09-30 23:05:08.485354,NFL Weekly Specials - NFL Week 4 RedZone Specials - Sunday 1st October - [Excluding Early Game],"Puka Nacua, Amari Cooper, AJ Brown & DJ Moore Each 70+ Receiving Yards",0.0273,0.0323,0.005
@@ -53,41 +50,39 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-01 02:03:30.694962,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Valencia,0.024999999999999994,0.125,0.1
 2023-09-30 17:09:36.820671,Elite Boxing - Saul 'Canelo' Alvarez vs Jermell Charlo - To Win the Bout,Saul 'Canelo' Alvarez,0.023800000000000043,0.8333,0.8095
 2023-09-30 23:05:01.342684,Tournament Futures - FIFA World Cup 2026 - Winner,Portugal,0.0238,0.0714,0.0476
-2023-10-01 03:03:55.256686,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Hearts,0.023799999999999932,0.8571,0.8333
 2023-10-01 03:03:54.425280,Serie A - Italy Serie A 2023/24 - Top 4 Finish,AC Milan,0.023799999999999932,0.8571,0.8333
+2023-10-01 03:03:55.256686,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Hearts,0.023799999999999932,0.8571,0.8333
 2023-09-30 21:05:11.526968,Matches - Day 3 Singles - Hatton v Harman - Winner,Tyrrell Hatton,0.022600000000000064,0.5348,0.5122
 2023-09-30 19:05:00.640136,Off-Season Specials - Off-Season Specials - Where will Jrue Holiday play next season?,Boston Celtics,0.022199999999999998,0.2222,0.2
-2023-10-01 02:03:30.701567,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Real Sociedad,0.022199999999999998,0.1333,0.1111
 2023-09-30 23:05:01.342684,Tournament Futures - FIFA World Cup 2026 - Winner,England,0.022199999999999998,0.1333,0.1111
+2023-10-01 02:03:30.701567,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Real Sociedad,0.022199999999999998,0.1333,0.1111
 2023-10-01 00:03:58.208578,League One - England - League One 2023/24 - League Winner,Bolton Wanderers,0.022199999999999998,0.2222,0.2
 2023-10-01 03:03:54.366206,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Harry Kane,0.022199999999999998,0.8,0.7778
 2023-10-01 03:03:54.823174,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Grêmio,0.02200000000000002,0.7143,0.6923
-2023-09-30 16:08:55.551323,Matches - Day 3 Singles - Aberg v Koepka - Winner,Ludvig Aberg,0.021699999999999997,0.4762,0.4545
 2023-10-01 03:03:54.809085,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Goiás,0.021699999999999997,0.4762,0.4545
-2023-09-30 16:08:45.984619,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Tottenham Hotspur,0.0203,0.0588,0.0385
 2023-09-30 23:05:00.664828,Championship - England Championship 2023/24 - League Winner,Norwich City,0.0203,0.0588,0.0385
 2023-10-01 00:04:03.971219,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Hamilton Tiger-Cats,0.02020000000000001,0.1111,0.0909
 2023-09-30 19:04:56.030204,Ligue 1 - France Ligue 1 2023/24 - Winner,Monaco,0.019099999999999992,0.0667,0.0476
 2023-10-01 03:03:54.379411,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Mainz,0.019000000000000017,0.2857,0.2667
-2023-10-01 01:04:06.891064,Matches - Day 3 Singles - Tyrrell Hatton v Brian Harman - Winner,Brian Harman,0.018900000000000028,0.4444,0.4255
 2023-10-01 03:03:54.809085,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Coritiba,0.018900000000000028,0.9804,0.9615
-2023-10-01 03:03:54.359280,1. Bundesliga - Germany Bundesliga 2023/24 - Winner without Bayern Munich,VfB Stuttgart,0.0189,0.0385,0.0196
+2023-10-01 01:04:06.891064,Matches - Day 3 Singles - Tyrrell Hatton v Brian Harman - Winner,Brian Harman,0.018900000000000028,0.4444,0.4255
 2023-10-01 00:03:58.227574,League Two - England - League Two 2023/24 - League Winner,AFC Wimbledon,0.0189,0.0385,0.0196
+2023-10-01 03:03:54.359280,1. Bundesliga - Germany Bundesliga 2023/24 - Winner without Bayern Munich,VfB Stuttgart,0.0189,0.0385,0.0196
 2023-10-01 03:03:54.815446,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Flamengo,0.01880000000000004,0.5744,0.5556
 2023-09-30 17:09:36.912931,Boxing Lines - Jesus Alejandro Ramos vs Erickson Lubin - To Win the Bout,Erickson Lubin,0.018699999999999994,0.2597,0.241
 2023-10-01 02:03:30.694962,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Girona,0.01820000000000002,0.2,0.1818
 2023-10-01 04:04:32.122998,Matches - Day 3 Singles - Tommy Fleetwood v Rickie Fowler - Winner,Tommy Fleetwood,0.018100000000000005,0.5833,0.5652
 2023-09-30 19:04:56.030204,Ligue 1 - France Ligue 1 2023/24 - Winner,Nice,0.018099999999999998,0.0769,0.0588
+2023-09-30 21:05:11.581493,Matches - Day 3 Singles - Hojgaard v Schauffele - Winner,Xander Schauffele,0.017299999999999982,0.5917,0.5744
 2023-09-30 17:09:36.868177,Boxing Lines - Elijah Garcia vs Jose Armando Resendiz - To Win the Bout,Jose Armando Resendiz,0.017299999999999982,0.303,0.2857
 2023-09-30 21:05:11.616673,Matches - Day 3 Singles - MacIntyre v Clark - Winner,Wyndham Clark,0.017299999999999982,0.5917,0.5744
-2023-09-30 21:05:11.581493,Matches - Day 3 Singles - Hojgaard v Schauffele - Winner,Xander Schauffele,0.017299999999999982,0.5917,0.5744
 2023-09-30 20:06:01.840468,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Borussia Dortmund,0.016700000000000007,0.1,0.0833
 2023-09-30 18:07:52.128150,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Mario Barrios,0.016699999999999993,0.4167,0.4
 2023-10-01 03:03:54.379411,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,FC Köln,0.016699999999999993,0.2667,0.25
 2023-10-01 03:03:54.809085,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Santos,0.016699999999999937,0.6,0.5833
 2023-10-01 03:03:54.802566,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Flamengo,0.016600000000000004,0.0833,0.0667
-2023-10-01 02:03:30.694962,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Atlético Madrid,0.015100000000000002,0.8333,0.8182
 2023-09-30 20:06:11.854104,Elite Boxing - Saul 'Canelo' Alvarez vs Jermell Charlo - To Win the Bout,Saul 'Canelo' Alvarez,0.015100000000000002,0.8333,0.8182
+2023-10-01 02:03:30.694962,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Atlético Madrid,0.015100000000000002,0.8333,0.8182
 2023-10-01 03:03:55.230512,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Aberdeen,0.01469999999999999,0.25,0.2353
 2023-10-01 00:04:03.956978,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,British Columbia Lions,0.01469999999999999,0.25,0.2353
 2023-10-01 03:03:54.404563,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Christian Pulisic (AC Milan),0.014499999999999999,0.0294,0.0149
@@ -95,87 +90,86 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-01 01:04:06.962558,Matches - Day 3 Singles - Robert MacIntyre v Wyndham Clark - Winner,Robert MacIntyre,0.01419999999999999,0.3846,0.3704
 2023-10-01 00:03:58.249037,National League - England National League 2023/24 - Outright,Solihull Moors,0.014100000000000001,0.0526,0.0385
 2023-09-30 23:05:00.664828,Championship - England Championship 2023/24 - League Winner,West Bromwich Albion,0.014099999999999998,0.0385,0.0244
-2023-09-30 23:05:01.342684,Tournament Futures - FIFA World Cup 2026 - Winner,Germany,0.013999999999999999,0.0909,0.0769
 2023-10-01 02:03:31.421723,First Division A - Belgium First Division A 2023/24 - Outright,Anderlecht,0.013999999999999999,0.0909,0.0769
 2023-10-01 03:03:55.200632,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Holstein Kiel,0.013999999999999999,0.0909,0.0769
+2023-09-30 23:05:01.342684,Tournament Futures - FIFA World Cup 2026 - Winner,Germany,0.013999999999999999,0.0909,0.0769
 2023-10-01 02:03:30.689484,La Liga - Spain La Liga 2023/24 - To Be Relegated,Granada,0.013799999999999923,0.6364,0.6226
 2023-10-01 00:03:58.208578,League One - England - League One 2023/24 - League Winner,Portsmouth,0.0131,0.2353,0.2222
 2023-10-01 00:03:58.208578,League One - England - League One 2023/24 - League Winner,Oxford United,0.012899999999999995,0.1667,0.1538
-2023-10-01 03:03:55.246320,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,St. Johnstone,0.012699999999999989,0.3636,0.3509
 2023-10-01 03:03:54.379411,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Bochum,0.012699999999999989,0.3636,0.3509
+2023-10-01 03:03:55.246320,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,St. Johnstone,0.012699999999999989,0.3636,0.3509
 2023-09-30 18:07:52.412208,Matches - Day 3 Singles - Matt Fitzpatrick v Max Homa - Winner,Max Homa,0.012199999999999989,0.5122,0.5
 2023-10-01 02:03:37.464346,Matches - Day 3 Singles - Shane Lowry v Jordan Spieth - Winner,Shane Lowry,0.011600000000000055,0.5238,0.5122
 2023-09-30 21:05:11.547046,Matches - Day 3 Singles - Aberg v Koepka - Winner,Ludvig Aberg,0.0116,0.4878,0.4762
 2023-10-01 02:03:36.791849,NFL Weekly Specials - NFL Week 4 RedZone Specials - Sunday 1st October - Early Game Included,Atlanta Falcons under 134.5 Rush Yards & Buffalo Bills over 139.5 Rush Yards,0.01150000000000001,0.3448,0.3333
-2023-09-30 23:05:00.664828,Championship - England Championship 2023/24 - League Winner,Southampton,0.011199999999999995,0.0588,0.0476
 2023-09-30 23:05:01.342684,Tournament Futures - FIFA World Cup 2026 - Winner,Netherlands,0.011199999999999995,0.0588,0.0476
-2023-10-01 00:03:58.208578,League One - England - League One 2023/24 - League Winner,Peterborough United,0.011099999999999999,0.1111,0.1
+2023-09-30 23:05:00.664828,Championship - England Championship 2023/24 - League Winner,Southampton,0.011199999999999995,0.0588,0.0476
 2023-10-01 00:04:03.956978,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Toronto Argonauts,0.011099999999999999,0.4762,0.4651
-2023-10-01 03:03:54.411592,Serie A - Italy Serie A 2023/24 - To Be Relegated,Lecce,0.010899999999999993,0.1538,0.1429
+2023-10-01 00:03:58.208578,League One - England - League One 2023/24 - League Winner,Peterborough United,0.011099999999999999,0.1111,0.1
 2023-10-01 01:04:01.743518,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Nordsjælland,0.010899999999999993,0.1538,0.1429
+2023-10-01 03:03:54.411592,Serie A - Italy Serie A 2023/24 - To Be Relegated,Lecce,0.010899999999999993,0.1538,0.1429
 2023-09-30 23:05:08.611779,"NFL Weekly Specials - NFL Week 4 Leaders - Highest Scoring Team - Week 4 [Sunday only, excl early KO]",CHI Bears,0.010600000000000002,0.0323,0.0217
 2023-10-01 03:03:54.809085,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Cruzeiro,0.0102,0.0769,0.0667
 2023-09-30 20:06:01.840468,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayer Leverkusen,0.0102,0.0769,0.0667
 2023-10-01 03:03:54.379411,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Union Berlin,0.010100000000000001,0.0345,0.0244
-2023-09-30 23:05:00.664828,Championship - England Championship 2023/24 - League Winner,Leicester City,0.010099999999999998,0.4545,0.4444
 2023-10-01 01:04:06.844730,Matches - Day 3 Singles - Viktor Hovland v Collin Morikawa - Winner,Viktor Hovland,0.010099999999999998,0.5556,0.5455
+2023-09-30 23:05:00.664828,Championship - England Championship 2023/24 - League Winner,Leicester City,0.010099999999999998,0.4545,0.4444
 2023-09-30 18:07:52.412208,Matches - Day 3 Singles - Matt Fitzpatrick v Max Homa - Winner,Matt Fitzpatrick,-0.010099999999999998,0.4444,0.4545
 2023-09-30 23:05:00.664828,Championship - England Championship 2023/24 - League Winner,Preston North End,-0.010100000000000001,0.0244,0.0345
-2023-10-01 00:03:58.227574,League Two - England - League Two 2023/24 - League Winner,Gillingham,-0.0102,0.0667,0.0769
+2023-09-30 19:04:56.030204,Ligue 1 - France Ligue 1 2023/24 - Winner,Marseille,-0.0102,0.0667,0.0769
 2023-10-01 03:03:54.366206,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Victor Boniface,-0.0102,0.0667,0.0769
 2023-10-01 03:03:55.200632,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Magdeburg,-0.0102,0.0667,0.0769
-2023-09-30 19:04:56.030204,Ligue 1 - France Ligue 1 2023/24 - Winner,Marseille,-0.0102,0.0667,0.0769
+2023-10-01 00:03:58.227574,League Two - England - League Two 2023/24 - League Winner,Gillingham,-0.0102,0.0667,0.0769
 2023-09-30 17:09:36.868177,Boxing Lines - Elijah Garcia vs Jose Armando Resendiz - To Win the Bout,Elijah Garcia,-0.010499999999999954,0.7647,0.7752
 2023-10-01 00:04:03.956978,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Calgary Stampeders,-0.0107,0.0025,0.0132
 2023-10-01 02:03:31.554940,Professional League - Saudi Professional League 2023/24 - Winner,Al Ahli,-0.010899999999999993,0.1429,0.1538
 2023-10-01 03:03:54.802566,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Grêmio,-0.011199999999999995,0.0476,0.0588
 2023-10-01 03:03:54.404563,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Romelu Lukaku (Roma),-0.011199999999999995,0.0476,0.0588
-2023-09-30 18:07:52.565297,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Christina Kim,-0.011300000000000001,0.001,0.0123
 2023-09-30 23:05:01.342684,Tournament Futures - FIFA World Cup 2026 - Winner,Finland,-0.011300000000000001,0.001,0.0123
+2023-09-30 18:07:52.565297,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Christina Kim,-0.011300000000000001,0.001,0.0123
 2023-09-30 18:07:52.565297,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Pernilla Lindberg,-0.0115,0.0017,0.0132
 2023-09-30 20:06:11.854104,Elite Boxing - Saul 'Canelo' Alvarez vs Jermell Charlo - To Win the Bout,Jermell Charlo,-0.011700000000000016,0.2105,0.2222
 2023-09-30 18:07:52.565297,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Hyo Joo Kim,-0.0121,0.002,0.0141
-2023-09-30 16:08:55.551323,Matches - Day 3 Singles - Aberg v Koepka - Winner,Brooks Koepka,-0.012199999999999989,0.4878,0.5
 2023-10-01 03:03:54.425280,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Atalanta,-0.012699999999999989,0.3509,0.3636
 2023-10-01 03:03:54.388091,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,RB Leipzig,-0.012899999999999912,0.8333,0.8462
 2023-10-01 03:03:54.388091,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Borussia Dortmund,-0.012899999999999912,0.8333,0.8462
 2023-10-01 03:03:54.823174,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Corinthians,-0.012899999999999998,0.0149,0.0278
 2023-10-01 03:03:54.823174,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Internacional,-0.012899999999999998,0.0149,0.0278
-2023-10-01 03:03:54.815446,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Athletico Paranaense,-0.0131,0.2222,0.2353
 2023-10-01 03:03:54.404563,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Ciro Immobile (Lazio),-0.0131,0.0345,0.0476
+2023-10-01 03:03:54.815446,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Athletico Paranaense,-0.0131,0.2222,0.2353
 2023-10-01 03:03:54.823174,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Bahia,-0.0132,0.002,0.0152
 2023-10-01 03:03:55.181939,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Nordsjælland,-0.013799999999999923,0.6226,0.6364
-2023-09-30 20:06:01.819421,La Liga - Spain La Liga 2023/24 - Winner,Atlético Madrid,-0.013999999999999999,0.0769,0.0909
 2023-10-01 03:03:55.256686,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,St. Johnstone,-0.013999999999999999,0.0769,0.0909
+2023-09-30 20:06:01.819421,La Liga - Spain La Liga 2023/24 - Winner,Atlético Madrid,-0.013999999999999999,0.0769,0.0909
 2023-10-01 03:03:54.802566,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Fluminense,-0.014099999999999998,0.0244,0.0385
 2023-10-01 00:03:58.227574,League Two - England - League Two 2023/24 - League Winner,Bradford City,-0.014099999999999998,0.0244,0.0385
 2023-09-30 21:05:11.581493,Matches - Day 3 Singles - Hojgaard v Schauffele - Winner,Nicolai Hojgaard,-0.01419999999999999,0.3704,0.3846
 2023-09-30 21:05:11.616673,Matches - Day 3 Singles - MacIntyre v Clark - Winner,Robert MacIntyre,-0.01419999999999999,0.3704,0.3846
 2023-09-30 18:07:52.565297,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Emily Kristine Pedersen,-0.0148,0.0004,0.0152
-2023-10-01 00:03:58.208578,League One - England - League One 2023/24 - League Winner,Derby County,-0.015100000000000002,0.1667,0.1818
 2023-09-30 19:04:56.030204,Ligue 1 - France Ligue 1 2023/24 - Winner,Paris Saint-Germain,-0.015100000000000002,0.8182,0.8333
+2023-10-01 00:03:58.208578,League One - England - League One 2023/24 - League Winner,Derby County,-0.015100000000000002,0.1667,0.1818
 2023-10-01 00:03:58.208578,League One - England - League One 2023/24 - League Winner,Barnsley,-0.016600000000000004,0.0667,0.0833
 2023-10-01 02:03:30.689484,La Liga - Spain La Liga 2023/24 - To Be Relegated,Mallorca,-0.016699999999999993,0.25,0.2667
 2023-10-01 01:04:06.844730,Matches - Day 3 Singles - Viktor Hovland v Collin Morikawa - Winner,Collin Morikawa,-0.016699999999999993,0.4,0.4167
 2023-09-30 18:07:52.565297,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Sarah Schmelzel,-0.0171,0.0025,0.0196
 2023-10-01 01:04:06.962558,Matches - Day 3 Singles - Robert MacIntyre v Wyndham Clark - Winner,Wyndham Clark,-0.017299999999999982,0.5744,0.5917
-2023-09-30 18:07:52.128150,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Yordenis Ugas,-0.01759999999999995,0.6491,0.6667
 2023-10-01 03:03:55.189488,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,AGF Aarhus,-0.01759999999999995,0.6491,0.6667
+2023-09-30 18:07:52.128150,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Yordenis Ugas,-0.01759999999999995,0.6491,0.6667
 2023-10-01 03:03:55.230512,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,St. Mirren,-0.0179,0.125,0.1429
 2023-10-01 02:03:30.694962,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Osasuna,-0.018099999999999998,0.0588,0.0769
-2023-10-01 03:03:54.425280,Serie A - Italy Serie A 2023/24 - Top 4 Finish,AS Roma,-0.01820000000000002,0.1818,0.2
 2023-10-01 03:03:55.181939,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,AGF Aarhus,-0.01820000000000002,0.1818,0.2
 2023-10-01 03:03:54.366206,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Serhou Guirassy,-0.01820000000000002,0.1818,0.2
+2023-10-01 03:03:54.425280,Serie A - Italy Serie A 2023/24 - Top 4 Finish,AS Roma,-0.01820000000000002,0.1818,0.2
 2023-10-01 00:04:03.971219,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Calgary Stampeders,-0.0187,0.0057,0.0244
 2023-10-01 03:03:54.823174,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Cuiabá,-0.0189,0.0196,0.0385
 2023-09-30 21:05:11.526968,Matches - Day 3 Singles - Hatton v Harman - Winner,Brian Harman,-0.018900000000000028,0.4255,0.4444
 2023-10-01 03:03:54.388091,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Freiburg,-0.02020000000000001,0.0909,0.1111
 2023-10-01 03:03:55.189488,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Viborg FF,-0.020799999999999985,0.3125,0.3333
-2023-10-01 03:03:55.200632,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Hamburger SV,-0.021999999999999964,0.2857,0.3077
 2023-10-01 02:03:30.694962,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Athletic Bilbao,-0.021999999999999964,0.2857,0.3077
+2023-10-01 03:03:55.200632,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Hamburger SV,-0.021999999999999964,0.2857,0.3077
 2023-10-01 00:03:58.249037,National League - England National League 2023/24 - Outright,Chesterfield,-0.02200000000000002,0.6923,0.7143
-2023-10-01 03:03:55.181939,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Silkeborg IF,-0.022199999999999998,0.3226,0.3448
 2023-10-01 03:03:54.418570,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Empoli,-0.022199999999999998,0.2,0.2222
+2023-10-01 03:03:55.181939,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Silkeborg IF,-0.022199999999999998,0.3226,0.3448
 2023-10-01 04:04:32.122998,Matches - Day 3 Singles - Tommy Fleetwood v Rickie Fowler - Winner,Rickie Fowler,-0.02260000000000001,0.3774,0.4
 2023-10-01 01:04:06.891064,Matches - Day 3 Singles - Tyrrell Hatton v Brian Harman - Winner,Tyrrell Hatton,-0.022600000000000064,0.5122,0.5348
 2023-10-01 01:04:06.903299,Matches - Day 3 Singles - Ludvig Aberg v Brooks Koepka - Winner,Brooks Koepka,-0.022699999999999998,0.4651,0.4878
@@ -187,8 +181,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-01 03:03:55.230512,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Motherwell,-0.023799999999999988,0.1429,0.1667
 2023-10-01 02:03:30.701567,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Villarreal,-0.024299999999999995,0.0345,0.0588
 2023-09-30 17:09:36.820671,Elite Boxing - Saul 'Canelo' Alvarez vs Jermell Charlo - To Win the Bout,Jermell Charlo,-0.024800000000000016,0.2105,0.2353
-2023-10-01 02:03:30.701567,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Athletic Bilbao,-0.024999999999999994,0.1,0.125
 2023-09-30 19:05:00.640136,Off-Season Specials - Off-Season Specials - Where will Jrue Holiday play next season?,Sacramento Kings,-0.024999999999999994,0.1,0.125
+2023-10-01 02:03:30.701567,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Athletic Bilbao,-0.024999999999999994,0.1,0.125
 2023-09-30 18:07:52.565297,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Georgia Hall,-0.024999999999999998,0.0028,0.0278
 2023-10-01 03:03:54.411592,Serie A - Italy Serie A 2023/24 - To Be Relegated,Hellas Verona,-0.02560000000000001,0.3077,0.3333
 2023-09-30 17:09:36.890254,Boxing Lines - Yordenis Ugas vs Mario Barrios - To Win the Bout,Yordenis Ugas,-0.025600000000000067,0.6667,0.6923
@@ -196,16 +190,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-09-30 19:05:00.640136,Off-Season Specials - Off-Season Specials - Where will Jrue Holiday play next season?,Philadelphia 76ers,-0.02779999999999999,0.2222,0.25
 2023-10-01 03:03:55.181939,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Copenhagen,-0.02859999999999996,0.9615,0.9901
 2023-09-30 18:07:52.565297,Walmart NW Arkansas Championship - Walmart NW Arkansas Championship - Winner,Olivia Cowan,-0.029700000000000004,0.0179,0.0476
-2023-10-01 03:03:55.256686,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Motherwell,-0.03179999999999994,0.5238,0.5556
 2023-10-01 03:03:55.264678,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,St. Mirren,-0.03179999999999994,0.5238,0.5556
-2023-09-30 20:06:01.819421,La Liga - Spain La Liga 2023/24 - Winner,FC Barcelona,-0.031799999999999995,0.4444,0.4762
+2023-10-01 03:03:55.256686,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Motherwell,-0.03179999999999994,0.5238,0.5556
 2023-10-01 01:04:06.939314,Matches - Day 3 Singles - Shane Lowry v Jordan Spieth - Winner,Jordan Spieth,-0.031799999999999995,0.4444,0.4762
+2023-09-30 20:06:01.819421,La Liga - Spain La Liga 2023/24 - Winner,FC Barcelona,-0.031799999999999995,0.4444,0.4762
 2023-10-01 03:03:54.815446,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Palmeiras,-0.03180000000000005,0.8571,0.8889
 2023-10-01 03:03:54.388091,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Union Berlin,-0.0321,0.0588,0.0909
 2023-09-30 20:06:01.840468,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayern Munich,-0.033299999999999996,0.8,0.8333
 2023-10-01 03:03:55.230512,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Hibernian,-0.033300000000000024,0.1667,0.2
-2023-09-30 23:05:00.664828,Championship - England Championship 2023/24 - League Winner,Leeds United,-0.033399999999999985,0.1333,0.1667
 2023-10-01 03:03:54.815446,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fortaleza,-0.033399999999999985,0.1333,0.1667
+2023-09-30 23:05:00.664828,Championship - England Championship 2023/24 - League Winner,Leeds United,-0.033399999999999985,0.1333,0.1667
 2023-10-01 00:03:58.249037,National League - England National League 2023/24 - Outright,Gateshead,-0.034100000000000005,0.0909,0.125
 2023-10-01 03:03:54.379411,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Borussia Mönchengladbach,-0.034100000000000005,0.0909,0.125
 2023-10-01 03:03:54.809085,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Cuiabá,-0.03420000000000001,0.0769,0.1111
@@ -231,7 +225,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-01 03:03:54.379411,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Heidenheim,-0.07450000000000001,0.4255,0.5
 2023-10-01 03:03:54.359280,1. Bundesliga - Germany Bundesliga 2023/24 - Winner without Bayern Munich,RB Leipzig,-0.07690000000000002,0.3077,0.3846
 2023-10-01 01:04:01.771349,Premiership - Scotland Premiership 2023/24 - Winner,Rangers,-0.07789999999999997,0.2857,0.3636
-2023-09-30 16:08:45.984619,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Manchester City,-0.07809999999999995,0.6552,0.7333
 2023-10-01 03:03:55.256686,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Ross County,-0.08330000000000001,0.1667,0.25
 2023-10-01 03:03:55.200632,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Schalke 04,-0.0889,0.1111,0.2
 2023-10-01 02:03:33.344318,A1 - Greece A1 2023/2024 - Outright,Panathinaikos,-0.08999999999999997,0.5652,0.6552
