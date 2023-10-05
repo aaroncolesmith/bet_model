@@ -3,8 +3,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-05 05:06:54.977765,UEFA Champions League - Group F - To Advance From Group,Newcastle United,0.1945,0.7778,0.5833
 2023-10-05 05:07:00.877522,Political Specials - Total Number Of Ballots For Speaker - Number Of Ballots For Speaker,1,0.1666,0.3333,0.1667
 2023-10-05 05:06:54.957821,UEFA Champions League - Group E - To Advance From Group,Lazio,0.13670000000000004,0.6923,0.5556
-2023-10-05 05:07:00.864761,Political Specials - Next Speaker of the House - Next House Speaker,Jim Jordan,0.12310000000000001,0.2,0.0769
 2023-10-05 08:04:52.408105,Big Brother - BB25: Outright Winner - Outright Winner,Cameron Harding,0.12310000000000001,0.2,0.0769
+2023-10-05 05:07:00.864761,Political Specials - Next Speaker of the House - Next House Speaker,Jim Jordan,0.12310000000000001,0.2,0.0769
+2023-10-05 13:07:09.713260,Celebrity Boxing - Logan Paul vs Dillon Danis - Will the Fight Take Place on October 14,No,0.12229999999999996,0.6875,0.5652
 2023-10-05 05:06:54.992607,UEFA Champions League - Group H - Winner,FC Barcelona,0.12219999999999998,0.9,0.7778
 2023-10-05 05:06:54.971896,UEFA Champions League - Group F - Not To Advance From Group,Paris Saint-Germain,0.10769999999999996,0.3077,0.2
 2023-10-05 05:06:54.999457,UEFA Champions League - Group H - Not To Advance From Group,Royal Antwerp,0.09150000000000003,0.9804,0.8889
@@ -35,53 +36,50 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Sebastian Soderberg,0.0286,0.0385,0.0099
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Matt Fitzpatrick,0.02840000000000001,0.1053,0.0769
 2023-10-05 03:04:53.372668,Championship - England Championship 2023/24 - To Be Promoted,Leicester City,0.027800000000000047,0.7778,0.75
-2023-10-05 05:06:54.944953,UEFA Champions League - Group E - Winner,Lazio,0.02779999999999999,0.25,0.2222
 2023-10-05 04:05:46.136332,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Real Madrid,0.02779999999999999,0.25,0.2222
-2023-10-05 01:07:10.595207,Scores - 1st Round Score - T. Hoge - 1st Round Score ,Under 70.5,0.026499999999999968,0.5917,0.5652
+2023-10-05 05:06:54.944953,UEFA Champions League - Group E - Winner,Lazio,0.02779999999999999,0.25,0.2222
 2023-10-05 03:04:53.380613,Championship - England Championship 2023/24 - To Be Relegated,Watford,0.0242,0.0909,0.0667
 2023-10-05 04:05:46.136332,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Manchester City,0.023799999999999988,0.5,0.4762
 2023-10-05 04:05:46.136332,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Newcastle United,0.02310000000000001,0.1,0.0769
 2023-10-05 02:06:13.842529,MLS - MLS 2023 - Top Goalscorer,Daniel Gazdag (PHI),0.0203,0.0588,0.0385
 2023-10-05 04:05:46.128834,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Julian Alvarez (Man City),0.019099999999999992,0.0667,0.0476
-2023-10-05 01:07:09.657283,Boxing Lines - Panya Pradabsri vs Yudai Shigeoka - To Win the Bout,Panya Pradabsri,0.018900000000000028,0.4444,0.4255
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Calum Hill,0.0189,0.0385,0.0196
 2023-10-05 04:05:46.136332,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Arsenal FC,0.01820000000000002,0.2,0.1818
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Grant Forrest,0.0182,0.0323,0.0141
-2023-10-05 05:06:55.005096,UEFA Champions League - Group H - To Advance From Group,Shakhtar Donetsk,0.0179,0.1429,0.125
-2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Marcus Helligkilde,0.0179,0.0278,0.0099
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Wilco Nienaber,0.0179,0.0278,0.0099
-2023-10-05 12:05:38.448762,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-05 11:06:25.135354,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-05 01:07:07.282480,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-05 10:08:21.310768,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-05 04:05:50.997407,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Marcus Helligkilde,0.0179,0.0278,0.0099
+2023-10-05 05:06:55.005096,UEFA Champions League - Group H - To Advance From Group,Shakhtar Donetsk,0.0179,0.1429,0.125
+2023-10-05 08:04:56.441556,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-05 06:05:52.657096,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-05 09:05:01.640414,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-05 10:08:21.310768,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-05 11:06:25.135354,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-05 05:07:00.173338,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-05 12:05:38.448762,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-05 04:05:50.997407,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-05 13:07:13.299110,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-05 03:04:58.714346,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-05 02:06:19.014552,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-05 07:05:34.443659,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-05 01:07:09.581990,Boxing Lines - Masood Abdulah vs Marc Leach - To Win the Bout,Marc Leach,0.017299999999999982,0.5917,0.5744
-2023-10-05 06:05:52.657096,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-05 05:07:00.173338,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-05 03:04:58.714346,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-05 08:04:56.441556,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-05 03:04:53.372668,Championship - England Championship 2023/24 - To Be Promoted,Leeds United,0.016699999999999993,0.4167,0.4
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Louis Oosthuizen,0.015300000000000001,0.0476,0.0323
-2023-10-05 03:04:53.372668,Championship - England Championship 2023/24 - To Be Promoted,West Bromwich Albion,0.015100000000000002,0.1818,0.1667
 2023-10-05 03:04:53.402717,Championship - England Championship 2023/24 - Top 6 Finish,Bristol City,0.015100000000000002,0.1818,0.1667
+2023-10-05 03:04:53.372668,Championship - England Championship 2023/24 - To Be Promoted,West Bromwich Albion,0.015100000000000002,0.1818,0.1667
 2023-10-05 04:05:54.023357,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Josh Warrington,0.01419999999999999,0.3846,0.3704
 2023-10-05 06:05:55.595514,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Texas Rangers,0.011899999999999994,0.25,0.2381
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Zander Lombard,0.011699999999999999,0.0196,0.0079
-2023-10-05 10:08:21.340826,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-05 02:06:19.035195,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-05 13:07:13.323815,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-05 05:07:00.219272,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-05 01:07:07.320782,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-05 03:04:58.740211,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-05 06:05:52.682445,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-05 02:06:19.035195,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-05 07:05:34.490681,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-05 08:04:56.462257,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-05 09:05:01.661439,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-05 03:04:58.740211,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-05 11:06:25.155719,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-05 12:05:38.469192,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-05 10:08:21.340826,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-05 04:05:51.034974,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-05 12:05:38.469192,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-05 11:06:25.155719,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-05 04:05:46.128834,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Gabriel Jesus (Arsenal),0.011199999999999995,0.0588,0.0476
 2023-10-05 02:06:13.830004,MLS - MLS 2023 - Winner,Saint Louis City SC,0.011099999999999999,0.1111,0.1
 2023-10-05 02:06:21.191319,Boxing Lines - Daniel Valladares vs Ginjiro Shigeoka - To Win the Bout,Ginjiro Shigeoka,0.011099999999999999,0.9,0.8889
@@ -93,24 +91,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-05 02:06:21.165296,Boxing Lines - Masood Abdulah vs Marc Leach - To Win the Bout,Masood Abdulah,-0.011099999999999999,0.4651,0.4762
 2023-10-05 05:07:00.864761,Political Specials - Next Speaker of the House - Next House Speaker,Hakeem Jeffries,-0.011199999999999995,0.0476,0.0588
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Padraig Harrington,-0.011300000000000001,0.001,0.0123
-2023-10-05 10:08:21.310768,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-05 08:04:56.441556,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-05 07:05:34.443659,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-05 11:06:25.135354,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-05 06:05:52.657096,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-05 12:05:38.448762,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-05 05:07:00.173338,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-05 13:07:13.299110,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-05 11:06:25.135354,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-05 07:05:34.443659,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-05 08:04:56.441556,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-05 09:05:01.640414,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-05 02:06:19.014552,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-05 04:05:50.997407,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-05 10:08:21.310768,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-05 12:05:38.448762,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-05 03:04:58.714346,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-05 01:07:07.282480,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-05 01:07:09.581990,Boxing Lines - Masood Abdulah vs Marc Leach - To Win the Bout,Masood Abdulah,-0.0116,0.4762,0.4878
+2023-10-05 05:07:00.173338,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-05 04:05:50.997407,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-05 02:06:19.014552,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-05 04:05:46.136332,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Union Berlin,-0.012100000000000001,0.0123,0.0244
 2023-10-05 05:06:54.964945,UEFA Champions League - Group F - Winner,AC Milan,-0.012899999999999995,0.1538,0.1667
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Matt Kuchar,-0.013,0.0066,0.0196
 2023-10-05 03:04:53.372668,Championship - England Championship 2023/24 - To Be Promoted,Blackburn Rovers,-0.0131,0.0345,0.0476
-2023-10-05 01:07:09.657283,Boxing Lines - Panya Pradabsri vs Yudai Shigeoka - To Win the Bout,Yudai Shigeoka,-0.013799999999999923,0.6226,0.6364
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Ewen Ferguson,-0.013900000000000001,0.0025,0.0164
 2023-10-05 02:06:13.830004,MLS - MLS 2023 - Winner,Inter Miami,-0.013999999999999999,0.0769,0.0909
 2023-10-05 03:04:53.372668,Championship - England Championship 2023/24 - To Be Promoted,Preston North End,-0.013999999999999999,0.0769,0.0909
@@ -121,23 +117,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-05 04:05:54.023357,Boxing Lines - Leigh Wood vs Josh Warrington - To Win the Bout,Leigh Wood,-0.014900000000000024,0.6774,0.6923
 2023-10-05 03:04:53.402717,Championship - England Championship 2023/24 - Top 6 Finish,Preston North End,-0.016699999999999993,0.25,0.2667
 2023-10-05 04:05:46.136332,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Inter Milan,-0.016700000000000007,0.0833,0.1
-2023-10-05 08:04:56.462257,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-05 13:07:13.323815,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-05 12:05:38.469192,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-05 11:06:25.155719,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-05 07:05:34.490681,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-05 09:05:01.661439,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-05 10:08:21.340826,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-05 06:05:52.682445,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-05 09:05:01.661439,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-05 07:05:34.490681,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-05 02:06:19.035195,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-05 08:04:56.462257,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-05 05:07:00.219272,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-05 04:05:51.034974,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-05 02:06:19.035195,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-05 01:07:07.320782,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-05 03:04:58.740211,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Joost Luiten,-0.017599999999999998,0.002,0.0196
+2023-10-05 10:08:21.340826,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Victor Perez,-0.017599999999999998,0.002,0.0196
-2023-10-05 03:04:53.372668,Championship - England Championship 2023/24 - To Be Promoted,Watford,-0.018099999999999998,0.0588,0.0769
+2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Joost Luiten,-0.017599999999999998,0.002,0.0196
 2023-10-05 03:04:53.380613,Championship - England Championship 2023/24 - To Be Relegated,Millwall,-0.018099999999999998,0.0588,0.0769
 2023-10-05 03:04:53.380613,Championship - England Championship 2023/24 - To Be Relegated,Birmingham City,-0.018099999999999998,0.0588,0.0769
+2023-10-05 03:04:53.372668,Championship - England Championship 2023/24 - To Be Promoted,Watford,-0.018099999999999998,0.0588,0.0769
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Robert MacIntyre,-0.0182,0.0141,0.0323
 2023-10-05 03:04:53.372668,Championship - England Championship 2023/24 - To Be Promoted,Stoke City,-0.019099999999999992,0.0476,0.0667
 2023-10-05 05:06:54.964945,UEFA Champions League - Group F - Winner,Borussia Dortmund,-0.02020000000000001,0.0909,0.1111
@@ -149,10 +145,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Rasmus Hojgaard,-0.022400000000000003,0.0099,0.0323
 2023-10-05 05:06:54.999457,UEFA Champions League - Group H - Not To Advance From Group,Shakhtar Donetsk,-0.02310000000000001,0.9,0.9231
 2023-10-05 04:05:46.136332,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Borussia Dortmund,-0.023200000000000002,0.0244,0.0476
-2023-10-05 04:05:46.136332,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,FC Barcelona,-0.023799999999999988,0.1429,0.1667
-2023-10-05 03:04:53.402717,Championship - England Championship 2023/24 - Top 6 Finish,Watford,-0.023799999999999988,0.1429,0.1667
-2023-10-05 01:07:10.595207,Scores - 1st Round Score - T. Hoge - 1st Round Score ,Over 70.5,-0.023799999999999988,0.4762,0.5
 2023-10-05 05:07:00.877522,Political Specials - Total Number Of Ballots For Speaker - Number Of Ballots For Speaker,Over 21,-0.023799999999999988,0.1429,0.1667
+2023-10-05 03:04:53.402717,Championship - England Championship 2023/24 - Top 6 Finish,Watford,-0.023799999999999988,0.1429,0.1667
+2023-10-05 04:05:46.136332,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,FC Barcelona,-0.023799999999999988,0.1429,0.1667
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Dean Burmester,-0.024399999999999998,0.0141,0.0385
 2023-10-05 04:05:46.136332,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Manchester United,-0.0245,0.0588,0.0833
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Adrian Meronk,-0.028000000000000004,0.0196,0.0476
@@ -175,8 +170,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-05 08:04:52.408105,Big Brother - BB25: Outright Winner - Outright Winner,Jag Bains,-0.043800000000000006,0.1667,0.2105
 2023-10-05 07:05:38.581495,Round Match-Ups - 1st Round Match-Up - B. Hossler v E. Cole - 1st Round Match-Up,Beau Hossler,-0.04760000000000003,0.4762,0.5238
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Tommy Fleetwood,-0.048100000000000004,0.0769,0.125
-2023-10-05 05:07:00.864761,Political Specials - Next Speaker of the House - Next House Speaker,Patrick McHenry,-0.048100000000000004,0.0769,0.125
 2023-10-05 05:07:00.864761,Political Specials - Next Speaker of the House - Next House Speaker,Byron Donalds,-0.048100000000000004,0.0769,0.125
+2023-10-05 05:07:00.864761,Political Specials - Next Speaker of the House - Next House Speaker,Patrick McHenry,-0.048100000000000004,0.0769,0.125
 2023-10-05 03:04:53.372668,Championship - England Championship 2023/24 - To Be Promoted,Norwich City,-0.04999999999999999,0.2,0.25
 2023-10-05 08:04:52.419168,Big Brother - BB25: Winning Sex - Winning Sex,Female,-0.05130000000000001,0.3333,0.3846
 2023-10-05 03:04:53.402717,Championship - England Championship 2023/24 - Top 6 Finish,Blackburn Rovers,-0.052000000000000005,0.0909,0.1429
@@ -192,6 +187,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-05 05:06:54.992607,UEFA Champions League - Group H - Winner,FC Porto,-0.09620000000000001,0.1538,0.25
 2023-10-05 05:06:54.977765,UEFA Champions League - Group F - To Advance From Group,Paris Saint-Germain,-0.10709999999999997,0.75,0.8571
 2023-10-05 05:06:55.005096,UEFA Champions League - Group H - To Advance From Group,Royal Antwerp,-0.1079,0.0588,0.1667
+2023-10-05 13:07:09.713260,Celebrity Boxing - Logan Paul vs Dillon Danis - Will the Fight Take Place on October 14,Yes,-0.13160000000000005,0.3922,0.5238
 2023-10-05 05:06:54.952561,UEFA Champions League - Group E - Not To Advance From Group,Lazio,-0.13920000000000005,0.3846,0.5238
 2023-10-05 05:06:54.964945,UEFA Champions League - Group F - Winner,Paris Saint-Germain,-0.18329999999999996,0.4167,0.6
 2023-10-05 05:06:54.971896,UEFA Champions League - Group F - Not To Advance From Group,Newcastle United,-0.2143,0.2857,0.5
