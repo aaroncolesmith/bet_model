@@ -6,7 +6,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-05 08:04:52.419168,Big Brother - BB25: Winning Sex - Winning Sex,Male,0.057699999999999974,0.75,0.6923
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Peter Uihlein,0.05249999999999999,0.0769,0.0244
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Adri Arnaus,0.0436,0.0476,0.004
-2023-10-05 07:05:38.581495,Round Match-Ups - 1st Round Match-Up - B. Hossler v E. Cole - 1st Round Match-Up,Eric Cole,0.04139999999999999,0.5652,0.5238
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Matthew Southgate,0.031200000000000002,0.0476,0.0164
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Sebastian Soderberg,0.0286,0.0385,0.0099
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Matt Fitzpatrick,0.02840000000000001,0.1053,0.0769
@@ -14,89 +13,94 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-05 16:09:42.024202,NBL - NBL 2023/2024 - Outright,Brisbane Bullets,0.0208,0.0833,0.0625
 2023-10-05 14:05:34.028506,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Philadelphia Phillies,0.0194,0.2299,0.2105
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Calum Hill,0.0189,0.0385,0.0196
+2023-10-05 19:07:04.279962,UEFA Europa Conference League - Europa Conference League 2023/24 - Winner,Aston Villa,0.01820000000000002,0.2,0.1818
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Grant Forrest,0.0182,0.0323,0.0141
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Marcus Helligkilde,0.0179,0.0278,0.0099
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Wilco Nienaber,0.0179,0.0278,0.0099
-2023-10-05 14:05:31.829586,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-05 10:08:21.310768,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-05 08:04:56.441556,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-05 09:05:01.640414,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-05 17:11:16.807063,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-05 11:06:25.135354,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-05 13:07:13.299110,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-05 16:09:43.869225,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-05 18:06:04.657477,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-05 07:05:34.443659,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-05 17:11:16.807063,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-05 12:05:38.448762,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-05 11:06:25.135354,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-05 18:06:04.657477,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-05 10:08:21.310768,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-05 09:05:01.640414,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-05 08:04:56.441556,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-05 19:07:09.188959,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-05 13:07:13.299110,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-05 14:05:31.829586,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Louis Oosthuizen,0.015300000000000001,0.0476,0.0323
 2023-10-05 16:09:42.067425,Bundesliga - Germany Bundesliga 2023/24 - Outright,Alba Berlin,0.012899999999999995,0.1667,0.1538
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Zander Lombard,0.011699999999999999,0.0196,0.0079
+2023-10-05 16:09:43.899519,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-05 14:05:31.850389,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-05 19:07:09.210183,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-05 13:07:13.323815,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-05 12:05:38.469192,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-05 18:06:04.678010,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-05 08:04:56.462257,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-05 17:11:16.838750,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-05 09:05:01.661439,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-05 10:08:21.340826,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-05 11:06:25.155719,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-05 12:05:38.469192,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-05 08:04:56.462257,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-05 13:07:13.323815,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-05 17:11:16.838750,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-05 18:06:04.678010,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-05 14:05:31.850389,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-05 07:05:34.490681,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-05 16:09:43.899519,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-05 14:05:34.238981,Boxing Lines - Ellis Zorro vs Luca D'ortenzi - To Win the Bout,Ellis Zorro,0.011099999999999999,0.9,0.8889
 2023-10-05 14:05:34.015462,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Texas Rangers,0.010299999999999976,0.2667,0.2564
+2023-10-05 19:07:04.262527,UEFA Europa League - UEFA Europa League 2023/24 - Outright,AS Roma,0.0102,0.0769,0.0667
 2023-10-05 14:05:34.028506,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Los Angeles Dodgers,-0.010699999999999987,0.3226,0.3333
 2023-10-05 14:05:33.972134,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Philadelphia Phillies,-0.010700000000000001,0.1143,0.125
 2023-10-05 16:09:42.024202,NBL - NBL 2023/2024 - Outright,New Zealand Breakers,-0.010899999999999993,0.1429,0.1538
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Padraig Harrington,-0.011300000000000001,0.001,0.0123
-2023-10-05 10:08:21.310768,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-05 09:05:01.640414,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-05 11:06:25.135354,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-05 13:07:13.299110,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-05 14:05:31.829586,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-05 16:09:43.869225,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-05 07:05:34.443659,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-05 17:11:16.807063,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-05 12:05:38.448762,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-05 08:04:56.441556,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-05 09:05:01.640414,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-05 13:07:13.299110,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-05 11:06:25.135354,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-05 10:08:21.310768,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-05 19:07:09.188959,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-05 17:11:16.807063,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-05 18:06:04.657477,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-05 12:05:38.448762,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-05 17:11:19.293960,College Season Props - To Make the Playoffs - To Make the Playoffs,Texas,-0.011600000000000055,0.5122,0.5238
 2023-10-05 14:05:33.972134,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Atlanta Braves,-0.012799999999999978,0.2857,0.2985
-2023-10-05 17:11:19.886814,Boxing Lines - Daniel Valladares vs Ginjiro Shigeoka - To Win the Bout,Daniel Valladares,-0.012899999999999995,0.1538,0.1667
 2023-10-05 17:11:19.868790,Boxing Lines - Ellis Zorro vs Luca D'ortenzi - To Win the Bout,Luca D'ortenzi,-0.012899999999999995,0.1538,0.1667
+2023-10-05 17:11:19.886814,Boxing Lines - Daniel Valladares vs Ginjiro Shigeoka - To Win the Bout,Daniel Valladares,-0.012899999999999995,0.1538,0.1667
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Matt Kuchar,-0.013,0.0066,0.0196
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Ewen Ferguson,-0.013900000000000001,0.0025,0.0164
+2023-10-05 19:07:04.279962,UEFA Europa Conference League - Europa Conference League 2023/24 - Winner,Club Brugge,-0.014100000000000001,0.0385,0.0526
 2023-10-05 16:09:42.041375,NBL - NBL 2023/2024 - Regular Season MVP,Aron Baynes,-0.014199999999999999,0.0152,0.0294
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Connor Syme,-0.014599999999999998,0.005,0.0196
 2023-10-05 16:09:42.041375,NBL - NBL 2023/2024 - Regular Season MVP,Milton Doyle,-0.014899999999999997,0.0476,0.0625
 2023-10-05 16:09:42.067425,Bundesliga - Germany Bundesliga 2023/24 - Outright,Telekom Baskets Bonn,-0.016600000000000004,0.0667,0.0833
+2023-10-05 19:07:04.262527,UEFA Europa League - UEFA Europa League 2023/24 - Outright,Liverpool,-0.016699999999999993,0.25,0.2667
 2023-10-05 16:09:42.024202,NBL - NBL 2023/2024 - Outright,SE Melbourne Phoenix,-0.016700000000000007,0.0833,0.1
 2023-10-05 16:09:42.041375,NBL - NBL 2023/2024 - Regular Season MVP,Will Cummings,-0.017100000000000004,0.0152,0.0323
-2023-10-05 07:05:34.490681,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-05 16:09:43.899519,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-05 08:04:56.462257,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-05 17:11:16.838750,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-05 09:05:01.661439,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-05 10:08:21.340826,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-05 11:06:25.155719,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-05 12:05:38.469192,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-05 13:07:13.323815,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-05 19:07:09.210183,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-05 18:06:04.678010,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-05 17:11:16.838750,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-05 16:09:43.899519,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-05 14:05:31.850389,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Joost Luiten,-0.017599999999999998,0.002,0.0196
+2023-10-05 08:04:56.462257,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-05 13:07:13.323815,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-05 12:05:38.469192,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-05 11:06:25.155719,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-05 09:05:01.661439,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Victor Perez,-0.017599999999999998,0.002,0.0196
+2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Joost Luiten,-0.017599999999999998,0.002,0.0196
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Robert MacIntyre,-0.0182,0.0141,0.0323
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Romain Langasque,-0.0207,0.001,0.0217
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Rasmus Hojgaard,-0.022400000000000003,0.0099,0.0323
+2023-10-05 19:07:04.262527,UEFA Europa League - UEFA Europa League 2023/24 - Outright,Bayer Leverkusen,-0.0242,0.0667,0.0909
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Dean Burmester,-0.024399999999999998,0.0141,0.0385
 2023-10-05 16:09:42.041375,NBL - NBL 2023/2024 - Regular Season MVP,Matthew Dellavedova,-0.027800000000000005,0.0833,0.1111
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Adrian Meronk,-0.028000000000000004,0.0196,0.0476
 2023-10-05 14:05:34.028506,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Atlanta Braves,-0.029000000000000026,0.4255,0.4545
 2023-10-05 16:09:42.041375,NBL - NBL 2023/2024 - Regular Season MVP,Luke Travers,-0.0294,0.0294,0.0588
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Thorbjorn Olesen,-0.0313,0.001,0.0323
+2023-10-05 19:07:04.279962,UEFA Europa Conference League - Europa Conference League 2023/24 - Winner,Eintracht Frankfurt,-0.034100000000000005,0.0909,0.125
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Jordan Smith,-0.0345,0.004,0.0385
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Talor Gooch,-0.035300000000000005,0.0123,0.0476
 2023-10-05 08:04:52.408105,Big Brother - BB25: Outright Winner - Outright Winner,Jag Bains,-0.043800000000000006,0.1667,0.2105
-2023-10-05 07:05:38.581495,Round Match-Ups - 1st Round Match-Up - B. Hossler v E. Cole - 1st Round Match-Up,Beau Hossler,-0.04760000000000003,0.4762,0.5238
 2023-10-05 12:05:41.069351,Alfred Dunhill Links Championship - Alfred Dunhill Links Championship - Winner,Tommy Fleetwood,-0.048100000000000004,0.0769,0.125
 2023-10-05 08:04:52.419168,Big Brother - BB25: Winning Sex - Winning Sex,Female,-0.05130000000000001,0.3333,0.3846
 2023-10-05 08:04:52.408105,Big Brother - BB25: Outright Winner - Outright Winner,Cory Wurtenberger,-0.07930000000000001,0.1429,0.2222
