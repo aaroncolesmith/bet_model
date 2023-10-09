@@ -6,8 +6,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-09 06:05:00.583691,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Tyreek Hill,0.13379999999999997,0.3077,0.1739
 2023-10-09 06:04:59.799544,Joe Biden Specials - Joe Biden Approval Rating At Year End - Joe Biden Approval Rating At Year End,39.5 or under,0.12379999999999997,0.6,0.4762
 2023-10-09 05:05:22.332180,Awards & League Leaders - Comeback Player of the Year: D.Hamlin vs The Field - Who Will Win Comeback Player of the Year?,Damar Hamlin,0.11909999999999998,0.6429,0.5238
-2023-10-08 23:07:08.177022,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Minnesota Twins,0.1167,0.25,0.1333
 2023-10-08 23:07:08.393439,MLB Futures - MLB - FUTURES YES/NO - MIN Twins To Win AL Pennant,Yes,0.1167,0.25,0.1333
+2023-10-08 23:07:08.177022,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Minnesota Twins,0.1167,0.25,0.1333
 2023-10-08 23:07:08.324537,MLB Futures - MLB - FUTURES YES/NO - HOU Astros To Win AL Pennant,No,0.10419999999999996,0.6875,0.5833
 2023-10-09 01:05:49.218822,NFC East - NFC East 2023/24 - NFC East Winner,Philadelphia Eagles,0.1036999999999999,0.7333,0.6296
 2023-10-09 01:05:49.183156,AFC South - AFC South 2023/24 - AFC South Winner,Jacksonville Jaguars,0.10109999999999997,0.5455,0.4444
@@ -72,8 +72,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-09 05:05:15.083382,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Romelu Lukaku (Roma),0.038299999999999994,0.0909,0.0526
 2023-10-09 06:04:53.964023,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Hvidovre IF,0.03759999999999997,0.9709,0.9333
 2023-10-09 04:05:29.086223,Big Brother - BB25: Outright Winner - Outright Winner,Matt Klotz,0.03640000000000004,0.4,0.3636
-2023-10-09 06:04:59.617284,Political Specials - Next Speaker of the House - Next House Speaker,Jim Jordan,0.03639999999999999,0.6364,0.6
 2023-10-09 06:05:00.025008,45th Federal Election - Sworn In Government After Election - Government After Election,Conservative,0.03639999999999999,0.6364,0.6
+2023-10-09 06:04:59.617284,Political Specials - Next Speaker of the House - Next House Speaker,Jim Jordan,0.03639999999999999,0.6364,0.6
 2023-10-09 03:04:32.193902,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,Sporting CP,0.03570000000000001,0.2857,0.25
 2023-10-09 05:05:16.156035,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Fulham,0.03420000000000001,0.9231,0.8889
 2023-10-09 05:05:16.140774,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Chelsea,0.03410000000000002,0.9091,0.875
@@ -89,9 +89,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-09 05:05:22.598405,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 American League Championship Series MVP,Corey Seager (TEX),0.031799999999999995,0.1429,0.1111
 2023-10-09 06:05:00.583691,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Ja'Marr Chase,0.031200000000000002,0.0476,0.0164
 2023-10-09 03:04:38.009345,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Drake Maye,0.0309,0.0526,0.0217
+2023-10-09 08:04:40.856997,Political Specials - Next Speaker of the House - Next House Speaker,Jim Jordan,0.030299999999999994,0.6667,0.6364
 2023-10-09 05:05:16.094063,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Bournemouth,0.030299999999999994,0.3636,0.3333
 2023-10-09 05:05:16.067352,Premier League Futures/Specials - English Premier League 2023/24 - Winner without Manchester City,Liverpool,0.030299999999999994,0.3636,0.3333
-2023-10-09 08:04:40.856997,Political Specials - Next Speaker of the House - Next House Speaker,Jim Jordan,0.030299999999999994,0.6667,0.6364
 2023-10-09 05:05:16.132697,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Arsenal,0.02969999999999995,0.9709,0.9412
 2023-10-09 08:04:42.172391,Daily MLB Play Off Specials - Daily MLB Play Off Specials - Daily Strikeout Leader,Bobby Miller (LAD),0.029600000000000015,0.4,0.3704
 2023-10-09 04:05:33.849641,Argentine Politics - President After General Election - President After General Election,Sergio Massa,0.028799999999999992,0.1538,0.125
@@ -105,48 +105,47 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-09 05:05:16.156035,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Wolverhampton Wanderers,0.025000000000000022,0.9,0.875
 2023-10-09 05:05:22.598405,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 American League Championship Series MVP,Josh Jung (TEX),0.024800000000000003,0.0526,0.0278
 2023-10-09 03:04:38.024917,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Oregon,0.024299999999999995,0.0769,0.0526
-2023-10-09 06:04:53.574614,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,FC Puebla,0.0242,0.0909,0.0667
 2023-10-09 05:05:16.140774,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Everton,0.0242,0.0909,0.0667
 2023-10-09 06:04:53.447485,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Hulk (Atletico MG),0.0242,0.0909,0.0667
-2023-10-09 03:04:32.246546,Super Lig - Turkey Super Lig 2023/24 - Winner,Fenerbahce,0.023799999999999988,0.5,0.4762
+2023-10-09 06:04:53.574614,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,FC Puebla,0.0242,0.0909,0.0667
 2023-10-09 06:04:59.787069,Joe Biden Specials - Will Joe Biden be impeached during his first term as President? - Will Joe Biden be impeached during his first term as President?,Yes,0.023799999999999988,0.3571,0.3333
+2023-10-09 03:04:32.246546,Super Lig - Turkey Super Lig 2023/24 - Winner,Fenerbahce,0.023799999999999988,0.5,0.4762
 2023-10-09 06:04:53.447485,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Marcos Leonardo (Santos),0.023799999999999988,0.1667,0.1429
 2023-10-09 05:05:16.148469,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Aston Villa,0.023799999999999988,0.1667,0.1429
-2023-10-08 20:05:42.821671,La Liga - Spain La Liga 2023/24 - Winner,Real Madrid,0.022600000000000064,0.6226,0.6
-2023-10-09 04:05:29.096038,Big Brother - BB25: Winning Sex - Winning Sex,Male,0.022199999999999998,0.8,0.7778
-2023-10-09 06:04:53.566615,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Andre-Pierre Gignac (TIG),0.022199999999999998,0.2222,0.2
-2023-10-09 05:05:16.120936,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Liverpool,0.022199999999999998,0.8,0.7778
-2023-10-09 05:05:16.148469,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Crystal Palace,0.022199999999999998,0.8,0.7778
 2023-10-09 05:05:15.137180,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Nice,0.022199999999999998,0.2222,0.2
+2023-10-09 05:05:16.148469,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Crystal Palace,0.022199999999999998,0.8,0.7778
+2023-10-09 06:04:53.566615,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Andre-Pierre Gignac (TIG),0.022199999999999998,0.2222,0.2
+2023-10-09 04:05:29.096038,Big Brother - BB25: Winning Sex - Winning Sex,Male,0.022199999999999998,0.8,0.7778
+2023-10-09 05:05:16.120936,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Liverpool,0.022199999999999998,0.8,0.7778
 2023-10-09 05:05:16.156035,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Burnley,0.02200000000000002,0.7143,0.6923
 2023-10-09 05:05:22.527854,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Trea Turner (PHI),0.021799999999999996,0.0435,0.0217
 2023-10-09 05:05:15.083382,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Lautaro Martinez (Inter Milan),0.021699999999999997,0.4762,0.4545
 2023-10-09 05:05:15.090893,Serie A - Italy Serie A 2023/24 - To Be Relegated,Salernitana,0.02169999999999994,0.5455,0.5238
 2023-10-09 03:04:38.009345,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Brock Bowers,0.021300000000000003,0.0345,0.0132
 2023-10-09 01:05:49.244601,NFC South - NFC South 2023/24 - NFC South Winner,New Orleans Saints,0.02100000000000002,0.3846,0.3636
-2023-10-09 00:06:19.200630,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Miami Dolphins,0.02020000000000001,0.1111,0.0909
-2023-10-09 06:04:53.574614,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Club León,0.02020000000000001,0.1111,0.0909
 2023-10-09 05:05:16.085018,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Alexander Isak,0.02020000000000001,0.1111,0.0909
-2023-10-09 04:05:27.940498,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Bayer Leverkusen,0.020199999999999996,0.9091,0.8889
+2023-10-09 06:04:53.574614,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Club León,0.02020000000000001,0.1111,0.0909
+2023-10-09 00:06:19.200630,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Miami Dolphins,0.02020000000000001,0.1111,0.0909
 2023-10-09 06:04:53.978557,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Silkeborg IF,0.020199999999999996,0.9091,0.8889
+2023-10-09 04:05:27.940498,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Bayer Leverkusen,0.020199999999999996,0.9091,0.8889
 2023-10-08 23:07:08.136720,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Texas Rangers,0.019800000000000012,0.2326,0.2128
+2023-10-09 06:04:53.465194,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Vasco da Gama,0.019699999999999995,0.4545,0.4348
 2023-10-09 03:04:32.193902,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,FC Porto,0.019699999999999995,0.4545,0.4348
 2023-10-09 08:04:42.172391,Daily MLB Play Off Specials - Daily MLB Play Off Specials - Daily Strikeout Leader,Zack Wheeler (PHI),0.019699999999999995,0.4545,0.4348
-2023-10-09 06:04:53.465194,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Vasco da Gama,0.019699999999999995,0.4545,0.4348
 2023-10-09 04:05:34.321347,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Nick Sirianni,0.019099999999999995,0.0435,0.0244
 2023-10-09 04:05:34.333247,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Lamar Jackson,0.019099999999999995,0.0435,0.0244
-2023-10-09 04:05:29.086223,Big Brother - BB25: Outright Winner - Outright Winner,Cameron Harding,0.019000000000000017,0.2857,0.2667
 2023-10-09 04:05:27.932332,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,FC Köln,0.019000000000000017,0.2857,0.2667
 2023-10-09 05:05:15.090893,Serie A - Italy Serie A 2023/24 - To Be Relegated,Udinese,0.019000000000000017,0.2857,0.2667
+2023-10-09 04:05:29.086223,Big Brother - BB25: Outright Winner - Outright Winner,Cameron Harding,0.019000000000000017,0.2857,0.2667
 2023-10-09 03:04:37.971350,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Hamilton Tiger-Cats,0.019000000000000003,0.0625,0.0435
 2023-10-09 04:05:27.932332,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Heidenheim,0.018900000000000028,0.4444,0.4255
 2023-10-09 04:05:34.321347,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Shane Steichen,0.01830000000000001,0.0952,0.0769
-2023-10-09 01:05:49.183156,AFC South - AFC South 2023/24 - AFC South Winner,Indianapolis Colts,0.01820000000000002,0.2,0.1818
 2023-10-09 01:05:49.169809,AFC North - AFC North 2023/24 - AFC North Winner,Pittsburgh Steelers,0.01820000000000002,0.2,0.1818
+2023-10-09 01:05:49.183156,AFC South - AFC South 2023/24 - AFC South Winner,Indianapolis Colts,0.01820000000000002,0.2,0.1818
 2023-10-09 05:05:16.076577,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Alexander Isak,0.018200000000000004,0.0476,0.0294
+2023-10-09 04:05:27.923020,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Victor Boniface,0.018099999999999998,0.0769,0.0588
 2023-10-09 05:05:22.598405,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 American League Championship Series MVP,Adolis Garcia (TEX),0.018099999999999998,0.0526,0.0345
 2023-10-09 05:05:16.105480,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Burnley,0.018099999999999998,0.0769,0.0588
-2023-10-09 04:05:27.923020,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Victor Boniface,0.018099999999999998,0.0769,0.0588
 2023-10-09 05:05:22.598405,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 American League Championship Series MVP,Marcus Semien (TEX),0.018099999999999998,0.0526,0.0345
 2023-10-09 04:05:33.980046,New Zealand Politics - Which party will provide the prime minister after the next general election? - Party Of Prime Minister After Next General Election,National,0.017900000000000027,0.875,0.8571
 2023-10-09 05:05:15.090893,Serie A - Italy Serie A 2023/24 - To Be Relegated,Torino,0.0179,0.1429,0.125
@@ -155,47 +154,46 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-09 06:04:53.971446,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Brøndby IF,0.01759999999999995,0.6667,0.6491
 2023-10-09 05:05:15.019238,La Liga - Spain La Liga 2023/24 - To Be Relegated,Almería,0.017299999999999982,0.5917,0.5744
 2023-10-09 01:05:47.526992,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-09 05:05:20.642692,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-09 03:04:36.529817,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-08 20:05:47.274530,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-08 21:04:43.064869,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-09 09:05:17.928437,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-09 04:05:32.801558,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-09 08:04:40.201921,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-08 22:06:54.584150,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-09 07:04:35.367234,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-09 06:04:58.829268,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-09 08:04:40.201921,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-08 23:07:06.139318,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-09 00:06:17.830361,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-09 02:03:51.884774,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-09 03:04:36.529817,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-09 05:05:20.642692,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-09 06:04:58.829268,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-09 07:04:35.367234,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-09 04:05:34.333247,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Tua Tagovailoa,0.016699999999999993,0.2667,0.25
 2023-10-09 03:04:38.024917,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Georgia,0.016699999999999993,0.2667,0.25
 2023-10-09 05:05:16.113027,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Liverpool,0.015400000000000025,0.4,0.3846
 2023-10-09 05:05:22.527854,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Jose Altuve (HOU),0.015300000000000001,0.0476,0.0323
-2023-10-09 04:05:29.086223,Big Brother - BB25: Outright Winner - Outright Winner,Jag Bains,0.015100000000000002,0.1818,0.1667
-2023-10-09 05:05:16.113027,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Tottenham Hotspur,0.015100000000000002,0.1818,0.1667
 2023-10-09 05:05:16.148469,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Brentford,0.015100000000000002,0.8333,0.8182
-2023-10-09 06:04:53.494629,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Flamengo,0.015100000000000002,0.8333,0.8182
+2023-10-09 05:05:16.113027,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Tottenham Hotspur,0.015100000000000002,0.1818,0.1667
+2023-10-09 04:05:29.086223,Big Brother - BB25: Outright Winner - Outright Winner,Jag Bains,0.015100000000000002,0.1818,0.1667
 2023-10-09 06:04:53.566615,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Carlos Gonzalez (TIJ),0.015100000000000002,0.1818,0.1667
+2023-10-09 06:04:53.494629,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Flamengo,0.015100000000000002,0.8333,0.8182
 2023-10-09 07:04:34.318827,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Luguentz Dort (OKC),0.0151,0.0217,0.0066
 2023-10-09 00:06:19.230699,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Philadelphia Eagles,0.01469999999999999,0.25,0.2353
 2023-10-09 03:04:38.024917,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Ohio State,0.01440000000000001,0.1053,0.0909
 2023-10-09 05:05:22.376984,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Fred Warner,0.014400000000000003,0.0323,0.0179
 2023-10-09 05:05:16.148469,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Bournemouth,0.01429999999999998,0.9852,0.9709
 2023-10-09 05:05:15.153386,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Alexandre Lacazette (Lyon),0.014099999999999998,0.0385,0.0244
-2023-10-09 05:05:15.083382,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Christian Pulisic (AC Milan),0.014099999999999998,0.0385,0.0244
 2023-10-09 04:05:34.333247,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Cooper Kupp,0.014099999999999998,0.0435,0.0294
+2023-10-09 05:05:15.083382,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Christian Pulisic (AC Milan),0.014099999999999998,0.0385,0.0244
 2023-10-09 03:04:38.009345,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Dillon Gabriel,0.014099999999999994,0.0667,0.0526
 2023-10-09 05:05:16.148469,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Nottingham Forest,0.014000000000000012,0.9231,0.9091
-2023-10-09 04:05:28.581367,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Hertha BSC,0.013999999999999999,0.0909,0.0769
+2023-10-09 05:05:15.153386,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Wissam Ben Yedder (Monaco),0.013999999999999999,0.0909,0.0769
 2023-10-09 05:05:15.098756,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Hellas Verona,0.013999999999999999,0.0909,0.0769
 2023-10-09 06:04:53.465194,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Cruzeiro,0.013999999999999999,0.0909,0.0769
-2023-10-09 05:05:15.153386,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Wissam Ben Yedder (Monaco),0.013999999999999999,0.0909,0.0769
+2023-10-09 04:05:28.581367,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Hertha BSC,0.013999999999999999,0.0909,0.0769
 2023-10-09 05:05:15.083382,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Domenico Berardi (Sassuolo),0.013999999999999999,0.0909,0.0769
-2023-10-09 06:04:59.617284,Political Specials - Next Speaker of the House - Next House Speaker,Donald Trump,0.013899999999999996,0.125,0.1111
-2023-10-09 06:04:53.574614,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Tijuana,0.013899999999999996,0.125,0.1111
 2023-10-09 03:04:37.988518,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Hamilton Tiger-Cats,0.013899999999999996,0.125,0.1111
-2023-10-09 00:06:19.469219,MLB Futures - MLB - FUTURES YES/NO - MIN Twins To Win AL Pennant,Yes,0.01319999999999999,0.2632,0.25
+2023-10-09 06:04:53.574614,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Tijuana,0.013899999999999996,0.125,0.1111
+2023-10-09 06:04:59.617284,Political Specials - Next Speaker of the House - Next House Speaker,Donald Trump,0.013899999999999996,0.125,0.1111
 2023-10-09 00:06:19.303645,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Minnesota Twins,0.01319999999999999,0.2632,0.25
+2023-10-09 00:06:19.469219,MLB Futures - MLB - FUTURES YES/NO - MIN Twins To Win AL Pennant,Yes,0.01319999999999999,0.2632,0.25
 2023-10-09 05:05:15.019238,La Liga - Spain La Liga 2023/24 - To Be Relegated,Celta de Vigo,0.0131,0.2353,0.2222
 2023-10-09 03:04:32.176723,First Division A - Belgium First Division A 2023/24 - Outright,Royal Antwerp,0.012899999999999995,0.1667,0.1538
 2023-10-09 04:05:34.333247,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Breece Hall,0.012800000000000002,0.0345,0.0217
@@ -203,33 +201,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-09 06:04:53.971446,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Odense,0.012100000000000001,0.0244,0.0123
 2023-10-09 05:05:15.137180,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Marseille,0.011899999999999994,0.25,0.2381
 2023-10-09 03:04:38.024917,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Michigan,0.011700000000000016,0.2222,0.2105
-2023-10-09 03:04:37.971350,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Toronto Argonauts,0.0116,0.4878,0.4762
-2023-10-08 21:04:43.097960,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-09 08:04:40.222548,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-09 07:04:35.400733,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-08 23:07:06.168584,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-08 20:05:47.293824,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-09 00:06:17.853507,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-08 22:06:54.603767,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-09 03:04:37.971350,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Toronto Argonauts,0.0116,0.4878,0.4762
+2023-10-09 09:05:17.958754,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-09 07:04:35.400733,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-09 06:04:58.851925,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-08 23:07:06.168584,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-09 00:06:17.853507,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-09 01:05:47.556266,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-09 02:03:51.922393,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-09 03:04:36.557411,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-09 08:04:40.222548,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-09 04:05:32.827516,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-09 05:05:20.665041,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-09 06:04:58.851925,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-09 02:03:51.922393,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-09 05:05:15.019238,La Liga - Spain La Liga 2023/24 - To Be Relegated,Cádiz,0.01150000000000001,0.3448,0.3333
 2023-10-09 05:05:15.153386,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Folarin Balogun (Monaco),0.011199999999999995,0.0588,0.0476
 2023-10-09 00:06:19.200630,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Kansas City Chiefs,0.010899999999999993,0.1538,0.1429
-2023-10-09 05:05:22.527854,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Royce Lewis (MIN),0.010700000000000001,0.0385,0.0278
 2023-10-09 01:05:49.151736,AFC East - AFC East 2023/24 - AFC East Winner 23/24,New York Jets,0.010700000000000001,0.0385,0.0278
+2023-10-09 05:05:22.527854,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Royce Lewis (MIN),0.010700000000000001,0.0385,0.0278
 2023-10-09 05:05:22.527854,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Kyle Schwarber (PHI),0.010600000000000002,0.0323,0.0217
-2023-10-09 01:05:49.205536,AFC West - AFC West 2023/24 - AFC West Winner,Kansas City Chiefs,0.010500000000000065,0.8,0.7895
 2023-10-09 00:06:19.789239,Exhibition Fights - Tommy Fury vs KSI - To Win the Bout,Tommy Fury,0.010500000000000065,0.8,0.7895
+2023-10-09 01:05:49.205536,AFC West - AFC West 2023/24 - AFC West Winner,Kansas City Chiefs,0.010500000000000065,0.8,0.7895
 2023-10-09 04:05:34.321347,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Dan Campbell,0.010499999999999982,0.2105,0.2
-2023-10-09 05:05:22.598405,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 American League Championship Series MVP,Royce Lewis (MIN),0.0102,0.0769,0.0667
 2023-10-09 05:05:15.090893,Serie A - Italy Serie A 2023/24 - To Be Relegated,Sassuolo,0.0102,0.0769,0.0667
-2023-10-09 05:05:16.094063,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Brentford,0.0102,0.0769,0.0667
 2023-10-09 05:05:16.105480,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Bournemouth,0.0102,0.0769,0.0667
+2023-10-09 05:05:22.598405,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 American League Championship Series MVP,Royce Lewis (MIN),0.0102,0.0769,0.0667
+2023-10-09 05:05:16.094063,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Brentford,0.0102,0.0769,0.0667
 2023-10-09 06:04:53.956454,Superligaen - Denmark Superligaen 2023/24 - Winner,Silkeborg IF,0.0102,0.0769,0.0667
 2023-10-09 06:04:53.552152,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Deportivo Toluca,0.0102,0.0769,0.0667
 2023-10-09 05:05:16.140774,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Manchester United,0.010199999999999987,0.9333,0.9231
@@ -237,58 +234,57 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-09 04:05:34.228444,AFC South - AFC South 2023/24 - AFC South Winner,Jacksonville Jaguars,0.010099999999999998,0.5556,0.5455
 2023-10-09 05:05:15.030167,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Villarreal,-0.010100000000000001,0.0244,0.0345
 2023-10-09 05:05:15.137180,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Reims,-0.010100000000000001,0.0244,0.0345
-2023-10-09 04:05:34.333247,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Baker Mayfield,-0.0102,0.0667,0.0769
 2023-10-09 05:05:16.076577,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Heung-Min Son,-0.0102,0.0667,0.0769
+2023-10-09 04:05:34.333247,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Baker Mayfield,-0.0102,0.0667,0.0769
 2023-10-09 08:04:42.818868,Jeddah - Jeddah - Winner,Talor Gooch,-0.0102,0.0667,0.0769
+2023-10-09 05:05:15.090893,Serie A - Italy Serie A 2023/24 - To Be Relegated,Bologna,-0.0102,0.0667,0.0769
 2023-10-09 06:04:53.566615,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Rogelio Funes Mori (MON),-0.0102,0.0667,0.0769
 2023-10-09 05:05:15.098756,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Udinese,-0.0102,0.0667,0.0769
-2023-10-09 05:05:15.090893,Serie A - Italy Serie A 2023/24 - To Be Relegated,Bologna,-0.0102,0.0667,0.0769
 2023-10-08 23:07:08.136720,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Baltimore Orioles,-0.010700000000000001,0.0278,0.0385
 2023-10-09 05:05:16.067352,Premier League Futures/Specials - English Premier League 2023/24 - Winner without Manchester City,Newcastle United,-0.011099999999999999,0.1,0.1111
 2023-10-09 00:06:19.789239,Exhibition Fights - Tommy Fury vs KSI - To Win the Bout,KSI,-0.011099999999999999,0.2667,0.2778
 2023-10-09 05:05:16.140774,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Brighton & Hove Albion,-0.011199999999999988,0.9412,0.9524
 2023-10-09 05:05:15.137180,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Lens,-0.011199999999999995,0.0476,0.0588
-2023-10-09 03:04:37.988518,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Saskatchewan Roughriders,-0.011199999999999995,0.0476,0.0588
 2023-10-09 05:05:16.140774,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Bournemouth,-0.011199999999999995,0.0476,0.0588
+2023-10-09 03:04:37.988518,CFL Futures - Odds to win 2023 Grey Cup - To Reach Grey Cup,Saskatchewan Roughriders,-0.011199999999999995,0.0476,0.0588
 2023-10-09 04:05:34.333247,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Damar Hamlin,-0.011499999999999955,0.6552,0.6667
-2023-10-09 05:05:20.642692,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-09 03:04:36.529817,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-09 09:05:17.928437,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-08 22:06:54.584150,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-08 23:07:06.139318,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-09 02:03:51.884774,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-09 00:06:17.830361,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-09 06:04:58.829268,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-09 08:04:40.201921,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-08 21:04:43.064869,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-09 01:05:47.526992,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-09 00:06:17.830361,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-09 07:04:35.367234,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-09 04:05:32.801558,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-08 20:05:47.274530,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-09 03:04:36.529817,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-08 23:07:06.139318,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-09 06:04:58.829268,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-09 02:03:51.884774,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-09 05:05:20.642692,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-09 05:05:22.364096,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Damar Hamlin,-0.012299999999999978,0.6429,0.6552
 2023-10-09 04:05:27.915116,1. Bundesliga - Germany Bundesliga 2023/24 - Winner without Bayern Munich,Borussia Dortmund,-0.012699999999999989,0.3509,0.3636
-2023-10-09 04:05:34.344395,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Dak Prescott,-0.012800000000000002,0.0217,0.0345
 2023-10-09 04:05:34.333247,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Josh Dobbs,-0.012800000000000002,0.0217,0.0345
+2023-10-09 04:05:34.344395,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Dak Prescott,-0.012800000000000002,0.0217,0.0345
 2023-10-09 01:05:49.169809,AFC North - AFC North 2023/24 - AFC North Winner,Cleveland Browns,-0.01319999999999999,0.25,0.2632
 2023-10-09 03:04:38.009345,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Sam Hartman,-0.013699999999999999,0.0141,0.0278
-2023-10-09 01:05:49.183156,AFC South - AFC South 2023/24 - AFC South Winner,Houston Texans,-0.013899999999999996,0.16,0.1739
 2023-10-09 05:05:15.030167,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Athletic Bilbao,-0.013899999999999996,0.1111,0.125
+2023-10-09 01:05:49.183156,AFC South - AFC South 2023/24 - AFC South Winner,Houston Texans,-0.013899999999999996,0.16,0.1739
 2023-10-09 05:05:16.148469,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Manchester United,-0.013899999999999996,0.1111,0.125
 2023-10-09 06:04:53.566615,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Julian Quinones (AME),-0.013999999999999999,0.0769,0.0909
-2023-10-09 06:04:53.956454,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Midtjylland,-0.013999999999999999,0.0769,0.0909
-2023-10-09 05:05:16.132697,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,West Ham United,-0.013999999999999999,0.0769,0.0909
 2023-10-09 06:04:53.447485,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Filho Paulinho (Athletico MG),-0.013999999999999999,0.0769,0.0909
+2023-10-09 05:05:16.132697,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,West Ham United,-0.013999999999999999,0.0769,0.0909
+2023-10-09 06:04:53.956454,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Midtjylland,-0.013999999999999999,0.0769,0.0909
 2023-10-09 03:04:32.265723,Superettan - Superettan 2023 - Winner,Västerås SK,-0.014000000000000012,0.9091,0.9231
 2023-10-09 06:04:59.617284,Political Specials - Next Speaker of the House - Next House Speaker,Kevin McCarthy,-0.014099999999999994,0.0526,0.0667
 2023-10-09 05:05:16.105480,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Wolverhampton Wanderers,-0.014099999999999998,0.0244,0.0385
 2023-10-09 05:05:15.098756,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Torino,-0.014099999999999998,0.0294,0.0435
-2023-10-09 04:05:34.344395,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Christian McCaffrey,-0.014399999999999996,0.0625,0.0769
 2023-10-09 05:05:22.527854,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Austin Riley (ATL),-0.014399999999999996,0.0625,0.0769
+2023-10-09 04:05:34.344395,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Christian McCaffrey,-0.014399999999999996,0.0625,0.0769
 2023-10-09 05:05:15.163693,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Toulouse,-0.01440000000000001,0.0909,0.1053
-2023-10-09 05:05:15.106627,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Torino,-0.014499999999999999,0.0149,0.0294
 2023-10-09 05:05:16.132697,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Crystal Palace,-0.014499999999999999,0.0149,0.0294
+2023-10-09 05:05:15.106627,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Torino,-0.014499999999999999,0.0149,0.0294
 2023-10-09 01:05:49.258084,NFC West - NFC West 2023/24 - NFC West Winner,Los Angeles Rams,-0.014899999999999997,0.0476,0.0625
-2023-10-09 03:04:38.024917,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,USC,-0.014899999999999997,0.0476,0.0625
 2023-10-09 06:04:53.971446,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Viborg FF,-0.014899999999999997,0.0476,0.0625
+2023-10-09 03:04:38.024917,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,USC,-0.014899999999999997,0.0476,0.0625
 2023-10-09 06:04:53.964023,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,AGF Aarhus,-0.014900000000000004,0.0196,0.0345
 2023-10-09 01:05:49.151736,AFC East - AFC East 2023/24 - AFC East Winner 23/24,New England Patriots,-0.014900000000000004,0.0196,0.0345
 2023-10-09 05:05:16.076577,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Erling Braut Haaland,-0.015100000000000002,0.8182,0.8333
@@ -301,31 +297,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-09 06:05:00.583691,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,CeeDee Lamb,-0.0168,0.0217,0.0385
 2023-10-09 06:05:00.583691,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Stefon Diggs,-0.017099999999999997,0.0385,0.0556
 2023-10-09 03:04:38.009345,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Bo Nix,-0.017100000000000004,0.1429,0.16
-2023-10-08 21:04:43.097960,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-08 20:05:47.293824,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-09 04:05:32.827516,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-08 22:06:54.603767,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-08 23:07:06.168584,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-09 00:06:17.853507,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-09 01:05:47.556266,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-09 02:03:51.922393,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-09 03:04:36.557411,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-09 04:05:32.827516,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-09 05:05:20.665041,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-09 06:04:58.851925,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-09 07:04:35.400733,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-09 06:04:58.851925,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-09 09:05:17.958754,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-09 08:04:40.222548,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-09 05:05:16.140774,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Brentford,-0.0174,0.2326,0.25
-2023-10-09 05:05:16.140774,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Nottingham Forest,-0.0179,0.125,0.1429
 2023-10-09 04:05:29.086223,Big Brother - BB25: Outright Winner - Outright Winner,Cirie Fields,-0.0179,0.125,0.1429
+2023-10-09 05:05:16.140774,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Nottingham Forest,-0.0179,0.125,0.1429
 2023-10-09 05:05:15.090893,Serie A - Italy Serie A 2023/24 - To Be Relegated,Monza,-0.018099999999999998,0.0588,0.0769
-2023-10-09 05:05:15.153386,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Matias Goncalo Ramos (PSG),-0.018099999999999998,0.0588,0.0769
-2023-10-09 04:05:34.321347,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,John Harbaugh,-0.018099999999999998,0.0345,0.0526
 2023-10-09 05:05:15.163693,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Lyon,-0.018099999999999998,0.0588,0.0769
+2023-10-09 04:05:34.321347,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,John Harbaugh,-0.018099999999999998,0.0345,0.0526
+2023-10-09 05:05:15.153386,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Matias Goncalo Ramos (PSG),-0.018099999999999998,0.0588,0.0769
 2023-10-09 05:05:16.120936,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,West Ham United,-0.018200000000000004,0.0294,0.0476
 2023-10-09 05:05:15.137180,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Lille,-0.01820000000000002,0.1818,0.2
 2023-10-09 00:06:19.216070,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Buffalo Bills,-0.01820000000000002,0.1818,0.2
-2023-10-09 05:05:16.148469,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Everton,-0.01849999999999996,0.9524,0.9709
 2023-10-09 06:04:53.978557,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,FC Nordsjælland,-0.01849999999999996,0.9524,0.9709
+2023-10-09 05:05:16.148469,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Everton,-0.01849999999999996,0.9524,0.9709
 2023-10-09 06:04:53.465194,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Coritiba,-0.018900000000000028,0.9615,0.9804
 2023-10-09 05:05:16.156035,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Bournemouth,-0.018999999999999906,0.7143,0.7333
 2023-10-09 05:05:16.140774,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Crystal Palace,-0.019000000000000017,0.2667,0.2857
@@ -333,22 +328,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-09 08:04:40.856997,Political Specials - Next Speaker of the House - Next House Speaker,Steve Scalise,-0.019000000000000017,0.2667,0.2857
 2023-10-09 05:05:16.067352,Premier League Futures/Specials - English Premier League 2023/24 - Winner without Manchester City,Brighton & Hove Albion,-0.019099999999999992,0.0476,0.0667
 2023-10-09 05:05:16.140774,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Aston Villa,-0.020199999999999996,0.8889,0.9091
-2023-10-09 04:05:28.581367,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Schalke 04,-0.02020000000000001,0.0909,0.1111
-2023-10-09 05:05:15.030167,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Real Sociedad,-0.02020000000000001,0.0909,0.1111
 2023-10-09 05:05:15.030167,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Girona,-0.02020000000000001,0.0909,0.1111
+2023-10-09 05:05:15.030167,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Real Sociedad,-0.02020000000000001,0.0909,0.1111
+2023-10-09 04:05:28.581367,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Schalke 04,-0.02020000000000001,0.0909,0.1111
 2023-10-09 06:04:53.494629,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fluminense,-0.02169999999999994,0.5238,0.5455
 2023-10-09 06:04:53.566615,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Harold Preciado (SAN),-0.021699999999999997,0.4545,0.4762
 2023-10-09 06:04:53.574614,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Atletico San Luis,-0.021999999999999964,0.2857,0.3077
 2023-10-09 05:05:15.024750,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Sociedad,-0.021999999999999964,0.2857,0.3077
-2023-10-09 00:06:19.200630,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Dallas Cowboys,-0.022000000000000006,0.0833,0.1053
 2023-10-09 06:04:53.574614,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Santos Laguna,-0.022000000000000006,0.0833,0.1053
+2023-10-09 00:06:19.200630,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Dallas Cowboys,-0.022000000000000006,0.0833,0.1053
 2023-10-09 04:05:33.980046,New Zealand Politics - Which party will provide the prime minister after the next general election? - Party Of Prime Minister After Next General Election,Labour,-0.022199999999999998,0.2,0.2222
 2023-10-09 04:05:34.321347,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,DeMeco Ryans,-0.02310000000000001,0.0769,0.1
 2023-10-09 06:04:59.787069,Joe Biden Specials - Will Joe Biden be impeached during his first term as President? - Will Joe Biden be impeached during his first term as President?,No,-0.0232,0.7101,0.7333
 2023-10-09 05:05:15.153386,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Kylian Mbappe (PSG),-0.023799999999999932,0.8333,0.8571
 2023-10-09 04:05:27.940498,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Borussia Dortmund,-0.023799999999999932,0.8333,0.8571
-2023-10-09 05:05:15.083382,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Dusan Vlahovic (Juventus),-0.0242,0.0667,0.0909
 2023-10-09 05:05:16.140774,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Burnley,-0.0242,0.0667,0.0909
+2023-10-09 05:05:15.083382,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Dusan Vlahovic (Juventus),-0.0242,0.0667,0.0909
 2023-10-09 08:04:42.818868,Jeddah - Jeddah - Winner,Brooks Koepka,-0.024299999999999995,0.0526,0.0769
 2023-10-09 04:05:27.932332,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Darmstadt,-0.025599999999999956,0.5744,0.6
 2023-10-09 04:05:27.923020,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Harry Kane,-0.025600000000000067,0.6667,0.6923
@@ -358,29 +353,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-09 05:05:16.094063,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Wolverhampton Wanderers,-0.027999999999999997,0.1538,0.1818
 2023-10-09 05:05:22.598405,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 American League Championship Series MVP,Kyle Tucker (HOU),-0.028399999999999995,0.0625,0.0909
 2023-10-09 05:05:16.120936,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Aston Villa,-0.028799999999999992,0.125,0.1538
-2023-10-09 05:05:16.113027,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Brighton & Hove Albion,-0.029299999999999993,0.0476,0.0769
 2023-10-09 04:05:34.344395,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Lamar Jackson,-0.029299999999999993,0.0476,0.0769
+2023-10-09 05:05:16.113027,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Brighton & Hove Albion,-0.029299999999999993,0.0476,0.0769
 2023-10-08 23:07:08.377624,MLB Futures - MLB - FUTURES YES/NO - MIN Twins to Win 2023 World Series,No,-0.030899999999999928,0.9524,0.9833
 2023-10-09 01:05:49.232011,NFC North - NFC North 2023/24 - NFC North Winner,Green Bay Packers,-0.031700000000000006,0.1905,0.2222
 2023-10-09 05:05:16.132697,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Brighton & Hove Albion,-0.03179999999999994,0.5238,0.5556
 2023-10-09 05:05:15.090893,Serie A - Italy Serie A 2023/24 - To Be Relegated,Empoli,-0.03179999999999994,0.5238,0.5556
-2023-10-09 06:04:53.956454,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Nordsjælland,-0.031799999999999995,0.1111,0.1429
 2023-10-09 05:05:15.163693,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Reims,-0.031799999999999995,0.1111,0.1429
+2023-10-09 06:04:53.956454,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Nordsjælland,-0.031799999999999995,0.1111,0.1429
 2023-10-09 05:05:15.024750,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Villarreal,-0.0321,0.0588,0.0909
 2023-10-09 06:04:53.494629,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Palmeiras,-0.03210000000000002,0.9091,0.9412
-2023-10-08 20:05:42.821671,La Liga - Spain La Liga 2023/24 - Winner,FC Barcelona,-0.03210000000000002,0.3846,0.4167
-2023-10-09 05:05:15.163693,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Lens,-0.03259999999999999,0.2,0.2326
 2023-10-09 05:05:15.098756,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Empoli,-0.03259999999999999,0.2,0.2326
+2023-10-09 05:05:15.163693,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Lens,-0.03259999999999999,0.2,0.2326
 2023-10-08 23:07:08.447588,MLB Futures - MLB - FUTURES YES/NO - TEX Rangers to Win 2023 World Series,No,-0.033399999999999985,0.8333,0.8667
 2023-10-09 01:05:49.244601,NFC South - NFC South 2023/24 - NFC South Winner,Tampa Bay Buccaneers,-0.03370000000000001,0.3509,0.3846
-2023-10-09 05:05:16.113027,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Manchester City,-0.03410000000000002,0.875,0.9091
-2023-10-09 05:05:16.148469,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Fulham,-0.03410000000000002,0.875,0.9091
 2023-10-09 06:04:53.978557,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,FC Midtjylland,-0.03410000000000002,0.875,0.9091
+2023-10-09 05:05:16.148469,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Fulham,-0.03410000000000002,0.875,0.9091
+2023-10-09 05:05:16.113027,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Manchester City,-0.03410000000000002,0.875,0.9091
 2023-10-09 05:05:15.137180,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Rennes,-0.03420000000000001,0.0769,0.1111
 2023-10-09 06:04:53.494629,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Athletico Paranaense,-0.0378,0.4167,0.4545
 2023-10-09 05:05:16.105480,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Everton,-0.0384,0.0385,0.0769
-2023-10-09 05:05:16.148469,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Chelsea,-0.03889999999999999,0.1429,0.1818
 2023-10-09 06:04:53.480018,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Athletico Paranaense,-0.03889999999999999,0.1429,0.1818
+2023-10-09 05:05:16.148469,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Chelsea,-0.03889999999999999,0.1429,0.1818
 2023-10-09 05:05:16.094063,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Fulham,-0.04169999999999999,0.125,0.1667
 2023-10-09 06:04:53.465194,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Internacional,-0.0417,0.0833,0.125
 2023-10-09 08:04:42.818868,Jeddah - Jeddah - Winner,Bryson DeChambeau,-0.04269999999999999,0.1111,0.1538
@@ -400,8 +394,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-08 23:07:08.299862,MLB Futures - MLB - FUTURES YES/NO - HOU Astros to Win 2023 World Series,Yes,-0.05630000000000002,0.1818,0.2381
 2023-10-09 06:04:53.964023,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Vejle BK,-0.057699999999999974,0.6923,0.75
 2023-10-09 01:05:49.169809,AFC North - AFC North 2023/24 - AFC North Winner,Baltimore Ravens,-0.057699999999999974,0.4878,0.5455
-2023-10-09 03:04:32.193902,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,Benfica,-0.0595,0.4167,0.4762
 2023-10-09 06:04:53.971446,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Midtjylland,-0.0595,0.4167,0.4762
+2023-10-09 03:04:32.193902,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,Benfica,-0.0595,0.4167,0.4762
 2023-10-09 06:04:53.964023,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Odense,-0.06149999999999997,0.2326,0.2941
 2023-10-09 03:04:38.024917,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Texas,-0.0635,0.0476,0.1111
 2023-10-09 06:04:59.549935,Gubernatorial Elections - Kentucky: 2023 Gubernatorial Election - Kentucky,Daniel Cameron (Rep),-0.0648,0.1852,0.25
@@ -412,16 +406,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-09 04:05:34.344395,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Josh Allen,-0.06670000000000001,0.1333,0.2
 2023-10-09 05:05:15.019238,La Liga - Spain La Liga 2023/24 - To Be Relegated,Las Palmas,-0.06670000000000004,0.3333,0.4
 2023-10-09 03:04:38.009345,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Quinn Ewers,-0.06740000000000002,0.0278,0.0952
-2023-10-08 23:07:08.136720,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Houston Astros,-0.06820000000000001,0.1818,0.25
 2023-10-09 06:04:53.480018,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Atlético Mineiro,-0.06820000000000001,0.1818,0.25
+2023-10-08 23:07:08.136720,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Houston Astros,-0.06820000000000001,0.1818,0.25
 2023-10-09 06:04:53.480018,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Palmeiras,-0.06820000000000004,0.75,0.8182
 2023-10-09 01:05:49.232011,NFC North - NFC North 2023/24 - NFC North Winner,Minnesota Vikings,-0.0686,0.1053,0.1739
 2023-10-09 06:04:53.494629,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Atlético Mineiro,-0.06930000000000003,0.4545,0.5238
 2023-10-09 05:05:15.163693,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Rennes,-0.07139999999999996,0.2857,0.3571
 2023-10-09 06:05:00.583691,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Justin Jefferson,-0.0739,0.1,0.1739
 2023-10-09 03:04:37.971350,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,British Columbia Lions,-0.0761,0.1739,0.25
-2023-10-09 05:05:16.156035,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Sheffield United,-0.0849,0.1818,0.2667
 2023-10-09 05:05:16.156035,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Luton Town,-0.0849,0.1818,0.2667
+2023-10-09 05:05:16.156035,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Sheffield United,-0.0849,0.1818,0.2667
 2023-10-09 01:05:49.151736,AFC East - AFC East 2023/24 - AFC East Winner 23/24,Buffalo Bills,-0.09040000000000004,0.4444,0.5348
 2023-10-09 01:05:49.218822,NFC East - NFC East 2023/24 - NFC East Winner,Dallas Cowboys,-0.0922,0.3333,0.4255
 2023-10-09 06:04:53.978557,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Viborg FF,-0.09889999999999999,0.2857,0.3846
