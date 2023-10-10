@@ -11,17 +11,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-10 09:07:18.496496,MLB Futures - MLB - FUTURES YES/NO - ATL Braves To Win NL Pennant,Yes,0.025499999999999967,0.4255,0.4
 2023-10-10 10:04:45.760126,Joe Biden Specials - Joe Biden Approval Rating At Year End - Joe Biden Approval Rating At Year End,Over 39.5,0.023799999999999988,0.5,0.4762
 2023-10-10 09:07:18.426741,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Baltimore Orioles,0.018099999999999998,0.0769,0.0588
-2023-10-10 09:07:16.776077,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-10 12:13:13.621598,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-10 13:07:54.740338,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-10 10:04:44.550996,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-10 14:07:31.740023,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-10 08:08:29.278267,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-10 13:07:54.740338,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-10 06:06:09.361804,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-10 15:08:39.023342,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-10 05:05:35.006065,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-10 04:10:46.714967,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-10 12:13:13.621598,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-10 11:10:00.313553,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-10 15:08:39.023342,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-10 09:07:16.776077,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-10 16:08:35.710448,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-10 08:08:29.278267,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-10 10:04:44.550996,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-10 04:10:46.714967,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-10 05:05:35.006065,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-10 09:07:18.593883,MLB Futures - MLB - FUTURES YES/NO - PHI Phillies to Win 2023 World Series,No,0.017100000000000004,0.8921,0.875
 2023-10-10 08:08:32.683521,Jeddah - Jeddah - Winner,Brooks Koepka,0.014099999999999994,0.0667,0.0526
 2023-10-10 08:08:32.264099,Boxing Lines - Joseph Parker vs Simon Kean - To Win the Bout,Joseph Parker,0.013900000000000023,0.8889,0.875
@@ -30,59 +31,63 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-10 09:07:18.474880,MLB Futures - MLB - FUTURES YES/NO - ARI Diamondbacks To Win NL Pennant,Yes,0.012799999999999978,0.2985,0.2857
 2023-10-10 09:07:18.438768,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Arizona Diamondbacks,0.012799999999999978,0.2985,0.2857
 2023-10-10 09:07:18.604744,MLB Futures - MLB - FUTURES YES/NO - PHI Phillies To Win NL Pennant,No,0.011900000000000022,0.7619,0.75
-2023-10-10 13:07:54.769203,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-10 12:13:13.658201,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-10 06:06:09.386370,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-10 14:07:31.783170,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-10 16:08:35.755615,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-10 08:08:29.313296,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-10 04:10:46.735352,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-10 13:07:54.769203,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-10 09:07:16.796294,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-10 10:04:44.590724,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-10 12:13:13.658201,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-10 05:05:35.050067,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-10 11:10:00.360259,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-10 15:08:39.063836,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-10 09:07:16.796294,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-10 05:05:35.050067,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-10 08:08:29.313296,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-10 06:06:09.386370,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-10 10:04:44.590724,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-10 04:10:46.735352,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-10 09:07:18.413951,MLB Futures - MLB 2023 World Series Winner - Winning League,American League,0.011099999999999999,0.4762,0.4651
-2023-10-10 09:07:18.582660,MLB Futures - MLB - FUTURES YES/NO - MIN Twins To Win AL Pennant,No,0.010199999999999987,0.8019,0.7917
 2023-10-10 09:07:18.571829,MLB Futures - MLB - FUTURES YES/NO - MIN Twins to Win 2023 World Series,No,0.010199999999999987,0.9333,0.9231
+2023-10-10 09:07:18.582660,MLB Futures - MLB - FUTURES YES/NO - MIN Twins To Win AL Pennant,No,0.010199999999999987,0.8019,0.7917
 2023-10-10 09:07:18.426741,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Texas Rangers,0.010099999999999998,0.4545,0.4444
 2023-10-10 09:07:18.626356,MLB Futures - MLB - FUTURES YES/NO - TEX Rangers To Win AL Pennant,Yes,0.010099999999999998,0.4545,0.4444
 2023-10-10 09:07:18.426741,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Minnesota Twins,-0.010000000000000009,0.2532,0.2632
 2023-10-10 09:07:18.582660,MLB Futures - MLB - FUTURES YES/NO - MIN Twins To Win AL Pennant,Yes,-0.010000000000000009,0.2532,0.2632
-2023-10-10 12:13:13.621598,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-10 15:08:39.023342,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-10 16:08:35.710448,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-10 14:07:31.740023,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-10 12:13:13.621598,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-10 13:07:54.740338,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-10 05:05:35.006065,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-10 10:04:44.550996,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-10 11:10:00.313553,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-10 09:07:16.776077,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-10 08:08:29.278267,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-10 04:10:46.714967,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-10 06:06:09.361804,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-10 11:10:00.313553,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-10 09:07:18.561240,MLB Futures - MLB - FUTURES YES/NO - LA DodgersTo Win NL Pennant,Yes,-0.013899999999999996,0.1111,0.125
+2023-10-10 05:05:35.006065,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-10 04:10:46.714967,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-10 09:07:18.438768,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Los Angeles Dodgers,-0.013899999999999996,0.1111,0.125
 2023-10-10 06:06:10.044847,Political Specials - Next Speaker of the House - Next House Speaker,Donald Trump,-0.013899999999999996,0.1111,0.125
+2023-10-10 09:07:18.561240,MLB Futures - MLB - FUTURES YES/NO - LA DodgersTo Win NL Pennant,Yes,-0.013899999999999996,0.1111,0.125
 2023-10-10 06:06:11.134836,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Christian McCaffrey,-0.01419999999999999,0.3704,0.3846
 2023-10-10 09:07:18.615589,MLB Futures - MLB - FUTURES YES/NO - TEX Rangers to Win 2023 World Series,No,-0.015100000000000002,0.8182,0.8333
 2023-10-10 08:08:32.264099,Boxing Lines - Joseph Parker vs Simon Kean - To Win the Bout,Simon Kean,-0.016600000000000004,0.1739,0.1905
 2023-10-10 10:04:45.760126,Joe Biden Specials - Joe Biden Approval Rating At Year End - Joe Biden Approval Rating At Year End,39.5 or under,-0.016699999999999937,0.5833,0.6
-2023-10-10 06:06:09.386370,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-10 10:04:44.590724,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-10 15:08:39.063836,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-10 14:07:31.783170,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-10 13:07:54.769203,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-10 11:10:00.360259,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-10 12:13:13.658201,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-10 04:10:46.735352,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-10 05:05:35.050067,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-10 09:07:16.796294,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-10 06:06:09.386370,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-10 08:08:29.313296,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-10 05:05:35.050067,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-10 12:13:13.658201,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-10 10:04:44.590724,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-10 16:08:35.755615,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-10 15:08:39.063836,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-10 11:10:00.360259,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-10 13:07:54.769203,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-10 14:07:31.783170,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-10 06:06:11.161780,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Jahmyr Gibbs,-0.0189,0.0196,0.0385
-2023-10-10 09:07:18.571829,MLB Futures - MLB - FUTURES YES/NO - MIN Twins to Win 2023 World Series,Yes,-0.019000000000000003,0.1143,0.1333
 2023-10-10 09:07:18.403617,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Minnesota Twins,-0.019000000000000003,0.1143,0.1333
+2023-10-10 09:07:18.571829,MLB Futures - MLB - FUTURES YES/NO - MIN Twins to Win 2023 World Series,Yes,-0.019000000000000003,0.1143,0.1333
+2023-10-10 16:08:39.044909,Boxing Lines - Keyshawn Davis vs Nahir Albright - To Win the Bout,Nahir Albright,-0.02020000000000001,0.0909,0.1111
 2023-10-10 09:07:18.474880,MLB Futures - MLB - FUTURES YES/NO - ARI Diamondbacks To Win NL Pennant,No,-0.021700000000000053,0.7561,0.7778
-2023-10-10 09:07:18.593883,MLB Futures - MLB - FUTURES YES/NO - PHI Phillies to Win 2023 World Series,Yes,-0.021799999999999986,0.16,0.1818
 2023-10-10 09:07:18.403617,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Philadelphia Phillies,-0.021799999999999986,0.16,0.1818
+2023-10-10 09:07:18.593883,MLB Futures - MLB - FUTURES YES/NO - PHI Phillies to Win 2023 World Series,Yes,-0.021799999999999986,0.16,0.1818
 2023-10-10 09:07:18.604744,MLB Futures - MLB - FUTURES YES/NO - PHI Phillies To Win NL Pennant,Yes,-0.02260000000000001,0.2899,0.3125
 2023-10-10 09:07:18.438768,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Philadelphia Phillies,-0.02260000000000001,0.2899,0.3125
 2023-10-10 09:07:18.626356,MLB Futures - MLB - FUTURES YES/NO - TEX Rangers To Win AL Pennant,No,-0.022600000000000064,0.6,0.6226
