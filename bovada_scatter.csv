@@ -8,12 +8,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-11 13:11:39.072930,Daily MLB Play Off Specials - Daily MLB Play Off Specials - Daily Strikeout Leader,Joe Ryan (MIN),0.06659999999999999,0.3333,0.2667
 2023-10-11 17:13:18.798639,NFC North - NFC North 2023/24 - NFC North Winner,Detroit Lions,0.0482999999999999,0.8261,0.7778
 2023-10-11 14:11:16.084928,Average Points Per Game - Season Average Points - To Average 28+ Points Per Game,Zion Williamson (NO),0.047599999999999976,0.3333,0.2857
+2023-10-11 21:06:11.661925,Jeddah - 2/3 Balls - 1st Round 3 Balls - D. Puig / K. Na / D. Lee - 1st Round 3 Balls,David Puig,0.044399999999999995,0.4444,0.4
 2023-10-11 10:15:32.447891,Season Win Record Specials - 2023-24 Team to Have a Perfect Season - To Finish 17-0,San Francisco 49ers,0.0436,0.0588,0.0152
 2023-10-11 10:15:30.849834,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.03640000000000004,0.4,0.3636
+2023-10-11 21:06:11.677525,Jeddah - 2/3 Balls - 1st Round 3 Balls - E. Lopez-Chacarra / T. Pieters / S. Vincent - 1st Round 3 Balls,Thomas Pieters,0.03640000000000004,0.4,0.3636
 2023-10-11 14:11:16.108088,Average Points Per Game - Season Average Points - To Average 30+ Points Per Game,Zion Williamson (NO),0.036199999999999996,0.1538,0.1176
 2023-10-11 10:15:35.017674,Shriners Children's Open - 2/3 Balls - 1st Round 3 Balls - K. Roy / T. Werbylo / L. Thompson - 1st Round 3 Balls,Kevin Roy,0.03489999999999999,0.5,0.4651
 2023-10-11 10:15:31.138332,New Zealand Politics - Which party will provide the prime minister after the next general election? - Party Of Prime Minister After Next General Election,National,0.03410000000000002,0.9091,0.875
 2023-10-11 12:12:47.465146,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Jordan Poole (WAS),0.03330000000000001,0.1,0.0667
+2023-10-11 21:06:11.719977,Jeddah - 2/3 Balls - 1st Round 3 Balls - L. Westwood / J. Piot / J. Morgan - 1st Round 3 Balls,James Piot,0.03260000000000002,0.3774,0.3448
 2023-10-11 12:12:47.465146,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Austin Reaves (LAL),0.0321,0.0909,0.0588
 2023-10-11 11:12:41.891702,Round Match-Ups - 1st Round Match-Ups - M. Pereira vs S. Munoz - 1st Round Match-Ups,Mito Pereira,0.03179999999999994,0.5556,0.5238
 2023-10-11 11:12:35.349512,Tennessee Titans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U  7.5,Over 7.5,0.030399999999999983,0.5652,0.5348
@@ -28,8 +31,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-11 12:12:47.465146,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Keegan Murray (SAC),0.026499999999999996,0.0588,0.0323
 2023-10-11 12:12:51.498770,Daily MLB Play Off Specials - Daily MLB Play Off Specials - Daily Strikeout Leader,Joe Ryan (MIN),0.022799999999999987,0.2667,0.2439
 2023-10-11 18:15:05.418847,Round Match-Ups - Parlays - 1st Round Match-Ups - D. Thompson vs N. Hojgaard - 1st Round Match-Ups,Nicolai Hojgaard,0.022600000000000064,0.5348,0.5122
-2023-10-11 11:12:35.014244,Detroit Lions - 2023-24 Regular Season Wins O/U - Regular Season Wins - Detroit Lions O/U 11.5,Over 11.5,0.02169999999999994,0.5455,0.5238
+2023-10-11 21:06:10.607570,Scores - 1st Round Score - Sam Ryder - 1st Round Score,Over 68.5,0.022600000000000064,0.5348,0.5122
 2023-10-11 13:11:38.680818,Washington Commanders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Washington Commanders O/U  6.5,Under 6.5,0.02169999999999994,0.5455,0.5238
+2023-10-11 11:12:35.014244,Detroit Lions - 2023-24 Regular Season Wins O/U - Regular Season Wins - Detroit Lions O/U 11.5,Over 11.5,0.02169999999999994,0.5455,0.5238
 2023-10-11 10:15:34.896195,Shriners Children's Open - 2/3 Balls - 1st Round 3 Balls - E. Van Rooyen / C. Champ / M. Laird - 1st Round 3 Balls,Martin Laird,0.02100000000000002,0.3846,0.3636
 2023-10-11 10:15:32.476724,College Season Props - To Make the Playoffs - To Make the Playoffs,Oregon,0.020299999999999985,0.2703,0.25
 2023-10-11 10:15:26.073484,Average Assists Per Game - Season Average Assists - To Average 08+ Assists Per Game,Ben Simmons (BKN),0.019800000000000012,0.2326,0.2128
@@ -39,22 +43,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-11 10:15:34.051047,Exhibition Fights - Tommy Fury vs KSI - To Win the Bout,Tommy Fury,0.019400000000000084,0.8131,0.7937
 2023-10-11 11:12:35.239381,New Orleans Saints - 2023-24 Regular Season Wins O/U - Regular Season Wins - New Orleans Saints O/U  9.5,Over 9.5,0.01880000000000004,0.5744,0.5556
 2023-10-11 12:12:47.465146,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Cade Cunningham (DET),0.01830000000000001,0.0952,0.0769
-2023-10-11 10:15:32.897657,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Philadelphia Phillies,0.017799999999999983,0.3077,0.2899
 2023-10-11 10:15:33.165042,MLB Futures - MLB - FUTURES YES/NO - PHI Phillies To Win NL Pennant,Yes,0.017799999999999983,0.3077,0.2899
-2023-10-11 17:13:16.912256,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-11 14:11:19.513458,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-11 13:11:35.570484,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-11 12:12:48.450169,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-11 11:12:32.814753,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-11 18:15:02.294623,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-11 07:13:47.805979,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-11 10:15:32.897657,MLB Futures - MLB 2023 National League Winner - MLB 2023 National League Winner,Philadelphia Phillies,0.017799999999999983,0.3077,0.2899
 2023-10-11 10:15:29.499830,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-11 13:11:35.570484,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-11 14:11:19.513458,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-11 17:13:16.912256,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-11 18:15:02.294623,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-11 11:12:32.814753,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-11 21:06:06.950701,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-11 11:12:35.260793,New York Jets - 2023-24 Regular Season Wins O/U - Regular Season Wins - New York Jets O/U  5.5,Over 5.5,0.017299999999999982,0.5917,0.5744
-2023-10-11 07:13:50.855335,Daily MLB Play Off Specials - Daily MLB Play Off Specials - Daily Strikeout Leader,Aaron Nola (PHI),0.017299999999999982,0.303,0.2857
+2023-10-11 12:12:48.450169,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-11 12:12:52.736405,Exhibition Fights - Logan Paul vs Dillon Danis - To Win the Bout,Dillon Danis,0.01680000000000001,0.2273,0.2105
 2023-10-11 12:12:47.465146,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Jalen Green (HOU),0.0168,0.0385,0.0217
 2023-10-11 10:15:30.692236,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.016700000000000048,0.75,0.7333
-2023-10-11 07:13:52.907265,Shriners Children's Open - 2/3 Balls - 1st Round 3 Balls - R. Moore / M. Hubbard / A. Rai - 1st Round 3 Balls,Mark Hubbard,0.016699999999999993,0.4167,0.4
 2023-10-11 11:12:28.713746,NBA In-Season Tournament Cup - In-Season Tournament MVP 2023 - In-Season Tournament MVP,Luka Doncic (DAL),0.016600000000000004,0.0833,0.0667
 2023-10-11 11:12:28.713746,NBA In-Season Tournament Cup - In-Season Tournament MVP 2023 - In-Season Tournament MVP,Jimmy Butler (MIA),0.0157,0.0435,0.0278
 2023-10-11 11:12:38.149487,Shriners Children's Open - 2/3 Balls - 1st Round 3 Balls - K. Roy / T. Werbylo / L. Thompson - 1st Round 3 Balls,Trevor Werbylo,0.015400000000000025,0.4,0.3846
@@ -62,37 +64,39 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-11 12:12:47.453707,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Victor Wembanyama (SAS),0.014899999999999997,0.0625,0.0476
 2023-10-11 12:12:52.097080,Boxing Lines - Femke Hermans vs Mary Spencer - To Win the Bout,Femke Hermans,0.014800000000000035,0.6226,0.6078
 2023-10-11 10:15:32.476724,College Season Props - To Make the Playoffs - To Make the Playoffs,Alabama,0.014800000000000008,0.1887,0.1739
-2023-10-11 11:12:28.713746,NBA In-Season Tournament Cup - In-Season Tournament MVP 2023 - In-Season Tournament MVP,Zion Williamson (NO),0.014100000000000001,0.0526,0.0385
 2023-10-11 10:15:33.104379,MLB Futures - MLB - FUTURES YES/NO - MIN Twins to Win 2023 World Series,No,0.014100000000000001,0.9756,0.9615
+2023-10-11 21:06:08.821051,Boxing Lines - Takeshi Inoue vs Thiranan Matsali - To Win the Bout,Takeshi Inoue,0.014100000000000001,0.9615,0.9474
+2023-10-11 11:12:28.713746,NBA In-Season Tournament Cup - In-Season Tournament MVP 2023 - In-Season Tournament MVP,Zion Williamson (NO),0.014100000000000001,0.0526,0.0385
 2023-10-11 12:12:47.465146,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Shaedon Sharpe (POR),0.014099999999999994,0.0667,0.0526
 2023-10-11 10:15:32.476724,College Season Props - To Make the Playoffs - To Make the Playoffs,Washington,0.01319999999999999,0.2632,0.25
 2023-10-11 11:12:28.713746,NBA In-Season Tournament Cup - In-Season Tournament MVP 2023 - In-Season Tournament MVP,Giannis Antetokounmpo (MIL),0.011900000000000008,0.0952,0.0833
-2023-10-11 11:12:32.843959,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-11 13:11:35.606596,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-11 07:13:47.841662,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-11 21:06:06.971543,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-11 18:15:02.314911,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-11 10:15:29.531290,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-11 13:11:35.606596,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-11 17:13:16.943288,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-11 14:11:19.549729,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-11 10:15:32.834209,MLB Futures - MLB 2023 World Series Winner - Winning League,American League,0.0116,0.4878,0.4762
 2023-10-11 12:12:48.491783,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-11 11:12:32.843959,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-11 10:15:29.531290,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-11 10:15:30.849834,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,0.01150000000000001,0.3448,0.3333
-2023-10-11 12:12:47.465146,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Jabari Smith Jr. (HOU),0.011199999999999995,0.0435,0.0323
 2023-10-11 12:12:47.442494,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Quin Snyder,0.011199999999999995,0.0588,0.0476
+2023-10-11 12:12:47.465146,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Jabari Smith Jr. (HOU),0.011199999999999995,0.0435,0.0323
 2023-10-11 17:13:19.985550,Boxing Lines - Sam Goodman vs Miguel Flores - To Win the Bout,Sam Goodman,0.011199999999999988,0.9524,0.9412
 2023-10-11 10:15:32.878237,MLB Futures - MLB 2023 American League Winner - MLB 2023 American League Winner,Houston Astros,0.011099999999999999,0.4762,0.4651
 2023-10-11 10:15:33.051098,MLB Futures - MLB - FUTURES YES/NO - HOU Astros To Win AL Pennant,Yes,0.011099999999999999,0.4762,0.4651
+2023-10-11 21:06:11.775610,Round Match-Ups - 1st Round Match-Ups - A. Ancer vs J. Niemann - 1st Round Match-Ups,Joaquin Niemann,0.01100000000000001,0.5348,0.5238
+2023-10-11 18:15:05.645873,Round Match-Ups - Parlays - 1st Round Match-Ups - A. Schenk vs T. Hoge - 1st Round Match-Ups,Adam Schenk,0.01100000000000001,0.5348,0.5238
 2023-10-11 18:15:05.154553,Round Match-Ups - Parlays - 1st Round Match-Ups - C. Tarren v A. Eckroat - 1st Round Match-Ups,Callum Tarren,0.01100000000000001,0.5348,0.5238
 2023-10-11 11:12:34.953204,Cleveland Browns - 2023-24 Regular Season Wins O/U - Regular Season Wins - Cleveland Browns O/U  9.5,Over 9.5,0.01100000000000001,0.5348,0.5238
 2023-10-11 11:12:34.953204,Cleveland Browns - 2023-24 Regular Season Wins O/U - Regular Season Wins - Cleveland Browns O/U  9.5,Under 9.5,0.01100000000000001,0.5348,0.5238
 2023-10-11 18:15:05.686231,Round Match-Ups - Parlays - 1st Round Match-Ups - D. Riley vs C. Champ - 1st Round Match-Ups,Davis Riley,0.01100000000000001,0.5348,0.5238
-2023-10-11 18:15:05.645873,Round Match-Ups - Parlays - 1st Round Match-Ups - A. Schenk vs T. Hoge - 1st Round Match-Ups,Adam Schenk,0.01100000000000001,0.5348,0.5238
+2023-10-11 21:06:09.240083,Exhibition Fights - Tommy Fury vs KSI - To Win the Bout,KSI,0.010800000000000032,0.274,0.2632
 2023-10-11 13:11:28.448208,Western Conference - Western Conference 2023-24 - Western Conference Winner,Oklahoma City Thunder,0.010700000000000001,0.0385,0.0278
 2023-10-11 11:12:35.677542,Daily MLB Play Off Specials - Daily MLB Play Off Specials - Daily Strikeout Leader,Aaron Nola (PHI),0.010699999999999987,0.3333,0.3226
-2023-10-11 07:13:50.855335,Daily MLB Play Off Specials - Daily MLB Play Off Specials - Daily Strikeout Leader,Brandon Pfaadt (ARIZ),0.010499999999999982,0.2105,0.2
+2023-10-11 12:12:47.521114,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Brandon Miller (CHA),0.0102,0.0769,0.0667
 2023-10-11 13:11:28.448208,Western Conference - Western Conference 2023-24 - Western Conference Winner,Memphis Grizzlies,0.0102,0.0769,0.0667
 2023-10-11 12:12:47.465146,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Scottie Barnes (TOR),0.0102,0.0769,0.0667
-2023-10-11 12:12:47.521114,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Brandon Miller (CHA),0.0102,0.0769,0.0667
 2023-10-11 12:12:52.097080,Boxing Lines - Femke Hermans vs Mary Spencer - To Win the Bout,Mary Spencer,-0.010099999999999998,0.4444,0.4545
 2023-10-11 10:15:32.817892,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Minnesota Twins,-0.0102,0.0667,0.0769
 2023-10-11 10:15:33.104379,MLB Futures - MLB - FUTURES YES/NO - MIN Twins to Win 2023 World Series,Yes,-0.0102,0.0667,0.0769
@@ -103,67 +107,75 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-11 12:12:47.442494,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Tyronn Lue,-0.011199999999999995,0.0323,0.0435
 2023-10-11 13:11:28.242052,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,New York Knicks,-0.011199999999999995,0.0476,0.0588
 2023-10-11 13:11:35.570484,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-11 10:15:29.499830,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-11 12:12:48.450169,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-11 07:13:47.805979,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-11 18:15:02.294623,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-11 11:12:35.260793,New York Jets - 2023-24 Regular Season Wins O/U - Regular Season Wins - New York Jets O/U  5.5,Under 5.5,-0.0116,0.4762,0.4878
-2023-10-11 17:13:16.912256,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-11 14:11:19.513458,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-11 11:12:32.814753,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-11 18:15:05.686231,Round Match-Ups - Parlays - 1st Round Match-Ups - D. Riley vs C. Champ - 1st Round Match-Ups,Cameron Champ,-0.011600000000000055,0.5122,0.5238
+2023-10-11 12:12:48.450169,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-11 18:15:02.294623,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-11 14:11:19.513458,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-11 17:13:16.912256,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-11 21:06:06.950701,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-11 10:15:29.499830,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-11 18:15:05.154553,Round Match-Ups - Parlays - 1st Round Match-Ups - C. Tarren v A. Eckroat - 1st Round Match-Ups,Austin Eckroat,-0.011600000000000055,0.5122,0.5238
+2023-10-11 18:15:05.686231,Round Match-Ups - Parlays - 1st Round Match-Ups - D. Riley vs C. Champ - 1st Round Match-Ups,Cameron Champ,-0.011600000000000055,0.5122,0.5238
+2023-10-11 21:06:11.775610,Round Match-Ups - 1st Round Match-Ups - A. Ancer vs J. Niemann - 1st Round Match-Ups,Abraham Ancer,-0.011600000000000055,0.5122,0.5238
 2023-10-11 18:15:05.645873,Round Match-Ups - Parlays - 1st Round Match-Ups - A. Schenk vs T. Hoge - 1st Round Match-Ups,Tom Hoge,-0.011600000000000055,0.5122,0.5238
 2023-10-11 11:12:35.239381,New Orleans Saints - 2023-24 Regular Season Wins O/U - Regular Season Wins - New Orleans Saints O/U  9.5,Under 9.5,-0.012199999999999989,0.4878,0.5
-2023-10-11 11:12:35.107467,Jacksonville Jaguars - 2023-24 Regular Season Wins O/U - Regular Season Wins - Jacksonville Jaguars O/U  9.5,Under 9.5,-0.012199999999999989,0.5,0.5122
 2023-10-11 11:12:35.349512,Tennessee Titans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U  7.5,Under 7.5,-0.012199999999999989,0.5,0.5122
+2023-10-11 11:12:35.107467,Jacksonville Jaguars - 2023-24 Regular Season Wins O/U - Regular Season Wins - Jacksonville Jaguars O/U  9.5,Under 9.5,-0.012199999999999989,0.5,0.5122
 2023-10-11 12:12:47.465146,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Jaden McDaniels (MIN),-0.012899999999999998,0.0149,0.0278
-2023-10-11 12:12:47.442494,NBA Awards - NBA Awards 2023-24 - Coach of the Year,JB Bickersta,-0.014100000000000001,0.0385,0.0526
+2023-10-11 21:06:11.719977,Jeddah - 2/3 Balls - 1st Round 3 Balls - L. Westwood / J. Piot / J. Morgan - 1st Round 3 Balls,Jediah Morgan,-0.013600000000000001,0.2941,0.3077
 2023-10-11 12:12:47.442494,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Willie Green,-0.014100000000000001,0.0385,0.0526
+2023-10-11 12:12:47.442494,NBA Awards - NBA Awards 2023-24 - Coach of the Year,JB Bickersta,-0.014100000000000001,0.0385,0.0526
 2023-10-11 10:15:33.183557,MLB Futures - MLB - FUTURES YES/NO - TEX Rangers to Win 2023 World Series,No,-0.01430000000000009,0.8039,0.8182
 2023-10-11 11:12:28.713746,NBA In-Season Tournament Cup - In-Season Tournament MVP 2023 - In-Season Tournament MVP,Kevin Durant (PHX),-0.014399999999999996,0.0625,0.0769
+2023-10-11 21:06:08.821051,Boxing Lines - Takeshi Inoue vs Thiranan Matsali - To Win the Bout,Thiranan Matsali,-0.01440000000000001,0.0909,0.1053
 2023-10-11 17:13:18.798639,NFC North - NFC North 2023/24 - NFC North Winner,Minnesota Vikings,-0.01440000000000001,0.0909,0.1053
+2023-10-11 21:06:11.661925,Jeddah - 2/3 Balls - 1st Round 3 Balls - D. Puig / K. Na / D. Lee - 1st Round 3 Balls,Danny Lee,-0.014900000000000024,0.3077,0.3226
 2023-10-11 13:11:39.072930,Daily MLB Play Off Specials - Daily MLB Play Off Specials - Daily Strikeout Leader,Brandon Pfaadt (ARIZ),-0.015100000000000002,0.1667,0.1818
 2023-10-11 10:15:32.476724,College Season Props - To Make the Playoffs - To Make the Playoffs,Ole Miss,-0.015300000000000001,0.0323,0.0476
-2023-10-11 12:12:47.442494,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Ime Udoka,-0.015300000000000001,0.0323,0.0476
 2023-10-11 12:12:47.442494,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Chris Finch,-0.015300000000000001,0.0323,0.0476
+2023-10-11 12:12:47.442494,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Ime Udoka,-0.015300000000000001,0.0323,0.0476
 2023-10-11 10:15:35.017674,Shriners Children's Open - 2/3 Balls - 1st Round 3 Balls - K. Roy / T. Werbylo / L. Thompson - 1st Round 3 Balls,Trevor Werbylo,-0.015400000000000025,0.3846,0.4
 2023-10-11 13:11:39.072930,Daily MLB Play Off Specials - Daily MLB Play Off Specials - Daily Strikeout Leader,Lance Lynn (LAD),-0.016600000000000004,0.1739,0.1905
 2023-10-11 10:15:33.051098,MLB Futures - MLB - FUTURES YES/NO - HOU Astros To Win AL Pennant,No,-0.016699999999999937,0.5833,0.6
 2023-10-11 12:12:52.736405,Exhibition Fights - Logan Paul vs Dillon Danis - To Win the Bout,Logan Paul,-0.016799999999999926,0.8403,0.8571
-2023-10-11 13:11:35.606596,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-11 17:13:16.943288,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-11 10:15:29.531290,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-11 11:12:32.843959,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-11 12:12:48.491783,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-11 13:11:35.606596,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-11 14:11:19.549729,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-11 18:15:02.314911,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-11 12:12:48.491783,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-11 11:12:32.843959,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-11 10:15:29.531290,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-11 07:13:47.841662,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-11 21:06:06.971543,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-11 17:13:19.985550,Boxing Lines - Sam Goodman vs Miguel Flores - To Win the Bout,Miguel Flores,-0.01759999999999999,0.1,0.1176
 2023-10-11 10:15:34.051047,Exhibition Fights - Tommy Fury vs KSI - To Win the Bout,KSI,-0.017600000000000005,0.2564,0.274
-2023-10-11 12:12:47.442494,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Joe Mazzulla,-0.018099999999999998,0.0588,0.0769
 2023-10-11 12:12:47.442494,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Michael Malone,-0.018099999999999998,0.0588,0.0769
+2023-10-11 12:12:47.442494,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Joe Mazzulla,-0.018099999999999998,0.0588,0.0769
 2023-10-11 10:15:32.476724,College Season Props - To Make the Playoffs - To Make the Playoffs,Michigan,-0.018100000000000005,0.5652,0.5833
 2023-10-11 10:15:33.165042,MLB Futures - MLB - FUTURES YES/NO - PHI Phillies To Win NL Pennant,No,-0.018299999999999983,0.7436,0.7619
 2023-10-11 13:11:28.448208,Western Conference - Western Conference 2023-24 - Western Conference Winner,L.A. Clippers,-0.01830000000000001,0.0769,0.0952
 2023-10-11 10:15:34.896195,Shriners Children's Open - 2/3 Balls - 1st Round 3 Balls - E. Van Rooyen / C. Champ / M. Laird - 1st Round 3 Balls,Cameron Champ,-0.018799999999999983,0.3448,0.3636
 2023-10-11 10:15:32.476724,College Season Props - To Make the Playoffs - To Make the Playoffs,Kentucky,-0.0189,0.0196,0.0385
+2023-10-11 21:06:11.719977,Jeddah - 2/3 Balls - 1st Round 3 Balls - L. Westwood / J. Piot / J. Morgan - 1st Round 3 Balls,Lee Westwood,-0.018900000000000028,0.4255,0.4444
 2023-10-11 13:11:28.448208,Western Conference - Western Conference 2023-24 - Western Conference Winner,Denver Nuggets,-0.019000000000000017,0.2667,0.2857
 2023-10-11 17:13:20.351143,Exhibition Fights - Tommy Fury vs KSI - To Win the Bout,Tommy Fury,-0.019400000000000084,0.7937,0.8131
 2023-10-11 10:15:32.476724,College Season Props - To Make the Playoffs - To Make the Playoffs,Tennessee,-0.019800000000000005,0.0278,0.0476
 2023-10-11 11:12:35.677542,Daily MLB Play Off Specials - Daily MLB Play Off Specials - Daily Strikeout Leader,Brandon Pfaadt (ARIZ),-0.01999999999999999,0.1905,0.2105
 2023-10-11 13:11:39.072930,Daily MLB Play Off Specials - Daily MLB Play Off Specials - Daily Strikeout Leader,Bryce Elder (ATL),-0.02049999999999999,0.1333,0.1538
+2023-10-11 21:06:10.607570,Scores - 1st Round Score - Sam Ryder - 1st Round Score,Under 68.5,-0.02079999999999993,0.5348,0.5556
 2023-10-11 10:15:30.692236,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Field,-0.020799999999999985,0.3125,0.3333
 2023-10-11 10:15:35.017674,Shriners Children's Open - 2/3 Balls - 1st Round 3 Balls - K. Roy / T. Werbylo / L. Thompson - 1st Round 3 Balls,Lexi Thompson,-0.02210000000000001,0.2105,0.2326
 2023-10-11 18:15:05.418847,Round Match-Ups - Parlays - 1st Round Match-Ups - D. Thompson vs N. Hojgaard - 1st Round Match-Ups,Davis Thompson,-0.022600000000000064,0.5122,0.5348
 2023-10-11 17:13:18.798639,NFC North - NFC North 2023/24 - NFC North Winner,Green Bay Packers,-0.023799999999999988,0.1429,0.1667
+2023-10-11 21:06:11.661925,Jeddah - 2/3 Balls - 1st Round 3 Balls - D. Puig / K. Na / D. Lee - 1st Round 3 Balls,Kevin Na,-0.02560000000000001,0.3448,0.3704
 2023-10-11 10:15:32.476724,College Season Props - To Make the Playoffs - To Make the Playoffs,USC,-0.026999999999999996,0.2083,0.2353
 2023-10-11 11:12:34.864337,Buffalo Bills - 2023-24 Regular Season Wins O/U - Regular Season Wins - Buffalo Bills O/U 10.5,Over 10.5,-0.02750000000000008,0.6154,0.6429
 2023-10-11 10:15:32.476724,College Season Props - To Make the Playoffs - To Make the Playoffs,Ohio State,-0.027700000000000002,0.4167,0.4444
 2023-10-11 13:11:39.072930,Daily MLB Play Off Specials - Daily MLB Play Off Specials - Daily Strikeout Leader,Jose Urquidy (HOU),-0.027999999999999997,0.1538,0.1818
 2023-10-11 10:15:33.124152,MLB Futures - MLB - FUTURES YES/NO - MIN Twins To Win AL Pennant,No,-0.02839999999999998,0.9091,0.9375
-2023-10-11 11:12:28.713746,NBA In-Season Tournament Cup - In-Season Tournament MVP 2023 - In-Season Tournament MVP,Shai Gilgeous-Alexander (OKC),-0.029299999999999993,0.0476,0.0769
 2023-10-11 10:15:32.476724,College Season Props - To Make the Playoffs - To Make the Playoffs,Washingon State,-0.029299999999999993,0.0476,0.0769
+2023-10-11 11:12:28.713746,NBA In-Season Tournament Cup - In-Season Tournament MVP 2023 - In-Season Tournament MVP,Shai Gilgeous-Alexander (OKC),-0.029299999999999993,0.0476,0.0769
+2023-10-11 21:06:11.677525,Jeddah - 2/3 Balls - 1st Round 3 Balls - E. Lopez-Chacarra / T. Pieters / S. Vincent - 1st Round 3 Balls,Scott Vincent,-0.030299999999999994,0.303,0.3333
 2023-10-11 10:15:31.138332,New Zealand Politics - Which party will provide the prime minister after the next general election? - Party Of Prime Minister After Next General Election,Labour,-0.033300000000000024,0.1667,0.2
 2023-10-11 13:11:31.853809,Average Rebounds Per Game - Average Rebounds Per Game - Chet Holmgren (OKC) - RPG,Over 9.8,-0.03480000000000005,0.5,0.5348
 2023-10-11 11:12:41.891702,Round Match-Ups - 1st Round Match-Ups - M. Pereira vs S. Munoz - 1st Round Match-Ups,Sebastian Munoz,-0.03600000000000003,0.4878,0.5238
