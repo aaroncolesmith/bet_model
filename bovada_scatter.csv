@@ -6,6 +6,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-13 00:08:19.796547,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Devon Witherspoon,0.12259999999999999,0.3448,0.2222
 2023-10-13 00:08:19.928253,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Houston Astros,0.10709999999999997,0.3571,0.25
 2023-10-13 00:08:19.999899,MLB Futures - MLB - FUTURES YES/NO - HOU Astros to Win 2023 World Series,Yes,0.10709999999999997,0.3571,0.25
+2023-10-13 00:08:19.939054,MLB Futures - MLB 2023 World Series Winner - Winning League,American League,0.09550000000000003,0.5833,0.4878
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Matthieu Pavon,0.0877,0.1,0.0123
 2023-10-13 00:08:19.950848,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Bryce Harper (PHI),0.0791,0.1176,0.0385
 2023-10-13 00:08:19.976045,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Trea Turner (PHI),0.06999999999999999,0.1176,0.0476
@@ -13,22 +14,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-12 17:15:03.066589,Euroleague - Euroleague 2023/24 - Regular Season League Winner,Real Madrid BC,0.06659999999999999,0.3333,0.2667
 2023-10-13 00:08:19.784528,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Cooper Kupp,0.06180000000000001,0.1053,0.0435
 2023-10-13 00:08:19.976045,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Nick Castellanos (PHI),0.06180000000000001,0.1053,0.0435
-2023-10-12 17:15:03.030878,WNBA Awards - WNBA Awards 2023 - WNBA Finals MVP 2023,Kelsey Plum (LVA),0.05379999999999999,0.1538,0.1
-2023-10-12 17:15:03.030878,WNBA Awards - WNBA Awards 2023 - WNBA Finals MVP 2023,Jackie Young (LVA),0.05379999999999999,0.1538,0.1
 2023-10-12 17:15:03.030878,WNBA Awards - WNBA Awards 2023 - WNBA Finals MVP 2023,Chelsea Gray (LVA),0.05379999999999999,0.1538,0.1
+2023-10-12 17:15:03.030878,WNBA Awards - WNBA Awards 2023 - WNBA Finals MVP 2023,Jackie Young (LVA),0.05379999999999999,0.1538,0.1
+2023-10-12 17:15:03.030878,WNBA Awards - WNBA Awards 2023 - WNBA Finals MVP 2023,Kelsey Plum (LVA),0.05379999999999999,0.1538,0.1
 2023-10-12 17:15:03.118743,NBL - NBL 2023/2024 - Regular Season MVP,Milton Doyle,0.052000000000000005,0.1429,0.0909
 2023-10-12 17:15:09.197037,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,A Lim Kim,0.044599999999999994,0.0769,0.0323
 2023-10-12 17:15:09.197037,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Wichanee Meechai,0.0436,0.0476,0.004
 2023-10-12 17:15:09.197037,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Alison Lee,0.04239999999999999,0.0588,0.0164
-2023-10-12 17:15:07.736334,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 American League Championship Series MVP,Kyle Tucker (HOU),0.0407,0.1176,0.0769
 2023-10-13 00:08:19.976045,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Corbin Carroll (ARIZ),0.0407,0.1176,0.0769
+2023-10-12 17:15:07.736334,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 American League Championship Series MVP,Kyle Tucker (HOU),0.0407,0.1176,0.0769
 2023-10-12 18:10:08.229128,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Virtus Bologna,0.03889999999999999,0.1818,0.1429
 2023-10-12 17:15:07.911596,Boxing Lines - Sergey Vorobiev vs Wade Ryan - To Win the Bout,Sergey Vorobiev,0.03620000000000001,0.8824,0.8462
 2023-10-12 17:15:07.736334,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 American League Championship Series MVP,Yordan Alvarez (HOU),0.036199999999999996,0.1538,0.1176
 2023-10-13 00:08:19.976045,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Kyle Schwarber (PHI),0.035699999999999996,0.0833,0.0476
+2023-10-13 01:08:02.346050,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Patrick Mahomes,0.0353,0.2353,0.2
 2023-10-13 00:08:19.950848,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Nick Castellanos (PHI),0.0347,0.0526,0.0179
 2023-10-12 17:15:03.105667,NBL - NBL 2023/2024 - Outright,Tasmania JackJumpers,0.034100000000000005,0.125,0.0909
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Wil Besseling,0.0335,0.0385,0.005
+2023-10-13 01:08:02.329661,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Chris Jones,0.0334,0.0769,0.0435
 2023-10-13 00:08:19.928253,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Arizona Diamondbacks,0.033399999999999985,0.1667,0.1333
 2023-10-13 00:08:19.988715,MLB Futures - MLB - FUTURES YES/NO - ARI Diamondbacks to Win 2023 World Series,Yes,0.033399999999999985,0.1667,0.1333
 2023-10-12 17:15:08.435668,Jeddah - 2/3 Balls - 1st Round 3 Balls - A. Ancer / M. Wolff / P. Perez - 1st Round 3 Balls,Abraham Ancer,0.031799999999999995,0.4762,0.4444
@@ -42,6 +45,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Joost Luiten,0.028199999999999996,0.0667,0.0385
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Romain Langasque,0.026499999999999996,0.0588,0.0323
 2023-10-13 00:08:19.796547,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Jalen Carter,0.025600000000000067,0.6923,0.6667
+2023-10-13 01:08:02.363971,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Travis Kelce,0.025599999999999998,0.0435,0.0179
 2023-10-12 17:15:08.161469,Exhibition Fights - Tommy Fury vs KSI - To Win the Bout,Tommy Fury,0.024500000000000077,0.8182,0.7937
 2023-10-13 00:08:19.976045,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Christian Walker (ARIZ),0.024299999999999995,0.0769,0.0526
 2023-10-12 17:15:07.776996,Boxing Lines - David Cuellar Contreras vs Luis Concepcion - To Win the Bout,David Cuellar Contreras,0.0242,0.9333,0.9091
@@ -50,93 +54,97 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-12 17:15:09.197037,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Esther Henseleit,0.022400000000000003,0.0323,0.0099
 2023-10-12 21:08:02.213918,Boxing Lines - Hassan Hamdan vs Danvers Cuschieri - To Win the Bout,Danvers Cuschieri,0.022199999999999998,0.2632,0.241
 2023-10-13 00:08:19.950848,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Corey Seager (TEX),0.022000000000000006,0.1053,0.0833
-2023-10-12 17:15:09.197037,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Jasmine Suwannapura,0.021199999999999997,0.0278,0.0066
 2023-10-12 17:15:09.197037,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Lauren Coughlin,0.021199999999999997,0.0278,0.0066
-2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Nathan Kimsey,0.0206,0.0385,0.0179
+2023-10-12 17:15:09.197037,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Jasmine Suwannapura,0.021199999999999997,0.0278,0.0066
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Calum Hill,0.0206,0.0385,0.0179
+2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Nathan Kimsey,0.0206,0.0385,0.0179
 2023-10-12 17:15:06.826170,NFC North - NFC North 2023/24 - NFC North Winner,Detroit Lions,0.020100000000000007,0.8462,0.8261
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Mike Lorenzo Vera,0.0194,0.0244,0.005
 2023-10-13 00:08:20.690172,Exhibition Fights - Tommy Fury vs KSI - To Win the Bout,KSI,0.019299999999999984,0.2632,0.2439
 2023-10-13 00:08:19.976045,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Tommy Pham (ARIZ),0.019000000000000003,0.0625,0.0435
 2023-10-13 00:08:19.976045,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Ketel Marte (ARIZ),0.018800000000000004,0.0714,0.0526
-2023-10-13 00:08:19.976045,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,JT Realmuto,0.018099999999999998,0.0526,0.0345
 2023-10-13 00:08:19.976045,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Alec Bohm (PHI),0.018099999999999998,0.0526,0.0345
 2023-10-12 17:15:07.736334,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 American League Championship Series MVP,Alex Bregman (HOU),0.018099999999999998,0.0769,0.0588
-2023-10-13 00:08:20.293354,Boxing Lines - Zhanibek Alimkhanuly vs Vincenzo Gualtieri - To Win the Bout,Vincenzo Gualtieri,0.0179,0.1429,0.125
+2023-10-13 00:08:19.976045,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,JT Realmuto,0.018099999999999998,0.0526,0.0345
 2023-10-12 17:15:03.085660,Euro Cup - Euro Cup 2023/24 - Outright,Paris,0.0179,0.1429,0.125
-2023-10-12 22:07:49.414415,Shriners Children's Open - 2/3 Balls - 2nd Round 3 Balls - C. Champ / E. van Rooyen / M. Laird - 2nd Round 3 Balls,Martin Laird,0.017600000000000005,0.3509,0.3333
+2023-10-13 00:08:20.293354,Boxing Lines - Zhanibek Alimkhanuly vs Vincenzo Gualtieri - To Win the Bout,Vincenzo Gualtieri,0.0179,0.1429,0.125
 2023-10-12 22:07:49.617768,Shriners Children's Open - 2/3 Balls - 2nd Round 3 Balls - J.T. Poston / E. Cole / A. Bhatia - 2nd Round 3 Balls,Eric Cole,0.017600000000000005,0.3509,0.3333
+2023-10-12 22:07:49.414415,Shriners Children's Open - 2/3 Balls - 2nd Round 3 Balls - C. Champ / E. van Rooyen / M. Laird - 2nd Round 3 Balls,Martin Laird,0.017600000000000005,0.3509,0.3333
 2023-10-12 18:10:12.910005,Open De Espana - Open De Espana - Winner,Matthieu Pavon,0.01759999999999999,0.1176,0.1
-2023-10-12 17:15:04.944857,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-12 18:10:09.826306,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-12 19:06:46.822438,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-12 20:04:51.593198,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-13 00:08:18.005073,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-12 21:08:00.059610,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-12 22:07:45.570595,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-12 20:04:51.593198,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-12 21:08:00.059610,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-12 18:10:09.826306,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-12 23:07:31.259587,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-12 17:15:04.944857,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-13 01:07:59.656738,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-13 00:08:18.005073,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-13 00:08:19.950848,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Zack Wheeler (PHI),0.017100000000000004,0.0323,0.0152
+2023-10-13 01:08:03.097772,Boxing Lines - Zhanibek Alimkhanuly vs Vincenzo Gualtieri - To Win the Bout,Zhanibek Alimkhanuly,0.01660000000000006,0.9333,0.9167
 2023-10-12 17:15:03.052899,Euroleague - Euroleague 2023/24 - Outright,Real Madrid BC,0.015899999999999997,0.2381,0.2222
 2023-10-13 00:08:19.950848,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Kyle Schwarber (PHI),0.0157,0.0435,0.0278
 2023-10-13 00:08:19.950848,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Jose Altuve (HOU),0.015300000000000001,0.0588,0.0435
-2023-10-13 00:08:19.976045,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Zac Gallen (ARIZ),0.014899999999999997,0.0625,0.0476
 2023-10-12 17:15:07.736334,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 American League Championship Series MVP,Justin Verlander (HOU),0.014899999999999997,0.0625,0.0476
+2023-10-13 00:08:19.976045,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Zac Gallen (ARIZ),0.014899999999999997,0.0625,0.0476
 2023-10-12 17:15:08.148629,Exhibition Fights - Logan Paul vs Dillon Danis - To Win the Bout,Dillon Danis,0.01469999999999999,0.25,0.2353
 2023-10-12 17:15:09.197037,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Pavarisa Yoktuan,0.014599999999999998,0.0196,0.005
 2023-10-13 00:08:20.239670,Boxing Lines - Keyshawn Davis vs Nahir Albright - To Win the Bout,Nahir Albright,0.01440000000000001,0.1053,0.0909
 2023-10-13 00:08:19.784528,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Matthew Stafford,0.014399999999999996,0.0769,0.0625
 2023-10-12 18:10:08.229128,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Real Madrid BC,0.014100000000000001,0.9756,0.9615
-2023-10-12 17:15:03.085660,Euro Cup - Euro Cup 2023/24 - Outright,London Lions,0.014099999999999998,0.0435,0.0294
 2023-10-12 17:15:09.197037,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Yuna Nishimura,0.014099999999999998,0.0385,0.0244
+2023-10-12 17:15:03.085660,Euro Cup - Euro Cup 2023/24 - Outright,London Lions,0.014099999999999998,0.0435,0.0294
 2023-10-12 22:07:49.557476,Shriners Children's Open - 2/3 Balls - 2nd Round 3 Balls - A. Rai / M. Hubbard / R. Moore - 2nd Round 3 Balls,Mark Hubbard,0.013800000000000034,0.3774,0.3636
-2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Shubhankar Sharma,0.013699999999999999,0.0278,0.0141
 2023-10-13 00:08:19.950848,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Alec Bohm (PHI),0.013699999999999999,0.0278,0.0141
+2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Shubhankar Sharma,0.013699999999999999,0.0278,0.0141
 2023-10-13 00:08:19.292129,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Kansas City Chiefs,0.013600000000000001,0.3077,0.2941
 2023-10-13 00:08:19.928253,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Texas Rangers,0.01319999999999999,0.2632,0.25
 2023-10-13 00:08:20.021182,MLB Futures - MLB - FUTURES YES/NO - TEX Rangers to Win 2023 World Series,Yes,0.01319999999999999,0.2632,0.25
-2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Marcel Siem,0.012599999999999998,0.0278,0.0152
 2023-10-12 17:15:09.197037,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Mi Hyang Lee,0.012599999999999998,0.0278,0.0152
+2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Marcel Siem,0.012599999999999998,0.0278,0.0152
 2023-10-13 00:08:19.950848,MLB Futures - MLB 2023 World Series Winner - World Series MVP,JT Realmuto,0.012599999999999998,0.0278,0.0152
 2023-10-12 22:07:49.658283,Shriners Children's Open - 2/3 Balls - 2nd Round 3 Balls - L. Herbert / R. Streb / A. Landry - 2nd Round 3 Balls,Robert Streb,0.012299999999999978,0.3571,0.3448
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Ross Fisher,0.011699999999999999,0.0196,0.0079
-2023-10-12 23:07:31.279583,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-12 18:10:09.857558,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-12 19:06:46.842411,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-12 22:07:45.602538,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-12 17:15:04.981220,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-12 18:10:09.857558,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-12 20:04:51.622098,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-12 23:07:31.279583,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-13 01:07:59.699488,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-13 00:08:18.027396,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-12 19:06:46.842411,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-12 21:08:00.091048,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Marcus Helligkilde,0.011399999999999997,0.0278,0.0164
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Zander Lombard,0.011399999999999997,0.0278,0.0164
-2023-10-12 17:15:09.197037,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Carlota Ciganda,0.011199999999999995,0.0588,0.0476
 2023-10-13 00:08:19.950848,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Alex Bregman (HOU),0.011199999999999995,0.0435,0.0323
 2023-10-13 00:08:19.950848,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Kyle Tucker (HOU),0.011199999999999995,0.0588,0.0476
 2023-10-12 17:15:07.736334,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 American League Championship Series MVP,Chas McCormick (HOU),0.011199999999999995,0.0435,0.0323
+2023-10-12 17:15:09.197037,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Carlota Ciganda,0.011199999999999995,0.0588,0.0476
 2023-10-12 19:06:43.080097,NBA Championship - NBA Championship 2023-24 - NBA Champion,Denver Nuggets,0.010899999999999993,0.1538,0.1429
 2023-10-13 00:08:19.976045,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Lourdes Gurriel Jr. (ARIZ),0.010700000000000001,0.0385,0.0278
-2023-10-13 00:08:19.950848,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Tommy Pham (ARIZ),0.010600000000000002,0.0323,0.0217
 2023-10-13 00:08:19.950848,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Zac Gallen (ARIZ),0.010600000000000002,0.0323,0.0217
+2023-10-13 00:08:19.950848,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Tommy Pham (ARIZ),0.010600000000000002,0.0323,0.0217
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Sami Valimaki,0.010300000000000002,0.0244,0.0141
 2023-10-12 17:15:07.899091,Boxing Lines - May Nathaniel vs Jackson Jon England - To Win the Bout,Jackson Jon England,-0.010099999999999998,0.6774,0.6875
-2023-10-12 17:15:09.197037,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Olivia Cowan,-0.0103,0.002,0.0123
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Julien Guerrier,-0.0103,0.002,0.0123
+2023-10-12 17:15:09.197037,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Olivia Cowan,-0.0103,0.002,0.0123
 2023-10-12 17:15:07.887287,Boxing Lines - Angel Ayala Lardizabal vs Felix Alvarado - To Win the Bout,Felix Alvarado,-0.010699999999999987,0.3226,0.3333
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Rikuya Hoshino,-0.011300000000000001,0.001,0.0123
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Marcel Schneider,-0.011300000000000001,0.001,0.0123
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Marcus Armitage,-0.011300000000000001,0.001,0.0123
 2023-10-12 17:15:09.197037,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Anna Nordqvist,-0.0114,0.005,0.0164
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Richie Ramsay,-0.0114,0.005,0.0164
+2023-10-13 00:08:18.005073,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-13 01:07:59.656738,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-12 23:07:31.259587,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-12 21:08:00.059610,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-12 17:15:04.944857,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-13 00:08:18.005073,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-12 22:07:45.570595,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-12 17:15:04.944857,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-12 20:04:51.593198,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-12 19:06:46.822438,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-12 18:10:09.826306,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Nick Bachem,-0.0119,0.0033,0.0152
+2023-10-12 19:06:46.822438,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Tom McKibbin,-0.0119,0.0033,0.0152
+2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Nick Bachem,-0.0119,0.0033,0.0152
 2023-10-12 17:15:03.118743,NBL - NBL 2023/2024 - Regular Season MVP,Gary Clark,-0.012100000000000001,0.0123,0.0244
 2023-10-12 22:07:49.658283,Shriners Children's Open - 2/3 Balls - 2nd Round 3 Balls - L. Herbert / R. Streb / A. Landry - 2nd Round 3 Balls,Lucas Herbert,-0.012199999999999989,0.4878,0.5
 2023-10-12 23:07:33.869074,Exhibition Fights - Tommy Fury vs KSI - To Win the Bout,KSI,-0.012500000000000011,0.2439,0.2564
@@ -144,47 +152,50 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Jorge Campillo,-0.012700000000000003,0.0196,0.0323
 2023-10-13 00:08:19.784528,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,T.J. Watt,-0.012800000000000002,0.0217,0.0345
 2023-10-12 17:15:03.105667,NBL - NBL 2023/2024 - Outright,Perth Wildcats,-0.012899999999999995,0.1538,0.1667
+2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Thriston Lawrence,-0.0132,0.002,0.0152
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Gavin Green,-0.0132,0.002,0.0152
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Daniel Hilier,-0.0132,0.002,0.0152
-2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Thriston Lawrence,-0.0132,0.002,0.0152
 2023-10-12 17:15:09.197037,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Grace Kim,-0.0139,0.0057,0.0196
 2023-10-12 17:15:03.066589,Euroleague - Euroleague 2023/24 - Regular Season League Winner,Anadolu Efes,-0.014099999999999994,0.0526,0.0667
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Yannick Paul,-0.014099999999999998,0.0244,0.0385
 2023-10-12 17:15:09.197037,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Sei Young Kim,-0.014100000000000001,0.0385,0.0526
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Maximilian Kieffer,-0.0142,0.001,0.0152
+2023-10-13 01:08:03.029457,Boxing Lines - Keyshawn Davis vs Nahir Albright - To Win the Bout,Nahir Albright,-0.01440000000000001,0.0909,0.1053
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Guido Migliozzi,-0.0145,0.0099,0.0244
 2023-10-12 17:15:06.784915,AFC West - AFC West 2023/24 - AFC West Winner,Los Angeles Chargers,-0.01469999999999999,0.2353,0.25
 2023-10-12 17:15:03.118743,NBL - NBL 2023/2024 - Regular Season MVP,Denzel Valentine,-0.014899999999999997,0.0476,0.0625
-2023-10-12 17:15:08.148629,Exhibition Fights - Logan Paul vs Dillon Danis - To Win the Bout,Logan Paul,-0.015100000000000002,0.8182,0.8333
 2023-10-12 17:15:03.216206,B League - Japan B League 1 2023/2024 - Outright,Chiba Jets,-0.015100000000000002,0.1667,0.1818
+2023-10-12 17:15:08.148629,Exhibition Fights - Logan Paul vs Dillon Danis - To Win the Bout,Logan Paul,-0.015100000000000002,0.8182,0.8333
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,David Law,-0.0154,0.001,0.0164
 2023-10-12 17:15:08.435668,Jeddah - 2/3 Balls - 1st Round 3 Balls - A. Ancer / M. Wolff / P. Perez - 1st Round 3 Balls,Pat Perez,-0.015400000000000025,0.2703,0.2857
 2023-10-12 17:15:03.118743,NBL - NBL 2023/2024 - Regular Season MVP,Finn  Delany,-0.015499999999999998,0.0123,0.0278
 2023-10-12 17:15:03.105667,NBL - NBL 2023/2024 - Outright,Illawarra Hawks,-0.0157,0.0278,0.0435
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Adrian Otaegui,-0.0159,0.0164,0.0323
-2023-10-12 17:15:03.085660,Euro Cup - Euro Cup 2023/24 - Outright,Prometey,-0.016600000000000004,0.0667,0.0833
 2023-10-12 17:15:03.118743,NBL - NBL 2023/2024 - Regular Season MVP,Matthew Dellavedova,-0.016600000000000004,0.0667,0.0833
+2023-10-12 17:15:03.085660,Euro Cup - Euro Cup 2023/24 - Outright,Prometey,-0.016600000000000004,0.0667,0.0833
 2023-10-13 00:08:20.293354,Boxing Lines - Zhanibek Alimkhanuly vs Vincenzo Gualtieri - To Win the Bout,Zhanibek Alimkhanuly,-0.01660000000000006,0.9167,0.9333
 2023-10-13 00:08:19.796547,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Tuli Tuipulotu,-0.0168,0.0217,0.0385
 2023-10-12 17:15:03.118743,NBL - NBL 2023/2024 - Regular Season MVP,Jo Lual Acuil,-0.017100000000000004,0.0152,0.0323
-2023-10-12 22:07:45.602538,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-13 00:08:18.027396,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-12 18:10:09.857558,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-12 19:06:46.842411,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-12 21:08:00.091048,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-12 23:07:31.279583,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-12 20:04:51.622098,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-12 17:15:04.981220,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-12 18:10:09.857558,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-12 21:08:00.091048,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-12 19:06:46.842411,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-12 20:04:51.622098,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-12 22:07:45.602538,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-13 01:07:59.699488,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-13 00:08:18.027396,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-12 23:07:31.279583,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-12 17:15:09.197037,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Xiyu Lin,-0.01759999999999999,0.1,0.1176
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Connor Syme,-0.017599999999999998,0.002,0.0196
 2023-10-12 22:07:49.255081,Shriners Children's Open - 2/3 Balls - 2nd Round 3 Balls - B. Hossler / A. Long / W. Gordon - 2nd Round 3 Balls,Adam Long,-0.017600000000000005,0.3333,0.3509
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Adri Arnaus,-0.017800000000000003,0.0066,0.0244
 2023-10-12 17:15:07.776996,Boxing Lines - David Cuellar Contreras vs Luis Concepcion - To Win the Bout,Luis Concepcion,-0.0179,0.125,0.1429
+2023-10-13 01:08:03.097772,Boxing Lines - Zhanibek Alimkhanuly vs Vincenzo Gualtieri - To Win the Bout,Vincenzo Gualtieri,-0.0179,0.125,0.1429
 2023-10-13 00:08:19.988715,MLB Futures - MLB - FUTURES YES/NO - ARI Diamondbacks to Win 2023 World Series,No,-0.018100000000000005,0.905,0.9231
 2023-10-12 17:15:03.085660,Euro Cup - Euro Cup 2023/24 - Outright,Joventut Badalona,-0.01820000000000002,0.1818,0.2
 2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Niklas Norgaard Mller,-0.0186,0.001,0.0196
-2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Victor Perez,-0.0194,0.005,0.0244
 2023-10-12 17:15:09.197037,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Lydia Ko,-0.0194,0.005,0.0244
+2023-10-12 17:15:08.379743,Open De Espana - Open De Espana - Winner,Victor Perez,-0.0194,0.005,0.0244
 2023-10-12 17:15:09.197037,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Hye-Jin Choi,-0.0206,0.0179,0.0385
 2023-10-12 17:15:09.197037,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Ariya Jutanugarn,-0.022099999999999998,0.0164,0.0385
 2023-10-12 21:08:02.213918,Boxing Lines - Hassan Hamdan vs Danvers Cuschieri - To Win the Bout,Hassan Hamdan,-0.022199999999999998,0.8039,0.8261
