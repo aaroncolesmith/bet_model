@@ -37,6 +37,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-14 12:07:44.460499,Denver Nuggets - 2023-24 Regular Season Wins O/U - Exact Season Wins,36 - 45,0.025300000000000003,0.1429,0.1176
 2023-10-14 11:05:41.417723,Eastern Conference - Eastern Conference Number 3 Seed - Number 3 Seed,Philadelphia 76ers,0.023800000000000016,0.1905,0.1667
 2023-10-14 10:08:06.288716,Open De Espana - Open De Espana - Winner,Romain Langasque,0.02310000000000001,0.1,0.0769
+2023-10-14 15:05:05.650334,Boxing Lines - Reece Bellotti vs Aqib Fiaz - To Win the Bout,Reece Bellotti,0.022700000000000053,0.5917,0.569
 2023-10-14 12:07:44.460499,Denver Nuggets - 2023-24 Regular Season Wins O/U - Exact Season Wins,46 - 55,0.022699999999999998,0.4878,0.4651
 2023-10-14 08:04:31.062231,Shriners Children's Open - 2/3 Balls - 3rd Round 2 Balls - B. Grant v T. Werbylo - 3rd Round 2 Balls,Trevor Werbylo,0.022600000000000064,0.5348,0.5122
 2023-10-14 10:08:05.370458,Boxing Lines - Hassan Hamdan vs Danvers Cuschieri - To Win the Bout,Hassan Hamdan,0.022199999999999998,0.8261,0.8039
@@ -45,11 +46,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-14 13:03:54.022737,Utah Jazz - 2023-24 Regular Season Wins O/U - Team Wins,Over 35.5,0.02079999999999993,0.5556,0.5348
 2023-10-14 13:03:54.050001,Utah Jazz - 2023-24 Regular Season Wins O/U - Team Wins,Over 32.5,0.018999999999999906,0.7333,0.7143
 2023-10-14 13:03:54.650601,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-14 14:04:06.899134,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-14 10:08:02.417073,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-14 08:04:27.742421,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-14 12:07:44.238992,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-14 11:05:45.205471,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-14 08:04:27.742421,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-14 14:04:06.899134,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-14 15:05:03.258161,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-14 11:05:48.649909,Exhibition Fights - Logan Paul vs Dillon Danis - To Win the Bout,Dillon Danis,0.01680000000000001,0.2273,0.2105
 2023-10-14 08:04:31.403864,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Maja Stark,0.016699999999999993,0.2667,0.25
 2023-10-14 10:08:05.396419,Boxing Lines - Angel Ayala Lardizabal vs Felix Alvarado - To Win the Bout,Felix Alvarado,0.016400000000000026,0.339,0.3226
@@ -64,33 +66,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-14 14:04:05.473891,Euroleague - Euroleague 2023/24 - Outright,Real Madrid BC,0.011899999999999994,0.25,0.2381
 2023-10-14 14:04:09.572496,Boxing Lines - Angel Ayala Lardizabal vs Felix Alvarado - To Win the Bout,Felix Alvarado,0.011899999999999966,0.3509,0.339
 2023-10-14 11:05:45.250127,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-14 12:07:44.273740,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-14 13:03:54.670336,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-14 15:05:03.279481,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-14 14:04:06.928942,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-14 10:08:02.436997,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-14 13:03:54.670336,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-14 08:04:27.762327,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-14 12:07:44.273740,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-14 10:08:06.288716,Open De Espana - Open De Espana - Winner,Kalle Samooja,0.0112,0.0132,0.002
 2023-10-14 10:08:06.288716,Open De Espana - Open De Espana - Winner,Gonzalo Fernandez-Castano,0.0103,0.0123,0.002
-2023-10-14 12:07:44.669177,Charlotte Hornets - 2023-24 Regular Season Wins O/U - Team Wins,Under 27.5,0.010099999999999998,0.3226,0.3125
 2023-10-14 10:08:05.409181,Boxing Lines - Nathaniel May vs Jackson Jon England - To Win the Bout,Jackson Jon England,0.010099999999999998,0.6875,0.6774
+2023-10-14 12:07:44.669177,Charlotte Hornets - 2023-24 Regular Season Wins O/U - Team Wins,Under 27.5,0.010099999999999998,0.3226,0.3125
 2023-10-14 10:08:06.288716,Open De Espana - Open De Espana - Winner,Martin Simonsen,-0.0106,0.0004,0.011
 2023-10-14 08:04:30.215539,Boxing Lines - Milan Prat vs Slawa Spomer - To Win the Bout,Slawa Spomer,-0.010699999999999987,0.3226,0.3333
+2023-10-14 15:05:05.552723,Boxing Lines - Miguel Berchelt vs Diego Alberto Ruiz - To Win the Bout,Miguel Berchelt,-0.011099999999999999,0.8889,0.9
 2023-10-14 11:05:41.417723,Eastern Conference - Eastern Conference Number 3 Seed - Number 3 Seed,New York Knicks,-0.011099999999999999,0.1,0.1111
 2023-10-14 11:05:41.407216,Eastern Conference - Eastern Conference Number 2 Seed - Number 2 Seed,Atlanta Hawks,-0.011199999999999995,0.0476,0.0588
-2023-10-14 10:08:02.417073,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-14 11:05:45.205471,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-14 08:04:27.742421,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-14 12:07:44.238992,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-14 13:03:54.650601,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-14 12:07:44.238992,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-14 14:04:06.899134,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-14 11:05:45.205471,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-14 15:05:03.258161,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-14 10:08:02.417073,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-14 08:04:27.742421,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-14 10:08:06.288716,Open De Espana - Open De Espana - Winner,Alexander Levy,-0.011600000000000001,0.0007,0.0123
 2023-10-14 13:03:54.038150,Utah Jazz - 2023-24 Regular Season Wins O/U - Team Wins,Under 38.5,-0.0121,0.7101,0.7222
 2023-10-14 12:07:44.649460,Charlotte Hornets - 2023-24 Regular Season Wins O/U - Team Wins,Under 30.5,-0.012199999999999989,0.5,0.5122
 2023-10-14 10:08:05.742107,Exhibition Fights - Tommy Fury vs KSI - To Win the Bout,KSI,-0.012500000000000011,0.2439,0.2564
-2023-10-14 12:07:43.969481,Milwaukee Bucks - 2023-24 Regular Season Wins O/U - Exact Season Wins,36 - 45,-0.012899999999999995,0.125,0.1379
-2023-10-14 14:04:09.706734,Boxing Lines - Peter McGrail vs Fran Mendoza - To Win the Bout,Fran Mendoza,-0.012899999999999995,0.1538,0.1667
 2023-10-14 11:05:41.417723,Eastern Conference - Eastern Conference Number 3 Seed - Number 3 Seed,Miami Heat,-0.012899999999999995,0.1538,0.1667
+2023-10-14 14:04:09.706734,Boxing Lines - Peter McGrail vs Fran Mendoza - To Win the Bout,Fran Mendoza,-0.012899999999999995,0.1538,0.1667
 2023-10-14 11:05:41.407216,Eastern Conference - Eastern Conference Number 2 Seed - Number 2 Seed,Philadelphia 76ers,-0.012899999999999995,0.1538,0.1667
+2023-10-14 12:07:43.969481,Milwaukee Bucks - 2023-24 Regular Season Wins O/U - Exact Season Wins,36 - 45,-0.012899999999999995,0.125,0.1379
 2023-10-14 10:08:06.288716,Open De Espana - Open De Espana - Winner,Guido Migliozzi,-0.013,0.0002,0.0132
 2023-10-14 10:08:06.288716,Open De Espana - Open De Espana - Winner,Thorbjorn Olesen,-0.013499999999999998,0.0044,0.0179
 2023-10-14 10:08:06.288716,Open De Espana - Open De Espana - Winner,Fabrizio Zanotti,-0.013699999999999999,0.0141,0.0278
@@ -102,27 +107,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-14 10:08:04.977968,2023 MLB Championship Round Props - Player To Record Most Hits - Player To Record Most Hits,Trea Turner (PHI),-0.015700000000000006,0.1176,0.1333
 2023-10-14 08:04:30.667284,Bare Knuckle Fighting Championship - Reggie Barnett Jr vs Keith Richardson - To Win the Bout,Keith Richardson,-0.016100000000000003,0.5917,0.6078
 2023-10-14 10:08:06.288716,Open De Espana - Open De Espana - Winner,Joost Luiten,-0.0167,0.005,0.0217
-2023-10-14 08:04:27.762327,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-14 10:08:02.436997,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-14 11:05:45.250127,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-14 13:03:54.670336,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-14 12:07:44.273740,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-14 15:05:03.279481,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-14 14:04:06.928942,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-14 11:05:45.250127,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-14 12:07:44.273740,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-14 10:08:02.436997,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-14 13:03:54.670336,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-14 08:04:27.762327,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-14 13:03:54.050001,Utah Jazz - 2023-24 Regular Season Wins O/U - Team Wins,Under 32.5,-0.017600000000000005,0.3333,0.3509
 2023-10-14 12:07:44.659509,Charlotte Hornets - 2023-24 Regular Season Wins O/U - Team Wins,Under 33.5,-0.018399999999999972,0.6875,0.7059
 2023-10-14 08:04:31.403864,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Minjee Lee,-0.019099999999999992,0.0476,0.0667
 2023-10-14 08:04:31.403864,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Moriya Jutanugarn,-0.0192,0.0004,0.0196
-2023-10-14 12:07:44.460499,Denver Nuggets - 2023-24 Regular Season Wins O/U - Exact Season Wins,66 - 75,-0.0208,0.0625,0.0833
 2023-10-14 11:05:41.407216,Eastern Conference - Eastern Conference Number 2 Seed - Number 2 Seed,New York Knicks,-0.0208,0.0625,0.0833
+2023-10-14 12:07:44.460499,Denver Nuggets - 2023-24 Regular Season Wins O/U - Exact Season Wins,66 - 75,-0.0208,0.0625,0.0833
 2023-10-14 10:08:06.288716,Open De Espana - Open De Espana - Winner,Justin Rose,-0.021500000000000002,0.0002,0.0217
 2023-10-14 12:07:44.383179,Golden State Warriors - 2023-24 Regular Season Wins O/U - Team Wins,Over 48.5,-0.02169999999999994,0.5238,0.5455
 2023-10-14 10:08:05.370458,Boxing Lines - Hassan Hamdan vs Danvers Cuschieri - To Win the Bout,Danvers Cuschieri,-0.022199999999999998,0.241,0.2632
 2023-10-14 13:03:54.022737,Utah Jazz - 2023-24 Regular Season Wins O/U - Team Wins,Under 35.5,-0.022600000000000064,0.5122,0.5348
 2023-10-14 08:04:31.062231,Shriners Children's Open - 2/3 Balls - 3rd Round 2 Balls - B. Grant v T. Werbylo - 3rd Round 2 Balls,Brent Grant,-0.022600000000000064,0.5122,0.5348
 2023-10-14 10:08:06.288716,Open De Espana - Open De Espana - Winner,Edoardo Molinari,-0.0227,0.0017,0.0244
-2023-10-14 12:07:47.012578,Exhibition Fights - Kenny Ojuederie vs Anthony Taylor - To Win the Bout,Anthony Taylor,-0.023799999999999988,0.4762,0.5
 2023-10-14 12:07:43.969481,Milwaukee Bucks - 2023-24 Regular Season Wins O/U - Exact Season Wins,46 - 55,-0.023799999999999988,0.4762,0.5
 2023-10-14 11:05:48.926761,Round Match-Ups - Parlays - 3rd Round Match-Up - A. Noren vs K.H. Lee - 3rd Round Match-Up,K.H. Lee,-0.023799999999999988,0.4762,0.5
+2023-10-14 12:07:47.012578,Exhibition Fights - Kenny Ojuederie vs Anthony Taylor - To Win the Bout,Anthony Taylor,-0.023799999999999988,0.4762,0.5
 2023-10-14 08:04:31.403864,Buick LPGA Shanghai - Buick LPGA Shanghai - Winner,Ruoning Yin,-0.024,0.0004,0.0244
 2023-10-14 10:08:06.288716,Open De Espana - Open De Espana - Winner,Alejandro Del Rey,-0.0244,0.0079,0.0323
 2023-10-14 14:04:05.473891,Euroleague - Euroleague 2023/24 - Outright,AS Monaco,-0.024999999999999994,0.1,0.125
