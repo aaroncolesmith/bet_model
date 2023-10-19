@@ -22,14 +22,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-19 04:04:42.905332,Round Match-Ups - 2nd Round Match-Up - A. Svensson v A. Schenk - 2nd Round Match-Up,Adam Schenk,0.03600000000000003,0.5238,0.4878
 2023-10-19 06:05:15.395764,NFL Weekly Specials - NFL Week 7 RedZone Specials - Sunday 22nd Oct,M. Andrews and T. Kelce to Combine for 125+ Rec Yards,0.03600000000000003,0.5238,0.4878
 2023-10-19 06:05:11.782276,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Barcelona,0.03180000000000005,0.8889,0.8571
-2023-10-19 06:05:11.752774,Euroleague - Euroleague 2023/24 - Outright,Barcelona,0.031799999999999995,0.1429,0.1111
 2023-10-19 06:05:11.761885,Euroleague - Euroleague 2023/24 - Regular Season League Winner,Barcelona,0.031799999999999995,0.1429,0.1111
+2023-10-19 06:05:11.752774,Euroleague - Euroleague 2023/24 - Outright,Barcelona,0.031799999999999995,0.1429,0.1111
 2023-10-19 06:05:11.761885,Euroleague - Euroleague 2023/24 - Regular Season League Winner,Real Madrid BC,0.030299999999999994,0.3636,0.3333
 2023-10-19 06:05:11.773336,Euroleague - Euroleague 2023/24 - To Make Final Four,Milano,0.030299999999999994,0.3636,0.3333
 2023-10-19 00:04:47.365218,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 American League Championship Series MVP,Nathan Eovaldi (TEX),0.029299999999999993,0.0769,0.0476
 2023-10-19 06:05:11.761885,Euroleague - Euroleague 2023/24 - Regular Season League Winner,Valencia,0.028000000000000004,0.0476,0.0196
-2023-10-19 06:05:11.782276,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Zalgiris,0.02679999999999999,0.3125,0.2857
 2023-10-19 06:05:11.782276,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Bayern Munich,0.02679999999999999,0.3125,0.2857
+2023-10-19 06:05:11.782276,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Zalgiris,0.02679999999999999,0.3125,0.2857
 2023-10-19 07:04:24.890672,Average Points Per Game - Average Points Per Game - LeBron James (LAL) - PPG,Under 27.5,0.026499999999999968,0.5917,0.5652
 2023-10-19 07:04:25.532142,Average Threes Made Per Game - Average Threes Made Per Game - Klay Thompson (GSW) - 3PM,Under 4.5,0.026499999999999968,0.5917,0.5652
 2023-10-19 07:04:24.697177,Average Assists Per Game - Average Assists Per Game - Stephen Curry (GSW) - APG,Under 6.5,0.026499999999999968,0.5917,0.5652
@@ -44,19 +44,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-19 00:04:47.333473,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Corey Seager (TEX),0.019699999999999995,0.125,0.1053
 2023-10-19 03:06:49.368128,Boxing Lines - Michael Hennessy Jr vs Joe Laws - To Win the Bout,Joe Laws,0.019000000000000017,0.2857,0.2667
 2023-10-19 06:05:11.773336,Euroleague - Euroleague 2023/24 - To Make Final Four,Real Madrid BC,0.017300000000000093,0.7143,0.697
-2023-10-18 22:05:15.196247,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-19 07:04:27.492041,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-18 22:05:15.196247,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-18 23:04:32.791730,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-19 04:04:39.553665,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-19 08:04:07.998556,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-19 05:04:54.605876,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-19 03:06:49.440446,Boxing Lines - Michael Seitz vs Steve Eloundou-Ntere - To Win the Bout,Steve Eloundou-Ntere,0.017299999999999982,0.303,0.2857
-2023-10-19 09:03:17.712165,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-19 07:04:25.773314,To Make the Playoffs - 2023-24 To Make the Playoffs - Oklahoma City Thunder,Yes,0.017299999999999982,0.5917,0.5744
-2023-10-19 03:06:47.620004,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-19 01:04:41.199687,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-19 06:05:13.383958,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-19 10:04:19.965946,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-19 00:04:45.189072,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-19 06:05:13.383958,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-19 01:04:41.199687,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-19 03:06:47.620004,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-19 04:04:39.553665,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-19 09:03:17.712165,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-19 03:06:49.440446,Boxing Lines - Michael Seitz vs Steve Eloundou-Ntere - To Win the Bout,Steve Eloundou-Ntere,0.017299999999999982,0.303,0.2857
+2023-10-19 05:04:54.605876,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-19 08:04:07.998556,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-19 07:04:25.773314,To Make the Playoffs - 2023-24 To Make the Playoffs - Oklahoma City Thunder,Yes,0.017299999999999982,0.5917,0.5744
 2023-10-19 07:04:24.988896,Average Points Per Game - Season Average Points - To Average 22+ Points Per Game,Tyler Herro (MIA),0.016699999999999993,0.2667,0.25
 2023-10-19 00:04:47.306867,MLB Futures - MLB 2023 World Series Winner - Winning League,National League,0.016100000000000003,0.4878,0.4717
 2023-10-19 05:04:56.744804,MLB Daily Fantasy Specials - MLB DFS Pitcher To Record 25+ Points - MLB DFS Pitcher To Record 25+ Points,Brandon Pfaadt (ARIZ),0.015700000000000006,0.1333,0.1176
@@ -72,17 +73,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-19 04:04:42.230519,Boxing Lines - Reece Bellotti vs Aqib Fiaz - To Win the Bout,Aqib Fiaz,0.012199999999999989,0.5,0.4878
 2023-10-19 00:04:47.333473,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Kyle Schwarber (PHI),0.0121,0.0556,0.0435
 2023-10-19 04:04:42.877568,Round Match-Ups - 2nd Round Match-Up - J. Dahmen v M. Wallace - 2nd Round Match-Up,Matt Wallace,0.011600000000000055,0.5238,0.5122
-2023-10-19 09:03:17.736252,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-18 22:05:15.224264,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-19 00:04:45.210625,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-19 09:03:17.736252,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-19 01:04:41.226895,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-19 03:06:47.640128,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-19 06:05:13.419513,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-19 08:04:08.037831,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-18 23:04:32.813758,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-19 04:04:39.574163,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-19 08:04:08.037831,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-19 05:04:54.640712,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-19 07:04:27.511995,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-18 23:04:32.813758,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-19 10:04:19.987062,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-19 00:04:47.443515,Boxing Lines - Ijaz Ahmed vs Marcel Braithwaite - To Win the Bout,Marcel Braithwaite,0.01100000000000001,0.5348,0.5238
 2023-10-19 00:04:47.333473,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Nathaniel Lowe (TEX),0.010700000000000001,0.0385,0.0278
 2023-10-19 00:04:47.333473,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Josh Jung (TEX),0.010700000000000001,0.0385,0.0278
@@ -101,17 +103,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-19 06:05:11.752774,Euroleague - Euroleague 2023/24 - Outright,Partizan,-0.011199999999999995,0.0476,0.0588
 2023-10-19 00:04:47.365218,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 American League Championship Series MVP,Yainer Diaz (HOU),-0.0113,0.0066,0.0179
 2023-10-19 05:04:57.279173,Boxing Lines - Isaac Chamberlain vs Mikael Lawal - To Win the Bout,Isaac Chamberlain,-0.011499999999999955,0.6552,0.6667
-2023-10-19 09:03:17.712165,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-19 10:04:19.965946,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-19 07:04:25.773314,To Make the Playoffs - 2023-24 To Make the Playoffs - Oklahoma City Thunder,No,-0.0116,0.4762,0.4878
+2023-10-19 09:03:17.712165,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-19 08:04:07.998556,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-19 07:04:27.492041,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-19 03:06:47.620004,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-19 06:05:13.383958,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-19 07:04:27.492041,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-19 00:04:45.189072,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-18 22:05:15.196247,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-18 23:04:32.791730,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-19 05:04:54.605876,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-19 06:05:13.383958,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-19 01:04:41.199687,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-19 05:04:54.605876,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-19 04:04:39.553665,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-19 07:04:25.199725,Average Rebounds Per Game - Average Rebounds Per Game - Julius Randle (NYK) - RPG,Over 10.5,-0.012199999999999989,0.4878,0.5
 2023-10-19 03:06:43.001115,MLS - MLS 2023 - Winner,New York City FC,-0.0129,0.002,0.0149
@@ -122,18 +125,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-19 06:05:11.761885,Euroleague - Euroleague 2023/24 - Regular Season League Winner,Crvena Zvezda,-0.014100000000000001,0.0385,0.0526
 2023-10-19 00:04:47.365218,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 American League Championship Series MVP,Evan Carter (TEX),-0.014399999999999996,0.0625,0.0769
 2023-10-19 05:04:58.268178,The ZOZO Championship - 2/3 Balls - 2nd Round 3 Balls - D. Lipsky / A. Novak / R. Nagano - 2nd Round 3 Balls,Andrew Novak,-0.015400000000000025,0.3846,0.4
-2023-10-19 06:05:11.773336,Euroleague - Euroleague 2023/24 - To Make Final Four,Fenerbahce,-0.016699999999999993,0.4,0.4167
 2023-10-19 06:05:11.773336,Euroleague - Euroleague 2023/24 - To Make Final Four,Partizan,-0.016699999999999993,0.25,0.2667
+2023-10-19 06:05:11.773336,Euroleague - Euroleague 2023/24 - To Make Final Four,Fenerbahce,-0.016699999999999993,0.4,0.4167
 2023-10-19 06:05:11.752774,Euroleague - Euroleague 2023/24 - Outright,Panathinaikos,-0.016700000000000007,0.0833,0.1
+2023-10-18 22:05:15.224264,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-18 23:04:32.813758,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-19 07:04:30.032556,Boxing Lines - Fabio Wardley vs David Adeleye - To Win the Bout,David Adeleye,-0.017299999999999982,0.2857,0.303
 2023-10-19 00:04:45.210625,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-18 22:05:15.224264,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-19 01:04:41.226895,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-19 03:06:47.640128,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-19 09:03:17.736252,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-19 04:04:39.574163,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-19 05:04:54.640712,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-19 01:04:41.226895,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-19 10:04:19.987062,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-19 06:05:13.419513,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-19 07:04:27.511995,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-19 08:04:08.037831,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
@@ -146,9 +150,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-19 05:04:57.083962,Boxing Lines - Michael Hennessy Jr vs Joe Laws - To Win the Bout,Michael Hennessy Jr,-0.021700000000000053,0.7561,0.7778
 2023-10-19 06:05:11.773336,Euroleague - Euroleague 2023/24 - To Make Final Four,Anadolu Efes,-0.021999999999999964,0.2857,0.3077
 2023-10-19 03:06:49.368128,Boxing Lines - Michael Hennessy Jr vs Joe Laws - To Win the Bout,Michael Hennessy Jr,-0.022199999999999998,0.7778,0.8
-2023-10-19 00:04:47.365218,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 American League Championship Series MVP,Jeremy Pena (HOU),-0.022400000000000003,0.0099,0.0323
 2023-10-19 00:04:47.333473,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Zac Gallen (ARIZ),-0.022400000000000003,0.0099,0.0323
 2023-10-19 00:04:47.333473,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Tommy Pham (ARIZ),-0.022400000000000003,0.0099,0.0323
+2023-10-19 00:04:47.365218,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 American League Championship Series MVP,Jeremy Pena (HOU),-0.022400000000000003,0.0099,0.0323
 2023-10-19 05:04:58.268178,The ZOZO Championship - 2/3 Balls - 2nd Round 3 Balls - D. Lipsky / A. Novak / R. Nagano - 2nd Round 3 Balls,David Lipsky,-0.02260000000000001,0.3774,0.4
 2023-10-19 00:04:47.333473,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Christian Walker (ARIZ),-0.022900000000000004,0.0116,0.0345
 2023-10-19 00:04:47.365218,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 American League Championship Series MVP,Jose Altuve (HOU),-0.02310000000000001,0.0769,0.1
