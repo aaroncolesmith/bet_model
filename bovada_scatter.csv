@@ -27,18 +27,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-19 15:04:23.266890,Scores - 2nd Round Score - Keegan Bradley - 2nd Round Score ,Under 70.5,0.03090000000000004,0.6226,0.5917
 2023-10-19 15:04:23.240915,Scores - 2nd Round Score - Collin Morikawa - 2nd Round Score ,Under 69.5,0.028900000000000037,0.5744,0.5455
 2023-10-19 12:06:44.552404,Andalucia Masters - Andalucia Masters - Winner,Wil Besseling,0.0273,0.0323,0.005
-2023-10-19 07:04:24.890672,Average Points Per Game - Average Points Per Game - LeBron James (LAL) - PPG,Under 27.5,0.026499999999999968,0.5917,0.5652
-2023-10-19 07:04:25.532142,Average Threes Made Per Game - Average Threes Made Per Game - Klay Thompson (GSW) - 3PM,Under 4.5,0.026499999999999968,0.5917,0.5652
-2023-10-19 07:04:24.572070,Average Assists Per Game - Average Assists Per Game - Darius Garland (CLE) - APG,Under 8.5,0.026499999999999968,0.5917,0.5652
-2023-10-19 07:04:24.697177,Average Assists Per Game - Average Assists Per Game - Stephen Curry (GSW) - APG,Under 6.5,0.026499999999999968,0.5917,0.5652
 2023-10-19 18:06:16.684583,Boxing Lines - Arely Mucino vs Gabriela Fundora - To Win the Bout,Arely Mucino,0.02560000000000001,0.3333,0.3077
 2023-10-19 08:04:11.656455,Miami - Miami Team Championship - Winner,Ripper,0.0245,0.0833,0.0588
 2023-10-19 11:04:51.631032,Euro Cup - Euro Cup 2023/24 - Outright,Paris,0.023799999999999988,0.1667,0.1429
 2023-10-19 18:06:12.919762,Euroleague - Euroleague 2023/24 - To Make Final Four,Panathinaikos,0.023799999999999988,0.3571,0.3333
 2023-10-19 18:06:16.893057,BKFC 52: Barnett vs Richardson - Solon La Vonne Staley vs Darrick Gates - To Win the Bout,Darrick Gates,0.023799999999999988,0.3571,0.3333
+2023-10-19 19:05:01.460726,Boxing Lines - Arely Mucino vs Gabriela Fundora - To Win the Bout,Gabriela Fundora,0.022800000000000042,0.7561,0.7333
 2023-10-19 09:03:21.360533,Miami - 1st Round - Fireballs v Majesticks - Winner,Majesticks,0.02260000000000001,0.4,0.3774
 2023-10-19 12:06:44.552404,Andalucia Masters - Andalucia Masters - Winner,Zander Lombard,0.022099999999999998,0.0385,0.0164
-2023-10-19 07:04:24.979323,Average Points Per Game - Season Average Points - To Average 20+ Points Per Game,Tyler Herro (MIA),0.02169999999999994,0.5455,0.5238
 2023-10-19 18:06:12.900714,Euroleague - Euroleague 2023/24 - Regular Season League Winner,Real Madrid BC,0.02100000000000002,0.3846,0.3636
 2023-10-19 18:06:12.934493,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Bayern Munich,0.020799999999999985,0.3333,0.3125
 2023-10-19 12:06:44.552404,Andalucia Masters - Andalucia Masters - Winner,Alex Fitzpatrick,0.0189,0.0385,0.0196
@@ -46,39 +42,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-19 12:06:44.552404,Andalucia Masters - Andalucia Masters - Winner,Louis De Jager,0.017800000000000003,0.0244,0.0066
 2023-10-19 16:08:25.670043,BKFC 52: Barnett vs Richardson - Jeremie Holloway vs Cameron VanCamp - To Win the Bout,Jeremie Holloway,0.01759999999999995,0.6667,0.6491
 2023-10-19 08:04:07.998556,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-19 07:04:27.492041,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-19 09:03:17.712165,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-19 10:04:19.965946,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-19 11:04:53.593107,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-19 12:06:38.947857,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-19 13:04:30.006032,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-19 14:06:31.736055,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-19 16:08:23.148471,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-19 18:06:14.745096,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-19 15:04:20.492315,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-19 07:04:25.773314,To Make the Playoffs - 2023-24 To Make the Playoffs - Oklahoma City Thunder,Yes,0.017299999999999982,0.5917,0.5744
+2023-10-19 16:08:23.148471,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-19 19:04:59.204710,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-19 18:06:14.745096,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-19 11:04:53.593107,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-19 12:06:42.857578,BKFC 52: Barnett vs Richardson - Trukon Carson vs Daishaun Middleton - To Win the Bout,Trukon Carson,0.016799999999999926,0.8571,0.8403
-2023-10-19 07:04:24.988896,Average Points Per Game - Season Average Points - To Average 22+ Points Per Game,Tyler Herro (MIA),0.016699999999999993,0.2667,0.25
 2023-10-19 12:06:42.875763,BKFC 52: Barnett vs Richardson - Jeremiah Gibson Scott vs Chevvy Bridges - To Win the Bout,Jeremiah Gibson Scott,0.015899999999999914,0.7937,0.7778
 2023-10-19 16:08:25.638377,BKFC 52: Barnett vs Richardson - Jeremiah Gibson Scott vs Chevvy Bridges - To Win the Bout,Jeremiah Gibson Scott,0.015800000000000036,0.8095,0.7937
 2023-10-19 16:08:25.626278,BKFC 52: Barnett vs Richardson - Samuel Samples vs Derek Perez - To Win the Bout,Samuel Samples,0.015699999999999936,0.8824,0.8667
 2023-10-19 12:06:35.074286,NBA Stat Leaders - Scoring Leader - Points Per Game Leader,Jordan Poole (WAS),0.015300000000000001,0.0476,0.0323
 2023-10-19 16:08:25.656993,BKFC 52: Barnett vs Richardson - Brandon Bushaw vs Joshua Marer - To Win the Bout,Joshua Marer,0.014900000000000024,0.3226,0.3077
 2023-10-19 12:06:44.552404,Andalucia Masters - Andalucia Masters - Winner,Jeff Winther,0.0145,0.0244,0.0099
-2023-10-19 07:04:29.557490,MLB Daily Fantasy Specials - MLB DFS Hitter To Record 25+ Points - MLB DFS Hitter To Record 25+ Points,Yordan Alvarez (HOU),0.013999999999999999,0.0909,0.0769
-2023-10-19 07:04:30.032556,Boxing Lines - Fabio Wardley vs David Adeleye - To Win the Bout,Fabio Wardley,0.0131,0.7778,0.7647
 2023-10-19 13:04:32.457373,BKFC 52: Barnett vs Richardson - Tony Soto vs Kevin Croom - To Win the Bout,Tony Soto,0.0131,0.7778,0.7647
 2023-10-19 12:06:44.552404,Andalucia Masters - Andalucia Masters - Winner,Jason Scrivener,0.011699999999999999,0.0196,0.0079
-2023-10-19 15:04:20.522777,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-19 19:04:59.225562,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-19 18:06:14.766030,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-19 13:04:30.031420,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-19 16:08:23.175029,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-19 14:06:31.756433,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-19 13:04:30.031420,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-19 12:06:38.997299,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-19 10:04:19.987062,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-19 09:03:17.736252,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-19 08:04:08.037831,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-19 07:04:27.511995,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-19 18:06:14.766030,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-19 09:03:17.736252,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-19 10:04:19.987062,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-19 15:04:20.522777,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-19 11:04:53.632556,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-19 16:08:25.585265,BKFC 52: Barnett vs Richardson - Solon La Vonne Staley vs Darrick Gates - To Win the Bout,Solon La Vonne Staley,0.011099999999999999,0.7333,0.7222
 2023-10-19 09:03:21.385792,Miami - 1st Round - Smash v Hy Flyers - Winner,Hy Flyers,0.010599999999999998,0.4651,0.4545
@@ -86,46 +78,43 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-19 16:08:25.395388,Boxing Lines - Alexis Rocha vs Giovanni Santillan - To Win the Bout,Alexis Rocha,-0.01090000000000002,0.8462,0.8571
 2023-10-19 12:06:44.552404,Andalucia Masters - Andalucia Masters - Winner,Francesco Molinari,-0.011300000000000001,0.001,0.0123
 2023-10-19 16:08:25.670043,BKFC 52: Barnett vs Richardson - Jeremie Holloway vs Cameron VanCamp - To Win the Bout,Cameron VanCamp,-0.011499999999999955,0.4,0.4115
-2023-10-19 11:04:53.593107,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-19 07:04:25.773314,To Make the Playoffs - 2023-24 To Make the Playoffs - Oklahoma City Thunder,No,-0.0116,0.4762,0.4878
-2023-10-19 12:06:38.947857,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-19 14:06:31.736055,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-19 07:04:27.492041,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-19 15:04:20.492315,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-19 08:04:07.998556,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-19 16:08:23.148471,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-19 09:03:17.712165,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-19 13:04:30.006032,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-19 14:06:31.736055,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-19 15:04:20.492315,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-19 16:08:23.148471,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-19 10:04:19.965946,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-19 18:06:14.745096,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-19 13:04:30.006032,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-19 11:04:53.593107,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-19 19:04:59.204710,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-19 12:06:38.947857,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-19 08:04:07.998556,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-19 12:06:44.552404,Andalucia Masters - Andalucia Masters - Winner,Shubankar Sharma,-0.011600000000000001,0.0007,0.0123
 2023-10-19 12:06:42.875763,BKFC 52: Barnett vs Richardson - Jeremiah Gibson Scott vs Chevvy Bridges - To Win the Bout,Chevvy Bridges,-0.011699999999999988,0.274,0.2857
 2023-10-19 12:06:44.552404,Andalucia Masters - Andalucia Masters - Winner,Calum Hill,-0.011699999999999999,0.0079,0.0196
 2023-10-19 12:06:44.552404,Andalucia Masters - Andalucia Masters - Winner,Mike Lorenzo Vera,-0.0119,0.0033,0.0152
-2023-10-19 07:04:25.199725,Average Rebounds Per Game - Average Rebounds Per Game - Julius Randle (NYK) - RPG,Over 10.5,-0.012199999999999989,0.4878,0.5
 2023-10-19 12:06:44.552404,Andalucia Masters - Andalucia Masters - Winner,Julien Guerrier,-0.0127,0.0025,0.0152
 2023-10-19 12:06:44.552404,Andalucia Masters - Andalucia Masters - Winner,Niklas Norgaard,-0.0139,0.0013,0.0152
 2023-10-19 12:06:44.552404,Andalucia Masters - Andalucia Masters - Winner,Hennie Du Plessis,-0.0142,0.001,0.0152
-2023-10-19 12:06:44.552404,Andalucia Masters - Andalucia Masters - Winner,Alejandro Del Rey,-0.0145,0.0007,0.0152
 2023-10-19 12:06:44.552404,Andalucia Masters - Andalucia Masters - Winner,Fabrizio Zanotti,-0.0145,0.0007,0.0152
+2023-10-19 12:06:44.552404,Andalucia Masters - Andalucia Masters - Winner,Alejandro Del Rey,-0.0145,0.0007,0.0152
 2023-10-19 12:06:44.552404,Andalucia Masters - Andalucia Masters - Winner,Pablo Larrazabal,-0.014599999999999998,0.0033,0.0179
 2023-10-19 11:04:51.631032,Euro Cup - Euro Cup 2023/24 - Outright,Joventut Badalona,-0.015100000000000002,0.1667,0.1818
 2023-10-19 16:08:25.656993,BKFC 52: Barnett vs Richardson - Brandon Bushaw vs Joshua Marer - To Win the Bout,Brandon Bushaw,-0.015800000000000036,0.7403,0.7561
 2023-10-19 11:04:51.631032,Euro Cup - Euro Cup 2023/24 - Outright,Türk Telekom,-0.016600000000000004,0.0667,0.0833
 2023-10-19 12:06:42.857578,BKFC 52: Barnett vs Richardson - Trukon Carson vs Daishaun Middleton - To Win the Bout,Daishaun Middleton,-0.01680000000000001,0.2105,0.2273
-2023-10-19 07:04:30.032556,Boxing Lines - Fabio Wardley vs David Adeleye - To Win the Bout,David Adeleye,-0.017299999999999982,0.2857,0.303
-2023-10-19 13:04:32.457373,BKFC 52: Barnett vs Richardson - Tony Soto vs Kevin Croom - To Win the Bout,Kevin Croom,-0.017299999999999982,0.2857,0.303
+2023-10-19 19:04:59.225562,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-19 08:04:08.037831,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-19 18:06:14.766030,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-19 09:03:17.736252,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-19 16:08:23.175029,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-19 15:04:20.522777,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-19 10:04:19.987062,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-19 14:06:31.756433,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-19 13:04:30.031420,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-19 12:06:38.997299,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-19 11:04:53.632556,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-19 10:04:19.987062,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-19 09:03:17.736252,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-19 08:04:08.037831,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-19 07:04:27.511995,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-19 18:06:14.766030,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-19 13:04:32.457373,BKFC 52: Barnett vs Richardson - Tony Soto vs Kevin Croom - To Win the Bout,Kevin Croom,-0.017299999999999982,0.2857,0.303
 2023-10-19 16:08:25.585265,BKFC 52: Barnett vs Richardson - Solon La Vonne Staley vs Darrick Gates - To Win the Bout,Darrick Gates,-0.017600000000000005,0.3333,0.3509
 2023-10-19 16:08:25.638377,BKFC 52: Barnett vs Richardson - Jeremiah Gibson Scott vs Chevvy Bridges - To Win the Bout,Chevvy Bridges,-0.018100000000000005,0.2597,0.2778
 2023-10-19 11:04:51.631032,Euro Cup - Euro Cup 2023/24 - Outright,Reyer Venezia,-0.018200000000000004,0.0294,0.0476
@@ -137,21 +126,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-19 09:03:21.360533,Miami - 1st Round - Fireballs v Majesticks - Winner,Fireballs,-0.02080000000000004,0.6667,0.6875
 2023-10-19 12:06:44.552404,Andalucia Masters - Andalucia Masters - Winner,Matthieu Pavon,-0.0211,0.0033,0.0244
 2023-10-19 18:06:16.684583,Boxing Lines - Arely Mucino vs Gabriela Fundora - To Win the Bout,Gabriela Fundora,-0.022800000000000042,0.7333,0.7561
-2023-10-19 07:04:25.532142,Average Threes Made Per Game - Average Threes Made Per Game - Klay Thompson (GSW) - 3PM,Over 4.5,-0.023799999999999988,0.4762,0.5
-2023-10-19 07:04:24.572070,Average Assists Per Game - Average Assists Per Game - Darius Garland (CLE) - APG,Over 8.5,-0.023799999999999988,0.4762,0.5
-2023-10-19 07:04:24.697177,Average Assists Per Game - Average Assists Per Game - Stephen Curry (GSW) - APG,Over 6.5,-0.023799999999999988,0.4762,0.5
-2023-10-19 07:04:24.890672,Average Points Per Game - Average Points Per Game - LeBron James (LAL) - PPG,Over 27.5,-0.023799999999999988,0.4762,0.5
 2023-10-19 12:06:44.552404,Andalucia Masters - Andalucia Masters - Winner,Rasmus Hojgaard,-0.024399999999999998,0.0141,0.0385
 2023-10-19 16:08:25.626278,BKFC 52: Barnett vs Richardson - Samuel Samples vs Derek Perez - To Win the Bout,Derek Perez,-0.024400000000000005,0.1818,0.2062
 2023-10-19 12:06:44.552404,Andalucia Masters - Andalucia Masters - Winner,Nathan Kimsey,-0.024499999999999997,0.0033,0.0278
+2023-10-19 19:05:01.460726,Boxing Lines - Arely Mucino vs Gabriela Fundora - To Win the Bout,Arely Mucino,-0.02560000000000001,0.3077,0.3333
 2023-10-19 12:06:44.552404,Andalucia Masters - Andalucia Masters - Winner,Thorbjorn Olesen,-0.0257,0.0066,0.0323
 2023-10-19 12:06:44.552404,Andalucia Masters - Andalucia Masters - Winner,Romain Langasque,-0.0273,0.005,0.0323
 2023-10-19 18:06:16.893057,BKFC 52: Barnett vs Richardson - Solon La Vonne Staley vs Darrick Gates - To Win the Bout,Solon La Vonne Staley,-0.02739999999999998,0.7059,0.7333
 2023-10-19 12:06:44.552404,Andalucia Masters - Andalucia Masters - Winner,Adrian Meronk,-0.028000000000000004,0.0196,0.0476
 2023-10-19 15:04:23.319082,Scores - 2nd Round Score - Sungjae Im - 2nd Round Score ,Over 69.5,-0.028900000000000037,0.5455,0.5744
-2023-10-19 15:04:23.305761,Scores - 2nd Round Score - Sahith Theegala - 2nd Round Score ,Over 70.5,-0.031799999999999995,0.4444,0.4762
 2023-10-19 15:04:23.212054,Scores - 2nd Round Score - Adam Scott - 2nd Round Score ,Over 70.5,-0.031799999999999995,0.4444,0.4762
 2023-10-19 15:04:23.266890,Scores - 2nd Round Score - Keegan Bradley - 2nd Round Score ,Over 70.5,-0.031799999999999995,0.4444,0.4762
+2023-10-19 15:04:23.305761,Scores - 2nd Round Score - Sahith Theegala - 2nd Round Score ,Over 70.5,-0.031799999999999995,0.4444,0.4762
 2023-10-19 15:04:23.227596,Scores - 2nd Round Score - Cam Davis - 2nd Round Score ,Under 69.5,-0.03479999999999994,0.5652,0.6
 2023-10-19 09:03:21.373260,Miami - 1st Round - Ripper v Cleeks - Winner,Ripper,-0.035699999999999954,0.7143,0.75
 2023-10-19 12:06:44.552404,Andalucia Masters - Andalucia Masters - Winner,Ryan Fox,-0.035699999999999996,0.0476,0.0833
