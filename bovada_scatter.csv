@@ -2,8 +2,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-22 00:04:53.089549,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Kyle Schwarber (PHI),0.23810000000000003,0.5238,0.2857
 2023-10-22 05:03:53.385081,NBA Team Specials - NBA Team Specials - Minnesota Timberwolves,"Edwards All-NBA Team, MIN Timberwolves to make the playoffs",0.22219999999999998,0.3333,0.1111
 2023-10-22 03:04:20.292309,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,VfB Stuttgart,0.16740000000000002,0.4,0.2326
-2023-10-22 00:04:53.012381,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Philadelphia Phillies,0.1526,0.4651,0.3125
 2023-10-22 00:04:53.153484,MLB Futures - MLB - FUTURES YES/NO - PHI Phillies to Win 2023 World Series,Yes,0.1526,0.4651,0.3125
+2023-10-22 00:04:53.012381,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Philadelphia Phillies,0.1526,0.4651,0.3125
 2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Charlton Athletic,0.1515,0.3333,0.1818
 2023-10-22 03:04:20.209975,La Liga - Spain La Liga 2023/24 - To Be Relegated,Almería,0.12260000000000004,0.7143,0.5917
 2023-10-22 00:04:53.027172,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Exact Result,Philadelphia Phillies beats Houston Astros,0.11430000000000001,0.3846,0.2703
@@ -12,14 +12,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-22 00:04:53.027172,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Exact Result,Houston Astros beats Philadelphia Phillies,0.09260000000000002,0.3704,0.2778
 2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Peterborough United,0.09230000000000005,0.6923,0.6
 2023-10-22 06:04:25.216437,League Two - England - League Two 2023/24 - Top 7 Finish,Crewe Alexandra,0.08549999999999996,0.3077,0.2222
-2023-10-22 06:04:25.137497,League One - England - League One 2023/24 - Top 2 Finish,Portsmouth,0.08330000000000004,0.5833,0.5
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Leeds United,0.08330000000000004,0.8333,0.75
+2023-10-22 06:04:25.137497,League One - England - League One 2023/24 - Top 2 Finish,Portsmouth,0.08330000000000004,0.5833,0.5
 2023-10-22 04:04:08.383731,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Cruzeiro,0.08330000000000001,0.25,0.1667
 2023-10-21 21:06:00.061455,Chicago Bulls - 2023-24 Regular Season Wins O/U - Exact Season Wins,26 - 35,0.08250000000000002,0.4,0.3175
 2023-10-22 06:04:25.194000,League Two - England - League Two 2023/24 - Top Goalscorer,Freddie Draper,0.076,0.0909,0.0149
 2023-10-22 06:04:25.137497,League One - England - League One 2023/24 - Top 2 Finish,Oxford United,0.07450000000000001,0.5,0.4255
 2023-10-22 00:04:45.701882,League One - England - League One 2023/24 - League Winner,Portsmouth,0.06970000000000004,0.3774,0.3077
-2023-10-21 19:07:49.756398,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,0.06840000000000002,0.2222,0.1538
 2023-10-22 04:04:08.390388,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Flamengo,0.06670000000000009,0.8,0.7333
 2023-10-22 06:04:25.128904,League One - England - League One 2023/24 - To Be Promoted,Peterborough United,0.06670000000000004,0.4,0.3333
 2023-10-22 06:04:25.209126,League Two - England - League Two 2023/24 - Top 3 Finish,Stockport County,0.06520000000000004,0.7143,0.6491
@@ -27,16 +26,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-22 00:04:53.134990,MLB Futures - MLB - FUTURES YES/NO - HOU Astros to Win 2023 World Series,No,0.059799999999999964,0.6154,0.5556
 2023-10-22 06:04:25.216437,League Two - England - League Two 2023/24 - Top 7 Finish,Notts County,0.05559999999999998,0.8889,0.8333
 2023-10-22 06:04:25.201883,League Two - England - League Two 2023/24 - To Be Promoted,Notts County,0.053099999999999925,0.6364,0.5833
-2023-10-22 03:04:20.277210,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Bochum,0.05130000000000001,0.3846,0.3333
 2023-10-22 05:03:49.403676,Championship - England Championship 2023/24 - To Finish Bottom,Sheffield Wednesday,0.05130000000000001,0.3846,0.3333
+2023-10-22 03:04:20.277210,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Bochum,0.05130000000000001,0.3846,0.3333
 2023-10-22 03:04:20.277210,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Werder Bremen,0.05080000000000001,0.2326,0.1818
 2023-10-22 03:04:20.265201,1. Bundesliga - Germany Bundesliga 2023/24 - Winner without Bayern Munich,Bayer Leverkusen,0.04760000000000003,0.5238,0.4762
 2023-10-22 05:03:49.388852,Championship - England Championship 2023/24 - To Be Promoted,Leeds United,0.045499999999999985,0.5,0.4545
 2023-10-22 04:04:08.383731,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Santos,0.045499999999999985,0.5,0.4545
 2023-10-22 05:03:49.410598,Championship - England Championship 2023/24 - Top 2 Finish,Leicester City,0.044500000000000095,0.7778,0.7333
-2023-10-22 06:04:25.216437,League Two - England - League Two 2023/24 - Top 7 Finish,Bradford City,0.044399999999999995,0.4444,0.4
-2023-10-22 04:04:08.396655,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Atlético Mineiro,0.044399999999999995,0.4444,0.4
 2023-10-21 21:06:00.061455,Chicago Bulls - 2023-24 Regular Season Wins O/U - Exact Season Wins,36 - 45,0.044399999999999995,0.6,0.5556
+2023-10-22 04:04:08.396655,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Atlético Mineiro,0.044399999999999995,0.4444,0.4
+2023-10-22 06:04:25.216437,League Two - England - League Two 2023/24 - Top 7 Finish,Bradford City,0.044399999999999995,0.4444,0.4
 2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Portsmouth,0.04290000000000005,0.9,0.8571
 2023-10-22 00:04:53.089549,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Bryce Harper (PHI),0.042899999999999994,0.1429,0.1
 2023-10-22 00:04:53.052257,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Bryce Harper (PHI),0.04169999999999999,0.1667,0.125
@@ -46,15 +45,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-22 00:04:45.724878,League Two - England - League Two 2023/24 - League Winner,Notts County,0.04040000000000002,0.2222,0.1818
 2023-10-22 03:04:20.292309,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,RB Leipzig,0.04039999999999999,0.8182,0.7778
 2023-10-22 05:03:49.869803,League One - England - League One 2023/24 - Top Goalscorer,Alfie May,0.03889999999999999,0.1818,0.1429
-2023-10-22 06:04:25.216437,League Two - England - League Two 2023/24 - Top 7 Finish,Accrington Stanley,0.03889999999999999,0.1818,0.1429
 2023-10-22 06:04:32.257323,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Bryce Harper (PHI),0.03889999999999999,0.1818,0.1429
+2023-10-22 06:04:25.216437,League Two - England - League Two 2023/24 - Top 7 Finish,Accrington Stanley,0.03889999999999999,0.1818,0.1429
 2023-10-22 05:03:49.388852,Championship - England Championship 2023/24 - To Be Promoted,Leicester City,0.038899999999999935,0.8571,0.8182
 2023-10-22 00:04:45.724878,League Two - England - League Two 2023/24 - League Winner,Stockport County,0.03839999999999999,0.3509,0.3125
 2023-10-22 06:04:25.128904,League One - England - League One 2023/24 - To Be Promoted,Portsmouth,0.03639999999999999,0.6364,0.6
 2023-10-22 06:04:25.201883,League Two - England - League Two 2023/24 - To Be Promoted,Stockport County,0.0363,0.7333,0.697
+2023-10-22 03:04:20.209975,La Liga - Spain La Liga 2023/24 - To Be Relegated,Mallorca,0.03570000000000001,0.2857,0.25
 2023-10-22 04:04:08.928191,First Division A - Belgium First Division A 2023/24 - Outright,Gent,0.03570000000000001,0.2857,0.25
 2023-10-22 04:04:08.990459,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Hamburger SV,0.03570000000000001,0.2857,0.25
-2023-10-22 03:04:20.209975,La Liga - Spain La Liga 2023/24 - To Be Relegated,Mallorca,0.03570000000000001,0.2857,0.25
 2023-10-22 06:04:25.209126,League Two - England - League Two 2023/24 - Top 3 Finish,Crewe Alexandra,0.035699999999999996,0.0833,0.0476
 2023-10-22 04:04:08.367061,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Botafogo,0.03420000000000001,0.9231,0.8889
 2023-10-22 03:04:20.222756,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Girona,0.034100000000000005,0.125,0.0909
@@ -64,70 +63,74 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-22 04:04:08.390388,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,RB Bragantino,0.033299999999999996,0.8333,0.8
 2023-10-22 02:04:41.244605,96th Academy Awards - Best Director - Best Director,Christopher Nolan - Oppenheimer,0.032099999999999906,0.6154,0.5833
 2023-10-22 07:04:05.540173,NBA Team Specials - NBA Team Specials - Oklahoma City Thunder,"SGA to average 30+ PPG, OKC Thunder to make the playoffs",0.031799999999999995,0.4762,0.4444
-2023-10-22 06:04:25.209126,League Two - England - League Two 2023/24 - Top 3 Finish,Notts County,0.03179999999999994,0.5556,0.5238
 2023-10-22 06:04:25.128904,League One - England - League One 2023/24 - To Be Promoted,Oxford United,0.03179999999999994,0.5556,0.5238
+2023-10-22 06:04:25.209126,League Two - England - League Two 2023/24 - Top 3 Finish,Notts County,0.03179999999999994,0.5556,0.5238
+2023-10-22 08:04:56.355603,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),0.030399999999999983,0.5652,0.5348
 2023-10-22 03:04:20.265201,1. Bundesliga - Germany Bundesliga 2023/24 - Winner without Bayern Munich,VfB Stuttgart,0.029299999999999993,0.0769,0.0476
-2023-10-21 21:06:00.371335,Atlanta Hawks - 2023-24 Regular Season Wins O/U - Team Wins,Over 42.5,0.028900000000000037,0.5744,0.5455
 2023-10-21 20:04:58.778579,Average Points Per Game - Average Points Per Game - Jordan Poole (WAS) - PPG,Over 24.5,0.028900000000000037,0.5744,0.5455
+2023-10-21 21:06:00.371335,Atlanta Hawks - 2023-24 Regular Season Wins O/U - Team Wins,Over 42.5,0.028900000000000037,0.5744,0.5455
 2023-10-22 00:04:53.027172,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Exact Result,Philadelphia Phillies beats Texas Rangers,0.02850000000000001,0.0952,0.0667
 2023-10-22 00:04:53.027172,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Exact Result,Texas Rangers beats Philadelphia Phillies,0.02840000000000001,0.1053,0.0769
 2023-10-22 06:04:25.137497,League One - England - League One 2023/24 - Top 2 Finish,Charlton Athletic,0.028199999999999996,0.0667,0.0385
 2023-10-22 00:04:53.089549,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Zack Wheeler (PHI),0.028199999999999996,0.0667,0.0385
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Leicester City,0.028000000000000025,0.9804,0.9524
 2023-10-22 05:03:49.396757,Championship - England Championship 2023/24 - To Be Relegated,Rotherham Utd,0.027800000000000047,0.7778,0.75
-2023-10-22 04:04:09.052621,Professional League - Saudi Professional League 2023/24 - Winner,Al Ittihad,0.02779999999999999,0.25,0.2222
 2023-10-22 06:04:25.137497,League One - England - League One 2023/24 - Top 2 Finish,Peterborough United,0.02779999999999999,0.25,0.2222
-2023-10-22 04:04:08.928191,First Division A - Belgium First Division A 2023/24 - Outright,Union Saint-Gilloise,0.02779999999999999,0.25,0.2222
+2023-10-22 04:04:09.052621,Professional League - Saudi Professional League 2023/24 - Winner,Al Ittihad,0.02779999999999999,0.25,0.2222
 2023-10-22 07:04:00.709367,National League - England National League 2023/24 - Outright,Barnet,0.02779999999999999,0.25,0.2222
+2023-10-22 04:04:08.928191,First Division A - Belgium First Division A 2023/24 - Outright,Union Saint-Gilloise,0.02779999999999999,0.25,0.2222
 2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Shrewsbury Town,0.0262,0.0385,0.0123
 2023-10-22 04:04:08.396655,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Palmeiras,0.025000000000000022,0.9,0.875
-2023-10-22 04:04:08.928191,First Division A - Belgium First Division A 2023/24 - Outright,Genk,0.024999999999999994,0.125,0.1
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Blackburn Rovers,0.024999999999999994,0.125,0.1
+2023-10-22 04:04:08.928191,First Division A - Belgium First Division A 2023/24 - Outright,Genk,0.024999999999999994,0.125,0.1
 2023-10-22 03:04:20.277210,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Union Berlin,0.024299999999999995,0.0588,0.0345
-2023-10-22 04:04:08.390388,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Atlético Mineiro,0.023799999999999988,0.1667,0.1429
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Southampton,0.023799999999999988,0.5,0.4762
+2023-10-22 04:04:08.390388,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Atlético Mineiro,0.023799999999999988,0.1667,0.1429
 2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Oxford United,0.023799999999999932,0.8571,0.8333
 2023-10-21 20:05:00.023509,To Make the Playoffs - 2023-24 To Make the Playoffs - Minnesota Timberwolves,Yes,0.023699999999999943,0.6154,0.5917
 2023-10-22 04:04:08.337932,MLS - MLS 2023 - Winner,Saint Louis City SC,0.022199999999999998,0.1333,0.1111
 2023-10-22 04:04:08.961405,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Vejle BK,0.02200000000000002,0.7143,0.6923
-2023-10-22 05:03:49.396757,Championship - England Championship 2023/24 - To Be Relegated,Plymouth Argyle,0.021999999999999964,0.3077,0.2857
-2023-10-22 03:04:20.277210,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Mainz,0.021999999999999964,0.3077,0.2857
 2023-10-22 03:04:20.277210,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,FC Köln,0.021999999999999964,0.3077,0.2857
+2023-10-22 03:04:20.277210,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Mainz,0.021999999999999964,0.3077,0.2857
+2023-10-22 05:03:49.396757,Championship - England Championship 2023/24 - To Be Relegated,Plymouth Argyle,0.021999999999999964,0.3077,0.2857
 2023-10-22 03:04:28.191962,Boxing Lines - Fabio Wardley vs David Adeleye - To Win the Bout,David Adeleye,0.021999999999999964,0.3077,0.2857
 2023-10-22 04:04:16.075994,Boxing Lines - Fabio Wardley vs David Adeleye - To Win the Bout,Fabio Wardley,0.021700000000000053,0.7778,0.7561
 2023-10-22 04:04:08.459752,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Harold Preciado (SAN),0.021699999999999997,0.4762,0.4545
-2023-10-22 07:04:10.459704,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),0.02169999999999994,0.5455,0.5238
+2023-10-22 08:04:56.437917,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),0.02169999999999994,0.5455,0.5238
 2023-10-22 07:04:11.280778,Round Match-Ups - Final Round Match-Up - H. Varner III vs S. Munoz - Final Round Match-Up,Harold Varner III,0.02169999999999994,0.5455,0.5238
 2023-10-22 06:04:32.257323,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Kyle Schwarber (PHI),0.02169999999999994,0.5455,0.5238
+2023-10-22 07:04:10.459704,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),0.02169999999999994,0.5455,0.5238
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Middlesbrough,0.02100000000000002,0.3846,0.3636
 2023-10-22 07:04:11.349569,Round Match-Ups - Final Round Match-Up - T. Pieters vs P. Casey - Final Round Match-Up,Thomas Pieters,0.02079999999999993,0.5556,0.5348
 2023-10-22 05:03:57.473865,Futures - PGA Championship 2024 - Winner,Collin Morikawa,0.0203,0.0588,0.0385
 2023-10-22 06:04:25.216437,League Two - England - League Two 2023/24 - Top 7 Finish,Morecambe,0.02020000000000001,0.1111,0.0909
 2023-10-22 03:04:20.222756,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Real Sociedad,0.02020000000000001,0.1111,0.0909
+2023-10-22 08:04:56.325839,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),0.01970000000000005,0.5652,0.5455
 2023-10-21 20:05:00.254908,To Make the Playoffs - 2023-24 To Make the Playoffs - Toronto Raptors,Yes,0.019699999999999995,0.4545,0.4348
 2023-10-22 07:04:11.259084,Round Match-Ups - Final Round Match-Up - D. Puig vs P. Perez - Final Round Match-Up,David Puig,0.019499999999999962,0.6491,0.6296
 2023-10-22 06:04:25.216437,League Two - England - League Two 2023/24 - Top 7 Finish,Stockport County,0.019100000000000006,0.9524,0.9333
 2023-10-22 00:04:53.052257,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Kyle Schwarber (PHI),0.019099999999999992,0.0667,0.0476
 2023-10-22 04:04:08.968769,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Copenhagen,0.01849999999999996,0.9709,0.9524
-2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Leyton Orient,0.018099999999999998,0.0769,0.0588
+2023-10-22 08:04:56.787073,Elite Boxing - Tyson Fury vs Francis Ngannou - To Win the Bout,Tyson Fury,0.018100000000000005,0.9412,0.9231
 2023-10-22 06:04:25.194000,League Two - England - League Two 2023/24 - Top Goalscorer,Louie Barry,0.018099999999999998,0.0769,0.0588
+2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Leyton Orient,0.018099999999999998,0.0769,0.0588
 2023-10-22 05:03:49.375733,Championship - England Championship 2023/24 - Top Goalscorer,Jack Clarke,0.018099999999999998,0.0769,0.0588
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Stoke City,0.0179,0.1429,0.125
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Watford,0.0179,0.1429,0.125
 2023-10-22 05:03:49.410598,Championship - England Championship 2023/24 - Top 2 Finish,Southampton,0.01759999999999999,0.1176,0.1
-2023-10-21 23:04:31.491392,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-21 19:07:51.459090,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-21 20:05:02.983480,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-22 00:04:50.788054,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-22 01:04:07.825013,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-21 22:04:24.704786,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-22 02:04:45.816070,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-21 21:05:59.465086,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-21 22:04:24.704786,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-21 23:04:31.491392,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-22 03:04:25.842973,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-22 01:04:07.825013,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-22 02:04:45.816070,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-22 04:04:13.882523,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-22 05:03:54.710803,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-22 06:04:30.136075,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-22 07:04:07.629786,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-21 20:05:02.983480,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-22 08:04:54.209854,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-22 03:04:20.292309,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Freiburg,0.016700000000000007,0.1,0.0833
 2023-10-22 00:04:45.701882,League One - England - League One 2023/24 - League Winner,Oxford United,0.016699999999999993,0.2667,0.25
 2023-10-22 04:04:08.396655,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Athletico Paranaense,0.016699999999999937,0.6,0.5833
@@ -135,44 +138,43 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-22 03:04:28.204834,Boxing Lines - Joseph Parker vs Simon Kean - To Win the Bout,Simon Kean,0.016600000000000004,0.1905,0.1739
 2023-10-22 04:04:08.954106,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Copenhagen,0.01539999999999997,0.6154,0.6
 2023-10-22 04:04:08.396655,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Flamengo,0.015300000000000091,0.9412,0.9259
-2023-10-21 20:04:57.046975,Western Conference - Western Conference 2023-24 - Western Conference Winner,Minnesota Timberwolves,0.015300000000000001,0.0476,0.0323
 2023-10-21 21:06:00.061455,Chicago Bulls - 2023-24 Regular Season Wins O/U - Exact Season Wins,0 - 25,0.015300000000000001,0.0476,0.0323
 2023-10-22 03:04:28.566462,Dominion Energy Charity Classic - Dominion Energy Charity Classic - Winner,Mike Weir,0.015300000000000001,0.0476,0.0323
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Bristol City,0.015100000000000002,0.1818,0.1667
 2023-10-22 02:04:46.430994,Political Specials - Next Speaker of the House - Next House Speaker,Byron Donalds,0.014899999999999997,0.0625,0.0476
 2023-10-22 03:04:20.209975,La Liga - Spain La Liga 2023/24 - To Be Relegated,Celta de Vigo,0.01469999999999999,0.25,0.2353
-2023-10-21 21:06:02.360416,Boxing Lines - Amanda Serrano vs Danila Ramos - To Win the Bout,Amanda Serrano,0.014100000000000001,0.9474,0.9333
 2023-10-22 04:04:16.028351,Boxing Lines - Amanda Serrano vs Danila Ramos - To Win the Bout,Amanda Serrano,0.014100000000000001,0.9474,0.9333
-2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Ipswich Town,0.013900000000000023,0.8889,0.875
+2023-10-21 21:06:02.360416,Boxing Lines - Amanda Serrano vs Danila Ramos - To Win the Bout,Amanda Serrano,0.014100000000000001,0.9474,0.9333
 2023-10-22 04:04:16.092983,Boxing Lines - Joseph Parker vs Simon Kean - To Win the Bout,Joseph Parker,0.013900000000000023,0.8889,0.875
-2023-10-22 04:04:08.467984,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Club León,0.013899999999999996,0.125,0.1111
+2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Ipswich Town,0.013900000000000023,0.8889,0.875
 2023-10-22 03:04:28.143088,Boxing Lines - Amanda Serrano vs Danila Ramos - To Win the Bout,Danila Ramos,0.013899999999999996,0.125,0.1111
+2023-10-22 04:04:08.467984,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Club León,0.013899999999999996,0.125,0.1111
 2023-10-22 05:03:49.869803,League One - England - League One 2023/24 - Top Goalscorer,Dion Charles,0.013899999999999996,0.125,0.1111
 2023-10-22 05:03:49.396757,Championship - England Championship 2023/24 - To Be Relegated,Queens Park Rangers,0.013799999999999923,0.6364,0.6226
 2023-10-21 21:06:02.437833,Boxing Lines - Fabio Wardley vs David Adeleye - To Win the Bout,Fabio Wardley,0.0131,0.7778,0.7647
 2023-10-22 04:04:08.383731,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Corinthians,0.012899999999999995,0.1667,0.1538
 2023-10-22 00:04:53.089549,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Bryson Stott (PHI),0.012599999999999998,0.0278,0.0152
-2023-10-21 21:05:59.498028,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-22 00:04:50.812845,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-21 20:05:03.022699,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-22 01:04:07.850861,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-21 19:07:51.492476,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-22 05:03:54.734937,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-22 06:04:30.165598,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-22 02:04:45.841577,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-22 03:04:25.868605,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-22 07:04:07.665286,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-22 04:04:13.904046,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-21 23:04:31.511348,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-22 02:04:45.841577,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-22 01:04:07.850861,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-22 00:04:50.812845,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-21 22:04:24.749154,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-21 19:07:50.422930,Utah Jazz - 2023-24 Regular Season Wins O/U - Team Wins,Under 32.5,0.01150000000000001,0.3448,0.3333
+2023-10-22 04:04:13.904046,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-22 05:03:54.734937,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-22 07:04:07.665286,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-22 08:04:54.230849,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-21 23:04:31.511348,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-22 06:04:30.165598,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-21 21:05:59.498028,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-21 20:05:03.022699,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-22 07:04:11.397714,Round Match-Ups - Final Round Match-Up - J. Niemann vs B. Watson - Final Round Match-Up,Joaquin Niemann,0.011499999999999955,0.6667,0.6552
 2023-10-22 00:04:53.052257,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Zack Wheeler (PHI),0.011199999999999995,0.0435,0.0323
-2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Cardiff City,0.011099999999999999,0.1111,0.1
 2023-10-22 04:04:08.928191,First Division A - Belgium First Division A 2023/24 - Outright,Anderlecht,0.011099999999999999,0.1111,0.1
+2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Cardiff City,0.011099999999999999,0.1111,0.1
+2023-10-22 08:04:56.437917,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),0.01100000000000001,0.5348,0.5238
 2023-10-22 07:04:10.459704,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),0.01100000000000001,0.5348,0.5238
-2023-10-22 03:04:20.853839,Superettan - Superettan 2023 - Winner,GAIS,0.010899999999999993,0.1538,0.1429
 2023-10-22 04:04:08.990459,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Fortuna Düsseldorf,0.010899999999999993,0.1538,0.1429
+2023-10-22 03:04:20.853839,Superettan - Superettan 2023 - Winner,GAIS,0.010899999999999993,0.1538,0.1429
 2023-10-22 04:04:08.396655,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,São Paulo,0.0102,0.0769,0.0667
 2023-10-22 03:04:20.292309,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Eintracht Frankfurt,0.0102,0.0769,0.0667
 2023-10-22 04:04:09.052621,Professional League - Saudi Professional League 2023/24 - Winner,Al Hilal,0.010099999999999998,0.5556,0.5455
@@ -181,60 +183,62 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-22 00:04:53.052257,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Jose Altuve (HOU),-0.010099999999999998,0.0952,0.1053
 2023-10-22 04:04:16.125310,Boxing Lines - O'Shaquie Foster vs Eduardo Hernandez - To Win the Bout,O'Shaquie Foster,-0.010099999999999998,0.6774,0.6875
 2023-10-22 05:03:49.410598,Championship - England Championship 2023/24 - Top 2 Finish,Swansea City,-0.010100000000000001,0.0244,0.0345
-2023-10-22 05:03:49.375733,Championship - England Championship 2023/24 - Top Goalscorer,Jamie Vardy,-0.0102,0.0667,0.0769
-2023-10-22 04:04:08.467984,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Cruz Azul,-0.0102,0.0667,0.0769
-2023-10-22 05:03:49.403676,Championship - England Championship 2023/24 - To Finish Bottom,Plymouth Argyle,-0.0102,0.0667,0.0769
-2023-10-22 05:03:49.388852,Championship - England Championship 2023/24 - To Be Promoted,Hull City,-0.0102,0.0667,0.0769
-2023-10-22 05:03:49.388852,Championship - England Championship 2023/24 - To Be Promoted,Coventry City,-0.0102,0.0667,0.0769
-2023-10-22 07:04:00.709367,National League - England National League 2023/24 - Outright,Gateshead,-0.0102,0.0667,0.0769
-2023-10-22 00:04:45.724878,League Two - England - League Two 2023/24 - League Winner,Swindon Town,-0.0102,0.0667,0.0769
-2023-10-22 04:04:08.446141,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Deportivo Toluca,-0.0102,0.0667,0.0769
 2023-10-22 03:04:20.209975,La Liga - Spain La Liga 2023/24 - To Be Relegated,Sevilla,-0.0102,0.0667,0.0769
 2023-10-22 05:03:49.869803,League One - England - League One 2023/24 - Top Goalscorer,Jonson Clarke-Harris,-0.0102,0.0667,0.0769
+2023-10-22 00:04:45.724878,League Two - England - League Two 2023/24 - League Winner,Swindon Town,-0.0102,0.0667,0.0769
+2023-10-22 05:03:49.388852,Championship - England Championship 2023/24 - To Be Promoted,Coventry City,-0.0102,0.0667,0.0769
+2023-10-22 05:03:49.388852,Championship - England Championship 2023/24 - To Be Promoted,Hull City,-0.0102,0.0667,0.0769
+2023-10-22 04:04:08.446141,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Deportivo Toluca,-0.0102,0.0667,0.0769
+2023-10-22 04:04:08.467984,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Cruz Azul,-0.0102,0.0667,0.0769
+2023-10-22 05:03:49.375733,Championship - England Championship 2023/24 - Top Goalscorer,Jamie Vardy,-0.0102,0.0667,0.0769
+2023-10-22 07:04:00.709367,National League - England National League 2023/24 - Outright,Gateshead,-0.0102,0.0667,0.0769
+2023-10-22 05:03:49.403676,Championship - England Championship 2023/24 - To Finish Bottom,Plymouth Argyle,-0.0102,0.0667,0.0769
 2023-10-22 00:04:53.052257,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Ketel Marte (ARIZ),-0.010600000000000002,0.0217,0.0323
 2023-10-22 06:04:32.257323,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Alek Thomas (ARIZ),-0.010700000000000001,0.0278,0.0385
+2023-10-22 08:04:56.787073,Elite Boxing - Tyson Fury vs Francis Ngannou - To Win the Bout,Francis Ngannou,-0.010700000000000001,0.1143,0.125
 2023-10-22 00:04:45.701882,League One - England - League One 2023/24 - League Winner,Bolton Wanderers,-0.010899999999999993,0.1429,0.1538
 2023-10-22 03:04:20.209975,La Liga - Spain La Liga 2023/24 - To Be Relegated,Getafe,-0.010899999999999993,0.1429,0.1538
-2023-10-22 05:03:49.396757,Championship - England Championship 2023/24 - To Be Relegated,Millwall,-0.011199999999999995,0.0476,0.0588
-2023-10-22 06:04:25.137497,League One - England - League One 2023/24 - Top 2 Finish,Wycombe,-0.011199999999999995,0.0476,0.0588
-2023-10-22 04:04:08.990459,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Magdeburg,-0.011199999999999995,0.0476,0.0588
+2023-10-22 08:04:56.355603,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),-0.01100000000000001,0.5238,0.5348
 2023-10-22 04:04:08.459752,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Camilo Sanvezzo (TOL),-0.011199999999999995,0.0476,0.0588
+2023-10-22 06:04:25.137497,League One - England - League One 2023/24 - Top 2 Finish,Wycombe,-0.011199999999999995,0.0476,0.0588
+2023-10-22 05:03:49.396757,Championship - England Championship 2023/24 - To Be Relegated,Millwall,-0.011199999999999995,0.0476,0.0588
+2023-10-22 04:04:08.990459,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Magdeburg,-0.011199999999999995,0.0476,0.0588
 2023-10-22 03:04:20.209975,La Liga - Spain La Liga 2023/24 - To Be Relegated,Cádiz,-0.01150000000000001,0.3333,0.3448
-2023-10-22 07:04:07.629786,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-22 07:04:11.373411,Round Match-Ups - Final Round Match-Up - B. DeChambeau vs D. Johnson - Final Round Match-Up,Dustin Johnson,-0.0116,0.4762,0.4878
-2023-10-21 19:07:51.459090,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-21 20:05:02.983480,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-21 21:05:59.465086,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-21 22:04:24.704786,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-22 02:04:45.816070,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-21 23:04:31.491392,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-21 21:05:59.465086,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-22 00:04:50.788054,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-22 01:04:07.825013,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-22 02:04:45.816070,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-21 20:05:02.983480,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-22 04:04:13.882523,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-22 03:04:25.842973,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-22 05:03:54.710803,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-22 06:04:30.136075,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-22 04:04:13.882523,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-22 07:04:11.373411,Round Match-Ups - Final Round Match-Up - B. DeChambeau vs D. Johnson - Final Round Match-Up,Dustin Johnson,-0.0116,0.4762,0.4878
+2023-10-22 07:04:07.629786,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-22 08:04:54.209854,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-21 22:04:24.704786,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-22 07:04:10.497890,MLB Daily Fantasy Specials - MLB DFS Hitter To Record 25+ Points - MLB DFS Hitter To Record 25+ Points,Marcus Semien (TEX),-0.011899999999999994,0.0714,0.0833
 2023-10-22 05:03:49.396757,Championship - England Championship 2023/24 - To Be Relegated,Cardiff City,-0.012299999999999991,0.1053,0.1176
 2023-10-22 00:04:53.089549,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Tommy Pham (ARIZ),-0.012599999999999998,0.0152,0.0278
-2023-10-22 04:04:08.396655,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Internacional,-0.013,0.0066,0.0196
 2023-10-22 04:04:08.396655,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Cruzeiro,-0.013,0.0066,0.0196
+2023-10-22 04:04:08.396655,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Internacional,-0.013,0.0066,0.0196
 2023-10-22 04:04:08.954106,Superligaen - Denmark Superligaen 2023/24 - Winner,Brøndby IF,-0.0131,0.2222,0.2353
 2023-10-22 04:04:08.467984,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Tijuana,-0.013899999999999996,0.1111,0.125
 2023-10-22 04:04:16.028351,Boxing Lines - Amanda Serrano vs Danila Ramos - To Win the Bout,Danila Ramos,-0.013899999999999996,0.1111,0.125
 2023-10-21 21:06:02.360416,Boxing Lines - Amanda Serrano vs Danila Ramos - To Win the Bout,Danila Ramos,-0.013899999999999996,0.1111,0.125
 2023-10-22 03:04:28.204834,Boxing Lines - Joseph Parker vs Simon Kean - To Win the Bout,Joseph Parker,-0.013900000000000023,0.875,0.8889
 2023-10-22 06:04:25.216437,League Two - England - League Two 2023/24 - Top 7 Finish,Mansfield Town,-0.013900000000000023,0.875,0.8889
-2023-10-22 03:04:20.209975,La Liga - Spain La Liga 2023/24 - To Be Relegated,Osasuna,-0.013999999999999999,0.0769,0.0909
-2023-10-22 06:04:25.216437,League Two - England - League Two 2023/24 - Top 7 Finish,Newport County,-0.013999999999999999,0.0769,0.0909
-2023-10-22 02:04:46.430994,Political Specials - Next Speaker of the House - Next House Speaker,Donald Trump,-0.013999999999999999,0.0769,0.0909
 2023-10-22 04:04:08.367061,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,RB Bragantino,-0.013999999999999999,0.0769,0.0909
-2023-10-22 04:04:08.990459,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Schalke 04,-0.013999999999999999,0.0769,0.0909
+2023-10-22 02:04:46.430994,Political Specials - Next Speaker of the House - Next House Speaker,Donald Trump,-0.013999999999999999,0.0769,0.0909
+2023-10-22 06:04:25.216437,League Two - England - League Two 2023/24 - Top 7 Finish,Newport County,-0.013999999999999999,0.0769,0.0909
 2023-10-22 05:03:49.396757,Championship - England Championship 2023/24 - To Be Relegated,Stoke City,-0.013999999999999999,0.0769,0.0909
-2023-10-22 04:04:08.975599,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Vejle BK,-0.014099999999999994,0.0526,0.0667
+2023-10-22 03:04:20.209975,La Liga - Spain La Liga 2023/24 - To Be Relegated,Osasuna,-0.013999999999999999,0.0769,0.0909
+2023-10-22 04:04:08.990459,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Schalke 04,-0.013999999999999999,0.0769,0.0909
 2023-10-22 06:04:25.209126,League Two - England - League Two 2023/24 - Top 3 Finish,Milton Keynes Dons,-0.014099999999999994,0.0526,0.0667
-2023-10-22 03:04:20.277210,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Hoffenheim,-0.014099999999999998,0.0244,0.0385
+2023-10-22 04:04:08.975599,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Vejle BK,-0.014099999999999994,0.0526,0.0667
 2023-10-22 07:04:00.709367,National League - England National League 2023/24 - Outright,Solihull Moors,-0.014099999999999998,0.0244,0.0385
+2023-10-22 03:04:20.277210,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Hoffenheim,-0.014099999999999998,0.0244,0.0385
 2023-10-22 06:04:25.194000,League Two - England - League Two 2023/24 - Top Goalscorer,James Tilley,-0.014100000000000001,0.0385,0.0526
 2023-10-22 03:04:28.143088,Boxing Lines - Amanda Serrano vs Danila Ramos - To Win the Bout,Amanda Serrano,-0.014100000000000001,0.9333,0.9474
 2023-10-21 20:05:00.254908,To Make the Playoffs - 2023-24 To Make the Playoffs - Toronto Raptors,No,-0.014200000000000101,0.6154,0.6296
@@ -245,81 +249,82 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-22 07:04:11.397714,Round Match-Ups - Final Round Match-Up - J. Niemann vs B. Watson - Final Round Match-Up,Bubba Watson,-0.01479999999999998,0.3774,0.3922
 2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Reading,-0.014900000000000004,0.0196,0.0345
 2023-10-22 06:04:25.137497,League One - England - League One 2023/24 - Top 2 Finish,Barnsley,-0.015100000000000002,0.1667,0.1818
-2023-10-22 04:04:08.390388,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fluminense,-0.015100000000000002,0.1667,0.1818
 2023-10-22 04:04:08.459752,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top Goalscorer,Carlos Gonzalez (TIJ),-0.015100000000000002,0.1667,0.1818
+2023-10-22 04:04:08.390388,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fluminense,-0.015100000000000002,0.1667,0.1818
 2023-10-22 00:04:53.052257,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Tommy Pham (ARIZ),-0.015499999999999998,0.0123,0.0278
 2023-10-22 00:04:53.052257,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Corbin Carroll (ARIZ),-0.0157,0.0278,0.0435
 2023-10-22 05:03:49.388852,Championship - England Championship 2023/24 - To Be Promoted,Sunderland,-0.015700000000000006,0.1176,0.1333
-2023-10-22 06:04:25.194000,League Two - England - League Two 2023/24 - Top Goalscorer,Davis Keillor-Dunn,-0.016600000000000004,0.0667,0.0833
 2023-10-22 05:03:49.396757,Championship - England Championship 2023/24 - To Be Relegated,Watford,-0.016600000000000004,0.0667,0.0833
 2023-10-22 04:04:16.092983,Boxing Lines - Joseph Parker vs Simon Kean - To Win the Bout,Simon Kean,-0.016600000000000004,0.1739,0.1905
+2023-10-22 06:04:25.194000,League Two - England - League Two 2023/24 - Top Goalscorer,Davis Keillor-Dunn,-0.016600000000000004,0.0667,0.0833
 2023-10-22 07:04:11.259084,Round Match-Ups - Final Round Match-Up - D. Puig vs P. Perez - Final Round Match-Up,Pat Perez,-0.016699999999999993,0.4,0.4167
 2023-10-22 00:04:53.089549,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Lourdes Gurriel Jr. (ARIZ),-0.0168,0.0217,0.0385
-2023-10-21 21:06:02.437833,Boxing Lines - Fabio Wardley vs David Adeleye - To Win the Bout,David Adeleye,-0.017299999999999982,0.2857,0.303
-2023-10-21 19:07:51.492476,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-22 08:04:54.230849,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-21 20:05:03.022699,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-21 22:04:24.749154,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-22 07:04:07.665286,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-21 21:05:59.498028,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-22 05:03:54.734937,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-21 22:04:24.749154,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-21 23:04:31.511348,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-22 00:04:50.812845,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-22 01:04:07.850861,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-22 02:04:45.841577,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-22 03:04:25.868605,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-22 00:04:50.812845,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-22 06:04:30.165598,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-22 04:04:13.904046,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-22 05:03:54.734937,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-22 07:04:07.665286,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-22 06:04:30.165598,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-21 21:06:02.437833,Boxing Lines - Fabio Wardley vs David Adeleye - To Win the Bout,David Adeleye,-0.017299999999999982,0.2857,0.303
 2023-10-22 06:04:25.194000,League Two - England - League Two 2023/24 - Top Goalscorer,Matt Smith,-0.01759999999999999,0.1,0.1176
 2023-10-22 04:04:09.052621,Professional League - Saudi Professional League 2023/24 - Winner,Al Ahli,-0.0179,0.125,0.1429
 2023-10-22 05:03:49.388852,Championship - England Championship 2023/24 - To Be Promoted,West Bromwich Albion,-0.0179,0.125,0.1429
 2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Lincoln City,-0.0179,0.125,0.1429
-2023-10-22 05:03:49.410598,Championship - England Championship 2023/24 - Top 2 Finish,Sunderland,-0.018099999999999998,0.0588,0.0769
-2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Wigan Athletic,-0.018099999999999998,0.0588,0.0769
 2023-10-22 06:04:25.128904,League One - England - League One 2023/24 - To Be Promoted,Bristol Rovers,-0.018099999999999998,0.0588,0.0769
-2023-10-22 05:03:49.410598,Championship - England Championship 2023/24 - Top 2 Finish,West Bromwich Albion,-0.018099999999999998,0.0588,0.0769
 2023-10-22 04:04:08.367061,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Flamengo,-0.018099999999999998,0.0588,0.0769
+2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Wigan Athletic,-0.018099999999999998,0.0588,0.0769
+2023-10-22 05:03:49.410598,Championship - England Championship 2023/24 - Top 2 Finish,Sunderland,-0.018099999999999998,0.0588,0.0769
+2023-10-22 05:03:49.410598,Championship - England Championship 2023/24 - Top 2 Finish,West Bromwich Albion,-0.018099999999999998,0.0588,0.0769
 2023-10-22 00:04:45.752154,Premiership - Scotland Premiership 2023/24 - Winner,Celtic,-0.018199999999999994,0.8,0.8182
-2023-10-22 06:04:25.201883,League Two - England - League Two 2023/24 - To Be Promoted,Grimsby Town,-0.018200000000000004,0.0294,0.0476
 2023-10-22 03:04:20.209975,La Liga - Spain La Liga 2023/24 - To Be Relegated,Valencia,-0.018200000000000004,0.0294,0.0476
-2023-10-22 03:04:20.292309,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Union Berlin,-0.018200000000000004,0.0294,0.0476
 2023-10-22 04:04:08.396655,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Cuiabá,-0.018200000000000004,0.0294,0.0476
+2023-10-22 03:04:20.292309,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Union Berlin,-0.018200000000000004,0.0294,0.0476
 2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Cambridge United,-0.018200000000000004,0.0294,0.0476
+2023-10-22 06:04:25.201883,League Two - England - League Two 2023/24 - To Be Promoted,Grimsby Town,-0.018200000000000004,0.0294,0.0476
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Coventry City,-0.01820000000000002,0.1818,0.2
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,West Bromwich Albion,-0.018799999999999983,0.3448,0.3636
 2023-10-22 03:04:20.277210,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Darmstadt,-0.01880000000000004,0.5556,0.5744
 2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Bolton Wanderers,-0.018999999999999906,0.7143,0.7333
-2023-10-21 19:07:50.422930,Utah Jazz - 2023-24 Regular Season Wins O/U - Team Wins,Over 32.5,-0.018999999999999906,0.7143,0.7333
-2023-10-22 06:04:25.194000,League Two - England - League Two 2023/24 - Top Goalscorer,Jake Young,-0.019099999999999992,0.0476,0.0667
 2023-10-22 06:04:25.201883,League Two - England - League Two 2023/24 - To Be Promoted,Crawley Town,-0.019099999999999992,0.0476,0.0667
+2023-10-22 06:04:25.194000,League Two - England - League Two 2023/24 - Top Goalscorer,Jake Young,-0.019099999999999992,0.0476,0.0667
 2023-10-22 00:04:53.027172,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Exact Result,Arizona Diamondbacks beats Texas Rangers,-0.0191,0.0179,0.037
 2023-10-22 07:04:10.478735,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),-0.01970000000000005,0.5455,0.5652
+2023-10-22 08:04:56.460507,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),-0.01970000000000005,0.5455,0.5652
 2023-10-22 00:04:53.089549,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Nick Castellanos (PHI),-0.020000000000000004,0.0123,0.0323
 2023-10-22 05:03:49.396757,Championship - England Championship 2023/24 - To Be Relegated,Blackburn Rovers,-0.02020000000000001,0.0909,0.1111
 2023-10-22 06:04:25.201883,League Two - England - League Two 2023/24 - To Be Promoted,Barrow FC,-0.02020000000000001,0.0909,0.1111
-2023-10-22 04:04:08.367061,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Palmeiras,-0.0203,0.0385,0.0588
-2023-10-22 04:04:08.990459,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Greuther Fürth,-0.0203,0.0385,0.0588
 2023-10-22 06:04:25.194000,League Two - England - League Two 2023/24 - Top Goalscorer,Dan Kemp,-0.0203,0.0385,0.0588
+2023-10-22 04:04:08.990459,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Greuther Fürth,-0.0203,0.0385,0.0588
+2023-10-22 04:04:08.367061,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Palmeiras,-0.0203,0.0385,0.0588
 2023-10-22 07:04:11.305014,Round Match-Ups - Final Round Match-Up - M. Pereira vs C. Howell III - Final Round Match-Up,Charles Howell III,-0.020699999999999996,0.4444,0.4651
 2023-10-22 06:04:25.209126,League Two - England - League Two 2023/24 - Top 3 Finish,Wrexham,-0.02079999999999993,0.5348,0.5556
-2023-10-22 05:03:49.410598,Championship - England Championship 2023/24 - Top 2 Finish,Ipswich Town,-0.021699999999999997,0.4545,0.4762
+2023-10-22 08:04:56.325839,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),-0.02169999999999994,0.5238,0.5455
 2023-10-21 20:05:00.023509,To Make the Playoffs - 2023-24 To Make the Playoffs - Minnesota Timberwolves,No,-0.021699999999999997,0.4545,0.4762
+2023-10-22 05:03:49.410598,Championship - England Championship 2023/24 - Top 2 Finish,Ipswich Town,-0.021699999999999997,0.4545,0.4762
 2023-10-22 03:04:28.191962,Boxing Lines - Fabio Wardley vs David Adeleye - To Win the Bout,Fabio Wardley,-0.021700000000000053,0.7561,0.7778
-2023-10-22 04:04:16.075994,Boxing Lines - Fabio Wardley vs David Adeleye - To Win the Bout,David Adeleye,-0.021999999999999964,0.2857,0.3077
 2023-10-22 06:04:25.137497,League One - England - League One 2023/24 - Top 2 Finish,Bolton Wanderers,-0.021999999999999964,0.2857,0.3077
+2023-10-22 04:04:16.075994,Boxing Lines - Fabio Wardley vs David Adeleye - To Win the Bout,David Adeleye,-0.021999999999999964,0.2857,0.3077
 2023-10-22 00:04:45.724878,League Two - England - League Two 2023/24 - League Winner,Mansfield Town,-0.022199999999999998,0.2,0.2222
 2023-10-22 00:04:45.724878,League Two - England - League Two 2023/24 - League Winner,Wrexham,-0.022199999999999998,0.2,0.2222
-2023-10-22 04:04:08.467984,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Deportivo Toluca,-0.022199999999999998,0.2,0.2222
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Hull City,-0.022199999999999998,0.2,0.2222
 2023-10-22 02:04:46.430994,Political Specials - Next Speaker of the House - Next House Speaker,Patrick McHenry,-0.022199999999999998,0.2,0.2222
+2023-10-22 04:04:08.467984,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Top 4 Finish,Deportivo Toluca,-0.022199999999999998,0.2,0.2222
 2023-10-22 03:04:20.277210,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Borussia Mönchengladbach,-0.02310000000000001,0.0769,0.1
 2023-10-22 05:03:49.410598,Championship - England Championship 2023/24 - Top 2 Finish,Norwich City,-0.02310000000000001,0.0769,0.1
-2023-10-22 00:04:53.089549,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Christian Walker (ARIZ),-0.023200000000000002,0.0244,0.0476
 2023-10-22 06:04:25.128904,League One - England - League One 2023/24 - To Be Promoted,Exeter City,-0.023200000000000002,0.0244,0.0476
+2023-10-22 00:04:53.089549,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Christian Walker (ARIZ),-0.023200000000000002,0.0244,0.0476
 2023-10-22 07:04:11.280778,Round Match-Ups - Final Round Match-Up - H. Varner III vs S. Munoz - Final Round Match-Up,Sebastian Munoz,-0.023800000000000043,0.5,0.5238
 2023-10-22 00:04:53.089549,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Alek Thomas (ARIZ),-0.024,0.0385,0.0625
 2023-10-22 00:04:45.701882,League One - England - League One 2023/24 - League Winner,Barnsley,-0.0242,0.0667,0.0909
-2023-10-22 07:04:10.497890,MLB Daily Fantasy Specials - MLB DFS Hitter To Record 25+ Points - MLB DFS Hitter To Record 25+ Points,Corey Seager (TEX),-0.0242,0.0667,0.0909
 2023-10-22 03:04:20.292309,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Wolfsburg,-0.0242,0.0667,0.0909
+2023-10-22 07:04:10.497890,MLB Daily Fantasy Specials - MLB DFS Hitter To Record 25+ Points - MLB DFS Hitter To Record 25+ Points,Corey Seager (TEX),-0.0242,0.0667,0.0909
 2023-10-22 05:03:49.403676,Championship - England Championship 2023/24 - To Finish Bottom,Huddersfield Town,-0.024299999999999995,0.0526,0.0769
 2023-10-22 07:04:11.349569,Round Match-Ups - Final Round Match-Up - T. Pieters vs P. Casey - Final Round Match-Up,Paul Casey,-0.024399999999999977,0.4878,0.5122
 2023-10-22 04:04:08.383731,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Goiás,-0.025599999999999956,0.5744,0.6
@@ -329,15 +334,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-22 04:04:08.928191,First Division A - Belgium First Division A 2023/24 - Outright,Royal Antwerp,-0.028799999999999992,0.125,0.1538
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Swansea City,-0.028799999999999992,0.125,0.1538
 2023-10-22 07:04:10.478735,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),-0.030399999999999983,0.5348,0.5652
+2023-10-22 08:04:56.460507,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),-0.030399999999999983,0.5348,0.5652
 2023-10-22 06:04:25.209126,League Two - England - League Two 2023/24 - Top 3 Finish,Mansfield Town,-0.030399999999999983,0.5348,0.5652
 2023-10-22 00:04:53.027172,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Exact Result,Texas Rangers beats Arizona Diamondbacks,-0.031199999999999995,0.0244,0.0556
+2023-10-22 02:04:46.430994,Political Specials - Next Speaker of the House - Next House Speaker,Steve Scalise,-0.031799999999999995,0.1111,0.1429
 2023-10-22 06:04:25.216437,League Two - England - League Two 2023/24 - Top 7 Finish,Gillingham,-0.031799999999999995,0.4444,0.4762
 2023-10-22 06:04:25.209126,League Two - England - League Two 2023/24 - Top 3 Finish,Gillingham,-0.031799999999999995,0.1111,0.1429
-2023-10-22 02:04:46.430994,Political Specials - Next Speaker of the House - Next House Speaker,Steve Scalise,-0.031799999999999995,0.1111,0.1429
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Birmingham City,-0.033300000000000024,0.1667,0.2
 2023-10-22 06:04:25.216437,League Two - England - League Two 2023/24 - Top 7 Finish,Walsall,-0.033399999999999985,0.1333,0.1667
-2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Exeter City,-0.034100000000000005,0.0909,0.125
 2023-10-22 04:04:08.390388,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fortaleza,-0.034100000000000005,0.0909,0.125
+2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Exeter City,-0.034100000000000005,0.0909,0.125
 2023-10-22 03:04:20.222756,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Athletic Bilbao,-0.03420000000000001,0.0769,0.1111
 2023-10-22 00:04:53.089549,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Corbin Carroll (ARIZ),-0.0347,0.0278,0.0625
 2023-10-22 06:04:25.201883,League Two - England - League Two 2023/24 - To Be Promoted,Gillingham,-0.0353,0.2,0.2353
@@ -348,8 +354,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-22 02:04:46.430994,Political Specials - Next Speaker of the House - Next House Speaker,Kevin Hern,-0.04040000000000002,0.1818,0.2222
 2023-10-22 06:04:25.216437,League Two - England - League Two 2023/24 - Top 7 Finish,Crawley Town,-0.04169999999999999,0.125,0.1667
 2023-10-22 03:04:20.265201,1. Bundesliga - Germany Bundesliga 2023/24 - Winner without Bayern Munich,Borussia Dortmund,-0.043200000000000016,0.3077,0.3509
-2023-10-22 03:04:20.209975,La Liga - Spain La Liga 2023/24 - To Be Relegated,Las Palmas,-0.047599999999999976,0.2857,0.3333
 2023-10-22 05:03:49.396757,Championship - England Championship 2023/24 - To Be Relegated,Huddersfield Town,-0.047599999999999976,0.2857,0.3333
+2023-10-22 03:04:20.209975,La Liga - Spain La Liga 2023/24 - To Be Relegated,Las Palmas,-0.047599999999999976,0.2857,0.3333
 2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Derby County,-0.04760000000000009,0.6667,0.7143
 2023-10-22 02:04:46.430994,Political Specials - Next Speaker of the House - Next House Speaker,Jack Bergman,-0.048600000000000004,0.0625,0.1111
 2023-10-22 02:04:46.430994,Political Specials - Next Speaker of the House - Next House Speaker,Jim Jordan,-0.048600000000000004,0.0625,0.1111
@@ -358,9 +364,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-22 04:04:09.052621,Professional League - Saudi Professional League 2023/24 - Winner,Al Ittifaq Dammam,-0.0518,0.0149,0.0667
 2023-10-22 06:04:25.216437,League Two - England - League Two 2023/24 - Top 7 Finish,Grimsby Town,-0.052000000000000005,0.0909,0.1429
 2023-10-22 00:04:53.089549,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Gabriel Moreno (ARIZ),-0.052399999999999995,0.0385,0.0909
-2023-10-22 04:04:08.928191,First Division A - Belgium First Division A 2023/24 - Outright,Club Brugge,-0.057699999999999974,0.25,0.3077
 2023-10-22 00:04:53.134990,MLB Futures - MLB - FUTURES YES/NO - HOU Astros to Win 2023 World Series,Yes,-0.057699999999999974,0.4545,0.5122
 2023-10-22 00:04:53.012381,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Houston Astros,-0.057699999999999974,0.4545,0.5122
+2023-10-22 04:04:08.928191,First Division A - Belgium First Division A 2023/24 - Outright,Club Brugge,-0.057699999999999974,0.25,0.3077
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Norwich City,-0.0595,0.4167,0.4762
 2023-10-22 03:04:20.277210,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Heidenheim,-0.05980000000000002,0.3846,0.4444
 2023-10-22 06:04:25.128904,League One - England - League One 2023/24 - To Be Promoted,Derby County,-0.06190000000000001,0.3636,0.4255
@@ -368,13 +374,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Preston North End,-0.06820000000000001,0.1818,0.25
 2023-10-22 00:04:53.027172,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Exact Result,Arizona Diamondbacks beats Houston Astros,-0.075,0.05,0.125
 2023-10-22 00:04:53.089549,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Trea Turner (PHI),-0.0769,0.0769,0.1538
-2023-10-22 06:04:25.137497,League One - England - League One 2023/24 - Top 2 Finish,Derby County,-0.0849,0.1818,0.2667
 2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Bristol Rovers,-0.0849,0.1818,0.2667
+2023-10-22 06:04:25.137497,League One - England - League One 2023/24 - Top 2 Finish,Derby County,-0.0849,0.1818,0.2667
 2023-10-22 00:04:53.089549,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Ketel Marte (ARIZ),-0.0857,0.0476,0.1333
 2023-10-22 04:04:08.383731,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Bahia,-0.0857,0.2,0.2857
 2023-10-22 04:04:08.390388,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Grêmio,-0.0857,0.2,0.2857
-2023-10-22 00:04:53.115191,MLB Futures - MLB - FUTURES YES/NO - ARI Diamondbacks to Win 2023 World Series,Yes,-0.10419999999999999,0.0625,0.1667
 2023-10-22 00:04:53.012381,MLB Futures - MLB 2023 World Series Winner - MLB 2023 World Series Winner,Arizona Diamondbacks,-0.10419999999999999,0.0625,0.1667
+2023-10-22 00:04:53.115191,MLB Futures - MLB - FUTURES YES/NO - ARI Diamondbacks to Win 2023 World Series,Yes,-0.10419999999999999,0.0625,0.1667
 2023-10-22 04:04:08.396655,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Grêmio,-0.11259999999999992,0.5238,0.6364
 2023-10-22 06:04:25.216437,League Two - England - League Two 2023/24 - Top 7 Finish,Milton Keynes Dons,-0.11359999999999998,0.25,0.3636
 2023-10-22 04:04:08.396655,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fortaleza,-0.1179,0.2667,0.3846
