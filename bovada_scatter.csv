@@ -8,8 +8,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-22 16:05:15.930240,NBL - NBL 2023/2024 - To Make Top 6,Cairns Taipans,0.10109999999999997,0.5455,0.4444
 2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Peterborough United,0.09230000000000005,0.6923,0.6
 2023-10-22 06:04:25.216437,League Two - England - League Two 2023/24 - Top 7 Finish,Crewe Alexandra,0.08549999999999996,0.3077,0.2222
-2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Leeds United,0.08330000000000004,0.8333,0.75
 2023-10-22 06:04:25.137497,League One - England - League One 2023/24 - Top 2 Finish,Portsmouth,0.08330000000000004,0.5833,0.5
+2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Leeds United,0.08330000000000004,0.8333,0.75
 2023-10-22 15:06:46.609274,Memphis Grizzlies - 2023-24 Regular Season Wins O/U - Team Wins,Under 46.5,0.0805999999999999,0.6154,0.5348
 2023-10-22 09:04:50.201956,MLB Daily Fantasy Specials - MLB DFS Best Performing Hitter TEX@HOU - Game 6 - MLB DFS Best Performing Hitter TEX@HOU - Game 6,Yordan Alvarez (HOU),0.0791,0.1176,0.0385
 2023-10-22 06:04:25.194000,League Two - England - League Two 2023/24 - Top Goalscorer,Freddie Draper,0.076,0.0909,0.0149
@@ -35,27 +35,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-22 06:04:25.201883,League Two - England - League Two 2023/24 - To Be Promoted,AFC Wimbledon,0.04099999999999998,0.3077,0.2667
 2023-10-22 05:03:49.396757,Championship - England Championship 2023/24 - To Be Relegated,Sheffield Wednesday,0.040999999999999925,0.7333,0.6923
 2023-10-22 06:04:32.257323,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Bryce Harper (PHI),0.03889999999999999,0.1818,0.1429
-2023-10-22 05:03:49.869803,League One - England - League One 2023/24 - Top Goalscorer,Alfie May,0.03889999999999999,0.1818,0.1429
 2023-10-22 06:04:25.216437,League Two - England - League Two 2023/24 - Top 7 Finish,Accrington Stanley,0.03889999999999999,0.1818,0.1429
+2023-10-22 05:03:49.869803,League One - England - League One 2023/24 - Top Goalscorer,Alfie May,0.03889999999999999,0.1818,0.1429
 2023-10-22 05:03:49.388852,Championship - England Championship 2023/24 - To Be Promoted,Leicester City,0.038899999999999935,0.8571,0.8182
 2023-10-22 06:04:25.128904,League One - England - League One 2023/24 - To Be Promoted,Portsmouth,0.03639999999999999,0.6364,0.6
 2023-10-22 06:04:25.201883,League Two - England - League Two 2023/24 - To Be Promoted,Stockport County,0.0363,0.7333,0.697
 2023-10-22 06:04:25.209126,League Two - England - League Two 2023/24 - Top 3 Finish,Crewe Alexandra,0.035699999999999996,0.0833,0.0476
-2023-10-22 06:04:25.128904,League One - England - League One 2023/24 - To Be Promoted,Charlton Athletic,0.03330000000000001,0.1,0.0667
 2023-10-22 06:04:25.194000,League Two - England - League Two 2023/24 - Top Goalscorer,Will Evans,0.03330000000000001,0.1,0.0667
+2023-10-22 06:04:25.128904,League One - England - League One 2023/24 - To Be Promoted,Charlton Athletic,0.03330000000000001,0.1,0.0667
 2023-10-22 07:04:05.540173,NBA Team Specials - NBA Team Specials - Oklahoma City Thunder,"SGA to average 30+ PPG, OKC Thunder to make the playoffs",0.031799999999999995,0.4762,0.4444
-2023-10-22 06:04:25.128904,League One - England - League One 2023/24 - To Be Promoted,Oxford United,0.03179999999999994,0.5556,0.5238
 2023-10-22 06:04:25.209126,League Two - England - League Two 2023/24 - Top 3 Finish,Notts County,0.03179999999999994,0.5556,0.5238
+2023-10-22 06:04:25.128904,League One - England - League One 2023/24 - To Be Promoted,Oxford United,0.03179999999999994,0.5556,0.5238
 2023-10-22 16:05:15.920895,NBL - NBL 2023/2024 - To Make Top 4,Cairns Taipans,0.031399999999999983,0.2667,0.2353
-2023-10-22 15:06:47.999281,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),0.030399999999999983,0.5652,0.5348
-2023-10-22 09:04:50.242443,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),0.030399999999999983,0.5652,0.5348
-2023-10-22 14:05:52.097661,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),0.030399999999999983,0.5652,0.5348
-2023-10-22 12:05:26.894870,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),0.030399999999999983,0.5652,0.5348
-2023-10-22 11:04:04.965524,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),0.030399999999999983,0.5652,0.5348
-2023-10-22 08:04:56.355603,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),0.030399999999999983,0.5652,0.5348
-2023-10-22 13:05:19.918829,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),0.030399999999999983,0.5652,0.5348
-2023-10-22 10:04:26.499331,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),0.030399999999999983,0.5652,0.5348
 2023-10-22 16:05:18.998289,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),0.030399999999999983,0.5652,0.5348
+2023-10-22 11:04:04.965524,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),0.030399999999999983,0.5652,0.5348
+2023-10-22 17:03:40.285494,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),0.030399999999999983,0.5652,0.5348
+2023-10-22 09:04:50.242443,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),0.030399999999999983,0.5652,0.5348
+2023-10-22 08:04:56.355603,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),0.030399999999999983,0.5652,0.5348
+2023-10-22 14:05:52.097661,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),0.030399999999999983,0.5652,0.5348
+2023-10-22 13:05:19.918829,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),0.030399999999999983,0.5652,0.5348
+2023-10-22 12:05:26.894870,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),0.030399999999999983,0.5652,0.5348
+2023-10-22 10:04:26.499331,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),0.030399999999999983,0.5652,0.5348
+2023-10-22 15:06:47.999281,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),0.030399999999999983,0.5652,0.5348
 2023-10-22 15:06:44.760044,NBL - NBL 2023/2024 - Outright,Tasmania JackJumpers,0.028799999999999992,0.1538,0.125
 2023-10-22 09:04:50.201956,MLB Daily Fantasy Specials - MLB DFS Best Performing Hitter TEX@HOU - Game 6 - MLB DFS Best Performing Hitter TEX@HOU - Game 6,Marcus Semien (TEX),0.02840000000000001,0.1053,0.0769
 2023-10-22 16:05:15.920895,NBL - NBL 2023/2024 - To Make Top 4,Sydney Kings,0.02839999999999998,0.9375,0.9091
@@ -63,67 +64,70 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Leicester City,0.028000000000000025,0.9804,0.9524
 2023-10-22 15:06:44.750251,NBL - NBL 2023/2024 - Most Losses,Perth Wildcats,0.028000000000000004,0.0476,0.0196
 2023-10-22 05:03:49.396757,Championship - England Championship 2023/24 - To Be Relegated,Rotherham Utd,0.027800000000000047,0.7778,0.75
-2023-10-22 06:04:25.137497,League One - England - League One 2023/24 - Top 2 Finish,Peterborough United,0.02779999999999999,0.25,0.2222
 2023-10-22 16:05:15.911450,NBL - NBL 2023/2024 - To Make Grand Final,SE Melbourne Phoenix,0.02779999999999999,0.25,0.2222
+2023-10-22 06:04:25.137497,League One - England - League One 2023/24 - Top 2 Finish,Peterborough United,0.02779999999999999,0.25,0.2222
 2023-10-22 07:04:00.709367,National League - England National League 2023/24 - Outright,Barnet,0.02779999999999999,0.25,0.2222
 2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Shrewsbury Town,0.0262,0.0385,0.0123
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Blackburn Rovers,0.024999999999999994,0.125,0.1
 2023-10-22 14:05:52.071830,MLB Daily Fantasy Specials - MLB DFS Best Performing Hitter TEX@HOU - Game 6 - MLB DFS Best Performing Hitter TEX@HOU - Game 6,Michael Brantley (HOU),0.0242,0.0909,0.0667
-2023-10-22 14:05:52.218189,MLB Daily Fantasy Specials - MLB DFS Pitcher To Record 25+ Points - MLB DFS Pitcher To Record 25+ Points,Nathan Eovaldi (TEX),0.023799999999999988,0.1667,0.1429
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Southampton,0.023799999999999988,0.5,0.4762
 2023-10-22 14:05:52.218189,MLB Daily Fantasy Specials - MLB DFS Pitcher To Record 25+ Points - MLB DFS Pitcher To Record 25+ Points,Framber Valdez (HOU),0.023799999999999988,0.1667,0.1429
+2023-10-22 14:05:52.218189,MLB Daily Fantasy Specials - MLB DFS Pitcher To Record 25+ Points - MLB DFS Pitcher To Record 25+ Points,Nathan Eovaldi (TEX),0.023799999999999988,0.1667,0.1429
 2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Oxford United,0.023799999999999932,0.8571,0.8333
 2023-10-22 05:03:49.396757,Championship - England Championship 2023/24 - To Be Relegated,Plymouth Argyle,0.021999999999999964,0.3077,0.2857
-2023-10-22 14:05:52.135488,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),0.02169999999999994,0.5455,0.5238
-2023-10-22 12:05:26.931525,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),0.02169999999999994,0.5455,0.5238
-2023-10-22 13:05:19.984179,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),0.02169999999999994,0.5455,0.5238
-2023-10-22 16:05:19.036548,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),0.02169999999999994,0.5455,0.5238
-2023-10-22 11:04:05.030858,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),0.02169999999999994,0.5455,0.5238
 2023-10-22 08:04:56.437917,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),0.02169999999999994,0.5455,0.5238
+2023-10-22 12:05:26.931525,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),0.02169999999999994,0.5455,0.5238
 2023-10-22 10:04:26.542015,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),0.02169999999999994,0.5455,0.5238
 2023-10-22 06:04:32.257323,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Kyle Schwarber (PHI),0.02169999999999994,0.5455,0.5238
-2023-10-22 07:04:11.280778,Round Match-Ups - Final Round Match-Up - H. Varner III vs S. Munoz - Final Round Match-Up,Harold Varner III,0.02169999999999994,0.5455,0.5238
-2023-10-22 07:04:10.459704,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),0.02169999999999994,0.5455,0.5238
 2023-10-22 09:04:50.325510,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),0.02169999999999994,0.5455,0.5238
+2023-10-22 14:05:52.135488,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),0.02169999999999994,0.5455,0.5238
+2023-10-22 07:04:10.459704,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),0.02169999999999994,0.5455,0.5238
+2023-10-22 13:05:19.984179,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),0.02169999999999994,0.5455,0.5238
+2023-10-22 17:03:40.322536,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),0.02169999999999994,0.5455,0.5238
+2023-10-22 07:04:11.280778,Round Match-Ups - Final Round Match-Up - H. Varner III vs S. Munoz - Final Round Match-Up,Harold Varner III,0.02169999999999994,0.5455,0.5238
+2023-10-22 16:05:19.036548,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),0.02169999999999994,0.5455,0.5238
+2023-10-22 11:04:05.030858,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),0.02169999999999994,0.5455,0.5238
 2023-10-22 15:06:48.036211,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),0.02169999999999994,0.5455,0.5238
 2023-10-22 16:05:15.901658,NBL - NBL 2023/2024 - Regular Season MVP,Alan Williams,0.021199999999999997,0.0278,0.0066
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Middlesbrough,0.02100000000000002,0.3846,0.3636
 2023-10-22 07:04:11.349569,Round Match-Ups - Final Round Match-Up - T. Pieters vs P. Casey - Final Round Match-Up,Thomas Pieters,0.02079999999999993,0.5556,0.5348
 2023-10-22 05:03:57.473865,Futures - PGA Championship 2024 - Winner,Collin Morikawa,0.0203,0.0588,0.0385
 2023-10-22 06:04:25.216437,League Two - England - League Two 2023/24 - Top 7 Finish,Morecambe,0.02020000000000001,0.1111,0.0909
-2023-10-22 13:05:19.900808,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),0.01970000000000005,0.5652,0.5455
+2023-10-22 10:04:26.485093,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),0.01970000000000005,0.5652,0.5455
+2023-10-22 17:03:40.273429,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),0.01970000000000005,0.5652,0.5455
+2023-10-22 16:05:18.986061,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),0.01970000000000005,0.5652,0.5455
 2023-10-22 15:06:47.986863,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),0.01970000000000005,0.5652,0.5455
+2023-10-22 14:05:52.084285,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),0.01970000000000005,0.5652,0.5455
+2023-10-22 13:05:19.900808,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),0.01970000000000005,0.5652,0.5455
+2023-10-22 12:05:26.882593,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),0.01970000000000005,0.5652,0.5455
 2023-10-22 08:04:56.325839,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),0.01970000000000005,0.5652,0.5455
 2023-10-22 09:04:50.222096,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),0.01970000000000005,0.5652,0.5455
-2023-10-22 10:04:26.485093,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),0.01970000000000005,0.5652,0.5455
-2023-10-22 14:05:52.084285,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),0.01970000000000005,0.5652,0.5455
 2023-10-22 11:04:04.947275,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),0.01970000000000005,0.5652,0.5455
-2023-10-22 12:05:26.882593,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),0.01970000000000005,0.5652,0.5455
-2023-10-22 16:05:18.986061,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),0.01970000000000005,0.5652,0.5455
 2023-10-22 07:04:11.259084,Round Match-Ups - Final Round Match-Up - D. Puig vs P. Perez - Final Round Match-Up,David Puig,0.019499999999999962,0.6491,0.6296
 2023-10-22 06:04:25.216437,League Two - England - League Two 2023/24 - Top 7 Finish,Stockport County,0.019100000000000006,0.9524,0.9333
 2023-10-22 16:05:15.901658,NBL - NBL 2023/2024 - Regular Season MVP,Milton Doyle,0.01820000000000002,0.2,0.1818
 2023-10-22 08:04:56.787073,Elite Boxing - Tyson Fury vs Francis Ngannou - To Win the Bout,Tyson Fury,0.018100000000000005,0.9412,0.9231
-2023-10-22 09:04:50.201956,MLB Daily Fantasy Specials - MLB DFS Best Performing Hitter TEX@HOU - Game 6 - MLB DFS Best Performing Hitter TEX@HOU - Game 6,Robbie Grossman (TEX),0.018099999999999998,0.0769,0.0588
 2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Leyton Orient,0.018099999999999998,0.0769,0.0588
+2023-10-22 09:04:50.201956,MLB Daily Fantasy Specials - MLB DFS Best Performing Hitter TEX@HOU - Game 6 - MLB DFS Best Performing Hitter TEX@HOU - Game 6,Robbie Grossman (TEX),0.018099999999999998,0.0769,0.0588
 2023-10-22 06:04:25.194000,League Two - England - League Two 2023/24 - Top Goalscorer,Louie Barry,0.018099999999999998,0.0769,0.0588
 2023-10-22 05:03:49.375733,Championship - England Championship 2023/24 - Top Goalscorer,Jack Clarke,0.018099999999999998,0.0769,0.0588
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Watford,0.0179,0.1429,0.125
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Stoke City,0.0179,0.1429,0.125
 2023-10-22 05:03:49.410598,Championship - England Championship 2023/24 - Top 2 Finish,Southampton,0.01759999999999999,0.1176,0.1
-2023-10-22 05:03:54.710803,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-22 06:04:30.136075,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-22 07:04:07.629786,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-22 08:04:54.209854,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-22 09:04:50.775914,Boxing Lines - Fabio Wardley vs David Adeleye - To Win the Bout,David Adeleye,0.017299999999999982,0.303,0.2857
-2023-10-22 10:04:24.974556,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-22 11:04:03.411378,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-22 12:05:25.752960,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-22 13:05:18.046415,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-22 14:05:50.680326,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-22 15:06:46.778661,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-22 17:03:38.986235,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-22 16:05:17.544078,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-22 15:06:46.778661,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-22 14:05:50.680326,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-22 12:05:25.752960,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-22 11:04:03.411378,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-22 10:04:24.974556,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-22 09:04:47.574205,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-22 08:04:54.209854,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-22 07:04:07.629786,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-22 06:04:30.136075,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-22 05:03:54.710803,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-22 13:05:18.046415,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
+2023-10-22 09:04:50.775914,Boxing Lines - Fabio Wardley vs David Adeleye - To Win the Bout,David Adeleye,0.017299999999999982,0.303,0.2857
 2023-10-22 09:04:50.201956,MLB Daily Fantasy Specials - MLB DFS Best Performing Hitter TEX@HOU - Game 6 - MLB DFS Best Performing Hitter TEX@HOU - Game 6,Jose Altuve (HOU),0.016700000000000007,0.1,0.0833
 2023-10-22 09:04:50.201956,MLB Daily Fantasy Specials - MLB DFS Best Performing Hitter TEX@HOU - Game 6 - MLB DFS Best Performing Hitter TEX@HOU - Game 6,Kyle Tucker (HOU),0.016700000000000007,0.1,0.0833
 2023-10-22 16:05:15.911450,NBL - NBL 2023/2024 - To Make Grand Final,Tasmania JackJumpers,0.016699999999999993,0.2667,0.25
@@ -135,72 +139,76 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-22 05:03:49.396757,Championship - England Championship 2023/24 - To Be Relegated,Queens Park Rangers,0.013799999999999923,0.6364,0.6226
 2023-10-22 10:04:26.472091,MLB Daily Fantasy Specials - MLB DFS Best Performing Hitter TEX@HOU - Game 6 - MLB DFS Best Performing Hitter TEX@HOU - Game 6,Adolis Garcia (TEX),0.012299999999999991,0.1176,0.1053
 2023-10-22 10:04:26.472091,MLB Daily Fantasy Specials - MLB DFS Best Performing Hitter TEX@HOU - Game 6 - MLB DFS Best Performing Hitter TEX@HOU - Game 6,Corey Seager (TEX),0.012299999999999991,0.1176,0.1053
-2023-10-22 09:04:47.608952,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-22 05:03:54.734937,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-22 07:04:07.665286,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-22 16:05:17.564458,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-22 15:06:46.818090,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-22 14:05:50.699535,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-22 13:05:18.071289,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-22 12:05:25.772754,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-22 11:04:03.439917,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
-2023-10-22 06:04:30.165598,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-22 17:03:39.008987,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-22 10:04:24.994733,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-22 16:05:17.564458,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-22 12:05:25.772754,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-22 06:04:30.165598,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-22 07:04:07.665286,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-22 08:04:54.230849,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-22 13:05:18.071289,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-22 11:04:03.439917,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-22 09:04:47.608952,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-22 14:05:50.699535,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
+2023-10-22 15:06:46.818090,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-22 07:04:11.397714,Round Match-Ups - Final Round Match-Up - J. Niemann vs B. Watson - Final Round Match-Up,Joaquin Niemann,0.011499999999999955,0.6667,0.6552
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Cardiff City,0.011099999999999999,0.1111,0.1
-2023-10-22 09:04:50.325510,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),0.01100000000000001,0.5348,0.5238
 2023-10-22 13:05:19.984179,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),0.01100000000000001,0.5348,0.5238
 2023-10-22 07:04:10.459704,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),0.01100000000000001,0.5348,0.5238
-2023-10-22 11:04:05.030858,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),0.01100000000000001,0.5348,0.5238
-2023-10-22 12:05:26.931525,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),0.01100000000000001,0.5348,0.5238
-2023-10-22 15:06:48.036211,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),0.01100000000000001,0.5348,0.5238
-2023-10-22 14:05:52.135488,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),0.01100000000000001,0.5348,0.5238
 2023-10-22 10:04:26.542015,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),0.01100000000000001,0.5348,0.5238
 2023-10-22 16:05:19.036548,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),0.01100000000000001,0.5348,0.5238
+2023-10-22 11:04:05.030858,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),0.01100000000000001,0.5348,0.5238
+2023-10-22 14:05:52.135488,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),0.01100000000000001,0.5348,0.5238
+2023-10-22 09:04:50.325510,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),0.01100000000000001,0.5348,0.5238
 2023-10-22 08:04:56.437917,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),0.01100000000000001,0.5348,0.5238
-2023-10-22 09:04:50.201956,MLB Daily Fantasy Specials - MLB DFS Best Performing Hitter TEX@HOU - Game 6 - MLB DFS Best Performing Hitter TEX@HOU - Game 6,Alex Bregman (HOU),-0.010099999999999998,0.0952,0.1053
+2023-10-22 15:06:48.036211,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),0.01100000000000001,0.5348,0.5238
+2023-10-22 17:03:40.322536,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),0.01100000000000001,0.5348,0.5238
+2023-10-22 12:05:26.931525,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),0.01100000000000001,0.5348,0.5238
 2023-10-22 07:04:11.329133,Round Match-Ups - Final Round Match-Up - T. Gooch vs P. Reed - Final Round Match-Up,Patrick Reed,-0.010099999999999998,0.4444,0.4545
+2023-10-22 09:04:50.201956,MLB Daily Fantasy Specials - MLB DFS Best Performing Hitter TEX@HOU - Game 6 - MLB DFS Best Performing Hitter TEX@HOU - Game 6,Alex Bregman (HOU),-0.010099999999999998,0.0952,0.1053
 2023-10-22 05:03:49.410598,Championship - England Championship 2023/24 - Top 2 Finish,Swansea City,-0.010100000000000001,0.0244,0.0345
 2023-10-22 05:03:49.403676,Championship - England Championship 2023/24 - To Finish Bottom,Plymouth Argyle,-0.0102,0.0667,0.0769
 2023-10-22 07:04:00.709367,National League - England National League 2023/24 - Outright,Gateshead,-0.0102,0.0667,0.0769
+2023-10-22 05:03:49.388852,Championship - England Championship 2023/24 - To Be Promoted,Hull City,-0.0102,0.0667,0.0769
+2023-10-22 05:03:49.869803,League One - England - League One 2023/24 - Top Goalscorer,Jonson Clarke-Harris,-0.0102,0.0667,0.0769
 2023-10-22 10:04:26.472091,MLB Daily Fantasy Specials - MLB DFS Best Performing Hitter TEX@HOU - Game 6 - MLB DFS Best Performing Hitter TEX@HOU - Game 6,Chas McCormick (HOU),-0.0102,0.0667,0.0769
+2023-10-22 10:04:26.472091,MLB Daily Fantasy Specials - MLB DFS Best Performing Hitter TEX@HOU - Game 6 - MLB DFS Best Performing Hitter TEX@HOU - Game 6,Michael Brantley (HOU),-0.0102,0.0667,0.0769
+2023-10-22 10:04:26.472091,MLB Daily Fantasy Specials - MLB DFS Best Performing Hitter TEX@HOU - Game 6 - MLB DFS Best Performing Hitter TEX@HOU - Game 6,Josh Jung (TEX),-0.0102,0.0667,0.0769
+2023-10-22 11:04:05.306978,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 American League Championship Series MVP,Adolis Garcia (TEX),-0.0102,0.0667,0.0769
 2023-10-22 09:04:50.201956,MLB Daily Fantasy Specials - MLB DFS Best Performing Hitter TEX@HOU - Game 6 - MLB DFS Best Performing Hitter TEX@HOU - Game 6,Leody Taveras (TEX),-0.0102,0.0667,0.0769
 2023-10-22 05:03:49.388852,Championship - England Championship 2023/24 - To Be Promoted,Coventry City,-0.0102,0.0667,0.0769
-2023-10-22 05:03:49.388852,Championship - England Championship 2023/24 - To Be Promoted,Hull City,-0.0102,0.0667,0.0769
-2023-10-22 10:04:26.472091,MLB Daily Fantasy Specials - MLB DFS Best Performing Hitter TEX@HOU - Game 6 - MLB DFS Best Performing Hitter TEX@HOU - Game 6,Josh Jung (TEX),-0.0102,0.0667,0.0769
-2023-10-22 10:04:26.472091,MLB Daily Fantasy Specials - MLB DFS Best Performing Hitter TEX@HOU - Game 6 - MLB DFS Best Performing Hitter TEX@HOU - Game 6,Michael Brantley (HOU),-0.0102,0.0667,0.0769
 2023-10-22 05:03:49.375733,Championship - England Championship 2023/24 - Top Goalscorer,Jamie Vardy,-0.0102,0.0667,0.0769
-2023-10-22 05:03:49.869803,League One - England - League One 2023/24 - Top Goalscorer,Jonson Clarke-Harris,-0.0102,0.0667,0.0769
-2023-10-22 11:04:05.306978,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 American League Championship Series MVP,Adolis Garcia (TEX),-0.0102,0.0667,0.0769
 2023-10-22 08:04:56.787073,Elite Boxing - Tyson Fury vs Francis Ngannou - To Win the Bout,Francis Ngannou,-0.010700000000000001,0.1143,0.125
 2023-10-22 06:04:32.257323,MLB Futures - MLB 2023 League Championship Series MVP - MLB 2023 National League Championship Series MVP,Alek Thomas (ARIZ),-0.010700000000000001,0.0278,0.0385
-2023-10-22 10:04:26.499331,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),-0.01100000000000001,0.5238,0.5348
 2023-10-22 09:04:50.242443,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),-0.01100000000000001,0.5238,0.5348
-2023-10-22 11:04:04.965524,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),-0.01100000000000001,0.5238,0.5348
 2023-10-22 12:05:26.894870,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),-0.01100000000000001,0.5238,0.5348
+2023-10-22 11:04:04.965524,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),-0.01100000000000001,0.5238,0.5348
 2023-10-22 08:04:56.355603,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),-0.01100000000000001,0.5238,0.5348
 2023-10-22 13:05:19.918829,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),-0.01100000000000001,0.5238,0.5348
 2023-10-22 14:05:52.097661,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),-0.01100000000000001,0.5238,0.5348
 2023-10-22 15:06:47.999281,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),-0.01100000000000001,0.5238,0.5348
 2023-10-22 16:05:18.998289,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),-0.01100000000000001,0.5238,0.5348
-2023-10-22 13:05:15.379645,Average Points Per Game - Average Points Per Game - LeBron James (LAL) - PPG,Over 27.5,-0.011099999999999999,0.4651,0.4762
+2023-10-22 17:03:40.285494,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),-0.01100000000000001,0.5238,0.5348
+2023-10-22 10:04:26.499331,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Kyle Tucker (HOU),-0.01100000000000001,0.5238,0.5348
 2023-10-22 16:05:15.911450,NBL - NBL 2023/2024 - To Make Grand Final,Melbourne United,-0.011099999999999999,0.4651,0.4762
+2023-10-22 13:05:15.379645,Average Points Per Game - Average Points Per Game - LeBron James (LAL) - PPG,Over 27.5,-0.011099999999999999,0.4651,0.4762
 2023-10-22 05:03:49.396757,Championship - England Championship 2023/24 - To Be Relegated,Millwall,-0.011199999999999995,0.0476,0.0588
 2023-10-22 06:04:25.137497,League One - England - League One 2023/24 - Top 2 Finish,Wycombe,-0.011199999999999995,0.0476,0.0588
-2023-10-22 05:03:54.710803,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-22 06:04:30.136075,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-22 12:05:25.752960,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-22 09:04:47.574205,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-22 13:05:18.046415,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-22 11:04:03.411378,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-22 05:03:54.710803,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-22 10:04:24.974556,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-22 14:05:50.680326,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-22 15:06:46.778661,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-22 09:04:47.574205,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-22 16:05:17.544078,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-22 17:03:38.986235,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
+2023-10-22 13:05:18.046415,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-22 08:04:54.209854,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-22 07:04:07.629786,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-22 11:04:03.411378,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
-2023-10-22 10:04:24.974556,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-22 07:04:11.373411,Round Match-Ups - Final Round Match-Up - B. DeChambeau vs D. Johnson - Final Round Match-Up,Dustin Johnson,-0.0116,0.4762,0.4878
+2023-10-22 06:04:30.136075,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-22 16:05:15.838820,Euroleague - Euroleague 2023/24 - To Make Final Four,Crvena Zvezda,-0.011700000000000016,0.2105,0.2222
 2023-10-22 07:04:10.497890,MLB Daily Fantasy Specials - MLB DFS Hitter To Record 25+ Points - MLB DFS Hitter To Record 25+ Points,Marcus Semien (TEX),-0.011899999999999994,0.0714,0.0833
 2023-10-22 05:03:49.396757,Championship - England Championship 2023/24 - To Be Relegated,Cardiff City,-0.012299999999999991,0.1053,0.1176
@@ -222,65 +230,68 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-22 05:03:49.396757,Championship - England Championship 2023/24 - To Be Relegated,Watford,-0.016600000000000004,0.0667,0.0833
 2023-10-22 06:04:25.194000,League Two - England - League Two 2023/24 - Top Goalscorer,Davis Keillor-Dunn,-0.016600000000000004,0.0667,0.0833
 2023-10-22 07:04:11.259084,Round Match-Ups - Final Round Match-Up - D. Puig vs P. Perez - Final Round Match-Up,Pat Perez,-0.016699999999999993,0.4,0.4167
-2023-10-22 13:05:18.071289,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-22 17:03:39.008987,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-22 09:04:47.608952,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-22 16:05:15.838820,Euroleague - Euroleague 2023/24 - To Make Final Four,Maccabi Tel-Aviv,-0.017299999999999982,0.2857,0.303
 2023-10-22 05:03:54.734937,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-22 16:05:17.564458,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-22 16:05:15.838820,Euroleague - Euroleague 2023/24 - To Make Final Four,Maccabi Tel-Aviv,-0.017299999999999982,0.2857,0.303
-2023-10-22 15:06:46.818090,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-22 12:05:25.772754,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-22 07:04:07.665286,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-22 08:04:54.230849,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-22 06:04:30.165598,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-22 07:04:07.665286,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-22 14:05:50.699535,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-22 09:04:47.608952,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-22 10:04:24.994733,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-22 11:04:03.439917,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-22 12:05:25.772754,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-22 14:05:50.699535,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-22 15:06:46.818090,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-22 13:05:18.071289,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-22 16:05:15.846947,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Milano,-0.01739999999999997,0.75,0.7674
 2023-10-22 06:04:25.194000,League Two - England - League Two 2023/24 - Top Goalscorer,Matt Smith,-0.01759999999999999,0.1,0.1176
 2023-10-22 05:03:49.388852,Championship - England Championship 2023/24 - To Be Promoted,West Bromwich Albion,-0.0179,0.125,0.1429
 2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Lincoln City,-0.0179,0.125,0.1429
+2023-10-22 06:04:25.128904,League One - England - League One 2023/24 - To Be Promoted,Bristol Rovers,-0.018099999999999998,0.0588,0.0769
+2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Wigan Athletic,-0.018099999999999998,0.0588,0.0769
 2023-10-22 05:03:49.410598,Championship - England Championship 2023/24 - Top 2 Finish,Sunderland,-0.018099999999999998,0.0588,0.0769
 2023-10-22 05:03:49.410598,Championship - England Championship 2023/24 - Top 2 Finish,West Bromwich Albion,-0.018099999999999998,0.0588,0.0769
-2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Wigan Athletic,-0.018099999999999998,0.0588,0.0769
-2023-10-22 06:04:25.128904,League One - England - League One 2023/24 - To Be Promoted,Bristol Rovers,-0.018099999999999998,0.0588,0.0769
-2023-10-22 06:04:25.201883,League Two - England - League Two 2023/24 - To Be Promoted,Grimsby Town,-0.018200000000000004,0.0294,0.0476
 2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Cambridge United,-0.018200000000000004,0.0294,0.0476
+2023-10-22 06:04:25.201883,League Two - England - League Two 2023/24 - To Be Promoted,Grimsby Town,-0.018200000000000004,0.0294,0.0476
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Coventry City,-0.01820000000000002,0.1818,0.2
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,West Bromwich Albion,-0.018799999999999983,0.3448,0.3636
 2023-10-22 06:04:25.144871,League One - England - League One 2023/24 - Top 6 Finish,Bolton Wanderers,-0.018999999999999906,0.7143,0.7333
 2023-10-22 06:04:25.194000,League Two - England - League Two 2023/24 - Top Goalscorer,Jake Young,-0.019099999999999992,0.0476,0.0667
 2023-10-22 06:04:25.201883,League Two - England - League Two 2023/24 - To Be Promoted,Crawley Town,-0.019099999999999992,0.0476,0.0667
 2023-10-22 16:05:15.911450,NBL - NBL 2023/2024 - To Make Grand Final,Illawarra Hawks,-0.019499999999999997,0.0099,0.0294
-2023-10-22 16:05:19.049035,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),-0.01970000000000005,0.5455,0.5652
-2023-10-22 14:05:52.147586,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),-0.01970000000000005,0.5455,0.5652
-2023-10-22 08:04:56.460507,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),-0.01970000000000005,0.5455,0.5652
-2023-10-22 09:04:50.349224,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),-0.01970000000000005,0.5455,0.5652
-2023-10-22 10:04:26.554812,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),-0.01970000000000005,0.5455,0.5652
 2023-10-22 11:04:05.052763,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),-0.01970000000000005,0.5455,0.5652
-2023-10-22 12:05:26.943582,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),-0.01970000000000005,0.5455,0.5652
-2023-10-22 13:05:20.007323,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),-0.01970000000000005,0.5455,0.5652
-2023-10-22 07:04:10.478735,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),-0.01970000000000005,0.5455,0.5652
 2023-10-22 15:06:48.057372,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),-0.01970000000000005,0.5455,0.5652
-2023-10-22 05:03:49.396757,Championship - England Championship 2023/24 - To Be Relegated,Blackburn Rovers,-0.02020000000000001,0.0909,0.1111
-2023-10-22 16:05:15.901658,NBL - NBL 2023/2024 - Regular Season MVP,Bryce Cotton,-0.02020000000000001,0.0909,0.1111
+2023-10-22 12:05:26.943582,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),-0.01970000000000005,0.5455,0.5652
+2023-10-22 16:05:19.049035,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),-0.01970000000000005,0.5455,0.5652
+2023-10-22 17:03:40.335184,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),-0.01970000000000005,0.5455,0.5652
+2023-10-22 10:04:26.554812,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),-0.01970000000000005,0.5455,0.5652
+2023-10-22 13:05:20.007323,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),-0.01970000000000005,0.5455,0.5652
+2023-10-22 09:04:50.349224,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),-0.01970000000000005,0.5455,0.5652
+2023-10-22 08:04:56.460507,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),-0.01970000000000005,0.5455,0.5652
+2023-10-22 07:04:10.478735,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),-0.01970000000000005,0.5455,0.5652
+2023-10-22 14:05:52.147586,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Corey Seager (TEX),-0.01970000000000005,0.5455,0.5652
 2023-10-22 06:04:25.201883,League Two - England - League Two 2023/24 - To Be Promoted,Barrow FC,-0.02020000000000001,0.0909,0.1111
+2023-10-22 16:05:15.901658,NBL - NBL 2023/2024 - Regular Season MVP,Bryce Cotton,-0.02020000000000001,0.0909,0.1111
+2023-10-22 05:03:49.396757,Championship - England Championship 2023/24 - To Be Relegated,Blackburn Rovers,-0.02020000000000001,0.0909,0.1111
 2023-10-22 06:04:25.194000,League Two - England - League Two 2023/24 - Top Goalscorer,Dan Kemp,-0.0203,0.0385,0.0588
 2023-10-22 07:04:11.305014,Round Match-Ups - Final Round Match-Up - M. Pereira vs C. Howell III - Final Round Match-Up,Charles Howell III,-0.020699999999999996,0.4444,0.4651
 2023-10-22 06:04:25.209126,League Two - England - League Two 2023/24 - Top 3 Finish,Wrexham,-0.02079999999999993,0.5348,0.5556
-2023-10-22 15:06:47.986863,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),-0.02169999999999994,0.5238,0.5455
-2023-10-22 16:05:18.986061,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),-0.02169999999999994,0.5238,0.5455
-2023-10-22 10:04:26.485093,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),-0.02169999999999994,0.5238,0.5455
-2023-10-22 13:05:19.900808,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),-0.02169999999999994,0.5238,0.5455
-2023-10-22 09:04:50.222096,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),-0.02169999999999994,0.5238,0.5455
-2023-10-22 08:04:56.325839,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),-0.02169999999999994,0.5238,0.5455
-2023-10-22 12:05:26.882593,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),-0.02169999999999994,0.5238,0.5455
-2023-10-22 11:04:04.947275,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),-0.02169999999999994,0.5238,0.5455
 2023-10-22 14:05:52.084285,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),-0.02169999999999994,0.5238,0.5455
+2023-10-22 15:06:47.986863,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),-0.02169999999999994,0.5238,0.5455
+2023-10-22 08:04:56.325839,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),-0.02169999999999994,0.5238,0.5455
+2023-10-22 17:03:40.273429,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),-0.02169999999999994,0.5238,0.5455
+2023-10-22 09:04:50.222096,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),-0.02169999999999994,0.5238,0.5455
+2023-10-22 10:04:26.485093,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),-0.02169999999999994,0.5238,0.5455
+2023-10-22 16:05:18.986061,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),-0.02169999999999994,0.5238,0.5455
+2023-10-22 11:04:04.947275,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),-0.02169999999999994,0.5238,0.5455
+2023-10-22 13:05:19.900808,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),-0.02169999999999994,0.5238,0.5455
+2023-10-22 12:05:26.882593,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Jose Altuve (HOU),-0.02169999999999994,0.5238,0.5455
 2023-10-22 05:03:49.410598,Championship - England Championship 2023/24 - Top 2 Finish,Ipswich Town,-0.021699999999999997,0.4545,0.4762
 2023-10-22 06:04:25.137497,League One - England - League One 2023/24 - Top 2 Finish,Bolton Wanderers,-0.021999999999999964,0.2857,0.3077
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Hull City,-0.022199999999999998,0.2,0.2222
-2023-10-22 05:03:49.410598,Championship - England Championship 2023/24 - Top 2 Finish,Norwich City,-0.02310000000000001,0.0769,0.1
 2023-10-22 09:04:50.201956,MLB Daily Fantasy Specials - MLB DFS Best Performing Hitter TEX@HOU - Game 6 - MLB DFS Best Performing Hitter TEX@HOU - Game 6,Jose Abreu (HOU),-0.02310000000000001,0.0769,0.1
+2023-10-22 05:03:49.410598,Championship - England Championship 2023/24 - Top 2 Finish,Norwich City,-0.02310000000000001,0.0769,0.1
 2023-10-22 06:04:25.128904,League One - England - League One 2023/24 - To Be Promoted,Exeter City,-0.023200000000000002,0.0244,0.0476
 2023-10-22 07:04:11.280778,Round Match-Ups - Final Round Match-Up - H. Varner III vs S. Munoz - Final Round Match-Up,Sebastian Munoz,-0.023800000000000043,0.5,0.5238
 2023-10-22 07:04:10.497890,MLB Daily Fantasy Specials - MLB DFS Hitter To Record 25+ Points - MLB DFS Hitter To Record 25+ Points,Corey Seager (TEX),-0.0242,0.0667,0.0909
@@ -290,17 +301,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-22 05:03:49.388852,Championship - England Championship 2023/24 - To Be Promoted,Norwich City,-0.027999999999999997,0.1538,0.1818
 2023-10-22 09:04:50.201956,MLB Daily Fantasy Specials - MLB DFS Best Performing Hitter TEX@HOU - Game 6 - MLB DFS Best Performing Hitter TEX@HOU - Game 6,Chas McCormick (HOU),-0.02840000000000001,0.0769,0.1053
 2023-10-22 05:03:49.417983,Championship - England Championship 2023/24 - Top 6 Finish,Swansea City,-0.028799999999999992,0.125,0.1538
-2023-10-22 06:04:25.209126,League Two - England - League Two 2023/24 - Top 3 Finish,Mansfield Town,-0.030399999999999983,0.5348,0.5652
-2023-10-22 15:06:48.057372,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),-0.030399999999999983,0.5348,0.5652
-2023-10-22 07:04:10.478735,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),-0.030399999999999983,0.5348,0.5652
-2023-10-22 16:05:19.049035,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),-0.030399999999999983,0.5348,0.5652
 2023-10-22 09:04:50.349224,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),-0.030399999999999983,0.5348,0.5652
+2023-10-22 07:04:10.478735,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),-0.030399999999999983,0.5348,0.5652
+2023-10-22 08:04:56.460507,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),-0.030399999999999983,0.5348,0.5652
+2023-10-22 13:05:20.007323,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),-0.030399999999999983,0.5348,0.5652
 2023-10-22 10:04:26.554812,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),-0.030399999999999983,0.5348,0.5652
 2023-10-22 11:04:05.052763,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),-0.030399999999999983,0.5348,0.5652
 2023-10-22 12:05:26.943582,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),-0.030399999999999983,0.5348,0.5652
-2023-10-22 13:05:20.007323,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),-0.030399999999999983,0.5348,0.5652
+2023-10-22 06:04:25.209126,League Two - England - League Two 2023/24 - Top 3 Finish,Mansfield Town,-0.030399999999999983,0.5348,0.5652
 2023-10-22 14:05:52.147586,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),-0.030399999999999983,0.5348,0.5652
-2023-10-22 08:04:56.460507,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),-0.030399999999999983,0.5348,0.5652
+2023-10-22 15:06:48.057372,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),-0.030399999999999983,0.5348,0.5652
+2023-10-22 16:05:19.049035,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),-0.030399999999999983,0.5348,0.5652
+2023-10-22 17:03:40.335184,MLB Daily Fantasy Specials - MLB DFS Hitter Matchup TEX@HOU - Game 6 - MLB DFS Hitter Matchup TEX@HOU - Game 6,Adolis Garcia (TEX),-0.030399999999999983,0.5348,0.5652
 2023-10-22 06:04:25.216437,League Two - England - League Two 2023/24 - Top 7 Finish,Gillingham,-0.031799999999999995,0.4444,0.4762
 2023-10-22 06:04:25.209126,League Two - England - League Two 2023/24 - Top 3 Finish,Gillingham,-0.031799999999999995,0.1111,0.1429
 2023-10-22 09:04:50.201956,MLB Daily Fantasy Specials - MLB DFS Best Performing Hitter TEX@HOU - Game 6 - MLB DFS Best Performing Hitter TEX@HOU - Game 6,Martin Maldonado (HOU),-0.032900000000000006,0.0385,0.0714
