@@ -14,6 +14,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-25 00:05:00.730302,NBA Team Specials - NBA Team Specials - Miami Heat,"Butler 24+ PPG, MIA Heat to win 40+ games",0.03570000000000001,0.2857,0.25
 2023-10-25 00:05:00.730302,NBA Team Specials - NBA Team Specials - Miami Heat,"Adebayo 20+ PPG, MIA Heat to win 40+ games",0.0348,0.4348,0.4
 2023-10-25 00:05:00.669517,NBA Team Specials - NBA Team Specials - Detroit Pistons,Duren 10+ RPG. Cunningham 20+ PPG,0.031799999999999995,0.4762,0.4444
+2023-10-25 03:05:05.153291,Boxing Lines - Ryan Kelly vs River Wilson Bent - To Win the Bout,Ryan Kelly,0.031799999999999995,0.4762,0.4444
 2023-10-25 00:05:02.225801,Boxing Lines - Jordy Weiss vs Jon Miguez - To Win the Bout,Jordy Weiss,0.03090000000000004,0.6226,0.5917
 2023-10-25 02:03:44.181814,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Christian Walker (ARI),0.026499999999999996,0.0588,0.0323
 2023-10-25 00:05:00.978369,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Quin Snyder,0.0245,0.0833,0.0588
@@ -29,7 +30,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-25 02:03:44.181814,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Gabriel Moreno (ARIZ),0.019099999999999995,0.0435,0.0244
 2023-10-24 23:07:23.847983,UEFA Champions League - Group C - Winner,Napoli,0.0179,0.1429,0.125
 2023-10-24 15:06:57.027559,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
-2023-10-24 14:06:30.531376,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-24 16:08:05.103272,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,0.017299999999999982,0.5917,0.5744
 2023-10-24 16:08:02.792817,Victor Wembanyama Specials - 2023-24 Regular Season Specials - Wemby Specials,To score 50+ Points in any 2023-24 Regular Season Game,0.016799999999999995,0.0909,0.0741
 2023-10-25 00:05:00.978369,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Adrian Griffin,0.016700000000000007,0.1,0.0833
@@ -39,8 +39,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-25 01:04:05.149226,Western Conference - Western Conference 2023-24 - Western Conference Winner,Phoenix Suns,0.01469999999999999,0.25,0.2353
 2023-10-25 02:03:44.181814,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Marcus Semien (TEX),0.014099999999999994,0.0667,0.0526
 2023-10-24 22:08:27.772603,League One - England - League One 2023/24 - League Winner,Peterborough United,0.013899999999999996,0.125,0.1111
+2023-10-25 03:05:05.175668,Boxing Lines - Amanda Serrano vs Danila Ramos - To Win the Bout,Amanda Serrano,0.0131,0.9655,0.9524
 2023-10-25 02:03:44.181814,MLB Futures - MLB 2023 World Series Winner - World Series MVP,Corey Seager (TEX),0.012899999999999995,0.1667,0.1538
-2023-10-24 14:06:30.571995,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-24 15:06:57.068555,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-24 16:08:05.142617,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,0.0116,0.4878,0.4762
 2023-10-24 17:07:59.745485,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Chris Finch,0.011199999999999995,0.0588,0.0476
@@ -48,7 +48,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-24 22:08:27.550638,Championship - England Championship 2023/24 - League Winner,Leeds United,-0.010899999999999993,0.1429,0.1538
 2023-10-25 00:05:00.949348,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Malcolm Brogdon (POR),-0.011099999999999999,0.1,0.1111
 2023-10-24 22:08:27.122851,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Newcastle United,-0.011199999999999995,0.0476,0.0588
-2023-10-24 14:06:30.531376,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-24 16:08:05.103272,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-24 15:06:57.027559,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.0116,0.4762,0.4878
 2023-10-25 00:05:00.085462,Pacific Division - Pacific Division 2023-24 - Division Winner,Los Angeles Lakers,-0.011700000000000016,0.2105,0.2222
@@ -58,9 +57,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-24 22:08:27.550638,Championship - England Championship 2023/24 - League Winner,Norwich City,-0.0145,0.0099,0.0244
 2023-10-25 02:03:43.244603,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Kevin Durant (PHX),-0.014899999999999997,0.0476,0.0625
 2023-10-24 22:08:27.772603,League One - England - League One 2023/24 - League Winner,Oxford United,-0.016699999999999993,0.25,0.2667
-2023-10-24 16:08:05.142617,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
-2023-10-24 14:06:30.571995,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-25 03:05:05.175668,Boxing Lines - Amanda Serrano vs Danila Ramos - To Win the Bout,Danila Ramos,-0.016700000000000007,0.0833,0.1
 2023-10-24 15:06:57.068555,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
+2023-10-24 16:08:05.142617,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 37.5,-0.017299999999999982,0.5744,0.5917
 2023-10-25 00:05:00.989471,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Victor Wembanyama (SAS),-0.01759999999999999,0.1,0.1176
 2023-10-25 01:04:05.379517,West Group A - West Group A 2023 - Winner,Los Angeles Lakers,-0.017600000000000005,0.3333,0.3509
 2023-10-25 00:05:00.967013,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,De'Aaron Fox (SAC),-0.018099999999999998,0.0588,0.0769
@@ -68,8 +67,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-24 15:06:54.298087,A1 - Greece A1 2023/2024 - Outright,Panathinaikos,-0.023800000000000043,0.5,0.5238
 2023-10-25 00:05:00.085462,Pacific Division - Pacific Division 2023-24 - Division Winner,Golden State Warriors,-0.024800000000000016,0.2105,0.2353
 2023-10-25 00:05:01.004082,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Cade Cunningham (DET),-0.02850000000000001,0.0667,0.0952
-2023-10-24 23:07:23.835249,UEFA Champions League - Group B - Winner,PSV Eindhoven,-0.029299999999999993,0.0476,0.0769
 2023-10-25 00:05:01.004082,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Scottie Barnes (TOR),-0.029299999999999993,0.0476,0.0769
+2023-10-24 23:07:23.835249,UEFA Champions League - Group B - Winner,PSV Eindhoven,-0.029299999999999993,0.0476,0.0769
+2023-10-25 03:05:05.153291,Boxing Lines - Ryan Kelly vs River Wilson Bent - To Win the Bout,River Wilson Bent,-0.03090000000000004,0.5917,0.6226
 2023-10-25 00:05:02.225801,Boxing Lines - Jordy Weiss vs Jon Miguez - To Win the Bout,Jon Miguez,-0.031799999999999995,0.4444,0.4762
 2023-10-24 22:08:27.550638,Championship - England Championship 2023/24 - League Winner,Ipswich Town,-0.03259999999999999,0.2,0.2326
 2023-10-25 00:05:00.949348,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Chris Paul (GSW),-0.03330000000000001,0.0667,0.1
