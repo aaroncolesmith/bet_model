@@ -25,7 +25,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-26 00:06:39.103532,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,John Harbaugh,0.018099999999999998,0.0526,0.0345
 2023-10-26 01:05:39.495203,Boxing Lines - Michael Magnesi vs Nike Theran - To Win the Bout,Michael Magnesi,0.017900000000000027,0.875,0.8571
 2023-10-25 23:07:31.696597,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,0.0179,0.1429,0.125
-2023-10-25 14:11:31.708780,Boxing Lines - Joseph Parker vs Simon Kean - To Win the Bout,Joseph Parker,0.01760000000000006,0.9,0.8824
 2023-10-26 00:06:39.147565,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Jalen Hurts,0.015700000000000006,0.1333,0.1176
 2023-10-26 00:06:39.103532,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Arthur Smith,0.0157,0.0435,0.0278
 2023-10-25 23:07:31.685696,Central Division - Central Division 2023-24 - Division Winner,Cleveland Cavaliers,0.015400000000000025,0.2857,0.2703
@@ -41,20 +40,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-26 00:06:39.103532,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Todd Bowles,-0.010100000000000001,0.0244,0.0345
 2023-10-25 23:07:31.707432,Pacific Division - Pacific Division 2023-24 - Division Winner,Los Angeles Lakers,-0.010499999999999982,0.2,0.2105
 2023-10-25 23:07:31.707432,Pacific Division - Pacific Division 2023-24 - Division Winner,Golden State Warriors,-0.010499999999999982,0.2,0.2105
-2023-10-26 01:05:38.626041,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Cameron Payne (PHX),-0.0118,0.0099,0.0217
 2023-10-26 01:05:38.626041,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Marcus Smart (MEM),-0.0118,0.0099,0.0217
+2023-10-26 01:05:38.626041,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Cameron Payne (PHX),-0.0118,0.0099,0.0217
 2023-10-26 00:06:39.489142,Boxing Lines - Justis Huni vs Andrew Tabiti - To Win the Bout,Andrew Tabiti,-0.0121,0.1212,0.1333
-2023-10-26 01:05:38.626041,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Robert Williams (BOS),-0.012100000000000001,0.0123,0.0244
 2023-10-26 01:05:38.626041,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Onyeka Okongwu (ATL),-0.012100000000000001,0.0123,0.0244
 2023-10-26 01:05:38.626041,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Jarrett Allen (CLE),-0.012100000000000001,0.0123,0.0244
-2023-10-25 14:11:31.503893,Boxing Lines - Ryan Kelly vs River Wilson Bent - To Win the Bout,Ryan Kelly,-0.012199999999999989,0.4878,0.5
+2023-10-26 01:05:38.626041,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Robert Williams (BOS),-0.012100000000000001,0.0123,0.0244
 2023-10-26 02:04:16.519372,Boxing Lines - Joseph Parker vs Simon Kean - To Win the Bout,Simon Kean,-0.012899999999999995,0.1538,0.1667
 2023-10-26 00:06:38.340283,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Bobby Portis (MIL),-0.014099999999999994,0.0526,0.0667
 2023-10-26 00:06:39.147565,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Joe Burrow,-0.014099999999999998,0.0244,0.0385
 2023-10-26 00:06:39.132288,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Fred Warner,-0.014899999999999997,0.0476,0.0625
-2023-10-25 14:11:31.708780,Boxing Lines - Joseph Parker vs Simon Kean - To Win the Bout,Simon Kean,-0.015100000000000002,0.1667,0.1818
-2023-10-26 00:06:38.357876,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Michael Malone,-0.015300000000000001,0.0435,0.0588
 2023-10-26 00:06:39.132288,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Nick Bosa,-0.015300000000000001,0.0435,0.0588
+2023-10-26 00:06:38.357876,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Michael Malone,-0.015300000000000001,0.0435,0.0588
 2023-10-25 23:07:31.732173,Southwest Division - Southwest Division 2023-24 - Division Winner,Memphis Grizzlies,-0.015400000000000025,0.3846,0.4
 2023-10-26 00:06:38.349251,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Kevin Durant (PHX),-0.0157,0.0278,0.0435
 2023-10-26 00:06:39.103532,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Shane Steichen,-0.0157,0.0278,0.0435
