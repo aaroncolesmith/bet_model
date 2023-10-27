@@ -11,6 +11,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-26 18:05:57.433931,NBL - NBL 2023/2024 - To Make Top 6,Adelaide 36ers,0.0635,0.1111,0.0476
 2023-10-26 17:06:04.762454,NBL - NBL 2023/2024 - To Make Top 4,Adelaide 36ers,0.052399999999999995,0.0909,0.0385
 2023-10-26 23:08:38.299636,AFC East - AFC East 2023/24 - AFC East Winner 23/24,Buffalo Bills,0.05020000000000002,0.4348,0.3846
+2023-10-27 00:07:49.129865,Boxing Lines - Raymond Muratalla vs Diego Torres Nuñez - To Win the Bout,Diego Torres Nuñez,0.04550000000000001,0.2273,0.1818
+2023-10-26 23:08:38.445146,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,A.J. Brown,0.0429,0.0625,0.0196
 2023-10-26 23:08:36.871231,Atlantic Division - Atlantic Division 2023-24 - Division Winner,Boston Celtics,0.041000000000000036,0.7778,0.7368
 2023-10-26 17:06:04.752521,NBL - NBL 2023/2024 - To Make Grand Final,Tasmania JackJumpers,0.04099999999999998,0.3077,0.2667
 2023-10-26 17:06:04.752521,NBL - NBL 2023/2024 - To Make Grand Final,Adelaide 36ers,0.037700000000000004,0.0476,0.0099
@@ -18,10 +20,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-26 17:06:04.752521,NBL - NBL 2023/2024 - To Make Grand Final,Illawarra Hawks,0.0336,0.0435,0.0099
 2023-10-26 23:08:36.904797,Pacific Division - Pacific Division 2023-24 - Division Winner,Phoenix Suns,0.031799999999999995,0.4762,0.4444
 2023-10-26 17:06:04.762454,NBL - NBL 2023/2024 - To Make Top 4,Illawarra Hawks,0.028199999999999996,0.0667,0.0385
-2023-10-26 12:07:08.223757,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Cam Thomas (BKN),0.022099999999999998,0.0385,0.0164
 2023-10-26 13:02:14.274272,NBL - NBL 2023/2024 - Outright,Melbourne United,0.020799999999999985,0.3333,0.3125
-2023-10-26 12:07:08.146034,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Cam Thomas (BKN),0.019000000000000003,0.0625,0.0435
-2023-10-26 12:07:10.169176,Boxing Lines - Eduardo Nunez vs Oscar Escandon - To Win the Bout,Eduardo Nunez,0.01660000000000006,0.9333,0.9167
 2023-10-26 23:08:38.596354,NFL Weekly Specials - NFL Week 8 Leaders - Most Passing Yards [Sunday Only],Jalen Hurts,0.016600000000000004,0.0833,0.0667
 2023-10-26 17:06:04.752521,NBL - NBL 2023/2024 - To Make Grand Final,Brisbane Bullets,0.015300000000000001,0.0476,0.0323
 2023-10-26 23:08:38.566764,NFL Weekly Specials - NFL Week 8 Leaders - Highest Scoring Team [Sunday Only],PHI Eagles,0.01440000000000001,0.1053,0.0909
@@ -36,7 +35,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-26 13:02:14.274272,NBL - NBL 2023/2024 - Outright,SE Melbourne Phoenix,-0.010899999999999993,0.1429,0.1538
 2023-10-26 23:08:36.827753,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Division,Southeast Division,-0.012299999999999991,0.1053,0.1176
 2023-10-26 23:08:38.213397,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Detroit Lions,-0.012600000000000007,0.0588,0.0714
-2023-10-26 12:07:10.169176,Boxing Lines - Eduardo Nunez vs Oscar Escandon - To Win the Bout,Oscar Escandon,-0.012899999999999995,0.125,0.1379
 2023-10-26 13:02:14.298061,B League - Japan B League 1 2023/2024 - Outright,Ryukyu Golden Kings,-0.012899999999999995,0.1538,0.1667
 2023-10-26 16:07:31.308526,Boxing Lines - Eduardo Nunez vs Oscar Escandon - To Win the Bout,Oscar Escandon,-0.013899999999999996,0.1111,0.125
 2023-10-26 23:08:36.859394,Western Conference - Western Conference 2023-24 - Western Conference Winner,Memphis Grizzlies,-0.014399999999999996,0.0625,0.0769
@@ -52,6 +50,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-26 17:06:04.762454,NBL - NBL 2023/2024 - To Make Top 4,Tasmania JackJumpers,-0.027800000000000047,0.75,0.7778
 2023-10-26 23:08:38.445146,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Stefon Diggs,-0.028000000000000004,0.0196,0.0476
 2023-10-26 18:05:57.433931,NBL - NBL 2023/2024 - To Make Top 6,New Zealand Breakers,-0.02839999999999998,0.9091,0.9375
+2023-10-27 00:07:49.129865,Boxing Lines - Raymond Muratalla vs Diego Torres Nuñez - To Win the Bout,Raymond Muratalla,-0.042099999999999915,0.8403,0.8824
 2023-10-26 17:06:04.762454,NBL - NBL 2023/2024 - To Make Top 4,Melboune United,-0.043300000000000005,0.9091,0.9524
 2023-10-26 17:06:04.771560,NBL - NBL 2023/2024 - To Make Top 6,Cairns Taipans,-0.045499999999999985,0.5,0.5455
 2023-10-26 17:06:04.762454,NBL - NBL 2023/2024 - To Make Top 4,Sydney Kings,-0.0625,0.875,0.9375
