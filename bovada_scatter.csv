@@ -1,19 +1,29 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2023-10-27 03:04:09.673149,UEFA Champions League - Group C - To Advance From Group,Napoli,0.2168,0.9091,0.6923
 2023-10-26 23:08:38.445146,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Christian McCaffrey,0.1491,0.5,0.3509
 2023-10-27 02:06:28.655802,Maybank Championship - Maybank Championship - Winner,Celine Boutier,0.14709999999999998,0.1667,0.0196
-2023-10-26 17:06:04.752521,NBL - NBL 2023/2024 - To Make Grand Final,Sydney Kings,0.09999999999999998,0.5,0.4
+2023-10-27 03:04:09.665909,UEFA Champions League - Group C - Not To Advance From Group,Braga,0.14529999999999998,0.9231,0.7778
+2023-10-27 03:04:09.615224,UEFA Champions League - Group A - To Advance From Group,Manchester United,0.10109999999999997,0.5556,0.4545
 2023-10-26 23:08:38.445146,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Tyreek Hill,0.09999999999999998,0.5,0.4
+2023-10-26 17:06:04.752521,NBL - NBL 2023/2024 - To Make Grand Final,Sydney Kings,0.09999999999999998,0.5,0.4
 2023-10-26 17:06:04.752521,NBL - NBL 2023/2024 - To Make Grand Final,Melbourne United,0.09049999999999997,0.5556,0.4651
 2023-10-26 17:06:04.752521,NBL - NBL 2023/2024 - To Make Grand Final,Perth Wildcats,0.0898,0.1333,0.0435
+2023-10-27 03:04:09.642174,UEFA Champions League - Group B - Not To Advance From Group,Sevilla,0.08330000000000004,0.75,0.6667
+2023-10-27 03:04:09.649092,UEFA Champions League - Group B - To Advance From Group,Arsenal FC,0.07740000000000002,0.9524,0.875
 2023-10-26 23:08:38.382503,NFC South - NFC South 2023/24 - NFC South Winner,Atlanta Falcons,0.07740000000000002,0.5652,0.4878
 2023-10-27 02:06:28.655802,Maybank Championship - Maybank Championship - Winner,Rose Zhang,0.07579999999999999,0.1667,0.0909
+2023-10-27 03:04:09.598634,UEFA Champions League - Group A - Not To Advance From Group,Galatasaray,0.07440000000000002,0.5744,0.5
 2023-10-26 18:05:57.433931,NBL - NBL 2023/2024 - To Make Top 6,Illawarra Hawks,0.0635,0.1111,0.0476
 2023-10-26 18:05:57.433931,NBL - NBL 2023/2024 - To Make Top 6,Adelaide 36ers,0.0635,0.1111,0.0476
+2023-10-27 03:04:09.665909,UEFA Champions League - Group C - Not To Advance From Group,Union Berlin,0.061799999999999966,0.9709,0.9091
+2023-10-27 03:04:11.258717,Euroleague - Euroleague 2023/24 - To Make Final Four,AS Monaco,0.05980000000000002,0.4444,0.3846
 2023-10-27 02:06:28.655802,Maybank Championship - Maybank Championship - Winner,A Lim Kim,0.0544,0.0667,0.0123
 2023-10-26 17:06:04.762454,NBL - NBL 2023/2024 - To Make Top 4,Adelaide 36ers,0.052399999999999995,0.0909,0.0385
 2023-10-26 23:08:38.299636,AFC East - AFC East 2023/24 - AFC East Winner 23/24,Buffalo Bills,0.05020000000000002,0.4348,0.3846
 2023-10-27 00:07:49.129865,Boxing Lines - Raymond Muratalla vs Diego Torres Nuñez - To Win the Bout,Diego Torres Nuñez,0.04550000000000001,0.2273,0.1818
 2023-10-27 02:06:28.655802,Maybank Championship - Maybank Championship - Winner,Jasmine Suwannapura,0.04440000000000001,0.1111,0.0667
+2023-10-27 03:04:11.258717,Euroleague - Euroleague 2023/24 - To Make Final Four,Fenerbahce,0.044399999999999995,0.4444,0.4
+2023-10-27 03:04:11.258717,Euroleague - Euroleague 2023/24 - To Make Final Four,Olympiakos,0.044399999999999995,0.4444,0.4
 2023-10-26 23:08:38.445146,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,A.J. Brown,0.0429,0.0625,0.0196
 2023-10-27 02:06:28.655802,Maybank Championship - Maybank Championship - Winner,Brooke Henderson,0.04229999999999999,0.0667,0.0244
 2023-10-26 23:08:36.871231,Atlantic Division - Atlantic Division 2023-24 - Division Winner,Boston Celtics,0.041000000000000036,0.7778,0.7368
@@ -23,12 +33,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-26 17:06:04.752521,NBL - NBL 2023/2024 - To Make Grand Final,SE Melbourne Phoenix,0.03570000000000001,0.2857,0.25
 2023-10-26 17:06:04.752521,NBL - NBL 2023/2024 - To Make Grand Final,Illawarra Hawks,0.0336,0.0435,0.0099
 2023-10-26 23:08:36.904797,Pacific Division - Pacific Division 2023-24 - Division Winner,Phoenix Suns,0.031799999999999995,0.4762,0.4444
+2023-10-27 03:04:11.258717,Euroleague - Euroleague 2023/24 - To Make Final Four,Real Madrid BC,0.029299999999999993,0.7436,0.7143
 2023-10-26 17:06:04.762454,NBL - NBL 2023/2024 - To Make Top 4,Illawarra Hawks,0.028199999999999996,0.0667,0.0385
 2023-10-27 02:06:28.655802,Maybank Championship - Maybank Championship - Winner,Sei Young Kim,0.0262,0.0385,0.0123
+2023-10-27 03:04:11.270242,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Olympiakos,0.023799999999999932,0.8571,0.8333
+2023-10-27 03:04:11.270242,Euroleague - Euroleague 2023/24 - To Make the Playoffs,AS Monaco,0.023799999999999932,0.8571,0.8333
 2023-10-27 02:06:28.655802,Maybank Championship - Maybank Championship - Winner,Peiyun Chien,0.019800000000000005,0.0476,0.0278
+2023-10-27 03:04:09.633563,UEFA Champions League - Group B - Winner,Arsenal FC,0.018199999999999994,0.8182,0.8
+2023-10-27 03:04:11.249474,Euroleague - Euroleague 2023/24 - Regular Season League Winner,AS Monaco,0.016700000000000007,0.1,0.0833
 2023-10-26 23:08:38.596354,NFL Weekly Specials - NFL Week 8 Leaders - Most Passing Yards [Sunday Only],Jalen Hurts,0.016600000000000004,0.0833,0.0667
 2023-10-26 17:06:04.752521,NBL - NBL 2023/2024 - To Make Grand Final,Brisbane Bullets,0.015300000000000001,0.0476,0.0323
 2023-10-26 23:08:38.566764,NFL Weekly Specials - NFL Week 8 Leaders - Highest Scoring Team [Sunday Only],PHI Eagles,0.01440000000000001,0.1053,0.0909
+2023-10-27 03:04:09.598634,UEFA Champions League - Group A - Not To Advance From Group,FC Copenhagen,0.014100000000000001,0.9756,0.9615
 2023-10-26 23:08:38.586338,NFL Weekly Specials - NFL Week 8 Leaders - Lowest Scoring Team [Sunday Only],WAS Commanders,0.013999999999999999,0.0909,0.0769
 2023-10-27 02:06:28.655802,Maybank Championship - Maybank Championship - Winner,Chanettee Wannasaen,0.012799999999999999,0.0141,0.0013
 2023-10-26 17:06:06.303353,Boxing Lines - Damian Lescaille vs Ray Barlow - To Win the Bout,Ray Barlow,0.012600000000000007,0.0714,0.0588
@@ -38,18 +54,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-26 23:08:38.382503,NFC South - NFC South 2023/24 - NFC South Winner,New Orleans Saints,0.010699999999999987,0.3333,0.3226
 2023-10-26 23:08:38.445146,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Patrick Mahomes,0.010600000000000002,0.0323,0.0217
 2023-10-26 23:08:38.213397,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Buffalo Bills,0.0102,0.0769,0.0667
+2023-10-27 03:04:11.249474,Euroleague - Euroleague 2023/24 - Regular Season League Winner,Real Madrid BC,0.010099999999999998,0.4545,0.4444
 2023-10-27 02:06:26.025082,Euroleague - Euroleague 2023/24 - Outright,Maccabi Tel-Aviv,-0.011199999999999995,0.0476,0.0588
 2023-10-27 02:06:28.655802,Maybank Championship - Maybank Championship - Winner,Jenny Shin,-0.0119,0.0004,0.0123
+2023-10-27 03:04:11.270242,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Partizan,-0.012199999999999989,0.4878,0.5
 2023-10-26 23:08:36.827753,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Division,Southeast Division,-0.012299999999999991,0.1053,0.1176
 2023-10-26 23:08:38.213397,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Detroit Lions,-0.012600000000000007,0.0588,0.0714
 2023-10-26 16:07:31.308526,Boxing Lines - Eduardo Nunez vs Oscar Escandon - To Win the Bout,Oscar Escandon,-0.013899999999999996,0.1111,0.125
 2023-10-27 02:06:28.655802,Maybank Championship - Maybank Championship - Winner,Megan Khang,-0.014100000000000001,0.0385,0.0526
+2023-10-27 03:04:09.665909,UEFA Champions League - Group C - Not To Advance From Group,Real Madrid,-0.014100000000000001,0.0385,0.0526
+2023-10-27 03:04:09.598634,UEFA Champions League - Group A - Not To Advance From Group,Bayern Munich,-0.014100000000000001,0.0385,0.0526
 2023-10-26 23:08:36.859394,Western Conference - Western Conference 2023-24 - Western Conference Winner,Memphis Grizzlies,-0.014399999999999996,0.0625,0.0769
 2023-10-26 23:08:38.445146,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Travis Kelce,-0.0157,0.0278,0.0435
 2023-10-26 23:08:38.566764,NFL Weekly Specials - NFL Week 8 Leaders - Highest Scoring Team [Sunday Only],LA Chargers,-0.015700000000000006,0.1176,0.1333
 2023-10-26 17:06:04.762454,NBL - NBL 2023/2024 - To Make Top 4,Cairns Taipans,-0.016699999999999993,0.25,0.2667
 2023-10-27 02:06:28.655802,Maybank Championship - Maybank Championship - Winner,Hye Jin Choi,-0.0168,0.0217,0.0385
+2023-10-27 03:04:09.615224,UEFA Champions League - Group A - To Advance From Group,FC Copenhagen,-0.018099999999999998,0.0588,0.0769
 2023-10-27 02:06:28.655802,Maybank Championship - Maybank Championship - Winner,Patty Tavatanakit,-0.0186,0.001,0.0196
+2023-10-27 03:04:11.270242,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Maccabi Tel-Aviv,-0.01880000000000004,0.5556,0.5744
 2023-10-27 02:06:28.655802,Maybank Championship - Maybank Championship - Winner,Xiyu Lin,-0.0189,0.0196,0.0385
 2023-10-27 02:06:28.655802,Maybank Championship - Maybank Championship - Winner,Jin Young Ko,-0.0189,0.0196,0.0385
 2023-10-27 02:06:28.655802,Maybank Championship - Maybank Championship - Winner,Aditi Ashok,-0.0192,0.0004,0.0196
@@ -59,20 +81,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-26 23:08:38.299636,AFC East - AFC East 2023/24 - AFC East Winner 23/24,Miami Dolphins,-0.024499999999999966,0.5833,0.6078
 2023-10-27 02:06:28.655802,Maybank Championship - Maybank Championship - Winner,Hae Ran Ryu,-0.027299999999999998,0.0005,0.0278
 2023-10-26 17:06:04.762454,NBL - NBL 2023/2024 - To Make Top 4,Tasmania JackJumpers,-0.027800000000000047,0.75,0.7778
-2023-10-26 23:08:38.445146,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Stefon Diggs,-0.028000000000000004,0.0196,0.0476
 2023-10-27 02:06:28.655802,Maybank Championship - Maybank Championship - Winner,Gaby Lopez,-0.028000000000000004,0.0196,0.0476
+2023-10-26 23:08:38.445146,Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Stefon Diggs,-0.028000000000000004,0.0196,0.0476
 2023-10-26 18:05:57.433931,NBL - NBL 2023/2024 - To Make Top 6,New Zealand Breakers,-0.02839999999999998,0.9091,0.9375
 2023-10-27 02:06:28.655802,Maybank Championship - Maybank Championship - Winner,Allisen Corpuz,-0.031000000000000003,0.0013,0.0323
+2023-10-27 03:04:11.249474,Euroleague - Euroleague 2023/24 - Regular Season League Winner,Barcelona,-0.033399999999999985,0.1333,0.1667
+2023-10-27 03:04:11.258717,Euroleague - Euroleague 2023/24 - To Make Final Four,Panathinaikos,-0.03739999999999999,0.2703,0.3077
 2023-10-27 02:06:28.655802,Maybank Championship - Maybank Championship - Winner,Grace Kim,-0.0392,0.0196,0.0588
 2023-10-27 02:06:28.655802,Maybank Championship - Maybank Championship - Winner,Yuka Saso,-0.041,0.0066,0.0476
+2023-10-27 03:04:11.270242,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Crvena Zvezda,-0.04139999999999999,0.4348,0.4762
 2023-10-27 00:07:49.129865,Boxing Lines - Raymond Muratalla vs Diego Torres Nuñez - To Win the Bout,Raymond Muratalla,-0.042099999999999915,0.8403,0.8824
 2023-10-26 17:06:04.762454,NBL - NBL 2023/2024 - To Make Top 4,Melboune United,-0.043300000000000005,0.9091,0.9524
 2023-10-26 17:06:04.771560,NBL - NBL 2023/2024 - To Make Top 6,Cairns Taipans,-0.045499999999999985,0.5,0.5455
 2023-10-27 02:06:28.655802,Maybank Championship - Maybank Championship - Winner,Ayaka Furue,-0.047099999999999996,0.0196,0.0667
+2023-10-27 03:04:11.270242,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Anadolu Efes,-0.05520000000000003,0.5744,0.6296
+2023-10-27 03:04:11.258717,Euroleague - Euroleague 2023/24 - To Make Final Four,Anadolu Efes,-0.057699999999999974,0.25,0.3077
+2023-10-27 03:04:11.270242,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Panathinaikos,-0.05889999999999995,0.6078,0.6667
 2023-10-26 17:06:04.762454,NBL - NBL 2023/2024 - To Make Top 4,Sydney Kings,-0.0625,0.875,0.9375
+2023-10-27 03:04:11.258717,Euroleague - Euroleague 2023/24 - To Make Final Four,Milano,-0.063,0.2703,0.3333
 2023-10-26 17:06:04.762454,NBL - NBL 2023/2024 - To Make Top 4,SE Melboune Phoenix,-0.0635,0.7143,0.7778
+2023-10-27 03:04:11.258717,Euroleague - Euroleague 2023/24 - To Make Final Four,Maccabi Tel-Aviv,-0.07239999999999996,0.2353,0.3077
 2023-10-26 23:08:36.835808,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning State,Florida,-0.0741,0.0435,0.1176
+2023-10-27 03:04:09.673149,UEFA Champions League - Group C - To Advance From Group,Union Berlin,-0.0762,0.0667,0.1429
 2023-10-27 02:06:28.655802,Maybank Championship - Maybank Championship - Winner,Atthaya Thitikul,-0.0762,0.0667,0.1429
 2023-10-27 02:06:28.655802,Maybank Championship - Maybank Championship - Winner,Linn Grant,-0.0769,0.0769,0.1538
+2023-10-27 03:04:11.270242,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Milano,-0.07690000000000008,0.6154,0.6923
+2023-10-27 03:04:09.615224,UEFA Champions League - Group A - To Advance From Group,Galatasaray,-0.08330000000000004,0.5,0.5833
 2023-10-26 23:08:38.382503,NFC South - NFC South 2023/24 - NFC South Winner,Tampa Bay Buccaneers,-0.0857,0.2,0.2857
+2023-10-27 03:04:09.642174,UEFA Champions League - Group B - Not To Advance From Group,Arsenal FC,-0.0909,0.0909,0.1818
+2023-10-27 03:04:09.598634,UEFA Champions League - Group A - Not To Advance From Group,Manchester United,-0.0915999999999999,0.5238,0.6154
+2023-10-27 03:04:09.649092,UEFA Champions League - Group B - To Advance From Group,Sevilla,-0.09230000000000005,0.3077,0.4
+2023-10-27 03:04:09.673149,UEFA Champions League - Group C - To Advance From Group,Braga,-0.1607,0.125,0.2857
 2023-10-26 17:06:04.762454,NBL - NBL 2023/2024 - To Make Top 4,New Zealand Breakers,-0.16669999999999996,0.5,0.6667
+2023-10-27 03:04:09.665909,UEFA Champions League - Group C - Not To Advance From Group,Napoli,-0.2417,0.1429,0.3846
