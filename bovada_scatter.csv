@@ -6,7 +6,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-27 16:08:21.665180,NBL - NBL 2023/2024 - Most Losses,Perth Wildcats,0.0524,0.1,0.0476
 2023-10-27 17:05:59.240277,NBL - NBL 2023/2024 - To Make Top 4,Brisbane Bullets,0.04849999999999999,0.1818,0.1333
 2023-10-27 17:05:58.317124,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Tottenham Hotspur,0.04760000000000003,0.5238,0.4762
-2023-10-27 10:06:25.206925,Boxing Lines - Michael Magnesi vs Nike Theran - To Win the Bout,Nike Theran,0.04620000000000002,0.2,0.1538
 2023-10-27 16:08:20.127316,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Heung-Min Son,0.03420000000000001,0.1111,0.0769
 2023-10-27 17:05:59.240277,NBL - NBL 2023/2024 - To Make Top 4,Melboune United,0.03210000000000002,0.9412,0.9091
 2023-10-27 17:05:59.255117,NBL - NBL 2023/2024 - To Make Top 6,Illawarra Hawks,0.031799999999999995,0.1429,0.1111
@@ -14,34 +13,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-27 11:08:15.449179,Boxing Lines - Simon Zachenhuber vs Emre Cukur - To Win the Bout,Simon Zachenhuber,0.029400000000000093,0.8333,0.8039
 2023-10-27 16:08:21.720441,NBL - NBL 2023/2024 - To Make Grand Final,Brisbane Bullets,0.029299999999999993,0.0769,0.0476
 2023-10-27 17:05:57.550378,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayern Munich,0.027800000000000047,0.7778,0.75
+2023-10-27 23:06:07.666753,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Lyngby BK,0.024999999999999994,0.125,0.1
 2023-10-27 16:08:21.704282,NBL - NBL 2023/2024 - Regular Season MVP,Patrick Miller (CTA),0.023200000000000002,0.0476,0.0244
 2023-10-27 11:08:14.448514,NFL Requested Specials - 2024 NFL Draft - 1st Overall Pick - Number 1 Pick,Drake Maye,0.022199999999999998,0.2222,0.2
 2023-10-27 19:03:46.318531,Boxing Lines - Jordy Weiss vs Jon Miguez - To Win the Bout,Jordy Weiss,0.021199999999999997,0.6212,0.6
 2023-10-27 16:08:21.704282,NBL - NBL 2023/2024 - Regular Season MVP,Luke Travers,0.0203,0.0588,0.0385
 2023-10-27 16:08:20.111884,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Tottenham Hotspur,0.02020000000000001,0.1111,0.0909
+2023-10-27 23:06:09.768826,Boxing Lines - O'Shaquie Foster vs Eduardo Hernandez - To Win the Bout,Eduardo Hernandez,0.019699999999999995,0.4545,0.4348
 2023-10-27 16:08:21.688050,NBL - NBL 2023/2024 - Outright,Brisbane Bullets,0.0189,0.0385,0.0196
 2023-10-27 16:08:21.720441,NBL - NBL 2023/2024 - To Make Grand Final,Melbourne United,0.01880000000000004,0.5744,0.5556
 2023-10-27 16:08:21.665180,NBL - NBL 2023/2024 - Most Losses,Cairns Taipans,0.0179,0.1429,0.125
 2023-10-27 19:03:46.284302,Boxing Lines - Eduardo Nunez vs Oscar Escandon - To Win the Bout,Oscar Escandon,0.0169,0.125,0.1081
+2023-10-27 23:06:07.673714,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,FC Midtjylland,0.014900000000000024,0.9524,0.9375
 2023-10-27 16:08:24.143067,Boxing Lines - Amanda Serrano vs Danila Ramos - To Win the Bout,Amanda Serrano,0.01429999999999998,0.9852,0.9709
 2023-10-27 20:02:40.154492,Boxing Lines - Eduardo Nunez vs Oscar Escandon - To Win the Bout,Eduardo Nunez,0.014100000000000001,0.9474,0.9333
 2023-10-27 13:08:55.595663,Boxing Lines - Nina Meinke vs Laura Ledezma - To Win the Bout,Nina Meinke,0.012899999999999912,0.8462,0.8333
-2023-10-27 10:06:25.227533,Boxing Lines - Ryan Kelly vs River Wilson Bent - To Win the Bout,Ryan Kelly,0.011600000000000055,0.5238,0.5122
 2023-10-27 13:08:55.378853,Boxing Lines - Damazion Vanhouter vs Nafys Anas - To Win the Bout,Damazion Vanhouter,0.011199999999999988,0.9524,0.9412
-2023-10-27 15:03:54.661571,Boxing Lines - Damazion Vanhouter vs Nafys Anas - To Win the Bout,Nafys Anas,0.011099999999999999,0.1111,0.1
 2023-10-27 16:08:24.383070,Boxing Lines - O'Shaquie Foster vs Eduardo Hernandez - To Win the Bout,Eduardo Hernandez,0.011099999999999999,0.4348,0.4237
+2023-10-27 15:03:54.661571,Boxing Lines - Damazion Vanhouter vs Nafys Anas - To Win the Bout,Nafys Anas,0.011099999999999999,0.1111,0.1
 2023-10-27 19:03:46.295819,Boxing Lines - Justis Huni vs Andrew Tabiti - To Win the Bout,Andrew Tabiti,0.010700000000000001,0.125,0.1143
 2023-10-27 15:03:53.291173,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Florida,0.010300000000000002,0.0244,0.0141
 2023-10-27 17:05:57.603257,Ligue 1 - France Ligue 1 2023/24 - Winner,Nice,0.0102,0.0769,0.0667
-2023-10-27 10:06:25.227533,Boxing Lines - Ryan Kelly vs River Wilson Bent - To Win the Bout,River Wilson Bent,-0.010099999999999998,0.5455,0.5556
 2023-10-27 12:09:09.545823,Boxing Lines - Martin Bakole vs Carlos Takam - To Win the Bout,Martin Bakole,-0.011099999999999999,0.8889,0.9
 2023-10-27 16:08:21.704282,NBL - NBL 2023/2024 - Regular Season MVP,Jaylen Adams,-0.012899999999999995,0.1538,0.1667
-2023-10-27 10:06:25.419655,Boxing Lines - Joseph Parker vs Simon Kean - To Win the Bout,Simon Kean,-0.012899999999999995,0.1538,0.1667
 2023-10-27 13:08:55.595663,Boxing Lines - Nina Meinke vs Laura Ledezma - To Win the Bout,Laura Ledezma,-0.0131,0.2222,0.2353
 2023-10-27 20:02:40.154492,Boxing Lines - Eduardo Nunez vs Oscar Escandon - To Win the Bout,Oscar Escandon,-0.013899999999999996,0.1111,0.125
 2023-10-27 17:05:59.255117,NBL - NBL 2023/2024 - To Make Top 6,Tasmania JackJumpers,-0.013900000000000023,0.875,0.8889
 2023-10-27 19:03:46.284302,Boxing Lines - Eduardo Nunez vs Oscar Escandon - To Win the Bout,Eduardo Nunez,-0.014100000000000001,0.9333,0.9474
 2023-10-27 16:08:24.143067,Boxing Lines - Amanda Serrano vs Danila Ramos - To Win the Bout,Danila Ramos,-0.014399999999999996,0.0625,0.0769
+2023-10-27 23:06:09.768826,Boxing Lines - O'Shaquie Foster vs Eduardo Hernandez - To Win the Bout,O'Shaquie Foster,-0.014800000000000035,0.6078,0.6226
 2023-10-27 16:08:20.111884,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Arsenal,-0.015100000000000002,0.1667,0.1818
 2023-10-27 17:05:57.603257,Ligue 1 - France Ligue 1 2023/24 - Winner,Paris Saint-Germain,-0.015100000000000002,0.8182,0.8333
 2023-10-27 13:08:55.378853,Boxing Lines - Damazion Vanhouter vs Nafys Anas - To Win the Bout,Nafys Anas,-0.01759999999999999,0.1,0.1176
@@ -54,6 +54,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-27 17:05:59.240277,NBL - NBL 2023/2024 - To Make Top 4,New Zealand Breakers,-0.023799999999999988,0.4762,0.5
 2023-10-27 16:08:20.127316,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Mohamed Salah,-0.023799999999999988,0.1429,0.1667
 2023-10-27 17:05:58.317124,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Newcastle United,-0.025499999999999967,0.4,0.4255
+2023-10-27 23:06:07.666753,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Vejle BK,-0.025600000000000067,0.6667,0.6923
 2023-10-27 17:05:58.317124,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Manchester United,-0.02779999999999999,0.2222,0.25
 2023-10-27 16:08:20.127316,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Erling Braut Haaland,-0.027800000000000047,0.75,0.7778
 2023-10-27 11:08:15.449179,Boxing Lines - Simon Zachenhuber vs Emre Cukur - To Win the Bout,Emre Cukur,-0.02789999999999998,0.2353,0.2632
@@ -61,6 +62,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-27 16:08:21.720441,NBL - NBL 2023/2024 - To Make Grand Final,Perth Wildcats,-0.033299999999999996,0.1,0.1333
 2023-10-27 17:05:57.550378,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayer Leverkusen,-0.033300000000000024,0.1667,0.2
 2023-10-27 11:08:14.448514,NFL Requested Specials - 2024 NFL Draft - 1st Overall Pick - Number 1 Pick,Caleb Williams,-0.04039999999999999,0.7778,0.8182
+2023-10-27 23:06:07.673714,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Lyngby BK,-0.04040000000000002,0.1818,0.2222
 2023-10-27 17:05:59.255117,NBL - NBL 2023/2024 - To Make Top 6,Cairns Taipans,-0.06519999999999998,0.4348,0.5
 2023-10-27 17:05:59.240277,NBL - NBL 2023/2024 - To Make Top 4,Perth Wildcats,-0.06670000000000004,0.3333,0.4
 2023-10-27 17:05:59.240277,NBL - NBL 2023/2024 - To Make Top 4,Cairns Taipans,-0.06820000000000001,0.1818,0.25
