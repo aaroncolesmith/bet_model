@@ -1,5 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-30 05:03:11.822797,Big Brother - BB25: Outright Winner - Outright Winner,Matt Klotz,0.22229999999999994,0.6667,0.4444
+2023-10-30 13:13:29.118431,NCAA Football Futures - 2023 Big Ten Conference Championship - Big Ten Championship Game Winner,Ohio State,0.1491,0.4348,0.2857
 2023-10-30 10:04:57.941886,NFL Specials - Aaron Rodgers / NY Jets Specials - 2023/24 Season Specials,Aaron Rodgers to play again in the 2023 Regular Season,0.14709999999999998,0.1667,0.0196
 2023-10-30 05:03:12.198032,B League - Japan B League 1 2023/2024 - Outright,Shinshu Brave Warriors,0.14229999999999998,0.1667,0.0244
 2023-10-30 05:03:11.739829,44th Razzie Awards - Razzies - Worst Picture - Worst Picture,Big Shark,0.11109999999999998,0.3333,0.2222
@@ -30,21 +31,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-30 07:04:17.977936,Championship - England Championship 2023/24 - To Be Promoted,Southampton,0.057699999999999974,0.3077,0.25
 2023-10-30 07:04:18.006749,Championship - England Championship 2023/24 - Top 6 Finish,Southampton,0.05590000000000006,0.6923,0.6364
 2023-10-30 06:04:36.477439,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Dundee FC,0.05559999999999998,0.1667,0.1111
-2023-10-30 07:04:19.293684,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Chelsea,0.05559999999999998,0.1667,0.1111
 2023-10-30 07:04:19.293684,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,West Ham United,0.05559999999999998,0.5556,0.5
+2023-10-30 07:04:19.293684,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Chelsea,0.05559999999999998,0.1667,0.1111
 2023-10-30 06:04:35.664873,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fortaleza,0.05550000000000002,0.2222,0.1667
 2023-10-30 06:04:36.628418,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer - Haaland vs The Field,Erling Haaland,0.055499999999999994,0.8333,0.7778
 2023-10-30 07:04:18.090924,A-League - Australia A-League 2023/24 - Top 6 Finish,Brisbane Roar,0.05130000000000001,0.3846,0.3333
 2023-10-30 04:04:18.279043,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayer Leverkusen,0.04999999999999999,0.25,0.2
-2023-10-30 05:03:10.463904,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Kylian Mbappe (PSG),0.04810000000000003,0.9231,0.875
 2023-10-30 06:04:35.589773,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Lille,0.04810000000000003,0.8182,0.7701
+2023-10-30 05:03:10.463904,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Kylian Mbappe (PSG),0.04810000000000003,0.9231,0.875
+2023-10-30 13:13:27.610644,Liga ACB - Spain Liga ACB 2023/24 - Outright,Real Madrid BC,0.04760000000000009,0.7143,0.6667
 2023-10-30 05:03:10.343744,La Liga - Spain La Liga 2023/24 - To Be Relegated,Cádiz,0.04760000000000003,0.5238,0.4762
 2023-10-30 05:03:10.457784,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Nice,0.047599999999999976,0.3333,0.2857
 2023-10-30 04:04:20.359236,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Chet Holmgren (OKC),0.047599999999999976,0.3333,0.2857
 2023-10-30 06:04:35.620515,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,RB Bragantino,0.04650000000000001,0.1053,0.0588
 2023-10-30 06:04:35.539605,MLS - MLS 2023 - Winner,Columbus Crew,0.04240000000000001,0.1333,0.0909
-2023-10-30 06:04:35.645407,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Grêmio,0.04099999999999998,0.3077,0.2667
 2023-10-30 06:04:36.484336,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Aberdeen,0.04099999999999998,0.3077,0.2667
+2023-10-30 06:04:35.645407,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Grêmio,0.04099999999999998,0.3077,0.2667
 2023-10-30 05:03:10.457784,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Lille,0.04040000000000002,0.2222,0.1818
 2023-10-30 07:04:18.090924,A-League - Australia A-League 2023/24 - Top 6 Finish,Western Sydney Wanderers,0.04039999999999999,0.8182,0.7778
 2023-10-30 06:04:35.620515,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Flamengo,0.0384,0.0769,0.0385
@@ -56,11 +58,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-30 06:04:36.470618,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Ross County,0.033300000000000024,0.2,0.1667
 2023-10-30 06:04:36.463113,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Hibernian,0.033300000000000024,0.2,0.1667
 2023-10-30 05:03:10.404993,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,RB Leipzig,0.033299999999999996,0.8333,0.8
+2023-10-30 13:13:29.171656,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Oregon,0.03219999999999999,0.0667,0.0345
 2023-10-30 07:04:18.098162,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Adelaide United,0.031799999999999995,0.1429,0.1111
 2023-10-30 09:03:53.924747,Boxing Lines - TJ Doheny vs Japheth Lee Llamido - To Win the Bout,Japheth Lee Llamido,0.03169999999999995,0.8095,0.7778
 2023-10-30 07:04:18.090924,A-League - Australia A-League 2023/24 - Top 6 Finish,Macarthur FC,0.030299999999999994,0.3636,0.3333
-2023-10-30 06:04:35.539605,MLS - MLS 2023 - Winner,Houston Dynamo,0.029299999999999993,0.0769,0.0476
 2023-10-30 07:04:18.098162,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Brisbane Roar,0.029299999999999993,0.0769,0.0476
+2023-10-30 06:04:35.539605,MLS - MLS 2023 - Winner,Houston Dynamo,0.029299999999999993,0.0769,0.0476
 2023-10-30 05:03:11.739829,44th Razzie Awards - Razzies - Worst Picture - Worst Picture,Knights Of The Zodiac,0.028399999999999995,0.0909,0.0625
 2023-10-30 05:03:10.404993,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Bayer Leverkusen,0.028200000000000003,0.9615,0.9333
 2023-10-30 05:03:10.471218,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Toulouse,0.027999999999999997,0.1818,0.1538
@@ -70,27 +73,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-30 07:04:18.006749,Championship - England Championship 2023/24 - Top 6 Finish,Hull City,0.02779999999999999,0.25,0.2222
 2023-10-30 05:03:10.434809,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Salernitana,0.02739999999999998,0.2941,0.2667
 2023-10-30 06:04:35.582810,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Nice,0.025600000000000067,0.6923,0.6667
-2023-10-30 05:03:10.343744,La Liga - Spain La Liga 2023/24 - To Be Relegated,Celta de Vigo,0.02560000000000001,0.3333,0.3077
 2023-10-30 06:04:35.645407,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Atlético Mineiro,0.02560000000000001,0.3333,0.3077
+2023-10-30 05:03:10.343744,La Liga - Spain La Liga 2023/24 - To Be Relegated,Celta de Vigo,0.02560000000000001,0.3333,0.3077
 2023-10-30 06:04:36.484336,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Motherwell,0.025599999999999956,0.6,0.5744
 2023-10-30 07:04:18.090924,A-League - Australia A-League 2023/24 - Top 6 Finish,Wellington Phoenix,0.025499999999999967,0.4255,0.4
+2023-10-30 13:13:29.067935,NCAA Football Futures - 2023 ACC Conference Championship - Championship Game Winner,Virginia Tech,0.0254,0.0294,0.004
 2023-10-30 10:04:57.916469,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Baltimore Ravens,0.025300000000000003,0.1429,0.1176
+2023-10-30 13:13:29.171656,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Florida State,0.025300000000000003,0.1429,0.1176
 2023-10-30 05:03:10.398195,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Borussia Mönchengladbach,0.024999999999999994,0.125,0.1
+2023-10-30 13:13:29.093714,NCAA Football Futures - 2023 Big 12 Championship - Big 12 Championship Game Winner ,Iowa State,0.024600000000000004,0.0345,0.0099
 2023-10-30 07:04:17.998790,Championship - England Championship 2023/24 - Top 2 Finish,Sunderland,0.024299999999999995,0.0588,0.0345
 2023-10-30 07:04:17.984565,Championship - England Championship 2023/24 - To Be Relegated,Blackburn Rovers,0.024299999999999995,0.0588,0.0345
+2023-10-30 13:13:29.171656,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Alabama,0.0242,0.0909,0.0667
 2023-10-30 07:04:19.559164,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Benjamin Netanyahu,0.024,0.0625,0.0385
 2023-10-30 06:04:36.505327,Super Lig - Turkey Super Lig 2023/24 - Winner,Fenerbahce,0.023800000000000043,0.5238,0.5
-2023-10-30 05:03:10.471218,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Clermont Foot,0.023800000000000043,0.5238,0.5
 2023-10-30 06:04:35.634397,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Santos,0.023800000000000043,0.5238,0.5
+2023-10-30 05:03:10.471218,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Clermont Foot,0.023800000000000043,0.5238,0.5
 2023-10-30 06:04:36.369216,First Division A - Belgium First Division A 2023/24 - Outright,Genk,0.023799999999999988,0.1667,0.1429
 2023-10-30 06:04:36.484336,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,St. Johnstone,0.023699999999999943,0.9852,0.9615
 2023-10-30 05:03:11.739829,44th Razzie Awards - Razzies - Worst Picture - Worst Picture,We Have A Ghost,0.023200000000000002,0.0476,0.0244
+2023-10-30 13:13:29.118431,NCAA Football Futures - 2023 Big Ten Conference Championship - Big Ten Championship Game Winner,Wisconsin,0.0232,0.0667,0.0435
 2023-10-30 06:04:35.539605,MLS - MLS 2023 - Winner,Seattle Sounders,0.02310000000000001,0.1,0.0769
 2023-10-30 03:04:55.185474,Boxing Lines - Jordy Weiss vs Jon Miguez - To Win the Bout,Jon Miguez,0.022699999999999998,0.4878,0.4651
 2023-10-30 06:04:35.582810,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Lens,0.022199999999999998,0.2222,0.2
 2023-10-30 07:04:17.969672,Championship - England Championship 2023/24 - Top Goalscorer,Adam Armstrong,0.022199999999999998,0.2222,0.2
-2023-10-30 04:04:20.632234,Argentine Politics - President After General Election - President After General Election,Sergio Massa,0.02200000000000002,0.7143,0.6923
 2023-10-30 07:04:17.984565,Championship - England Championship 2023/24 - To Be Relegated,Queens Park Rangers,0.02200000000000002,0.7143,0.6923
+2023-10-30 04:04:20.632234,Argentine Politics - President After General Election - President After General Election,Sergio Massa,0.02200000000000002,0.7143,0.6923
 2023-10-30 05:03:10.434809,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Frosinone,0.022000000000000006,0.1053,0.0833
 2023-10-30 05:03:10.350738,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Girona,0.021699999999999997,0.4762,0.4545
 2023-10-30 07:04:17.977936,Championship - England Championship 2023/24 - To Be Promoted,Leeds United,0.02169999999999994,0.5455,0.5238
@@ -98,89 +106,94 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-30 07:04:18.006749,Championship - England Championship 2023/24 - Top 6 Finish,Swansea City,0.02020000000000001,0.1111,0.0909
 2023-10-30 07:04:17.998790,Championship - England Championship 2023/24 - Top 2 Finish,Leicester City,0.020199999999999996,0.9091,0.8889
 2023-10-30 06:04:36.484336,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Ross County,0.020199999999999996,0.9091,0.8889
+2023-10-30 13:13:29.171656,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,LSU,0.019499999999999997,0.0294,0.0099
 2023-10-30 07:04:17.984565,Championship - England Championship 2023/24 - To Be Relegated,Plymouth Argyle,0.019000000000000017,0.2857,0.2667
 2023-10-30 05:03:10.343744,La Liga - Spain La Liga 2023/24 - To Be Relegated,Granada,0.01880000000000004,0.5744,0.5556
 2023-10-30 05:03:10.434809,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Empoli,0.01820000000000002,0.2,0.1818
 2023-10-30 05:03:10.471218,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Lyon,0.01820000000000002,0.2,0.1818
 2023-10-30 06:04:35.664873,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fluminense,0.01820000000000002,0.2,0.1818
-2023-10-30 05:03:12.420529,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Joel Embiid (PHI),0.018200000000000004,0.0476,0.0294
 2023-10-30 05:03:10.343744,La Liga - Spain La Liga 2023/24 - To Be Relegated,Villarreal,0.018200000000000004,0.0476,0.0294
-2023-10-30 07:04:18.082521,A-League - Australia A-League 2023/24 - To Finish Bottom,Central Coast Mariners,0.018099999999999998,0.0769,0.0588
+2023-10-30 05:03:12.420529,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Joel Embiid (PHI),0.018200000000000004,0.0476,0.0294
 2023-10-30 04:04:20.296366,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Donovan Mitchell (CLE),0.018099999999999998,0.0769,0.0588
+2023-10-30 07:04:18.082521,A-League - Australia A-League 2023/24 - To Finish Bottom,Central Coast Mariners,0.018099999999999998,0.0769,0.0588
 2023-10-30 06:04:36.463113,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,St. Mirren,0.0179,0.1429,0.125
 2023-10-30 05:03:10.390020,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Harry Kane,0.016700000000000048,0.75,0.7333
-2023-10-30 07:04:18.082521,A-League - Australia A-League 2023/24 - To Finish Bottom,Perth Glory,0.016699999999999993,0.2667,0.25
 2023-10-30 07:04:18.082521,A-League - Australia A-League 2023/24 - To Finish Bottom,Newcastle United Jets,0.016699999999999993,0.2667,0.25
+2023-10-30 07:04:18.082521,A-League - Australia A-League 2023/24 - To Finish Bottom,Perth Glory,0.016699999999999993,0.2667,0.25
 2023-10-30 06:04:36.369216,First Division A - Belgium First Division A 2023/24 - Outright,Club Brugge,0.016699999999999993,0.2667,0.25
 2023-10-30 05:03:10.398195,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Darmstadt,0.016699999999999937,0.6,0.5833
 2023-10-30 05:03:10.434809,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Udinese,0.016600000000000004,0.0833,0.0667
 2023-10-30 07:04:19.154967,Premier League Futures/Specials - English Premier League 2023/24 - Winner without ''The Big 6'',Fulham,0.0156,0.0196,0.004
 2023-10-30 05:03:11.739829,44th Razzie Awards - Razzies - Worst Picture - Worst Picture,Shazam! Fury Of The Gods,0.015300000000000001,0.0476,0.0323
-2023-10-30 05:03:12.198032,B League - Japan B League 1 2023/2024 - Outright,Alvark Tokyo,0.015100000000000002,0.1818,0.1667
-2023-10-30 05:03:10.404993,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Borussia Dortmund,0.015100000000000002,0.8333,0.8182
-2023-10-30 07:04:18.006749,Championship - England Championship 2023/24 - Top 6 Finish,Stoke City,0.015100000000000002,0.1818,0.1667
 2023-10-30 05:03:10.441044,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Juventus,0.015100000000000002,0.8333,0.8182
+2023-10-30 05:03:10.404993,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Borussia Dortmund,0.015100000000000002,0.8333,0.8182
 2023-10-30 05:03:10.358162,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Girona,0.015100000000000002,0.1818,0.1667
+2023-10-30 07:04:18.006749,Championship - England Championship 2023/24 - Top 6 Finish,Stoke City,0.015100000000000002,0.1818,0.1667
+2023-10-30 05:03:12.198032,B League - Japan B League 1 2023/2024 - Outright,Alvark Tokyo,0.015100000000000002,0.1818,0.1667
 2023-10-30 06:04:35.620515,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Grêmio,0.014599999999999998,0.0196,0.005
+2023-10-30 13:13:29.118431,NCAA Football Futures - 2023 Big Ten Conference Championship - Big Ten Championship Game Winner,Minnesota,0.0145,0.0244,0.0099
 2023-10-30 06:04:36.470618,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Aberdeen,0.014499999999999999,0.0294,0.0149
 2023-10-30 07:04:17.984565,Championship - England Championship 2023/24 - To Be Relegated,Bristol City,0.014399999999999996,0.0769,0.0625
 2023-10-30 10:04:58.106596,Boxing Lines - TJ Doheny vs Japheth Lee Llamido - To Win the Bout,TJ Doheny,0.014300000000000035,0.274,0.2597
-2023-10-30 06:04:35.539605,MLS - MLS 2023 - Winner,Sporting Kansas City,0.014099999999999998,0.0385,0.0244
 2023-10-30 10:04:57.916469,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,New York Jets,0.014099999999999998,0.0385,0.0244
+2023-10-30 06:04:35.539605,MLS - MLS 2023 - Winner,Sporting Kansas City,0.014099999999999998,0.0385,0.0244
 2023-10-30 05:03:10.428321,Serie A - Italy Serie A 2023/24 - To Be Relegated,Monza,0.014099999999999994,0.0667,0.0526
-2023-10-30 07:04:17.969672,Championship - England Championship 2023/24 - Top Goalscorer,Jack Clarke,0.013999999999999999,0.0909,0.0769
 2023-10-30 05:03:11.822797,Big Brother - BB25: Outright Winner - Outright Winner,Felicia Cannon,0.013999999999999999,0.0909,0.0769
 2023-10-30 05:03:10.428321,Serie A - Italy Serie A 2023/24 - To Be Relegated,Sassuolo,0.013999999999999999,0.0909,0.0769
+2023-10-30 07:04:17.969672,Championship - England Championship 2023/24 - Top Goalscorer,Jack Clarke,0.013999999999999999,0.0909,0.0769
 2023-10-30 06:04:35.589773,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Nice,0.013900000000000023,0.8889,0.875
-2023-10-30 07:04:18.006749,Championship - England Championship 2023/24 - Top 6 Finish,Birmingham City,0.013899999999999996,0.125,0.1111
-2023-10-30 06:04:36.470618,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Livingston,0.013899999999999996,0.125,0.1111
 2023-10-30 06:04:35.582810,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Reims,0.013899999999999996,0.125,0.1111
 2023-10-30 05:03:10.434809,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Hellas Verona,0.013899999999999996,0.125,0.1111
+2023-10-30 06:04:36.470618,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Livingston,0.013899999999999996,0.125,0.1111
+2023-10-30 07:04:18.006749,Championship - England Championship 2023/24 - Top 6 Finish,Birmingham City,0.013899999999999996,0.125,0.1111
 2023-10-30 06:04:35.634397,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Goiás,0.013799999999999923,0.6364,0.6226
 2023-10-30 06:04:35.634397,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Vasco da Gama,0.013799999999999923,0.6364,0.6226
 2023-10-30 07:04:18.090924,A-League - Australia A-League 2023/24 - Top 6 Finish,Melbourne Victory,0.013799999999999923,0.6364,0.6226
 2023-10-30 05:03:10.428321,Serie A - Italy Serie A 2023/24 - To Be Relegated,Udinese,0.013600000000000001,0.3077,0.2941
 2023-10-30 03:04:54.129506,Western Conference - Western Conference 2023-24 - Western Conference Winner,Sacramento Kings,0.0131,0.0476,0.0345
 2023-10-30 07:04:17.984565,Championship - England Championship 2023/24 - To Be Relegated,Norwich City,0.0131,0.0476,0.0345
+2023-10-30 13:13:29.144628,NCAA Football Futures - 2023 Pac-12 Championship - Pac-12 Championship Game Winner,Arizona,0.013,0.0196,0.0066
 2023-10-30 07:04:18.098162,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Western Sydney Wanderers,0.012899999999999995,0.1667,0.1538
-2023-10-30 06:04:35.645407,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Flamengo,0.012700000000000045,0.6491,0.6364
 2023-10-30 05:03:10.428321,Serie A - Italy Serie A 2023/24 - To Be Relegated,Salernitana,0.012700000000000045,0.6491,0.6364
-2023-10-30 07:04:17.984565,Championship - England Championship 2023/24 - To Be Relegated,Preston North End,0.011199999999999995,0.0588,0.0476
+2023-10-30 06:04:35.645407,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Flamengo,0.012700000000000045,0.6491,0.6364
+2023-10-30 13:13:29.118431,NCAA Football Futures - 2023 Big Ten Conference Championship - Big Ten Championship Game Winner,Michigan,0.012199999999999989,0.5,0.4878
 2023-10-30 07:04:19.282979,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Everton,0.011199999999999995,0.0588,0.0476
+2023-10-30 07:04:17.984565,Championship - England Championship 2023/24 - To Be Relegated,Preston North End,0.011199999999999995,0.0588,0.0476
 2023-10-30 05:03:10.457784,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Lens,0.011199999999999995,0.0588,0.0476
 2023-10-30 05:03:10.404993,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Hoffenheim,0.011199999999999995,0.0588,0.0476
 2023-10-30 07:04:19.293684,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Brighton & Hove Albion,0.011099999999999999,0.1111,0.1
 2023-10-30 02:03:47.933514,Boxing Lines - Raymond Muratalla vs Diego Torres Nuñez - To Win the Bout,Diego Torres Nuñez,0.010499999999999982,0.2105,0.2
 2023-10-30 06:04:35.620515,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Atlético Mineiro,0.0103,0.0123,0.002
-2023-10-30 07:04:19.293684,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Manchester United,0.0102,0.0769,0.0667
 2023-10-30 05:03:10.350738,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Betis,0.0102,0.0769,0.0667
+2023-10-30 07:04:19.293684,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Manchester United,0.0102,0.0769,0.0667
 2023-10-30 07:04:18.006749,Championship - England Championship 2023/24 - Top 6 Finish,Ipswich Town,0.010199999999999987,0.9333,0.9231
 2023-10-30 07:04:17.977936,Championship - England Championship 2023/24 - To Be Promoted,Bristol City,-0.010100000000000001,0.0244,0.0345
-2023-10-30 08:03:53.808465,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Scottie Barnes (TOR),-0.0102,0.0667,0.0769
 2023-10-30 05:03:10.421231,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Domenico Berardi (Sassuolo),-0.0102,0.0667,0.0769
+2023-10-30 08:03:53.808465,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Scottie Barnes (TOR),-0.0102,0.0667,0.0769
 2023-10-30 05:03:10.463904,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Wissam Ben Yedder (Monaco),-0.0102,0.0667,0.0769
 2023-10-30 03:04:54.129506,Western Conference - Western Conference 2023-24 - Western Conference Winner,Phoenix Suns,-0.010399999999999993,0.2222,0.2326
 2023-10-30 07:04:17.991875,Championship - England Championship 2023/24 - To Finish Bottom,Stoke City,-0.0109,0.004,0.0149
-2023-10-30 07:04:18.006749,Championship - England Championship 2023/24 - Top 6 Finish,Millwall,-0.011099999999999999,0.1,0.1111
 2023-10-30 02:03:47.880488,Boxing Lines - Jordy Weiss vs Jon Miguez - To Win the Bout,Jon Miguez,-0.011099999999999999,0.4651,0.4762
 2023-10-30 05:03:10.358162,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Real Sociedad,-0.011099999999999999,0.1,0.1111
+2023-10-30 07:04:18.006749,Championship - England Championship 2023/24 - Top 6 Finish,Millwall,-0.011099999999999999,0.1,0.1111
 2023-10-30 05:03:10.390020,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Victor Boniface,-0.011199999999999995,0.0476,0.0588
-2023-10-30 05:03:10.463904,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Folarin Balogun (Monaco),-0.011199999999999995,0.0476,0.0588
 2023-10-30 05:03:10.463904,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Jonathan David (Lille),-0.011199999999999995,0.0476,0.0588
+2023-10-30 05:03:10.463904,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Folarin Balogun (Monaco),-0.011199999999999995,0.0476,0.0588
 2023-10-30 07:04:17.991875,Championship - England Championship 2023/24 - To Finish Bottom,Swansea City,-0.012100000000000001,0.0123,0.0244
 2023-10-30 07:04:18.006749,Championship - England Championship 2023/24 - Top 6 Finish,Watford,-0.012899999999999995,0.1538,0.1667
 2023-10-30 09:03:53.947275,Boxing Lines - Toshiki Shimomachi vs Toshiya Ishii - To Win the Bout,Toshiya Ishii,-0.0131,0.2222,0.2353
 2023-10-30 05:03:10.421231,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Lautaro Martinez (Inter Milan),-0.013799999999999923,0.6226,0.6364
-2023-10-30 05:03:10.471218,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Strasbourg,-0.013899999999999996,0.1111,0.125
 2023-10-30 07:04:18.082521,A-League - Australia A-League 2023/24 - To Finish Bottom,Wellington Phoenix,-0.013899999999999996,0.1111,0.125
-2023-10-30 06:04:35.582810,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Brest,-0.013999999999999999,0.0769,0.0909
+2023-10-30 05:03:10.471218,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Strasbourg,-0.013899999999999996,0.1111,0.125
+2023-10-30 05:03:10.421231,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Romelu Lukaku (Roma),-0.013999999999999999,0.0769,0.0909
+2023-10-30 13:13:28.816396,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Detroit Lions,-0.013999999999999999,0.0769,0.0909
 2023-10-30 07:04:17.984565,Championship - England Championship 2023/24 - To Be Relegated,Millwall,-0.013999999999999999,0.0769,0.0909
 2023-10-30 05:03:10.398195,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Union Berlin,-0.013999999999999999,0.0769,0.0909
-2023-10-30 05:03:10.421231,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Romelu Lukaku (Roma),-0.013999999999999999,0.0769,0.0909
+2023-10-30 06:04:35.582810,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Brest,-0.013999999999999999,0.0769,0.0909
 2023-10-30 07:04:19.302169,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Nottingham Forest,-0.014000000000000012,0.9091,0.9231
 2023-10-30 07:04:18.082521,A-League - Australia A-League 2023/24 - To Finish Bottom,Western Sydney Wanderers,-0.014099999999999998,0.0244,0.0385
-2023-10-30 07:04:18.082521,A-League - Australia A-League 2023/24 - To Finish Bottom,Adelaide United,-0.014100000000000001,0.0385,0.0526
 2023-10-30 07:04:17.977936,Championship - England Championship 2023/24 - To Be Promoted,Coventry City,-0.014100000000000001,0.0385,0.0526
+2023-10-30 07:04:18.082521,A-League - Australia A-League 2023/24 - To Finish Bottom,Adelaide United,-0.014100000000000001,0.0385,0.0526
 2023-10-30 07:04:17.998790,Championship - England Championship 2023/24 - Top 2 Finish,Blackburn Rovers,-0.0145,0.0099,0.0244
 2023-10-30 05:03:10.441044,Serie A - Italy Serie A 2023/24 - Top 4 Finish,AS Roma,-0.015100000000000002,0.1667,0.1818
 2023-10-30 05:03:10.457784,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Marseille,-0.015100000000000002,0.1667,0.1818
@@ -191,25 +204,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-30 06:04:35.645407,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,RB Bragantino,-0.016700000000000048,0.7333,0.75
 2023-10-30 05:03:10.381993,1. Bundesliga - Germany Bundesliga 2023/24 - Winner without Bayern Munich,RB Leipzig,-0.0174,0.2326,0.25
 2023-10-30 06:04:35.664873,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Internacional,-0.017800000000000003,0.0066,0.0244
+2023-10-30 13:13:29.171656,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Ohio State,-0.0179,0.125,0.1429
 2023-10-30 07:04:18.082521,A-League - Australia A-League 2023/24 - To Finish Bottom,Brisbane Roar,-0.0179,0.125,0.1429
-2023-10-30 05:03:11.233675,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Holstein Kiel,-0.018099999999999998,0.0588,0.0769
 2023-10-30 07:04:17.991875,Championship - England Championship 2023/24 - To Finish Bottom,Plymouth Argyle,-0.018099999999999998,0.0588,0.0769
+2023-10-30 05:03:11.233675,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Holstein Kiel,-0.018099999999999998,0.0588,0.0769
 2023-10-30 05:03:10.421231,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Victor Osimhen (Napoli),-0.01820000000000002,0.1818,0.2
 2023-10-30 06:04:35.645407,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Athletico Paranaense,-0.01820000000000002,0.1818,0.2
 2023-10-30 04:04:20.632234,Argentine Politics - President After General Election - President After General Election,Javier Milei,-0.018799999999999983,0.3448,0.3636
 2023-10-30 05:03:10.471218,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Metz,-0.01880000000000004,0.5556,0.5744
+2023-10-30 13:13:29.171656,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Michigan,-0.019000000000000017,0.2667,0.2857
 2023-10-30 05:03:10.350738,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Valencia,-0.019099999999999992,0.0476,0.0667
-2023-10-30 07:04:17.998790,Championship - England Championship 2023/24 - Top 2 Finish,Middlesbrough,-0.019099999999999992,0.0476,0.0667
-2023-10-30 06:04:36.470618,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Kilmarnock,-0.019099999999999992,0.0476,0.0667
 2023-10-30 07:04:17.977936,Championship - England Championship 2023/24 - To Be Promoted,Norwich City,-0.019099999999999992,0.0476,0.0667
 2023-10-30 05:03:10.457784,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Rennes,-0.019099999999999992,0.0476,0.0667
+2023-10-30 06:04:36.470618,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Kilmarnock,-0.019099999999999992,0.0476,0.0667
+2023-10-30 07:04:17.998790,Championship - England Championship 2023/24 - Top 2 Finish,Middlesbrough,-0.019099999999999992,0.0476,0.0667
 2023-10-30 06:04:35.539605,MLS - MLS 2023 - Winner,Vancouver Whitecaps,-0.0194,0.005,0.0244
-2023-10-30 05:03:10.428321,Serie A - Italy Serie A 2023/24 - To Be Relegated,Genoa,-0.02020000000000001,0.0909,0.1111
 2023-10-30 06:04:36.369216,First Division A - Belgium First Division A 2023/24 - Outright,Anderlecht,-0.02020000000000001,0.0909,0.1111
+2023-10-30 05:03:10.428321,Serie A - Italy Serie A 2023/24 - To Be Relegated,Genoa,-0.02020000000000001,0.0909,0.1111
 2023-10-30 07:04:18.082521,A-League - Australia A-League 2023/24 - To Finish Bottom,Macarthur FC,-0.02020000000000001,0.0909,0.1111
 2023-10-30 05:03:10.350738,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Osasuna,-0.0203,0.0385,0.0588
-2023-10-30 05:03:10.343744,La Liga - Spain La Liga 2023/24 - To Be Relegated,Rayo Vallecano,-0.0203,0.0385,0.0588
 2023-10-30 05:03:10.381993,1. Bundesliga - Germany Bundesliga 2023/24 - Winner without Bayern Munich,VfB Stuttgart,-0.0203,0.0385,0.0588
+2023-10-30 05:03:10.343744,La Liga - Spain La Liga 2023/24 - To Be Relegated,Rayo Vallecano,-0.0203,0.0385,0.0588
 2023-10-30 07:04:18.098162,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Central Coast Mariners,-0.02049999999999999,0.1333,0.1538
 2023-10-30 07:04:17.991875,Championship - England Championship 2023/24 - To Finish Bottom,Sheffield Wednesday,-0.02100000000000002,0.3636,0.3846
 2023-10-30 06:04:35.589773,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Reims,-0.021999999999999964,0.2857,0.3077
@@ -218,8 +233,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-30 10:04:57.916469,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Miami Dolphins,-0.022199999999999998,0.2,0.2222
 2023-10-30 06:04:36.440881,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,Benfica,-0.02260000000000001,0.3774,0.4
 2023-10-30 07:04:19.154967,Premier League Futures/Specials - English Premier League 2023/24 - Winner without ''The Big 6'',Newcastle United,-0.022600000000000064,0.6,0.6226
-2023-10-30 07:04:18.098162,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Western United,-0.02310000000000001,0.0769,0.1
 2023-10-30 07:04:19.293684,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Aston Villa,-0.02310000000000001,0.0769,0.1
+2023-10-30 07:04:18.098162,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Western United,-0.02310000000000001,0.0769,0.1
 2023-10-30 07:04:17.984565,Championship - England Championship 2023/24 - To Be Relegated,Cardiff City,-0.023200000000000002,0.0244,0.0476
 2023-10-30 05:03:11.822797,Big Brother - BB25: Outright Winner - Outright Winner,Cirie Fields,-0.023799999999999988,0.1429,0.1667
 2023-10-30 06:04:36.477439,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Motherwell,-0.023799999999999988,0.4762,0.5
@@ -230,17 +245,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-30 05:03:10.471218,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Le Havre,-0.025499999999999967,0.4,0.4255
 2023-10-30 03:04:55.185474,Boxing Lines - Jordy Weiss vs Jon Miguez - To Win the Bout,Jordy Weiss,-0.025599999999999956,0.5744,0.6
 2023-10-30 09:03:53.924747,Boxing Lines - TJ Doheny vs Japheth Lee Llamido - To Win the Bout,TJ Doheny,-0.026000000000000023,0.2597,0.2857
-2023-10-30 07:04:18.098162,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Melbourne City,-0.02779999999999999,0.2222,0.25
 2023-10-30 06:04:36.477439,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Livingston,-0.02779999999999999,0.2222,0.25
 2023-10-30 06:04:35.582810,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Rennes,-0.02779999999999999,0.2222,0.25
+2023-10-30 07:04:18.098162,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Melbourne City,-0.02779999999999999,0.2222,0.25
 2023-10-30 05:03:10.404993,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Freiburg,-0.028199999999999996,0.0385,0.0667
 2023-10-30 06:04:35.539605,MLS - MLS 2023 - Winner,Nashville SC,-0.0282,0.0244,0.0526
 2023-10-30 05:03:11.739829,44th Razzie Awards - Razzies - Worst Picture - Worst Picture,Bad Behavior,-0.028399999999999995,0.0625,0.0909
 2023-10-30 05:03:11.739829,44th Razzie Awards - Razzies - Worst Picture - Worst Picture,Ant-Man & The Wasp - Quantomania,-0.028399999999999995,0.0625,0.0909
+2023-10-30 13:13:29.171656,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Washington,-0.02840000000000001,0.0769,0.1053
 2023-10-30 06:04:36.440881,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,FC Porto,-0.029000000000000026,0.4255,0.4545
-2023-10-30 05:03:11.739829,44th Razzie Awards - Razzies - Worst Picture - Worst Picture,Hypnotic,-0.029299999999999993,0.0476,0.0769
-2023-10-30 05:03:10.343744,La Liga - Spain La Liga 2023/24 - To Be Relegated,Osasuna,-0.029299999999999993,0.0476,0.0769
 2023-10-30 06:04:36.477439,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,St. Johnstone,-0.029299999999999993,0.0476,0.0769
+2023-10-30 05:03:10.343744,La Liga - Spain La Liga 2023/24 - To Be Relegated,Osasuna,-0.029299999999999993,0.0476,0.0769
+2023-10-30 05:03:11.739829,44th Razzie Awards - Razzies - Worst Picture - Worst Picture,Hypnotic,-0.029299999999999993,0.0476,0.0769
 2023-10-30 05:03:10.343744,La Liga - Spain La Liga 2023/24 - To Be Relegated,Las Palmas,-0.029899999999999982,0.2,0.2299
 2023-10-30 06:04:35.582810,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Marseille,-0.03179999999999994,0.5238,0.5556
 2023-10-30 06:04:36.505327,Super Lig - Turkey Super Lig 2023/24 - Winner,Galatasaray,-0.03179999999999994,0.5238,0.5556
@@ -266,14 +282,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-30 06:04:35.582810,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Monaco,-0.040999999999999925,0.6923,0.7333
 2023-10-30 07:04:18.006749,Championship - England Championship 2023/24 - Top 6 Finish,West Bromwich Albion,-0.04099999999999998,0.2667,0.3077
 2023-10-30 07:04:18.006749,Championship - England Championship 2023/24 - Top 6 Finish,Preston North End,-0.04169999999999999,0.125,0.1667
+2023-10-30 13:13:29.171656,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Oklahoma,-0.04229999999999999,0.0244,0.0667
 2023-10-30 07:04:18.006749,Championship - England Championship 2023/24 - Top 6 Finish,Leicester City,-0.04259999999999997,0.9524,0.995
 2023-10-30 05:03:10.390020,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Serhou Guirassy,-0.043200000000000016,0.3077,0.3509
 2023-10-30 05:03:11.739829,44th Razzie Awards - Razzies - Worst Picture - Worst Picture,You People,-0.04329999999999999,0.0476,0.0909
 2023-10-30 05:03:11.739829,44th Razzie Awards - Razzies - Worst Picture - Worst Picture,Maybe I Do,-0.04329999999999999,0.0476,0.0909
 2023-10-30 05:03:11.739829,44th Razzie Awards - Razzies - Worst Picture - Worst Picture,Ghosted,-0.04329999999999999,0.0476,0.0909
 2023-10-30 05:03:10.404993,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,VfB Stuttgart,-0.04410000000000003,0.3333,0.3774
-2023-10-30 07:04:19.282979,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Chelsea,-0.044399999999999995,0.8889,0.9333
 2023-10-30 06:04:36.484336,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Dundee FC,-0.044399999999999995,0.8889,0.9333
+2023-10-30 07:04:19.282979,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Chelsea,-0.044399999999999995,0.8889,0.9333
 2023-10-30 07:04:19.302169,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Luton Town,-0.044499999999999984,0.2222,0.2667
 2023-10-30 06:04:35.589773,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Rennes,-0.045499999999999985,0.4545,0.5
 2023-10-30 07:04:18.006749,Championship - England Championship 2023/24 - Top 6 Finish,Norwich City,-0.04620000000000002,0.1538,0.2
@@ -286,8 +303,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-30 05:03:10.398195,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Augsburg,-0.05550000000000002,0.1667,0.2222
 2023-10-30 06:04:36.463113,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Aberdeen,-0.05559999999999998,0.2222,0.2778
 2023-10-30 05:03:10.457784,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Monaco,-0.055900000000000005,0.3077,0.3636
-2023-10-30 06:04:36.477439,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Hibernian,-0.05590000000000006,0.6364,0.6923
 2023-10-30 07:04:18.090924,A-League - Australia A-League 2023/24 - Top 6 Finish,Central Coast Mariners,-0.05590000000000006,0.6364,0.6923
+2023-10-30 06:04:36.477439,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Hibernian,-0.05590000000000006,0.6364,0.6923
 2023-10-30 03:04:54.525658,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Malcolm Brogdon (POR),-0.0588,0.0588,0.1176
 2023-10-30 07:04:19.282979,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,West Ham United,-0.0595,0.5238,0.5833
 2023-10-30 07:04:19.302169,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Burnley,-0.06520000000000004,0.6491,0.7143
@@ -296,8 +313,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-30 05:03:10.428321,Serie A - Italy Serie A 2023/24 - To Be Relegated,Cagliari,-0.06659999999999999,0.6667,0.7333
 2023-10-30 05:03:10.441044,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Inter Milan,-0.06699999999999995,0.9231,0.9901
 2023-10-30 07:04:18.006749,Championship - England Championship 2023/24 - Top 6 Finish,Blackburn Rovers,-0.07500000000000001,0.125,0.2
-2023-10-30 06:04:35.589773,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Toulouse,-0.07579999999999999,0.0909,0.1667
 2023-10-30 06:04:35.589773,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Strasbourg,-0.07579999999999999,0.0909,0.1667
+2023-10-30 06:04:35.589773,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Toulouse,-0.07579999999999999,0.0909,0.1667
 2023-10-30 06:04:36.484336,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,St. Mirren,-0.07940000000000003,0.4444,0.5238
 2023-10-30 06:04:36.484336,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Kilmarnock,-0.08330000000000004,0.6667,0.75
 2023-10-30 07:04:19.293684,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Brentford,-0.0857,0.7143,0.8
@@ -307,3 +324,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-30 06:04:35.539605,MLS - MLS 2023 - Winner,Saint Louis City SC,-0.1027,0.0149,0.1176
 2023-10-30 06:04:36.470618,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Dundee FC,-0.13329999999999997,0.2,0.3333
 2023-10-30 06:04:35.620515,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Botafogo,-0.139,0.7701,0.9091
+2023-10-30 13:13:29.118431,NCAA Football Futures - 2023 Big Ten Conference Championship - Big Ten Championship Game Winner,Penn State,-0.2024,0.0476,0.25
