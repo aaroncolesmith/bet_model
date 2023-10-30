@@ -33,17 +33,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-29 20:07:16.273890,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Dallas Cowboys,0.02840000000000001,0.1053,0.0769
 2023-10-29 16:08:39.741821,NBL - NBL 2023/2024 - Regular Season MVP,Nathan Sobey,0.027800000000000005,0.1111,0.0833
 2023-10-29 12:08:02.371339,Boxing Lines - Raymond Muratalla vs Diego Torres Nuñez - To Win the Bout,Raymond Muratalla,0.02639999999999998,0.8667,0.8403
-2023-10-29 10:06:22.224602,East Group C - East Group C 2023 - Winner,Boston Celtics,0.025599999999999956,0.6,0.5744
 2023-10-29 16:08:39.756118,NBL - NBL 2023/2024 - To Make Grand Final,Melbourne United,0.025599999999999956,0.6,0.5744
 2023-10-29 20:07:14.461984,Premier League Futures/Specials - English Premier League 2023/24 - Golden Glove Award,Nick Pope,0.024999999999999994,0.125,0.1
 2023-10-29 20:07:16.317007,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Detroit Lions,0.023800000000000016,0.1905,0.1667
 2023-10-29 20:07:13.130122,Serie A - Italy Serie A 2023/24 - Winner,Inter Milan,0.023799999999999988,0.5,0.4762
 2023-10-29 19:07:07.327328,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Arsenal,0.023799999999999932,0.8571,0.8333
 2023-10-29 20:07:14.378297,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Burnley,0.02310000000000001,0.1,0.0769
-2023-10-29 20:07:16.290761,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Miami Dolphins,0.022199999999999998,0.2222,0.2
 2023-10-29 19:07:07.265318,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Heung-Min Son,0.022199999999999998,0.2222,0.2
-2023-10-29 16:08:39.756118,NBL - NBL 2023/2024 - To Make Grand Final,SE Melbourne Phoenix,0.021999999999999964,0.3077,0.2857
+2023-10-29 20:07:16.290761,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Miami Dolphins,0.022199999999999998,0.2222,0.2
 2023-10-29 19:07:07.265318,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Mohamed Salah,0.021999999999999964,0.3077,0.2857
+2023-10-29 16:08:39.756118,NBL - NBL 2023/2024 - To Make Grand Final,SE Melbourne Phoenix,0.021999999999999964,0.3077,0.2857
 2023-10-29 19:07:08.974993,Boxing Lines - Jordy Weiss vs Jon Miguez - To Win the Bout,Jon Miguez,0.021699999999999997,0.4762,0.4545
 2023-10-29 16:08:39.729427,NBL - NBL 2023/2024 - Outright,Melbourne United,0.02100000000000002,0.3846,0.3636
 2023-10-29 20:07:13.094185,La Liga - Spain La Liga 2023/24 - Winner,FC Barcelona,0.020799999999999985,0.3333,0.3125
@@ -56,8 +55,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-29 16:08:39.741821,NBL - NBL 2023/2024 - Regular Season MVP,Luke Travers,0.018099999999999998,0.0769,0.0588
 2023-10-29 21:06:07.481793,A-League - Australia A-League 2023/24 - Grand Final Winner,Melbourne Victory,0.0179,0.1429,0.125
 2023-10-29 19:07:07.284201,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Nottingham Forest,0.0179,0.1429,0.125
-2023-10-29 20:07:13.154081,Ligue 1 - France Ligue 1 2023/24 - Winner,Paris Saint-Germain,0.015100000000000002,0.8333,0.8182
 2023-10-29 19:07:07.225735,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Liverpool,0.015100000000000002,0.1818,0.1667
+2023-10-29 20:07:13.154081,Ligue 1 - France Ligue 1 2023/24 - Winner,Paris Saint-Germain,0.015100000000000002,0.8333,0.8182
 2023-10-29 19:07:07.348381,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Brentford,0.014499999999999999,0.0294,0.0149
 2023-10-29 20:07:14.461984,Premier League Futures/Specials - English Premier League 2023/24 - Golden Glove Award,Sam Johnstone,0.014499999999999999,0.0294,0.0149
 2023-10-29 16:08:39.741821,NBL - NBL 2023/2024 - Regular Season MVP,Parker Jackson-Cartwright (NZB),0.014399999999999996,0.0769,0.0625
@@ -66,9 +65,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-10-29 19:07:07.284201,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Wolverhampton Wanderers,0.013999999999999999,0.0909,0.0769
 2023-10-29 20:07:16.290761,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Cincinnati Bengals,0.013999999999999999,0.0909,0.0769
 2023-10-29 19:07:09.242658,BKFC 52: Barnett vs Richardson - David Mundell vs Doug Coltrane - To Win the Bout,David Mundell,0.013799999999999923,0.6364,0.6226
-2023-10-29 20:07:14.447018,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,James Maddison (Tottenham),0.010899999999999993,0.1538,0.1429
 2023-10-29 21:06:07.481793,A-League - Australia A-League 2023/24 - Grand Final Winner,Western Sydney Wanderers,0.010899999999999993,0.1538,0.1429
 2023-10-29 16:08:39.729427,NBL - NBL 2023/2024 - Outright,SE Melbourne Phoenix,0.010899999999999993,0.1538,0.1429
+2023-10-29 20:07:14.447018,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,James Maddison (Tottenham),0.010899999999999993,0.1538,0.1429
 2023-10-29 20:07:13.130122,Serie A - Italy Serie A 2023/24 - Winner,Juventus,0.010399999999999993,0.2326,0.2222
 2023-10-29 20:07:14.378297,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Luton Town,0.010099999999999998,0.4545,0.4444
 2023-10-29 12:08:02.351698,Boxing Lines - Joe Cordina vs Edward Vazquez - To Win the Bout,Joe Cordina,-0.010199999999999987,0.9231,0.9333
