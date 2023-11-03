@@ -3,7 +3,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-03 05:04:08.751108,Big Brother - BB25: Outright Winner - Outright Winner,Jag Bains,0.2667,0.6,0.3333
 2023-11-03 02:05:08.394608,To Make the Playoffs - Memphis Grizzlies - To Make the 2023-24 Playoffs,No,0.26600000000000007,0.6296,0.3636
 2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Nasa Hataoka,0.24889999999999998,0.3077,0.0588
-2023-11-03 01:04:19.005157,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Victor Wembanyama (SAS),0.2126,0.7778,0.5652
 2023-11-03 04:04:04.551171,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Grêmio,0.20830000000000004,0.875,0.6667
 2023-11-03 04:04:04.544459,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Grêmio,0.16850000000000004,0.4762,0.3077
 2023-11-03 04:04:04.535985,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Goiás,0.16360000000000008,0.8,0.6364
@@ -12,7 +11,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-03 04:04:04.544459,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Atlético Mineiro,0.12120000000000003,0.4545,0.3333
 2023-11-03 04:04:04.515963,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Palmeiras,0.11900000000000002,0.2857,0.1667
 2023-11-03 09:05:00.525848,NFL Weekly Specials - NFL Week 9 RedZone Specials - Sunday 5th November - inc Early Game & SNF,"T.Kelce, S.Diggs, T.Hill, C.Lamb & J.Chase 75+ Receiving Yards Each",0.1109,0.125,0.0141
-2023-11-03 01:04:18.226720,Pacific Division - Pacific Division 2023-24 - Division Winner,Golden State Warriors,0.10769999999999996,0.3077,0.2
 2023-11-03 04:04:04.544459,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Palmeiras,0.1049,0.9231,0.8182
 2023-11-03 02:05:08.453239,To Make the Playoffs - New Orleans Pelicans - To Make the 2023-24 Playoffs,Yes,0.09350000000000003,0.6491,0.5556
 2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Xiyu Lin,0.08979999999999999,0.1667,0.0769
@@ -20,7 +18,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-03 02:05:08.371712,To Make the Playoffs - Los Angeles Clippers - To Make the 2023-24 Playoffs,Yes,0.0695,0.7917,0.7222
 2023-11-03 04:04:04.535985,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Internacional,0.06760000000000001,0.1111,0.0435
 2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Akie Iwai,0.06760000000000001,0.1111,0.0435
-2023-11-03 01:04:18.243512,Southeast Division - Southeast Division 2023-24 - Division Winner,Atlanta Hawks,0.06670000000000004,0.4,0.3333
 2023-11-03 02:05:08.483360,To Make the Playoffs - Oklahoma City Thunder - To Make the 2023-24 Playoffs,Yes,0.05989999999999995,0.6825,0.6226
 2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Mone Inami,0.05879999999999999,0.0667,0.0079
 2023-11-03 08:05:54.393510,"Daily Specials - NBA Daily Specials - Friday, November 3rd",Nikola Jokic & Nikola Vucevic 15+ Rebounds each,0.05559999999999998,0.1667,0.1111
@@ -30,28 +27,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-03 02:05:08.552498,To Make the Playoffs - Sacramento Kings - To Make the 2023-24 Playoffs,No,0.044399999999999995,0.4444,0.4
 2023-11-03 04:04:04.515963,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Grêmio,0.0392,0.0588,0.0196
 2023-11-03 04:04:04.544459,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,RB Bragantino,0.036800000000000055,0.7701,0.7333
-2023-11-03 01:04:18.167600,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Boston Celtics,0.03640000000000004,0.4,0.3636
 2023-11-03 02:05:08.214929,To Make the Playoffs - Atlanta Hawks - To Make the 2023-24 Playoffs,No,0.03620000000000001,0.4444,0.4082
 2023-11-03 02:05:08.360100,To Make the Playoffs - Indiana Pacers - To Make the 2023-24 Playoffs,Yes,0.035999999999999976,0.5122,0.4762
 2023-11-03 06:04:30.297947,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the 2020 election result federal charges? - Election Result Federal Trial,Yes,0.035699999999999954,0.75,0.7143
 2023-11-03 04:04:04.515963,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Atlético Mineiro,0.035300000000000005,0.0476,0.0123
 2023-11-03 03:04:52.099047,World Wide Technology Championship - 2/3 Balls - 2nd Round 3 Balls - N. Echavarria / B. Gay / J. Herman - 2nd Round 3 Balls,Nico Echavarria,0.03489999999999999,0.5,0.4651
 2023-11-03 02:05:08.562689,To Make the Playoffs - San Antonio Spurs - To Make the 2023-24 Playoffs,No,0.033299999999999996,0.9333,0.9
-2023-11-03 01:04:18.147447,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Division,Pacific Division,0.030299999999999994,0.3333,0.303
 2023-11-03 05:04:08.591499,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Benjamin Netanyahu,0.030199999999999998,0.0625,0.0323
 2023-11-03 07:04:52.838996,Round Match-Ups - 2nd Round Match-Up - L. Aberg v L. Glover - 2nd Round Match-Up,Ludvig Aberg,0.02859999999999996,0.6364,0.6078
 2023-11-03 04:04:04.551171,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,RB Bragantino,0.028000000000000025,0.9804,0.9524
 2023-11-03 07:04:51.598589,Boxing Lines - Marine Beauchamp vs Dee Allen - To Win the Bout,Dee Allen,0.02739999999999998,0.7333,0.7059
 2023-11-03 02:05:08.348441,To Make the Playoffs - Houston Rockets - To Make the 2023-24 Playoffs,No,0.026899999999999924,0.95,0.9231
 2023-11-03 06:04:30.479360,Russian Politics - Vladimir Putin President Exit Date - Putin Exit Date,2025 or later,0.025600000000000067,0.6923,0.6667
-2023-11-03 01:04:18.203986,Central Division - Central Division 2023-24 - Division Winner,Cleveland Cavaliers,0.02560000000000001,0.3333,0.3077
 2023-11-03 05:04:11.065080,Boxing Lines - Lindolfo Delgado vs Luis Hernandez Ramos - To Win the Bout,Lindolfo Delgado,0.025000000000000022,0.9,0.875
 2023-11-03 02:05:10.006807,Boxing Lines - Levi Giles vs Razaq Najib - To Win the Bout,Levi Giles,0.025000000000000022,0.9,0.875
 2023-11-03 02:05:08.382558,To Make the Playoffs - Los Angeles Lakers - To Make the 2023-24 Playoffs,No,0.023799999999999988,0.2941,0.2703
-2023-11-03 01:04:18.256266,Southwest Division - Southwest Division 2023-24 - Division Winner,New Orleans Pelicans,0.02260000000000001,0.4,0.3774
-2023-11-03 01:04:18.192619,Atlantic Division - Atlantic Division 2023-24 - Division Winner,Boston Celtics,0.022199999999999998,0.8,0.7778
 2023-11-03 02:05:08.337524,To Make the Playoffs - Golden State Warriors - To Make the 2023-24 Playoffs,Yes,0.02200000000000002,0.8333,0.8113
-2023-11-03 01:04:18.256266,Southwest Division - Southwest Division 2023-24 - Division Winner,Dallas Mavericks,0.021699999999999997,0.4762,0.4545
 2023-11-03 04:04:04.551171,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Palmeiras,0.020399999999999974,0.996,0.9756
 2023-11-03 02:05:08.326403,To Make the Playoffs - Detroit Pistons - To Make the 2023-24 Playoffs,Yes,0.02020000000000001,0.1111,0.0909
 2023-11-03 06:04:30.225460,US Presidential Election 2024 - US Presidential Election 2024 - Sex Of Winner - Sex of Winner,Male,0.020199999999999996,0.9091,0.8889
@@ -59,37 +50,34 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-03 02:05:08.573691,To Make the Playoffs - Toronto Raptors - To Make the 2023-24 Playoffs,No,0.018399999999999972,0.7059,0.6875
 2023-11-03 02:05:08.495945,To Make the Playoffs - Orlando Magic - To Make the 2023-24 Playoffs,Yes,0.018100000000000005,0.4348,0.4167
 2023-11-03 04:04:04.522695,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Hulk (Atletico MG),0.018099999999999998,0.0769,0.0588
-2023-11-03 01:04:18.215583,Northwest Division - Northwest Division 2023-24 - Division Winner,Minnesota Timberwolves,0.0179,0.1429,0.125
 2023-11-03 02:05:08.464153,To Make the Playoffs - New York Knicks - To Make the 2023-24 Playoffs,No,0.017799999999999983,0.3077,0.2899
 2023-11-03 05:04:10.947688,Boxing Lines - Michal Cieslak vs Tommy McCarthy - To Win the Bout,Tommy McCarthy,0.015000000000000013,0.2817,0.2667
 2023-11-03 03:04:50.451849,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.014999999999999902,0.7333,0.7183
-2023-11-03 02:05:09.237674,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.014999999999999902,0.7333,0.7183
-2023-11-03 01:04:19.136640,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.014999999999999902,0.7333,0.7183
 2023-11-03 04:04:08.020153,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.014999999999999902,0.7333,0.7183
-2023-11-03 00:04:28.595768,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.014999999999999902,0.7333,0.7183
 2023-11-03 05:04:10.153312,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.014999999999999902,0.7333,0.7183
+2023-11-03 02:05:09.237674,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.014999999999999902,0.7333,0.7183
 2023-11-03 06:04:30.309292,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the 2020 presidential election Georgia result charges? - Georgia Result State Trial,Yes,0.014700000000000046,0.7647,0.75
 2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Sora Kamiya,0.014599999999999998,0.0278,0.0132
 2023-11-03 02:05:08.307522,To Make the Playoffs - Denver Nuggets - To Make the 2023-24 Playoffs,Yes,0.014499999999999957,0.9901,0.9756
 2023-11-03 04:04:04.535985,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Cuiabá,0.014099999999999998,0.0385,0.0244
 2023-11-03 05:04:08.591499,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Taylor Swift,0.013899999999999996,0.125,0.1111
 2023-11-03 06:04:30.320285,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the classified documents federal charges? - Classified Documents Federal Trial,Yes,0.0131,0.7778,0.7647
-2023-11-03 01:04:18.181300,Western Conference - Western Conference 2023-24 - Western Conference Winner,Phoenix Suns,0.0131,0.2353,0.2222
-2023-11-03 07:04:51.839903,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
-2023-11-03 03:04:51.449368,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
-2023-11-03 05:04:11.151545,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
-2023-11-03 06:04:31.243648,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
-2023-11-03 00:04:29.506506,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
-2023-11-03 09:05:01.012055,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
-2023-11-03 01:04:20.068528,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
-2023-11-03 04:04:09.057696,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
-2023-11-03 08:05:55.925039,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
-2023-11-03 11:06:53.834075,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
+2023-11-03 13:04:18.033939,FIBA Champions League - Champions League 2023/24 - Outright,Sport Lisboa Benfica,0.013,0.0196,0.0066
 2023-11-03 10:06:26.145528,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
+2023-11-03 03:04:51.449368,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
 2023-11-03 02:05:10.254255,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
+2023-11-03 04:04:09.057696,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
+2023-11-03 05:04:11.151545,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
+2023-11-03 11:06:53.834075,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
+2023-11-03 06:04:31.243648,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
+2023-11-03 13:04:19.791575,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
+2023-11-03 07:04:51.839903,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
+2023-11-03 08:05:55.925039,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
+2023-11-03 09:05:01.012055,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
 2023-11-03 11:06:53.783406,Boxing Lines - Noel Gevor Mikaelyan vs Ilunga Makabu - To Win the Bout,Noel Gevor Mikaelyan,0.012700000000000045,0.6491,0.6364
-2023-11-03 01:04:18.256266,Southwest Division - Southwest Division 2023-24 - Division Winner,San Antonio Spurs,0.012700000000000003,0.0323,0.0196
 2023-11-03 02:05:08.259474,To Make the Playoffs - Charlotte Hornets - To Make the 2023-24 Playoffs,No,0.011099999999999999,0.9,0.8889
+2023-11-03 13:04:19.598083,Boxing Lines - Michal Cieslak vs Tommy McCarthy - To Win the Bout,Michal Cieslak,0.011099999999999999,0.7937,0.7826
+2023-11-03 13:04:19.734755,Boxing Lines - Henry Lebron vs William Foster III - To Win the Bout,Henry Lebron,0.011099999999999999,0.4762,0.4651
 2023-11-03 08:05:56.472020,Round Match-Ups - 2nd Round Match-Up - C. Hadley v M. Kuchar - 2nd Round Match-Up,Matt Kuchar,0.010699999999999932,0.5455,0.5348
 2023-11-03 04:04:09.034685,Boxing Lines - Efe Ajagba vs Joseph Goodall - To Win the Bout,Joseph Goodall,0.010499999999999982,0.2105,0.2
 2023-11-03 11:06:53.576499,Boxing Lines - Walid Ouizza vs Charlemagne Metonyekpon - To Win the Bout,Walid Ouizza,0.010099999999999998,0.5556,0.5455
@@ -99,25 +87,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-03 09:05:00.939193,Boxing Lines - Henry Lebron vs William Foster III - To Win the Bout,Henry Lebron,-0.011099999999999999,0.4651,0.4762
 2023-11-03 11:06:53.576499,Boxing Lines - Walid Ouizza vs Charlemagne Metonyekpon - To Win the Bout,Charlemagne Metonyekpon,-0.011600000000000055,0.5122,0.5238
 2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Eun Hee Ji,-0.0119,0.0004,0.0123
-2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Linnea Strom,-0.0119,0.0004,0.0123
 2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Pajaree Anannarukarn,-0.0119,0.0004,0.0123
+2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Linnea Strom,-0.0119,0.0004,0.0123
 2023-11-03 02:05:08.259474,To Make the Playoffs - Charlotte Hornets - To Make the 2023-24 Playoffs,Yes,-0.011900000000000022,0.1667,0.1786
-2023-11-03 07:04:52.893573,Round Match-Ups - 2nd Round Match-Up - S. Ryder vs A. Long - 2nd Round Match-Up,Adam Long,-0.012199999999999989,0.4878,0.5
 2023-11-03 08:05:56.472020,Round Match-Ups - 2nd Round Match-Up - C. Hadley v M. Kuchar - 2nd Round Match-Up,Chesson Hadley,-0.012199999999999989,0.5,0.5122
-2023-11-03 07:04:51.942827,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
-2023-11-03 03:04:51.549305,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
+2023-11-03 07:04:52.893573,Round Match-Ups - 2nd Round Match-Up - S. Ryder vs A. Long - 2nd Round Match-Up,Adam Long,-0.012199999999999989,0.4878,0.5
 2023-11-03 09:05:01.103393,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
+2023-11-03 03:04:51.549305,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
 2023-11-03 02:05:10.355638,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
 2023-11-03 10:06:26.237688,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
-2023-11-03 01:04:20.164097,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
-2023-11-03 06:04:31.343142,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
 2023-11-03 11:06:53.965341,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
+2023-11-03 13:04:19.882310,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
 2023-11-03 08:05:56.015425,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
+2023-11-03 07:04:51.942827,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
+2023-11-03 06:04:31.343142,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
 2023-11-03 05:04:11.245273,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
-2023-11-03 00:04:29.674452,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
 2023-11-03 04:04:09.157649,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
 2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Peiyun Chien,-0.0128,0.0004,0.0132
-2023-11-03 01:04:18.215583,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,-0.012899999999999995,0.1538,0.1667
 2023-11-03 07:04:51.587144,Boxing Lines - Levi Giles vs Razaq Najib - To Win the Bout,Razaq Najib,-0.012899999999999995,0.1538,0.1667
 2023-11-03 04:04:08.946701,Boxing Lines - Omar Rosario vs Angel Rebollar - To Win the Bout,Omar Rosario,-0.0131,0.9524,0.9655
 2023-11-03 02:05:08.573691,To Make the Playoffs - Toronto Raptors - To Make the 2023-24 Playoffs,Yes,-0.013800000000000034,0.3636,0.3774
@@ -129,41 +115,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Erika Kikuchi,-0.0148,0.0004,0.0152
 2023-11-03 05:04:08.591499,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Janet Yellen,-0.014899999999999997,0.0476,0.0625
 2023-11-03 05:04:08.652425,Sphere - Next Sphere Residency After U2 - Next Sphere Residency,Stevie Wonder,-0.014899999999999997,0.0476,0.0625
-2023-11-03 02:05:09.225526,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.014999999999999902,0.7183,0.7333
-2023-11-03 05:04:10.142015,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.014999999999999902,0.7183,0.7333
-2023-11-03 00:04:28.583851,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.014999999999999902,0.7183,0.7333
 2023-11-03 04:04:08.002659,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.014999999999999902,0.7183,0.7333
+2023-11-03 02:05:09.225526,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.014999999999999902,0.7183,0.7333
 2023-11-03 03:04:50.440487,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.014999999999999902,0.7183,0.7333
-2023-11-03 01:04:19.125066,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.014999999999999902,0.7183,0.7333
+2023-11-03 05:04:10.142015,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.014999999999999902,0.7183,0.7333
+2023-11-03 13:04:19.598083,Boxing Lines - Michal Cieslak vs Tommy McCarthy - To Win the Bout,Tommy McCarthy,-0.015000000000000013,0.2667,0.2817
 2023-11-03 05:04:11.065080,Boxing Lines - Lindolfo Delgado vs Luis Hernandez Ramos - To Win the Bout,Luis Hernandez Ramos,-0.015100000000000002,0.1667,0.1818
 2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Andrea Lee,-0.016,0.0004,0.0164
 2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Mao Saigo,-0.0165,0.0079,0.0244
 2023-11-03 02:05:08.428734,To Make the Playoffs - Milwaukee Bucks - To Make the 2023-24 Playoffs,No,-0.016600000000000004,0.0667,0.0833
-2023-11-03 01:04:18.203986,Central Division - Central Division 2023-24 - Division Winner,Milwaukee Bucks,-0.016700000000000048,0.7333,0.75
 2023-11-03 06:04:30.320285,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the classified documents federal charges? - Classified Documents Federal Trial,No,-0.017799999999999983,0.2899,0.3077
-2023-11-03 06:04:30.749766,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Montreal Alouettes,-0.018099999999999998,0.0588,0.0769
-2023-11-03 04:04:04.515963,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Flamengo,-0.018099999999999998,0.0588,0.0769
 2023-11-03 02:05:08.225026,To Make the Playoffs - Boston Celtics - To Make the 2023-24 Playoffs,No,-0.018099999999999998,0.0588,0.0769
-2023-11-03 00:04:29.228621,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Texas Rangers,-0.01820000000000002,0.1818,0.2
-2023-11-03 01:04:18.192619,Atlantic Division - Atlantic Division 2023-24 - Division Winner,Philadelphia 76ers,-0.01820000000000002,0.1818,0.2
-2023-11-03 01:04:19.005157,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Scoot Henderson (POR),-0.019099999999999992,0.0476,0.0667
+2023-11-03 04:04:04.515963,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Flamengo,-0.018099999999999998,0.0588,0.0769
+2023-11-03 06:04:30.749766,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Montreal Alouettes,-0.018099999999999998,0.0588,0.0769
 2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Danielle Kang,-0.0192,0.0004,0.0196
 2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Jennifer Kupcho,-0.0194,0.005,0.0244
 2023-11-03 02:05:08.495945,To Make the Playoffs - Orlando Magic - To Make the 2023-24 Playoffs,No,-0.019499999999999962,0.6296,0.6491
 2023-11-03 04:04:04.522695,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Marcos Leonardo (Santos),-0.02020000000000001,0.0909,0.1111
 2023-11-03 05:04:08.591499,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Iran Protesters,-0.02020000000000001,0.0909,0.1111
 2023-11-03 06:04:30.749766,CFL Futures - Odds to win 2023 Grey Cup - Odds to win 2023 Grey Cup,Calgary Stampeders,-0.0203,0.0323,0.0526
-2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,In Gee Chun,-0.0213,0.0004,0.0217
 2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Chisato Iwai,-0.0213,0.0004,0.0217
+2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,In Gee Chun,-0.0213,0.0004,0.0217
 2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Jenny Shin,-0.021300000000000003,0.011,0.0323
 2023-11-03 02:05:08.464153,To Make the Playoffs - New York Knicks - To Make the 2023-24 Playoffs,Yes,-0.021700000000000053,0.7561,0.7778
 2023-11-03 02:05:08.296950,To Make the Playoffs - Dallas Mavericks - To Make the 2023-24 Playoffs,No,-0.021799999999999986,0.3704,0.3922
 2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Nana Suganuma,-0.023100000000000002,0.0013,0.0244
-2023-11-03 02:05:08.382558,To Make the Playoffs - Los Angeles Lakers - To Make the 2023-24 Playoffs,Yes,-0.0232,0.7727,0.7959
 2023-11-03 02:05:08.326403,To Make the Playoffs - Detroit Pistons - To Make the 2023-24 Playoffs,No,-0.0232,0.9524,0.9756
+2023-11-03 02:05:08.382558,To Make the Playoffs - Los Angeles Lakers - To Make the 2023-24 Playoffs,Yes,-0.0232,0.7727,0.7959
 2023-11-03 07:04:51.598589,Boxing Lines - Marine Beauchamp vs Dee Allen - To Win the Bout,Marine Beauchamp,-0.023799999999999988,0.3333,0.3571
-2023-11-03 02:05:08.337524,To Make the Playoffs - Golden State Warriors - To Make the 2023-24 Playoffs,No,-0.023800000000000016,0.2326,0.2564
 2023-11-03 02:05:10.006807,Boxing Lines - Levi Giles vs Razaq Najib - To Win the Bout,Razaq Najib,-0.023800000000000016,0.1667,0.1905
+2023-11-03 02:05:08.337524,To Make the Playoffs - Golden State Warriors - To Make the 2023-24 Playoffs,No,-0.023800000000000016,0.2326,0.2564
 2023-11-03 05:04:08.652425,Sphere - Next Sphere Residency After U2 - Next Sphere Residency,Bruce Springsteen,-0.024,0.0385,0.0625
 2023-11-03 02:05:08.307522,To Make the Playoffs - Denver Nuggets - To Make the 2023-24 Playoffs,No,-0.0242,0.0667,0.0909
 2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Momoko Ueda,-0.024499999999999997,0.0033,0.0278
@@ -174,11 +155,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-03 03:04:52.099047,World Wide Technology Championship - 2/3 Balls - 2nd Round 3 Balls - N. Echavarria / B. Gay / J. Herman - 2nd Round 3 Balls,Jim Herman,-0.02679999999999999,0.2857,0.3125
 2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Ai Suzuki,-0.027399999999999997,0.0004,0.0278
 2023-11-03 04:04:04.544459,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Fluminense,-0.028000000000000004,0.0196,0.0476
-2023-11-03 01:04:18.226720,Pacific Division - Pacific Division 2023-24 - Division Winner,Phoenix Suns,-0.029600000000000015,0.3704,0.4
+2023-11-03 13:04:18.033939,FIBA Champions League - Champions League 2023/24 - Outright,Galatasaray,-0.0286,0.0714,0.1
 2023-11-03 05:04:08.652425,Sphere - Next Sphere Residency After U2 - Next Sphere Residency,Lionel Richie,-0.030199999999999998,0.0323,0.0625
 2023-11-03 02:05:08.214929,To Make the Playoffs - Atlanta Hawks - To Make the 2023-24 Playoffs,Yes,-0.03259999999999996,0.6226,0.6552
 2023-11-03 02:05:08.562689,To Make the Playoffs - San Antonio Spurs - To Make the 2023-24 Playoffs,Yes,-0.033399999999999985,0.1333,0.1667
-2023-11-03 01:04:18.192619,Atlantic Division - Atlantic Division 2023-24 - Division Winner,New York Knicks,-0.03420000000000001,0.0769,0.1111
 2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Jiyai Shin,-0.03439999999999999,0.0323,0.0667
 2023-11-03 02:05:08.360100,To Make the Playoffs - Indiana Pacers - To Make the 2023-24 Playoffs,No,-0.03610000000000002,0.5556,0.5917
 2023-11-03 06:04:30.479360,Russian Politics - Vladimir Putin President Exit Date - Putin Exit Date,Before 2025,-0.03640000000000004,0.3636,0.4
@@ -186,13 +166,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-03 06:04:30.297947,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the 2020 election result federal charges? - Election Result Federal Trial,No,-0.03839999999999999,0.3125,0.3509
 2023-11-03 05:04:08.652425,Sphere - Next Sphere Residency After U2 - Next Sphere Residency,Cyndi Lauper,-0.0384,0.0385,0.0769
 2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Rose Zhang,-0.0392,0.0196,0.0588
-2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Hannah Green,-0.0402,0.0033,0.0435
 2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Kokona Sakurai,-0.0402,0.0033,0.0435
+2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Hannah Green,-0.0402,0.0033,0.0435
 2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Yuka Saso,-0.0427,0.0099,0.0526
 2023-11-03 02:05:08.443181,To Make the Playoffs - Minnesota Timberwolves - To Make the 2023-24 Playoffs,No,-0.043399999999999994,0.4444,0.4878
 2023-11-03 02:05:08.552498,To Make the Playoffs - Sacramento Kings - To Make the 2023-24 Playoffs,Yes,-0.04409999999999992,0.6226,0.6667
-2023-11-03 05:04:08.652425,Sphere - Next Sphere Residency After U2 - Next Sphere Residency,Duran Duran,-0.052399999999999995,0.0385,0.0909
 2023-11-03 05:04:08.652425,Sphere - Next Sphere Residency After U2 - Next Sphere Residency,Rolling Stones,-0.052399999999999995,0.0385,0.0909
+2023-11-03 05:04:08.652425,Sphere - Next Sphere Residency After U2 - Next Sphere Residency,Duran Duran,-0.052399999999999995,0.0385,0.0909
 2023-11-03 04:04:04.535985,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Corinthians,-0.0524,0.0476,0.1
 2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Miyu Yamashita,-0.0555,0.0033,0.0588
 2023-11-03 04:04:04.551171,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fortaleza,-0.05550000000000002,0.1667,0.2222
@@ -204,14 +184,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-03 04:04:04.535985,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Vasco da Gama,-0.08079999999999998,0.5556,0.6364
 2023-11-03 04:04:04.535985,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Bahia,-0.087,0.1429,0.2299
 2023-11-03 02:05:08.408220,To Make the Playoffs - Miami Heat - To Make the 2023-24 Playoffs,Yes,-0.08760000000000001,0.7874,0.875
-2023-11-03 05:04:08.652425,Sphere - Next Sphere Residency After U2 - Next Sphere Residency,Sting,-0.08979999999999999,0.0769,0.1667
 2023-11-03 04:04:04.551171,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Flamengo,-0.08979999999999999,0.8333,0.9231
+2023-11-03 05:04:08.652425,Sphere - Next Sphere Residency After U2 - Next Sphere Residency,Sting,-0.08979999999999999,0.0769,0.1667
 2023-11-03 04:04:04.544459,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Athletico Paranaense,-0.0909,0.0909,0.1818
 2023-11-03 02:05:08.453239,To Make the Playoffs - New Orleans Pelicans - To Make the 2023-24 Playoffs,No,-0.09549999999999997,0.4167,0.5122
 2023-11-03 05:04:08.591499,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Volodymyr Zelenskyy,-0.09999999999999998,0.5,0.6
 2023-11-03 03:04:52.567524,TOTO Japan Classic - Toto Japan Classic - Winner,Hyo Joo Kim,-0.1329,0.0004,0.1333
 2023-11-03 04:04:04.535985,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Santos,-0.16020000000000006,0.3636,0.5238
-2023-11-03 01:04:19.005157,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Chet Holmgren (OKC),-0.1666,0.1667,0.3333
 2023-11-03 04:04:04.551171,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Athletico Paranaense,-0.1744,0.4,0.5744
 2023-11-03 04:04:04.544459,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Flamengo,-0.1946,0.4545,0.6491
 2023-11-03 04:04:04.515963,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Botafogo,-0.21450000000000002,0.5556,0.7701
