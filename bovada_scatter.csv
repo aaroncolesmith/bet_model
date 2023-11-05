@@ -9,11 +9,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-04 17:06:40.433588,TimberTech Championship - TimberTech Championship - Winner,Ernie Els,0.048100000000000004,0.125,0.0769
 2023-11-04 18:05:36.102128,TimberTech Championship - TimberTech Championship - Winner,Padraig Harrington,0.03710000000000002,0.3448,0.3077
 2023-11-04 17:06:38.258256,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Manchester City,0.03639999999999999,0.6364,0.6
-2023-11-04 17:06:40.143587,Boxing Lines - Henry Lebron vs William Foster III - To Win the Bout,Henry Lebron,0.03179999999999994,0.5556,0.5238
 2023-11-04 17:06:37.533196,Serie A - Italy Serie A 2023/24 - Winner,Inter Milan,0.03179999999999994,0.5556,0.5238
+2023-11-04 17:06:40.143587,Boxing Lines - Henry Lebron vs William Foster III - To Win the Bout,Henry Lebron,0.03179999999999994,0.5556,0.5238
 2023-11-04 15:08:40.566361,Boxing Lines - Henry Lebron vs William Foster III - To Win the Bout,Henry Lebron,0.02679999999999999,0.5122,0.4854
 2023-11-04 17:06:40.433588,TimberTech Championship - TimberTech Championship - Winner,Stuart Appleby,0.026600000000000002,0.0323,0.0057
-2023-11-04 09:03:15.053136,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Chris Paul (GSW),0.02310000000000001,0.1,0.0769
 2023-11-04 19:04:39.918342,Futures - PGA Championship 2024 - Winner,Rory McIlroy,0.02020000000000001,0.1111,0.0909
 2023-11-04 10:05:59.768105,Boxing Lines - Sivenathi Nontshinga vs Adrian Curiel - To Win the Bout,Sivenathi Nontshinga,0.020199999999999996,0.9091,0.8889
 2023-11-04 17:06:40.433588,TimberTech Championship - TimberTech Championship - Winner,Rob Labritz,0.019100000000000002,0.0323,0.0132
@@ -21,43 +20,37 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-04 11:09:42.342932,Boxing Lines - Efe Ajagba vs Joseph Goodall - To Win the Bout,Joseph Goodall,0.01680000000000001,0.2273,0.2105
 2023-11-04 18:05:35.856562,Boxing Lines - Noel Gevor Mikaelyan vs Ilunga Makabu - To Win the Bout,Ilunga Makabu,0.016000000000000014,0.4082,0.3922
 2023-11-04 11:09:42.236385,Boxing Lines - Joe Cordina vs Edward Vazquez - To Win the Bout,Edward Vazquez,0.015899999999999997,0.1538,0.1379
-2023-11-04 17:06:40.446507,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Brandon Robinson Thompson,0.014099999999999998,0.0385,0.0244
 2023-11-04 17:06:40.433588,TimberTech Championship - TimberTech Championship - Winner,Paul Broadhurst,0.014099999999999998,0.0385,0.0244
-2023-11-04 11:09:42.364064,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
-2023-11-04 15:08:40.683392,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
-2023-11-04 18:05:35.899659,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
-2023-11-04 13:08:31.558243,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
-2023-11-04 12:11:31.505847,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
-2023-11-04 19:04:39.475756,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
-2023-11-04 17:06:40.195243,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
-2023-11-04 10:06:00.109129,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
-2023-11-04 09:03:16.378114,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
-2023-11-04 08:08:10.420200,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
-2023-11-04 07:04:50.805240,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
+2023-11-04 17:06:40.446507,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Brandon Robinson Thompson,0.014099999999999998,0.0385,0.0244
 2023-11-04 16:11:45.318189,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
+2023-11-04 19:04:39.475756,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
+2023-11-04 13:08:31.558243,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
+2023-11-04 15:08:40.683392,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
+2023-11-04 11:09:42.364064,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
+2023-11-04 10:06:00.109129,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
+2023-11-04 17:06:40.195243,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
+2023-11-04 12:11:31.505847,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
+2023-11-04 18:05:35.899659,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
+2023-11-04 21:06:17.312847,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
 2023-11-04 17:06:40.433588,TimberTech Championship - TimberTech Championship - Winner,Ken Duke,0.012700000000000003,0.0323,0.0196
 2023-11-04 17:06:40.446507,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Sam Bairstow,0.011699999999999999,0.0196,0.0079
-2023-11-04 15:08:40.539196,Boxing Lines - Trevor Bryan vs Cassius Chaney - To Win the Bout,Trevor Bryan,0.011600000000000055,0.5238,0.5122
 2023-11-04 16:11:45.265435,Boxing Lines - Henry Lebron vs William Foster III - To Win the Bout,Henry Lebron,0.011600000000000055,0.5238,0.5122
+2023-11-04 15:08:40.539196,Boxing Lines - Trevor Bryan vs Cassius Chaney - To Win the Bout,Trevor Bryan,0.011600000000000055,0.5238,0.5122
 2023-11-04 13:08:31.515958,Boxing Lines - Noel Gevor Mikaelyan vs Ilunga Makabu - To Win the Bout,Noel Gevor Mikaelyan,0.011499999999999955,0.6667,0.6552
 2023-11-04 17:06:37.533196,Serie A - Italy Serie A 2023/24 - Winner,Napoli,0.011099999999999999,0.1111,0.1
 2023-11-04 17:06:40.164462,Boxing Lines - Raymond Muratalla vs Diego Torres Nuñez - To Win the Bout,Raymond Muratalla,0.01090000000000002,0.8571,0.8462
-2023-11-04 09:03:16.355575,Boxing Lines - Efe Ajagba vs Joseph Goodall - To Win the Bout,Efe Ajagba,0.01090000000000002,0.8571,0.8462
-2023-11-04 16:11:45.265435,Boxing Lines - Henry Lebron vs William Foster III - To Win the Bout,William Foster III,-0.010099999999999998,0.5455,0.5556
 2023-11-04 15:08:40.539196,Boxing Lines - Trevor Bryan vs Cassius Chaney - To Win the Bout,Cassius Chaney,-0.010099999999999998,0.5455,0.5556
-2023-11-04 09:03:16.355575,Boxing Lines - Efe Ajagba vs Joseph Goodall - To Win the Bout,Joseph Goodall,-0.011700000000000016,0.2105,0.2222
-2023-11-04 07:04:50.930294,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
-2023-11-04 15:08:40.826478,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
-2023-11-04 16:11:45.402395,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
-2023-11-04 12:11:31.673271,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
-2023-11-04 11:09:42.448309,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
-2023-11-04 09:03:16.466062,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
-2023-11-04 17:06:40.278353,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
-2023-11-04 13:08:31.643213,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
-2023-11-04 10:06:00.296217,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
-2023-11-04 18:05:35.994971,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
-2023-11-04 08:08:10.508873,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
+2023-11-04 16:11:45.265435,Boxing Lines - Henry Lebron vs William Foster III - To Win the Bout,William Foster III,-0.010099999999999998,0.5455,0.5556
 2023-11-04 19:04:39.588099,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
+2023-11-04 15:08:40.826478,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
+2023-11-04 12:11:31.673271,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
+2023-11-04 13:08:31.643213,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
+2023-11-04 18:05:35.994971,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
+2023-11-04 11:09:42.448309,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
+2023-11-04 16:11:45.402395,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
+2023-11-04 10:06:00.296217,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
+2023-11-04 17:06:40.278353,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
+2023-11-04 21:06:17.425198,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
 2023-11-04 10:05:59.768105,Boxing Lines - Sivenathi Nontshinga vs Adrian Curiel - To Win the Bout,Adrian Curiel,-0.012899999999999995,0.1538,0.1667
 2023-11-04 17:06:40.446507,Challenge Tour Grand Final - Challenge Tour Grand Final - Winner,Brandon Stone,-0.0139,0.001,0.0149
 2023-11-04 11:09:42.236385,Boxing Lines - Joe Cordina vs Edward Vazquez - To Win the Bout,Joe Cordina,-0.014000000000000012,0.9091,0.9231
