@@ -1,80 +1,48 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-11-05 04:05:02.364946,Championship - England Championship 2023/24 - Top 6 Finish,West Bromwich Albion,0.06190000000000001,0.4255,0.3636
-2023-11-05 04:05:02.364946,Championship - England Championship 2023/24 - Top 6 Finish,Southampton,0.057699999999999974,0.75,0.6923
 2023-11-05 14:06:10.948919,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Manchester City,0.05590000000000006,0.6923,0.6364
 2023-11-05 15:04:35.128291,La Liga - Spain La Liga 2023/24 - Winner,FC Barcelona,0.047599999999999976,0.3333,0.2857
-2023-11-05 04:05:02.358048,Championship - England Championship 2023/24 - Top 2 Finish,Southampton,0.04269999999999999,0.1538,0.1111
-2023-11-05 04:05:02.326788,Championship - England Championship 2023/24 - To Be Promoted,West Bromwich Albion,0.04169999999999999,0.1667,0.125
-2023-11-05 04:05:02.337732,Championship - England Championship 2023/24 - To Be Relegated,Sheffield Wednesday,0.035699999999999954,0.75,0.7143
 2023-11-05 07:05:06.336358,Euroleague - Euroleague 2023/24 - Outright,Panathinaikos,0.0321,0.0909,0.0588
-2023-11-05 04:05:02.326788,Championship - England Championship 2023/24 - To Be Promoted,Southampton,0.030299999999999994,0.3636,0.3333
 2023-11-05 15:04:36.232227,NBL - NBL 2023/2024 - Regular Season MVP,Bryce Cotton,0.029299999999999993,0.0769,0.0476
-2023-11-05 04:05:02.364946,Championship - England Championship 2023/24 - Top 6 Finish,Preston North End,0.028799999999999992,0.1538,0.125
-2023-11-05 04:05:02.337732,Championship - England Championship 2023/24 - To Be Relegated,Rotherham Utd,0.027800000000000047,0.7778,0.75
-2023-11-05 04:05:02.293540,MLS - MLS 2023 - Winner,Los Angeles FC,0.02779999999999999,0.25,0.2222
+2023-11-05 16:11:23.252039,Serie A - Italy Serie A 2023/24 - Winner,Juventus,0.02779999999999999,0.25,0.2222
 2023-11-05 06:04:27.535380,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,0.023799999999999988,0.3571,0.3333
-2023-11-05 04:05:03.479318,Professional League - Saudi Professional League 2023/24 - Winner,Al Nassr,0.021999999999999964,0.3077,0.2857
+2023-11-05 16:11:23.278782,Ligue 1 - France Ligue 1 2023/24 - Winner,Nice,0.02020000000000001,0.1111,0.0909
 2023-11-05 05:04:45.906432,Round Match-Ups - Final Round Match-Up - T. Goya vs C. Villegas - Final Round Match-Up,Tano Goya,0.01970000000000005,0.5652,0.5455
 2023-11-05 12:05:38.841378,Euro Cup - Euro Cup 2023/24 - Outright,Paris,0.01820000000000002,0.2,0.1818
 2023-11-05 15:04:36.232227,NBL - NBL 2023/2024 - Regular Season MVP,Milton Doyle,0.01820000000000002,0.2,0.1818
-2023-11-05 04:05:02.358048,Championship - England Championship 2023/24 - Top 2 Finish,West Bromwich Albion,0.018200000000000004,0.0476,0.0294
 2023-11-05 09:06:54.961850,Boxing Lines - Mayerlin Rivas vs Erika Cruz Hernandez - To Win the Bout,Mayerlin Rivas,0.017299999999999982,0.303,0.2857
-2023-11-05 04:05:02.293540,MLS - MLS 2023 - Winner,FC Dallas,0.017099999999999997,0.0294,0.0123
 2023-11-05 14:06:10.948919,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Tottenham Hotspur,0.01440000000000001,0.1053,0.0909
 2023-11-05 13:03:59.342885,Euroleague - Euroleague 2023/24 - Outright,Virtus Bologna,0.014099999999999998,0.0385,0.0244
 2023-11-05 12:05:38.885649,LKL - Lithuania LKL 2023/24 - Outright,Zalgiris,0.014000000000000012,0.9231,0.9091
-2023-11-05 04:05:02.337732,Championship - England Championship 2023/24 - To Be Relegated,Millwall,0.013999999999999999,0.0909,0.0769
 2023-11-05 13:03:59.342885,Euroleague - Euroleague 2023/24 - Outright,AS Monaco,0.013899999999999996,0.125,0.1111
 2023-11-05 12:05:38.841378,Euro Cup - Euro Cup 2023/24 - Outright,Hapoel Tel-Aviv,0.013899999999999996,0.125,0.1111
 2023-11-05 13:03:59.353988,Euroleague - Euroleague 2023/24 - Regular Season League Winner,Virtus Bologna,0.0131,0.0476,0.0345
-2023-11-05 07:05:07.775753,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
 2023-11-05 05:04:45.302138,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
 2023-11-05 06:04:28.431003,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
 2023-11-05 09:06:54.892239,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
-2023-11-05 04:05:06.336032,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
-2023-11-05 04:05:02.350992,Championship - England Championship 2023/24 - To Finish Bottom,Sheffield Wednesday,0.012699999999999989,0.3636,0.3509
-2023-11-05 04:05:02.337732,Championship - England Championship 2023/24 - To Be Relegated,Coventry City,0.011199999999999995,0.0588,0.0476
+2023-11-05 07:05:07.775753,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.012799999999999978,0.2597,0.2469
 2023-11-05 13:03:59.353988,Euroleague - Euroleague 2023/24 - Regular Season League Winner,Maccabi Tel-Aviv,0.011199999999999995,0.0588,0.0476
-2023-11-05 04:05:02.364946,Championship - England Championship 2023/24 - Top 6 Finish,Ipswich Town,0.011199999999999988,0.9524,0.9412
-2023-11-05 04:05:02.364946,Championship - England Championship 2023/24 - Top 6 Finish,Bristol City,0.011099999999999999,0.1111,0.1
 2023-11-05 13:03:59.353988,Euroleague - Euroleague 2023/24 - Regular Season League Winner,AS Monaco,0.011099999999999999,0.1111,0.1
 2023-11-05 15:04:37.086135,Boxing Lines - Liam Davies vs Vincenzo La Femina - To Win the Bout,Vincenzo La Femina,0.010899999999999993,0.1538,0.1429
 2023-11-05 12:05:38.864673,NBL - NBL 2023/2024 - Outright,New Zealand Breakers,0.0102,0.0769,0.0667
 2023-11-05 06:04:28.638650,Boxing Lines - Ryan Garcia vs Oscar Duarte Jurado - To Win the Bout,Oscar Duarte Jurado,-0.010299999999999976,0.2564,0.2667
 2023-11-05 12:05:38.841378,Euro Cup - Euro Cup 2023/24 - Outright,Prometey,-0.011199999999999995,0.0476,0.0588
-2023-11-05 04:05:02.326788,Championship - England Championship 2023/24 - To Be Promoted,Cardiff City,-0.011199999999999995,0.0476,0.0588
-2023-11-05 04:05:02.326788,Championship - England Championship 2023/24 - To Be Promoted,Hull City,-0.011199999999999995,0.0476,0.0588
-2023-11-05 04:05:02.337732,Championship - England Championship 2023/24 - To Be Relegated,Preston North End,-0.011199999999999995,0.0476,0.0588
 2023-11-05 15:04:36.232227,NBL - NBL 2023/2024 - Regular Season MVP,Denzel Valentine,-0.011699999999999999,0.0079,0.0196
+2023-11-05 07:05:07.859841,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
 2023-11-05 06:04:28.617235,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
 2023-11-05 05:04:45.408170,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
-2023-11-05 07:05:07.859841,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
-2023-11-05 04:05:06.458479,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,-0.012799999999999978,0.2469,0.2597
-2023-11-05 04:05:02.326788,Championship - England Championship 2023/24 - To Be Promoted,Middlesbrough,-0.012899999999999995,0.1538,0.1667
 2023-11-05 09:06:54.961850,Boxing Lines - Mayerlin Rivas vs Erika Cruz Hernandez - To Win the Bout,Erika Cruz Hernandez,-0.0131,0.7647,0.7778
 2023-11-05 12:05:38.885649,LKL - Lithuania LKL 2023/24 - Outright,Rytas,-0.013899999999999996,0.1111,0.125
 2023-11-05 13:03:59.353988,Euroleague - Euroleague 2023/24 - Regular Season League Winner,Anadolu Efes,-0.014099999999999998,0.0294,0.0435
 2023-11-05 12:05:38.841378,Euro Cup - Euro Cup 2023/24 - Outright,Budućnost,-0.014099999999999998,0.0294,0.0435
-2023-11-05 04:05:02.326788,Championship - England Championship 2023/24 - To Be Promoted,Coventry City,-0.014099999999999998,0.0244,0.0385
 2023-11-05 12:05:38.841378,Euro Cup - Euro Cup 2023/24 - Outright,Türk Telekom,-0.014100000000000001,0.0385,0.0526
+2023-11-05 15:04:36.232227,NBL - NBL 2023/2024 - Regular Season MVP,Mitch Creek,-0.015100000000000002,0.1667,0.1818
 2023-11-05 07:05:06.336358,Euroleague - Euroleague 2023/24 - Outright,Milano,-0.015300000000000001,0.0435,0.0588
 2023-11-05 15:04:36.244544,B League - Japan B League 1 2023/2024 - Outright,Shimane Susanoo Magic,-0.016600000000000004,0.0667,0.0833
-2023-11-05 04:05:02.293540,MLS - MLS 2023 - Winner,Columbus Crew,-0.0179,0.125,0.1429
-2023-11-05 04:05:02.337732,Championship - England Championship 2023/24 - To Be Relegated,Birmingham City,-0.018099999999999998,0.0588,0.0769
-2023-11-05 04:05:02.337732,Championship - England Championship 2023/24 - To Be Relegated,Bristol City,-0.018099999999999998,0.0588,0.0769
+2023-11-05 16:11:23.278782,Ligue 1 - France Ligue 1 2023/24 - Winner,Paris Saint-Germain,-0.017900000000000027,0.8571,0.875
 2023-11-05 07:05:06.359741,NBL - NBL 2023/2024 - Outright,Brisbane Bullets,-0.018099999999999998,0.0588,0.0769
-2023-11-05 04:05:02.358048,Championship - England Championship 2023/24 - Top 2 Finish,Ipswich Town,-0.01880000000000004,0.5556,0.5744
-2023-11-05 04:05:02.293540,MLS - MLS 2023 - Winner,Seattle Sounders,-0.02020000000000001,0.0909,0.1111
 2023-11-05 07:05:06.336358,Euroleague - Euroleague 2023/24 - Outright,Olympiakos,-0.02020000000000001,0.0909,0.1111
-2023-11-05 04:05:02.364946,Championship - England Championship 2023/24 - Top 6 Finish,Coventry City,-0.022199999999999998,0.1111,0.1333
-2023-11-05 04:05:02.326788,Championship - England Championship 2023/24 - To Be Promoted,Ipswich Town,-0.022600000000000064,0.6,0.6226
 2023-11-05 13:03:59.353988,Euroleague - Euroleague 2023/24 - Regular Season League Winner,Milano,-0.023200000000000002,0.0294,0.0526
 2023-11-05 05:04:45.906432,Round Match-Ups - Final Round Match-Up - T. Goya vs C. Villegas - Final Round Match-Up,Camilo Villegas,-0.023799999999999988,0.4762,0.5
-2023-11-05 04:05:02.364946,Championship - England Championship 2023/24 - Top 6 Finish,Sunderland,-0.02560000000000001,0.3077,0.3333
-2023-11-05 04:05:02.364946,Championship - England Championship 2023/24 - Top 6 Finish,Stoke City,-0.027999999999999997,0.1538,0.1818
-2023-11-05 04:05:02.358048,Championship - England Championship 2023/24 - Top 2 Finish,Leicester City,-0.03180000000000005,0.8571,0.8889
 2023-11-05 15:04:35.128291,La Liga - Spain La Liga 2023/24 - Winner,Real Madrid,-0.03259999999999996,0.6226,0.6552
-2023-11-05 04:05:02.337732,Championship - England Championship 2023/24 - To Be Relegated,Plymouth Argyle,-0.03570000000000001,0.25,0.2857
-2023-11-05 04:05:02.364946,Championship - England Championship 2023/24 - Top 6 Finish,Middlesbrough,-0.03640000000000004,0.3636,0.4
 2023-11-05 14:06:10.948919,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Liverpool,-0.04849999999999999,0.1333,0.1818
-2023-11-05 04:05:02.364946,Championship - England Championship 2023/24 - Top 6 Finish,Hull City,-0.04999999999999999,0.2,0.25
+2023-11-05 16:11:23.252039,Serie A - Italy Serie A 2023/24 - Winner,AC Milan,-0.05080000000000001,0.1818,0.2326
