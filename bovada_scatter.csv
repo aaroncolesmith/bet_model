@@ -1,10 +1,13 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2023-11-07 03:06:02.790737,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,CJ Stroud,0.2659,0.8403,0.5744
+2023-11-07 03:06:02.780855,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Jalen Carter,0.14680000000000004,0.6923,0.5455
 2023-11-06 17:12:30.672548,NBL - NBL 2023/2024 - To Make Top 4,Perth Wildcats,0.13190000000000002,0.4444,0.3125
 2023-11-07 02:05:11.390083,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Chelsea,0.11780000000000002,0.4255,0.3077
 2023-11-06 17:12:30.612281,NBL - NBL 2023/2024 - Outright,Sydney Kings,0.10709999999999997,0.3571,0.25
 2023-11-06 17:12:30.688286,NBL - NBL 2023/2024 - To Make Top 6,Perth Wildcats,0.09699999999999998,0.697,0.6
 2023-11-06 23:08:22.337928,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Midtjylland,0.0917,0.5917,0.5
 2023-11-06 17:12:30.657788,NBL - NBL 2023/2024 - To Make Grand Final,Perth Wildcats,0.08979999999999999,0.1667,0.0769
+2023-11-07 03:06:02.739916,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Josh Dobbs,0.08099999999999999,0.0909,0.0099
 2023-11-07 02:05:11.382843,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Newcastle United,0.08080000000000004,0.4444,0.3636
 2023-11-07 01:05:23.801430,Serie A - Italy Serie A 2023/24 - To Be Relegated,Hellas Verona,0.06990000000000002,0.4545,0.3846
 2023-11-06 17:12:30.594821,NBL - NBL 2023/2024 - Most Losses,Illawarra Hawks,0.06779999999999997,0.5556,0.4878
@@ -20,45 +23,55 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-07 02:05:11.390083,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Brighton & Hove Albion,0.05130000000000001,0.3846,0.3333
 2023-11-07 01:05:23.808094,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Salernitana,0.047599999999999976,0.3333,0.2857
 2023-11-07 01:05:23.859779,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Reims,0.047599999999999976,0.3333,0.2857
+2023-11-07 03:06:02.730229,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,John Harbaugh,0.0474,0.0909,0.0435
 2023-11-06 15:11:53.327354,Daily Specials - NBA Daily Specials - Monday 6th Nevember - Early Games,"Austin Reaves 8+ points, Giannis Antetokounmpo 18+ points, DeMar DeRozan 14+ points, Mikal Bridges 15+ points, Anthony Edwards 16+ points",0.04469999999999996,0.6364,0.5917
 2023-11-07 01:05:23.801430,Serie A - Italy Serie A 2023/24 - To Be Relegated,Empoli,0.044399999999999995,0.6,0.5556
 2023-11-07 02:05:11.375168,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Arsenal,0.044399999999999995,0.4444,0.4
 2023-11-07 02:05:11.398019,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,West Ham United,0.044399999999999995,0.4444,0.4
 2023-11-06 23:08:22.349569,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Viborg FF,0.043800000000000006,0.2105,0.1667
+2023-11-07 03:06:02.730229,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,DeMeco Ryans,0.042899999999999994,0.1429,0.1
 2023-11-07 01:05:23.808094,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Hellas Verona,0.04269999999999999,0.1538,0.1111
+2023-11-07 03:06:02.749420,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Micah Parsons,0.03710000000000002,0.3704,0.3333
 2023-11-07 01:05:23.731442,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Athletic Bilbao,0.0368,0.2667,0.2299
 2023-11-07 02:05:11.412648,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Luton Town,0.0368,0.2667,0.2299
 2023-11-07 01:05:24.631866,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Boston Celtics,0.0348,0.4348,0.4
 2023-11-07 01:05:26.626604,Tournament Match-Ups - Tournament Match-Ups - D. Riley vs S. Cink - Tournament Match-Ups,Davis Riley,0.03479999999999994,0.6,0.5652
 2023-11-07 02:05:12.150430,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Rudy Gobert (MIN),0.03420000000000001,0.1111,0.0769
 2023-11-07 02:05:11.359668,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Burnley,0.03179999999999994,0.5556,0.5238
+2023-11-07 03:06:02.739916,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Tua Tagovailoa,0.030299999999999994,0.3636,0.3333
+2023-11-07 03:06:02.739916,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Baker Mayfield,0.030199999999999998,0.0625,0.0323
 2023-11-06 23:08:22.349569,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,AGF Aarhus,0.02980000000000005,0.7701,0.7403
 2023-11-06 23:08:22.349569,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,FC Nordsjælland,0.02969999999999995,0.9709,0.9412
 2023-11-07 02:05:11.390083,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,West Ham United,0.0294,0.0588,0.0294
-2023-11-06 17:12:30.594821,NBL - NBL 2023/2024 - Most Losses,Cairns Taipans,0.028799999999999992,0.1538,0.125
 2023-11-07 02:05:11.382843,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Chelsea,0.028799999999999992,0.1538,0.125
+2023-11-06 17:12:30.594821,NBL - NBL 2023/2024 - Most Losses,Cairns Taipans,0.028799999999999992,0.1538,0.125
+2023-11-07 03:06:02.739916,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Lamar Jackson,0.028399999999999995,0.0909,0.0625
 2023-11-06 17:12:30.637743,NBL - NBL 2023/2024 - Regular Season MVP,Jo Lual Acuil,0.028199999999999996,0.0667,0.0385
 2023-11-07 02:05:12.173357,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Nikola Jokic (DEN),0.02779999999999999,0.25,0.2222
 2023-11-07 01:05:23.832179,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Monaco,0.02560000000000001,0.3333,0.3077
-2023-11-07 01:05:23.768756,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Bochum,0.02560000000000001,0.3333,0.3077
+2023-11-07 03:06:02.749420,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Myles Garrett,0.02560000000000001,0.3333,0.3077
 2023-11-07 01:05:23.768756,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Mainz,0.02560000000000001,0.3333,0.3077
+2023-11-07 01:05:23.768756,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Bochum,0.02560000000000001,0.3333,0.3077
 2023-11-07 02:05:11.390083,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Manchester United,0.025499999999999967,0.4255,0.4
 2023-11-07 01:05:23.859779,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Monaco,0.025000000000000022,0.9,0.875
-2023-11-07 02:05:11.359668,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Wolverhampton Wanderers,0.024999999999999994,0.125,0.1
 2023-11-07 02:05:11.375168,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Newcastle United,0.024999999999999994,0.125,0.1
-2023-11-07 02:05:11.367488,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Sheffield United,0.023799999999999988,0.5,0.4762
-2023-11-06 23:08:22.337928,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,AGF Aarhus,0.023799999999999988,0.1667,0.1429
-2023-11-06 17:12:30.502794,Euroleague - Euroleague 2023/24 - To Make Final Four,Panathinaikos,0.023799999999999988,0.3571,0.3333
+2023-11-07 02:05:11.359668,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Wolverhampton Wanderers,0.024999999999999994,0.125,0.1
 2023-11-06 17:12:30.688286,NBL - NBL 2023/2024 - To Make Top 6,Illawarra Hawks,0.023799999999999988,0.1667,0.1429
-2023-11-07 01:05:23.724852,La Liga - Spain La Liga 2023/24 - To Be Relegated,Almería,0.023799999999999932,0.8571,0.8333
+2023-11-06 17:12:30.502794,Euroleague - Euroleague 2023/24 - To Make Final Four,Panathinaikos,0.023799999999999988,0.3571,0.3333
+2023-11-06 23:08:22.337928,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,AGF Aarhus,0.023799999999999988,0.1667,0.1429
+2023-11-07 02:05:11.367488,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Sheffield United,0.023799999999999988,0.5,0.4762
+2023-11-07 03:06:02.730229,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Dan Campbell,0.023799999999999988,0.3571,0.3333
 2023-11-07 01:05:23.815189,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Juventus,0.023799999999999932,0.8571,0.8333
 2023-11-07 01:05:23.761640,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Harry Kane,0.023799999999999932,0.8571,0.8333
+2023-11-07 01:05:23.724852,La Liga - Spain La Liga 2023/24 - To Be Relegated,Almería,0.023799999999999932,0.8571,0.8333
+2023-11-07 03:06:02.730229,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Kevin O'Connell,0.0236,0.0385,0.0149
 2023-11-07 02:05:11.405477,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Newcastle United,0.023200000000000002,0.0476,0.0244
 2023-11-06 17:12:30.637743,NBL - NBL 2023/2024 - Regular Season MVP,Bryce Cotton,0.02310000000000001,0.1,0.0769
 2023-11-07 01:05:23.774986,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Borussia Dortmund,0.022199999999999998,0.8,0.7778
 2023-11-07 01:05:23.774986,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,RB Leipzig,0.022199999999999998,0.8,0.7778
 2023-11-07 01:05:23.853250,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Monaco,0.02200000000000002,0.7143,0.6923
 2023-11-07 01:05:23.853250,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Nice,0.02200000000000002,0.7143,0.6923
+2023-11-07 03:06:02.229893,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Republican,0.02169999999999994,0.5455,0.5238
 2023-11-06 17:12:33.085549,Tournament Match-Ups - Tournament Match-Ups - D. Ghim vs R. Palmer - Tournament Match-Ups,Doug Ghim,0.02079999999999993,0.5556,0.5348
 2023-11-06 15:11:53.411115,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Scottie Barnes (TOR),0.02049999999999999,0.1538,0.1333
 2023-11-07 02:05:11.390083,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Brentford,0.0203,0.0588,0.0385
@@ -69,43 +82,50 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-07 01:05:24.643369,Western Conference - Western Conference 2023-24 - Western Conference Winner,Dallas Mavericks,0.01949999999999999,0.0909,0.0714
 2023-11-06 23:08:22.349569,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,FC Midtjylland,0.019199999999999995,0.9901,0.9709
 2023-11-06 17:12:30.637743,NBL - NBL 2023/2024 - Regular Season MVP,Alan Williams,0.019099999999999992,0.0667,0.0476
-2023-11-06 17:12:30.657788,NBL - NBL 2023/2024 - To Make Grand Final,Tasmania JackJumpers,0.019000000000000017,0.2857,0.2667
 2023-11-07 02:05:11.398019,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Crystal Palace,0.019000000000000017,0.2857,0.2667
+2023-11-06 17:12:30.657788,NBL - NBL 2023/2024 - To Make Grand Final,Tasmania JackJumpers,0.019000000000000017,0.2857,0.2667
 2023-11-07 02:05:11.398019,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Brentford,0.018900000000000028,0.4444,0.4255
 2023-11-06 17:12:30.637743,NBL - NBL 2023/2024 - Regular Season MVP,DJ Hogg,0.0189,0.0385,0.0196
 2023-11-07 01:05:26.614648,Tournament Match-Ups - Tournament Match-Ups - D. Ghim vs R. Palmer - Tournament Match-Ups,Doug Ghim,0.01880000000000004,0.5744,0.5556
 2023-11-07 02:05:11.412648,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Fulham,0.018100000000000005,0.9412,0.9231
 2023-11-06 17:12:30.688286,NBL - NBL 2023/2024 - To Make Top 6,Tasmania JackJumpers,0.017900000000000027,0.875,0.8571
 2023-11-06 17:12:30.688286,NBL - NBL 2023/2024 - To Make Top 6,SE Melbourne Phoenix,0.017900000000000027,0.875,0.8571
-2023-11-07 01:05:23.853250,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Reims,0.0179,0.1429,0.125
 2023-11-06 17:12:30.657788,NBL - NBL 2023/2024 - To Make Grand Final,New Zealand Breakers,0.0179,0.1429,0.125
+2023-11-07 01:05:23.853250,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Reims,0.0179,0.1429,0.125
 2023-11-07 01:05:23.832179,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Nice,0.017600000000000005,0.3509,0.3333
 2023-11-07 01:05:23.774986,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Bayer Leverkusen,0.01759999999999995,0.998,0.9804
 2023-11-07 02:05:11.390083,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Newcastle United,0.016700000000000048,0.75,0.7333
 2023-11-07 01:05:24.620098,NBA Championship - NBA Championship 2023-24 - NBA Champion,Denver Nuggets,0.015100000000000002,0.1818,0.1667
+2023-11-07 03:06:02.730229,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Nick Sirianni,0.014899999999999997,0.0625,0.0476
 2023-11-07 01:05:23.738072,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Athletic Bilbao,0.014099999999999994,0.0667,0.0526
 2023-11-07 02:05:12.139678,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Rick Carlisle,0.013999999999999999,0.0909,0.0769
-2023-11-07 01:05:23.846405,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Strasbourg,0.013899999999999996,0.125,0.1111
 2023-11-07 01:05:23.801430,Serie A - Italy Serie A 2023/24 - To Be Relegated,Genoa,0.013899999999999996,0.125,0.1111
+2023-11-07 03:06:02.243658,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Gavin Newsom,0.013899999999999996,0.125,0.1111
+2023-11-07 01:05:23.846405,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Strasbourg,0.013899999999999996,0.125,0.1111
+2023-11-07 03:06:02.749420,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Nick Bosa,0.012700000000000003,0.0323,0.0196
+2023-11-07 03:06:02.749420,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Maxx Crosby,0.012700000000000003,0.0323,0.0196
 2023-11-07 02:05:11.375168,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Chelsea,0.012100000000000001,0.0244,0.0123
-2023-11-06 17:12:30.657788,NBL - NBL 2023/2024 - To Make Grand Final,Sydney Kings,0.01100000000000001,0.5348,0.5238
+2023-11-07 03:06:02.749420,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Aidan Hutchinson,0.011199999999999995,0.0588,0.0476
 2023-11-07 01:05:26.580096,Tournament Match-Ups - Tournament Match-Ups - A. Bhatia vs L. Glover - Tournament Match-Ups,Lucas Glover,0.01100000000000001,0.5348,0.5238
+2023-11-06 17:12:30.657788,NBL - NBL 2023/2024 - To Make Grand Final,Sydney Kings,0.01100000000000001,0.5348,0.5238
 2023-11-07 02:05:11.382843,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Manchester United,0.010899999999999993,0.1538,0.1429
+2023-11-07 03:06:02.790737,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Will Levis,0.010700000000000001,0.0385,0.0278
 2023-11-07 01:05:24.710744,Southeast Division - Southeast Division 2023-24 - Division Winner,Miami Heat,0.010599999999999998,0.4651,0.4545
 2023-11-07 02:05:12.184009,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Dereck Lively II (DAL),0.010100000000000001,0.0345,0.0244
 2023-11-07 01:05:23.846405,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Metz,-0.010099999999999998,0.5455,0.5556
-2023-11-07 01:05:24.620098,NBA Championship - NBA Championship 2023-24 - NBA Champion,Los Angeles Clippers,-0.0102,0.0667,0.0769
 2023-11-07 01:05:23.853250,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Brest,-0.0102,0.0667,0.0769
+2023-11-07 03:06:03.272542,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Justin Thomas,-0.0102,0.0667,0.0769
+2023-11-07 01:05:24.620098,NBA Championship - NBA Championship 2023-24 - NBA Champion,Los Angeles Clippers,-0.0102,0.0667,0.0769
 2023-11-07 01:05:24.620098,NBA Championship - NBA Championship 2023-24 - NBA Champion,Los Angeles Lakers,-0.0102,0.0667,0.0769
 2023-11-06 17:12:30.612281,NBL - NBL 2023/2024 - Outright,Adelaide 36ers,-0.0103,0.002,0.0123
 2023-11-07 01:05:26.580096,Tournament Match-Ups - Tournament Match-Ups - A. Bhatia vs L. Glover - Tournament Match-Ups,Akshay Bhatia,-0.010699999999999932,0.5348,0.5455
 2023-11-06 16:12:28.551956,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Arsenal,-0.010899999999999993,0.1429,0.1538
-2023-11-07 01:05:24.643369,Western Conference - Western Conference 2023-24 - Western Conference Winner,Los Angeles Lakers,-0.011099999999999999,0.1,0.1111
-2023-11-07 02:05:10.915876,MLS - MLS 2023 - Winner,Orlando City,-0.011099999999999999,0.1,0.1111
-2023-11-07 01:05:24.643369,Western Conference - Western Conference 2023-24 - Western Conference Winner,L.A. Clippers,-0.011099999999999999,0.1,0.1111
 2023-11-07 02:05:10.915876,MLS - MLS 2023 - Winner,Philadelphia Union,-0.011099999999999999,0.1,0.1111
-2023-11-07 02:05:12.115530,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Malcolm Brogdon (POR),-0.011199999999999995,0.0476,0.0588
+2023-11-07 01:05:24.643369,Western Conference - Western Conference 2023-24 - Western Conference Winner,L.A. Clippers,-0.011099999999999999,0.1,0.1111
+2023-11-07 02:05:10.915876,MLS - MLS 2023 - Winner,Orlando City,-0.011099999999999999,0.1,0.1111
+2023-11-07 01:05:24.643369,Western Conference - Western Conference 2023-24 - Western Conference Winner,Los Angeles Lakers,-0.011099999999999999,0.1,0.1111
 2023-11-07 02:05:12.139678,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Erik Spoelstra,-0.011199999999999995,0.0476,0.0588
+2023-11-07 02:05:12.115530,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Malcolm Brogdon (POR),-0.011199999999999995,0.0476,0.0588
 2023-11-06 17:12:30.637743,NBL - NBL 2023/2024 - Regular Season MVP,Jordan Crawford,-0.011199999999999995,0.0476,0.0588
 2023-11-06 17:12:30.672548,NBL - NBL 2023/2024 - To Make Top 4,Tasmania JackJumpers,-0.011499999999999955,0.6552,0.6667
 2023-11-06 17:12:30.878388,WNBL - Australia WNBL 2023/24 - Outright,Bendigo Spirit (W),-0.012600000000000007,0.0588,0.0714
@@ -116,17 +136,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-06 23:08:22.326291,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Odense,-0.01319999999999999,0.25,0.2632
 2023-11-07 02:05:11.359668,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Fulham,-0.013899999999999996,0.1111,0.125
 2023-11-06 17:12:30.637743,NBL - NBL 2023/2024 - Regular Season MVP,Nathan Sobey,-0.013899999999999996,0.1111,0.125
+2023-11-07 03:06:02.739916,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Breece Hall,-0.013999999999999999,0.0769,0.0909
+2023-11-07 01:05:23.731442,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Betis,-0.013999999999999999,0.0769,0.0909
 2023-11-06 17:12:30.878388,WNBL - Australia WNBL 2023/24 - Outright,Adelaide Lightning (W),-0.013999999999999999,0.0769,0.0909
 2023-11-07 01:05:23.724852,La Liga - Spain La Liga 2023/24 - To Be Relegated,Getafe,-0.013999999999999999,0.0769,0.0909
-2023-11-07 01:05:23.731442,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Betis,-0.013999999999999999,0.0769,0.0909
 2023-11-06 17:12:30.657788,NBL - NBL 2023/2024 - To Make Grand Final,Adelaide 36ers,-0.014099999999999998,0.0244,0.0385
+2023-11-07 03:06:02.739916,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Matthew Stafford,-0.014099999999999998,0.0244,0.0385
 2023-11-06 16:12:28.551956,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Tottenham Hotspur,-0.01440000000000001,0.0909,0.1053
-2023-11-06 23:08:22.349569,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Lyngby BK,-0.015100000000000002,0.1667,0.1818
-2023-11-07 01:05:24.620098,NBA Championship - NBA Championship 2023-24 - NBA Champion,Milwaukee Bucks,-0.015100000000000002,0.1667,0.1818
+2023-11-07 03:06:02.739916,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Cooper Kupp,-0.014899999999999997,0.0476,0.0625
 2023-11-06 16:12:26.921292,Serie A - Italy Serie A 2023/24 - Winner,AC Milan,-0.015100000000000002,0.1667,0.1818
+2023-11-07 01:05:24.620098,NBA Championship - NBA Championship 2023-24 - NBA Champion,Milwaukee Bucks,-0.015100000000000002,0.1667,0.1818
+2023-11-06 23:08:22.349569,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Lyngby BK,-0.015100000000000002,0.1667,0.1818
+2023-11-07 03:06:02.730229,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Mike McDaniel,-0.016699999999999993,0.25,0.2667
 2023-11-07 01:05:24.691984,Pacific Division - Pacific Division 2023-24 - Division Winner,L.A. Clippers,-0.016699999999999993,0.25,0.2667
 2023-11-07 02:05:11.382843,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Brighton & Hove Albion,-0.0179,0.125,0.1429
 2023-11-06 17:12:30.672548,NBL - NBL 2023/2024 - To Make Top 4,Sydney Kings,-0.017900000000000027,0.8571,0.875
+2023-11-07 03:06:02.790737,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Bijan Robinson,-0.018099999999999998,0.0588,0.0769
+2023-11-07 03:06:02.790737,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Jordan Addison,-0.018099999999999998,0.0588,0.0769
 2023-11-07 02:05:10.915876,MLS - MLS 2023 - Winner,Houston Dynamo,-0.018099999999999998,0.0588,0.0769
 2023-11-06 23:08:22.315430,Superligaen - Denmark Superligaen 2023/24 - Winner,Brøndby IF,-0.01820000000000002,0.1818,0.2
 2023-11-07 01:05:23.801430,Serie A - Italy Serie A 2023/24 - To Be Relegated,Udinese,-0.01820000000000002,0.1818,0.2
@@ -137,11 +163,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-07 01:05:23.808094,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Cagliari,-0.019000000000000017,0.2667,0.2857
 2023-11-07 01:05:23.801430,Serie A - Italy Serie A 2023/24 - To Be Relegated,Monza,-0.019099999999999992,0.0476,0.0667
 2023-11-07 02:05:11.412648,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Wolverhampton Wanderers,-0.019100000000000006,0.9333,0.9524
+2023-11-07 03:06:02.730229,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Pete Carroll,-0.0203,0.0385,0.0588
 2023-11-07 01:05:23.754941,1. Bundesliga - Germany Bundesliga 2023/24 - Winner without Bayern Munich,VfB Stuttgart,-0.0203,0.0385,0.0588
 2023-11-06 17:12:30.612281,NBL - NBL 2023/2024 - Outright,Brisbane Bullets,-0.0203,0.0385,0.0588
-2023-11-06 17:12:30.516509,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Bayern Munich,-0.021999999999999964,0.2857,0.3077
 2023-11-06 17:12:30.657788,NBL - NBL 2023/2024 - To Make Grand Final,SE Melbourne Phoenix,-0.021999999999999964,0.2857,0.3077
 2023-11-07 01:05:23.724852,La Liga - Spain La Liga 2023/24 - To Be Relegated,Celta de Vigo,-0.021999999999999964,0.2857,0.3077
+2023-11-06 17:12:30.516509,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Bayern Munich,-0.021999999999999964,0.2857,0.3077
 2023-11-07 01:05:23.731442,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Sociedad,-0.021999999999999964,0.2857,0.3077
 2023-11-06 17:12:30.672548,NBL - NBL 2023/2024 - To Make Top 4,SE Melboune Phoenix,-0.022199999999999998,0.6552,0.6774
 2023-11-07 02:05:11.405477,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Crystal Palace,-0.022199999999999998,0.7778,0.8
@@ -150,8 +177,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-06 17:12:30.672548,NBL - NBL 2023/2024 - To Make Top 4,Illawarra Hawks,-0.0232,0.0435,0.0667
 2023-11-06 23:08:22.349569,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Vejle BK,-0.0236,0.0149,0.0385
 2023-11-06 17:12:30.516509,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Fenerbahce,-0.023799999999999932,0.8333,0.8571
-2023-11-06 17:12:33.106350,Tournament Match-Ups - Tournament Match-Ups - D. Riley vs S. Cink - Tournament Match-Ups,Stewart Cink,-0.023800000000000043,0.5,0.5238
 2023-11-07 01:05:23.853250,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Marseille,-0.023800000000000043,0.5,0.5238
+2023-11-07 03:06:02.229893,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,-0.023800000000000043,0.5,0.5238
+2023-11-06 17:12:33.106350,Tournament Match-Ups - Tournament Match-Ups - D. Riley vs S. Cink - Tournament Match-Ups,Stewart Cink,-0.023800000000000043,0.5,0.5238
 2023-11-06 17:12:30.672548,NBL - NBL 2023/2024 - To Make Top 4,Adelaide 36ers,-0.0242,0.0667,0.0909
 2023-11-07 01:05:23.859779,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Toulouse,-0.0242,0.0667,0.0909
 2023-11-07 01:05:26.614648,Tournament Match-Ups - Tournament Match-Ups - D. Ghim vs R. Palmer - Tournament Match-Ups,Ryan Palmer,-0.024399999999999977,0.4878,0.5122
@@ -164,12 +192,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-07 02:05:11.382843,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Tottenham Hotspur,-0.025599999999999956,0.5744,0.6
 2023-11-07 01:05:23.801430,Serie A - Italy Serie A 2023/24 - To Be Relegated,Cagliari,-0.026499999999999968,0.6226,0.6491
 2023-11-07 02:05:12.150430,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Anthony Davis (LAL),-0.0267,0.0909,0.1176
-2023-11-06 23:08:22.349569,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Randers,-0.027999999999999997,0.1538,0.1818
 2023-11-07 01:05:23.815189,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Fiorentina,-0.027999999999999997,0.1538,0.1818
-2023-11-06 23:08:22.337928,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Brøndby IF,-0.030299999999999994,0.6364,0.6667
-2023-11-07 01:05:24.691984,Pacific Division - Pacific Division 2023-24 - Division Winner,Phoenix Suns,-0.030299999999999994,0.303,0.3333
+2023-11-06 23:08:22.349569,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Randers,-0.027999999999999997,0.1538,0.1818
 2023-11-06 17:12:30.672548,NBL - NBL 2023/2024 - To Make Top 4,Brisbane Bullets,-0.030299999999999994,0.3333,0.3636
 2023-11-07 02:05:11.405477,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,West Ham United,-0.030299999999999994,0.6364,0.6667
+2023-11-07 01:05:24.691984,Pacific Division - Pacific Division 2023-24 - Division Winner,Phoenix Suns,-0.030299999999999994,0.303,0.3333
+2023-11-06 23:08:22.337928,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Brøndby IF,-0.030299999999999994,0.6364,0.6667
 2023-11-07 02:05:11.412648,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Burnley,-0.03179999999999994,0.5238,0.5556
 2023-11-07 02:05:11.359668,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Luton Town,-0.033299999999999996,0.8,0.8333
 2023-11-07 01:05:23.808094,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Frosinone,-0.03330000000000001,0.0667,0.1
@@ -203,9 +231,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-06 17:12:30.657788,NBL - NBL 2023/2024 - To Make Grand Final,Melbourne United,-0.06269999999999998,0.6296,0.6923
 2023-11-06 17:12:30.672548,NBL - NBL 2023/2024 - To Make Top 4,Melboune United,-0.06620000000000004,0.875,0.9412
 2023-11-07 01:05:23.724852,La Liga - Spain La Liga 2023/24 - To Be Relegated,Alavés,-0.06659999999999999,0.2667,0.3333
+2023-11-07 03:06:02.790737,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Puka Nacua,-0.06840000000000002,0.1538,0.2222
 2023-11-07 01:05:23.768756,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Heidenheim,-0.06929999999999997,0.4762,0.5455
 2023-11-07 01:05:23.859779,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Rennes,-0.06990000000000002,0.3846,0.4545
 2023-11-06 17:12:30.502794,Euroleague - Euroleague 2023/24 - To Make Final Four,Milano,-0.07029999999999997,0.2,0.2703
+2023-11-07 03:06:02.780855,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Devon Witherspoon,-0.07120000000000004,0.3636,0.4348
 2023-11-07 02:05:11.375168,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Tottenham Hotspur,-0.07779999999999998,0.2299,0.3077
 2023-11-06 17:12:30.516509,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Olympiakos,-0.07929999999999993,0.7778,0.8571
 2023-11-07 01:05:23.846405,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Le Havre,-0.09230000000000005,0.3077,0.4
