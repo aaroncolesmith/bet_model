@@ -6,13 +6,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-07 13:08:17.969504,Tournament Match-Ups - Tournament Match-Ups - D. Ghim vs R. Palmer - Tournament Match-Ups,Doug Ghim,0.04820000000000002,0.6226,0.5744
 2023-11-07 09:09:20.959830,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Rudy Gobert (MIN),0.031799999999999995,0.1429,0.1111
 2023-11-07 13:08:16.651639,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,J.J. McCarthy,0.030300000000000007,0.1212,0.0909
+2023-11-07 19:10:43.499492,Boxing Lines - Irma Garcia vs Stephanie Silva - To Win the Bout,Irma Garcia,0.030299999999999994,0.4651,0.4348
 2023-11-07 09:09:20.866032,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Tennessee,0.0294,0.0588,0.0294
 2023-11-07 09:09:22.258330,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,John Metchie,0.0286,0.0385,0.0099
 2023-11-07 13:08:15.372581,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Cam Thomas (BKN),0.02840000000000001,0.1053,0.0769
 2023-11-07 18:06:02.754133,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Nikola Jokic (DEN),0.02779999999999999,0.2778,0.25
 2023-11-07 15:11:23.883712,Boxing Lines - Luke Modini vs Benoit Huber - To Win the Bout,Luke Modini,0.02429999999999999,0.9474,0.9231
-2023-11-07 09:09:20.866032,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Purdue,0.0242,0.0909,0.0667
 2023-11-07 16:12:35.841876,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Chris Finch,0.0242,0.0909,0.0667
+2023-11-07 09:09:20.866032,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Purdue,0.0242,0.0909,0.0667
 2023-11-07 15:11:23.784755,Boxing Lines - Callum Walsh vs Ismael Villareal - To Win the Bout,Callum Walsh,0.023800000000000043,0.8333,0.8095
 2023-11-07 09:09:20.866032,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Marquette,0.0203,0.0588,0.0385
 2023-11-07 16:12:34.536271,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Borussia Dortmund,0.019600000000000003,0.0345,0.0149
@@ -23,8 +24,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-07 13:08:16.967901,Boxing Lines - Jamel Herring vs Nicholas Molina - To Win the Bout,Nicholas Molina,0.0179,0.1429,0.125
 2023-11-07 09:09:22.258330,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Chase Young,0.0168,0.0385,0.0217
 2023-11-07 15:11:23.848826,Boxing Lines - Harlem Eubank vs Timo Schwarzkopf - To Win the Bout,Harlem Eubank,0.016699999999999937,0.9167,0.9
-2023-11-07 06:08:48.739049,Boxing Lines - Callum Walsh vs Ismael Villareal - To Win the Bout,Callum Walsh,0.016599999999999948,0.8261,0.8095
-2023-11-07 06:08:49.505452,Hong Kong Open - Hong Kong Open - Winner,Taichi Kho,0.015300000000000001,0.0476,0.0323
 2023-11-07 09:09:20.866032,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Creighton,0.015300000000000001,0.0476,0.0323
 2023-11-07 13:08:15.387759,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Stephen Curry (GSW),0.01440000000000001,0.1053,0.0909
 2023-11-07 09:09:22.258330,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Matthew Stafford,0.014099999999999998,0.0385,0.0244
@@ -32,15 +31,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-07 09:09:22.258330,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Breece Hall,0.013999999999999999,0.0909,0.0769
 2023-11-07 09:09:22.483796,Boxing Lines - Miyo Yoshida vs Shurretta Metcalf - To Win the Bout,Shurretta Metcalf,0.013799999999999923,0.6364,0.6226
 2023-11-07 15:11:23.830553,Boxing Lines - Richards Lerrone vs Mickey Ellison - To Win the Bout,Richards Lerrone,0.0131,0.9655,0.9524
-2023-11-07 09:09:20.866032,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,North Carolina,0.010700000000000001,0.0385,0.0278
 2023-11-07 09:09:20.866032,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Gonzaga,0.010700000000000001,0.0385,0.0278
+2023-11-07 09:09:20.866032,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,North Carolina,0.010700000000000001,0.0385,0.0278
 2023-11-07 13:08:18.565936,The ANNIKA - The ANNIKA - Winner,Atthaya Thitikul,-0.011099999999999999,0.1,0.1111
 2023-11-07 09:09:23.900535,Charles Schwab Cup - Charles Schwab Cup - Winner,Steven Alker,-0.011099999999999999,0.1,0.1111
-2023-11-07 06:08:49.528674,The ANNIKA - The ANNIKA - Winner,Charley Hull,-0.014100000000000001,0.0385,0.0526
 2023-11-07 09:09:22.552070,Boxing Lines - Callum Walsh vs Ismael Villareal - To Win the Bout,Callum Walsh,-0.016599999999999948,0.8095,0.8261
 2023-11-07 13:08:16.967901,Boxing Lines - Jamel Herring vs Nicholas Molina - To Win the Bout,Jamel Herring,-0.01660000000000006,0.9167,0.9333
 2023-11-07 15:11:23.830553,Boxing Lines - Richards Lerrone vs Mickey Ellison - To Win the Bout,Mickey Ellison,-0.016700000000000007,0.0833,0.1
-2023-11-07 06:08:48.739049,Boxing Lines - Callum Walsh vs Ismael Villareal - To Win the Bout,Ismael Villareal,-0.018699999999999994,0.241,0.2597
 2023-11-07 16:12:34.536271,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Newcastle United,-0.0189,0.0196,0.0385
 2023-11-07 09:09:22.483796,Boxing Lines - Miyo Yoshida vs Shurretta Metcalf - To Win the Bout,Miyo Yoshida,-0.018900000000000028,0.4255,0.4444
 2023-11-07 13:08:18.565936,The ANNIKA - The ANNIKA - Winner,Lilia Vu,-0.019099999999999992,0.0476,0.0667
@@ -49,6 +46,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-07 15:11:23.848826,Boxing Lines - Harlem Eubank vs Timo Schwarzkopf - To Win the Bout,Timo Schwarzkopf,-0.023799999999999988,0.1429,0.1667
 2023-11-07 09:09:22.258330,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Baker Mayfield,-0.024,0.0385,0.0625
 2023-11-07 15:11:23.784755,Boxing Lines - Callum Walsh vs Ismael Villareal - To Win the Bout,Ismael Villareal,-0.024399999999999977,0.2353,0.2597
+2023-11-07 19:10:43.499492,Boxing Lines - Irma Garcia vs Stephanie Silva - To Win the Bout,Stephanie Silva,-0.02960000000000007,0.6,0.6296
 2023-11-07 16:12:34.536271,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,FC Barcelona,-0.0321,0.0588,0.0909
 2023-11-07 13:08:17.969504,Tournament Match-Ups - Tournament Match-Ups - D. Ghim vs R. Palmer - Tournament Match-Ups,Ryan Palmer,-0.043399999999999994,0.4444,0.4878
 2023-11-07 13:08:17.997627,Tournament Match-Ups - Tournament Match-Ups - D. Riley vs S. Cink - Tournament Match-Ups,Stewart Cink,-0.0484,0.4167,0.4651
