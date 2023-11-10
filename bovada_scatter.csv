@@ -1,15 +1,16 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-11-10 07:05:54.306811,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-09 21:07:06.641434,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-10 03:04:30.368482,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-10 00:03:52.078655,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-10 04:09:18.580359,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-09 23:03:47.467355,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-10 05:04:32.782190,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-09 22:06:15.481415,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-10 06:04:51.473760,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-10 01:03:02.409618,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-10 05:04:32.782190,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-09 23:03:47.467355,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-10 02:02:10.915449,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-09 22:06:15.481415,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-10 03:04:30.368482,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-09 21:07:06.641434,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-10 04:09:18.580359,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-10 01:03:02.409618,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-10 00:03:52.078655,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-10 07:05:54.306811,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-10 08:08:13.774693,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-10 07:05:53.610144,MLB Specials 2023 - Where will Shohei Ohtani Play Game 1 of the 2024 MLB Season - Proposition,Los Angeles Dodgers,0.2788,0.5455,0.2667
 2023-11-10 03:04:27.333379,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Bahia,0.23810000000000003,0.5238,0.2857
 2023-11-10 03:04:31.064905,Charles Schwab Cup - Charles Schwab Cup - Winner,Ernie Els,0.20769999999999997,0.3077,0.1
@@ -18,7 +19,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-10 02:02:09.231511,To Make the Playoffs - Toronto Raptors - To Make the 2023-24 Playoffs,Yes,0.14290000000000003,0.4762,0.3333
 2023-11-10 03:04:27.333379,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Goiás,0.14170000000000005,0.875,0.7333
 2023-11-10 02:02:09.140192,To Make the Playoffs - New Orleans Pelicans - To Make the 2023-24 Playoffs,No,0.12420000000000003,0.4878,0.3636
+2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Max Homa,0.12040000000000001,0.3704,0.25
 2023-11-10 03:04:31.037038,Hong Kong Open - Hong Kong Open - Winner,Phachara Khongwatmai,0.11909999999999998,0.1667,0.0476
+2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Matthieu Pavon,0.11510000000000001,0.1429,0.0278
 2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Jin Young Ko,0.10119999999999998,0.1538,0.0526
 2023-11-10 06:04:47.882467,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Luis Suarez (Gremio),0.0953,0.1429,0.0476
 2023-11-10 03:04:27.320043,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Grêmio,0.095,0.1538,0.0588
@@ -30,6 +33,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-10 03:04:31.064905,Charles Schwab Cup - Charles Schwab Cup - Winner,Stephen Ames,0.0635,0.1111,0.0476
 2023-11-10 04:09:17.940490,Boxing Lines - Kevin Jake Dionson Cataraja vs Jayr Raquinel - To Win the Bout,Jayr Raquinel,0.0595,0.2817,0.2222
 2023-11-10 03:04:31.064905,Charles Schwab Cup - Charles Schwab Cup - Winner,Thongchai Jaidee,0.058899999999999994,0.0833,0.0244
+2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Thorbjorn Olesen,0.0573,0.0769,0.0196
 2023-11-10 03:04:31.037038,Hong Kong Open - Hong Kong Open - Winner,Sadom Kaewkanjana,0.052399999999999995,0.0909,0.0385
 2023-11-10 07:05:51.027063,Super Bowl Halftime Specials - Halftime Show: Usher's First Song - Usher's First Song,U Remind Me,0.052399999999999995,0.0909,0.0385
 2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Patty Tavatanakit,0.0489,0.0588,0.0099
@@ -38,8 +42,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-10 03:04:31.064905,Charles Schwab Cup - Charles Schwab Cup - Winner,Retief Goosen,0.045,0.0667,0.0217
 2023-11-10 02:02:09.017936,To Make the Playoffs - Dallas Mavericks - To Make the 2023-24 Playoffs,Yes,0.044500000000000095,0.7778,0.7333
 2023-11-10 03:04:31.037038,Hong Kong Open - Hong Kong Open - Winner,Ben Campbell,0.04239999999999999,0.0588,0.0164
+2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Justin Thomas,0.0392,0.0588,0.0196
 2023-11-10 03:04:31.037038,Hong Kong Open - Hong Kong Open - Winner,Sangmoon Bae,0.0392,0.0588,0.0196
 2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Lexi Thompson,0.038299999999999994,0.0909,0.0526
+2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Tommy Fleetwood,0.038299999999999994,0.0909,0.0526
 2023-11-10 02:02:09.159941,To Make the Playoffs - Oklahoma City Thunder - To Make the 2023-24 Playoffs,Yes,0.03770000000000007,0.7436,0.7059
 2023-11-10 01:03:00.417747,To Make the Playoffs - Atlanta Hawks - To Make the 2023-24 Playoffs,Yes,0.03770000000000007,0.7436,0.7059
 2023-11-10 03:04:31.037038,Hong Kong Open - Hong Kong Open - Winner,Micah Lauren Shin,0.037700000000000004,0.0476,0.0099
@@ -49,6 +55,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-10 02:02:09.109391,To Make the Playoffs - Miami Heat - To Make the 2023-24 Playoffs,No,0.032299999999999995,0.3448,0.3125
 2023-11-10 02:02:09.129631,To Make the Playoffs - Minnesota Timberwolves - To Make the 2023-24 Playoffs,Yes,0.030299999999999994,0.697,0.6667
 2023-11-10 02:02:09.211136,To Make the Playoffs - Sacramento Kings - To Make the 2023-24 Playoffs,No,0.030299999999999994,0.4651,0.4348
+2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Dan Bradbury,0.029299999999999993,0.0769,0.0476
 2023-11-10 06:04:47.882467,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Filho Paulinho (Athletico MG),0.028900000000000037,0.5744,0.5455
 2023-11-10 03:04:28.779251,FIBA Champions League - Champions League 2023/24 - Outright,Hapoel Jerusalem,0.0286,0.1,0.0714
 2023-11-10 01:03:01.050902,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Giannis Antetokounmpo (MIL),0.02850000000000001,0.0952,0.0667
@@ -59,6 +66,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-10 03:04:27.339773,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Flamengo,0.027800000000000047,0.7778,0.75
 2023-11-10 03:04:27.320043,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Flamengo,0.02779999999999999,0.25,0.2222
 2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Emily Kristine Pedersen,0.026600000000000002,0.0323,0.0057
+2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Hennie Du Plessis,0.0262,0.0385,0.0123
 2023-11-10 02:02:08.228851,Professional League - Saudi Professional League 2023/24 - Winner,Al Nassr,0.02560000000000001,0.3333,0.3077
 2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Minami Katsu,0.0237,0.0294,0.0057
 2023-11-10 02:02:09.038077,To Make the Playoffs - Detroit Pistons - To Make the 2023-24 Playoffs,No,0.023699999999999943,0.9852,0.9615
@@ -77,12 +85,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-10 06:04:51.602109,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - M. Trainer / W. McGirt / T. Potter - 2nd Round 3 Balls,Martin Trainer,0.016699999999999993,0.4167,0.4
 2023-11-10 01:03:01.020457,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Chris Finch,0.016600000000000004,0.0833,0.0667
 2023-11-10 03:04:31.064905,Charles Schwab Cup - Charles Schwab Cup - Winner,Colin Montgomerie,0.0165,0.0244,0.0079
+2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Matt Wallace,0.015499999999999998,0.0278,0.0123
 2023-11-10 03:04:31.037038,Hong Kong Open - Hong Kong Open - Winner,Yubin Jang,0.015300000000000001,0.0476,0.0323
 2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Linn Grant,0.014100000000000001,0.0526,0.0385
 2023-11-10 03:04:28.779251,FIBA Champions League - Champions League 2023/24 - Outright,Telekom Bonn,0.014100000000000001,0.0526,0.0385
+2023-11-10 03:04:31.064905,Charles Schwab Cup - Charles Schwab Cup - Winner,K J Choi,0.014099999999999998,0.0385,0.0244
 2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Gaby Lopez,0.014099999999999998,0.0385,0.0244
 2023-11-10 03:04:31.037038,Hong Kong Open - Hong Kong Open - Winner,Graeme McDowell,0.014099999999999998,0.0385,0.0244
-2023-11-10 03:04:31.064905,Charles Schwab Cup - Charles Schwab Cup - Winner,K J Choi,0.014099999999999998,0.0385,0.0244
 2023-11-09 23:03:47.074791,Boxing Lines - Bryce Mclachlan vs Nathan Watson - To Win the Bout,Bryce Mclachlan,0.012700000000000045,0.6491,0.6364
 2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Georgia Hall,0.012700000000000003,0.0323,0.0196
 2023-11-10 01:03:00.304112,Southeast Division - Southeast Division 2023-24 - Division Winner,Atlanta Hawks,0.012199999999999989,0.5,0.4878
@@ -97,22 +106,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-10 03:04:30.789411,Round Match-Ups - 2nd Round Match-Up - A. Scott v A. Noren - 2nd Round Match-Up,Adam Scott,0.010699999999999932,0.5455,0.5348
 2023-11-10 00:03:51.672107,Boxing Lines - Roman Fury vs Bradley Davies - To Win the Bout,Bradley Davies,-0.0102,0.0667,0.0769
 2023-11-10 03:04:31.037038,Hong Kong Open - Hong Kong Open - Winner,Yeongsu Kim,-0.0103,0.002,0.0123
+2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Tom McKibbin,-0.0103,0.002,0.0123
+2023-11-10 08:08:13.378375,Boxing Lines - Irma Garcia vs Stephanie Silva - To Win the Bout,Stephanie Silva,-0.010599999999999998,0.4545,0.4651
 2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Allisen Corpuz,-0.010700000000000001,0.0278,0.0385
 2023-11-10 06:04:50.986971,Boxing Lines - Tommy Welch vs Jonathan Exequiel Vergara - To Win the Bout,Tommy Welch,-0.011099999999999999,0.8889,0.9
 2023-11-10 03:04:27.326484,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Marcos Leonardo (Santos),-0.011199999999999995,0.0476,0.0588
+2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Julien Guerrier,-0.011399999999999997,0.0164,0.0278
+2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Jeff Winther,-0.0116,0.0025,0.0141
 2023-11-10 04:09:19.081549,Round Match-Ups - 2nd Round Match-Up - C.T. Pan v T. Merritt - 2nd Round Match-Up,C.T. Pan,-0.011600000000000055,0.5122,0.5238
+2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Jorge Campillo,-0.011699999999999999,0.0079,0.0196
 2023-11-10 03:04:31.037038,Hong Kong Open - Hong Kong Open - Winner,Natipong Srithong,-0.0118,0.0005,0.0123
-2023-11-10 03:04:30.789411,Round Match-Ups - 2nd Round Match-Up - A. Scott v A. Noren - 2nd Round Match-Up,Alex Noren,-0.012199999999999989,0.5,0.5122
 2023-11-10 00:03:52.572646,Round Match-Ups - 2nd Round Match-Up - A. Noren vs A. Bhatia - 2nd Round Match-Up,Akshay Bhatia,-0.012199999999999989,0.5,0.5122
+2023-11-10 03:04:30.789411,Round Match-Ups - 2nd Round Match-Up - A. Scott v A. Noren - 2nd Round Match-Up,Alex Noren,-0.012199999999999989,0.5,0.5122
 2023-11-10 05:04:33.119844,Round Match-Ups - 2nd Round Match-Up - D. Riley v N. Hardy - 2nd Round Match-Up,Nick Hardy,-0.012199999999999989,0.5,0.5122
 2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Ashleigh Buhai,-0.0124,0.0017,0.0141
 2023-11-10 06:04:51.110816,Boxing Lines - Calum French vs Jeff Ofori - To Win the Bout,Jeff Ofori,-0.012899999999999995,0.1538,0.1667
 2023-11-10 03:04:31.037038,Hong Kong Open - Hong Kong Open - Winner,Miguel Tabuena,-0.013,0.0066,0.0196
 2023-11-10 03:04:27.345864,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fortaleza,-0.0131,0.0345,0.0476
-2023-11-10 03:04:31.037038,Hong Kong Open - Hong Kong Open - Winner,Andrew Dodt,-0.0132,0.002,0.0152
 2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Madelene Sagstrom,-0.0132,0.002,0.0152
+2023-11-10 03:04:31.037038,Hong Kong Open - Hong Kong Open - Winner,Andrew Dodt,-0.0132,0.002,0.0152
 2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,A Lim Kim,-0.0132,0.002,0.0152
 2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Cheyenne Knight,-0.013600000000000001,0.0028,0.0164
+2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Adrian Otaegui,-0.0137,0.0004,0.0141
 2023-11-10 03:04:30.126759,Boxing Lines - Ernesto Mercado vs Jeremia Nakathila - To Win the Bout,Jeremia Nakathila,-0.013899999999999996,0.2083,0.2222
 2023-11-10 02:02:09.007775,To Make the Playoffs - Cleveland Cavaliers - To Make the 2023-24 Playoffs,Yes,-0.014000000000000012,0.9091,0.9231
 2023-11-10 03:04:27.339773,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Palmeiras,-0.014000000000000012,0.9091,0.9231
@@ -121,6 +136,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-10 03:04:31.064905,Charles Schwab Cup - Charles Schwab Cup - Winner,Vijay Singh,-0.0145,0.0099,0.0244
 2023-11-10 03:04:31.064905,Charles Schwab Cup - Charles Schwab Cup - Winner,Robert Karlsson,-0.014599999999999998,0.005,0.0196
 2023-11-10 03:04:31.064905,Charles Schwab Cup - Charles Schwab Cup - Winner,Paul Stankowski,-0.014599999999999998,0.005,0.0196
+2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Alexander Bjork,-0.014599999999999998,0.005,0.0196
 2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Jodi Ewart Shadoff,-0.0151,0.0066,0.0217
 2023-11-10 00:03:51.683065,Boxing Lines - Tommy Welch vs Jonathan Exequiel Vergara - To Win the Bout,Jonathan Exequiel Vergara,-0.015100000000000002,0.1667,0.1818
 2023-11-10 01:03:00.304112,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,-0.015100000000000002,0.1667,0.1818
@@ -128,16 +144,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-10 06:04:51.602109,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - M. Trainer / W. McGirt / T. Potter - 2nd Round 3 Balls,William McGirt,-0.015400000000000025,0.3846,0.4
 2023-11-10 03:04:31.064905,Charles Schwab Cup - Charles Schwab Cup - Winner,Richard Green,-0.015499999999999998,0.0123,0.0278
 2023-11-10 03:04:31.037038,Hong Kong Open - Hong Kong Open - Winner,Scott Vincent,-0.0156,0.004,0.0196
+2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Joost Luiten,-0.016,0.0004,0.0164
 2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Ayaka Furue,-0.0162,0.0017,0.0179
-2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Yuna Nishimura,-0.0163,0.0033,0.0196
 2023-11-10 03:04:31.037038,Hong Kong Open - Hong Kong Open - Winner,Paul Peterson,-0.0163,0.0033,0.0196
+2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Ewen Ferguson,-0.0163,0.0033,0.0196
+2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Yuna Nishimura,-0.0163,0.0033,0.0196
+2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Nicolai Hojgaard,-0.016700000000000007,0.0833,0.1
 2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Atthaya Thitikul,-0.016700000000000007,0.0833,0.1
 2023-11-10 03:04:31.037038,Hong Kong Open - Hong Kong Open - Winner,Travis Smyth,-0.017599999999999998,0.002,0.0196
+2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Francesco Molinari,-0.017599999999999998,0.002,0.0196
 2023-11-10 07:05:51.027063,Super Bowl Halftime Specials - Halftime Show: Usher's First Song - Usher's First Song,My Boo,-0.018099999999999998,0.0588,0.0769
 2023-11-10 06:04:47.882467,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Hulk (Atletico MG),-0.018200000000000004,0.0294,0.0476
 2023-11-10 03:04:31.037038,Hong Kong Open - Hong Kong Open - Winner,Taehee Lee,-0.0183,0.0013,0.0196
 2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Megan Khang,-0.0189,0.0196,0.0385
 2023-11-10 03:04:27.345864,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fluminense,-0.019099999999999992,0.0476,0.0667
+2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Shubhankar Sharma,-0.0192,0.0004,0.0196
 2023-11-10 03:04:31.064905,Charles Schwab Cup - Charles Schwab Cup - Winner,Paul Broadhurst,-0.0194,0.005,0.0244
 2023-11-10 02:02:08.977954,To Make the Playoffs - Brooklyn Nets - To Make the 2023-24 Playoffs,No,-0.019499999999999962,0.6296,0.6491
 2023-11-10 07:05:53.610144,MLB Specials 2023 - Where will Shohei Ohtani Play Game 1 of the 2024 MLB Season - Proposition,Boston Red Sox,-0.01949999999999999,0.0714,0.0909
@@ -151,12 +172,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-10 03:04:31.064905,Charles Schwab Cup - Charles Schwab Cup - Winner,Mike Weir,-0.0234,0.001,0.0244
 2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Leona Maguire,-0.0236,0.0149,0.0385
 2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Hye Jin Choi,-0.023700000000000002,0.0007,0.0244
+2023-11-10 03:04:30.892706,Round Match-Ups - 2nd Round Match-Up - A. Noren vs A. Bhatia - 2nd Round Match-Up,Akshay Bhatia,-0.023799999999999988,0.4762,0.5
 2023-11-10 06:04:51.869596,Round Match-Ups - 2nd Round Match-Up - C. Villegas v K. Hickok - 2nd Round Match-Up,Camilo Villegas,-0.023799999999999988,0.4762,0.5
 2023-11-10 06:04:51.812143,Round Match-Ups - 2nd Round Match-Up - D. Riley v N. Hardy - 2nd Round Match-Up,Nick Hardy,-0.023799999999999988,0.4762,0.5
-2023-11-10 03:04:30.892706,Round Match-Ups - 2nd Round Match-Up - A. Noren vs A. Bhatia - 2nd Round Match-Up,Akshay Bhatia,-0.023799999999999988,0.4762,0.5
 2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Lydia Ko,-0.024800000000000003,0.0278,0.0526
-2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Charley Hull,-0.0262,0.0123,0.0385
 2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Ruoning Yin,-0.0262,0.0123,0.0385
+2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Charley Hull,-0.0262,0.0123,0.0385
+2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Rasmus Hojgaard,-0.0262,0.0123,0.0385
 2023-11-10 03:04:31.064905,Charles Schwab Cup - Charles Schwab Cup - Winner,Darren Clarke,-0.026799999999999997,0.001,0.0278
 2023-11-10 02:02:09.109391,To Make the Playoffs - Miami Heat - To Make the 2023-24 Playoffs,Yes,-0.027800000000000047,0.7222,0.75
 2023-11-10 02:02:09.180922,To Make the Playoffs - Philadelphia 76ers - To Make the 2023-24 Playoffs,No,-0.027999999999999997,0.1053,0.1333
@@ -168,10 +190,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-10 03:04:31.064905,Charles Schwab Cup - Charles Schwab Cup - Winner,Brett Quigley,-0.0319,0.0066,0.0385
 2023-11-10 02:02:09.048006,To Make the Playoffs - Golden State Warriors - To Make the 2023-24 Playoffs,No,-0.03259999999999999,0.2,0.2326
 2023-11-10 02:02:09.078961,To Make the Playoffs - Los Angeles Clippers - To Make the 2023-24 Playoffs,No,-0.03270000000000001,0.2899,0.3226
-2023-11-10 03:04:27.333379,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Cruzeiro,-0.033300000000000024,0.1667,0.2
 2023-11-10 07:05:51.027063,Super Bowl Halftime Specials - Halftime Show: Usher's First Song - Usher's First Song,You Make Me Wanna...,-0.033300000000000024,0.1667,0.2
 2023-11-10 07:05:51.027063,Super Bowl Halftime Specials - Halftime Show: Usher's First Song - Usher's First Song,DJ Got Us Fallin In Love,-0.033300000000000024,0.1667,0.2
+2023-11-10 03:04:27.333379,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Cruzeiro,-0.033300000000000024,0.1667,0.2
 2023-11-10 03:04:31.064905,Charles Schwab Cup - Charles Schwab Cup - Winner,Steven Alker,-0.034100000000000005,0.0909,0.125
+2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Ryo Hisatsune,-0.036199999999999996,0.0164,0.0526
+2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Aaron Rai,-0.0397,0.0079,0.0476
 2023-11-10 02:02:09.159941,To Make the Playoffs - Oklahoma City Thunder - To Make the 2023-24 Playoffs,No,-0.04099999999999998,0.3226,0.3636
 2023-11-10 01:03:00.417747,To Make the Playoffs - Atlanta Hawks - To Make the 2023-24 Playoffs,No,-0.04099999999999998,0.3226,0.3636
 2023-11-10 03:04:31.064905,Charles Schwab Cup - Charles Schwab Cup - Winner,Jerry Kelly,-0.04229999999999999,0.0244,0.0667
@@ -179,21 +203,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-10 03:04:31.037038,Hong Kong Open - Hong Kong Open - Winner,Talor Gooch,-0.04239999999999999,0.0164,0.0588
 2023-11-10 03:04:31.064905,Charles Schwab Cup - Charles Schwab Cup - Winner,David Toms,-0.0427,0.0099,0.0526
 2023-11-10 03:04:27.333379,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Vasco da Gama,-0.043200000000000016,0.3077,0.3509
-2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Nelly Korda,-0.04329999999999999,0.0476,0.0909
 2023-11-10 03:04:31.064905,Charles Schwab Cup - Charles Schwab Cup - Winner,Bernhard Langer,-0.04329999999999999,0.0476,0.0909
+2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Nelly Korda,-0.04329999999999999,0.0476,0.0909
 2023-11-10 02:02:09.017936,To Make the Playoffs - Dallas Mavericks - To Make the 2023-24 Playoffs,No,-0.043399999999999994,0.2899,0.3333
 2023-11-10 02:02:09.089222,To Make the Playoffs - Los Angeles Lakers - To Make the 2023-24 Playoffs,Yes,-0.04479999999999995,0.6774,0.7222
 2023-11-10 03:04:31.037038,Hong Kong Open - Hong Kong Open - Winner,Andy Ogletree,-0.0448,0.0385,0.0833
 2023-11-10 03:04:27.326484,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Tiquinho Soares (Botafogo),-0.045499999999999985,0.5,0.5455
 2023-11-10 01:03:00.536898,To Make the Playoffs - Indiana Pacers - To Make the 2023-24 Playoffs,No,-0.04760000000000003,0.4762,0.5238
 2023-11-10 04:09:17.940490,Boxing Lines - Kevin Jake Dionson Cataraja vs Jayr Raquinel - To Win the Bout,Kevin Jake Dionson Cataraja,-0.05070000000000008,0.7826,0.8333
+2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Ryan Fox,-0.0516,0.001,0.0526
 2023-11-10 07:05:53.610144,MLB Specials 2023 - Where will Shohei Ohtani Play Game 1 of the 2024 MLB Season - Proposition,Texas Rangers,-0.05379999999999999,0.1,0.1538
 2023-11-09 23:03:48.332003,The ANNIKA - The ANNIKA - Winner,Celine Boutier,-0.0552,0.0217,0.0769
 2023-11-10 07:05:53.610144,MLB Specials 2023 - Where will Shohei Ohtani Play Game 1 of the 2024 MLB Season - Proposition,New York Mets,-0.05679999999999999,0.125,0.1818
 2023-11-10 03:04:31.037038,Hong Kong Open - Hong Kong Open - Winner,Eugenio Lopez-Chacarra,-0.058300000000000005,0.0667,0.125
 2023-11-10 03:04:27.333379,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Cuiabá,-0.062,0.0149,0.0769
 2023-11-10 07:05:53.610144,MLB Specials 2023 - Where will Shohei Ohtani Play Game 1 of the 2024 MLB Season - Proposition,San Diego Padres,-0.0666,0.0667,0.1333
+2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Vincent Norrman,-0.0726,0.0385,0.1111
 2023-11-10 07:05:51.027063,Super Bowl Halftime Specials - Halftime Show: Usher's First Song - Usher's First Song,Yeah!,-0.08329999999999999,0.25,0.3333
+2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Adrian Meronk,-0.08589999999999999,0.005,0.0909
 2023-11-10 03:04:27.339773,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Botafogo,-0.08889999999999998,0.8,0.8889
 2023-11-10 02:02:08.997970,To Make the Playoffs - Chicago Bulls - To Make the 2023-24 Playoffs,Yes,-0.09570000000000001,0.3125,0.4082
 2023-11-10 03:04:27.339773,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Atlético Mineiro,-0.096,0.1818,0.2778
@@ -204,14 +231,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-10 02:02:09.231511,To Make the Playoffs - Toronto Raptors - To Make the 2023-24 Playoffs,No,-0.14159999999999995,0.5917,0.7333
 2023-11-10 03:04:27.320043,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Botafogo,-0.16359999999999997,0.2,0.3636
 2023-11-10 03:04:27.333379,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Santos,-0.2571,0.1429,0.4
-2023-11-10 03:04:30.379335,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-10 00:03:52.089348,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-09 23:03:47.479486,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-10 07:05:54.317574,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-10 04:09:18.596767,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-09 22:06:15.501391,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-10 05:04:32.793922,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-09 21:07:06.652672,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-10 06:04:51.485632,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
 2023-11-10 02:02:10.926585,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-09 23:03:47.479486,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
 2023-11-10 01:03:02.420237,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-09 22:06:15.501391,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-10 08:08:13.796582,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-10 05:04:32.793922,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-10 04:09:18.596767,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-09 21:07:06.652672,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-10 03:04:30.379335,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-10 07:05:54.317574,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-10 06:04:51.485632,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-10 00:03:52.089348,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
