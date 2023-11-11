@@ -1,16 +1,16 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-10 14:02:53.638423,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-10 19:08:49.058330,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-10 20:08:09.406548,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-10 13:03:35.618771,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-10 12:02:41.536687,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-10 16:10:13.262400,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-10 11:12:08.633551,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-10 17:07:32.329494,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-10 19:08:49.058330,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-10 18:06:56.805357,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-10 10:10:47.057565,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-10 20:08:09.406548,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-10 21:09:35.160872,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-10 22:09:21.685888,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-10 23:07:50.163135,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-10 15:02:45.022969,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-10 21:09:35.862945,Charles Schwab Cup - Charles Schwab Cup - Winner,Steven Alker,0.2168,0.3077,0.0909
 2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Emily Kristine Pedersen,0.16770000000000002,0.2,0.0323
@@ -36,6 +36,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Lindy Duncan,0.019700000000000002,0.0217,0.002
 2023-11-10 15:02:44.722321,Boxing Lines - Ewan Mackenzie vs Ishmael Davis - To Win the Bout,Ishmael Davis,0.019499999999999962,0.6491,0.6296
 2023-11-10 13:03:35.289778,Boxing Lines - Owen Rees vs Konrad Czajkowski - To Win the Bout,Owen Rees,0.018900000000000028,0.9804,0.9615
+2023-11-10 23:07:49.833936,Boxing Lines - Luke Modini vs Benoit Huber - To Win the Bout,Luke Modini,0.018100000000000005,0.9655,0.9474
 2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Muni He,0.017800000000000003,0.0244,0.0066
 2023-11-10 13:03:33.541540,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Minnesota Timberwolves,0.0157,0.0435,0.0278
 2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Amy Yang,0.014700000000000001,0.0164,0.0017
@@ -47,10 +48,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-10 18:06:56.488048,Boxing Lines - Shabaz Masoud vs Jose Sanmartin - To Win the Bout,Jose Sanmartin,0.012299999999999991,0.1176,0.1053
 2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Charley Hull,0.012100000000000001,0.0244,0.0123
 2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Alison Lee,0.0118,0.0217,0.0099
+2023-11-10 23:07:49.717064,"NFL Weekly Specials - NFL Week 10 Leaders - Most Receiving Yards [Sunday Only, Exc Colts@Pats]",Tank Dell,0.0115,0.0294,0.0179
 2023-11-10 18:06:56.543391,Boxing Lines - Irma Garcia vs Stephanie Silva - To Win the Bout,Stephanie Silva,0.011099999999999999,0.4762,0.4651
 2023-11-10 16:10:12.788263,Boxing Lines - Irma Garcia vs Stephanie Silva - To Win the Bout,Stephanie Silva,0.010599999999999998,0.4651,0.4545
-2023-11-10 18:06:54.569108,NBL - NBL 2023/2024 - Regular Season MVP,Alan Williams,0.0102,0.0769,0.0667
 2023-11-10 22:09:19.179968,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Nordsjælland,0.0102,0.0769,0.0667
+2023-11-10 18:06:54.569108,NBL - NBL 2023/2024 - Regular Season MVP,Alan Williams,0.0102,0.0769,0.0667
 2023-11-10 22:09:18.858525,Championship - England Championship 2023/24 - League Winner,Ipswich Town,-0.010499999999999982,0.2,0.2105
 2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Jin Young Ko,-0.010899999999999993,0.1429,0.1538
 2023-11-10 18:06:54.569108,NBL - NBL 2023/2024 - Regular Season MVP,Jaylen Adams,-0.010899999999999993,0.1429,0.1538
@@ -78,12 +80,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-10 15:02:44.722321,Boxing Lines - Ewan Mackenzie vs Ishmael Davis - To Win the Bout,Ewan Mackenzie,-0.021600000000000008,0.4132,0.4348
 2023-11-10 22:09:19.186687,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Vejle BK,-0.02200000000000002,0.6923,0.7143
 2023-11-10 18:06:54.578337,NBL - NBL 2023/2024 - To Make Top 4,Sydney Kings,-0.023799999999999932,0.8333,0.8571
-2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Carlota Ciganda,-0.0242,0.0036,0.0278
 2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Allisen Corpuz,-0.0242,0.0036,0.0278
+2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Carlota Ciganda,-0.0242,0.0036,0.0278
 2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Hae Ran Ryu,-0.024499999999999997,0.0033,0.0278
 2023-11-10 18:06:54.578337,NBL - NBL 2023/2024 - To Make Top 4,SE Melboune Phoenix,-0.025599999999999956,0.6296,0.6552
 2023-11-10 22:09:18.816824,Serie A - Italy Serie A 2023/24 - Winner,Juventus,-0.02779999999999999,0.2222,0.25
 2023-11-10 22:09:18.830500,Ligue 1 - France Ligue 1 2023/24 - Winner,Nice,-0.027800000000000005,0.0833,0.1111
+2023-11-10 23:07:49.833936,Boxing Lines - Luke Modini vs Benoit Huber - To Win the Bout,Benoit Huber,-0.027800000000000005,0.0833,0.1111
 2023-11-10 22:09:19.179968,Superligaen - Denmark Superligaen 2023/24 - Winner,Brøndby IF,-0.027999999999999997,0.1538,0.1818
 2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Georgia Hall,-0.029800000000000004,0.0025,0.0323
 2023-11-10 21:09:35.862945,Charles Schwab Cup - Charles Schwab Cup - Winner,Bernhard Langer,-0.035300000000000005,0.0123,0.0476
@@ -102,15 +105,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Brooke Henderson,-0.19010000000000002,0.0099,0.2
 2023-11-10 21:09:35.862945,Charles Schwab Cup - Charles Schwab Cup - Winner,Ernie Els,-0.241,0.0667,0.3077
 2023-11-10 11:12:08.661227,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-10 19:08:49.077564,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-10 20:08:09.422724,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
 2023-11-10 16:10:13.282140,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-10 14:02:53.651425,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
 2023-11-10 18:06:56.815449,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-10 21:09:35.171355,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-10 17:07:32.355407,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-10 12:02:41.547908,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-10 19:08:49.077564,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
 2023-11-10 15:02:45.033724,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-10 22:09:21.698863,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-10 10:10:47.084677,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-10 20:08:09.422724,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-10 14:02:53.651425,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-10 12:02:41.547908,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
 2023-11-10 13:03:35.629993,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-10 17:07:32.355407,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-10 23:07:50.173348,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-10 22:09:21.698863,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-10 21:09:35.171355,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
