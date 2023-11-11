@@ -1,16 +1,16 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-11-10 07:05:54.306811,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-10 05:04:32.782190,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-10 16:10:13.262400,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-10 08:08:13.774693,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-10 14:02:53.638423,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-10 17:07:32.329494,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-10 13:03:35.618771,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-10 12:02:41.536687,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-10 11:12:08.633551,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-10 10:10:47.057565,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-10 09:07:18.487328,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-10 08:08:13.774693,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-10 15:02:45.022969,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-10 06:04:51.473760,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-10 14:02:53.638423,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-10 09:07:18.487328,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-10 07:05:54.306811,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-10 15:02:45.022969,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-10 07:05:53.610144,MLB Specials 2023 - Where will Shohei Ohtani Play Game 1 of the 2024 MLB Season - Proposition,Los Angeles Dodgers,0.2788,0.5455,0.2667
 2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Max Homa,0.12040000000000001,0.3704,0.25
 2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Matthieu Pavon,0.11510000000000001,0.1429,0.0278
@@ -34,7 +34,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-10 13:03:33.541540,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Minnesota Timberwolves,0.0157,0.0435,0.0278
 2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Matt Wallace,0.015499999999999998,0.0278,0.0123
 2023-11-10 13:03:33.541540,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Philadelphia 76ers,0.014099999999999994,0.0667,0.0526
-2023-11-10 05:04:33.119844,Round Match-Ups - 2nd Round Match-Up - D. Riley v N. Hardy - 2nd Round Match-Up,Davis Riley,0.010699999999999932,0.5455,0.5348
 2023-11-10 16:10:12.788263,Boxing Lines - Irma Garcia vs Stephanie Silva - To Win the Bout,Stephanie Silva,0.010599999999999998,0.4651,0.4545
 2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Tom McKibbin,-0.0103,0.002,0.0123
 2023-11-10 08:08:13.378375,Boxing Lines - Irma Garcia vs Stephanie Silva - To Win the Bout,Stephanie Silva,-0.010599999999999998,0.4545,0.4651
@@ -42,7 +41,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Julien Guerrier,-0.011399999999999997,0.0164,0.0278
 2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Jeff Winther,-0.0116,0.0025,0.0141
 2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Jorge Campillo,-0.011699999999999999,0.0079,0.0196
-2023-11-10 05:04:33.119844,Round Match-Ups - 2nd Round Match-Up - D. Riley v N. Hardy - 2nd Round Match-Up,Nick Hardy,-0.012199999999999989,0.5,0.5122
+2023-11-10 17:07:31.598692,Boxing Lines - Bryce Mclachlan vs Nathan Watson - To Win the Bout,Bryce Mclachlan,-0.012700000000000045,0.6364,0.6491
 2023-11-10 06:04:51.110816,Boxing Lines - Calum French vs Jeff Ofori - To Win the Bout,Jeff Ofori,-0.012899999999999995,0.1538,0.1667
 2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Adrian Otaegui,-0.0137,0.0004,0.0141
 2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Alexander Bjork,-0.014599999999999998,0.005,0.0196
@@ -57,11 +56,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-10 07:05:53.610144,MLB Specials 2023 - Where will Shohei Ohtani Play Game 1 of the 2024 MLB Season - Proposition,Boston Red Sox,-0.01949999999999999,0.0714,0.0909
 2023-11-10 06:04:51.562187,Bermuda Championship - 2/3 Balls - 2nd Round 3 Balls - C.T. Pan / D. Hearn / B. Van Pelt - 2nd Round 3 Balls,David Hearn,-0.020799999999999985,0.3125,0.3333
 2023-11-10 15:02:44.722321,Boxing Lines - Ewan Mackenzie vs Ishmael Davis - To Win the Bout,Ewan Mackenzie,-0.021600000000000008,0.4132,0.4348
-2023-11-10 06:04:51.869596,Round Match-Ups - 2nd Round Match-Up - C. Villegas v K. Hickok - 2nd Round Match-Up,Camilo Villegas,-0.023799999999999988,0.4762,0.5
 2023-11-10 06:04:51.812143,Round Match-Ups - 2nd Round Match-Up - D. Riley v N. Hardy - 2nd Round Match-Up,Nick Hardy,-0.023799999999999988,0.4762,0.5
+2023-11-10 06:04:51.869596,Round Match-Ups - 2nd Round Match-Up - C. Villegas v K. Hickok - 2nd Round Match-Up,Camilo Villegas,-0.023799999999999988,0.4762,0.5
 2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Rasmus Hojgaard,-0.0262,0.0123,0.0385
-2023-11-10 07:05:51.027063,Super Bowl Halftime Specials - Halftime Show: Usher's First Song - Usher's First Song,DJ Got Us Fallin In Love,-0.033300000000000024,0.1667,0.2
 2023-11-10 07:05:51.027063,Super Bowl Halftime Specials - Halftime Show: Usher's First Song - Usher's First Song,You Make Me Wanna...,-0.033300000000000024,0.1667,0.2
+2023-11-10 07:05:51.027063,Super Bowl Halftime Specials - Halftime Show: Usher's First Song - Usher's First Song,DJ Got Us Fallin In Love,-0.033300000000000024,0.1667,0.2
 2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Ryo Hisatsune,-0.036199999999999996,0.0164,0.0526
 2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Aaron Rai,-0.0397,0.0079,0.0476
 2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Ryan Fox,-0.0516,0.001,0.0526
@@ -72,15 +71,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-10 07:05:51.027063,Super Bowl Halftime Specials - Halftime Show: Usher's First Song - Usher's First Song,Yeah!,-0.08329999999999999,0.25,0.3333
 2023-11-10 08:08:14.182306,Nedbank Golf Challenge - Nedbank Golf Challenge - Winner,Adrian Meronk,-0.08589999999999999,0.005,0.0909
 2023-11-10 06:04:47.882467,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Tiquinho Soares (Botafogo),-0.09999999999999998,0.4,0.5
+2023-11-10 15:02:45.033724,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-10 06:04:51.485632,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-10 14:02:53.651425,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-10 08:08:13.796582,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-10 09:07:18.498706,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-10 10:10:47.084677,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-10 11:12:08.661227,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-10 12:02:41.547908,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-10 17:07:32.355407,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
 2023-11-10 13:03:35.629993,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
 2023-11-10 16:10:13.282140,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-10 12:02:41.547908,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-10 11:12:08.661227,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-10 05:04:32.793922,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-10 10:10:47.084677,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-10 09:07:18.498706,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-10 06:04:51.485632,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-10 08:08:13.796582,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
 2023-11-10 07:05:54.317574,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-10 15:02:45.033724,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-10 14:02:53.651425,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
