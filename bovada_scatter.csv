@@ -1,13 +1,13 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-11-11 01:11:14.970147,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-10 17:07:32.329494,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-10 18:06:56.805357,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-10 19:08:49.058330,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-10 20:08:09.406548,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-10 21:09:35.160872,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-11 05:10:51.969114,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-10 22:09:21.685888,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-10 21:09:35.160872,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-10 23:07:50.163135,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-10 20:08:09.406548,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-10 19:08:49.058330,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-11 00:09:50.872004,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-10 18:06:56.805357,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-11 01:11:14.970147,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-11 02:12:28.286388,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-11 03:10:20.098357,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-11 04:11:34.903485,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
@@ -49,16 +49,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-11 01:11:12.502155,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Victor Wembanyama (SAS),0.01759999999999999,0.1176,0.1
 2023-11-11 01:11:11.729735,Western Conference - Western Conference 2023-24 - Western Conference Winner,Denver Nuggets,0.017299999999999982,0.303,0.2857
 2023-11-11 03:10:19.529827,Boxing Lines - Ewan Mackenzie vs Ishmael Davis - To Win the Bout,Ishmael Davis,0.016900000000000026,0.6721,0.6552
+2023-11-11 05:10:51.437365,Boxing Lines - Ewan Mackenzie vs Ishmael Davis - To Win the Bout,Ishmael Davis,0.014900000000000024,0.6923,0.6774
 2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Amy Yang,0.014700000000000001,0.0164,0.0017
 2023-11-11 01:11:12.525934,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Cade Cunningham (DET),0.014399999999999996,0.0769,0.0625
 2023-11-10 22:09:21.261000,Boxing Lines - Luke Modini vs Benoit Huber - To Win the Bout,Luke Modini,0.014100000000000001,0.9474,0.9333
-2023-11-11 02:12:25.798194,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Jaden McDaniels (MIN),0.014099999999999998,0.0385,0.0244
 2023-11-11 02:12:23.014808,MLS - MLS 2023 - Winner,Real Salt Lake,0.014099999999999998,0.0385,0.0244
-2023-11-11 01:11:12.477447,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Ime Udoka,0.014099999999999994,0.0667,0.0526
+2023-11-11 02:12:25.798194,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Jaden McDaniels (MIN),0.014099999999999998,0.0385,0.0244
 2023-11-11 01:11:12.431263,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Caris LeVert (CLE),0.014099999999999994,0.0667,0.0526
+2023-11-11 01:11:12.477447,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Ime Udoka,0.014099999999999994,0.0667,0.0526
 2023-11-11 01:11:11.879041,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Phoenix Suns,0.013999999999999999,0.0909,0.0769
-2023-11-11 01:11:12.502155,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Evan Mobley (CLE),0.013899999999999996,0.125,0.1111
 2023-11-11 01:11:11.697907,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Philadelphia 76ers,0.013899999999999996,0.125,0.1111
+2023-11-11 01:11:12.502155,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Evan Mobley (CLE),0.013899999999999996,0.125,0.1111
 2023-11-10 22:09:19.179968,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Copenhagen,0.013599999999999945,0.7059,0.6923
 2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Sarah Schmelzel,0.0131,0.0164,0.0033
 2023-11-10 20:08:08.681205,Boxing Lines - Bryce Mclachlan vs Nathan Watson - To Win the Bout,Bryce Mclachlan,0.012700000000000045,0.6491,0.6364
@@ -67,27 +68,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Alison Lee,0.0118,0.0217,0.0099
 2023-11-10 23:07:49.717064,"NFL Weekly Specials - NFL Week 10 Leaders - Most Receiving Yards [Sunday Only, Exc Colts@Pats]",Tank Dell,0.0115,0.0294,0.0179
 2023-11-11 01:11:12.502155,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Draymond Green (GSW),0.011199999999999995,0.0435,0.0323
-2023-11-10 18:06:56.543391,Boxing Lines - Irma Garcia vs Stephanie Silva - To Win the Bout,Stephanie Silva,0.011099999999999999,0.4762,0.4651
 2023-11-11 01:11:12.453208,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Luka Doncic (DAL),0.011099999999999999,0.1111,0.1
+2023-11-10 18:06:56.543391,Boxing Lines - Irma Garcia vs Stephanie Silva - To Win the Bout,Stephanie Silva,0.011099999999999999,0.4762,0.4651
 2023-11-11 01:11:12.502155,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Rudy Gobert (MIN),0.010899999999999993,0.1538,0.1429
-2023-11-11 03:10:16.703692,NBA Championship - NBA Championship 2023-24 - NBA Champion,Los Angeles Lakers,0.0102,0.0769,0.0667
 2023-11-10 18:06:54.569108,NBL - NBL 2023/2024 - Regular Season MVP,Alan Williams,0.0102,0.0769,0.0667
 2023-11-10 22:09:19.179968,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Nordsjælland,0.0102,0.0769,0.0667
 2023-11-11 01:11:11.879041,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Philadelphia 76ers,0.0102,0.0769,0.0667
+2023-11-11 03:10:16.703692,NBA Championship - NBA Championship 2023-24 - NBA Champion,Los Angeles Lakers,0.0102,0.0769,0.0667
+2023-11-11 05:10:52.180606,Round Match-Ups - 3rd Round Match-Up - A. Bhatia vs A. Noren - 3rd Round Match-Up,Alex Noren,-0.010099999999999998,0.5455,0.5556
+2023-11-11 05:10:52.116759,Round Match-Ups - 3rd Round Match-Up - A. Smotherman vs M. Schmid - 3rd Round Match-Up,Matthias Schmid,-0.010099999999999998,0.5455,0.5556
 2023-11-10 22:09:18.858525,Championship - England Championship 2023/24 - League Winner,Ipswich Town,-0.010499999999999982,0.2,0.2105
+2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Jin Young Ko,-0.010899999999999993,0.1429,0.1538
 2023-11-11 01:11:14.348004,Boxing Lines - Calum French vs Jeff Ofori - To Win the Bout,Jeff Ofori,-0.010899999999999993,0.1429,0.1538
 2023-11-10 18:06:54.569108,NBL - NBL 2023/2024 - Regular Season MVP,Jaylen Adams,-0.010899999999999993,0.1429,0.1538
-2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Jin Young Ko,-0.010899999999999993,0.1429,0.1538
-2023-11-11 01:11:12.502155,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Jaren Jackson Jr. (MEM),-0.011099999999999999,0.1,0.1111
-2023-11-10 18:06:54.569108,NBL - NBL 2023/2024 - Regular Season MVP,Nathan Sobey,-0.011099999999999999,0.1,0.1111
+2023-11-11 05:10:52.207034,Round Match-Ups - 3rd Round Match-Up - A. Scott vs B. Todd - 3rd Round Match-Up,Adam Scott,-0.01100000000000001,0.5238,0.5348
+2023-11-11 05:10:52.207034,Round Match-Ups - 3rd Round Match-Up - A. Scott vs B. Todd - 3rd Round Match-Up,Brendon Todd,-0.01100000000000001,0.5238,0.5348
 2023-11-11 02:12:23.014808,MLS - MLS 2023 - Winner,Columbus Crew,-0.011099999999999999,0.1,0.1111
 2023-11-10 19:08:48.559311,Boxing Lines - Irma Garcia vs Stephanie Silva - To Win the Bout,Stephanie Silva,-0.011099999999999999,0.4651,0.4762
-2023-11-11 02:12:23.865807,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Greuther Fürth,-0.011199999999999995,0.0476,0.0588
+2023-11-10 18:06:54.569108,NBL - NBL 2023/2024 - Regular Season MVP,Nathan Sobey,-0.011099999999999999,0.1,0.1111
+2023-11-11 01:11:12.502155,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Jaren Jackson Jr. (MEM),-0.011099999999999999,0.1,0.1111
 2023-11-10 22:09:18.858525,Championship - England Championship 2023/24 - League Winner,Southampton,-0.011199999999999995,0.0476,0.0588
+2023-11-11 02:12:23.865807,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Greuther Fürth,-0.011199999999999995,0.0476,0.0588
 2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Lydia Ko,-0.011399999999999997,0.0164,0.0278
 2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Leona Maguire,-0.0116,0.0033,0.0149
 2023-11-11 04:11:34.400200,Boxing Lines - Mark Dickinson vs Grant Dennis - To Win the Bout,Grant Dennis,-0.011900000000000022,0.1667,0.1786
-2023-11-10 17:07:31.598692,Boxing Lines - Bryce Mclachlan vs Nathan Watson - To Win the Bout,Bryce Mclachlan,-0.012700000000000045,0.6364,0.6491
+2023-11-11 05:10:52.116759,Round Match-Ups - 3rd Round Match-Up - A. Smotherman vs M. Schmid - 3rd Round Match-Up,Austin Smotherman,-0.012199999999999989,0.5,0.5122
+2023-11-11 05:10:52.180606,Round Match-Ups - 3rd Round Match-Up - A. Bhatia vs A. Noren - 3rd Round Match-Up,Akshay Bhatia,-0.012199999999999989,0.5,0.5122
 2023-11-10 18:06:54.587531,NBL - NBL 2023/2024 - To Make Top 6,Illawarra Hawks,-0.012899999999999995,0.1538,0.1667
 2023-11-11 01:11:11.879041,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,L.A. Clippers,-0.0131,0.0345,0.0476
 2023-11-11 01:11:12.525934,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Jalen Duren (DET),-0.0131,0.0345,0.0476
@@ -96,35 +102,37 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-11 01:11:14.310177,Boxing Lines - Owen Rees vs Konrad Czajkowski - To Win the Bout,Konrad Czajkowski,-0.013999999999999999,0.0769,0.0909
 2023-11-11 02:12:23.014808,MLS - MLS 2023 - Winner,Sporting Kansas City,-0.013999999999999999,0.0769,0.0909
 2023-11-10 21:09:35.862945,Charles Schwab Cup - Charles Schwab Cup - Winner,K J Choi,-0.014099999999999998,0.0244,0.0385
+2023-11-11 05:10:51.437365,Boxing Lines - Ewan Mackenzie vs Ishmael Davis - To Win the Bout,Ewan Mackenzie,-0.01419999999999999,0.3704,0.3846
 2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Ally Ewing,-0.0143,0.0036,0.0179
 2023-11-10 18:06:54.561666,NBL - NBL 2023/2024 - Outright,New Zealand Breakers,-0.014399999999999996,0.0625,0.0769
 2023-11-10 22:09:18.816824,Serie A - Italy Serie A 2023/24 - Winner,Atalanta,-0.0145,0.0099,0.0244
 2023-11-10 21:09:35.862945,Charles Schwab Cup - Charles Schwab Cup - Winner,Justin Leonard,-0.0156,0.004,0.0196
 2023-11-11 03:10:19.529827,Boxing Lines - Ewan Mackenzie vs Ishmael Davis - To Win the Bout,Ewan Mackenzie,-0.016000000000000014,0.3922,0.4082
 2023-11-10 21:09:35.862945,Charles Schwab Cup - Charles Schwab Cup - Winner,Rob Labritz,-0.0163,0.0033,0.0196
-2023-11-11 02:12:23.014808,MLS - MLS 2023 - Winner,Los Angeles FC,-0.016699999999999993,0.25,0.2667
 2023-11-11 02:12:23.865807,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,St. Pauli,-0.016699999999999993,0.25,0.2667
+2023-11-11 02:12:23.014808,MLS - MLS 2023 - Winner,Los Angeles FC,-0.016699999999999993,0.25,0.2667
 2023-11-10 18:06:54.578337,NBL - NBL 2023/2024 - To Make Top 4,Melboune United,-0.017900000000000027,0.8571,0.875
-2023-11-11 01:11:12.477447,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Adrian Griffin,-0.018099999999999998,0.0588,0.0769
 2023-11-11 02:12:23.865807,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Hertha BSC,-0.018099999999999998,0.0588,0.0769
+2023-11-11 01:11:12.477447,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Adrian Griffin,-0.018099999999999998,0.0588,0.0769
 2023-11-11 02:12:28.750723,The ANNIKA - The ANNIKA - Winner,Emily Kristine Pedersen,-0.01820000000000002,0.1818,0.2
 2023-11-10 18:06:54.587531,NBL - NBL 2023/2024 - To Make Top 6,Adelaide 36ers,-0.01820000000000002,0.1818,0.2
 2023-11-10 18:06:54.553501,NBL - NBL 2023/2024 - Most Losses,Perth Wildcats,-0.0189,0.0196,0.0385
 2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Ariya Jutanugarn,-0.019099999999999995,0.0244,0.0435
 2023-11-10 21:09:35.862945,Charles Schwab Cup - Charles Schwab Cup - Winner,Jerry Kelly,-0.0194,0.005,0.0244
+2023-11-11 05:10:52.229507,Round Match-Ups - 3rd Round Match-Up - C. Villegas vs D. Redman - 3rd Round Match-Up,Camilo Villegas,-0.01970000000000005,0.5455,0.5652
 2023-11-11 01:11:11.729735,Western Conference - Western Conference 2023-24 - Western Conference Winner,L.A. Clippers,-0.02020000000000001,0.0909,0.1111
 2023-11-10 18:06:54.569108,NBL - NBL 2023/2024 - Regular Season MVP,Mitch Creek,-0.02049999999999999,0.1333,0.1538
 2023-11-10 21:09:35.862945,Charles Schwab Cup - Charles Schwab Cup - Winner,Colin Montgomerie,-0.020800000000000003,0.0036,0.0244
 2023-11-10 22:09:19.186687,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Vejle BK,-0.02200000000000002,0.6923,0.7143
 2023-11-10 18:06:54.578337,NBL - NBL 2023/2024 - To Make Top 4,Sydney Kings,-0.023799999999999932,0.8333,0.8571
-2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Allisen Corpuz,-0.0242,0.0036,0.0278
 2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Carlota Ciganda,-0.0242,0.0036,0.0278
+2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Allisen Corpuz,-0.0242,0.0036,0.0278
 2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Hae Ran Ryu,-0.024499999999999997,0.0033,0.0278
 2023-11-11 02:12:23.865807,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Fortuna Düsseldorf,-0.024999999999999994,0.1,0.125
 2023-11-10 18:06:54.578337,NBL - NBL 2023/2024 - To Make Top 4,SE Melboune Phoenix,-0.025599999999999956,0.6296,0.6552
 2023-11-10 22:09:18.816824,Serie A - Italy Serie A 2023/24 - Winner,Juventus,-0.02779999999999999,0.2222,0.25
-2023-11-10 23:07:49.833936,Boxing Lines - Luke Modini vs Benoit Huber - To Win the Bout,Benoit Huber,-0.027800000000000005,0.0833,0.1111
 2023-11-10 22:09:18.830500,Ligue 1 - France Ligue 1 2023/24 - Winner,Nice,-0.027800000000000005,0.0833,0.1111
+2023-11-10 23:07:49.833936,Boxing Lines - Luke Modini vs Benoit Huber - To Win the Bout,Benoit Huber,-0.027800000000000005,0.0833,0.1111
 2023-11-11 01:11:11.768771,Central Division - Central Division 2023-24 - Division Winner,Milwaukee Bucks,-0.027800000000000047,0.75,0.7778
 2023-11-10 22:09:19.179968,Superligaen - Denmark Superligaen 2023/24 - Winner,Brøndby IF,-0.027999999999999997,0.1538,0.1818
 2023-11-11 01:11:12.477447,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Michael Malone,-0.02850000000000001,0.0667,0.0952
@@ -141,23 +149,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Patty Tavatanakit,-0.0465,0.0123,0.0588
 2023-11-10 21:09:35.862945,Charles Schwab Cup - Charles Schwab Cup - Winner,Retief Goosen,-0.0544,0.0123,0.0667
 2023-11-10 21:09:35.862945,Charles Schwab Cup - Charles Schwab Cup - Winner,Miguel Angel Jimenez,-0.061500000000000006,0.0385,0.1
-2023-11-10 21:09:35.862945,Charles Schwab Cup - Charles Schwab Cup - Winner,Stephen Ames,-0.0635,0.0476,0.1111
 2023-11-10 18:06:54.578337,NBL - NBL 2023/2024 - To Make Top 4,Tasmania JackJumpers,-0.0635,0.5917,0.6552
+2023-11-10 21:09:35.862945,Charles Schwab Cup - Charles Schwab Cup - Winner,Stephen Ames,-0.0635,0.0476,0.1111
 2023-11-10 18:06:54.587531,NBL - NBL 2023/2024 - To Make Top 6,New Zealand Breakers,-0.06669999999999998,0.6,0.6667
 2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Atthaya Thitikul,-0.0723,0.011,0.0833
 2023-11-11 01:11:11.808651,Pacific Division - Pacific Division 2023-24 - Division Winner,L.A. Clippers,-0.07930000000000001,0.1429,0.2222
 2023-11-10 18:06:54.587531,NBL - NBL 2023/2024 - To Make Top 6,Cairns Taipans,-0.09090000000000004,0.3636,0.4545
 2023-11-10 19:08:49.977010,The ANNIKA - The ANNIKA - Winner,Brooke Henderson,-0.19010000000000002,0.0099,0.2
 2023-11-10 21:09:35.862945,Charles Schwab Cup - Charles Schwab Cup - Winner,Ernie Els,-0.241,0.0667,0.3077
-2023-11-11 01:11:14.989298,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-11 00:09:50.888673,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
 2023-11-11 02:12:28.310100,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-11 01:11:14.989298,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-11 03:10:20.119709,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-11 00:09:50.888673,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
 2023-11-10 23:07:50.173348,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-11 04:11:34.924155,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
 2023-11-10 22:09:21.698863,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
 2023-11-10 21:09:35.171355,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
 2023-11-10 20:08:09.422724,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
 2023-11-10 19:08:49.077564,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-11 04:11:34.924155,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
 2023-11-10 18:06:56.815449,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-10 17:07:32.355407,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-11 03:10:20.119709,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-11 05:10:52.003790,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
