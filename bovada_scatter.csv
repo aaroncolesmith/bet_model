@@ -1,14 +1,13 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-11-12 19:05:33.708788,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-13 00:05:19.598574,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-12 22:05:32.529300,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-12 20:04:56.692890,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-12 18:06:08.987539,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-12 17:06:17.241133,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-12 16:07:00.662545,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-12 15:04:24.643606,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-12 23:05:18.515676,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-12 22:05:32.529300,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-12 21:05:22.023807,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-13 00:05:19.598574,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-12 23:05:18.515676,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-12 16:07:00.662545,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-12 17:06:17.241133,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-12 19:05:33.708788,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-12 18:06:08.987539,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-13 00:05:19.144019,AFC North - AFC North 2023/24 - AFC North Winner,Cleveland Browns,0.16479999999999997,0.3077,0.1429
 2023-11-13 03:03:40.618066,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,AGF Aarhus,0.15300000000000002,0.9231,0.7701
 2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Josh Dobbs,0.14329999999999998,0.1818,0.0385
@@ -19,6 +18,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-13 03:03:40.133531,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Cruzeiro,0.11359999999999998,0.3636,0.25
 2023-11-12 17:06:16.186601,NBL - NBL 2023/2024 - To Make Top 6,Cairns Taipans,0.11260000000000003,0.4762,0.3636
 2023-11-13 03:03:42.324217,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,CJ Stroud,0.10709999999999997,0.9474,0.8403
+2023-11-13 04:04:12.575592,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,VfB Stuttgart,0.09999999999999998,0.5,0.4
 2023-11-13 03:03:39.996671,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Girona,0.09960000000000002,0.6552,0.5556
 2023-11-13 00:05:19.200933,NFC South - NFC South 2023/24 - NFC South Winner,Tampa Bay Buccaneers,0.09620000000000001,0.25,0.1538
 2023-11-13 03:03:40.600179,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Odense,0.0948,0.3448,0.25
@@ -29,6 +29,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-13 03:03:39.990012,La Liga - Spain La Liga 2023/24 - To Be Relegated,Villarreal,0.0769,0.1538,0.0769
 2023-11-13 03:03:40.139911,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Atlético Mineiro,0.07509999999999997,0.3077,0.2326
 2023-11-12 17:06:16.165539,NBL - NBL 2023/2024 - To Make Top 4,Tasmania JackJumpers,0.07499999999999996,0.6667,0.5917
+2023-11-13 04:04:12.556182,1. Bundesliga - Germany Bundesliga 2023/24 - Winner without Bayern Munich,Bayer Leverkusen,0.06820000000000004,0.8182,0.75
 2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Tua Tagovailoa,0.06659999999999999,0.3333,0.2667
 2023-11-13 01:04:35.211372,Atlantic Division - Atlantic Division 2023-24 - Division Winner,Philadelphia 76ers,0.06659999999999999,0.3333,0.2667
 2023-11-12 23:05:16.802633,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Dundee FC,0.0635,0.2857,0.2222
@@ -50,6 +51,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-12 23:05:16.808949,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Aberdeen,0.047599999999999976,0.3333,0.2857
 2023-11-13 03:03:39.990012,La Liga - Spain La Liga 2023/24 - To Be Relegated,Celta de Vigo,0.047599999999999976,0.3333,0.2857
 2023-11-13 03:03:40.610971,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Midtjylland,0.04469999999999996,0.6364,0.5917
+2023-11-13 04:04:12.550312,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayer Leverkusen,0.044499999999999984,0.2667,0.2222
 2023-11-13 02:03:59.653755,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Patrick Mahomes,0.044499999999999984,0.2667,0.2222
 2023-11-13 01:04:35.765236,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Ime Udoka,0.04440000000000001,0.1111,0.0667
 2023-11-12 23:05:16.808949,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,St. Mirren,0.044399999999999995,0.4444,0.4
@@ -66,11 +68,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-13 00:05:19.155188,AFC South - AFC South 2023/24 - AFC South Winner,Tennessee Titans,0.0334,0.0769,0.0435
 2023-11-12 17:06:16.142054,NBL - NBL 2023/2024 - Outright,Tasmania JackJumpers,0.033399999999999985,0.1667,0.1333
 2023-11-13 01:04:35.255114,Northwest Division - Northwest Division 2023-24 - Division Winner,Minnesota Timberwolves,0.033300000000000024,0.2,0.1667
+2023-11-13 04:04:12.561646,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Harry Kane,0.03180000000000005,0.8889,0.8571
 2023-11-13 03:03:39.990012,La Liga - Spain La Liga 2023/24 - To Be Relegated,Almería,0.03180000000000005,0.8889,0.8571
+2023-11-13 04:04:12.568654,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Darmstadt,0.030299999999999994,0.6667,0.6364
 2023-11-13 03:03:40.572151,First Division A - Belgium First Division A 2023/24 - Outright,Union Saint-Gilloise,0.030299999999999994,0.3636,0.3333
 2023-11-13 01:04:35.734587,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Immanuel Quickley (NYK),0.028799999999999992,0.1538,0.125
 2023-11-13 01:04:35.734587,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Tim Hardaway Jr (DAL),0.028799999999999992,0.1538,0.125
 2023-11-13 00:05:19.132107,AFC East - AFC East 2023/24 - AFC East Winner 23/24,Miami Dolphins,0.02849999999999997,0.7059,0.6774
+2023-11-13 04:04:13.171036,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Kaiserslautern,0.0279,0.0345,0.0066
 2023-11-13 02:03:59.653755,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Jalen Hurts,0.02779999999999999,0.25,0.2222
 2023-11-12 17:06:16.134615,NBL - NBL 2023/2024 - Most Losses,Illawarra Hawks,0.027700000000000058,0.5833,0.5556
 2023-11-13 00:05:19.108994,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Buffalo Bills,0.0267,0.1176,0.0909
@@ -79,8 +84,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-12 23:05:16.796012,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Motherwell,0.024999999999999994,0.125,0.1
 2023-11-13 00:05:19.108994,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Cleveland Browns,0.024299999999999995,0.0769,0.0526
 2023-11-13 02:03:58.773237,B League - Japan B League 1 2023/2024 - Outright,San En Neo Phoenix,0.0242,0.0909,0.0667
-2023-11-13 03:03:40.125850,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Luis Suarez (Gremio),0.023799999999999988,0.1667,0.1429
 2023-11-13 03:03:40.118752,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Palmeiras,0.023799999999999988,0.5,0.4762
+2023-11-13 03:03:40.125850,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Luis Suarez (Gremio),0.023799999999999988,0.1667,0.1429
 2023-11-12 17:06:16.150380,NBL - NBL 2023/2024 - Regular Season MVP,Jaylen Adams,0.023799999999999988,0.1667,0.1429
 2023-11-13 03:03:40.182144,A-League - Australia A-League 2023/24 - Top 6 Finish,Wellington Phoenix,0.023799999999999988,0.5,0.4762
 2023-11-12 17:06:16.165539,NBL - NBL 2023/2024 - To Make Top 4,Sydney Kings,0.023799999999999932,0.8571,0.8333
@@ -92,6 +97,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-13 02:03:59.653755,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,CJ Stroud,0.0215,0.0294,0.0079
 2023-11-13 03:03:42.315470,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Devon Witherspoon,0.02100000000000002,0.3846,0.3636
 2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Baker Mayfield,0.0203,0.0588,0.0385
+2023-11-13 04:04:12.556182,1. Bundesliga - Germany Bundesliga 2023/24 - Winner without Bayern Munich,VfB Stuttgart,0.0203,0.0588,0.0385
 2023-11-12 17:06:16.134615,NBL - NBL 2023/2024 - Most Losses,New Zealand Breakers,0.02020000000000001,0.1111,0.0909
 2023-11-13 00:05:19.108994,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Houston Texans,0.020000000000000004,0.0323,0.0123
 2023-11-13 01:04:35.192289,Western Conference - Western Conference 2023-24 - Western Conference Winner,Minnesota Timberwolves,0.019099999999999992,0.0667,0.0476
@@ -100,104 +106,126 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-13 03:03:40.618066,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Silkeborg IF,0.018900000000000028,0.9804,0.9615
 2023-11-13 03:03:40.139911,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Palmeiras,0.018900000000000028,0.9804,0.9615
 2023-11-12 17:06:16.142054,NBL - NBL 2023/2024 - Outright,Melbourne United,0.018799999999999983,0.3636,0.3448
+2023-11-13 04:04:12.575592,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,RB Leipzig,0.018199999999999994,0.8182,0.8
 2023-11-13 03:03:40.139911,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Botafogo,0.018199999999999994,0.8182,0.8
+2023-11-13 04:04:13.302837,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Liverpool,0.0179,0.1429,0.125
 2023-11-12 23:05:16.802633,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Hibernian,0.01759999999999995,0.6667,0.6491
-2023-11-12 23:05:16.796012,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Livingston,0.016699999999999993,0.2667,0.25
 2023-11-12 22:05:30.292704,Serie A - Italy Serie A 2023/24 - Winner,Juventus,0.016699999999999993,0.2667,0.25
+2023-11-12 23:05:16.796012,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Livingston,0.016699999999999993,0.2667,0.25
+2023-11-13 04:04:12.568654,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,FC Köln,0.016699999999999993,0.2667,0.25
 2023-11-12 22:05:30.292704,Serie A - Italy Serie A 2023/24 - Winner,Inter Milan,0.016699999999999937,0.6,0.5833
 2023-11-13 01:04:35.152688,NBA Championship - NBA Championship 2023-24 - NBA Champion,Minnesota Timberwolves,0.0159,0.0323,0.0164
 2023-11-12 23:05:16.788968,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Hibernian,0.015100000000000002,0.1818,0.1667
-2023-11-13 01:04:35.289385,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,0.015100000000000002,0.1818,0.1667
 2023-11-13 03:03:40.156491,A-League - Australia A-League 2023/24 - Grand Final Winner,Melbourne Victory,0.015100000000000002,0.1818,0.1667
+2023-11-13 01:04:35.289385,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,0.015100000000000002,0.1818,0.1667
 2023-11-13 01:04:37.052104,Boxing Lines - Matteo Signani vs Tyler Denny - To Win the Bout,Tyler Denny,0.014700000000000046,0.7647,0.75
+2023-11-13 04:04:13.171036,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Wehen Wiesbaden,0.014499999999999999,0.0294,0.0149
 2023-11-12 23:05:18.212295,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Texas Rangers,0.01440000000000001,0.1053,0.0909
+2023-11-13 04:04:12.568654,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Wolfsburg,0.014099999999999998,0.0385,0.0244
 2023-11-13 03:03:40.133531,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Internacional,0.014099999999999998,0.0385,0.0244
 2023-11-12 23:05:16.808949,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Ross County,0.014000000000000012,0.9231,0.9091
 2023-11-13 03:03:39.996671,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Atlético Madrid,0.013900000000000023,0.8889,0.875
-2023-11-13 00:05:19.189584,NFC North - NFC North 2023/24 - NFC North Winner,Minnesota Vikings,0.013899999999999996,0.1429,0.129
 2023-11-13 02:03:58.773237,B League - Japan B League 1 2023/2024 - Outright,Kawasaki Brave Thunders,0.013899999999999996,0.125,0.1111
 2023-11-13 01:04:35.272189,Pacific Division - Pacific Division 2023-24 - Division Winner,Sacramento Kings,0.013899999999999996,0.125,0.1111
+2023-11-13 00:05:19.189584,NFC North - NFC North 2023/24 - NFC North Winner,Minnesota Vikings,0.013899999999999996,0.1429,0.129
 2023-11-13 00:05:19.108994,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Kansas City Chiefs,0.013600000000000001,0.3077,0.2941
+2023-11-13 04:04:12.556182,1. Bundesliga - Germany Bundesliga 2023/24 - Winner without Bayern Munich,RB Leipzig,0.012899999999999995,0.1667,0.1538
+2023-11-13 04:04:12.568654,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Augsburg,0.012899999999999995,0.1667,0.1538
+2023-11-13 03:03:42.305362,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,A.J. Brown,0.012899999999999995,0.1667,0.1538
 2023-11-13 03:03:40.200105,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Melbourne Victory,0.012899999999999995,0.1667,0.1538
-2023-11-13 00:05:19.178156,NFC East - NFC East 2023/24 - NFC East Winner,Philadelphia Eagles,0.012899999999999912,0.8462,0.8333
 2023-11-12 23:05:16.780744,Premiership - Scotland Premiership 2023/24 - Winner,Celtic,0.012899999999999912,0.8462,0.8333
+2023-11-13 00:05:19.178156,NFC East - NFC East 2023/24 - NFC East Winner,Philadelphia Eagles,0.012899999999999912,0.8462,0.8333
 2023-11-13 02:03:58.796189,Serie A - Italy Serie A 2023/24 - Outright,Virtus Bologna,0.012299999999999978,0.3571,0.3448
 2023-11-13 03:03:40.139911,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Flamengo,0.011499999999999955,0.6667,0.6552
-2023-11-13 03:03:40.572151,First Division A - Belgium First Division A 2023/24 - Outright,Genk,0.011099999999999999,0.1111,0.1
+2023-11-13 04:04:12.568654,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Union Berlin,0.011099999999999999,0.1111,0.1
 2023-11-13 01:04:35.765236,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Nick Nurse,0.011099999999999999,0.1111,0.1
+2023-11-13 03:03:40.572151,First Division A - Belgium First Division A 2023/24 - Outright,Genk,0.011099999999999999,0.1111,0.1
 2023-11-13 02:03:58.808488,LKL - Lithuania LKL 2023/24 - Outright,Wolves,0.011099999999999999,0.1111,0.1
 2023-11-13 03:03:40.156491,A-League - Australia A-League 2023/24 - Grand Final Winner,Sydney FC,0.011099999999999999,0.1111,0.1
 2023-11-13 01:04:35.192289,Western Conference - Western Conference 2023-24 - Western Conference Winner,Golden State Warriors,0.010899999999999993,0.1538,0.1429
 2023-11-13 00:05:19.119899,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Minnesota Vikings,0.010600000000000002,0.0323,0.0217
-2023-11-12 17:06:16.150380,NBL - NBL 2023/2024 - Regular Season MVP,Jo Lual Acuil,0.0102,0.0769,0.0667
 2023-11-13 03:03:40.002596,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Real Sociedad,0.0102,0.0769,0.0667
-2023-11-13 03:03:40.002596,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Athletic Bilbao,0.0102,0.0769,0.0667
-2023-11-13 03:03:40.200105,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Macarthur FC,0.0102,0.0769,0.0667
-2023-11-13 03:03:40.200105,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Brisbane Roar,0.0102,0.0769,0.0667
 2023-11-13 03:03:40.200105,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Wellington Phoenix,0.0102,0.0769,0.0667
+2023-11-12 17:06:16.150380,NBL - NBL 2023/2024 - Regular Season MVP,Jo Lual Acuil,0.0102,0.0769,0.0667
+2023-11-13 03:03:40.002596,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Athletic Bilbao,0.0102,0.0769,0.0667
+2023-11-13 03:03:40.200105,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Brisbane Roar,0.0102,0.0769,0.0667
+2023-11-13 03:03:40.200105,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Macarthur FC,0.0102,0.0769,0.0667
 2023-11-13 01:04:37.253299,Boxing Lines - David Benavidez vs Demetrius Andrade - To Win the Bout,David Benavidez,0.010199999999999987,0.8039,0.7937
 2023-11-13 02:03:59.653755,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Jared Goff,0.010100000000000001,0.0345,0.0244
 2023-11-13 01:04:35.289385,Southeast Division - Southeast Division 2023-24 - Division Winner,Miami Heat,0.010099999999999998,0.4545,0.4444
 2023-11-13 01:04:37.098964,Boxing Lines - Rhys Edwards vs Brad Foster - To Win the Bout,Rhys Edwards,-0.010099999999999998,0.6774,0.6875
+2023-11-13 04:04:15.236842,Boxing Lines - Emanuel Navarrete vs Robson Conceicao - To Win the Bout,Emanuel Navarrete,-0.010199999999999987,0.9231,0.9333
 2023-11-13 00:05:19.189584,NFC North - NFC North 2023/24 - NFC North Winner,Detroit Lions,-0.010199999999999987,0.9231,0.9333
+2023-11-12 17:06:16.150380,NBL - NBL 2023/2024 - Regular Season MVP,Parker Jackson-Cartwright (NZB),-0.0102,0.0667,0.0769
 2023-11-13 01:04:35.152688,NBA Championship - NBA Championship 2023-24 - NBA Champion,Los Angeles Lakers,-0.0102,0.0667,0.0769
 2023-11-13 03:03:42.324217,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Jahmyr Gibbs,-0.0102,0.0667,0.0769
 2023-11-13 03:03:39.990012,La Liga - Spain La Liga 2023/24 - To Be Relegated,Getafe,-0.0102,0.0667,0.0769
-2023-11-12 17:06:16.150380,NBL - NBL 2023/2024 - Regular Season MVP,Parker Jackson-Cartwright (NZB),-0.0102,0.0667,0.0769
 2023-11-13 03:03:39.996671,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Betis,-0.0102,0.0667,0.0769
+2023-11-13 04:04:12.575592,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Bayer Leverkusen,-0.010299999999999976,0.9877,0.998
 2023-11-13 01:04:35.192289,Western Conference - Western Conference 2023-24 - Western Conference Winner,Phoenix Suns,-0.010499999999999982,0.2,0.2105
 2023-11-13 03:03:40.118752,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Botafogo,-0.010499999999999982,0.2,0.2105
-2023-11-13 03:03:42.324217,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Zay Flowers,-0.010700000000000001,0.0278,0.0385
 2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Chase Young,-0.010700000000000001,0.0278,0.0385
+2023-11-13 03:03:42.324217,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Zay Flowers,-0.010700000000000001,0.0278,0.0385
 2023-11-13 03:03:39.990012,La Liga - Spain La Liga 2023/24 - To Be Relegated,Real Betis,-0.0109,0.004,0.0149
+2023-11-13 01:04:35.152688,NBA Championship - NBA Championship 2023-24 - NBA Champion,Los Angeles Clippers,-0.011199999999999995,0.0476,0.0588
 2023-11-13 00:05:19.119899,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,New Orleans Saints,-0.011199999999999995,0.0323,0.0435
 2023-11-12 17:06:16.142054,NBL - NBL 2023/2024 - Outright,Brisbane Bullets,-0.011199999999999995,0.0476,0.0588
-2023-11-13 01:04:35.152688,NBA Championship - NBA Championship 2023-24 - NBA Champion,Los Angeles Clippers,-0.011199999999999995,0.0476,0.0588
 2023-11-13 02:03:59.644044,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Arthur Smith,-0.011699999999999999,0.0079,0.0196
 2023-11-13 03:03:39.996671,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Villarreal,-0.013,0.0066,0.0196
 2023-11-13 03:03:42.315470,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Brian Branch,-0.013999999999999999,0.0769,0.0909
+2023-11-13 04:04:13.171036,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Fortuna Düsseldorf,-0.013999999999999999,0.0769,0.0909
 2023-11-13 02:03:58.808488,LKL - Lithuania LKL 2023/24 - Outright,Zalgiris,-0.014000000000000012,0.9091,0.9231
+2023-11-13 04:04:12.561646,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Leroy Sane,-0.014099999999999998,0.0244,0.0385
+2023-11-13 04:04:13.171036,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Magdeburg,-0.014099999999999998,0.0244,0.0385
+2023-11-13 04:04:12.561646,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Victor Boniface,-0.014499999999999999,0.0149,0.0294
+2023-11-13 04:04:12.550312,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Borussia Dortmund,-0.0145,0.0099,0.0244
 2023-11-13 03:03:39.996671,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Getafe,-0.0145,0.0099,0.0244
 2023-11-13 03:03:42.324217,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Bryce Young,-0.0145,0.0099,0.0244
 2023-11-12 17:06:16.142054,NBL - NBL 2023/2024 - Outright,New Zealand Breakers,-0.014899999999999997,0.0476,0.0625
-2023-11-13 01:04:35.152688,NBA Championship - NBA Championship 2023-24 - NBA Champion,Milwaukee Bucks,-0.015100000000000002,0.1667,0.1818
 2023-11-13 03:03:40.182144,A-League - Australia A-League 2023/24 - Top 6 Finish,Melbourne City,-0.015100000000000002,0.8182,0.8333
 2023-11-13 01:04:35.800852,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Scottie Barnes (TOR),-0.015100000000000002,0.1667,0.1818
+2023-11-13 01:04:35.152688,NBA Championship - NBA Championship 2023-24 - NBA Champion,Milwaukee Bucks,-0.015100000000000002,0.1667,0.1818
 2023-11-13 03:03:40.118752,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,RB Bragantino,-0.015100000000000002,0.1667,0.1818
 2023-11-13 03:03:42.324217,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Bijan Robinson,-0.015300000000000001,0.0435,0.0588
 2023-11-13 03:03:40.600179,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Hvidovre IF,-0.015599999999999947,0.9804,0.996
 2023-11-13 02:03:58.773237,B League - Japan B League 1 2023/2024 - Outright,Osaka Evessa,-0.016600000000000004,0.0667,0.0833
 2023-11-13 03:03:40.572151,First Division A - Belgium First Division A 2023/24 - Outright,Gent,-0.016699999999999993,0.25,0.2667
-2023-11-13 03:03:39.990012,La Liga - Spain La Liga 2023/24 - To Be Relegated,Alavés,-0.016699999999999993,0.25,0.2667
 2023-11-13 03:03:39.996671,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Athletic Bilbao,-0.016699999999999993,0.25,0.2667
+2023-11-13 03:03:39.990012,La Liga - Spain La Liga 2023/24 - To Be Relegated,Alavés,-0.016699999999999993,0.25,0.2667
 2023-11-13 03:03:39.996671,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Osasuna,-0.017099999999999997,0.0123,0.0294
 2023-11-12 23:05:16.802633,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Ross County,-0.0179,0.125,0.1429
 2023-11-13 03:03:40.156491,A-League - Australia A-League 2023/24 - Grand Final Winner,Central Coast Mariners,-0.018099999999999998,0.0588,0.0769
 2023-11-13 01:04:35.800852,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Cade Cunningham (DET),-0.018099999999999998,0.0588,0.0769
-2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Keenan Allen,-0.0189,0.0196,0.0385
+2023-11-13 04:04:12.550312,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayern Munich,-0.018199999999999994,0.8,0.8182
 2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Carson Wentz,-0.0189,0.0196,0.0385
 2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Cooper Kupp,-0.0189,0.0196,0.0385
+2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Keenan Allen,-0.0189,0.0196,0.0385
+2023-11-13 04:04:13.302837,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Manchester City,-0.018999999999999906,0.7143,0.7333
 2023-11-13 03:03:39.996671,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Sociedad,-0.019000000000000017,0.2667,0.2857
 2023-11-12 23:05:16.788968,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Motherwell,-0.019099999999999992,0.0476,0.0667
 2023-11-12 17:06:16.165539,NBL - NBL 2023/2024 - To Make Top 4,Illawarra Hawks,-0.019099999999999995,0.0244,0.0435
 2023-11-13 03:03:40.200105,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Melbourne City,-0.020100000000000007,0.2299,0.25
 2023-11-13 03:03:42.305362,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Christian McCaffrey,-0.020699999999999996,0.4444,0.4651
 2023-11-13 01:04:35.289385,Southeast Division - Southeast Division 2023-24 - Division Winner,Atlanta Hawks,-0.021699999999999997,0.4545,0.4762
+2023-11-13 04:04:12.568654,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Heidenheim,-0.021699999999999997,0.4545,0.4762
 2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Russell Wilson,-0.022099999999999998,0.0164,0.0385
-2023-11-12 17:06:16.142054,NBL - NBL 2023/2024 - Outright,SE Melbourne Phoenix,-0.022199999999999998,0.1111,0.1333
 2023-11-13 03:03:40.139911,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,RB Bragantino,-0.022199999999999998,0.7778,0.8
+2023-11-12 17:06:16.142054,NBL - NBL 2023/2024 - Outright,SE Melbourne Phoenix,-0.022199999999999998,0.1111,0.1333
 2023-11-12 17:06:16.150380,NBL - NBL 2023/2024 - Regular Season MVP,Mitch Creek,-0.022199999999999998,0.1111,0.1333
 2023-11-13 03:03:39.996671,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Valencia,-0.023200000000000002,0.0244,0.0476
 2023-11-13 03:03:40.145972,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Fluminense,-0.023200000000000002,0.0244,0.0476
 2023-11-13 03:03:39.996671,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Rayo Vallecano,-0.0236,0.0149,0.0385
+2023-11-13 04:04:12.575592,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Wolfsburg,-0.0236,0.0149,0.0385
 2023-11-13 03:03:40.610971,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Silkeborg IF,-0.023799999999999988,0.3333,0.3571
 2023-11-13 03:03:42.324217,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Jordan Addison,-0.024299999999999995,0.0345,0.0588
 2023-11-13 02:03:59.644044,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Doug Pederson,-0.024299999999999995,0.0345,0.0588
 2023-11-13 02:03:59.653755,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Joe Burrow,-0.024999999999999994,0.1,0.125
-2023-11-13 01:04:35.765236,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,-0.025300000000000003,0.1176,0.1429
 2023-11-13 01:04:35.272189,Pacific Division - Pacific Division 2023-24 - Division Winner,L.A. Clippers,-0.025300000000000003,0.1176,0.1429
+2023-11-13 01:04:35.765236,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,-0.025300000000000003,0.1176,0.1429
 2023-11-12 23:05:16.808949,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Hibernian,-0.025499999999999967,0.4,0.4255
 2023-11-13 00:05:19.200933,NFC South - NFC South 2023/24 - NFC South Winner,New Orleans Saints,-0.025599999999999956,0.5744,0.6
+2023-11-13 04:04:12.568654,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Mainz,-0.02560000000000001,0.3077,0.3333
+2023-11-13 04:04:12.568654,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Bochum,-0.02560000000000001,0.3077,0.3333
 2023-11-13 00:05:19.119899,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Philadelphia Eagles,-0.02560000000000001,0.3077,0.3333
 2023-11-13 03:03:40.002596,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Atlético Madrid,-0.025600000000000067,0.6667,0.6923
 2023-11-13 03:03:42.315470,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Jalen Carter,-0.025600000000000067,0.6667,0.6923
@@ -210,29 +238,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-12 17:06:16.186601,NBL - NBL 2023/2024 - To Make Top 6,Adelaide 36ers,-0.027999999999999997,0.1538,0.1818
 2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Breece Hall,-0.028399999999999995,0.0625,0.0909
 2023-11-13 01:04:35.308357,Southwest Division - Southwest Division 2023-24 - Division Winner,Memphis Grizzlies,-0.02840000000000001,0.0769,0.1053
-2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Matthew Stafford,-0.0286,0.0099,0.0385
 2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Rashan Gary,-0.0286,0.0099,0.0385
+2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Matthew Stafford,-0.0286,0.0099,0.0385
 2023-11-13 03:03:40.200105,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Central Coast Mariners,-0.029299999999999993,0.0476,0.0769
 2023-11-13 03:03:40.592989,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Nordsjælland,-0.029299999999999993,0.0476,0.0769
-2023-11-12 23:05:16.802633,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Motherwell,-0.030299999999999994,0.3333,0.3636
 2023-11-12 23:05:16.802633,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,St. Mirren,-0.030299999999999994,0.6364,0.6667
+2023-11-12 23:05:16.802633,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Motherwell,-0.030299999999999994,0.3333,0.3636
 2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,D'Andre Swift,-0.0306,0.0079,0.0385
-2023-11-12 23:05:16.788968,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Kilmarnock,-0.031799999999999995,0.1111,0.1429
 2023-11-13 03:03:42.305362,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Tyreek Hill,-0.031799999999999995,0.4444,0.4762
+2023-11-12 23:05:16.788968,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Kilmarnock,-0.031799999999999995,0.1111,0.1429
 2023-11-13 01:04:35.765236,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Joe Mazzulla,-0.031799999999999995,0.1111,0.1429
-2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Calvin Ridley,-0.0319,0.0066,0.0385
-2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Aaron Donald,-0.0319,0.0066,0.0385
-2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Jonathan Taylor,-0.0319,0.0066,0.0385
-2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Courtland Sutton,-0.0319,0.0066,0.0385
 2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Foster Moreau,-0.0319,0.0066,0.0385
-2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Javonte Williams,-0.0319,0.0066,0.0385
 2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Jerry Jeudy,-0.0319,0.0066,0.0385
+2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Courtland Sutton,-0.0319,0.0066,0.0385
+2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Javonte Williams,-0.0319,0.0066,0.0385
 2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Tony Pollard,-0.0319,0.0066,0.0385
 2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Joey Bosa,-0.0319,0.0066,0.0385
+2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Aaron Donald,-0.0319,0.0066,0.0385
 2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Odell Beckham Jr.,-0.0319,0.0066,0.0385
 2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Michael Thomas,-0.0319,0.0066,0.0385
+2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Calvin Ridley,-0.0319,0.0066,0.0385
+2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Jonathan Taylor,-0.0319,0.0066,0.0385
 2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,John Metchie,-0.0319,0.0066,0.0385
 2023-11-13 03:03:39.990012,La Liga - Spain La Liga 2023/24 - To Be Relegated,Las Palmas,-0.0321,0.0588,0.0909
+2023-11-13 04:04:12.568654,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Borussia Mönchengladbach,-0.03330000000000001,0.0667,0.1
 2023-11-13 03:03:40.145972,Brasileirão Série A - Brasileiro Serie A 2023 - Top 6 Finish,Athletico Paranaense,-0.033300000000000024,0.1667,0.2
 2023-11-12 23:05:16.788968,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,St. Mirren,-0.033399999999999985,0.1333,0.1667
 2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Von Miller,-0.0335,0.005,0.0385
@@ -253,6 +282,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-12 23:05:16.808949,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Hearts,-0.0504,0.2353,0.2857
 2023-11-12 23:05:16.802633,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Kilmarnock,-0.05070000000000002,0.4255,0.4762
 2023-11-13 03:03:40.681403,Super Lig - Turkey Super Lig 2023/24 - Winner,Galatasaray,-0.052200000000000024,0.5556,0.6078
+2023-11-13 04:04:12.556182,1. Bundesliga - Germany Bundesliga 2023/24 - Winner without Bayern Munich,Borussia Dortmund,-0.05379999999999999,0.1,0.1538
 2023-11-13 03:03:40.618066,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Randers,-0.05379999999999999,0.1,0.1538
 2023-11-13 02:03:59.653755,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Lamar Jackson,-0.05550000000000002,0.1667,0.2222
 2023-11-13 00:05:19.213353,NFC West - NFC West 2023/24 - NFC West Winner,Seattle Seahawks,-0.05559999999999998,0.2222,0.2778
@@ -260,21 +290,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-12 23:05:16.796012,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Dundee FC,-0.05679999999999999,0.125,0.1818
 2023-11-13 02:03:59.644044,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,John Harbaugh,-0.0615,0.0294,0.0909
 2023-11-13 00:05:19.166645,AFC West - AFC West 2023/24 - AFC West Winner,Los Angeles Chargers,-0.0629,0.0909,0.1538
+2023-11-13 04:04:12.561646,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Serhou Guirassy,-0.0632,0.1667,0.2299
 2023-11-13 01:04:35.211372,Atlantic Division - Atlantic Division 2023-24 - Division Winner,Boston Celtics,-0.0635,0.7143,0.7778
 2023-11-12 17:06:16.165539,NBL - NBL 2023/2024 - To Make Top 4,Brisbane Bullets,-0.06659999999999999,0.2667,0.3333
 2023-11-13 00:05:19.144019,AFC North - AFC North 2023/24 - AFC North Winner,Cincinnati Bengals,-0.06669999999999998,0.2,0.2667
 2023-11-13 00:05:19.200933,NFC South - NFC South 2023/24 - NFC South Winner,Atlanta Falcons,-0.067,0.2778,0.3448
 2023-11-13 03:03:40.610971,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Nordsjælland,-0.06990000000000002,0.3846,0.4545
 2023-11-13 03:03:40.618066,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Lyngby BK,-0.07579999999999999,0.0909,0.1667
-2023-11-12 17:06:16.186601,NBL - NBL 2023/2024 - To Make Top 6,Brisbane Bullets,-0.07619999999999993,0.5238,0.6
 2023-11-12 17:06:16.186601,NBL - NBL 2023/2024 - To Make Top 6,New Zealand Breakers,-0.07619999999999993,0.5238,0.6
+2023-11-12 17:06:16.186601,NBL - NBL 2023/2024 - To Make Top 6,Brisbane Bullets,-0.07619999999999993,0.5238,0.6
 2023-11-13 03:03:42.324217,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Puka Nacua,-0.0769,0.0769,0.1538
-2023-11-13 03:03:40.618066,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Odense,-0.0791,0.0385,0.1176
 2023-11-13 02:03:59.644044,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Robert Saleh,-0.0791,0.0385,0.1176
+2023-11-13 03:03:40.618066,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Odense,-0.0791,0.0385,0.1176
 2023-11-12 23:05:16.808949,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Dundee FC,-0.07929999999999993,0.7778,0.8571
 2023-11-13 01:04:35.230591,Central Division - Central Division 2023-24 - Division Winner,Milwaukee Bucks,-0.08330000000000004,0.6667,0.75
 2023-11-13 02:03:59.644044,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Mike McDaniel,-0.09620000000000001,0.1538,0.25
 2023-11-13 03:03:40.618066,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Viborg FF,-0.09939999999999999,0.1111,0.2105
+2023-11-13 04:04:12.575592,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Borussia Dortmund,-0.10770000000000002,0.6923,0.8
 2023-11-13 03:03:40.139911,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Grêmio,-0.11430000000000007,0.6,0.7143
 2023-11-13 01:04:35.308357,Southwest Division - Southwest Division 2023-24 - Division Winner,New Orleans Pelicans,-0.13329999999999997,0.2,0.3333
 2023-11-13 03:03:40.600179,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Vejle BK,-0.13670000000000004,0.5556,0.6923
@@ -282,13 +314,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-13 00:05:19.144019,AFC North - AFC North 2023/24 - AFC North Winner,Baltimore Ravens,-0.15559999999999996,0.4444,0.6
 2023-11-13 00:05:19.155188,AFC South - AFC South 2023/24 - AFC South Winner,Jacksonville Jaguars,-0.15959999999999996,0.6923,0.8519
 2023-11-13 03:03:42.279875,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Lamar Jackson,-0.16340000000000002,0.0588,0.2222
-2023-11-12 21:05:22.041372,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-12 20:04:56.703051,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
 2023-11-13 00:05:19.609863,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-12 15:04:24.653031,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-12 16:07:00.688388,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-12 17:06:17.250554,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-12 18:06:09.007395,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
 2023-11-12 23:05:18.529812,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
 2023-11-12 22:05:32.547810,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-12 21:05:22.041372,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-12 20:04:56.703051,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
 2023-11-12 19:05:33.723975,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-12 18:06:09.007395,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-12 16:07:00.688388,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-12 17:06:17.250554,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
