@@ -1,13 +1,14 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-12 09:06:43.653711,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-12 13:05:38.283170,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-12 14:04:33.795803,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-12 20:04:56.692890,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-12 19:05:33.708788,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-12 18:06:08.987539,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-12 17:06:17.241133,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-12 16:07:00.662545,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
-2023-11-12 14:04:33.795803,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-12 21:05:22.023807,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-12 15:04:24.643606,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
+2023-11-12 13:05:38.283170,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-12 12:06:33.992769,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-12 11:05:10.569068,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
 2023-11-12 10:05:12.317483,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,0.7323,0.999,0.2667
@@ -30,8 +31,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-12 17:06:16.142054,NBL - NBL 2023/2024 - Outright,Brisbane Bullets,-0.011199999999999995,0.0476,0.0588
 2023-11-12 17:06:16.142054,NBL - NBL 2023/2024 - Outright,New Zealand Breakers,-0.014899999999999997,0.0476,0.0625
 2023-11-12 17:06:16.165539,NBL - NBL 2023/2024 - To Make Top 4,Illawarra Hawks,-0.019099999999999995,0.0244,0.0435
-2023-11-12 17:06:16.142054,NBL - NBL 2023/2024 - Outright,SE Melbourne Phoenix,-0.022199999999999998,0.1111,0.1333
 2023-11-12 17:06:16.150380,NBL - NBL 2023/2024 - Regular Season MVP,Mitch Creek,-0.022199999999999998,0.1111,0.1333
+2023-11-12 17:06:16.142054,NBL - NBL 2023/2024 - Outright,SE Melbourne Phoenix,-0.022199999999999998,0.1111,0.1333
 2023-11-12 17:06:16.186601,NBL - NBL 2023/2024 - To Make Top 6,Adelaide 36ers,-0.027999999999999997,0.1538,0.1818
 2023-11-12 17:06:16.186601,NBL - NBL 2023/2024 - To Make Top 6,SE Melbourne Phoenix,-0.04169999999999996,0.8333,0.875
 2023-11-12 17:06:16.186601,NBL - NBL 2023/2024 - To Make Top 6,Illawarra Hawks,-0.04269999999999999,0.1111,0.1538
@@ -39,17 +40,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-12 17:06:16.165539,NBL - NBL 2023/2024 - To Make Top 4,SE Melboune Phoenix,-0.04630000000000001,0.5833,0.6296
 2023-11-12 17:06:16.165539,NBL - NBL 2023/2024 - To Make Top 4,New Zealand Breakers,-0.047599999999999976,0.2857,0.3333
 2023-11-12 17:06:16.165539,NBL - NBL 2023/2024 - To Make Top 4,Brisbane Bullets,-0.06659999999999999,0.2667,0.3333
-2023-11-12 17:06:16.186601,NBL - NBL 2023/2024 - To Make Top 6,Brisbane Bullets,-0.07619999999999993,0.5238,0.6
 2023-11-12 17:06:16.186601,NBL - NBL 2023/2024 - To Make Top 6,New Zealand Breakers,-0.07619999999999993,0.5238,0.6
-2023-11-12 10:05:12.340489,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-12 20:04:56.703051,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-12 19:05:33.723975,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-12 17:06:16.186601,NBL - NBL 2023/2024 - To Make Top 6,Brisbane Bullets,-0.07619999999999993,0.5238,0.6
 2023-11-12 11:05:10.578610,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
 2023-11-12 12:06:34.006765,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-12 18:06:09.007395,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-12 16:07:00.688388,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-12 10:05:12.340489,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-12 21:05:22.041372,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
 2023-11-12 13:05:38.297187,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
 2023-11-12 14:04:33.805568,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-12 09:06:43.663729,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
-2023-11-12 17:06:17.250554,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
 2023-11-12 15:04:24.653031,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-12 17:06:17.250554,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-12 18:06:09.007395,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-12 19:05:33.723975,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-12 09:06:43.663729,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-12 20:04:56.703051,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
+2023-11-12 16:07:00.688388,Boxing Lines - Regis Prograis vs Devin Haney - To Win the Bout,Regis Prograis,-0.7323,0.2667,0.999
