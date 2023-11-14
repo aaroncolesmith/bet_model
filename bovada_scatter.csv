@@ -22,6 +22,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-14 13:17:45.893938,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Philadelphia 76ers,0.08979999999999999,0.1667,0.0769
 2023-11-14 08:11:25.604687,AFC East - AFC East 2023/24 - AFC East Winner 23/24,Miami Dolphins,0.08360000000000001,0.7895,0.7059
 2023-11-14 08:11:25.928358,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Myles Garrett,0.08340000000000003,0.4167,0.3333
+2023-11-14 15:11:29.241766,Video Game Specials - The Game Awards: Game Of The Year - Game Of The Year,Baldur's Gate 3,0.08330000000000004,0.75,0.6667
 2023-11-14 10:14:52.469791,NCAA Football Futures - 2023 Mountain West Conference Championship - Championship Game Winner,Boise State,0.08179999999999998,0.1818,0.1
 2023-11-14 13:17:45.955351,West Group C - West Group C 2023 - Winner,Minnesota Timberwolves,0.06670000000000004,0.4,0.3333
 2023-11-14 10:14:52.444857,NCAA Football Futures - 2023 American Athletic Championship - American Athletic Championship Game Winner,Tulane,0.06230000000000002,0.4545,0.3922
@@ -29,87 +30,72 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-14 10:14:52.469791,NCAA Football Futures - 2023 Mountain West Conference Championship - Championship Game Winner,UNLV,0.057200000000000015,0.1481,0.0909
 2023-11-14 05:08:28.741454,MLS - MLS 2023 - Western Conference Winner,Sporting Kansas City,0.056400000000000006,0.1333,0.0769
 2023-11-14 10:14:52.469791,NCAA Football Futures - 2023 Mountain West Conference Championship - Championship Game Winner,San Jose State,0.0509,0.1176,0.0667
-2023-11-14 10:14:53.266626,Scores - 1st Round Score - Jon Rahm - 1st Round Score,Over 68.5,0.05070000000000002,0.4762,0.4255
 2023-11-14 10:14:53.311857,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Over 68.5,0.05070000000000002,0.4762,0.4255
+2023-11-14 10:14:53.266626,Scores - 1st Round Score - Jon Rahm - 1st Round Score,Over 68.5,0.05070000000000002,0.4762,0.4255
 2023-11-14 08:11:25.937585,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,CJ Stroud,0.0475,0.0769,0.0294
 2023-11-14 13:17:47.021677,Arizona Cardinals - 2023-24 Regular Season Wins O/U - Regular Season Wins - Arizona Cardinals O/U 4.5,Under 4.5,0.04700000000000004,0.5348,0.4878
 2023-11-14 08:11:25.946773,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,CeeDee Lamb,0.044599999999999994,0.0769,0.0323
 2023-11-14 10:14:53.514950,Tournament Match-Ups - Tournament Match-Ups - V. Hovland vs R. McIIroy - Tournament Match-Ups,Rory McIlroy,0.037800000000000056,0.5833,0.5455
 2023-11-14 10:14:53.277691,Scores - 1st Round Score - Matt Fitzpatrick - 1st Round Score,Under 68.5,0.03600000000000003,0.5238,0.4878
-2023-11-14 03:06:10.474105,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Anthony Edwards (MIN),0.0344,0.0588,0.0244
 2023-11-14 11:16:23.911592,NCAA Football Futures - 2023 Mountain West Conference Championship - Championship Game Winner,UNLV,0.03369999999999998,0.1818,0.1481
 2023-11-14 08:11:25.628891,AFC South - AFC South 2023/24 - AFC South Winner,Indianapolis Colts,0.0334,0.0769,0.0435
-2023-11-14 10:14:52.444857,NCAA Football Futures - 2023 American Athletic Championship - American Athletic Championship Game Winner,Memphis,0.03330000000000001,0.1,0.0667
 2023-11-14 08:11:25.957625,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Jahmyr Gibbs,0.03330000000000001,0.1,0.0667
+2023-11-14 10:14:52.444857,NCAA Football Futures - 2023 American Athletic Championship - American Athletic Championship Game Winner,Memphis,0.03330000000000001,0.1,0.0667
 2023-11-14 13:17:45.893938,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Los Angeles Lakers,0.0321,0.0909,0.0588
 2023-11-14 11:16:22.812093,Daily Specials - NBA Daily Specials - Tuesday 14th November - Late Games,"Lakers, Timberwolves, Warriors and Nuggets each to score 50+ points in each half",0.031,0.1739,0.1429
-2023-11-14 08:11:26.689761,Netflix Cup - Match-Ups - C. Morikawa & P. Gasly v M. Homa & A. Albon - Netflix Cup Match-Up,Max Homa & Alex Albon,0.030399999999999983,0.5652,0.5348
 2023-11-14 08:11:26.711364,Netflix Cup - Match-Ups - J. Thomas & C. Sainz v R. Fowler & L. Norris - Netflix Cup Match-Up,Justin Thomas & Carlos Sainz,0.030399999999999983,0.5652,0.5348
-2023-11-14 03:06:12.180626,Netflix Cup - Match-Ups - M. Homa & A. Albon v R. Fowler & L. Norris - Netflix Cup Match-Up,Max Homa & Alex Albon,0.030399999999999983,0.5652,0.5348
+2023-11-14 08:11:26.689761,Netflix Cup - Match-Ups - C. Morikawa & P. Gasly v M. Homa & A. Albon - Netflix Cup Match-Up,Max Homa & Alex Albon,0.030399999999999983,0.5652,0.5348
 2023-11-14 10:14:52.444857,NCAA Football Futures - 2023 American Athletic Championship - American Athletic Championship Game Winner,SMU,0.030299999999999994,0.3636,0.3333
 2023-11-14 14:09:16.874623,NCAA Football Futures - 2023 Big 12 Championship - Big 12 Championship Game Winner ,Oklahoma,0.028700000000000003,0.2105,0.1818
 2023-11-14 08:11:23.918645,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,Mohamed Salah (Liverpool),0.0267,0.1176,0.0909
-2023-11-14 10:14:53.368672,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Under 68.5,0.026499999999999968,0.5917,0.5652
 2023-11-14 04:06:17.437382,Tournament Match-Ups - Tournament Match-Ups - B. Harman / R. Henley - Tournament Match-Ups,Russell Henley,0.026499999999999968,0.5917,0.5652
+2023-11-14 10:14:53.368672,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Under 68.5,0.026499999999999968,0.5917,0.5652
 2023-11-14 08:11:26.666731,Netflix Cup - Netflix Cup - Winner,Max Homa & Alex Albon,0.02560000000000001,0.3333,0.3077
 2023-11-14 08:11:25.918924,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Kevin O'Connell,0.025300000000000003,0.1429,0.1176
 2023-11-14 14:09:16.874623,NCAA Football Futures - 2023 Big 12 Championship - Big 12 Championship Game Winner ,Kansas State,0.0245,0.0833,0.0588
-2023-11-14 13:17:45.893938,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Denver Nuggets,0.023799999999999988,0.1667,0.1429
 2023-11-14 14:09:18.752172,Netflix Cup - Match-Ups - M. Homa & A. Albon v R. Fowler & L. Norris - Netflix Cup Match-Up,Rickie Fowler & Lando Norris,0.023799999999999988,0.5,0.4762
-2023-11-14 03:06:12.078816,Netflix Cup - Netflix Cup - Winner,Max Homa & Alex Albon,0.021999999999999964,0.3077,0.2857
+2023-11-14 13:17:45.893938,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Denver Nuggets,0.023799999999999988,0.1667,0.1429
 2023-11-14 08:11:26.666731,Netflix Cup - Netflix Cup - Winner,Justin Thomas & Carlos Sainz,0.021999999999999964,0.3077,0.2857
-2023-11-14 08:11:26.678967,Netflix Cup - Match-Ups - C. Morikawa & P. Gasly v J. Thomas & C. Sainz - Netflix Cup Match-Up,Justin Thomas & Carlos Sainz,0.02169999999999994,0.5455,0.5238
-2023-11-14 10:14:53.357186,Scores - 1st Round Score - Tyrrell Hatton - 1st Round Score,Over 68.5,0.02169999999999994,0.5455,0.5238
-2023-11-14 13:17:48.716426,Tournament Match-Ups - Tournament Match-Ups - V. Norrman vs A. Bjork - Tournament Match-Ups,Vincent Norrman,0.02169999999999994,0.5455,0.5238
 2023-11-14 08:11:26.654586,Tournament Match-Ups - Tournament Match-Ups - V. Norrman vs A. Bjork - Tournament Match-Ups,Alexander Bjork,0.02169999999999994,0.5455,0.5238
+2023-11-14 10:14:53.357186,Scores - 1st Round Score - Tyrrell Hatton - 1st Round Score,Over 68.5,0.02169999999999994,0.5455,0.5238
+2023-11-14 08:11:26.678967,Netflix Cup - Match-Ups - C. Morikawa & P. Gasly v J. Thomas & C. Sainz - Netflix Cup Match-Up,Justin Thomas & Carlos Sainz,0.02169999999999994,0.5455,0.5238
+2023-11-14 13:17:48.716426,Tournament Match-Ups - Tournament Match-Ups - V. Norrman vs A. Bjork - Tournament Match-Ups,Vincent Norrman,0.02169999999999994,0.5455,0.5238
 2023-11-14 13:17:45.893938,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Minnesota Timberwolves,0.0208,0.0833,0.0625
+2023-11-14 15:11:31.762076,Boxing Lines - Steven Butler vs Ivan Alvarez - To Win the Bout,Ivan Alvarez,0.01999999999999999,0.2105,0.1905
 2023-11-14 13:17:45.893938,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Dallas Mavericks,0.019800000000000005,0.0476,0.0278
 2023-11-14 14:09:18.740717,Netflix Cup - Match-Ups - M. Homa & A. Albon v J. Thomas & C. Sainz - Netflix Cup Match-Up,Max Homa & Alex Albon,0.01970000000000005,0.5652,0.5455
-2023-11-14 03:06:12.078816,Netflix Cup - Netflix Cup - Winner,Justin Thomas & Carlos Sainz,0.019000000000000017,0.2857,0.2667
-2023-11-14 08:11:25.579805,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Kansas City Chiefs,0.019000000000000017,0.3175,0.2985
 2023-11-14 08:11:25.918924,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,DeMeco Ryans,0.019000000000000017,0.2857,0.2667
+2023-11-14 08:11:25.579805,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Kansas City Chiefs,0.019000000000000017,0.3175,0.2985
 2023-11-14 04:06:17.453978,Tournament Match-Ups - Tournament Match-Ups - C. Conners vs A. Noren - Tournament Match-Ups,Corey Conners,0.017299999999999982,0.5917,0.5744
 2023-11-14 13:17:48.769836,Netflix Cup - Netflix Cup - Winner,Rickie Fowler & Lando Norris,0.016699999999999993,0.2667,0.25
 2023-11-14 10:14:52.652815,Boxing Lines - Nathaniel Collins vs Zak Miller - To Win the Bout,Nathaniel Collins,0.01660000000000006,0.9333,0.9167
-2023-11-14 08:11:26.392184,DP World Tour Championship - DP World Tour Championship - Winner,Rory McIlroy,0.015100000000000002,0.1818,0.1667
 2023-11-14 13:17:45.893938,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Boston Celtics,0.015100000000000002,0.1818,0.1667
+2023-11-14 08:11:26.392184,DP World Tour Championship - DP World Tour Championship - Winner,Rory McIlroy,0.015100000000000002,0.1818,0.1667
 2023-11-14 14:09:16.874623,NCAA Football Futures - 2023 Big 12 Championship - Big 12 Championship Game Winner ,Iowa State,0.014499999999999999,0.0294,0.0149
-2023-11-14 13:17:45.893938,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Sacramento Kings,0.0131,0.0476,0.0345
 2023-11-14 08:11:25.937585,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Jared Goff,0.0131,0.0476,0.0345
+2023-11-14 13:17:45.893938,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Sacramento Kings,0.0131,0.0476,0.0345
 2023-11-14 08:11:25.579805,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Baltimore Ravens,0.012899999999999995,0.1667,0.1538
 2023-11-14 08:11:25.918924,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Andy Reid,0.012800000000000002,0.0244,0.0116
 2023-11-14 08:11:26.700389,Netflix Cup - Match-Ups - C. Morikawa & P. Gasly v R. Fowler & L. Norris - Netflix Cup Match-Up,Rickie Fowler & Lando Norris,0.012199999999999989,0.5122,0.5
 2023-11-14 04:06:17.538712,Tournament Match-Ups - Tournament Match-Ups - L. Aberg vs C. Young - Tournament Match-Ups,Cameron Young,0.012199999999999989,0.5122,0.5
-2023-11-14 03:06:12.091925,Netflix Cup - Match-Ups - C. Morikawa & P. Gasly v J. Thomas & C. Sainz - Netflix Cup Match-Up,Justin Thomas & Carlos Sainz,0.011600000000000055,0.5238,0.5122
 2023-11-14 14:09:17.069690,Boxing Lines - Steve Claggett vs Miguel Madueno - To Win the Bout,Steve Claggett,0.011499999999999955,0.6667,0.6552
 2023-11-14 13:17:47.010090,NCAA Football Specials - Next Full time Head Coach of Texas A&M - Proposition,Glen Schumann,0.011199999999999995,0.0588,0.0476
 2023-11-14 14:09:18.696209,Netflix Cup - Netflix Cup - Winner,Rickie Fowler & Lando Norris,0.011099999999999999,0.2778,0.2667
-2023-11-14 03:06:12.131851,Netflix Cup - Match-Ups - J. Thomas & C. Sainz v R. Fowler & L. Norris - Netflix Cup Match-Up,Justin Thomas & Carlos Sainz,0.01100000000000001,0.5348,0.5238
-2023-11-14 03:06:12.103138,Netflix Cup - Match-Ups - C. Morikawa & P. Gasly v M. Homa & A. Albon - Netflix Cup Match-Up,Max Homa & Alex Albon,0.01100000000000001,0.5348,0.5238
 2023-11-14 13:17:47.365112,Washington Commanders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Washington Commanders O/U  6.5,Over 6.5,0.01100000000000001,0.5348,0.5238
 2023-11-14 08:11:25.579805,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Miami Dolphins,0.010899999999999993,0.1538,0.1429
 2023-11-14 13:17:45.893938,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Indiana Pacers,0.010700000000000001,0.0385,0.0278
-2023-11-14 03:06:12.157977,Netflix Cup - Match-Ups - M. Homa & A. Albon v J. Thomas & C. Sainz - Netflix Cup Match-Up,Max Homa & Alex Albon,0.010699999999999932,0.5455,0.5348
-2023-11-14 03:06:12.115698,Netflix Cup - Match-Ups - C. Morikawa & P. Gasly v R. Fowler & L. Norris - Netflix Cup Match-Up,Collin Morikawa & Pierre Gasly,0.010699999999999932,0.5455,0.5348
 2023-11-14 14:09:18.779250,Dunlop Phoenix - Dunlop Phoenix - Winner,Shaun Norris,0.010600000000000002,0.0323,0.0217
 2023-11-14 08:11:26.746103,CME Group Tour Championship - CME Group Tour Championship - Winner,Jin Young Ko,0.0102,0.0769,0.0667
 2023-11-14 08:11:25.937585,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Dak Prescott,0.010100000000000001,0.0345,0.0244
 2023-11-14 11:16:24.159974,Boxing Lines - Ekow Essuman vs Harry Scarff - To Win the Bout,Harry Scarff,0.010099999999999998,0.3226,0.3125
-2023-11-14 03:06:11.493772,Boxing Lines - Nick Ball vs Isaac Dogboe - To Win the Bout,Isaac Dogboe,-0.010099999999999998,0.3125,0.3226
-2023-11-14 03:06:11.439657,Boxing Lines - Ekow Essuman vs Harry Scarff - To Win the Bout,Harry Scarff,-0.010099999999999998,0.3125,0.3226
 2023-11-14 13:17:45.893938,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,L.A. Clippers,-0.010100000000000001,0.0244,0.0345
+2023-11-14 15:11:31.956723,Boxing Lines - Nathaniel Collins vs Zak Miller - To Win the Bout,Nathaniel Collins,-0.010199999999999987,0.9231,0.9333
 2023-11-14 04:06:17.470108,Tournament Match-Ups - Tournament Match-Ups - D. McCarthy vs K. Mitchell - Tournament Match-Ups,Keith Mitchell,-0.010599999999999998,0.4545,0.4651
-2023-11-14 08:11:26.700389,Netflix Cup - Match-Ups - C. Morikawa & P. Gasly v R. Fowler & L. Norris - Netflix Cup Match-Up,Collin Morikawa & Pierre Gasly,-0.010699999999999932,0.5348,0.5455
 2023-11-14 13:17:47.365112,Washington Commanders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Washington Commanders O/U  6.5,Under 6.5,-0.010699999999999932,0.5348,0.5455
+2023-11-14 08:11:26.700389,Netflix Cup - Match-Ups - C. Morikawa & P. Gasly v R. Fowler & L. Norris - Netflix Cup Match-Up,Collin Morikawa & Pierre Gasly,-0.010699999999999932,0.5348,0.5455
 2023-11-14 13:17:45.893938,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Orlando Magic,-0.010700000000000001,0.011,0.0217
-2023-11-14 03:06:11.462784,Boxing Lines - Rhys Edwards vs Brad Foster - To Win the Bout,Rhys Edwards,-0.010700000000000043,0.6667,0.6774
 2023-11-14 08:11:26.392184,DP World Tour Championship - DP World Tour Championship - Winner,Viktor Hovland,-0.010899999999999993,0.1429,0.1538
-2023-11-14 03:06:12.091925,Netflix Cup - Match-Ups - C. Morikawa & P. Gasly v J. Thomas & C. Sainz - Netflix Cup Match-Up,Collin Morikawa & Pierre Gasly,-0.01100000000000001,0.5238,0.5348
 2023-11-14 04:06:17.453978,Tournament Match-Ups - Tournament Match-Ups - C. Conners vs A. Noren - Tournament Match-Ups,Alex Noren,-0.0116,0.4762,0.4878
-2023-11-14 03:06:12.131851,Netflix Cup - Match-Ups - J. Thomas & C. Sainz v R. Fowler & L. Norris - Netflix Cup Match-Up,Rickie Fowler & Lando Norris,-0.011600000000000055,0.5122,0.5238
-2023-11-14 03:06:12.103138,Netflix Cup - Match-Ups - C. Morikawa & P. Gasly v M. Homa & A. Albon - Netflix Cup Match-Up,Collin Morikawa & Pierre Gasly,-0.011600000000000055,0.5122,0.5238
-2023-11-14 03:06:12.115698,Netflix Cup - Match-Ups - C. Morikawa & P. Gasly v R. Fowler & L. Norris - Netflix Cup Match-Up,Rickie Fowler & Lando Norris,-0.012199999999999989,0.5,0.5122
-2023-11-14 03:06:12.157977,Netflix Cup - Match-Ups - M. Homa & A. Albon v J. Thomas & C. Sainz - Netflix Cup Match-Up,Justin Thomas & Carlos Sainz,-0.012199999999999989,0.5,0.5122
 2023-11-14 13:17:47.010090,NCAA Football Specials - Next Full time Head Coach of Texas A&M - Proposition,Mike Elko,-0.012699999999999989,0.3509,0.3636
 2023-11-14 08:11:25.928358,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Nick Bosa,-0.012700000000000003,0.0196,0.0323
 2023-11-14 08:11:25.957625,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Zay Flowers,-0.012899999999999998,0.0149,0.0278
@@ -118,21 +104,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-14 08:11:25.918924,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Nick Sirianni,-0.014100000000000001,0.0385,0.0526
 2023-11-14 14:09:16.888734,NCAA Football Futures - 2023 Big Ten Conference Championship - Big Ten Championship Game Winner,Ohio State,-0.01419999999999999,0.3704,0.3846
 2023-11-14 08:11:25.928358,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Fred Warner,-0.014400000000000003,0.0179,0.0323
-2023-11-14 08:11:25.928358,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Chris Jones,-0.014900000000000004,0.0196,0.0345
 2023-11-14 08:11:25.957625,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Jordan Addison,-0.014900000000000004,0.0196,0.0345
-2023-11-14 13:17:45.893938,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Miami Heat,-0.015300000000000001,0.0323,0.0476
+2023-11-14 08:11:25.928358,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Chris Jones,-0.014900000000000004,0.0196,0.0345
 2023-11-14 08:11:25.567451,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Buffalo Bills,-0.015300000000000001,0.0435,0.0588
-2023-11-14 03:06:12.078816,Netflix Cup - Netflix Cup - Winner,Rickie Fowler & Lando Norris,-0.016699999999999993,0.25,0.2667
+2023-11-14 13:17:45.893938,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Miami Heat,-0.015300000000000001,0.0323,0.0476
+2023-11-14 15:11:31.762076,Boxing Lines - Steven Butler vs Ivan Alvarez - To Win the Bout,Steven Butler,-0.017900000000000027,0.8571,0.875
 2023-11-14 08:11:25.957625,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Puka Nacua,-0.018099999999999998,0.0588,0.0769
-2023-11-14 10:14:53.357186,Scores - 1st Round Score - Tyrrell Hatton - 1st Round Score,Under 68.5,-0.02169999999999994,0.5238,0.5455
-2023-11-14 13:17:48.716426,Tournament Match-Ups - Tournament Match-Ups - V. Norrman vs A. Bjork - Tournament Match-Ups,Alexander Bjork,-0.02169999999999994,0.5238,0.5455
 2023-11-14 08:11:26.654586,Tournament Match-Ups - Tournament Match-Ups - V. Norrman vs A. Bjork - Tournament Match-Ups,Vincent Norrman,-0.02169999999999994,0.5238,0.5455
-2023-11-14 13:17:48.769836,Netflix Cup - Netflix Cup - Winner,Justin Thomas & Carlos Sainz,-0.021999999999999964,0.2857,0.3077
+2023-11-14 13:17:48.716426,Tournament Match-Ups - Tournament Match-Ups - V. Norrman vs A. Bjork - Tournament Match-Ups,Alexander Bjork,-0.02169999999999994,0.5238,0.5455
+2023-11-14 10:14:53.357186,Scores - 1st Round Score - Tyrrell Hatton - 1st Round Score,Under 68.5,-0.02169999999999994,0.5238,0.5455
 2023-11-14 14:09:18.696209,Netflix Cup - Netflix Cup - Winner,Max Homa & Alex Albon,-0.021999999999999964,0.2857,0.3077
+2023-11-14 13:17:48.769836,Netflix Cup - Netflix Cup - Winner,Justin Thomas & Carlos Sainz,-0.021999999999999964,0.2857,0.3077
 2023-11-14 08:11:25.937585,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Joe Burrow,-0.02310000000000001,0.0769,0.1
 2023-11-14 08:11:25.937585,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Josh Allen,-0.023200000000000002,0.0294,0.0526
-2023-11-14 04:06:17.437382,Tournament Match-Ups - Tournament Match-Ups - B. Harman / R. Henley - Tournament Match-Ups,Brian Harman,-0.023799999999999988,0.4762,0.5
 2023-11-14 10:14:53.368672,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Over 68.5,-0.023799999999999988,0.4762,0.5
+2023-11-14 04:06:17.437382,Tournament Match-Ups - Tournament Match-Ups - B. Harman / R. Henley - Tournament Match-Ups,Brian Harman,-0.023799999999999988,0.4762,0.5
 2023-11-14 08:11:26.678967,Netflix Cup - Match-Ups - C. Morikawa & P. Gasly v J. Thomas & C. Sainz - Netflix Cup Match-Up,Collin Morikawa & Pierre Gasly,-0.023800000000000043,0.5,0.5238
 2023-11-14 13:17:48.769836,Netflix Cup - Netflix Cup - Winner,Max Homa & Alex Albon,-0.02560000000000001,0.3077,0.3333
 2023-11-14 11:16:23.911592,NCAA Football Futures - 2023 Mountain West Conference Championship - Championship Game Winner,Boise State,-0.027999999999999997,0.1538,0.1818
@@ -147,7 +133,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-14 08:11:25.579805,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Buffalo Bills,-0.03420000000000001,0.0769,0.1111
 2023-11-14 05:08:28.735376,MLS - MLS 2023 - Eastern Conference Winner,Philadelphia Union,-0.0353,0.2,0.2353
 2023-11-14 08:11:26.666731,Netflix Cup - Netflix Cup - Winner,Collin Morikawa & Pierre Gasly,-0.03570000000000001,0.25,0.2857
-2023-11-14 03:06:12.180626,Netflix Cup - Match-Ups - M. Homa & A. Albon v R. Fowler & L. Norris - Netflix Cup Match-Up,Rickie Fowler & Lando Norris,-0.035999999999999976,0.4762,0.5122
 2023-11-14 08:11:26.711364,Netflix Cup - Match-Ups - J. Thomas & C. Sainz v R. Fowler & L. Norris - Netflix Cup Match-Up,Rickie Fowler & Lando Norris,-0.035999999999999976,0.4762,0.5122
 2023-11-14 08:11:26.689761,Netflix Cup - Match-Ups - C. Morikawa & P. Gasly v M. Homa & A. Albon - Netflix Cup Match-Up,Collin Morikawa & Pierre Gasly,-0.035999999999999976,0.4762,0.5122
 2023-11-14 08:11:25.946773,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Christian McCaffrey,-0.03620000000000001,0.4082,0.4444
@@ -162,25 +147,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-14 14:09:16.899501,NCAA Football Futures - 2023 Pac-12 Championship - Pac-12 Championship Game Winner,Washington,-0.0721,0.3279,0.4
 2023-11-14 14:09:16.874623,NCAA Football Futures - 2023 Big 12 Championship - Big 12 Championship Game Winner ,Oklahoma State,-0.07930000000000001,0.1429,0.2222
 2023-11-14 08:11:25.604687,AFC East - AFC East 2023/24 - AFC East Winner 23/24,Buffalo Bills,-0.08329999999999999,0.25,0.3333
-2023-11-14 03:06:08.363511,MLS - MLS 2023 - Winner,Sporting Kansas City,-0.0857,0.0476,0.1333
-2023-11-14 03:06:08.363511,MLS - MLS 2023 - Winner,Seattle Sounders,-0.087,0.1429,0.2299
+2023-11-14 15:11:29.241766,Video Game Specials - The Game Awards: Game Of The Year - Game Of The Year,The Legend Of Zelda: Tears Of The Kingdom,-0.09230000000000005,0.3077,0.4
 2023-11-14 13:17:45.955351,West Group C - West Group C 2023 - Winner,Golden State Warriors,-0.09999999999999998,0.4,0.5
 2023-11-14 10:14:52.469791,NCAA Football Futures - 2023 Mountain West Conference Championship - Championship Game Winner,Fresno State,-0.10390000000000002,0.1818,0.2857
-2023-11-14 03:06:08.363511,MLS - MLS 2023 - Winner,Houston Dynamo,-0.10910000000000002,0.0909,0.2
 2023-11-14 10:14:53.346038,Scores - 1st Round Score - Tommy Fleetwood - 1st Round Score,Over 68.5,-0.12119999999999997,0.5455,0.6667
 2023-11-14 13:17:47.044267,Baltimore Ravens - 2023-24 Regular Season Wins O/U - Regular Season Wins - Baltimore Ravens O/U 11.5,Under 11.5,-0.12229999999999996,0.5652,0.6875
 2023-11-14 13:17:47.318341,San Francisco 49ers - 2023-24 Regular Season Wins O/U - Regular Season Wins - San Francisco 49ers O/U 11.5,Under 11.5,-0.12379999999999997,0.4762,0.6
 2023-11-14 13:17:47.115499,Dallas Cowboys - 2023-24 Regular Season Wins O/U - Regular Season Wins - Dallas Cowboys O/U 11.5,Under 11.5,-0.13049999999999995,0.5917,0.7222
-2023-11-14 03:06:08.363511,MLS - MLS 2023 - Winner,Philadelphia Union,-0.13130000000000003,0.0909,0.2222
-2023-11-14 03:06:08.363511,MLS - MLS 2023 - Winner,Orlando City,-0.1334,0.1333,0.2667
-2023-11-14 03:06:08.363511,MLS - MLS 2023 - Winner,Columbus Crew,-0.1334,0.1333,0.2667
 2023-11-14 13:17:47.207547,Las Vegas Raiders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Las Vegas Raiders O/U  7.5,Under 7.5,-0.13990000000000002,0.5744,0.7143
 2023-11-14 13:17:47.092321,Cincinnati Bengals - 2023-24 Regular Season Wins O/U - Regular Season Wins - Cincinnati Bengals O/U  9.5,Over 9.5,-0.1491,0.5652,0.7143
-2023-11-14 03:06:08.363511,MLS - MLS 2023 - Winner,FC Cincinnati,-0.16850000000000004,0.3077,0.4762
 2023-11-14 13:17:47.056771,Buffalo Bills - 2023-24 Regular Season Wins O/U - Regular Season Wins - Buffalo Bills O/U  8.5,Over 8.5,-0.2179000000000001,0.6154,0.8333
 2023-11-14 13:17:47.173023,Indianapolis Colts - 2023-24 Regular Season Wins O/U - Regular Season Wins - Indianapolis Colts O/U  8.5,Under 8.5,-0.22220000000000006,0.5556,0.7778
 2023-11-14 13:17:47.230553,Miami Dolphins - 2023-24 Regular Season Wins O/U - Regular Season Wins - Miami Dolphins O/U 11.5,Under 11.5,-0.24249999999999994,0.5652,0.8077
-2023-11-14 03:06:08.363511,MLS - MLS 2023 - Winner,Los Angeles FC,-0.2444,0.2,0.4444
 2023-11-14 13:17:47.281423,New York Jets - 2023-24 Regular Season Wins O/U - Regular Season Wins - New York Jets O/U  7.5,Over 7.5,-0.29119999999999996,0.4762,0.7674
 2023-11-14 13:17:47.069054,Carolina Panthers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Carolina Panthers O/U  3.5,Over 3.5,-0.39849999999999997,0.5348,0.9333
 2023-11-14 13:17:47.266385,New York Giants - 2023-24 Regular Season Wins O/U - Regular Season Wins - New York Giants O/U  3.5,Over 3.5,-0.4456,0.5348,0.9804
