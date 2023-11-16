@@ -33,12 +33,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-16 07:08:10.108868,To Make the Playoffs - San Antonio Spurs - To Make the 2023-24 Playoffs,No,0.018900000000000028,0.9804,0.9615
 2023-11-16 03:04:51.388511,Euroleague - Euroleague 2023/24 - To Make Final Four,Barcelona,0.01880000000000004,0.5744,0.5556
 2023-11-16 03:04:51.388511,Euroleague - Euroleague 2023/24 - To Make Final Four,Crvena Zvezda,0.01820000000000002,0.2,0.1818
-2023-11-16 02:04:42.583522,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Cincinnati Bengals,0.0179,0.1429,0.125
 2023-11-16 07:08:10.151920,To Make the Playoffs - Utah Jazz - To Make the 2023-24 Playoffs,Yes,0.0179,0.1429,0.125
+2023-11-16 02:04:42.583522,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Cincinnati Bengals,0.0179,0.1429,0.125
 2023-11-16 06:05:05.292647,To Make the Playoffs - Los Angeles Lakers - To Make the 2023-24 Playoffs,Yes,0.017300000000000093,0.7143,0.697
 2023-11-16 06:05:05.272329,To Make the Playoffs - Los Angeles Clippers - To Make the 2023-24 Playoffs,No,0.016000000000000014,0.4082,0.3922
 2023-11-16 02:04:42.583522,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Baltimore Ravens,0.015100000000000002,0.1818,0.1667
 2023-11-16 01:05:36.670654,Western Conference - Western Conference 2023-24 - Western Conference Winner,Denver Nuggets,0.014900000000000024,0.3226,0.3077
+2023-11-16 08:09:39.843429,Boxing Lines - Pedro Guevara vs Carlos Cuadras - To Win the Bout,Carlos Cuadras,0.01429999999999998,0.431,0.4167
 2023-11-16 00:05:49.233157,Boxing Lines - Shakur Stevenson vs Edwin De Los Santos - To Win the Bout,Shakur Stevenson,0.014100000000000001,0.9615,0.9474
 2023-11-16 02:04:41.647589,FIBA Champions League - Champions League 2023/24 - Outright,PAOK,0.014099999999999998,0.0385,0.0244
 2023-11-16 03:04:51.409593,Euro Cup - Euro Cup 2023/24 - Outright,U BT Cluj Napoca,0.014099999999999994,0.0667,0.0526
@@ -69,15 +70,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-16 02:04:42.567798,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Cleveland Browns,-0.0174,0.0196,0.037
 2023-11-16 07:08:10.151920,To Make the Playoffs - Utah Jazz - To Make the 2023-24 Playoffs,No,-0.018100000000000005,0.9231,0.9412
 2023-11-16 02:04:43.686675,Boxing Lines - Abdullah Mason vs Jose Cardenas - To Win the Bout,Abdullah Mason,-0.018900000000000028,0.9615,0.9804
+2023-11-16 08:09:39.843429,Boxing Lines - Pedro Guevara vs Carlos Cuadras - To Win the Bout,Pedro Guevara,-0.019499999999999962,0.6296,0.6491
 2023-11-16 06:05:05.292647,To Make the Playoffs - Los Angeles Lakers - To Make the 2023-24 Playoffs,No,-0.019500000000000017,0.3509,0.3704
 2023-11-16 01:05:36.730455,Southeast Division - Southeast Division 2023-24 - Division Winner,Atlanta Hawks,-0.019699999999999995,0.4348,0.4545
 2023-11-16 00:05:49.217582,Boxing Lines - Emanuel Navarrete vs Robson Conceicao - To Win the Bout,Robson Conceicao,-0.02049999999999999,0.1333,0.1538
 2023-11-16 01:05:36.692643,Central Division - Central Division 2023-24 - Division Winner,Cleveland Cavaliers,-0.020799999999999985,0.3125,0.3333
 2023-11-16 03:04:51.397464,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Crvena Zvezda,-0.021699999999999997,0.4545,0.4762
 2023-11-16 07:08:10.108868,To Make the Playoffs - San Antonio Spurs - To Make the 2023-24 Playoffs,Yes,-0.022000000000000006,0.0833,0.1053
+2023-11-16 03:04:51.388511,Euroleague - Euroleague 2023/24 - To Make Final Four,Partizan,-0.022199999999999998,0.2,0.2222
 2023-11-16 06:05:05.272329,To Make the Playoffs - Los Angeles Clippers - To Make the 2023-24 Playoffs,Yes,-0.022199999999999998,0.6552,0.6774
 2023-11-16 03:04:51.388511,Euroleague - Euroleague 2023/24 - To Make Final Four,Maccabi Tel-Aviv,-0.022199999999999998,0.2,0.2222
-2023-11-16 03:04:51.388511,Euroleague - Euroleague 2023/24 - To Make Final Four,Partizan,-0.022199999999999998,0.2,0.2222
 2023-11-16 07:08:10.128081,To Make the Playoffs - Toronto Raptors - To Make the 2023-24 Playoffs,Yes,-0.02260000000000001,0.3774,0.4
 2023-11-16 00:05:49.197047,Boxing Lines - Troy Isley vs Vladimir Hernandez - To Win the Bout,Troy Isley,-0.023600000000000065,0.7895,0.8131
 2023-11-16 00:05:51.381617,Scores - 1st Round Score - J.T. Poston - 1st Round Score,Over 67.5,-0.024499999999999966,0.5833,0.6078
