@@ -12,6 +12,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-16 01:05:36.719461,Pacific Division - Pacific Division 2023-24 - Division Winner,Phoenix Suns,0.0494,0.3571,0.3077
 2023-11-16 01:05:36.730455,Southeast Division - Southeast Division 2023-24 - Division Winner,Miami Heat,0.04760000000000003,0.5238,0.4762
 2023-11-16 03:04:51.388511,Euroleague - Euroleague 2023/24 - To Make Final Four,Virtus Bologna,0.04620000000000002,0.2,0.1538
+2023-11-16 07:08:09.999130,To Make the Playoffs - Oklahoma City Thunder - To Make the 2023-24 Playoffs,No,0.03710000000000002,0.3448,0.3077
 2023-11-16 00:05:49.129605,MLB Specials 2023 - Where will Shohei Ohtani Play Game 1 of the 2024 MLB Season - Proposition,Los Angeles Angels,0.03420000000000001,0.1111,0.0769
 2023-11-16 06:05:05.251723,To Make the Playoffs - Indiana Pacers - To Make the 2023-24 Playoffs,Yes,0.03370000000000006,0.6491,0.6154
 2023-11-16 06:05:05.129331,To Make the Playoffs - Cleveland Cavaliers - To Make the 2023-24 Playoffs,No,0.033399999999999985,0.1667,0.1333
@@ -25,12 +26,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-16 01:05:36.741517,Southwest Division - Southwest Division 2023-24 - Division Winner,Dallas Mavericks,0.02200000000000002,0.7143,0.6923
 2023-11-16 03:04:51.397464,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Bayern Munich,0.021999999999999964,0.3077,0.2857
 2023-11-16 00:05:49.197047,Boxing Lines - Troy Isley vs Vladimir Hernandez - To Win the Bout,Vladimir Hernandez,0.021399999999999975,0.2778,0.2564
+2023-11-16 07:08:10.128081,To Make the Playoffs - Toronto Raptors - To Make the 2023-24 Playoffs,No,0.02080000000000004,0.6875,0.6667
 2023-11-16 02:04:43.771869,Boxing Lines - Emanuel Navarrete vs Robson Conceicao - To Win the Bout,Robson Conceicao,0.02049999999999999,0.1538,0.1333
 2023-11-16 02:04:42.688429,AFC North - AFC North 2023/24 - AFC North Winner,Pittsburgh Steelers,0.020100000000000007,0.1739,0.1538
 2023-11-16 01:05:36.741517,Southwest Division - Southwest Division 2023-24 - Division Winner,Houston Rockets,0.019699999999999995,0.125,0.1053
+2023-11-16 07:08:10.108868,To Make the Playoffs - San Antonio Spurs - To Make the 2023-24 Playoffs,No,0.018900000000000028,0.9804,0.9615
 2023-11-16 03:04:51.388511,Euroleague - Euroleague 2023/24 - To Make Final Four,Barcelona,0.01880000000000004,0.5744,0.5556
 2023-11-16 03:04:51.388511,Euroleague - Euroleague 2023/24 - To Make Final Four,Crvena Zvezda,0.01820000000000002,0.2,0.1818
 2023-11-16 02:04:42.583522,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Cincinnati Bengals,0.0179,0.1429,0.125
+2023-11-16 07:08:10.151920,To Make the Playoffs - Utah Jazz - To Make the 2023-24 Playoffs,Yes,0.0179,0.1429,0.125
 2023-11-16 06:05:05.292647,To Make the Playoffs - Los Angeles Lakers - To Make the 2023-24 Playoffs,Yes,0.017300000000000093,0.7143,0.697
 2023-11-16 06:05:05.272329,To Make the Playoffs - Los Angeles Clippers - To Make the 2023-24 Playoffs,No,0.016000000000000014,0.4082,0.3922
 2023-11-16 02:04:42.583522,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Baltimore Ravens,0.015100000000000002,0.1818,0.1667
@@ -43,14 +47,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-16 01:05:36.719461,Pacific Division - Pacific Division 2023-24 - Division Winner,Sacramento Kings,0.012899999999999995,0.1667,0.1538
 2023-11-16 02:04:43.793800,Boxing Lines - Pedro Guevara vs Carlos Cuadras - To Win the Bout,Pedro Guevara,0.012700000000000045,0.6491,0.6364
 2023-11-16 06:05:05.021949,To Make the Playoffs - Atlanta Hawks - To Make the 2023-24 Playoffs,No,0.012299999999999978,0.3571,0.3448
+2023-11-16 07:08:09.982865,To Make the Playoffs - New York Knicks - To Make the 2023-24 Playoffs,Yes,0.012199999999999989,0.8039,0.7917
 2023-11-16 02:04:43.753885,Boxing Lines - Brian Norman Jr. vs Quinton Randall - To Win the Bout,Quinton Randall,0.011299999999999977,0.3817,0.3704
 2023-11-16 03:04:51.388511,Euroleague - Euroleague 2023/24 - To Make Final Four,Bayern Munich,0.011099999999999999,0.1111,0.1
+2023-11-16 07:08:09.952536,To Make the Playoffs - Minnesota Timberwolves - To Make the 2023-24 Playoffs,Yes,0.01090000000000002,0.8571,0.8462
 2023-11-16 01:05:36.670654,Western Conference - Western Conference 2023-24 - Western Conference Winner,Golden State Warriors,0.010899999999999993,0.1538,0.1429
-2023-11-15 21:07:59.668156,Boxing Lines - Abdullah Mason vs Jose Cardenas - To Win the Bout,Jose Cardenas,0.0102,0.0769,0.0667
 2023-11-16 01:05:36.692643,Central Division - Central Division 2023-24 - Division Winner,Indiana Pacers,0.0102,0.0769,0.0667
+2023-11-15 21:07:59.668156,Boxing Lines - Abdullah Mason vs Jose Cardenas - To Win the Bout,Jose Cardenas,0.0102,0.0769,0.0667
 2023-11-16 03:04:53.413016,Boxing Lines - Brian Norman Jr. vs Quinton Randall - To Win the Bout,Brian Norman Jr.,0.010099999999999998,0.6875,0.6774
 2023-11-16 00:05:49.176475,Boxing Lines - Abdullah Mason vs Jose Cardenas - To Win the Bout,Jose Cardenas,-0.0102,0.0667,0.0769
+2023-11-16 07:08:09.982865,To Make the Playoffs - New York Knicks - To Make the 2023-24 Playoffs,No,-0.010800000000000032,0.2632,0.274
+2023-11-16 07:08:10.177493,To Make the Playoffs - Washington Wizards - To Make the 2023-24 Playoffs,Yes,-0.011199999999999995,0.0476,0.0588
 2023-11-16 06:05:05.044655,To Make the Playoffs - Boston Celtics - To Make the 2023-24 Playoffs,No,-0.011199999999999995,0.0476,0.0588
+2023-11-16 07:08:09.952536,To Make the Playoffs - Minnesota Timberwolves - To Make the 2023-24 Playoffs,No,-0.011700000000000016,0.2105,0.2222
 2023-11-16 01:05:36.741517,Southwest Division - Southwest Division 2023-24 - Division Winner,New Orleans Pelicans,-0.011700000000000016,0.2105,0.2222
 2023-11-16 06:05:05.021949,To Make the Playoffs - Atlanta Hawks - To Make the 2023-24 Playoffs,Yes,-0.0121,0.7101,0.7222
 2023-11-16 02:04:41.647589,FIBA Champions League - Champions League 2023/24 - Outright,Oldenburg,-0.012700000000000003,0.0196,0.0323
@@ -58,15 +67,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-16 02:04:43.753885,Boxing Lines - Brian Norman Jr. vs Quinton Randall - To Win the Bout,Brian Norman Jr.,-0.014900000000000024,0.6774,0.6923
 2023-11-16 00:05:49.233157,Boxing Lines - Shakur Stevenson vs Edwin De Los Santos - To Win the Bout,Edwin De Los Santos,-0.017200000000000007,0.0909,0.1081
 2023-11-16 02:04:42.567798,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Cleveland Browns,-0.0174,0.0196,0.037
+2023-11-16 07:08:10.151920,To Make the Playoffs - Utah Jazz - To Make the 2023-24 Playoffs,No,-0.018100000000000005,0.9231,0.9412
 2023-11-16 02:04:43.686675,Boxing Lines - Abdullah Mason vs Jose Cardenas - To Win the Bout,Abdullah Mason,-0.018900000000000028,0.9615,0.9804
 2023-11-16 06:05:05.292647,To Make the Playoffs - Los Angeles Lakers - To Make the 2023-24 Playoffs,No,-0.019500000000000017,0.3509,0.3704
 2023-11-16 01:05:36.730455,Southeast Division - Southeast Division 2023-24 - Division Winner,Atlanta Hawks,-0.019699999999999995,0.4348,0.4545
 2023-11-16 00:05:49.217582,Boxing Lines - Emanuel Navarrete vs Robson Conceicao - To Win the Bout,Robson Conceicao,-0.02049999999999999,0.1333,0.1538
 2023-11-16 01:05:36.692643,Central Division - Central Division 2023-24 - Division Winner,Cleveland Cavaliers,-0.020799999999999985,0.3125,0.3333
 2023-11-16 03:04:51.397464,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Crvena Zvezda,-0.021699999999999997,0.4545,0.4762
+2023-11-16 07:08:10.108868,To Make the Playoffs - San Antonio Spurs - To Make the 2023-24 Playoffs,Yes,-0.022000000000000006,0.0833,0.1053
+2023-11-16 06:05:05.272329,To Make the Playoffs - Los Angeles Clippers - To Make the 2023-24 Playoffs,Yes,-0.022199999999999998,0.6552,0.6774
 2023-11-16 03:04:51.388511,Euroleague - Euroleague 2023/24 - To Make Final Four,Maccabi Tel-Aviv,-0.022199999999999998,0.2,0.2222
 2023-11-16 03:04:51.388511,Euroleague - Euroleague 2023/24 - To Make Final Four,Partizan,-0.022199999999999998,0.2,0.2222
-2023-11-16 06:05:05.272329,To Make the Playoffs - Los Angeles Clippers - To Make the 2023-24 Playoffs,Yes,-0.022199999999999998,0.6552,0.6774
+2023-11-16 07:08:10.128081,To Make the Playoffs - Toronto Raptors - To Make the 2023-24 Playoffs,Yes,-0.02260000000000001,0.3774,0.4
 2023-11-16 00:05:49.197047,Boxing Lines - Troy Isley vs Vladimir Hernandez - To Win the Bout,Troy Isley,-0.023600000000000065,0.7895,0.8131
 2023-11-16 00:05:51.381617,Scores - 1st Round Score - J.T. Poston - 1st Round Score,Over 67.5,-0.024499999999999966,0.5833,0.6078
 2023-11-16 00:05:48.208861,Argentine Politics - President After General Election - President After General Election,Javier Milei,-0.027700000000000058,0.5556,0.5833
@@ -76,6 +88,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-16 03:04:51.397464,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Valencia,-0.031799999999999995,0.4444,0.4762
 2023-11-16 06:05:05.129331,To Make the Playoffs - Cleveland Cavaliers - To Make the 2023-24 Playoffs,Yes,-0.033299999999999996,0.9,0.9333
 2023-11-16 03:04:51.397464,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Fenerbahce,-0.033299999999999996,0.8,0.8333
+2023-11-16 07:08:09.999130,To Make the Playoffs - Oklahoma City Thunder - To Make the 2023-24 Playoffs,Yes,-0.03390000000000004,0.7222,0.7561
 2023-11-16 03:04:51.397464,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Milano,-0.03489999999999999,0.4651,0.5
 2023-11-16 06:05:05.251723,To Make the Playoffs - Indiana Pacers - To Make the 2023-24 Playoffs,No,-0.0378,0.4167,0.4545
 2023-11-16 02:04:42.583522,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Cleveland Browns,-0.0384,0.0385,0.0769
