@@ -20,13 +20,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-17 02:09:39.032148,Dunlop Phoenix - Dunlop Phoenix - Winner,Yuta Kinoshita,0.0262,0.0385,0.0123
 2023-11-16 19:10:18.751400,NBL - NBL 2023/2024 - Outright,Perth Wildcats,0.025300000000000003,0.1429,0.1176
 2023-11-17 01:07:35.990998,Euroleague - Euroleague 2023/24 - Outright,Real Madrid BC,0.023799999999999988,0.3571,0.3333
+2023-11-17 03:09:48.022078,Round Match-Ups - 2nd Round Match-Up - G. Sigg v N. Lashley - 2nd Round Match-Up,Nate Lashley,0.02169999999999994,0.5455,0.5238
 2023-11-17 01:07:35.876507,To Make the Playoffs - Oklahoma City Thunder - To Make the 2023-24 Playoffs,Yes,0.021400000000000086,0.7436,0.7222
 2023-11-17 01:07:35.557923,Pacific Division - Pacific Division 2023-24 - Division Winner,Phoenix Suns,0.02030000000000004,0.3774,0.3571
 2023-11-17 02:09:39.032148,Dunlop Phoenix - Dunlop Phoenix - Winner,Brad Kennedy,0.019899999999999998,0.0278,0.0079
+2023-11-17 03:09:47.823640,Round Match-Ups - 2nd Round Match-Up - J.T. Poston v A. Svensson - 2nd Round Match-Up ,J.T. Poston,0.01970000000000005,0.5652,0.5455
 2023-11-16 19:10:18.751400,NBL - NBL 2023/2024 - Outright,New Zealand Breakers,0.019099999999999992,0.0667,0.0476
 2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Georgia Hall,0.0189,0.0385,0.0196
 2023-11-17 00:10:03.980243,AFC North - AFC North 2023/24 - AFC North Winner,Baltimore Ravens,0.01880000000000004,0.6552,0.6364
 2023-11-17 01:07:36.008439,Euroleague - Euroleague 2023/24 - To Make Final Four,Olympiakos,0.018799999999999983,0.3636,0.3448
+2023-11-17 03:09:48.044109,Round Match-Ups - 2nd Round Match-Up - B. Kohles v M. McNealy - 2nd Round Match-Up ,Ben Kohles,0.018100000000000005,0.5833,0.5652
 2023-11-17 02:09:39.032148,Dunlop Phoenix - Dunlop Phoenix - Winner,Hideto Tanihara,0.017800000000000003,0.0244,0.0066
 2023-11-17 01:07:35.990998,Euroleague - Euroleague 2023/24 - Outright,Olympiakos,0.016600000000000004,0.0833,0.0667
 2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Hye-Jin Choi,0.0159,0.0323,0.0164
@@ -42,17 +45,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Alison Lee,0.011199999999999995,0.0588,0.0476
 2023-11-17 01:07:36.016307,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Milano,0.011099999999999999,0.4762,0.4651
 2023-11-16 19:10:18.751400,NBL - NBL 2023/2024 - Outright,SE Melbourne Phoenix,0.011099999999999999,0.1111,0.1
+2023-11-17 03:09:47.788921,Round Match-Ups - 2nd Round Match-Up - A. Bhatia v N. Lindheim - 2nd Round Match-Up ,Akshay Bhatia,0.01100000000000001,0.5348,0.5238
 2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Yu Liu,0.010700000000000001,0.0164,0.0057
+2023-11-17 03:09:47.835149,Round Match-Ups - 2nd Round Match-Up - B. Wu v C. Young - 2nd Round Match-Up,Brandon Wu,0.010699999999999932,0.5455,0.5348
+2023-11-17 03:09:47.982341,Round Match-Ups - 2nd Round Match-Up - P. Kizzire v R. Streb - 2nd Round Match-Up,Patton Kizzire,0.010699999999999932,0.5455,0.5348
+2023-11-17 03:09:47.960843,Round Match-Ups - 2nd Round Match-Up - L. Aberg v C. Young - 2nd Round Match-Up,Ludvig Aberg,0.010699999999999932,0.5455,0.5348
 2023-11-17 02:09:38.208524,Boxing Lines - Matteo Signani vs Tyler Denny - To Win the Bout,Matteo Signani,0.010299999999999976,0.2667,0.2564
 2023-11-16 19:10:18.759294,NBL - NBL 2023/2024 - Regular Season MVP,Parker Jackson-Cartwright (NZB),0.0102,0.0769,0.0667
+2023-11-17 03:09:47.759868,Round Match-Ups - 2nd Round Match-Up - B. Griffin v C. Villegas - 2nd Round Match-Up ,Ben Griffin,0.010099999999999998,0.5556,0.5455
 2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Bianca Pagdanganan,-0.0103,0.002,0.0123
 2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Allisen Corpuz,-0.010300000000000002,0.0141,0.0244
 2023-11-17 01:07:35.569197,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,-0.010899999999999993,0.1429,0.1538
 2023-11-16 19:10:18.727683,Euro Cup - Euro Cup 2023/24 - Outright,Besiktas,-0.011099999999999999,0.1,0.1111
 2023-11-16 23:14:11.019234,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Buffalo Bills,-0.011199999999999995,0.0323,0.0435
 2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Hannah Green,-0.0114,0.005,0.0164
+2023-11-17 03:09:47.901555,Round Match-Ups - 2nd Round Match-Up - C. Conners v S. Jaeger - 2nd Round Match-Up,Stephan Jaeger,-0.0116,0.4762,0.4878
+2023-11-17 03:09:47.788921,Round Match-Ups - 2nd Round Match-Up - A. Bhatia v N. Lindheim - 2nd Round Match-Up ,Nicholas Lindheim,-0.011600000000000055,0.5122,0.5238
 2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Maja Stark,-0.0121,0.002,0.0141
 2023-11-17 02:09:39.032148,Dunlop Phoenix - Dunlop Phoenix - Winner,Mikumu Horikawa,-0.012100000000000001,0.0123,0.0244
+2023-11-17 03:09:47.960843,Round Match-Ups - 2nd Round Match-Up - L. Aberg v C. Young - 2nd Round Match-Up,Cameron Young,-0.012199999999999989,0.5,0.5122
+2023-11-17 03:09:47.835149,Round Match-Ups - 2nd Round Match-Up - B. Wu v C. Young - 2nd Round Match-Up,Carson Young,-0.012199999999999989,0.5,0.5122
+2023-11-17 03:09:47.982341,Round Match-Ups - 2nd Round Match-Up - P. Kizzire v R. Streb - 2nd Round Match-Up,Robert Streb,-0.012199999999999989,0.5,0.5122
+2023-11-17 03:09:47.759868,Round Match-Ups - 2nd Round Match-Up - B. Griffin v C. Villegas - 2nd Round Match-Up ,Camilo Villegas,-0.012199999999999989,0.4878,0.5
 2023-11-16 19:10:18.759294,NBL - NBL 2023/2024 - Regular Season MVP,Jaylen Adams,-0.012899999999999995,0.1538,0.1667
 2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Jodi Ewart Shadoff,-0.0131,0.001,0.0141
 2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Leona Maguire,-0.013699999999999999,0.0141,0.0278
@@ -75,12 +89,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-17 01:07:35.999084,Euroleague - Euroleague 2023/24 - Regular Season League Winner,Barcelona,-0.02020000000000001,0.0909,0.1111
 2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Angel Yin,-0.0204,0.004,0.0244
 2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Ally Ewing,-0.0211,0.0033,0.0244
-2023-11-17 01:07:36.008439,Euroleague - Euroleague 2023/24 - To Make Final Four,Anadolu Efes,-0.022199999999999998,0.2,0.2222
-2023-11-16 19:10:18.759294,NBL - NBL 2023/2024 - Regular Season MVP,Milton Doyle,-0.022199999999999998,0.2,0.2222
 2023-11-17 01:07:35.876507,To Make the Playoffs - Oklahoma City Thunder - To Make the 2023-24 Playoffs,No,-0.022199999999999998,0.3226,0.3448
+2023-11-16 19:10:18.759294,NBL - NBL 2023/2024 - Regular Season MVP,Milton Doyle,-0.022199999999999998,0.2,0.2222
+2023-11-17 01:07:36.008439,Euroleague - Euroleague 2023/24 - To Make Final Four,Anadolu Efes,-0.022199999999999998,0.2,0.2222
 2023-11-17 02:09:39.032148,Dunlop Phoenix - Dunlop Phoenix - Winner,Wyndham Clark,-0.022400000000000003,0.0099,0.0323
+2023-11-17 03:09:48.044109,Round Match-Ups - 2nd Round Match-Up - B. Kohles v M. McNealy - 2nd Round Match-Up ,Maverick McNealy,-0.022699999999999998,0.4651,0.4878
 2023-11-16 19:10:18.759294,NBL - NBL 2023/2024 - Regular Season MVP,Nathan Sobey,-0.02310000000000001,0.0769,0.1
 2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Nelly Korda,-0.0232,0.0435,0.0667
+2023-11-17 03:09:47.823640,Round Match-Ups - 2nd Round Match-Up - J.T. Poston v A. Svensson - 2nd Round Match-Up ,Adam Svensson,-0.023799999999999988,0.4762,0.5
+2023-11-17 03:09:48.022078,Round Match-Ups - 2nd Round Match-Up - G. Sigg v N. Lashley - 2nd Round Match-Up,Greyson Sigg,-0.023800000000000043,0.5,0.5238
 2023-11-17 02:09:39.032148,Dunlop Phoenix - Dunlop Phoenix - Winner,Yusaku Miyazato,-0.024399999999999998,0.0141,0.0385
 2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Brooke Henderson,-0.028000000000000004,0.0196,0.0476
 2023-11-17 02:09:39.032148,Dunlop Phoenix - Dunlop Phoenix - Winner,Taihei Sato,-0.0286,0.0099,0.0385
@@ -88,8 +105,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-17 01:07:35.825503,To Make the Playoffs - Miami Heat - To Make the 2023-24 Playoffs,No,-0.03270000000000001,0.2703,0.303
 2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Rose Zhang,-0.0335,0.005,0.0385
 2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Hyo Joo Kim,-0.0344,0.0244,0.0588
-2023-11-17 01:07:36.016307,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Olympiakos,-0.035699999999999954,0.7143,0.75
 2023-11-17 01:07:36.016307,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Panathinaikos,-0.035699999999999954,0.7143,0.75
+2023-11-17 01:07:36.016307,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Olympiakos,-0.035699999999999954,0.7143,0.75
 2023-11-17 01:07:36.008439,Euroleague - Euroleague 2023/24 - To Make Final Four,Fenerbahce,-0.03640000000000004,0.3636,0.4
 2023-11-17 02:09:39.032148,Dunlop Phoenix - Dunlop Phoenix - Winner,Takumi Kanaya,-0.03660000000000001,0.011,0.0476
 2023-11-17 01:07:35.999084,Euroleague - Euroleague 2023/24 - Regular Season League Winner,AS Monaco,-0.038299999999999994,0.0526,0.0909
