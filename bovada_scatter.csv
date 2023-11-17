@@ -1,104 +1,89 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-16 13:11:15.173869,NBA Specials - Zach LaVine team after 2024 trade deadline if not Chicago Bulls - Proposition,Los Angeles Lakers,0.32310000000000005,0.4,0.0769
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Hideki Matsuyama,0.22069999999999998,0.3636,0.1429
-2023-11-16 03:04:51.397464,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Baskonia,0.15000000000000002,0.4,0.25
-2023-11-16 06:05:05.230817,To Make the Playoffs - Houston Rockets - To Make the 2023-24 Playoffs,Yes,0.11899999999999997,0.3571,0.2381
-2023-11-16 03:04:51.378037,Euroleague - Euroleague 2023/24 - Regular Season League Winner,Real Madrid BC,0.0948,0.6296,0.5348
-2023-11-16 06:05:05.205829,To Make the Playoffs - Golden State Warriors - To Make the 2023-24 Playoffs,No,0.06840000000000002,0.2222,0.1538
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Ruoning Yin,0.1524,0.2,0.0476
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Nasa Hataoka,0.14329999999999998,0.1818,0.0385
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Minjee Lee,0.13330000000000003,0.2,0.0667
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Yuta Sugiura,0.0659,0.0769,0.011
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Keita Nakajima,0.0585,0.1111,0.0526
-2023-11-16 03:04:51.388511,Euroleague - Euroleague 2023/24 - To Make Final Four,Real Madrid BC,0.056400000000000006,0.8,0.7436
-2023-11-16 03:04:51.397464,Euroleague - Euroleague 2023/24 - To Make the Playoffs,ASVEL Lyon-Villeurbanne,0.05639999999999999,0.0909,0.0345
-2023-11-16 03:04:51.397464,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Virtus Bologna,0.05449999999999999,0.4545,0.4
-2023-11-16 03:04:51.388511,Euroleague - Euroleague 2023/24 - To Make Final Four,Baskonia,0.052000000000000005,0.1429,0.0909
-2023-11-16 03:04:51.388511,Euroleague - Euroleague 2023/24 - To Make Final Four,Virtus Bologna,0.04620000000000002,0.2,0.1538
 2023-11-16 13:11:16.957411,Boxing Lines - Floyd Diaz vs Max Ornelas - To Win the Bout,Floyd Diaz,0.04479999999999995,0.7222,0.6774
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Shaun Norris,0.0389,0.0667,0.0278
-2023-11-16 07:08:09.999130,To Make the Playoffs - Oklahoma City Thunder - To Make the 2023-24 Playoffs,No,0.03710000000000002,0.3448,0.3077
-2023-11-16 06:05:05.251723,To Make the Playoffs - Indiana Pacers - To Make the 2023-24 Playoffs,Yes,0.03370000000000006,0.6491,0.6154
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Yusaku Miyazato,0.0335,0.0385,0.005
-2023-11-16 06:05:05.129331,To Make the Playoffs - Cleveland Cavaliers - To Make the 2023-24 Playoffs,No,0.033399999999999985,0.1667,0.1333
-2023-11-16 03:04:51.409593,Euro Cup - Euro Cup 2023/24 - Outright,London Lions,0.030699999999999998,0.0833,0.0526
+2023-11-16 19:10:18.759294,NBL - NBL 2023/2024 - Regular Season MVP,Bryce Cotton,0.033300000000000024,0.2,0.1667
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Anna Nordqvist,0.0306,0.0385,0.0079
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Scott Vincent,0.029299999999999993,0.0769,0.0476
 2023-11-16 13:11:13.594406,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,Mohamed Salah (Liverpool),0.025300000000000003,0.1429,0.1176
-2023-11-16 03:04:51.388511,Euroleague - Euroleague 2023/24 - To Make Final Four,ASVEL Lyon-Villeurbanne,0.023899999999999998,0.0435,0.0196
-2023-11-16 03:04:51.397464,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Anadolu Efes,0.023800000000000043,0.5238,0.5
+2023-11-16 19:10:18.751400,NBL - NBL 2023/2024 - Outright,Perth Wildcats,0.025300000000000003,0.1429,0.1176
 2023-11-16 14:05:51.374789,Boxing Lines - Troy Isley vs Vladimir Hernandez - To Win the Bout,Troy Isley,0.023600000000000065,0.8131,0.7895
-2023-11-16 03:04:51.388511,Euroleague - Euroleague 2023/24 - To Make Final Four,Anadolu Efes,0.022199999999999998,0.2222,0.2
-2023-11-16 03:04:51.397464,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Bayern Munich,0.021999999999999964,0.3077,0.2857
-2023-11-16 07:08:10.128081,To Make the Playoffs - Toronto Raptors - To Make the 2023-24 Playoffs,No,0.02080000000000004,0.6875,0.6667
 2023-11-16 13:11:13.594406,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,James Ward-Prowse (West Ham),0.02020000000000001,0.1111,0.0909
-2023-11-16 07:08:10.108868,To Make the Playoffs - San Antonio Spurs - To Make the 2023-24 Playoffs,No,0.018900000000000028,0.9804,0.9615
-2023-11-16 03:04:51.388511,Euroleague - Euroleague 2023/24 - To Make Final Four,Barcelona,0.01880000000000004,0.5744,0.5556
-2023-11-16 03:04:51.388511,Euroleague - Euroleague 2023/24 - To Make Final Four,Crvena Zvezda,0.01820000000000002,0.2,0.1818
-2023-11-16 07:08:10.151920,To Make the Playoffs - Utah Jazz - To Make the 2023-24 Playoffs,Yes,0.0179,0.1429,0.125
-2023-11-16 06:05:05.292647,To Make the Playoffs - Los Angeles Lakers - To Make the 2023-24 Playoffs,Yes,0.017300000000000093,0.7143,0.697
+2023-11-16 19:10:18.751400,NBL - NBL 2023/2024 - Outright,New Zealand Breakers,0.019099999999999992,0.0667,0.0476
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Georgia Hall,0.0189,0.0385,0.0196
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Taihei Sato,0.0168,0.0385,0.0217
-2023-11-16 06:05:05.272329,To Make the Playoffs - Los Angeles Clippers - To Make the 2023-24 Playoffs,No,0.016000000000000014,0.4082,0.3922
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Hye-Jin Choi,0.0159,0.0323,0.0164
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Patty Tavatanakit,0.015499999999999998,0.0278,0.0123
 2023-11-16 08:09:39.843429,Boxing Lines - Pedro Guevara vs Carlos Cuadras - To Win the Bout,Carlos Cuadras,0.01429999999999998,0.431,0.4167
+2023-11-16 19:10:18.751400,NBL - NBL 2023/2024 - Outright,Melbourne United,0.01419999999999999,0.3846,0.3704
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Young Han Song,0.014099999999999998,0.0385,0.0244
-2023-11-16 03:04:51.409593,Euro Cup - Euro Cup 2023/24 - Outright,U BT Cluj Napoca,0.014099999999999994,0.0667,0.0526
-2023-11-16 03:04:51.397464,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Alba Berlin,0.0131,0.0476,0.0345
-2023-11-16 06:05:05.021949,To Make the Playoffs - Atlanta Hawks - To Make the 2023-24 Playoffs,No,0.012299999999999978,0.3571,0.3448
-2023-11-16 07:08:09.982865,To Make the Playoffs - New York Knicks - To Make the 2023-24 Playoffs,Yes,0.012199999999999989,0.8039,0.7917
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Yuwa Kosaihira,0.011699999999999999,0.0196,0.0079
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Alison Lee,0.011199999999999995,0.0588,0.0476
 2023-11-16 13:11:15.173869,NBA Specials - Zach LaVine team after 2024 trade deadline if not Chicago Bulls - Proposition,Golden State Warriors,0.011099999999999999,0.1111,0.1
-2023-11-16 03:04:51.388511,Euroleague - Euroleague 2023/24 - To Make Final Four,Bayern Munich,0.011099999999999999,0.1111,0.1
-2023-11-16 07:08:09.952536,To Make the Playoffs - Minnesota Timberwolves - To Make the 2023-24 Playoffs,Yes,0.01090000000000002,0.8571,0.8462
+2023-11-16 19:10:18.751400,NBL - NBL 2023/2024 - Outright,SE Melbourne Phoenix,0.011099999999999999,0.1111,0.1
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Yujiro Ohori,0.010700000000000001,0.0164,0.0057
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Yu Liu,0.010700000000000001,0.0164,0.0057
+2023-11-16 19:10:18.759294,NBL - NBL 2023/2024 - Regular Season MVP,Parker Jackson-Cartwright (NZB),0.0102,0.0769,0.0667
 2023-11-16 13:11:13.594406,Premier League Futures/Specials - English Premier League 2023/24 - Most Assists,James Maddison (Tottenham),0.0102,0.0769,0.0667
-2023-11-16 03:04:53.413016,Boxing Lines - Brian Norman Jr. vs Quinton Randall - To Win the Bout,Brian Norman Jr.,0.010099999999999998,0.6875,0.6774
-2023-11-16 07:08:09.982865,To Make the Playoffs - New York Knicks - To Make the 2023-24 Playoffs,No,-0.010800000000000032,0.2632,0.274
-2023-11-16 06:05:05.044655,To Make the Playoffs - Boston Celtics - To Make the 2023-24 Playoffs,No,-0.011199999999999995,0.0476,0.0588
-2023-11-16 07:08:10.177493,To Make the Playoffs - Washington Wizards - To Make the 2023-24 Playoffs,Yes,-0.011199999999999995,0.0476,0.0588
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Bianca Pagdanganan,-0.0103,0.002,0.0123
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Allisen Corpuz,-0.010300000000000002,0.0141,0.0244
+2023-11-16 19:10:18.727683,Euro Cup - Euro Cup 2023/24 - Outright,Besiktas,-0.011099999999999999,0.1,0.1111
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Jinichiro Kozuma,-0.0112,0.002,0.0132
-2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Brad Kennedy,-0.011699999999999999,0.0079,0.0196
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Hannah Green,-0.0114,0.005,0.0164
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Ryutaro Nagano,-0.011699999999999999,0.0079,0.0196
-2023-11-16 07:08:09.952536,To Make the Playoffs - Minnesota Timberwolves - To Make the 2023-24 Playoffs,No,-0.011700000000000016,0.2105,0.2222
-2023-11-16 06:05:05.021949,To Make the Playoffs - Atlanta Hawks - To Make the 2023-24 Playoffs,Yes,-0.0121,0.7101,0.7222
+2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Brad Kennedy,-0.011699999999999999,0.0079,0.0196
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Maja Stark,-0.0121,0.002,0.0141
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Taiga Semikawa,-0.012100000000000001,0.0123,0.0244
+2023-11-16 19:10:18.759294,NBL - NBL 2023/2024 - Regular Season MVP,Jaylen Adams,-0.012899999999999995,0.1538,0.1667
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Jodi Ewart Shadoff,-0.0131,0.001,0.0141
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Taisei Shimizu,-0.0131,0.001,0.0141
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Todd Baek,-0.0132,0.002,0.0152
-2023-11-16 03:04:51.388511,Euroleague - Euroleague 2023/24 - To Make Final Four,Zalgiris,-0.013899999999999996,0.1111,0.125
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Leona Maguire,-0.013699999999999999,0.0141,0.0278
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Sei Young Kim,-0.013900000000000001,0.0025,0.0164
 2023-11-16 13:11:17.000754,Boxing Lines - Emanuel Navarrete vs Robson Conceicao - To Win the Bout,Emanuel Navarrete,-0.014000000000000012,0.9091,0.9231
+2023-11-16 19:10:18.751400,NBL - NBL 2023/2024 - Outright,Cairns Taipans,-0.014099999999999998,0.0244,0.0385
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Charley Hull,-0.014099999999999998,0.0244,0.0385
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Norman Xiong,-0.014400000000000001,0.002,0.0164
-2023-11-16 07:08:10.151920,To Make the Playoffs - Utah Jazz - To Make the 2023-24 Playoffs,No,-0.018100000000000005,0.9231,0.9412
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Carlota Ciganda,-0.0156,0.004,0.0196
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Jenny Shin,-0.015899999999999997,0.002,0.0179
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Linn Grant,-0.0159,0.0164,0.0323
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Gaby Lopez,-0.0163,0.0033,0.0196
+2023-11-16 19:10:18.739175,FIBA Champions League - Champions League 2023/24 - Outright,Hapoel Jerusalem,-0.016700000000000007,0.0833,0.1
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Kazuki Higa,-0.0182,0.0141,0.0323
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Ariya Jutanugarn,-0.0194,0.005,0.0244
 2023-11-16 08:09:39.843429,Boxing Lines - Pedro Guevara vs Carlos Cuadras - To Win the Bout,Pedro Guevara,-0.019499999999999962,0.6296,0.6491
-2023-11-16 06:05:05.292647,To Make the Playoffs - Los Angeles Lakers - To Make the 2023-24 Playoffs,No,-0.019500000000000017,0.3509,0.3704
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Yuki Inamori,-0.020000000000000004,0.0123,0.0323
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Hae Ran Ryu,-0.020000000000000004,0.0123,0.0323
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Angel Yin,-0.0204,0.004,0.0244
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Ally Ewing,-0.0211,0.0033,0.0244
 2023-11-16 14:05:51.374789,Boxing Lines - Troy Isley vs Vladimir Hernandez - To Win the Bout,Vladimir Hernandez,-0.021399999999999975,0.2564,0.2778
-2023-11-16 03:04:51.397464,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Crvena Zvezda,-0.021699999999999997,0.4545,0.4762
-2023-11-16 07:08:10.108868,To Make the Playoffs - San Antonio Spurs - To Make the 2023-24 Playoffs,Yes,-0.022000000000000006,0.0833,0.1053
-2023-11-16 03:04:51.388511,Euroleague - Euroleague 2023/24 - To Make Final Four,Maccabi Tel-Aviv,-0.022199999999999998,0.2,0.2222
-2023-11-16 03:04:51.388511,Euroleague - Euroleague 2023/24 - To Make Final Four,Partizan,-0.022199999999999998,0.2,0.2222
-2023-11-16 06:05:05.272329,To Make the Playoffs - Los Angeles Clippers - To Make the 2023-24 Playoffs,Yes,-0.022199999999999998,0.6552,0.6774
+2023-11-16 19:10:18.759294,NBL - NBL 2023/2024 - Regular Season MVP,Milton Doyle,-0.022199999999999998,0.2,0.2222
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Tomoharu Otsuki,-0.022400000000000003,0.002,0.0244
-2023-11-16 07:08:10.128081,To Make the Playoffs - Toronto Raptors - To Make the 2023-24 Playoffs,Yes,-0.02260000000000001,0.3774,0.4
+2023-11-16 19:10:18.759294,NBL - NBL 2023/2024 - Regular Season MVP,Nathan Sobey,-0.02310000000000001,0.0769,0.1
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Nelly Korda,-0.0232,0.0435,0.0667
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Alejandro Tosti,-0.025799999999999997,0.002,0.0278
 2023-11-16 13:11:15.173869,NBA Specials - Zach LaVine team after 2024 trade deadline if not Chicago Bulls - Proposition,Miami Heat,-0.02779999999999999,0.25,0.2778
-2023-11-16 03:04:51.397464,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Olympiakos,-0.027800000000000047,0.75,0.7778
-2023-11-16 03:04:51.388511,Euroleague - Euroleague 2023/24 - To Make Final Four,Valencia,-0.027999999999999997,0.1538,0.1818
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Brooke Henderson,-0.028000000000000004,0.0196,0.0476
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Takumi Kanaya,-0.029299999999999993,0.0476,0.0769
-2023-11-16 03:04:51.397464,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Zalgiris,-0.030299999999999994,0.3333,0.3636
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Ryo Ishikawa,-0.0303,0.002,0.0323
-2023-11-16 03:04:51.397464,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Valencia,-0.031799999999999995,0.4444,0.4762
-2023-11-16 03:04:51.397464,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Fenerbahce,-0.033299999999999996,0.8,0.8333
-2023-11-16 06:05:05.129331,To Make the Playoffs - Cleveland Cavaliers - To Make the 2023-24 Playoffs,Yes,-0.033299999999999996,0.9,0.9333
-2023-11-16 07:08:09.999130,To Make the Playoffs - Oklahoma City Thunder - To Make the 2023-24 Playoffs,Yes,-0.03390000000000004,0.7222,0.7561
-2023-11-16 03:04:51.397464,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Milano,-0.03489999999999999,0.4651,0.5
-2023-11-16 06:05:05.251723,To Make the Playoffs - Indiana Pacers - To Make the 2023-24 Playoffs,No,-0.0378,0.4167,0.4545
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Megan Khang,-0.0319,0.0066,0.0385
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Rose Zhang,-0.0335,0.005,0.0385
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Hyo Joo Kim,-0.0344,0.0244,0.0588
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Celine Boutier,-0.0392,0.0196,0.0588
 2023-11-16 13:11:16.957411,Boxing Lines - Floyd Diaz vs Max Ornelas - To Win the Bout,Max Ornelas,-0.0398,0.3448,0.3846
-2023-11-16 03:04:51.388511,Euroleague - Euroleague 2023/24 - To Make Final Four,Fenerbahce,-0.044399999999999995,0.4,0.4444
+2023-11-16 19:10:18.751400,NBL - NBL 2023/2024 - Outright,Tasmania JackJumpers,-0.04269999999999999,0.1111,0.1538
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Wyndham Clark,-0.044599999999999994,0.0323,0.0769
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Shugo Imahira,-0.0456,0.002,0.0476
 2023-11-16 13:11:15.173869,NBA Specials - Zach LaVine team after 2024 trade deadline if not Chicago Bulls - Proposition,Dallas Mavericks,-0.048100000000000004,0.0769,0.125
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Rikuya Hoshino,-0.05249999999999999,0.0244,0.0769
-2023-11-16 03:04:51.388511,Euroleague - Euroleague 2023/24 - To Make Final Four,Olympiakos,-0.05520000000000003,0.3448,0.4
-2023-11-16 03:04:51.378037,Euroleague - Euroleague 2023/24 - Regular Season League Winner,Barcelona,-0.05559999999999998,0.1111,0.1667
-2023-11-16 06:05:05.205829,To Make the Playoffs - Golden State Warriors - To Make the 2023-24 Playoffs,Yes,-0.06290000000000007,0.8462,0.9091
-2023-11-16 03:04:51.397464,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Partizan,-0.06929999999999997,0.4762,0.5455
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Lilia Vu,-0.0573,0.0196,0.0769
+2023-11-16 19:10:21.798513,CME Group Tour Championship - CME Group Tour Championship - Winner,Jin Young Ko,-0.06699999999999999,0.0099,0.0769
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Sahith Theegala,-0.07289999999999999,0.004,0.0769
-2023-11-16 03:04:51.397464,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Maccabi Tel-Aviv,-0.07939999999999997,0.4762,0.5556
-2023-11-16 06:05:05.230817,To Make the Playoffs - Houston Rockets - To Make the 2023-24 Playoffs,No,-0.11599999999999999,0.7101,0.8261
 2023-11-16 13:11:18.209022,Dunlop Phoenix - Dunlop Phoenix - Winner,Brooks Koepka,-0.14709999999999998,0.0196,0.1667
