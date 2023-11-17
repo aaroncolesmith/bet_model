@@ -20,8 +20,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-17 06:10:58.495371,The RSM Classic - 2/3 Balls - 2nd Round 3 Balls - J. Blixt / B. Martin / Z. Dou - 2nd Round 3 Balls,Ben Martin,0.0348,0.4348,0.4
 2023-11-17 01:07:35.825503,To Make the Playoffs - Miami Heat - To Make the 2023-24 Playoffs,Yes,0.03400000000000003,0.7959,0.7619
 2023-11-17 07:12:41.676387,The RSM Classic - 2/3 Balls - 2nd Round 3 Balls - R. Knox / T. Gainey / B. Wu - 2nd Round 3 Balls,Brandon Wu,0.031799999999999995,0.4762,0.4444
-2023-11-17 02:09:39.032148,Dunlop Phoenix - Dunlop Phoenix - Winner,Scott Vincent,0.02840000000000001,0.1053,0.0769
 2023-11-17 07:12:40.947768,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,CeeDee Lamb,0.02840000000000001,0.1053,0.0769
+2023-11-17 02:09:39.032148,Dunlop Phoenix - Dunlop Phoenix - Winner,Scott Vincent,0.02840000000000001,0.1053,0.0769
 2023-11-17 02:09:39.032148,Dunlop Phoenix - Dunlop Phoenix - Winner,Yuwa Kosaihira,0.028000000000000004,0.0476,0.0196
 2023-11-17 06:10:58.563018,The RSM Classic - 2/3 Balls - 2nd Round 3 Balls - S. Kang / Z. Blair / R. Shelton - 2nd Round 3 Balls,Zac Blair,0.027500000000000024,0.3846,0.3571
 2023-11-17 02:09:39.032148,Dunlop Phoenix - Dunlop Phoenix - Winner,Yuta Kinoshita,0.0262,0.0385,0.0123
@@ -38,10 +38,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-17 00:10:03.980243,AFC North - AFC North 2023/24 - AFC North Winner,Baltimore Ravens,0.01880000000000004,0.6552,0.6364
 2023-11-17 01:07:36.008439,Euroleague - Euroleague 2023/24 - To Make Final Four,Olympiakos,0.018799999999999983,0.3636,0.3448
 2023-11-17 03:09:48.044109,Round Match-Ups - 2nd Round Match-Up - B. Kohles v M. McNealy - 2nd Round Match-Up ,Ben Kohles,0.018100000000000005,0.5833,0.5652
+2023-11-17 10:12:25.496483,Boxing Lines - Hannah Rankin vs Ema Kozin - To Win the Bout,Hannah Rankin,0.017900000000000027,0.5348,0.5169
 2023-11-17 02:09:39.032148,Dunlop Phoenix - Dunlop Phoenix - Winner,Hideto Tanihara,0.017800000000000003,0.0244,0.0066
 2023-11-17 01:07:35.990998,Euroleague - Euroleague 2023/24 - Outright,Olympiakos,0.016600000000000004,0.0833,0.0667
 2023-11-17 02:09:39.032148,Dunlop Phoenix - Dunlop Phoenix - Winner,Taiga Semikawa,0.015499999999999998,0.0278,0.0123
 2023-11-17 01:07:35.546684,Northwest Division - Northwest Division 2023-24 - Division Winner,Denver Nuggets,0.015100000000000002,0.8333,0.8182
+2023-11-17 07:12:40.947768,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,A.J. Brown,0.014800000000000008,0.1481,0.1333
 2023-11-17 06:10:58.696515,The RSM Classic - 2/3 Balls - 2nd Round 3 Balls - D. Frittelli / D. Thompson / P. Haley II - 2nd Round 3 Balls,Paul Haley II,0.01469999999999999,0.25,0.2353
 2023-11-17 07:12:40.936969,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Patrick Mahomes,0.01469999999999999,0.25,0.2353
 2023-11-16 23:14:11.031269,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Cleveland Browns,0.014100000000000001,0.0526,0.0385
@@ -51,9 +53,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-17 02:09:39.032148,Dunlop Phoenix - Dunlop Phoenix - Winner,Justin De Los Santos,0.0114,0.0164,0.005
 2023-11-17 01:07:36.016307,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Milano,0.011099999999999999,0.4762,0.4651
 2023-11-17 03:09:47.788921,Round Match-Ups - 2nd Round Match-Up - A. Bhatia v N. Lindheim - 2nd Round Match-Up ,Akshay Bhatia,0.01100000000000001,0.5348,0.5238
-2023-11-17 03:09:47.960843,Round Match-Ups - 2nd Round Match-Up - L. Aberg v C. Young - 2nd Round Match-Up,Ludvig Aberg,0.010699999999999932,0.5455,0.5348
-2023-11-17 03:09:47.835149,Round Match-Ups - 2nd Round Match-Up - B. Wu v C. Young - 2nd Round Match-Up,Brandon Wu,0.010699999999999932,0.5455,0.5348
 2023-11-17 03:09:47.982341,Round Match-Ups - 2nd Round Match-Up - P. Kizzire v R. Streb - 2nd Round Match-Up,Patton Kizzire,0.010699999999999932,0.5455,0.5348
+2023-11-17 03:09:47.835149,Round Match-Ups - 2nd Round Match-Up - B. Wu v C. Young - 2nd Round Match-Up,Brandon Wu,0.010699999999999932,0.5455,0.5348
+2023-11-17 03:09:47.960843,Round Match-Ups - 2nd Round Match-Up - L. Aberg v C. Young - 2nd Round Match-Up,Ludvig Aberg,0.010699999999999932,0.5455,0.5348
 2023-11-17 02:09:38.208524,Boxing Lines - Matteo Signani vs Tyler Denny - To Win the Bout,Matteo Signani,0.010299999999999976,0.2667,0.2564
 2023-11-17 03:09:47.759868,Round Match-Ups - 2nd Round Match-Up - B. Griffin v C. Villegas - 2nd Round Match-Up ,Ben Griffin,0.010099999999999998,0.5556,0.5455
 2023-11-17 06:10:58.563018,The RSM Classic - 2/3 Balls - 2nd Round 3 Balls - S. Kang / Z. Blair / R. Shelton - 2nd Round 3 Balls,Sung Kang,-0.010099999999999998,0.3125,0.3226
@@ -65,19 +67,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-17 03:09:47.901555,Round Match-Ups - 2nd Round Match-Up - C. Conners v S. Jaeger - 2nd Round Match-Up,Stephan Jaeger,-0.0116,0.4762,0.4878
 2023-11-17 03:09:47.788921,Round Match-Ups - 2nd Round Match-Up - A. Bhatia v N. Lindheim - 2nd Round Match-Up ,Nicholas Lindheim,-0.011600000000000055,0.5122,0.5238
 2023-11-17 02:09:39.032148,Dunlop Phoenix - Dunlop Phoenix - Winner,Mikumu Horikawa,-0.012100000000000001,0.0123,0.0244
-2023-11-17 03:09:47.960843,Round Match-Ups - 2nd Round Match-Up - L. Aberg v C. Young - 2nd Round Match-Up,Cameron Young,-0.012199999999999989,0.5,0.5122
-2023-11-17 03:09:47.835149,Round Match-Ups - 2nd Round Match-Up - B. Wu v C. Young - 2nd Round Match-Up,Carson Young,-0.012199999999999989,0.5,0.5122
-2023-11-17 03:09:47.982341,Round Match-Ups - 2nd Round Match-Up - P. Kizzire v R. Streb - 2nd Round Match-Up,Robert Streb,-0.012199999999999989,0.5,0.5122
 2023-11-17 03:09:47.759868,Round Match-Ups - 2nd Round Match-Up - B. Griffin v C. Villegas - 2nd Round Match-Up ,Camilo Villegas,-0.012199999999999989,0.4878,0.5
+2023-11-17 03:09:47.982341,Round Match-Ups - 2nd Round Match-Up - P. Kizzire v R. Streb - 2nd Round Match-Up,Robert Streb,-0.012199999999999989,0.5,0.5122
+2023-11-17 03:09:47.835149,Round Match-Ups - 2nd Round Match-Up - B. Wu v C. Young - 2nd Round Match-Up,Carson Young,-0.012199999999999989,0.5,0.5122
+2023-11-17 03:09:47.960843,Round Match-Ups - 2nd Round Match-Up - L. Aberg v C. Young - 2nd Round Match-Up,Cameron Young,-0.012199999999999989,0.5,0.5122
+2023-11-17 10:12:25.496483,Boxing Lines - Hannah Rankin vs Ema Kozin - To Win the Bout,Ema Kozin,-0.012699999999999934,0.5348,0.5475
 2023-11-17 07:12:41.676387,The RSM Classic - 2/3 Balls - 2nd Round 3 Balls - R. Knox / T. Gainey / B. Wu - 2nd Round 3 Balls,Russell Knox,-0.012699999999999989,0.3509,0.3636
+2023-11-17 10:12:25.606537,Boxing Lines - Khalid Yafai vs Jonathan Rodriguez - To Win the Bout,Khalid Yafai,-0.012700000000000045,0.6364,0.6491
 2023-11-17 04:11:17.905807,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Micah Parsons,-0.013600000000000001,0.2941,0.3077
 2023-11-17 01:07:35.990998,Euroleague - Euroleague 2023/24 - Outright,AS Monaco,-0.013899999999999996,0.1111,0.125
 2023-11-17 04:11:15.783429,Video Game Specials - The Game Awards: Best Independent Game - Best Independent Game,Viewfinder,-0.013999999999999999,0.0769,0.0909
 2023-11-17 04:11:15.783429,Video Game Specials - The Game Awards: Best Independent Game - Best Independent Game,Dredge,-0.013999999999999999,0.0769,0.0909
 2023-11-17 01:07:35.999084,Euroleague - Euroleague 2023/24 - Regular Season League Winner,Fenerbahce,-0.014899999999999997,0.0476,0.0625
 2023-11-17 01:07:35.557923,Pacific Division - Pacific Division 2023-24 - Division Winner,Golden State Warriors,-0.014900000000000024,0.3077,0.3226
-2023-11-17 07:12:40.916781,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Josh Dobbs,-0.015100000000000002,0.1667,0.1818
 2023-11-17 02:09:39.032148,Dunlop Phoenix - Dunlop Phoenix - Winner,Yujiro Ohori,-0.015100000000000002,0.0013,0.0164
+2023-11-17 07:12:40.916781,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Josh Dobbs,-0.015100000000000002,0.1667,0.1818
 2023-11-17 07:12:40.916781,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Lamar Jackson,-0.015300000000000001,0.0435,0.0588
 2023-11-17 06:10:58.495371,The RSM Classic - 2/3 Balls - 2nd Round 3 Balls - J. Blixt / B. Martin / Z. Dou - 2nd Round 3 Balls,Jonas Blixt,-0.01579999999999998,0.3175,0.3333
 2023-11-17 06:10:58.563018,The RSM Classic - 2/3 Balls - 2nd Round 3 Balls - S. Kang / Z. Blair / R. Shelton - 2nd Round 3 Balls,Robby Shelton,-0.016699999999999993,0.4,0.4167
@@ -86,19 +90,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-17 06:10:58.495371,The RSM Classic - 2/3 Balls - 2nd Round 3 Balls - J. Blixt / B. Martin / Z. Dou - 2nd Round 3 Balls,Zecheng Dou,-0.018799999999999983,0.3448,0.3636
 2023-11-17 07:12:40.916781,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Breece Hall,-0.019000000000000003,0.0435,0.0625
 2023-11-17 07:12:41.676387,The RSM Classic - 2/3 Balls - 2nd Round 3 Balls - R. Knox / T. Gainey / B. Wu - 2nd Round 3 Balls,Tommy Gainey,-0.019000000000000017,0.2667,0.2857
-2023-11-17 01:07:35.999084,Euroleague - Euroleague 2023/24 - Regular Season League Winner,Barcelona,-0.02020000000000001,0.0909,0.1111
 2023-11-17 04:11:15.794271,Video Game Specials - The Game Awards: Best Narrative - Best Narrative,Cyberpunk 2077: Phantom Liberty,-0.02020000000000001,0.0909,0.1111
+2023-11-17 01:07:35.999084,Euroleague - Euroleague 2023/24 - Regular Season League Winner,Barcelona,-0.02020000000000001,0.0909,0.1111
 2023-11-17 04:11:17.916362,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Devon Witherspoon,-0.02100000000000002,0.3636,0.3846
 2023-11-17 04:11:15.783429,Video Game Specials - The Game Awards: Best Independent Game - Best Independent Game,Cocoon,-0.021999999999999964,0.2857,0.3077
-2023-11-17 01:07:36.008439,Euroleague - Euroleague 2023/24 - To Make Final Four,Anadolu Efes,-0.022199999999999998,0.2,0.2222
 2023-11-17 01:07:35.876507,To Make the Playoffs - Oklahoma City Thunder - To Make the 2023-24 Playoffs,No,-0.022199999999999998,0.3226,0.3448
+2023-11-17 01:07:36.008439,Euroleague - Euroleague 2023/24 - To Make Final Four,Anadolu Efes,-0.022199999999999998,0.2,0.2222
 2023-11-17 02:09:39.032148,Dunlop Phoenix - Dunlop Phoenix - Winner,Wyndham Clark,-0.022400000000000003,0.0099,0.0323
 2023-11-17 03:09:48.044109,Round Match-Ups - 2nd Round Match-Up - B. Kohles v M. McNealy - 2nd Round Match-Up ,Maverick McNealy,-0.022699999999999998,0.4651,0.4878
 2023-11-17 03:09:47.823640,Round Match-Ups - 2nd Round Match-Up - J.T. Poston v A. Svensson - 2nd Round Match-Up ,Adam Svensson,-0.023799999999999988,0.4762,0.5
 2023-11-17 03:09:48.022078,Round Match-Ups - 2nd Round Match-Up - G. Sigg v N. Lashley - 2nd Round Match-Up,Greyson Sigg,-0.023800000000000043,0.5,0.5238
 2023-11-17 02:09:39.032148,Dunlop Phoenix - Dunlop Phoenix - Winner,Yusaku Miyazato,-0.024399999999999998,0.0141,0.0385
-2023-11-17 04:11:17.905807,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,T.J. Watt,-0.02560000000000001,0.3077,0.3333
 2023-11-17 07:12:40.916781,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Tua Tagovailoa,-0.02560000000000001,0.3077,0.3333
+2023-11-17 04:11:17.905807,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,T.J. Watt,-0.02560000000000001,0.3077,0.3333
 2023-11-17 02:09:39.032148,Dunlop Phoenix - Dunlop Phoenix - Winner,Taihei Sato,-0.0286,0.0099,0.0385
 2023-11-17 01:07:35.825503,To Make the Playoffs - Miami Heat - To Make the 2023-24 Playoffs,No,-0.03270000000000001,0.2703,0.303
 2023-11-17 04:11:17.916362,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Will Anderson,-0.0334,0.0435,0.0769
