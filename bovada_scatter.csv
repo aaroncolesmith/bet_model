@@ -1,91 +1,89 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-18 05:11:20.234460,Dunlop Phoenix - Dunlop Phoenix - Winner,Yuta Sugiura,0.43639999999999995,0.6364,0.2
+2023-11-18 15:12:47.181737,CME Group Tour Championship - CME Group Tour Championship - Winner,Nasa Hataoka,0.2878,0.4878,0.2
+2023-11-18 15:12:47.181737,CME Group Tour Championship - CME Group Tour Championship - Winner,Amy Yang,0.2795,0.3704,0.0909
 2023-11-18 05:11:20.234460,Dunlop Phoenix - Dunlop Phoenix - Winner,Brad Kennedy,0.1389,0.1667,0.0278
 2023-11-18 09:22:38.822270,Video Game Specials - The Game Awards: Best Performance - Best Performance,Neil Newbon - Baldur's Gate 3,0.12380000000000002,0.5238,0.4
 2023-11-18 09:22:38.843925,Video Game Specials - The Game Awards: Best RPG - Best RPG,Baldur's Gate 3,0.12379999999999997,0.6,0.4762
-2023-11-18 03:09:26.226823,MLB Specials 2023 - Where Will Yoshinobu Yamamoto Play Game 1 of the 2024 MLB Season - Proposition,Los Angeles Dodgers,0.0889,0.2222,0.1333
-2023-11-18 07:10:07.502266,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.08419999999999994,0.7333,0.6491
 2023-11-18 05:11:15.621755,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.08419999999999994,0.7333,0.6491
+2023-11-18 07:10:07.502266,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.08419999999999994,0.7333,0.6491
 2023-11-18 09:22:40.007995,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.08419999999999994,0.7333,0.6491
-2023-11-18 03:09:24.700607,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Manchin,0.07859999999999999,0.0909,0.0123
-2023-11-18 03:09:24.700607,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Gavin Newsom,0.05710000000000001,0.2,0.1429
-2023-11-18 03:09:24.518041,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Russell Westbrook (LAC),0.05650000000000001,0.1,0.0435
-2023-11-18 03:09:24.518041,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Tim Hardaway Jr (DAL),0.04620000000000002,0.2,0.1538
+2023-11-18 15:12:46.576817,DP World Tour Championship - 2/3 Balls - Final Round 2 Balls - M. Fitzpatrick v Z. Lombard - Final Round 2 Balls ,Matt Fitzpatrick,0.04760000000000009,0.7143,0.6667
+2023-11-18 15:12:46.635849,DP World Tour Championship - 2/3 Balls - Final Round 2 Balls - J. Guerrier v R. Langasque - Final Round 2 Balls ,Julien Guerrier,0.047099999999999975,0.5122,0.4651
+2023-11-18 15:12:46.656596,DP World Tour Championship - 2/3 Balls - Final Round 2 Balls - R. MacIntyre v M.W. Lee - Final Round 2 Balls ,Min Woo Lee,0.044399999999999995,0.6,0.5556
+2023-11-18 15:12:46.699358,DP World Tour Championship - 2/3 Balls - Final Round 2 Balls - A Rozner v T. Olesen - Final Round 2 Balls,Thorbjorn Olesen,0.04259999999999997,0.6078,0.5652
+2023-11-18 15:12:46.928026,Round Match-Ups - Final Round Match-Ups - M. Fitzpatrick vs T. Hatton - Final Round Match-Ups ,Tyrrell Hatton,0.04139999999999999,0.5652,0.5238
+2023-11-18 15:12:43.303992,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.040999999999999925,0.7333,0.6923
 2023-11-18 12:26:55.855486,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.040999999999999925,0.7333,0.6923
 2023-11-18 11:12:09.467788,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.040999999999999925,0.7333,0.6923
-2023-11-18 03:09:24.589832,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Nikola Jokic (DEN),0.030299999999999994,0.3636,0.3333
-2023-11-18 03:09:24.548925,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Ime Udoka,0.023799999999999988,0.1667,0.1429
+2023-11-18 15:12:46.343152,DP World Tour Championship - 2/3 Balls - Final Round 2 Balls - J. Campillo v J. Luiten - Final Round 2 Balls ,Joost Luiten,0.035999999999999976,0.5122,0.4762
+2023-11-18 15:12:46.463612,DP World Tour Championship - 2/3 Balls - Final Round 2 Balls - A. Bjork v P. Larrazabal - Final Round 2 Balls ,Alexander Bjork,0.03479999999999994,0.6,0.5652
+2023-11-18 15:12:46.540528,DP World Tour Championship - 2/3 Balls - Final Round 2 Balls - A. Meronk v S. Valimaki - Final Round 2 Balls ,Adrian Meronk,0.03479999999999994,0.6,0.5652
+2023-11-18 15:12:46.422720,DP World Tour Championship - 2/3 Balls - Final Round 2 Balls - D. Brown v M. Siem - Final Round 2 Balls ,Marcel Siem,0.033399999999999985,0.6078,0.5744
+2023-11-18 15:12:42.890298,Euroleague - Euroleague 2023/24 - Regular Season League Winner,Real Madrid BC,0.025600000000000067,0.6923,0.6667
+2023-11-18 15:12:46.617698,DP World Tour Championship - 2/3 Balls - Final Round 2 Balls - R. Hisatsune v R. McIlroy - Final Round 2 Balls ,Rory McIlroy,0.025600000000000067,0.6923,0.6667
+2023-11-18 15:12:46.315680,DP World Tour Championship - 2/3 Balls - Final Round 2 Balls - N. Elvira v M. Southgate - Final Round 2 Balls ,Matthew Southgate,0.025599999999999956,0.6,0.5744
+2023-11-18 15:12:46.676819,DP World Tour Championship - 2/3 Balls - Final Round 2 Balls - V. Perez v T. Lawrence - Final Round 2 Balls ,Thriston Lawrence,0.023799999999999988,0.5,0.4762
 2023-11-18 12:26:58.405375,Hero World Challenge - Hero World Challenge - Winner,Viktor Hovland,0.023799999999999988,0.1667,0.1429
-2023-11-18 03:09:23.882039,Central Division - Central Division 2023-24 - Division Winner,Indiana Pacers,0.02310000000000001,0.1,0.0769
-2023-11-18 03:09:24.785169,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Republican,0.022600000000000064,0.5348,0.5122
-2023-11-18 01:08:52.920232,Southeast Division - Southeast Division 2023-24 - Division Winner,Miami Heat,0.02169999999999994,0.5455,0.5238
 2023-11-18 05:11:20.234460,Dunlop Phoenix - Dunlop Phoenix - Winner,Brooks Koepka,0.020000000000000004,0.0323,0.0123
 2023-11-18 07:10:09.485609,Boxing Lines - Gully Powar vs Engel Gomez - To Win the Bout,Gully Powar,0.01979999999999993,0.9722,0.9524
-2023-11-18 03:09:23.901155,Northwest Division - Northwest Division 2023-24 - Division Winner,Minnesota Timberwolves,0.01820000000000002,0.2,0.1818
-2023-11-18 03:09:26.411322,Boxing Lines - Ekow Essuman vs Harry Scarff - To Win the Bout,Harry Scarff,0.017299999999999982,0.303,0.2857
-2023-11-18 01:08:54.877727,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Mets,0.0157,0.0435,0.0278
+2023-11-18 15:12:45.373683,Boxing Lines - Mayerlin Rivas vs Erika Cruz Hernandez - To Win the Bout,Erika Cruz Hernandez,0.015899999999999914,0.7937,0.7778
 2023-11-18 05:11:20.234460,Dunlop Phoenix - Dunlop Phoenix - Winner,Keita Nakajima,0.013899999999999996,0.125,0.1111
-2023-11-18 05:11:18.138861,Boxing Lines - Solomon Dacres vs Michael Webster - To Win the Bout,Michael Webster,0.0131,0.2353,0.2222
 2023-11-18 11:12:11.701542,Boxing Lines - Mayerlin Rivas vs Erika Cruz Hernandez - To Win the Bout,Erika Cruz Hernandez,0.0131,0.7778,0.7647
-2023-11-18 03:09:24.518041,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Immanuel Quickley (NYK),0.012899999999999995,0.1667,0.1538
+2023-11-18 05:11:18.138861,Boxing Lines - Solomon Dacres vs Michael Webster - To Win the Bout,Michael Webster,0.0131,0.2353,0.2222
 2023-11-18 09:22:40.182461,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,0.012799999999999978,0.2985,0.2857
 2023-11-18 11:12:11.656432,Boxing Lines - Khalid Yafai vs Jonathan Rodriguez - To Win the Bout,Khalid Yafai,0.012700000000000045,0.6491,0.6364
-2023-11-18 03:09:26.557503,Boxing Lines - Khalid Yafai vs Jonathan Rodriguez - To Win the Bout,Khalid Yafai,0.012700000000000045,0.6491,0.6364
 2023-11-18 12:26:57.872763,Boxing Lines - Franck Petitjean vs Adam Azim - To Win the Bout,Franck Petitjean,0.012299999999999991,0.1176,0.1053
 2023-11-18 09:22:42.448838,Boxing Lines - Khalid Yafai vs Jonathan Rodriguez - To Win the Bout,Jonathan Rodriguez,0.012299999999999978,0.4255,0.4132
-2023-11-18 03:09:24.579536,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Tyrese Maxey (PHI),0.01100000000000001,0.5348,0.5238
-2023-11-18 03:09:26.347452,Boxing Lines - Hannah Rankin vs Ema Kozin - To Win the Bout,Hannah Rankin,0.010699999999999932,0.5455,0.5348
+2023-11-18 15:12:46.442360,DP World Tour Championship - 2/3 Balls - Final Round 2 Balls - C. Syme v N. Kimsey - Final Round 2 Balls ,Connor Syme,0.012199999999999989,0.5122,0.5
 2023-11-18 09:22:44.128834,Dunlop Phoenix - Dunlop Phoenix - Winner,Hideki Matsuyama,0.0102,0.0769,0.0667
-2023-11-18 03:09:26.226823,MLB Specials 2023 - Where Will Yoshinobu Yamamoto Play Game 1 of the 2024 MLB Season - Proposition,Arizona Diamondbacks,0.010099999999999998,0.1053,0.0952
+2023-11-18 15:12:45.356924,Boxing Lines - Marc Castro vs Gonzalo Fuenzalida - To Win the Bout,Gonzalo Fuenzalida,0.0102,0.0769,0.0667
 2023-11-18 12:26:57.937272,Boxing Lines - Marc Castro vs Gonzalo Fuenzalida - To Win the Bout,Gonzalo Fuenzalida,-0.0102,0.0667,0.0769
-2023-11-18 03:09:26.347452,Boxing Lines - Hannah Rankin vs Ema Kozin - To Win the Bout,Ema Kozin,-0.01100000000000001,0.5238,0.5348
-2023-11-18 03:09:26.226823,MLB Specials 2023 - Where Will Yoshinobu Yamamoto Play Game 1 of the 2024 MLB Season - Proposition,Houston Astros,-0.011199999999999995,0.0476,0.0588
+2023-11-18 15:12:47.181737,CME Group Tour Championship - CME Group Tour Championship - Winner,Xiyu Lin,-0.0102,0.0667,0.0769
+2023-11-18 15:12:47.181737,CME Group Tour Championship - CME Group Tour Championship - Winner,Patty Tavatanakit,-0.011300000000000001,0.001,0.0123
 2023-11-18 05:11:20.234460,Dunlop Phoenix - Dunlop Phoenix - Winner,Yuki Inamori,-0.0116,0.0025,0.0141
 2023-11-18 09:22:43.172023,BKFC 55: Christie vs Warren - Danny Christie vs Jared Warren - To Win the Bout,Jared Warren,-0.012199999999999989,0.4878,0.5
-2023-11-18 03:09:26.557503,Boxing Lines - Khalid Yafai vs Jonathan Rodriguez - To Win the Bout,Jonathan Rodriguez,-0.012299999999999978,0.4132,0.4255
 2023-11-18 09:22:42.448838,Boxing Lines - Khalid Yafai vs Jonathan Rodriguez - To Win the Bout,Khalid Yafai,-0.012700000000000045,0.6364,0.6491
 2023-11-18 05:11:18.138861,Boxing Lines - Solomon Dacres vs Michael Webster - To Win the Bout,Solomon Dacres,-0.012899999999999912,0.8333,0.8462
+2023-11-18 15:12:47.181737,CME Group Tour Championship - CME Group Tour Championship - Winner,Lilia Vu,-0.013,0.0066,0.0196
+2023-11-18 15:12:47.181737,CME Group Tour Championship - CME Group Tour Championship - Winner,Nelly Korda,-0.013,0.0066,0.0196
 2023-11-18 07:10:09.559651,Boxing Lines - Ekow Essuman vs Harry Scarff - To Win the Bout,Ekow Essuman,-0.0131,0.7647,0.7778
-2023-11-18 03:09:23.929857,Pacific Division - Pacific Division 2023-24 - Division Winner,Phoenix Suns,-0.013800000000000034,0.3636,0.3774
+2023-11-18 15:12:47.181737,CME Group Tour Championship - CME Group Tour Championship - Winner,Hyo Joo Kim,-0.0154,0.001,0.0164
 2023-11-18 05:11:20.234460,Dunlop Phoenix - Dunlop Phoenix - Winner,Taiga Semikawa,-0.015499999999999998,0.0123,0.0278
 2023-11-18 05:11:20.234460,Dunlop Phoenix - Dunlop Phoenix - Winner,Young Han Song,-0.0159,0.0164,0.0323
 2023-11-18 11:12:11.701542,Boxing Lines - Mayerlin Rivas vs Erika Cruz Hernandez - To Win the Bout,Mayerlin Rivas,-0.017299999999999982,0.2857,0.303
 2023-11-18 09:22:38.843925,Video Game Specials - The Game Awards: Best RPG - Best RPG,Lies Of P,-0.01820000000000002,0.1818,0.2
-2023-11-18 01:08:54.839027,MLB Specials 2023 - Where Will Yoshinobu Yamamoto Play Game 1 of the 2024 MLB Season - Proposition,San Diego Padres,-0.019000000000000003,0.0435,0.0625
-2023-11-18 01:08:54.839027,MLB Specials 2023 - Where Will Yoshinobu Yamamoto Play Game 1 of the 2024 MLB Season - Proposition,Detroit Tigers,-0.019000000000000003,0.0435,0.0625
-2023-11-18 03:09:24.700607,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Dean Phillips,-0.019499999999999997,0.0099,0.0294
-2023-11-18 09:22:38.822270,Video Game Specials - The Game Awards: Best Performance - Best Performance,Melanie Liburd - Alan Wake 2,-0.02020000000000001,0.0909,0.1111
-2023-11-18 09:22:38.822270,Video Game Specials - The Game Awards: Best Performance - Best Performance,Yuri Lowenthal - Marvel's Spider-man 2,-0.02020000000000001,0.0909,0.1111
+2023-11-18 15:12:47.181737,CME Group Tour Championship - CME Group Tour Championship - Winner,Ayaka Furue,-0.0186,0.001,0.0196
 2023-11-18 09:22:38.822270,Video Game Specials - The Game Awards: Best Performance - Best Performance,Cameron Monaghan - Star Wars Jedi: Survivor,-0.02020000000000001,0.0909,0.1111
-2023-11-18 03:09:24.785169,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,-0.024399999999999977,0.4878,0.5122
-2023-11-18 03:09:24.806988,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,-0.02679999999999999,0.2857,0.3125
-2023-11-18 03:09:23.882039,Central Division - Central Division 2023-24 - Division Winner,Cleveland Cavaliers,-0.02679999999999999,0.2857,0.3125
-2023-11-18 01:08:54.839027,MLB Specials 2023 - Where Will Yoshinobu Yamamoto Play Game 1 of the 2024 MLB Season - Proposition,Toronto Blue Jays,-0.029299999999999993,0.0476,0.0769
+2023-11-18 09:22:38.822270,Video Game Specials - The Game Awards: Best Performance - Best Performance,Yuri Lowenthal - Marvel's Spider-man 2,-0.02020000000000001,0.0909,0.1111
+2023-11-18 09:22:38.822270,Video Game Specials - The Game Awards: Best Performance - Best Performance,Melanie Liburd - Alan Wake 2,-0.02020000000000001,0.0909,0.1111
+2023-11-18 15:12:46.315680,DP World Tour Championship - 2/3 Balls - Final Round 2 Balls - N. Elvira v M. Southgate - Final Round 2 Balls ,Nacho Elvira,-0.022699999999999998,0.4651,0.4878
+2023-11-18 15:12:46.928026,Round Match-Ups - Final Round Match-Ups - M. Fitzpatrick vs T. Hatton - Final Round Match-Ups ,Matt Fitzpatrick,-0.023800000000000043,0.5,0.5238
+2023-11-18 15:12:45.373683,Boxing Lines - Mayerlin Rivas vs Erika Cruz Hernandez - To Win the Bout,Mayerlin Rivas,-0.026000000000000023,0.2597,0.2857
+2023-11-18 15:12:46.676819,DP World Tour Championship - 2/3 Balls - Final Round 2 Balls - V. Perez v T. Lawrence - Final Round 2 Balls ,Victor Perez,-0.026499999999999968,0.5652,0.5917
+2023-11-18 15:12:46.617698,DP World Tour Championship - 2/3 Balls - Final Round 2 Balls - R. Hisatsune v R. McIlroy - Final Round 2 Balls ,Ryo Hisatsune,-0.029600000000000015,0.3704,0.4
 2023-11-18 09:22:38.822270,Video Game Specials - The Game Awards: Best Performance - Best Performance,Ben Starr - Final Fantasy XVI,-0.03179999999999994,0.5238,0.5556
-2023-11-18 03:09:23.901155,Northwest Division - Northwest Division 2023-24 - Division Winner,Denver Nuggets,-0.033299999999999996,0.8,0.8333
-2023-11-18 01:08:54.839027,MLB Specials 2023 - Where Will Yoshinobu Yamamoto Play Game 1 of the 2024 MLB Season - Proposition,San Francisco Giants,-0.0343,0.0833,0.1176
-2023-11-18 01:08:52.920232,Southeast Division - Southeast Division 2023-24 - Division Winner,Atlanta Hawks,-0.0348,0.4,0.4348
-2023-11-18 03:09:26.226823,MLB Specials 2023 - Where Will Yoshinobu Yamamoto Play Game 1 of the 2024 MLB Season - Proposition,New York Yankees,-0.03640000000000004,0.3636,0.4
-2023-11-18 01:08:54.839027,MLB Specials 2023 - Where Will Yoshinobu Yamamoto Play Game 1 of the 2024 MLB Season - Proposition,Chicago Cubs,-0.038299999999999994,0.0526,0.0909
-2023-11-18 03:09:24.518041,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Cam Thomas (BKN),-0.038299999999999994,0.0526,0.0909
-2023-11-18 11:12:09.486966,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.040999999999999925,0.6923,0.7333
-2023-11-18 09:22:40.030846,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.040999999999999925,0.6923,0.7333
+2023-11-18 15:12:46.422720,DP World Tour Championship - 2/3 Balls - Final Round 2 Balls - D. Brown v M. Siem - Final Round 2 Balls ,Daniel Brown,-0.033299999999999996,0.4545,0.4878
+2023-11-18 15:12:46.463612,DP World Tour Championship - 2/3 Balls - Final Round 2 Balls - A. Bjork v P. Larrazabal - Final Round 2 Balls ,Pablo Larrazabal,-0.03489999999999999,0.4651,0.5
+2023-11-18 15:12:46.540528,DP World Tour Championship - 2/3 Balls - Final Round 2 Balls - A. Meronk v S. Valimaki - Final Round 2 Balls ,Sami Valimaki,-0.03489999999999999,0.4651,0.5
+2023-11-18 15:12:46.343152,DP World Tour Championship - 2/3 Balls - Final Round 2 Balls - J. Campillo v J. Luiten - Final Round 2 Balls ,Jorge Campillo,-0.03610000000000002,0.5556,0.5917
 2023-11-18 12:26:55.881640,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.040999999999999925,0.6923,0.7333
-2023-11-18 01:08:54.839027,MLB Specials 2023 - Where Will Yoshinobu Yamamoto Play Game 1 of the 2024 MLB Season - Proposition,Los Angeles Angels,-0.04440000000000001,0.0667,0.1111
-2023-11-18 03:09:26.226823,MLB Specials 2023 - Where Will Yoshinobu Yamamoto Play Game 1 of the 2024 MLB Season - Proposition,New York Mets,-0.045499999999999985,0.4545,0.5
+2023-11-18 09:22:40.030846,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.040999999999999925,0.6923,0.7333
+2023-11-18 15:12:43.323552,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.040999999999999925,0.6923,0.7333
+2023-11-18 11:12:09.486966,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.040999999999999925,0.6923,0.7333
+2023-11-18 15:12:46.635849,DP World Tour Championship - 2/3 Balls - Final Round 2 Balls - J. Guerrier v R. Langasque - Final Round 2 Balls ,Romain Langasque,-0.044399999999999995,0.5556,0.6
+2023-11-18 15:12:46.699358,DP World Tour Championship - 2/3 Balls - Final Round 2 Balls - A Rozner v T. Olesen - Final Round 2 Balls,Antoine Rozner,-0.045499999999999985,0.4545,0.5
+2023-11-18 15:12:46.656596,DP World Tour Championship - 2/3 Balls - Final Round 2 Balls - R. MacIntyre v M.W. Lee - Final Round 2 Balls ,Robert MacIntyre,-0.047099999999999975,0.4651,0.5122
+2023-11-18 15:12:46.576817,DP World Tour Championship - 2/3 Balls - Final Round 2 Balls - M. Fitzpatrick v Z. Lombard - Final Round 2 Balls ,Zander Lombard,-0.04910000000000003,0.3509,0.4
 2023-11-18 09:22:38.843925,Video Game Specials - The Game Awards: Best RPG - Best RPG,Starfield,-0.05130000000000001,0.3333,0.3846
-2023-11-18 01:08:54.839027,MLB Specials 2023 - Where Will Yoshinobu Yamamoto Play Game 1 of the 2024 MLB Season - Proposition,Houston Astros,-0.052300000000000006,0.0588,0.1111
 2023-11-18 05:11:20.234460,Dunlop Phoenix - Dunlop Phoenix - Winner,Rikuya Hoshino,-0.0573,0.0196,0.0769
-2023-11-18 03:09:24.518041,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Chris Paul (GSW),-0.058300000000000005,0.0667,0.125
 2023-11-18 05:11:20.234460,Dunlop Phoenix - Dunlop Phoenix - Winner,Kazuki Higa,-0.0745,0.0164,0.0909
 2023-11-18 05:11:20.234460,Dunlop Phoenix - Dunlop Phoenix - Winner,Hideki Matsuyama,-0.0762,0.0667,0.1429
-2023-11-18 05:11:15.644990,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.08419999999999994,0.6491,0.7333
 2023-11-18 07:10:07.513722,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.08419999999999994,0.6491,0.7333
-2023-11-18 03:09:24.700607,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.08419999999999994,0.6491,0.7333
+2023-11-18 05:11:15.644990,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.08419999999999994,0.6491,0.7333
+2023-11-18 15:12:47.181737,CME Group Tour Championship - CME Group Tour Championship - Winner,Atthaya Thitikul,-0.09340000000000001,0.0066,0.1
 2023-11-18 05:11:20.234460,Dunlop Phoenix - Dunlop Phoenix - Winner,Shaun Norris,-0.097,0.0141,0.1111
 2023-11-18 05:11:20.234460,Dunlop Phoenix - Dunlop Phoenix - Winner,Scott Vincent,-0.0974,0.0079,0.1053
-2023-11-18 01:08:54.839027,MLB Specials 2023 - Where Will Yoshinobu Yamamoto Play Game 1 of the 2024 MLB Season - Proposition,Los Angeles Dodgers,-0.1167,0.1333,0.25
-2023-11-18 01:08:54.839027,MLB Specials 2023 - Where Will Yoshinobu Yamamoto Play Game 1 of the 2024 MLB Season - Proposition,Remain in the Nippon Professional Baseball League,-0.1344,0.0323,0.1667
-2023-11-18 01:08:54.839027,MLB Specials 2023 - Where Will Yoshinobu Yamamoto Play Game 1 of the 2024 MLB Season - Proposition,New York Yankees,-0.14549999999999996,0.4,0.5455
-2023-11-18 01:08:54.839027,MLB Specials 2023 - Where Will Yoshinobu Yamamoto Play Game 1 of the 2024 MLB Season - Proposition,Philadelphia Phillies,-0.2157,0.1176,0.3333
-2023-11-18 01:08:54.839027,MLB Specials 2023 - Where Will Yoshinobu Yamamoto Play Game 1 of the 2024 MLB Season - Proposition,Arizona Diamondbacks,-0.23809999999999998,0.0952,0.3333
+2023-11-18 15:12:47.181737,CME Group Tour Championship - CME Group Tour Championship - Winner,Alison Lee,-0.09939999999999999,0.1111,0.2105
+2023-11-18 15:12:47.181737,CME Group Tour Championship - CME Group Tour Championship - Winner,Ruoning Yin,-0.1389,0.0278,0.1667
+2023-11-18 15:12:47.181737,CME Group Tour Championship - CME Group Tour Championship - Winner,Minjee Lee,-0.172,0.0385,0.2105
