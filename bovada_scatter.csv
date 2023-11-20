@@ -2,20 +2,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-20 11:10:24.663131,Carolina Panthers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Carolina Panthers O/U  3.5,Under 3.5,0.45840000000000003,0.5917,0.1333
 2023-11-20 11:10:24.688179,Cincinnati Bengals - 2023-24 Regular Season Wins O/U - Regular Season Wins - Cincinnati Bengals O/U  7.5,Under 7.5,0.3224,0.4762,0.1538
 2023-11-20 11:10:24.986999,NCAA Football Futures - 2023 Mountain West Conference Championship - Championship Game Winner,Boise State,0.2906,0.4444,0.1538
+2023-11-20 14:03:59.947647,Video Game Specials - The Game Awards: Best Esports Athlete - Best Esports Athlete,Faker,0.22619999999999996,0.75,0.5238
 2023-11-20 11:10:24.998493,NCAA Football Futures - 2023 Sun Belt Championship - Championship Game Winner,Appalachian State,0.18330000000000002,0.25,0.0667
 2023-11-20 11:10:24.975914,NCAA Football Futures - 2023 American Athletic Championship - American Athletic Championship Game Winner,SMU,0.1819,0.5455,0.3636
 2023-11-20 11:10:24.986999,NCAA Football Futures - 2023 Mountain West Conference Championship - Championship Game Winner,UNLV,0.163,0.3448,0.1818
+2023-11-20 14:03:59.830579,Video Game Specials - The Game Awards: Best Art Direction - Best Art Direction,Alan Wake 2,0.16020000000000006,0.5238,0.3636
 2023-11-20 11:10:24.787297,Jacksonville Jaguars - 2023-24 Regular Season Wins O/U - Regular Season Wins - Jacksonville Jaguars O/U 11.5,Over 11.5,0.1483,0.4762,0.3279
 2023-11-20 11:10:25.020980,NCAA Football Futures - 2023 Big 12 Championship - Big 12 Championship Game Winner ,Oklahoma State,0.1428,0.2857,0.1429
+2023-11-20 14:03:59.880620,Video Game Specials - The Game Awards: Best Multiplayer - Best Multiplayer,Baldur's Gate 3,0.13329999999999997,0.3333,0.2
 2023-11-20 05:08:23.171130,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Dan Campbell,0.12380000000000002,0.5238,0.4
-2023-11-20 01:07:49.023059,AFC North - AFC North 2023/24 - AFC North Winner,Cleveland Browns,0.1238,0.2667,0.1429
 2023-11-20 11:10:24.812295,Las Vegas Raiders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Las Vegas Raiders O/U  6.5,Over 6.5,0.10109999999999997,0.5556,0.4545
 2023-11-20 11:10:24.762162,Houston Texans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Houston Texans O/U  9.5,Over 9.5,0.09999999999999998,0.6,0.5
 2023-11-20 11:10:24.998493,NCAA Football Futures - 2023 Sun Belt Championship - Championship Game Winner,Troy,0.09689999999999999,0.7333,0.6364
 2023-11-20 11:10:24.675732,Chicago Bears - 2023-24 Regular Season Wins O/U - Regular Season Wins - Chicago Bears O/U  5.5,Under 5.5,0.0917,0.5917,0.5
 2023-11-20 07:08:30.208131,Potential Fights - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Oleksandr Usyk,0.09000000000000002,0.4348,0.3448
 2023-11-20 07:08:28.330853,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Field,0.08340000000000003,0.4167,0.3333
+2023-11-20 14:03:59.930868,Video Game Specials - The Game Awards: Best RPG - Best RPG,Baldur's Gate 3,0.08330000000000004,0.8333,0.75
 2023-11-20 11:10:25.065667,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Myles Garrett,0.08039999999999997,0.5455,0.4651
+2023-11-20 14:03:59.845582,Video Game Specials - The Game Awards: Best Audio Design - Best Audio Design,Hi-Fi Rush,0.07940000000000003,0.5238,0.4444
 2023-11-20 11:10:24.713625,Dallas Cowboys - 2023-24 Regular Season Wins O/U - Regular Season Wins - Dallas Cowboys O/U 11.5,Over 11.5,0.07939999999999997,0.5556,0.4762
 2023-11-20 05:08:23.171130,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,DeMeco Ryans,0.07789999999999997,0.3636,0.2857
 2023-11-20 11:10:24.837801,Miami Dolphins - 2023-24 Regular Season Wins O/U - Regular Season Wins - Miami Dolphins O/U 11.5,Over 11.5,0.06520000000000004,0.5652,0.5
@@ -23,132 +27,86 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-20 11:10:24.774959,Indianapolis Colts - 2023-24 Regular Season Wins O/U - Regular Season Wins - Indianapolis Colts O/U  8.5,Over 8.5,0.06220000000000003,0.5744,0.5122
 2023-11-20 11:10:24.749956,Green Bay Packers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Green Bay Packers O/U  7.5,Under 7.5,0.05860000000000004,0.5348,0.4762
 2023-11-20 11:10:24.975914,NCAA Football Futures - 2023 American Athletic Championship - American Athletic Championship Game Winner,UTSA,0.05350000000000002,0.2353,0.1818
-2023-11-20 01:07:49.517468,MLB Specials 2023 - Where will Shohei Ohtani Play Game 1 of the 2024 MLB Season - Proposition,Chicago Cubs,0.04999999999999999,0.25,0.2
-2023-11-20 01:07:48.972387,NFC North - NFC North 2023/24 - NFC North Winner,Detroit Lions,0.04499999999999993,0.9681,0.9231
-2023-11-20 01:07:49.010426,NFC West - NFC West 2023/24 - NFC West Winner,San Francisco 49ers,0.04290000000000005,0.9,0.8571
 2023-11-20 11:10:25.043622,NCAA Football Futures - 2023 Pac-12 Championship - Pac-12 Championship Game Winner,Washington,0.04249999999999998,0.3704,0.3279
-2023-11-20 01:07:48.890468,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,San Francisco 49ers,0.041800000000000004,0.3448,0.303
 2023-11-20 03:08:26.851008,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.040999999999999925,0.7333,0.6923
-2023-11-20 01:07:48.994876,NFC South - NFC South 2023/24 - NFC South Winner,New Orleans Saints,0.040999999999999925,0.6154,0.5744
-2023-11-20 01:07:48.394968,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.040999999999999925,0.7333,0.6923
 2023-11-20 05:08:23.171130,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Mike McDaniel,0.037599999999999995,0.1429,0.1053
+2023-11-20 14:03:59.634280,Super Bowl Halftime Specials - Halftime Show: Number Of Songs In Usher's Set - Number Of Songs In Set,Over 8.5,0.03479999999999994,0.6,0.5652
 2023-11-20 05:08:23.180112,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Dak Prescott,0.0334,0.0769,0.0435
 2023-11-20 11:10:25.009710,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Ohio State,0.031799999999999995,0.1429,0.1111
 2023-11-20 11:10:24.737295,Detroit Lions - 2023-24 Regular Season Wins O/U - Regular Season Wins - Detroit Lions O/U 12.5,Over 12.5,0.03179999999999994,0.5556,0.5238
 2023-11-20 11:10:25.020980,NCAA Football Futures - 2023 Big 12 Championship - Big 12 Championship Game Winner ,Texas,0.030299999999999994,0.6667,0.6364
-2023-11-20 01:07:48.943058,AFC West - AFC West 2023/24 - AFC West Winner,Denver Broncos,0.028599999999999997,0.0435,0.0149
-2023-11-20 01:07:48.930416,AFC South - AFC South 2023/24 - AFC South Winner,Houston Texans,0.028500000000000025,0.3226,0.2941
-2023-11-20 01:07:48.943058,AFC West - AFC West 2023/24 - AFC West Winner,Kansas City Chiefs,0.028000000000000025,0.9804,0.9524
 2023-11-20 07:08:30.247775,Joburg Open - Joburg Open - Winner,Dean Burmester,0.027800000000000005,0.1111,0.0833
+2023-11-20 14:03:59.845582,Video Game Specials - The Game Awards: Best Audio Design - Best Audio Design,Dead Space,0.02779999999999999,0.25,0.2222
 2023-11-20 11:10:25.009710,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Georgia,0.02779999999999999,0.2778,0.25
 2023-11-20 11:10:24.650695,Buffalo Bills - 2023-24 Regular Season Wins O/U - Regular Season Wins - Buffalo Bills O/U  8.5,Over 8.5,0.02750000000000008,0.6429,0.6154
 2023-11-20 11:10:24.700655,Cleveland Browns - 2023-24 Regular Season Wins O/U - Regular Season Wins - Cleveland Browns O/U  10.5,Over 10.5,0.026499999999999968,0.5917,0.5652
-2023-11-20 01:07:47.760105,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Boston Celtics,0.025499999999999967,0.4255,0.4
 2023-11-20 05:08:23.180112,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Brock Purdy,0.024299999999999995,0.0769,0.0526
 2023-11-20 11:10:25.032292,NCAA Football Futures - 2023 Big Ten Conference Championship - Big Ten Championship Game Winner,Iowa,0.024299999999999995,0.0769,0.0526
-2023-11-20 01:07:48.877922,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Miami Dolphins,0.023800000000000016,0.1905,0.1667
-2023-11-20 01:07:47.760105,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Philadelphia 76ers,0.023799999999999988,0.1667,0.1429
-2023-11-20 01:07:47.856157,Southeast Division - Southeast Division 2023-24 - Division Winner,Miami Heat,0.023799999999999988,0.5,0.4762
 2023-11-20 05:08:21.974599,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,0.023799999999999932,0.8571,0.8333
 2023-11-20 11:10:24.924843,San Francisco 49ers - 2023-24 Regular Season Wins O/U - Regular Season Wins - San Francisco 49ers O/U 11.5,Over 11.5,0.023699999999999943,0.6154,0.5917
 2023-11-20 05:08:23.246633,Boxing Lines - Nikita Tszyu vs Dylan Biggs - To Win the Bout,Nikita Tszyu,0.022800000000000042,0.7561,0.7333
-2023-11-20 01:07:48.259603,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,0.022199999999999998,0.1333,0.1111
-2023-11-20 01:07:47.856157,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,0.022199999999999998,0.2222,0.2
-2023-11-20 01:07:48.930416,AFC South - AFC South 2023/24 - AFC South Winner,Jacksonville Jaguars,0.02200000000000002,0.7143,0.6923
 2023-11-20 11:10:25.032292,NCAA Football Futures - 2023 Big Ten Conference Championship - Big Ten Championship Game Winner,Ohio State,0.021799999999999986,0.3922,0.3704
-2023-11-20 01:07:48.251041,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,LeBron James (LAL),0.0203,0.0526,0.0323
 2023-11-20 11:10:25.009710,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Oregon,0.019000000000000003,0.1333,0.1143
 2023-11-20 03:08:28.033169,Boxing Lines - Nikita Tszyu vs Dylan Biggs - To Win the Bout,Nikita Tszyu,0.018999999999999906,0.7333,0.7143
-2023-11-20 01:07:47.844261,Pacific Division - Pacific Division 2023-24 - Division Winner,Los Angeles Lakers,0.01820000000000002,0.2,0.1818
 2023-11-20 07:08:30.197628,Potential Fights - Anthony Joshua vs Deontay Wilder - To Win the Bout,Anthony Joshua,0.018100000000000005,0.4348,0.4167
 2023-11-20 11:10:25.043622,NCAA Football Futures - 2023 Pac-12 Championship - Pac-12 Championship Game Winner,Arizona,0.018099999999999998,0.0526,0.0345
-2023-11-20 01:07:47.832302,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,0.0179,0.1429,0.125
 2023-11-20 08:23:03.763634,Casio World Open - Casio World Open - Winner,Takumi Kanaya,0.0179,0.1429,0.125
-2023-11-20 01:07:48.877922,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Kansas City Chiefs,0.017600000000000005,0.3509,0.3333
-2023-11-20 01:07:48.241680,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Malik Monk (SAC),0.016700000000000007,0.1,0.0833
-2023-11-20 01:07:48.959611,NFC East - NFC East 2023/24 - NFC East Winner,Dallas Cowboys,0.016699999999999993,0.2667,0.25
 2023-11-20 05:08:22.031626,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.016699999999999993,0.4167,0.4
-2023-11-20 01:07:48.916300,AFC East - AFC East 2023/24 - AFC East Winner 23/24,Buffalo Bills,0.016699999999999993,0.2667,0.25
 2023-11-20 05:08:23.180112,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Trevor Lawrence,0.016600000000000004,0.0345,0.0179
-2023-11-20 01:07:48.890468,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Dallas Cowboys,0.015100000000000002,0.1818,0.1667
-2023-11-20 01:07:48.857256,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Detroit Lions,0.013999999999999999,0.0909,0.0769
+2023-11-20 14:04:02.385480,Boxing Lines - Nikita Tszyu vs Dylan Biggs - To Win the Bout,Nikita Tszyu,0.014700000000000046,0.7647,0.75
 2023-11-20 08:23:03.763634,Casio World Open - Casio World Open - Winner,Keita Nakajima,0.013899999999999996,0.125,0.1111
-2023-11-20 01:07:48.877922,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Baltimore Ravens,0.0131,0.2353,0.2222
-2023-11-20 01:07:48.877922,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Denver Broncos,0.013,0.0196,0.0066
-2023-11-20 01:07:47.760105,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Milwaukee Bucks,0.01150000000000001,0.3448,0.3333
-2023-11-20 01:07:48.857256,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Buffalo Bills,0.011199999999999995,0.0435,0.0323
-2023-11-20 01:07:48.877922,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Houston Texans,0.011199999999999995,0.0435,0.0323
-2023-11-20 01:07:48.877922,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Jacksonville Jaguars,0.011099999999999999,0.1111,0.1
 2023-11-20 07:08:28.406021,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Nikki Haley,0.010899999999999993,0.1538,0.1429
-2023-11-20 01:07:48.916300,AFC East - AFC East 2023/24 - AFC East Winner 23/24,Miami Dolphins,0.010500000000000065,0.8,0.7895
+2023-11-20 14:04:02.429018,Boxing Lines - Chantelle Cameron vs Katie Taylor - To Win the Bout,Chantelle Cameron,0.010700000000000043,0.6774,0.6667
 2023-11-20 08:23:03.298197,Boxing Lines - Paddy Donovan vs Danny Ball - To Win the Bout,Danny Ball,0.010499999999999982,0.2105,0.2
 2023-11-20 08:23:03.763634,Casio World Open - Casio World Open - Winner,Taiga Semikawa,0.0102,0.0769,0.0667
-2023-11-20 11:10:24.799743,Kansas City Chiefs - 2023-24 Regular Season Wins O/U - Regular Season Wins - Kansas City Chiefs O/U 12.5,Over 12.5,0.010099999999999998,0.5556,0.5455
 2023-11-20 07:08:30.120809,Boxing Lines - Jesse Rodriguez vs Sunny Edwards - To Win the Bout,Jesse Rodriguez,0.010099999999999998,0.6875,0.6774
+2023-11-20 11:10:24.799743,Kansas City Chiefs - 2023-24 Regular Season Wins O/U - Regular Season Wins - Kansas City Chiefs O/U 12.5,Over 12.5,0.010099999999999998,0.5556,0.5455
 2023-11-20 11:10:25.084880,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Tyreek Hill,-0.010099999999999998,0.4444,0.4545
 2023-11-20 11:10:25.043622,NCAA Football Futures - 2023 Pac-12 Championship - Pac-12 Championship Game Winner,Oregon,-0.010099999999999998,0.6774,0.6875
-2023-11-20 01:07:47.760105,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Atlanta Hawks,-0.010100000000000001,0.0244,0.0345
-2023-11-20 01:07:48.251041,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Stephen Curry (GSW),-0.0102,0.0667,0.0769
 2023-11-20 07:08:28.406021,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,-0.0102,0.0667,0.0769
 2023-11-20 03:08:28.055453,Boxing Lines - Paddy Donovan vs Danny Ball - To Win the Bout,Danny Ball,-0.010499999999999982,0.2,0.2105
-2023-11-20 05:08:23.171130,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Nick Sirianni,-0.010700000000000001,0.0278,0.0385
 2023-11-20 05:08:23.180112,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Jared Goff,-0.010700000000000001,0.0278,0.0385
-2023-11-20 01:07:48.877922,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Pittsburgh Steelers,-0.010700000000000001,0.0278,0.0385
-2023-11-20 01:07:48.259603,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Tyronn Lue,-0.012100000000000001,0.0123,0.0244
-2023-11-20 01:07:48.241680,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Cole Anthony (ORL),-0.012100000000000001,0.0123,0.0244
-2023-11-20 01:07:48.959611,NFC East - NFC East 2023/24 - NFC East Winner,Philadelphia Eagles,-0.012899999999999912,0.8333,0.8462
-2023-11-20 01:07:47.772728,Western Conference - Western Conference 2023-24 - Western Conference Winner,New Orleans Pelicans,-0.0131,0.0345,0.0476
-2023-11-20 01:07:48.259603,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Quin Snyder,-0.0131,0.0345,0.0476
+2023-11-20 05:08:23.171130,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Nick Sirianni,-0.010700000000000001,0.0278,0.0385
 2023-11-20 05:08:21.987507,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Vivek Ramaswamy,-0.013899999999999996,0.1111,0.125
-2023-11-20 01:07:48.278282,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Cam Thomas (BKN),-0.013999999999999999,0.0769,0.0909
 2023-11-20 05:08:21.974599,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,-0.013999999999999999,0.0769,0.0909
-2023-11-20 01:07:48.877922,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Los Angeles Chargers,-0.014099999999999998,0.0244,0.0385
 2023-11-20 05:08:23.171130,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Shane Steichen,-0.014099999999999998,0.0244,0.0385
 2023-11-20 05:08:22.031626,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Michelle Obama,-0.014100000000000001,0.0385,0.0526
-2023-11-20 01:07:48.251041,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Tyrese Haliburton (IND),-0.014100000000000001,0.0385,0.0526
-2023-11-20 01:07:48.259603,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Nick Nurse,-0.01440000000000001,0.0909,0.1053
 2023-11-20 05:08:23.180112,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Patrick Mahomes,-0.01469999999999999,0.2353,0.25
-2023-11-20 01:07:48.288063,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Luka Doncic (DAL),-0.015100000000000002,0.1667,0.1818
+2023-11-20 14:04:02.429018,Boxing Lines - Chantelle Cameron vs Katie Taylor - To Win the Bout,Katie Taylor,-0.015400000000000025,0.3846,0.4
 2023-11-20 11:10:25.084880,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Christian McCaffrey,-0.016699999999999993,0.4,0.4167
-2023-11-20 01:07:47.856157,Southeast Division - Southeast Division 2023-24 - Division Winner,Atlanta Hawks,-0.016699999999999993,0.4,0.4167
 2023-11-20 03:08:28.033169,Boxing Lines - Nikita Tszyu vs Dylan Biggs - To Win the Bout,Dylan Biggs,-0.017600000000000005,0.3333,0.3509
-2023-11-20 01:07:48.259603,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Adrian Griffin,-0.018099999999999998,0.0588,0.0769
-2023-11-20 01:07:48.943058,AFC West - AFC West 2023/24 - AFC West Winner,Las Vegas Raiders,-0.018200000000000004,0.0294,0.0476
-2023-11-20 01:07:48.241680,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Immanuel Quickley (NYK),-0.01820000000000002,0.1818,0.2
-2023-11-20 01:07:48.890468,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Seattle Seahawks,-0.019099999999999992,0.0476,0.0667
+2023-11-20 14:03:59.947647,Video Game Specials - The Game Awards: Best Esports Athlete - Best Esports Athlete,Hydra,-0.018099999999999998,0.0588,0.0769
 2023-11-20 07:08:30.197628,Potential Fights - Anthony Joshua vs Deontay Wilder - To Win the Bout,Deontay Wilder,-0.019499999999999962,0.6296,0.6491
 2023-11-20 11:10:24.924843,San Francisco 49ers - 2023-24 Regular Season Wins O/U - Regular Season Wins - San Francisco 49ers O/U 11.5,Under 11.5,-0.021699999999999997,0.4545,0.4762
+2023-11-20 14:03:59.830579,Video Game Specials - The Game Awards: Best Art Direction - Best Art Direction,Lies Of P,-0.021999999999999964,0.2857,0.3077
+2023-11-20 14:03:59.830579,Video Game Specials - The Game Awards: Best Art Direction - Best Art Direction,Hi-Fi Rush,-0.021999999999999964,0.2857,0.3077
 2023-11-20 05:08:21.932051,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Gavin Newsom,-0.022199999999999998,0.2,0.2222
-2023-11-20 01:07:48.241680,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Russell Westbrook (LAC),-0.02310000000000001,0.0769,0.1
-2023-11-20 01:07:47.817143,Central Division - Central Division 2023-24 - Division Winner,Indiana Pacers,-0.02310000000000001,0.0769,0.1
-2023-11-20 01:07:48.241680,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Naz Reid (MIN),-0.023200000000000002,0.0244,0.0476
 2023-11-20 07:08:28.406021,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,-0.023799999999999932,0.8333,0.8571
+2023-11-20 14:03:59.930868,Video Game Specials - The Game Awards: Best RPG - Best RPG,Lies Of P,-0.023799999999999988,0.1429,0.1667
 2023-11-20 11:10:24.700655,Cleveland Browns - 2023-24 Regular Season Wins O/U - Regular Season Wins - Cleveland Browns O/U  10.5,Under 10.5,-0.023799999999999988,0.4762,0.5
-2023-11-20 01:07:47.868663,Southwest Division - Southwest Division 2023-24 - Division Winner,Memphis Grizzlies,-0.024299999999999995,0.0526,0.0769
-2023-11-20 01:07:48.930416,AFC South - AFC South 2023/24 - AFC South Winner,Indianapolis Colts,-0.024299999999999995,0.0526,0.0769
 2023-11-20 05:08:23.171130,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Mike Tomlin,-0.024299999999999995,0.0526,0.0769
-2023-11-20 01:07:48.972387,NFC North - NFC North 2023/24 - NFC North Winner,Minnesota Vikings,-0.025300000000000003,0.1176,0.1429
 2023-11-20 05:08:23.246633,Boxing Lines - Nikita Tszyu vs Dylan Biggs - To Win the Bout,Dylan Biggs,-0.02560000000000001,0.3077,0.3333
 2023-11-20 11:10:25.009710,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Michigan,-0.026000000000000023,0.2597,0.2857
 2023-11-20 11:10:24.938209,Tampa Bay Buccaneers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tampa Bay Buccaneers O/U  7.5,Over 7.5,-0.026499999999999968,0.5652,0.5917
-2023-11-20 01:07:49.023059,AFC North - AFC North 2023/24 - AFC North Winner,Baltimore Ravens,-0.029299999999999993,0.7143,0.7436
-2023-11-20 01:07:48.930416,AFC South - AFC South 2023/24 - AFC South Winner,Tennessee Titans,-0.0312,0.0123,0.0435
+2023-11-20 14:03:59.930868,Video Game Specials - The Game Awards: Best RPG - Best RPG,Starfield,-0.02779999999999999,0.2222,0.25
+2023-11-20 14:03:59.845582,Video Game Specials - The Game Awards: Best Audio Design - Best Audio Design,Resident Evil 4,-0.02779999999999999,0.2222,0.25
+2023-11-20 14:03:59.845582,Video Game Specials - The Game Awards: Best Audio Design - Best Audio Design,Alan Wake 2,-0.02779999999999999,0.2222,0.25
+2023-11-20 14:03:59.845582,Video Game Specials - The Game Awards: Best Audio Design - Best Audio Design,Marvel's Spider-man 2,-0.031799999999999995,0.1111,0.1429
 2023-11-20 11:10:24.737295,Detroit Lions - 2023-24 Regular Season Wins O/U - Regular Season Wins - Detroit Lions O/U 12.5,Under 12.5,-0.033299999999999996,0.5122,0.5455
-2023-11-20 01:07:48.916300,AFC East - AFC East 2023/24 - AFC East Winner 23/24,New York Jets,-0.0389,0.0278,0.0667
 2023-11-20 05:08:23.180112,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,CJ Stroud,-0.0398,0.0435,0.0833
 2023-11-20 11:10:25.009710,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Alabama,-0.0406,0.1333,0.1739
 2023-11-20 03:08:26.862900,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.040999999999999925,0.6923,0.7333
-2023-11-20 01:07:48.415457,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.040999999999999925,0.6923,0.7333
 2023-11-20 11:10:25.032292,NCAA Football Futures - 2023 Big Ten Conference Championship - Big Ten Championship Game Winner,Michigan,-0.041000000000000036,0.6364,0.6774
 2023-11-20 05:08:21.987507,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Nikki Haley,-0.042899999999999994,0.1,0.1429
 2023-11-20 05:08:21.932051,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.043200000000000016,0.6491,0.6923
-2023-11-20 01:07:48.943058,AFC West - AFC West 2023/24 - AFC West Winner,Los Angeles Chargers,-0.04329999999999999,0.0476,0.0909
-2023-11-20 01:07:48.259603,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Rick Carlisle,-0.04440000000000001,0.0667,0.1111
+2023-11-20 14:03:59.830579,Video Game Specials - The Game Awards: Best Art Direction - Best Art Direction,The Legend Of Zelda: Tears Of The Kingdom,-0.044499999999999984,0.2222,0.2667
+2023-11-20 14:03:59.634280,Super Bowl Halftime Specials - Halftime Show: Number Of Songs In Usher's Set - Number Of Songs In Set,Under 8.5,-0.04760000000000003,0.4762,0.5238
 2023-11-20 05:08:22.031626,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,-0.04849999999999999,0.25,0.2985
-2023-11-20 01:07:48.994876,NFC South - NFC South 2023/24 - NFC South Winner,Tampa Bay Buccaneers,-0.04999999999999999,0.2,0.25
+2023-11-20 14:03:59.880620,Video Game Specials - The Game Awards: Best Multiplayer - Best Multiplayer,Super Mario Bros. Wonder,-0.05130000000000001,0.3333,0.3846
+2023-11-20 14:03:59.880620,Video Game Specials - The Game Awards: Best Multiplayer - Best Multiplayer,Street Fighter 6,-0.05130000000000001,0.3333,0.3846
 2023-11-20 11:10:25.020980,NCAA Football Futures - 2023 Big 12 Championship - Big 12 Championship Game Winner ,Kansas State,-0.0539,0.0294,0.0833
-2023-11-20 01:07:49.010426,NFC West - NFC West 2023/24 - NFC West Winner,Seattle Seahawks,-0.05550000000000002,0.1667,0.2222
 2023-11-20 11:10:24.749956,Green Bay Packers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Green Bay Packers O/U  7.5,Over 7.5,-0.05689999999999995,0.5348,0.5917
+2023-11-20 14:03:59.947647,Video Game Specials - The Game Awards: Best Esports Athlete - Best Esports Athlete,Zywoo,-0.057699999999999974,0.25,0.3077
 2023-11-20 11:10:24.663131,Carolina Panthers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Carolina Panthers O/U  3.5,Over 3.5,-0.05860000000000004,0.4762,0.5348
 2023-11-20 11:10:24.837801,Miami Dolphins - 2023-24 Regular Season Wins O/U - Regular Season Wins - Miami Dolphins O/U 11.5,Under 11.5,-0.06520000000000004,0.5,0.5652
 2023-11-20 11:10:24.634870,Baltimore Ravens - 2023-24 Regular Season Wins O/U - Regular Season Wins - Baltimore Ravens O/U 11.5,Under 11.5,-0.06520000000000004,0.5,0.5652
@@ -157,13 +115,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-20 05:08:21.987507,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,"Robert Kennedy, Jr",-0.0726,0.0385,0.1111
 2023-11-20 11:10:24.713625,Dallas Cowboys - 2023-24 Regular Season Wins O/U - Regular Season Wins - Dallas Cowboys O/U 11.5,Under 11.5,-0.07950000000000002,0.5122,0.5917
 2023-11-20 05:08:23.171130,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Kevin O'Connell,-0.0804,0.0625,0.1429
+2023-11-20 14:03:59.947647,Video Game Specials - The Game Awards: Best Esports Athlete - Best Esports Athlete,Demon1,-0.08330000000000001,0.1667,0.25
 2023-11-20 11:10:25.020980,NCAA Football Futures - 2023 Big 12 Championship - Big 12 Championship Game Winner ,Oklahoma,-0.08549999999999999,0.125,0.2105
-2023-11-20 01:07:49.023059,AFC North - AFC North 2023/24 - AFC North Winner,Pittsburgh Steelers,-0.0889,0.1111,0.2
 2023-11-20 11:10:24.675732,Chicago Bears - 2023-24 Regular Season Wins O/U - Regular Season Wins - Chicago Bears O/U  5.5,Over 5.5,-0.08900000000000002,0.4762,0.5652
 2023-11-20 07:08:30.208131,Potential Fights - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Tyson Fury,-0.0925999999999999,0.6296,0.7222
 2023-11-20 11:10:24.812295,Las Vegas Raiders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Las Vegas Raiders O/U  6.5,Under 6.5,-0.10319999999999996,0.5122,0.6154
 2023-11-20 11:10:25.065667,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,T.J. Watt,-0.10769999999999996,0.2,0.3077
 2023-11-20 11:10:24.762162,Houston Texans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Houston Texans O/U  9.5,Under 9.5,-0.11070000000000002,0.4545,0.5652
+2023-11-20 11:10:24.975914,NCAA Football Futures - 2023 American Athletic Championship - American Athletic Championship Game Winner,Tulane,-0.13190000000000002,0.3226,0.4545
 2023-11-20 11:10:24.787297,Jacksonville Jaguars - 2023-24 Regular Season Wins O/U - Regular Season Wins - Jacksonville Jaguars O/U 11.5,Under 11.5,-0.1451,0.5917,0.7368
 2023-11-20 11:10:24.986999,NCAA Football Futures - 2023 Mountain West Conference Championship - Championship Game Winner,Air Force,-0.2674,0.2564,0.5238
 2023-11-20 11:10:24.688179,Cincinnati Bengals - 2023-24 Regular Season Wins O/U - Regular Season Wins - Cincinnati Bengals O/U  7.5,Over 7.5,-0.3174,0.5917,0.9091
