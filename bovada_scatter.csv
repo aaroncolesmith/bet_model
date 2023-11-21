@@ -16,8 +16,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-20 11:10:24.762162,Houston Texans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Houston Texans O/U  9.5,Over 9.5,0.09999999999999998,0.6,0.5
 2023-11-20 11:10:24.998493,NCAA Football Futures - 2023 Sun Belt Championship - Championship Game Winner,Troy,0.09689999999999999,0.7333,0.6364
 2023-11-20 11:10:24.675732,Chicago Bears - 2023-24 Regular Season Wins O/U - Regular Season Wins - Chicago Bears O/U  5.5,Under 5.5,0.0917,0.5917,0.5
-2023-11-20 07:08:30.208131,Potential Fights - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Oleksandr Usyk,0.09000000000000002,0.4348,0.3448
-2023-11-20 07:08:28.330853,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Field,0.08340000000000003,0.4167,0.3333
 2023-11-20 14:03:59.930868,Video Game Specials - The Game Awards: Best RPG - Best RPG,Baldur's Gate 3,0.08330000000000004,0.8333,0.75
 2023-11-20 11:10:25.065667,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Myles Garrett,0.08039999999999997,0.5455,0.4651
 2023-11-20 14:03:59.845582,Video Game Specials - The Game Awards: Best Audio Design - Best Audio Design,Hi-Fi Rush,0.07940000000000003,0.5238,0.4444
@@ -38,9 +36,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-20 11:10:25.009710,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Ohio State,0.031799999999999995,0.1429,0.1111
 2023-11-20 11:10:24.737295,Detroit Lions - 2023-24 Regular Season Wins O/U - Regular Season Wins - Detroit Lions O/U 12.5,Over 12.5,0.03179999999999994,0.5556,0.5238
 2023-11-20 11:10:25.020980,NCAA Football Futures - 2023 Big 12 Championship - Big 12 Championship Game Winner ,Texas,0.030299999999999994,0.6667,0.6364
-2023-11-20 07:08:30.247775,Joburg Open - Joburg Open - Winner,Dean Burmester,0.027800000000000005,0.1111,0.0833
-2023-11-20 14:03:59.845582,Video Game Specials - The Game Awards: Best Audio Design - Best Audio Design,Dead Space,0.02779999999999999,0.25,0.2222
 2023-11-20 11:10:25.009710,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Georgia,0.02779999999999999,0.2778,0.25
+2023-11-20 14:03:59.845582,Video Game Specials - The Game Awards: Best Audio Design - Best Audio Design,Dead Space,0.02779999999999999,0.25,0.2222
 2023-11-20 11:10:24.650695,Buffalo Bills - 2023-24 Regular Season Wins O/U - Regular Season Wins - Buffalo Bills O/U  8.5,Over 8.5,0.02750000000000008,0.6429,0.6154
 2023-11-20 11:10:24.700655,Cleveland Browns - 2023-24 Regular Season Wins O/U - Regular Season Wins - Cleveland Browns O/U  10.5,Over 10.5,0.026499999999999968,0.5917,0.5652
 2023-11-20 11:10:25.032292,NCAA Football Futures - 2023 Big Ten Conference Championship - Big Ten Championship Game Winner,Iowa,0.024299999999999995,0.0769,0.0526
@@ -48,27 +45,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-20 19:07:24.852606,NBL - NBL 2023/2024 - To Make Grand Final,Perth Wildcats,0.021999999999999964,0.3077,0.2857
 2023-11-20 11:10:25.032292,NCAA Football Futures - 2023 Big Ten Conference Championship - Big Ten Championship Game Winner,Ohio State,0.021799999999999986,0.3922,0.3704
 2023-11-20 19:07:24.750107,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Virtus Bologna,0.021699999999999997,0.4762,0.4545
-2023-11-20 19:07:27.853212,Tournament Match-Ups - Tournament Match-Up - B. Stone v S. Sharma - Tournament Match-Up,Brandon Stone,0.01970000000000005,0.5652,0.5455
 2023-11-20 19:07:27.977100,Tournament Match-Ups - Tournament Match-Up - H. Du Plessis vs M. Southgate - Tournament Match-Up,Hennie Du Plessis,0.01970000000000005,0.5652,0.5455
+2023-11-20 19:07:27.853212,Tournament Match-Ups - Tournament Match-Up - B. Stone v S. Sharma - Tournament Match-Up,Brandon Stone,0.01970000000000005,0.5652,0.5455
 2023-11-20 11:10:25.009710,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Oregon,0.019000000000000003,0.1333,0.1143
-2023-11-20 07:08:30.197628,Potential Fights - Anthony Joshua vs Deontay Wilder - To Win the Bout,Anthony Joshua,0.018100000000000005,0.4348,0.4167
 2023-11-20 19:07:27.869813,Tournament Match-Ups - Tournament Match-Up - C. Bezuidenhout vs D. Burmester - Tournament Match-Up,Dean Burmester,0.018100000000000005,0.5833,0.5652
 2023-11-20 11:10:25.043622,NCAA Football Futures - 2023 Pac-12 Championship - Pac-12 Championship Game Winner,Arizona,0.018099999999999998,0.0526,0.0345
-2023-11-20 08:23:03.763634,Casio World Open - Casio World Open - Winner,Takumi Kanaya,0.0179,0.1429,0.125
 2023-11-20 14:04:02.385480,Boxing Lines - Nikita Tszyu vs Dylan Biggs - To Win the Bout,Nikita Tszyu,0.014700000000000046,0.7647,0.75
 2023-11-20 19:07:24.852606,NBL - NBL 2023/2024 - To Make Grand Final,Adelaide 36ers,0.014099999999999998,0.0385,0.0244
-2023-11-20 08:23:03.763634,Casio World Open - Casio World Open - Winner,Keita Nakajima,0.013899999999999996,0.125,0.1111
 2023-11-20 19:07:24.882097,NBL - NBL 2023/2024 - To Make Top 6,Illawarra Hawks,0.013899999999999996,0.125,0.1111
-2023-11-20 07:08:28.406021,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Nikki Haley,0.010899999999999993,0.1538,0.1429
 2023-11-20 14:04:02.429018,Boxing Lines - Chantelle Cameron vs Katie Taylor - To Win the Bout,Chantelle Cameron,0.010700000000000043,0.6774,0.6667
-2023-11-20 08:23:03.298197,Boxing Lines - Paddy Donovan vs Danny Ball - To Win the Bout,Danny Ball,0.010499999999999982,0.2105,0.2
 2023-11-20 15:07:25.143206,Boxing Lines - Jake Paul vs Andre August - To Win the Bout,Andre August,0.010499999999999982,0.2105,0.2
-2023-11-20 08:23:03.763634,Casio World Open - Casio World Open - Winner,Taiga Semikawa,0.0102,0.0769,0.0667
-2023-11-20 07:08:30.120809,Boxing Lines - Jesse Rodriguez vs Sunny Edwards - To Win the Bout,Jesse Rodriguez,0.010099999999999998,0.6875,0.6774
 2023-11-20 11:10:24.799743,Kansas City Chiefs - 2023-24 Regular Season Wins O/U - Regular Season Wins - Kansas City Chiefs O/U 12.5,Over 12.5,0.010099999999999998,0.5556,0.5455
-2023-11-20 11:10:25.084880,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Tyreek Hill,-0.010099999999999998,0.4444,0.4545
 2023-11-20 11:10:25.043622,NCAA Football Futures - 2023 Pac-12 Championship - Pac-12 Championship Game Winner,Oregon,-0.010099999999999998,0.6774,0.6875
-2023-11-20 07:08:28.406021,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Ron DeSantis,-0.0102,0.0667,0.0769
+2023-11-20 11:10:25.084880,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Tyreek Hill,-0.010099999999999998,0.4444,0.4545
 2023-11-20 19:07:24.852606,NBL - NBL 2023/2024 - To Make Grand Final,Cairns Taipans,-0.011199999999999995,0.0476,0.0588
 2023-11-20 19:07:24.852606,NBL - NBL 2023/2024 - To Make Grand Final,Sydney Kings,-0.012199999999999989,0.5,0.5122
 2023-11-20 14:04:02.429018,Boxing Lines - Chantelle Cameron vs Katie Taylor - To Win the Bout,Katie Taylor,-0.015400000000000025,0.3846,0.4
@@ -76,14 +65,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-20 19:07:24.852606,NBL - NBL 2023/2024 - To Make Grand Final,Brisbane Bullets,-0.01759999999999999,0.1,0.1176
 2023-11-20 14:03:59.947647,Video Game Specials - The Game Awards: Best Esports Athlete - Best Esports Athlete,Hydra,-0.018099999999999998,0.0588,0.0769
 2023-11-20 19:07:27.830697,Joburg Open - Joburg Open - Winner,Adrien Saddier,-0.0189,0.0196,0.0385
-2023-11-20 07:08:30.197628,Potential Fights - Anthony Joshua vs Deontay Wilder - To Win the Bout,Deontay Wilder,-0.019499999999999962,0.6296,0.6491
 2023-11-20 11:10:24.924843,San Francisco 49ers - 2023-24 Regular Season Wins O/U - Regular Season Wins - San Francisco 49ers O/U 11.5,Under 11.5,-0.021699999999999997,0.4545,0.4762
 2023-11-20 14:03:59.830579,Video Game Specials - The Game Awards: Best Art Direction - Best Art Direction,Lies Of P,-0.021999999999999964,0.2857,0.3077
 2023-11-20 14:03:59.830579,Video Game Specials - The Game Awards: Best Art Direction - Best Art Direction,Hi-Fi Rush,-0.021999999999999964,0.2857,0.3077
-2023-11-20 07:08:28.406021,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,-0.023799999999999932,0.8333,0.8571
-2023-11-20 19:07:27.869813,Tournament Match-Ups - Tournament Match-Up - C. Bezuidenhout vs D. Burmester - Tournament Match-Up,Christiaan Bezuidenhout,-0.023799999999999988,0.4762,0.5
-2023-11-20 11:10:24.700655,Cleveland Browns - 2023-24 Regular Season Wins O/U - Regular Season Wins - Cleveland Browns O/U  10.5,Under 10.5,-0.023799999999999988,0.4762,0.5
 2023-11-20 14:03:59.930868,Video Game Specials - The Game Awards: Best RPG - Best RPG,Lies Of P,-0.023799999999999988,0.1429,0.1667
+2023-11-20 11:10:24.700655,Cleveland Browns - 2023-24 Regular Season Wins O/U - Regular Season Wins - Cleveland Browns O/U  10.5,Under 10.5,-0.023799999999999988,0.4762,0.5
+2023-11-20 19:07:27.869813,Tournament Match-Ups - Tournament Match-Up - C. Bezuidenhout vs D. Burmester - Tournament Match-Up,Christiaan Bezuidenhout,-0.023799999999999988,0.4762,0.5
 2023-11-20 19:07:27.977100,Tournament Match-Ups - Tournament Match-Up - H. Du Plessis vs M. Southgate - Tournament Match-Up,Matthew Southgate,-0.023800000000000043,0.5,0.5238
 2023-11-20 11:10:25.009710,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Michigan,-0.026000000000000023,0.2597,0.2857
 2023-11-20 11:10:24.938209,Tampa Bay Buccaneers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Tampa Bay Buccaneers O/U  7.5,Over 7.5,-0.026499999999999968,0.5652,0.5917
@@ -108,8 +95,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-20 14:03:59.947647,Video Game Specials - The Game Awards: Best Esports Athlete - Best Esports Athlete,Zywoo,-0.057699999999999974,0.25,0.3077
 2023-11-20 11:10:24.663131,Carolina Panthers - 2023-24 Regular Season Wins O/U - Regular Season Wins - Carolina Panthers O/U  3.5,Over 3.5,-0.05860000000000004,0.4762,0.5348
 2023-11-20 15:07:24.623079,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Bo Nix,-0.0595,0.4167,0.4762
-2023-11-20 11:10:24.634870,Baltimore Ravens - 2023-24 Regular Season Wins O/U - Regular Season Wins - Baltimore Ravens O/U 11.5,Under 11.5,-0.06520000000000004,0.5,0.5652
 2023-11-20 11:10:24.837801,Miami Dolphins - 2023-24 Regular Season Wins O/U - Regular Season Wins - Miami Dolphins O/U 11.5,Under 11.5,-0.06520000000000004,0.5,0.5652
+2023-11-20 11:10:24.634870,Baltimore Ravens - 2023-24 Regular Season Wins O/U - Regular Season Wins - Baltimore Ravens O/U 11.5,Under 11.5,-0.06520000000000004,0.5,0.5652
 2023-11-20 11:10:24.774959,Indianapolis Colts - 2023-24 Regular Season Wins O/U - Regular Season Wins - Indianapolis Colts O/U  8.5,Under 8.5,-0.06779999999999997,0.4878,0.5556
 2023-11-20 11:10:25.009710,NCAA Football Futures - 2023-2024 NCAA Championship Winner - NCAA Champion,Florida State,-0.07060000000000001,0.0294,0.1
 2023-11-20 15:07:24.623079,NCAA Football Futures - Odds to win 2023 Heisman Trophy - 2023 Heisman Trophy Winner,Michael Penix Jr.,-0.07719999999999999,0.1333,0.2105
@@ -117,7 +104,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-20 14:03:59.947647,Video Game Specials - The Game Awards: Best Esports Athlete - Best Esports Athlete,Demon1,-0.08330000000000001,0.1667,0.25
 2023-11-20 11:10:25.020980,NCAA Football Futures - 2023 Big 12 Championship - Big 12 Championship Game Winner ,Oklahoma,-0.08549999999999999,0.125,0.2105
 2023-11-20 11:10:24.675732,Chicago Bears - 2023-24 Regular Season Wins O/U - Regular Season Wins - Chicago Bears O/U  5.5,Over 5.5,-0.08900000000000002,0.4762,0.5652
-2023-11-20 07:08:30.208131,Potential Fights - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Tyson Fury,-0.0925999999999999,0.6296,0.7222
 2023-11-20 11:10:24.812295,Las Vegas Raiders - 2023-24 Regular Season Wins O/U - Regular Season Wins - Las Vegas Raiders O/U  6.5,Under 6.5,-0.10319999999999996,0.5122,0.6154
 2023-11-20 11:10:25.065667,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,T.J. Watt,-0.10769999999999996,0.2,0.3077
 2023-11-20 11:10:24.762162,Houston Texans - 2023-24 Regular Season Wins O/U - Regular Season Wins - Houston Texans O/U  9.5,Under 9.5,-0.11070000000000002,0.4545,0.5652
