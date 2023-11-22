@@ -11,6 +11,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-21 15:10:26.736772,To Make the Playoffs - Dallas Mavericks - To Make the 2023-24 Playoffs,No,0.026499999999999996,0.2439,0.2174
 2023-11-21 15:10:26.696241,To Make the Playoffs - Brooklyn Nets - To Make the 2023-24 Playoffs,No,0.023799999999999932,0.6667,0.6429
 2023-11-21 21:08:54.918632,Australian PGA Championship - 2/3 Balls - 1st Round 3 Balls - R. MacIntyre / C. Smith / M.W. Lee - 1st Round 3 Balls,Cameron Smith,0.022699999999999998,0.4878,0.4651
+2023-11-21 23:08:41.767830,Boxing Lines - Nikita Tszyu vs Dylan Biggs - To Win the Bout,Nikita Tszyu,0.021700000000000053,0.7778,0.7561
 2023-11-21 15:10:26.676249,To Make the Playoffs - Atlanta Hawks - To Make the 2023-24 Playoffs,No,0.02030000000000004,0.3774,0.3571
 2023-11-21 15:10:26.717064,To Make the Playoffs - Chicago Bulls - To Make the 2023-24 Playoffs,No,0.019600000000000062,0.8113,0.7917
 2023-11-21 15:10:26.839825,To Make the Playoffs - Indiana Pacers - To Make the 2023-24 Playoffs,No,0.018100000000000005,0.4348,0.4167
@@ -18,8 +19,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-21 15:10:26.925788,To Make the Playoffs - Miami Heat - To Make the 2023-24 Playoffs,Yes,0.01539999999999997,0.8113,0.7959
 2023-11-21 15:10:26.906401,To Make the Playoffs - Memphis Grizzlies - To Make the 2023-24 Playoffs,No,0.012899999999999912,0.8462,0.8333
 2023-11-21 21:08:53.985463,Boxing Lines - Amber Amelia vs Natasha Kurene - To Win the Bout,Natasha Kurene,0.0116,0.4878,0.4762
-2023-11-21 15:10:29.982208,Tournament Match-Ups - Tournament Match-Up - A. Meronk vs L. Herbert - Tournament Match-Up,Lucas Herbert,0.011099999999999999,0.4762,0.4651
 2023-11-21 15:10:27.098627,To Make the Playoffs - Sacramento Kings - To Make the 2023-24 Playoffs,Yes,0.011099999999999999,0.7333,0.7222
+2023-11-21 15:10:29.982208,Tournament Match-Ups - Tournament Match-Up - A. Meronk vs L. Herbert - Tournament Match-Up,Lucas Herbert,0.011099999999999999,0.4762,0.4651
 2023-11-21 15:10:26.794878,To Make the Playoffs - Golden State Warriors - To Make the 2023-24 Playoffs,No,0.010399999999999993,0.2326,0.2222
 2023-11-21 15:10:29.153609,Boxing Lines - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.010299999999999976,0.2667,0.2564
 2023-11-21 15:10:27.146730,To Make the Playoffs - Utah Jazz - To Make the 2023-24 Playoffs,No,0.010199999999999987,0.9333,0.9231
@@ -37,6 +38,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-21 15:10:26.717064,To Make the Playoffs - Chicago Bulls - To Make the 2023-24 Playoffs,Yes,-0.017600000000000005,0.2564,0.274
 2023-11-21 15:10:27.081010,To Make the Playoffs - Portland Trail Blazers - To Make the 2023-24 Playoffs,Yes,-0.018099999999999998,0.0588,0.0769
 2023-11-21 15:10:26.839825,To Make the Playoffs - Indiana Pacers - To Make the 2023-24 Playoffs,Yes,-0.019499999999999962,0.6296,0.6491
+2023-11-21 23:08:41.767830,Boxing Lines - Nikita Tszyu vs Dylan Biggs - To Win the Bout,Dylan Biggs,-0.021999999999999964,0.2857,0.3077
 2023-11-21 15:10:26.676249,To Make the Playoffs - Atlanta Hawks - To Make the 2023-24 Playoffs,Yes,-0.022599999999999953,0.6875,0.7101
 2023-11-21 15:10:26.696241,To Make the Playoffs - Brooklyn Nets - To Make the 2023-24 Playoffs,Yes,-0.025499999999999967,0.4,0.4255
 2023-11-21 15:10:26.736772,To Make the Playoffs - Dallas Mavericks - To Make the 2023-24 Playoffs,Yes,-0.03049999999999997,0.8214,0.8519
@@ -44,8 +46,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-21 15:10:27.692119,US House of Representatives Elections 2024 - Democratic Nominee: House Election Pennsylvania 12th District - Pennsylvania District 12 Democrat Nominee,Summer Lee,-0.035699999999999954,0.7143,0.75
 2023-11-21 15:10:29.338659,Bare Knuckle Fighting Championship - Mike Perry vs Eddie Alvarez - To Win the Bout,Eddie Alvarez,-0.04630000000000001,0.3704,0.4167
 2023-11-21 15:10:26.983830,To Make the Playoffs - New Orleans Pelicans - To Make the 2023-24 Playoffs,No,-0.05059999999999998,0.5238,0.5744
-2023-11-21 15:10:26.023802,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Elon Musk,-0.05559999999999998,0.1111,0.1667
 2023-11-21 15:10:26.023802,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Volodymyr Zelenskyy,-0.05559999999999998,0.1111,0.1667
+2023-11-21 15:10:26.023802,Time Person of the Year - Time Person Of The Year 2023 - Time Person Of The Year 2023,Elon Musk,-0.05559999999999998,0.1111,0.1667
 2023-11-21 15:10:27.671190,US House of Representatives Elections 2024 - Democratic Nominee: House Election Minnesota District 5 - Minnesota District 5 Democrat Nominee,Ilhan Omar,-0.05709999999999993,0.8,0.8571
 2023-11-21 15:10:27.036097,To Make the Playoffs - Orlando Magic - To Make the 2023-24 Playoffs,No,-0.0685,0.5744,0.6429
 2023-11-21 15:10:26.425671,Fortnite - Fortnite Active Players On December 31st 2023 - Fortnite Active Players At Year End,Over 250 million,-0.07940000000000003,0.4444,0.5238
