@@ -1,145 +1,60 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-11-23 03:05:47.452152,West Group B - West Group B 2023 - Winner,New Orleans Pelicans,0.2912,0.4651,0.1739
-2023-11-23 01:06:07.738718,Boxing Lines - Chris Colbert vs Jose Valenzuela - To Win the Bout,Jose Valenzuela,0.1266,0.5917,0.4651
-2023-11-23 03:05:47.439719,East Group C - East Group C 2023 - Winner,Orlando Magic,0.12310000000000001,0.2,0.0769
-2023-11-23 03:05:48.077832,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,South Carolina,0.11670000000000001,0.2,0.0833
-2023-11-23 03:05:47.428993,East Group B - East Group B 2023 - Winner,Milwaukee Bucks,0.11419999999999997,0.7059,0.5917
-2023-11-23 03:05:47.439719,East Group C - East Group C 2023 - Winner,Boston Celtics,0.0857,0.8,0.7143
-2023-11-23 03:05:47.463976,West Group C - West Group C 2023 - Winner,Sacramento Kings,0.08329999999999999,0.3333,0.25
-2023-11-23 01:06:05.197281,96th Academy Awards - Best Picture - Best Picture,Oppenheimer,0.07619999999999999,0.4762,0.4
-2023-11-23 03:05:47.710311,To Make the Playoffs - Orlando Magic - To Make the 2023-24 Playoffs,Yes,0.06779999999999997,0.5556,0.4878
-2023-11-23 01:06:05.724972,Pacific Division - Pacific Division 2023-24 - Division Winner,Phoenix Suns,0.067,0.4444,0.3774
-2023-11-23 03:05:47.575258,To Make the Playoffs - Golden State Warriors - To Make the 2023-24 Playoffs,No,0.06149999999999997,0.2941,0.2326
-2023-11-23 03:05:48.077832,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Stanford,0.05859999999999999,0.0909,0.0323
-2023-11-23 01:06:07.255176,Boxing Lines - Joselito Velazquez vs Pablo Carrillo - To Win the Bout,Joselito Velazquez,0.057700000000000085,0.8403,0.7826
-2023-11-23 01:06:05.176631,96th Academy Awards - Best Actress - Best Actress,Fantasia Barrino - The Color Purple,0.052000000000000005,0.1429,0.0909
-2023-11-23 03:05:48.109015,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Cam Thomas (BKN),0.05170000000000001,0.0952,0.0435
-2023-11-23 03:05:47.544581,To Make the Playoffs - Dallas Mavericks - To Make the 2023-24 Playoffs,No,0.045999999999999985,0.2899,0.2439
-2023-11-23 03:05:47.629905,To Make the Playoffs - Memphis Grizzlies - To Make the 2023-24 Playoffs,No,0.04270000000000007,0.8889,0.8462
-2023-11-23 01:06:05.747496,Southwest Division - Southwest Division 2023-24 - Division Winner,Houston Rockets,0.04169999999999999,0.1667,0.125
-2023-11-23 01:06:06.029198,Joe Biden Specials - Joe Biden Approval Rating At Year End - Joe Biden Approval Rating At Year End,Over 39.5,0.04139999999999999,0.4762,0.4348
-2023-11-23 01:06:05.176631,96th Academy Awards - Best Actress - Best Actress,Emma Stone - Poor Things,0.03640000000000004,0.4,0.3636
-2023-11-23 03:05:47.661111,To Make the Playoffs - Minnesota Timberwolves - To Make the 2023-24 Playoffs,Yes,0.03180000000000005,0.8889,0.8571
-2023-11-23 03:05:48.120876,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Donovan Mitchell (CLE),0.029299999999999993,0.0769,0.0476
-2023-11-23 01:06:05.197281,96th Academy Awards - Best Picture - Best Picture,The Holdovers,0.029299999999999993,0.0769,0.0476
-2023-11-23 03:05:48.091883,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Purdue,0.02840000000000001,0.1053,0.0769
-2023-11-23 01:06:07.152438,NFL Weekly Specials - Thanksgiving Specials - Most Receiving Yards,CeeDee Lamb,0.02779999999999999,0.25,0.2222
-2023-11-23 03:05:47.860600,Euro Cup - Euro Cup 2023/24 - Outright,Gran Canaria,0.02779999999999999,0.25,0.2222
-2023-11-23 01:06:07.837180,Bare Knuckle Fighting Championship - Mike Perry vs Eddie Alvarez - To Win the Bout,Mike Perry,0.026800000000000046,0.7143,0.6875
-2023-11-23 01:06:05.667227,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning State,Florida,0.026499999999999996,0.0588,0.0323
-2023-11-23 03:05:48.120876,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Tyrese Haliburton (IND),0.024,0.0625,0.0385
-2023-11-23 01:06:07.175054,MLB Specials 2023 - Where will Shohei Ohtani Play Game 1 of the 2024 MLB Season - Proposition,Los Angeles Dodgers,0.023800000000000043,0.5238,0.5
-2023-11-23 01:06:07.905499,Joburg Open - 2/3 Balls - 1st Round 3-Balls - M. Bremner / F. Lacroix / C. Sordet - 1st Round 3 Balls,Frederic Lacroix,0.023800000000000043,0.5238,0.5
-2023-11-23 01:06:05.713561,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,0.023799999999999988,0.1667,0.1429
-2023-11-23 03:05:47.417897,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Minnesota Timberwolves,0.02239999999999999,0.1176,0.0952
-2023-11-23 03:05:47.693868,To Make the Playoffs - Oklahoma City Thunder - To Make the 2023-24 Playoffs,Yes,0.022199999999999998,0.8,0.7778
-2023-11-23 01:06:05.690766,Western Conference - Western Conference 2023-24 - Western Conference Winner,Phoenix Suns,0.022199999999999998,0.2222,0.2
-2023-11-23 01:06:07.511735,Boxing Lines - Sergey Lipinets vs Michel Rivera - To Win the Bout,Sergey Lipinets,0.02169999999999994,0.5455,0.5238
-2023-11-23 03:05:48.077832,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Notre Dame,0.019800000000000005,0.0476,0.0278
-2023-11-23 03:05:47.417897,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,New York Knicks,0.0189,0.0385,0.0196
-2023-11-23 03:05:48.091883,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Arizona,0.018800000000000004,0.0714,0.0526
-2023-11-23 03:05:47.475503,To Make the Playoffs - Atlanta Hawks - To Make the 2023-24 Playoffs,Yes,0.018399999999999972,0.7059,0.6875
-2023-11-23 01:06:05.724972,Pacific Division - Pacific Division 2023-24 - Division Winner,Golden State Warriors,0.01820000000000002,0.2,0.1818
-2023-11-23 03:05:48.109015,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Immanuel Quickley (NYK),0.01820000000000002,0.2,0.1818
-2023-11-23 01:06:05.702307,Central Division - Central Division 2023-24 - Division Winner,Milwaukee Bucks,0.017300000000000093,0.7143,0.697
-2023-11-23 03:05:47.754410,To Make the Playoffs - Sacramento Kings - To Make the 2023-24 Playoffs,Yes,0.016700000000000048,0.75,0.7333
-2023-11-23 03:05:47.585294,To Make the Playoffs - Houston Rockets - To Make the 2023-24 Playoffs,No,0.01629999999999998,0.7222,0.7059
-2023-11-23 01:06:05.186559,96th Academy Awards - Best Director - Best Director,Blitz Bazawule - The Color Purple,0.014899999999999997,0.0625,0.0476
-2023-11-23 01:06:07.500709,Boxing Lines - Pablo Vicente vs Muhammadkhuja Yaqubov - To Win the Bout,Pablo Vicente,0.014800000000000035,0.6226,0.6078
-2023-11-23 01:06:05.658881,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Division,Northwest Division,0.01469999999999999,0.25,0.2353
-2023-11-23 03:05:47.345660,Atlantic Division - Atlantic Division 2023-24 - Division Winner,Philadelphia 76ers,0.01469999999999999,0.25,0.2353
-2023-11-23 03:05:47.789496,To Make the Playoffs - Utah Jazz - To Make the 2023-24 Playoffs,No,0.014100000000000001,0.9474,0.9333
-2023-11-23 03:05:48.109015,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Bogdan Bogdanovic (ATL),0.014099999999999998,0.0385,0.0244
-2023-11-23 01:06:04.483865,Copa del Rey - Spain Copa del Rey 2023/24 - Winner,Girona,0.014099999999999998,0.0385,0.0244
-2023-11-23 01:06:05.176631,96th Academy Awards - Best Actress - Best Actress,Margot Robbie - Barbie,0.013999999999999999,0.0909,0.0769
-2023-11-23 01:06:05.702307,Central Division - Central Division 2023-24 - Division Winner,Indiana Pacers,0.013999999999999999,0.0909,0.0769
-2023-11-23 01:06:05.724972,Pacific Division - Pacific Division 2023-24 - Division Winner,L.A. Clippers,0.013899999999999996,0.125,0.1111
-2023-11-23 01:06:07.286751,Boxing Lines - Nurali Erdogan vs Yanis Mehah - To Win the Bout,Yanis Mehah,0.013799999999999923,0.6364,0.6226
-2023-11-23 01:06:07.276406,Boxing Lines - Kristina O'Hara vs Cristina Navarro - To Win the Bout,Cristina Navarro,0.012299999999999991,0.1176,0.1053
-2023-11-23 03:05:48.091883,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Texas A&M,0.011399999999999997,0.0278,0.0164
-2023-11-23 03:05:48.077832,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Colorado,0.011199999999999995,0.0435,0.0323
-2023-11-23 03:05:47.860600,Euro Cup - Euro Cup 2023/24 - Outright,JL Bourg,0.011199999999999995,0.0588,0.0476
-2023-11-23 01:06:07.361708,Boxing Lines - Kevin Lerena vs Senad Gashi - To Win the Bout,Kevin Lerena,0.011099999999999999,0.9,0.8889
-2023-11-23 03:05:47.860600,Euro Cup - Euro Cup 2023/24 - Outright,Besiktas,0.011099999999999999,0.1111,0.1
-2023-11-23 03:05:47.671354,To Make the Playoffs - New Orleans Pelicans - To Make the 2023-24 Playoffs,No,0.01100000000000001,0.5348,0.5238
-2023-11-23 03:05:47.496054,To Make the Playoffs - Brooklyn Nets - To Make the 2023-24 Playoffs,No,0.010700000000000043,0.6774,0.6667
-2023-11-23 01:06:07.569259,Boxing Lines - David Benavidez vs Demetrius Andrade - To Win the Bout,David Benavidez,0.010500000000000065,0.8182,0.8077
-2023-11-23 03:05:47.640513,To Make the Playoffs - Miami Heat - To Make the 2023-24 Playoffs,No,0.010299999999999976,0.2667,0.2564
-2023-11-23 01:06:05.690766,Western Conference - Western Conference 2023-24 - Western Conference Winner,L.A. Clippers,0.0102,0.0769,0.0667
-2023-11-23 01:06:07.384125,Boxing Lines - Etinosa Oliha vs Faton Vukshinaj - To Win the Bout,Faton Vukshinaj,0.010099999999999998,0.3226,0.3125
-2023-11-23 03:05:47.765094,To Make the Playoffs - San Antonio Spurs - To Make the 2023-24 Playoffs,Yes,-0.0102,0.0667,0.0769
-2023-11-23 01:06:05.667227,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning State,California,-0.010499999999999982,0.2,0.2105
-2023-11-23 03:05:47.417897,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,New Orleans Pelicans,-0.010600000000000002,0.0294,0.04
-2023-11-23 03:05:47.671354,To Make the Playoffs - New Orleans Pelicans - To Make the 2023-24 Playoffs,Yes,-0.010699999999999932,0.5348,0.5455
-2023-11-23 03:05:48.120876,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Devin Booker (PHX),-0.010700000000000001,0.0278,0.0385
-2023-11-23 03:05:47.463976,West Group C - West Group C 2023 - Winner,Golden State Warriors,-0.011099999999999999,0.1,0.1111
-2023-11-23 03:05:48.077832,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Tennessee,-0.011199999999999995,0.0323,0.0435
-2023-11-23 03:05:47.565311,To Make the Playoffs - Detroit Pistons - To Make the 2023-24 Playoffs,Yes,-0.011199999999999995,0.0476,0.0588
-2023-11-23 03:05:47.640513,To Make the Playoffs - Miami Heat - To Make the 2023-24 Playoffs,Yes,-0.011299999999999977,0.8,0.8113
-2023-11-23 01:06:05.658881,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Division,Central Division,-0.011700000000000016,0.2105,0.2222
-2023-11-23 01:06:05.724972,Pacific Division - Pacific Division 2023-24 - Division Winner,Sacramento Kings,-0.011700000000000016,0.2105,0.2222
-2023-11-23 03:05:47.789496,To Make the Playoffs - Utah Jazz - To Make the 2023-24 Playoffs,Yes,-0.0121,0.1212,0.1333
-2023-11-23 01:06:07.905499,Joburg Open - 2/3 Balls - 1st Round 3-Balls - M. Bremner / F. Lacroix / C. Sordet - 1st Round 3 Balls,Clement Sordet,-0.012299999999999978,0.3448,0.3571
-2023-11-23 03:05:48.120876,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Stephen Curry (GSW),-0.012399999999999994,0.0645,0.0769
-2023-11-23 01:06:05.736455,Southeast Division - Southeast Division 2023-24 - Division Winner,Atlanta Hawks,-0.012699999999999989,0.3509,0.3636
-2023-11-23 03:05:48.120876,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Jimmy Butler (MIA),-0.012700000000000003,0.0196,0.0323
-2023-11-23 01:06:05.166848,96th Academy Awards - Best Actor - Best Actor,Timothée Chalamet - Dune: Part Two,-0.012700000000000003,0.0196,0.0323
-2023-11-23 01:06:05.679557,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Philadelphia 76ers,-0.012899999999999995,0.1538,0.1667
-2023-11-23 03:05:47.799762,To Make the Playoffs - Washington Wizards - To Make the 2023-24 Playoffs,Yes,-0.0131,0.0345,0.0476
-2023-11-23 01:06:07.905499,Joburg Open - 2/3 Balls - 1st Round 3-Balls - M. Bremner / F. Lacroix / C. Sordet - 1st Round 3 Balls,Merrick Bremner,-0.0131,0.2222,0.2353
-2023-11-23 03:05:48.120876,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Damian Lillard (MIL),-0.0131,0.2222,0.2353
-2023-11-23 03:05:47.475503,To Make the Playoffs - Atlanta Hawks - To Make the 2023-24 Playoffs,No,-0.013800000000000034,0.3636,0.3774
-2023-11-23 03:05:48.077832,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Utah,-0.013999999999999999,0.0769,0.0909
-2023-11-23 03:05:48.120876,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Domantas Sabonis (SAC),-0.0145,0.0099,0.0244
-2023-11-23 01:06:05.166848,96th Academy Awards - Best Actor - Best Actor,Kingsley Ben-Adir - Bob Marley: One Love,-0.014899999999999997,0.0476,0.0625
-2023-11-23 03:05:48.077832,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Indiana,-0.014899999999999997,0.0476,0.0625
-2023-11-23 01:06:05.186559,96th Academy Awards - Best Director - Best Director,Emerald Fennell - Saltburn,-0.014899999999999997,0.0476,0.0625
-2023-11-23 01:06:05.186559,96th Academy Awards - Best Director - Best Director,Alexander Payne - The Holdovers,-0.014899999999999997,0.0476,0.0625
-2023-11-23 01:06:05.186559,96th Academy Awards - Best Director - Best Director,Yorgos Lanthimos - Poor Things,-0.015100000000000002,0.1667,0.1818
-2023-11-23 01:06:05.197281,96th Academy Awards - Best Picture - Best Picture,Dune: Part Two,-0.015300000000000001,0.0323,0.0476
-2023-11-23 03:05:47.417897,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Miami Heat,-0.015300000000000001,0.0435,0.0588
-2023-11-23 01:06:05.186559,96th Academy Awards - Best Director - Best Director,Christopher Nolan - Oppenheimer,-0.01539999999999997,0.6,0.6154
-2023-11-23 01:06:05.197281,96th Academy Awards - Best Picture - Best Picture,Air,-0.0159,0.0164,0.0323
-2023-11-23 03:05:48.120876,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Giannis Antetokounmpo (MIL),-0.0162,0.0116,0.0278
-2023-11-23 01:06:05.713561,Northwest Division - Northwest Division 2023-24 - Division Winner,Minnesota Timberwolves,-0.017299999999999982,0.2857,0.303
-2023-11-23 03:05:47.428993,East Group B - East Group B 2023 - Winner,New York Knicks,-0.01759999999999999,0.1,0.1176
-2023-11-23 03:05:48.120876,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Victor Wembanyama (SAS),-0.017800000000000003,0.0066,0.0244
-2023-11-23 01:06:05.747496,Southwest Division - Southwest Division 2023-24 - Division Winner,Memphis Grizzlies,-0.018099999999999998,0.0345,0.0526
-2023-11-23 03:05:47.585294,To Make the Playoffs - Houston Rockets - To Make the 2023-24 Playoffs,Yes,-0.018799999999999983,0.3448,0.3636
-2023-11-23 03:05:48.077832,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Maryland,-0.0189,0.0196,0.0385
-2023-11-23 01:06:07.286751,Boxing Lines - Nurali Erdogan vs Yanis Mehah - To Win the Bout,Nurali Erdogan,-0.018900000000000028,0.4255,0.4444
-2023-11-23 01:06:07.837180,Bare Knuckle Fighting Championship - Mike Perry vs Eddie Alvarez - To Win the Bout,Eddie Alvarez,-0.019500000000000017,0.3509,0.3704
-2023-11-23 01:06:05.186559,96th Academy Awards - Best Director - Best Director,Celine Song - Past Lives,-0.02020000000000001,0.0909,0.1111
-2023-11-23 03:05:48.091883,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Alabama,-0.0203,0.0323,0.0526
-2023-11-23 03:05:47.417897,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Los Angeles Lakers,-0.02049999999999999,0.1333,0.1538
-2023-11-23 03:05:47.754410,To Make the Playoffs - Sacramento Kings - To Make the 2023-24 Playoffs,No,-0.020799999999999985,0.3125,0.3333
-2023-11-23 01:06:07.511735,Boxing Lines - Sergey Lipinets vs Michel Rivera - To Win the Bout,Michel Rivera,-0.02169999999999994,0.5238,0.5455
-2023-11-23 03:05:47.693868,To Make the Playoffs - Oklahoma City Thunder - To Make the 2023-24 Playoffs,No,-0.0232,0.2667,0.2899
-2023-11-23 01:06:05.658881,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Division,Pacific Division,-0.02560000000000001,0.3077,0.3333
-2023-11-23 03:05:47.860600,Euro Cup - Euro Cup 2023/24 - Outright,Paris,-0.02779999999999999,0.2222,0.25
-2023-11-23 01:06:06.029198,Joe Biden Specials - Joe Biden Approval Rating At Year End - Joe Biden Approval Rating At Year End,39.5 or under,-0.02960000000000007,0.6,0.6296
-2023-11-23 03:05:47.417897,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Atlanta Hawks,-0.0303,0.002,0.0323
-2023-11-23 01:06:05.713561,Northwest Division - Northwest Division 2023-24 - Division Winner,Denver Nuggets,-0.03180000000000005,0.6825,0.7143
-2023-11-23 03:05:47.661111,To Make the Playoffs - Minnesota Timberwolves - To Make the 2023-24 Playoffs,No,-0.031899999999999984,0.1786,0.2105
-2023-11-23 03:05:48.077832,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,LSU,-0.033300000000000024,0.1667,0.2
-2023-11-23 01:06:05.166848,96th Academy Awards - Best Actor - Best Actor,Colman Domingo - Rustin,-0.033300000000000024,0.1667,0.2
-2023-11-23 01:06:05.166848,96th Academy Awards - Best Actor - Best Actor,Leonardo DiCaprio - Killers of the Flower Moon,-0.03409999999999999,0.2326,0.2667
-2023-11-23 03:05:47.417897,NBA In-Season Tournament Cup - In-Season Tournament Champion 2023 - Tournament Champion,Philadelphia 76ers,-0.034999999999999996,0.002,0.037
-2023-11-23 03:05:48.120876,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Luka Doncic (DAL),-0.0363,0.069,0.1053
-2023-11-23 03:05:47.544581,To Make the Playoffs - Dallas Mavericks - To Make the 2023-24 Playoffs,Yes,-0.04359999999999997,0.7778,0.8214
-2023-11-23 03:05:47.629905,To Make the Playoffs - Memphis Grizzlies - To Make the 2023-24 Playoffs,Yes,-0.0436,0.1786,0.2222
-2023-11-23 03:05:48.077832,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Connecticut,-0.04620000000000002,0.1538,0.2
-2023-11-23 01:06:05.724972,Pacific Division - Pacific Division 2023-24 - Division Winner,Los Angeles Lakers,-0.04620000000000002,0.1538,0.2
-2023-11-23 01:06:05.186559,96th Academy Awards - Best Director - Best Director,Martin Scorsese - Killers of the Flower Moon,-0.047599999999999976,0.2857,0.3333
-2023-11-23 01:06:05.197281,96th Academy Awards - Best Picture - Best Picture,Killers Of The Flower Moon,-0.04999999999999999,0.2,0.25
-2023-11-23 03:05:47.463976,West Group C - West Group C 2023 - Winner,Minnesota Timberwolves,-0.053099999999999925,0.7143,0.7674
-2023-11-23 01:06:07.255176,Boxing Lines - Joselito Velazquez vs Pablo Carrillo - To Win the Bout,Pablo Carrillo,-0.054400000000000004,0.2273,0.2817
-2023-11-23 01:06:05.176631,96th Academy Awards - Best Actress - Best Actress,Lily Gladstone - Killers Of The Flower Moon,-0.05559999999999998,0.4444,0.5
-2023-11-23 03:05:47.575258,To Make the Playoffs - Golden State Warriors - To Make the 2023-24 Playoffs,Yes,-0.06059999999999999,0.7727,0.8333
-2023-11-23 03:05:47.710311,To Make the Playoffs - Orlando Magic - To Make the 2023-24 Playoffs,No,-0.06220000000000003,0.5122,0.5744
-2023-11-23 03:05:47.428993,East Group B - East Group B 2023 - Winner,Miami Heat,-0.07490000000000002,0.3333,0.4082
-2023-11-23 03:05:47.439719,East Group C - East Group C 2023 - Winner,Brooklyn Nets,-0.0769,0.0769,0.1538
-2023-11-23 03:05:47.452152,West Group B - West Group B 2023 - Winner,Houston Rockets,-0.1129,0.1538,0.2667
-2023-11-23 01:06:07.738718,Boxing Lines - Chris Colbert vs Jose Valenzuela - To Win the Bout,Chris Colbert,-0.12379999999999997,0.4762,0.6
-2023-11-23 03:05:47.452152,West Group B - West Group B 2023 - Winner,Denver Nuggets,-0.15449999999999997,0.5122,0.6667
-2023-11-23 03:05:47.345660,Atlantic Division - Atlantic Division 2023-24 - Division Winner,New York Knicks,-0.274,0.0385,0.3125
+2023-11-24 11:50:16.360487,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Kirsten Rudgeley,0.1306,0.1429,0.0123
+2023-11-24 11:50:16.360487,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Linn Grant,0.0993,0.2326,0.1333
+2023-11-24 11:50:14.578442,Boxing Lines - Arajik Marutjan vs Uisma Lima - To Win the Bout,Uisma Lima,0.08340000000000003,0.4167,0.3333
+2023-11-24 11:50:09.798992,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Flamengo,0.07930000000000001,0.2222,0.1429
+2023-11-24 11:50:13.647940,NFC West - NFC West 2023/24 - NFC West Winner,San Francisco 49ers,0.07219999999999993,0.9722,0.9
+2023-11-24 11:50:16.360487,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Ana Pelaez Trivino,0.0692,0.0909,0.0217
+2023-11-24 11:50:16.360487,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Aditi Ashok,0.0668,0.1053,0.0385
+2023-11-24 11:50:13.611602,NFC North - NFC North 2023/24 - NFC North Winner,Minnesota Vikings,0.0642,0.1818,0.1176
+2023-11-24 11:50:16.360487,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Lee-Anne Pace,0.0524,0.1,0.0476
+2023-11-24 11:50:14.546096,Boxing Lines - Juan Felix Gomez vs Salvador Jimenez - To Win the Bout,Salvador Jimenez,0.04820000000000002,0.6226,0.5744
+2023-11-24 11:50:09.798992,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Palmeiras,0.045499999999999985,0.5455,0.5
+2023-11-24 11:50:11.724424,To Make the Playoffs - Atlanta Hawks - To Make the 2023-24 Playoffs,No,0.03640000000000004,0.4,0.3636
+2023-11-24 11:50:16.360487,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Madelene Stavnar,0.0335,0.0385,0.005
+2023-11-24 11:50:16.360487,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Andrea Revuelta,0.0312,0.0435,0.0123
+2023-11-24 11:50:16.360487,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Anne-Lise Caudal,0.030500000000000003,0.0345,0.004
+2023-11-24 11:50:13.593036,NFC East - NFC East 2023/24 - NFC East Winner,Dallas Cowboys,0.028700000000000003,0.2105,0.1818
+2023-11-24 11:50:14.497104,Boxing Lines - Joselito Velazquez vs Pablo Carrillo - To Win the Bout,Joselito Velazquez,0.02639999999999998,0.8667,0.8403
+2023-11-24 11:50:13.515526,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Philadelphia Eagles,0.02560000000000001,0.3333,0.3077
+2023-11-24 11:50:12.478074,WNBL - Australia WNBL 2023/24 - Outright,Townsville Fire (W),0.021999999999999964,0.3077,0.2857
+2023-11-24 11:50:13.611602,NFC North - NFC North 2023/24 - NFC North Winner,Green Bay Packers,0.021799999999999996,0.0435,0.0217
+2023-11-24 11:50:14.799223,Boxing Lines - Pablo Vicente vs Muhammadkhuja Yaqubov - To Win the Bout,Muhammadkhuja Yaqubov,0.020699999999999996,0.4651,0.4444
+2023-11-24 11:50:13.515526,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Dallas Cowboys,0.01820000000000002,0.2,0.1818
+2023-11-24 11:50:13.466645,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Philadelphia Eagles,0.01820000000000002,0.2,0.1818
+2023-11-24 11:50:14.479197,Boxing Lines - Mark Chamberlain vs Artjoms Ramlavs - To Win the Bout,Mark Chamberlain,0.017900000000000027,0.875,0.8571
+2023-11-24 11:50:10.639409,UEFA Euro 2024 Futures - UEFA Euro 2024 - Outright Winner,Germany,0.0179,0.1429,0.125
+2023-11-24 11:50:12.478074,WNBL - Australia WNBL 2023/24 - Outright,Southside Flyers (W),0.015100000000000002,0.1818,0.1667
+2023-11-24 11:50:10.639409,UEFA Euro 2024 Futures - UEFA Euro 2024 - Outright Winner,Spain,0.013899999999999996,0.125,0.1111
+2023-11-24 11:50:16.297918,Hero World Challenge - Hero World Challenge - Winner,Cameron Young,0.011199999999999995,0.0588,0.0476
+2023-11-24 11:50:14.821267,Boxing Lines - Sergey Lipinets vs Michel Rivera - To Win the Bout,Sergey Lipinets,0.010099999999999998,0.5556,0.5455
+2023-11-24 11:50:14.514095,Boxing Lines - Etinosa Oliha vs Faton Vukshinaj - To Win the Bout,Faton Vukshinaj,-0.010099999999999998,0.3125,0.3226
+2023-11-24 11:50:13.575159,AFC West - AFC West 2023/24 - AFC West Winner,Kansas City Chiefs,-0.012300000000000089,0.9681,0.9804
+2023-11-24 11:50:14.777522,Boxing Lines - Daniel Blancas vs Raiko Santana - To Win the Bout,Daniel Blancas,-0.012700000000000045,0.6364,0.6491
+2023-11-24 11:50:14.647873,Boxing Lines - Gary Cully vs Reece Mould - To Win the Bout,Reece Mould,-0.012899999999999995,0.1538,0.1667
+2023-11-24 11:50:12.478074,WNBL - Australia WNBL 2023/24 - Outright,Perth Lynx (W),-0.012899999999999995,0.1538,0.1667
+2023-11-24 11:50:16.297918,Hero World Challenge - Hero World Challenge - Winner,Collin Morikawa,-0.013899999999999996,0.1111,0.125
+2023-11-24 11:50:14.444635,Boxing Lines - Liam Williams vs Florin Cardos - To Win the Bout,Florin Cardos,-0.013999999999999999,0.0769,0.0909
+2023-11-24 11:50:12.478074,WNBL - Australia WNBL 2023/24 - Outright,Adelaide Lightning (W),-0.013999999999999999,0.0769,0.0909
+2023-11-24 11:50:16.360487,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Diksha Dagar,-0.0145,0.0099,0.0244
+2023-11-24 11:50:16.360487,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Carlota Ciganda,-0.015700000000000006,0.1176,0.1333
+2023-11-24 11:50:14.479197,Boxing Lines - Mark Chamberlain vs Artjoms Ramlavs - To Win the Bout,Artjoms Ramlavs,-0.01780000000000001,0.1905,0.2083
+2023-11-24 11:50:16.360487,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Caroline Hedwall,-0.0182,0.0141,0.0323
+2023-11-24 11:50:14.821267,Boxing Lines - Sergey Lipinets vs Michel Rivera - To Win the Bout,Michel Rivera,-0.018299999999999983,0.5122,0.5305
+2023-11-24 11:50:16.360487,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Julia Lopez Ramirez,-0.020000000000000004,0.0123,0.0323
+2023-11-24 11:50:14.799223,Boxing Lines - Pablo Vicente vs Muhammadkhuja Yaqubov - To Win the Bout,Pablo Vicente,-0.022600000000000064,0.6,0.6226
+2023-11-24 11:50:12.459210,Super Ligi - Turkey BSL 2023/24 - Outright,Türk Telekom,-0.023200000000000002,0.0294,0.0526
+2023-11-24 11:50:16.297918,Hero World Challenge - Hero World Challenge - Winner,Scottie Scheffler,-0.023799999999999988,0.1429,0.1667
+2023-11-24 11:50:13.466645,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Detroit Lions,-0.0242,0.0667,0.0909
+2023-11-24 11:50:09.798992,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Grêmio,-0.024999999999999994,0.1,0.125
+2023-11-24 11:50:14.497104,Boxing Lines - Joselito Velazquez vs Pablo Carrillo - To Win the Bout,Pablo Carrillo,-0.02729999999999999,0.2,0.2273
+2023-11-24 11:50:13.593036,NFC East - NFC East 2023/24 - NFC East Winner,Philadelphia Eagles,-0.027799999999999936,0.8889,0.9167
+2023-11-24 11:50:09.798992,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Botafogo,-0.033300000000000024,0.1667,0.2
+2023-11-24 11:50:16.360487,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Celine Boutier,-0.033300000000000024,0.1667,0.2
+2023-11-24 11:50:13.515526,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Detroit Lions,-0.03889999999999999,0.1429,0.1818
+2023-11-24 11:50:11.724424,To Make the Playoffs - Atlanta Hawks - To Make the 2023-24 Playoffs,Yes,-0.03920000000000001,0.6667,0.7059
+2023-11-24 11:50:14.546096,Boxing Lines - Juan Felix Gomez vs Salvador Jimenez - To Win the Bout,Juan Felix Gomez,-0.043399999999999994,0.4444,0.4878
+2023-11-24 11:50:13.647940,NFC West - NFC West 2023/24 - NFC West Winner,Seattle Seahawks,-0.05559999999999998,0.1111,0.1667
+2023-11-24 11:50:09.798992,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,RB Bragantino,-0.06669999999999998,0.1,0.1667
+2023-11-24 11:50:14.578442,Boxing Lines - Arajik Marutjan vs Uisma Lima - To Win the Bout,Arajik Marutjan,-0.08419999999999994,0.6491,0.7333
+2023-11-24 11:50:13.611602,NFC North - NFC North 2023/24 - NFC North Winner,Detroit Lions,-0.0857,0.8824,0.9681
