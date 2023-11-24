@@ -17,6 +17,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-24 11:50:13.593036,NFC East - NFC East 2023/24 - NFC East Winner,Dallas Cowboys,0.028700000000000003,0.2105,0.1818
 2023-11-24 11:50:14.497104,Boxing Lines - Joselito Velazquez vs Pablo Carrillo - To Win the Bout,Joselito Velazquez,0.02639999999999998,0.8667,0.8403
 2023-11-24 11:50:13.515526,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Philadelphia Eagles,0.02560000000000001,0.3333,0.3077
+2023-11-24 15:07:55.579410,Joburg Open - 2/3 Balls - 3rd Round 2-Balls - F. Laporta vs G. Green - 3rd Round 2-Balls,Francesco Laporta,0.022699999999999998,0.4878,0.4651
 2023-11-24 11:50:12.478074,WNBL - Australia WNBL 2023/24 - Outright,Townsville Fire (W),0.021999999999999964,0.3077,0.2857
 2023-11-24 11:50:13.611602,NFC North - NFC North 2023/24 - NFC North Winner,Green Bay Packers,0.021799999999999996,0.0435,0.0217
 2023-11-24 11:50:14.799223,Boxing Lines - Pablo Vicente vs Muhammadkhuja Yaqubov - To Win the Bout,Muhammadkhuja Yaqubov,0.020699999999999996,0.4651,0.4444
@@ -38,6 +39,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-24 11:50:12.478074,WNBL - Australia WNBL 2023/24 - Outright,Adelaide Lightning (W),-0.013999999999999999,0.0769,0.0909
 2023-11-24 11:50:16.360487,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Diksha Dagar,-0.0145,0.0099,0.0244
 2023-11-24 11:50:16.360487,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Carlota Ciganda,-0.015700000000000006,0.1176,0.1333
+2023-11-24 15:07:54.684583,Elite Boxing - Jermall Charlo vs Jose Benavidez - To Win the Bout,Jermall Charlo,-0.01760000000000006,0.8824,0.9
 2023-11-24 11:50:14.479197,Boxing Lines - Mark Chamberlain vs Artjoms Ramlavs - To Win the Bout,Artjoms Ramlavs,-0.01780000000000001,0.1905,0.2083
 2023-11-24 11:50:16.360487,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Caroline Hedwall,-0.0182,0.0141,0.0323
 2023-11-24 11:50:14.821267,Boxing Lines - Sergey Lipinets vs Michel Rivera - To Win the Bout,Michel Rivera,-0.018299999999999983,0.5122,0.5305
@@ -46,11 +48,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-24 11:50:12.459210,Super Ligi - Turkey BSL 2023/24 - Outright,Türk Telekom,-0.023200000000000002,0.0294,0.0526
 2023-11-24 11:50:16.297918,Hero World Challenge - Hero World Challenge - Winner,Scottie Scheffler,-0.023799999999999988,0.1429,0.1667
 2023-11-24 11:50:13.466645,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Detroit Lions,-0.0242,0.0667,0.0909
+2023-11-24 15:07:55.579410,Joburg Open - 2/3 Balls - 3rd Round 2-Balls - F. Laporta vs G. Green - 3rd Round 2-Balls,Gavin Green,-0.024399999999999977,0.4878,0.5122
 2023-11-24 11:50:09.798992,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Grêmio,-0.024999999999999994,0.1,0.125
 2023-11-24 11:50:14.497104,Boxing Lines - Joselito Velazquez vs Pablo Carrillo - To Win the Bout,Pablo Carrillo,-0.02729999999999999,0.2,0.2273
 2023-11-24 11:50:13.593036,NFC East - NFC East 2023/24 - NFC East Winner,Philadelphia Eagles,-0.027799999999999936,0.8889,0.9167
-2023-11-24 11:50:09.798992,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Botafogo,-0.033300000000000024,0.1667,0.2
 2023-11-24 11:50:16.360487,Andalucia Open De Espana - Andalucia Open De Espana - Winner,Celine Boutier,-0.033300000000000024,0.1667,0.2
+2023-11-24 11:50:09.798992,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Botafogo,-0.033300000000000024,0.1667,0.2
 2023-11-24 11:50:13.515526,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Detroit Lions,-0.03889999999999999,0.1429,0.1818
 2023-11-24 11:50:11.724424,To Make the Playoffs - Atlanta Hawks - To Make the 2023-24 Playoffs,Yes,-0.03920000000000001,0.6667,0.7059
 2023-11-24 11:50:14.546096,Boxing Lines - Juan Felix Gomez vs Salvador Jimenez - To Win the Bout,Juan Felix Gomez,-0.043399999999999994,0.4444,0.4878
