@@ -37,11 +37,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-26 03:03:44.874915,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Elversberg,0.023899999999999998,0.0435,0.0196
 2023-11-26 05:03:37.538354,A-League - Australia A-League 2023/24 - Top 6 Finish,Wellington Phoenix,0.023800000000000043,0.5238,0.5
 2023-11-26 03:03:45.648718,Southeast Division - Southeast Division 2023-24 - Division Winner,Atlanta Hawks,0.023799999999999988,0.3571,0.3333
+2023-11-26 05:03:37.532803,A-League - Australia A-League 2023/24 - To Finish Bottom,Perth Glory,0.022199999999999998,0.2222,0.2
+2023-11-26 05:03:37.538354,A-League - Australia A-League 2023/24 - Top 6 Finish,Western Sydney Wanderers,0.022199999999999998,0.8,0.7778
+2023-11-26 05:03:37.544623,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Western Sydney Wanderers,0.022199999999999998,0.2222,0.2
 2023-11-25 23:05:56.268854,UEFA Europa Conference League - Europa Conference League 2023/24 - Winner,Aston Villa,0.022199999999999998,0.2222,0.2
 2023-11-26 05:03:37.808356,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Aston Villa,0.022199999999999998,0.2222,0.2
-2023-11-26 05:03:37.544623,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Western Sydney Wanderers,0.022199999999999998,0.2222,0.2
-2023-11-26 05:03:37.538354,A-League - Australia A-League 2023/24 - Top 6 Finish,Western Sydney Wanderers,0.022199999999999998,0.8,0.7778
-2023-11-26 05:03:37.532803,A-League - Australia A-League 2023/24 - To Finish Bottom,Perth Glory,0.022199999999999998,0.2222,0.2
 2023-11-26 05:03:37.538354,A-League - Australia A-League 2023/24 - Top 6 Finish,Adelaide United,0.02200000000000002,0.7143,0.6923
 2023-11-26 05:03:37.538354,A-League - Australia A-League 2023/24 - Top 6 Finish,Macarthur FC,0.021699999999999997,0.4762,0.4545
 2023-11-26 07:03:58.911692,Boxing Lines - Caoimhin Agyarko vs Troy Williamson - To Win the Bout,Troy Williamson,0.02169999999999994,0.5455,0.5238
@@ -58,20 +58,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-26 05:03:37.802053,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Crystal Palace,0.014100000000000001,0.0526,0.0385
 2023-11-25 23:05:58.674537,NFL Weekly Specials - Week 12 Leaders - Highest Scoring Team [Sunday Only],Buffalo Bills,0.013999999999999999,0.0909,0.0769
 2023-11-26 05:03:37.544623,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Brisbane Roar,0.013999999999999999,0.0909,0.0769
-2023-11-26 05:03:37.802053,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Nottingham Forest,0.013899999999999996,0.125,0.1111
 2023-11-26 05:03:37.808356,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Brighton & Hove Albion,0.013899999999999996,0.125,0.1111
-2023-11-26 03:03:45.629610,Pacific Division - Pacific Division 2023-24 - Division Winner,Los Angeles Lakers,0.012899999999999995,0.1667,0.1538
-2023-11-26 03:03:46.132352,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,0.012899999999999995,0.1667,0.1538
+2023-11-26 05:03:37.802053,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Nottingham Forest,0.013899999999999996,0.125,0.1111
 2023-11-26 03:03:46.132352,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Ime Udoka,0.012899999999999995,0.1667,0.1538
 2023-11-26 03:03:45.546678,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Philadelphia 76ers,0.012899999999999995,0.1667,0.1538
+2023-11-26 03:03:46.132352,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,0.012899999999999995,0.1667,0.1538
+2023-11-26 03:03:45.629610,Pacific Division - Pacific Division 2023-24 - Division Winner,Los Angeles Lakers,0.012899999999999995,0.1667,0.1538
 2023-11-26 03:03:44.607907,MLS - MLS 2023 - Winner,Sporting Kansas City,0.011199999999999995,0.0588,0.0476
 2023-11-26 03:03:45.557378,Western Conference - Western Conference 2023-24 - Western Conference Winner,Los Angeles Lakers,0.011099999999999999,0.1111,0.1
 2023-11-26 05:03:37.527296,A-League - Australia A-League 2023/24 - Grand Final Winner,Wellington Phoenix,0.0102,0.0769,0.0667
 2023-11-26 03:03:44.956611,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Ross County,0.010199999999999987,0.9333,0.9231
 2023-11-26 05:03:37.538354,A-League - Australia A-League 2023/24 - Top 6 Finish,Brisbane Roar,0.010099999999999998,0.4545,0.4444
-2023-11-26 05:03:37.532803,A-League - Australia A-League 2023/24 - To Finish Bottom,Macarthur FC,-0.0102,0.0667,0.0769
 2023-11-26 03:03:45.557378,Western Conference - Western Conference 2023-24 - Western Conference Winner,Dallas Mavericks,-0.0102,0.0667,0.0769
 2023-11-26 03:03:44.568989,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Athletic Bilbao,-0.0102,0.0667,0.0769
+2023-11-26 05:03:37.532803,A-League - Australia A-League 2023/24 - To Finish Bottom,Macarthur FC,-0.0102,0.0667,0.0769
 2023-11-26 03:03:44.874915,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Hamburger SV,-0.010699999999999987,0.3226,0.3333
 2023-11-26 05:03:37.532803,A-League - Australia A-League 2023/24 - To Finish Bottom,Central Coast Mariners,-0.010899999999999993,0.1429,0.1538
 2023-11-26 05:03:37.527296,A-League - Australia A-League 2023/24 - Grand Final Winner,Sydney FC,-0.011099999999999999,0.1,0.1111
@@ -92,8 +92,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-26 05:03:37.538354,A-League - Australia A-League 2023/24 - Top 6 Finish,Sydney FC,-0.01880000000000004,0.5556,0.5744
 2023-11-26 05:03:37.808356,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Tottenham Hotspur,-0.018900000000000028,0.4255,0.4444
 2023-11-26 05:03:37.538354,A-League - Australia A-League 2023/24 - Top 6 Finish,Newcastle United Jets,-0.019000000000000017,0.2667,0.2857
-2023-11-25 21:06:13.059738,Championship - England Championship 2023/24 - League Winner,Southampton,-0.019099999999999992,0.0476,0.0667
 2023-11-26 03:03:44.551505,La Liga - Spain La Liga 2023/24 - To Be Relegated,Getafe,-0.019099999999999992,0.0476,0.0667
+2023-11-25 21:06:13.059738,Championship - England Championship 2023/24 - League Winner,Southampton,-0.019099999999999992,0.0476,0.0667
 2023-11-26 03:03:44.938043,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Motherwell,-0.019699999999999995,0.1053,0.125
 2023-11-26 07:03:58.911692,Boxing Lines - Caoimhin Agyarko vs Troy Williamson - To Win the Bout,Caoimhin Agyarko,-0.02169999999999994,0.5238,0.5455
 2023-11-26 05:03:37.527296,A-League - Australia A-League 2023/24 - Grand Final Winner,Melbourne City,-0.022199999999999998,0.2,0.2222
@@ -104,15 +104,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-26 03:03:45.648718,Southeast Division - Southeast Division 2023-24 - Division Winner,Miami Heat,-0.023799999999999988,0.4762,0.5
 2023-11-26 03:03:46.115425,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Russell Westbrook (LAC),-0.0242,0.0667,0.0909
 2023-11-26 03:03:46.132352,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Rick Carlisle,-0.0242,0.0667,0.0909
-2023-11-25 19:05:37.978462,Elite Boxing - David Benavidez vs Demetrius Andrade - To Win the Bout,Demetrius Andrade,-0.024399999999999977,0.2353,0.2597
 2023-11-26 05:03:37.538354,A-League - Australia A-League 2023/24 - Top 6 Finish,Western United,-0.02560000000000001,0.3077,0.3333
 2023-11-26 03:03:45.557378,Western Conference - Western Conference 2023-24 - Western Conference Winner,Phoenix Suns,-0.02779999999999999,0.2222,0.25
 2023-11-26 05:03:37.538354,A-League - Australia A-League 2023/24 - Top 6 Finish,Perth Glory,-0.030299999999999994,0.3333,0.3636
 2023-11-26 05:03:37.802053,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Wolverhampton Wanderers,-0.0321,0.0588,0.0909
 2023-11-26 03:03:46.124125,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,DeMar DeRozan (CHI),-0.03219999999999999,0.0345,0.0667
 2023-11-26 03:03:44.620468,MLS - MLS 2023 - Western Conference Winner,Seattle Sounders,-0.03710000000000002,0.3333,0.3704
-2023-11-25 21:06:13.212096,League One - England - League One 2023/24 - League Winner,Oxford United,-0.04040000000000002,0.1818,0.2222
 2023-11-25 21:06:13.059738,Championship - England Championship 2023/24 - League Winner,Ipswich Town,-0.04040000000000002,0.1818,0.2222
+2023-11-25 21:06:13.212096,League One - England - League One 2023/24 - League Winner,Oxford United,-0.04040000000000002,0.1818,0.2222
 2023-11-25 23:05:56.362537,League Two - England - League Two 2023/24 - League Winner,Mansfield Town,-0.04099999999999998,0.2667,0.3077
 2023-11-25 23:05:56.399310,National League - England National League 2023/24 - Outright,Barnet,-0.04240000000000001,0.0909,0.1333
 2023-11-25 23:05:56.362537,League Two - England - League Two 2023/24 - League Winner,Stockport County,-0.04760000000000003,0.4762,0.5238
