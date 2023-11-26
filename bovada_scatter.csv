@@ -1,49 +1,109 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2023-11-26 03:03:44.614958,MLS - MLS 2023 - Eastern Conference Winner,FC Cincinnati,0.21219999999999994,0.6667,0.4545
+2023-11-26 03:03:44.956611,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Aberdeen,0.16670000000000001,0.5,0.3333
+2023-11-26 03:03:44.614958,MLS - MLS 2023 - Eastern Conference Winner,Columbus Crew,0.15610000000000002,0.4,0.2439
+2023-11-26 03:03:44.938043,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Livingston,0.13330000000000003,0.4,0.2667
+2023-11-26 03:03:44.947891,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Kilmarnock,0.12,0.5455,0.4255
+2023-11-26 03:03:44.607907,MLS - MLS 2023 - Winner,FC Cincinnati,0.11780000000000002,0.4255,0.3077
+2023-11-26 03:03:44.947891,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Dundee FC,0.11430000000000001,0.4,0.2857
+2023-11-26 03:03:44.947891,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,St. Mirren,0.11360000000000003,0.75,0.6364
+2023-11-26 03:03:46.115425,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Austin Reaves (LAL),0.10460000000000001,0.2222,0.1176
+2023-11-26 03:03:44.956611,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Motherwell,0.10000000000000009,0.8333,0.7333
+2023-11-26 03:03:44.607907,MLS - MLS 2023 - Winner,Columbus Crew,0.0993,0.2326,0.1333
+2023-11-26 03:03:44.938043,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,St. Johnstone,0.09689999999999999,0.3636,0.2667
+2023-11-26 03:03:44.924919,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,St. Mirren,0.0889,0.2222,0.1333
+2023-11-26 03:03:44.956611,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Livingston,0.07130000000000003,0.9804,0.9091
+2023-11-26 03:03:44.947891,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Hearts,0.06669999999999998,0.9,0.8333
+2023-11-26 03:03:44.874915,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,St. Pauli,0.06519999999999998,0.3509,0.2857
 2023-11-25 21:06:13.212096,League One - England - League One 2023/24 - League Winner,Bolton Wanderers,0.0635,0.2857,0.2222
 2023-11-25 23:05:56.388629,Premiership - Scotland Premiership 2023/24 - Winner,Rangers,0.0635,0.2857,0.2222
 2023-11-25 23:05:56.362537,League Two - England - League Two 2023/24 - League Winner,Wrexham,0.05350000000000002,0.2353,0.1818
 2023-11-25 23:05:56.399310,National League - England National League 2023/24 - Outright,Chesterfield,0.05230000000000001,0.9412,0.8889
-2023-11-25 13:05:55.268744,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Arsenal,0.04040000000000002,0.2222,0.1818
+2023-11-26 03:03:44.551505,La Liga - Spain La Liga 2023/24 - To Be Relegated,Granada,0.050000000000000044,0.8,0.75
+2023-11-26 03:03:44.568989,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Atlético Madrid,0.04760000000000009,0.7143,0.6667
+2023-11-26 03:03:45.602619,Northwest Division - Northwest Division 2023-24 - Division Winner,Minnesota Timberwolves,0.047599999999999976,0.3333,0.2857
+2023-11-26 03:03:44.956611,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,St. Johnstone,0.042300000000000004,0.9756,0.9333
+2023-11-26 03:03:46.167914,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Chet Holmgren (OKC),0.04139999999999999,0.4762,0.4348
+2023-11-26 03:03:44.620468,MLS - MLS 2023 - Western Conference Winner,Houston Dynamo,0.04040000000000002,0.2222,0.1818
+2023-11-26 03:03:44.968488,Professional League - Saudi Professional League 2023/24 - Winner,Al Hilal,0.04039999999999999,0.8182,0.7778
 2023-11-25 21:06:13.059738,Championship - England Championship 2023/24 - League Winner,Leicester City,0.03710000000000002,0.6923,0.6552
-2023-11-25 13:05:56.364882,Daily Specials - NBA Daily Specials -  Saturday 25th November,"Shai Gilgeous-Alexander, Joel Embiid, Jimmy Butler & Luka Doncic 140+ Combined Points",0.03640000000000004,0.4,0.3636
+2023-11-26 03:03:45.567808,Atlantic Division - Atlantic Division 2023-24 - Division Winner,Philadelphia 76ers,0.03570000000000001,0.2857,0.25
 2023-11-25 21:06:13.212096,League One - England - League One 2023/24 - League Winner,Peterborough United,0.028799999999999992,0.1538,0.125
+2023-11-26 03:03:44.947891,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Hibernian,0.025600000000000067,0.6923,0.6667
+2023-11-26 03:03:44.874915,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Elversberg,0.023899999999999998,0.0435,0.0196
+2023-11-26 03:03:45.648718,Southeast Division - Southeast Division 2023-24 - Division Winner,Atlanta Hawks,0.023799999999999988,0.3571,0.3333
 2023-11-25 17:05:58.803883,Serie A - Italy Serie A 2023/24 - Winner,Inter Milan,0.022600000000000064,0.6226,0.6
-2023-11-25 13:05:56.364882,Daily Specials - NBA Daily Specials -  Saturday 25th November,"Shai Gilgeous-Alexander, Joel Embiid, Jimmy Butler & Luka Doncic 130+ Combined Points",0.022600000000000064,0.5348,0.5122
 2023-11-25 23:05:56.268854,UEFA Europa Conference League - Europa Conference League 2023/24 - Winner,Aston Villa,0.022199999999999998,0.2222,0.2
 2023-11-25 17:05:58.760126,La Liga - Spain La Liga 2023/24 - Winner,Atlético Madrid,0.02020000000000001,0.1111,0.0909
 2023-11-25 21:06:13.212096,League One - England - League One 2023/24 - League Winner,Derby County,0.02020000000000001,0.1111,0.0909
-2023-11-25 13:05:56.364882,Daily Specials - NBA Daily Specials -  Saturday 25th November,"Shai Gilgeous-Alexander, Joel Embiid, Jimmy Butler & Luka Doncic 120+ Combined Points",0.018999999999999906,0.7333,0.7143
+2023-11-26 03:03:44.559711,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Atlético Madrid,0.020199999999999996,0.9091,0.8889
+2023-11-26 03:03:44.551505,La Liga - Spain La Liga 2023/24 - To Be Relegated,Almería,0.020199999999999996,0.9091,0.8889
+2023-11-26 03:03:44.924919,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Hearts,0.018900000000000028,0.4444,0.4255
 2023-11-25 15:05:17.158668,Elite Boxing - Jermall Charlo vs Jose Benavidez - To Win the Bout,Jose Benavidez,0.01820000000000002,0.2,0.1818
 2023-11-25 17:05:58.803883,Serie A - Italy Serie A 2023/24 - Winner,AC Milan,0.0179,0.1429,0.125
 2023-11-25 17:06:01.761029,Elite Boxing - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.01629999999999998,0.2941,0.2778
+2023-11-26 03:03:45.602619,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,0.015100000000000002,0.1818,0.1667
 2023-11-25 17:05:58.779623,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayer Leverkusen,0.01469999999999999,0.25,0.2353
-2023-11-25 13:05:56.364882,Daily Specials - NBA Daily Specials -  Saturday 25th November,"LeBron, Ji.Butler & Tr.Young 30+ Pts Each, Tr.Young 10+ Assists",0.014100000000000001,0.0526,0.0385
 2023-11-25 23:05:58.674537,NFL Weekly Specials - Week 12 Leaders - Highest Scoring Team [Sunday Only],Buffalo Bills,0.013999999999999999,0.0909,0.0769
 2023-11-25 17:06:01.761029,Elite Boxing - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Subriel Matias,0.0131,0.7778,0.7647
+2023-11-26 03:03:45.546678,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Philadelphia 76ers,0.012899999999999995,0.1667,0.1538
+2023-11-26 03:03:45.629610,Pacific Division - Pacific Division 2023-24 - Division Winner,Los Angeles Lakers,0.012899999999999995,0.1667,0.1538
+2023-11-26 03:03:46.132352,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,0.012899999999999995,0.1667,0.1538
+2023-11-26 03:03:46.132352,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Ime Udoka,0.012899999999999995,0.1667,0.1538
 2023-11-25 17:05:58.760126,La Liga - Spain La Liga 2023/24 - Winner,Real Madrid,0.012700000000000045,0.6491,0.6364
-2023-11-25 13:05:57.463772,Elite Boxing - Hector Garcia vs Lamont Roach - To Win the Bout,Lamont Roach,0.01150000000000001,0.3448,0.3333
-2023-11-25 13:05:56.364882,Daily Specials - NBA Daily Specials -  Saturday 25th November,"Shai Gilgeous-Alexander, Joel Embiid, Jimmy Butler & Luka Doncic 160+ Combined Points",0.011199999999999995,0.0588,0.0476
+2023-11-26 03:03:44.607907,MLS - MLS 2023 - Winner,Sporting Kansas City,0.011199999999999995,0.0588,0.0476
 2023-11-25 17:05:58.760126,La Liga - Spain La Liga 2023/24 - Winner,Girona,0.011199999999999995,0.0588,0.0476
-2023-11-25 13:05:57.474416,Elite Boxing - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Shohjahon Ergashev,0.011099999999999999,0.2778,0.2667
+2023-11-26 03:03:45.557378,Western Conference - Western Conference 2023-24 - Western Conference Winner,Los Angeles Lakers,0.011099999999999999,0.1111,0.1
+2023-11-26 03:03:44.956611,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Ross County,0.010199999999999987,0.9333,0.9231
+2023-11-26 03:03:44.568989,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Athletic Bilbao,-0.0102,0.0667,0.0769
+2023-11-26 03:03:45.557378,Western Conference - Western Conference 2023-24 - Western Conference Winner,Dallas Mavericks,-0.0102,0.0667,0.0769
+2023-11-26 03:03:44.874915,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Hamburger SV,-0.010699999999999987,0.3226,0.3333
 2023-11-25 17:06:02.177593,BKFC 56: Perry vs Alvarez - Mike Perry vs Eddie Alvarez - To Win the Bout,Eddie Alvarez,-0.010699999999999987,0.3226,0.3333
 2023-11-25 23:05:56.362537,League Two - England - League Two 2023/24 - League Winner,Notts County,-0.011099999999999999,0.1,0.1111
-2023-11-25 13:05:57.557996,Boxing Lines - Sergey Lipinets vs Michel Rivera - To Win the Bout,Sergey Lipinets,-0.012199999999999989,0.5,0.5122
+2023-11-26 03:03:44.874915,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Paderborn,-0.012100000000000001,0.0123,0.0244
+2023-11-26 03:03:46.132352,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Jason Kidd,-0.012600000000000007,0.0588,0.0714
 2023-11-26 01:04:17.696260,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Gavin Newsom,-0.012899999999999995,0.1538,0.1667
-2023-11-25 13:05:57.474416,Elite Boxing - Subriel Matias vs Shohjahon Ergashev - To Win the Bout,Subriel Matias,-0.0131,0.7647,0.7778
-2023-11-25 13:05:57.507275,Boxing Lines - Gary Cully vs Reece Mould - To Win the Bout,Gary Cully,-0.014000000000000012,0.9091,0.9231
+2023-11-26 03:03:44.947891,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Ross County,-0.013899999999999996,0.1111,0.125
+2023-11-26 03:03:46.132352,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Joe Mazzulla,-0.013999999999999999,0.0769,0.0909
+2023-11-26 03:03:44.874915,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Schalke 04,-0.014099999999999998,0.0244,0.0385
+2023-11-26 03:03:44.874915,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,FC Nürnberg,-0.014100000000000001,0.0385,0.0526
+2023-11-26 03:03:44.956611,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Hibernian,-0.015400000000000025,0.3846,0.4
 2023-11-25 21:06:13.070824,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,RB Bragantino,-0.016600000000000004,0.0667,0.0833
 2023-11-25 17:05:58.803883,Serie A - Italy Serie A 2023/24 - Winner,Juventus,-0.016699999999999993,0.25,0.2667
-2023-11-25 13:05:57.463772,Elite Boxing - Hector Garcia vs Lamont Roach - To Win the Bout,Hector Garcia,-0.017300000000000093,0.697,0.7143
+2023-11-26 03:03:46.115425,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Chris Paul (GSW),-0.018099999999999998,0.0588,0.0769
 2023-11-25 17:05:58.779623,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayern Munich,-0.018199999999999994,0.8,0.8182
+2023-11-26 03:03:44.551505,La Liga - Spain La Liga 2023/24 - To Be Relegated,Getafe,-0.019099999999999992,0.0476,0.0667
 2023-11-25 21:06:13.059738,Championship - England Championship 2023/24 - League Winner,Southampton,-0.019099999999999992,0.0476,0.0667
+2023-11-26 03:03:44.938043,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Motherwell,-0.019699999999999995,0.1053,0.125
 2023-11-25 15:05:17.158668,Elite Boxing - Jermall Charlo vs Jose Benavidez - To Win the Bout,Jermall Charlo,-0.020500000000000074,0.8462,0.8667
 2023-11-25 17:05:58.760126,La Liga - Spain La Liga 2023/24 - Winner,FC Barcelona,-0.021999999999999964,0.2857,0.3077
+2023-11-26 03:03:46.115425,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Malik Monk (SAC),-0.02310000000000001,0.0769,0.1
+2023-11-26 03:03:44.938043,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Kilmarnock,-0.023200000000000002,0.0244,0.0476
+2023-11-26 03:03:44.924919,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Motherwell,-0.023200000000000002,0.0244,0.0476
+2023-11-26 03:03:45.648718,Southeast Division - Southeast Division 2023-24 - Division Winner,Miami Heat,-0.023799999999999988,0.4762,0.5
+2023-11-26 03:03:46.115425,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Russell Westbrook (LAC),-0.0242,0.0667,0.0909
+2023-11-26 03:03:46.132352,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Rick Carlisle,-0.0242,0.0667,0.0909
 2023-11-25 19:05:37.978462,Elite Boxing - David Benavidez vs Demetrius Andrade - To Win the Bout,Demetrius Andrade,-0.024399999999999977,0.2353,0.2597
+2023-11-26 03:03:45.557378,Western Conference - Western Conference 2023-24 - Western Conference Winner,Phoenix Suns,-0.02779999999999999,0.2222,0.25
+2023-11-26 03:03:46.124125,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,DeMar DeRozan (CHI),-0.03219999999999999,0.0345,0.0667
+2023-11-26 03:03:44.620468,MLS - MLS 2023 - Western Conference Winner,Seattle Sounders,-0.03710000000000002,0.3333,0.3704
 2023-11-25 21:06:13.059738,Championship - England Championship 2023/24 - League Winner,Ipswich Town,-0.04040000000000002,0.1818,0.2222
 2023-11-25 21:06:13.212096,League One - England - League One 2023/24 - League Winner,Oxford United,-0.04040000000000002,0.1818,0.2222
 2023-11-25 23:05:56.362537,League Two - England - League Two 2023/24 - League Winner,Mansfield Town,-0.04099999999999998,0.2667,0.3077
 2023-11-25 23:05:56.399310,National League - England National League 2023/24 - Outright,Barnet,-0.04240000000000001,0.0909,0.1333
 2023-11-25 23:05:56.362537,League Two - England - League Two 2023/24 - League Winner,Stockport County,-0.04760000000000003,0.4762,0.5238
-2023-11-25 13:05:55.268744,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Manchester City,-0.051100000000000034,0.6364,0.6875
 2023-11-25 21:06:13.212096,League One - England - League One 2023/24 - League Winner,Portsmouth,-0.05130000000000001,0.3333,0.3846
+2023-11-26 03:03:44.947891,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,St. Johnstone,-0.052300000000000006,0.0588,0.1111
 2023-11-25 23:05:56.388629,Premiership - Scotland Premiership 2023/24 - Winner,Celtic,-0.0683999999999999,0.7778,0.8462
+2023-11-26 03:03:44.620468,MLS - MLS 2023 - Western Conference Winner,Los Angeles FC,-0.06990000000000002,0.3846,0.4545
+2023-11-26 03:03:44.938043,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Dundee FC,-0.0815,0.0435,0.125
+2023-11-26 03:03:44.956611,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Hearts,-0.08150000000000002,0.1538,0.2353
+2023-11-26 03:03:44.938043,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Ross County,-0.08549999999999996,0.2222,0.3077
+2023-11-26 03:03:44.924919,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Aberdeen,-0.0889,0.1333,0.2222
+2023-11-26 03:03:44.947891,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Livingston,-0.09029999999999999,0.0526,0.1429
+2023-11-26 03:03:44.947891,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Motherwell,-0.10069999999999998,0.2326,0.3333
+2023-11-26 03:03:44.956611,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Kilmarnock,-0.10360000000000003,0.5455,0.6491
+2023-11-26 03:03:44.551505,La Liga - Spain La Liga 2023/24 - To Be Relegated,Alavés,-0.1071,0.1429,0.25
+2023-11-26 03:03:44.956611,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Dundee FC,-0.11110000000000009,0.6667,0.7778
+2023-11-26 03:03:44.956611,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,St. Mirren,-0.13670000000000004,0.3077,0.4444
+2023-11-26 03:03:44.947891,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Aberdeen,-0.15889999999999993,0.5744,0.7333
