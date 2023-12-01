@@ -1,8 +1,8 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-30 23:06:31.167661,MLB Specials 2023 - Where will Shohei Ohtani Play Game 1 of the 2024 MLB Season - MLB Free Agents,Los Angeles Dodgers,0.07619999999999993,0.6,0.5238
-2023-11-30 13:03:59.995261,BKFC 56: Perry vs Alvarez - Arnold Adams vs Mick Terrill - To Win the Bout,Arnold Adams,0.05590000000000006,0.6923,0.6364
 2023-11-30 23:06:31.167661,MLB Specials 2023 - Where will Shohei Ohtani Play Game 1 of the 2024 MLB Season - MLB Free Agents,Toronto Blue Jays,0.05550000000000002,0.2222,0.1667
 2023-11-30 15:03:26.352280,BKFC 56: Perry vs Alvarez - Arnold Adams vs Mick Terrill - To Win the Bout,Mick Terrill,0.05509999999999998,0.4255,0.3704
+2023-12-01 01:05:51.233320,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Anthony Davis (LAL),0.04169999999999999,0.1667,0.125
 2023-11-30 23:06:32.084688,BKFC 56: Perry vs Alvarez - Arnold Adams vs Mick Terrill - To Win the Bout,Arnold Adams,0.041000000000000036,0.6774,0.6364
 2023-11-30 19:06:16.154695,NBL - NBL 2023/2024 - Most Losses,Adelaide 36ers,0.03570000000000001,0.2857,0.25
 2023-11-30 19:06:19.631475,BKFC 56: Perry vs Alvarez - Jeremy Stephens vs Jimmie Rivera - To Win the Bout,Jeremy Stephens,0.034499999999999975,0.3571,0.3226
@@ -11,21 +11,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-30 19:06:13.374121,UEFA Europa Conference League - Europa Conference League 2023/24 - Winner,Fiorentina,0.031799999999999995,0.1429,0.1111
 2023-11-30 19:06:16.229138,NBL - NBL 2023/2024 - To Make Top 6,New Zealand Breakers,0.03179999999999994,0.5556,0.5238
 2023-11-30 19:06:18.683324,Boxing Lines - Omar Salcido Gamez vs Coria Luis - To Win the Bout,Coria Luis,0.029100000000000015,0.2564,0.2273
+2023-12-01 01:05:50.830759,Central Division - Central Division 2023-24 - Division Winner,Milwaukee Bucks,0.027800000000000047,0.7778,0.75
+2023-12-01 01:05:52.896586,Elite Boxing - Ryan Garcia vs Oscar Duarte Jurado - To Win the Bout,Oscar Duarte Jurado,0.02779999999999999,0.25,0.2222
+2023-12-01 01:05:53.755184,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,0.02650000000000008,0.9524,0.9259
 2023-11-30 15:03:26.339624,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,0.02650000000000008,0.9524,0.9259
 2023-11-30 23:06:32.031302,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,0.02650000000000008,0.9524,0.9259
 2023-11-30 21:06:08.510497,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,0.02650000000000008,0.9524,0.9259
 2023-11-30 19:06:19.552880,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,0.02650000000000008,0.9524,0.9259
-2023-11-30 13:03:59.982740,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,0.02650000000000008,0.9524,0.9259
+2023-12-01 01:05:50.862590,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,0.025499999999999967,0.4255,0.4
+2023-12-01 01:05:51.233320,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Rudy Gobert (MIN),0.022199999999999998,0.2222,0.2
 2023-11-30 23:06:30.430922,NFC West - NFC West 2023/24 - NFC West Winner,San Francisco 49ers,0.02200000000000002,0.9901,0.9681
 2023-11-30 23:06:32.107486,BKFC 56: Perry vs Alvarez - Christine Ferea vs Bec Rawlings - To Win the Bout,Bec Rawlings,0.019600000000000006,0.2469,0.2273
+2023-12-01 01:05:51.201514,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Damian Lillard (MIL),0.019000000000000017,0.2857,0.2667
 2023-11-30 19:06:16.154695,NBL - NBL 2023/2024 - Most Losses,SE Melboune Phoenix,0.018200000000000004,0.0476,0.0294
 2023-11-30 19:06:18.482588,Elite Boxing - Ryan Garcia vs Oscar Duarte Jurado - To Win the Bout,Ryan Garcia,0.018199999999999994,0.8182,0.8
 2023-11-30 23:06:32.095095,BKFC 56: Perry vs Alvarez - Kai Stewart vs Howard Davis - To Win the Bout,Howard Davis,0.01629999999999998,0.7222,0.7059
 2023-11-30 23:06:32.128467,BKFC 56: Perry vs Alvarez - Mike Perry vs Eddie Alvarez - To Win the Bout,Mike Perry,0.015800000000000036,0.7561,0.7403
-2023-11-30 19:06:19.530922,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Marlon Tapales,0.014299999999999993,0.1143,0.1
-2023-11-30 21:06:08.500067,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Marlon Tapales,0.014299999999999993,0.1143,0.1
+2023-12-01 01:05:53.744800,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Marlon Tapales,0.014299999999999993,0.1143,0.1
 2023-11-30 23:06:32.018232,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Marlon Tapales,0.014299999999999993,0.1143,0.1
-2023-11-30 13:03:59.972326,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Marlon Tapales,0.014299999999999993,0.1143,0.1
+2023-11-30 21:06:08.500067,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Marlon Tapales,0.014299999999999993,0.1143,0.1
+2023-11-30 19:06:19.530922,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Marlon Tapales,0.014299999999999993,0.1143,0.1
 2023-11-30 15:03:26.328346,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Marlon Tapales,0.014299999999999993,0.1143,0.1
 2023-11-30 19:06:16.115082,Euroleague - Euroleague 2023/24 - Regular Season League Winner,Barcelona,0.013899999999999996,0.125,0.1111
 2023-11-30 19:06:18.519277,Boxing Lines - Oronzo Birardi vs Israel Duffus - To Win the Bout,Israel Duffus,0.012899999999999995,0.1667,0.1538
@@ -33,38 +38,47 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-11-30 23:06:30.286683,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Dallas Cowboys,0.011700000000000016,0.2222,0.2105
 2023-11-30 19:06:16.154695,NBL - NBL 2023/2024 - Most Losses,Illawarra Hawks,0.01100000000000001,0.5348,0.5238
 2023-11-30 15:03:25.747740,Boxing Lines - Sonny Ali vs Fernando Mosquera - To Win the Bout,Sonny Ali,0.010699999999999932,0.9722,0.9615
+2023-12-01 01:05:51.242755,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Tyrese Maxey (PHI),0.010699999999999932,0.5455,0.5348
+2023-12-01 01:05:51.233320,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Victor Wembanyama (SAS),0.0102,0.0769,0.0667
+2023-12-01 01:05:51.233320,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Brook Lopez (MIL),0.0102,0.0769,0.0667
+2023-12-01 01:05:50.841337,Northwest Division - Northwest Division 2023-24 - Division Winner,Minnesota Timberwolves,-0.010699999999999987,0.3226,0.3333
 2023-11-30 15:03:25.800437,Boxing Lines - Gavin Gwynne vs Emiliano Marsili - To Win the Bout,Emiliano Marsili,-0.010899999999999993,0.1429,0.1538
-2023-11-30 13:03:59.626719,Boxing Lines - Lenar Perez vs Vladimir Reznicek - To Win the Bout,Vladimir Reznicek,-0.011099999999999999,0.1,0.1111
+2023-12-01 01:05:51.242755,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Scottie Barnes (TOR),-0.010899999999999993,0.1429,0.1538
+2023-12-01 01:05:50.841337,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,-0.010899999999999993,0.1429,0.1538
 2023-11-30 15:03:25.747740,Boxing Lines - Sonny Ali vs Fernando Mosquera - To Win the Bout,Fernando Mosquera,-0.011899999999999994,0.0714,0.0833
 2023-11-30 23:06:31.417903,Boxing Lines - Omar Salcido Gamez vs Coria Luis - To Win the Bout,Coria Luis,-0.012799999999999978,0.2469,0.2597
-2023-11-30 13:03:59.553580,Boxing Lines - Jerome Pampellone vs Rogelio Medina - To Win the Bout,Rogelio Medina,-0.012899999999999995,0.1538,0.1667
+2023-12-01 01:05:51.223632,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Ime Udoka,-0.012899999999999995,0.1538,0.1667
+2023-12-01 01:05:51.201514,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Shai Gilgeous-Alexander (OKC),-0.013899999999999996,0.1111,0.125
 2023-11-30 19:06:16.179779,NBL - NBL 2023/2024 - Regular Season MVP,Jaylen Adams,-0.013899999999999996,0.1111,0.125
-2023-11-30 23:06:31.167661,MLB Specials 2023 - Where will Shohei Ohtani Play Game 1 of the 2024 MLB Season - MLB Free Agents,Los Angeles Angels,-0.013999999999999999,0.0769,0.0909
-2023-11-30 23:06:31.167661,MLB Specials 2023 - Where will Shohei Ohtani Play Game 1 of the 2024 MLB Season - MLB Free Agents,New York Yankees,-0.013999999999999999,0.0769,0.0909
 2023-11-30 23:06:31.167661,MLB Specials 2023 - Where will Shohei Ohtani Play Game 1 of the 2024 MLB Season - MLB Free Agents,Seattle Mariners,-0.013999999999999999,0.0769,0.0909
-2023-11-30 23:06:32.031302,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Marlon Tapales,-0.014299999999999993,0.1,0.1143
+2023-11-30 23:06:31.167661,MLB Specials 2023 - Where will Shohei Ohtani Play Game 1 of the 2024 MLB Season - MLB Free Agents,New York Yankees,-0.013999999999999999,0.0769,0.0909
+2023-11-30 23:06:31.167661,MLB Specials 2023 - Where will Shohei Ohtani Play Game 1 of the 2024 MLB Season - MLB Free Agents,Los Angeles Angels,-0.013999999999999999,0.0769,0.0909
+2023-12-01 01:05:53.755184,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Marlon Tapales,-0.014299999999999993,0.1,0.1143
 2023-11-30 21:06:08.510497,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Marlon Tapales,-0.014299999999999993,0.1,0.1143
-2023-11-30 19:06:19.552880,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Marlon Tapales,-0.014299999999999993,0.1,0.1143
 2023-11-30 15:03:26.339624,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Marlon Tapales,-0.014299999999999993,0.1,0.1143
-2023-11-30 13:03:59.982740,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Marlon Tapales,-0.014299999999999993,0.1,0.1143
+2023-11-30 23:06:32.031302,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Marlon Tapales,-0.014299999999999993,0.1,0.1143
+2023-11-30 19:06:19.552880,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Marlon Tapales,-0.014299999999999993,0.1,0.1143
 2023-11-30 23:06:31.167661,MLB Specials 2023 - Where will Shohei Ohtani Play Game 1 of the 2024 MLB Season - MLB Free Agents,New York Mets,-0.01440000000000001,0.0909,0.1053
+2023-12-01 01:05:50.862590,Southeast Division - Southeast Division 2023-24 - Division Winner,Atlanta Hawks,-0.01469999999999999,0.2353,0.25
 2023-11-30 23:06:32.128467,BKFC 56: Perry vs Alvarez - Mike Perry vs Eddie Alvarez - To Win the Bout,Eddie Alvarez,-0.014900000000000024,0.3077,0.3226
+2023-12-01 01:05:52.896586,Elite Boxing - Ryan Garcia vs Oscar Duarte Jurado - To Win the Bout,Ryan Garcia,-0.018199999999999994,0.8,0.8182
 2023-11-30 19:06:16.229138,NBL - NBL 2023/2024 - To Make Top 6,Adelaide 36ers,-0.01820000000000002,0.1818,0.2
 2023-11-30 23:06:32.107486,BKFC 56: Perry vs Alvarez - Christine Ferea vs Bec Rawlings - To Win the Bout,Christine Ferea,-0.018900000000000028,0.8214,0.8403
+2023-12-01 01:05:50.830759,Central Division - Central Division 2023-24 - Division Winner,Cleveland Cavaliers,-0.019000000000000017,0.2667,0.2857
 2023-11-30 19:06:16.154695,NBL - NBL 2023/2024 - Most Losses,New Zealand Breakers,-0.02020000000000001,0.0909,0.1111
 2023-11-30 19:06:13.374121,UEFA Europa Conference League - Europa Conference League 2023/24 - Winner,Fenerbahce,-0.0242,0.0667,0.0909
+2023-12-01 01:05:50.873750,Southwest Division - Southwest Division 2023-24 - Division Winner,Dallas Mavericks,-0.025600000000000067,0.6667,0.6923
+2023-11-30 15:03:26.328346,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,-0.02650000000000008,0.9259,0.9524
 2023-11-30 21:06:08.500067,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,-0.02650000000000008,0.9259,0.9524
 2023-11-30 23:06:32.018232,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,-0.02650000000000008,0.9259,0.9524
+2023-12-01 01:05:53.744800,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,-0.02650000000000008,0.9259,0.9524
 2023-11-30 19:06:19.530922,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,-0.02650000000000008,0.9259,0.9524
-2023-11-30 15:03:26.328346,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,-0.02650000000000008,0.9259,0.9524
-2023-11-30 13:03:59.972326,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,-0.02650000000000008,0.9259,0.9524
 2023-11-30 19:06:18.683324,Boxing Lines - Omar Salcido Gamez vs Coria Luis - To Win the Bout,Omar Salcido Gamez,-0.027200000000000002,0.8131,0.8403
 2023-11-30 19:06:19.631475,BKFC 56: Perry vs Alvarez - Jeremy Stephens vs Jimmie Rivera - To Win the Bout,Jimmie Rivera,-0.02739999999999998,0.7059,0.7333
+2023-12-01 01:05:51.191997,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Tim Hardaway Jr (DAL),-0.02779999999999999,0.2222,0.25
 2023-11-30 19:06:18.482588,Elite Boxing - Ryan Garcia vs Oscar Duarte Jurado - To Win the Bout,Oscar Duarte Jurado,-0.02779999999999999,0.2222,0.25
 2023-11-30 23:06:30.361999,NFC East - NFC East 2023/24 - NFC East Winner,Philadelphia Eagles,-0.03849999999999998,0.8948,0.9333
 2023-11-30 23:06:32.084688,BKFC 56: Perry vs Alvarez - Arnold Adams vs Mick Terrill - To Win the Bout,Mick Terrill,-0.04089999999999999,0.3846,0.4255
 2023-11-30 21:06:08.543020,BKFC 56: Perry vs Alvarez - Mike Perry vs Eddie Alvarez - To Win the Bout,Mike Perry,-0.04920000000000002,0.7403,0.7895
 2023-11-30 23:06:30.430922,NFC West - NFC West 2023/24 - NFC West Winner,Seattle Seahawks,-0.051,0.0323,0.0833
-2023-11-30 13:03:59.995261,BKFC 56: Perry vs Alvarez - Arnold Adams vs Mick Terrill - To Win the Bout,Mick Terrill,-0.05509999999999998,0.3704,0.4255
 2023-11-30 15:03:26.352280,BKFC 56: Perry vs Alvarez - Arnold Adams vs Mick Terrill - To Win the Bout,Arnold Adams,-0.05590000000000006,0.6364,0.6923
-2023-11-30 13:03:59.452968,Boxing Lines - Gavin Gwynne vs Emiliano Marsili - To Win the Bout,Gavin Gwynne,-0.08989999999999998,0.9091,0.999
