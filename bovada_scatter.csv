@@ -4,104 +4,125 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-01 19:06:44.060428,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Vasco da Gama,0.13330000000000003,0.4,0.2667
 2023-12-01 19:06:44.067021,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Grêmio,0.12120000000000003,0.4545,0.3333
 2023-12-01 15:06:18.917702,NBL - NBL 2023/2024 - Regular Season MVP,Bryce Cotton,0.11359999999999998,0.3636,0.25
+2023-12-02 01:07:01.895216,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Rudy Gobert (MIN),0.11109999999999998,0.3333,0.2222
 2023-12-01 19:06:44.051302,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Filho Paulinho (Athletico MG),0.0917,0.7143,0.6226
 2023-12-01 21:07:44.577510,Scores - 3rd Round Score - W. Zalatoris - 3rd Round Score - W. Zalatoris,Over 70.5,0.08779999999999999,0.6226,0.5348
+2023-12-02 01:07:01.911678,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Alperen Sengun (HOU),0.08330000000000001,0.25,0.1667
+2023-12-02 01:07:01.877755,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Jamahl Mosley,0.08330000000000001,0.25,0.1667
+2023-12-02 01:07:01.864037,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Damian Lillard (MIL),0.07789999999999997,0.3636,0.2857
 2023-12-01 21:07:44.383028,Scores - 3rd Round Score - J. Spieth - 3rd Round Score - J. Spieth,Under 69.5,0.06779999999999997,0.5556,0.4878
 2023-12-01 21:07:44.522291,Scores - 3rd Round Score - T. Woods - 3rd Round Score - T. Woods,Under 71.5,0.06700000000000006,0.6226,0.5556
 2023-12-01 19:06:44.060428,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Santos,0.06669999999999998,0.2667,0.2
 2023-12-01 21:07:44.405834,Scores - 3rd Round Score - J. Thomas - 3rd Round Score - J. Thomas,Over 69.5,0.061999999999999944,0.6364,0.5744
+2023-12-02 01:07:01.926637,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Nikola Jokic (DEN),0.05740000000000001,0.4348,0.3774
 2023-12-01 19:06:49.860657,Hero World Challenge - 2/3 Balls - 3rd Round 2-Balls - S. Scheffler / J. Spieth - 3rd Round 2-Balls,Scottie Scheffler,0.04910000000000003,0.6491,0.6
 2023-12-01 19:06:49.773354,Hero World Challenge - 2/3 Balls - 3rd Round 2-Balls - L. Glover / M. Homa - 3rd Round 2-Balls,Max Homa,0.04910000000000003,0.6491,0.6
 2023-12-01 19:06:49.734441,Hero World Challenge - 2/3 Balls - 3rd Round 2-Balls - T. Woods / V. Hovland - 3rd Round 2-Balls,Viktor Hovland,0.04789999999999994,0.697,0.6491
+2023-12-02 01:07:01.163150,Northwest Division - Northwest Division 2023-24 - Division Winner,Denver Nuggets,0.04760000000000009,0.7143,0.6667
 2023-12-01 19:06:49.713202,Hero World Challenge - 2/3 Balls - 3rd Round 2-Balls - K. Bradley / S. Burns - 3rd Round 2-Balls,Keegan Bradley,0.04760000000000003,0.5238,0.4762
 2023-12-01 19:06:49.809011,Hero World Challenge - 2/3 Balls - 3rd Round 2-Balls - T. Finau / S. Straka - 3rd Round 2-Balls,Sepp Straka,0.047099999999999975,0.5122,0.4651
-2023-12-01 19:06:49.689819,Hero World Challenge - 2/3 Balls - 3rd Round 2-Balls - W. Clark / W. Zalatoris - 3rd Round 2-Balls,Wyndham Clark,0.04700000000000004,0.5348,0.4878
 2023-12-01 19:06:49.689819,Hero World Challenge - 2/3 Balls - 3rd Round 2-Balls - W. Clark / W. Zalatoris - 3rd Round 2-Balls,Will Zalatoris,0.04700000000000004,0.5348,0.4878
-2023-12-01 11:05:28.710147,Boxing Lines - Nathan Gorman vs Bohdan Myronets - To Win the Bout,Nathan Gorman,0.046600000000000086,0.8403,0.7937
+2023-12-01 19:06:49.689819,Hero World Challenge - 2/3 Balls - 3rd Round 2-Balls - W. Clark / W. Zalatoris - 3rd Round 2-Balls,Wyndham Clark,0.04700000000000004,0.5348,0.4878
 2023-12-01 19:06:49.841108,Hero World Challenge - 2/3 Balls - 3rd Round 2-Balls - B. Harman / J. Thomas - 3rd Round 2-Balls,Brian Harman,0.04630000000000001,0.4545,0.4082
-2023-12-01 19:06:49.793364,Hero World Challenge - 2/3 Balls - 3rd Round 2-Balls - J. Day / C. Young - 3rd Round 2-Balls,Jason Day,0.045499999999999985,0.5,0.4545
 2023-12-01 19:06:49.713202,Hero World Challenge - 2/3 Balls - 3rd Round 2-Balls - K. Bradley / S. Burns - 3rd Round 2-Balls,Sam Burns,0.045499999999999985,0.5455,0.5
+2023-12-01 19:06:49.793364,Hero World Challenge - 2/3 Balls - 3rd Round 2-Balls - J. Day / C. Young - 3rd Round 2-Balls,Jason Day,0.045499999999999985,0.5,0.4545
 2023-12-01 19:06:44.038412,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Atlético Mineiro,0.044599999999999994,0.0769,0.0323
-2023-12-01 19:06:49.809011,Hero World Challenge - 2/3 Balls - 3rd Round 2-Balls - T. Finau / S. Straka - 3rd Round 2-Balls,Tony Finau,0.043399999999999994,0.5556,0.5122
 2023-12-01 19:06:49.825092,Hero World Challenge - 2/3 Balls - 3rd Round 2-Balls - M. Fitzpatrick / C. Morikawa - 3rd Round 2-Balls,Matt Fitzpatrick,0.043399999999999994,0.4878,0.4444
+2023-12-01 19:06:49.809011,Hero World Challenge - 2/3 Balls - 3rd Round 2-Balls - T. Finau / S. Straka - 3rd Round 2-Balls,Tony Finau,0.043399999999999994,0.5556,0.5122
 2023-12-01 19:06:49.793364,Hero World Challenge - 2/3 Balls - 3rd Round 2-Balls - J. Day / C. Young - 3rd Round 2-Balls,Cameron Young,0.04139999999999999,0.5652,0.5238
 2023-12-01 19:06:49.825092,Hero World Challenge - 2/3 Balls - 3rd Round 2-Balls - M. Fitzpatrick / C. Morikawa - 3rd Round 2-Balls,Collin Morikawa,0.03959999999999997,0.5744,0.5348
 2023-12-01 19:06:49.773354,Hero World Challenge - 2/3 Balls - 3rd Round 2-Balls - L. Glover / M. Homa - 3rd Round 2-Balls,Lucas Glover,0.0393,0.4167,0.3774
 2023-12-01 19:06:49.860657,Hero World Challenge - 2/3 Balls - 3rd Round 2-Balls - S. Scheffler / J. Spieth - 3rd Round 2-Balls,Jordan Spieth,0.0393,0.4167,0.3774
 2023-12-01 19:06:49.841108,Hero World Challenge - 2/3 Balls - 3rd Round 2-Balls - B. Harman / J. Thomas - 3rd Round 2-Balls,Justin Thomas,0.033399999999999985,0.6078,0.5744
-2023-12-01 11:05:27.860427,Cincinnati Bengals - 2023-24 Regular Season Wins O/U - Regular Season Wins - Cincinnati Bengals O/U  7.5,Under 7.5,0.033299999999999996,0.5455,0.5122
+2023-12-02 01:07:01.877755,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,0.033300000000000024,0.2,0.1667
+2023-12-02 01:07:01.090936,Western Conference - Western Conference 2023-24 - Western Conference Winner,Denver Nuggets,0.030299999999999994,0.3333,0.303
 2023-12-01 19:06:49.734441,Hero World Challenge - 2/3 Balls - 3rd Round 2-Balls - T. Woods / V. Hovland - 3rd Round 2-Balls,Tiger Woods,0.030299999999999994,0.3636,0.3333
 2023-12-01 15:06:18.904713,NBL - NBL 2023/2024 - Outright,Perth Wildcats,0.027999999999999997,0.1818,0.1538
+2023-12-02 01:07:01.847957,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Tim Hardaway Jr (DAL),0.02779999999999999,0.25,0.2222
+2023-12-02 01:07:01.911678,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Scottie Barnes (TOR),0.023799999999999988,0.1667,0.1429
+2023-12-02 01:07:04.456182,Boxing Lines - Caoimhin Agyarko vs Troy Williamson - To Win the Bout,Caoimhin Agyarko,0.022199999999999998,0.6774,0.6552
+2023-12-02 01:07:01.847957,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Austin Reaves (LAL),0.022199999999999998,0.2222,0.2
 2023-12-01 19:06:44.152229,A-League - Australia A-League 2023/24 - Top 6 Finish,Brisbane Roar,0.021699999999999997,0.4762,0.4545
-2023-12-01 17:06:11.380585,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,0.021500000000000075,0.9474,0.9259
-2023-12-01 23:04:11.217815,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,0.021500000000000075,0.9474,0.9259
-2023-12-01 11:05:29.338967,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,0.021500000000000075,0.9474,0.9259
-2023-12-01 19:06:48.740427,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,0.021500000000000075,0.9474,0.9259
+2023-12-02 01:07:05.173342,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,0.021500000000000075,0.9474,0.9259
 2023-12-01 15:06:22.858034,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,0.021500000000000075,0.9474,0.9259
+2023-12-01 23:04:11.217815,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,0.021500000000000075,0.9474,0.9259
+2023-12-01 17:06:11.380585,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,0.021500000000000075,0.9474,0.9259
+2023-12-01 19:06:48.740427,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,0.021500000000000075,0.9474,0.9259
 2023-12-01 21:07:43.257546,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,0.021500000000000075,0.9474,0.9259
-2023-12-01 11:05:28.720793,Boxing Lines - Omar Salcido Gamez vs Coria Luis - To Win the Bout,Coria Luis,0.021299999999999986,0.303,0.2817
+2023-12-02 01:07:04.393805,Boxing Lines - Felix Sturm vs Sukru Altay - To Win the Bout,Sukru Altay,0.019600000000000006,0.2469,0.2273
+2023-12-02 01:07:01.223063,Southwest Division - Southwest Division 2023-24 - Division Winner,New Orleans Pelicans,0.019000000000000017,0.2857,0.2667
 2023-12-01 23:04:05.638523,Serie A - Italy Serie A 2023/24 - Winner,Juventus,0.016699999999999993,0.2667,0.25
 2023-12-01 19:06:48.055809,Boxing Lines - Michael Conlan vs Jordan Gill - To Win the Bout,Michael Conlan,0.016699999999999937,0.9167,0.9
 2023-12-01 19:06:47.882855,Boxing Lines - Jerome Pampellone vs Rogelio Medina - To Win the Bout,Jerome Pampellone,0.01660000000000006,0.9333,0.9167
-2023-12-01 11:05:28.899596,Boxing Lines - Tyrone McKenna vs Lewis Crocker - To Win the Bout,Lewis Crocker,0.015800000000000036,0.8095,0.7937
-2023-12-01 11:05:28.931239,Boxing Lines - Ian Green vs Vaughn Alexander - To Win the Bout,Ian Green,0.015800000000000036,0.7561,0.7403
-2023-12-01 23:04:10.493201,Boxing Lines - Tyrone McKenna vs Lewis Crocker - To Win the Bout,Lewis Crocker,0.015100000000000002,0.8333,0.8182
 2023-12-01 17:06:07.785129,NBL - NBL 2023/2024 - Most Losses,Cairns Taipans,0.015100000000000002,0.1818,0.1667
+2023-12-01 23:04:10.493201,Boxing Lines - Tyrone McKenna vs Lewis Crocker - To Win the Bout,Lewis Crocker,0.015100000000000002,0.8333,0.8182
+2023-12-02 01:07:04.324647,Boxing Lines - Gerard Hughes vs Ruadhan Farrell - To Win the Bout,Gerard Hughes,0.014800000000000035,0.6226,0.6078
+2023-12-02 01:07:04.533138,Boxing Lines - Ramon Quiroga vs Mario Gutierrez - To Win the Bout,Ramon Quiroga,0.014800000000000035,0.6226,0.6078
 2023-12-01 19:06:44.060428,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Bahia,0.013800000000000034,0.3774,0.3636
 2023-12-01 23:04:12.286165,Scores - 3rd Round Score - T. Woods - 3rd Round Score - T. Woods,Under 71.5,0.013799999999999923,0.6364,0.6226
-2023-12-01 23:04:10.272307,Boxing Lines - Lenar Perez vs Vladimir Reznicek - To Win the Bout,Lenar Perez,0.0131,0.9655,0.9524
 2023-12-01 19:06:48.786453,BKFC 56: Perry vs Alvarez - Mike Perry vs Eddie Alvarez - To Win the Bout,Mike Perry,0.0131,0.7778,0.7647
+2023-12-01 23:04:10.272307,Boxing Lines - Lenar Perez vs Vladimir Reznicek - To Win the Bout,Lenar Perez,0.0131,0.9655,0.9524
 2023-12-01 17:06:10.310572,Boxing Lines - Zain Adams vs Patthaphi Camton - To Win the Bout,Zain Adams,0.012899999999999912,0.8462,0.8333
 2023-12-01 21:07:44.345714,Scores - 3rd Round Score - C. Morikawa - 3rd Round Score - C. Morikawa,Over 69.5,0.011600000000000055,0.5238,0.5122
 2023-12-01 19:06:44.051302,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Hulk (Atletico MG),0.011199999999999995,0.0588,0.0476
 2023-12-01 19:06:48.846448,BKFC 56: Perry vs Alvarez - Kai Stewart vs Howard Davis - To Win the Bout,Howard Davis,0.011099999999999999,0.7333,0.7222
+2023-12-02 01:07:01.895216,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Bam Adebayo (MIA),0.011099999999999999,0.1111,0.1
 2023-12-01 19:06:48.768794,BKFC 56: Perry vs Alvarez - Ben Rothwell vs Todd Duffee - To Win the Bout,Ben Rothwell,0.01090000000000002,0.8571,0.8462
+2023-12-02 01:07:01.163150,Northwest Division - Northwest Division 2023-24 - Division Winner,Minnesota Timberwolves,0.010699999999999987,0.3333,0.3226
 2023-12-01 19:06:44.145466,A-League - Australia A-League 2023/24 - To Finish Bottom,Western United,0.010499999999999982,0.2105,0.2
 2023-12-01 19:06:47.903027,Boxing Lines - Mea Motu vs Chandni Mehra - To Win the Bout,Mea Motu,0.010199999999999987,0.9333,0.9231
 2023-12-01 15:06:18.904713,NBL - NBL 2023/2024 - Outright,Melbourne United,0.010099999999999998,0.4545,0.4444
 2023-12-01 21:07:44.345714,Scores - 3rd Round Score - C. Morikawa - 3rd Round Score - C. Morikawa,Under 69.5,-0.010099999999999998,0.5455,0.5556
-2023-12-01 15:06:18.904713,NBL - NBL 2023/2024 - Outright,SE Melbourne Phoenix,-0.0102,0.0667,0.0769
+2023-12-02 01:07:04.324647,Boxing Lines - Gerard Hughes vs Ruadhan Farrell - To Win the Bout,Ruadhan Farrell,-0.010099999999999998,0.4444,0.4545
+2023-12-02 01:07:04.533138,Boxing Lines - Ramon Quiroga vs Mario Gutierrez - To Win the Bout,Mario Gutierrez,-0.010099999999999998,0.4444,0.4545
 2023-12-01 23:04:05.691540,Ligue 1 - France Ligue 1 2023/24 - Winner,Nice,-0.0102,0.0667,0.0769
-2023-12-01 11:05:28.847045,Boxing Lines - Gerard Hughes vs Ruadhan Farrell - To Win the Bout,Ruadhan Farrell,-0.010599999999999998,0.4545,0.4651
-2023-12-01 11:05:28.952385,Boxing Lines - Ramon Quiroga vs Mario Gutierrez - To Win the Bout,Mario Gutierrez,-0.010599999999999998,0.4545,0.4651
+2023-12-01 15:06:18.904713,NBL - NBL 2023/2024 - Outright,SE Melbourne Phoenix,-0.0102,0.0667,0.0769
+2023-12-02 01:07:01.895216,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Victor Wembanyama (SAS),-0.0102,0.0667,0.0769
+2023-12-02 01:07:01.895216,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Brook Lopez (MIL),-0.0102,0.0667,0.0769
+2023-12-02 01:07:01.877755,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Joe Mazzulla,-0.0102,0.0667,0.0769
+2023-12-02 01:07:01.877755,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Ime Udoka,-0.010899999999999993,0.1429,0.1538
 2023-12-01 15:06:18.861630,Euro Cup - Euro Cup 2023/24 - Outright,Besiktas,-0.011099999999999999,0.1,0.1111
 2023-12-01 15:06:18.917702,NBL - NBL 2023/2024 - Regular Season MVP,Nathan Sobey,-0.011199999999999995,0.0476,0.0588
 2023-12-01 19:06:48.846448,BKFC 56: Perry vs Alvarez - Kai Stewart vs Howard Davis - To Win the Bout,Kai Stewart,-0.01150000000000001,0.3333,0.3448
 2023-12-01 19:06:48.768794,BKFC 56: Perry vs Alvarez - Ben Rothwell vs Todd Duffee - To Win the Bout,Todd Duffee,-0.011700000000000016,0.2105,0.2222
 2023-12-01 15:06:22.977681,BKFC 56: Perry vs Alvarez - Christine Ferea vs Bec Rawlings - To Win the Bout,Christine Ferea,-0.011900000000000022,0.8095,0.8214
+2023-12-02 01:07:01.864037,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Luka Doncic (DAL),-0.012600000000000007,0.0588,0.0714
+2023-12-02 01:07:01.121156,Atlantic Division - Atlantic Division 2023-24 - Division Winner,Philadelphia 76ers,-0.0131,0.2222,0.2353
 2023-12-01 19:06:48.043320,Boxing Lines - Caoimhin Agyarko vs Troy Williamson - To Win the Bout,Troy Williamson,-0.013500000000000012,0.4032,0.4167
+2023-12-02 01:07:04.456182,Boxing Lines - Caoimhin Agyarko vs Troy Williamson - To Win the Bout,Troy Williamson,-0.013799999999999979,0.3846,0.3984
+2023-12-02 01:07:01.895216,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Evan Mobley (CLE),-0.013999999999999999,0.0769,0.0909
 2023-12-01 23:04:05.691540,Ligue 1 - France Ligue 1 2023/24 - Winner,Monaco,-0.014099999999999998,0.0294,0.0435
-2023-12-01 11:05:28.899596,Boxing Lines - Tyrone McKenna vs Lewis Crocker - To Win the Bout,Tyrone McKenna,-0.014300000000000035,0.2597,0.274
+2023-12-02 01:07:01.877755,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Adrian Griffin,-0.014099999999999998,0.0244,0.0385
 2023-12-01 19:06:48.167449,Boxing Lines - Darius Fulghum vs Pachino Hill - To Win the Bout,Pachino Hill,-0.014399999999999996,0.0625,0.0769
-2023-12-01 11:05:28.931239,Boxing Lines - Ian Green vs Vaughn Alexander - To Win the Bout,Vaughn Alexander,-0.014900000000000024,0.3077,0.3226
 2023-12-01 23:04:10.272307,Boxing Lines - Lenar Perez vs Vladimir Reznicek - To Win the Bout,Vladimir Reznicek,-0.016700000000000007,0.0833,0.1
 2023-12-01 19:06:48.055809,Boxing Lines - Michael Conlan vs Jordan Gill - To Win the Bout,Jordan Gill,-0.017100000000000004,0.1429,0.16
 2023-12-01 19:06:48.786453,BKFC 56: Perry vs Alvarez - Mike Perry vs Eddie Alvarez - To Win the Bout,Eddie Alvarez,-0.017299999999999982,0.2857,0.303
-2023-12-01 11:05:28.720793,Boxing Lines - Omar Salcido Gamez vs Coria Luis - To Win the Bout,Omar Salcido Gamez,-0.017899999999999916,0.7647,0.7826
 2023-12-01 19:06:47.882855,Boxing Lines - Jerome Pampellone vs Rogelio Medina - To Win the Bout,Rogelio Medina,-0.0179,0.125,0.1429
 2023-12-01 23:04:05.638523,Serie A - Italy Serie A 2023/24 - Winner,Inter Milan,-0.01880000000000004,0.6364,0.6552
 2023-12-01 23:04:12.286165,Scores - 3rd Round Score - T. Woods - 3rd Round Score - T. Woods,Over 71.5,-0.018900000000000028,0.4255,0.4444
+2023-12-02 01:07:04.393805,Boxing Lines - Felix Sturm vs Sukru Altay - To Win the Bout,Felix Sturm,-0.018900000000000028,0.8214,0.8403
+2023-12-02 01:07:01.847957,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Russell Westbrook (LAC),-0.019099999999999992,0.0476,0.0667
 2023-12-01 21:07:42.362182,Boxing Lines - Mea Motu vs Chandni Mehra - To Win the Bout,Chandni Mehra,-0.019699999999999995,0.1053,0.125
+2023-12-02 01:07:01.182372,Pacific Division - Pacific Division 2023-24 - Division Winner,Phoenix Suns,-0.019699999999999995,0.4348,0.4545
 2023-12-01 17:06:07.785129,NBL - NBL 2023/2024 - Most Losses,Brisbane Bullets,-0.02020000000000001,0.0909,0.1111
 2023-12-01 19:06:44.152229,A-League - Australia A-League 2023/24 - Top 6 Finish,Perth Glory,-0.020799999999999985,0.3125,0.3333
 2023-12-01 15:06:22.838947,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,-0.021500000000000075,0.9259,0.9474
-2023-12-01 23:04:11.194910,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,-0.021500000000000075,0.9259,0.9474
-2023-12-01 11:05:29.328804,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,-0.021500000000000075,0.9259,0.9474
 2023-12-01 17:06:11.357128,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,-0.021500000000000075,0.9259,0.9474
 2023-12-01 19:06:48.722277,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,-0.021500000000000075,0.9259,0.9474
 2023-12-01 21:07:43.241587,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,-0.021500000000000075,0.9259,0.9474
+2023-12-01 23:04:11.194910,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,-0.021500000000000075,0.9259,0.9474
+2023-12-02 01:07:05.150797,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,-0.021500000000000075,0.9259,0.9474
+2023-12-02 01:07:01.895216,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Anthony Davis (LAL),-0.023799999999999988,0.1429,0.1667
 2023-12-01 15:06:18.904713,NBL - NBL 2023/2024 - Outright,Sydney Kings,-0.02779999999999999,0.2222,0.25
+2023-12-02 01:07:01.090936,Western Conference - Western Conference 2023-24 - Western Conference Winner,Phoenix Suns,-0.02779999999999999,0.2222,0.25
 2023-12-01 15:06:18.917702,NBL - NBL 2023/2024 - Regular Season MVP,Jaylen Adams,-0.027800000000000005,0.0833,0.1111
 2023-12-01 19:06:44.051302,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Marcos Leonardo (Santos),-0.028599999999999997,0.0149,0.0435
-2023-12-01 11:05:27.860427,Cincinnati Bengals - 2023-24 Regular Season Wins O/U - Regular Season Wins - Cincinnati Bengals O/U  7.5,Over 7.5,-0.03179999999999994,0.5238,0.5556
-2023-12-01 11:05:28.710147,Boxing Lines - Nathan Gorman vs Bohdan Myronets - To Win the Bout,Bohdan Myronets,-0.04670000000000002,0.2273,0.274
 2023-12-01 19:06:44.067021,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Botafogo,-0.05559999999999998,0.8333,0.8889
 2023-12-01 19:06:44.067021,Brasileirão Série A - Brasileiro Serie A 2023 - Top 4 Finish,Flamengo,-0.05830000000000002,0.875,0.9333
 2023-12-01 21:07:44.383028,Scores - 3rd Round Score - J. Spieth - 3rd Round Score - J. Spieth,Over 69.5,-0.06220000000000003,0.5122,0.5744
 2023-12-01 21:07:44.405834,Scores - 3rd Round Score - J. Thomas - 3rd Round Score - J. Thomas,Under 69.5,-0.06230000000000002,0.4255,0.4878
 2023-12-01 19:06:44.060428,Brasileirão Série A - Brasileiro Serie A 2023 - To Be Relegated,Corinthians,-0.0647,0.002,0.0667
 2023-12-01 21:07:44.522291,Scores - 3rd Round Score - T. Woods - 3rd Round Score - T. Woods,Over 71.5,-0.06779999999999997,0.4444,0.5122
-2023-12-01 11:05:28.516514,MLB Specials 2023 - Where will Shohei Ohtani Play Game 1 of the 2024 MLB Season - MLB Free Agents,Los Angeles Dodgers,-0.07619999999999993,0.5238,0.6
 2023-12-01 19:06:44.038412,Brasileirão Série A - Brasileiro Serie A 2023 - Outright,Botafogo,-0.0807,0.0526,0.1333
 2023-12-01 19:06:44.051302,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Tiquinho Soares (Botafogo),-0.08329999999999999,0.25,0.3333
 2023-12-01 19:06:44.051302,Brasileirão Série A - Brasileiro Serie A 2023 - Top Goalscorer,Luis Suarez (Gremio),-0.08410000000000001,0.0588,0.1429
