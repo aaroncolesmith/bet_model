@@ -1,13 +1,24 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-12 07:04:43.584242,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Girona,0.16660000000000008,0.8333,0.6667
+2023-12-12 15:07:04.573717,AFC East - AFC East 2023/24 - AFC East Winner 23/24,Buffalo Bills,0.15910000000000002,0.25,0.0909
 2023-12-12 07:04:46.162645,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tucker Carlson,0.08330000000000001,0.1111,0.0278
+2023-12-12 15:07:04.608680,NFC North - NFC North 2023/24 - NFC North Winner,Detroit Lions,0.07690000000000008,0.9231,0.8462
 2023-12-12 07:04:43.578255,La Liga - Spain La Liga 2023/24 - To Be Relegated,Alavés,0.07500000000000001,0.2,0.125
 2023-12-12 07:04:44.059394,League One - England - League One 2023/24 - Top 2 Finish,Portsmouth,0.07189999999999996,0.6552,0.5833
 2023-12-12 07:04:45.313802,To Make the Playoffs - Los Angeles Clippers - To Make the 2023-24 Playoffs,Yes,0.07010000000000005,0.7368,0.6667
+2023-12-12 15:07:04.596849,NFC East - NFC East 2023/24 - NFC East Winner,Dallas Cowboys,0.0701,0.3333,0.2632
+2023-12-12 15:07:04.810075,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Christian McCaffrey,0.06670000000000004,0.4,0.3333
+2023-12-12 15:07:04.562155,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Dallas Cowboys,0.06669999999999998,0.2667,0.2
+2023-12-12 15:07:04.773862,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Shane Steichen,0.06669999999999998,0.1667,0.1
+2023-12-12 15:07:04.782914,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Damar Hamlin,0.0625,0.8403,0.7778
+2023-12-12 15:07:04.562155,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,San Francisco 49ers,0.0595,0.4762,0.4167
 2023-12-12 07:04:45.825812,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Oklahoma,0.058499999999999996,0.0625,0.004
 2023-12-12 07:04:43.590203,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Girona,0.055900000000000005,0.3636,0.3077
+2023-12-12 15:07:04.801041,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Brock Purdy,0.05520000000000003,0.4,0.3448
 2023-12-12 07:04:45.993230,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Rudy Gobert (MIN),0.05449999999999999,0.4545,0.4
+2023-12-12 07:04:45.825812,NCAA DI Men - Big 12 Conference 2023-24 - Winner,BYU,0.05249999999999999,0.0769,0.0244
 2023-12-12 07:04:45.299541,To Make the Playoffs - Indiana Pacers - To Make the 2023-24 Playoffs,Yes,0.04760000000000009,0.7143,0.6667
+2023-12-12 15:07:04.550616,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Baltimore Ravens,0.047599999999999976,0.3333,0.2857
 2023-12-12 07:04:45.836018,NCAA DI Men - Mountain West Conference 2023-24 - Winner,New Mexico,0.043800000000000006,0.2105,0.1667
 2023-12-12 07:04:45.126578,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,0.043399999999999994,0.4878,0.4444
 2023-12-12 07:04:45.340190,To Make the Playoffs - Memphis Grizzlies - To Make the 2023-24 Playoffs,No,0.043300000000000005,0.9524,0.9091
@@ -15,56 +26,71 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-12 07:04:45.465847,To Make the Playoffs - Toronto Raptors - To Make the 2023-24 Playoffs,No,0.04169999999999996,0.7917,0.75
 2023-12-12 07:04:44.046349,League One - England - League One 2023/24 - To Be Promoted,Portsmouth,0.040999999999999925,0.7333,0.6923
 2023-12-12 07:04:45.138051,Southwest Division - Southwest Division 2023-24 - Division Winner,Houston Rockets,0.03950000000000001,0.2062,0.1667
+2023-12-12 15:07:04.134125,US Foreign Policy Specials - Will Congress release aid to Ukraine before Christmas Day? - Ukraine Military Aid,White House Ukraine aid within spending package NOT passed by Congress before Christmas Day 2023,0.038999999999999924,0.7826,0.7436
 2023-12-12 07:04:46.022346,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Victor Wembanyama (SAS),0.035999999999999976,0.5122,0.4762
 2023-12-12 07:04:45.350099,To Make the Playoffs - Miami Heat - To Make the 2023-24 Playoffs,No,0.03570000000000001,0.2857,0.25
 2023-12-12 07:04:45.974226,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Stephen Curry (GSW),0.03420000000000001,0.1111,0.0769
 2023-12-12 07:04:45.289668,To Make the Playoffs - Houston Rockets - To Make the 2023-24 Playoffs,Yes,0.032299999999999995,0.3448,0.3125
-2023-12-11 23:02:43.451236,AFC South - AFC South 2023/24 - AFC South Winner,Jacksonville Jaguars,0.03080000000000005,0.8182,0.7874
+2023-12-12 15:07:04.896168,Boxing Lines - Najee Lopez vs Yildo Depestre - To Win the Bout,Najee Lopez,0.030999999999999917,0.9722,0.9412
+2023-12-12 15:07:04.792159,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Myles Garrett,0.030299999999999994,0.3636,0.3333
 2023-12-12 07:04:46.652833,NCAA Football Futures - 2023-2024 NCAA-F FCS Championship Winner - Outright,South Dakota State,0.029899999999999927,0.7222,0.6923
 2023-12-12 07:04:43.659475,Serie A - Italy Serie A 2023/24 - To Be Relegated,Empoli,0.028900000000000037,0.5744,0.5455
 2023-12-12 07:04:45.993230,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Anthony Davis (LAL),0.027999999999999997,0.1818,0.1538
+2023-12-12 15:07:04.773862,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,DeMeco Ryans,0.02779999999999999,0.25,0.2222
+2023-12-12 07:04:45.825812,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Houston,0.02779999999999999,0.25,0.2222
 2023-12-12 07:04:45.235484,To Make the Playoffs - Chicago Bulls - To Make the 2023-24 Playoffs,Yes,0.026900000000000007,0.2174,0.1905
+2023-12-12 15:07:04.916668,Boxing Lines - Eric Priest vs Paul Mendez - To Win the Bout,Eric Priest,0.026700000000000057,0.9091,0.8824
+2023-12-12 15:07:04.550616,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Buffalo Bills,0.0267,0.1176,0.0909
 2023-12-12 07:04:45.401586,To Make the Playoffs - Oklahoma City Thunder - To Make the 2023-24 Playoffs,Yes,0.02639999999999998,0.8667,0.8403
+2023-12-12 15:07:04.585368,AFC West - AFC West 2023/24 - AFC West Winner,Denver Broncos,0.025300000000000003,0.1429,0.1176
 2023-12-12 07:04:43.578255,La Liga - Spain La Liga 2023/24 - To Be Relegated,Sevilla,0.024299999999999995,0.0769,0.0526
-2023-12-12 07:04:43.669832,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Salernitana,0.023799999999999988,0.5,0.4762
+2023-12-12 15:07:04.801041,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Josh Allen,0.024299999999999995,0.0769,0.0526
+2023-12-12 15:07:04.773862,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Sean Payton,0.0242,0.0909,0.0667
+2023-12-12 07:04:45.846373,NCAA DI Men - Pac-12 Conference 2023-24 - Winner,Arizona,0.023800000000000043,0.5238,0.5
+2023-12-12 15:07:04.654694,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Buffalo Bills,Yes,0.023799999999999988,0.5,0.4762
 2023-12-12 07:04:46.652833,NCAA Football Futures - 2023-2024 NCAA-F FCS Championship Winner - Outright,North Dakota State,0.023799999999999988,0.1667,0.1429
 2023-12-12 07:04:45.104552,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,0.023799999999999988,0.1667,0.1429
+2023-12-12 07:04:43.669832,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Salernitana,0.023799999999999988,0.5,0.4762
 2023-12-12 07:04:45.412300,To Make the Playoffs - Orlando Magic - To Make the 2023-24 Playoffs,Yes,0.023799999999999932,0.7674,0.7436
-2023-12-12 07:04:43.578255,La Liga - Spain La Liga 2023/24 - To Be Relegated,Almería,0.02310000000000001,0.9231,0.9
 2023-12-12 07:04:43.590203,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Real Sociedad,0.02310000000000001,0.1,0.0769
+2023-12-12 07:04:43.578255,La Liga - Spain La Liga 2023/24 - To Be Relegated,Almería,0.02310000000000001,0.9231,0.9
 2023-12-12 07:04:43.669832,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Empoli,0.022199999999999998,0.2222,0.2
 2023-12-12 07:04:45.390924,To Make the Playoffs - New York Knicks - To Make the 2023-24 Playoffs,Yes,0.02200000000000002,0.8333,0.8113
-2023-12-11 23:02:43.384165,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,San Francisco 49ers,0.021999999999999964,0.3077,0.2857
-2023-12-12 07:04:46.002489,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Tyrese Maxey (PHI),0.02169999999999994,0.5455,0.5238
 2023-12-12 07:04:44.046349,League One - England - League One 2023/24 - To Be Promoted,Derby County,0.02169999999999994,0.5455,0.5238
+2023-12-12 07:04:46.002489,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Tyrese Maxey (PHI),0.02169999999999994,0.5455,0.5238
+2023-12-12 15:07:04.936610,Boxing Lines - Jose Tito Sanchez vs Walter Santibanes - To Win the Bout,Walter Santibanes,0.021299999999999986,0.303,0.2817
 2023-12-12 07:04:45.199055,To Make the Playoffs - Brooklyn Nets - To Make the 2023-24 Playoffs,Yes,0.020699999999999996,0.4651,0.4444
 2023-12-12 07:04:45.115493,Pacific Division - Pacific Division 2023-24 - Division Winner,L.A. Clippers,0.02049999999999999,0.1538,0.1333
-2023-12-11 23:02:43.384165,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Dallas Cowboys,0.0203,0.1379,0.1176
-2023-12-11 23:02:43.384165,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Buffalo Bills,0.0203,0.0588,0.0385
 2023-12-12 07:04:44.068579,League One - England - League One 2023/24 - Top 6 Finish,Portsmouth,0.020299999999999985,0.9615,0.9412
-2023-12-11 21:02:47.968593,La Liga - Spain La Liga 2023/24 - Winner,Real Madrid,0.01880000000000004,0.6552,0.6364
-2023-12-11 23:02:43.439754,AFC North - AFC North 2023/24 - AFC North Winner,Baltimore Ravens,0.018100000000000005,0.9412,0.9231
+2023-12-12 15:07:04.550616,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Cleveland Browns,0.019099999999999992,0.0667,0.0476
+2023-12-12 15:07:04.762818,NFL Awards & League Leaders - Damar Hamlin Come Back Player of Year - Damar Hamlin to Win CBPOY,No,0.019000000000000017,0.2857,0.2667
+2023-12-12 15:07:04.672406,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Los Angeles Rams,Yes,0.018799999999999983,0.3636,0.3448
 2023-12-12 07:04:45.257607,To Make the Playoffs - Dallas Mavericks - To Make the 2023-24 Playoffs,No,0.017600000000000005,0.3509,0.3333
 2023-12-12 07:04:45.904721,NCAA DI Men - Atlantic 10 Conference 2023-24 - Winner,Saint Joseph's,0.01759999999999999,0.1176,0.1
 2023-12-12 07:04:45.370892,To Make the Playoffs - Minnesota Timberwolves - To Make the 2023-24 Playoffs,No,0.01759999999999999,0.1176,0.1
 2023-12-12 07:04:45.455293,To Make the Playoffs - Sacramento Kings - To Make the 2023-24 Playoffs,Yes,0.017400000000000082,0.8,0.7826
-2023-12-12 07:04:45.974226,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Mikal Bridges (BKN),0.015300000000000001,0.0476,0.0323
+2023-12-12 15:07:04.550616,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Kansas City Chiefs,0.0174,0.25,0.2326
 2023-12-12 07:04:45.825812,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Iowa State,0.015300000000000001,0.0476,0.0323
+2023-12-12 07:04:45.974226,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Mikal Bridges (BKN),0.015300000000000001,0.0476,0.0323
+2023-12-12 15:07:04.643444,AFC South - AFC South 2023/24 - AFC South Winner,Jacksonville Jaguars,0.015100000000000002,0.8333,0.8182
+2023-12-12 15:07:04.550616,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Pittsburgh Steelers,0.0145,0.0244,0.0099
+2023-12-12 15:07:04.773862,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Sean McVay,0.0145,0.0244,0.0099
+2023-12-12 07:04:45.915933,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Creighton,0.014100000000000001,0.0526,0.0385
 2023-12-12 07:04:46.652833,NCAA Football Futures - 2023-2024 NCAA-F FCS Championship Winner - Outright,Albany,0.014099999999999998,0.0385,0.0244
-2023-12-11 21:02:48.387559,League One - England - League One 2023/24 - League Winner,Portsmouth,0.013800000000000034,0.3774,0.3636
-2023-12-11 23:02:43.412802,NFC East - NFC East 2023/24 - NFC East Winner,Dallas Cowboys,0.01319999999999999,0.2632,0.25
+2023-12-12 15:07:04.886220,Boxing Lines - Kelvin Davis vs Clarence Booth - To Win the Bout,Kelvin Davis,0.014000000000000012,0.9231,0.9091
+2023-12-12 15:07:04.773862,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Kevin Stefanski,0.013899999999999996,0.125,0.1111
 2023-12-12 07:04:46.002489,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Tyrese Haliburton (IND),0.012899999999999995,0.1667,0.1538
-2023-12-11 23:02:43.428136,NFC South - NFC South 2023/24 - NFC South Winner,Tampa Bay Buccaneers,0.012699999999999989,0.3636,0.3509
 2023-12-12 07:04:45.093553,Central Division - Central Division 2023-24 - Division Winner,Indiana Pacers,0.012299999999999991,0.1176,0.1053
+2023-12-12 07:04:45.915933,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Arizona,0.011900000000000008,0.0952,0.0833
 2023-12-12 07:04:45.082506,Atlantic Division - Atlantic Division 2023-24 - Division Winner,Philadelphia 76ers,0.011700000000000016,0.2222,0.2105
 2023-12-12 07:04:45.928264,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Mississippi,0.011699999999999999,0.0196,0.0079
 2023-12-12 07:04:45.162542,To Make the Playoffs - Atlanta Hawks - To Make the 2023-24 Playoffs,No,0.011600000000000055,0.5238,0.5122
-2023-12-11 23:02:43.428136,NFC South - NFC South 2023/24 - NFC South Winner,New Orleans Saints,0.01150000000000001,0.3448,0.3333
-2023-12-12 07:04:47.532223,Saudi Open - Saudi Open - Winner,Sadom Kaewkanjana,0.011199999999999995,0.0588,0.0476
 2023-12-12 07:04:45.928264,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Notre Dame,0.011199999999999995,0.0588,0.0476
-2023-12-11 23:02:43.398340,AFC West - AFC West 2023/24 - AFC West Winner,Kansas City Chiefs,0.011199999999999988,0.9524,0.9412
-2023-12-12 07:04:43.578255,La Liga - Spain La Liga 2023/24 - To Be Relegated,Villarreal,0.011099999999999999,0.1111,0.1
+2023-12-12 07:04:47.532223,Saudi Open - Saudi Open - Winner,Sadom Kaewkanjana,0.011199999999999995,0.0588,0.0476
 2023-12-12 07:04:46.162645,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Elise Stefanik,0.011099999999999999,0.1111,0.1
+2023-12-12 07:04:43.578255,La Liga - Spain La Liga 2023/24 - To Be Relegated,Villarreal,0.011099999999999999,0.1111,0.1
+2023-12-12 15:07:04.724452,NCAA Football Futures - 2023-2024 NCAA Championship Winner - Michigan Wins the NCAAF College Football Playoff ,No,0.011099999999999999,0.7333,0.7222
+2023-12-12 15:07:05.313812,AfrAsia Bank Mauritius Open - Match-Ups - Tournament Match-Up - C. Jarvis vs O. Bekker - Tournament Match-Up,Oliver Bekker,0.01100000000000001,0.5348,0.5238
 2023-12-12 07:04:44.046349,League One - England - League One 2023/24 - To Be Promoted,Stevenage,0.010899999999999993,0.1538,0.1429
 2023-12-12 07:04:45.380934,To Make the Playoffs - New Orleans Pelicans - To Make the 2023-24 Playoffs,Yes,0.010699999999999932,0.5455,0.5348
 2023-12-12 07:04:45.928264,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,South Carolina,0.010499999999999982,0.2105,0.2
@@ -72,30 +98,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-12 07:04:47.319086,AfrAsia Bank Mauritius Open - Afra Bank Mauritius Open - Winner,Matthieu Pavon,0.0102,0.0769,0.0667
 2023-12-12 07:04:44.068579,League One - England - League One 2023/24 - Top 6 Finish,Blackpool,0.010099999999999998,0.4545,0.4444
 2023-12-12 07:04:45.162542,To Make the Playoffs - Atlanta Hawks - To Make the 2023-24 Playoffs,Yes,-0.010099999999999998,0.5455,0.5556
-2023-12-11 23:02:43.595564,Boxing Lines - Tervel Pulev vs Dionardo Minor - To Win the Bout,Tervel Pulev,-0.010199999999999987,0.9231,0.9333
 2023-12-12 07:04:43.590203,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Athletic Bilbao,-0.0102,0.0667,0.0769
 2023-12-12 07:04:43.578255,La Liga - Spain La Liga 2023/24 - To Be Relegated,Osasuna,-0.0102,0.0667,0.0769
 2023-12-12 07:04:47.034905,Boxing Lines - Galal Yafai vs Rocco Santomauro - To Win the Bout,Rocco Santomauro,-0.010200000000000015,0.1379,0.1481
+2023-12-12 15:07:05.313812,AfrAsia Bank Mauritius Open - Match-Ups - Tournament Match-Up - C. Jarvis vs O. Bekker - Tournament Match-Up,Casey Jarvis,-0.010699999999999932,0.5348,0.5455
 2023-12-12 07:04:45.993230,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Herbert Jones (NO),-0.010700000000000001,0.0278,0.0385
-2023-12-12 07:04:45.904721,NCAA DI Men - Atlantic 10 Conference 2023-24 - Winner,Virginia Commonwealth,-0.010899999999999993,0.1429,0.1538
 2023-12-12 07:04:45.928264,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,LSU,-0.010899999999999993,0.1429,0.1538
+2023-12-12 07:04:45.904721,NCAA DI Men - Atlantic 10 Conference 2023-24 - Winner,Virginia Commonwealth,-0.010899999999999993,0.1429,0.1538
 2023-12-12 07:04:45.380934,To Make the Playoffs - New Orleans Pelicans - To Make the 2023-24 Playoffs,No,-0.01100000000000001,0.5238,0.5348
-2023-12-12 07:04:44.059394,League One - England - League One 2023/24 - Top 2 Finish,Barnsley,-0.011099999999999999,0.1,0.1111
 2023-12-12 07:04:44.059394,League One - England - League One 2023/24 - Top 2 Finish,Stevenage,-0.011099999999999999,0.1,0.1111
-2023-12-12 07:04:45.993230,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Jaren Jackson Jr. (MEM),-0.011199999999999995,0.0476,0.0588
+2023-12-12 07:04:44.059394,League One - England - League One 2023/24 - Top 2 Finish,Barnsley,-0.011099999999999999,0.1,0.1111
 2023-12-12 07:04:45.009667,NBA Championship - NBA Championship 2023-24 - NBA Champion,Golden State Warriors,-0.011199999999999995,0.0476,0.0588
+2023-12-12 07:04:45.993230,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Jaren Jackson Jr. (MEM),-0.011199999999999995,0.0476,0.0588
 2023-12-12 07:04:45.974226,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Luka Doncic (DAL),-0.011199999999999995,0.0476,0.0588
+2023-12-12 15:07:04.724452,NCAA Football Futures - 2023-2024 NCAA Championship Winner - Michigan Wins the NCAAF College Football Playoff ,Yes,-0.01150000000000001,0.3333,0.3448
 2023-12-12 07:04:46.162645,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tom Cotton,-0.011699999999999999,0.0079,0.0196
 2023-12-12 07:04:46.162645,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Donald Trump,-0.012100000000000001,0.0123,0.0244
-2023-12-11 23:02:43.412802,NFC East - NFC East 2023/24 - NFC East Winner,Philadelphia Eagles,-0.012600000000000056,0.7874,0.8
-2023-12-12 07:04:45.825812,NCAA DI Men - Big 12 Conference 2023-24 - Winner,West Virginia,-0.012700000000000003,0.0196,0.0323
+2023-12-12 15:07:04.829032,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Bijan Robinson,-0.012700000000000003,0.0196,0.0323
 2023-12-12 07:04:45.928264,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Tennessee,-0.012700000000000003,0.0196,0.0323
+2023-12-12 07:04:45.825812,NCAA DI Men - Big 12 Conference 2023-24 - Winner,West Virginia,-0.012700000000000003,0.0196,0.0323
 2023-12-12 07:04:44.068579,League One - England - League One 2023/24 - Top 6 Finish,Peterborough United,-0.012899999999999912,0.8333,0.8462
-2023-12-11 23:02:43.451236,AFC South - AFC South 2023/24 - AFC South Winner,Houston Texans,-0.012899999999999995,0.1538,0.1667
 2023-12-12 07:04:45.993230,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Kristaps Porzingis (BOS),-0.012899999999999998,0.0149,0.0278
 2023-12-12 07:04:45.974226,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Jayson Tatum (BOS),-0.012899999999999998,0.0149,0.0278
-2023-12-12 07:04:46.162645,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Jared Kushner,-0.013,0.0066,0.0196
 2023-12-12 07:04:46.162645,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Katie Britt,-0.013,0.0066,0.0196
+2023-12-12 07:04:46.162645,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Jared Kushner,-0.013,0.0066,0.0196
 2023-12-12 07:04:45.093553,Central Division - Central Division 2023-24 - Division Winner,Milwaukee Bucks,-0.0131,0.7647,0.7778
 2023-12-12 07:04:45.983717,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Chris Finch,-0.01319999999999999,0.25,0.2632
 2023-12-12 07:04:45.983717,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Ime Udoka,-0.013899999999999996,0.1111,0.125
@@ -106,78 +132,104 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-12 07:04:43.578255,La Liga - Spain La Liga 2023/24 - To Be Relegated,Las Palmas,-0.014099999999999998,0.0244,0.0385
 2023-12-12 07:04:45.983717,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Joe Mazzulla,-0.014100000000000001,0.0385,0.0526
 2023-12-12 07:04:44.068579,League One - England - League One 2023/24 - Top 6 Finish,Stevenage,-0.01429999999999998,0.6226,0.6369
+2023-12-12 07:04:45.915933,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Purdue,-0.01440000000000001,0.0909,0.1053
 2023-12-12 07:04:46.162645,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Candace Owens,-0.0145,0.0099,0.0244
+2023-12-12 15:07:04.829032,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Jaxon Smith-Njigba,-0.014599999999999998,0.005,0.0196
 2023-12-12 07:04:46.162645,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Ted Cruz,-0.014599999999999998,0.005,0.0196
 2023-12-12 07:04:45.965165,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Austin Reaves (LAL),-0.01469999999999999,0.2353,0.25
+2023-12-12 15:07:04.829032,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Rashee Rice,-0.0151,0.0066,0.0217
 2023-12-12 07:04:45.904721,NCAA DI Men - Atlantic 10 Conference 2023-24 - Winner,Duquesne,-0.015100000000000002,0.1667,0.1818
 2023-12-12 07:04:44.068579,League One - England - League One 2023/24 - Top 6 Finish,Charlton Athletic,-0.015100000000000002,0.1667,0.1818
 2023-12-12 07:04:45.965165,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Immanuel Quickley (NYK),-0.015100000000000002,0.1667,0.1818
-2023-12-11 23:02:43.384165,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Philadelphia Eagles,-0.015700000000000006,0.1176,0.1333
+2023-12-12 15:07:04.782914,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Josh Dobbs,-0.015499999999999998,0.0123,0.0278
+2023-12-12 15:07:04.801041,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Lamar Jackson,-0.015899999999999997,0.1379,0.1538
 2023-12-12 07:04:45.974226,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Anthony Edwards (MIN),-0.0159,0.0164,0.0323
+2023-12-12 15:07:04.672406,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Los Angeles Rams,No,-0.01629999999999998,0.7059,0.7222
 2023-12-12 07:04:45.104552,Northwest Division - Northwest Division 2023-24 - Division Winner,Denver Nuggets,-0.016699999999999937,0.5833,0.6
 2023-12-12 07:04:44.046349,League One - England - League One 2023/24 - To Be Promoted,Barnsley,-0.016699999999999993,0.25,0.2667
 2023-12-12 07:04:47.319086,AfrAsia Bank Mauritius Open - Afra Bank Mauritius Open - Winner,Guido Migliozzi,-0.0168,0.0217,0.0385
 2023-12-12 07:04:45.370892,To Make the Playoffs - Minnesota Timberwolves - To Make the 2023-24 Playoffs,Yes,-0.017100000000000004,0.95,0.9671
 2023-12-12 07:04:45.965165,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Chris Paul (GSW),-0.017400000000000002,0.0149,0.0323
+2023-12-12 15:07:04.936610,Boxing Lines - Jose Tito Sanchez vs Walter Santibanes - To Win the Bout,Jose Tito Sanchez,-0.017899999999999916,0.7647,0.7826
 2023-12-12 07:04:45.965165,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Cole Anthony (ORL),-0.0179,0.125,0.1429
-2023-12-11 21:02:48.387559,League One - England - League One 2023/24 - League Winner,Peterborough United,-0.0179,0.125,0.1429
-2023-12-12 07:04:45.974226,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Tyrese Haliburton (IND),-0.0179,0.125,0.1429
 2023-12-12 07:04:46.162645,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Donald Trump Jr.,-0.0179,0.0099,0.0278
-2023-12-12 07:04:46.002489,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Cam Thomas (BKN),-0.018099999999999998,0.0345,0.0526
-2023-12-12 07:04:45.928264,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Utah,-0.018099999999999998,0.0588,0.0769
+2023-12-12 07:04:45.974226,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Tyrese Haliburton (IND),-0.0179,0.125,0.1429
 2023-12-12 07:04:46.162645,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Kari Lake,-0.018099999999999998,0.0588,0.0769
+2023-12-12 07:04:45.928264,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Utah,-0.018099999999999998,0.0588,0.0769
+2023-12-12 07:04:46.002489,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Cam Thomas (BKN),-0.018099999999999998,0.0345,0.0526
 2023-12-12 07:04:43.578255,La Liga - Spain La Liga 2023/24 - To Be Relegated,Granada,-0.018199999999999994,0.8,0.8182
 2023-12-12 07:04:45.257607,To Make the Playoffs - Dallas Mavericks - To Make the 2023-24 Playoffs,Yes,-0.018999999999999906,0.7143,0.7333
-2023-12-12 07:04:43.584242,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Sociedad,-0.019000000000000017,0.2667,0.2857
 2023-12-12 07:04:45.455293,To Make the Playoffs - Sacramento Kings - To Make the 2023-24 Playoffs,No,-0.019000000000000017,0.2667,0.2857
-2023-12-12 07:04:45.983717,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Michael Malone,-0.019800000000000005,0.0278,0.0476
+2023-12-12 07:04:43.584242,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Sociedad,-0.019000000000000017,0.2667,0.2857
+2023-12-12 15:07:04.829032,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Jahmyr Gibbs,-0.019099999999999995,0.0244,0.0435
+2023-12-12 15:07:04.773862,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Robert Saleh,-0.019600000000000003,0.0149,0.0345
 2023-12-12 07:04:45.983717,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Jason Kidd,-0.019800000000000005,0.0278,0.0476
+2023-12-12 07:04:45.983717,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Michael Malone,-0.019800000000000005,0.0278,0.0476
 2023-12-12 07:04:44.068579,League One - England - League One 2023/24 - Top 6 Finish,Bolton Wanderers,-0.020199999999999996,0.8889,0.9091
 2023-12-12 07:04:45.071495,Western Conference - Western Conference 2023-24 - Western Conference Winner,Golden State Warriors,-0.02020000000000001,0.0909,0.1111
+2023-12-12 15:07:04.773862,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Kevin O'Connell,-0.0203,0.0385,0.0588
 2023-12-12 07:04:43.584242,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Betis,-0.0203,0.0385,0.0588
-2023-12-11 23:02:43.428136,NFC South - NFC South 2023/24 - NFC South Winner,Atlanta Falcons,-0.02100000000000002,0.3636,0.3846
 2023-12-12 07:04:44.046349,League One - England - League One 2023/24 - To Be Promoted,Peterborough United,-0.021699999999999997,0.4545,0.4762
 2023-12-12 07:04:44.046349,League One - England - League One 2023/24 - To Be Promoted,Oxford United,-0.021999999999999964,0.2857,0.3077
+2023-12-12 07:04:45.815476,NCAA DI Men - ACC Conference 2023-24 - Winner,Duke,-0.021999999999999964,0.2857,0.3077
 2023-12-12 07:04:45.199055,To Make the Playoffs - Brooklyn Nets - To Make the 2023-24 Playoffs,No,-0.022600000000000064,0.6,0.6226
 2023-12-12 07:04:45.235484,To Make the Playoffs - Chicago Bulls - To Make the 2023-24 Playoffs,No,-0.02310000000000001,0.8519,0.875
-2023-12-12 07:04:43.578255,La Liga - Spain La Liga 2023/24 - To Be Relegated,Cádiz,-0.023799999999999988,0.4762,0.5
-2023-12-11 21:02:48.387559,League One - England - League One 2023/24 - League Winner,Derby County,-0.023799999999999988,0.1429,0.1667
 2023-12-12 07:04:45.126578,Southeast Division - Southeast Division 2023-24 - Division Winner,Miami Heat,-0.023799999999999988,0.4762,0.5
+2023-12-12 07:04:43.578255,La Liga - Spain La Liga 2023/24 - To Be Relegated,Cádiz,-0.023799999999999988,0.4762,0.5
 2023-12-12 07:04:45.390924,To Make the Playoffs - New York Knicks - To Make the 2023-24 Playoffs,No,-0.023800000000000016,0.2326,0.2564
 2023-12-12 07:04:45.412300,To Make the Playoffs - Orlando Magic - To Make the 2023-24 Playoffs,No,-0.02410000000000001,0.2985,0.3226
-2023-12-11 21:02:50.185579,Boxing Lines - David Morrell vs Sena Agbeko - To Win the Bout,Sena Agbeko,-0.024999999999999994,0.1,0.125
+2023-12-12 15:07:04.773862,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Pete Carroll,-0.024600000000000004,0.0099,0.0345
+2023-12-12 15:07:04.562155,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Detroit Lions,-0.024999999999999994,0.1,0.125
 2023-12-12 07:04:44.068579,League One - England - League One 2023/24 - Top 6 Finish,Barnsley,-0.025599999999999956,0.5744,0.6
+2023-12-12 15:07:04.782914,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Zach Wilson,-0.0262,0.0123,0.0385
 2023-12-12 07:04:46.162645,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Mike Pence,-0.0262,0.0123,0.0385
+2023-12-12 15:07:04.654694,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Buffalo Bills,No,-0.026499999999999968,0.5652,0.5917
 2023-12-12 07:04:45.401586,To Make the Playoffs - Oklahoma City Thunder - To Make the 2023-24 Playoffs,No,-0.02729999999999999,0.2,0.2273
 2023-12-12 07:04:45.289668,To Make the Playoffs - Houston Rockets - To Make the 2023-24 Playoffs,No,-0.027800000000000047,0.7222,0.75
+2023-12-12 15:07:04.916668,Boxing Lines - Eric Priest vs Paul Mendez - To Win the Bout,Paul Mendez,-0.027999999999999997,0.1538,0.1818
 2023-12-12 07:04:46.022346,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Chet Holmgren (OKC),-0.02960000000000007,0.6,0.6296
 2023-12-12 07:04:45.115493,Pacific Division - Pacific Division 2023-24 - Division Winner,Phoenix Suns,-0.030299999999999994,0.3333,0.3636
+2023-12-12 15:07:04.562155,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Philadelphia Eagles,-0.031399999999999983,0.2353,0.2667
+2023-12-12 15:07:04.829032,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Will Levis,-0.0319,0.0066,0.0385
 2023-12-12 07:04:46.011996,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Nikola Jokic (DEN),-0.03210000000000002,0.3846,0.4167
 2023-12-12 07:04:46.652833,NCAA Football Futures - 2023-2024 NCAA-F FCS Championship Winner - Outright,Montana,-0.033300000000000024,0.1667,0.2
 2023-12-12 07:04:44.059394,League One - England - League One 2023/24 - Top 2 Finish,Oxford United,-0.033300000000000024,0.1667,0.2
+2023-12-12 15:07:04.792159,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Micah Parsons,-0.03479999999999994,0.5652,0.6
 2023-12-12 07:04:45.350099,To Make the Playoffs - Miami Heat - To Make the 2023-24 Playoffs,Yes,-0.035600000000000076,0.7826,0.8182
-2023-12-11 21:02:48.387559,League One - England - League One 2023/24 - League Winner,Bolton Wanderers,-0.03570000000000001,0.25,0.2857
 2023-12-12 07:04:45.965165,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Russell Westbrook (LAC),-0.036199999999999996,0.0164,0.0526
-2023-12-11 23:02:43.384165,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Miami Dolphins,-0.037599999999999995,0.1053,0.1429
+2023-12-12 15:07:04.134125,US Foreign Policy Specials - Will Congress release aid to Ukraine before Christmas Day? - Ukraine Military Aid,White House Ukraine aid within spending package passed by Congress before Christmas Day 2023,-0.03689999999999999,0.2857,0.3226
+2023-12-12 15:07:04.896168,Boxing Lines - Najee Lopez vs Yildo Depestre - To Win the Bout,Yildo Depestre,-0.0374,0.0769,0.1143
 2023-12-12 07:04:45.465847,To Make the Playoffs - Toronto Raptors - To Make the 2023-24 Playoffs,Yes,-0.03849999999999998,0.274,0.3125
 2023-12-12 07:04:44.068579,League One - England - League One 2023/24 - Top 6 Finish,Oxford United,-0.040999999999999925,0.6923,0.7333
 2023-12-12 07:04:45.974226,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,LeBron James (LAL),-0.04169999999999999,0.125,0.1667
+2023-12-12 15:07:04.801041,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Tua Tagovailoa,-0.04239999999999999,0.0345,0.0769
 2023-12-12 07:04:45.340190,To Make the Playoffs - Memphis Grizzlies - To Make the 2023-24 Playoffs,Yes,-0.04269999999999999,0.1111,0.1538
 2023-12-12 07:04:45.974226,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Donovan Mitchell (CLE),-0.0429,0.0196,0.0625
 2023-12-12 07:04:43.584242,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Athletic Bilbao,-0.044499999999999984,0.2222,0.2667
 2023-12-12 07:04:45.126578,Southeast Division - Southeast Division 2023-24 - Division Winner,Atlanta Hawks,-0.04620000000000002,0.1538,0.2
+2023-12-12 15:07:04.820337,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Brian Branch,-0.047099999999999996,0.0196,0.0667
 2023-12-12 07:04:45.138051,Southwest Division - Southwest Division 2023-24 - Division Winner,New Orleans Pelicans,-0.047599999999999976,0.2857,0.3333
 2023-12-12 07:04:45.299541,To Make the Playoffs - Indiana Pacers - To Make the 2023-24 Playoffs,No,-0.04910000000000003,0.3509,0.4
 2023-12-12 07:04:45.974226,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,De'Aaron Fox (SAC),-0.05249999999999999,0.0244,0.0769
 2023-12-12 07:04:44.046349,League One - England - League One 2023/24 - To Be Promoted,Bolton Wanderers,-0.05359999999999998,0.5833,0.6369
 2023-12-12 07:04:45.928264,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Connecticut,-0.05379999999999999,0.1,0.1538
+2023-12-12 15:07:04.596849,NFC East - NFC East 2023/24 - NFC East Winner,Philadelphia Eagles,-0.05410000000000004,0.7333,0.7874
 2023-12-12 07:04:44.059394,League One - England - League One 2023/24 - Top 2 Finish,Bolton Wanderers,-0.05449999999999999,0.4,0.4545
 2023-12-12 07:04:43.590203,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Atlético Madrid,-0.05520000000000003,0.6,0.6552
 2023-12-12 07:04:45.983717,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Rick Carlisle,-0.05559999999999998,0.1111,0.1667
 2023-12-12 07:04:43.669832,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Cagliari,-0.05679999999999999,0.125,0.1818
+2023-12-12 15:07:04.773862,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Mike Tomlin,-0.0573,0.0196,0.0769
 2023-12-12 07:04:45.993230,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Bam Adebayo (MIA),-0.0592,0.0033,0.0625
+2023-12-12 15:07:04.810075,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Tyreek Hill,-0.0625,0.6875,0.75
+2023-12-12 15:07:04.608680,NFC North - NFC North 2023/24 - NFC North Winner,Green Bay Packers,-0.0655,0.0345,0.1
 2023-12-12 07:04:43.578255,La Liga - Spain La Liga 2023/24 - To Be Relegated,Mallorca,-0.06820000000000001,0.1818,0.25
 2023-12-12 07:04:46.002489,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Alperen Sengun (HOU),-0.06860000000000002,0.1667,0.2353
 2023-12-12 07:04:45.313802,To Make the Playoffs - Los Angeles Clippers - To Make the 2023-24 Playoffs,No,-0.0721,0.3279,0.4
+2023-12-12 15:07:04.782914,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Tua Tagovailoa,-0.0794,0.1111,0.1905
+2023-12-12 15:07:04.773862,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Mike McDaniel,-0.08150000000000002,0.1538,0.2353
+2023-12-12 07:04:45.825812,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Texas,-0.08179999999999998,0.1,0.1818
+2023-12-12 15:07:04.550616,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Miami Dolphins,-0.08549999999999996,0.2222,0.3077
+2023-12-12 15:07:04.801041,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Tyreek Hill,-0.0871,0.0667,0.1538
 2023-12-12 07:04:43.659475,Serie A - Italy Serie A 2023/24 - To Be Relegated,Cagliari,-0.09160000000000001,0.3846,0.4762
 2023-12-12 07:04:45.974226,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Damian Lillard (MIL),-0.15709999999999996,0.2,0.3571
+2023-12-12 15:07:04.573717,AFC East - AFC East 2023/24 - AFC East Winner 23/24,Miami Dolphins,-0.16149999999999998,0.8,0.9615
