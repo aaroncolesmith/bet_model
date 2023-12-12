@@ -12,14 +12,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-11 13:02:06.518017,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Mike McDaniel,0.06860000000000002,0.2353,0.1667
 2023-12-11 17:05:12.544200,NBL - NBL 2023/2024 - To Make Grand Final,Tasmania JackJumpers,0.06670000000000004,0.4,0.3333
 2023-12-11 13:02:06.527014,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Damar Hamlin,0.0635,0.7778,0.7143
-2023-12-11 17:05:12.463495,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Partizan,0.05860000000000004,0.5348,0.4762
 2023-12-11 17:05:12.463495,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Anadolu Efes,0.05860000000000004,0.5348,0.4762
+2023-12-11 17:05:12.463495,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Partizan,0.05860000000000004,0.5348,0.4762
 2023-12-11 17:05:12.544200,NBL - NBL 2023/2024 - To Make Grand Final,SE Melbourne Phoenix,0.05710000000000001,0.2,0.1429
 2023-12-11 17:05:12.552780,NBL - NBL 2023/2024 - To Make Top 4,Cairns Taipans,0.05550000000000002,0.2222,0.1667
 2023-12-11 11:04:05.401311,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Club América,0.055400000000000005,0.6923,0.6369
 2023-12-11 15:04:13.064813,NBL - NBL 2023/2024 - Most Losses,Adelaide 36ers,0.05449999999999999,0.4545,0.4
-2023-12-11 13:02:06.544427,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Tyreek Hill,0.05379999999999999,0.1538,0.1
 2023-12-11 13:02:06.544427,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Lamar Jackson,0.05379999999999999,0.1538,0.1
+2023-12-11 13:02:06.544427,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Tyreek Hill,0.05379999999999999,0.1538,0.1
 2023-12-11 17:05:12.451424,Euroleague - Euroleague 2023/24 - To Make Final Four,Virtus Bologna,0.04040000000000002,0.2222,0.1818
 2023-12-11 13:02:06.518017,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Kyle Shanahan,0.0398,0.0833,0.0435
 2023-12-11 13:02:06.544427,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Josh Allen,0.0377,0.0526,0.0149
@@ -27,6 +27,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-11 17:05:12.451424,Euroleague - Euroleague 2023/24 - To Make Final Four,Baskonia,0.033300000000000024,0.2,0.1667
 2023-12-11 13:02:06.527014,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Baker Mayfield,0.033,0.0526,0.0196
 2023-12-11 17:05:12.552780,NBL - NBL 2023/2024 - To Make Top 4,Melboune United,0.03290000000000004,0.9615,0.9286
+2023-12-11 23:02:43.451236,AFC South - AFC South 2023/24 - AFC South Winner,Jacksonville Jaguars,0.03080000000000005,0.8182,0.7874
 2023-12-11 17:05:12.544200,NBL - NBL 2023/2024 - To Make Grand Final,Cairns Taipans,0.024299999999999995,0.0769,0.0526
 2023-12-11 17:05:12.552780,NBL - NBL 2023/2024 - To Make Top 4,Illawarra Hawks,0.024299999999999995,0.0588,0.0345
 2023-12-11 17:05:12.552780,NBL - NBL 2023/2024 - To Make Top 4,Brisbane Bullets,0.023799999999999988,0.3571,0.3333
@@ -35,43 +36,56 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-11 17:05:13.458195,Boxing Lines - David Morrell vs Sena Agbeko - To Win the Bout,Sena Agbeko,0.022400000000000003,0.125,0.1026
 2023-12-11 13:02:06.535764,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Josh Allen (JAC),0.022200000000000004,0.0345,0.0123
 2023-12-11 15:04:13.064813,NBL - NBL 2023/2024 - Most Losses,New Zealand Breakers,0.022199999999999998,0.1333,0.1111
+2023-12-11 23:02:43.384165,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,San Francisco 49ers,0.021999999999999964,0.3077,0.2857
 2023-12-11 17:05:12.516578,NBL - NBL 2023/2024 - Most Losses,Adelaide 36ers,0.021699999999999997,0.4762,0.4545
 2023-12-11 17:05:12.463495,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Bayern Munich,0.02100000000000002,0.3846,0.3636
 2023-12-11 13:02:06.553509,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Christian McCaffrey,0.020799999999999985,0.3333,0.3125
+2023-12-11 23:02:43.384165,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Buffalo Bills,0.0203,0.0588,0.0385
+2023-12-11 23:02:43.384165,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Dallas Cowboys,0.0203,0.1379,0.1176
 2023-12-11 11:04:07.829110,AFC Championship - AFC Championship 2023/24 - AFC Championship Winner 23/24,Cleveland Browns,0.019800000000000005,0.0476,0.0278
 2023-12-11 15:04:13.134487,Super Ligi - Turkey BSL 2023/24 - Outright,Anadolu Efes,0.019699999999999995,0.4545,0.4348
 2023-12-11 21:02:47.968593,La Liga - Spain La Liga 2023/24 - Winner,Real Madrid,0.01880000000000004,0.6552,0.6364
 2023-12-11 17:05:12.451424,Euroleague - Euroleague 2023/24 - To Make Final Four,Partizan,0.01820000000000002,0.2,0.1818
+2023-12-11 23:02:43.439754,AFC North - AFC North 2023/24 - AFC North Winner,Baltimore Ravens,0.018100000000000005,0.9412,0.9231
 2023-12-11 17:05:13.603211,AfrAsia Bank Mauritius Open - Afra Bank Mauritius Open - Winner,Antoine Rozner,0.018099999999999998,0.0769,0.0588
 2023-12-11 17:05:12.451424,Euroleague - Euroleague 2023/24 - To Make Final Four,Valencia,0.0179,0.1429,0.125
 2023-12-11 11:04:08.532308,Boxing Lines - Anthony Joshua vs Otto Wallin - To Win the Bout,Otto Wallin,0.01629999999999998,0.2632,0.2469
 2023-12-11 17:05:12.576175,LNB Pro A - France LNB Pro A 2023/24 - Outright,AS Monaco,0.015100000000000002,0.8333,0.8182
 2023-12-11 17:05:12.451424,Euroleague - Euroleague 2023/24 - To Make Final Four,Bayern Munich,0.013899999999999996,0.125,0.1111
 2023-12-11 21:02:48.387559,League One - England - League One 2023/24 - League Winner,Portsmouth,0.013800000000000034,0.3774,0.3636
+2023-12-11 23:02:43.412802,NFC East - NFC East 2023/24 - NFC East Winner,Dallas Cowboys,0.01319999999999999,0.2632,0.25
+2023-12-11 23:02:43.428136,NFC South - NFC South 2023/24 - NFC South Winner,Tampa Bay Buccaneers,0.012699999999999989,0.3636,0.3509
 2023-12-11 13:02:06.739110,Boxing Lines - Chris Colbert vs Jose Valenzuela - To Win the Bout,Chris Colbert,0.012199999999999989,0.5,0.4878
 2023-12-11 17:05:13.287733,NFL Weekly Specials - MNF Specials - Requested Specials,"D.Henry 75+ Rush Yds, D.Hopkins & J.Waddle 75+ Rec Yds Each, T.Hill 125+ Rec Yds, S.Barkley 110+ Rushing + Rec Yds",0.011699999999999999,0.0196,0.0079
+2023-12-11 23:02:43.428136,NFC South - NFC South 2023/24 - NFC South Winner,New Orleans Saints,0.01150000000000001,0.3448,0.3333
 2023-12-11 17:05:13.603211,AfrAsia Bank Mauritius Open - Afra Bank Mauritius Open - Winner,Jayden Schaper,0.011199999999999995,0.0588,0.0476
+2023-12-11 23:02:43.398340,AFC West - AFC West 2023/24 - AFC West Winner,Kansas City Chiefs,0.011199999999999988,0.9524,0.9412
+2023-12-11 17:05:12.565144,B League - Japan B League 1 2023/2024 - Outright,Nagoya Diamond Dolphins,0.011099999999999999,0.1111,0.1
 2023-12-11 11:04:08.491407,Boxing Lines - Daniel Dubois vs Jarrell Miller - To Win the Bout,Daniel Dubois,0.011099999999999999,0.7937,0.7826
 2023-12-11 17:05:12.565144,B League - Japan B League 1 2023/2024 - Outright,Utsunomiya Brex,0.011099999999999999,0.1111,0.1
-2023-12-11 17:05:12.565144,B League - Japan B League 1 2023/2024 - Outright,Nagoya Diamond Dolphins,0.011099999999999999,0.1111,0.1
 2023-12-11 17:05:12.451424,Euroleague - Euroleague 2023/24 - To Make Final Four,AS Monaco,0.010099999999999998,0.5556,0.5455
+2023-12-11 23:02:43.595564,Boxing Lines - Tervel Pulev vs Dionardo Minor - To Win the Bout,Tervel Pulev,-0.010199999999999987,0.9231,0.9333
 2023-12-11 13:02:06.544427,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Christian McCaffrey,-0.011199999999999995,0.0323,0.0435
 2023-12-11 13:02:06.563462,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Joey Porter Jr,-0.011200000000000002,0.0132,0.0244
 2023-12-11 11:04:08.331624,Boxing Lines - Chris Colbert vs Jose Valenzuela - To Win the Bout,Chris Colbert,-0.012199999999999989,0.4878,0.5
+2023-12-11 23:02:43.412802,NFC East - NFC East 2023/24 - NFC East Winner,Philadelphia Eagles,-0.012600000000000056,0.7874,0.8
+2023-12-11 23:02:43.451236,AFC South - AFC South 2023/24 - AFC South Winner,Houston Texans,-0.012899999999999995,0.1538,0.1667
 2023-12-11 13:02:06.518017,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,DeMeco Ryans,-0.0131,0.2222,0.2353
-2023-12-11 17:05:12.544200,NBL - NBL 2023/2024 - To Make Grand Final,Brisbane Bullets,-0.013899999999999996,0.1111,0.125
 2023-12-11 17:05:12.436454,Euroleague - Euroleague 2023/24 - Regular Season League Winner,Barcelona,-0.013899999999999996,0.1111,0.125
 2023-12-11 17:05:12.451424,Euroleague - Euroleague 2023/24 - To Make Final Four,Crvena Zvezda,-0.013899999999999996,0.1111,0.125
+2023-12-11 17:05:12.544200,NBL - NBL 2023/2024 - To Make Grand Final,Brisbane Bullets,-0.013899999999999996,0.1111,0.125
 2023-12-11 13:02:06.544427,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Tua Tagovailoa,-0.013999999999999999,0.0769,0.0909
 2023-12-11 11:04:05.401311,Liga MX - Apertura - Liga MX - Apertura 2023 Futures - Winner,Tigres UANL,-0.01419999999999999,0.3704,0.3846
 2023-12-11 17:05:12.544200,NBL - NBL 2023/2024 - To Make Grand Final,New Zealand Breakers,-0.014399999999999996,0.0625,0.0769
 2023-12-11 13:02:06.781277,Boxing Lines - David Morrell vs Sena Agbeko - To Win the Bout,Sena Agbeko,-0.015,0.1026,0.1176
 2023-12-11 13:02:06.535764,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Aidan Hutchinson,-0.015499999999999998,0.0123,0.0278
+2023-12-11 23:02:43.384165,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Philadelphia Eagles,-0.015700000000000006,0.1176,0.1333
 2023-12-11 13:02:06.527014,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,T.J. Watt,-0.0159,0.0164,0.0323
 2023-12-11 21:02:48.387559,League One - England - League One 2023/24 - League Winner,Peterborough United,-0.0179,0.125,0.1429
 2023-12-11 17:05:12.463495,Euroleague - Euroleague 2023/24 - To Make the Playoffs,AS Monaco,-0.017900000000000027,0.8571,0.875
 2023-12-11 17:05:12.544200,NBL - NBL 2023/2024 - To Make Grand Final,Sydney Kings,-0.019699999999999995,0.4348,0.4545
 2023-12-11 17:05:12.634083,Super Ligi - Turkey BSL 2023/24 - Outright,Fenerbahce,-0.01970000000000005,0.5455,0.5652
+2023-12-11 23:02:43.428136,NFC South - NFC South 2023/24 - NFC South Winner,Atlanta Falcons,-0.02100000000000002,0.3636,0.3846
 2023-12-11 13:02:06.544427,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Trevor Lawrence,-0.022400000000000003,0.0099,0.0323
 2023-12-11 21:02:48.387559,League One - England - League One 2023/24 - League Winner,Derby County,-0.023799999999999988,0.1429,0.1667
 2023-12-11 13:02:06.535764,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,DaRon Bland,-0.0242,0.0667,0.0909
@@ -79,16 +93,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-11 17:05:12.463495,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Zalgiris,-0.02560000000000001,0.3077,0.3333
 2023-12-11 17:05:12.552780,NBL - NBL 2023/2024 - To Make Top 4,Sydney Kings,-0.027800000000000047,0.75,0.7778
 2023-12-11 17:05:12.451424,Euroleague - Euroleague 2023/24 - To Make Final Four,Milano,-0.031799999999999995,0.1111,0.1429
-2023-12-11 17:05:12.451424,Euroleague - Euroleague 2023/24 - To Make Final Four,Fenerbahce,-0.03210000000000002,0.3846,0.4167
 2023-12-11 17:05:12.451424,Euroleague - Euroleague 2023/24 - To Make Final Four,Olympiakos,-0.03210000000000002,0.3846,0.4167
 2023-12-11 17:05:12.451424,Euroleague - Euroleague 2023/24 - To Make Final Four,Panathinaikos,-0.03210000000000002,0.3846,0.4167
+2023-12-11 17:05:12.451424,Euroleague - Euroleague 2023/24 - To Make Final Four,Fenerbahce,-0.03210000000000002,0.3846,0.4167
 2023-12-11 21:02:48.387559,League One - England - League One 2023/24 - League Winner,Bolton Wanderers,-0.03570000000000001,0.25,0.2857
 2023-12-11 17:05:12.544200,NBL - NBL 2023/2024 - To Make Grand Final,Melbourne United,-0.035700000000000065,0.6364,0.6721
 2023-12-11 13:02:06.544427,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Patrick Mahomes,-0.03640000000000001,0.0588,0.0952
 2023-12-11 17:05:13.508161,Boxing Lines - Frank Sanchez vs Junior Fa - To Win the Bout,Frank Sanchez,-0.03749999999999998,0.9615,0.999
 2023-12-11 17:05:12.463495,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Barcelona,-0.03749999999999998,0.9,0.9375
-2023-12-11 17:05:12.463495,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Fenerbahce,-0.04799999999999993,0.6923,0.7403
+2023-12-11 23:02:43.384165,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Miami Dolphins,-0.037599999999999995,0.1053,0.1429
 2023-12-11 17:05:12.463495,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Olympiakos,-0.04799999999999993,0.6923,0.7403
+2023-12-11 17:05:12.463495,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Fenerbahce,-0.04799999999999993,0.6923,0.7403
 2023-12-11 17:05:12.544200,NBL - NBL 2023/2024 - To Make Grand Final,Perth Wildcats,-0.055900000000000005,0.3077,0.3636
 2023-12-11 13:02:06.544427,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Jalen Hurts,-0.057200000000000015,0.0909,0.1481
 2023-12-11 17:05:12.463495,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Panathinaikos,-0.057699999999999974,0.6923,0.75
