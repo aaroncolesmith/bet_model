@@ -27,27 +27,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-14 03:05:16.853940,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Paris Saint-Germain,0.042899999999999994,0.1429,0.1
 2023-12-14 09:03:48.294504,Saudi Open - Saudi Open - Winner,Todd Sinnott,0.04229999999999999,0.0667,0.0244
 2023-12-14 03:05:19.664430,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Joel Embiid (PHI),0.04169999999999999,0.1667,0.125
-2023-12-14 01:05:57.461743,MLB Futures - MLB 2024 American League East - American League East Winner,Baltimore Orioles,0.04099999999999998,0.3077,0.2667
-2023-12-14 01:05:57.492635,MLB Futures - MLB 2024 National League Central - National League Central Winner,Milwaukee Brewers,0.03950000000000001,0.25,0.2105
 2023-12-14 09:03:48.279476,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Laurie Canter,0.0384,0.0769,0.0385
 2023-12-14 09:03:48.294504,Saudi Open - Saudi Open - Winner,Seungtaek Lee,0.0344,0.0588,0.0244
 2023-12-14 03:05:19.134706,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,0.033300000000000024,0.2,0.1667
 2023-12-14 03:05:19.681399,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Victor Wembanyama (SAS),0.033299999999999996,0.5455,0.5122
 2023-12-14 03:05:16.853940,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,FC Barcelona,0.031799999999999995,0.1429,0.1111
 2023-12-14 03:05:17.251564,Championship - England Championship 2023/24 - Top Goalscorer,Jon Rowe,0.028000000000000004,0.0476,0.0196
-2023-12-14 03:05:17.316551,Championship - England Championship 2023/24 - Top 6 Finish,Hull City,0.02779999999999999,0.25,0.2222
 2023-12-14 03:05:19.115661,Central Division - Central Division 2023-24 - Division Winner,Cleveland Cavaliers,0.02779999999999999,0.25,0.2222
-2023-12-14 01:05:55.284838,Championship - England Championship 2023/24 - League Winner,Leicester City,0.025600000000000067,0.6923,0.6667
+2023-12-14 03:05:17.316551,Championship - England Championship 2023/24 - Top 6 Finish,Hull City,0.02779999999999999,0.25,0.2222
 2023-12-14 09:03:48.294504,Saudi Open - Saudi Open - Winner,Chanmin Jung,0.024399999999999998,0.0385,0.0141
-2023-12-14 03:05:16.853940,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Manchester City,0.023799999999999988,0.5,0.4762
 2023-12-14 05:04:29.637100,Boxing Lines - Jose Tito Sanchez vs Walter Santibanes - To Win the Bout,Walter Santibanes,0.023799999999999988,0.3571,0.3333
+2023-12-14 03:05:16.853940,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Manchester City,0.023799999999999988,0.5,0.4762
 2023-12-14 09:03:48.294504,Saudi Open - Saudi Open - Winner,Denwit Boriboonsub,0.023200000000000002,0.0476,0.0244
 2023-12-14 03:05:17.316551,Championship - England Championship 2023/24 - Top 6 Finish,Ipswich Town,0.022800000000000042,0.995,0.9722
 2023-12-14 03:05:19.606070,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Damian Lillard (MIL),0.022199999999999998,0.2222,0.2
+2023-12-14 13:07:23.363515,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Mike McCarthy,0.022099999999999998,0.0385,0.0164
 2023-12-14 03:05:19.185287,Southwest Division - Southwest Division 2023-24 - Division Winner,New Orleans Pelicans,0.021999999999999964,0.3077,0.2857
 2023-12-14 03:05:19.635203,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Rudy Gobert (MIN),0.021699999999999997,0.4762,0.4545
 2023-12-14 03:05:17.263480,Championship - England Championship 2023/24 - To Be Promoted,Southampton,0.02100000000000002,0.3846,0.3636
-2023-12-14 01:05:57.461743,MLB Futures - MLB 2024 American League East - American League East Winner,Tampa Bay Rays,0.02049999999999999,0.1538,0.1333
 2023-12-14 11:04:26.539124,Boxing Lines - Jose Tito Sanchez vs Walter Santibanes - To Win the Bout,Walter Santibanes,0.02030000000000004,0.3774,0.3571
 2023-12-14 09:03:48.294504,Saudi Open - Saudi Open - Winner,Jinichiro Kozuma,0.0203,0.0588,0.0385
 2023-12-14 09:03:48.294504,Saudi Open - Saudi Open - Winner,Jaewoong Eom,0.0203,0.0588,0.0385
@@ -55,51 +52,49 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-14 03:05:16.841632,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Jude Bellingham (Real Madrid),0.019099999999999992,0.0667,0.0476
 2023-12-14 03:05:19.620967,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,0.019000000000000017,0.2857,0.2667
 2023-12-14 09:03:48.294504,Saudi Open - Saudi Open - Winner,Gunn Charoenkul,0.0189,0.0385,0.0196
-2023-12-14 03:05:19.635203,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Anthony Davis (LAL),0.01820000000000002,0.2,0.1818
 2023-12-14 03:05:19.664430,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Luka Doncic (DAL),0.01820000000000002,0.2,0.1818
+2023-12-14 03:05:19.635203,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Anthony Davis (LAL),0.01820000000000002,0.2,0.1818
 2023-12-14 03:05:17.291622,Championship - England Championship 2023/24 - To Finish Bottom,Huddersfield Town,0.018099999999999998,0.0769,0.0588
 2023-12-14 03:05:17.316551,Championship - England Championship 2023/24 - Top 6 Finish,Norwich City,0.0179,0.1429,0.125
 2023-12-14 03:05:19.185287,Southwest Division - Southwest Division 2023-24 - Division Winner,Dallas Mavericks,0.016699999999999937,0.6,0.5833
 2023-12-14 03:05:19.134706,Northwest Division - Northwest Division 2023-24 - Division Winner,Denver Nuggets,0.016699999999999937,0.6,0.5833
-2023-12-14 01:05:57.890522,Boxing Lines - Chris Colbert vs Jose Valenzuela - To Win the Bout,Chris Colbert,0.01639999999999997,0.4926,0.4762
 2023-12-14 11:04:24.672356,Euro Cup - Euro Cup 2023/24 - Outright,Paris,0.015899999999999997,0.2381,0.2222
-2023-12-14 01:05:57.504667,MLB Futures - MLB 2024 National League East - National League East Winner,Miami Marlins,0.014899999999999997,0.0625,0.0476
 2023-12-14 03:05:17.251564,Championship - England Championship 2023/24 - Top Goalscorer,Emmanuel Latte Lath,0.014499999999999999,0.0294,0.0149
+2023-12-14 13:07:23.587513,Boxing Lines - Kubrat Pulev vs Andrzej Wawrzyk - To Win the Bout,Andrzej Wawrzyk,0.01440000000000001,0.1053,0.0909
 2023-12-14 03:05:17.302348,Championship - England Championship 2023/24 - Top 2 Finish,Leicester City,0.01429999999999998,0.9091,0.8948
 2023-12-14 03:05:16.853940,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Real Sociedad,0.014099999999999998,0.0385,0.0244
 2023-12-14 03:05:19.082053,Western Conference - Western Conference 2023-24 - Western Conference Winner,Oklahoma City Thunder,0.014099999999999994,0.0667,0.0526
 2023-12-14 03:05:16.853940,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Inter Milan,0.013999999999999999,0.0909,0.0769
-2023-12-14 03:05:17.278644,Championship - England Championship 2023/24 - To Be Relegated,Millwall,0.013899999999999996,0.125,0.1111
 2023-12-14 03:05:19.606070,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Stephen Curry (GSW),0.013899999999999996,0.125,0.1111
 2023-12-14 03:05:17.316551,Championship - England Championship 2023/24 - Top 6 Finish,Preston North End,0.013899999999999996,0.125,0.1111
-2023-12-14 01:05:55.284838,Championship - England Championship 2023/24 - League Winner,Ipswich Town,0.0131,0.2353,0.2222
+2023-12-14 03:05:17.278644,Championship - England Championship 2023/24 - To Be Relegated,Millwall,0.013899999999999996,0.125,0.1111
 2023-12-14 03:05:17.316551,Championship - England Championship 2023/24 - Top 6 Finish,Southampton,0.012900000000000023,0.875,0.8621
+2023-12-14 13:07:23.120776,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,San Francisco 49ers,0.0116,0.4878,0.4762
 2023-12-14 05:04:30.485516,Futures - The Masters 2024 - Winner,Cameron Smith,0.011199999999999995,0.0588,0.0476
 2023-12-14 03:05:16.868097,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Country of Winning Team,France,0.0102,0.0769,0.0667
-2023-12-14 01:05:57.461743,MLB Futures - MLB 2024 American League East - American League East Winner,Boston Red Sox,-0.010099999999999998,0.0952,0.1053
+2023-12-14 13:07:23.630274,Boxing Lines - Jose Tito Sanchez vs Walter Santibanes - To Win the Bout,Jose Tito Sanchez,-0.010099999999999998,0.6774,0.6875
 2023-12-14 11:04:26.515947,Boxing Lines - Eric Priest vs Paul Mendez - To Win the Bout,Eric Priest,-0.010199999999999987,0.9231,0.9333
 2023-12-14 09:03:48.294504,Saudi Open - Saudi Open - Winner,Chen Guxin,-0.0103,0.002,0.0123
 2023-12-14 09:03:48.279476,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Renato Paratore,-0.010700000000000001,0.0278,0.0385
 2023-12-14 09:03:48.294504,Saudi Open - Saudi Open - Winner,Ajeetesh Sandhu,-0.0108,0.0033,0.0141
-2023-12-14 03:05:17.278644,Championship - England Championship 2023/24 - To Be Relegated,Stoke City,-0.011099999999999999,0.1,0.1111
 2023-12-14 03:05:21.428258,Boxing Lines - Junaid Bostan vs Gordie Russ II - To Win the Bout,Junaid Bostan,-0.011099999999999999,0.8889,0.9
+2023-12-14 03:05:17.278644,Championship - England Championship 2023/24 - To Be Relegated,Stoke City,-0.011099999999999999,0.1,0.1111
 2023-12-14 03:05:17.291622,Championship - England Championship 2023/24 - To Finish Bottom,Plymouth Argyle,-0.011199999999999995,0.0476,0.0588
 2023-12-14 03:05:17.302348,Championship - England Championship 2023/24 - Top 2 Finish,Watford,-0.0112,0.004,0.0152
 2023-12-14 09:03:48.279476,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Tom Lewis,-0.0113,0.0066,0.0179
 2023-12-14 09:03:48.279476,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Andrew Wilson,-0.011300000000000001,0.001,0.0123
-2023-12-14 09:03:48.294504,Saudi Open - Saudi Open - Winner,Taehee Lee,-0.0114,0.005,0.0164
 2023-12-14 09:03:48.279476,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Tapio Pulkkanen,-0.0114,0.005,0.0164
+2023-12-14 09:03:48.294504,Saudi Open - Saudi Open - Winner,Taehee Lee,-0.0114,0.005,0.0164
 2023-12-14 09:03:48.294504,Saudi Open - Saudi Open - Winner,Kosuke Hamamoto,-0.011699999999999999,0.0079,0.0196
 2023-12-14 03:05:22.037246,PNC Championship - PNC Championship - Winner,Team Thomas,-0.011700000000000016,0.2105,0.2222
-2023-12-14 01:05:57.926941,Boxing Lines - Peter McGrail vs Jarico O'Quinn - To Win the Bout,Jarico O'Quinn,-0.011700000000000016,0.2105,0.2222
 2023-12-14 09:03:48.294504,Saudi Open - Saudi Open - Winner,Natipong Srithong,-0.0119,0.0033,0.0152
-2023-12-14 03:05:17.278644,Championship - England Championship 2023/24 - To Be Relegated,Norwich City,-0.012100000000000001,0.0123,0.0244
 2023-12-14 03:05:17.291622,Championship - England Championship 2023/24 - To Finish Bottom,Swansea City,-0.012100000000000001,0.0123,0.0244
-2023-12-14 01:05:57.673659,Boxing Lines - Ricardo Ruvalcaba vs Irving Macias Castillo - To Win the Bout,Ricardo Ruvalcaba,-0.012600000000000056,0.9286,0.9412
+2023-12-14 03:05:17.278644,Championship - England Championship 2023/24 - To Be Relegated,Norwich City,-0.012100000000000001,0.0123,0.0244
 2023-12-14 03:05:17.278644,Championship - England Championship 2023/24 - To Be Relegated,Blackburn Rovers,-0.012700000000000003,0.0196,0.0323
 2023-12-14 09:03:48.294504,Saudi Open - Saudi Open - Winner,Scott Hend,-0.0131,0.0033,0.0164
-2023-12-14 09:03:48.279476,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Andrew Johnston,-0.0131,0.0033,0.0164
 2023-12-14 09:03:48.279476,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Jens Dantorp,-0.0131,0.0033,0.0164
+2023-12-14 13:07:23.120776,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Philadelphia Eagles,-0.0131,0.2222,0.2353
+2023-12-14 09:03:48.279476,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Andrew Johnston,-0.0131,0.0033,0.0164
 2023-12-14 09:03:48.294504,Saudi Open - Saudi Open - Winner,Sam Brazel,-0.0139,0.0013,0.0152
 2023-12-14 03:05:19.664430,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Jayson Tatum (BOS),-0.013999999999999999,0.0769,0.0909
 2023-12-14 03:05:17.316551,Championship - England Championship 2023/24 - Top 6 Finish,Swansea City,-0.014099999999999998,0.0244,0.0385
@@ -111,10 +106,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-14 03:05:17.316551,Championship - England Championship 2023/24 - Top 6 Finish,Cardiff City,-0.015100000000000002,0.1667,0.1818
 2023-12-14 09:03:48.279476,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Mike Lorenzo-Vera,-0.0154,0.001,0.0164
 2023-12-14 09:03:48.279476,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Oliver Bekker,-0.0156,0.004,0.0196
+2023-12-14 13:07:23.120776,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Dallas Cowboys,-0.016699999999999993,0.25,0.2667
 2023-12-14 11:04:24.672356,Euro Cup - Euro Cup 2023/24 - Outright,London Lions,-0.016700000000000007,0.0833,0.1
 2023-12-14 03:05:16.885427,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Furthest Progressing Premier League Team,Manchester City,-0.016700000000000048,0.7333,0.75
 2023-12-14 09:03:48.279476,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Jeff Winther,-0.0168,0.011,0.0278
-2023-12-14 01:05:57.890522,Boxing Lines - Chris Colbert vs Jose Valenzuela - To Win the Bout,Jose Valenzuela,-0.017299999999999982,0.5744,0.5917
 2023-12-14 03:05:17.278644,Championship - England Championship 2023/24 - To Be Relegated,Plymouth Argyle,-0.0174,0.2326,0.25
 2023-12-14 03:05:19.620967,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Jamahl Mosley,-0.0174,0.2326,0.25
 2023-12-14 09:03:48.294504,Saudi Open - Saudi Open - Winner,Sarit Suwannarut,-0.017599999999999998,0.002,0.0196
@@ -123,12 +118,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-14 03:05:17.316551,Championship - England Championship 2023/24 - Top 6 Finish,Millwall,-0.018200000000000004,0.0294,0.0476
 2023-12-14 09:03:48.279476,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Matthew Baldwin,-0.0183,0.0013,0.0196
 2023-12-14 11:04:26.539124,Boxing Lines - Jose Tito Sanchez vs Walter Santibanes - To Win the Bout,Jose Tito Sanchez,-0.018399999999999972,0.6875,0.7059
-2023-12-14 01:05:57.492635,MLB Futures - MLB 2024 National League Central - National League Central Winner,St. Louis Cardinals,-0.018400000000000027,0.2941,0.3125
 2023-12-14 09:03:48.294504,Saudi Open - Saudi Open - Winner,Jazz Janewattananond,-0.0189,0.0196,0.0385
 2023-12-14 03:05:17.263480,Championship - England Championship 2023/24 - To Be Promoted,Watford,-0.019099999999999992,0.0476,0.0667
 2023-12-14 09:03:48.279476,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Dylan Frittelli,-0.0194,0.005,0.0244
-2023-12-14 03:05:17.251564,Championship - England Championship 2023/24 - Top Goalscorer,Joel Piroe,-0.02020000000000001,0.0909,0.1111
 2023-12-14 03:05:17.278644,Championship - England Championship 2023/24 - To Be Relegated,Birmingham City,-0.02020000000000001,0.0909,0.1111
+2023-12-14 03:05:17.251564,Championship - England Championship 2023/24 - Top Goalscorer,Joel Piroe,-0.02020000000000001,0.0909,0.1111
 2023-12-14 09:03:48.279476,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Guido Migliozzi,-0.0204,0.0013,0.0217
 2023-12-14 03:05:19.649607,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Scottie Barnes (TOR),-0.02049999999999999,0.1333,0.1538
 2023-12-14 03:05:19.664430,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Nikola Jokic (DEN),-0.02100000000000002,0.3636,0.3846
@@ -157,9 +151,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-14 09:03:48.279476,AfrAsia Bank Mauritius Open - AfrAsia Bank Mauritius Open - Winner,Matthieu Pavon,-0.0491,0.0278,0.0769
 2023-12-14 09:03:48.294504,Saudi Open - Saudi Open - Winner,Sadom Kaewkanjana,-0.052199999999999996,0.0066,0.0588
 2023-12-14 09:03:48.294504,Saudi Open - Saudi Open - Winner,Gaganjeet Bhullar,-0.052199999999999996,0.0066,0.0588
-2023-12-14 01:05:55.284838,Championship - England Championship 2023/24 - League Winner,Leeds United,-0.05350000000000002,0.1818,0.2353
 2023-12-14 07:03:43.186988,Pacific Division - Pacific Division 2023-24 - Division Winner,Golden State Warriors,-0.053599999999999995,0.0714,0.125
-2023-12-14 01:05:57.461743,MLB Futures - MLB 2024 American League East - American League East Winner,New York Yankees,-0.055900000000000005,0.3077,0.3636
 2023-12-14 03:05:17.291622,Championship - England Championship 2023/24 - To Finish Bottom,Sheffield Wednesday,-0.06970000000000004,0.3077,0.3774
 2023-12-14 03:05:17.316551,Championship - England Championship 2023/24 - Top 6 Finish,Middlesbrough,-0.11780000000000002,0.3077,0.4255
 2023-12-14 03:05:17.302348,Championship - England Championship 2023/24 - Top 2 Finish,Leeds United,-0.15780000000000005,0.4255,0.5833
