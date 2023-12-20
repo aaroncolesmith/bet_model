@@ -1,59 +1,67 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-12-19 19:02:27.799175,EFL Cup - EFL Cup 2023/24 - Winner,Chelsea,0.13099999999999998,0.3636,0.2326
-2023-12-19 19:02:27.799175,EFL Cup - EFL Cup 2023/24 - Winner,Fulham,0.08979999999999999,0.1667,0.0769
-2023-12-19 15:02:21.900104,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Damar Hamlin,0.059699999999999975,0.9,0.8403
-2023-12-19 15:02:21.908428,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Myles Garrett,0.05520000000000003,0.4,0.3448
-2023-12-19 19:02:27.799175,EFL Cup - EFL Cup 2023/24 - Winner,Liverpool,0.04910000000000003,0.4,0.3509
-2023-12-19 15:02:21.934690,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Jalen Carter,0.04710000000000003,0.9804,0.9333
-2023-12-19 15:02:21.280544,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Joel Embiid (PHI),0.033300000000000024,0.2,0.1667
-2023-12-19 15:02:21.908428,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Micah Parsons,0.033299999999999996,0.5455,0.5122
-2023-12-19 15:02:21.916750,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Josh Allen,0.02840000000000001,0.1053,0.0769
-2023-12-19 19:02:29.462381,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,DeMeco Ryans,0.02779999999999999,0.25,0.2222
-2023-12-19 15:02:21.255889,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Shai Gilgeous-Alexander (OKC),0.023799999999999988,0.1667,0.1429
-2023-12-19 19:02:28.709112,NBL - NBL 2023/2024 - To Make Top 4,Perth Wildcats,0.023799999999999932,0.6667,0.6429
-2023-12-19 15:02:21.916750,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Brock Purdy,0.01759999999999995,0.6667,0.6491
-2023-12-19 15:02:21.272421,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Bam Adebayo (MIA),0.0159,0.0323,0.0164
-2023-12-19 19:02:29.462381,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Sean Payton,0.014099999999999998,0.0385,0.0244
-2023-12-19 19:02:29.652725,Boxing Lines - Mariah Turner vs Flora Loga - To Win the Bout,Mariah Turner,0.0131,0.9655,0.9524
-2023-12-19 15:02:21.924993,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Player of the Year,Tyreek Hill,0.012199999999999989,0.5,0.4878
-2023-12-19 15:02:21.908428,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Khalil Mack,0.0113,0.0179,0.0066
-2023-12-19 15:02:22.170475,Boxing Lines - Naoya Inoue vs Marlon Tapales - To Win the Bout,Naoya Inoue,0.011199999999999988,0.9524,0.9412
-2023-12-19 15:02:21.247604,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Naz Reid (MIN),0.010600000000000002,0.0323,0.0217
-2023-12-19 15:02:21.272421,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Rudy Gobert (MIN),0.010099999999999998,0.5556,0.5455
-2023-12-19 19:02:29.462381,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Nick Sirianni,-0.010300000000000002,0.0141,0.0244
-2023-12-19 15:02:21.900104,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Lamar Jackson,-0.011199999999999995,0.0476,0.0588
-2023-12-19 15:02:21.280544,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Giannis Antetokounmpo (MIL),-0.012299999999999991,0.1053,0.1176
-2023-12-19 15:02:21.247604,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Tim Hardaway Jr (DAL),-0.01319999999999999,0.25,0.2632
-2023-12-19 19:02:29.462381,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Kyle Shanahan,-0.013899999999999996,0.1111,0.125
-2023-12-19 15:02:21.255889,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Stephen Curry (GSW),-0.013899999999999996,0.1111,0.125
-2023-12-19 19:02:28.814611,WNBL - Australia WNBL 2023/24 - Outright,Sydney Uni Flames (W),-0.013999999999999999,0.0769,0.0909
-2023-12-19 15:02:21.289625,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Jaime Jaquez Jr. (MIA),-0.014099999999999998,0.0244,0.0385
-2023-12-19 19:02:29.462381,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Andy Reid,-0.0145,0.0099,0.0244
-2023-12-19 15:02:22.140723,Boxing Lines - Daniel Dubois vs Jarrell Miller - To Win the Bout,Daniel Dubois,-0.014700000000000046,0.75,0.7647
-2023-12-19 15:02:21.272421,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Jrue Holiday (BOS),-0.014899999999999997,0.0476,0.0625
-2023-12-19 19:02:29.462381,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,John Harbaugh,-0.014899999999999997,0.0476,0.0625
-2023-12-19 19:02:29.642949,Boxing Lines - Conor Wallace vs Mose Auimatagi Jr - To Win the Bout,Mose Auimatagi Jr,-0.015100000000000002,0.1667,0.1818
-2023-12-19 19:02:29.462381,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Mike McDaniel,-0.015700000000000006,0.1176,0.1333
-2023-12-19 15:02:21.916750,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Dak Prescott,-0.015700000000000006,0.1176,0.1333
-2023-12-19 15:02:21.280544,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Anthony Edwards (MIN),-0.0159,0.0164,0.0323
-2023-12-19 19:02:29.652725,Boxing Lines - Mariah Turner vs Flora Loga - To Win the Bout,Flora Loga,-0.016700000000000007,0.0833,0.1
-2023-12-19 19:02:27.799175,EFL Cup - EFL Cup 2023/24 - Winner,West Ham United,-0.016700000000000007,0.0833,0.1
-2023-12-19 15:02:21.247604,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Cole Anthony (ORL),-0.0179,0.125,0.1429
-2023-12-19 15:02:21.255889,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,LeBron James (LAL),-0.0179,0.125,0.1429
-2023-12-19 15:02:22.130963,Boxing Lines - Filip Hrgovic vs Marc De Mori - To Win the Bout,Filip Hrgovic,-0.01859999999999995,0.9804,0.999
-2023-12-19 15:02:21.916750,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Christian McCaffrey,-0.02020000000000001,0.0909,0.1111
-2023-12-19 19:02:29.462381,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Mike McCarthy,-0.022099999999999998,0.0164,0.0385
-2023-12-19 15:02:21.900104,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Tua Tagovailoa,-0.02310000000000001,0.0769,0.1
-2023-12-19 15:02:21.908428,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Danielle Hunter,-0.024,0.0385,0.0625
-2023-12-19 15:02:21.934690,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Will Anderson,-0.0242,0.0667,0.0909
-2023-12-19 15:02:21.272421,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Brook Lopez (MIL),-0.024299999999999995,0.0526,0.0769
-2023-12-19 19:02:28.709112,NBL - NBL 2023/2024 - To Make Top 4,Brisbane Bullets,-0.02679999999999999,0.2857,0.3125
-2023-12-19 15:02:21.264001,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Jamahl Mosley,-0.02779999999999999,0.2222,0.25
-2023-12-19 19:02:29.462381,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Doug Pederson,-0.0286,0.0099,0.0385
-2023-12-19 19:02:29.462381,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Kevin O'Connell,-0.0286,0.0099,0.0385
-2023-12-19 15:02:21.280544,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Nikola Jokic (DEN),-0.030299999999999994,0.3333,0.3636
-2023-12-19 15:02:21.247604,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Immanuel Quickley (NYK),-0.034100000000000005,0.0909,0.125
-2023-12-19 15:02:21.934690,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Devon Witherspoon,-0.0384,0.0385,0.0769
-2023-12-19 19:02:29.462381,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Dan Campbell,-0.04099999999999998,0.2667,0.3077
-2023-12-19 19:02:29.462381,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Shane Steichen,-0.08329999999999999,0.25,0.3333
-2023-12-19 19:02:28.709112,NBL - NBL 2023/2024 - To Make Top 4,SE Melboune Phoenix,-0.23189999999999994,0.4348,0.6667
+2023-12-20 21:03:35.341929,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Atlanta Falcons,No,0.42310000000000003,0.9231,0.5
+2023-12-20 21:03:35.406555,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Indianapolis Colts,Yes,0.33690000000000003,0.6226,0.2857
+2023-12-20 21:03:35.439049,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Pittsburgh Steelers,No,0.2612,0.9671,0.7059
+2023-12-20 21:03:35.397972,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Houston Texans,Yes,0.2552,0.6,0.3448
+2023-12-20 21:03:35.390041,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Green Bay Packers,No,0.20819999999999994,0.7826,0.5744
+2023-12-20 21:03:35.423516,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Minnesota Vikings,Yes,0.197,0.5,0.303
+2023-12-20 21:03:35.415425,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Los Angeles Rams,Yes,0.192,0.5556,0.3636
+2023-12-20 21:03:35.382002,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Denver Broncos,Yes,0.1875,0.3125,0.125
+2023-12-20 21:03:35.350352,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Buffalo Bills,Yes,0.16669999999999996,0.6667,0.5
+2023-12-20 21:03:35.455443,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Tampa Bay Buccaneers,Yes,0.1583,0.75,0.5917
+2023-12-20 21:03:35.431336,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - New Orleans Saints,No,0.14640000000000003,0.6226,0.4762
+2023-12-20 21:03:35.446617,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Seattle Seahawks,Yes,0.11740000000000006,0.6296,0.5122
+2023-12-20 21:03:34.482328,Pacific Division - Pacific Division 2023-24 - Division Winner,L.A. Clippers,0.07139999999999996,0.3571,0.2857
+2023-12-20 21:03:33.666927,Club World Cup - Club World Cup Winner - Outright,Manchester City,0.0676,0.8571,0.7895
+2023-12-20 21:03:34.491959,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,0.05870000000000003,0.5238,0.4651
+2023-12-20 21:03:34.723777,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Chris Finch,0.047599999999999976,0.3333,0.2857
+2023-12-20 21:03:34.472656,Northwest Division - Northwest Division 2023-24 - Division Winner,Minnesota Timberwolves,0.045499999999999985,0.5,0.4545
+2023-12-20 21:03:34.482328,Pacific Division - Pacific Division 2023-24 - Division Winner,Golden State Warriors,0.0334,0.0769,0.0435
+2023-12-20 21:03:34.927334,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Kristi Noem,0.033300000000000024,0.2,0.1667
+2023-12-20 21:03:34.577029,B League - Japan B League 1 2023/2024 - Outright,Alvark Tokyo,0.027999999999999997,0.1818,0.1538
+2023-12-20 21:03:34.441939,Western Conference - Western Conference 2023-24 - Western Conference Winner,Denver Nuggets,0.02560000000000001,0.3333,0.3077
+2023-12-20 21:03:34.832012,Republican Party Primaries - Iowa Caucus Popular Vote Winner Without Trump - Iowa Caucus Popular Vote Winner Without Trump,Ron DeSantis,0.023799999999999988,0.5,0.4762
+2023-12-20 21:03:34.842066,Republican Party Primaries - Iowa Caucus Popular Vote: Trump Winning Margin - Iowa Caucus Trump Winning Margin,Over 34%,0.02169999999999994,0.5455,0.5238
+2023-12-20 21:03:34.441939,Western Conference - Western Conference 2023-24 - Western Conference Winner,Minnesota Timberwolves,0.02020000000000001,0.1111,0.0909
+2023-12-20 21:03:35.366175,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Cincinnati Bengals,No,0.018999999999999906,0.7333,0.7143
+2023-12-20 21:03:34.501511,Southwest Division - Southwest Division 2023-24 - Division Winner,Memphis Grizzlies,0.0179,0.0278,0.0099
+2023-12-20 21:03:34.441939,Western Conference - Western Conference 2023-24 - Western Conference Winner,L.A. Clippers,0.015700000000000006,0.1333,0.1176
+2023-12-20 21:03:34.482328,Pacific Division - Pacific Division 2023-24 - Division Winner,Sacramento Kings,0.014900000000000024,0.3226,0.3077
+2023-12-20 21:03:34.740518,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Coby White (CHI),0.014399999999999996,0.0769,0.0625
+2023-12-20 21:03:34.820084,Republican Party Primaries - Iowa Caucus Popular Vote Winner - Iowa Caucus Popular Vote Winner,Donald Trump,0.014000000000000012,0.9231,0.9091
+2023-12-20 21:03:36.010686,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Manu Gandas,-0.0102,0.0667,0.0769
+2023-12-20 21:03:34.723777,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Jamahl Mosley,-0.011700000000000016,0.2105,0.2222
+2023-12-20 21:03:34.472656,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,-0.012899999999999995,0.1538,0.1667
+2023-12-20 21:03:35.366175,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Cincinnati Bengals,Yes,-0.017600000000000005,0.3333,0.3509
+2023-12-20 21:03:34.842066,Republican Party Primaries - Iowa Caucus Popular Vote: Trump Winning Margin - Iowa Caucus Trump Winning Margin,Trump to NOT win,-0.0179,0.125,0.1429
+2023-12-20 21:03:34.577029,B League - Japan B League 1 2023/2024 - Outright,Ryukyu Golden Kings,-0.0179,0.125,0.1429
+2023-12-20 21:03:34.732241,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Jrue Holiday (BOS),-0.018200000000000004,0.0294,0.0476
+2023-12-20 21:03:34.723777,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,-0.019000000000000017,0.2667,0.2857
+2023-12-20 21:03:34.732241,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Anthony Davis (LAL),-0.020299999999999985,0.25,0.2703
+2023-12-20 21:03:35.358437,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Chicago Bears,Yes,-0.0203,0.0385,0.0588
+2023-12-20 21:03:34.723777,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Ime Udoka,-0.02310000000000001,0.0769,0.1
+2023-12-20 21:03:34.842066,Republican Party Primaries - Iowa Caucus Popular Vote: Trump Winning Margin - Iowa Caucus Trump Winning Margin,0.01 to 34%,-0.023800000000000043,0.5,0.5238
+2023-12-20 21:03:34.441939,Western Conference - Western Conference 2023-24 - Western Conference Winner,Golden State Warriors,-0.024299999999999995,0.0526,0.0769
+2023-12-20 21:03:34.577029,B League - Japan B League 1 2023/2024 - Outright,Kawasaki Brave Thunders,-0.024999999999999994,0.1,0.125
+2023-12-20 21:03:34.501511,Southwest Division - Southwest Division 2023-24 - Division Winner,New Orleans Pelicans,-0.02560000000000001,0.3077,0.3333
+2023-12-20 21:03:34.482328,Pacific Division - Pacific Division 2023-24 - Division Winner,Los Angeles Lakers,-0.026100000000000012,0.1739,0.2
+2023-12-20 21:03:34.740518,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Tyrese Haliburton (IND),-0.033399999999999985,0.1333,0.1667
+2023-12-20 21:03:34.723777,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Rick Carlisle,-0.038099999999999995,0.0952,0.1333
+2023-12-20 21:03:34.441939,Western Conference - Western Conference 2023-24 - Western Conference Winner,Phoenix Suns,-0.043800000000000006,0.1667,0.2105
+2023-12-20 21:03:34.491959,Southeast Division - Southeast Division 2023-24 - Division Winner,Miami Heat,-0.04700000000000004,0.4878,0.5348
+2023-12-20 21:03:34.472656,Northwest Division - Northwest Division 2023-24 - Division Winner,Denver Nuggets,-0.06970000000000004,0.4651,0.5348
+2023-12-20 21:03:33.666927,Club World Cup - Club World Cup Winner - Outright,Fluminense,-0.0706,0.1961,0.2667
+2023-12-20 21:03:34.482328,Pacific Division - Pacific Division 2023-24 - Division Winner,Phoenix Suns,-0.11719999999999997,0.1905,0.3077
+2023-12-20 21:03:35.446617,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Seattle Seahawks,No,-0.12079999999999996,0.4348,0.5556
+2023-12-20 21:03:35.431336,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - New Orleans Saints,Yes,-0.1473,0.4444,0.5917
+2023-12-20 21:03:35.455443,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Tampa Bay Buccaneers,No,-0.1637,0.3125,0.4762
+2023-12-20 21:03:35.350352,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Buffalo Bills,No,-0.1652,0.4,0.5652
+2023-12-20 21:03:35.382002,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Denver Broncos,No,-0.19120000000000004,0.75,0.9412
+2023-12-20 21:03:35.415425,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Los Angeles Rams,No,-0.19369999999999998,0.5122,0.7059
+2023-12-20 21:03:35.423516,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Minnesota Vikings,No,-0.19669999999999999,0.5652,0.7619
+2023-12-20 21:03:35.390041,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Green Bay Packers,Yes,-0.2021,0.2857,0.4878
+2023-12-20 21:03:35.397972,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Houston Texans,No,-0.25709999999999994,0.4651,0.7222
+2023-12-20 21:03:35.439049,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Pittsburgh Steelers,Yes,-0.26359999999999995,0.1,0.3636
+2023-12-20 21:03:35.374115,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Cleveland Browns,No,-0.26580000000000004,0.1786,0.4444
+2023-12-20 21:03:35.406555,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Indianapolis Colts,No,-0.33819999999999995,0.4444,0.7826
+2023-12-20 21:03:35.341929,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Atlanta Falcons,Yes,-0.4223,0.1429,0.5652
