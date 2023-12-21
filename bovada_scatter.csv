@@ -1,92 +1,135 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-12-20 21:03:35.341929,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Atlanta Falcons,No,0.42310000000000003,0.9231,0.5
-2023-12-20 21:03:35.406555,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Indianapolis Colts,Yes,0.33690000000000003,0.6226,0.2857
-2023-12-20 21:03:35.374115,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Cleveland Browns,Yes,0.2663,0.8889,0.6226
-2023-12-20 21:03:35.439049,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Pittsburgh Steelers,No,0.2612,0.9671,0.7059
-2023-12-20 21:03:35.397972,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Houston Texans,Yes,0.2552,0.6,0.3448
-2023-12-20 21:03:35.390041,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Green Bay Packers,No,0.20819999999999994,0.7826,0.5744
-2023-12-20 21:03:35.423516,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Minnesota Vikings,Yes,0.197,0.5,0.303
-2023-12-20 21:03:35.415425,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Los Angeles Rams,Yes,0.192,0.5556,0.3636
-2023-12-20 21:03:35.382002,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Denver Broncos,Yes,0.1875,0.3125,0.125
-2023-12-20 21:03:35.350352,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Buffalo Bills,Yes,0.16669999999999996,0.6667,0.5
-2023-12-20 21:03:35.455443,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Tampa Bay Buccaneers,Yes,0.1583,0.75,0.5917
-2023-12-21 03:09:23.575885,EFL Cup - EFL Cup 2023/24 - Winner,Liverpool,0.15559999999999996,0.5556,0.4
-2023-12-20 21:03:35.431336,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - New Orleans Saints,No,0.14640000000000003,0.6226,0.4762
-2023-12-20 21:03:35.446617,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Seattle Seahawks,Yes,0.11740000000000006,0.6296,0.5122
-2023-12-20 21:03:34.482328,Pacific Division - Pacific Division 2023-24 - Division Winner,L.A. Clippers,0.07139999999999996,0.3571,0.2857
-2023-12-20 21:03:33.666927,Club World Cup - Club World Cup Winner - Outright,Manchester City,0.0676,0.8571,0.7895
-2023-12-20 21:03:34.491959,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,0.05870000000000003,0.5238,0.4651
-2023-12-20 21:03:34.723777,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Chris Finch,0.047599999999999976,0.3333,0.2857
-2023-12-20 21:03:34.472656,Northwest Division - Northwest Division 2023-24 - Division Winner,Minnesota Timberwolves,0.045499999999999985,0.5,0.4545
-2023-12-21 03:09:23.975483,WNBL - Australia WNBL 2023/24 - Outright,Townsville Fire (W),0.04139999999999999,0.4762,0.4348
-2023-12-21 03:09:23.920294,Euroleague - Euroleague 2023/24 - Regular Season League Winner,Real Madrid BC,0.03839999999999999,0.9615,0.9231
-2023-12-21 03:09:23.575885,EFL Cup - EFL Cup 2023/24 - Winner,Chelsea,0.03640000000000004,0.4,0.3636
-2023-12-20 21:03:34.482328,Pacific Division - Pacific Division 2023-24 - Division Winner,Golden State Warriors,0.0334,0.0769,0.0435
-2023-12-20 21:03:34.927334,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Kristi Noem,0.033300000000000024,0.2,0.1667
-2023-12-20 21:03:34.577029,B League - Japan B League 1 2023/2024 - Outright,Alvark Tokyo,0.027999999999999997,0.1818,0.1538
-2023-12-20 21:03:34.441939,Western Conference - Western Conference 2023-24 - Western Conference Winner,Denver Nuggets,0.02560000000000001,0.3333,0.3077
-2023-12-21 03:09:23.583395,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayer Leverkusen,0.02560000000000001,0.3333,0.3077
-2023-12-21 03:09:23.598883,Ligue 1 - France Ligue 1 2023/24 - Winner,Paris Saint-Germain,0.02429999999999999,0.9655,0.9412
-2023-12-21 03:09:23.918186,Euroleague - Euroleague 2023/24 - Outright,Panathinaikos,0.0242,0.0909,0.0667
-2023-12-20 21:03:34.832012,Republican Party Primaries - Iowa Caucus Popular Vote Winner Without Trump - Iowa Caucus Popular Vote Winner Without Trump,Ron DeSantis,0.023799999999999988,0.5,0.4762
-2023-12-20 21:03:34.842066,Republican Party Primaries - Iowa Caucus Popular Vote: Trump Winning Margin - Iowa Caucus Trump Winning Margin,Over 34%,0.02169999999999994,0.5455,0.5238
-2023-12-20 21:03:34.441939,Western Conference - Western Conference 2023-24 - Western Conference Winner,Minnesota Timberwolves,0.02020000000000001,0.1111,0.0909
-2023-12-20 21:03:35.366175,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Cincinnati Bengals,No,0.018999999999999906,0.7333,0.7143
-2023-12-21 03:09:24.017323,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.018999999999999906,0.7333,0.7143
-2023-12-20 21:03:34.501511,Southwest Division - Southwest Division 2023-24 - Division Winner,Memphis Grizzlies,0.0179,0.0278,0.0099
-2023-12-21 03:09:23.918186,Euroleague - Euroleague 2023/24 - Outright,Real Madrid BC,0.016699999999999993,0.4167,0.4
-2023-12-20 21:03:34.441939,Western Conference - Western Conference 2023-24 - Western Conference Winner,L.A. Clippers,0.015700000000000006,0.1333,0.1176
-2023-12-21 03:09:23.579979,La Liga - Spain La Liga 2023/24 - Winner,Girona,0.015100000000000002,0.1818,0.1667
-2023-12-21 03:09:23.975483,WNBL - Australia WNBL 2023/24 - Outright,Perth Lynx (W),0.015100000000000002,0.1818,0.1667
-2023-12-20 21:03:34.482328,Pacific Division - Pacific Division 2023-24 - Division Winner,Sacramento Kings,0.014900000000000024,0.3226,0.3077
-2023-12-21 03:09:24.005529,Republican Party Primaries - Iowa Caucus Popular Vote Winner Without Trump - Iowa Caucus Popular Vote Winner Without Trump,Vivek Ramaswamy,0.01440000000000001,0.1053,0.0909
-2023-12-20 21:03:34.740518,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Coby White (CHI),0.014399999999999996,0.0769,0.0625
-2023-12-20 21:03:34.820084,Republican Party Primaries - Iowa Caucus Popular Vote Winner - Iowa Caucus Popular Vote Winner,Donald Trump,0.014000000000000012,0.9231,0.9091
-2023-12-21 03:09:23.975483,WNBL - Australia WNBL 2023/24 - Outright,Sydney Uni Flames (W),0.013999999999999999,0.0909,0.0769
-2023-12-21 03:09:23.920294,Euroleague - Euroleague 2023/24 - Regular Season League Winner,AS Monaco,-0.010100000000000001,0.0244,0.0345
-2023-12-20 21:03:36.010686,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Manu Gandas,-0.0102,0.0667,0.0769
-2023-12-21 03:09:23.579979,La Liga - Spain La Liga 2023/24 - Winner,Atlético Madrid,-0.0102,0.0667,0.0769
-2023-12-21 03:09:24.005529,Republican Party Primaries - Iowa Caucus Popular Vote Winner Without Trump - Iowa Caucus Popular Vote Winner Without Trump,Nikki Haley,-0.011600000000000055,0.5122,0.5238
-2023-12-20 21:03:34.723777,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Jamahl Mosley,-0.011700000000000016,0.2105,0.2222
-2023-12-21 03:09:23.575885,EFL Cup - EFL Cup 2023/24 - Winner,Middlesbrough,-0.0121,0.0435,0.0556
-2023-12-20 21:03:34.472656,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,-0.012899999999999995,0.1538,0.1667
-2023-12-21 03:09:23.920294,Euroleague - Euroleague 2023/24 - Regular Season League Winner,Barcelona,-0.014099999999999994,0.0526,0.0667
-2023-12-21 03:09:23.579979,La Liga - Spain La Liga 2023/24 - Winner,Real Madrid,-0.01739999999999997,0.75,0.7674
-2023-12-20 21:03:35.366175,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Cincinnati Bengals,Yes,-0.017600000000000005,0.3333,0.3509
-2023-12-20 21:03:34.842066,Republican Party Primaries - Iowa Caucus Popular Vote: Trump Winning Margin - Iowa Caucus Trump Winning Margin,Trump to NOT win,-0.0179,0.125,0.1429
-2023-12-20 21:03:34.577029,B League - Japan B League 1 2023/2024 - Outright,Ryukyu Golden Kings,-0.0179,0.125,0.1429
-2023-12-21 03:09:23.598883,Ligue 1 - France Ligue 1 2023/24 - Winner,Nice,-0.018099999999999998,0.0588,0.0769
-2023-12-20 21:03:34.732241,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Jrue Holiday (BOS),-0.018200000000000004,0.0294,0.0476
-2023-12-20 21:03:34.723777,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,-0.019000000000000017,0.2667,0.2857
-2023-12-20 21:03:34.732241,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Anthony Davis (LAL),-0.020299999999999985,0.25,0.2703
-2023-12-20 21:03:35.358437,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Chicago Bears,Yes,-0.0203,0.0385,0.0588
-2023-12-21 03:09:23.975483,WNBL - Australia WNBL 2023/24 - Outright,Southside Flyers (W),-0.02049999999999999,0.1333,0.1538
-2023-12-21 03:09:24.017323,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Field,-0.020799999999999985,0.3125,0.3333
-2023-12-20 21:03:34.723777,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Ime Udoka,-0.02310000000000001,0.0769,0.1
-2023-12-20 21:03:34.842066,Republican Party Primaries - Iowa Caucus Popular Vote: Trump Winning Margin - Iowa Caucus Trump Winning Margin,0.01 to 34%,-0.023800000000000043,0.5,0.5238
-2023-12-20 21:03:34.441939,Western Conference - Western Conference 2023-24 - Western Conference Winner,Golden State Warriors,-0.024299999999999995,0.0526,0.0769
-2023-12-20 21:03:34.577029,B League - Japan B League 1 2023/2024 - Outright,Kawasaki Brave Thunders,-0.024999999999999994,0.1,0.125
-2023-12-20 21:03:34.501511,Southwest Division - Southwest Division 2023-24 - Division Winner,New Orleans Pelicans,-0.02560000000000001,0.3077,0.3333
-2023-12-20 21:03:34.482328,Pacific Division - Pacific Division 2023-24 - Division Winner,Los Angeles Lakers,-0.026100000000000012,0.1739,0.2
-2023-12-20 21:03:34.740518,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Tyrese Haliburton (IND),-0.033399999999999985,0.1333,0.1667
-2023-12-20 21:03:34.723777,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Rick Carlisle,-0.038099999999999995,0.0952,0.1333
-2023-12-21 03:09:23.575885,EFL Cup - EFL Cup 2023/24 - Winner,Fulham,-0.04169999999999999,0.125,0.1667
-2023-12-20 21:03:34.441939,Western Conference - Western Conference 2023-24 - Western Conference Winner,Phoenix Suns,-0.043800000000000006,0.1667,0.2105
-2023-12-20 21:03:34.491959,Southeast Division - Southeast Division 2023-24 - Division Winner,Miami Heat,-0.04700000000000004,0.4878,0.5348
-2023-12-21 03:09:23.975483,WNBL - Australia WNBL 2023/24 - Outright,Melbourne Boomers W,-0.0635,0.2222,0.2857
-2023-12-20 21:03:34.472656,Northwest Division - Northwest Division 2023-24 - Division Winner,Denver Nuggets,-0.06970000000000004,0.4651,0.5348
-2023-12-20 21:03:33.666927,Club World Cup - Club World Cup Winner - Outright,Fluminense,-0.0706,0.1961,0.2667
-2023-12-20 21:03:34.482328,Pacific Division - Pacific Division 2023-24 - Division Winner,Phoenix Suns,-0.11719999999999997,0.1905,0.3077
-2023-12-20 21:03:35.446617,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Seattle Seahawks,No,-0.12079999999999996,0.4348,0.5556
-2023-12-20 21:03:35.431336,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - New Orleans Saints,Yes,-0.1473,0.4444,0.5917
-2023-12-20 21:03:35.455443,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Tampa Bay Buccaneers,No,-0.1637,0.3125,0.4762
-2023-12-20 21:03:35.350352,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Buffalo Bills,No,-0.1652,0.4,0.5652
-2023-12-20 21:03:35.382002,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Denver Broncos,No,-0.19120000000000004,0.75,0.9412
-2023-12-20 21:03:35.415425,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Los Angeles Rams,No,-0.19369999999999998,0.5122,0.7059
-2023-12-20 21:03:35.423516,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Minnesota Vikings,No,-0.19669999999999999,0.5652,0.7619
-2023-12-20 21:03:35.390041,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Green Bay Packers,Yes,-0.2021,0.2857,0.4878
-2023-12-20 21:03:35.397972,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Houston Texans,No,-0.25709999999999994,0.4651,0.7222
-2023-12-20 21:03:35.439049,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Pittsburgh Steelers,Yes,-0.26359999999999995,0.1,0.3636
-2023-12-20 21:03:35.374115,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Cleveland Browns,No,-0.26580000000000004,0.1786,0.4444
-2023-12-20 21:03:35.406555,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Indianapolis Colts,No,-0.33819999999999995,0.4444,0.7826
-2023-12-20 21:03:35.341929,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Atlanta Falcons,Yes,-0.4223,0.1429,0.5652
+2023-12-21 17:09:32.326841,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Gaganjeet Bhullar,0.3889,0.5556,0.1667
+2023-12-21 17:09:31.592277,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Joel Embiid (PHI),0.16359999999999997,0.3636,0.2
+2023-12-21 17:09:31.896405,NFC East - NFC East 2023/24 - NFC East Winner,Dallas Cowboys,0.12259999999999999,0.3226,0.2
+2023-12-21 17:09:30.786365,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,FC Köln,0.09689999999999999,0.3636,0.2667
+2023-12-21 17:09:31.017930,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Aberdeen,0.0915999999999999,0.6154,0.5238
+2023-12-21 17:09:31.524263,NCAA DI Men - Mountain West Conference 2023-24 - Winner,New Mexico,0.057699999999999974,0.3077,0.25
+2023-12-21 17:09:31.377660,Southeast Division - Southeast Division 2023-24 - Division Winner,Miami Heat,0.057699999999999974,0.5455,0.4878
+2023-12-21 17:09:30.779679,1. Bundesliga - Germany Bundesliga 2023/24 - Winner without Bayern Munich,Bayer Leverkusen,0.05709999999999993,0.8571,0.8
+2023-12-21 17:09:30.782518,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Harry Kane,0.05230000000000001,0.9412,0.8889
+2023-12-21 17:09:32.326841,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Angad Cheema,0.051,0.0833,0.0323
+2023-12-21 17:09:30.786365,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Mainz,0.04910000000000003,0.4,0.3509
+2023-12-21 17:09:32.326841,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Khalin Joshi,0.044599999999999994,0.0769,0.0323
+2023-12-21 17:09:31.372157,Pacific Division - Pacific Division 2023-24 - Division Winner,L.A. Clippers,0.04290000000000005,0.4,0.3571
+2023-12-21 17:09:30.836109,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Rennes,0.04040000000000002,0.2222,0.1818
+2023-12-21 17:09:31.556992,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,North Carolina State,0.0392,0.0588,0.0196
+2023-12-21 17:09:31.587698,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Coby White (CHI),0.03420000000000001,0.1111,0.0769
+2023-12-21 17:09:31.339477,Western Conference - Western Conference 2023-24 - Western Conference Winner,L.A. Clippers,0.033399999999999985,0.1667,0.1333
+2023-12-21 17:09:30.771790,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Girona,0.03179999999999994,0.5556,0.5238
+2023-12-21 17:09:31.544811,NCAA DI Men - Atlantic 10 Conference 2023-24 - Winner,Duquesne,0.031,0.1739,0.1429
+2023-12-21 17:09:30.836109,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Brest,0.029600000000000015,0.4,0.3704
+2023-12-21 17:09:30.829783,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Clermont Foot,0.028900000000000037,0.5744,0.5455
+2023-12-21 17:09:30.822624,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Nice,0.02560000000000001,0.3333,0.3077
+2023-12-21 17:09:31.021137,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Hibernian,0.02560000000000001,0.3333,0.3077
+2023-12-21 17:09:31.014867,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Livingston,0.025599999999999956,0.6,0.5744
+2023-12-21 17:09:31.544811,NCAA DI Men - Atlantic 10 Conference 2023-24 - Winner,Virginia Commonwealth,0.025300000000000003,0.1429,0.1176
+2023-12-21 17:09:30.832938,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Reims,0.024999999999999994,0.125,0.1
+2023-12-21 17:09:31.021137,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Ross County,0.0242,0.9333,0.9091
+2023-12-21 17:09:31.524263,NCAA DI Men - Mountain West Conference 2023-24 - Winner,UNLV,0.024,0.0625,0.0385
+2023-12-21 17:09:30.829783,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Lorient,0.023800000000000043,0.5238,0.5
+2023-12-21 17:09:32.326841,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,N Thangaraja,0.0233,0.0385,0.0152
+2023-12-21 17:09:31.014867,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,St. Johnstone,0.022199999999999998,0.2222,0.2
+2023-12-21 17:09:30.829783,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Le Havre,0.022199999999999998,0.2222,0.2
+2023-12-21 17:09:31.539647,NCAA DI Men - SEC Conference 2023-24 - Winner,Arkansas,0.0208,0.0833,0.0625
+2023-12-21 17:09:31.878471,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,San Francisco 49ers,0.02079999999999993,0.5556,0.5348
+2023-12-21 17:09:32.326841,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Akshay Sharma,0.0203,0.0588,0.0385
+2023-12-21 17:09:30.786365,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Borussia Mönchengladbach,0.0203,0.0588,0.0385
+2023-12-21 17:09:31.021137,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,St. Johnstone,0.020299999999999985,0.9615,0.9412
+2023-12-21 17:09:31.878471,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Dallas Cowboys,0.01999999999999999,0.2105,0.1905
+2023-12-21 17:09:31.578864,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,0.019000000000000017,0.2857,0.2667
+2023-12-21 17:09:30.832938,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Monaco,0.018999999999999906,0.7333,0.7143
+2023-12-21 17:09:30.832938,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Nice,0.018999999999999906,0.7333,0.7143
+2023-12-21 17:09:30.825910,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Kylian Mbappe (PSG),0.018900000000000028,0.9804,0.9615
+2023-12-21 17:09:32.326841,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Kartik Sharma,0.0189,0.0385,0.0196
+2023-12-21 17:09:30.825910,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Wissam Ben Yedder (Monaco),0.018200000000000004,0.0476,0.0294
+2023-12-21 17:09:30.786365,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Darmstadt,0.018199999999999994,0.8182,0.8
+2023-12-21 17:09:30.789524,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,RB Leipzig,0.017900000000000027,0.875,0.8571
+2023-12-21 17:09:30.769086,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Girona,0.017900000000000027,0.875,0.8571
+2023-12-21 17:09:30.752900,Club World Cup - Club World Cup Winner - Outright,Manchester City,0.017900000000000027,0.875,0.8571
+2023-12-21 17:09:31.539647,NCAA DI Men - SEC Conference 2023-24 - Winner,Texas A&M,0.0179,0.1429,0.125
+2023-12-21 17:09:30.786365,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Augsburg,0.0179,0.1429,0.125
+2023-12-21 17:09:30.822624,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Monaco,0.017600000000000005,0.3509,0.3333
+2023-12-21 17:09:30.829783,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Toulouse,0.017600000000000005,0.3509,0.3333
+2023-12-21 17:09:30.789524,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,VfB Stuttgart,0.016700000000000048,0.75,0.7333
+2023-12-21 17:09:30.769086,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Athletic Bilbao,0.016699999999999993,0.2667,0.25
+2023-12-21 17:09:30.766264,La Liga - Spain La Liga 2023/24 - To Be Relegated,Celta de Vigo,0.016699999999999993,0.2667,0.25
+2023-12-21 17:09:30.836109,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Reims,0.015400000000000025,0.4,0.3846
+2023-12-21 17:09:31.333862,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Boston Celtics,0.015400000000000025,0.4,0.3846
+2023-12-21 17:09:31.539647,NCAA DI Men - SEC Conference 2023-24 - Winner,Auburn,0.015100000000000002,0.1818,0.1667
+2023-12-21 17:09:32.326841,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Shamim Khan,0.0145,0.0244,0.0099
+2023-12-21 17:09:32.326841,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Divyanshu Bajaj,0.0145,0.0244,0.0099
+2023-12-21 17:09:31.513877,NCAA DI Men - ACC Conference 2023-24 - Winner,Wake Forest,0.014100000000000001,0.0526,0.0385
+2023-12-21 17:09:30.836109,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Nice,0.014000000000000012,0.9231,0.9091
+2023-12-21 17:09:30.836109,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Monaco,0.014000000000000012,0.9231,0.9091
+2023-12-21 17:09:31.011755,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Aberdeen,0.013999999999999999,0.0909,0.0769
+2023-12-21 17:09:30.832938,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Brest,0.013899999999999996,0.125,0.1111
+2023-12-21 17:09:31.556992,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,South Carolina,0.0131,0.2353,0.2222
+2023-12-21 17:09:31.878471,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Seattle Seahawks,0.0115,0.0294,0.0179
+2023-12-21 17:09:31.021137,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Motherwell,0.011199999999999988,0.9524,0.9412
+2023-12-21 17:09:30.786365,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Union Berlin,0.011099999999999999,0.1111,0.1
+2023-12-21 17:09:31.328172,NBA Championship - NBA Championship 2023-24 - NBA Champion,Philadelphia 76ers,0.0102,0.0769,0.0667
+2023-12-21 17:09:31.328172,NBA Championship - NBA Championship 2023-24 - NBA Champion,Los Angeles Clippers,0.0102,0.0769,0.0667
+2023-12-21 17:09:31.339477,Western Conference - Western Conference 2023-24 - Western Conference Winner,Dallas Mavericks,-0.0102,0.0667,0.0769
+2023-12-21 17:09:31.529415,NCAA DI Men - Pac-12 Conference 2023-24 - Winner,Oregon,-0.0102,0.0667,0.0769
+2023-12-21 17:09:32.326841,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,SSP Chawrasia,-0.010700000000000001,0.0278,0.0385
+2023-12-21 17:09:31.878471,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Detroit Lions,-0.011099999999999999,0.1,0.1111
+2023-12-21 17:09:32.326841,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Gaurav Pratap Singh,-0.0119,0.0033,0.0152
+2023-12-21 17:09:30.769086,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Atlético Madrid,-0.012899999999999912,0.8333,0.8462
+2023-12-21 17:09:30.829783,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Montpellier,-0.012899999999999995,0.1538,0.1667
+2023-12-21 17:09:32.326841,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Sachin Baisoya,-0.014099999999999998,0.0244,0.0385
+2023-12-21 17:09:31.017930,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Livingston,-0.014900000000000004,0.0196,0.0345
+2023-12-21 17:09:31.500586,NCAA DI Men - Big Ten Conference 2023-24 - Winner,Northwestern,-0.015300000000000001,0.0323,0.0476
+2023-12-21 17:09:31.534609,NCAA DI Men - American Athletic Conference 2023-24 - Winner,Charlotte,-0.0157,0.0278,0.0435
+2023-12-21 17:09:32.326841,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Saptak Talwar,-0.0165,0.0079,0.0244
+2023-12-21 17:09:32.326841,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Udayan Mane,-0.0165,0.0079,0.0244
+2023-12-21 17:09:31.017930,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Hibernian,-0.016700000000000048,0.7333,0.75
+2023-12-21 17:09:30.769086,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Sociedad,-0.0174,0.2326,0.25
+2023-12-21 17:09:30.752900,Club World Cup - Club World Cup Winner - Outright,Fluminense,-0.017499999999999988,0.1786,0.1961
+2023-12-21 17:09:30.822624,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Lens,-0.018099999999999998,0.0588,0.0769
+2023-12-21 17:09:30.822624,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Marseille,-0.01820000000000002,0.1818,0.2
+2023-12-21 17:09:31.014867,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Motherwell,-0.01820000000000002,0.1818,0.2
+2023-12-21 17:09:31.544811,NCAA DI Men - Atlantic 10 Conference 2023-24 - Winner,Loyola Chicago,-0.018800000000000004,0.0526,0.0714
+2023-12-21 17:09:32.326841,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Varun Chopra,-0.0189,0.0196,0.0385
+2023-12-21 17:09:31.534609,NCAA DI Men - American Athletic Conference 2023-24 - Winner,North Texas,-0.0189,0.0196,0.0385
+2023-12-21 17:09:32.326841,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Rashid Khan,-0.019099999999999992,0.0476,0.0667
+2023-12-21 17:09:31.544811,NCAA DI Men - Atlantic 10 Conference 2023-24 - Winner,Richmond,-0.01949999999999999,0.0714,0.0909
+2023-12-21 17:09:31.534609,NCAA DI Men - American Athletic Conference 2023-24 - Winner,Wichita State,-0.019800000000000005,0.0278,0.0476
+2023-12-21 17:09:30.766264,La Liga - Spain La Liga 2023/24 - To Be Relegated,Villarreal,-0.02020000000000001,0.0909,0.1111
+2023-12-21 17:09:30.829783,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Strasbourg,-0.02020000000000001,0.0909,0.1111
+2023-12-21 17:09:30.766264,La Liga - Spain La Liga 2023/24 - To Be Relegated,Cádiz,-0.021699999999999997,0.4545,0.4762
+2023-12-21 17:09:30.832938,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Lens,-0.021999999999999964,0.2857,0.3077
+2023-12-21 17:09:30.832938,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Lille,-0.022600000000000064,0.6,0.6226
+2023-12-21 17:09:31.017930,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,St. Johnstone,-0.02310000000000001,0.0769,0.1
+2023-12-21 17:09:30.836109,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Marseille,-0.023799999999999932,0.8333,0.8571
+2023-12-21 17:09:30.836109,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Lille,-0.023799999999999932,0.8333,0.8571
+2023-12-21 17:09:31.529415,NCAA DI Men - Pac-12 Conference 2023-24 - Winner,USC,-0.023799999999999988,0.1429,0.1667
+2023-12-21 17:09:31.513877,NCAA DI Men - ACC Conference 2023-24 - Winner,Miami Florida,-0.023799999999999988,0.1429,0.1667
+2023-12-21 17:09:32.326841,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Honey Baisoya,-0.0244,0.0079,0.0323
+2023-12-21 17:09:30.766264,La Liga - Spain La Liga 2023/24 - To Be Relegated,Sevilla,-0.024999999999999994,0.1,0.125
+2023-12-21 17:09:31.544811,NCAA DI Men - Atlantic 10 Conference 2023-24 - Winner,George Mason,-0.0286,0.0714,0.1
+2023-12-21 17:09:32.326841,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Rahil Gangjee,-0.0286,0.0099,0.0385
+2023-12-21 17:09:31.578864,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Jamahl Mosley,-0.028700000000000003,0.1818,0.2105
+2023-12-21 17:09:30.836109,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Lens,-0.030299999999999994,0.6364,0.6667
+2023-12-21 17:09:31.524263,NCAA DI Men - Mountain West Conference 2023-24 - Winner,Nevada,-0.031799999999999995,0.1111,0.1429
+2023-12-21 17:09:31.017930,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Ross County,-0.031799999999999995,0.1111,0.1429
+2023-12-21 17:09:30.782518,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Serhou Guirassy,-0.031799999999999995,0.1111,0.1429
+2023-12-21 17:09:30.771790,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Atlético Madrid,-0.031799999999999995,0.4444,0.4762
+2023-12-21 17:09:31.592277,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Luka Doncic (DAL),-0.033300000000000024,0.1667,0.2
+2023-12-21 17:09:32.326841,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Chikkarangappa S,-0.0344,0.0244,0.0588
+2023-12-21 17:09:30.829783,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Lyon,-0.0353,0.2,0.2353
+2023-12-21 17:09:30.779679,1. Bundesliga - Germany Bundesliga 2023/24 - Winner without Bayern Munich,Borussia Dortmund,-0.035300000000000005,0.0123,0.0476
+2023-12-21 17:09:31.372157,Pacific Division - Pacific Division 2023-24 - Division Winner,Sacramento Kings,-0.03689999999999999,0.2857,0.3226
+2023-12-21 17:09:32.326841,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Sunhit Bishnoi,-0.037700000000000004,0.0099,0.0476
+2023-12-21 17:09:32.326841,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Aman Raj,-0.0403,0.0123,0.0526
+2023-12-21 17:09:31.878471,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Philadelphia Eagles,-0.04040000000000002,0.1818,0.2222
+2023-12-21 17:09:30.822624,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Lille,-0.04040000000000002,0.1818,0.2222
+2023-12-21 17:09:32.326841,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Manu Gandas,-0.0503,0.0164,0.0667
+2023-12-21 17:09:32.326841,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Veer Ahlawat,-0.0573,0.0196,0.0769
+2023-12-21 17:09:32.326841,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Karandeep Kochhar,-0.06309999999999999,0.0278,0.0909
+2023-12-21 17:09:31.377660,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,-0.06930000000000003,0.4545,0.5238
+2023-12-21 17:09:31.592277,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Nikola Jokic (DEN),-0.08329999999999999,0.25,0.3333
+2023-12-21 17:09:30.789524,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Borussia Dortmund,-0.09830000000000005,0.4255,0.5238
+2023-12-21 17:09:31.021137,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Aberdeen,-0.10109999999999997,0.4545,0.5556
+2023-12-21 17:09:31.896405,NFC East - NFC East 2023/24 - NFC East Winner,Philadelphia Eagles,-0.1129,0.7333,0.8462
+2023-12-21 17:09:30.786365,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Heidenheim,-0.13979999999999998,0.2857,0.4255
