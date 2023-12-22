@@ -1,17 +1,24 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2023-12-22 22:07:11.328766,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Kevin Stefanski,0.25,0.3333,0.0833
 2023-12-22 16:28:14.051943,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Rahil Gangjee,0.1151,0.125,0.0099
 2023-12-22 16:28:13.125132,NFC South - NFC South 2023/24 - NFC South Winner,Tampa Bay Buccaneers,0.11430000000000007,0.7143,0.6
 2023-12-22 16:28:10.412243,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Burnley,0.11110000000000009,0.7778,0.6667
+2023-12-22 22:07:11.328766,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Shane Steichen,0.08329999999999999,0.3333,0.25
+2023-12-22 22:07:11.332097,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Matthew Stafford,0.06669999999999998,0.1667,0.1
 2023-12-22 16:28:13.745432,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Los Angeles Dodgers,0.04930000000000001,0.3125,0.2632
 2023-12-22 16:28:12.480885,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,0.047599999999999976,0.3333,0.2857
 2023-12-22 16:28:13.296000,NFL Weekly Specials - Saturday Specials - Highest Scoring Team on Saturday,BUF Bills,0.045499999999999985,0.5,0.4545
+2023-12-22 22:07:11.332097,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Joe Flacco,0.04440000000000001,0.1111,0.0667
 2023-12-22 16:28:14.051943,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Gaganjeet Bhullar,0.044399999999999995,0.6,0.5556
 2023-12-22 16:28:14.051943,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Rashid Khan,0.04329999999999999,0.0909,0.0476
 2023-12-22 16:28:14.051943,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Angad Cheema,0.0417,0.125,0.0833
+2023-12-22 22:07:11.335369,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Danielle Hunter,0.0384,0.0769,0.0385
+2023-12-22 22:07:11.338718,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Christian McCaffrey,0.03810000000000001,0.129,0.0909
 2023-12-22 16:28:10.219624,League One - England - League One 2023/24 - To Be Promoted,Derby County,0.036900000000000044,0.5833,0.5464
 2023-12-22 16:28:10.412243,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Nottingham Forest,0.03570000000000001,0.2857,0.25
 2023-12-22 16:28:12.519991,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Chet Holmgren (OKC),0.03479999999999994,0.6,0.5652
 2023-12-22 16:28:10.230187,League One - England - League One 2023/24 - Top 6 Finish,Derby County,0.03410000000000002,0.9091,0.875
+2023-12-22 22:07:11.332097,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Baker Mayfield,0.034100000000000005,0.125,0.0909
 2023-12-22 16:28:10.224891,League One - England - League One 2023/24 - Top 2 Finish,Derby County,0.03370000000000001,0.3846,0.3509
 2023-12-22 16:28:13.758372,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Los Angeles Dodgers,0.033300000000000024,0.2,0.1667
 2023-12-22 16:28:09.877093,La Liga - Spain La Liga 2023/24 - To Be Relegated,Alavés,0.03259999999999999,0.2326,0.2
@@ -25,6 +32,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-22 16:28:09.869751,La Liga - Spain La Liga 2023/24 - Winner,Real Madrid,0.019199999999999995,0.7692,0.75
 2023-12-22 16:28:10.213451,League One - England - League One 2023/24 - Top Goalscorer,James Collins,0.018200000000000004,0.0476,0.0294
 2023-12-22 16:28:11.641276,Western Conference - Western Conference 2023-24 - Western Conference Winner,Oklahoma City Thunder,0.018099999999999998,0.0769,0.0588
+2023-12-22 22:07:11.335369,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,T.J. Watt,0.0179,0.2353,0.2174
+2023-12-22 22:07:11.215731,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,San Francisco 49ers,0.017600000000000005,0.3509,0.3333
 2023-12-22 16:28:13.974921,Potential Fights - Mike Tyson vs John Fury - To Win the Bout,Mike Tyson,0.015699999999999936,0.8824,0.8667
 2023-12-22 16:28:10.213451,League One - England - League One 2023/24 - Top Goalscorer,Jordan Rhodes,0.015100000000000002,0.1818,0.1667
 2023-12-22 16:28:10.412243,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Crystal Palace,0.013999999999999999,0.0909,0.0769
@@ -33,21 +42,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-22 16:28:09.882656,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Athletic Bilbao,0.011099999999999999,0.2778,0.2667
 2023-12-22 16:28:13.045440,NFC Championship - NFC Championship 2023/24 - NFC Championship Winner 23/24,Los Angeles Rams,0.010600000000000002,0.0323,0.0217
 2023-12-22 16:28:11.852331,FIBA Champions League - Champions League 2023/24 - Outright,Ludwigsburg,0.010100000000000001,0.0345,0.0244
-2023-12-22 16:28:09.890425,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Atlético Madrid,0.010099999999999998,0.4545,0.4444
+2023-12-22 22:07:11.531061,Elite Boxing - Daniel Dubois vs Jarrell Miller - To Win the Bout,Jarrell Miller,0.010099999999999998,0.3226,0.3125
 2023-12-22 16:28:11.754204,Southeast Division - Southeast Division 2023-24 - Division Winner,Miami Heat,0.010099999999999998,0.5556,0.5455
+2023-12-22 16:28:09.890425,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Atlético Madrid,0.010099999999999998,0.4545,0.4444
 2023-12-22 16:28:11.754204,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,-0.010099999999999998,0.4444,0.4545
+2023-12-22 22:07:11.215731,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Philadelphia Eagles,-0.010099999999999998,0.0952,0.1053
 2023-12-22 16:28:11.590774,NBA Championship - NBA Championship 2023-24 - NBA Champion,Los Angeles Clippers,-0.0102,0.0667,0.0769
 2023-12-22 16:28:13.758372,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Toronto Blue Jays,-0.0102,0.0667,0.0769
 2023-12-22 16:28:13.745432,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Atlanta Braves,-0.010399999999999993,0.2222,0.2326
 2023-12-22 16:28:09.882656,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Sociedad,-0.010399999999999993,0.2222,0.2326
+2023-12-22 22:07:11.531061,Elite Boxing - Daniel Dubois vs Jarrell Miller - To Win the Bout,Daniel Dubois,-0.011099999999999999,0.7222,0.7333
 2023-12-22 16:28:13.514563,MLB Futures - MLB 2024 American League East - American League East Winner,Toronto Blue Jays,-0.011899999999999994,0.2381,0.25
 2023-12-22 16:28:13.745432,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Philadelphia Phillies,-0.012899999999999995,0.1538,0.1667
-2023-12-22 16:28:11.724662,Pacific Division - Pacific Division 2023-24 - Division Winner,Los Angeles Lakers,-0.012899999999999995,0.1538,0.1667
 2023-12-22 16:28:12.510544,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Luka Doncic (DAL),-0.012899999999999995,0.1538,0.1667
+2023-12-22 16:28:11.724662,Pacific Division - Pacific Division 2023-24 - Division Winner,Los Angeles Lakers,-0.012899999999999995,0.1538,0.1667
 2023-12-22 16:28:13.772883,Elite Boxing - Frank Sanchez vs Junior Fa - To Win the Bout,Frank Sanchez,-0.0131,0.9524,0.9655
 2023-12-22 16:28:10.224891,League One - England - League One 2023/24 - Top 2 Finish,Bolton Wanderers,-0.013600000000000001,0.2941,0.3077
 2023-12-22 16:28:13.745432,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,New York Mets,-0.013999999999999999,0.0769,0.0909
+2023-12-22 22:07:11.328766,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Sean Payton,-0.014099999999999998,0.0244,0.0385
 2023-12-22 16:28:11.824677,Euro Cup - Euro Cup 2023/24 - Outright,U BT Cluj Napoca,-0.014100000000000001,0.0385,0.0526
+2023-12-22 22:07:11.338718,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Josh Allen,-0.01440000000000001,0.0909,0.1053
 2023-12-22 16:28:14.051943,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Arjun Prasad,-0.014599999999999998,0.005,0.0196
 2023-12-22 16:28:09.869751,La Liga - Spain La Liga 2023/24 - Winner,Girona,-0.015100000000000002,0.1667,0.1818
 2023-12-22 16:28:14.051943,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Sachin Baisoya,-0.0165,0.0079,0.0244
@@ -58,8 +72,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-22 16:28:14.051943,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Khalin Joshi,-0.018099999999999998,0.0588,0.0769
 2023-12-22 16:28:10.412243,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Sheffield United,-0.018100000000000005,0.9231,0.9412
 2023-12-22 16:28:10.219624,League One - England - League One 2023/24 - To Be Promoted,Portsmouth,-0.018199999999999994,0.8,0.8182
-2023-12-22 16:28:10.207027,League One - England - League One 2023/24 - League Winner,Peterborough United,-0.01820000000000002,0.1818,0.2
 2023-12-22 16:28:13.974921,Potential Fights - Mike Tyson vs John Fury - To Win the Bout,John Fury,-0.01820000000000002,0.1818,0.2
+2023-12-22 16:28:10.207027,League One - England - League One 2023/24 - League Winner,Peterborough United,-0.01820000000000002,0.1818,0.2
 2023-12-22 16:28:11.852331,FIBA Champions League - Champions League 2023/24 - Outright,Darussafaka,-0.0189,0.0196,0.0385
 2023-12-22 16:28:13.296000,NFL Weekly Specials - Saturday Specials - Highest Scoring Team on Saturday,CIN Bengals,-0.019000000000000017,0.2667,0.2857
 2023-12-22 16:28:14.051943,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Divyanshu Bajaj,-0.0194,0.005,0.0244
@@ -69,12 +83,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-22 16:28:10.230187,League One - England - League One 2023/24 - Top 6 Finish,Bolton Wanderers,-0.020500000000000074,0.8462,0.8667
 2023-12-22 16:28:14.051943,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Yashas Chandra,-0.021199999999999997,0.0066,0.0278
 2023-12-22 16:28:14.051943,Tata Steel Tour Championship - Tata Steel Tour Championship - Winner,Kartik Sharma,-0.022099999999999998,0.0164,0.0385
+2023-12-22 22:07:11.338718,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Dak Prescott,-0.02239999999999999,0.0952,0.1176
 2023-12-22 16:28:13.296000,NFL Weekly Specials - Saturday Specials - Highest Scoring Team on Saturday,LA Chargers,-0.023799999999999988,0.1429,0.1667
+2023-12-22 22:07:11.332097,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Tua Tagovailoa,-0.024299999999999995,0.0526,0.0769
 2023-12-22 16:28:11.824677,Euro Cup - Euro Cup 2023/24 - Outright,Gran Canaria,-0.02779999999999999,0.2222,0.25
 2023-12-22 16:28:12.480885,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Jamahl Mosley,-0.027999999999999997,0.1538,0.1818
 2023-12-22 16:28:09.890425,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Girona,-0.03179999999999994,0.5238,0.5556
+2023-12-22 22:07:11.328766,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Mike McDaniel,-0.0407,0.0769,0.1176
+2023-12-22 22:07:11.328766,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,DeMeco Ryans,-0.04999999999999999,0.2,0.25
 2023-12-22 16:28:09.877093,La Liga - Spain La Liga 2023/24 - To Be Relegated,Mallorca,-0.05679999999999999,0.125,0.1818
 2023-12-22 16:28:12.519991,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Victor Wembanyama (SAS),-0.05860000000000004,0.4762,0.5348
 2023-12-22 16:28:10.412243,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Bournemouth,-0.06620000000000001,0.0588,0.125
+2023-12-22 22:07:11.328766,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Dan Campbell,-0.06669999999999998,0.2,0.2667
+2023-12-22 22:07:11.335369,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Micah Parsons,-0.08039999999999997,0.4651,0.5455
 2023-12-22 16:28:13.125132,NFC South - NFC South 2023/24 - NFC South Winner,New Orleans Saints,-0.14139999999999997,0.2222,0.3636
 2023-12-22 16:28:10.412243,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Everton,-0.1453,0.0769,0.2222
+2023-12-22 22:07:11.332097,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Damar Hamlin,-0.15000000000000002,0.75,0.9
