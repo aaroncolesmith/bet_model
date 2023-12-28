@@ -1,51 +1,33 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2023-12-27 05:05:08.142168,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Manchester United,0.11430000000000001,0.4,0.2857
-2023-12-27 05:05:09.381647,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,0.11430000000000001,0.4,0.2857
 2023-12-27 17:00:23.261963,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Panathinaikos,0.10040000000000004,0.7778,0.6774
 2023-12-27 17:00:23.261963,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Virtus Bologna,0.0847,0.7143,0.6296
-2023-12-27 05:05:08.115913,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Sheffield United,0.07790000000000008,0.7143,0.6364
 2023-12-27 17:00:23.287029,NBL - NBL 2023/2024 - Most Losses,Brisbane Bullets,0.06669999999999998,0.1667,0.1
 2023-12-27 17:00:22.599769,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Manchester City,0.05559999999999998,0.5,0.4444
-2023-12-27 05:05:08.104012,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Crystal Palace,0.052000000000000005,0.1429,0.0909
-2023-12-27 05:05:08.104012,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Everton,0.048100000000000004,0.125,0.0769
 2023-12-27 17:00:23.313480,NBL - NBL 2023/2024 - To Make Grand Final,New Zealand Breakers,0.04620000000000002,0.2,0.1538
-2023-12-27 05:05:09.394586,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Rudy Gobert (MIN),0.044399999999999995,0.6,0.5556
 2023-12-27 17:00:23.261963,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Partizan,0.04290000000000005,0.6429,0.6
 2023-12-27 17:00:23.321912,NBL - NBL 2023/2024 - To Make Top 4,New Zealand Breakers,0.03570000000000001,0.2857,0.25
-2023-12-27 05:05:09.162087,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,0.033399999999999985,0.1667,0.1333
-2023-12-27 05:05:08.064042,Premier League Futures/Specials - English Premier League 2023/24 - Winner without Manchester City,Liverpool,0.031799999999999995,0.4762,0.4444
-2023-12-27 05:05:08.104012,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Sheffield United,0.029299999999999993,0.9524,0.9231
 2023-12-27 17:00:23.261963,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Fenerbahce,0.027800000000000047,0.7778,0.75
 2023-12-27 07:06:04.103788,Boxing Lines - Yoshimitsu Kimura vs Kosuke Saka - To Win the Bout,Yoshimitsu Kimura,0.02210000000000001,0.8403,0.8182
+2023-12-27 19:00:49.594612,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Aston Villa,0.021699999999999997,0.4762,0.4545
 2023-12-27 17:00:23.261963,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Maccabi Tel-Aviv,0.02079999999999993,0.5556,0.5348
-2023-12-27 05:05:08.104012,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Fulham,0.0203,0.0588,0.0385
 2023-12-27 17:00:23.261963,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Alba Berlin,0.019099999999999992,0.0667,0.0476
-2023-12-27 05:05:08.142168,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Tottenham Hotspur,0.017900000000000027,0.875,0.8571
+2023-12-27 19:00:49.594612,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Liverpool,0.018100000000000005,0.9412,0.9231
 2023-12-27 17:00:23.295435,NBL - NBL 2023/2024 - Outright,New Zealand Breakers,0.016700000000000007,0.1,0.0833
 2023-12-27 17:00:23.261963,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Bayern Munich,0.015400000000000025,0.4,0.3846
 2023-12-27 13:02:33.795209,Boxing Lines - Yoshimitsu Kimura vs Kosuke Saka - To Win the Bout,Kosuke Saka,0.01369999999999999,0.241,0.2273
+2023-12-27 19:00:51.611120,Boxing Lines - Artur Beterbiev vs Callum Smith - To Win the Bout,Artur Beterbiev,0.0131,0.8131,0.8
 2023-12-27 07:06:04.086355,Boxing Lines - Hayato Tsutsumi vs Luis Moncion Ventura - To Win the Bout,Hayato Tsutsumi,0.011199999999999988,0.9524,0.9412
 2023-12-27 15:02:06.477779,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Los Angeles Dodgers,0.010499999999999982,0.2105,0.2
+2023-12-27 19:00:51.611120,Boxing Lines - Artur Beterbiev vs Callum Smith - To Win the Bout,Callum Smith,-0.010299999999999976,0.2564,0.2667
 2023-12-27 07:06:04.103788,Boxing Lines - Yoshimitsu Kimura vs Kosuke Saka - To Win the Bout,Kosuke Saka,-0.010800000000000004,0.2273,0.2381
 2023-12-27 17:00:23.261963,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Anadolu Efes,-0.012199999999999989,0.5,0.5122
-2023-12-27 05:05:08.142168,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Aston Villa,-0.013900000000000023,0.875,0.8889
 2023-12-27 13:02:33.795209,Boxing Lines - Yoshimitsu Kimura vs Kosuke Saka - To Win the Bout,Yoshimitsu Kimura,-0.014200000000000101,0.8261,0.8403
 2023-12-27 07:06:04.086355,Boxing Lines - Hayato Tsutsumi vs Luis Moncion Ventura - To Win the Bout,Luis Moncion Ventura,-0.01759999999999999,0.1,0.1176
-2023-12-27 05:05:08.104012,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Wolverhampton Wanderers,-0.018099999999999998,0.0588,0.0769
-2023-12-27 17:00:23.330086,NBL - NBL 2023/2024 - To Make Top 6,Tasmania JackJumpers,-0.020199999999999996,0.8889,0.9091
 2023-12-27 17:00:23.330086,NBL - NBL 2023/2024 - To Make Top 6,Sydney Kings,-0.020199999999999996,0.8889,0.9091
+2023-12-27 17:00:23.330086,NBL - NBL 2023/2024 - To Make Top 6,Tasmania JackJumpers,-0.020199999999999996,0.8889,0.9091
 2023-12-27 17:00:23.303732,NBL - NBL 2023/2024 - Regular Season MVP,Jaylen Adams,-0.02020000000000001,0.0909,0.1111
-2023-12-27 05:05:08.115913,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Nottingham Forest,-0.0232,0.0435,0.0667
 2023-12-27 17:00:23.261963,Euroleague - Euroleague 2023/24 - To Make the Playoffs,AS Monaco,-0.023799999999999932,0.8333,0.8571
-2023-12-27 05:05:08.104012,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Burnley,-0.027800000000000047,0.75,0.7778
-2023-12-27 05:05:08.064042,Premier League Futures/Specials - English Premier League 2023/24 - Winner without Manchester City,Arsenal,-0.03179999999999994,0.5238,0.5556
-2023-12-27 05:05:08.104012,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Bournemouth,-0.0392,0.0196,0.0588
 2023-12-27 17:00:23.261963,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Baskonia,-0.043399999999999994,0.4444,0.4878
 2023-12-27 17:00:23.261963,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Valencia,-0.045499999999999985,0.4545,0.5
-2023-12-27 05:05:09.162087,Northwest Division - Northwest Division 2023-24 - Division Winner,Minnesota Timberwolves,-0.045499999999999985,0.4545,0.5
-2023-12-27 05:05:08.115913,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Luton Town,-0.05350000000000002,0.1818,0.2353
 2023-12-27 17:00:23.261963,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Barcelona,-0.05709999999999993,0.8,0.8571
 2023-12-27 17:00:23.321912,NBL - NBL 2023/2024 - To Make Top 4,Brisbane Bullets,-0.0635,0.2222,0.2857
-2023-12-27 05:05:08.104012,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Luton Town,-0.09619999999999995,0.75,0.8462
-2023-12-27 05:05:09.381647,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Chris Finch,-0.11430000000000001,0.2857,0.4
-2023-12-27 05:05:08.142168,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Newcastle United,-0.14549999999999996,0.4545,0.6
