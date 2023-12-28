@@ -8,11 +8,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-28 03:00:39.845427,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,St. Mirren,0.07469999999999999,0.6491,0.5744
 2023-12-28 00:59:58.366060,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Houston,0.06519999999999998,0.3509,0.2857
 2023-12-27 23:00:14.733725,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Nikola Jokic (DEN),0.0635,0.2857,0.2222
+2023-12-28 07:00:42.303097,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Myles Garrett,0.05860000000000004,0.5348,0.4762
 2023-12-28 03:00:39.823875,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Kilmarnock,0.04849999999999999,0.1818,0.1333
 2023-12-27 23:00:14.703492,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Chris Finch,0.047599999999999976,0.3333,0.2857
-2023-12-27 23:00:14.476666,Southwest Division - Southwest Division 2023-24 - Division Winner,Dallas Mavericks,0.044399999999999995,0.6,0.5556
 2023-12-28 03:00:39.838295,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Aberdeen,0.044399999999999995,0.6,0.5556
+2023-12-27 23:00:14.476666,Southwest Division - Southwest Division 2023-24 - Division Winner,Dallas Mavericks,0.044399999999999995,0.6,0.5556
 2023-12-27 23:00:14.452981,Pacific Division - Pacific Division 2023-24 - Division Winner,L.A. Clippers,0.04139999999999999,0.4762,0.4348
+2023-12-28 07:00:42.303097,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Maxx Crosby,0.0392,0.0588,0.0196
 2023-12-27 23:00:14.430358,Central Division - Central Division 2023-24 - Division Winner,Milwaukee Bucks,0.0383,0.9474,0.9091
 2023-12-27 23:00:14.392981,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Philadelphia 76ers,0.033300000000000024,0.2,0.1667
 2023-12-28 00:59:58.404996,NCAA DI Men - SEC Conference 2023-24 - Winner,Auburn,0.028700000000000003,0.2105,0.1818
@@ -33,33 +35,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-27 19:00:49.594612,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Liverpool,0.018100000000000005,0.9412,0.9231
 2023-12-28 03:00:39.924869,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Everton,0.0179,0.1429,0.125
 2023-12-27 23:00:14.346891,NBA Championship - NBA Championship 2023-24 - NBA Champion,Los Angeles Clippers,0.016600000000000004,0.0833,0.0667
+2023-12-27 23:00:14.346891,NBA Championship - NBA Championship 2023-24 - NBA Champion,Milwaukee Bucks,0.015100000000000002,0.1818,0.1667
 2023-12-28 05:00:29.797613,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,0.015100000000000002,0.1818,0.1667
 2023-12-28 00:59:58.375558,NCAA DI Men - Mountain West Conference 2023-24 - Winner,Nevada,0.015100000000000002,0.1818,0.1667
-2023-12-27 23:00:14.346891,NBA Championship - NBA Championship 2023-24 - NBA Champion,Milwaukee Bucks,0.015100000000000002,0.1818,0.1667
 2023-12-27 23:00:14.744637,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Jaime Jaquez Jr. (MIA),0.014099999999999998,0.0385,0.0244
 2023-12-27 23:00:14.476666,Southwest Division - Southwest Division 2023-24 - Division Winner,Memphis Grizzlies,0.014099999999999994,0.0667,0.0526
 2023-12-28 00:59:58.438344,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,UCLA,0.013999999999999999,0.0909,0.0769
 2023-12-27 23:00:14.721876,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Alperen Sengun (HOU),0.013899999999999996,0.125,0.1111
-2023-12-28 03:00:39.838295,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Ross County,0.013899999999999996,0.125,0.1111
 2023-12-28 00:59:58.404996,NCAA DI Men - SEC Conference 2023-24 - Winner,Alabama,0.013899999999999996,0.125,0.1111
+2023-12-28 03:00:39.838295,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Ross County,0.013899999999999996,0.125,0.1111
 2023-12-27 19:00:51.611120,Boxing Lines - Artur Beterbiev vs Callum Smith - To Win the Bout,Artur Beterbiev,0.0131,0.8131,0.8
 2023-12-27 23:00:14.693631,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Jaime Jaquez Jr. (MIA),0.012100000000000001,0.0244,0.0123
 2023-12-27 23:00:15.787352,Boxing Lines - Daigo Higa vs Navapon Khaikanha - To Win the Bout,Daigo Higa,0.011900000000000022,0.8214,0.8095
 2023-12-28 03:00:39.924869,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Brentford,0.011199999999999995,0.0588,0.0476
 2023-12-27 23:00:14.452981,Pacific Division - Pacific Division 2023-24 - Division Winner,Golden State Warriors,0.011099999999999999,0.1111,0.1
 2023-12-28 03:00:39.932041,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Burnley,0.010399999999999993,0.2326,0.2222
-2023-12-28 03:00:39.838295,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,St. Johnstone,0.0102,0.0769,0.0667
 2023-12-27 23:00:14.392981,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Miami Heat,0.0102,0.0769,0.0667
+2023-12-28 03:00:39.838295,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,St. Johnstone,0.0102,0.0769,0.0667
 2023-12-28 03:00:39.945806,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Newcastle United,-0.010099999999999998,0.4444,0.4545
 2023-12-28 03:00:39.845427,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Ross County,-0.010199999999999987,0.9231,0.9333
-2023-12-28 00:59:58.426480,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Kansas,-0.0102,0.0667,0.0769
 2023-12-27 23:00:14.346891,NBA Championship - NBA Championship 2023-24 - NBA Champion,Philadelphia 76ers,-0.0102,0.0667,0.0769
-2023-12-28 03:00:39.823875,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Aberdeen,-0.0102,0.0667,0.0769
 2023-12-27 23:00:14.733725,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Giannis Antetokounmpo (MIL),-0.0102,0.0667,0.0769
+2023-12-28 03:00:39.823875,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Aberdeen,-0.0102,0.0667,0.0769
+2023-12-28 00:59:58.426480,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Kansas,-0.0102,0.0667,0.0769
 2023-12-27 19:00:51.611120,Boxing Lines - Artur Beterbiev vs Callum Smith - To Win the Bout,Callum Smith,-0.010299999999999976,0.2564,0.2667
-2023-12-27 23:00:14.721876,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Tyrese Haliburton (IND),-0.011199999999999995,0.0476,0.0588
-2023-12-27 23:00:14.712879,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Brook Lopez (MIL),-0.011199999999999995,0.0323,0.0435
 2023-12-27 23:00:14.392981,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Cleveland Cavaliers,-0.011199999999999995,0.0323,0.0435
+2023-12-27 23:00:14.712879,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Brook Lopez (MIL),-0.011199999999999995,0.0323,0.0435
+2023-12-27 23:00:14.721876,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Tyrese Haliburton (IND),-0.011199999999999995,0.0476,0.0588
 2023-12-27 21:00:36.504867,Boxing Lines - Artur Beterbiev vs Callum Smith - To Win the Bout,Callum Smith,-0.012500000000000011,0.2439,0.2564
 2023-12-27 23:00:15.787352,Boxing Lines - Daigo Higa vs Navapon Khaikanha - To Win the Bout,Navapon Khaikanha,-0.012799999999999978,0.2469,0.2597
 2023-12-27 23:00:14.406526,Western Conference - Western Conference 2023-24 - Western Conference Winner,Minnesota Timberwolves,-0.013899999999999996,0.1111,0.125
@@ -70,13 +72,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-28 03:00:39.830821,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Motherwell,-0.015100000000000002,0.1667,0.1818
 2023-12-28 03:00:39.830821,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Ross County,-0.015700000000000006,0.1176,0.1333
 2023-12-28 03:00:39.924869,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Luton Town,-0.016700000000000048,0.7333,0.75
-2023-12-28 03:00:39.945806,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Aston Villa,-0.017900000000000027,0.8571,0.875
 2023-12-28 03:00:39.945806,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Tottenham Hotspur,-0.017900000000000027,0.8571,0.875
+2023-12-28 03:00:39.945806,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Aston Villa,-0.017900000000000027,0.8571,0.875
 2023-12-27 23:00:14.346891,NBA Championship - NBA Championship 2023-24 - NBA Champion,Los Angeles Lakers,-0.018099999999999998,0.0588,0.0769
 2023-12-28 05:00:29.797613,Northwest Division - Northwest Division 2023-24 - Division Winner,Minnesota Timberwolves,-0.019699999999999995,0.4348,0.4545
 2023-12-28 03:00:39.924869,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Wolverhampton Wanderers,-0.0203,0.0385,0.0588
-2023-12-28 00:59:58.414768,NCAA DI Men - Atlantic 10 Conference 2023-24 - Winner,George Mason,-0.022000000000000006,0.0833,0.1053
 2023-12-27 23:00:14.406526,Western Conference - Western Conference 2023-24 - Western Conference Winner,Los Angeles Lakers,-0.022000000000000006,0.0833,0.1053
+2023-12-28 00:59:58.414768,NCAA DI Men - Atlantic 10 Conference 2023-24 - Winner,George Mason,-0.022000000000000006,0.0833,0.1053
 2023-12-28 03:00:40.746458,Euro Cup - Euro Cup 2023/24 - Outright,Gran Canaria,-0.022199999999999998,0.2,0.2222
 2023-12-27 23:00:14.430358,Central Division - Central Division 2023-24 - Division Winner,Cleveland Cavaliers,-0.02310000000000001,0.0769,0.1
 2023-12-27 23:00:14.452981,Pacific Division - Pacific Division 2023-24 - Division Winner,Los Angeles Lakers,-0.023799999999999988,0.1429,0.1667
@@ -92,6 +94,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-27 23:00:14.392981,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Boston Celtics,-0.0348,0.4,0.4348
 2023-12-27 23:00:14.452981,Pacific Division - Pacific Division 2023-24 - Division Winner,Sacramento Kings,-0.0363,0.2667,0.303
 2023-12-28 00:59:58.385833,NCAA DI Men - Pac-12 Conference 2023-24 - Winner,USC,-0.04169999999999999,0.125,0.1667
+2023-12-28 07:00:42.303097,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,T.J. Watt,-0.043800000000000006,0.1667,0.2105
+2023-12-28 07:00:42.303097,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Micah Parsons,-0.04700000000000004,0.4878,0.5348
 2023-12-28 03:00:39.845427,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Aberdeen,-0.04760000000000003,0.4762,0.5238
 2023-12-27 23:00:14.703492,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Jamahl Mosley,-0.05710000000000001,0.1429,0.2
 2023-12-27 23:00:14.476666,Southwest Division - Southwest Division 2023-24 - Division Winner,New Orleans Pelicans,-0.06659999999999999,0.2667,0.3333
