@@ -4,7 +4,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-31 17:00:52.161972,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Baltimore Ravens,0.0353,0.2353,0.2
 2023-12-31 17:00:52.161972,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Dallas Cowboys,0.0343,0.1176,0.0833
 2023-12-31 11:00:56.365984,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Heung-Min Son,0.033300000000000024,0.2,0.1667
-2023-12-31 07:00:06.425550,Republican Party Primaries - Iowa Caucus Popular Vote Winner Without Trump - Iowa Caucus Popular Vote Winner Without Trump,Nikki Haley,0.033299999999999996,0.5455,0.5122
 2023-12-31 17:00:51.683295,WNBL - Australia WNBL 2023/24 - Outright,Townsville Fire (W),0.03210000000000002,0.4167,0.3846
 2023-12-31 11:00:56.381324,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Liverpool,0.030299999999999994,0.6667,0.6364
 2023-12-31 11:00:56.381324,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Manchester City,0.028799999999999937,0.8621,0.8333
@@ -12,20 +11,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-31 11:00:56.342141,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Manchester City,0.025599999999999956,0.6,0.5744
 2023-12-31 11:00:56.374187,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Brentford,0.02020000000000001,0.1111,0.0909
 2023-12-31 15:00:28.260078,Boxing Lines - Jason Moloney vs Saul Sanchez - To Win the Bout,Jason Moloney,0.019400000000000084,0.8131,0.7937
-2023-12-31 07:00:07.069514,NFL Weekly Specials - NFL Week 17 Touchdown Scorer Parlays - TD Parlays,Jalen Hurts & Kyren Williams 1+ Anytime Touchdown Each,0.018799999999999983,0.3636,0.3448
 2023-12-31 11:00:56.374187,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Burnley,0.018199999999999994,0.8182,0.8
 2023-12-31 11:00:56.381324,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Tottenham Hotspur,0.018099999999999998,0.0769,0.0588
-2023-12-31 07:00:06.414831,Republican Party Primaries - Iowa Caucus Popular Vote Winner - Iowa Caucus Popular Vote Winner,Donald Trump,0.014399999999999968,0.9375,0.9231
 2023-12-31 11:00:56.349772,Premier League Futures/Specials - English Premier League 2023/24 - Winner without Manchester City,Tottenham Hotspur,0.0131,0.0476,0.0345
 2023-12-31 09:00:10.755161,Boxing Lines - Ohara Davies vs Ismael Barroso - To Win the Bout,Ohara Davies,0.012899999999999912,0.8462,0.8333
 2023-12-31 11:00:56.357858,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Heung-Min Son,0.0102,0.0769,0.0667
 2023-12-31 17:00:51.683295,WNBL - Australia WNBL 2023/24 - Outright,Bendigo Spirit (W),-0.0102,0.0667,0.0769
 2023-12-31 11:00:58.205391,Boxing Lines - Ohara Davies vs Ismael Barroso - To Win the Bout,Ohara Davies,-0.012899999999999912,0.8333,0.8462
 2023-12-31 11:00:56.374187,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Crystal Palace,-0.013999999999999999,0.0769,0.0909
-2023-12-31 07:00:06.414831,Republican Party Primaries - Iowa Caucus Popular Vote Winner - Iowa Caucus Popular Vote Winner,Ron DeSantis,-0.014399999999999996,0.0625,0.0769
-2023-12-31 07:00:06.425550,Republican Party Primaries - Iowa Caucus Popular Vote Winner Without Trump - Iowa Caucus Popular Vote Winner Without Trump,Vivek Ramaswamy,-0.01440000000000001,0.0909,0.1053
-2023-12-31 17:00:51.600392,Euroleague - Euroleague 2023/24 - To Make Final Four,Valencia,-0.015100000000000002,0.1667,0.1818
 2023-12-31 17:00:51.600392,Euroleague - Euroleague 2023/24 - To Make Final Four,Anadolu Efes,-0.015100000000000002,0.1667,0.1818
+2023-12-31 17:00:51.600392,Euroleague - Euroleague 2023/24 - To Make Final Four,Valencia,-0.015100000000000002,0.1667,0.1818
 2023-12-31 17:00:51.609812,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Bayern Munich,-0.015400000000000025,0.3846,0.4
 2023-12-31 15:00:28.260078,Boxing Lines - Jason Moloney vs Saul Sanchez - To Win the Bout,Saul Sanchez,-0.017600000000000005,0.2564,0.274
 2023-12-31 17:00:51.683295,WNBL - Australia WNBL 2023/24 - Outright,Sydney Uni Flames (W),-0.0179,0.125,0.1429
@@ -33,7 +28,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-31 17:00:51.609812,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Valencia,-0.019699999999999995,0.4348,0.4545
 2023-12-31 17:00:51.683295,WNBL - Australia WNBL 2023/24 - Outright,Perth Lynx (W),-0.022199999999999998,0.2,0.2222
 2023-12-31 17:00:52.161972,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Philadelphia Eagles,-0.02310000000000001,0.0769,0.1
-2023-12-31 07:00:06.425550,Republican Party Primaries - Iowa Caucus Popular Vote Winner Without Trump - Iowa Caucus Popular Vote Winner Without Trump,Ron DeSantis,-0.023799999999999988,0.4762,0.5
 2023-12-31 11:00:56.396382,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Newcastle United,-0.025499999999999967,0.4,0.4255
 2023-12-31 17:00:51.600392,Euroleague - Euroleague 2023/24 - To Make Final Four,Olympiakos,-0.02560000000000001,0.3077,0.3333
 2023-12-31 17:00:51.646226,NBL - NBL 2023/2024 - Outright,SE Melbourne Phoenix,-0.029299999999999993,0.0476,0.0769
