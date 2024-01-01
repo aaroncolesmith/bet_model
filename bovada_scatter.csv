@@ -1,7 +1,9 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-31 11:00:56.349772,Premier League Futures/Specials - English Premier League 2023/24 - Winner without Manchester City,Liverpool,0.09140000000000004,0.6369,0.5455
+2023-12-31 23:00:40.775386,Southwest Division - Southwest Division 2023-24 - Division Winner,New Orleans Pelicans,0.055900000000000005,0.3636,0.3077
 2023-12-31 11:00:56.389066,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Tottenham Hotspur,0.05449999999999999,0.4545,0.4
 2023-12-31 17:00:52.161972,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Baltimore Ravens,0.0353,0.2353,0.2
+2023-12-31 23:00:40.694708,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Boston Celtics,0.0348,0.4348,0.4
 2023-12-31 17:00:52.161972,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Dallas Cowboys,0.0343,0.1176,0.0833
 2023-12-31 11:00:56.365984,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Heung-Min Son,0.033300000000000024,0.2,0.1667
 2023-12-31 17:00:51.683295,WNBL - Australia WNBL 2023/24 - Outright,Townsville Fire (W),0.03210000000000002,0.4167,0.3846
@@ -9,19 +11,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-31 11:00:56.381324,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Manchester City,0.028799999999999937,0.8621,0.8333
 2023-12-31 11:00:56.396382,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Tottenham Hotspur,0.027999999999999914,0.8462,0.8182
 2023-12-31 11:00:56.342141,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Manchester City,0.025599999999999956,0.6,0.5744
+2023-12-31 23:00:40.706118,Western Conference - Western Conference 2023-24 - Western Conference Winner,Oklahoma City Thunder,0.02310000000000001,0.1,0.0769
 2023-12-31 11:00:56.374187,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Brentford,0.02020000000000001,0.1111,0.0909
 2023-12-31 15:00:28.260078,Boxing Lines - Jason Moloney vs Saul Sanchez - To Win the Bout,Jason Moloney,0.019400000000000084,0.8131,0.7937
 2023-12-31 11:00:56.374187,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Burnley,0.018199999999999994,0.8182,0.8
 2023-12-31 11:00:56.381324,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Tottenham Hotspur,0.018099999999999998,0.0769,0.0588
+2023-12-31 23:00:40.706118,Western Conference - Western Conference 2023-24 - Western Conference Winner,Dallas Mavericks,0.016600000000000004,0.0833,0.0667
 2023-12-31 11:00:56.349772,Premier League Futures/Specials - English Premier League 2023/24 - Winner without Manchester City,Tottenham Hotspur,0.0131,0.0476,0.0345
+2023-12-31 23:00:41.037418,Republican Party Primaries - Iowa Caucus Popular Vote Winner Without Trump - Iowa Caucus Popular Vote Winner Without Trump,Ron DeSantis,0.0116,0.4878,0.4762
 2023-12-31 11:00:56.357858,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Heung-Min Son,0.0102,0.0769,0.0667
 2023-12-31 21:00:30.580175,Sentry Tournament of Champions - Sentry Tournament of Champions - Winner,Collin Morikawa,0.0102,0.0769,0.0667
 2023-12-31 17:00:51.683295,WNBL - Australia WNBL 2023/24 - Outright,Bendigo Spirit (W),-0.0102,0.0667,0.0769
+2023-12-31 23:00:41.037418,Republican Party Primaries - Iowa Caucus Popular Vote Winner Without Trump - Iowa Caucus Popular Vote Winner Without Trump,Nikki Haley,-0.010699999999999932,0.5348,0.5455
 2023-12-31 11:00:58.205391,Boxing Lines - Ohara Davies vs Ismael Barroso - To Win the Bout,Ohara Davies,-0.012899999999999912,0.8333,0.8462
 2023-12-31 11:00:56.374187,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Crystal Palace,-0.013999999999999999,0.0769,0.0909
+2023-12-31 23:00:41.027247,Republican Party Primaries - Iowa Caucus Popular Vote Winner - Iowa Caucus Popular Vote Winner,Nikki Haley,-0.013999999999999999,0.0769,0.0909
 2023-12-31 17:00:51.600392,Euroleague - Euroleague 2023/24 - To Make Final Four,Anadolu Efes,-0.015100000000000002,0.1667,0.1818
 2023-12-31 17:00:51.600392,Euroleague - Euroleague 2023/24 - To Make Final Four,Valencia,-0.015100000000000002,0.1667,0.1818
 2023-12-31 17:00:51.609812,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Bayern Munich,-0.015400000000000025,0.3846,0.4
+2023-12-31 23:00:40.706118,Western Conference - Western Conference 2023-24 - Western Conference Winner,Golden State Warriors,-0.016600000000000004,0.0667,0.0833
 2023-12-31 15:00:28.260078,Boxing Lines - Jason Moloney vs Saul Sanchez - To Win the Bout,Saul Sanchez,-0.017600000000000005,0.2564,0.274
 2023-12-31 17:00:51.683295,WNBL - Australia WNBL 2023/24 - Outright,Sydney Uni Flames (W),-0.0179,0.125,0.1429
 2023-12-31 17:00:51.600392,Euroleague - Euroleague 2023/24 - To Make Final Four,Zalgiris,-0.019099999999999992,0.0476,0.0667
@@ -31,7 +39,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2023-12-31 11:00:56.396382,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Newcastle United,-0.025499999999999967,0.4,0.4255
 2023-12-31 17:00:51.600392,Euroleague - Euroleague 2023/24 - To Make Final Four,Olympiakos,-0.02560000000000001,0.3077,0.3333
 2023-12-31 17:00:51.646226,NBL - NBL 2023/2024 - Outright,SE Melbourne Phoenix,-0.029299999999999993,0.0476,0.0769
+2023-12-31 23:00:40.706118,Western Conference - Western Conference 2023-24 - Western Conference Winner,Denver Nuggets,-0.030299999999999994,0.303,0.3333
 2023-12-31 17:00:52.161972,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Miami Dolphins,-0.0339,0.0714,0.1053
+2023-12-31 23:00:40.775386,Southwest Division - Southwest Division 2023-24 - Division Winner,Memphis Grizzlies,-0.035699999999999996,0.0476,0.0833
 2023-12-31 11:00:56.374187,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Fulham,-0.0384,0.0385,0.0769
 2023-12-31 11:00:56.389066,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Arsenal,-0.0464,0.8948,0.9412
 2023-12-31 17:00:51.609812,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Crvena Zvezda,-0.047599999999999976,0.2857,0.3333
