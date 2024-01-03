@@ -8,8 +8,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-02 07:00:19.706518,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Matchup,BAL Ravens vs DAL Cowboys,0.07400000000000001,0.1,0.026
 2024-01-02 07:00:19.706518,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Matchup,BUF Bills vs SF 49ers,0.06889999999999999,0.1379,0.069
 2024-01-02 05:01:11.846629,Super Bowl LVIII - Superbowl 58 (2024) - Conference Winner,NFC,0.06520000000000004,0.5652,0.5
-2024-01-02 03:01:07.255253,Championship - England Championship 2023/24 - Top 6 Finish,Sunderland,0.055900000000000005,0.3636,0.3077
-2024-01-02 03:01:07.255253,Championship - England Championship 2023/24 - Top 6 Finish,Coventry City,0.05550000000000002,0.2222,0.1667
 2024-01-02 07:00:19.706518,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Matchup,BAL Ravens vs PHI Eagles,0.0491,0.0769,0.0278
 2024-01-02 07:00:19.864748,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Puka Nacua,0.0474,0.1724,0.125
 2024-01-02 11:00:50.662093,Western Conference - Western Conference 2023-24 - Western Conference Winner,L.A. Clippers,0.04620000000000002,0.2,0.1538
@@ -24,21 +22,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-02 07:00:19.706518,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Matchup,CLE Browns vs SF 49ers,0.025900000000000003,0.0476,0.0217
 2024-01-02 05:01:11.858181,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,BAL Ravens to beat SF 49ers,0.025300000000000003,0.1429,0.1176
 2024-01-02 05:01:11.858181,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,BUF Bills to beat SF 49ers,0.0245,0.0833,0.0588
-2024-01-02 05:01:11.858181,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,SF 49ers to beat BUF Bills,0.0242,0.0909,0.0667
+2024-01-02 17:00:36.959022,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Kansas City Chiefs,0.0242,0.0909,0.0667
 2024-01-02 05:01:11.858181,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,SF 49ers to beat KC Chiefs,0.0242,0.0909,0.0667
+2024-01-02 05:01:11.858181,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,SF 49ers to beat BUF Bills,0.0242,0.0909,0.0667
+2024-01-02 17:00:37.706341,Tournament Match-Ups - Tournament Match-Up - M. Homa vs X. Schauffele - Tournament Match-Up,Xander Schauffele,0.023800000000000043,0.5238,0.5
 2024-01-02 11:00:51.950828,Potential Fights - Anthony Joshua vs Deontay Wilder - To Win the Bout,Anthony Joshua,0.022699999999999998,0.4878,0.4651
 2024-01-02 09:00:16.797312,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs J. Spieth - Tournament Match-Up,Patrick Cantlay,0.022600000000000064,0.6226,0.6
 2024-01-02 07:00:19.706518,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Matchup,MIA Dolphins vs SF 49ers,0.0208,0.0833,0.0625
 2024-01-02 09:00:16.737798,Tournament Match-Ups - Tournament Match-Up - M. Fitzpatrick vs T. Kim - Tournament Match-Up,Matt Fitzpatrick,0.02079999999999993,0.5556,0.5348
+2024-01-02 17:00:37.123939,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Joe Flacco,0.020699999999999996,0.4651,0.4444
 2024-01-02 09:00:16.659220,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs L. Aberg - Tournament Match-Up,Collin Morikawa,0.01970000000000005,0.5652,0.5455
 2024-01-02 15:00:30.404386,Boxing Lines - Mark Jeffers vs Germaine Brown - To Win the Bout,Germaine Brown,0.019600000000000006,0.3226,0.303
+2024-01-02 17:00:37.799881,Tournament Match-Ups - Tournament Match-Up - S. Burns vs C. Young - Tournament Match-Up,Sam Burns,0.01880000000000004,0.5744,0.5556
 2024-01-02 07:00:19.706518,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Matchup,KC Chiefs vs SF 49ers,0.01759999999999999,0.1176,0.1
 2024-01-02 07:00:19.706518,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Matchup,BAL Ravens vs LA Rams,0.0171,0.0196,0.0025
 2024-01-02 09:00:16.840859,Tournament Match-Ups - Tournament Match-Up - R. Henley vs W. Clark - Tournament Match-Up,Russell Henley,0.016100000000000003,0.6078,0.5917
 2024-01-02 07:00:19.835457,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,T.J. Watt,0.015100000000000002,0.1818,0.1667
 2024-01-02 07:00:19.845398,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Dak Prescott,0.014899999999999997,0.0625,0.0476
-2024-01-02 03:01:07.255253,Championship - England Championship 2023/24 - Top 6 Finish,Southampton,0.014599999999999946,0.995,0.9804
-2024-01-02 03:01:07.255253,Championship - England Championship 2023/24 - Top 6 Finish,Millwall,0.014099999999999998,0.0435,0.0294
 2024-01-02 05:01:11.858181,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,DAL Cowboys to beat BUF Bills,0.0115,0.0294,0.0179
 2024-01-02 05:01:11.858181,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,DAL Cowboys to beat BAL Ravens,0.011199999999999995,0.0588,0.0476
 2024-01-02 11:00:50.662093,Western Conference - Western Conference 2023-24 - Western Conference Winner,Phoenix Suns,0.010899999999999993,0.1538,0.1429
@@ -46,28 +46,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-02 07:00:20.318035,Tournament Match-Ups - Tournament Match-Up - S. Burns vs C. Young - Tournament Match-Up,Sam Burns,0.010099999999999998,0.5556,0.5455
 2024-01-02 07:00:19.706518,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Matchup,KC Chiefs vs DET Lions,-0.010100000000000001,0.0222,0.0323
 2024-01-02 07:00:20.318035,Tournament Match-Ups - Tournament Match-Up - S. Burns vs C. Young - Tournament Match-Up,Cameron Young,-0.011600000000000055,0.5122,0.5238
-2024-01-02 03:01:07.255253,Championship - England Championship 2023/24 - Top 6 Finish,Birmingham City,-0.013,0.0066,0.0196
 2024-01-02 07:00:19.706518,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Matchup,KC Chiefs vs SEA Seahawks,-0.0131,0.004,0.0171
-2024-01-02 03:01:07.255253,Championship - England Championship 2023/24 - Top 6 Finish,Cardiff City,-0.013999999999999999,0.0769,0.0909
+2024-01-02 17:00:36.959022,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Dallas Cowboys,-0.013899999999999996,0.1111,0.125
 2024-01-02 05:01:11.858181,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,PHI Eagles to beat BAL Ravens,-0.014099999999999998,0.0294,0.0435
+2024-01-02 17:00:37.123939,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Baker Mayfield,-0.01440000000000001,0.0909,0.1053
 2024-01-02 05:01:11.858181,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,KC Chiefs to beat SF 49ers,-0.014899999999999997,0.0476,0.0625
 2024-01-02 07:00:19.706518,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Matchup,MIA Dolphins vs PHI Eagles,-0.0157,0.0278,0.0435
-2024-01-02 03:01:07.255253,Championship - England Championship 2023/24 - Top 6 Finish,Middlesbrough,-0.017600000000000005,0.3333,0.3509
-2024-01-02 03:01:07.255253,Championship - England Championship 2023/24 - Top 6 Finish,Preston North End,-0.0203,0.0385,0.0588
-2024-01-02 09:00:16.797312,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs J. Spieth - Tournament Match-Up,Jordan Spieth,-0.020699999999999996,0.4444,0.4651
+2024-01-02 17:00:37.706341,Tournament Match-Ups - Tournament Match-Up - M. Homa vs X. Schauffele - Tournament Match-Up,Max Homa,-0.01970000000000005,0.5455,0.5652
 2024-01-02 11:00:51.961715,Potential Fights - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Oleksandr Usyk,-0.020699999999999996,0.4444,0.4651
+2024-01-02 09:00:16.797312,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs J. Spieth - Tournament Match-Up,Jordan Spieth,-0.020699999999999996,0.4444,0.4651
 2024-01-02 07:00:19.706518,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Matchup,KC Chiefs vs DAL Cowboys,-0.021199999999999997,0.0455,0.0667
 2024-01-02 09:00:16.840859,Tournament Match-Ups - Tournament Match-Up - R. Henley vs W. Clark - Tournament Match-Up,Wyndham Clark,-0.021699999999999997,0.4545,0.4762
 2024-01-02 07:00:19.817145,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,DeMeco Ryans,-0.02239999999999999,0.0952,0.1176
 2024-01-02 09:00:16.737798,Tournament Match-Ups - Tournament Match-Up - M. Fitzpatrick vs T. Kim - Tournament Match-Up,Tom Kim,-0.022600000000000064,0.5122,0.5348
 2024-01-02 09:00:16.659220,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs L. Aberg - Tournament Match-Up,Ludvig Aberg,-0.023800000000000043,0.5,0.5238
 2024-01-02 07:00:19.817145,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,John Harbaugh,-0.024299999999999995,0.0526,0.0769
+2024-01-02 17:00:37.799881,Tournament Match-Ups - Tournament Match-Up - S. Burns vs C. Young - Tournament Match-Up,Cameron Young,-0.024399999999999977,0.4878,0.5122
 2024-01-02 15:00:30.404386,Boxing Lines - Mark Jeffers vs Germaine Brown - To Win the Bout,Mark Jeffers,-0.02440000000000009,0.7403,0.7647
 2024-01-02 07:00:19.826163,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Baker Mayfield,-0.027999999999999997,0.1053,0.1333
-2024-01-02 07:00:19.817145,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Kyle Shanahan,-0.0294,0.0294,0.0588
 2024-01-02 07:00:19.817145,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Sean McVay,-0.0294,0.0294,0.0588
+2024-01-02 07:00:19.817145,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Kyle Shanahan,-0.0294,0.0294,0.0588
 2024-01-02 07:00:19.706518,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Matchup,KC Chiefs vs PHI Eagles,-0.031599999999999996,0.0351,0.0667
-2024-01-02 03:01:07.255253,Championship - England Championship 2023/24 - Top 6 Finish,Bristol City,-0.03420000000000001,0.0769,0.1111
 2024-01-02 11:00:51.950828,Potential Fights - Anthony Joshua vs Deontay Wilder - To Win the Bout,Deontay Wilder,-0.03479999999999994,0.5652,0.6
 2024-01-02 07:00:19.817145,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Coach of the Year,Shane Steichen,-0.038099999999999995,0.0952,0.1333
 2024-01-02 07:00:19.835457,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Player of the Year ,Maxx Crosby,-0.0392,0.0196,0.0588
@@ -76,7 +75,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-02 11:00:52.161853,Tournament Match-Ups - Tournament Match-Up - M. Fitzpatrick vs T. Kim - Tournament Match-Up,Tom Kim,-0.047099999999999975,0.4651,0.5122
 2024-01-02 07:00:19.845398,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Josh Allen,-0.052399999999999995,0.0385,0.0909
 2024-01-02 07:00:19.845398,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 MVP,Brock Purdy,-0.0524,0.0476,0.1
-2024-01-02 03:01:07.255253,Championship - England Championship 2023/24 - Top 6 Finish,West Bromwich Albion,-0.06969999999999998,0.6226,0.6923
 2024-01-02 05:01:11.846629,Super Bowl LVIII - Superbowl 58 (2024) - Conference Winner,AFC,-0.07740000000000002,0.4878,0.5652
 2024-01-02 07:00:19.855698,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Defensive Rookie of the Year,Jalen Carter,-0.1401,0.8403,0.9804
 2024-01-02 07:00:19.826163,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Damar Hamlin,-0.15000000000000002,0.6,0.75
