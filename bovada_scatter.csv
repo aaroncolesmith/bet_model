@@ -10,6 +10,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-04 03:00:16.602086,To Make the Playoffs - Indiana Pacers - To Make the 2023-24 Playoffs,Yes,0.06659999999999999,0.7333,0.6667
 2024-01-04 03:00:16.688043,To Make the Playoffs - New York Knicks - To Make the 2023-24 Playoffs,Yes,0.059699999999999975,0.9,0.8403
 2024-01-04 03:00:16.612683,To Make the Playoffs - Los Angeles Clippers - To Make the 2023-24 Playoffs,Yes,0.05830000000000002,0.9333,0.875
+2024-01-04 09:00:41.576062,Scores - 1st Round Score - Tom Kim - 1st Round Score,Over 68.5,0.057699999999999974,0.5455,0.4878
 2024-01-04 01:00:47.020008,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Bogdan Bogdanovic (ATL),0.05710000000000001,0.2,0.1429
 2024-01-04 03:00:16.709398,To Make the Playoffs - Orlando Magic - To Make the 2023-24 Playoffs,No,0.055499999999999994,0.3333,0.2778
 2024-01-04 01:00:46.764513,Pacific Division - Pacific Division 2023-24 - Division Winner,L.A. Clippers,0.05449999999999999,0.6,0.5455
@@ -18,6 +19,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-04 03:00:16.698713,To Make the Playoffs - Oklahoma City Thunder - To Make the 2023-24 Playoffs,Yes,0.0504,0.9671,0.9167
 2024-01-04 03:00:14.503454,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Girona,0.04810000000000003,0.9231,0.875
 2024-01-04 01:00:46.787418,Southwest Division - Southwest Division 2023-24 - Division Winner,New Orleans Pelicans,0.044399999999999995,0.4444,0.4
+2024-01-04 09:00:39.744450,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Sarah Huckabee Sanders,0.04329999999999999,0.0909,0.0476
 2024-01-04 03:00:17.100609,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Alperen Sengun (HOU),0.04169999999999999,0.1667,0.125
 2024-01-04 01:00:47.020008,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Malik Monk (SAC),0.04169999999999999,0.1667,0.125
 2024-01-04 03:00:17.072713,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Damian Lillard (MIL),0.0353,0.2353,0.2
@@ -32,14 +34,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-04 01:00:46.939778,NCAA DI Men - Big Ten Conference 2023-24 - Winner,Illinois,0.0242,0.0909,0.0667
 2024-01-04 03:00:17.026797,NCAA DI Men - Atlantic 10 Conference 2023-24 - Winner,St. Bonaventure,0.023799999999999988,0.1667,0.1429
 2024-01-04 07:01:05.128973,US Presidential Election 2024 - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,0.023799999999999932,0.8571,0.8333
+2024-01-04 09:00:39.744450,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Kristi Noem,0.022199999999999998,0.2222,0.2
 2024-01-04 01:00:46.961152,NCAA DI Men - ACC Conference 2023-24 - Winner,Duke,0.021999999999999964,0.3077,0.2857
 2024-01-03 21:01:33.689510,Scores - 1st Round Score - Matt Fitzpatrick - 1st Round Score,Over 68.5,0.02169999999999994,0.5455,0.5238
 2024-01-04 03:00:16.525406,To Make the Playoffs - Charlotte Hornets - To Make the 2023-24 Playoffs,Yes,0.0208,0.0833,0.0625
 2024-01-04 03:00:16.580521,To Make the Playoffs - Golden State Warriors - To Make the 2023-24 Playoffs,No,0.02079999999999993,0.5556,0.5348
-2024-01-04 03:00:16.536057,To Make the Playoffs - Chicago Bulls - To Make the 2023-24 Playoffs,Yes,0.019000000000000017,0.2857,0.2667
-2024-01-04 01:00:46.981936,NCAA DI Men - Mountain West Conference 2023-24 - Winner,Colorado State,0.019000000000000017,0.2857,0.2667
 2024-01-04 01:00:46.961152,NCAA DI Men - ACC Conference 2023-24 - Winner,North Carolina,0.019000000000000017,0.2857,0.2667
+2024-01-04 01:00:46.981936,NCAA DI Men - Mountain West Conference 2023-24 - Winner,Colorado State,0.019000000000000017,0.2857,0.2667
+2024-01-04 03:00:16.536057,To Make the Playoffs - Chicago Bulls - To Make the 2023-24 Playoffs,Yes,0.019000000000000017,0.2857,0.2667
 2024-01-04 03:00:16.569958,To Make the Playoffs - Denver Nuggets - To Make the 2023-24 Playoffs,No,0.019000000000000003,0.0625,0.0435
+2024-01-04 09:00:41.624662,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs M. Homa - Tournament Match-Up ,Collin Morikawa,0.01880000000000004,0.5744,0.5556
 2024-01-04 03:00:16.752027,To Make the Playoffs - Sacramento Kings - To Make the 2023-24 Playoffs,Yes,0.018199999999999994,0.8182,0.8
 2024-01-04 01:00:46.740587,Central Division - Central Division 2023-24 - Division Winner,Indiana Pacers,0.018099999999999998,0.0769,0.0588
 2024-01-04 03:00:17.016640,NCAA DI Men - SEC Conference 2023-24 - Winner,Texas A&M,0.0179,0.1429,0.125
@@ -50,6 +54,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-04 03:00:18.252635,Boxing Lines - Luis Robles Pacheco vs Tenshin Nasukawa - To Win the Bout,Tenshin Nasukawa,0.015699999999999936,0.8824,0.8667
 2024-01-04 03:00:17.091562,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Victor Wembanyama (SAS),0.015300000000000001,0.0476,0.0323
 2024-01-04 01:00:44.449387,La Liga - Spain La Liga 2023/24 - Winner,Girona,0.015100000000000002,0.1818,0.1667
+2024-01-04 09:00:40.618793,Boxing Lines - Arnold Barboza Jr vs Xolisani Ndongeni - To Win the Bout,Arnold Barboza Jr,0.014900000000000024,0.9804,0.9655
 2024-01-04 03:00:17.100609,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Tyrese Haliburton (IND),0.014899999999999997,0.0625,0.0476
 2024-01-04 03:00:17.091562,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Jaren Jackson Jr. (MEM),0.014099999999999998,0.0385,0.0244
 2024-01-04 03:00:16.822666,Euro Cup - Euro Cup 2023/24 - Outright,JL Bourg,0.013899999999999996,0.125,0.1111
@@ -62,18 +67,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-04 03:00:18.839685,Round Match-Ups - 1st Round Match-Up - L. Aberg vs J. Spieth - 1st Round Match-Up,Ludvig Aberg,0.010699999999999932,0.5455,0.5348
 2024-01-04 03:00:16.547225,To Make the Playoffs - Cleveland Cavaliers - To Make the 2023-24 Playoffs,No,0.010499999999999982,0.2105,0.2
 2024-01-04 03:00:17.072713,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Stephen Curry (GSW),0.0102,0.0769,0.0667
-2024-01-04 03:00:17.082263,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,0.010099999999999998,0.4545,0.4444
 2024-01-04 05:00:53.878827,Round Match-Ups - 1st Round Match-Up - R. Fowler vs K. Bradley - 1st Round Match-Up,Rickie Fowler,0.010099999999999998,0.5556,0.5455
+2024-01-04 03:00:17.082263,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,0.010099999999999998,0.4545,0.4444
+2024-01-04 09:00:40.618793,Boxing Lines - Arnold Barboza Jr vs Xolisani Ndongeni - To Win the Bout,Xolisani Ndongeni,-0.0102,0.0667,0.0769
 2024-01-04 03:00:18.358508,Sentry Tournament of Champions - Sentry Tournament of Champions - Winner,Patrick Cantlay,-0.0102,0.0667,0.0769
 2024-01-04 01:00:46.718070,Western Conference - Western Conference 2023-24 - Western Conference Winner,L.A. Clippers,-0.010899999999999993,0.1429,0.1538
-2024-01-04 03:00:16.778255,To Make the Playoffs - Utah Jazz - To Make the 2023-24 Playoffs,Yes,-0.011199999999999995,0.0476,0.0588
 2024-01-04 03:00:17.072713,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Trae Young (ATL),-0.011199999999999995,0.0476,0.0588
 2024-01-04 03:00:17.026797,NCAA DI Men - Atlantic 10 Conference 2023-24 - Winner,Davidson,-0.011199999999999995,0.0323,0.0435
+2024-01-04 03:00:16.778255,To Make the Playoffs - Utah Jazz - To Make the 2023-24 Playoffs,Yes,-0.011199999999999995,0.0476,0.0588
 2024-01-04 03:00:19.305623,Tournament Match-Ups - Tournament Match-Up - S. Burns vs C. Young - Tournament Match-Up,Cameron Young,-0.0116,0.4762,0.4878
 2024-01-04 01:00:46.718070,Western Conference - Western Conference 2023-24 - Western Conference Winner,Los Angeles Lakers,-0.011899999999999994,0.0714,0.0833
 2024-01-04 01:00:46.939778,NCAA DI Men - Big Ten Conference 2023-24 - Winner,Maryland,-0.012100000000000001,0.0123,0.0244
-2024-01-04 05:00:53.878827,Round Match-Ups - 1st Round Match-Up - R. Fowler vs K. Bradley - 1st Round Match-Up,Keegan Bradley,-0.012199999999999989,0.4878,0.5
 2024-01-04 03:00:18.839685,Round Match-Ups - 1st Round Match-Up - L. Aberg vs J. Spieth - 1st Round Match-Up,Jordan Spieth,-0.012199999999999989,0.5,0.5122
+2024-01-04 05:00:53.878827,Round Match-Ups - 1st Round Match-Up - R. Fowler vs K. Bradley - 1st Round Match-Up,Keegan Bradley,-0.012199999999999989,0.4878,0.5
 2024-01-04 01:00:46.718070,Western Conference - Western Conference 2023-24 - Western Conference Winner,Golden State Warriors,-0.014099999999999994,0.0526,0.0667
 2024-01-04 03:00:17.091562,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Rudy Gobert (MIN),-0.014200000000000101,0.6154,0.6296
 2024-01-03 21:01:32.910288,Boxing Lines - Ohara Davies vs Ismael Barroso - To Win the Bout,Ohara Davies,-0.014200000000000101,0.8261,0.8403
@@ -91,13 +97,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-04 03:00:18.252635,Boxing Lines - Luis Robles Pacheco vs Tenshin Nasukawa - To Win the Bout,Luis Robles Pacheco,-0.01820000000000002,0.1818,0.2
 2024-01-03 21:01:33.894960,Tournament Match-Ups - Tournament Match-Up - R. Henley vs W. Clark - Tournament Match-Up,Wyndham Clark,-0.018900000000000028,0.4255,0.4444
 2024-01-04 03:00:17.016640,NCAA DI Men - SEC Conference 2023-24 - Winner,Tennessee,-0.019000000000000017,0.2667,0.2857
-2024-01-04 01:00:47.020008,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Immanuel Quickley (TOR),-0.0203,0.0385,0.0588
 2024-01-04 03:00:16.996093,NCAA DI Men - Pac-12 Conference 2023-24 - Winner,UCLA,-0.0203,0.0323,0.0526
+2024-01-04 01:00:47.020008,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Immanuel Quickley (TOR),-0.0203,0.0385,0.0588
 2024-01-04 03:00:17.026797,NCAA DI Men - Atlantic 10 Conference 2023-24 - Winner,Virginia Commonwealth,-0.02049999999999999,0.1333,0.1538
 2024-01-04 01:00:46.740587,Central Division - Central Division 2023-24 - Division Winner,Milwaukee Bucks,-0.021199999999999997,0.9231,0.9443
 2024-01-03 21:01:33.689510,Scores - 1st Round Score - Matt Fitzpatrick - 1st Round Score,Under 68.5,-0.02169999999999994,0.5238,0.5455
 2024-01-04 03:00:16.580521,To Make the Playoffs - Golden State Warriors - To Make the 2023-24 Playoffs,Yes,-0.022600000000000064,0.5122,0.5348
 2024-01-04 01:00:46.718070,Western Conference - Western Conference 2023-24 - Western Conference Winner,Phoenix Suns,-0.023799999999999988,0.1429,0.1667
+2024-01-04 09:00:41.624662,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs M. Homa - Tournament Match-Up ,Max Homa,-0.024399999999999977,0.4878,0.5122
 2024-01-04 01:00:46.718070,Western Conference - Western Conference 2023-24 - Western Conference Winner,Dallas Mavericks,-0.0245,0.0588,0.0833
 2024-01-04 03:00:17.026797,NCAA DI Men - Atlantic 10 Conference 2023-24 - Winner,Duquesne,-0.025300000000000003,0.1176,0.1429
 2024-01-04 01:00:48.133400,Boxing Lines - Luis Robles Pacheco vs Tenshin Nasukawa - To Win the Bout,Luis Robles Pacheco,-0.02729999999999999,0.2,0.2273
@@ -108,6 +115,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-04 03:00:14.492581,La Liga - Spain La Liga 2023/24 - To Be Relegated,Granada,-0.03180000000000005,0.8571,0.8889
 2024-01-04 01:00:46.764513,Pacific Division - Pacific Division 2023-24 - Division Winner,Phoenix Suns,-0.04169999999999999,0.125,0.1667
 2024-01-04 03:00:16.698713,To Make the Playoffs - Oklahoma City Thunder - To Make the 2023-24 Playoffs,No,-0.048100000000000004,0.1,0.1481
+2024-01-04 09:00:41.576062,Scores - 1st Round Score - Tom Kim - 1st Round Score,Under 68.5,-0.05059999999999998,0.5238,0.5744
 2024-01-04 03:00:16.709398,To Make the Playoffs - Orlando Magic - To Make the 2023-24 Playoffs,Yes,-0.05410000000000004,0.7333,0.7874
 2024-01-04 01:00:46.961152,NCAA DI Men - ACC Conference 2023-24 - Winner,Clemson,-0.05710000000000001,0.1429,0.2
 2024-01-04 03:00:16.612683,To Make the Playoffs - Los Angeles Clippers - To Make the 2023-24 Playoffs,No,-0.0572,0.1333,0.1905
