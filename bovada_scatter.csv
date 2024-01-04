@@ -11,6 +11,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-03 07:01:10.035622,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Under 67.5,0.035999999999999976,0.5122,0.4762
 2024-01-03 11:00:42.310166,Scores - 1st Round Score - Tom Kim - 1st Round Score,Over 68.5,0.031799999999999995,0.4762,0.4444
 2024-01-03 13:00:43.474065,Grammy Awards 2024 - Record of the Year - Record of the Year,Anti-Hero - Taylor Swift,0.030299999999999994,0.3636,0.3333
+2024-01-03 19:00:50.265687,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs V. Hovland - Tournament Match-Up,Viktor Hovland,0.030299999999999994,0.4651,0.4348
 2024-01-03 13:00:45.609554,Potential Fights - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Tyson Fury,0.02960000000000007,0.6296,0.6
 2024-01-03 09:01:02.275661,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Tyler Glasnow (LAD),0.028399999999999995,0.0909,0.0625
 2024-01-03 07:01:09.496881,Sentry Tournament of Champions - 2/3 Balls - 1st Round 3 Balls - B. Harman / C. Villegas / E. Cole - 1st Round 3 Balls,Brian Harman,0.025499999999999967,0.4255,0.4
@@ -18,8 +19,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-03 11:00:42.252196,Scores - 1st Round Score - Ludvig Aberg - 1st Round Score,Over 68.5,0.023799999999999988,0.5,0.4762
 2024-01-03 11:00:41.142703,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Houston Texans,Yes,0.022600000000000064,0.5348,0.5122
 2024-01-03 11:00:42.298658,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Over 67.5,0.02169999999999994,0.5455,0.5238
-2024-01-03 09:01:02.930260,Round Match-Ups - 1st Round Match-Up - C. Davis vs E. Cole - 1st Round Match-Up,Eric Cole,0.01970000000000005,0.5652,0.5455
 2024-01-03 09:01:03.204336,Round Match-Ups - 1st Round Match-Up - S. Theegala vs S. Burns - 1st Round Match-Up,Sam Burns,0.01970000000000005,0.5652,0.5455
+2024-01-03 09:01:02.930260,Round Match-Ups - 1st Round Match-Up - C. Davis vs E. Cole - 1st Round Match-Up,Eric Cole,0.01970000000000005,0.5652,0.5455
 2024-01-03 11:00:41.279463,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Offensive Rookie of the Year,Puka Nacua,0.01820000000000002,0.2,0.1818
 2024-01-03 17:00:54.767952,WNBL - Australia WNBL 2023/24 - Outright,Melbourne Boomers W,0.01820000000000002,0.2,0.1818
 2024-01-03 07:01:09.978430,Scores - 1st Round Score - Max Homa - 1st Round Score,Under 67.5,0.018100000000000005,0.4348,0.4167
@@ -34,33 +35,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-03 07:01:10.094872,Tournament Match-Ups - Tournament Match-Up - M. Homa vs X. Schauffele - Tournament Match-Up,Xander Schauffele,0.010099999999999998,0.5556,0.5455
 2024-01-03 07:01:09.673433,Sentry Tournament of Champions - 2/3 Balls - 1st Round 3 Balls - C. Connors / E. Van Rooyen / J. Day - 1st Round 3 Balls,Erik Van Rooyen,-0.010099999999999998,0.3125,0.3226
 2024-01-03 07:01:09.649857,Sentry Tournament of Champions - 2/3 Balls - 1st Round 3 Balls - A. Hadwin / L. Glover / S. Im - 1st Round 3 Balls,Lucas Glover,-0.010099999999999998,0.3125,0.3226
-2024-01-03 15:00:48.901680,Boxing Lines - Gurgen Hovhannisyan vs Colby Madison - To Win the Bout,Colby Madison,-0.0102,0.0667,0.0769
-2024-01-03 13:00:45.624157,Sentry Tournament of Champions - Sentry Tournament of Champions - Winner,Xander Schauffele,-0.0102,0.0667,0.0769
 2024-01-03 13:00:45.194650,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Baker Mayfield,-0.0102,0.0667,0.0769
-2024-01-03 07:01:09.891508,Round Match-Ups - 1st Round Match-Up - J. Rose vs J. Day - 1st Round Match-Up,Justin Rose,-0.010699999999999932,0.5348,0.5455
-2024-01-03 07:01:09.789162,Round Match-Ups - 1st Round Match-Up - H. English vs S.W. Kim - 1st Round Match-Up,Harris English,-0.010699999999999932,0.5348,0.5455
-2024-01-03 07:01:09.766638,Round Match-Ups - 1st Round Match-Up - R. Henley vs S. Straka - 1st Round Match-Up,Russell Henley,-0.010699999999999932,0.5348,0.5455
+2024-01-03 13:00:45.624157,Sentry Tournament of Champions - Sentry Tournament of Champions - Winner,Xander Schauffele,-0.0102,0.0667,0.0769
+2024-01-03 15:00:48.901680,Boxing Lines - Gurgen Hovhannisyan vs Colby Madison - To Win the Bout,Colby Madison,-0.0102,0.0667,0.0769
 2024-01-03 07:01:09.880512,Round Match-Ups - 1st Round Match-Up - C. Conners vs W. Clark - 1st Round Match-Up,Wyndham Clark,-0.010699999999999932,0.5348,0.5455
+2024-01-03 07:01:09.766638,Round Match-Ups - 1st Round Match-Up - R. Henley vs S. Straka - 1st Round Match-Up,Russell Henley,-0.010699999999999932,0.5348,0.5455
+2024-01-03 07:01:09.789162,Round Match-Ups - 1st Round Match-Up - H. English vs S.W. Kim - 1st Round Match-Up,Harris English,-0.010699999999999932,0.5348,0.5455
+2024-01-03 07:01:09.891508,Round Match-Ups - 1st Round Match-Up - J. Rose vs J. Day - 1st Round Match-Up,Justin Rose,-0.010699999999999932,0.5348,0.5455
 2024-01-03 07:01:09.627311,Sentry Tournament of Champions - 2/3 Balls - 1st Round 3 Balls - A. Bhatia / C. Davis / N. Taylor - 1st Round 3 Balls,Nick Taylor,-0.010699999999999987,0.3226,0.3333
 2024-01-03 07:01:09.614977,Sentry Tournament of Champions - 2/3 Balls - 1st Round 3 Balls - K. Bradley / M. Fitzpatrick / T. Hatton - 1st Round 3 Balls,Keegan Bradley,-0.010699999999999987,0.3226,0.3333
 2024-01-03 17:00:54.767952,WNBL - Australia WNBL 2023/24 - Outright,Southside Flyers (W),-0.010899999999999993,0.1429,0.1538
-2024-01-03 07:01:09.858224,Round Match-Ups - 1st Round Match-Up - V. Norrman vs C. Kirk - 1st Round Match-Up,Vincent Norrman,-0.01100000000000001,0.5238,0.5348
-2024-01-03 07:01:09.858224,Round Match-Ups - 1st Round Match-Up - V. Norrman vs C. Kirk - 1st Round Match-Up,Chris Kirk,-0.01100000000000001,0.5238,0.5348
-2024-01-03 07:01:09.824006,Round Match-Ups - 1st Round Match-Up - T. Fleetwood vs M. Fitzpatrick - 1st Round Match-Up,Tommy Fleetwood,-0.01100000000000001,0.5238,0.5348
-2024-01-03 07:01:09.824006,Round Match-Ups - 1st Round Match-Up - T. Fleetwood vs M. Fitzpatrick - 1st Round Match-Up,Matt Fitzpatrick,-0.01100000000000001,0.5238,0.5348
-2024-01-03 07:01:09.755400,Round Match-Ups - 1st Round Match-Up - D. McCarthy vs H. Matsuyama - 1st Round Match-Up,Denny McCarthy,-0.01100000000000001,0.5238,0.5348
-2024-01-03 07:01:09.869456,Round Match-Ups - 1st Round Match-Up - A. Svensson vs A. Hadwin - 1st Round Match-Up,Adam Svensson,-0.01100000000000001,0.5238,0.5348
 2024-01-03 07:01:09.801090,Round Match-Ups - 1st Round Match-Up - P. Cantlay vs M. Homa - 1st Round Match-Up,Patrick Cantlay,-0.01100000000000001,0.5238,0.5348
 2024-01-03 07:01:09.801090,Round Match-Ups - 1st Round Match-Up - P. Cantlay vs M. Homa - 1st Round Match-Up,Max Homa,-0.01100000000000001,0.5238,0.5348
-2024-01-03 07:01:09.869456,Round Match-Ups - 1st Round Match-Up - A. Svensson vs A. Hadwin - 1st Round Match-Up,Adam Hadwin,-0.01100000000000001,0.5238,0.5348
+2024-01-03 07:01:09.869456,Round Match-Ups - 1st Round Match-Up - A. Svensson vs A. Hadwin - 1st Round Match-Up,Adam Svensson,-0.01100000000000001,0.5238,0.5348
+2024-01-03 07:01:09.824006,Round Match-Ups - 1st Round Match-Up - T. Fleetwood vs M. Fitzpatrick - 1st Round Match-Up,Matt Fitzpatrick,-0.01100000000000001,0.5238,0.5348
 2024-01-03 07:01:09.755400,Round Match-Ups - 1st Round Match-Up - D. McCarthy vs H. Matsuyama - 1st Round Match-Up,Hideki Matsuyama,-0.01100000000000001,0.5238,0.5348
+2024-01-03 07:01:09.755400,Round Match-Ups - 1st Round Match-Up - D. McCarthy vs H. Matsuyama - 1st Round Match-Up,Denny McCarthy,-0.01100000000000001,0.5238,0.5348
+2024-01-03 07:01:09.858224,Round Match-Ups - 1st Round Match-Up - V. Norrman vs C. Kirk - 1st Round Match-Up,Vincent Norrman,-0.01100000000000001,0.5238,0.5348
+2024-01-03 07:01:09.858224,Round Match-Ups - 1st Round Match-Up - V. Norrman vs C. Kirk - 1st Round Match-Up,Chris Kirk,-0.01100000000000001,0.5238,0.5348
+2024-01-03 07:01:09.869456,Round Match-Ups - 1st Round Match-Up - A. Svensson vs A. Hadwin - 1st Round Match-Up,Adam Hadwin,-0.01100000000000001,0.5238,0.5348
+2024-01-03 07:01:09.824006,Round Match-Ups - 1st Round Match-Up - T. Fleetwood vs M. Fitzpatrick - 1st Round Match-Up,Tommy Fleetwood,-0.01100000000000001,0.5238,0.5348
 2024-01-03 13:00:45.542491,Boxing Lines - Natasha Jonas vs Mikaela Mayer - To Win the Bout,Mikaela Mayer,-0.011099999999999999,0.4651,0.4762
 2024-01-03 09:01:03.215595,Round Match-Ups - 1st Round Match-Up - S. Scheffler vs V. Hovland - 1st Round Match-Up,Viktor Hovland,-0.0116,0.4762,0.4878
 2024-01-03 07:01:09.766638,Round Match-Ups - 1st Round Match-Up - R. Henley vs S. Straka - 1st Round Match-Up,Sepp Straka,-0.011600000000000055,0.5122,0.5238
-2024-01-03 07:01:09.880512,Round Match-Ups - 1st Round Match-Up - C. Conners vs W. Clark - 1st Round Match-Up,Corey Conners,-0.011600000000000055,0.5122,0.5238
 2024-01-03 07:01:09.891508,Round Match-Ups - 1st Round Match-Up - J. Rose vs J. Day - 1st Round Match-Up,Jason Day,-0.011600000000000055,0.5122,0.5238
 2024-01-03 07:01:09.789162,Round Match-Ups - 1st Round Match-Up - H. English vs S.W. Kim - 1st Round Match-Up,Si Woo Kim,-0.011600000000000055,0.5122,0.5238
 2024-01-03 07:01:10.094872,Tournament Match-Ups - Tournament Match-Up - M. Homa vs X. Schauffele - Tournament Match-Up,Max Homa,-0.011600000000000055,0.5122,0.5238
+2024-01-03 07:01:09.880512,Round Match-Ups - 1st Round Match-Up - C. Conners vs W. Clark - 1st Round Match-Up,Corey Conners,-0.011600000000000055,0.5122,0.5238
 2024-01-03 07:01:09.916284,Round Match-Ups - 1st Round Match-Up - S. Scheffler vs V. Hovland - 1st Round Match-Up,Viktor Hovland,-0.012199999999999989,0.4878,0.5
 2024-01-03 09:01:02.738557,Sentry Tournament of Champions - 2/3 Balls - 1st Round 3 Balls - B. Hun An / P. Rodgers / T. Hoge - 1st Round 3 Balls,Patrick Rodgers,-0.012699999999999989,0.3509,0.3636
 2024-01-03 11:00:41.240174,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Baker Mayfield,-0.013999999999999999,0.0769,0.0909
@@ -69,18 +70,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-03 17:00:54.767952,WNBL - Australia WNBL 2023/24 - Outright,Townsville Fire (W),-0.016699999999999993,0.4,0.4167
 2024-01-03 17:00:54.707675,A1 - Greece A1 2023/2024 - Outright,Olympiakos,-0.018100000000000005,0.4167,0.4348
 2024-01-03 07:01:09.978430,Scores - 1st Round Score - Max Homa - 1st Round Score,Over 67.5,-0.019499999999999962,0.6296,0.6491
+2024-01-03 07:01:09.903868,Round Match-Ups - 1st Round Match-Up - S. Theegala vs S. Burns - 1st Round Match-Up,Sam Burns,-0.01970000000000005,0.5455,0.5652
 2024-01-03 07:01:09.777996,Round Match-Ups - 1st Round Match-Up - C. Young vs T. Hatton - 1st Round Match-Up,Tyrrell Hatton,-0.01970000000000005,0.5455,0.5652
 2024-01-03 07:01:09.846586,Round Match-Ups - 1st Round Match-Up - R. Fowler vs K. Bradley - 1st Round Match-Up,Rickie Fowler,-0.01970000000000005,0.5455,0.5652
-2024-01-03 07:01:09.903868,Round Match-Ups - 1st Round Match-Up - S. Theegala vs S. Burns - 1st Round Match-Up,Sam Burns,-0.01970000000000005,0.5455,0.5652
 2024-01-03 07:01:09.720961,Round Match-Ups - 1st Round Match-Up - C. Morikawa vs X. Schauffele - 1st Round Match-Up,Collin Morikawa,-0.01970000000000005,0.5455,0.5652
-2024-01-03 11:00:42.264083,Scores - 1st Round Score - Matt Fitzpatrick - 1st Round Score,Under 68.5,-0.01970000000000005,0.5455,0.5652
 2024-01-03 07:01:09.731926,Round Match-Ups - 1st Round Match-Up - T. Kim vs B. Harman - 1st Round Match-Up,Tom Kim,-0.01970000000000005,0.5455,0.5652
+2024-01-03 11:00:42.264083,Scores - 1st Round Score - Matt Fitzpatrick - 1st Round Score,Under 68.5,-0.01970000000000005,0.5455,0.5652
 2024-01-03 11:00:41.142703,To Make the Playoffs - 2023-24 To Make the Playoffs - To Make the Playoffs - Houston Texans,No,-0.02079999999999993,0.5348,0.5556
 2024-01-03 07:01:09.812221,Round Match-Ups - 1st Round Match-Up - S. Im vs T. Finau - 1st Round Match-Up,Sungjae Im,-0.02169999999999994,0.5238,0.5455
 2024-01-03 11:00:42.298658,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Under 67.5,-0.02169999999999994,0.5238,0.5455
 2024-01-03 07:01:09.835340,Round Match-Ups - 1st Round Match-Up - L. Aberg vs J. Spieth - 1st Round Match-Up,Jordan Spieth,-0.022600000000000064,0.5122,0.5348
-2024-01-03 09:01:02.930260,Round Match-Ups - 1st Round Match-Up - C. Davis vs E. Cole - 1st Round Match-Up,Cam Davis,-0.023799999999999988,0.4762,0.5
 2024-01-03 09:01:03.204336,Round Match-Ups - 1st Round Match-Up - S. Theegala vs S. Burns - 1st Round Match-Up,Sahith Theegala,-0.023799999999999988,0.4762,0.5
+2024-01-03 09:01:02.930260,Round Match-Ups - 1st Round Match-Up - C. Davis vs E. Cole - 1st Round Match-Up,Cam Davis,-0.023799999999999988,0.4762,0.5
 2024-01-03 13:00:43.474065,Grammy Awards 2024 - Record of the Year - Record of the Year,Kill Bill - SZA,-0.023799999999999988,0.3333,0.3571
 2024-01-03 13:00:43.474065,Grammy Awards 2024 - Record of the Year - Record of the Year,Worship - Jon Batiste,-0.024,0.0385,0.0625
 2024-01-03 17:00:54.672699,B League - Japan B League 1 2023/2024 - Outright,Chiba Jets,-0.0245,0.0588,0.0833
@@ -88,6 +89,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-03 11:00:42.252196,Scores - 1st Round Score - Ludvig Aberg - 1st Round Score,Under 68.5,-0.026499999999999968,0.5652,0.5917
 2024-01-03 07:01:09.496881,Sentry Tournament of Champions - 2/3 Balls - 1st Round 3 Balls - B. Harman / C. Villegas / E. Cole - 1st Round 3 Balls,Camilo Villegas,-0.02739999999999998,0.2667,0.2941
 2024-01-03 07:01:10.035622,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Over 67.5,-0.027700000000000058,0.5556,0.5833
+2024-01-03 19:00:50.265687,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs V. Hovland - Tournament Match-Up,Scottie Scheffler,-0.02960000000000007,0.6,0.6296
 2024-01-03 11:00:41.240174,NFL Awards & League Leaders - NFL 2023/24 Awards - NFL 2023/24 Comeback Player of Year,Joe Flacco,-0.030299999999999994,0.4348,0.4651
 2024-01-03 11:00:42.310166,Scores - 1st Round Score - Tom Kim - 1st Round Score,Under 68.5,-0.03090000000000004,0.5917,0.6226
 2024-01-03 17:00:54.672699,B League - Japan B League 1 2023/2024 - Outright,Kawasaki Brave Thunders,-0.03330000000000001,0.0667,0.1
