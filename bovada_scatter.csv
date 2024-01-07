@@ -4,8 +4,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-07 01:03:22.198555,League Two - England - League Two 2023/24 - Top 7 Finish,Crewe Alexandra,0.11110000000000003,0.4444,0.3333
 2024-01-07 01:03:22.191645,League Two - England - League Two 2023/24 - Top 3 Finish,Barrow FC,0.07619999999999999,0.4762,0.4
 2024-01-07 03:02:00.974884,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Hellas Verona,0.06659999999999999,0.3333,0.2667
-2024-01-06 23:03:03.463508,League One - England - League One 2023/24 - Top 2 Finish,Derby County,0.05559999999999998,0.5,0.4444
 2024-01-06 21:05:08.764373,A-League - Australia A-League 2023/24 - Top 6 Finish,Sydney FC,0.05559999999999998,0.5556,0.5
+2024-01-06 23:03:03.463508,League One - England - League One 2023/24 - Top 2 Finish,Derby County,0.05559999999999998,0.5,0.4444
 2024-01-07 01:03:22.184400,League Two - England - League Two 2023/24 - To Be Promoted,Barrow FC,0.04910000000000003,0.6491,0.6
 2024-01-07 03:02:03.195545,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,0.047599999999999976,0.3333,0.2857
 2024-01-06 21:05:08.772370,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Melbourne Victory,0.047599999999999976,0.3333,0.2857
@@ -47,26 +47,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-07 01:03:22.152940,League One - England - League One 2023/24 - Top 6 Finish,Bolton Wanderers,0.01849999999999996,0.9709,0.9524
 2024-01-07 01:03:22.184400,League Two - England - League Two 2023/24 - To Be Promoted,Crawley Town,0.018200000000000004,0.0476,0.0294
 2024-01-06 21:05:08.756835,A-League - Australia A-League 2023/24 - To Finish Bottom,Brisbane Roar,0.018099999999999998,0.0769,0.0588
-2024-01-07 03:02:03.112600,Western Conference - Western Conference 2023-24 - Western Conference Winner,Dallas Mavericks,0.018099999999999998,0.0769,0.0588
-2024-01-06 17:02:59.969101,FA Cup - FA Cup 2023/24 - Outright,Brighton & Hove Albion,0.018099999999999998,0.0769,0.0588
 2024-01-06 23:03:03.125521,Copa del Rey - Spain Copa del Rey 2023/24 - Winner,Girona,0.018099999999999998,0.0769,0.0588
+2024-01-07 03:02:03.112600,Western Conference - Western Conference 2023-24 - Western Conference Winner,Dallas Mavericks,0.018099999999999998,0.0769,0.0588
 2024-01-06 21:05:08.772370,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Sydney FC,0.018099999999999998,0.0769,0.0588
 2024-01-06 21:05:08.749237,A-League - Australia A-League 2023/24 - Grand Final Winner,Melbourne Victory,0.016699999999999993,0.2667,0.25
+2024-01-07 07:02:45.441012,NFL Weekly Specials - NFL Week 18 RedZone Specials - Sunday 7th Jan,"T.Heinicke 200+ Pass Yds, J.Gibbs 50+ Rush Yds, M.Evans 60+ Rec Yds, J.Jefferson 90+ Rec Yds, Bij.Robinson 83+ Rushing + Rec Yds, R.White 100+ Rushing + Rec Yds",0.0157,0.0435,0.0278
 2024-01-07 03:02:03.143858,Central Division - Central Division 2023-24 - Division Winner,Indiana Pacers,0.013999999999999999,0.0909,0.0769
-2024-01-06 17:02:59.969101,FA Cup - FA Cup 2023/24 - Outright,Newcastle United,0.013999999999999999,0.0909,0.0769
-2024-01-06 23:03:03.125521,Copa del Rey - Spain Copa del Rey 2023/24 - Winner,Atlético Madrid,0.013899999999999996,0.125,0.1111
 2024-01-07 03:02:01.365192,League Two - England - League Two 2023/24 - Top Goalscorer,Jake Young,0.013899999999999996,0.125,0.1111
+2024-01-06 23:03:03.125521,Copa del Rey - Spain Copa del Rey 2023/24 - Winner,Atlético Madrid,0.013899999999999996,0.125,0.1111
 2024-01-07 01:03:25.768816,Sentry Tournament of Champions - 2/3 Balls - Final Round 3 Balls - A. Schenk / M. Homa / T. Hatton - Final Round 3 Balls,Adam Schenk,0.01319999999999999,0.2632,0.25
 2024-01-06 21:05:08.887035,League One - England - League One 2023/24 - League Winner,Peterborough United,0.0131,0.2353,0.2222
 2024-01-06 23:03:03.455702,League One - England - League One 2023/24 - To Be Promoted,Bolton Wanderers,0.011499999999999955,0.6667,0.6552
 2024-01-07 03:02:01.278052,League One - England - League One 2023/24 - Top Goalscorer,James Collins,0.011199999999999995,0.0588,0.0476
 2024-01-07 01:03:26.082271,Round Match-Ups - Final Round Match-Up - J. Spieth vs X. Schauffele - Final Round Match-Up,Jordan Spieth,0.011099999999999999,0.4762,0.4651
-2024-01-06 17:02:59.969101,FA Cup - FA Cup 2023/24 - Outright,Chelsea,0.011099999999999999,0.1111,0.1
 2024-01-06 23:03:03.463508,League One - England - League One 2023/24 - Top 2 Finish,Peterborough United,0.010099999999999998,0.4545,0.4444
 2024-01-07 03:02:00.951041,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Victor Osimhen (Napoli),-0.0102,0.0667,0.0769
 2024-01-07 01:03:25.673195,Sentry Tournament of Champions - 2/3 Balls - Final Round 3 Balls - L. List / S. Burns / S. Kim - Final Round 3 Balls,Si Woo Kim,-0.010699999999999987,0.3226,0.3333
-2024-01-07 01:03:25.768816,Sentry Tournament of Champions - 2/3 Balls - Final Round 3 Balls - A. Schenk / M. Homa / T. Hatton - Final Round 3 Balls,Max Homa,-0.011099999999999999,0.4651,0.4762
 2024-01-07 01:03:22.152940,League One - England - League One 2023/24 - Top 6 Finish,Bristol Rovers,-0.011099999999999999,0.1,0.1111
+2024-01-07 01:03:25.768816,Sentry Tournament of Champions - 2/3 Balls - Final Round 3 Balls - A. Schenk / M. Homa / T. Hatton - Final Round 3 Balls,Max Homa,-0.011099999999999999,0.4651,0.4762
 2024-01-07 01:03:25.929733,Round Match-Ups - Final Round Match-Up - M. Homa vs T. Finau - Final Round Match-Up,Tony Finau,-0.011099999999999999,0.4651,0.4762
 2024-01-07 01:03:22.198555,League Two - England - League Two 2023/24 - Top 7 Finish,Tranmere Rovers,-0.011199999999999995,0.0476,0.0588
 2024-01-07 01:03:22.191645,League Two - England - League Two 2023/24 - Top 3 Finish,Milton Keynes Dons,-0.011199999999999995,0.0476,0.0588
