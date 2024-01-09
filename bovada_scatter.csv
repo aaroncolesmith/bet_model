@@ -1,184 +1,77 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-01-08 03:02:56.815260,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,Anatomy Of A Fall,0.36360000000000003,0.4545,0.0909
 2024-01-08 09:01:56.720961,Eastern Conference - Eastern Conference Number 1 Seed - Number 1 Seed,Boston Celtics,0.28890000000000005,0.8889,0.6
-2024-01-08 05:02:13.698273,NFL Specials - Who will be the next Full Time Head Coach of the LA Chargers - Proposition,Jim Harbaugh,0.2752,0.3704,0.0952
 2024-01-08 09:01:56.754979,Western Conference - Western Conference Number 1 Seed - Number 1 Seed,Oklahoma City Thunder,0.2344,0.2667,0.0323
+2024-01-08 17:03:11.125014,NBL - NBL 2023/2024 - Regular Season MVP,Bryce Cotton,0.23330000000000006,0.8333,0.6
 2024-01-08 09:01:56.754979,Western Conference - Western Conference Number 1 Seed - Number 1 Seed,Minnesota Timberwolves,0.23329999999999998,0.3333,0.1
-2024-01-08 03:02:56.774044,96th Academy Awards - Best Actor - Best Actor,Cillian Murphy - Oppenheimer,0.19440000000000002,0.75,0.5556
-2024-01-08 03:02:56.783983,96th Academy Awards - Best Actress - Best Actress,Lily Gladstone - Killers Of The Flower Moon,0.19049999999999995,0.6667,0.4762
-2024-01-08 05:02:13.698273,NFL Specials - Who will be the next Full Time Head Coach of the LA Chargers - Proposition,Ben Johnson,0.1334,0.2667,0.1333
-2024-01-08 03:02:56.794806,96th Academy Awards - Best Director - Best Director,Christopher Nolan - Oppenheimer,0.13129999999999997,0.9091,0.7778
-2024-01-08 03:02:56.805113,96th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,Oppenheimer,0.12380000000000002,0.5238,0.4
-2024-01-08 03:02:57.269031,75th Primetime Emmy Awards - Emmy - Outstanding Comedy Series - Outstanding Comedy Series,The Bear,0.1154,0.5,0.3846
-2024-01-08 03:02:56.940403,Grammy Awards 2024 - Record of the Year - Record of the Year,What Was I Made For? - Billie Eilish,0.10910000000000002,0.2,0.0909
-2024-01-08 03:02:56.763797,96th Academy Awards - Best Picture - Best Picture,Poor Things,0.1071,0.25,0.1429
-2024-01-08 03:02:56.763797,96th Academy Awards - Best Picture - Best Picture,Oppenheimer,0.09719999999999995,0.7895,0.6923
-2024-01-08 03:02:56.774044,96th Academy Awards - Best Actor - Best Actor,Paul Giamatti - The Holdovers,0.0909,0.1818,0.0909
-2024-01-08 05:02:11.925021,Grammy Awards 2024 - Record of the Year - Record of the Year,What Was I Made For? - Billie Eilish,0.0857,0.2857,0.2
-2024-01-08 03:02:56.924020,Grammy Awards 2024 - Best New Artist - Best New Artist,Ice Spice,0.0857,0.8,0.7143
-2024-01-08 03:02:56.965757,Grammy Awards 2024 - Song Of The Year - Song Of The Year,Anti-Hero - Taylor Swift,0.08339999999999992,0.6667,0.5833
-2024-01-08 03:02:56.940403,Grammy Awards 2024 - Record of the Year - Record of the Year,Anti-Hero - Taylor Swift,0.08080000000000004,0.4444,0.3636
-2024-01-08 03:02:55.257789,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Empoli,0.07509999999999997,0.3077,0.2326
+2024-01-08 17:03:11.091983,NBL - NBL 2023/2024 - Most Losses,Cairns Taipans,0.1111,0.2222,0.1111
 2024-01-08 09:01:56.754979,Western Conference - Western Conference Number 1 Seed - Number 1 Seed,Los Angeles Clippers,0.06770000000000001,0.1,0.0323
-2024-01-08 03:02:57.314277,44th Razzie Awards - Razzies - Worst Picture - Worst Picture,Cocaine Bear,0.0635,0.2857,0.2222
-2024-01-08 03:02:55.263978,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Atalanta,0.057699999999999974,0.3077,0.25
-2024-01-08 03:02:55.251455,Serie A - Italy Serie A 2023/24 - To Be Relegated,Empoli,0.05590000000000006,0.6923,0.6364
-2024-01-08 05:02:11.761927,96th Academy Awards - Best Supporting Actor - Best Supporting Actor,"Robert Downey, Jr - Oppenheimer",0.050000000000000044,0.8,0.75
-2024-01-08 05:02:11.761927,96th Academy Awards - Best Supporting Actor - Best Supporting Actor,Ryan Gosling - Barbie,0.04999999999999999,0.25,0.2
-2024-01-08 03:02:56.794806,96th Academy Awards - Best Director - Best Director,Justine Triet - Anatomy Of A Fall,0.0474,0.0909,0.0435
-2024-01-08 03:02:57.334246,Royal Family - Harry & Meghan Specials - Harry & Meghan Specials,Harry & Meghan to be pictured on the 2024 Academy Awards red carpet,0.04469999999999996,0.6364,0.5917
-2024-01-08 05:02:11.783839,96th Academy Awards - Best Supporting Actress - Best Supporting Actress,DaVine Joy Randolph - The Holdovers,0.038899999999999935,0.8571,0.8182
-2024-01-08 03:02:56.763797,96th Academy Awards - Best Picture - Best Picture,Anatomy Of A Fall,0.0384,0.0769,0.0385
-2024-01-08 03:02:57.314277,44th Razzie Awards - Razzies - Worst Picture - Worst Picture,Winnie The Pooh: Blood And Honey,0.03639999999999999,0.6364,0.6
-2024-01-08 03:02:55.251455,Serie A - Italy Serie A 2023/24 - To Be Relegated,Udinese,0.03409999999999999,0.2667,0.2326
-2024-01-08 03:02:56.763797,96th Academy Awards - Best Picture - Best Picture,Barbie,0.0321,0.0909,0.0588
+2024-01-08 17:03:11.139850,NBL - NBL 2023/2024 - To Make Grand Final,Illawarra Hawks,0.056400000000000006,0.1333,0.0769
+2024-01-08 17:03:11.159728,NBL - NBL 2023/2024 - To Make Top 4,Brisbane Bullets,0.04999999999999999,0.25,0.2
+2024-01-08 17:03:11.175477,NBL - NBL 2023/2024 - To Make Top 6,Illawarra Hawks,0.04849999999999999,0.5833,0.5348
+2024-01-08 17:03:11.139850,NBL - NBL 2023/2024 - To Make Grand Final,Perth Wildcats,0.044399999999999995,0.4444,0.4
+2024-01-08 17:03:11.175477,NBL - NBL 2023/2024 - To Make Top 6,Brisbane Bullets,0.04139999999999999,0.4762,0.4348
+2024-01-08 17:03:11.139850,NBL - NBL 2023/2024 - To Make Grand Final,Brisbane Bullets,0.037500000000000006,0.1,0.0625
+2024-01-08 17:03:11.139850,NBL - NBL 2023/2024 - To Make Grand Final,Tasmania JackJumpers,0.03570000000000001,0.2857,0.25
 2024-01-08 07:02:39.958987,Republican Party Primaries - Iowa Caucus Popular Vote Winner - Iowa Caucus Popular Vote Winner,Ron DeSantis,0.0321,0.0909,0.0588
-2024-01-08 03:02:56.885440,Business Specials - Price Of Oil At Year End - Proposition,$60.01 to $70,0.031799999999999995,0.1429,0.1111
-2024-01-08 03:02:55.251455,Serie A - Italy Serie A 2023/24 - To Be Relegated,Salernitana,0.027800000000000047,0.7778,0.75
-2024-01-08 03:02:56.805113,96th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,American Fiction,0.02779999999999999,0.25,0.2222
-2024-01-08 05:02:13.012054,Republican Party Primaries - Iowa Caucus Popular Vote Winner - Iowa Caucus Popular Vote Winner,Donald Trump,0.026899999999999924,0.9681,0.9412
-2024-01-08 03:02:55.263978,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Fiorentina,0.02560000000000001,0.3333,0.3077
-2024-01-08 03:02:55.257789,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Salernitana,0.025499999999999967,0.4255,0.4
-2024-01-08 03:02:57.291760,75th Primetime Emmy Awards - Emmy - Lead Actor (Drama) - Lead Actor (Drama),Pedro Pascal (The Last Of Us),0.024999999999999994,0.125,0.1
+2024-01-08 17:03:11.175477,NBL - NBL 2023/2024 - To Make Top 6,Adelaide 36ers,0.028399999999999995,0.0909,0.0625
 2024-01-08 11:00:45.654754,FIBA Champions League - Champions League 2023/24 - Outright,Galatasaray,0.0238,0.0714,0.0476
-2024-01-08 05:02:11.761927,96th Academy Awards - Best Supporting Actor - Best Supporting Actor,Charles Melton - May December,0.023799999999999988,0.1667,0.1429
-2024-01-08 03:02:57.356801,Royal Family - Harry & Meghan: Year Of Divorce - Harry & Meghan: Year Of Divorce,2024,0.023799999999999988,0.1667,0.1429
-2024-01-08 03:02:55.244143,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Dusan Vlahovic (Juventus),0.0236,0.0385,0.0149
 2024-01-08 11:00:45.758684,Bundesliga - Germany Bundesliga 2023/24 - Outright,Bayern Munich,0.022499999999999964,0.7368,0.7143
-2024-01-08 03:02:56.924020,Grammy Awards 2024 - Best New Artist - Best New Artist,Freg Again,0.022199999999999998,0.2222,0.2
-2024-01-08 03:02:57.239886,Triple J Hottest 100 - Triple J Hottest 100 Winning Artist - Triple J Hottest 100 Winning Artist,Doja Cat,0.02100000000000002,0.6364,0.6154
 2024-01-08 11:00:45.758684,Bundesliga - Germany Bundesliga 2023/24 - Outright,Chemnitz 99,0.0203,0.0588,0.0385
-2024-01-08 03:02:56.940403,Grammy Awards 2024 - Record of the Year - Record of the Year,Vampire - Olivia Rodrigo,0.02020000000000001,0.1111,0.0909
-2024-01-08 03:02:55.337000,Copa del Rey - Spain Copa del Rey 2023/24 - Winner,FC Barcelona,0.019000000000000017,0.2857,0.2667
-2024-01-08 03:02:57.291760,75th Primetime Emmy Awards - Emmy - Lead Actor (Drama) - Lead Actor (Drama),Kieran Culkin (Succession),0.018999999999999906,0.7333,0.7143
-2024-01-08 03:02:56.080963,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,Benfica,0.018900000000000028,0.4444,0.4255
-2024-01-08 03:02:56.965757,Grammy Awards 2024 - Song Of The Year - Song Of The Year,Flowers - Miley Cyrus,0.01820000000000002,0.2,0.1818
-2024-01-08 03:02:55.337000,Copa del Rey - Spain Copa del Rey 2023/24 - Winner,Sevilla,0.018099999999999998,0.0769,0.0588
-2024-01-08 03:02:56.885440,Business Specials - Price Of Oil At Year End - Proposition,$60 or under,0.0179,0.1429,0.125
-2024-01-08 03:02:57.016244,Box Office 2024 - Highest Worldwide Box Office At Year End - Highest Worldwide Box Office At Year End,Dune: Part Two,0.0179,0.1429,0.125
 2024-01-08 11:00:45.654754,FIBA Champions League - Champions League 2023/24 - Outright,Pinar Karsiyaka,0.017099999999999997,0.0556,0.0385
 2024-01-08 11:00:45.654754,FIBA Champions League - Champions League 2023/24 - Outright,UCAM Murcia,0.016700000000000007,0.1,0.0833
-2024-01-08 05:02:14.297733,Dubai Invitational - Dubai Invitational - Winner,Rory McIlroy,0.016699999999999993,0.2667,0.25
-2024-01-08 03:02:56.763797,96th Academy Awards - Best Picture - Best Picture,Napoleon,0.015300000000000001,0.0476,0.0323
+2024-01-08 17:03:11.175477,NBL - NBL 2023/2024 - To Make Top 6,SE Melbourne Phoenix,0.016699999999999993,0.4167,0.4
 2024-01-08 09:01:56.708682,NBA Championship - NBA Championship 2023-24 - NBA Champion,Milwaukee Bucks,0.015100000000000002,0.1818,0.1667
-2024-01-08 03:02:57.301998,75th Primetime Emmy Awards - Emmy - Lead Actress (Drama) - Lead Actress (Drama),Sarah Snook (Succession),0.014900000000000024,0.9524,0.9375
-2024-01-08 03:02:57.016244,Box Office 2024 - Highest Worldwide Box Office At Year End - Highest Worldwide Box Office At Year End,Gladiator 2,0.014899999999999997,0.0625,0.0476
 2024-01-08 11:00:45.654754,FIBA Champions League - Champions League 2023/24 - Outright,Telekom Bonn,0.014899999999999997,0.0625,0.0476
-2024-01-08 03:02:57.159391,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,Taylor Swift,0.014399999999999996,0.0769,0.0625
-2024-01-08 03:02:56.910226,Grammy Awards 2024 - Album Of The Year - Album Of The Year,Midnights - Taylor Swift,0.014399999999999968,0.9375,0.9231
-2024-01-08 03:02:59.026268,Boxing Lines - Christian Mbilli vs Rohan Murdock - To Win the Bout,Christian Mbilli,0.014100000000000001,0.9474,0.9333
 2024-01-08 11:00:45.654754,FIBA Champions League - Champions League 2023/24 - Outright,Dinamo Sassari,0.014099999999999998,0.0385,0.0244
-2024-01-08 03:02:56.763797,96th Academy Awards - Best Picture - Best Picture,The Holdovers,0.013999999999999999,0.0909,0.0769
 2024-01-08 13:01:08.320833,B League - Japan B League 1 2023/2024 - Outright,Utsunomiya Brex,0.013899999999999996,0.125,0.1111
-2024-01-08 03:02:57.159391,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,Elon Musk,0.013899999999999996,0.125,0.1111
-2024-01-08 03:02:55.337000,Copa del Rey - Spain Copa del Rey 2023/24 - Winner,Real Madrid,0.013600000000000001,0.3077,0.2941
 2024-01-08 11:00:45.654754,FIBA Champions League - Champions League 2023/24 - Outright,Tofas,0.012999999999999998,0.0294,0.0164
-2024-01-08 05:02:14.297733,Dubai Invitational - Dubai Invitational - Winner,Ryan Fox,0.011199999999999995,0.0588,0.0476
-2024-01-08 03:02:56.910226,Grammy Awards 2024 - Album Of The Year - Album Of The Year,Guts - Olivia Rodrigo,0.011199999999999995,0.0588,0.0476
 2024-01-08 09:01:58.525476,Dubai Invitational - Dubai Invitational - Winner,Rasmus Hojgaard,0.011199999999999995,0.0588,0.0476
-2024-01-08 03:02:56.910226,Grammy Awards 2024 - Album Of The Year - Album Of The Year,Did You Know There's A Tunnel Under Ocean Blvd - Lana Del Rey,0.011199999999999995,0.0588,0.0476
 2024-01-08 09:01:58.376794,Boxing Lines - Adam Azim vs Enock Poulsen - To Win the Bout,Adam Azim,0.011099999999999999,0.9,0.8889
 2024-01-08 11:00:45.758684,Bundesliga - Germany Bundesliga 2023/24 - Outright,ratiopharm Ulm,0.011099999999999999,0.1111,0.1
+2024-01-08 11:00:46.706623,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Buffalo Bills,0.010899999999999993,0.1538,0.1429
 2024-01-08 13:01:08.320833,B League - Japan B League 1 2023/2024 - Outright,San En Neo Phoenix,0.010899999999999993,0.1538,0.1429
 2024-01-08 11:00:45.783535,WNBL - Australia WNBL 2023/24 - Outright,Perth Lynx (W),0.010899999999999993,0.1538,0.1429
-2024-01-08 11:00:46.706623,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Buffalo Bills,0.010899999999999993,0.1538,0.1429
 2024-01-08 11:00:45.783535,WNBL - Australia WNBL 2023/24 - Outright,Townsville Fire (W),0.010099999999999998,0.4545,0.4444
-2024-01-08 03:02:55.251455,Serie A - Italy Serie A 2023/24 - To Be Relegated,Cagliari,-0.010099999999999998,0.4444,0.4545
-2024-01-08 03:02:55.263978,Serie A - Italy Serie A 2023/24 - Top 4 Finish,AS Roma,-0.010399999999999993,0.2222,0.2326
-2024-01-08 03:02:57.016244,Box Office 2024 - Highest Worldwide Box Office At Year End - Highest Worldwide Box Office At Year End,Deadpool 3,-0.010699999999999987,0.3226,0.3333
-2024-01-08 03:02:55.263978,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Bologna,-0.010899999999999993,0.1429,0.1538
-2024-01-08 03:02:55.251455,Serie A - Italy Serie A 2023/24 - To Be Relegated,Sassuolo,-0.011099999999999999,0.1,0.1111
-2024-01-08 03:02:57.356801,Royal Family - Harry & Meghan: Year Of Divorce - Harry & Meghan: Year Of Divorce,2025,-0.011099999999999999,0.1,0.1111
+2024-01-08 17:03:11.091983,NBL - NBL 2023/2024 - Most Losses,Adelaide 36ers,-0.010800000000000032,0.7619,0.7727
+2024-01-08 17:03:11.109266,NBL - NBL 2023/2024 - Outright,Tasmania JackJumpers,-0.010899999999999993,0.1429,0.1538
 2024-01-08 13:01:08.320833,B League - Japan B League 1 2023/2024 - Outright,Nagoya Diamond Dolphins,-0.011099999999999999,0.1,0.1111
-2024-01-08 05:02:11.783839,96th Academy Awards - Best Supporting Actress - Best Supporting Actress,Emily Blunt - Oppenheimer,-0.011099999999999999,0.1,0.1111
-2024-01-08 03:02:56.910226,Grammy Awards 2024 - Album Of The Year - Album Of The Year,SOS - SZA,-0.011099999999999999,0.1,0.1111
-2024-01-08 05:02:13.698273,NFL Specials - Who will be the next Full Time Head Coach of the LA Chargers - Proposition,Lincoln Riley,-0.011199999999999995,0.0476,0.0588
-2024-01-08 03:02:56.783983,96th Academy Awards - Best Actress - Best Actress,Kate Winslet - Lee,-0.012100000000000001,0.0123,0.0244
 2024-01-08 11:00:45.654754,FIBA Champions League - Champions League 2023/24 - Outright,Cholet,-0.012700000000000003,0.0196,0.0323
-2024-01-08 03:02:56.774044,96th Academy Awards - Best Actor - Best Actor,Joaquin Phoenix - Napoleon,-0.012700000000000003,0.0196,0.0323
 2024-01-08 11:00:45.758684,Bundesliga - Germany Bundesliga 2023/24 - Outright,Alba Berlin,-0.012899999999999995,0.1538,0.1667
-2024-01-08 05:02:14.149817,Boxing Lines - Oscar Collazo vs Reyneris Gutierrez - To Win the Bout,Oscar Collazo,-0.0131,0.9524,0.9655
-2024-01-08 05:02:11.925021,Grammy Awards 2024 - Record of the Year - Record of the Year,Kill Bill - SZA,-0.0131,0.2222,0.2353
-2024-01-08 03:02:57.291760,75th Primetime Emmy Awards - Emmy - Lead Actor (Drama) - Lead Actor (Drama),Jeremy Strong (Succession),-0.0131,0.2222,0.2353
-2024-01-08 03:02:57.269031,75th Primetime Emmy Awards - Emmy - Outstanding Comedy Series - Outstanding Comedy Series,Abbott Elementary,-0.013999999999999999,0.0769,0.0909
-2024-01-08 05:02:14.297733,Dubai Invitational - Dubai Invitational - Winner,Nicolai Hojgaard,-0.013999999999999999,0.0769,0.0909
 2024-01-08 11:00:45.654754,FIBA Champions League - Champions League 2023/24 - Outright,Rytas,-0.014099999999999998,0.0294,0.0435
-2024-01-08 03:02:57.239886,Triple J Hottest 100 - Triple J Hottest 100 Winning Artist - Triple J Hottest 100 Winning Artist,Peggy Gou,-0.014399999999999996,0.0625,0.0769
-2024-01-08 03:02:56.815260,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,Maestro,-0.014399999999999996,0.0625,0.0769
-2024-01-08 03:02:56.815260,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,Saltburn,-0.014399999999999996,0.0625,0.0769
-2024-01-08 03:02:57.016244,Box Office 2024 - Highest Worldwide Box Office At Year End - Highest Worldwide Box Office At Year End,Kung Fu Panda 4,-0.014399999999999996,0.0625,0.0769
 2024-01-08 09:01:56.708682,NBA Championship - NBA Championship 2023-24 - NBA Champion,Philadelphia 76ers,-0.014399999999999996,0.0625,0.0769
-2024-01-08 05:02:11.925021,Grammy Awards 2024 - Record of the Year - Record of the Year,Flowers - Miley Cyrus,-0.01469999999999999,0.2353,0.25
-2024-01-08 03:02:56.940403,Grammy Awards 2024 - Record of the Year - Record of the Year,Oh My Mama - Victoria Monét,-0.014899999999999997,0.0476,0.0625
-2024-01-08 03:02:57.314277,44th Razzie Awards - Razzies - Worst Picture - Worst Picture,Ant-Man & The Wasp - Quantomania,-0.014899999999999997,0.0476,0.0625
-2024-01-08 03:02:57.314277,44th Razzie Awards - Razzies - Worst Picture - Worst Picture,Knights Of The Zodiac,-0.014899999999999997,0.0476,0.0625
-2024-01-08 03:02:57.291760,75th Primetime Emmy Awards - Emmy - Lead Actor (Drama) - Lead Actor (Drama),Bob Odenkirk (Better Call Saul),-0.015100000000000002,0.1667,0.1818
-2024-01-08 03:02:57.239886,Triple J Hottest 100 - Triple J Hottest 100 Winning Artist - Triple J Hottest 100 Winning Artist,Dom Dolla,-0.015100000000000002,0.1667,0.1818
+2024-01-08 17:03:11.091983,NBL - NBL 2023/2024 - Most Losses,New Zealand Breakers,-0.014499999999999999,0.0149,0.0294
 2024-01-08 11:00:45.654754,FIBA Champions League - Champions League 2023/24 - Outright,Tortona,-0.015300000000000001,0.0323,0.0476
-2024-01-08 05:02:11.761927,96th Academy Awards - Best Supporting Actor - Best Supporting Actor,Dominic Sessa - The Holdovers,-0.015300000000000001,0.0323,0.0476
-2024-01-08 03:02:56.940403,Grammy Awards 2024 - Record of the Year - Record of the Year,Flowers - Miley Cyrus,-0.016699999999999993,0.25,0.2667
-2024-01-08 03:02:57.301998,75th Primetime Emmy Awards - Emmy - Lead Actress (Drama) - Lead Actress (Drama),Melanie Lynskey (Yellowjackets),-0.0179,0.125,0.1429
-2024-01-08 03:02:57.016244,Box Office 2024 - Highest Worldwide Box Office At Year End - Highest Worldwide Box Office At Year End,Joker: Folie a Deux,-0.01820000000000002,0.1818,0.2
-2024-01-08 03:02:57.159391,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,AI/Artificial Intelligence,-0.01820000000000002,0.1818,0.2
-2024-01-08 03:02:56.774044,96th Academy Awards - Best Actor - Best Actor,Kingsley Ben-Adir - Bob Marley: One Love,-0.0189,0.0196,0.0385
-2024-01-08 03:02:56.763797,96th Academy Awards - Best Picture - Best Picture,American Fiction,-0.019099999999999992,0.0476,0.0667
-2024-01-08 03:02:55.251455,Serie A - Italy Serie A 2023/24 - To Be Relegated,Genoa,-0.019099999999999992,0.0476,0.0667
-2024-01-08 03:02:55.244143,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Victor Osimhen (Napoli),-0.019099999999999992,0.0476,0.0667
-2024-01-08 05:02:13.698273,NFL Specials - Who will be the next Full Time Head Coach of the LA Chargers - Proposition,Brian Johnson,-0.019800000000000005,0.0278,0.0476
-2024-01-08 05:02:13.698273,NFL Specials - Who will be the next Full Time Head Coach of the LA Chargers - Proposition,Raheem Morris,-0.019800000000000005,0.0278,0.0476
-2024-01-08 03:02:56.783983,96th Academy Awards - Best Actress - Best Actress,Regina King - Shirley,-0.020000000000000004,0.0123,0.0323
-2024-01-08 03:02:56.940403,Grammy Awards 2024 - Record of the Year - Record of the Year,Not Strong Enough - Boygenius,-0.02020000000000001,0.0909,0.1111
-2024-01-08 03:02:57.016244,Box Office 2024 - Highest Worldwide Box Office At Year End - Highest Worldwide Box Office At Year End,Mufasa: The Lion King,-0.02020000000000001,0.0909,0.1111
-2024-01-08 05:02:13.698273,NFL Specials - Who will be the next Full Time Head Coach of the LA Chargers - Proposition,Eric Bieniemy,-0.0208,0.0625,0.0833
-2024-01-08 03:02:56.965757,Grammy Awards 2024 - Song Of The Year - Song Of The Year,What Was I Made For? - Billie Eilish,-0.021999999999999964,0.2857,0.3077
-2024-01-08 05:02:13.698273,NFL Specials - Who will be the next Full Time Head Coach of the LA Chargers - Proposition,Ryan Day,-0.0232,0.0435,0.0667
-2024-01-08 03:02:57.356801,Royal Family - Harry & Meghan: Year Of Divorce - Harry & Meghan: Year Of Divorce,Not before 2026,-0.023799999999999932,0.8333,0.8571
-2024-01-08 03:02:55.251455,Serie A - Italy Serie A 2023/24 - To Be Relegated,Lecce,-0.023799999999999988,0.1429,0.1667
-2024-01-08 05:02:13.698273,NFL Specials - Who will be the next Full Time Head Coach of the LA Chargers - Proposition,Brian Flores,-0.024,0.0385,0.0625
-2024-01-08 03:02:56.794806,96th Academy Awards - Best Director - Best Director,Celine Song - Past Lives,-0.024,0.0385,0.0625
-2024-01-08 05:02:11.783839,96th Academy Awards - Best Supporting Actress - Best Supporting Actress,Julianne Moore - May December,-0.024,0.0385,0.0625
-2024-01-08 03:02:56.794806,96th Academy Awards - Best Director - Best Director,Jonathan Glazer - The Zone Of Interest,-0.024299999999999995,0.0526,0.0769
+2024-01-08 17:03:11.109266,NBL - NBL 2023/2024 - Outright,New Zealand Breakers,-0.015700000000000006,0.1176,0.1333
+2024-01-08 17:03:11.125014,NBL - NBL 2023/2024 - Regular Season MVP,Alan Williams,-0.018200000000000004,0.0294,0.0476
+2024-01-08 17:03:11.125014,NBL - NBL 2023/2024 - Regular Season MVP,Milton Doyle,-0.018800000000000004,0.0526,0.0714
+2024-01-08 17:03:11.336784,WNBL - Australia WNBL 2023/24 - Outright,Southside Flyers (W),-0.02020000000000001,0.0909,0.1111
+2024-01-08 17:03:11.109266,NBL - NBL 2023/2024 - Outright,Sydney Kings,-0.02049999999999999,0.1333,0.1538
+2024-01-08 17:03:11.125014,NBL - NBL 2023/2024 - Regular Season MVP,Parker Jackson-Cartwright (NZB),-0.0232,0.0435,0.0667
 2024-01-08 11:00:45.654754,FIBA Champions League - Champions League 2023/24 - Outright,PAOK,-0.024399999999999998,0.0141,0.0385
+2024-01-08 17:03:11.175477,NBL - NBL 2023/2024 - To Make Top 6,Sydney Kings,-0.024500000000000077,0.9167,0.9412
 2024-01-08 11:00:45.758684,Bundesliga - Germany Bundesliga 2023/24 - Outright,Oldenburg,-0.028199999999999996,0.0385,0.0667
 2024-01-08 09:01:56.754979,Western Conference - Western Conference Number 1 Seed - Number 1 Seed,Los Angeles Lakers,-0.028300000000000002,0.004,0.0323
-2024-01-08 03:02:56.794806,96th Academy Awards - Best Director - Best Director,Greta Gerwig – Barbie,-0.028399999999999995,0.0625,0.0909
-2024-01-08 03:02:56.783983,96th Academy Awards - Best Actress - Best Actress,Greta Lee - Past Lives,-0.028399999999999995,0.0625,0.0909
-2024-01-08 05:02:13.012054,Republican Party Primaries - Iowa Caucus Popular Vote Winner - Iowa Caucus Popular Vote Winner,Nikki Haley,-0.029299999999999993,0.0476,0.0769
-2024-01-08 03:02:56.783983,96th Academy Awards - Best Actress - Best Actress,Sandra Huller - Anatomy Of A Fall,-0.029299999999999993,0.0476,0.0769
-2024-01-08 03:02:56.774044,96th Academy Awards - Best Actor - Best Actor,Bradley Cooper - Maestro,-0.030299999999999994,0.3333,0.3636
-2024-01-08 05:02:13.698273,NFL Specials - Who will be the next Full Time Head Coach of the LA Chargers - Proposition,Jerod Mayo,-0.031,0.0278,0.0588
-2024-01-08 03:02:56.794806,96th Academy Awards - Best Director - Best Director,Yorgos Lanthimos - Poor Things,-0.031799999999999995,0.1111,0.1429
-2024-01-08 05:02:13.698273,NFL Specials - Who will be the next Full Time Head Coach of the LA Chargers - Proposition,Bill Belichick,-0.0353,0.2,0.2353
-2024-01-08 03:02:56.774044,96th Academy Awards - Best Actor - Best Actor,Willem Dafoe - Poor Things,-0.0384,0.0385,0.0769
+2024-01-08 17:03:11.125014,NBL - NBL 2023/2024 - Regular Season MVP,Jordan Crawford,-0.0294,0.0294,0.0588
+2024-01-08 17:03:11.159728,NBL - NBL 2023/2024 - To Make Top 4,New Zealand Breakers,-0.031799999999999995,0.4444,0.4762
+2024-01-08 17:03:11.159728,NBL - NBL 2023/2024 - To Make Top 4,Tasmania JackJumpers,-0.03810000000000002,0.7619,0.8
+2024-01-08 17:03:11.125014,NBL - NBL 2023/2024 - Regular Season MVP,Jaylen Adams,-0.0392,0.0196,0.0588
+2024-01-08 17:03:11.125014,NBL - NBL 2023/2024 - Regular Season MVP,Anthony  Lamb,-0.04120000000000001,0.0588,0.1
+2024-01-08 17:03:11.139850,NBL - NBL 2023/2024 - To Make Grand Final,Cairns Taipans,-0.04229999999999999,0.0244,0.0667
 2024-01-08 09:01:56.720961,Eastern Conference - Eastern Conference Number 1 Seed - Number 1 Seed,Cleveland Cavaliers,-0.042600000000000006,0.005,0.0476
-2024-01-08 05:02:13.698273,NFL Specials - Who will be the next Full Time Head Coach of the LA Chargers - Proposition,Bobby Slowik,-0.042800000000000005,0.0625,0.1053
-2024-01-08 05:02:11.925021,Grammy Awards 2024 - Record of the Year - Record of the Year,Anti-Hero - Taylor Swift,-0.044399999999999995,0.4,0.4444
-2024-01-08 03:02:56.924020,Grammy Awards 2024 - Best New Artist - Best New Artist,Victoria Monet,-0.04620000000000002,0.1538,0.2
-2024-01-08 03:02:57.016244,Box Office 2024 - Highest Worldwide Box Office At Year End - Highest Worldwide Box Office At Year End,Despicable Me 4,-0.047599999999999976,0.2857,0.3333
-2024-01-08 05:02:13.698273,NFL Specials - Who will be the next Full Time Head Coach of the LA Chargers - Proposition,Kellen Moore,-0.04849999999999999,0.1053,0.1538
-2024-01-08 05:02:11.761927,96th Academy Awards - Best Supporting Actor - Best Supporting Actor,Willem Dafoe - Poor Things,-0.048600000000000004,0.0625,0.1111
-2024-01-08 03:02:56.774044,96th Academy Awards - Best Actor - Best Actor,Colman Domingo - Rustin,-0.052300000000000006,0.0588,0.1111
-2024-01-08 03:02:57.314277,44th Razzie Awards - Razzies - Worst Picture - Worst Picture,Big Shark,-0.05550000000000002,0.1667,0.2222
-2024-01-08 05:02:11.783839,96th Academy Awards - Best Supporting Actress - Best Supporting Actress,Danielle Brooks - The Color Purple,-0.05550000000000002,0.1667,0.2222
-2024-01-08 05:02:11.761927,96th Academy Awards - Best Supporting Actor - Best Supporting Actor,Robert De Niro - Killers Of The Flower Moon,-0.05559999999999998,0.1111,0.1667
-2024-01-08 03:02:56.763797,96th Academy Awards - Best Picture - Best Picture,Killers Of The Flower Moon,-0.05679999999999999,0.125,0.1818
-2024-01-08 03:02:56.815260,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,May December,-0.0708,0.0625,0.1333
-2024-01-08 03:02:55.251455,Serie A - Italy Serie A 2023/24 - To Be Relegated,Hellas Verona,-0.07469999999999999,0.5744,0.6491
-2024-01-08 03:02:55.263978,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Napoli,-0.07789999999999997,0.2857,0.3636
-2024-01-08 03:02:56.805113,96th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,Killers Of The Flower Moon,-0.08549999999999996,0.2222,0.3077
+2024-01-08 17:03:11.139850,NBL - NBL 2023/2024 - To Make Grand Final,SE Melbourne Phoenix,-0.04329999999999999,0.0476,0.0909
+2024-01-08 17:03:11.125014,NBL - NBL 2023/2024 - Regular Season MVP,Chris Goulding,-0.052000000000000005,0.0909,0.1429
+2024-01-08 17:03:11.175477,NBL - NBL 2023/2024 - To Make Top 6,New Zealand Breakers,-0.06320000000000003,0.7368,0.8
+2024-01-08 17:03:11.159728,NBL - NBL 2023/2024 - To Make Top 4,Cairns Taipans,-0.06840000000000002,0.1538,0.2222
+2024-01-08 17:03:11.139850,NBL - NBL 2023/2024 - To Make Grand Final,Melbourne United,-0.07010000000000005,0.7299,0.8
+2024-01-08 17:03:11.091983,NBL - NBL 2023/2024 - Most Losses,Brisbane Bullets,-0.0705,0.0833,0.1538
+2024-01-08 17:03:11.175477,NBL - NBL 2023/2024 - To Make Top 6,Cairns Taipans,-0.07619999999999999,0.4,0.4762
+2024-01-08 17:03:11.091983,NBL - NBL 2023/2024 - Most Losses,Illawarra Hawks,-0.0774,0.0476,0.125
+2024-01-08 17:03:11.159728,NBL - NBL 2023/2024 - To Make Top 4,SE Melboune Phoenix,-0.08330000000000001,0.1667,0.25
 2024-01-08 09:01:56.754979,Western Conference - Western Conference Number 1 Seed - Number 1 Seed,Dallas Mavericks,-0.0877,0.0123,0.1
-2024-01-08 03:02:56.783983,96th Academy Awards - Best Actress - Best Actress,Annette Bening - Nyad,-0.0953,0.0476,0.1429
-2024-01-08 03:02:56.940403,Grammy Awards 2024 - Record of the Year - Record of the Year,Kill Bill - SZA,-0.09799999999999998,0.2353,0.3333
-2024-01-08 03:02:56.783983,96th Academy Awards - Best Actress - Best Actress,Emma Stone - Poor Things,-0.09999999999999998,0.4,0.5
+2024-01-08 17:03:11.159728,NBL - NBL 2023/2024 - To Make Top 4,Sydney Kings,-0.0948,0.6552,0.75
 2024-01-08 09:01:56.754979,Western Conference - Western Conference Number 1 Seed - Number 1 Seed,Phoenix Suns,-0.1012,0.0099,0.1111
-2024-01-08 03:02:56.774044,96th Academy Awards - Best Actor - Best Actor,Leonardo DiCaprio - Killers of the Flower Moon,-0.1079,0.0588,0.1667
-2024-01-08 03:02:56.794806,96th Academy Awards - Best Director - Best Director,Martin Scorsese - Killers of the Flower Moon,-0.11030000000000001,0.125,0.2353
-2024-01-08 05:02:13.698273,NFL Specials - Who will be the next Full Time Head Coach of the LA Chargers - Proposition,Frank Smith,-0.11929999999999999,0.0625,0.1818
 2024-01-08 09:01:56.720961,Eastern Conference - Eastern Conference Number 1 Seed - Number 1 Seed,Philadelphia 76ers,-0.128,0.0625,0.1905
 2024-01-08 09:01:56.720961,Eastern Conference - Eastern Conference Number 1 Seed - Number 1 Seed,Milwaukee Bucks,-0.1307,0.1818,0.3125
-2024-01-08 03:02:55.257789,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Hellas Verona,-0.13329999999999997,0.2,0.3333
-2024-01-08 03:02:56.815260,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,Past Lives,-0.14680000000000004,0.3077,0.4545
+2024-01-08 17:03:11.139850,NBL - NBL 2023/2024 - To Make Grand Final,Sydney Kings,-0.13330000000000003,0.2667,0.4
 2024-01-08 09:01:56.754979,Western Conference - Western Conference Number 1 Seed - Number 1 Seed,Golden State Warriors,-0.1657,0.001,0.1667
-2024-01-08 03:02:57.269031,75th Primetime Emmy Awards - Emmy - Outstanding Comedy Series - Outstanding Comedy Series,Ted Lasso,-0.16669999999999996,0.5,0.6667
 2024-01-08 09:01:56.754979,Western Conference - Western Conference Number 1 Seed - Number 1 Seed,Denver Nuggets,-0.18059999999999993,0.4348,0.6154
-2024-01-08 03:02:56.815260,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,The Holdovers,-0.1819,0.3636,0.5455
