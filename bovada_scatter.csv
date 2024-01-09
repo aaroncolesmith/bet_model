@@ -1,16 +1,20 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2024-01-09 11:02:41.825879,NFL Specials - Who will be the next Full Time Head Coach of the Atlanta Falcons - Next Falcons Head Coach,Eric Bieniemy,0.4333,0.6,0.1667
 2024-01-09 01:04:42.225275,Super Bowl LVIII - Superbowl 58 (2024) - Winning State,Maryland,0.21900000000000003,0.2857,0.0667
 2024-01-09 01:04:42.239860,Super Bowl LVIII - Superbowl 58 (2024) - Winning Division,AFC North,0.18269999999999997,0.3077,0.125
 2024-01-09 01:04:42.239860,Super Bowl LVIII - Superbowl 58 (2024) - Winning Division,NFC West,0.1553,0.3704,0.2151
 2024-01-09 01:04:42.225275,Super Bowl LVIII - Superbowl 58 (2024) - Winning State,California,0.12040000000000001,0.3704,0.25
 2024-01-09 01:04:41.191093,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Stephen Curry (GSW),0.10419999999999999,0.1667,0.0625
 2024-01-09 01:04:42.338040,NFL Playoffs - NFL 2023/24 Playoff Leaders - Most Receiving Yards,Rashee Rice,0.08529999999999999,0.1176,0.0323
+2024-01-09 11:02:40.679035,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Shai Gilgeous-Alexander (OKC),0.08329999999999999,0.3333,0.25
 2024-01-09 01:04:40.661178,Northwest Division - Northwest Division 2023-24 - Division Winner,Denver Nuggets,0.07619999999999999,0.4762,0.4
+2024-01-09 11:02:41.806487,NFL Specials - Where will Jim Harbaugh be Coaching Game 1 of the 2023/2024 Season - Jim Harbaugh's next team,LA Chargers,0.0726,0.75,0.6774
 2024-01-09 07:01:08.160238,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v T. Fleetwood - Tournament Match-Up ,Rory McIlroy,0.06669999999999998,0.6667,0.6
 2024-01-09 07:01:08.106130,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v A. Meronk - Tournament Match-Up,Rory McIlroy,0.06659999999999999,0.7333,0.6667
 2024-01-09 08:59:51.707323,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Baylor,0.06649999999999999,0.0909,0.0244
 2024-01-09 01:04:42.305924,NFL Playoffs - NFL 2023/24 Playoff Leaders - Most Passing Yards,Patrick Mahomes,0.0596,0.1429,0.0833
 2024-01-09 01:04:42.354860,NFL Playoffs - NFL 2023/24 Playoff Leaders - Most Rushing Touchdowns,Christian McCaffrey,0.059099999999999986,0.3448,0.2857
+2024-01-09 11:02:40.614466,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Shai Gilgeous-Alexander (OKC),0.057699999999999974,0.3077,0.25
 2024-01-09 03:03:18.638407,Tournament Match-Ups - Tournament Match-Ups - S. Theegala vs W. Zalatoris - Tournament Match-Ups,Sahith Theegala,0.05740000000000001,0.6226,0.5652
 2024-01-09 03:03:18.563228,Tournament Match-Ups - Tournament Match-Ups - D. McCarthy vs S. Jaeger - Tournament Match-Ups,Denny McCarthy,0.05689999999999995,0.5917,0.5348
 2024-01-09 08:59:51.424112,Central Division - Central Division 2023-24 - Division Winner,Cleveland Cavaliers,0.052000000000000005,0.1429,0.0909
@@ -19,6 +23,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-09 01:04:41.235731,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Alperen Sengun (HOU),0.04999999999999999,0.25,0.2
 2024-01-09 07:01:08.120225,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v N. Hojgaard - Tournament Match-Up,Rory McIlroy,0.04760000000000009,0.7143,0.6667
 2024-01-09 03:03:18.491061,Tournament Match-Ups - Tournament Match-Ups - B. Harman vs T. Hatton - Tournament Match-Ups,Brian Harman,0.04760000000000003,0.5238,0.4762
+2024-01-09 11:02:40.679035,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Nikola Jokic (DEN),0.047599999999999976,0.3333,0.2857
 2024-01-09 01:04:42.173960,Super Bowl LVIII - Superbowl 58 (2024) - Conference Winner,AFC,0.04700000000000004,0.5348,0.4878
 2024-01-09 08:59:53.351859,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v A. Meronk - Tournament Match-Up,Rory McIlroy,0.044500000000000095,0.7778,0.7333
 2024-01-09 01:04:42.373705,NFL Playoffs - NFL 2023/24 Playoff Leaders - Most Rushing Yards,James Cook,0.043800000000000006,0.2105,0.1667
@@ -30,34 +35,39 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-09 08:59:50.621053,AFC Asian Cup - AFC Asian Cup 2023 - To Reach the Final,Japan,0.035999999999999976,0.5122,0.4762
 2024-01-09 07:01:04.763961,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Morocco,0.03570000000000001,0.2857,0.25
 2024-01-09 08:59:51.707323,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,South Carolina,0.03570000000000001,0.2857,0.25
+2024-01-09 11:02:44.668836,Tournament Match-Ups - Tournament Match-Ups - H. Matsuyama vs S. Kim - Tournament Match-Ups,Si Woo Kim,0.03479999999999994,0.6,0.5652
 2024-01-09 01:04:42.373705,NFL Playoffs - NFL 2023/24 Playoff Leaders - Most Rushing Yards,Devin Singletary,0.03330000000000001,0.1,0.0667
 2024-01-09 08:59:53.422359,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v Y. Paul - Torunament Match-Up,Rory McIlroy,0.033299999999999996,0.8333,0.8
 2024-01-09 01:04:42.338040,NFL Playoffs - NFL 2023/24 Playoff Leaders - Most Receiving Yards,Brandon Aiyuk,0.033299999999999996,0.1333,0.1
 2024-01-09 07:01:07.809533,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Los Angeles Dodgers,0.032299999999999995,0.3448,0.3125
+2024-01-09 11:02:44.689798,Tournament Match-Ups - Tournament Match-Ups - L. Aberg vs M. Fitzpatrick - Tournament Match-Ups,Matt Fitzpatrick,0.03179999999999994,0.5556,0.5238
+2024-01-09 11:02:44.648156,Tournament Match-Ups - Tournament Match-Ups - E. Cole vs R. Henley - Tournament Match-Ups,Russell Henley,0.03090000000000004,0.6226,0.5917
 2024-01-09 01:04:41.171125,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Caris LeVert (CLE),0.029299999999999993,0.0769,0.0476
-2024-01-09 07:01:08.173231,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v T. Olesen - Tournament Match-Up,Rory McIlroy,0.027800000000000047,0.7778,0.75
 2024-01-09 08:59:53.387155,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v R. Hojgaard - Tournament Match-Up,Rory McIlroy,0.027800000000000047,0.7778,0.75
+2024-01-09 07:01:08.173231,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v T. Olesen - Tournament Match-Up,Rory McIlroy,0.027800000000000047,0.7778,0.75
 2024-01-09 01:04:42.305924,NFL Playoffs - NFL 2023/24 Playoff Leaders - Most Passing Yards,Jared Goff,0.027800000000000005,0.1111,0.0833
-2024-01-09 01:04:41.252175,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Shai Gilgeous-Alexander (OKC),0.02779999999999999,0.25,0.2222
 2024-01-09 07:01:04.763961,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Ivory Coast,0.02779999999999999,0.25,0.2222
+2024-01-09 01:04:41.252175,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Shai Gilgeous-Alexander (OKC),0.02779999999999999,0.25,0.2222
+2024-01-09 11:02:43.926440,Dubai Invitational - 2/3 Balls - 1st Round 2 Balls - C. Shinkwin vs D. Brown - 1st Round 2 Balls ,Daniel Brown,0.026499999999999968,0.5917,0.5652
 2024-01-09 03:03:18.526325,Tournament Match-Ups - Tournament Match-Ups - C. Davis vs J.T. Poston - Tournament Match-Ups,J.T. Poston,0.026499999999999968,0.5917,0.5652
 2024-01-09 01:04:42.190830,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Matchup,BUF Bills vs DAL Cowboys,0.024299999999999995,0.0769,0.0526
 2024-01-09 07:01:04.733944,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Morocco,0.023799999999999988,0.1667,0.1429
 2024-01-09 01:04:40.724616,Southwest Division - Southwest Division 2023-24 - Division Winner,Dallas Mavericks,0.023799999999999988,0.5,0.4762
-2024-01-09 01:04:41.191093,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Damian Lillard (MIL),0.022199999999999998,0.2222,0.2
 2024-01-09 08:59:53.410528,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v T. Olesen - Tournament Match-Up,Rory McIlroy,0.022199999999999998,0.8,0.7778
+2024-01-09 01:04:41.191093,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Damian Lillard (MIL),0.022199999999999998,0.2222,0.2
 2024-01-09 01:04:42.225275,Super Bowl LVIII - Superbowl 58 (2024) - Winning State,Texas,0.021699999999999997,0.1429,0.1212
-2024-01-09 01:04:40.580379,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Miami Heat,0.0208,0.0833,0.0625
 2024-01-09 01:04:42.305924,NFL Playoffs - NFL 2023/24 Playoff Leaders - Most Passing Yards,Tua Tagovailoa,0.0208,0.0833,0.0625
+2024-01-09 01:04:40.580379,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Miami Heat,0.0208,0.0833,0.0625
 2024-01-09 07:01:05.270204,AFC Asian Cup - AFC Asian Cup 2023 - To Reach the Final,South Korea,0.020799999999999985,0.3333,0.3125
 2024-01-09 01:04:42.207934,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,BUF Bills to beat DAL Cowboys,0.019800000000000005,0.0476,0.0278
 2024-01-09 01:04:41.191093,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Trae Young (ATL),0.019099999999999992,0.0667,0.0476
 2024-01-09 08:59:53.363272,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v N. Hojgaard - Tournament Match-Up,Rory McIlroy,0.018999999999999906,0.7333,0.7143
 2024-01-09 08:59:51.707323,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Ohio State,0.0189,0.0385,0.0196
-2024-01-09 01:04:41.252175,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Luka Doncic (DAL),0.01820000000000002,0.2,0.1818
-2024-01-09 01:04:42.354860,NFL Playoffs - NFL 2023/24 Playoff Leaders - Most Rushing Touchdowns,Josh Allen,0.01820000000000002,0.2,0.1818
 2024-01-09 07:01:04.763961,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Egypt,0.01820000000000002,0.2,0.1818
+2024-01-09 01:04:42.354860,NFL Playoffs - NFL 2023/24 Playoff Leaders - Most Rushing Touchdowns,Josh Allen,0.01820000000000002,0.2,0.1818
+2024-01-09 01:04:41.252175,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Luka Doncic (DAL),0.01820000000000002,0.2,0.1818
 2024-01-09 03:03:12.185819,Copa del Rey - Spain Copa del Rey 2023/24 - Winner,Valencia,0.018200000000000004,0.0476,0.0294
+2024-01-09 11:02:42.620503,Boxing Lines - Dianxing Zhu vs Richard Garde - To Win the Bout,Dianxing Zhu,0.018199999999999994,0.8182,0.8
 2024-01-09 01:04:40.641773,Central Division - Central Division 2023-24 - Division Winner,Milwaukee Bucks,0.018100000000000005,0.9231,0.905
 2024-01-09 08:59:51.707323,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Colorado,0.018099999999999998,0.0769,0.0588
 2024-01-09 07:01:04.733944,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Ivory Coast,0.0179,0.1429,0.125
@@ -66,18 +76,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-09 07:01:08.146717,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v R. Hojgaard - Tournament Match-Up,Rory McIlroy,0.016700000000000048,0.75,0.7333
 2024-01-09 08:59:53.375046,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v R. Fox - Tournament Match-Up ,Rory McIlroy,0.016700000000000048,0.75,0.7333
 2024-01-09 01:04:42.207934,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,BUF Bills to beat SF 49ers,0.016700000000000007,0.1,0.0833
+2024-01-09 11:02:42.562008,Boxing Lines - Mizuki Hiruta vs Ji Hyun Park - To Win the Bout,Mizuki Hiruta,0.016699999999999937,0.9167,0.9
 2024-01-09 08:59:51.707323,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Stanford,0.016600000000000004,0.0833,0.0667
 2024-01-09 08:59:51.707323,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Indiana,0.015300000000000001,0.0476,0.0323
 2024-01-09 08:59:51.707323,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Utah,0.015300000000000001,0.0476,0.0323
 2024-01-09 08:59:51.707323,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Virginia Tech,0.015300000000000001,0.0476,0.0323
+2024-01-09 01:04:40.599523,Western Conference - Western Conference 2023-24 - Western Conference Winner,L.A. Clippers,0.015100000000000002,0.1818,0.1667
 2024-01-09 07:01:04.763961,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Nigeria,0.015100000000000002,0.1818,0.1667
 2024-01-08 23:04:09.953373,NFL Playoffs - NFL 2023/24 Playoff Leaders - Most Rushing Touchdowns,Josh Allen,0.015100000000000002,0.1818,0.1667
-2024-01-09 01:04:40.599523,Western Conference - Western Conference 2023-24 - Western Conference Winner,L.A. Clippers,0.015100000000000002,0.1818,0.1667
 2024-01-09 03:03:12.185819,Copa del Rey - Spain Copa del Rey 2023/24 - Winner,Athletic Bilbao,0.014899999999999997,0.0625,0.0476
 2024-01-09 08:59:50.621053,AFC Asian Cup - AFC Asian Cup 2023 - To Reach the Final,Australia,0.01469999999999999,0.25,0.2353
 2024-01-09 01:04:41.191093,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Shai Gilgeous-Alexander (OKC),0.01469999999999999,0.25,0.2353
-2024-01-09 01:04:41.171125,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Trey Murphy III (NOP),0.0145,0.0244,0.0099
 2024-01-09 01:04:42.207934,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,LA Rams to beat BAL Ravens,0.0145,0.0152,0.0007
+2024-01-09 01:04:41.171125,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Trey Murphy III (NOP),0.0145,0.0244,0.0099
 2024-01-09 01:04:40.490540,NBA Championship - NBA Championship 2023-24 - NBA Champion,Philadelphia 76ers,0.014399999999999996,0.0769,0.0625
 2024-01-09 08:59:51.707323,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,North Carolina State,0.013999999999999999,0.0909,0.0769
 2024-01-09 01:04:42.305924,NFL Playoffs - NFL 2023/24 Playoff Leaders - Most Passing Yards,Lamar Jackson,0.013899999999999996,0.125,0.1111
@@ -87,26 +98,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-09 03:03:17.964151,Boxing Lines - Mark Jeffers vs Germaine Brown - To Win the Bout,Mark Jeffers,0.0131,0.7778,0.7647
 2024-01-09 01:04:42.207934,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,DET Lions to beat BAL Ravens,0.012899999999999998,0.0179,0.005
 2024-01-09 03:03:17.786688,MLB Futures - MLB 2024 Regular Season Leaders - Player To Hit the Most Home Runs,Aaron Judge (NYY),0.012799999999999978,0.2128,0.2
-2024-01-09 08:59:52.709999,MLB Futures - MLB 2024 National League Central - National League Central Winner,St. Louis Cardinals,0.01150000000000001,0.3448,0.3333
 2024-01-09 08:59:50.621053,AFC Asian Cup - AFC Asian Cup 2023 - To Reach the Final,South Korea,0.01150000000000001,0.3448,0.3333
+2024-01-09 08:59:52.709999,MLB Futures - MLB 2024 National League Central - National League Central Winner,St. Louis Cardinals,0.01150000000000001,0.3448,0.3333
 2024-01-09 01:04:42.190830,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Matchup,CLE Browns vs SF 49ers,0.011199999999999995,0.0588,0.0476
 2024-01-09 01:04:42.207934,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,KC Chiefs to beat SF 49ers,0.011199999999999995,0.0588,0.0476
+2024-01-09 11:02:41.825879,NFL Specials - Who will be the next Full Time Head Coach of the Atlanta Falcons - Next Falcons Head Coach,Bobby Slowik,0.010899999999999993,0.1538,0.1429
 2024-01-09 01:04:42.190830,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Matchup,CLE Browns vs DAL Cowboys,0.010699999999999998,0.0278,0.0171
 2024-01-09 03:03:18.474475,Tournament Match-Ups - Tournament Match-Ups - A. Bhatia vs M. Kuchar - Tournament Match-Ups,Matt Kuchar,0.010699999999999932,0.5455,0.5348
 2024-01-09 03:03:17.980554,Boxing Lines - Jack Cullen vs Zak Chelli - To Win the Bout,Zak Chelli,0.010599999999999998,0.4651,0.4545
 2024-01-09 01:04:40.599523,Western Conference - Western Conference 2023-24 - Western Conference Winner,Los Angeles Lakers,0.0102,0.0769,0.0667
+2024-01-09 11:02:43.108003,Boxing Lines - Austin Williams vs Connor Coyle - To Win the Bout,Austin Williams,-0.010199999999999987,0.9231,0.9333
 2024-01-08 23:04:09.953373,NFL Playoffs - NFL 2023/24 Playoff Leaders - Most Rushing Touchdowns,David Montgomery,-0.0102,0.0667,0.0769
+2024-01-09 03:03:18.455173,Sony Open - Sony Open - Winner,Ludvig Aberg,-0.0102,0.0667,0.0769
 2024-01-09 07:01:04.763961,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,DR Congo,-0.0102,0.0667,0.0769
 2024-01-08 23:04:09.953373,NFL Playoffs - NFL 2023/24 Playoff Leaders - Most Rushing Touchdowns,De'Von Achane,-0.0102,0.0667,0.0769
-2024-01-09 03:03:18.455173,Sony Open - Sony Open - Winner,Ludvig Aberg,-0.0102,0.0667,0.0769
 2024-01-09 03:03:12.185819,Copa del Rey - Spain Copa del Rey 2023/24 - Winner,Sevilla,-0.0102,0.0667,0.0769
 2024-01-09 01:04:42.996773,Boxing Lines - Jack Cullen vs Zak Chelli - To Win the Bout,Zak Chelli,-0.010599999999999998,0.4545,0.4651
 2024-01-09 07:01:07.872430,Boxing Lines - Jack Cullen vs Zak Chelli - To Win the Bout,Zak Chelli,-0.010599999999999998,0.4545,0.4651
 2024-01-09 01:04:42.225275,Super Bowl LVIII - Superbowl 58 (2024) - Winning State,New Jersey + New York,-0.010899999999999993,0.1429,0.1538
 2024-01-09 07:01:04.763961,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Tunisia,-0.010899999999999993,0.1429,0.1538
 2024-01-09 03:03:18.474475,Tournament Match-Ups - Tournament Match-Ups - A. Bhatia vs M. Kuchar - Tournament Match-Ups,Akshay Bhatia,-0.01100000000000001,0.5238,0.5348
-2024-01-09 07:01:07.809533,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Arizona Diamondbacks,-0.011099999999999999,0.0556,0.0667
 2024-01-09 07:01:04.763961,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Mali,-0.011099999999999999,0.1,0.1111
+2024-01-09 07:01:07.809533,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Arizona Diamondbacks,-0.011099999999999999,0.0556,0.0667
 2024-01-09 01:04:41.235731,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Coby White (CHI),-0.011199999999999995,0.0476,0.0588
 2024-01-09 01:04:41.221562,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Jalen Suggs (ORL),-0.0114,0.005,0.0164
 2024-01-09 03:03:18.455173,Sony Open - Sony Open - Winner,Robert MacIntyre,-0.011699999999999999,0.0079,0.0196
@@ -120,12 +133,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-09 01:04:41.191093,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Giannis Antetokounmpo (MIL),-0.014899999999999997,0.0476,0.0625
 2024-01-09 01:04:42.305924,NFL Playoffs - NFL 2023/24 Playoff Leaders - Most Passing Yards,Brock Purdy,-0.015100000000000002,0.1667,0.1818
 2024-01-09 01:04:41.269164,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Victor Wembanyama (SAS),-0.016699999999999993,0.4,0.4167
+2024-01-09 11:02:42.620503,Boxing Lines - Dianxing Zhu vs Richard Garde - To Win the Bout,Richard Garde,-0.016699999999999993,0.25,0.2667
 2024-01-09 08:59:53.363272,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v N. Hojgaard - Tournament Match-Up,Nicolai Hojgaard,-0.017600000000000005,0.3333,0.3509
 2024-01-09 01:04:40.641773,Central Division - Central Division 2023-24 - Division Winner,Indiana Pacers,-0.018099999999999998,0.0588,0.0769
 2024-01-09 01:04:40.599523,Western Conference - Western Conference 2023-24 - Western Conference Winner,Dallas Mavericks,-0.018099999999999998,0.0588,0.0769
+2024-01-09 11:02:43.185570,Dubai Invitational - Dubai Invitational - Winner,Adrian Meronk,-0.018099999999999998,0.0588,0.0769
 2024-01-09 01:04:42.207934,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,BAL Ravens to beat PHI Eagles,-0.018200000000000004,0.0294,0.0476
-2024-01-09 07:01:05.270204,AFC Asian Cup - AFC Asian Cup 2023 - To Reach the Final,Qatar,-0.01820000000000002,0.1818,0.2
 2024-01-09 01:04:41.171125,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Malik Monk (SAC),-0.01820000000000002,0.1818,0.2
+2024-01-09 07:01:05.270204,AFC Asian Cup - AFC Asian Cup 2023 - To Reach the Final,Qatar,-0.01820000000000002,0.1818,0.2
 2024-01-09 01:04:42.305924,NFL Playoffs - NFL 2023/24 Playoff Leaders - Most Passing Yards,Matthew Stafford,-0.019000000000000003,0.0435,0.0625
 2024-01-09 08:59:53.410528,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v T. Olesen - Tournament Match-Up,Thorbjorn Olesen,-0.019000000000000017,0.2667,0.2857
 2024-01-09 01:04:41.235731,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Tyrese Haliburton (IND),-0.019099999999999992,0.0476,0.0667
@@ -134,6 +149,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-09 08:59:53.375046,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v R. Fox - Tournament Match-Up ,Ryan Fox,-0.020799999999999985,0.3125,0.3333
 2024-01-09 07:01:04.733944,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Cameroon,-0.02310000000000001,0.0769,0.1
 2024-01-09 01:04:41.171125,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Bennedict Mathurin (IND),-0.0232,0.0435,0.0667
+2024-01-09 11:02:43.926440,Dubai Invitational - 2/3 Balls - 1st Round 2 Balls - C. Shinkwin vs D. Brown - 1st Round 2 Balls ,Callum Shinkwin,-0.023799999999999988,0.4762,0.5
+2024-01-09 11:02:42.562008,Boxing Lines - Mizuki Hiruta vs Ji Hyun Park - To Win the Bout,Ji Hyun Park,-0.023799999999999988,0.1429,0.1667
 2024-01-09 03:03:18.526325,Tournament Match-Ups - Tournament Match-Ups - C. Davis vs J.T. Poston - Tournament Match-Ups,Cam Davis,-0.023799999999999988,0.4762,0.5
 2024-01-09 01:04:42.190830,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Matchup,BAL Ravens vs PHI Eagles,-0.024299999999999995,0.0526,0.0769
 2024-01-09 01:04:42.373705,NFL Playoffs - NFL 2023/24 Playoff Leaders - Most Rushing Yards,Tony Pollard,-0.025300000000000003,0.1176,0.1429
@@ -145,9 +162,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-09 01:04:42.239860,Super Bowl LVIII - Superbowl 58 (2024) - Winning Division,AFC South,-0.031,0.0278,0.0588
 2024-01-09 01:04:42.239860,Super Bowl LVIII - Superbowl 58 (2024) - Winning Division,NFC South,-0.031200000000000002,0.0164,0.0476
 2024-01-09 08:59:53.422359,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v Y. Paul - Torunament Match-Up,Yannik Paul,-0.031399999999999983,0.2353,0.2667
+2024-01-09 11:02:44.648156,Tournament Match-Ups - Tournament Match-Ups - E. Cole vs R. Henley - Tournament Match-Ups,Eric Cole,-0.031799999999999995,0.4444,0.4762
 2024-01-09 07:01:04.763961,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Algeria,-0.03259999999999999,0.2,0.2326
+2024-01-09 11:02:44.689798,Tournament Match-Ups - Tournament Match-Ups - L. Aberg vs M. Fitzpatrick - Tournament Match-Ups,Ludvig Aberg,-0.033299999999999996,0.5122,0.5455
 2024-01-09 01:04:40.724616,Southwest Division - Southwest Division 2023-24 - Division Winner,Memphis Grizzlies,-0.0336,0.0099,0.0435
 2024-01-09 08:59:51.424112,Central Division - Central Division 2023-24 - Division Winner,Milwaukee Bucks,-0.03420000000000001,0.8889,0.9231
+2024-01-09 11:02:44.668836,Tournament Match-Ups - Tournament Match-Ups - H. Matsuyama vs S. Kim - Tournament Match-Ups,Hideki Matsuyama,-0.03489999999999999,0.4651,0.5
 2024-01-09 01:04:41.235731,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Tyrese Maxey (PHI),-0.035699999999999954,0.7143,0.75
 2024-01-09 01:04:41.171125,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Tim Hardaway Jr (DAL),-0.03570000000000001,0.25,0.2857
 2024-01-09 07:01:08.134032,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v R. Fox - Tournament Match-Up ,Ryan Fox,-0.03710000000000002,0.3333,0.3704
