@@ -11,23 +11,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-09 11:02:41.843319,NFL Specials - Who will be the next Full Time Head Coach of the LA Chargers - Next Chargers Head Coach,Jim Harbaugh,0.0726,0.75,0.6774
 2024-01-09 11:02:41.806487,NFL Specials - Where will Jim Harbaugh be Coaching Game 1 of the 2023/2024 Season - Jim Harbaugh's next team,LA Chargers,0.0726,0.75,0.6774
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Connecticut,0.06860000000000002,0.2353,0.1667
-2024-01-09 08:59:51.707323,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Baylor,0.06649999999999999,0.0909,0.0244
+2024-01-09 21:03:23.023332,EFL Cup - EFL Cup 2023/24 - Winner,Liverpool,0.06700000000000006,0.6226,0.5556
 2024-01-09 13:03:31.419857,Finishing Positions - Finishing Position - J.T. Poston - Finishing Position,34th or better,0.06519999999999992,0.6,0.5348
 2024-01-09 11:02:40.614466,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Shai Gilgeous-Alexander (OKC),0.057699999999999974,0.3077,0.25
-2024-01-09 08:59:51.424112,Central Division - Central Division 2023-24 - Division Winner,Cleveland Cavaliers,0.052000000000000005,0.1429,0.0909
 2024-01-09 11:02:40.679035,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Nikola Jokic (DEN),0.047599999999999976,0.3333,0.2857
-2024-01-09 08:59:53.351859,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v A. Meronk - Tournament Match-Up,Rory McIlroy,0.044500000000000095,0.7778,0.7333
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Wake Forest,0.0427,0.0526,0.0099
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Oklahoma,0.0409,0.0588,0.0179
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Marquette,0.03889999999999999,0.1818,0.1429
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Utah,0.036199999999999996,0.0526,0.0164
-2024-01-09 13:03:31.346435,Finishing Positions - Finishing Position - Corey Conners - Finishing Position ,30th or better,0.03610000000000002,0.5917,0.5556
 2024-01-09 17:03:08.427778,Tournament Match-Ups - Tournament Match-Ups - L. Aberg vs M. Fitzpatrick - Tournament Match-Ups,Matt Fitzpatrick,0.03610000000000002,0.5917,0.5556
-2024-01-09 08:59:50.621053,AFC Asian Cup - AFC Asian Cup 2023 - To Reach the Final,Japan,0.035999999999999976,0.5122,0.4762
-2024-01-09 08:59:51.707323,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,South Carolina,0.03570000000000001,0.2857,0.25
+2024-01-09 13:03:31.346435,Finishing Positions - Finishing Position - Corey Conners - Finishing Position ,30th or better,0.03610000000000002,0.5917,0.5556
 2024-01-09 11:02:44.668836,Tournament Match-Ups - Tournament Match-Ups - H. Matsuyama vs S. Kim - Tournament Match-Ups,Si Woo Kim,0.03479999999999994,0.6,0.5652
 2024-01-09 17:03:06.154338,NFL 2024 Sims - Madden 24 Sim Bowl Winner - Outright,Arizona Cardinals,0.0334,0.0769,0.0435
-2024-01-09 08:59:53.422359,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v Y. Paul - Torunament Match-Up,Rory McIlroy,0.033299999999999996,0.8333,0.8
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Cincinnati,0.033,0.0526,0.0196
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Creighton,0.031799999999999995,0.1429,0.1111
 2024-01-09 11:02:44.689798,Tournament Match-Ups - Tournament Match-Ups - L. Aberg vs M. Fitzpatrick - Tournament Match-Ups,Matt Fitzpatrick,0.03179999999999994,0.5556,0.5238
@@ -36,68 +31,60 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Florida,0.029299999999999993,0.0769,0.0476
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Iowa State,0.029299999999999993,0.0769,0.0476
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Clemson,0.0282,0.0526,0.0244
-2024-01-09 08:59:53.387155,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v R. Hojgaard - Tournament Match-Up,Rory McIlroy,0.027800000000000047,0.7778,0.75
 2024-01-09 11:02:43.926440,Dubai Invitational - 2/3 Balls - 1st Round 2 Balls - C. Shinkwin vs D. Brown - 1st Round 2 Balls ,Daniel Brown,0.026499999999999968,0.5917,0.5652
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Baylor,0.024999999999999994,0.125,0.1
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Mississippi State,0.024800000000000003,0.0526,0.0278
-2024-01-09 15:02:32.081049,Tournament Match-Ups - Tournament Match-Up - T. Lawrence v Y. Paul - Tournament Match-Up,Thriston Lawrence,0.022600000000000064,0.5348,0.5122
 2024-01-09 17:03:08.416105,Tournament Match-Ups - Tournament Match-Ups - H. Matsuyama vs S. Kim - Tournament Match-Ups,Si Woo Kim,0.022600000000000064,0.6226,0.6
-2024-01-09 08:59:53.410528,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v T. Olesen - Tournament Match-Up,Rory McIlroy,0.022199999999999998,0.8,0.7778
+2024-01-09 15:02:32.081049,Tournament Match-Ups - Tournament Match-Up - T. Lawrence v Y. Paul - Tournament Match-Up,Thriston Lawrence,0.022600000000000064,0.5348,0.5122
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Dayton,0.022099999999999998,0.0385,0.0164
 2024-01-09 17:03:08.329980,Tournament Match-Ups - Tournament Match-Ups - B. Harman vs T. Hatton - Tournament Match-Ups,Brian Harman,0.02169999999999994,0.5455,0.5238
 2024-01-09 17:03:08.250941,Finishing Positions - Finishing Position - Matt Fitzpatrick - Finishing Position,23rd or worse,0.02169999999999994,0.5455,0.5238
 2024-01-09 17:03:08.166492,Finishing Positions - Finishing Position - Brian Harman - Finishing Position,26th or better,0.01970000000000005,0.5652,0.5455
 2024-01-09 17:03:08.178398,Finishing Positions - Finishing Position - Chris Kirk - Finishing Position,31st or better,0.01970000000000005,0.5652,0.5455
-2024-01-09 08:59:53.363272,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v N. Hojgaard - Tournament Match-Up,Rory McIlroy,0.018999999999999906,0.7333,0.7143
-2024-01-09 08:59:51.707323,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Ohio State,0.0189,0.0385,0.0196
+2024-01-09 21:03:23.023332,EFL Cup - EFL Cup 2023/24 - Winner,Middlesbrough,0.019099999999999992,0.0667,0.0476
 2024-01-09 11:02:42.620503,Boxing Lines - Dianxing Zhu vs Richard Garde - To Win the Bout,Dianxing Zhu,0.018199999999999994,0.8182,0.8
-2024-01-09 08:59:51.707323,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Colorado,0.018099999999999998,0.0769,0.0588
+2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Nebraska,0.0179,0.0278,0.0099
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Utah State,0.0179,0.0278,0.0099
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Nevada,0.0179,0.0278,0.0099
-2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Nebraska,0.0179,0.0278,0.0099
-2024-01-09 08:59:50.604733,AFC Asian Cup - AFC Asian Cup 2023 - Winner,Japan,0.017600000000000005,0.3509,0.3333
-2024-01-09 08:59:53.375046,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v R. Fox - Tournament Match-Up ,Rory McIlroy,0.016700000000000048,0.75,0.7333
 2024-01-09 11:02:42.562008,Boxing Lines - Mizuki Hiruta vs Ji Hyun Park - To Win the Bout,Mizuki Hiruta,0.016699999999999937,0.9167,0.9
-2024-01-09 08:59:51.707323,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Stanford,0.016600000000000004,0.0833,0.0667
+2024-01-09 21:03:28.867972,Boxing Lines - Moussa Gholam vs Lunga Sitemela - To Win the Bout,Moussa Gholam,0.01629999999999998,0.7222,0.7059
 2024-01-09 17:03:08.353314,Tournament Match-Ups - Tournament Match-Ups - C. Davis vs J.T. Poston - Tournament Match-Ups,J.T. Poston,0.016100000000000003,0.6078,0.5917
-2024-01-09 08:59:51.707323,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Indiana,0.015300000000000001,0.0476,0.0323
-2024-01-09 08:59:51.707323,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Utah,0.015300000000000001,0.0476,0.0323
-2024-01-09 08:59:51.707323,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Virginia Tech,0.015300000000000001,0.0476,0.0323
+2024-01-09 21:03:28.762743,Boxing Lines - Yuko Kuroki vs Eri Matsuda - To Win the Bout,Eri Matsuda,0.015000000000000013,0.2817,0.2667
 2024-01-09 19:03:15.143133,Boxing Lines - Christian Mbilli vs Rohan Murdock - To Win the Bout,Rohan Murdock,0.015,0.1176,0.1026
 2024-01-09 15:02:30.955983,Dubai Invitational - 2/3 Balls - 1st Round 2 Balls - R. McIlory vs R. Fox - 1st Round 2 Balls ,Rory McIlroy,0.014900000000000024,0.6923,0.6774
-2024-01-09 08:59:50.621053,AFC Asian Cup - AFC Asian Cup 2023 - To Reach the Final,Australia,0.01469999999999999,0.25,0.2353
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Florida Atlantic,0.01440000000000001,0.1053,0.0909
+2024-01-09 21:03:26.782302,Republican Party Primaries - Iowa Caucus Popular Vote Winner - Iowa Caucus Popular Vote Winner,Ron DeSantis,0.01440000000000001,0.1053,0.0909
 2024-01-09 17:03:06.154338,NFL 2024 Sims - Madden 24 Sim Bowl Winner - Outright,LA Rams,0.014399999999999996,0.0769,0.0625
-2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Colorado,0.014100000000000001,0.0526,0.0385
 2024-01-09 11:02:40.542671,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Tennessee,0.014100000000000001,0.0526,0.0385
+2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Colorado,0.014100000000000001,0.0526,0.0385
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Northwestern,0.014099999999999998,0.0385,0.0244
-2024-01-09 08:59:51.707323,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,North Carolina State,0.013999999999999999,0.0909,0.0769
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Texas A&M,0.013999999999999999,0.0909,0.0769
+2024-01-09 21:03:31.731282,Sony Open - 2/3 Balls - 1st Round 3 Balls - H. Buckley / G. Sigg / S.H. Kim - 1st Round 3 Balls,Greyson Sigg,0.013800000000000034,0.3774,0.3636
 2024-01-09 17:03:08.442821,Tournament Match-Ups - Tournament Match-Ups - S. Theegala vs W. Zalatoris - Tournament Match-Ups,Sahith Theegala,0.013799999999999923,0.6364,0.6226
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Washington,0.0118,0.0217,0.0099
-2024-01-09 08:59:50.621053,AFC Asian Cup - AFC Asian Cup 2023 - To Reach the Final,South Korea,0.01150000000000001,0.3448,0.3333
-2024-01-09 08:59:52.709999,MLB Futures - MLB 2024 National League Central - National League Central Winner,St. Louis Cardinals,0.01150000000000001,0.3448,0.3333
-2024-01-09 11:02:40.542671,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Kentucky,0.011199999999999995,0.0588,0.0476
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,San Diego State,0.011199999999999995,0.0588,0.0476
+2024-01-09 11:02:40.542671,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Kentucky,0.011199999999999995,0.0588,0.0476
 2024-01-09 17:03:08.238652,Finishing Positions - Finishing Position - Ludvig Aberg - Finishing Position,23rd or worse,0.01100000000000001,0.5348,0.5238
-2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Tennessee,0.010899999999999993,0.1538,0.1429
 2024-01-09 11:02:41.825879,NFL Specials - Who will be the next Full Time Head Coach of the Atlanta Falcons - Next Falcons Head Coach,Bobby Slowik,0.010899999999999993,0.1538,0.1429
+2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Tennessee,0.010899999999999993,0.1538,0.1429
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,New Mexico,0.010700000000000001,0.0385,0.0278
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Mississippi,0.010700000000000001,0.0385,0.0278
 2024-01-09 11:02:40.542671,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Auburn,0.010700000000000001,0.0385,0.0278
 2024-01-09 13:03:26.957166,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - John R.Wooden Award Winner,Oumar Ballo (Arizona),0.010300000000000002,0.0244,0.0141
-2024-01-09 17:03:08.317514,Tournament Match-Ups - Tournament Match-Ups - A. Bhatia vs M. Kuchar - Tournament Match-Ups,Matt Kuchar,0.010099999999999998,0.5556,0.5455
 2024-01-09 17:03:08.214803,Finishing Positions - Finishing Position - Eric Cole - Finishing Position,36th or better,0.010099999999999998,0.5556,0.5455
+2024-01-09 17:03:08.317514,Tournament Match-Ups - Tournament Match-Ups - A. Bhatia vs M. Kuchar - Tournament Match-Ups,Matt Kuchar,0.010099999999999998,0.5556,0.5455
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Iowa,-0.010100000000000001,0.0244,0.0345
 2024-01-09 11:02:43.108003,Boxing Lines - Austin Williams vs Connor Coyle - To Win the Bout,Austin Williams,-0.010199999999999987,0.9231,0.9333
 2024-01-09 17:03:08.238652,Finishing Positions - Finishing Position - Ludvig Aberg - Finishing Position,22nd or better,-0.010699999999999932,0.5348,0.5455
 2024-01-09 13:03:29.616945,Boxing Lines - Luis Robles Pacheco vs Tenshin Nasukawa - To Win the Bout,Luis Robles Pacheco,-0.010899999999999993,0.1429,0.1538
 2024-01-09 11:02:40.542671,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Purdue,-0.011099999999999999,0.1,0.1111
-2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Syracuse,-0.011399999999999997,0.0164,0.0278
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Missouri,-0.011399999999999997,0.0164,0.0278
-2024-01-09 17:03:08.214803,Finishing Positions - Finishing Position - Eric Cole - Finishing Position,37th or worse,-0.011600000000000055,0.5122,0.5238
+2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Syracuse,-0.011399999999999997,0.0164,0.0278
 2024-01-09 17:03:08.317514,Tournament Match-Ups - Tournament Match-Ups - A. Bhatia vs M. Kuchar - Tournament Match-Ups,Akshay Bhatia,-0.011600000000000055,0.5122,0.5238
+2024-01-09 17:03:08.214803,Finishing Positions - Finishing Position - Eric Cole - Finishing Position,37th or worse,-0.011600000000000055,0.5122,0.5238
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Kansas,-0.011700000000000016,0.2105,0.2222
+2024-01-09 21:03:28.867972,Boxing Lines - Moussa Gholam vs Lunga Sitemela - To Win the Bout,Lunga Sitemela,-0.012299999999999978,0.3448,0.3571
+2024-01-09 21:03:31.731282,Sony Open - 2/3 Balls - 1st Round 3 Balls - H. Buckley / G. Sigg / S.H. Kim - 1st Round 3 Balls,Hayden Buckley,-0.012699999999999989,0.3509,0.3636
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Miami Florida,-0.013999999999999999,0.0769,0.0909
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Providence,-0.014099999999999998,0.0244,0.0385
 2024-01-09 15:02:30.955983,Dubai Invitational - 2/3 Balls - 1st Round 2 Balls - R. McIlory vs R. Fox - 1st Round 2 Balls ,Ryan Fox,-0.01419999999999999,0.3704,0.3846
@@ -105,46 +92,40 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Michigan,-0.015300000000000001,0.0435,0.0588
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Florida State,-0.015499999999999998,0.0123,0.0278
 2024-01-09 11:02:42.620503,Boxing Lines - Dianxing Zhu vs Richard Garde - To Win the Bout,Richard Garde,-0.016699999999999993,0.25,0.2667
-2024-01-09 08:59:53.363272,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v N. Hojgaard - Tournament Match-Up,Nicolai Hojgaard,-0.017600000000000005,0.3333,0.3509
+2024-01-09 21:03:28.762743,Boxing Lines - Yuko Kuroki vs Eri Matsuda - To Win the Bout,Yuko Kuroki,-0.017400000000000082,0.7826,0.8
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Arizona State,-0.0179,0.0099,0.0278
 2024-01-09 11:02:43.185570,Dubai Invitational - Dubai Invitational - Winner,Adrian Meronk,-0.018099999999999998,0.0588,0.0769
 2024-01-09 17:03:08.442821,Tournament Match-Ups - Tournament Match-Ups - S. Theegala vs W. Zalatoris - Tournament Match-Ups,Will Zalatoris,-0.018900000000000028,0.4255,0.4444
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,St. John's,-0.019000000000000003,0.0435,0.0625
-2024-01-09 08:59:53.410528,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v T. Olesen - Tournament Match-Up,Thorbjorn Olesen,-0.019000000000000017,0.2667,0.2857
 2024-01-09 17:03:08.416105,Tournament Match-Ups - Tournament Match-Ups - H. Matsuyama vs S. Kim - Tournament Match-Ups,Hideki Matsuyama,-0.020699999999999996,0.4444,0.4651
 2024-01-09 15:02:32.081049,Tournament Match-Ups - Tournament Match-Up - T. Lawrence v Y. Paul - Tournament Match-Up,Yannik Paul,-0.02079999999999993,0.5348,0.5556
-2024-01-09 08:59:53.375046,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v R. Fox - Tournament Match-Up ,Ryan Fox,-0.020799999999999985,0.3125,0.3333
-2024-01-09 17:03:08.329980,Tournament Match-Ups - Tournament Match-Ups - B. Harman vs T. Hatton - Tournament Match-Ups,Tyrrell Hatton,-0.02169999999999994,0.5238,0.5455
 2024-01-09 17:03:08.250941,Finishing Positions - Finishing Position - Matt Fitzpatrick - Finishing Position,22nd or better,-0.02169999999999994,0.5238,0.5455
+2024-01-09 17:03:08.329980,Tournament Match-Ups - Tournament Match-Ups - B. Harman vs T. Hatton - Tournament Match-Ups,Tyrrell Hatton,-0.02169999999999994,0.5238,0.5455
 2024-01-09 17:03:08.353314,Tournament Match-Ups - Tournament Match-Ups - C. Davis vs J.T. Poston - Tournament Match-Ups,Cam Davis,-0.021699999999999997,0.4545,0.4762
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Alabama,-0.022199999999999998,0.1111,0.1333
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,West Virginia,-0.023200000000000002,0.0244,0.0476
 2024-01-09 11:02:42.562008,Boxing Lines - Mizuki Hiruta vs Ji Hyun Park - To Win the Bout,Ji Hyun Park,-0.023799999999999988,0.1429,0.1667
 2024-01-09 11:02:43.926440,Dubai Invitational - 2/3 Balls - 1st Round 2 Balls - C. Shinkwin vs D. Brown - 1st Round 2 Balls ,Callum Shinkwin,-0.023799999999999988,0.4762,0.5
-2024-01-09 17:03:08.166492,Finishing Positions - Finishing Position - Brian Harman - Finishing Position,27th or worse,-0.023800000000000043,0.5,0.5238
 2024-01-09 17:03:08.178398,Finishing Positions - Finishing Position - Chris Kirk - Finishing Position,32nd or worse,-0.023800000000000043,0.5,0.5238
-2024-01-09 08:59:50.604733,AFC Asian Cup - AFC Asian Cup 2023 - Winner,Qatar,-0.0267,0.0909,0.1176
-2024-01-09 08:59:53.387155,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v R. Hojgaard - Tournament Match-Up,Rasmus Hojgaard,-0.02679999999999999,0.2857,0.3125
+2024-01-09 17:03:08.166492,Finishing Positions - Finishing Position - Brian Harman - Finishing Position,27th or worse,-0.023800000000000043,0.5,0.5238
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Oklahoma State,-0.027099999999999996,0.0164,0.0435
-2024-01-09 08:59:53.422359,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v Y. Paul - Torunament Match-Up,Yannik Paul,-0.031399999999999983,0.2353,0.2667
 2024-01-09 11:02:44.648156,Tournament Match-Ups - Tournament Match-Ups - E. Cole vs R. Henley - Tournament Match-Ups,Eric Cole,-0.031799999999999995,0.4444,0.4762
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Indiana,-0.03219999999999999,0.0345,0.0667
 2024-01-09 11:02:44.689798,Tournament Match-Ups - Tournament Match-Ups - L. Aberg vs M. Fitzpatrick - Tournament Match-Ups,Ludvig Aberg,-0.033299999999999996,0.5122,0.5455
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Gonzaga,-0.033299999999999996,0.1,0.1333
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Michigan State,-0.033399999999999985,0.1333,0.1667
-2024-01-09 08:59:51.424112,Central Division - Central Division 2023-24 - Division Winner,Milwaukee Bucks,-0.03420000000000001,0.8889,0.9231
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Villanova,-0.03420000000000001,0.0769,0.1111
 2024-01-09 11:02:44.668836,Tournament Match-Ups - Tournament Match-Ups - H. Matsuyama vs S. Kim - Tournament Match-Ups,Hideki Matsuyama,-0.03489999999999999,0.4651,0.5
 2024-01-09 17:03:08.427778,Tournament Match-Ups - Tournament Match-Ups - L. Aberg vs M. Fitzpatrick - Tournament Match-Ups,Ludvig Aberg,-0.035999999999999976,0.4762,0.5122
 2024-01-09 13:03:31.346435,Finishing Positions - Finishing Position - Corey Conners - Finishing Position ,31st or worse,-0.035999999999999976,0.4762,0.5122
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Maryland,-0.038299999999999994,0.0526,0.0909
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Xavier,-0.0384,0.0385,0.0769
-2024-01-09 08:59:53.351859,Tournament Match-Ups - Tournament Match-Up - R. McIlroy v A. Meronk - Tournament Match-Up,Adrian Meronk,-0.047599999999999976,0.2857,0.3333
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Texas,-0.048100000000000004,0.0769,0.125
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,USC,-0.052300000000000006,0.0588,0.1111
 2024-01-09 13:03:26.957166,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - John R.Wooden Award Winner,Kyle Filipowski (Duke),-0.06180000000000001,0.0435,0.1053
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,UCLA,-0.0635,0.0476,0.1111
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Duke,-0.0676,0.1429,0.2105
 2024-01-09 13:03:31.419857,Finishing Positions - Finishing Position - J.T. Poston - Finishing Position,35th or worse,-0.06970000000000004,0.4651,0.5348
+2024-01-09 21:03:23.023332,EFL Cup - EFL Cup 2023/24 - Winner,Chelsea,-0.07690000000000002,0.3077,0.3846
 2024-01-09 13:03:26.997095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Arkansas,-0.1079,0.0588,0.1667
 2024-01-09 13:03:26.957166,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - John R.Wooden Award Winner,Hunter Dickinson (Kansas),-0.1556,0.1111,0.2667
