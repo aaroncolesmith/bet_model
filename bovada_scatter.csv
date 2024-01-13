@@ -1,62 +1,61 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-01-12 13:03:02.473417,NFL Specials - NFL 2024/2025 Head Coach Specials - Who will be the next Full Time Head Coach of the Tennessee Titans ,Antonio Pierce,0.1196,0.2105,0.0909
 2024-01-12 17:02:06.170907,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Western Sydney Wanderers,0.05559999999999998,0.1667,0.1111
+2024-01-13 03:01:21.419120,La Liga - Spain La Liga 2023/24 - To Be Relegated,Sevilla,0.04240000000000001,0.1333,0.0909
 2024-01-12 23:02:06.557482,NFL Weekly Specials - Wild Card Weekend Leaders - Most Receiving Yards,Stefon Diggs,0.03949999999999999,0.0435,0.004
-2024-01-12 15:01:05.029171,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Giannis Antetokounmpo (MIL),0.03860000000000001,0.1053,0.0667
-2024-01-12 15:01:04.840290,NBL - NBL 2023/2024 - Outright,Melbourne United,0.031799999999999995,0.4762,0.4444
+2024-01-13 03:01:21.458405,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,FC Köln,0.03640000000000004,0.4,0.3636
+2024-01-13 03:01:22.078145,Championship - England Championship 2023/24 - To Be Relegated,Plymouth Argyle,0.028799999999999992,0.1538,0.125
 2024-01-12 23:02:03.786597,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayern Munich,0.027800000000000047,0.7778,0.75
+2024-01-13 03:01:23.600830,Euroleague - Euroleague 2023/24 - Outright,Panathinaikos,0.024999999999999994,0.125,0.1
 2024-01-12 23:02:07.928725,Round Match-Ups - 3rd Round Match-Up - G. Sigg vs P. Kizzire - 3rd Round Match-Up,Greyson Sigg,0.023800000000000043,0.5238,0.5
+2024-01-13 03:01:22.064318,Championship - England Championship 2023/24 - To Be Promoted,Norwich City,0.023200000000000002,0.0476,0.0244
+2024-01-13 03:01:23.818795,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Nikola Jokic (DEN),0.02260000000000001,0.4,0.3774
+2024-01-13 03:01:22.051944,Championship - England Championship 2023/24 - Top Goalscorer,Crysencio Summerville,0.022199999999999998,0.1333,0.1111
+2024-01-13 03:01:26.192422,Round Match-Ups - 3rd Round Match-Up - G. Sigg vs P. Kizzire - 3rd Round Match-Up,Greyson Sigg,0.02169999999999994,0.5455,0.5238
 2024-01-12 23:02:07.884111,Round Match-Ups - 3rd Round Match-Up - C. Kirk vs H. English - 3rd Round Match-Up,Chris Kirk,0.02169999999999994,0.5455,0.5238
 2024-01-13 01:01:41.788154,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,LeBron James (LAL),0.02020000000000001,0.1111,0.0909
-2024-01-12 15:01:04.912768,WNBL - Australia WNBL 2023/24 - Outright,Southside Flyers (W),0.02020000000000001,0.1111,0.0909
-2024-01-12 13:03:01.444345,FIBA Champions League - Champions League 2023/24 - Outright,Galatasaray,0.01949999999999999,0.0909,0.0714
 2024-01-13 01:01:41.788154,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Luka Doncic (DAL),0.019099999999999992,0.0667,0.0476
 2024-01-12 17:02:06.163414,A-League - Australia A-League 2023/24 - Top 6 Finish,Western Sydney Wanderers,0.018999999999999906,0.7333,0.7143
-2024-01-12 13:03:03.970727,Boxing Lines - Oliver Meng vs Felice Moncelli - To Win the Bout,Oliver Meng,0.017900000000000027,0.875,0.8571
-2024-01-12 15:01:04.757132,Northwest Division - Northwest Division 2023-24 - Division Winner,Denver Nuggets,0.016699999999999993,0.4167,0.4
-2024-01-12 15:01:04.757132,Northwest Division - Northwest Division 2023-24 - Division Winner,Minnesota Timberwolves,0.015400000000000025,0.4,0.3846
+2024-01-13 03:01:23.829817,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Victor Wembanyama (SAS),0.018900000000000028,0.4444,0.4255
+2024-01-13 03:01:21.571201,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Monaco,0.018100000000000005,0.9412,0.9231
 2024-01-13 01:01:41.778743,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Cam Thomas (BKN),0.015300000000000001,0.0476,0.0323
-2024-01-12 15:01:04.757132,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,0.01419999999999999,0.3846,0.3704
 2024-01-13 01:01:43.555451,Boxing Lines - Oliver Meng vs Felice Moncelli - To Win the Bout,Oliver Meng,0.013900000000000023,0.8889,0.875
 2024-01-12 17:02:06.145208,A-League - Australia A-League 2023/24 - Grand Final Winner,Wellington Phoenix,0.013899999999999996,0.125,0.1111
-2024-01-12 15:01:04.840290,NBL - NBL 2023/2024 - Outright,Illawarra Hawks,0.012600000000000007,0.0714,0.0588
+2024-01-13 03:01:26.619405,Sony Open - 2/3 Balls - 3rd Round 3-Balls - C. Kirk / G. Murray / S. Jaeger - 3rd Round 3-Balls,Stephan Jaeger,0.013300000000000034,0.3704,0.3571
+2024-01-13 03:01:21.451715,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Harry Kane,0.011199999999999988,0.9524,0.9412
 2024-01-12 23:02:03.993242,AFC Asian Cup - AFC Asian Cup 2023 - Winner,Saudi Arabia,0.011099999999999999,0.1111,0.1
-2024-01-12 13:03:03.953296,Boxing Lines - Moussa Gholam vs Lunga Sitemela - To Win the Bout,Moussa Gholam,0.01090000000000002,0.8571,0.8462
 2024-01-13 01:01:41.798305,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Will Hardy,0.010900000000000002,0.0164,0.0055
-2024-01-12 13:03:01.444345,FIBA Champions League - Champions League 2023/24 - Outright,PAOK,0.010300000000000002,0.0244,0.0141
-2024-01-12 13:03:02.473417,NFL Specials - NFL 2024/2025 Head Coach Specials - Who will be the next Full Time Head Coach of the Tennessee Titans ,Dan Quinn,-0.010099999999999998,0.0952,0.1053
-2024-01-12 13:03:04.117487,Boxing Lines - Karriss Artingstall vs Lila dos Santos Furtado - To Win the Bout,Karriss Artingstall,-0.010199999999999987,0.9231,0.9333
+2024-01-13 03:01:25.726079,Boxing Lines - Karriss Artingstall vs Lila dos Santos Furtado - To Win the Bout,Karriss Artingstall,0.010199999999999987,0.9333,0.9231
+2024-01-13 03:01:22.078145,Championship - England Championship 2023/24 - To Be Relegated,Huddersfield Town,-0.010099999999999998,0.5455,0.5556
+2024-01-13 03:01:22.051944,Championship - England Championship 2023/24 - Top Goalscorer,Conor Chaplin,-0.010100000000000001,0.0244,0.0345
+2024-01-13 03:01:23.600830,Euroleague - Euroleague 2023/24 - Outright,Milano,-0.010100000000000001,0.0244,0.0345
 2024-01-12 17:02:06.145208,A-League - Australia A-League 2023/24 - Grand Final Winner,Adelaide United,-0.0102,0.0667,0.0769
 2024-01-12 21:01:18.656572,Boxing Lines - Moussa Gholam vs Lunga Sitemela - To Win the Bout,Lunga Sitemela,-0.010499999999999982,0.2,0.2105
-2024-01-12 15:01:06.017184,NFL 2024 Sims - Madden 24 Sim Bowl Winner - Outright,Baltimore Ravens,-0.010499999999999982,0.2,0.2105
+2024-01-13 03:01:25.611423,Boxing Lines - Denis Douglin vs Cecil Mccalla - To Win the Bout,Cecil Mccalla,-0.010599999999999998,0.4545,0.4651
 2024-01-12 23:02:04.000443,AFC Asian Cup - AFC Asian Cup 2023 - To Reach the Final,Japan,-0.010699999999999932,0.5348,0.5455
-2024-01-12 13:03:03.936173,Boxing Lines - Elizabeth Oshoba vs Michela Braga - To Win the Bout,Michela Braga,-0.01150000000000001,0.1905,0.202
+2024-01-13 03:01:23.818795,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Joel Embiid (PHI),-0.011099999999999999,0.1,0.1111
 2024-01-13 01:01:41.512763,Atlantic Division - Atlantic Division 2023-24 - Division Winner,Brooklyn Nets,-0.012,0.0012,0.0132
-2024-01-12 13:03:02.473417,NFL Specials - NFL 2024/2025 Head Coach Specials - Who will be the next Full Time Head Coach of the Tennessee Titans ,Ben Johsnon,-0.013899999999999996,0.1111,0.125
-2024-01-12 15:01:04.840290,NBL - NBL 2023/2024 - Outright,Tasmania JackJumpers,-0.013899999999999996,0.1111,0.125
-2024-01-12 13:03:02.473417,NFL Specials - NFL 2024/2025 Head Coach Specials - Who will be the next Full Time Head Coach of the Tennessee Titans ,Brian Callahan,-0.014099999999999994,0.0526,0.0667
-2024-01-12 13:03:01.444345,FIBA Champions League - Champions League 2023/24 - Outright,Ludwigsburg,-0.014099999999999998,0.0244,0.0385
-2024-01-12 15:01:06.017184,NFL 2024 Sims - Madden 24 Sim Bowl Winner - Outright,Buffalo Bills,-0.015100000000000002,0.1667,0.1818
-2024-01-12 15:01:04.912768,WNBL - Australia WNBL 2023/24 - Outright,Perth Lynx (W),-0.015700000000000006,0.1176,0.1333
-2024-01-12 15:01:04.912768,WNBL - Australia WNBL 2023/24 - Outright,Bendigo Spirit (W),-0.016700000000000007,0.0833,0.1
-2024-01-12 15:01:04.912768,WNBL - Australia WNBL 2023/24 - Outright,Sydney Uni Flames (W),-0.01759999999999999,0.1,0.1176
-2024-01-12 15:01:06.017184,NFL 2024 Sims - Madden 24 Sim Bowl Winner - Outright,New York Jets,-0.018099999999999998,0.0588,0.0769
+2024-01-13 03:01:23.600830,Euroleague - Euroleague 2023/24 - Outright,Maccabi Tel-Aviv,-0.014100000000000001,0.0385,0.0526
+2024-01-13 03:01:23.818795,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Giannis Antetokounmpo (MIL),-0.01440000000000001,0.0909,0.1053
+2024-01-13 03:01:25.714445,Boxing Lines - Artur Beterbiev vs Callum Smith - To Win the Bout,Callum Smith,-0.01469999999999999,0.2353,0.25
+2024-01-13 03:01:23.829817,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Chet Holmgren (OKC),-0.014900000000000024,0.6774,0.6923
+2024-01-13 03:01:21.571201,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Lille,-0.015100000000000002,0.8182,0.8333
+2024-01-13 03:01:21.571201,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Marseille,-0.015100000000000002,0.8182,0.8333
 2024-01-12 17:02:06.170907,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Melbourne City,-0.01820000000000002,0.1818,0.2
+2024-01-13 03:01:21.458405,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Heidenheim,-0.019000000000000017,0.2667,0.2857
 2024-01-12 23:02:03.786597,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,RB Leipzig,-0.019499999999999997,0.0099,0.0294
 2024-01-13 01:01:41.788154,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Giannis Antetokounmpo (MIL),-0.019800000000000005,0.0278,0.0476
-2024-01-12 13:03:03.970727,Boxing Lines - Oliver Meng vs Felice Moncelli - To Win the Bout,Felice Moncelli,-0.01999999999999999,0.1905,0.2105
+2024-01-13 03:01:21.451715,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Serhou Guirassy,-0.02020000000000001,0.0909,0.1111
+2024-01-13 03:01:26.619405,Sony Open - 2/3 Balls - 3rd Round 3-Balls - C. Kirk / G. Murray / S. Jaeger - 3rd Round 3-Balls,Chris Kirk,-0.020699999999999996,0.4444,0.4651
 2024-01-12 23:02:07.928725,Round Match-Ups - 3rd Round Match-Up - G. Sigg vs P. Kizzire - 3rd Round Match-Up,Patton Kizzire,-0.02169999999999994,0.5238,0.5455
 2024-01-12 17:02:06.163414,A-League - Australia A-League 2023/24 - Top 6 Finish,Melbourne City,-0.022199999999999998,0.7778,0.8
 2024-01-13 01:01:41.548530,Northwest Division - Northwest Division 2023-24 - Division Winner,Minnesota Timberwolves,-0.02260000000000001,0.3774,0.4
+2024-01-13 03:01:22.064318,Championship - England Championship 2023/24 - To Be Promoted,Hull City,-0.023200000000000002,0.0244,0.0476
+2024-01-13 03:01:26.192422,Round Match-Ups - 3rd Round Match-Up - G. Sigg vs P. Kizzire - 3rd Round Match-Up,Patton Kizzire,-0.023800000000000043,0.5,0.5238
 2024-01-12 23:02:07.884111,Round Match-Ups - 3rd Round Match-Up - C. Kirk vs H. English - 3rd Round Match-Up,Harris English,-0.023800000000000043,0.5,0.5238
-2024-01-12 15:01:04.840290,NBL - NBL 2023/2024 - Outright,New Zealand Breakers,-0.0267,0.0909,0.1176
+2024-01-13 03:01:22.078145,Championship - England Championship 2023/24 - To Be Relegated,Queens Park Rangers,-0.025599999999999956,0.5744,0.6
 2024-01-13 01:01:41.788154,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Trae Young (ATL),-0.028199999999999996,0.0385,0.0667
 2024-01-13 01:01:41.548530,Northwest Division - Northwest Division 2023-24 - Division Winner,Denver Nuggets,-0.03210000000000002,0.3846,0.4167
-2024-01-12 13:03:02.473417,NFL Specials - NFL 2024/2025 Head Coach Specials - Who will be the next Full Time Head Coach of the Tennessee Titans ,Frank Smith,-0.03439999999999999,0.0323,0.0667
-2024-01-12 13:03:02.473417,NFL Specials - NFL 2024/2025 Head Coach Specials - Who will be the next Full Time Head Coach of the Tennessee Titans ,Eric Bieniemy,-0.038299999999999994,0.0526,0.0909
-2024-01-12 13:03:02.473417,NFL Specials - NFL 2024/2025 Head Coach Specials - Who will be the next Full Time Head Coach of the Tennessee Titans ,Jim Harbaugh,-0.038299999999999994,0.0526,0.0909
 2024-01-13 01:01:41.788154,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Stephen Curry (GSW),-0.04169999999999999,0.125,0.1667
 2024-01-13 01:01:41.572953,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,-0.04290000000000005,0.3571,0.4
 2024-01-12 23:02:03.786597,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayer Leverkusen,-0.047599999999999976,0.2857,0.3333
-2024-01-12 13:03:02.473417,NFL Specials - NFL 2024/2025 Head Coach Specials - Who will be the next Full Time Head Coach of the Tennessee Titans ,Mike Kafka,-0.07239999999999999,0.0526,0.125
-2024-01-12 13:03:02.473417,NFL Specials - NFL 2024/2025 Head Coach Specials - Who will be the next Full Time Head Coach of the Tennessee Titans ,Mike MacDonald,-0.08979999999999999,0.0769,0.1667
+2024-01-13 03:01:21.419120,La Liga - Spain La Liga 2023/24 - To Be Relegated,Alavés,-0.05679999999999999,0.125,0.1818
