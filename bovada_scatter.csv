@@ -7,6 +7,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-14 17:04:36.383092,A-League - Australia A-League 2023/24 - Top 6 Finish,Western Sydney Wanderers,0.06670000000000009,0.8,0.7333
 2024-01-14 19:05:24.043132,The Bahamas Great Exuma Classic - The Bahamas Great Exuma Classic - Winner,Mason Andersen,0.0573,0.0769,0.0196
 2024-01-14 11:03:34.823612,Scores - Final Round Score - Russell Henley - Final Round Score,Under 66.5,0.05559999999999998,0.5,0.4444
+2024-01-14 21:01:37.382204,Boxing Lines - Aaron McKenna vs Linus Udofia - To Win the Bout,Aaron McKenna,0.04910000000000003,0.6491,0.6
 2024-01-14 11:03:32.028298,Grammy Awards 2024 - Album Of The Year - Album Of The Year,The Record - Boygenius,0.0474,0.0909,0.0435
 2024-01-14 19:05:24.043132,The Bahamas Great Exuma Classic - The Bahamas Great Exuma Classic - Winner,Rhein Gibson,0.046,0.0526,0.0066
 2024-01-14 19:05:24.043132,The Bahamas Great Exuma Classic - The Bahamas Great Exuma Classic - Winner,Max McGreevy,0.0427,0.0526,0.0099
@@ -31,13 +32,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-14 09:03:31.843403,Player Totals - Final Round Birdies - Chris Kirk - Final Round Birdies,Over 4.5,0.022600000000000064,0.6226,0.6
 2024-01-14 17:04:36.374840,A-League - Australia A-League 2023/24 - To Finish Bottom,Perth Glory,0.02260000000000001,0.4,0.3774
 2024-01-14 11:03:32.198308,39th Independent Spirit Awards - Best Feature - Best Feature,American Fiction,0.022199999999999998,0.2222,0.2
+2024-01-14 17:04:36.389200,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Adelaide United,0.0203,0.0588,0.0385
 2024-01-14 19:05:24.043132,The Bahamas Great Exuma Classic - The Bahamas Great Exuma Classic - Winner,Kevin Roy,0.0203,0.0526,0.0323
 2024-01-14 17:04:36.108847,Serie A - Italy Serie A 2023/24 - Winner,AC Milan,0.0203,0.0588,0.0385
-2024-01-14 17:04:36.389200,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Adelaide United,0.0203,0.0588,0.0385
-2024-01-14 11:03:32.047787,Grammy Awards 2024 - Record of the Year - Record of the Year,Not Strong Enough - Boygenius,0.02020000000000001,0.1111,0.0909
 2024-01-14 11:03:32.057506,Grammy Awards 2024 - Song Of The Year - Song Of The Year,Kill Bill - SZA,0.02020000000000001,0.1111,0.0909
-2024-01-14 11:03:34.851977,Scores - Final Round Score - Byeong Hun An - Final Round Score,Under 67.5,0.01970000000000005,0.5652,0.5455
+2024-01-14 11:03:32.047787,Grammy Awards 2024 - Record of the Year - Record of the Year,Not Strong Enough - Boygenius,0.02020000000000001,0.1111,0.0909
 2024-01-14 11:03:34.795169,Round Match-Ups - Final Round Match-Up - G. Murray vs M. Pavon - Final Round Match-Up,Matthieu Pavon,0.01970000000000005,0.5652,0.5455
+2024-01-14 11:03:34.851977,Scores - Final Round Score - Byeong Hun An - Final Round Score,Under 67.5,0.01970000000000005,0.5652,0.5455
 2024-01-14 17:04:36.296696,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Cape Verde,0.019499999999999997,0.0294,0.0099
 2024-01-14 17:04:36.362358,A-League - Australia A-League 2023/24 - Grand Final Winner,Melbourne Victory,0.019000000000000017,0.2857,0.2667
 2024-01-14 17:04:36.374840,A-League - Australia A-League 2023/24 - To Finish Bottom,Western United,0.018900000000000028,0.4444,0.4255
@@ -47,12 +48,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-14 19:05:24.043132,The Bahamas Great Exuma Classic - The Bahamas Great Exuma Classic - Winner,Thomas Walsh,0.0165,0.0244,0.0079
 2024-01-14 09:03:31.865993,Player Totals - Final Round Birdies - Keegan Bradley - Final Round Birdies,Under 5.5,0.016100000000000003,0.6078,0.5917
 2024-01-14 19:05:24.043132,The Bahamas Great Exuma Classic - The Bahamas Great Exuma Classic - Winner,Frankie Capan,0.0159,0.0323,0.0164
-2024-01-14 09:03:29.125777,Tiger Woods - Tiger Woods Next Sponsorship Partner - Tiger Woods: Next Sponsorship Partner,Callaway,0.015300000000000001,0.0476,0.0323
 2024-01-14 11:03:32.692523,Republican Party Primaries - Iowa Caucus Popular Vote Winner - Iowa Caucus Popular Vote Winner,Ron DeSantis,0.015300000000000001,0.0476,0.0323
+2024-01-14 09:03:29.125777,Tiger Woods - Tiger Woods Next Sponsorship Partner - Tiger Woods: Next Sponsorship Partner,Callaway,0.015300000000000001,0.0476,0.0323
 2024-01-14 17:04:36.296696,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Morocco,0.015100000000000002,0.1818,0.1667
 2024-01-14 17:04:36.133387,Ligue 1 - France Ligue 1 2023/24 - Winner,Paris Saint-Germain,0.014900000000000024,0.9804,0.9655
-2024-01-14 09:03:31.900334,Player Totals - Final Round Birdies - Tyrrell Hatton - Final Round Birdies,Under 5.5,0.014800000000000035,0.6226,0.6078
 2024-01-14 09:03:31.888964,Player Totals - Final Round Birdies - Russell Henley - Final Round Birdies,Under 5.5,0.014800000000000035,0.6226,0.6078
+2024-01-14 09:03:31.900334,Player Totals - Final Round Birdies - Tyrrell Hatton - Final Round Birdies,Under 5.5,0.014800000000000035,0.6226,0.6078
 2024-01-14 15:02:29.581981,Taylor Swift Specials - Where will Taylor Swift and Travis Kelce spend St. Valentine's Day? - Where will Taylor & Travis spend St. Valentine's Day?,"Florida Keys, Florida",0.014399999999999996,0.0769,0.0625
 2024-01-14 15:02:29.581981,Taylor Swift Specials - Where will Taylor Swift and Travis Kelce spend St. Valentine's Day? - Where will Taylor & Travis spend St. Valentine's Day?,"Paris, France",0.014399999999999996,0.0769,0.0625
 2024-01-14 11:03:32.243304,Triple J Hottest 100 - Triple J Hottest 100 Winning Artist - Triple J Hottest 100 Winning Artist,Miley Cyrus,0.014099999999999998,0.0385,0.0244
@@ -75,8 +76,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-14 17:04:36.362358,A-League - Australia A-League 2023/24 - Grand Final Winner,Adelaide United,0.0102,0.0769,0.0667
 2024-01-14 09:03:31.888964,Player Totals - Final Round Birdies - Russell Henley - Final Round Birdies,Over 5.5,-0.010099999999999998,0.4444,0.4545
 2024-01-14 09:03:31.900334,Player Totals - Final Round Birdies - Tyrrell Hatton - Final Round Birdies,Over 5.5,-0.010099999999999998,0.4444,0.4545
-2024-01-14 19:05:24.043132,The Bahamas Great Exuma Classic - The Bahamas Great Exuma Classic - Winner,Carter Jenkins,-0.010700000000000001,0.0057,0.0164
 2024-01-14 11:03:32.692523,Republican Party Primaries - Iowa Caucus Popular Vote Winner - Iowa Caucus Popular Vote Winner,Vivek Ramaswamy,-0.010700000000000001,0.0278,0.0385
+2024-01-14 19:05:24.043132,The Bahamas Great Exuma Classic - The Bahamas Great Exuma Classic - Winner,Carter Jenkins,-0.010700000000000001,0.0057,0.0164
 2024-01-14 19:05:24.043132,The Bahamas Great Exuma Classic - The Bahamas Great Exuma Classic - Winner,Kris Ventura,-0.0108,0.0033,0.0141
 2024-01-14 11:03:34.879696,Scores - Final Round Score - Chris Kirk - Final Round Score,Over 67.5,-0.011099999999999999,0.4651,0.4762
 2024-01-14 19:05:24.043132,The Bahamas Great Exuma Classic - The Bahamas Great Exuma Classic - Winner,Ryan Gerard,-0.011300000000000001,0.001,0.0123
@@ -89,8 +90,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-14 17:04:36.389200,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Newcastle United Jets,-0.013,0.0066,0.0196
 2024-01-14 11:03:32.047787,Grammy Awards 2024 - Record of the Year - Record of the Year,Flowers - Miley Cyrus,-0.0131,0.2222,0.2353
 2024-01-14 11:03:32.198308,39th Independent Spirit Awards - Best Feature - Best Feature,May December,-0.013899999999999996,0.1111,0.125
-2024-01-14 17:04:36.389200,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Central Coast Mariners,-0.013899999999999996,0.1111,0.125
 2024-01-14 17:04:36.362358,A-League - Australia A-League 2023/24 - Grand Final Winner,Wellington Phoenix,-0.013899999999999996,0.1111,0.125
+2024-01-14 17:04:36.389200,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Central Coast Mariners,-0.013899999999999996,0.1111,0.125
 2024-01-14 19:05:24.043132,The Bahamas Great Exuma Classic - The Bahamas Great Exuma Classic - Winner,Sean O'Hair,-0.0139,0.004,0.0179
 2024-01-14 11:03:32.243304,Triple J Hottest 100 - Triple J Hottest 100 Winning Artist - Triple J Hottest 100 Winning Artist,G Flip,-0.013999999999999999,0.0769,0.0909
 2024-01-14 11:03:32.198308,39th Independent Spirit Awards - Best Feature - Best Feature,All Of Us Strangers,-0.013999999999999999,0.0769,0.0909
@@ -98,13 +99,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-14 17:04:36.296696,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Ghana,-0.014099999999999994,0.0526,0.0667
 2024-01-14 17:04:36.362358,A-League - Australia A-League 2023/24 - Grand Final Winner,Macarthur FC,-0.014099999999999994,0.0526,0.0667
 2024-01-14 19:05:24.043132,The Bahamas Great Exuma Classic - The Bahamas Great Exuma Classic - Winner,Will Bateman,-0.0142,0.001,0.0152
-2024-01-14 11:03:32.198308,39th Independent Spirit Awards - Best Feature - Best Feature,Passages,-0.014399999999999996,0.0625,0.0769
 2024-01-14 09:03:29.125777,Tiger Woods - Tiger Woods Next Sponsorship Partner - Tiger Woods: Next Sponsorship Partner,Skechers,-0.014399999999999996,0.0625,0.0769
+2024-01-14 11:03:32.198308,39th Independent Spirit Awards - Best Feature - Best Feature,Passages,-0.014399999999999996,0.0625,0.0769
 2024-01-14 19:05:24.043132,The Bahamas Great Exuma Classic - The Bahamas Great Exuma Classic - Winner,Austin Cook,-0.014599999999999998,0.005,0.0196
-2024-01-14 15:02:29.581981,Taylor Swift Specials - Where will Taylor Swift and Travis Kelce spend St. Valentine's Day? - Where will Taylor & Travis spend St. Valentine's Day?,"Rome, Italy",-0.014899999999999997,0.0476,0.0625
-2024-01-14 11:03:32.198308,39th Independent Spirit Awards - Best Feature - Best Feature,We Grown Now,-0.014899999999999997,0.0476,0.0625
 2024-01-14 11:03:31.954226,96th Academy Awards - Best Original Song - Best Original Song,Peaches - Jack Black et al (The Super Mario Bros Movie),-0.014899999999999997,0.0476,0.0625
+2024-01-14 11:03:32.198308,39th Independent Spirit Awards - Best Feature - Best Feature,We Grown Now,-0.014899999999999997,0.0476,0.0625
 2024-01-14 09:03:29.125777,Tiger Woods - Tiger Woods Next Sponsorship Partner - Tiger Woods: Next Sponsorship Partner,Adidas,-0.014899999999999997,0.0476,0.0625
+2024-01-14 15:02:29.581981,Taylor Swift Specials - Where will Taylor Swift and Travis Kelce spend St. Valentine's Day? - Where will Taylor & Travis spend St. Valentine's Day?,"Rome, Italy",-0.014899999999999997,0.0476,0.0625
 2024-01-14 19:05:24.043132,The Bahamas Great Exuma Classic - The Bahamas Great Exuma Classic - Winner,Jamie Lovemark,-0.015099999999999999,0.0028,0.0179
 2024-01-14 17:04:36.389200,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Wellington Phoenix,-0.015100000000000002,0.1667,0.1818
 2024-01-14 17:04:36.389200,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Melbourne City,-0.015100000000000002,0.1667,0.1818
@@ -118,19 +119,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-14 09:03:31.819935,Player Totals - Final Round Birdies - Brian Harman - Final Round Birdies,Under 4.5,-0.018900000000000028,0.4255,0.4444
 2024-01-14 19:05:24.043132,The Bahamas Great Exuma Classic - The Bahamas Great Exuma Classic - Winner,Patrick Welch,-0.019899999999999998,0.0079,0.0278
 2024-01-14 11:03:31.954226,96th Academy Awards - Best Original Song - Best Original Song,Keep It Movin - Halle Bailey (The Color Purple),-0.02020000000000001,0.0909,0.1111
-2024-01-14 11:03:32.187159,Gran Hermano - Gran Hermano 2024 - Outright Winner,Rosina,-0.02020000000000001,0.0909,0.1111
 2024-01-14 11:03:31.954226,96th Academy Awards - Best Original Song - Best Original Song,Road To Freedom - Lenny Kravitz (Rustin),-0.02020000000000001,0.0909,0.1111
+2024-01-14 11:03:32.187159,Gran Hermano - Gran Hermano 2024 - Outright Winner,Rosina,-0.02020000000000001,0.0909,0.1111
 2024-01-14 11:03:31.954226,96th Academy Awards - Best Original Song - Best Original Song,Addicted To Romance - Bruce Springsteen (She Came To Me),-0.02020000000000001,0.0909,0.1111
 2024-01-14 19:05:24.043132,The Bahamas Great Exuma Classic - The Bahamas Great Exuma Classic - Winner,Joey Garber,-0.0204,0.004,0.0244
 2024-01-14 09:03:31.843403,Player Totals - Final Round Birdies - Chris Kirk - Final Round Birdies,Under 4.5,-0.020699999999999996,0.4444,0.4651
 2024-01-14 09:03:31.865993,Player Totals - Final Round Birdies - Keegan Bradley - Final Round Birdies,Over 5.5,-0.021699999999999997,0.4545,0.4762
 2024-01-14 17:04:37.650234,NBL - NBL 2023/2024 - To Make Top 6,New Zealand Breakers,-0.022499999999999964,0.7143,0.7368
 2024-01-14 11:03:32.359944,Twitter Specials - What price will Elon Musk charge Twitter (X) Users Per Month? - Twitter (X) Monthly Charge,Over $2.99,-0.022600000000000064,0.5122,0.5348
-2024-01-14 17:04:36.296696,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Egypt,-0.02310000000000001,0.0769,0.1
 2024-01-14 17:04:36.296696,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Nigeria,-0.02310000000000001,0.0769,0.1
+2024-01-14 17:04:36.296696,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Egypt,-0.02310000000000001,0.0769,0.1
 2024-01-14 17:04:36.374840,A-League - Australia A-League 2023/24 - To Finish Bottom,Adelaide United,-0.023200000000000002,0.0244,0.0476
-2024-01-14 11:03:34.795169,Round Match-Ups - Final Round Match-Up - G. Murray vs M. Pavon - Final Round Match-Up,Grayson Murray,-0.023799999999999988,0.4762,0.5
 2024-01-14 11:03:32.243304,Triple J Hottest 100 - Triple J Hottest 100 Winning Artist - Triple J Hottest 100 Winning Artist,Dom Dolla,-0.023799999999999988,0.1429,0.1667
+2024-01-14 11:03:34.795169,Round Match-Ups - Final Round Match-Up - G. Murray vs M. Pavon - Final Round Match-Up,Grayson Murray,-0.023799999999999988,0.4762,0.5
 2024-01-14 17:04:36.383092,A-League - Australia A-League 2023/24 - Top 6 Finish,Macarthur FC,-0.023799999999999988,0.4762,0.5
 2024-01-14 17:04:36.067618,La Liga - Spain La Liga 2023/24 - Winner,Girona,-0.023799999999999988,0.1429,0.1667
 2024-01-14 11:03:34.851977,Scores - Final Round Score - Byeong Hun An - Final Round Score,Over 67.5,-0.023800000000000043,0.5,0.5238
@@ -150,6 +151,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-14 19:05:24.043132,The Bahamas Great Exuma Classic - The Bahamas Great Exuma Classic - Winner,Curtis Luck,-0.041,0.0066,0.0476
 2024-01-14 17:04:37.640952,NBL - NBL 2023/2024 - To Make Top 4,Tasmania JackJumpers,-0.047599999999999976,0.7143,0.7619
 2024-01-14 11:03:32.028298,Grammy Awards 2024 - Album Of The Year - Album Of The Year,Midnights - Taylor Swift,-0.04859999999999998,0.8889,0.9375
+2024-01-14 21:01:37.382204,Boxing Lines - Aaron McKenna vs Linus Udofia - To Win the Bout,Linus Udofia,-0.0519,0.4132,0.4651
 2024-01-14 11:03:34.823612,Scores - Final Round Score - Russell Henley - Final Round Score,Over 66.5,-0.05740000000000001,0.5652,0.6226
 2024-01-14 11:03:32.057506,Grammy Awards 2024 - Song Of The Year - Song Of The Year,What Was I Made For? - Billie Eilish,-0.0857,0.2,0.2857
 2024-01-14 17:04:36.383092,A-League - Australia A-League 2023/24 - Top 6 Finish,Newcastle United Jets,-0.09799999999999998,0.2353,0.3333
