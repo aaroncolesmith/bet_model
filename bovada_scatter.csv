@@ -7,30 +7,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,Auburn,0.0909,0.1818,0.0909
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,UConn,0.0857,0.2857,0.2
 2024-01-18 03:02:33.639266,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Morocco,0.07789999999999997,0.3636,0.2857
+2024-01-18 03:02:35.643244,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Houston,0.0701,0.3333,0.2632
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,North Carolina,0.06670000000000001,0.2,0.1333
 2024-01-18 01:01:53.506476,AFC Asian Cup - AFC Asian Cup 2023 - Top Goalscorer,Akram Afif,0.06669999999999998,0.1667,0.1
 2024-01-18 03:02:33.639266,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Senegal,0.06519999999999998,0.3509,0.2857
 2024-01-18 03:02:35.693066,NCAA DI Men - American Athletic Conference 2023-24 - Winner,SMU,0.06139999999999998,0.1667,0.1053
 2024-01-18 03:02:33.639266,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Ivory Coast,0.057699999999999974,0.3077,0.25
-2024-01-17 15:02:44.431361,WNBL - Australia WNBL 2023/24 - Outright,Melbourne Boomers W,0.05559999999999998,0.2778,0.2222
-2024-01-17 15:02:49.330353,Finishing Position - Finishing Position - Jason Day - Finishing Position,34th or worse,0.05300000000000005,0.5652,0.5122
 2024-01-18 03:02:35.774492,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Rick Carlisle,0.047400000000000005,0.1,0.0526
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,Oklahoma,0.04360000000000001,0.0714,0.0278
-2024-01-17 15:02:49.318037,Finishing Position - Finishing Position - J.T. Poston - Finishing Position,30th or worse,0.043399999999999994,0.5556,0.5122
-2024-01-17 15:02:49.342815,Finishing Position - Finishing Position - Justin Thomas - Finishing Position,26th or worse,0.043399999999999994,0.5556,0.5122
-2024-01-17 15:02:49.368368,Finishing Position - Finishing Position - Patrick Cantlay - Finishing Position,12th or worse,0.043399999999999994,0.5556,0.5122
 2024-01-18 01:01:55.532343,Atlantic Division - Atlantic Division 2023-24 - Division Winner,Philadelphia 76ers,0.04329999999999999,0.0909,0.0476
 2024-01-17 21:02:26.172881,NFC Championship - NFC Championship 2023/24 - NFC Conference Winning Division,NFC South,0.04329999999999999,0.0909,0.0476
 2024-01-18 01:01:55.573569,Southwest Division - Southwest Division 2023-24 - Division Winner,New Orleans Pelicans,0.04290000000000005,0.6429,0.6
-2024-01-17 15:02:44.431361,WNBL - Australia WNBL 2023/24 - Outright,Southside Flyers (W),0.04269999999999999,0.1538,0.1111
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,BYU,0.04120000000000001,0.1,0.0588
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,Clemson,0.038099999999999995,0.0625,0.0244
 2024-01-18 01:01:53.594755,Copa del Rey - Spain Copa del Rey 2023/24 - Winner,Celta de Vigo,0.0373,0.0667,0.0294
-2024-01-17 15:02:49.417880,Finishing Position - Finishing Position - Sungjae Im - Finishing Position,23rd or worse,0.03600000000000003,0.5238,0.4878
 2024-01-18 01:01:55.464141,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Division,Northwest Division,0.03570000000000001,0.2857,0.25
 2024-01-18 03:02:33.631733,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Youssef En Nesyri,0.03420000000000001,0.1111,0.0769
 2024-01-18 03:02:35.632640,NCAA DI Men - West Coast Conference 2023-24 - Winner,San Francisco,0.033300000000000024,0.2,0.1667
 2024-01-18 03:02:35.693066,NCAA DI Men - American Athletic Conference 2023-24 - Winner,North Texas,0.031799999999999995,0.1429,0.1111
+2024-01-18 03:02:35.622253,NCAA DI Men - Big Ten Conference 2023-24 - Winner,Illinois,0.031799999999999995,0.1429,0.1111
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,Utah,0.031200000000000002,0.0476,0.0164
 2024-01-18 03:02:33.631733,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Baghdad Bounedjah,0.0294,0.0588,0.0294
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,Iowa State,0.029299999999999993,0.0769,0.0476
@@ -40,29 +35,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-18 03:02:35.748819,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Bennedict Mathurin (IND),0.024299999999999995,0.0769,0.0526
 2024-01-18 01:01:58.923255,The American Express - 2/3 Balls - 1st Round 2-Balls - V. Whaley / R. MacIntyre - 1st Round 2-Balls,Robert MacIntyre,0.023800000000000043,0.5238,0.5
 2024-01-18 03:02:35.664468,NCAA DI Men - Mountain West Conference 2023-24 - Winner,San Diego State,0.023799999999999988,0.3571,0.3333
-2024-01-18 03:02:33.548995,AFC Asian Cup - AFC Asian Cup 2023 - To Reach the Final,Qatar,0.023799999999999988,0.1667,0.1429
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,Creighton,0.023799999999999988,0.1667,0.1429
+2024-01-18 03:02:33.548995,AFC Asian Cup - AFC Asian Cup 2023 - To Reach the Final,Qatar,0.023799999999999988,0.1667,0.1429
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,Illinois,0.02310000000000001,0.1,0.0769
 2024-01-17 17:02:34.915909,AFC Asian Cup - AFC Asian Cup 2023 - Winner,Qatar,0.02310000000000001,0.1,0.0769
-2024-01-17 15:02:49.430678,Finishing Position - Finishing Position - Tom Kim - Finishing Position,29th or worse,0.022600000000000064,0.5348,0.5122
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,Nevada,0.022400000000000003,0.0323,0.0099
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,Utah State,0.022400000000000003,0.0323,0.0099
 2024-01-18 03:02:33.639266,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Algeria,0.022199999999999998,0.2222,0.2
 2024-01-18 01:01:55.464141,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Division,Atlantic Division,0.020799999999999985,0.3333,0.3125
 2024-01-18 03:02:35.759005,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Stephen Curry (GSW),0.02020000000000001,0.1111,0.0909
 2024-01-18 01:01:55.560618,Northwest Division - Northwest Division 2023-24 - Division Winner,Minnesota Timberwolves,0.019699999999999995,0.4545,0.4348
-2024-01-17 15:02:50.171966,Mitsubishi Electric Championship - 2/3 Balls - 1st Round 3-Balls - D. Pride / M. Weir / R. Pampling - 1st Round 3-Balls,Dicky Pride,0.019600000000000006,0.3226,0.303
-2024-01-17 15:02:44.190744,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Indiana Pacers,0.0189,0.0385,0.0196
 2024-01-17 21:02:27.684724,Boxing Lines - Oscar Collazo vs Reyneris Gutierrez - To Win the Bout,Oscar Collazo,0.01849999999999996,0.9709,0.9524
 2024-01-17 17:02:34.970561,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Morocco,0.01820000000000002,0.2,0.1818
-2024-01-17 15:02:44.334100,NBL - NBL 2023/2024 - Outright,Sydney Kings,0.0179,0.1429,0.125
 2024-01-18 01:01:55.513305,Western Conference - Western Conference 2023-24 - Western Conference Winner,Phoenix Suns,0.0179,0.1429,0.125
 2024-01-18 01:01:53.594755,Copa del Rey - Spain Copa del Rey 2023/24 - Winner,Girona,0.0179,0.1429,0.125
-2024-01-17 15:02:46.431559,Boxing Lines - Freudis Rojas vs Cristian Baez - To Win the Bout,Cristian Baez,0.01759999999999999,0.1176,0.1
 2024-01-17 21:02:27.926645,Boxing Lines - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Tyson Fury,0.017299999999999982,0.5917,0.5744
 2024-01-17 17:02:39.053657,Boxing Lines - Shokichi Iwata vs Rene Mark Cuarto - To Win the Bout,Shokichi Iwata,0.016699999999999937,0.9167,0.9
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,Dayton,0.0159,0.0323,0.0164
 2024-01-18 01:01:55.573569,Southwest Division - Southwest Division 2023-24 - Division Winner,Houston Rockets,0.015899999999999997,0.1111,0.0952
+2024-01-18 03:02:35.677450,NCAA DI Men - Pac-12 Conference 2023-24 - Winner,Arizona,0.015599999999999947,0.7299,0.7143
 2024-01-18 03:02:35.790099,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,OG Anunoby (NYK),0.015300000000000001,0.0476,0.0323
 2024-01-18 01:01:55.472456,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning State,Field,0.015100000000000002,0.8333,0.8182
 2024-01-18 03:02:33.639266,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Egypt,0.015100000000000002,0.1818,0.1667
@@ -73,13 +64,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-18 01:01:55.439971,NBA Championship - NBA Championship 2023-24 - NBA Champion,Oklahoma City Thunder,0.014099999999999994,0.0667,0.0526
 2024-01-17 17:02:34.970561,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Egypt,0.013999999999999999,0.0909,0.0769
 2024-01-18 01:01:53.594755,Copa del Rey - Spain Copa del Rey 2023/24 - Winner,Real Sociedad,0.013999999999999999,0.0909,0.0769
+2024-01-18 03:02:35.736802,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Arizona,0.013999999999999999,0.0909,0.0769
 2024-01-18 03:02:35.748819,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Jordan Clarkson (UTA),0.013899999999999996,0.125,0.1111
 2024-01-18 01:01:53.513263,AFC Asian Cup - AFC Asian Cup 2023 - Group of Winning Team,Group A,0.013899999999999996,0.125,0.1111
 2024-01-18 03:02:35.799436,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Scottie Barnes (TOR),0.012600000000000007,0.0714,0.0588
-2024-01-17 17:02:39.042635,Boxing Lines - Reo Saito vs Ryo Nakai - To Win the Bout,Ryo Nakai,0.011700000000000016,0.2222,0.2105
 2024-01-18 01:01:53.506476,AFC Asian Cup - AFC Asian Cup 2023 - Top Goalscorer,Heung-Min Son,0.011700000000000016,0.2222,0.2105
+2024-01-17 17:02:39.042635,Boxing Lines - Reo Saito vs Ryo Nakai - To Win the Bout,Ryo Nakai,0.011700000000000016,0.2222,0.2105
 2024-01-18 01:01:58.316324,Boxing Lines - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Oleksandr Usyk,0.0116,0.4878,0.4762
-2024-01-17 15:02:46.782601,Boxing Lines - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Oleksandr Usyk,0.0116,0.4878,0.4762
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,Georgia,0.011200000000000002,0.0244,0.0132
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,San Diego State,0.011199999999999995,0.0588,0.0476
 2024-01-18 03:02:35.349351,Pacific Division - Pacific Division 2023-24 - Division Winner,Phoenix Suns,0.011099999999999999,0.1111,0.1
@@ -88,10 +79,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-18 03:02:35.821259,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Victor Wembanyama (SAS),0.010599999999999998,0.4651,0.4545
 2024-01-18 01:01:53.513263,AFC Asian Cup - AFC Asian Cup 2023 - Group of Winning Team,Group E,0.010399999999999993,0.2326,0.2222
 2024-01-17 17:02:34.970561,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Nigeria,0.0102,0.0769,0.0667
-2024-01-18 01:01:55.439971,NBA Championship - NBA Championship 2023-24 - NBA Champion,Philadelphia 76ers,-0.0102,0.0667,0.0769
-2024-01-17 15:02:44.190744,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Miami Heat,-0.0102,0.0667,0.0769
-2024-01-18 03:02:33.631733,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Riyad Mahrez,-0.0102,0.0667,0.0769
+2024-01-18 05:01:41.233701,Boxing Lines - Shokichi Iwata vs Rene Mark Cuarto - To Win the Bout,Shokichi Iwata,0.010199999999999987,0.9333,0.9231
 2024-01-18 03:02:33.631733,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Sadio Mane,-0.0102,0.0667,0.0769
+2024-01-18 01:01:55.439971,NBA Championship - NBA Championship 2023-24 - NBA Champion,Philadelphia 76ers,-0.0102,0.0667,0.0769
+2024-01-18 03:02:33.631733,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Riyad Mahrez,-0.0102,0.0667,0.0769
 2024-01-17 17:02:39.053657,Boxing Lines - Shokichi Iwata vs Rene Mark Cuarto - To Win the Bout,Rene Mark Cuarto,-0.010899999999999993,0.1429,0.1538
 2024-01-17 17:02:39.042635,Boxing Lines - Reo Saito vs Ryo Nakai - To Win the Bout,Reo Saito,-0.01090000000000002,0.8462,0.8571
 2024-01-18 01:01:55.513305,Western Conference - Western Conference 2023-24 - Western Conference Winner,Oklahoma City Thunder,-0.011099999999999999,0.1,0.1111
@@ -99,34 +90,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-17 17:02:36.694968,Euroleague - Euroleague 2023/24 - To Make Final Four,Bayern Munich,-0.011099999999999999,0.1,0.1111
 2024-01-18 03:02:35.790099,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Victor Wembanyama (SAS),-0.011199999999999995,0.0323,0.0435
 2024-01-18 03:02:35.799436,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Cam Thomas (BKN),-0.0114,0.005,0.0164
-2024-01-17 15:02:46.534869,Boxing Lines - Aaron McKenna vs Linus Udofia - To Win the Bout,Linus Udofia,-0.011400000000000021,0.3984,0.4098
 2024-01-18 03:02:35.799436,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Immanuel Quickley (TOR),-0.0118,0.0099,0.0217
-2024-01-17 15:02:46.603954,Boxing Lines - Artem Dalakian vs Seigo Yuri Akui - To Win the Bout,Seigo Yuri Akui,-0.012299999999999978,0.5413,0.5536
+2024-01-18 03:02:35.736802,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Purdue,-0.012299999999999991,0.1053,0.1176
 2024-01-18 03:02:35.759005,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Damian Lillard (MIL),-0.012699999999999989,0.3509,0.3636
 2024-01-18 03:02:35.622253,NCAA DI Men - Big Ten Conference 2023-24 - Winner,Michigan State,-0.012700000000000003,0.0196,0.0323
 2024-01-18 01:01:57.776352,Boxing Lines - Reo Saito vs Ryo Nakai - To Win the Bout,Reo Saito,-0.012899999999999912,0.8333,0.8462
-2024-01-18 01:01:53.513263,AFC Asian Cup - AFC Asian Cup 2023 - Group of Winning Team,Group B,-0.012899999999999995,0.1538,0.1667
 2024-01-18 01:01:55.500127,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Philadelphia 76ers,-0.012899999999999995,0.1538,0.1667
+2024-01-18 01:01:53.513263,AFC Asian Cup - AFC Asian Cup 2023 - Group of Winning Team,Group B,-0.012899999999999995,0.1538,0.1667
 2024-01-18 03:02:35.748819,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Cole Anthony (ORL),-0.014099999999999998,0.0244,0.0385
-2024-01-18 03:02:33.639266,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Cape Verde,-0.014100000000000001,0.0385,0.0526
 2024-01-17 17:02:36.761184,NBL - NBL 2023/2024 - Regular Season MVP,Milton Doyle,-0.014100000000000001,0.0385,0.0526
-2024-01-17 15:02:50.171966,Mitsubishi Electric Championship - 2/3 Balls - 1st Round 3-Balls - D. Pride / M. Weir / R. Pampling - 1st Round 3-Balls,Mike Weir,-0.01419999999999999,0.3704,0.3846
+2024-01-18 03:02:33.639266,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Cape Verde,-0.014100000000000001,0.0385,0.0526
+2024-01-18 03:02:35.643244,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Texas Tech,-0.01440000000000001,0.0909,0.1053
 2024-01-18 03:02:33.639266,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Tanzania,-0.014499999999999999,0.0149,0.0294
 2024-01-17 17:02:36.761184,NBL - NBL 2023/2024 - Regular Season MVP,Mitch Creek,-0.0145,0.0099,0.0244
 2024-01-18 01:01:55.482214,NBA Championship - NBA Championship 2023-24 - First Time Winner,Yes,-0.01469999999999999,0.2353,0.25
+2024-01-18 03:02:35.708484,NCAA DI Men - SEC Conference 2023-24 - Winner,Kentucky,-0.015100000000000002,0.1667,0.1818
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,Virginia,-0.015300000000000001,0.0435,0.0588
 2024-01-17 17:02:36.761184,NBL - NBL 2023/2024 - Regular Season MVP,Patrick Miller (CTA),-0.017099999999999997,0.0123,0.0294
-2024-01-17 15:02:46.782601,Boxing Lines - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Tyson Fury,-0.017299999999999982,0.5744,0.5917
 2024-01-18 01:01:58.316324,Boxing Lines - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Tyson Fury,-0.017299999999999982,0.5744,0.5917
 2024-01-18 03:02:35.790099,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Rudy Gobert (MIN),-0.017300000000000093,0.697,0.7143
 2024-01-17 17:02:36.694968,Euroleague - Euroleague 2023/24 - To Make Final Four,Milano,-0.0179,0.125,0.1429
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,Memphis,-0.018099999999999998,0.0588,0.0769
 2024-01-18 01:01:58.094622,Boxing Lines - Oscar Collazo vs Reyneris Gutierrez - To Win the Bout,Oscar Collazo,-0.01849999999999996,0.9524,0.9709
-2024-01-18 03:02:35.774492,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Joe Mazzulla,-0.01949999999999999,0.0714,0.0909
+2024-01-18 03:02:35.643244,NCAA DI Men - Big 12 Conference 2023-24 - Winner,TCU,-0.019099999999999992,0.0476,0.0667
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,Miami FL,-0.01949999999999999,0.0714,0.0909
+2024-01-18 03:02:35.774492,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Joe Mazzulla,-0.01949999999999999,0.0714,0.0909
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,Michigan,-0.0203,0.0385,0.0588
 2024-01-18 03:02:35.748819,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Bogdan Bogdanovic (ATL),-0.02049999999999999,0.1333,0.1538
-2024-01-17 15:02:49.430678,Finishing Position - Finishing Position - Tom Kim - Finishing Position,28th or better,-0.02079999999999993,0.5348,0.5556
 2024-01-18 01:01:58.923255,The American Express - 2/3 Balls - 1st Round 2-Balls - V. Whaley / R. MacIntyre - 1st Round 2-Balls,Vince Whaley,-0.02169999999999994,0.5238,0.5455
 2024-01-17 17:02:36.761184,NBL - NBL 2023/2024 - Regular Season MVP,Alan Williams,-0.0228,0.0066,0.0294
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,Oregon,-0.0232,0.0435,0.0667
@@ -136,20 +126,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-18 03:02:35.799436,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Franz Wagner (ORL),-0.0279,0.0066,0.0345
 2024-01-18 03:02:33.639266,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,South Africa,-0.028199999999999996,0.0385,0.0667
 2024-01-17 17:02:36.761184,NBL - NBL 2023/2024 - Regular Season MVP,Parker Jackson-Cartwright (NZB),-0.028599999999999997,0.0149,0.0435
-2024-01-17 15:02:49.417880,Finishing Position - Finishing Position - Sungjae Im - Finishing Position,22nd or better,-0.028900000000000037,0.5455,0.5744
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,West Virginia,-0.029700000000000004,0.0179,0.0476
 2024-01-18 01:01:55.464141,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Division,Central Division,-0.031700000000000006,0.1905,0.2222
 2024-01-17 17:02:36.694968,Euroleague - Euroleague 2023/24 - To Make Final Four,AS Monaco,-0.031799999999999995,0.4444,0.4762
 2024-01-18 01:01:53.594755,Copa del Rey - Spain Copa del Rey 2023/24 - Winner,Athletic Bilbao,-0.0321,0.0588,0.0909
+2024-01-18 03:02:35.643244,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Kansas,-0.032299999999999995,0.3125,0.3448
 2024-01-18 03:02:33.639266,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Equatorial Guinea,-0.03270000000000001,0.0149,0.0476
 2024-01-18 03:02:33.639266,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Ghana,-0.03330000000000001,0.0667,0.1
+2024-01-18 03:02:35.643244,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Baylor,-0.033300000000000024,0.1667,0.2
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,Saint Marys,-0.0334,0.0435,0.0769
 2024-01-18 03:02:33.639266,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Tunisia,-0.03420000000000001,0.0769,0.1111
-2024-01-17 15:02:44.431361,WNBL - Australia WNBL 2023/24 - Outright,Adelaide Lightning (W),-0.0344,0.0244,0.0588
 2024-01-17 17:02:36.761184,NBL - NBL 2023/2024 - Regular Season MVP,Anthony  Lamb,-0.0344,0.0244,0.0588
-2024-01-17 15:02:44.431361,WNBL - Australia WNBL 2023/24 - Outright,Townsville Fire (W),-0.0348,0.4,0.4348
-2024-01-17 15:02:44.431361,WNBL - Australia WNBL 2023/24 - Outright,Bendigo Spirit (W),-0.035699999999999996,0.0476,0.0833
-2024-01-17 15:02:44.334100,NBL - NBL 2023/2024 - Outright,New Zealand Breakers,-0.035699999999999996,0.0476,0.0833
 2024-01-18 01:01:55.464141,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Division,Pacific Division,-0.03570000000000001,0.25,0.2857
 2024-01-18 03:02:35.821259,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Chet Holmgren (OKC),-0.03709999999999991,0.6296,0.6667
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,Texas A&M,-0.037500000000000006,0.0625,0.1
@@ -161,16 +148,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-18 03:02:33.639266,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Cameroon,-0.04169999999999999,0.125,0.1667
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,Xavier,-0.04239999999999999,0.0345,0.0769
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,Maryland,-0.04329999999999999,0.0476,0.0909
-2024-01-17 15:02:49.318037,Finishing Position - Finishing Position - J.T. Poston - Finishing Position,29th or better,-0.043399999999999994,0.5122,0.5556
-2024-01-17 15:02:49.368368,Finishing Position - Finishing Position - Patrick Cantlay - Finishing Position,11th or better,-0.043399999999999994,0.5122,0.5556
-2024-01-17 15:02:49.342815,Finishing Position - Finishing Position - Justin Thomas - Finishing Position,25th or better,-0.043399999999999994,0.5122,0.5556
 2024-01-18 03:02:35.774492,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,-0.045499999999999985,0.4545,0.5
 2024-01-18 03:02:35.799436,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Anfernee Simons (POR),-0.046,0.0066,0.0526
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,Arkansas,-0.048799999999999996,0.0345,0.0833
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,Indiana,-0.0491,0.0278,0.0769
 2024-01-17 17:02:36.694968,Euroleague - Euroleague 2023/24 - To Make Final Four,Maccabi Tel-Aviv,-0.04999999999999999,0.2,0.25
 2024-01-18 01:01:55.573569,Southwest Division - Southwest Division 2023-24 - Division Winner,Dallas Mavericks,-0.051100000000000034,0.3571,0.4082
-2024-01-17 15:02:49.330353,Finishing Position - Finishing Position - Jason Day - Finishing Position,33rd or better,-0.05559999999999998,0.5,0.5556
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,Duke,-0.0567,0.1538,0.2105
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,Marquette,-0.05710000000000001,0.1429,0.2
 2024-01-18 03:02:35.719894,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - To Reach the Final Four,USC,-0.05859999999999999,0.0323,0.0909
