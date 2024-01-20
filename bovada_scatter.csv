@@ -1,12 +1,14 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-19 17:03:35.264150,NBL - NBL 2023/2024 - Most Losses,SE Melboune Phoenix,0.3015,0.4444,0.1429
+2024-01-19 21:02:49.566952,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Steven Alker,0.2944,0.4762,0.1818
 2024-01-19 15:01:26.492237,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - To Be Relegated",Santos de Guápiles,0.2571,0.4,0.1429
 2024-01-19 17:03:40.214599,Tournament of Champions - Tournament of Champions - Winner,Lydia Ko,0.2088,0.2857,0.0769
 2024-01-19 17:03:35.289920,NBL - NBL 2023/2024 - Regular Season MVP,Bryce Cotton,0.11909999999999998,0.9524,0.8333
+2024-01-19 21:02:49.566952,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Harrison Frazar,0.1033,0.125,0.0217
 2024-01-19 19:03:09.495236,The American Express - 2/3 Balls - 3rd Round 2-Balls - M. Kim / M. McNealy - 3rd Round 2-Balls,Michael Kim,0.09550000000000003,0.5833,0.4878
 2024-01-19 17:03:35.264150,NBL - NBL 2023/2024 - Most Losses,New Zealand Breakers,0.08549999999999999,0.2105,0.125
+2024-01-19 21:02:49.566952,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Steve Stricker,0.08340000000000003,0.4167,0.3333
 2024-01-19 15:01:26.501679,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - Winner",San Carlos,0.0635,0.1111,0.0476
-2024-01-19 07:04:37.145884,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Bin Laden,0.048600000000000004,0.1111,0.0625
 2024-01-19 19:03:04.057708,A-League - Australia A-League 2023/24 - Top 6 Finish,Macarthur FC,0.04760000000000003,0.5238,0.4762
 2024-01-19 17:03:40.214599,Tournament of Champions - Tournament of Champions - Winner,Charley Hull,0.0469,0.0526,0.0057
 2024-01-19 17:03:40.214599,Tournament of Champions - Tournament of Champions - Winner,Gemma Dryburgh,0.0456,0.0588,0.0132
@@ -16,119 +18,112 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-19 15:01:26.501679,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - Winner",Alajuelense,0.04099999999999998,0.3077,0.2667
 2024-01-19 17:03:40.214599,Tournament of Champions - Tournament of Champions - Winner,Ayaka Furue,0.04040000000000002,0.2222,0.1818
 2024-01-19 19:03:03.800061,AFC Asian Cup - AFC Asian Cup 2023 - Winner,Iraq,0.0373,0.0667,0.0294
-2024-01-19 07:04:43.813461,The American Express - 2/3 Balls - 2nd Round 2-Balls - T. Montgomery / A. Eckroat - 2nd Round 2-Balls,Austin Eckroat,0.03489999999999999,0.5,0.4651
+2024-01-19 21:02:44.142608,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Senegal,0.0353,0.2353,0.2
 2024-01-19 15:01:31.271232,Boxing Lines - Artem Dalakian vs Seigo Yuri Akui - To Win the Bout,Seigo Yuri Akui,0.033299999999999996,0.5455,0.5122
-2024-01-19 07:04:43.313106,The American Express - 2/3 Balls - 2nd Round 2-Balls - Z. Johnson / B. Snedeker - 2nd Round 2-Balls,Zach Johnson,0.02859999999999996,0.6364,0.6078
 2024-01-19 19:03:03.800061,AFC Asian Cup - AFC Asian Cup 2023 - Winner,South Korea,0.02779999999999999,0.25,0.2222
-2024-01-19 19:03:09.870330,The American Express - 2/3 Balls - 3rd Round 2-Balls - D. Riley / M. Wallace - 3rd Round 2-Balls,Matt Wallace,0.027700000000000058,0.5833,0.5556
 2024-01-19 19:03:09.547696,The American Express - 2/3 Balls - 3rd Round 2-Balls - B. Martin / B. Hossler - 3rd Round 2-Balls,Beau Hossler,0.027700000000000058,0.5833,0.5556
-2024-01-19 07:04:43.233892,The American Express - 2/3 Balls - 2nd Round 2-Balls - A. Rai / B. Taylor - 2nd Round 2-Balls,Aaron Rai,0.026800000000000046,0.7143,0.6875
+2024-01-19 21:02:48.990332,The American Express - 2/3 Balls - 3rd Round 2-Balls - Z. Johnson / B. Snedeker - 3rd Round 2-Balls,Zach Johnson,0.027700000000000058,0.5833,0.5556
+2024-01-19 19:03:09.870330,The American Express - 2/3 Balls - 3rd Round 2-Balls - D. Riley / M. Wallace - 3rd Round 2-Balls,Matt Wallace,0.027700000000000058,0.5833,0.5556
 2024-01-19 15:01:26.501679,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - Winner",Herediano,0.02560000000000001,0.3333,0.3077
-2024-01-19 07:04:44.381223,Scores - 2nd Round Score - Scottie Scheffler - 2nd Round Score,Under 66.5,0.025599999999999956,0.6,0.5744
-2024-01-19 07:04:43.253460,The American Express - 2/3 Balls - 2nd Round 2-Balls - B. Martin / B. Hossler - 2nd Round 2-Balls,Beau Hossler,0.024499999999999966,0.6078,0.5833
-2024-01-19 07:04:44.393378,Scores - 2nd Round Score - Xander Schauffele - 2nd Round Score,Under 66.5,0.024399999999999977,0.5122,0.4878
+2024-01-19 21:02:49.201735,The American Express - 2/3 Balls - 3rd Round 2-Balls - S. Im / C. Champ - 3rd Round 2-Balls,Sung-Jae Im,0.024899999999999922,0.697,0.6721
 2024-01-19 11:01:42.806217,NFL 2024 Sims - Madden 24 Sim Bowl Winner - Outright,Detroit Lions,0.0242,0.0909,0.0667
-2024-01-19 07:04:40.294915,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 MVP,Christian McCaffrey,0.023799999999999988,0.1667,0.1429
 2024-01-19 17:03:40.214599,Tournament of Champions - Tournament of Champions - Winner,Nelly Korda,0.02310000000000001,0.1,0.0769
-2024-01-19 07:04:44.356381,Scores - 2nd Round Score - Patrick Cantlay - 2nd Round Score,Under 66.5,0.022600000000000064,0.5348,0.5122
 2024-01-19 17:03:35.277194,NBL - NBL 2023/2024 - Outright,Tasmania JackJumpers,0.022199999999999998,0.1333,0.1111
+2024-01-19 21:02:44.142608,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Cape Verde,0.022099999999999998,0.0385,0.0164
+2024-01-19 21:02:48.358594,Boxing Lines - Masahiro Suzuki vs Roldan Aldea - To Win the Bout,Roldan Aldea,0.021999999999999964,0.3077,0.2857
 2024-01-19 19:03:08.861856,Boxing Lines - Masahiro Suzuki vs Roldan Aldea - To Win the Bout,Masahiro Suzuki,0.021700000000000053,0.7778,0.7561
 2024-01-19 15:01:28.354791,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,0.021699999999999997,0.4762,0.4545
 2024-01-19 19:03:10.045506,The American Express - 2/3 Balls - 3rd Round 2-Balls - S. Scheffler / P. Cantlay - 3rd Round 2-Balls,Scottie Scheffler,0.02169999999999994,0.5455,0.5238
-2024-01-19 07:04:43.387309,The American Express - 2/3 Balls - 2nd Round 2-Balls - T. Duncan / P. Kizzire - 2nd Round 2-Balls,Tyler Duncan,0.02169999999999994,0.5455,0.5238
-2024-01-19 07:04:43.480276,The American Express - 2/3 Balls - 2nd Round 2-Balls - A. Bhatia / N. Echavarria - 2nd Round 2-Balls,Akshay Bhatia,0.02100000000000002,0.6364,0.6154
-2024-01-19 19:03:09.584750,The American Express - 2/3 Balls - 3rd Round 2-Balls - Z. Johnson / B. Snedeker - 3rd Round 2-Balls,Zach Johnson,0.02079999999999993,0.5556,0.5348
-2024-01-19 19:03:09.620509,The American Express - 2/3 Balls - 3rd Round 2-Balls - T. Duncan / P. Kizzire - 3rd Round 2-Balls,Tyler Duncan,0.02079999999999993,0.5556,0.5348
-2024-01-19 07:04:39.538533,Republican Party Primaries - New Hampshire Primary Popular Vote: DeSantis Share - New Hampshire DeSantis Vote Share,Over 6.25%,0.02079999999999993,0.5556,0.5348
 2024-01-19 19:03:09.779481,The American Express - 2/3 Balls - 3rd Round 2-Balls - M. Kuchar / N. Taylor - 3rd Round 2-Balls,Nick Taylor,0.02079999999999993,0.5556,0.5348
-2024-01-19 07:04:43.671662,The American Express - 2/3 Balls - 2nd Round 2-Balls - R. Fowler / J. Thomas - 2nd Round 2-Balls,Rickie Fowler,0.018900000000000028,0.4444,0.4255
-2024-01-19 07:04:44.368600,Scores - 2nd Round Score - Sam Burns - 2nd Round Score,Under 67.5,0.01880000000000004,0.5744,0.5556
+2024-01-19 19:03:09.620509,The American Express - 2/3 Balls - 3rd Round 2-Balls - T. Duncan / P. Kizzire - 3rd Round 2-Balls,Tyler Duncan,0.02079999999999993,0.5556,0.5348
+2024-01-19 19:03:09.584750,The American Express - 2/3 Balls - 3rd Round 2-Balls - Z. Johnson / B. Snedeker - 3rd Round 2-Balls,Zach Johnson,0.02079999999999993,0.5556,0.5348
 2024-01-19 19:03:04.057708,A-League - Australia A-League 2023/24 - Top 6 Finish,Sydney FC,0.01880000000000004,0.5744,0.5556
 2024-01-19 15:01:28.354791,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Chris Finch,0.018400000000000027,0.3125,0.2941
+2024-01-19 21:02:43.996581,La Liga - Spain La Liga 2023/24 - Winner,Real Madrid,0.018199999999999994,0.8182,0.8
 2024-01-19 19:03:04.041595,A-League - Australia A-League 2023/24 - To Finish Bottom,Newcastle United Jets,0.0179,0.1429,0.125
+2024-01-19 21:02:44.142608,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Guinea-Bissau,0.017599999999999998,0.0196,0.002
 2024-01-19 09:03:15.074535,Boxing Lines - Shokichi Iwata vs Rene Mark Cuarto - To Win the Bout,Rene Mark Cuarto,0.01759999999999999,0.1176,0.1
 2024-01-19 17:03:40.214599,Tournament of Champions - Tournament of Champions - Winner,Linn Grant,0.0168,0.0278,0.011
-2024-01-19 19:03:09.938001,The American Express - 2/3 Balls - 3rd Round 2-Balls - X. Schauffele / T. Finau - 3rd Round 2-Balls,Xander Schauffele,0.016100000000000003,0.6078,0.5917
 2024-01-19 19:03:09.461570,The American Express - 2/3 Balls - 3rd Round 2-Balls - A. Baddeley / T. Detry - 3rd Round 2-Balls,Thomas Detry,0.016100000000000003,0.6078,0.5917
-2024-01-19 07:04:44.343298,Scores - 2nd Round Score - Justin Thomas - 2nd Round Score,Under 67.5,0.016100000000000003,0.6078,0.5917
+2024-01-19 19:03:09.938001,The American Express - 2/3 Balls - 3rd Round 2-Balls - X. Schauffele / T. Finau - 3rd Round 2-Balls,Xander Schauffele,0.016100000000000003,0.6078,0.5917
 2024-01-19 15:01:31.169601,Boxing Lines - Masahiro Suzuki vs Roldan Aldea - To Win the Bout,Masahiro Suzuki,0.015800000000000036,0.7561,0.7403
 2024-01-19 17:03:40.214599,Tournament of Champions - Tournament of Champions - Winner,Alexa Pano,0.015400000000000002,0.0244,0.009
 2024-01-19 15:01:26.492237,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - To Be Relegated",Municipal Liberia,0.014399999999999996,0.0769,0.0625
 2024-01-19 09:03:15.053115,Boxing Lines - Reo Saito vs Ryo Nakai - To Win the Bout,Reo Saito,0.014200000000000101,0.8403,0.8261
 2024-01-19 15:01:26.501679,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - Winner",Guanacasteca,0.013999999999999999,0.0909,0.0769
-2024-01-19 19:03:04.029334,A-League - Australia A-League 2023/24 - Grand Final Winner,Sydney FC,0.013999999999999999,0.0909,0.0769
 2024-01-19 19:03:08.806101,Boxing Lines - Mikito Nakano vs Jess Waminal Rhey Talara Waminal - To Win the Bout,Jess Waminal Rhey Talara Waminal,0.013999999999999999,0.0909,0.0769
+2024-01-19 19:03:04.029334,A-League - Australia A-League 2023/24 - Grand Final Winner,Sydney FC,0.013999999999999999,0.0909,0.0769
 2024-01-19 19:03:10.280826,Dubai Desert Classic - 2/3 Balls - 3rd Round 2 Balls - R. Mansell v H. Li - 3rd Round 2 Balls,Richard Mansell,0.013299999999999979,0.6429,0.6296
-2024-01-19 07:04:38.815176,NCAA DI Men - American Athletic Conference 2023-24 - Winner,SMU,0.012299999999999991,0.1176,0.1053
+2024-01-19 21:02:48.629801,Boxing Lines - Jaime Munguia vs John Ryder - To Win the Bout,Jaime Munguia,0.0131,0.7778,0.7647
 2024-01-19 17:03:40.214599,Tournament of Champions - Tournament of Champions - Winner,Brooke Henderson,0.011099999999999999,0.1111,0.1
 2024-01-19 11:01:44.101244,Boxing Lines - Aaron McKenna vs Linus Udofia - To Win the Bout,Aaron McKenna,0.010700000000000043,0.6774,0.6667
 2024-01-19 19:03:08.844785,Boxing Lines - Shokichi Iwata vs Rene Mark Cuarto - To Win the Bout,Rene Mark Cuarto,0.010700000000000001,0.125,0.1143
-2024-01-19 07:04:43.036486,The American Express - 2/3 Balls - 2nd Round 2-Balls - M. Laird / L. Griffin - 2nd Round 2-Balls,Martin Laird,0.010699999999999932,0.5455,0.5348
-2024-01-19 07:04:43.554233,The American Express - 2/3 Balls - 2nd Round 2-Balls - W. Zalatoris / D. Berger - 2nd Round 2-Balls,Daniel Berger,0.010699999999999932,0.5455,0.5348
-2024-01-19 07:04:43.865444,The American Express - 2/3 Balls - 2nd Round 2-Balls - S. Lowry / J. Day - 2nd Round 2-Balls,Jason Day,0.010099999999999998,0.5556,0.5455
-2024-01-19 19:03:04.029334,A-League - Australia A-League 2023/24 - Grand Final Winner,Brisbane Roar,-0.011199999999999995,0.0476,0.0588
 2024-01-19 19:03:04.041595,A-League - Australia A-League 2023/24 - To Finish Bottom,Macarthur FC,-0.011199999999999995,0.0476,0.0588
+2024-01-19 19:03:04.029334,A-League - Australia A-League 2023/24 - Grand Final Winner,Brisbane Roar,-0.011199999999999995,0.0476,0.0588
 2024-01-19 17:03:40.214599,Tournament of Champions - Tournament of Champions - Winner,Jennifer Kupcho,-0.0113,0.0066,0.0179
-2024-01-19 07:04:42.458251,Boxing Lines - Natasha Jonas vs Mikaela Mayer - To Win the Bout,Natasha Jonas,-0.011600000000000055,0.5536,0.5652
-2024-01-19 07:04:43.554233,The American Express - 2/3 Balls - 2nd Round 2-Balls - W. Zalatoris / D. Berger - 2nd Round 2-Balls,Will Zalatoris,-0.012199999999999989,0.5,0.5122
-2024-01-19 07:04:43.865444,The American Express - 2/3 Balls - 2nd Round 2-Balls - S. Lowry / J. Day - 2nd Round 2-Balls,Shane Lowry,-0.012199999999999989,0.4878,0.5
-2024-01-19 07:04:43.036486,The American Express - 2/3 Balls - 2nd Round 2-Balls - M. Laird / L. Griffin - 2nd Round 2-Balls,Lanto Griffin,-0.012199999999999989,0.5,0.5122
+2024-01-19 21:02:49.566952,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Paul Broadhurst,-0.011600000000000001,0.0007,0.0123
 2024-01-19 09:03:15.053115,Boxing Lines - Reo Saito vs Ryo Nakai - To Win the Bout,Ryo Nakai,-0.01369999999999999,0.2273,0.241
 2024-01-19 19:03:03.800061,AFC Asian Cup - AFC Asian Cup 2023 - Winner,Saudi Arabia,-0.013999999999999999,0.0769,0.0909
+2024-01-19 21:02:48.324344,Boxing Lines - Mikito Nakano vs Jess Waminal Rhey Talara Waminal - To Win the Bout,Jess Waminal Rhey Talara Waminal,-0.013999999999999999,0.0769,0.0909
 2024-01-19 19:03:04.041595,A-League - Australia A-League 2023/24 - To Finish Bottom,Sydney FC,-0.014099999999999998,0.0244,0.0385
 2024-01-19 15:01:31.169601,Boxing Lines - Masahiro Suzuki vs Roldan Aldea - To Win the Bout,Roldan Aldea,-0.014900000000000024,0.3077,0.3226
-2024-01-19 07:04:43.671662,The American Express - 2/3 Balls - 2nd Round 2-Balls - R. Fowler / J. Thomas - 2nd Round 2-Balls,Justin Thomas,-0.01539999999999997,0.6,0.6154
 2024-01-19 11:01:44.101244,Boxing Lines - Aaron McKenna vs Linus Udofia - To Win the Bout,Linus Udofia,-0.015400000000000025,0.3846,0.4
 2024-01-19 17:03:40.214599,Tournament of Champions - Tournament of Champions - Winner,Grace Kim,-0.015899999999999997,0.002,0.0179
 2024-01-19 17:03:40.214599,Tournament of Champions - Tournament of Champions - Winner,Andrea Lee,-0.0166,0.0013,0.0179
 2024-01-19 19:03:10.280826,Dubai Desert Classic - 2/3 Balls - 3rd Round 2 Balls - R. Mansell v H. Li - 3rd Round 2 Balls,Haotong Li,-0.016699999999999993,0.4,0.4167
-2024-01-19 07:04:43.480276,The American Express - 2/3 Balls - 2nd Round 2-Balls - A. Bhatia / N. Echavarria - 2nd Round 2-Balls,Nico Echavarria,-0.017299999999999982,0.4082,0.4255
-2024-01-19 07:04:42.294184,Boxing Lines - Shokichi Iwata vs Rene Mark Cuarto - To Win the Bout,Rene Mark Cuarto,-0.01759999999999999,0.1,0.1176
+2024-01-19 21:02:44.025123,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,VfB Stuttgart,-0.016700000000000048,0.7333,0.75
+2024-01-19 21:02:49.566952,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Miguel Angel Jimenez,-0.0169,0.001,0.0179
+2024-01-19 21:02:49.566952,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Mike Weir,-0.0172,0.0007,0.0179
+2024-01-19 21:02:44.142608,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Ivory Coast,-0.0179,0.125,0.1429
+2024-01-19 21:02:43.996581,La Liga - Spain La Liga 2023/24 - Winner,Girona,-0.0179,0.125,0.1429
+2024-01-19 21:02:43.996581,La Liga - Spain La Liga 2023/24 - Winner,Atlético Madrid,-0.018200000000000004,0.0294,0.0476
 2024-01-19 17:03:35.277194,NBL - NBL 2023/2024 - Outright,New Zealand Breakers,-0.018200000000000004,0.0294,0.0476
-2024-01-19 07:04:37.329149,Gran Hermano - Gran Hermano 2024 - Outright Winner,Federico,-0.01820000000000002,0.1818,0.2
-2024-01-19 07:04:44.393378,Scores - 2nd Round Score - Xander Schauffele - 2nd Round Score,Over 66.5,-0.01880000000000004,0.5556,0.5744
-2024-01-19 19:03:09.938001,The American Express - 2/3 Balls - 3rd Round 2-Balls - X. Schauffele / T. Finau - 3rd Round 2-Balls,Tony Finau,-0.019699999999999995,0.4348,0.4545
+2024-01-19 21:02:49.201735,The American Express - 2/3 Balls - 3rd Round 2-Balls - S. Im / C. Champ - 3rd Round 2-Balls,Cameron Champ,-0.019500000000000017,0.3509,0.3704
 2024-01-19 19:03:09.461570,The American Express - 2/3 Balls - 3rd Round 2-Balls - A. Baddeley / T. Detry - 3rd Round 2-Balls,Aaron Baddeley,-0.019699999999999995,0.4348,0.4545
+2024-01-19 19:03:09.938001,The American Express - 2/3 Balls - 3rd Round 2-Balls - X. Schauffele / T. Finau - 3rd Round 2-Balls,Tony Finau,-0.019699999999999995,0.4348,0.4545
 2024-01-19 17:03:40.214599,Tournament of Champions - Tournament of Champions - Winner,Hae Ran Ryu,-0.019899999999999998,0.0079,0.0278
-2024-01-19 07:04:44.356381,Scores - 2nd Round Score - Patrick Cantlay - 2nd Round Score,Over 66.5,-0.02079999999999993,0.5348,0.5556
+2024-01-19 21:02:44.142608,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Cameroon,-0.0203,0.0385,0.0588
+2024-01-19 21:02:49.566952,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,David Toms,-0.0203,0.0323,0.0526
 2024-01-19 17:03:40.214599,Tournament of Champions - Tournament of Champions - Winner,Ashleigh Buhai,-0.021199999999999997,0.0066,0.0278
 2024-01-19 17:03:35.277194,NBL - NBL 2023/2024 - Outright,Melbourne United,-0.021699999999999997,0.4545,0.4762
-2024-01-19 07:04:44.343298,Scores - 2nd Round Score - Justin Thomas - 2nd Round Score,Over 67.5,-0.021699999999999997,0.4545,0.4762
+2024-01-19 21:02:48.358594,Boxing Lines - Masahiro Suzuki vs Roldan Aldea - To Win the Bout,Masahiro Suzuki,-0.021700000000000053,0.7561,0.7778
 2024-01-19 19:03:08.861856,Boxing Lines - Masahiro Suzuki vs Roldan Aldea - To Win the Bout,Roldan Aldea,-0.021999999999999964,0.2857,0.3077
 2024-01-19 19:03:03.800061,AFC Asian Cup - AFC Asian Cup 2023 - Winner,Japan,-0.02260000000000001,0.3774,0.4
-2024-01-19 07:04:39.538533,Republican Party Primaries - New Hampshire Primary Popular Vote: DeSantis Share - New Hampshire DeSantis Vote Share,6.25% or under,-0.022600000000000064,0.5122,0.5348
 2024-01-19 19:03:09.547696,The American Express - 2/3 Balls - 3rd Round 2-Balls - B. Martin / B. Hossler - 3rd Round 2-Balls,Ben Martin,-0.022699999999999998,0.4651,0.4878
 2024-01-19 19:03:09.870330,The American Express - 2/3 Balls - 3rd Round 2-Balls - D. Riley / M. Wallace - 3rd Round 2-Balls,Davis Riley,-0.022699999999999998,0.4651,0.4878
-2024-01-19 07:04:44.381223,Scores - 2nd Round Score - Scottie Scheffler - 2nd Round Score,Over 66.5,-0.022699999999999998,0.4651,0.4878
+2024-01-19 21:02:48.990332,The American Express - 2/3 Balls - 3rd Round 2-Balls - Z. Johnson / B. Snedeker - 3rd Round 2-Balls,Brandt Snedeker,-0.022699999999999998,0.4651,0.4878
 2024-01-19 19:03:03.810552,AFC Asian Cup - AFC Asian Cup 2023 - Top Goalscorer,Takumi Minamino,-0.023799999999999988,0.1429,0.1667
-2024-01-19 07:04:43.233892,The American Express - 2/3 Balls - 2nd Round 2-Balls - A. Rai / B. Taylor - 2nd Round 2-Balls,Ben Taylor,-0.023799999999999988,0.3333,0.3571
-2024-01-19 07:04:43.387309,The American Express - 2/3 Balls - 2nd Round 2-Balls - T. Duncan / P. Kizzire - 2nd Round 2-Balls,Patton Kizzire,-0.023800000000000043,0.5,0.5238
 2024-01-19 19:03:10.045506,The American Express - 2/3 Balls - 3rd Round 2-Balls - S. Scheffler / P. Cantlay - 3rd Round 2-Balls,Patrick Cantlay,-0.023800000000000043,0.5,0.5238
+2024-01-19 21:02:49.566952,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Vijay Singh,-0.023899999999999998,0.0196,0.0435
 2024-01-19 17:03:40.214599,Tournament of Champions - Tournament of Champions - Winner,Rose Zhang,-0.024299999999999995,0.0526,0.0769
-2024-01-19 19:03:09.584750,The American Express - 2/3 Balls - 3rd Round 2-Balls - Z. Johnson / B. Snedeker - 3rd Round 2-Balls,Brandt Snedeker,-0.024399999999999977,0.4878,0.5122
-2024-01-19 19:03:09.620509,The American Express - 2/3 Balls - 3rd Round 2-Balls - T. Duncan / P. Kizzire - 3rd Round 2-Balls,Patton Kizzire,-0.024399999999999977,0.4878,0.5122
-2024-01-19 07:04:44.368600,Scores - 2nd Round Score - Sam Burns - 2nd Round Score,Over 67.5,-0.024399999999999977,0.4878,0.5122
 2024-01-19 19:03:09.779481,The American Express - 2/3 Balls - 3rd Round 2-Balls - M. Kuchar / N. Taylor - 3rd Round 2-Balls,Matt Kuchar,-0.024399999999999977,0.4878,0.5122
-2024-01-19 07:04:43.313106,The American Express - 2/3 Balls - 2nd Round 2-Balls - Z. Johnson / B. Snedeker - 2nd Round 2-Balls,Brandt Snedeker,-0.026600000000000013,0.4082,0.4348
+2024-01-19 19:03:09.620509,The American Express - 2/3 Balls - 3rd Round 2-Balls - T. Duncan / P. Kizzire - 3rd Round 2-Balls,Patton Kizzire,-0.024399999999999977,0.4878,0.5122
+2024-01-19 19:03:09.584750,The American Express - 2/3 Balls - 3rd Round 2-Balls - Z. Johnson / B. Snedeker - 3rd Round 2-Balls,Brandt Snedeker,-0.024399999999999977,0.4878,0.5122
+2024-01-19 21:02:49.566952,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,KJ Choi,-0.0273,0.005,0.0323
+2024-01-19 21:02:44.012331,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayern Munich,-0.027800000000000047,0.75,0.7778
+2024-01-19 21:02:49.566952,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Alex Cejka,-0.0279,0.0066,0.0345
 2024-01-19 17:03:35.277194,NBL - NBL 2023/2024 - Outright,Illawarra Hawks,-0.028199999999999996,0.0385,0.0667
 2024-01-19 17:03:40.214599,Tournament of Champions - Tournament of Champions - Winner,Megan Khang,-0.0283,0.0152,0.0435
 2024-01-19 17:03:40.214599,Tournament of Champions - Tournament of Champions - Winner,Ally Ewing,-0.0294,0.0294,0.0588
-2024-01-19 07:04:43.253460,The American Express - 2/3 Balls - 2nd Round 2-Balls - B. Martin / B. Hossler - 2nd Round 2-Balls,Ben Martin,-0.030299999999999994,0.4348,0.4651
 2024-01-19 15:01:31.271232,Boxing Lines - Artem Dalakian vs Seigo Yuri Akui - To Win the Bout,Artem Dalakian,-0.03179999999999994,0.5238,0.5556
 2024-01-19 17:03:35.289920,NBL - NBL 2023/2024 - Regular Season MVP,Chris Goulding,-0.03330000000000001,0.0667,0.1
+2024-01-19 21:02:49.566952,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Jerry Kelly,-0.0345,0.004,0.0385
 2024-01-19 19:03:04.057708,A-League - Australia A-League 2023/24 - Top 6 Finish,Newcastle United Jets,-0.0353,0.2,0.2353
 2024-01-19 17:03:35.277194,NBL - NBL 2023/2024 - Outright,Brisbane Bullets,-0.035699999999999996,0.0476,0.0833
 2024-01-19 15:01:26.501679,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - Winner",Saprissa,-0.03640000000000004,0.3636,0.4
-2024-01-19 07:04:43.813461,The American Express - 2/3 Balls - 2nd Round 2-Balls - T. Montgomery / A. Eckroat - 2nd Round 2-Balls,Taylor Montgomery,-0.037800000000000056,0.5455,0.5833
 2024-01-19 09:03:15.118159,Boxing Lines - Masahiro Suzuki vs Roldan Aldea - To Win the Bout,Roldan Aldea,-0.04099999999999998,0.3226,0.3636
 2024-01-19 17:03:40.214599,Tournament of Champions - Tournament of Champions - Winner,Danielle Kang,-0.042499999999999996,0.001,0.0435
+2024-01-19 21:02:49.566952,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Brett Quigley,-0.0428,0.0007,0.0435
 2024-01-19 17:03:40.214599,Tournament of Champions - Tournament of Champions - Winner,Lilia Vu,-0.044599999999999994,0.0323,0.0769
 2024-01-19 19:03:09.904715,The American Express - 2/3 Balls - 3rd Round 2-Balls - S. Lowry / J. Day - 3rd Round 2-Balls,Shane Lowry,-0.04700000000000004,0.4878,0.5348
 2024-01-19 19:03:04.057708,A-League - Australia A-League 2023/24 - Top 6 Finish,Brisbane Roar,-0.05509999999999998,0.3704,0.4255
+2024-01-19 21:02:49.566952,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Ernie Els,-0.0585,0.0526,0.1111
 2024-01-19 17:03:40.214599,Tournament of Champions - Tournament of Champions - Winner,Maja Stark,-0.0754,0.0079,0.0833
+2024-01-19 21:02:49.566952,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Bernhard Langer,-0.0756,0.0013,0.0769
 2024-01-19 15:01:26.501679,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - Winner",Cartaginés,-0.0804,0.0625,0.1429
 2024-01-19 19:03:09.495236,The American Express - 2/3 Balls - 3rd Round 2-Balls - M. Kim / M. McNealy - 3rd Round 2-Balls,Maverick McNealy,-0.09049999999999997,0.4651,0.5556
 2024-01-19 15:01:26.492237,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - To Be Relegated",Municipal Grecia,-0.11430000000000001,0.2857,0.4
 2024-01-19 15:01:26.492237,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - To Be Relegated",Pérez Zeledón,-0.13329999999999997,0.2,0.3333
+2024-01-19 21:02:49.566952,Mitsubishi Electric Championship - Mitsubishi Electric Championship - Winner,Stewart Cink,-0.1654,0.0164,0.1818
 2024-01-19 17:03:35.264150,NBL - NBL 2023/2024 - Most Losses,Cairns Taipans,-0.1746,0.0476,0.2222
 2024-01-19 17:03:35.264150,NBL - NBL 2023/2024 - Most Losses,Adelaide 36ers,-0.1844,0.5455,0.7299
