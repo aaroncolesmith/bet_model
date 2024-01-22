@@ -3,7 +3,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-21 23:00:21.580612,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Matchup,KC Chiefs vs SF 49ers,0.1688,0.3226,0.1538
 2024-01-22 05:00:03.079776,Serie A - Italy Serie A 2023/24 - To Be Relegated,Hellas Verona,0.13639999999999997,0.6364,0.5
 2024-01-22 01:00:02.835077,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,0.1225,0.4082,0.2857
-2024-01-21 21:01:58.058335,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Kansas City Chiefs,0.1169,0.2222,0.1053
 2024-01-22 05:00:04.305616,39th Independent Spirit Awards - Best Lead Performance - Best Lead Performance,Greta Lee - Past Lives,0.10109999999999997,0.5455,0.4444
 2024-01-22 05:00:03.085855,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Salernitana,0.09820000000000001,0.5744,0.4762
 2024-01-21 23:00:21.526098,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 MVP,Patrick Mahomes,0.0929,0.2105,0.1176
@@ -21,8 +20,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-21 23:00:20.852339,To Make the Playoffs - Golden State Warriors - To Make the 2023-24 Playoffs,No,0.055600000000000094,0.7778,0.7222
 2024-01-21 23:00:21.526098,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 MVP,Christian McCaffrey,0.05550000000000002,0.2222,0.1667
 2024-01-22 05:00:04.034365,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,The Holdovers,0.05449999999999999,0.6,0.5455
-2024-01-22 05:00:03.091842,Serie A - Italy Serie A 2023/24 - Top 4 Finish,AS Roma,0.04620000000000002,0.2,0.1538
 2024-01-22 07:01:08.218480,Boxing Lines - Artem Dalakian vs Seigo Yuri Akui - To Win the Bout,Artem Dalakian,0.04620000000000002,0.5917,0.5455
+2024-01-22 05:00:03.091842,Serie A - Italy Serie A 2023/24 - Top 4 Finish,AS Roma,0.04620000000000002,0.2,0.1538
 2024-01-22 01:00:01.379254,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Tottenham Hotspur,0.045499999999999985,0.5,0.4545
 2024-01-22 03:00:33.721809,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Luigi,0.04329999999999999,0.0909,0.0476
 2024-01-21 23:00:21.589112,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,KC Chiefs to beat DET Lions,0.04229999999999999,0.0667,0.0244
@@ -30,12 +29,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-22 03:00:33.721809,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Davi,0.04099999999999998,0.3077,0.2667
 2024-01-22 05:00:03.079776,Serie A - Italy Serie A 2023/24 - To Be Relegated,Lecce,0.04040000000000002,0.2222,0.1818
 2024-01-21 23:00:19.721106,A-League - Australia A-League 2023/24 - Top 6 Finish,Wellington Phoenix,0.04039999999999999,0.8182,0.7778
-2024-01-21 21:01:56.237258,AFC Asian Cup - AFC Asian Cup 2023 - Top Goalscorer,Hee-Chan Hwang,0.0384,0.0769,0.0385
 2024-01-21 23:00:21.580612,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Matchup,BAL Ravens vs DET Lions,0.03670000000000001,0.1905,0.1538
 2024-01-22 05:00:03.036585,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Girona,0.03639999999999999,0.6364,0.6
 2024-01-22 05:00:03.079776,Serie A - Italy Serie A 2023/24 - To Be Relegated,Udinese,0.0353,0.2353,0.2
 2024-01-21 23:00:21.589112,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,DET Lions to beat KC Chiefs,0.0347,0.0526,0.0179
-2024-01-21 21:01:58.058335,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Detroit Lions,0.034100000000000005,0.125,0.0909
 2024-01-22 01:00:01.357086,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Everton,0.033,0.0526,0.0196
 2024-01-21 23:00:20.842942,To Make the Playoffs - Dallas Mavericks - To Make the 2023-24 Playoffs,No,0.032299999999999995,0.3448,0.3125
 2024-01-22 03:00:33.721809,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Matteus,0.0321,0.0909,0.0588
@@ -51,8 +48,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-21 23:00:21.526098,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 MVP,Brock Purdy,0.024800000000000016,0.2353,0.2105
 2024-01-22 01:00:02.697994,NBA Championship - NBA Championship 2023-24 - First Time Winner,Yes,0.024399999999999977,0.2597,0.2353
 2024-01-22 05:00:03.091842,Serie A - Italy Serie A 2023/24 - Top 4 Finish,AC Milan,0.0242,0.9333,0.9091
-2024-01-22 03:00:36.795094,Boxing Lines - Artem Dalakian vs Seigo Yuri Akui - To Win the Bout,Seigo Yuri Akui,0.023800000000000043,0.5238,0.5
 2024-01-22 05:00:03.057986,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayer Leverkusen,0.023800000000000043,0.5238,0.5
+2024-01-22 03:00:36.795094,Boxing Lines - Artem Dalakian vs Seigo Yuri Akui - To Win the Bout,Seigo Yuri Akui,0.023800000000000043,0.5238,0.5
 2024-01-21 23:00:19.714754,A-League - Australia A-League 2023/24 - To Finish Bottom,Western United,0.023799999999999988,0.5,0.4762
 2024-01-22 05:00:04.283917,Gran Hermano - Gran Hermano 2024 - Outright Winner,Sabrina,0.023200000000000002,0.0476,0.0244
 2024-01-22 05:00:04.283917,Gran Hermano - Gran Hermano 2024 - Outright Winner,Bautista,0.023200000000000002,0.0476,0.0244
@@ -60,9 +57,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-21 23:00:21.569763,Super Bowl LVIII - Superbowl 58 (2024) - Conference Winner,AFC,0.022600000000000064,0.5348,0.5122
 2024-01-22 03:00:32.801036,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,Tigres UANL,0.022199999999999998,0.2222,0.2
 2024-01-21 23:00:21.589112,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,BAL Ravens to beat DET Lions,0.022000000000000006,0.1053,0.0833
-2024-01-21 23:00:21.589112,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,SF 49ers to beat BAL Ravens,0.021999999999999964,0.3077,0.2857
-2024-01-21 23:00:20.875364,To Make the Playoffs - Sacramento Kings - To Make the 2023-24 Playoffs,No,0.021999999999999964,0.3077,0.2857
 2024-01-21 23:00:21.589112,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,BAL Ravens to beat SF 49ers,0.021999999999999964,0.3077,0.2857
+2024-01-21 23:00:20.875364,To Make the Playoffs - Sacramento Kings - To Make the 2023-24 Playoffs,No,0.021999999999999964,0.3077,0.2857
+2024-01-21 23:00:21.589112,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,SF 49ers to beat BAL Ravens,0.021999999999999964,0.3077,0.2857
 2024-01-22 01:00:03.359073,NCAA DI Men - American Athletic Conference 2023-24 - Winner,Florida Atlantic,0.021699999999999997,0.4762,0.4545
 2024-01-22 07:01:05.866035,Republican Party Primaries - New Hampshire Primary Popular Vote: Haley Share - New Hampshire Haley Vote Share,39.5% or under,0.02169999999999994,0.5455,0.5238
 2024-01-22 01:00:03.541207,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Nikola Jokic (DEN),0.020799999999999985,0.3333,0.3125
@@ -70,15 +67,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-22 05:00:04.283917,Gran Hermano - Gran Hermano 2024 - Outright Winner,Emmanuel,0.02020000000000001,0.1111,0.0909
 2024-01-22 01:00:01.379254,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Arsenal,0.020199999999999996,0.9091,0.8889
 2024-01-22 01:00:01.368440,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Liverpool,0.018999999999999906,0.7333,0.7143
-2024-01-22 01:00:03.426097,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Virginia Tech,0.0189,0.0385,0.0196
 2024-01-22 01:00:03.426097,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Notre Dame,0.0189,0.0385,0.0196
+2024-01-22 01:00:03.426097,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Virginia Tech,0.0189,0.0385,0.0196
 2024-01-22 05:00:04.283917,Gran Hermano - Gran Hermano 2024 - Outright Winner,Federico,0.01820000000000002,0.2,0.1818
-2024-01-21 21:01:56.355419,A-League - Australia A-League 2023/24 - Grand Final Winner,Central Coast Mariners,0.0179,0.1429,0.125
 2024-01-22 05:00:03.085855,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Hellas Verona,0.0179,0.1429,0.125
 2024-01-22 01:00:03.359073,NCAA DI Men - American Athletic Conference 2023-24 - Winner,South Florida,0.0168,0.0385,0.0217
-2024-01-22 01:00:01.401754,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Bournemouth,0.016699999999999993,0.2667,0.25
 2024-01-22 01:00:03.426097,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,South Carolina,0.016699999999999993,0.2667,0.25
-2024-01-21 21:01:59.234517,Boxing Lines - Oscar Collazo vs Reyneris Gutierrez - To Win the Bout,Reyneris Gutierrez,0.016600000000000004,0.0833,0.0667
+2024-01-22 01:00:01.401754,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Bournemouth,0.016699999999999993,0.2667,0.25
 2024-01-22 01:00:03.302885,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Houston,0.015400000000000025,0.4,0.3846
 2024-01-22 01:00:03.426097,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Utah,0.015300000000000001,0.0476,0.0323
 2024-01-22 03:00:32.801036,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,CF Monterrey,0.015100000000000002,0.1818,0.1667
@@ -91,17 +86,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-22 03:00:36.895004,Boxing Lines - Paddy Donovan vs Williams Andres Herrera - To Win the Bout,Paddy Donovan,0.0131,0.9655,0.9524
 2024-01-21 23:00:19.727875,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Wellington Phoenix,0.012899999999999995,0.1667,0.1538
 2024-01-21 23:00:21.580612,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Matchup,BAL Ravens vs SF 49ers,0.012199999999999989,0.5122,0.5
-2024-01-21 21:01:59.160473,Boxing Lines - Artem Dalakian vs Seigo Yuri Akui - To Win the Bout,Seigo Yuri Akui,0.011600000000000055,0.5238,0.5122
 2024-01-21 23:00:20.831887,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Conference,Western Conference,0.011600000000000055,0.5238,0.5122
-2024-01-21 21:01:58.058335,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Baltimore Ravens,0.01150000000000001,0.3448,0.3333
 2024-01-22 05:00:06.930508,Boxing Lines - Lewis Crocker vs Jose Felix Jr - To Win the Bout,Lewis Crocker,0.011099999999999999,0.9,0.8889
 2024-01-22 05:00:05.131371,Republican Party Primaries - New Hampshire Primary Popular Vote: Haley Share - New Hampshire Haley Vote Share,Over 39.5%,0.010699999999999932,0.5455,0.5348
 2024-01-22 01:00:03.215614,NCAA DI Men - ACC Conference 2023-24 - Winner,North Carolina,0.010400000000000076,0.7778,0.7674
 2024-01-21 23:00:21.526098,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 MVP,Travis Kelce,0.010100000000000001,0.0217,0.0116
-2024-01-21 23:00:22.638683,Boxing Lines - Artem Dalakian vs Seigo Yuri Akui - To Win the Bout,Artem Dalakian,0.010099999999999998,0.5556,0.5455
 2024-01-22 03:00:35.695029,MLB 2024 Regular Season Team Props - Los Angeles Angels Regular Season Win Total - Los Angeles Angels Regular Season Win Total,Over 69.5,0.010099999999999998,0.5556,0.5455
+2024-01-21 23:00:22.638683,Boxing Lines - Artem Dalakian vs Seigo Yuri Akui - To Win the Bout,Artem Dalakian,0.010099999999999998,0.5556,0.5455
 2024-01-21 23:00:20.831887,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Conference,Eastern Conference,-0.010099999999999998,0.5455,0.5556
-2024-01-21 21:01:59.160473,Boxing Lines - Artem Dalakian vs Seigo Yuri Akui - To Win the Bout,Artem Dalakian,-0.010099999999999998,0.5455,0.5556
 2024-01-21 23:00:21.526098,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 MVP,George Kittle,-0.010100000000000001,0.0116,0.0217
 2024-01-22 03:00:32.801036,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,Chivas Guadalajara,-0.0102,0.0667,0.0769
 2024-01-22 01:00:01.401754,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Crystal Palace,-0.0102,0.0667,0.0769
@@ -109,61 +101,53 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-21 23:00:21.569763,Super Bowl LVIII - Superbowl 58 (2024) - Conference Winner,NFC,-0.010699999999999932,0.5348,0.5455
 2024-01-22 01:00:03.343756,NCAA DI Men - Pac-12 Conference 2023-24 - Winner,Oregon,-0.010899999999999993,0.1429,0.1538
 2024-01-22 05:00:05.131371,Republican Party Primaries - New Hampshire Primary Popular Vote: Haley Share - New Hampshire Haley Vote Share,39.5% or under,-0.01100000000000001,0.5238,0.5348
-2024-01-22 03:00:35.695029,MLB 2024 Regular Season Team Props - Los Angeles Angels Regular Season Win Total - Los Angeles Angels Regular Season Win Total,Under 69.5,-0.011600000000000055,0.5122,0.5238
 2024-01-21 23:00:22.638683,Boxing Lines - Artem Dalakian vs Seigo Yuri Akui - To Win the Bout,Seigo Yuri Akui,-0.011600000000000055,0.5122,0.5238
+2024-01-22 03:00:35.695029,MLB 2024 Regular Season Team Props - Los Angeles Angels Regular Season Win Total - Los Angeles Angels Regular Season Win Total,Under 69.5,-0.011600000000000055,0.5122,0.5238
 2024-01-22 01:00:06.177793,Boxing Lines - Artem Dalakian vs Seigo Yuri Akui - To Win the Bout,Seigo Yuri Akui,-0.012199999999999989,0.5,0.5122
-2024-01-21 21:01:56.237258,AFC Asian Cup - AFC Asian Cup 2023 - Top Goalscorer,Daizen Maeda,-0.0131,0.0345,0.0476
+2024-01-22 03:00:33.721809,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Isabelle,-0.013899999999999996,0.1111,0.125
 2024-01-22 03:00:33.721809,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Deniziane,-0.013899999999999996,0.1111,0.125
 2024-01-22 05:00:04.305616,39th Independent Spirit Awards - Best Lead Performance - Best Lead Performance,Teo Yoo - Past Lives,-0.013899999999999996,0.1111,0.125
-2024-01-22 03:00:33.721809,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Isabelle,-0.013899999999999996,0.1111,0.125
 2024-01-22 01:00:01.368440,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Manchester City,-0.013900000000000023,0.875,0.8889
 2024-01-22 01:00:01.379254,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Chelsea,-0.013999999999999999,0.0769,0.0909
 2024-01-22 05:00:03.091842,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Bologna,-0.013999999999999999,0.0769,0.0909
 2024-01-22 01:00:01.379254,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Manchester United,-0.013999999999999999,0.0769,0.0909
 2024-01-22 03:00:33.721809,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Fernanda,-0.014099999999999998,0.0244,0.0385
-2024-01-21 21:01:56.237258,AFC Asian Cup - AFC Asian Cup 2023 - Top Goalscorer,Mao Hosoya,-0.014099999999999998,0.0244,0.0385
-2024-01-21 21:01:56.237258,AFC Asian Cup - AFC Asian Cup 2023 - Top Goalscorer,Takuma Asano,-0.014099999999999998,0.0244,0.0385
 2024-01-22 03:00:33.721809,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Marcus,-0.014099999999999998,0.0244,0.0385
 2024-01-22 05:00:05.109668,Republican Party Primaries - New Hampshire Primary Popular Vote Winner - New Hampshire Primary Winner,Nikki Haley,-0.014399999999999996,0.0625,0.0769
 2024-01-22 01:00:01.357086,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Burnley,-0.01469999999999999,0.2353,0.25
 2024-01-22 03:00:33.721809,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Wanessa,-0.014899999999999997,0.0476,0.0625
 2024-01-22 03:00:33.721809,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Rodriguinho,-0.014899999999999997,0.0476,0.0625
 2024-01-22 03:00:32.801036,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,FC Puebla,-0.014900000000000004,0.0196,0.0345
-2024-01-21 21:01:59.234517,Boxing Lines - Oscar Collazo vs Reyneris Gutierrez - To Win the Bout,Oscar Collazo,-0.014900000000000024,0.9655,0.9804
 2024-01-22 03:00:33.721809,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Raquele,-0.015300000000000001,0.0323,0.0476
-2024-01-22 05:00:05.121069,Republican Party Primaries - New Hampshire Primary Popular Vote: Trump Winning Margin - New Hampshire Primary Trump Winning Margin,Trump NOT to win,-0.016600000000000004,0.0667,0.0833
 2024-01-21 23:00:22.756445,Boxing Lines - Oscar Collazo vs Reyneris Gutierrez - To Win the Bout,Reyneris Gutierrez,-0.016600000000000004,0.0667,0.0833
+2024-01-22 05:00:05.121069,Republican Party Primaries - New Hampshire Primary Popular Vote: Trump Winning Margin - New Hampshire Primary Trump Winning Margin,Trump NOT to win,-0.016600000000000004,0.0667,0.0833
 2024-01-22 03:00:36.895004,Boxing Lines - Paddy Donovan vs Williams Andres Herrera - To Win the Bout,Williams Andres Herrera,-0.016700000000000007,0.0833,0.1
 2024-01-22 01:00:01.368440,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Arsenal,-0.017600000000000005,0.3333,0.3509
 2024-01-21 23:00:19.727875,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Melbourne Victory,-0.017600000000000005,0.3333,0.3509
 2024-01-22 01:00:01.413013,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Bournemouth,-0.018199999999999994,0.8,0.8182
-2024-01-21 21:01:56.237258,AFC Asian Cup - AFC Asian Cup 2023 - Top Goalscorer,Mehdi Taremi,-0.018200000000000004,0.0294,0.0476
 2024-01-22 01:00:01.401754,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Nottingham Forest,-0.0189,0.0196,0.0385
-2024-01-21 21:01:56.355419,A-League - Australia A-League 2023/24 - Grand Final Winner,Melbourne Victory,-0.019000000000000017,0.2667,0.2857
-2024-01-21 21:01:56.237258,AFC Asian Cup - AFC Asian Cup 2023 - Top Goalscorer,Ali Mabkhout,-0.019600000000000003,0.0149,0.0345
 2024-01-22 03:00:36.795094,Boxing Lines - Artem Dalakian vs Seigo Yuri Akui - To Win the Bout,Artem Dalakian,-0.01970000000000005,0.5455,0.5652
-2024-01-22 05:00:03.036585,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Athletic Bilbao,-0.02020000000000001,0.0909,0.1111
 2024-01-22 05:00:03.022967,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Sociedad,-0.02020000000000001,0.0909,0.1111
+2024-01-22 05:00:03.036585,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Athletic Bilbao,-0.02020000000000001,0.0909,0.1111
 2024-01-22 07:01:05.866035,Republican Party Primaries - New Hampshire Primary Popular Vote: Haley Share - New Hampshire Haley Vote Share,Over 39.5%,-0.02169999999999994,0.5238,0.5455
 2024-01-22 01:00:01.390518,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,West Ham United,-0.022199999999999998,0.2,0.2222
 2024-01-22 05:00:03.091842,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Lazio,-0.022199999999999998,0.2,0.2222
 2024-01-22 05:00:05.121069,Republican Party Primaries - New Hampshire Primary Popular Vote: Trump Winning Margin - New Hampshire Primary Trump Winning Margin,Over 19.5%,-0.022600000000000064,0.5122,0.5348
-2024-01-22 05:00:03.085855,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Frosinone,-0.023200000000000002,0.0294,0.0526
 2024-01-22 05:00:03.079776,Serie A - Italy Serie A 2023/24 - To Be Relegated,Genoa,-0.023200000000000002,0.0244,0.0476
+2024-01-22 05:00:03.085855,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Frosinone,-0.023200000000000002,0.0294,0.0526
 2024-01-22 01:00:03.947949,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.023799999999999988,0.4762,0.5
+2024-01-22 05:00:04.034365,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,Saltburn,-0.024,0.0385,0.0625
 2024-01-22 05:00:04.034365,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,May December,-0.024,0.0385,0.0625
 2024-01-22 05:00:04.034365,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,Maestro,-0.024,0.0385,0.0625
-2024-01-22 05:00:04.034365,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,Saltburn,-0.024,0.0385,0.0625
 2024-01-21 23:00:19.721106,A-League - Australia A-League 2023/24 - Top 6 Finish,Melbourne Victory,-0.0242,0.9091,0.9333
 2024-01-22 01:00:03.426097,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Colorado,-0.024299999999999995,0.0526,0.0769
 2024-01-22 05:00:04.024808,96th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,Killers Of The Flower Moon,-0.024999999999999994,0.1,0.125
 2024-01-22 01:00:03.359073,NCAA DI Men - American Athletic Conference 2023-24 - Winner,Memphis,-0.02560000000000001,0.3077,0.3333
 2024-01-21 23:00:20.875364,To Make the Playoffs - Sacramento Kings - To Make the 2023-24 Playoffs,Yes,-0.026499999999999968,0.7561,0.7826
 2024-01-22 05:00:04.024808,96th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,American Fiction,-0.02779999999999999,0.2222,0.25
-2024-01-21 23:00:19.721106,A-League - Australia A-League 2023/24 - Top 6 Finish,Melbourne City,-0.027800000000000047,0.75,0.7778
 2024-01-21 23:00:20.842942,To Make the Playoffs - Dallas Mavericks - To Make the 2023-24 Playoffs,Yes,-0.027800000000000047,0.7222,0.75
+2024-01-21 23:00:19.721106,A-League - Australia A-League 2023/24 - Top 6 Finish,Melbourne City,-0.027800000000000047,0.75,0.7778
 2024-01-22 05:00:03.072581,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Lautaro Martinez (Inter Milan),-0.028299999999999992,0.8948,0.9231
-2024-01-21 21:01:56.237258,AFC Asian Cup - AFC Asian Cup 2023 - Top Goalscorer,Saleh Al Shehri,-0.0294,0.0294,0.0588
 2024-01-22 05:00:03.036585,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Atlético Madrid,-0.030299999999999994,0.3333,0.3636
 2024-01-22 03:00:33.721809,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Vinicius,-0.0384,0.0385,0.0769
 2024-01-22 05:00:03.091842,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Atalanta,-0.03920000000000001,0.2941,0.3333
