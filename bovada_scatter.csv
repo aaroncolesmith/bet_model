@@ -9,7 +9,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-22 11:02:07.655097,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - Winner",San Carlos,0.05559999999999998,0.1667,0.1111
 2024-01-22 19:00:27.352005,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,Trevor Werbylo,0.0544,0.0667,0.0123
 2024-01-22 19:00:27.352005,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,Tim Widing,0.0503,0.0667,0.0164
-2024-01-22 07:01:08.218480,Boxing Lines - Artem Dalakian vs Seigo Yuri Akui - To Win the Bout,Artem Dalakian,0.04620000000000002,0.5917,0.5455
 2024-01-22 11:02:07.655097,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - Winner",Alajuelense,0.043200000000000016,0.3509,0.3077
 2024-01-22 19:00:27.352005,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,Ryan Blaum,0.042600000000000006,0.0476,0.005
 2024-01-22 19:00:27.352005,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,Austin Hitt,0.041,0.0476,0.0066
@@ -25,12 +24,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-22 19:00:27.103591,Tournament Match-Ups - Tournament Match-Up - N. Hojgaard vs S. Straka - Tournament Match-Up,Nicolai Hojgaard,0.023800000000000043,0.5238,0.5
 2024-01-22 19:00:23.423739,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Baskonia,0.023799999999999988,0.5,0.4762
 2024-01-22 19:00:27.352005,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,Quade Cummins,0.023200000000000002,0.0476,0.0244
-2024-01-22 07:01:05.866035,Republican Party Primaries - New Hampshire Primary Popular Vote: Haley Share - New Hampshire Haley Vote Share,39.5% or under,0.02169999999999994,0.5455,0.5238
 2024-01-22 17:01:28.568987,NBL - NBL 2023/2024 - To Make Grand Final,Melbourne United,0.020100000000000007,0.75,0.7299
 2024-01-22 19:00:26.959667,Tournament Match-Ups - Tournament Match-Up - A. Meronk vs J. Rose - Tournament Match-Up,Adrian Meronk,0.01970000000000005,0.5652,0.5455
 2024-01-22 17:01:28.516480,Euroleague - Euroleague 2023/24 - To Make Final Four,Partizan,0.019000000000000017,0.2857,0.2667
-2024-01-22 19:00:27.352005,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,John VanDerLaan,0.0189,0.0385,0.0196
 2024-01-22 19:00:27.352005,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,Satoshi Kodaira,0.0189,0.0385,0.0196
+2024-01-22 19:00:27.352005,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,John VanDerLaan,0.0189,0.0385,0.0196
 2024-01-22 17:01:28.568987,NBL - NBL 2023/2024 - To Make Grand Final,Cairns Taipans,0.018200000000000004,0.0476,0.0294
 2024-01-22 19:00:23.423739,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Panathinaikos,0.017900000000000027,0.875,0.8571
 2024-01-22 19:00:27.352005,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,Sam Bennett,0.015300000000000001,0.0476,0.0323
@@ -66,7 +64,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-22 19:00:27.352005,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,Mason Andersen,-0.020000000000000004,0.0123,0.0323
 2024-01-22 17:01:28.551622,NBL - NBL 2023/2024 - Outright,Melbourne United,-0.020699999999999996,0.4444,0.4651
 2024-01-22 19:00:27.352005,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,Cristobal Del Solar,-0.0211,0.0033,0.0244
-2024-01-22 07:01:05.866035,Republican Party Primaries - New Hampshire Primary Popular Vote: Haley Share - New Hampshire Haley Vote Share,Over 39.5%,-0.02169999999999994,0.5238,0.5455
 2024-01-22 19:00:27.352005,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,Kevin Roy,-0.023200000000000002,0.0244,0.0476
 2024-01-22 19:00:27.352005,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,Chase Seiffert,-0.0233,0.0152,0.0385
 2024-01-22 19:00:26.959667,Tournament Match-Ups - Tournament Match-Up - A. Meronk vs J. Rose - Tournament Match-Up,Justin Rose,-0.023800000000000043,0.5,0.5238
@@ -75,7 +72,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-22 17:01:28.568987,NBL - NBL 2023/2024 - To Make Grand Final,Brisbane Bullets,-0.04169999999999999,0.125,0.1667
 2024-01-22 11:02:07.646220,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - To Be Relegated",Puntarenas FC,-0.044399999999999995,0.4,0.4444
 2024-01-22 19:00:23.423739,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Partizan,-0.04630000000000001,0.5833,0.6296
-2024-01-22 07:01:08.218480,Boxing Lines - Artem Dalakian vs Seigo Yuri Akui - To Win the Bout,Seigo Yuri Akui,-0.04760000000000003,0.4762,0.5238
 2024-01-22 17:01:28.568987,NBL - NBL 2023/2024 - To Make Grand Final,New Zealand Breakers,-0.048100000000000004,0.0769,0.125
 2024-01-22 17:01:28.568987,NBL - NBL 2023/2024 - To Make Grand Final,SE Melbourne Phoenix,-0.0544,0.0123,0.0667
 2024-01-22 17:01:28.598064,WNBL - Australia WNBL 2023/24 - Outright,Townsville Fire (W),-0.05520000000000003,0.3448,0.4
