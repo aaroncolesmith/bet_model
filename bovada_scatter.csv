@@ -27,8 +27,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-22 17:01:28.568987,NBL - NBL 2023/2024 - To Make Grand Final,Melbourne United,0.020100000000000007,0.75,0.7299
 2024-01-22 19:00:26.959667,Tournament Match-Ups - Tournament Match-Up - A. Meronk vs J. Rose - Tournament Match-Up,Adrian Meronk,0.01970000000000005,0.5652,0.5455
 2024-01-22 17:01:28.516480,Euroleague - Euroleague 2023/24 - To Make Final Four,Partizan,0.019000000000000017,0.2857,0.2667
-2024-01-22 19:00:27.352005,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,Satoshi Kodaira,0.0189,0.0385,0.0196
 2024-01-22 19:00:27.352005,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,John VanDerLaan,0.0189,0.0385,0.0196
+2024-01-22 19:00:27.352005,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,Satoshi Kodaira,0.0189,0.0385,0.0196
 2024-01-22 17:01:28.568987,NBL - NBL 2023/2024 - To Make Grand Final,Cairns Taipans,0.018200000000000004,0.0476,0.0294
 2024-01-22 19:00:23.423739,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Panathinaikos,0.017900000000000027,0.875,0.8571
 2024-01-22 19:00:27.352005,The Bahamas Great Abaco Classic - The Bahamas Great Abaco Classic - Winner,Sam Bennett,0.015300000000000001,0.0476,0.0323
@@ -69,6 +69,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-22 19:00:26.959667,Tournament Match-Ups - Tournament Match-Up - A. Meronk vs J. Rose - Tournament Match-Up,Justin Rose,-0.023800000000000043,0.5,0.5238
 2024-01-22 11:02:09.068290,Republican Party Primaries - New Hampshire Primary Popular Vote: Trump Winning Margin - New Hampshire Primary Trump Winning Margin,Over 19.5%,-0.024399999999999977,0.4878,0.5122
 2024-01-22 17:01:28.598064,WNBL - Australia WNBL 2023/24 - Outright,Melbourne Boomers W,-0.02739999999999998,0.2667,0.2941
+2024-01-22 23:00:32.959450,Boxing Lines - Luis Robles Pacheco vs Tenshin Nasukawa - To Win the Bout,Tenshin Nasukawa,-0.02839999999999998,0.9091,0.9375
 2024-01-22 17:01:28.568987,NBL - NBL 2023/2024 - To Make Grand Final,Brisbane Bullets,-0.04169999999999999,0.125,0.1667
 2024-01-22 11:02:07.646220,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - To Be Relegated",Puntarenas FC,-0.044399999999999995,0.4,0.4444
 2024-01-22 19:00:23.423739,Euroleague - Euroleague 2023/24 - To Make the Playoffs,Partizan,-0.04630000000000001,0.5833,0.6296
