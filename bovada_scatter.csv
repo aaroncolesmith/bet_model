@@ -1,48 +1,42 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-23 02:59:54.901155,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Emilio Nsue,0.5812,0.6923,0.1111
+2024-01-23 13:01:17.204477,NBL - NBL 2023/2024 - Most Losses,SE Melboune Phoenix,0.2924,0.7368,0.4444
 2024-01-23 09:00:47.770225,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Over 67.5,0.15750000000000003,0.6226,0.4651
 2024-01-23 04:59:56.319825,Miami Heat - 2023-24 Regular Season Wins O/U - Team Wins,Under 45.5,0.13690000000000002,0.4878,0.3509
-2024-01-23 09:00:47.672359,Positions - Finishing Position - Sahith Theegala - Finishing Position,35th or worse,0.11740000000000006,0.6296,0.5122
 2024-01-23 09:00:47.602175,Positions - Finishing Position - Ludvig Aberg - Finishing Position,24th or worse,0.11740000000000006,0.6296,0.5122
+2024-01-23 09:00:47.672359,Positions - Finishing Position - Sahith Theegala - Finishing Position,35th or worse,0.11740000000000006,0.6296,0.5122
 2024-01-23 09:00:47.566532,Positions - Finishing Position - Jason Day - Finishing Position,31st or worse,0.0988,0.6226,0.5238
-2024-01-23 00:59:53.124753,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Joel Embiid (PHI),0.09700000000000003,0.4,0.303
-2024-01-23 00:59:52.992285,NCAA DI Men - SEC Conference 2023-24 - Winner,Auburn,0.07619999999999999,0.4762,0.4
+2024-01-23 13:01:17.414981,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Stephen Curry (GSW),0.07579999999999999,0.1667,0.0909
 2024-01-23 07:00:28.797121,NFL Weekly Specials - Conference Championship - Most Passing Yards,Patrick Mahomes,0.0635,0.2857,0.2222
 2024-01-23 02:59:54.901155,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Mostafa Mohamed,0.0615,0.0909,0.0294
-2024-01-23 00:59:52.683685,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,0.06059999999999999,0.3636,0.303
 2024-01-23 02:59:54.901155,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Baghdad Bounedjah,0.052000000000000005,0.1429,0.0909
-2024-01-23 00:59:52.954446,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Baylor,0.052000000000000005,0.1429,0.0909
+2024-01-23 13:01:16.283404,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,Anatomy Of A Fall,0.05130000000000001,0.3846,0.3333
 2024-01-23 09:00:41.287985,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Joel Embiid (PHI),0.05020000000000002,0.4348,0.3846
-2024-01-23 00:59:52.954446,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Kansas,0.048400000000000026,0.2151,0.1667
 2024-01-23 02:59:54.770987,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Atlético Madrid,0.04810000000000003,0.8182,0.7701
 2024-01-23 07:00:26.265156,To Make the Playoffs - Phoenix Suns - To Make the 2023-24 Playoffs,Yes,0.04619999999999991,0.8462,0.8
 2024-01-23 07:00:28.825572,NFL Weekly Specials - Conference Championship - Most Rushing Yards,Gus Edwards,0.0448,0.0833,0.0385
-2024-01-23 00:59:52.683685,Northwest Division - Northwest Division 2023-24 - Division Winner,Denver Nuggets,0.04460000000000003,0.4082,0.3636
-2024-01-23 00:59:52.944589,NCAA DI Men - ACC Conference 2023-24 - Winner,Duke,0.044499999999999984,0.2667,0.2222
-2024-01-23 04:59:56.469754,Milwaukee Bucks - 2023-24 Regular Season Wins O/U - Team Wins,Over 54.5,0.043399999999999994,0.5556,0.5122
+2024-01-23 13:01:16.244084,96th Academy Awards - Best Actress - Best Actress,Sandra Huller - Anatomy Of A Fall,0.0448,0.0833,0.0385
+2024-01-23 13:01:16.244084,96th Academy Awards - Best Actress - Best Actress,Emma Stone - Poor Things,0.044399999999999995,0.4444,0.4
 2024-01-23 04:59:56.380477,Sacramento Kings - 2023-24 Regular Season Wins O/U - Team Wins,Over 46.5,0.043399999999999994,0.5556,0.5122
-2024-01-23 00:59:55.073315,Boxing Lines - Luis Robles Pacheco vs Tenshin Nasukawa - To Win the Bout,Tenshin Nasukawa,0.043300000000000005,0.9524,0.9091
+2024-01-23 04:59:56.469754,Milwaukee Bucks - 2023-24 Regular Season Wins O/U - Team Wins,Over 54.5,0.043399999999999994,0.5556,0.5122
 2024-01-23 04:59:56.836588,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Elise Stefanik,0.04169999999999999,0.1667,0.125
+2024-01-23 13:01:21.853173,Positions - Finishing Position - Ludvig Aberg - Finishing Position,23rd or better,0.04139999999999999,0.4762,0.4348
 2024-01-23 04:59:56.555715,Detroit Pistons - 2023-24 Regular Season Wins O/U - Team Wins,Under 11.5,0.04139999999999999,0.5652,0.5238
 2024-01-23 07:00:26.190870,To Make the Playoffs - Los Angeles Lakers - To Make the 2023-24 Playoffs,No,0.040999999999999925,0.6154,0.5744
-2024-01-23 00:59:52.910846,NCAA DI Men - Big Ten Conference 2023-24 - Winner,Wisconsin,0.04040000000000002,0.2222,0.1818
-2024-01-23 00:59:52.929902,NCAA DI Men - Big East Conference 2023-24 - Winner,UConn,0.03810000000000002,0.8,0.7619
 2024-01-23 11:01:43.662952,Southeast Division - Southeast Division 2023-24 - Division Winner,Miami Heat,0.036900000000000044,0.7143,0.6774
 2024-01-23 11:01:43.651898,Pacific Division - Pacific Division 2023-24 - Division Winner,Phoenix Suns,0.036199999999999996,0.1538,0.1176
 2024-01-23 09:00:46.888604,Farmers Insurance Open - 2/3 Balls - 1st Round 3 Balls - B. Martin / S. Jaeger / H. Buckley - 1st Round 3 Balls,Stephan Jaeger,0.03600000000000003,0.5238,0.4878
 2024-01-23 07:00:26.088677,To Make the Playoffs - Chicago Bulls - To Make the 2023-24 Playoffs,No,0.035599999999999965,0.7917,0.7561
-2024-01-23 00:59:52.973677,NCAA DI Men - Pac-12 Conference 2023-24 - Winner,Arizona,0.0353,0.8,0.7647
 2024-01-23 04:59:56.332920,Los Angeles Clippers - 2023-24 Regular Season Wins O/U - Team Wins,Over 52.5,0.03480000000000005,0.5348,0.5
 2024-01-23 02:59:54.908040,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Cape Verde,0.0321,0.0909,0.0588
+2024-01-23 13:01:17.877436,Republican Party Primaries - New Hampshire Primary Popular Vote: Haley Share - New Hampshire Haley Vote Share,Over 38%,0.03179999999999994,0.5556,0.5238
 2024-01-23 04:59:56.656210,Boston Celtics - 2023-24 Regular Season Wins O/U - Team Wins,Over 62.5,0.03179999999999994,0.5556,0.5238
 2024-01-23 02:59:54.776987,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Atlético Madrid,0.030299999999999994,0.3636,0.3333
-2024-01-23 00:59:53.035335,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Connecticut,0.029899999999999982,0.3077,0.2778
-2024-01-23 00:59:52.954446,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Oklahoma,0.028399999999999995,0.0909,0.0625
 2024-01-23 07:00:26.104628,To Make the Playoffs - Cleveland Cavaliers - To Make the 2023-24 Playoffs,Yes,0.028200000000000003,0.9615,0.9333
 2024-01-23 02:59:54.908040,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,South Africa,0.028199999999999996,0.0667,0.0385
-2024-01-23 04:59:59.794250,Tournament Match-Ups - Tournament Match-Up - A. Meronk vs J. Rose - Tournament Match-Up,Adrian Meronk,0.026499999999999968,0.5917,0.5652
-2024-01-23 07:00:32.587650,Tournament Match-Ups - Tournament Match-Up - J. Day vs S. Im - Tournament Match-Up,Sungjae Im,0.026499999999999968,0.5917,0.5652
 2024-01-23 04:59:56.345533,Brooklyn Nets - 2023-24 Regular Season Wins O/U - Team Wins,Under 35.5,0.026499999999999968,0.5917,0.5652
+2024-01-23 07:00:32.587650,Tournament Match-Ups - Tournament Match-Up - J. Day vs S. Im - Tournament Match-Up,Sungjae Im,0.026499999999999968,0.5917,0.5652
+2024-01-23 04:59:59.794250,Tournament Match-Ups - Tournament Match-Up - A. Meronk vs J. Rose - Tournament Match-Up,Adrian Meronk,0.026499999999999968,0.5917,0.5652
 2024-01-23 07:00:26.120615,To Make the Playoffs - Dallas Mavericks - To Make the 2023-24 Playoffs,No,0.02560000000000001,0.3704,0.3448
 2024-01-23 07:00:26.057929,To Make the Playoffs - Atlanta Hawks - To Make the 2023-24 Playoffs,No,0.02510000000000001,0.8077,0.7826
 2024-01-23 04:59:54.991710,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Tottenham Hotspur,0.023800000000000043,0.5238,0.5
@@ -51,95 +45,92 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-23 07:00:26.172077,To Make the Playoffs - Indiana Pacers - To Make the 2023-24 Playoffs,No,0.023799999999999988,0.1667,0.1429
 2024-01-23 02:59:54.908040,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Equatorial Guinea,0.0236,0.0385,0.0149
 2024-01-23 07:00:28.825572,NFL Weekly Specials - Conference Championship - Most Rushing Yards,Justice Hill,0.023200000000000002,0.0526,0.0294
-2024-01-23 04:59:56.579905,Dallas Mavericks - 2023-24 Regular Season Wins O/U - Team Wins,Under 45.5,0.022600000000000064,0.5348,0.5122
 2024-01-23 04:59:56.670062,Atlanta Hawks - 2023-24 Regular Season Wins O/U - Team Wins,Under 36.5,0.022600000000000064,0.5348,0.5122
-2024-01-23 00:59:52.705424,Southeast Division - Southeast Division 2023-24 - Division Winner,Miami Heat,0.022199999999999998,0.6774,0.6552
+2024-01-23 04:59:56.579905,Dallas Mavericks - 2023-24 Regular Season Wins O/U - Team Wins,Under 45.5,0.022600000000000064,0.5348,0.5122
 2024-01-23 07:00:26.284077,To Make the Playoffs - Sacramento Kings - To Make the 2023-24 Playoffs,Yes,0.021700000000000053,0.7778,0.7561
 2024-01-23 11:01:43.641376,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,0.02100000000000002,0.3846,0.3636
 2024-01-23 07:00:30.242379,MLB 2024 Regular Season Team Props - San Francisco Giants Regular Season Win Total - San Francisco Giants Regular Season Win Total,Under 81.5,0.02079999999999993,0.5556,0.5348
 2024-01-23 04:59:59.847742,Tournament Match-Ups - Tournament Match-Up - H. English vs S. Lowry - Tournament Match-Up,Harris English,0.02079999999999993,0.5556,0.5348
-2024-01-23 00:59:52.944589,NCAA DI Men - ACC Conference 2023-24 - Winner,NC State,0.0203,0.0526,0.0323
-2024-01-23 00:59:52.954446,NCAA DI Men - Big 12 Conference 2023-24 - Winner,TCU,0.0203,0.0526,0.0323
-2024-01-23 09:00:42.046885,Republican Party Primaries - New Hampshire Primary Popular Vote: Haley Share - New Hampshire Haley Vote Share,39.5% or under,0.01970000000000005,0.5652,0.5455
 2024-01-23 04:59:56.294599,Portland Trail Blazers - 2023-24 Regular Season Wins O/U - Team Wins ,Under 25.5,0.01970000000000005,0.5652,0.5455
 2024-01-23 09:00:48.350051,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs M. Homa - Tournament Match-Up,Collin Morikawa,0.01970000000000005,0.5652,0.5455
+2024-01-23 09:00:42.046885,Republican Party Primaries - New Hampshire Primary Popular Vote: Haley Share - New Hampshire Haley Vote Share,39.5% or under,0.01970000000000005,0.5652,0.5455
 2024-01-23 09:00:48.309527,Tournament Match-Ups - Tournament Match-Up - N. Hojgaard vs S. Straka - Tournament Match-Up,Nicolai Hojgaard,0.01970000000000005,0.5652,0.5455
 2024-01-23 09:00:47.722461,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Under 67.5,0.019699999999999995,0.4545,0.4348
 2024-01-23 09:00:41.161626,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Michigan State,0.01949999999999999,0.0909,0.0714
+2024-01-23 13:01:16.244084,96th Academy Awards - Best Actress - Best Actress,Carey Mulligan - Maestro,0.019099999999999992,0.0667,0.0476
+2024-01-23 13:01:17.414981,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Kevin Durant (PHX),0.0189,0.0385,0.0196
+2024-01-23 13:01:17.219925,NBL - NBL 2023/2024 - Regular Season MVP,Anthony  Lamb,0.0189,0.0385,0.0196
+2024-01-23 13:01:17.219925,NBL - NBL 2023/2024 - Regular Season MVP,Bryce Cotton,0.01849999999999996,0.9709,0.9524
 2024-01-23 02:59:54.908040,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Mali,0.0179,0.1429,0.125
-2024-01-23 00:59:52.672743,Central Division - Central Division 2023-24 - Division Winner,Cleveland Cavaliers,0.0179,0.1429,0.125
-2024-01-23 11:01:43.641376,Northwest Division - Northwest Division 2023-24 - Division Winner,Denver Nuggets,0.017299999999999982,0.4255,0.4082
 2024-01-23 04:59:56.307747,Philadelphia 76ers - 2023-24 Regular Season Wins O/U - Team Wins,Over 54.5,0.017299999999999982,0.5917,0.5744
+2024-01-23 11:01:43.641376,Northwest Division - Northwest Division 2023-24 - Division Winner,Denver Nuggets,0.017299999999999982,0.4255,0.4082
+2024-01-23 13:01:16.235016,96th Academy Awards - Best Actor - Best Actor,Cillian Murphy - Oppenheimer,0.016700000000000048,0.75,0.7333
 2024-01-23 09:00:46.330108,Boxing Lines - Gabriela Fundora vs Christina Cruz - To Win the Bout,Christina Cruz,0.016700000000000007,0.1,0.0833
+2024-01-23 13:01:17.865095,Republican Party Primaries - New Hampshire Primary Popular Vote: Trump Winning Margin - New Hampshire Primary Trump Winning Margin,0.01 to 19.5%,0.016699999999999937,0.6,0.5833
 2024-01-23 09:00:48.385387,Tournament Match-Ups - Tournament Match-Up - S. Theegala vs W. Zalatoris - Tournament Match-Up,Sahith Theegala,0.016100000000000003,0.6078,0.5917
 2024-01-23 07:00:26.303477,To Make the Playoffs - Utah Jazz - To Make the 2023-24 Playoffs,Yes,0.015899999999999997,0.1538,0.1379
-2024-01-23 00:59:52.929902,NCAA DI Men - Big East Conference 2023-24 - Winner,Marquette,0.015700000000000006,0.1333,0.1176
-2024-01-23 00:59:52.944589,NCAA DI Men - ACC Conference 2023-24 - Winner,Miami Florida,0.014599999999999998,0.0196,0.005
 2024-01-23 07:00:26.231543,To Make the Playoffs - New York Knicks - To Make the 2023-24 Playoffs,Yes,0.014100000000000001,0.9615,0.9474
+2024-01-23 13:01:16.283404,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,Maestro,0.014100000000000001,0.0526,0.0385
+2024-01-23 13:01:16.253139,96th Academy Awards - Best Director - Best Director,Martin Scorsese - Killers of the Flower Moon,0.014099999999999994,0.0667,0.0526
 2024-01-23 07:00:28.825572,NFL Weekly Specials - Conference Championship - Most Rushing Yards,David Montgomery,0.013999999999999999,0.0909,0.0769
 2024-01-23 02:59:54.765031,La Liga - Spain La Liga 2023/24 - To Be Relegated,Sevilla,0.013899999999999996,0.125,0.1111
 2024-01-23 02:59:54.967287,Championship - England Championship 2023/24 - To Be Promoted,Leeds United,0.013799999999999923,0.6364,0.6226
-2024-01-23 00:59:52.634331,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Philadelphia 76ers,0.012899999999999995,0.1667,0.1538
 2024-01-23 02:59:54.986715,Championship - England Championship 2023/24 - Top 2 Finish,Leeds United,0.012699999999999989,0.3636,0.3509
 2024-01-23 09:00:48.423377,Tournament Match-Ups - Tournament Match-Up - L. Aberg vs T. Finau - Tournament Match-Up,Tony Finau,0.012199999999999989,0.5122,0.5
 2024-01-23 09:00:48.402621,Tournament Match-Ups - Tournament Match-Up - H. Matsuyama vs K. Bradley - Tournament Match-Up,Hideki Matsuyama,0.0116,0.4878,0.4762
 2024-01-23 09:00:41.273793,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Jarrett Allen (CLE),0.0114,0.0164,0.005
-2024-01-23 00:59:52.973677,NCAA DI Men - Pac-12 Conference 2023-24 - Winner,Colorado,0.011099999999999999,0.1111,0.1
+2024-01-23 13:01:17.204477,NBL - NBL 2023/2024 - Most Losses,Illawarra Hawks,0.011199999999999995,0.0588,0.0476
+2024-01-23 13:01:17.204477,NBL - NBL 2023/2024 - Most Losses,Cairns Taipans,0.011199999999999995,0.0588,0.0476
 2024-01-23 09:00:46.346791,Boxing Lines - Oscar Collazo vs Reyneris Gutierrez - To Win the Bout,Reyneris Gutierrez,0.011099999999999999,0.0667,0.0556
+2024-01-23 13:01:17.428205,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,0.011099999999999999,0.4762,0.4651
 2024-01-23 04:59:56.406377,Orlando Magic - 2023-24 Regular Season Wins O/U - Team Wins,Under 44.5,0.01100000000000001,0.5348,0.5238
 2024-01-23 04:59:59.760731,Tournament Match-Ups - Tournament Match-Up - N. Hojgaard vs S. Straka - Tournament Match-Up,Nicolai Hojgaard,0.01100000000000001,0.5348,0.5238
-2024-01-23 04:59:59.805756,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs M. Homa - Tournament Match-Up,Collin Morikawa,0.010699999999999932,0.5455,0.5348
 2024-01-23 09:00:42.366615,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Republican,0.010699999999999932,0.5455,0.5348
 2024-01-23 07:00:32.416848,Tournament Match-Ups - Tournament Match-Up - N. Hojgaard vs S. Straka - Tournament Match-Up,Nicolai Hojgaard,0.010699999999999932,0.5455,0.5348
+2024-01-23 04:59:59.805756,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs M. Homa - Tournament Match-Up,Collin Morikawa,0.010699999999999932,0.5455,0.5348
 2024-01-23 09:00:42.888379,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 MVP,Travis Kelce,0.010600000000000002,0.0323,0.0217
 2024-01-23 07:00:26.152051,To Make the Playoffs - Houston Rockets - To Make the 2023-24 Playoffs,No,0.010300000000000087,0.8333,0.823
 2024-01-23 02:59:54.908040,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Burkina Faso,0.0102,0.0769,0.0667
-2024-01-23 00:59:52.973677,NCAA DI Men - Pac-12 Conference 2023-24 - Winner,Stanford,0.010100000000000001,0.0345,0.0244
 2024-01-23 02:59:54.986715,Championship - England Championship 2023/24 - Top 2 Finish,Southampton,0.010099999999999998,0.4545,0.4444
 2024-01-23 09:00:48.367599,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs X. Schauffele - Tournament Match-Up,Xander Schauffele,0.010099999999999998,0.5556,0.5455
-2024-01-23 00:59:55.133343,Boxing Lines - Cheavon Clarke vs Tommy McCarthy - To Win the Bout,Tommy McCarthy,-0.010499999999999982,0.2,0.2105
 2024-01-23 09:00:48.331730,Tournament Match-Ups - Tournament Match-Up - A. Meronk vs J. Rose - Tournament Match-Up,Justin Rose,-0.010599999999999998,0.4545,0.4651
+2024-01-23 13:01:22.075853,Tournament Match-Ups - Tournament Match-Up - J. Day vs S. Im - Tournament Match-Up,Jason Day,-0.010599999999999998,0.4545,0.4651
 2024-01-23 04:59:59.760731,Tournament Match-Ups - Tournament Match-Up - N. Hojgaard vs S. Straka - Tournament Match-Up,Sepp Straka,-0.010699999999999932,0.5348,0.5455
 2024-01-23 04:59:56.406377,Orlando Magic - 2023-24 Regular Season Wins O/U - Team Wins,Over 44.5,-0.010699999999999932,0.5348,0.5455
-2024-01-23 00:59:52.634331,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Milwaukee Bucks,-0.010699999999999987,0.3226,0.3333
 2024-01-23 11:01:43.651898,Pacific Division - Pacific Division 2023-24 - Division Winner,Los Angeles Lakers,-0.010700000000000001,0.0278,0.0385
-2024-01-23 07:00:32.416848,Tournament Match-Ups - Tournament Match-Up - N. Hojgaard vs S. Straka - Tournament Match-Up,Sepp Straka,-0.01100000000000001,0.5238,0.5348
 2024-01-23 04:59:59.805756,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs M. Homa - Tournament Match-Up,Max Homa,-0.01100000000000001,0.5238,0.5348
-2024-01-23 00:59:55.165914,Boxing Lines - Oscar Collazo vs Reyneris Gutierrez - To Win the Bout,Reyneris Gutierrez,-0.011099999999999999,0.0556,0.0667
-2024-01-23 09:00:48.479115,Tournament Match-Ups - Tournament Match-Up - J. Day vs S. Im - Tournament Match-Up,Jason Day,-0.011099999999999999,0.4651,0.4762
-2024-01-23 00:59:53.124753,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Luka Doncic (DAL),-0.011099999999999999,0.1,0.1111
+2024-01-23 07:00:32.416848,Tournament Match-Ups - Tournament Match-Up - N. Hojgaard vs S. Straka - Tournament Match-Up,Sepp Straka,-0.01100000000000001,0.5238,0.5348
 2024-01-23 07:00:32.472006,Tournament Match-Ups - Tournament Match-Up - A. Meronk vs J. Rose - Tournament Match-Up,Justin Rose,-0.011099999999999999,0.4651,0.4762
+2024-01-23 09:00:48.479115,Tournament Match-Ups - Tournament Match-Up - J. Day vs S. Im - Tournament Match-Up,Jason Day,-0.011099999999999999,0.4651,0.4762
 2024-01-23 02:59:54.908040,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Guinea,-0.011199999999999995,0.0476,0.0588
-2024-01-23 00:59:52.929902,NCAA DI Men - Big East Conference 2023-24 - Winner,Saint Johns,-0.011200000000000002,0.0132,0.0244
 2024-01-23 07:00:28.797121,NFL Weekly Specials - Conference Championship - Most Passing Yards,Jared Goff,-0.01150000000000001,0.3333,0.3448
 2024-01-23 04:59:56.307747,Philadelphia 76ers - 2023-24 Regular Season Wins O/U - Team Wins,Under 54.5,-0.0116,0.4762,0.4878
+2024-01-23 13:01:17.865095,Republican Party Primaries - New Hampshire Primary Popular Vote: Trump Winning Margin - New Hampshire Primary Trump Winning Margin,Over 19.5%,-0.0116,0.4762,0.4878
 2024-01-23 09:00:48.367599,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs X. Schauffele - Tournament Match-Up,Patrick Cantlay,-0.011600000000000055,0.5122,0.5238
 2024-01-23 04:59:56.761868,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.011699999999999933,0.7778,0.7895
-2024-01-23 02:59:54.901155,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Yoane Wissa,-0.012100000000000001,0.0123,0.0244
-2024-01-23 00:59:53.011522,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - John R.Wooden Award Winner,Tyson Walker (Michigan State),-0.012100000000000001,0.0123,0.0244
 2024-01-23 02:59:54.901155,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Ismaila Sarr,-0.012100000000000001,0.0123,0.0244
-2024-01-23 04:59:56.567942,Denver Nuggets - 2023-24 Regular Season Wins O/U - Team Wins,Under 55.5,-0.012199999999999989,0.5,0.5122
+2024-01-23 02:59:54.901155,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Yoane Wissa,-0.012100000000000001,0.0123,0.0244
 2024-01-23 09:00:48.462363,Tournament Match-Ups - Tournament Match-Up - E. Cole vs M.W. Lee - Tournament Match-Up,Eric Cole,-0.012199999999999989,0.4878,0.5
-2024-01-23 09:00:48.444780,Tournament Match-Ups - Tournament Match-Up - H. English vs S. Lowry - Tournament Match-Up,Shane Lowry,-0.012199999999999989,0.5,0.5122
 2024-01-23 09:00:42.366615,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,-0.012199999999999989,0.4878,0.5
+2024-01-23 04:59:56.567942,Denver Nuggets - 2023-24 Regular Season Wins O/U - Team Wins,Under 55.5,-0.012199999999999989,0.5,0.5122
+2024-01-23 09:00:48.444780,Tournament Match-Ups - Tournament Match-Up - H. English vs S. Lowry - Tournament Match-Up,Shane Lowry,-0.012199999999999989,0.5,0.5122
 2024-01-23 04:59:56.482490,Memphis Grizzlies - 2023-24 Regular Season Wins O/U - Team Wins,Under 27.5,-0.012199999999999989,0.4878,0.5
-2024-01-23 00:59:52.910846,NCAA DI Men - Big Ten Conference 2023-24 - Winner,Illinois,-0.012899999999999995,0.1538,0.1667
 2024-01-23 04:59:56.781478,US Presidential Election 2024 - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Gavin Newsom,-0.013899999999999996,0.1111,0.125
 2024-01-23 02:59:54.908040,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Cameroon,-0.013999999999999999,0.0769,0.0909
-2024-01-23 11:01:43.630373,Central Division - Central Division 2023-24 - Division Winner,Indiana Pacers,-0.013999999999999999,0.0769,0.0909
-2024-01-23 03:00:00.727826,Farmers Insurance Open - Farmers Insurance Open - Winner,Max Homa,-0.013999999999999999,0.0769,0.0909
 2024-01-23 03:00:00.727826,Farmers Insurance Open - Farmers Insurance Open - Winner,Patrick Cantlay,-0.013999999999999999,0.0769,0.0909
+2024-01-23 03:00:00.727826,Farmers Insurance Open - Farmers Insurance Open - Winner,Max Homa,-0.013999999999999999,0.0769,0.0909
+2024-01-23 11:01:43.630373,Central Division - Central Division 2023-24 - Division Winner,Indiana Pacers,-0.013999999999999999,0.0769,0.0909
 2024-01-23 04:59:54.991710,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Brighton & Hove Albion,-0.014099999999999994,0.0526,0.0667
+2024-01-23 13:01:16.225587,96th Academy Awards - Best Picture - Best Picture,American Fiction,-0.014099999999999998,0.0244,0.0385
+2024-01-23 13:01:16.225587,96th Academy Awards - Best Picture - Best Picture,Past Lives,-0.014099999999999998,0.0244,0.0385
 2024-01-23 02:59:54.901155,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Frank Magri,-0.014499999999999999,0.0149,0.0294
 2024-01-23 02:59:54.901155,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Hakim Ziyech,-0.0145,0.0099,0.0244
 2024-01-23 02:59:54.901155,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Inaki Williams,-0.0145,0.0099,0.0244
-2024-01-23 00:59:53.011522,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - John R.Wooden Award Winner,Dalton Knecht (Tennessee),-0.015300000000000001,0.0323,0.0476
+2024-01-23 13:01:16.225587,96th Academy Awards - Best Picture - Best Picture,Anatomy Of A Fall,-0.014899999999999997,0.0476,0.0625
 2024-01-23 02:59:56.853529,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Joel Embiid (PHI),-0.015400000000000025,0.3846,0.4
 2024-01-23 07:00:26.231543,To Make the Playoffs - New York Knicks - To Make the 2023-24 Playoffs,No,-0.015899999999999997,0.1053,0.1212
-2024-01-23 00:59:52.705424,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,-0.016000000000000014,0.3922,0.4082
+2024-01-23 13:01:16.225587,96th Academy Awards - Best Picture - Best Picture,Maestro,-0.0159,0.0164,0.0323
 2024-01-23 02:59:54.908040,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Ivory Coast,-0.016699999999999993,0.25,0.2667
-2024-01-23 00:59:52.983150,NCAA DI Men - American Athletic Conference 2023-24 - Winner,SMU,-0.016699999999999993,0.25,0.2667
-2024-01-23 00:59:55.155171,Boxing Lines - Gabriela Fundora vs Christina Cruz - To Win the Bout,Christina Cruz,-0.016700000000000007,0.0833,0.1
 2024-01-23 02:59:54.901155,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Patson Daka,-0.017099999999999997,0.0123,0.0294
 2024-01-23 09:00:48.402621,Tournament Match-Ups - Tournament Match-Up - H. Matsuyama vs K. Bradley - Tournament Match-Up,Keegan Bradley,-0.017299999999999982,0.5744,0.5917
 2024-01-23 07:00:26.284077,To Make the Playoffs - Sacramento Kings - To Make the 2023-24 Playoffs,No,-0.017799999999999983,0.2899,0.3077
@@ -149,12 +140,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-23 02:59:54.901155,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Nicolas Jackson,-0.019499999999999997,0.0099,0.0294
 2024-01-23 02:59:54.901155,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Sebastien Haller,-0.019499999999999997,0.0099,0.0294
 2024-01-23 07:00:27.039271,Utah Jazz - 2023-24 Regular Season Wins O/U - Team Wins,Under 38.5,-0.01970000000000005,0.5455,0.5652
-2024-01-23 00:59:53.011522,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - John R.Wooden Award Winner,RJ Davis (North Carolina),-0.020000000000000004,0.0123,0.0323
 2024-01-23 02:59:54.901155,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Youssef En Nesyri,-0.02020000000000001,0.0909,0.1111
-2024-01-23 00:59:52.672743,Central Division - Central Division 2023-24 - Division Winner,Indiana Pacers,-0.02020000000000001,0.0909,0.1111
 2024-01-23 04:59:56.670062,Atlanta Hawks - 2023-24 Regular Season Wins O/U - Team Wins,Over 36.5,-0.02079999999999993,0.5348,0.5556
 2024-01-23 04:59:56.579905,Dallas Mavericks - 2023-24 Regular Season Wins O/U - Team Wins,Over 45.5,-0.02079999999999993,0.5348,0.5556
-2024-01-23 00:59:52.983150,NCAA DI Men - American Athletic Conference 2023-24 - Winner,Florida Atlantic,-0.021699999999999997,0.4545,0.4762
 2024-01-23 09:00:48.385387,Tournament Match-Ups - Tournament Match-Up - S. Theegala vs W. Zalatoris - Tournament Match-Up,Will Zalatoris,-0.021699999999999997,0.4545,0.4762
 2024-01-23 09:00:47.722461,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Over 67.5,-0.02180000000000004,0.6078,0.6296
 2024-01-23 11:01:43.651898,Pacific Division - Pacific Division 2023-24 - Division Winner,Sacramento Kings,-0.022199999999999998,0.1111,0.1333
@@ -162,15 +150,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-23 07:00:30.242379,MLB 2024 Regular Season Team Props - San Francisco Giants Regular Season Win Total - San Francisco Giants Regular Season Win Total,Over 81.5,-0.022600000000000064,0.5122,0.5348
 2024-01-23 07:00:26.172077,To Make the Playoffs - Indiana Pacers - To Make the 2023-24 Playoffs,Yes,-0.02310000000000001,0.9,0.9231
 2024-01-23 04:59:56.345533,Brooklyn Nets - 2023-24 Regular Season Wins O/U - Team Wins,Over 35.5,-0.023799999999999988,0.4762,0.5
-2024-01-23 02:59:57.747346,NFL Weekly Specials - Conference Championship - Most Receiving Yards,Brandon Aiyuk,-0.023799999999999988,0.3333,0.3571
 2024-01-23 07:00:32.587650,Tournament Match-Ups - Tournament Match-Up - J. Day vs S. Im - Tournament Match-Up,Jason Day,-0.023799999999999988,0.4762,0.5
 2024-01-23 04:59:59.794250,Tournament Match-Ups - Tournament Match-Up - A. Meronk vs J. Rose - Tournament Match-Up,Justin Rose,-0.023799999999999988,0.4762,0.5
-2024-01-23 09:00:42.046885,Republican Party Primaries - New Hampshire Primary Popular Vote: Haley Share - New Hampshire Haley Vote Share,Over 39.5%,-0.023800000000000043,0.5,0.5238
+2024-01-23 02:59:57.747346,NFL Weekly Specials - Conference Championship - Most Receiving Yards,Brandon Aiyuk,-0.023799999999999988,0.3333,0.3571
 2024-01-23 09:00:48.309527,Tournament Match-Ups - Tournament Match-Up - N. Hojgaard vs S. Straka - Tournament Match-Up,Sepp Straka,-0.023800000000000043,0.5,0.5238
-2024-01-23 04:59:56.294599,Portland Trail Blazers - 2023-24 Regular Season Wins O/U - Team Wins ,Over 25.5,-0.023800000000000043,0.5,0.5238
 2024-01-23 09:00:48.350051,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs M. Homa - Tournament Match-Up,Max Homa,-0.023800000000000043,0.5,0.5238
+2024-01-23 09:00:42.046885,Republican Party Primaries - New Hampshire Primary Popular Vote: Haley Share - New Hampshire Haley Vote Share,Over 39.5%,-0.023800000000000043,0.5,0.5238
+2024-01-23 04:59:56.294599,Portland Trail Blazers - 2023-24 Regular Season Wins O/U - Team Wins ,Over 25.5,-0.023800000000000043,0.5,0.5238
+2024-01-23 13:01:16.225587,96th Academy Awards - Best Picture - Best Picture,Killers Of The Flower Moon,-0.024,0.0385,0.0625
 2024-01-23 02:59:54.776987,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Athletic Bilbao,-0.0242,0.0667,0.0909
-2024-01-23 00:59:52.954446,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Iowa State,-0.024999999999999994,0.1,0.125
 2024-01-23 07:00:26.120615,To Make the Playoffs - Dallas Mavericks - To Make the 2023-24 Playoffs,Yes,-0.0252,0.697,0.7222
 2024-01-23 04:59:55.000043,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Brighton & Hove Albion,-0.02560000000000001,0.3077,0.3333
 2024-01-23 07:00:26.057929,To Make the Playoffs - Atlanta Hawks - To Make the 2023-24 Playoffs,Yes,-0.026000000000000023,0.2597,0.2857
@@ -180,22 +168,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-23 07:00:28.825572,NFL Weekly Specials - Conference Championship - Most Rushing Yards,Christian McCaffrey,-0.031799999999999995,0.4444,0.4762
 2024-01-23 07:00:28.797121,NFL Weekly Specials - Conference Championship - Most Passing Yards,Brock Purdy,-0.031799999999999995,0.4444,0.4762
 2024-01-23 11:01:43.641376,Northwest Division - Northwest Division 2023-24 - Division Winner,Minnesota Timberwolves,-0.03270000000000001,0.2899,0.3226
-2024-01-23 00:59:55.073315,Boxing Lines - Luis Robles Pacheco vs Tenshin Nasukawa - To Win the Bout,Luis Robles Pacheco,-0.033299999999999996,0.1,0.1333
 2024-01-23 07:00:26.190870,To Make the Playoffs - Los Angeles Lakers - To Make the 2023-24 Playoffs,Yes,-0.033299999999999996,0.4545,0.4878
 2024-01-23 04:59:56.656210,Boston Celtics - 2023-24 Regular Season Wins O/U - Team Wins,Under 62.5,-0.033299999999999996,0.5122,0.5455
-2024-01-23 00:59:52.929902,NCAA DI Men - Big East Conference 2023-24 - Winner,Creighton,-0.033299999999999996,0.1,0.1333
+2024-01-23 13:01:17.877436,Republican Party Primaries - New Hampshire Primary Popular Vote: Haley Share - New Hampshire Haley Vote Share,38% or under,-0.033299999999999996,0.5122,0.5455
+2024-01-23 13:01:17.204477,NBL - NBL 2023/2024 - Most Losses,Brisbane Bullets,-0.0335,0.005,0.0385
 2024-01-23 07:00:26.088677,To Make the Playoffs - Chicago Bulls - To Make the 2023-24 Playoffs,Yes,-0.03369999999999995,0.274,0.3077
-2024-01-23 00:59:52.954446,NCAA DI Men - Big 12 Conference 2023-24 - Winner,BYU,-0.03420000000000001,0.0769,0.1111
 2024-01-23 04:59:56.836588,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Byron Donalds,-0.0344,0.0244,0.0588
 2024-01-23 11:01:43.662952,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,-0.03510000000000002,0.3571,0.3922
 2024-01-23 09:00:46.888604,Farmers Insurance Open - 2/3 Balls - 1st Round 3 Balls - B. Martin / S. Jaeger / H. Buckley - 1st Round 3 Balls,Hayden Buckley,-0.0363,0.2667,0.303
-2024-01-23 00:59:52.954446,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Houston,-0.03640000000000004,0.3636,0.4
-2024-01-23 00:59:52.944589,NCAA DI Men - ACC Conference 2023-24 - Winner,North Carolina,-0.03750000000000009,0.7403,0.7778
+2024-01-23 13:01:16.235016,96th Academy Awards - Best Actor - Best Actor,Paul Giamatti - The Holdovers,-0.03710000000000002,0.3077,0.3448
 2024-01-23 02:59:54.967287,Championship - England Championship 2023/24 - To Be Promoted,Ipswich Town,-0.037800000000000056,0.5455,0.5833
+2024-01-23 13:01:21.853173,Positions - Finishing Position - Ludvig Aberg - Finishing Position,24th or worse,-0.037900000000000045,0.5917,0.6296
 2024-01-23 02:59:54.901155,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Sadio Mane,-0.0384,0.0385,0.0769
 2024-01-23 02:59:54.901155,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Riyad Mahrez,-0.0392,0.0196,0.0588
-2024-01-23 00:59:52.910846,NCAA DI Men - Big Ten Conference 2023-24 - Winner,Purdue,-0.03949999999999998,0.75,0.7895
-2024-01-23 00:59:53.035335,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Purdue,-0.0398,0.3448,0.3846
+2024-01-23 13:01:16.225587,96th Academy Awards - Best Picture - Best Picture,The Holdovers,-0.0407,0.0769,0.1176
+2024-01-23 13:01:16.225587,96th Academy Awards - Best Picture - Best Picture,Barbie,-0.04329999999999999,0.0476,0.0909
 2024-01-23 04:59:56.836588,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Katie Britt,-0.04329999999999999,0.0476,0.0909
 2024-01-23 04:59:56.469754,Milwaukee Bucks - 2023-24 Regular Season Wins O/U - Team Wins,Under 54.5,-0.043399999999999994,0.5122,0.5556
 2024-01-23 04:59:56.380477,Sacramento Kings - 2023-24 Regular Season Wins O/U - Team Wins,Under 46.5,-0.043399999999999994,0.5122,0.5556
@@ -203,19 +190,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-23 04:59:56.555715,Detroit Pistons - 2023-24 Regular Season Wins O/U - Team Wins,Over 11.5,-0.045499999999999985,0.5,0.5455
 2024-01-23 02:59:54.901155,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Jean-Philippe Krasso,-0.047099999999999996,0.0196,0.0667
 2024-01-23 02:59:54.770987,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Athletic Bilbao,-0.047599999999999976,0.2857,0.3333
-2024-01-23 00:59:53.124753,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Nikola Jokic (DEN),-0.047599999999999976,0.2857,0.3333
 2024-01-23 04:59:56.836588,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Kristi Noem,-0.04999999999999999,0.2,0.25
 2024-01-23 02:59:54.901155,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Mohammed Kudus,-0.0573,0.0196,0.0769
 2024-01-23 02:59:54.986715,Championship - England Championship 2023/24 - Top 2 Finish,Ipswich Town,-0.0595,0.4167,0.4762
 2024-01-23 02:59:54.901155,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Victor Osimhen,-0.0762,0.0667,0.1429
-2024-01-23 00:59:52.973677,NCAA DI Men - Pac-12 Conference 2023-24 - Winner,Utah,-0.0807,0.0526,0.1333
-2024-01-23 00:59:52.683685,Northwest Division - Northwest Division 2023-24 - Division Winner,Minnesota Timberwolves,-0.08560000000000001,0.3226,0.4082
 2024-01-23 07:00:28.825572,NFL Weekly Specials - Conference Championship - Most Rushing Yards,Lamar Jackson,-0.0857,0.2,0.2857
 2024-01-23 02:59:54.901155,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Mohamed Salah,-0.0915,0.0196,0.1111
 2024-01-23 09:00:47.566532,Positions - Finishing Position - Jason Day - Finishing Position,30th or better,-0.10109999999999997,0.4444,0.5455
-2024-01-23 00:59:52.992285,NCAA DI Men - SEC Conference 2023-24 - Winner,Alabama,-0.1036,0.1667,0.2703
-2024-01-23 09:00:47.672359,Positions - Finishing Position - Sahith Theegala - Finishing Position,34th or better,-0.12079999999999996,0.4348,0.5556
+2024-01-23 13:01:16.244084,96th Academy Awards - Best Actress - Best Actress,Lily Gladstone - Killers Of The Flower Moon,-0.11430000000000007,0.6,0.7143
 2024-01-23 09:00:47.602175,Positions - Finishing Position - Ludvig Aberg - Finishing Position,23rd or better,-0.12079999999999996,0.4348,0.5556
+2024-01-23 09:00:47.672359,Positions - Finishing Position - Sahith Theegala - Finishing Position,34th or better,-0.12079999999999996,0.4348,0.5556
 2024-01-23 07:00:28.825572,NFL Weekly Specials - Conference Championship - Most Rushing Yards,Isiah Pacheco,-0.12279999999999999,0.2105,0.3333
 2024-01-23 04:59:56.319825,Miami Heat - 2023-24 Regular Season Wins O/U - Team Wins,Over 45.5,-0.13990000000000002,0.5744,0.7143
+2024-01-23 13:01:17.204477,NBL - NBL 2023/2024 - Most Losses,New Zealand Breakers,-0.1517,0.0588,0.2105
 2024-01-23 09:00:47.770225,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Under 67.5,-0.15559999999999996,0.4444,0.6
+2024-01-23 13:01:17.204477,NBL - NBL 2023/2024 - Most Losses,Adelaide 36ers,-0.2598,0.2857,0.5455
