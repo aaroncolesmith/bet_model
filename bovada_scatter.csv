@@ -1,75 +1,43 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-01-22 05:00:04.024808,96th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,Oppenheimer,0.19049999999999995,0.6667,0.4762
-2024-01-22 05:00:03.079776,Serie A - Italy Serie A 2023/24 - To Be Relegated,Hellas Verona,0.13639999999999997,0.6364,0.5
-2024-01-22 05:00:04.305616,39th Independent Spirit Awards - Best Lead Performance - Best Lead Performance,Greta Lee - Past Lives,0.10109999999999997,0.5455,0.4444
-2024-01-22 05:00:03.085855,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Salernitana,0.09820000000000001,0.5744,0.4762
-2024-01-22 05:00:04.004891,96th Academy Awards - Best Actress - Best Actress,Lily Gladstone - Killers Of The Flower Moon,0.0917,0.7143,0.6226
+2024-01-22 17:01:28.568987,NBL - NBL 2023/2024 - To Make Grand Final,Perth Wildcats,0.15559999999999996,0.6,0.4444
 2024-01-22 11:02:07.646220,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - To Be Relegated",Municipal Liberia,0.08979999999999999,0.1667,0.0769
 2024-01-22 11:02:07.646220,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - To Be Relegated",Municipal Grecia,0.07789999999999997,0.3636,0.2857
-2024-01-22 05:00:03.995016,96th Academy Awards - Best Actor - Best Actor,Cillian Murphy - Oppenheimer,0.06659999999999999,0.7333,0.6667
 2024-01-22 11:02:07.655097,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - Winner",San Carlos,0.05559999999999998,0.1667,0.1111
-2024-01-22 05:00:04.034365,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,The Holdovers,0.05449999999999999,0.6,0.5455
-2024-01-22 05:00:03.091842,Serie A - Italy Serie A 2023/24 - Top 4 Finish,AS Roma,0.04620000000000002,0.2,0.1538
 2024-01-22 07:01:08.218480,Boxing Lines - Artem Dalakian vs Seigo Yuri Akui - To Win the Bout,Artem Dalakian,0.04620000000000002,0.5917,0.5455
 2024-01-22 11:02:07.655097,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - Winner",Alajuelense,0.043200000000000016,0.3509,0.3077
-2024-01-22 05:00:03.079776,Serie A - Italy Serie A 2023/24 - To Be Relegated,Lecce,0.04040000000000002,0.2222,0.1818
-2024-01-22 05:00:03.036585,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Girona,0.03639999999999999,0.6364,0.6
-2024-01-22 05:00:03.079776,Serie A - Italy Serie A 2023/24 - To Be Relegated,Udinese,0.0353,0.2353,0.2
+2024-01-22 17:01:27.055765,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Morocco,0.0353,0.2353,0.2
+2024-01-22 17:01:28.598064,WNBL - Australia WNBL 2023/24 - Outright,Southside Flyers (W),0.033300000000000024,0.2,0.1667
 2024-01-22 11:02:07.646220,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - To Be Relegated",Pérez Zeledón,0.03259999999999999,0.2326,0.2
-2024-01-22 05:00:04.283917,Gran Hermano - Gran Hermano 2024 - Outright Winner,Lucia,0.031799999999999995,0.1429,0.1111
-2024-01-22 05:00:03.079776,Serie A - Italy Serie A 2023/24 - To Be Relegated,Salernitana,0.029900000000000038,0.8,0.7701
-2024-01-22 05:00:03.072581,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Dusan Vlahovic (Juventus),0.029299999999999993,0.0769,0.0476
 2024-01-22 11:02:09.068290,Republican Party Primaries - New Hampshire Primary Popular Vote: Trump Winning Margin - New Hampshire Primary Trump Winning Margin,0.01 to 19.5%,0.027700000000000058,0.5833,0.5556
-2024-01-22 05:00:04.034365,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,Anatomy Of A Fall,0.02560000000000001,0.3333,0.3077
-2024-01-22 05:00:03.022967,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Girona,0.025000000000000022,0.9,0.875
-2024-01-22 05:00:03.091842,Serie A - Italy Serie A 2023/24 - Top 4 Finish,AC Milan,0.0242,0.9333,0.9091
-2024-01-22 05:00:03.057986,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayer Leverkusen,0.023800000000000043,0.5238,0.5
-2024-01-22 05:00:04.283917,Gran Hermano - Gran Hermano 2024 - Outright Winner,Sabrina,0.023200000000000002,0.0476,0.0244
-2024-01-22 05:00:04.283917,Gran Hermano - Gran Hermano 2024 - Outright Winner,Bautista,0.023200000000000002,0.0476,0.0244
 2024-01-22 07:01:05.866035,Republican Party Primaries - New Hampshire Primary Popular Vote: Haley Share - New Hampshire Haley Vote Share,39.5% or under,0.02169999999999994,0.5455,0.5238
-2024-01-22 05:00:05.121069,Republican Party Primaries - New Hampshire Primary Popular Vote: Trump Winning Margin - New Hampshire Primary Trump Winning Margin,0.01 to 19.5%,0.02079999999999993,0.5556,0.5348
-2024-01-22 05:00:04.283917,Gran Hermano - Gran Hermano 2024 - Outright Winner,Emmanuel,0.02020000000000001,0.1111,0.0909
-2024-01-22 05:00:04.283917,Gran Hermano - Gran Hermano 2024 - Outright Winner,Federico,0.01820000000000002,0.2,0.1818
-2024-01-22 05:00:03.085855,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Hellas Verona,0.0179,0.1429,0.125
-2024-01-22 05:00:04.283917,Gran Hermano - Gran Hermano 2024 - Outright Winner,Juliana,0.01469999999999999,0.25,0.2353
+2024-01-22 17:01:28.568987,NBL - NBL 2023/2024 - To Make Grand Final,Melbourne United,0.020100000000000007,0.75,0.7299
+2024-01-22 17:01:28.516480,Euroleague - Euroleague 2023/24 - To Make Final Four,Partizan,0.019000000000000017,0.2857,0.2667
+2024-01-22 17:01:28.568987,NBL - NBL 2023/2024 - To Make Grand Final,Cairns Taipans,0.018200000000000004,0.0476,0.0294
 2024-01-22 13:00:48.809499,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Coby White (CHI),0.014099999999999994,0.0667,0.0526
-2024-01-22 05:00:03.085855,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Cagliari,0.013999999999999999,0.0909,0.0769
-2024-01-22 05:00:03.079776,Serie A - Italy Serie A 2023/24 - To Be Relegated,Sassuolo,0.013899999999999996,0.125,0.1111
-2024-01-22 05:00:06.930508,Boxing Lines - Lewis Crocker vs Jose Felix Jr - To Win the Bout,Lewis Crocker,0.011099999999999999,0.9,0.8889
-2024-01-22 05:00:05.131371,Republican Party Primaries - New Hampshire Primary Popular Vote: Haley Share - New Hampshire Haley Vote Share,Over 39.5%,0.010699999999999932,0.5455,0.5348
-2024-01-22 05:00:05.131371,Republican Party Primaries - New Hampshire Primary Popular Vote: Haley Share - New Hampshire Haley Vote Share,39.5% or under,-0.01100000000000001,0.5238,0.5348
-2024-01-22 05:00:04.305616,39th Independent Spirit Awards - Best Lead Performance - Best Lead Performance,Teo Yoo - Past Lives,-0.013899999999999996,0.1111,0.125
-2024-01-22 05:00:03.091842,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Bologna,-0.013999999999999999,0.0769,0.0909
+2024-01-22 17:01:27.045752,AFC Asian Cup - AFC Asian Cup 2023 - Winner,Saudi Arabia,0.013999999999999999,0.0909,0.0769
+2024-01-22 17:01:28.568987,NBL - NBL 2023/2024 - To Make Grand Final,Adelaide 36ers,0.012999999999999998,0.0294,0.0164
+2024-01-22 17:01:27.055765,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Equatorial Guinea,0.011699999999999999,0.0196,0.0079
+2024-01-22 17:01:27.055765,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Nigeria,0.011099999999999999,0.1111,0.1
+2024-01-22 17:01:27.075433,Championship - England Championship 2023/24 - League Winner,Leeds United,0.0102,0.0769,0.0667
+2024-01-22 17:01:27.045752,AFC Asian Cup - AFC Asian Cup 2023 - Winner,South Korea,-0.010499999999999982,0.2,0.2105
+2024-01-22 17:01:28.598064,WNBL - Australia WNBL 2023/24 - Outright,Perth Lynx (W),-0.011099999999999999,0.1,0.1111
+2024-01-22 17:01:27.075433,Championship - England Championship 2023/24 - League Winner,Ipswich Town,-0.011099999999999999,0.1,0.1111
+2024-01-22 17:01:27.055765,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Senegal,-0.0131,0.2222,0.2353
 2024-01-22 11:02:07.655097,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - Winner",Guanacasteca,-0.013999999999999999,0.0769,0.0909
-2024-01-22 05:00:05.109668,Republican Party Primaries - New Hampshire Primary Popular Vote Winner - New Hampshire Primary Winner,Nikki Haley,-0.014399999999999996,0.0625,0.0769
 2024-01-22 11:02:07.655097,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - Winner",Cartaginés,-0.014899999999999997,0.0476,0.0625
-2024-01-22 05:00:05.121069,Republican Party Primaries - New Hampshire Primary Popular Vote: Trump Winning Margin - New Hampshire Primary Trump Winning Margin,Trump NOT to win,-0.016600000000000004,0.0667,0.0833
-2024-01-22 05:00:03.022967,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Sociedad,-0.02020000000000001,0.0909,0.1111
-2024-01-22 05:00:03.036585,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Athletic Bilbao,-0.02020000000000001,0.0909,0.1111
+2024-01-22 17:01:27.075433,Championship - England Championship 2023/24 - League Winner,Leicester City,-0.015100000000000002,0.8182,0.8333
+2024-01-22 17:01:27.055765,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Egypt,-0.018099999999999998,0.0588,0.0769
+2024-01-22 17:01:28.568987,NBL - NBL 2023/2024 - To Make Grand Final,Tasmania JackJumpers,-0.019000000000000017,0.2667,0.2857
+2024-01-22 17:01:28.551622,NBL - NBL 2023/2024 - Outright,Melbourne United,-0.020699999999999996,0.4444,0.4651
 2024-01-22 07:01:05.866035,Republican Party Primaries - New Hampshire Primary Popular Vote: Haley Share - New Hampshire Haley Vote Share,Over 39.5%,-0.02169999999999994,0.5238,0.5455
-2024-01-22 05:00:03.091842,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Lazio,-0.022199999999999998,0.2,0.2222
-2024-01-22 05:00:05.121069,Republican Party Primaries - New Hampshire Primary Popular Vote: Trump Winning Margin - New Hampshire Primary Trump Winning Margin,Over 19.5%,-0.022600000000000064,0.5122,0.5348
-2024-01-22 05:00:03.085855,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Frosinone,-0.023200000000000002,0.0294,0.0526
-2024-01-22 05:00:03.079776,Serie A - Italy Serie A 2023/24 - To Be Relegated,Genoa,-0.023200000000000002,0.0244,0.0476
-2024-01-22 05:00:04.034365,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,Maestro,-0.024,0.0385,0.0625
-2024-01-22 05:00:04.034365,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,Saltburn,-0.024,0.0385,0.0625
-2024-01-22 05:00:04.034365,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,May December,-0.024,0.0385,0.0625
 2024-01-22 11:02:09.068290,Republican Party Primaries - New Hampshire Primary Popular Vote: Trump Winning Margin - New Hampshire Primary Trump Winning Margin,Over 19.5%,-0.024399999999999977,0.4878,0.5122
-2024-01-22 05:00:04.024808,96th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,Killers Of The Flower Moon,-0.024999999999999994,0.1,0.125
-2024-01-22 05:00:04.024808,96th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,American Fiction,-0.02779999999999999,0.2222,0.25
-2024-01-22 05:00:03.072581,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Lautaro Martinez (Inter Milan),-0.028299999999999992,0.8948,0.9231
-2024-01-22 05:00:03.036585,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Atlético Madrid,-0.030299999999999994,0.3333,0.3636
-2024-01-22 05:00:03.091842,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Atalanta,-0.03920000000000001,0.2941,0.3333
+2024-01-22 17:01:28.598064,WNBL - Australia WNBL 2023/24 - Outright,Melbourne Boomers W,-0.02739999999999998,0.2667,0.2941
+2024-01-22 17:01:28.568987,NBL - NBL 2023/2024 - To Make Grand Final,Brisbane Bullets,-0.04169999999999999,0.125,0.1667
 2024-01-22 11:02:07.646220,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - To Be Relegated",Puntarenas FC,-0.044399999999999995,0.4,0.4444
-2024-01-22 05:00:04.305616,39th Independent Spirit Awards - Best Lead Performance - Best Lead Performance,Andrew Scott - All Of Us Strangers,-0.047599999999999976,0.2857,0.3333
 2024-01-22 07:01:08.218480,Boxing Lines - Artem Dalakian vs Seigo Yuri Akui - To Win the Bout,Seigo Yuri Akui,-0.04760000000000003,0.4762,0.5238
-2024-01-22 05:00:04.004891,96th Academy Awards - Best Actress - Best Actress,Emma Stone - Poor Things,-0.05449999999999999,0.4,0.4545
-2024-01-22 05:00:03.995016,96th Academy Awards - Best Actor - Best Actor,Paul Giamatti - The Holdovers,-0.05520000000000003,0.3448,0.4
+2024-01-22 17:01:28.568987,NBL - NBL 2023/2024 - To Make Grand Final,New Zealand Breakers,-0.048100000000000004,0.0769,0.125
+2024-01-22 17:01:28.568987,NBL - NBL 2023/2024 - To Make Grand Final,SE Melbourne Phoenix,-0.0544,0.0123,0.0667
+2024-01-22 17:01:28.598064,WNBL - Australia WNBL 2023/24 - Outright,Townsville Fire (W),-0.05520000000000003,0.3448,0.4
 2024-01-22 11:02:07.655097,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - Winner",Saprissa,-0.055900000000000005,0.3077,0.3636
-2024-01-22 05:00:04.034365,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,Past Lives,-0.0635,0.2222,0.2857
-2024-01-22 05:00:03.057986,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayern Munich,-0.06519999999999992,0.5348,0.6
-2024-01-22 05:00:03.022967,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Athletic Bilbao,-0.06670000000000004,0.3333,0.4
-2024-01-22 05:00:03.079776,Serie A - Italy Serie A 2023/24 - To Be Relegated,Empoli,-0.07779999999999998,0.6923,0.7701
-2024-01-22 05:00:03.079776,Serie A - Italy Serie A 2023/24 - To Be Relegated,Frosinone,-0.10769999999999996,0.2,0.3077
-2024-01-22 05:00:03.085855,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Empoli,-0.11359999999999998,0.25,0.3636
+2024-01-22 17:01:28.568987,NBL - NBL 2023/2024 - To Make Grand Final,Illawarra Hawks,-0.0857,0.0476,0.1333
 2024-01-22 11:02:07.646220,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - To Be Relegated",Santos de Guápiles,-0.2,0.2,0.4
