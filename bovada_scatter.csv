@@ -2,23 +2,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-23 13:01:17.204477,NBL - NBL 2023/2024 - Most Losses,SE Melboune Phoenix,0.2924,0.7368,0.4444
 2024-01-23 17:00:25.674384,NBL - NBL 2023/2024 - To Make Top 6,New Zealand Breakers,0.192,0.5556,0.3636
 2024-01-23 17:00:25.674384,NBL - NBL 2023/2024 - To Make Top 6,Brisbane Bullets,0.17559999999999998,0.75,0.5744
-2024-01-23 09:00:47.770225,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Over 67.5,0.15750000000000003,0.6226,0.4651
 2024-01-23 17:00:26.259288,Republican Party Primaries - New Hampshire Primary Popular Vote: Trump Winning Margin - New Hampshire Primary Trump Winning Margin,Over 16.5%,0.15559999999999996,0.6,0.4444
 2024-01-23 17:00:25.674384,NBL - NBL 2023/2024 - To Make Top 6,Adelaide 36ers,0.14440000000000003,0.2353,0.0909
 2024-01-23 19:01:29.283125,Scores - 1st Round Score - Justin Rose - 1st Round Score,Under 69.5,0.12260000000000004,0.6226,0.5
 2024-01-23 17:00:24.162720,EFL Cup - EFL Cup 2023/24 - Winner,Chelsea,0.1225,0.4255,0.303
-2024-01-23 09:00:47.602175,Positions - Finishing Position - Ludvig Aberg - Finishing Position,24th or worse,0.11740000000000006,0.6296,0.5122
-2024-01-23 09:00:47.672359,Positions - Finishing Position - Sahith Theegala - Finishing Position,35th or worse,0.11740000000000006,0.6296,0.5122
 2024-01-23 17:00:24.945347,96th Academy Awards - Best Actress - Best Actress,Emma Stone - Poor Things,0.10109999999999997,0.5455,0.4444
 2024-01-23 17:00:25.674384,NBL - NBL 2023/2024 - To Make Top 6,Cairns Taipans,0.09999999999999998,0.5,0.4
-2024-01-23 09:00:47.566532,Positions - Finishing Position - Jason Day - Finishing Position,31st or worse,0.0988,0.6226,0.5238
 2024-01-23 17:00:24.963921,96th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,Oppenheimer,0.08330000000000004,0.75,0.6667
 2024-01-23 13:01:17.414981,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Stephen Curry (GSW),0.07579999999999999,0.1667,0.0909
 2024-01-23 19:01:29.294758,Scores - 1st Round Score - Ludvig Aberg - 1st Round Score,Under 68.5,0.07440000000000002,0.5744,0.5
 2024-01-23 17:00:26.249153,Republican Party Primaries - New Hampshire Primary Popular Vote: Haley Share - New Hampshire Haley Vote Share,Over 39.5%,0.06520000000000004,0.5652,0.5
 2024-01-23 17:00:25.666308,NBL - NBL 2023/2024 - To Make Top 4,Brisbane Bullets,0.06509999999999999,0.4651,0.4
 2024-01-23 13:01:16.283404,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,Anatomy Of A Fall,0.05130000000000001,0.3846,0.3333
-2024-01-23 09:00:41.287985,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Joel Embiid (PHI),0.05020000000000002,0.4348,0.3846
 2024-01-23 19:01:28.789913,Round Match-Ups - 1st Round Match-Up - H. Matsuyama vs J. Rose - 1st Round Match-Up,Justin Rose,0.047099999999999975,0.5122,0.4651
 2024-01-23 13:01:16.244084,96th Academy Awards - Best Actress - Best Actress,Sandra Huller - Anatomy Of A Fall,0.0448,0.0833,0.0385
 2024-01-23 13:01:16.244084,96th Academy Awards - Best Actress - Best Actress,Emma Stone - Poor Things,0.044399999999999995,0.4444,0.4
@@ -26,7 +21,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-23 11:01:43.662952,Southeast Division - Southeast Division 2023-24 - Division Winner,Miami Heat,0.036900000000000044,0.7143,0.6774
 2024-01-23 17:00:24.974221,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,The Holdovers,0.03639999999999999,0.6364,0.6
 2024-01-23 11:01:43.651898,Pacific Division - Pacific Division 2023-24 - Division Winner,Phoenix Suns,0.036199999999999996,0.1538,0.1176
-2024-01-23 09:00:46.888604,Farmers Insurance Open - 2/3 Balls - 1st Round 3 Balls - B. Martin / S. Jaeger / H. Buckley - 1st Round 3 Balls,Stephan Jaeger,0.03600000000000003,0.5238,0.4878
 2024-01-23 17:00:25.666308,NBL - NBL 2023/2024 - To Make Top 4,Tasmania JackJumpers,0.035699999999999954,0.75,0.7143
 2024-01-23 15:01:03.631813,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tim Scott,0.03420000000000001,0.1111,0.0769
 2024-01-23 13:01:17.877436,Republican Party Primaries - New Hampshire Primary Popular Vote: Haley Share - New Hampshire Haley Vote Share,Over 38%,0.03179999999999994,0.5556,0.5238
@@ -40,15 +34,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-23 17:00:28.993860,MLB 2024 Regular Season Team Props - Washington Nationals Regular Season Win Total - Washington Nationals Regular Season Win Total,Over 66.5,0.02169999999999994,0.5455,0.5238
 2024-01-23 11:01:43.641376,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,0.02100000000000002,0.3846,0.3636
 2024-01-23 19:01:28.768674,Round Match-Ups - 1st Round Match-Up - A. Svensson vs T. Moore - 1st Round Match-Up,Adam Svensson,0.02079999999999993,0.5556,0.5348
-2024-01-23 09:00:48.309527,Tournament Match-Ups - Tournament Match-Up - N. Hojgaard vs S. Straka - Tournament Match-Up,Nicolai Hojgaard,0.01970000000000005,0.5652,0.5455
-2024-01-23 09:00:42.046885,Republican Party Primaries - New Hampshire Primary Popular Vote: Haley Share - New Hampshire Haley Vote Share,39.5% or under,0.01970000000000005,0.5652,0.5455
-2024-01-23 09:00:48.350051,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs M. Homa - Tournament Match-Up,Collin Morikawa,0.01970000000000005,0.5652,0.5455
-2024-01-23 09:00:47.722461,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Under 67.5,0.019699999999999995,0.4545,0.4348
-2024-01-23 09:00:41.161626,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Michigan State,0.01949999999999999,0.0909,0.0714
 2024-01-23 13:01:16.244084,96th Academy Awards - Best Actress - Best Actress,Carey Mulligan - Maestro,0.019099999999999992,0.0667,0.0476
 2024-01-23 19:01:29.318125,Scores - 1st Round Score - Sahith Theegala - 1st Round Score ,Under 68.5,0.018900000000000028,0.4444,0.4255
-2024-01-23 13:01:17.219925,NBL - NBL 2023/2024 - Regular Season MVP,Anthony  Lamb,0.0189,0.0385,0.0196
 2024-01-23 13:01:17.414981,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Kevin Durant (PHX),0.0189,0.0385,0.0196
+2024-01-23 13:01:17.219925,NBL - NBL 2023/2024 - Regular Season MVP,Anthony  Lamb,0.0189,0.0385,0.0196
 2024-01-23 19:01:29.271637,Scores - 1st Round Score - Hideki Matsuyama - 1st Round Score,Under 69.5,0.01880000000000004,0.5744,0.5556
 2024-01-23 13:01:17.219925,NBL - NBL 2023/2024 - Regular Season MVP,Bryce Cotton,0.01849999999999996,0.9709,0.9524
 2024-01-23 17:00:25.666308,NBL - NBL 2023/2024 - To Make Top 4,Adelaide 36ers,0.018200000000000004,0.0476,0.0294
@@ -56,62 +45,41 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-23 17:00:25.674384,NBL - NBL 2023/2024 - To Make Top 6,Tasmania JackJumpers,0.018100000000000005,0.9412,0.9231
 2024-01-23 11:01:43.641376,Northwest Division - Northwest Division 2023-24 - Division Winner,Denver Nuggets,0.017299999999999982,0.4255,0.4082
 2024-01-23 13:01:16.235016,96th Academy Awards - Best Actor - Best Actor,Cillian Murphy - Oppenheimer,0.016700000000000048,0.75,0.7333
-2024-01-23 09:00:46.330108,Boxing Lines - Gabriela Fundora vs Christina Cruz - To Win the Bout,Christina Cruz,0.016700000000000007,0.1,0.0833
 2024-01-23 13:01:17.865095,Republican Party Primaries - New Hampshire Primary Popular Vote: Trump Winning Margin - New Hampshire Primary Trump Winning Margin,0.01 to 19.5%,0.016699999999999937,0.6,0.5833
-2024-01-23 09:00:48.385387,Tournament Match-Ups - Tournament Match-Up - S. Theegala vs W. Zalatoris - Tournament Match-Up,Sahith Theegala,0.016100000000000003,0.6078,0.5917
 2024-01-23 15:01:03.412698,Republican Party Primaries - New Hampshire Primary Popular Vote: Trump Winning Margin - New Hampshire Primary Trump Winning Margin,0.01 to 19.5%,0.01539999999999997,0.6154,0.6
 2024-01-23 17:00:24.984226,96th Academy Awards - Best Supporting Actor - Best Supporting Actor,Mark Ruffalo - Poor Things,0.014399999999999996,0.0769,0.0625
 2024-01-23 13:01:16.283404,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,Maestro,0.014100000000000001,0.0526,0.0385
 2024-01-23 13:01:16.253139,96th Academy Awards - Best Director - Best Director,Martin Scorsese - Killers of the Flower Moon,0.014099999999999994,0.0667,0.0526
 2024-01-23 17:00:25.666308,NBL - NBL 2023/2024 - To Make Top 4,Cairns Taipans,0.012899999999999995,0.1667,0.1538
-2024-01-23 09:00:48.423377,Tournament Match-Ups - Tournament Match-Up - L. Aberg vs T. Finau - Tournament Match-Up,Tony Finau,0.012199999999999989,0.5122,0.5
-2024-01-23 09:00:48.402621,Tournament Match-Ups - Tournament Match-Up - H. Matsuyama vs K. Bradley - Tournament Match-Up,Hideki Matsuyama,0.0116,0.4878,0.4762
 2024-01-23 17:00:26.428205,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.0116,0.4878,0.4762
-2024-01-23 09:00:41.273793,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Jarrett Allen (CLE),0.0114,0.0164,0.005
 2024-01-23 13:01:17.204477,NBL - NBL 2023/2024 - Most Losses,Illawarra Hawks,0.011199999999999995,0.0588,0.0476
 2024-01-23 13:01:17.204477,NBL - NBL 2023/2024 - Most Losses,Cairns Taipans,0.011199999999999995,0.0588,0.0476
-2024-01-23 09:00:46.346791,Boxing Lines - Oscar Collazo vs Reyneris Gutierrez - To Win the Bout,Reyneris Gutierrez,0.011099999999999999,0.0667,0.0556
 2024-01-23 13:01:17.428205,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,0.011099999999999999,0.4762,0.4651
 2024-01-23 17:00:26.378927,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Lee Zeldin,0.010700000000000001,0.0385,0.0278
-2024-01-23 09:00:42.366615,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Republican,0.010699999999999932,0.5455,0.5348
-2024-01-23 09:00:42.888379,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 MVP,Travis Kelce,0.010600000000000002,0.0323,0.0217
-2024-01-23 09:00:48.367599,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs X. Schauffele - Tournament Match-Up,Xander Schauffele,0.010099999999999998,0.5556,0.5455
 2024-01-23 19:01:29.389391,Ras Al Khaimah Championship - 2/3 Balls - 1st Round 3-Balls - M. Baldwin / T. Clements / H. Li - 1st Round 3-Balls,Todd Clements,0.010099999999999998,0.3226,0.3125
-2024-01-23 09:00:48.331730,Tournament Match-Ups - Tournament Match-Up - A. Meronk vs J. Rose - Tournament Match-Up,Justin Rose,-0.010599999999999998,0.4545,0.4651
 2024-01-23 13:01:22.075853,Tournament Match-Ups - Tournament Match-Up - J. Day vs S. Im - Tournament Match-Up,Jason Day,-0.010599999999999998,0.4545,0.4651
 2024-01-23 11:01:43.651898,Pacific Division - Pacific Division 2023-24 - Division Winner,Los Angeles Lakers,-0.010700000000000001,0.0278,0.0385
 2024-01-23 17:00:29.873421,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,-0.01100000000000001,0.5238,0.5348
-2024-01-23 09:00:48.479115,Tournament Match-Ups - Tournament Match-Up - J. Day vs S. Im - Tournament Match-Up,Jason Day,-0.011099999999999999,0.4651,0.4762
 2024-01-23 15:01:03.412698,Republican Party Primaries - New Hampshire Primary Popular Vote: Trump Winning Margin - New Hampshire Primary Trump Winning Margin,Over 19.5%,-0.011099999999999999,0.4651,0.4762
 2024-01-23 13:01:17.865095,Republican Party Primaries - New Hampshire Primary Popular Vote: Trump Winning Margin - New Hampshire Primary Trump Winning Margin,Over 19.5%,-0.0116,0.4762,0.4878
-2024-01-23 09:00:48.367599,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs X. Schauffele - Tournament Match-Up,Patrick Cantlay,-0.011600000000000055,0.5122,0.5238
 2024-01-23 17:00:29.873421,MLB Futures - MLB 2024 American League Central - American League Central Winner,Cleveland Guardians,-0.011700000000000016,0.2105,0.2222
-2024-01-23 09:00:48.444780,Tournament Match-Ups - Tournament Match-Up - H. English vs S. Lowry - Tournament Match-Up,Shane Lowry,-0.012199999999999989,0.5,0.5122
-2024-01-23 09:00:48.462363,Tournament Match-Ups - Tournament Match-Up - E. Cole vs M.W. Lee - Tournament Match-Up,Eric Cole,-0.012199999999999989,0.4878,0.5
-2024-01-23 09:00:42.366615,US Presidential Election 2024 - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,-0.012199999999999989,0.4878,0.5
 2024-01-23 19:01:29.318125,Scores - 1st Round Score - Sahith Theegala - 1st Round Score ,Over 68.5,-0.013799999999999923,0.6226,0.6364
-2024-01-23 17:00:24.923478,96th Academy Awards - Best Picture - Best Picture,Poor Things,-0.013999999999999999,0.0769,0.0909
 2024-01-23 11:01:43.630373,Central Division - Central Division 2023-24 - Division Winner,Indiana Pacers,-0.013999999999999999,0.0769,0.0909
+2024-01-23 17:00:24.923478,96th Academy Awards - Best Picture - Best Picture,Poor Things,-0.013999999999999999,0.0769,0.0909
 2024-01-23 17:00:27.984858,MLB 2024 Regular Season Team Props - Detroit Tigers To Make The Playoffs - Detroit Tigers To Make The Playoffs,No,-0.014000000000000012,0.6875,0.7015
-2024-01-23 13:01:16.225587,96th Academy Awards - Best Picture - Best Picture,American Fiction,-0.014099999999999998,0.0244,0.0385
 2024-01-23 13:01:16.225587,96th Academy Awards - Best Picture - Best Picture,Past Lives,-0.014099999999999998,0.0244,0.0385
+2024-01-23 13:01:16.225587,96th Academy Awards - Best Picture - Best Picture,American Fiction,-0.014099999999999998,0.0244,0.0385
 2024-01-23 13:01:16.225587,96th Academy Awards - Best Picture - Best Picture,Anatomy Of A Fall,-0.014899999999999997,0.0476,0.0625
 2024-01-23 13:01:16.225587,96th Academy Awards - Best Picture - Best Picture,Maestro,-0.0159,0.0164,0.0323
-2024-01-23 09:00:48.402621,Tournament Match-Ups - Tournament Match-Up - H. Matsuyama vs K. Bradley - Tournament Match-Up,Keegan Bradley,-0.017299999999999982,0.5744,0.5917
 2024-01-23 19:01:28.779395,Round Match-Ups - 1st Round Match-Up - H. English vs D. Berger - 1st Round Match-Up,Harris English,-0.01880000000000004,0.5556,0.5744
 2024-01-23 17:00:25.666308,NBL - NBL 2023/2024 - To Make Top 4,New Zealand Breakers,-0.019000000000000017,0.2667,0.2857
 2024-01-23 17:00:24.945347,96th Academy Awards - Best Actress - Best Actress,Carey Mulligan - Maestro,-0.019099999999999992,0.0476,0.0667
 2024-01-23 17:00:24.974221,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,Anatomy Of A Fall,-0.02100000000000002,0.3636,0.3846
 2024-01-23 17:00:28.993860,MLB 2024 Regular Season Team Props - Washington Nationals Regular Season Win Total - Washington Nationals Regular Season Win Total,Under 66.5,-0.02169999999999994,0.5238,0.5455
 2024-01-23 19:01:28.721787,Round Match-Ups - 1st Round Match-Up - C. Morikawa vs P. Cantlay - 1st Round Match-Up,Patrick Cantlay,-0.02169999999999994,0.5238,0.5455
-2024-01-23 09:00:48.385387,Tournament Match-Ups - Tournament Match-Up - S. Theegala vs W. Zalatoris - Tournament Match-Up,Will Zalatoris,-0.021699999999999997,0.4545,0.4762
-2024-01-23 09:00:47.722461,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Over 67.5,-0.02180000000000004,0.6078,0.6296
-2024-01-23 17:00:24.974221,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,Past Lives,-0.022199999999999998,0.2,0.2222
 2024-01-23 19:01:29.389391,Ras Al Khaimah Championship - 2/3 Balls - 1st Round 3-Balls - M. Baldwin / T. Clements / H. Li - 1st Round 3-Balls,Matthew Baldwin,-0.022199999999999998,0.3226,0.3448
+2024-01-23 17:00:24.974221,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,Past Lives,-0.022199999999999998,0.2,0.2222
 2024-01-23 11:01:43.651898,Pacific Division - Pacific Division 2023-24 - Division Winner,Sacramento Kings,-0.022199999999999998,0.1111,0.1333
-2024-01-23 09:00:48.309527,Tournament Match-Ups - Tournament Match-Up - N. Hojgaard vs S. Straka - Tournament Match-Up,Sepp Straka,-0.023800000000000043,0.5,0.5238
-2024-01-23 09:00:48.350051,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs M. Homa - Tournament Match-Up,Max Homa,-0.023800000000000043,0.5,0.5238
-2024-01-23 09:00:42.046885,Republican Party Primaries - New Hampshire Primary Popular Vote: Haley Share - New Hampshire Haley Vote Share,Over 39.5%,-0.023800000000000043,0.5,0.5238
 2024-01-23 13:01:16.225587,96th Academy Awards - Best Picture - Best Picture,Killers Of The Flower Moon,-0.024,0.0385,0.0625
 2024-01-23 17:00:24.162720,EFL Cup - EFL Cup 2023/24 - Winner,Fulham,-0.0242,0.0667,0.0909
 2024-01-23 19:01:29.271637,Scores - 1st Round Score - Hideki Matsuyama - 1st Round Score,Over 69.5,-0.024399999999999977,0.4878,0.5122
@@ -122,7 +90,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-23 13:01:17.204477,NBL - NBL 2023/2024 - Most Losses,Brisbane Bullets,-0.0335,0.005,0.0385
 2024-01-23 17:00:27.962032,MLB 2024 Regular Season Team Props - Detroit Tigers Regular Season Win Total - Detroit Tigers Regular Season Win Total,Under 79.5,-0.03480000000000005,0.5,0.5348
 2024-01-23 11:01:43.662952,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,-0.03510000000000002,0.3571,0.3922
-2024-01-23 09:00:46.888604,Farmers Insurance Open - 2/3 Balls - 1st Round 3 Balls - B. Martin / S. Jaeger / H. Buckley - 1st Round 3 Balls,Hayden Buckley,-0.0363,0.2667,0.303
 2024-01-23 13:01:16.235016,96th Academy Awards - Best Actor - Best Actor,Paul Giamatti - The Holdovers,-0.03710000000000002,0.3077,0.3448
 2024-01-23 13:01:21.853173,Positions - Finishing Position - Ludvig Aberg - Finishing Position,24th or worse,-0.037900000000000045,0.5917,0.6296
 2024-01-23 19:01:28.789913,Round Match-Ups - 1st Round Match-Up - H. Matsuyama vs J. Rose - 1st Round Match-Up,Hideki Matsuyama,-0.03959999999999997,0.5348,0.5744
@@ -136,14 +103,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-23 17:00:25.674384,NBL - NBL 2023/2024 - To Make Top 6,Illawarra Hawks,-0.05559999999999998,0.5,0.5556
 2024-01-23 17:00:26.259288,Republican Party Primaries - New Hampshire Primary Popular Vote: Trump Winning Margin - New Hampshire Primary Trump Winning Margin,0.01 to 16.5%,-0.05860000000000004,0.4762,0.5348
 2024-01-23 19:01:29.294758,Scores - 1st Round Score - Ludvig Aberg - 1st Round Score,Over 68.5,-0.07740000000000002,0.4878,0.5652
-2024-01-23 09:00:47.566532,Positions - Finishing Position - Jason Day - Finishing Position,30th or better,-0.10109999999999997,0.4444,0.5455
 2024-01-23 17:00:25.666308,NBL - NBL 2023/2024 - To Make Top 4,SE Melboune Phoenix,-0.10419999999999999,0.0625,0.1667
 2024-01-23 13:01:16.244084,96th Academy Awards - Best Actress - Best Actress,Lily Gladstone - Killers Of The Flower Moon,-0.11430000000000007,0.6,0.7143
-2024-01-23 09:00:47.672359,Positions - Finishing Position - Sahith Theegala - Finishing Position,34th or better,-0.12079999999999996,0.4348,0.5556
-2024-01-23 09:00:47.602175,Positions - Finishing Position - Ludvig Aberg - Finishing Position,23rd or better,-0.12079999999999996,0.4348,0.5556
 2024-01-23 19:01:29.283125,Scores - 1st Round Score - Justin Rose - 1st Round Score,Over 69.5,-0.12080000000000002,0.4444,0.5652
 2024-01-23 13:01:17.204477,NBL - NBL 2023/2024 - Most Losses,New Zealand Breakers,-0.1517,0.0588,0.2105
-2024-01-23 09:00:47.770225,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Under 67.5,-0.15559999999999996,0.4444,0.6
 2024-01-23 17:00:25.666308,NBL - NBL 2023/2024 - To Make Top 4,Illawarra Hawks,-0.1666,0.1667,0.3333
 2024-01-23 17:00:25.674384,NBL - NBL 2023/2024 - To Make Top 6,SE Melbourne Phoenix,-0.23490000000000003,0.1818,0.4167
 2024-01-23 13:01:17.204477,NBL - NBL 2023/2024 - Most Losses,Adelaide 36ers,-0.2598,0.2857,0.5455
