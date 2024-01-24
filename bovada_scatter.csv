@@ -1,8 +1,8 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-24 09:05:42.231463,"Daily Specials - NBA Daily Specials - Wednesday, January 24th ","S.Gilgeous-Alexander 25+ Pts, L.Doncic 6+ Assists, Giannis 10+ Rebounds, St.Curry 3+ 3s Made",0.5455,0.6364,0.0909
 2024-01-24 05:03:48.288844,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Houston,0.12420000000000003,0.4878,0.3636
-2024-01-24 07:05:49.341257,Player Totals - 1st Round Birdies - Justin Rose - 1st Round Birdies,Over 4.5,0.10010000000000002,0.5652,0.4651
 2024-01-24 07:05:49.326887,Player Totals - 1st Round Birdies - Hideki Matsuyama - 1st Round Birdies,Over 4.5,0.10010000000000002,0.5652,0.4651
+2024-01-24 07:05:49.341257,Player Totals - 1st Round Birdies - Justin Rose - 1st Round Birdies,Over 4.5,0.10010000000000002,0.5652,0.4651
 2024-01-24 05:03:48.322949,NCAA DI Men - American Athletic Conference 2023-24 - Winner,Florida Atlantic,0.09099999999999997,0.5455,0.4545
 2024-01-24 05:03:46.523436,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Hibernian,0.07619999999999999,0.4762,0.4
 2024-01-24 05:03:45.864988,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Emilio Nsue,0.057699999999999974,0.75,0.6923
@@ -17,8 +17,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-24 05:03:46.350723,League Two - England - League Two 2023/24 - To Be Promoted,Milton Keynes Dons,0.03889999999999999,0.1818,0.1429
 2024-01-24 05:03:46.370433,League Two - England - League Two 2023/24 - Top 7 Finish,Milton Keynes Dons,0.03639999999999999,0.6364,0.6
 2024-01-24 07:05:49.113978,Positions - Finishing Position - Sungjae Im - Finishing Position,27th or better,0.03610000000000002,0.5917,0.5556
-2024-01-24 05:03:45.773914,MLS - MLS 2024 - Winner,Inter Miami,0.03570000000000001,0.2857,0.25
 2024-01-24 05:03:46.267041,League One - England - League One 2023/24 - To Be Promoted,Barnsley,0.03570000000000001,0.2857,0.25
+2024-01-24 05:03:45.773914,MLS - MLS 2024 - Winner,Inter Miami,0.03570000000000001,0.2857,0.25
 2024-01-24 07:05:49.379943,Player Totals - 1st Round Birdies - Sahith Theegala - 1st Round Birdies,Over 5.5,0.03489999999999999,0.5,0.4651
 2024-01-24 07:05:49.027642,Positions - Finishing Position - Jason Day - Finishing Position,30th or better,0.03489999999999999,0.5,0.4651
 2024-01-24 05:03:54.618585,Player Totals - 1st Round Birdies - Ludvig Aberg - 1st Round Birdies,Under 4.5,0.031799999999999995,0.4762,0.4444
@@ -30,8 +30,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-24 05:03:46.120157,A-League - Australia A-League 2023/24 - Top 6 Finish,Newcastle United Jets,0.029899999999999982,0.2299,0.2
 2024-01-24 07:05:47.539694,Boxing Lines - Erik Bazinyan vs Billi Facundo Godoy - To Win the Bout,Erik Bazinyan,0.028000000000000025,0.9804,0.9524
 2024-01-24 05:03:46.250801,League One - England - League One 2023/24 - League Winner,Bolton Wanderers,0.02779999999999999,0.25,0.2222
-2024-01-24 13:05:37.116180,96th Academy Awards - Best Original Song - Best Original Song,I'm Just Ken - Mark Ronson & Andrew Wyatt (Barbie),0.02779999999999999,0.25,0.2222
 2024-01-24 05:03:45.858474,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Senegal,0.02779999999999999,0.25,0.2222
+2024-01-24 13:05:37.116180,96th Academy Awards - Best Original Song - Best Original Song,I'm Just Ken - Mark Ronson & Andrew Wyatt (Barbie),0.02779999999999999,0.25,0.2222
 2024-01-24 09:05:46.618282,Player Totals - 1st Round Birdies - Hideki Matsuyama - 1st Round Birdies,Over 4.5,0.026499999999999968,0.5917,0.5652
 2024-01-24 09:05:46.630150,Player Totals - 1st Round Birdies - Justin Rose - 1st Round Birdies,Over 4.5,0.026499999999999968,0.5917,0.5652
 2024-01-24 05:03:54.679935,Scores - 1st Round Score - Hideki Matsuyama - 1st Round Score,Under 69.5,0.025599999999999956,0.6,0.5744
@@ -43,11 +43,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-24 07:05:47.483987,MLB Futures - MLB 2024 Regular Season Leaders - Player To Record the Most Strikeouts,Kevin Gausman (TOR),0.02310000000000001,0.1,0.0769
 2024-01-24 07:05:49.101875,Positions - Finishing Position - Sahith Theegala - Finishing Position,34th or better,0.022699999999999998,0.4878,0.4651
 2024-01-24 05:03:46.267041,League One - England - League One 2023/24 - To Be Promoted,Bolton Wanderers,0.022600000000000064,0.6226,0.6
+2024-01-24 15:04:10.076259,Boxing Lines - Ronnie Baldonado vs Kenshin Hosokawa - To Win the Bout,Kenshin Hosokawa,0.022600000000000064,0.6226,0.6
 2024-01-24 09:05:42.231463,"Daily Specials - NBA Daily Specials - Wednesday, January 24th ","Rudy Gobert, Giannis Antetokounmpo & Jusuf Nurkic 10+ Rebs Each",0.022600000000000064,0.5348,0.5122
 2024-01-24 05:03:46.274240,League One - England - League One 2023/24 - Top 2 Finish,Barnsley,0.022199999999999998,0.1333,0.1111
 2024-01-24 05:03:54.845471,Ras Al Khaimah Championship - 2/3 Balls - 1st Round 3-Balls - M. Baldwin / T. Clements / H. Li - 1st Round 3-Balls,Todd Clements,0.022199999999999998,0.3448,0.3226
-2024-01-24 05:03:54.738789,Scores - 1st Round Score - Sahith Theegala - 1st Round Score ,Under 68.5,0.021699999999999997,0.4762,0.4545
 2024-01-24 05:03:53.714070,Farmers Insurance Open - 2/3 Balls - 1st Round 3 Balls - G. Higgo / N. Watney / D. Lipsky - 1st Round 3 Balls,Garrick Higgo,0.021699999999999997,0.4762,0.4545
+2024-01-24 05:03:54.738789,Scores - 1st Round Score - Sahith Theegala - 1st Round Score ,Under 68.5,0.021699999999999997,0.4762,0.4545
 2024-01-24 05:03:46.515269,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,St. Mirren,0.02169999999999994,0.5455,0.5238
 2024-01-24 05:03:54.300235,Positions - Finishing Position - Jason Day - Finishing Position,30th or better,0.020699999999999996,0.4651,0.4444
 2024-01-24 13:05:37.361362,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Matteus,0.02020000000000001,0.1111,0.0909
@@ -55,10 +56,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-24 05:03:45.864988,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Bertrand Traore,0.019499999999999997,0.0294,0.0099
 2024-01-24 05:03:46.350723,League Two - England - League Two 2023/24 - To Be Promoted,Crewe Alexandra,0.019000000000000017,0.2857,0.2667
 2024-01-24 11:03:47.861618,Boxing Lines - Froilan Saludar vs Keita Kurihara - To Win the Bout,Froilan Saludar,0.018900000000000028,0.4444,0.4255
-2024-01-24 05:03:46.304462,League Two - England - League Two 2023/24 - League Winner,Stockport County,0.01880000000000004,0.5744,0.5556
 2024-01-24 07:05:49.039911,Positions - Finishing Position - Keegan Bradley - Finishing Position,32nd or better,0.01880000000000004,0.5744,0.5556
 2024-01-24 07:05:49.077105,Positions - Finishing Position - Min Woo Lee - Finishing Position,30th or better,0.01880000000000004,0.5744,0.5556
 2024-01-24 07:05:49.126254,Positions - Finishing Position - Tony Finau - Finishing Position,30th or better,0.01880000000000004,0.5744,0.5556
+2024-01-24 05:03:46.304462,League Two - England - League Two 2023/24 - League Winner,Stockport County,0.01880000000000004,0.5744,0.5556
 2024-01-24 07:05:49.138800,Positions - Finishing Position - Xander Schauffele - Finishing Position,13th or better,0.01880000000000004,0.5744,0.5556
 2024-01-24 05:03:45.871919,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Nigeria,0.01820000000000002,0.2,0.1818
 2024-01-24 09:05:46.891333,Round Match-Ups - 1st Round Match-Up - X. Schauffele vs M. Homa - 1st Round Match-Up,Xander Schauffele,0.018100000000000005,0.5833,0.5652
@@ -71,28 +72,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-24 05:03:48.382601,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,TCU,0.014899999999999997,0.0625,0.0476
 2024-01-24 05:03:45.871919,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Cameroon,0.013999999999999999,0.0909,0.0769
 2024-01-24 05:03:46.360807,League Two - England - League Two 2023/24 - Top 3 Finish,Milton Keynes Dons,0.013999999999999999,0.0909,0.0769
-2024-01-24 05:03:52.798961,Boxing Lines - Dzmitry Asanau vs Zsolt Osadan - To Win the Bout,Dzmitry Asanau,0.0131,0.9655,0.9524
 2024-01-24 07:05:47.526453,Boxing Lines - Steve Claggett vs Marco Gonzalez Barraza - To Win the Bout,Steve Claggett,0.0131,0.9655,0.9524
+2024-01-24 05:03:52.798961,Boxing Lines - Dzmitry Asanau vs Zsolt Osadan - To Win the Bout,Dzmitry Asanau,0.0131,0.9655,0.9524
 2024-01-24 05:03:48.382601,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Purdue,0.012299999999999978,0.3571,0.3448
-2024-01-24 09:05:46.809085,Round Match-Ups - 1st Round Match-Up - D. Thompson v B. Griffin - 1st Round Match-Up,Ben Griffin,0.012199999999999989,0.5122,0.5
 2024-01-24 09:05:46.763415,Round Match-Ups - 1st Round Match-Up - R. Hisatsune v M. Hughes - 1st Round Match-Up,Mackenzie Hughes,0.012199999999999989,0.5,0.4878
+2024-01-24 09:05:46.809085,Round Match-Ups - 1st Round Match-Up - D. Thompson v B. Griffin - 1st Round Match-Up,Ben Griffin,0.012199999999999989,0.5122,0.5
 2024-01-24 07:05:47.632723,Boxing Lines - Ermal Hadribeaj vs Bohdan Shtonda - To Win the Bout,Bohdan Shtonda,0.011700000000000016,0.2222,0.2105
 2024-01-24 05:03:54.666770,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Under 67.5,0.0116,0.4878,0.4762
 2024-01-24 05:03:46.281943,League One - England - League One 2023/24 - Top 6 Finish,Bolton Wanderers,0.011199999999999988,0.9524,0.9412
 2024-01-24 05:03:52.984237,Boxing Lines - Brandon Glanton vs Emil Markic - To Win the Bout,Brandon Glanton,0.011099999999999999,0.9,0.8889
 2024-01-24 07:05:47.681177,Boxing Lines - Quaise Khademi vs Jackson Chauke - To Win the Bout,Quaise Khademi,0.01100000000000001,0.5348,0.5238
 2024-01-24 07:05:47.483987,MLB Futures - MLB 2024 Regular Season Leaders - Player To Record the Most Strikeouts,Zac Gallen (ARIZ),0.010700000000000001,0.0385,0.0278
-2024-01-24 09:05:46.715857,Round Match-Ups - 1st Round Match-Up - S. Jaeger v A. Schenk - 1st Round Match-Up,Stephan Jaeger,0.010699999999999932,0.5455,0.5348
 2024-01-24 09:05:46.703959,Round Match-Ups - 1st Round Match-Up - M. Kim v J.J. Spaun - 1st Round Match-Up,Michael Kim,0.010699999999999932,0.5455,0.5348
+2024-01-24 07:05:49.365465,Player Totals - 1st Round Birdies - Patrick Cantlay - 1st Round Birdies,Over 5.5,0.010699999999999932,0.5455,0.5348
 2024-01-24 09:05:46.903088,Round Match-Ups - 1st Round Match-Up - J. Day vs M.W. Lee - 1st Round Match-Up,Min Woo Lee,0.010699999999999932,0.5455,0.5348
 2024-01-24 09:05:46.751123,Round Match-Ups - 1st Round Match-Up - H. Matsuyama vs J. Rose - 1st Round Match-Up,Hideki Matsuyama,0.010699999999999932,0.5455,0.5348
-2024-01-24 07:05:49.365465,Player Totals - 1st Round Birdies - Patrick Cantlay - 1st Round Birdies,Over 5.5,0.010699999999999932,0.5455,0.5348
+2024-01-24 09:05:46.715857,Round Match-Ups - 1st Round Match-Up - S. Jaeger v A. Schenk - 1st Round Match-Up,Stephan Jaeger,0.010699999999999932,0.5455,0.5348
+2024-01-24 15:04:10.065257,Boxing Lines - Froilan Saludar vs Keita Kurihara - To Win the Bout,Froilan Saludar,0.010599999999999998,0.4651,0.4545
 2024-01-24 09:05:46.145409,Boxing Lines - Sam Noakes vs Lewis Sylvester - To Win the Bout,Lewis Sylvester,0.010499999999999982,0.2105,0.2
 2024-01-24 05:03:45.864988,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Victor Osimhen,0.0102,0.0769,0.0667
 2024-01-24 05:03:46.322507,League Two - England - League Two 2023/24 - Top Goalscorer,Dan Kemp,0.0102,0.0769,0.0667
 2024-01-24 13:05:44.398249,Boxing Lines - Froilan Saludar vs Keita Kurihara - To Win the Bout,Froilan Saludar,0.010099999999999998,0.4545,0.4444
-2024-01-24 05:03:46.523436,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,St. Mirren,-0.010099999999999998,0.5455,0.5556
 2024-01-24 09:05:46.763415,Round Match-Ups - 1st Round Match-Up - R. Hisatsune v M. Hughes - 1st Round Match-Up,Ryo Hisatsune,-0.010099999999999998,0.5455,0.5556
+2024-01-24 15:04:10.076259,Boxing Lines - Ronnie Baldonado vs Kenshin Hosokawa - To Win the Bout,Ronnie Baldonado,-0.010099999999999998,0.4444,0.4545
+2024-01-24 05:03:46.523436,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,St. Mirren,-0.010099999999999998,0.5455,0.5556
 2024-01-24 05:03:53.321270,Farmers Insurance Open - Farmers Insurance Open - Winner,Patrick Cantlay,-0.0102,0.0667,0.0769
 2024-01-24 05:03:46.350723,League Two - England - League Two 2023/24 - To Be Promoted,Bradford City,-0.0102,0.0667,0.0769
 2024-01-24 09:05:46.809085,Round Match-Ups - 1st Round Match-Up - D. Thompson v B. Griffin - 1st Round Match-Up,Davis Thompson,-0.010699999999999932,0.5348,0.5455
@@ -102,10 +105,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-24 09:05:46.891333,Round Match-Ups - 1st Round Match-Up - X. Schauffele vs M. Homa - 1st Round Match-Up,Max Homa,-0.011099999999999999,0.4651,0.4762
 2024-01-24 05:03:46.523436,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Ross County,-0.011199999999999988,0.9412,0.9524
 2024-01-24 07:05:49.436139,Scores - 1st Round Score - Ludvig Aberg - 1st Round Score,Over 68.5,-0.0116,0.4762,0.4878
-2024-01-24 09:05:46.751123,Round Match-Ups - 1st Round Match-Up - H. Matsuyama vs J. Rose - 1st Round Match-Up,Justin Rose,-0.012199999999999989,0.5,0.5122
 2024-01-24 09:05:46.703959,Round Match-Ups - 1st Round Match-Up - M. Kim v J.J. Spaun - 1st Round Match-Up,J J Spaun,-0.012199999999999989,0.5,0.5122
-2024-01-24 09:05:46.715857,Round Match-Ups - 1st Round Match-Up - S. Jaeger v A. Schenk - 1st Round Match-Up,Adam Schenk,-0.012199999999999989,0.5,0.5122
 2024-01-24 09:05:46.903088,Round Match-Ups - 1st Round Match-Up - J. Day vs M.W. Lee - 1st Round Match-Up,Jason Day,-0.012199999999999989,0.5,0.5122
+2024-01-24 09:05:46.751123,Round Match-Ups - 1st Round Match-Up - H. Matsuyama vs J. Rose - 1st Round Match-Up,Justin Rose,-0.012199999999999989,0.5,0.5122
+2024-01-24 09:05:46.715857,Round Match-Ups - 1st Round Match-Up - S. Jaeger v A. Schenk - 1st Round Match-Up,Adam Schenk,-0.012199999999999989,0.5,0.5122
 2024-01-24 09:05:45.645832,Boxing Lines - Froilan Saludar vs Keita Kurihara - To Win the Bout,Keita Kurihara,-0.012700000000000045,0.6364,0.6491
 2024-01-24 11:03:48.170064,Boxing Lines - Brandon Glanton vs Emil Markic - To Win the Bout,Emil Markic,-0.012899999999999995,0.1538,0.1667
 2024-01-24 11:03:47.861618,Boxing Lines - Froilan Saludar vs Keita Kurihara - To Win the Bout,Keita Kurihara,-0.013799999999999923,0.6226,0.6364
@@ -133,19 +136,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-24 13:05:37.361362,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Davi,-0.021999999999999964,0.2857,0.3077
 2024-01-24 05:03:46.370433,League Two - England - League Two 2023/24 - Top 7 Finish,Bradford City,-0.022199999999999998,0.2,0.2222
 2024-01-24 05:03:45.858474,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Ivory Coast,-0.022199999999999998,0.1111,0.1333
-2024-01-24 05:03:54.300235,Positions - Finishing Position - Jason Day - Finishing Position,31st or worse,-0.022600000000000064,0.6,0.6226
 2024-01-24 05:03:46.370433,League Two - England - League Two 2023/24 - Top 7 Finish,AFC Wimbledon,-0.022600000000000064,0.6,0.6226
-2024-01-24 07:05:49.396139,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Under 67.5,-0.022699999999999998,0.4651,0.4878
+2024-01-24 05:03:54.300235,Positions - Finishing Position - Jason Day - Finishing Position,31st or worse,-0.022600000000000064,0.6,0.6226
 2024-01-24 05:03:54.679935,Scores - 1st Round Score - Hideki Matsuyama - 1st Round Score,Over 69.5,-0.022699999999999998,0.4651,0.4878
+2024-01-24 07:05:49.396139,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Under 67.5,-0.022699999999999998,0.4651,0.4878
 2024-01-24 05:03:46.523436,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Hearts,-0.023200000000000002,0.0244,0.0476
-2024-01-24 09:05:46.630150,Player Totals - 1st Round Birdies - Justin Rose - 1st Round Birdies,Under 4.5,-0.023799999999999988,0.4762,0.5
-2024-01-24 09:05:46.618282,Player Totals - 1st Round Birdies - Hideki Matsuyama - 1st Round Birdies,Under 4.5,-0.023799999999999988,0.4762,0.5
 2024-01-24 07:05:48.966160,Round Match-Ups - 1st Round Match-Up - X. Schauffele vs M. Homa - 1st Round Match-Up,Max Homa,-0.023799999999999988,0.4762,0.5
+2024-01-24 09:05:46.618282,Player Totals - 1st Round Birdies - Hideki Matsuyama - 1st Round Birdies,Under 4.5,-0.023799999999999988,0.4762,0.5
+2024-01-24 09:05:46.630150,Player Totals - 1st Round Birdies - Justin Rose - 1st Round Birdies,Under 4.5,-0.023799999999999988,0.4762,0.5
 2024-01-24 05:03:46.274240,League One - England - League One 2023/24 - Top 2 Finish,Derby County,-0.023800000000000043,0.5,0.5238
-2024-01-24 07:05:49.126254,Positions - Finishing Position - Tony Finau - Finishing Position,31st or worse,-0.024399999999999977,0.4878,0.5122
 2024-01-24 07:05:49.039911,Positions - Finishing Position - Keegan Bradley - Finishing Position,33rd or worse,-0.024399999999999977,0.4878,0.5122
 2024-01-24 07:05:49.138800,Positions - Finishing Position - Xander Schauffele - Finishing Position,14th or worse,-0.024399999999999977,0.4878,0.5122
 2024-01-24 07:05:49.077105,Positions - Finishing Position - Min Woo Lee - Finishing Position,31st or worse,-0.024399999999999977,0.4878,0.5122
+2024-01-24 07:05:49.126254,Positions - Finishing Position - Tony Finau - Finishing Position,31st or worse,-0.024399999999999977,0.4878,0.5122
 2024-01-24 07:05:49.101875,Positions - Finishing Position - Sahith Theegala - Finishing Position,35th or worse,-0.025599999999999956,0.5744,0.6
 2024-01-24 05:03:46.350723,League Two - England - League Two 2023/24 - To Be Promoted,AFC Wimbledon,-0.02560000000000001,0.3077,0.3333
 2024-01-24 05:03:46.281943,League One - England - League One 2023/24 - Top 6 Finish,Blackpool,-0.02560000000000001,0.3077,0.3333
@@ -153,17 +156,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-24 05:03:48.382601,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Kentucky,-0.02779999999999999,0.2222,0.25
 2024-01-24 05:03:54.385294,Positions - Finishing Position - Sahith Theegala - Finishing Position,35th or worse,-0.02960000000000007,0.6,0.6296
 2024-01-24 05:03:46.281943,League One - England - League One 2023/24 - Top 6 Finish,Oxford United,-0.030299999999999994,0.6364,0.6667
-2024-01-24 05:03:46.274240,League One - England - League One 2023/24 - Top 2 Finish,Portsmouth,-0.030299999999999994,0.3333,0.3636
 2024-01-24 05:03:46.120157,A-League - Australia A-League 2023/24 - Top 6 Finish,Brisbane Roar,-0.030299999999999994,0.3333,0.3636
 2024-01-24 05:03:46.267041,League One - England - League One 2023/24 - To Be Promoted,Derby County,-0.030299999999999994,0.6364,0.6667
+2024-01-24 05:03:46.274240,League One - England - League One 2023/24 - Top 2 Finish,Portsmouth,-0.030299999999999994,0.3333,0.3636
 2024-01-24 09:05:46.976564,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Over 67.5,-0.03090000000000004,0.5917,0.6226
 2024-01-24 05:03:54.618585,Player Totals - 1st Round Birdies - Ludvig Aberg - 1st Round Birdies,Over 4.5,-0.03090000000000004,0.5917,0.6226
 2024-01-24 05:03:48.288844,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Baylor,-0.031799999999999995,0.1111,0.1429
 2024-01-24 05:03:46.523436,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Kilmarnock,-0.03259999999999999,0.2,0.2326
 2024-01-24 07:05:49.312760,Player Totals - 1st Round Birdies - Collin Morikawa - 1st Round Birdies,Under 5.5,-0.033299999999999996,0.5122,0.5455
 2024-01-24 07:05:47.539694,Boxing Lines - Erik Bazinyan vs Billi Facundo Godoy - To Win the Bout,Billi Facundo Godoy,-0.03330000000000001,0.0667,0.1
-2024-01-24 07:05:49.379943,Player Totals - 1st Round Birdies - Sahith Theegala - 1st Round Birdies,Under 5.5,-0.03479999999999994,0.5652,0.6
 2024-01-24 07:05:49.027642,Positions - Finishing Position - Jason Day - Finishing Position,31st or worse,-0.03479999999999994,0.5652,0.6
+2024-01-24 07:05:49.379943,Player Totals - 1st Round Birdies - Sahith Theegala - 1st Round Birdies,Under 5.5,-0.03479999999999994,0.5652,0.6
 2024-01-24 09:05:45.749086,Boxing Lines - Quaise Khademi vs Jackson Chauke - To Win the Bout,Jackson Chauke,-0.03480000000000005,0.5,0.5348
 2024-01-24 05:03:46.250801,League One - England - League One 2023/24 - League Winner,Derby County,-0.03570000000000001,0.25,0.2857
 2024-01-24 07:05:49.113978,Positions - Finishing Position - Sungjae Im - Finishing Position,28th or worse,-0.035999999999999976,0.4762,0.5122
@@ -175,6 +178,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-24 13:05:37.361362,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Bin Laden,-0.05710000000000001,0.1429,0.2
 2024-01-24 05:03:46.281943,League One - England - League One 2023/24 - Top 6 Finish,Portsmouth,-0.06420000000000003,0.9259,0.9901
 2024-01-24 05:03:46.515269,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Hibernian,-0.06669999999999998,0.6,0.6667
-2024-01-24 07:05:49.326887,Player Totals - 1st Round Birdies - Hideki Matsuyama - 1st Round Birdies,Under 4.5,-0.09999999999999998,0.5,0.6
 2024-01-24 07:05:49.341257,Player Totals - 1st Round Birdies - Justin Rose - 1st Round Birdies,Under 4.5,-0.09999999999999998,0.5,0.6
+2024-01-24 07:05:49.326887,Player Totals - 1st Round Birdies - Hideki Matsuyama - 1st Round Birdies,Under 4.5,-0.09999999999999998,0.5,0.6
 2024-01-24 05:03:48.322949,NCAA DI Men - American Athletic Conference 2023-24 - Winner,Memphis,-0.141,0.1667,0.3077
