@@ -10,8 +10,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-26 19:05:59.055475,Drive On Championship - Drive On Championship - Winner,Somi Lee,0.0745,0.0909,0.0164
 2024-01-26 19:05:59.055475,Drive On Championship - Drive On Championship - Winner,Xiyu Lin,0.07239999999999999,0.125,0.0526
 2024-01-26 11:16:39.152615,FIBA Champions League - Champions League 2023/24 - Outright,Unicaja Malaga,0.0635,0.2857,0.2222
-2024-01-26 11:16:39.439943,NCAA DI Men - American Athletic Conference 2023-24 - Winner,Charlotte,0.0577,0.1053,0.0476
 2024-01-26 11:16:37.652347,Manager Specials - Next Liverpool Manager - Next Liverpool Manager,Zinedine Zidane,0.0577,0.1053,0.0476
+2024-01-26 11:16:39.439943,NCAA DI Men - American Athletic Conference 2023-24 - Winner,Charlotte,0.0577,0.1053,0.0476
 2024-01-26 21:07:13.164794,96th Academy Awards - Best Actress - Best Actress,Emma Stone - Poor Things,0.05449999999999999,0.6,0.5455
 2024-01-26 13:05:05.150185,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - Winner",Alajuelense,0.04910000000000003,0.4,0.3509
 2024-01-26 15:09:26.187039,NBL - NBL 2023/2024 - Outright,Melbourne United,0.045499999999999985,0.5,0.4545
@@ -21,6 +21,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-26 19:05:59.055475,Drive On Championship - Drive On Championship - Winner,Ayaka Furue,0.035699999999999996,0.0833,0.0476
 2024-01-26 13:05:05.150185,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - Winner",Guanacasteca,0.03420000000000001,0.1111,0.0769
 2024-01-26 11:16:49.834709,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Zander Lombard,0.034100000000000005,0.125,0.0909
+2024-01-26 23:07:09.070674,Boxing Lines - Sheila Martinez vs Anaelle Angerville - To Win the Bout,Anaelle Angerville,0.032299999999999995,0.3448,0.3125
 2024-01-26 13:05:05.135785,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - To Be Relegated",Puntarenas FC,0.025499999999999967,0.4255,0.4
 2024-01-26 11:16:37.652347,Manager Specials - Next Liverpool Manager - Next Liverpool Manager,Steven Gerrard,0.0245,0.0833,0.0588
 2024-01-26 13:05:05.135785,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - To Be Relegated",Sporting San José,0.024,0.0625,0.0385
@@ -32,29 +33,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-26 13:05:16.416260,Boxing Lines - Brandon Glanton vs Emil Markic - To Win the Bout,Brandon Glanton,0.020299999999999985,0.9615,0.9412
 2024-01-26 19:05:59.055475,Drive On Championship - Drive On Championship - Winner,Lexi Thompson,0.019099999999999995,0.0435,0.0244
 2024-01-26 13:05:05.150185,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - Winner",Herediano,0.017600000000000005,0.3509,0.3333
+2024-01-26 23:07:09.211895,Boxing Lines - Quaise Khademi vs Jackson Chauke - To Win the Bout,Quaise Khademi,0.017299999999999982,0.5917,0.5744
 2024-01-26 21:07:18.950382,Boxing Lines - Sheila Martinez vs Anaelle Angerville - To Win the Bout,Sheila Martinez,0.016700000000000048,0.75,0.7333
 2024-01-26 11:16:39.152615,FIBA Champions League - Champions League 2023/24 - Outright,Ludwigsburg,0.015300000000000001,0.0476,0.0323
-2024-01-26 19:05:51.958741,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Western Sydney Wanderers,0.015100000000000002,0.1818,0.1667
 2024-01-26 11:16:39.439943,NCAA DI Men - American Athletic Conference 2023-24 - Winner,North Texas,0.015100000000000002,0.1818,0.1667
+2024-01-26 19:05:51.958741,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Western Sydney Wanderers,0.015100000000000002,0.1818,0.1667
 2024-01-26 19:05:51.958741,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Melbourne City,0.015100000000000002,0.1818,0.1667
-2024-01-26 13:05:07.209460,NCAA DI Men - American Athletic Conference 2023-24 - Winner,North Texas,0.015100000000000002,0.1818,0.1667
 2024-01-26 15:09:26.529420,NCAA DI Men - American Athletic Conference 2023-24 - Winner,North Texas,0.015100000000000002,0.1818,0.1667
+2024-01-26 13:05:07.209460,NCAA DI Men - American Athletic Conference 2023-24 - Winner,North Texas,0.015100000000000002,0.1818,0.1667
 2024-01-26 11:16:49.834709,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Fabrizio Zanotti,0.0151,0.0217,0.0066
 2024-01-26 13:05:05.150185,"Primera Division, Clausura - Costa Rica Primera Division, Clausura 2024 - Futures - Winner",Cartaginés,0.014899999999999997,0.0625,0.0476
 2024-01-26 19:05:51.938633,A-League - Australia A-League 2023/24 - Grand Final Winner,Melbourne City,0.01469999999999999,0.25,0.2353
+2024-01-26 15:09:26.529420,NCAA DI Men - American Athletic Conference 2023-24 - Winner,SMU,0.013899999999999996,0.125,0.1111
 2024-01-26 13:05:07.209460,NCAA DI Men - American Athletic Conference 2023-24 - Winner,SMU,0.013899999999999996,0.125,0.1111
 2024-01-26 11:16:39.439943,NCAA DI Men - American Athletic Conference 2023-24 - Winner,SMU,0.013899999999999996,0.125,0.1111
-2024-01-26 15:09:26.529420,NCAA DI Men - American Athletic Conference 2023-24 - Winner,SMU,0.013899999999999996,0.125,0.1111
 2024-01-26 11:16:49.015796,Boxing Lines - Omar Cande Trinidad vs Jose Perez - To Win the Bout,Jose Perez,0.011699999999999988,0.2857,0.274
-2024-01-26 11:16:49.100868,Boxing Lines - Mailys Gangloff vs Gemma Ruegg - To Win the Bout,Gemma Ruegg,0.011099999999999999,0.1111,0.1
 2024-01-26 11:16:39.152615,FIBA Champions League - Champions League 2023/24 - Outright,Hapoel Jerusalem,0.011099999999999999,0.1111,0.1
 2024-01-26 15:09:35.458737,Boxing Lines - Sheila Martinez vs Anaelle Angerville - To Win the Bout,Sheila Martinez,0.011099999999999999,0.7333,0.7222
+2024-01-26 11:16:49.100868,Boxing Lines - Mailys Gangloff vs Gemma Ruegg - To Win the Bout,Gemma Ruegg,0.011099999999999999,0.1111,0.1
 2024-01-26 19:05:51.958741,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Sydney FC,0.0102,0.0769,0.0667
 2024-01-26 11:16:43.154199,MLB 2024 Regular Season Team Props - Washington Nationals Regular Season Win Total - Washington Nationals Regular Season Win Total,Over 66.5,0.010099999999999998,0.5556,0.5455
 2024-01-26 15:09:35.636230,Boxing Lines - Darius Fulghum vs Alantez Fox - To Win the Bout,Darius Fulghum,-0.010199999999999987,0.9231,0.9333
 2024-01-26 21:07:13.164794,96th Academy Awards - Best Actress - Best Actress,Annette Bening - Nyad,-0.010700000000000001,0.0278,0.0385
 2024-01-26 19:05:59.055475,Drive On Championship - Drive On Championship - Winner,Marina Alex,-0.0113,0.0028,0.0141
 2024-01-26 15:09:35.458737,Boxing Lines - Sheila Martinez vs Anaelle Angerville - To Win the Bout,Anaelle Angerville,-0.01150000000000001,0.3333,0.3448
+2024-01-26 23:07:09.211895,Boxing Lines - Quaise Khademi vs Jackson Chauke - To Win the Bout,Jackson Chauke,-0.0116,0.4762,0.4878
 2024-01-26 11:16:43.154199,MLB 2024 Regular Season Team Props - Washington Nationals Regular Season Win Total - Washington Nationals Regular Season Win Total,Under 66.5,-0.011600000000000055,0.5122,0.5238
 2024-01-26 19:05:59.055475,Drive On Championship - Drive On Championship - Winner,Brooke Henderson,-0.011699999999999999,0.0079,0.0196
 2024-01-26 13:05:08.320664,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Winner,Kansas City Chiefs,-0.011700000000000016,0.2105,0.2222
@@ -69,9 +72,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-26 19:05:59.055475,Drive On Championship - Drive On Championship - Winner,Hae Ran Ryu,-0.014400000000000001,0.002,0.0164
 2024-01-26 11:16:36.342100,FA Cup - FA Cup 2023/24 - Outright,Manchester City,-0.01469999999999999,0.2353,0.25
 2024-01-26 11:16:49.834709,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Gavin Green,-0.0147,0.0005,0.0152
-2024-01-26 11:16:39.456361,NCAA DI Men - American Athletic Conference 2023-24 - Winner,North Texas,-0.015100000000000002,0.1667,0.1818
-2024-01-26 13:05:07.226746,NCAA DI Men - American Athletic Conference 2023-24 - Winner,North Texas,-0.015100000000000002,0.1667,0.1818
 2024-01-26 15:09:26.554611,NCAA DI Men - American Athletic Conference 2023-24 - Winner,North Texas,-0.015100000000000002,0.1667,0.1818
+2024-01-26 13:05:07.226746,NCAA DI Men - American Athletic Conference 2023-24 - Winner,North Texas,-0.015100000000000002,0.1667,0.1818
+2024-01-26 11:16:39.456361,NCAA DI Men - American Athletic Conference 2023-24 - Winner,North Texas,-0.015100000000000002,0.1667,0.1818
 2024-01-26 11:16:49.834709,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Daan Huizing,-0.015700000000000002,0.0007,0.0164
 2024-01-26 11:16:49.015796,Boxing Lines - Omar Cande Trinidad vs Jose Perez - To Win the Bout,Omar Cande Trinidad,-0.015899999999999914,0.7778,0.7937
 2024-01-26 11:16:49.834709,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Alex Fitzpatrick,-0.016,0.0057,0.0217
@@ -94,6 +97,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-26 11:16:49.834709,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Johannes Veerman,-0.0253,0.0025,0.0278
 2024-01-26 19:05:51.958741,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Melbourne Victory,-0.02560000000000001,0.3077,0.3333
 2024-01-26 11:16:49.834709,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Brandon Stone,-0.0262,0.0123,0.0385
+2024-01-26 23:07:09.070674,Boxing Lines - Sheila Martinez vs Anaelle Angerville - To Win the Bout,Sheila Martinez,-0.027800000000000047,0.7222,0.75
 2024-01-26 11:16:49.834709,Ras Al Khaimah Championship - Ras Al Khaimah Championship - Winner,Frederic Lacroix,-0.0282,0.0244,0.0526
 2024-01-26 15:09:26.187039,NBL - NBL 2023/2024 - Outright,Tasmania JackJumpers,-0.028799999999999992,0.125,0.1538
 2024-01-26 21:07:13.164794,96th Academy Awards - Best Actress - Best Actress,Sandra Huller - Anatomy Of A Fall,-0.0321,0.0588,0.0909
