@@ -12,6 +12,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-29 03:03:28.514946,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Lyon,0.09720000000000001,0.2222,0.125
 2024-01-29 01:03:16.036008,Northwest Division - Northwest Division 2023-24 - Division Winner,Denver Nuggets,0.09090000000000004,0.4545,0.3636
 2024-01-29 01:03:16.363435,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,OG Anunoby (NYK),0.08979999999999999,0.1667,0.0769
+2024-01-29 03:03:30.864230,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Houston,0.08730000000000004,0.6429,0.5556
 2024-01-29 03:03:28.364168,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Mainz,0.07939999999999997,0.5556,0.4762
 2024-01-29 03:03:28.369876,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,VfB Stuttgart,0.07809999999999995,0.7333,0.6552
 2024-01-29 03:03:28.603157,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Guinea,0.0774,0.125,0.0476
@@ -19,6 +20,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-29 03:03:28.328087,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Girona,0.07089999999999996,0.9709,0.9
 2024-01-28 19:04:49.589257,NBL - NBL 2023/2024 - To Make Grand Final,Illawarra Hawks,0.06999999999999999,0.1176,0.0476
 2024-01-28 21:09:10.137523,Super Bowl 58 Specials - Super Bowl LVIII Specials - Drake Curse - What team apparel Will Drake be Wearing on Super Bowl Sunday,San Francisco 49ers,0.06719999999999998,0.3571,0.2899
+2024-01-29 03:03:30.854697,NCAA DI Men - ACC Conference 2023-24 - Winner,North Carolina,0.06669999999999998,0.8667,0.8
 2024-01-29 03:03:28.385450,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Dusan Vlahovic (Juventus),0.066,0.1429,0.0769
 2024-01-29 03:03:28.603157,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Morocco,0.06440000000000001,0.4348,0.3704
 2024-01-29 03:03:28.391725,Serie A - Italy Serie A 2023/24 - To Be Relegated,Salernitana,0.05709999999999993,0.8571,0.8
@@ -26,11 +28,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-28 19:04:49.617055,WNBL - Australia WNBL 2023/24 - Outright,Sydney Uni Flames (W),0.05550000000000002,0.2222,0.1667
 2024-01-29 03:03:29.931395,Grammy Awards 2024 - Record of the Year - Record of the Year,Anti-Hero - Taylor Swift,0.05449999999999999,0.6,0.5455
 2024-01-29 03:03:29.031396,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Greuther Fürth,0.05379999999999999,0.1538,0.1
-2024-01-29 01:03:16.384022,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Nikola Jokic (DEN),0.05130000000000001,0.3846,0.3333
 2024-01-29 01:03:16.340658,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Damian Lillard (MIL),0.05130000000000001,0.3846,0.3333
+2024-01-29 01:03:16.384022,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Nikola Jokic (DEN),0.05130000000000001,0.3846,0.3333
 2024-01-29 03:03:28.391725,Serie A - Italy Serie A 2023/24 - To Be Relegated,Cagliari,0.05070000000000002,0.4762,0.4255
-2024-01-28 23:04:28.676527,Serie A - Italy Serie A 2023/24 - Winner,Inter Milan,0.050000000000000044,0.8,0.75
 2024-01-29 03:03:28.525724,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Nice,0.050000000000000044,0.8,0.75
+2024-01-28 23:04:28.676527,Serie A - Italy Serie A 2023/24 - Winner,Inter Milan,0.050000000000000044,0.8,0.75
 2024-01-29 03:03:28.603157,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,DR Congo,0.048100000000000004,0.125,0.0769
 2024-01-28 19:04:49.569204,NBL - NBL 2023/2024 - Outright,Perth Wildcats,0.047599999999999976,0.3333,0.2857
 2024-01-28 21:09:07.880584,AFC Asian Cup - AFC Asian Cup 2023 - Top Goalscorer,Aymen Hussein,0.045499999999999985,0.5,0.4545
@@ -42,33 +44,39 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-29 03:03:28.603157,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Angola,0.0334,0.0769,0.0435
 2024-01-29 03:03:32.235166,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,0.033300000000000024,0.2,0.1667
 2024-01-29 01:03:17.797268,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,0.033300000000000024,0.2,0.1667
+2024-01-29 05:03:06.939398,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,0.033300000000000024,0.2,0.1667
 2024-01-28 23:04:31.495009,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,0.033300000000000024,0.2,0.1667
 2024-01-28 21:09:10.587347,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,0.033300000000000024,0.2,0.1667
+2024-01-28 21:09:10.602539,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,0.033299999999999996,0.9,0.8667
+2024-01-29 03:03:30.864230,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Texas Tech,0.033299999999999996,0.1333,0.1
+2024-01-29 05:03:06.949206,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,0.033299999999999996,0.9,0.8667
+2024-01-28 23:04:31.503706,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,0.033299999999999996,0.9,0.8667
+2024-01-29 03:03:29.555337,Manager Specials - Next Liverpool Manager - Next Liverpool Manager,Xabi Alonso,0.033299999999999996,0.5455,0.5122
 2024-01-29 01:03:17.809807,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,0.033299999999999996,0.9,0.8667
 2024-01-28 19:04:50.867307,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,0.033299999999999996,0.9,0.8667
 2024-01-29 03:03:32.244258,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,0.033299999999999996,0.9,0.8667
-2024-01-28 21:09:10.602539,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,0.033299999999999996,0.9,0.8667
-2024-01-28 23:04:31.503706,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,0.033299999999999996,0.9,0.8667
-2024-01-29 03:03:29.555337,Manager Specials - Next Liverpool Manager - Next Liverpool Manager,Xabi Alonso,0.033299999999999996,0.5455,0.5122
 2024-01-29 01:03:16.384022,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Luka Doncic (DAL),0.031799999999999995,0.1429,0.1111
 2024-01-28 19:04:47.448472,AFC Asian Cup - AFC Asian Cup 2023 - Winner,Tajikistan,0.0306,0.0385,0.0079
 2024-01-29 03:03:29.982509,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Beatriz,0.030299999999999994,0.3636,0.3333
+2024-01-29 03:03:30.885231,NCAA DI Men - SEC Conference 2023-24 - Winner,Tennessee,0.029600000000000015,0.4,0.3704
 2024-01-29 03:03:31.187685,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Nikki Haley,0.029299999999999993,0.0769,0.0476
 2024-01-29 01:03:16.340658,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Stephen Curry (GSW),0.0286,0.1,0.0714
 2024-01-29 01:03:15.726286,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Michael Fassbender,0.028399999999999995,0.0909,0.0625
 2024-01-29 03:03:28.318914,La Liga - Spain La Liga 2023/24 - To Be Relegated,Almería,0.028000000000000025,0.9804,0.9524
 2024-01-29 03:03:28.328087,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Atlético Madrid,0.027999999999999914,0.8462,0.8182
-2024-01-29 03:03:28.391725,Serie A - Italy Serie A 2023/24 - To Be Relegated,Lecce,0.02779999999999999,0.25,0.2222
 2024-01-28 23:04:28.837462,FA Cup - FA Cup 2023/24 - Outright,Liverpool,0.02779999999999999,0.25,0.2222
+2024-01-29 03:03:28.391725,Serie A - Italy Serie A 2023/24 - To Be Relegated,Lecce,0.02779999999999999,0.25,0.2222
 2024-01-29 01:03:24.321933,Boxing Lines - Sam Noakes vs Lewis Sylvester - To Win the Bout,Sam Noakes,0.02639999999999998,0.8667,0.8403
+2024-01-29 03:03:28.611684,Africa Cup of Nations - Africa Cup of Nations Outrights - Group of Winning Team,Group F,0.02560000000000001,0.3333,0.3077
 2024-01-29 03:03:28.405259,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Salernitana,0.025599999999999956,0.6,0.5744
 2024-01-29 01:03:16.330425,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Bogdan Bogdanovic (ATL),0.024999999999999994,0.125,0.1
 2024-01-29 03:03:28.318914,La Liga - Spain La Liga 2023/24 - To Be Relegated,Mallorca,0.024999999999999994,0.125,0.1
 2024-01-29 03:03:29.920959,Grammy Awards 2024 - Best New Artist - Best New Artist,Noah Kahan,0.024,0.0625,0.0385
-2024-01-28 23:04:28.654793,La Liga - Spain La Liga 2023/24 - Winner,Girona,0.023799999999999988,0.1667,0.1429
-2024-01-28 19:04:47.448472,AFC Asian Cup - AFC Asian Cup 2023 - Winner,Australia,0.023799999999999988,0.1667,0.1429
 2024-01-29 03:03:29.996656,Box Office 2024 - Highest Worldwide Box Office At Year End - Highest Worldwide Box Office At Year End,Dune: Part Two,0.023799999999999988,0.1667,0.1429
+2024-01-28 19:04:47.448472,AFC Asian Cup - AFC Asian Cup 2023 - Winner,Australia,0.023799999999999988,0.1667,0.1429
+2024-01-28 23:04:28.654793,La Liga - Spain La Liga 2023/24 - Winner,Girona,0.023799999999999988,0.1667,0.1429
 2024-01-29 03:03:29.982509,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Marcus,0.023200000000000002,0.0476,0.0244
+2024-01-29 05:03:06.258359,Russian Politics - Next Russian Presidential Election - Outright Winner - Next Russian Presidential Election - Outright Winner,Vladimir Putin,0.0232,0.9756,0.9524
 2024-01-29 01:03:16.340658,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,LeBron James (LAL),0.02310000000000001,0.1,0.0769
 2024-01-28 23:04:28.665768,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayern Munich,0.022600000000000064,0.6226,0.6
 2024-01-29 01:03:15.979665,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Division,Central Division,0.022299999999999986,0.2128,0.1905
@@ -76,72 +84,83 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-29 01:03:16.024577,Central Division - Central Division 2023-24 - Division Winner,Milwaukee Bucks,0.022199999999999998,0.8,0.7778
 2024-01-29 03:03:28.364168,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Bochum,0.022199999999999998,0.2222,0.2
 2024-01-29 03:03:28.334688,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Atlético Madrid,0.02100000000000002,0.3846,0.3636
-2024-01-29 03:03:28.405259,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Cagliari,0.02020000000000001,0.1111,0.0909
 2024-01-28 19:04:49.569204,NBL - NBL 2023/2024 - Outright,Sydney Kings,0.02020000000000001,0.1111,0.0909
+2024-01-29 03:03:28.405259,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Cagliari,0.02020000000000001,0.1111,0.0909
 2024-01-28 21:09:10.302459,Super Bowl 58 Specials - Super Bowl LVIII Specials - How Many Players will have a passing attempt?,Under 2.5,0.01970000000000005,0.5652,0.5455
 2024-01-29 01:03:16.059688,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,0.019699999999999995,0.4545,0.4348
+2024-01-29 05:03:12.343955,Boxing Lines - Khalil Coe vs Juan Gerardo Osuna - To Win the Bout,Juan Gerardo Osuna,0.01830000000000001,0.2564,0.2381
 2024-01-29 03:03:30.106878,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,AI/Artificial Intelligence,0.01820000000000002,0.2,0.1818
-2024-01-28 23:04:28.741563,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Guinea,0.018200000000000004,0.0476,0.0294
 2024-01-29 03:03:30.874331,NCAA DI Men - American Athletic Conference 2023-24 - Winner,South Florida,0.018200000000000004,0.0476,0.0294
+2024-01-28 23:04:28.741563,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Guinea,0.018200000000000004,0.0476,0.0294
 2024-01-29 03:03:28.539403,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Nice,0.018100000000000005,0.9412,0.9231
 2024-01-28 23:04:37.740862,Boxing Lines - Austin Williams vs Connor Coyle - To Win the Bout,Austin Williams,0.018100000000000005,0.9412,0.9231
-2024-01-29 01:03:16.620203,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Michelle Obama,0.018099999999999998,0.0769,0.0588
 2024-01-29 03:03:31.187685,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,"Robert Kennedy, Jr",0.018099999999999998,0.0769,0.0588
-2024-01-29 03:03:31.187685,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Vivek Ramaswamy,0.0179,0.1429,0.125
+2024-01-29 01:03:16.620203,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Michelle Obama,0.018099999999999998,0.0769,0.0588
 2024-01-29 03:03:28.391725,Serie A - Italy Serie A 2023/24 - To Be Relegated,Sassuolo,0.0179,0.1429,0.125
+2024-01-29 03:03:31.187685,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Vivek Ramaswamy,0.0179,0.1429,0.125
 2024-01-28 23:04:28.837462,FA Cup - FA Cup 2023/24 - Outright,Manchester City,0.017600000000000005,0.3509,0.3333
 2024-01-29 03:03:28.564557,AFC Asian Cup - AFC Asian Cup 2023 - To Reach the Final,Australia,0.016699999999999993,0.2667,0.25
 2024-01-28 19:04:49.617055,WNBL - Australia WNBL 2023/24 - Outright,Bendigo Spirit (W),0.016600000000000004,0.0833,0.0667
-2024-01-29 03:03:30.864230,NCAA DI Men - Big 12 Conference 2023-24 - Winner,TCU,0.015300000000000001,0.0476,0.0323
 2024-01-29 01:03:15.979665,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Division,Southwest Division,0.015300000000000001,0.0588,0.0435
+2024-01-29 03:03:30.864230,NCAA DI Men - Big 12 Conference 2023-24 - Winner,TCU,0.015300000000000001,0.0476,0.0323
 2024-01-29 03:03:28.385450,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Lautaro Martinez (Inter Milan),0.01429999999999998,0.9091,0.8948
 2024-01-29 03:03:28.564557,AFC Asian Cup - AFC Asian Cup 2023 - To Reach the Final,South Korea,0.01419999999999999,0.3846,0.3704
 2024-01-29 03:03:28.369876,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Eintracht Frankfurt,0.014099999999999994,0.0667,0.0526
+2024-01-29 05:03:05.550729,Bundesliga - Germany Bundesliga 2023/24 - Outright,Chemnitz 99,0.014099999999999994,0.0667,0.0526
 2024-01-29 03:03:28.514946,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Metz,0.013799999999999923,0.6364,0.6226
-2024-01-29 01:03:16.384022,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Shai Gilgeous-Alexander (OKC),0.0131,0.2353,0.2222
+2024-01-29 03:03:30.916707,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Purdue,0.013300000000000034,0.3704,0.3571
 2024-01-29 03:03:28.420279,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Torino,0.0131,0.0476,0.0345
+2024-01-29 01:03:16.384022,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Shai Gilgeous-Alexander (OKC),0.0131,0.2353,0.2222
+2024-01-29 05:03:05.732821,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,St. John's,0.0131,0.0476,0.0345
+2024-01-29 05:03:06.427378,Super Bowl 58 Specials - Super Bowl LVIII Specials - -What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 58?,Purple,0.012899999999999995,0.1667,0.1538
 2024-01-29 03:03:31.052440,Political Specials - Texas Immigration Specials - Texas Specials,"Biden to deploy US military and federalised National Guard troops in Texas during 2024, without the consent of the Governor of Texas",0.012700000000000003,0.0323,0.0196
 2024-01-29 03:03:28.603157,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Senegal,0.012699999999999989,0.3636,0.3509
-2024-01-29 01:03:16.620203,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.012199999999999989,0.5,0.4878
 2024-01-29 01:03:16.351016,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,0.012199999999999989,0.5122,0.5
-2024-01-28 19:04:49.579100,NBL - NBL 2023/2024 - Regular Season MVP,Mitch Creek,0.012100000000000001,0.0244,0.0123
+2024-01-29 01:03:16.620203,US Presidential Election 2024 - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.012199999999999989,0.5,0.4878
 2024-01-28 19:04:48.690851,Manager Specials - Next Liverpool Manager - Next Liverpool Manager,Ruben Amorim,0.012100000000000001,0.0244,0.0123
+2024-01-28 19:04:49.579100,NBL - NBL 2023/2024 - Regular Season MVP,Mitch Creek,0.012100000000000001,0.0244,0.0123
 2024-01-29 01:03:24.198344,Boxing Lines - Austin Williams vs Connor Coyle - To Win the Bout,Connor Coyle,0.011400000000000007,0.129,0.1176
 2024-01-29 03:03:28.503919,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Wissam Ben Yedder (Monaco),0.011199999999999995,0.0588,0.0476
-2024-01-29 03:03:28.364168,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Darmstadt,0.011099999999999999,0.9,0.8889
 2024-01-29 01:03:16.374295,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Tyrese Maxey (PHI),0.011099999999999999,0.7333,0.7222
+2024-01-29 03:03:28.364168,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Darmstadt,0.011099999999999999,0.9,0.8889
 2024-01-29 01:03:16.080943,Southwest Division - Southwest Division 2023-24 - Division Winner,New Orleans Pelicans,0.010700000000000043,0.6774,0.6667
 2024-01-28 19:04:57.109831,Boxing Lines - Adam Azim vs Enock Poulsen - To Win the Bout,Adam Azim,0.010199999999999987,0.9333,0.9231
 2024-01-29 01:03:24.392425,Boxing Lines - Takuma Inoue vs Jerwin Ancajas - To Win the Bout,Jerwin Ancajas,0.010099999999999998,0.3226,0.3125
-2024-01-29 03:03:29.098720,Super Lig - Turkey Super Lig 2023/24 - Winner,Fenerbahce,0.010099999999999998,0.5556,0.5455
 2024-01-28 23:04:28.886266,A-League - Australia A-League 2023/24 - To Finish Bottom,Western United,0.010099999999999998,0.5556,0.5455
+2024-01-29 03:03:29.098720,Super Lig - Turkey Super Lig 2023/24 - Winner,Fenerbahce,0.010099999999999998,0.5556,0.5455
 2024-01-29 03:03:29.041899,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,Benfica,-0.010099999999999998,0.4444,0.4545
 2024-01-28 23:04:37.964425,Boxing Lines - Takuma Inoue vs Jerwin Ancajas - To Win the Bout,Jerwin Ancajas,-0.010099999999999998,0.3125,0.3226
 2024-01-29 03:03:28.420279,Serie A - Italy Serie A 2023/24 - Top 4 Finish,AC Milan,-0.010199999999999987,0.9231,0.9333
-2024-01-28 23:04:28.654793,La Liga - Spain La Liga 2023/24 - Winner,FC Barcelona,-0.0102,0.0667,0.0769
 2024-01-28 23:04:28.837462,FA Cup - FA Cup 2023/24 - Outright,Brighton & Hove Albion,-0.0102,0.0667,0.0769
+2024-01-28 23:04:28.654793,La Liga - Spain La Liga 2023/24 - Winner,FC Barcelona,-0.0102,0.0667,0.0769
 2024-01-29 03:03:28.603157,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Burkina Faso,-0.0102,0.0667,0.0769
 2024-01-28 21:09:16.164587,Boxing Lines - Joshua Buatsi vs Dan Azeez - To Win the Bout,Dan Azeez,-0.010299999999999976,0.2564,0.2667
 2024-01-29 03:03:29.982509,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Leidy,-0.010700000000000001,0.0278,0.0385
 2024-01-28 23:04:37.783902,Boxing Lines - Conor Benn vs Peter Dobson - To Win the Bout,Peter Dobson,-0.010899999999999993,0.1429,0.1538
-2024-01-29 03:03:28.385450,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Olivier Giroud (AC Milan),-0.011199999999999995,0.0476,0.0588
+2024-01-29 05:03:05.550729,Bundesliga - Germany Bundesliga 2023/24 - Outright,ratiopharm Ulm,-0.011099999999999999,0.1,0.1111
 2024-01-29 03:03:28.727515,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Defensa y Justicia,-0.011199999999999995,0.0476,0.0588
+2024-01-29 05:03:12.653629,AT&T Pebble Beach Pro-Am - AT&T Pebble Beach Pro-Am - Winner,Max Homa,-0.011199999999999995,0.0476,0.0588
 2024-01-29 03:03:29.618412,96th Academy Awards - Best Actress - Best Actress,Sandra Huller - Anatomy Of A Fall,-0.011199999999999995,0.0476,0.0588
+2024-01-29 03:03:28.385450,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Olivier Giroud (AC Milan),-0.011199999999999995,0.0476,0.0588
 2024-01-28 23:04:37.740862,Boxing Lines - Austin Williams vs Connor Coyle - To Win the Bout,Connor Coyle,-0.011400000000000007,0.1176,0.129
 2024-01-29 01:03:16.384022,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Giannis Antetokounmpo (MIL),-0.011900000000000008,0.0833,0.0952
+2024-01-29 05:03:12.343955,Boxing Lines - Khalil Coe vs Juan Gerardo Osuna - To Win the Bout,Khalil Coe,-0.0129999999999999,0.8131,0.8261
 2024-01-29 03:03:29.031396,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Elversberg,-0.013,0.0066,0.0196
 2024-01-29 03:03:29.996656,Box Office 2024 - Highest Worldwide Box Office At Year End - Highest Worldwide Box Office At Year End,Deadpool 3,-0.0131,0.2222,0.2353
-2024-01-29 01:03:14.095182,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Serhou Guirassy,-0.013999999999999999,0.0769,0.0909
+2024-01-29 05:03:12.653629,AT&T Pebble Beach Pro-Am - AT&T Pebble Beach Pro-Am - Winner,Scottie Scheffler,-0.013899999999999996,0.1111,0.125
+2024-01-29 05:03:12.653629,AT&T Pebble Beach Pro-Am - AT&T Pebble Beach Pro-Am - Winner,Rory McIlroy,-0.013899999999999996,0.1111,0.125
 2024-01-28 21:09:07.880584,AFC Asian Cup - AFC Asian Cup 2023 - Top Goalscorer,Takumi Minamino,-0.013999999999999999,0.0769,0.0909
+2024-01-29 01:03:14.095182,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Serhou Guirassy,-0.013999999999999999,0.0769,0.0909
+2024-01-29 05:03:12.653629,AT&T Pebble Beach Pro-Am - AT&T Pebble Beach Pro-Am - Winner,Viktor Hovland,-0.013999999999999999,0.0769,0.0909
 2024-01-29 03:03:29.982509,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Wanessa,-0.014099999999999998,0.0244,0.0385
 2024-01-28 19:04:47.448472,AFC Asian Cup - AFC Asian Cup 2023 - Winner,Japan,-0.01419999999999999,0.3704,0.3846
 2024-01-28 23:04:28.762472,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Bertrand Traore,-0.014499999999999999,0.0149,0.0294
 2024-01-29 03:03:28.385450,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Marcus Thuram (Inter Milan),-0.0145,0.0099,0.0244
+2024-01-29 03:03:29.982509,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Yasmin,-0.014899999999999997,0.0476,0.0625
 2024-01-29 03:03:31.187685,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Sarah Huckabee Sanders,-0.014899999999999997,0.0476,0.0625
 2024-01-29 03:03:31.187685,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tucker Carlson,-0.014899999999999997,0.0476,0.0625
-2024-01-29 03:03:29.982509,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Yasmin,-0.014899999999999997,0.0476,0.0625
-2024-01-29 03:03:29.041899,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,Braga,-0.014900000000000004,0.0196,0.0345
 2024-01-29 03:03:29.031396,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,FC Nürnberg,-0.014900000000000004,0.0196,0.0345
+2024-01-29 03:03:29.041899,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,Braga,-0.014900000000000004,0.0196,0.0345
 2024-01-29 03:03:28.514946,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Nantes,-0.015100000000000002,0.1667,0.1818
 2024-01-29 03:03:31.187685,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Lee Zeldin,-0.015300000000000001,0.0323,0.0476
 2024-01-29 03:03:28.525724,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Brest,-0.015400000000000025,0.3846,0.4
@@ -154,62 +173,69 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-29 03:03:30.895759,NCAA DI Men - Atlantic 10 Conference 2023-24 - Winner,Saint Joseph's,-0.0189,0.0196,0.0385
 2024-01-29 03:03:29.031396,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Hertha BSC,-0.0189,0.0196,0.0385
 2024-01-29 03:03:28.318914,La Liga - Spain La Liga 2023/24 - To Be Relegated,Alavés,-0.019099999999999992,0.0476,0.0667
+2024-01-29 01:03:15.726286,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Tom Hardy,-0.02020000000000001,0.0909,0.1111
 2024-01-29 01:03:15.726286,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,James Norton,-0.02020000000000001,0.0909,0.1111
 2024-01-29 03:03:31.187685,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tim Scott,-0.02020000000000001,0.0909,0.1111
-2024-01-29 01:03:15.726286,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Tom Hardy,-0.02020000000000001,0.0909,0.1111
 2024-01-29 01:03:15.726286,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Idris Elba,-0.02020000000000001,0.0909,0.1111
 2024-01-29 01:03:16.013235,Western Conference - Western Conference 2023-24 - Western Conference Winner,Denver Nuggets,-0.020799999999999985,0.3125,0.3333
 2024-01-29 03:03:30.864230,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Kansas State,-0.021300000000000003,0.011,0.0323
-2024-01-29 03:03:29.098720,Super Lig - Turkey Super Lig 2023/24 - Winner,Galatasaray,-0.02169999999999994,0.5238,0.5455
 2024-01-28 23:04:28.894015,A-League - Australia A-League 2023/24 - Top 6 Finish,Macarthur FC,-0.02169999999999994,0.5238,0.5455
+2024-01-29 03:03:29.098720,Super Lig - Turkey Super Lig 2023/24 - Winner,Galatasaray,-0.02169999999999994,0.5238,0.5455
 2024-01-29 01:03:15.979665,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Division,Northwest Division,-0.021999999999999964,0.2857,0.3077
-2024-01-29 03:03:28.525724,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Monaco,-0.02200000000000002,0.6923,0.7143
 2024-01-29 03:03:28.318914,La Liga - Spain La Liga 2023/24 - To Be Relegated,Cádiz,-0.02200000000000002,0.6923,0.7143
+2024-01-29 03:03:28.525724,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Monaco,-0.02200000000000002,0.6923,0.7143
 2024-01-29 01:03:16.330425,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Jordan Clarkson (UTA),-0.022199999999999998,0.1111,0.1333
 2024-01-29 03:03:28.573730,AFC Asian Cup - AFC Asian Cup 2023 - Group of Winning Team,Group E,-0.022199999999999998,0.2,0.2222
-2024-01-28 23:04:28.741563,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Senegal,-0.022199999999999998,0.2,0.2222
 2024-01-29 01:03:15.726286,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Aaron Taylor-Johnson,-0.022199999999999998,0.2,0.2222
+2024-01-28 23:04:28.741563,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Senegal,-0.022199999999999998,0.2,0.2222
 2024-01-29 03:03:29.031396,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Holstein Kiel,-0.022199999999999998,0.2,0.2222
 2024-01-28 19:04:48.690851,Manager Specials - Next Liverpool Manager - Next Liverpool Manager,Xabi Alonso,-0.022600000000000064,0.5122,0.5348
 2024-01-28 23:04:28.741563,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Cape Verde,-0.023200000000000002,0.0244,0.0476
+2024-01-29 05:03:06.258359,Russian Politics - Next Russian Presidential Election - Outright Winner - Next Russian Presidential Election - Outright Winner,Dmitry Medvedev,-0.023200000000000002,0.0244,0.0476
+2024-01-29 03:03:30.864230,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Oklahoma,-0.0233,0.0152,0.0385
 2024-01-29 03:03:28.514946,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Clermont Foot,-0.023800000000000043,0.5,0.5238
 2024-01-28 21:09:10.302459,Super Bowl 58 Specials - Super Bowl LVIII Specials - How Many Players will have a passing attempt?,Over 2.5,-0.023800000000000043,0.5,0.5238
 2024-01-29 03:03:28.328087,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Sociedad,-0.0242,0.0667,0.0909
 2024-01-29 03:03:28.364168,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Union Berlin,-0.024999999999999994,0.1,0.125
 2024-01-29 03:03:31.187685,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Ben Carson,-0.024999999999999994,0.1,0.125
-2024-01-29 01:03:16.384022,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Joel Embiid (PHI),-0.02560000000000001,0.3077,0.3333
 2024-01-28 23:04:28.886266,A-League - Australia A-League 2023/24 - To Finish Bottom,Perth Glory,-0.02560000000000001,0.3077,0.3333
+2024-01-29 01:03:16.384022,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Joel Embiid (PHI),-0.02560000000000001,0.3077,0.3333
 2024-01-29 01:03:24.321933,Boxing Lines - Sam Noakes vs Lewis Sylvester - To Win the Bout,Lewis Sylvester,-0.02729999999999999,0.2,0.2273
 2024-01-29 03:03:28.611684,Africa Cup of Nations - Africa Cup of Nations Outrights - Group of Winning Team,Group E,-0.027800000000000005,0.0833,0.1111
 2024-01-29 03:03:28.573730,AFC Asian Cup - AFC Asian Cup 2023 - Group of Winning Team,Group C,-0.027999999999999997,0.1538,0.1818
+2024-01-29 03:03:30.854697,NCAA DI Men - ACC Conference 2023-24 - Winner,Duke,-0.028700000000000003,0.1818,0.2105
 2024-01-29 01:03:16.330425,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Caris LeVert (CLE),-0.029299999999999993,0.0476,0.0769
 2024-01-29 03:03:28.351311,1. Bundesliga - Germany Bundesliga 2023/24 - Winner without Bayern Munich,RB Leipzig,-0.0294,0.0294,0.0588
 2024-01-29 01:03:16.080943,Southwest Division - Southwest Division 2023-24 - Division Winner,Dallas Mavericks,-0.029600000000000015,0.3704,0.4
 2024-01-29 03:03:31.187685,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Ron DeSantis,-0.030199999999999998,0.0323,0.0625
 2024-01-29 03:03:30.854697,NCAA DI Men - ACC Conference 2023-24 - Winner,Florida State,-0.030199999999999998,0.0323,0.0625
 2024-01-29 03:03:28.539403,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Marseille,-0.030299999999999994,0.6364,0.6667
-2024-01-29 03:03:29.920959,Grammy Awards 2024 - Best New Artist - Best New Artist,Fred Again,-0.031799999999999995,0.1111,0.1429
-2024-01-29 01:03:15.726286,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Henry Cavill,-0.031799999999999995,0.1111,0.1429
-2024-01-28 23:04:28.665768,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayer Leverkusen,-0.031799999999999995,0.4444,0.4762
 2024-01-29 03:03:30.845110,NCAA DI Men - West Coast Conference 2023-24 - Winner,San Francisco,-0.031799999999999995,0.1111,0.1429
+2024-01-29 03:03:29.920959,Grammy Awards 2024 - Best New Artist - Best New Artist,Fred Again,-0.031799999999999995,0.1111,0.1429
+2024-01-28 23:04:28.665768,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayer Leverkusen,-0.031799999999999995,0.4444,0.4762
+2024-01-29 01:03:15.726286,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Henry Cavill,-0.031799999999999995,0.1111,0.1429
 2024-01-28 23:04:28.762472,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Youssef En Nesyri,-0.0321,0.0588,0.0909
-2024-01-29 03:03:32.235166,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,-0.033299999999999996,0.8667,0.9
 2024-01-29 01:03:17.797268,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,-0.033299999999999996,0.8667,0.9
 2024-01-28 23:04:31.495009,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,-0.033299999999999996,0.8667,0.9
+2024-01-29 05:03:06.939398,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,-0.033299999999999996,0.8667,0.9
 2024-01-28 21:09:10.587347,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,-0.033299999999999996,0.8667,0.9
-2024-01-28 21:09:10.602539,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,-0.033300000000000024,0.1667,0.2
+2024-01-29 03:03:32.235166,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,-0.033299999999999996,0.8667,0.9
 2024-01-28 19:04:50.867307,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,-0.033300000000000024,0.1667,0.2
+2024-01-29 03:03:28.391725,Serie A - Italy Serie A 2023/24 - To Be Relegated,Frosinone,-0.033300000000000024,0.1667,0.2
 2024-01-29 03:03:32.244258,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,-0.033300000000000024,0.1667,0.2
 2024-01-29 01:03:17.809807,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,-0.033300000000000024,0.1667,0.2
-2024-01-28 23:04:31.503706,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,-0.033300000000000024,0.1667,0.2
 2024-01-29 03:03:28.497939,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Lille,-0.033300000000000024,0.1667,0.2
+2024-01-28 23:04:31.503706,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,-0.033300000000000024,0.1667,0.2
+2024-01-28 21:09:10.602539,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,-0.033300000000000024,0.1667,0.2
+2024-01-29 05:03:06.949206,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,-0.033300000000000024,0.1667,0.2
 2024-01-29 03:03:31.187685,US Presidential Election 2024 - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Kristi Noem,-0.033300000000000024,0.1667,0.2
-2024-01-29 03:03:28.391725,Serie A - Italy Serie A 2023/24 - To Be Relegated,Frosinone,-0.033300000000000024,0.1667,0.2
 2024-01-29 03:03:29.031396,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Hamburger SV,-0.03409999999999999,0.2326,0.2667
 2024-01-29 01:03:15.726286,James Bond Specials - Next James Bond - Next To Play Bond After Daniel Craig,Rege-Jean Page,-0.03420000000000001,0.0769,0.1111
 2024-01-29 03:03:28.603157,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Cape Verde,-0.03420000000000001,0.0769,0.1111
-2024-01-29 03:03:29.982509,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Davi,-0.03640000000000004,0.3636,0.4
+2024-01-29 03:03:30.864230,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Baylor,-0.035699999999999996,0.0476,0.0833
 2024-01-29 03:03:28.525724,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Marseille,-0.03640000000000004,0.3636,0.4
+2024-01-29 03:03:29.982509,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Davi,-0.03640000000000004,0.3636,0.4
+2024-01-29 05:03:06.258359,Russian Politics - Next Russian Presidential Election - Outright Winner - Next Russian Presidential Election - Outright Winner,Nikolai Patrushev,-0.038099999999999995,0.0244,0.0625
 2024-01-29 03:03:28.364168,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Werder Bremen,-0.04120000000000001,0.0588,0.1
 2024-01-29 01:03:16.363435,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Rudy Gobert (MIN),-0.04179999999999995,0.7143,0.7561
 2024-01-29 03:03:29.982509,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Deniziane,-0.042899999999999994,0.1,0.1429
@@ -217,19 +243,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-28 23:04:28.676527,Serie A - Italy Serie A 2023/24 - Winner,Juventus,-0.04580000000000001,0.2667,0.3125
 2024-01-29 03:03:28.525724,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Lille,-0.04760000000000003,0.4762,0.5238
 2024-01-29 03:03:28.385450,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Domenico Berardi (Sassuolo),-0.0489,0.0099,0.0588
-2024-01-29 03:03:29.931395,Grammy Awards 2024 - Record of the Year - Record of the Year,Flowers - Miley Cyrus,-0.04999999999999999,0.2,0.25
-2024-01-29 03:03:28.405259,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Empoli,-0.04999999999999999,0.2,0.25
 2024-01-29 01:03:16.024577,Central Division - Central Division 2023-24 - Division Winner,Cleveland Cavaliers,-0.04999999999999999,0.2,0.25
+2024-01-29 03:03:28.405259,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Empoli,-0.04999999999999999,0.2,0.25
+2024-01-29 03:03:29.931395,Grammy Awards 2024 - Record of the Year - Record of the Year,Flowers - Miley Cyrus,-0.04999999999999999,0.2,0.25
 2024-01-29 03:03:29.982509,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Bin Laden,-0.052000000000000005,0.0909,0.1429
 2024-01-29 03:03:28.318914,La Liga - Spain La Liga 2023/24 - To Be Relegated,Villarreal,-0.052300000000000006,0.0588,0.1111
 2024-01-29 03:03:29.618412,96th Academy Awards - Best Actress - Best Actress,Emma Stone - Poor Things,-0.05449999999999999,0.5455,0.6
 2024-01-29 03:03:28.539403,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Reims,-0.05559999999999998,0.4444,0.5
 2024-01-29 03:03:28.514946,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Lorient,-0.05910000000000004,0.6552,0.7143
 2024-01-28 23:04:28.762472,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Emilio Nsue,-0.06659999999999999,0.6667,0.7333
+2024-01-29 03:03:30.895759,NCAA DI Men - Atlantic 10 Conference 2023-24 - Winner,Dayton,-0.06669999999999998,0.6,0.6667
+2024-01-29 03:03:30.885231,NCAA DI Men - SEC Conference 2023-24 - Winner,Auburn,-0.06670000000000004,0.3333,0.4
 2024-01-28 21:09:10.137523,Super Bowl 58 Specials - Super Bowl LVIII Specials - Drake Curse - What team apparel Will Drake be Wearing on Super Bowl Sunday,Kansas City Chiefs,-0.0677000000000001,0.7101,0.7778
 2024-01-29 03:03:28.539403,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Lille,-0.06820000000000004,0.75,0.8182
 2024-01-29 03:03:28.391725,Serie A - Italy Serie A 2023/24 - To Be Relegated,Empoli,-0.06969999999999998,0.6226,0.6923
 2024-01-29 03:03:28.611684,Africa Cup of Nations - Africa Cup of Nations Outrights - Group of Winning Team,Group B,-0.0756,0.0244,0.1
+2024-01-29 03:03:30.864230,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Kansas,-0.07579999999999999,0.0909,0.1667
+2024-01-29 03:03:30.874331,NCAA DI Men - American Athletic Conference 2023-24 - Winner,Memphis,-0.0769,0.0769,0.1538
 2024-01-29 03:03:28.391725,Serie A - Italy Serie A 2023/24 - To Be Relegated,Hellas Verona,-0.08079999999999998,0.5556,0.6364
 2024-01-28 19:04:49.556730,NBL - NBL 2023/2024 - Most Losses,Adelaide 36ers,-0.0857,0.2,0.2857
 2024-01-29 03:03:28.369876,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,RB Leipzig,-0.13330000000000009,0.6667,0.8
