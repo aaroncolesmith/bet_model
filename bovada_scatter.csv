@@ -1,128 +1,28 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-01-28 09:05:22.035027,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Dundee FC,0.13640000000000002,0.5,0.3636
+2024-01-28 21:09:10.336794,Super Bowl 58 Specials - Super Bowl LVIII Specials - How many times will the chains be used for measurement?,Under 1.5,0.1529999999999999,0.7826,0.6296
 2024-01-28 19:04:49.556730,NBL - NBL 2023/2024 - Most Losses,Cairns Taipans,0.123,0.1818,0.0588
-2024-01-28 09:05:21.951598,League Two - England - League Two 2023/24 - Top 7 Finish,Milton Keynes Dons,0.11360000000000003,0.75,0.6364
-2024-01-28 09:05:21.931251,League Two - England - League Two 2023/24 - Top Goalscorer,Matt Smith,0.1,0.2,0.1
-2024-01-28 09:05:21.903947,League One - England - League One 2023/24 - Top 6 Finish,Stevenage,0.0917,0.7143,0.6226
-2024-01-28 09:05:21.709277,Copa del Rey - Spain Copa del Rey 2023/24 - Winner,Real Sociedad,0.08329999999999999,0.3333,0.25
-2024-01-28 09:05:21.897209,League One - England - League One 2023/24 - Top 2 Finish,Bolton Wanderers,0.07939999999999997,0.5556,0.4762
-2024-01-28 09:05:22.021423,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Hearts,0.07579999999999998,0.9091,0.8333
 2024-01-28 19:04:49.589257,NBL - NBL 2023/2024 - To Make Grand Final,Illawarra Hawks,0.06999999999999999,0.1176,0.0476
-2024-01-28 09:05:21.890332,League One - England - League One 2023/24 - To Be Promoted,Bolton Wanderers,0.06969999999999998,0.6923,0.6226
-2024-01-28 09:05:21.897209,League One - England - League One 2023/24 - Top 2 Finish,Portsmouth,0.06670000000000004,0.4,0.3333
-2024-01-28 09:05:21.951598,League Two - England - League Two 2023/24 - Top 7 Finish,Accrington Stanley,0.0635,0.1111,0.0476
-2024-01-28 09:05:21.924030,League Two - England - League Two 2023/24 - League Winner,Stockport County,0.061999999999999944,0.6364,0.5744
-2024-01-28 09:05:21.876904,League One - England - League One 2023/24 - League Winner,Bolton Wanderers,0.057699999999999974,0.3077,0.25
-2024-01-28 09:05:21.890332,League One - England - League One 2023/24 - To Be Promoted,Stevenage,0.05710000000000001,0.2,0.1429
 2024-01-28 19:04:49.617055,WNBL - Australia WNBL 2023/24 - Outright,Sydney Uni Flames (W),0.05550000000000002,0.2222,0.1667
-2024-01-28 09:05:21.938483,League Two - England - League Two 2023/24 - To Be Promoted,Milton Keynes Dons,0.05080000000000001,0.2326,0.1818
-2024-01-28 09:05:21.890332,League One - England - League One 2023/24 - To Be Promoted,Portsmouth,0.05059999999999998,0.5744,0.5238
-2024-01-28 09:05:21.951598,League Two - England - League Two 2023/24 - Top 7 Finish,AFC Wimbledon,0.04910000000000003,0.6491,0.6
 2024-01-28 19:04:49.569204,NBL - NBL 2023/2024 - Outright,Perth Wildcats,0.047599999999999976,0.3333,0.2857
-2024-01-28 09:05:21.876904,League One - England - League One 2023/24 - League Winner,Portsmouth,0.04620000000000002,0.2,0.1538
-2024-01-28 09:05:21.883124,League One - England - League One 2023/24 - Top Goalscorer,Jamie Reid,0.03889999999999999,0.1818,0.1429
-2024-01-28 09:05:21.883124,League One - England - League One 2023/24 - Top Goalscorer,Colby Bishop,0.03420000000000001,0.1111,0.0769
-2024-01-28 09:05:21.944924,League Two - England - League Two 2023/24 - Top 3 Finish,Milton Keynes Dons,0.034100000000000005,0.125,0.0909
-2024-01-28 09:05:21.764787,Championship - England Championship 2023/24 - Top 6 Finish,Sunderland,0.03409999999999999,0.2667,0.2326
-2024-01-28 09:05:21.795503,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,CF Monterrey,0.033300000000000024,0.2,0.1667
+2024-01-28 21:09:07.880584,AFC Asian Cup - AFC Asian Cup 2023 - Top Goalscorer,Aymen Hussein,0.045499999999999985,0.5,0.4545
+2024-01-28 21:09:10.587347,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,0.033300000000000024,0.2,0.1667
+2024-01-28 21:09:10.602539,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,0.033299999999999996,0.9,0.8667
 2024-01-28 19:04:50.867307,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,0.033299999999999996,0.9,0.8667
-2024-01-28 09:05:21.897209,League One - England - League One 2023/24 - Top 2 Finish,Stevenage,0.0321,0.0909,0.0588
-2024-01-28 09:05:22.041763,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Aberdeen,0.031799999999999995,0.4762,0.4444
-2024-01-28 09:05:22.041763,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,St. Mirren,0.03179999999999994,0.5556,0.5238
 2024-01-28 19:04:47.448472,AFC Asian Cup - AFC Asian Cup 2023 - Winner,Tajikistan,0.0306,0.0385,0.0079
-2024-01-28 09:05:23.433659,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Nikola Jokic (DEN),0.030299999999999994,0.3333,0.303
-2024-01-28 09:05:21.709277,Copa del Rey - Spain Copa del Rey 2023/24 - Winner,Athletic Bilbao,0.02739999999999998,0.2941,0.2667
-2024-01-28 09:05:21.903947,League One - England - League One 2023/24 - Top 6 Finish,Portsmouth,0.02650000000000008,0.9524,0.9259
-2024-01-28 09:05:21.938483,League Two - England - League Two 2023/24 - To Be Promoted,AFC Wimbledon,0.02560000000000001,0.3333,0.3077
-2024-01-28 09:05:21.764787,Championship - England Championship 2023/24 - Top 6 Finish,Middlesbrough,0.02560000000000001,0.3333,0.3077
-2024-01-28 09:05:22.041763,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Hibernian,0.023800000000000043,0.5238,0.5
 2024-01-28 19:04:47.448472,AFC Asian Cup - AFC Asian Cup 2023 - Winner,Australia,0.023799999999999988,0.1667,0.1429
-2024-01-28 09:05:21.931251,League Two - England - League Two 2023/24 - Top Goalscorer,Isaac Olaofe,0.02310000000000001,0.1,0.0769
-2024-01-28 09:05:25.664615,MLB 2024 Regular Season Team Props - Texas Rangers Regular Season Win Total - Texas Rangers Regular Season Win Total,Under 90.5,0.022600000000000064,0.5348,0.5122
-2024-01-28 09:05:21.938483,League Two - England - League Two 2023/24 - To Be Promoted,Notts County,0.022199999999999998,0.2222,0.2
-2024-01-28 09:05:21.729802,Championship - England Championship 2023/24 - Top Goalscorer,Morgan Whittaker,0.022199999999999998,0.2222,0.2
-2024-01-28 09:05:22.041763,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Ross County,0.020299999999999985,0.9615,0.9412
-2024-01-28 09:05:21.938483,League Two - England - League Two 2023/24 - To Be Promoted,Stockport County,0.020299999999999985,0.9615,0.9412
 2024-01-28 19:04:49.569204,NBL - NBL 2023/2024 - Outright,Sydney Kings,0.02020000000000001,0.1111,0.0909
-2024-01-28 09:05:23.954082,Super Bowl LVIII - Superbowl 58 (2024) - Super Bowl 58 Exact Outcome,BAL Ravens to beat DET Lions,0.019699999999999995,0.125,0.1053
-2024-01-28 09:05:21.944924,League Two - England - League Two 2023/24 - Top 3 Finish,Stockport County,0.019100000000000006,0.9524,0.9333
-2024-01-28 09:05:21.764787,Championship - England Championship 2023/24 - Top 6 Finish,Hull City,0.019000000000000017,0.2857,0.2667
-2024-01-28 09:05:21.951598,League Two - England - League Two 2023/24 - Top 7 Finish,Tranmere Rovers,0.0189,0.0385,0.0196
-2024-01-28 09:05:21.903947,League One - England - League One 2023/24 - Top 6 Finish,Bolton Wanderers,0.01849999999999996,0.9709,0.9524
-2024-01-28 09:05:21.944924,League Two - England - League Two 2023/24 - Top 3 Finish,Wrexham,0.018199999999999994,0.8182,0.8
-2024-01-28 09:05:21.944924,League Two - England - League Two 2023/24 - Top 3 Finish,AFC Wimbledon,0.018099999999999998,0.0769,0.0588
-2024-01-28 09:05:22.027932,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Livingston,0.017900000000000027,0.875,0.8571
-2024-01-28 09:05:21.883124,League One - England - League One 2023/24 - Top Goalscorer,James Collins,0.016600000000000004,0.0833,0.0667
+2024-01-28 21:09:10.302459,Super Bowl 58 Specials - Super Bowl LVIII Specials - How Many Players will have a passing attempt?,Under 2.5,0.01970000000000005,0.5652,0.5455
 2024-01-28 19:04:49.617055,WNBL - Australia WNBL 2023/24 - Outright,Bendigo Spirit (W),0.016600000000000004,0.0833,0.0667
-2024-01-28 09:05:22.041763,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Motherwell,0.014100000000000001,0.9756,0.9615
-2024-01-28 09:05:21.938483,League Two - England - League Two 2023/24 - To Be Promoted,Accrington Stanley,0.014099999999999998,0.0385,0.0244
-2024-01-28 09:05:25.023163,MLB 2024 Regular Season Team Props - New York Mets To Make The Playoffs - New York Mets To Make The Playoffs,Yes,0.012699999999999989,0.3636,0.3509
 2024-01-28 19:04:48.690851,Manager Specials - Next Liverpool Manager - Next Liverpool Manager,Ruben Amorim,0.012100000000000001,0.0244,0.0123
-2024-01-28 09:05:31.081720,Boxing Lines - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Oleksandr Usyk,0.0116,0.4878,0.4762
-2024-01-28 09:05:21.745389,Championship - England Championship 2023/24 - To Be Relegated,Stoke City,0.011199999999999995,0.0588,0.0476
-2024-01-28 09:05:21.745389,Championship - England Championship 2023/24 - To Be Relegated,Rotherham Utd,0.011199999999999988,0.9524,0.9412
-2024-01-28 09:05:25.299803,MLB 2024 Regular Season Team Props - Pittsburgh Pirates Regular Season Win Total - Pittsburgh Pirates Regular Season Win Total,Over 74.5,0.01100000000000001,0.5348,0.5238
-2024-01-28 09:05:21.729802,Championship - England Championship 2023/24 - Top Goalscorer,Adam Armstrong,0.010399999999999993,0.2326,0.2222
-2024-01-28 09:05:22.027932,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Ross County,0.0102,0.0769,0.0667
-2024-01-28 09:05:21.785650,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Independiente,0.0102,0.0769,0.0667
+2024-01-28 19:04:49.579100,NBL - NBL 2023/2024 - Regular Season MVP,Mitch Creek,0.012100000000000001,0.0244,0.0123
 2024-01-28 19:04:57.109831,Boxing Lines - Adam Azim vs Enock Poulsen - To Win the Bout,Adam Azim,0.010199999999999987,0.9333,0.9231
-2024-01-28 09:05:21.729802,Championship - England Championship 2023/24 - Top Goalscorer,Jon Rowe,-0.0102,0.0667,0.0769
-2024-01-28 09:05:21.883124,League One - England - League One 2023/24 - Top Goalscorer,Sam Hoskins,-0.0102,0.0667,0.0769
-2024-01-28 09:05:25.299803,MLB 2024 Regular Season Team Props - Pittsburgh Pirates Regular Season Win Total - Pittsburgh Pirates Regular Season Win Total,Under 74.5,-0.010699999999999932,0.5348,0.5455
-2024-01-28 09:05:21.931251,League Two - England - League Two 2023/24 - Top Goalscorer,Ali Al-Hamadi,-0.011199999999999995,0.0476,0.0588
-2024-01-28 09:05:22.021423,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Hibernian,-0.011199999999999995,0.0476,0.0588
-2024-01-28 09:05:21.931251,League Two - England - League Two 2023/24 - Top Goalscorer,Elliot Lee,-0.011199999999999995,0.0476,0.0588
-2024-01-28 09:05:31.081720,Boxing Lines - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Tyson Fury,-0.011900000000000022,0.5798,0.5917
-2024-01-28 09:05:21.764787,Championship - England Championship 2023/24 - Top 6 Finish,Norwich City,-0.012899999999999995,0.1538,0.1667
-2024-01-28 09:05:21.890332,League One - England - League One 2023/24 - To Be Promoted,Derby County,-0.013799999999999923,0.6226,0.6364
+2024-01-28 21:09:16.164587,Boxing Lines - Joshua Buatsi vs Dan Azeez - To Win the Bout,Dan Azeez,-0.010299999999999976,0.2564,0.2667
+2024-01-28 21:09:07.880584,AFC Asian Cup - AFC Asian Cup 2023 - Top Goalscorer,Takumi Minamino,-0.013999999999999999,0.0769,0.0909
 2024-01-28 19:04:47.448472,AFC Asian Cup - AFC Asian Cup 2023 - Winner,Japan,-0.01419999999999999,0.3704,0.3846
-2024-01-28 09:05:22.021423,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Kilmarnock,-0.0179,0.125,0.1429
-2024-01-28 09:05:22.021423,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Aberdeen,-0.018099999999999998,0.0588,0.0769
-2024-01-28 09:05:22.035027,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Motherwell,-0.018099999999999998,0.0588,0.0769
-2024-01-28 09:05:21.903947,League One - England - League One 2023/24 - Top 6 Finish,Northampton Town,-0.018200000000000004,0.0294,0.0476
-2024-01-28 09:05:21.876904,League One - England - League One 2023/24 - League Winner,Barnsley,-0.018200000000000004,0.0294,0.0476
-2024-01-28 09:05:21.931251,League Two - England - League Two 2023/24 - Top Goalscorer,Andy Cook,-0.018200000000000004,0.0294,0.0476
-2024-01-28 09:05:22.035027,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Hibernian,-0.01880000000000004,0.5556,0.5744
-2024-01-28 09:05:21.890332,League One - England - League One 2023/24 - To Be Promoted,Peterborough United,-0.018999999999999906,0.7143,0.7333
-2024-01-28 09:05:21.944924,League Two - England - League Two 2023/24 - Top 3 Finish,Barrow FC,-0.019000000000000017,0.2667,0.2857
-2024-01-28 09:05:21.729802,Championship - England Championship 2023/24 - Top Goalscorer,Sammie Szmodics,-0.019000000000000017,0.2667,0.2857
-2024-01-28 09:05:21.938483,League Two - England - League Two 2023/24 - To Be Promoted,Bradford City,-0.019099999999999992,0.0476,0.0667
-2024-01-28 09:05:21.709277,Copa del Rey - Spain Copa del Rey 2023/24 - Winner,Mallorca,-0.02020000000000001,0.0909,0.1111
-2024-01-28 09:05:22.027932,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,St. Johnstone,-0.02020000000000001,0.0909,0.1111
-2024-01-28 09:05:25.664615,MLB 2024 Regular Season Team Props - Texas Rangers Regular Season Win Total - Texas Rangers Regular Season Win Total,Over 90.5,-0.02079999999999993,0.5348,0.5556
-2024-01-28 09:05:21.738156,Championship - England Championship 2023/24 - To Be Promoted,Ipswich Town,-0.02169999999999994,0.5238,0.5455
-2024-01-28 09:05:21.795503,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,Club América,-0.021999999999999964,0.2857,0.3077
 2024-01-28 19:04:48.690851,Manager Specials - Next Liverpool Manager - Next Liverpool Manager,Xabi Alonso,-0.022600000000000064,0.5122,0.5348
-2024-01-28 09:05:21.931251,League Two - England - League Two 2023/24 - Top Goalscorer,Davis Keillor-Dunn,-0.02310000000000001,0.0769,0.1
-2024-01-28 09:05:22.035027,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Ross County,-0.02310000000000001,0.0769,0.1
-2024-01-28 09:05:21.876904,League One - England - League One 2023/24 - League Winner,Oxford United,-0.023200000000000002,0.0244,0.0476
-2024-01-28 09:05:21.897209,League One - England - League One 2023/24 - Top 2 Finish,Oxford United,-0.0245,0.0588,0.0833
-2024-01-28 09:05:21.883124,League One - England - League One 2023/24 - Top Goalscorer,Devante Cole,-0.02779999999999999,0.2222,0.25
-2024-01-28 09:05:22.035027,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,St. Mirren,-0.03179999999999994,0.5238,0.5556
-2024-01-28 09:05:21.944924,League Two - England - League Two 2023/24 - Top 3 Finish,Mansfield Town,-0.033299999999999996,0.8,0.8333
-2024-01-28 09:05:21.785650,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,San Lorenzo,-0.03330000000000001,0.0667,0.1
-2024-01-28 09:05:21.944924,League Two - England - League Two 2023/24 - Top 3 Finish,Crewe Alexandra,-0.03330000000000001,0.0667,0.1
+2024-01-28 21:09:10.302459,Super Bowl 58 Specials - Super Bowl LVIII Specials - How Many Players will have a passing attempt?,Over 2.5,-0.023800000000000043,0.5,0.5238
+2024-01-28 21:09:10.587347,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,-0.033299999999999996,0.8667,0.9
 2024-01-28 19:04:50.867307,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,-0.033300000000000024,0.1667,0.2
-2024-01-28 09:05:22.035027,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Aberdeen,-0.03639999999999999,0.6,0.6364
-2024-01-28 09:05:21.890332,League One - England - League One 2023/24 - To Be Promoted,Oxford United,-0.03889999999999999,0.1429,0.1818
-2024-01-28 09:05:21.903947,League One - England - League One 2023/24 - Top 6 Finish,Barnsley,-0.040999999999999925,0.6923,0.7333
-2024-01-28 09:05:21.951598,League Two - England - League Two 2023/24 - Top 7 Finish,Notts County,-0.040999999999999925,0.6923,0.7333
-2024-01-28 09:05:21.897209,League One - England - League One 2023/24 - Top 2 Finish,Peterborough United,-0.044399999999999995,0.5556,0.6
-2024-01-28 09:05:21.709277,Copa del Rey - Spain Copa del Rey 2023/24 - Winner,Atlético Madrid,-0.044399999999999995,0.4,0.4444
-2024-01-28 09:05:21.897209,League One - England - League One 2023/24 - Top 2 Finish,Derby County,-0.045499999999999985,0.4545,0.5
-2024-01-28 09:05:21.931251,League Two - England - League Two 2023/24 - Top Goalscorer,Jake Young,-0.048100000000000004,0.0769,0.125
-2024-01-28 09:05:21.883124,League One - England - League One 2023/24 - Top Goalscorer,Alfie May,-0.04999999999999999,0.2,0.25
-2024-01-28 09:05:21.938483,League Two - England - League Two 2023/24 - To Be Promoted,Crewe Alexandra,-0.05310000000000001,0.2326,0.2857
-2024-01-28 09:05:21.876904,League One - England - League One 2023/24 - League Winner,Peterborough United,-0.055900000000000005,0.3077,0.3636
-2024-01-28 09:05:21.897209,League One - England - League One 2023/24 - Top 2 Finish,Barnsley,-0.056400000000000006,0.0769,0.1333
-2024-01-28 09:05:21.938483,League Two - England - League Two 2023/24 - To Be Promoted,Mansfield Town,-0.05709999999999993,0.8,0.8571
-2024-01-28 09:05:21.903947,League One - England - League One 2023/24 - Top 6 Finish,Oxford United,-0.061999999999999944,0.5744,0.6364
-2024-01-28 09:05:21.924030,League Two - England - League Two 2023/24 - League Winner,Mansfield Town,-0.06669999999999998,0.2,0.2667
-2024-01-28 09:05:23.433659,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Joel Embiid (PHI),-0.06670000000000004,0.3333,0.4
-2024-01-28 09:05:21.883124,League One - England - League One 2023/24 - Top Goalscorer,Jordan Rhodes,-0.06820000000000001,0.1818,0.25
-2024-01-28 09:05:21.931251,League Two - England - League Two 2023/24 - Top Goalscorer,Macauley Langstaff,-0.06930000000000003,0.4545,0.5238
-2024-01-28 09:05:21.951598,League Two - England - League Two 2023/24 - Top 7 Finish,Bradford City,-0.07500000000000001,0.125,0.2
+2024-01-28 21:09:10.602539,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,-0.033300000000000024,0.1667,0.2
 2024-01-28 19:04:49.556730,NBL - NBL 2023/2024 - Most Losses,Adelaide 36ers,-0.0857,0.2,0.2857
-2024-01-28 09:05:21.890332,League One - England - League One 2023/24 - To Be Promoted,Barnsley,-0.0857,0.2,0.2857
-2024-01-28 09:05:21.951598,League Two - England - League Two 2023/24 - Top 7 Finish,Crewe Alexandra,-0.11430000000000007,0.6,0.7143
-2024-01-28 09:05:22.041763,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Dundee FC,-0.13990000000000002,0.5744,0.7143
+2024-01-28 21:09:10.336794,Super Bowl 58 Specials - Super Bowl LVIII Specials - How many times will the chains be used for measurement?,Over 1.5,-0.1491,0.2857,0.4348
