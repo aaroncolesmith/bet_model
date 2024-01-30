@@ -2,15 +2,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-30 03:02:42.980363,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Ivory Coast,0.1778,0.4,0.2222
 2024-01-30 03:02:42.992120,Africa Cup of Nations - Africa Cup of Nations Outrights - Group of Winning Team,Group A,0.13640000000000002,0.5,0.3636
 2024-01-30 01:03:30.102740,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Milwaukee Bucks,0.12710000000000005,0.4348,0.3077
-2024-01-29 23:03:11.536637,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Jacinto Gelson,0.1238,0.2667,0.1429
 2024-01-30 01:03:30.370625,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Tim Hardaway Jr (DAL),0.09999999999999998,0.5,0.4
 2024-01-30 07:03:23.095851,NCAA DI Men - Mountain West Conference 2023-24 - Winner,Utah State,0.09689999999999999,0.3636,0.2667
 2024-01-30 07:03:23.040692,NCAA DI Men - Big Ten Conference 2023-24 - Winner,Wisconsin,0.08549999999999996,0.3077,0.2222
 2024-01-30 03:02:42.929299,AFC Asian Cup - AFC Asian Cup 2023 - To Reach the Final,Qatar,0.08330000000000001,0.25,0.1667
 2024-01-30 03:02:43.316996,DFB Pokal - Germany DFB Pokal 2023/24 - Winner,Bayer Leverkusen,0.08080000000000004,0.4444,0.3636
 2024-01-30 03:02:54.444510,Positions - Finishing Position - Ludvig Aberg - Finishing Position,23rd or better,0.06929999999999997,0.5455,0.4762
-2024-01-30 09:04:55.560572,Positions - Finishing Position - Rory McIlroy - Finishing Position,11th or worse,0.06789999999999996,0.5917,0.5238
 2024-01-30 09:04:55.390595,Positions - Finishing Position - Jordan Spieth - Finishing Position,20th or worse,0.06789999999999996,0.5917,0.5238
+2024-01-30 09:04:55.560572,Positions - Finishing Position - Rory McIlroy - Finishing Position,11th or worse,0.06789999999999996,0.5917,0.5238
 2024-01-30 03:02:45.507162,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Chris Finch,0.057699999999999974,0.3077,0.25
 2024-01-30 09:04:55.367160,Positions - Finishing Position - Jason Day - Finishing Position,30th or worse,0.05689999999999995,0.5917,0.5348
 2024-01-30 03:02:45.545485,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Nikola Jokic (DEN),0.05559999999999998,0.5,0.4444
@@ -20,17 +19,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-30 05:03:30.031264,Central Division - Central Division 2023-24 - Division Winner,Cleveland Cavaliers,0.04999999999999999,0.25,0.2
 2024-01-30 03:02:42.980363,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Cape Verde,0.048100000000000004,0.125,0.0769
 2024-01-30 03:02:45.556182,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Victor Wembanyama (SAS),0.04760000000000009,0.7143,0.6667
-2024-01-30 07:03:23.095851,NCAA DI Men - Mountain West Conference 2023-24 - Winner,New Mexico,0.047599999999999976,0.3333,0.2857
 2024-01-30 05:03:30.043986,Northwest Division - Northwest Division 2023-24 - Division Winner,Minnesota Timberwolves,0.047599999999999976,0.3333,0.2857
+2024-01-30 07:03:23.095851,NCAA DI Men - Mountain West Conference 2023-24 - Winner,New Mexico,0.047599999999999976,0.3333,0.2857
 2024-01-30 03:02:42.929299,AFC Asian Cup - AFC Asian Cup 2023 - To Reach the Final,Jordan,0.0475,0.0769,0.0294
 2024-01-30 09:04:55.963455,Tournament Match-Ups - Tournament Match-Up - S. Im vs C. Young - Tournament Match-Up,Sungjae Im,0.04620000000000002,0.5917,0.5455
 2024-01-30 05:03:30.073633,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,0.045499999999999985,0.5,0.4545
 2024-01-30 01:03:32.618918,Super Bowl 58 Specials - Super Bowl LVIII Specials - Will there be a Successful 2 Point Conversion,No,0.044500000000000095,0.7778,0.7333
 2024-01-30 03:02:42.754438,Serie A - Italy Serie A 2023/24 - To Be Relegated,Salernitana,0.04290000000000005,0.9,0.8571
-2024-01-30 09:04:55.650844,Positions - Finishing Position - Tony Finau - Finishing Position,25th or worse,0.04139999999999999,0.5652,0.5238
 2024-01-30 09:04:55.436195,Positions - Finishing Position - Ludvig Aberg - Finishing Position,24th or worse,0.04139999999999999,0.5652,0.5238
+2024-01-30 09:04:55.650844,Positions - Finishing Position - Tony Finau - Finishing Position,25th or worse,0.04139999999999999,0.5652,0.5238
 2024-01-30 03:02:42.775897,Serie A - Italy Serie A 2023/24 - Top 4 Finish,AS Roma,0.04040000000000002,0.2222,0.1818
 2024-01-30 05:03:28.790406,Manager Specials - Next Liverpool Manager - Next Liverpool Manager,Ruben Amorim,0.038099999999999995,0.0625,0.0244
+2024-01-30 09:04:48.374335,Super Bowl 58 Specials - Super Bowl LVIII Specials - First TV Advertisement - Drumstick vs Uber Eats,Uber Eats,0.037800000000000056,0.5833,0.5455
 2024-01-30 05:03:29.428048,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Davi,0.03640000000000004,0.4,0.3636
 2024-01-30 03:02:42.763445,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Salernitana,0.03639999999999999,0.6364,0.6
 2024-01-30 07:03:23.165556,NCAA DI Men - Atlantic 10 Conference 2023-24 - Winner,Richmond,0.0348,0.4348,0.4
@@ -41,27 +41,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-30 03:02:42.937037,AFC Asian Cup - AFC Asian Cup 2023 - Group of Winning Team,Group E,0.03259999999999999,0.2326,0.2
 2024-01-30 09:04:55.637019,Positions - Finishing Position - Tommy Fleetwood - Finishing Position,28th or worse,0.03179999999999994,0.5556,0.5238
 2024-01-30 09:04:54.727574,Boxing Lines - Romero Duno vs Antonio Moran - To Win the Bout,Antonio Moran,0.031400000000000095,0.7647,0.7333
-2024-01-30 07:03:24.672568,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,0.03140000000000001,0.1852,0.1538
 2024-01-30 03:02:47.295098,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,0.03140000000000001,0.1852,0.1538
-2024-01-29 23:03:15.175317,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,0.03140000000000001,0.1852,0.1538
+2024-01-30 07:03:24.672568,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,0.03140000000000001,0.1852,0.1538
 2024-01-30 03:02:45.507162,NBA Awards - NBA Awards 2023-24 - Coach of the Year,JB Bickerstaff,0.031200000000000002,0.0476,0.0164
 2024-01-30 09:04:55.939157,Tournament Match-Ups - Tournament Match-Up - R. McIlroy vs S. Scheffler - Tournament Match-Up,Scottie Scheffler,0.030399999999999983,0.5652,0.5348
 2024-01-30 03:02:42.992120,Africa Cup of Nations - Africa Cup of Nations Outrights - Group of Winning Team,Group F,0.030299999999999994,0.3636,0.3333
 2024-01-30 07:03:23.050648,NCAA DI Men - West Coast Conference 2023-24 - Winner,Saint Mary's CA,0.02960000000000007,0.6296,0.6
-2024-01-29 23:03:11.536637,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Agostinho Mabululu,0.0294,0.0588,0.0294
 2024-01-30 07:03:23.060627,NCAA DI Men - ACC Conference 2023-24 - Winner,Duke,0.028700000000000003,0.2105,0.1818
 2024-01-30 07:03:31.169361,Boxing Lines - Christopher Pearson vs Trevor Mccumby - To Win the Bout,Christopher Pearson,0.02679999999999999,0.3125,0.2857
-2024-01-30 05:03:32.074840,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,0.026700000000000057,0.9091,0.8824
-2024-01-30 01:03:31.718736,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,0.026700000000000057,0.9091,0.8824
 2024-01-30 07:03:24.692246,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,0.026700000000000057,0.9091,0.8824
-2024-01-30 09:04:55.975113,Tournament Match-Ups - Tournament Match-Up - T. Fleetwood vs T. Kim - Tournament Match-Up,Tommy Fleetwood,0.026499999999999968,0.5917,0.5652
+2024-01-30 01:03:31.718736,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,0.026700000000000057,0.9091,0.8824
+2024-01-30 05:03:32.074840,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,0.026700000000000057,0.9091,0.8824
 2024-01-30 09:04:55.831664,Tournament Match-Ups - Tournament Match-Up - J. Spieth vs P. Cantlay - Tournament Match-Up,Patrick Cantlay,0.026499999999999968,0.5917,0.5652
+2024-01-30 09:04:55.975113,Tournament Match-Ups - Tournament Match-Up - T. Fleetwood vs T. Kim - Tournament Match-Up,Tommy Fleetwood,0.026499999999999968,0.5917,0.5652
 2024-01-30 07:03:23.114485,NCAA DI Men - Pac-12 Conference 2023-24 - Winner,Washington State,0.0262,0.0385,0.0123
-2024-01-29 23:03:11.536637,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Emilio Nsue,0.025600000000000067,0.6923,0.6667
 2024-01-30 01:03:31.549960,Super Bowl 58 Specials - Super Bowl LVIII Specials - Kansas City Chiefs Team to Score a Safety,No,0.025600000000000067,0.9756,0.95
 2024-01-30 09:04:48.450494,Super Bowl 58 Specials - Super Bowl LVIII Specials - How many times will the chains be used for measurement?,Under 1.5,0.025499999999999967,0.8214,0.7959
-2024-01-29 23:03:11.519427,AFC Asian Cup - AFC Asian Cup 2023 - Top Goalscorer,Akram Afif,0.023799999999999988,0.1667,0.1429
+2024-01-30 11:03:06.306859,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Alexander Isak,0.0242,0.0909,0.0667
 2024-01-30 03:02:43.541817,Super Lig - Turkey Super Lig 2023/24 - Winner,Galatasaray,0.02169999999999994,0.5455,0.5238
+2024-01-30 09:04:48.356264,Super Bowl 58 Specials - Super Bowl LVIII Specials - First TV Advertisement - BMW vs Coors Light,Coors Light,0.01970000000000005,0.5652,0.5455
 2024-01-30 09:04:55.951662,Tournament Match-Ups - Tournament Match-Up - S. Burns vs J. Day - Tournament Match-Up,Sam Burns,0.01970000000000005,0.5652,0.5455
 2024-01-30 03:02:42.980363,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Morocco,0.019699999999999995,0.4545,0.4348
 2024-01-30 03:02:42.992120,Africa Cup of Nations - Africa Cup of Nations Outrights - Group of Winning Team,Group B,0.019099999999999995,0.0435,0.0244
@@ -69,26 +67,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-30 03:02:42.980363,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,DR Congo,0.0179,0.1429,0.125
 2024-01-30 09:04:47.629449,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Giannis Antetokounmpo (MIL),0.01759999999999999,0.1176,0.1
 2024-01-30 03:02:42.992120,Africa Cup of Nations - Africa Cup of Nations Outrights - Group of Winning Team,Group E,0.016700000000000007,0.1,0.0833
-2024-01-30 01:03:30.379656,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Damian Lillard (MIL),0.015400000000000025,0.4,0.3846
 2024-01-30 03:02:42.929299,AFC Asian Cup - AFC Asian Cup 2023 - To Reach the Final,South Korea,0.015400000000000025,0.4,0.3846
+2024-01-30 01:03:30.379656,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Damian Lillard (MIL),0.015400000000000025,0.4,0.3846
 2024-01-30 03:02:53.870756,Boxing Lines - Angelo Leo vs Mike Plania - To Win the Bout,Angelo Leo,0.015100000000000002,0.8333,0.8182
-2024-01-29 23:03:11.536637,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Ademola Lookman,0.014900000000000004,0.0345,0.0196
 2024-01-30 05:03:30.010079,Atlantic Division - Atlantic Division 2023-24 - Division Winner,Boston Celtics,0.014599999999999946,0.995,0.9804
-2024-01-29 23:03:11.519427,AFC Asian Cup - AFC Asian Cup 2023 - Top Goalscorer,Takumi Minamino,0.013999999999999999,0.0909,0.0769
-2024-01-30 03:02:44.394440,Grammy Awards 2024 - Record of the Year - Record of the Year,Vampire - Olivia Rodrigo,0.013999999999999999,0.0909,0.0769
 2024-01-30 03:02:42.980363,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Angola,0.013999999999999999,0.0909,0.0769
-2024-01-29 23:03:11.519427,AFC Asian Cup - AFC Asian Cup 2023 - Top Goalscorer,Kang-In Lee,0.013899999999999996,0.125,0.1111
+2024-01-30 03:02:44.394440,Grammy Awards 2024 - Record of the Year - Record of the Year,Vampire - Olivia Rodrigo,0.013999999999999999,0.0909,0.0769
 2024-01-29 23:03:21.634625,Boxing Lines - Angelo Leo vs Mike Plania - To Win the Bout,Mike Plania,0.01369999999999999,0.241,0.2273
-2024-01-29 23:03:11.519427,AFC Asian Cup - AFC Asian Cup 2023 - Top Goalscorer,Ayase Ueda,0.012899999999999995,0.1667,0.1538
 2024-01-30 05:03:30.155786,Southwest Division - Southwest Division 2023-24 - Division Winner,Houston Rockets,0.012600000000000007,0.0714,0.0588
 2024-01-30 09:04:55.903559,Tournament Match-Ups - Tournament Match-Up - M. Homa vs C. Morikawa - Tournament Match-Up,Collin Morikawa,0.012199999999999989,0.5122,0.5
 2024-01-30 01:03:38.297027,Boxing Lines - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Oleksandr Usyk,0.0116,0.4878,0.4762
 2024-01-30 03:02:42.763445,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Udinese,0.011199999999999995,0.0588,0.0476
-2024-01-30 09:04:48.181765,Super Bowl 58 Specials - Super Bowl LVIII Specials - -National Anthem - How Long Will It Take Reba McEntire To Sing The US National Anthem?,Under 1 Minute and 28 Seconds,0.011099999999999999,0.4762,0.4651
 2024-01-30 01:03:30.379656,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Stephen Curry (GSW),0.011099999999999999,0.1111,0.1
+2024-01-30 09:04:48.181765,Super Bowl 58 Specials - Super Bowl LVIII Specials - -National Anthem - How Long Will It Take Reba McEntire To Sing The US National Anthem?,Under 1 Minute and 28 Seconds,0.011099999999999999,0.4762,0.4651
 2024-01-30 09:04:55.987413,Tournament Match-Ups - Tournament Match-Up - V. Hovland vs X. Schauffele - Tournament Match-Up,Xander Schauffele,0.01100000000000001,0.5348,0.5238
 2024-01-30 03:02:42.980363,Africa Cup of Nations - Africa Cup of Nations Outrights - To Reach the Final,Mali,0.010899999999999993,0.1538,0.1429
 2024-01-30 09:04:56.036252,Mayakoba - Mayakoba - Winner,Joaquin Niemann,0.0102,0.0769,0.0667
+2024-01-30 11:03:17.193043,Boxing Lines - Christopher Pearson vs Trevor Mccumby - To Win the Bout,Christopher Pearson,0.010099999999999998,0.3226,0.3125
 2024-01-30 03:02:42.754438,Serie A - Italy Serie A 2023/24 - To Be Relegated,Hellas Verona,-0.010099999999999998,0.5455,0.5556
 2024-01-30 03:02:43.541817,Super Lig - Turkey Super Lig 2023/24 - Winner,Fenerbahce,-0.010099999999999998,0.5455,0.5556
 2024-01-30 01:03:30.379656,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Tyrese Haliburton (IND),-0.010100000000000001,0.0244,0.0345
@@ -97,19 +92,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-30 09:04:55.987413,Tournament Match-Ups - Tournament Match-Up - V. Hovland vs X. Schauffele - Tournament Match-Up,Viktor Hovland,-0.010699999999999932,0.5348,0.5455
 2024-01-30 03:02:42.937037,AFC Asian Cup - AFC Asian Cup 2023 - Group of Winning Team,Group C,-0.010899999999999993,0.1429,0.1538
 2024-01-30 03:02:42.763445,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Cagliari,-0.011099999999999999,0.1,0.1111
-2024-01-30 03:02:42.623874,La Liga - Spain La Liga 2023/24 - To Be Relegated,Villarreal,-0.011199999999999995,0.0476,0.0588
 2024-01-30 01:03:30.370625,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Bennedict Mathurin (IND),-0.011199999999999995,0.0476,0.0588
+2024-01-30 03:02:42.623874,La Liga - Spain La Liga 2023/24 - To Be Relegated,Villarreal,-0.011199999999999995,0.0476,0.0588
 2024-01-30 07:03:25.131010,Super Bowl 58 Specials - Super Bowl LVIII Specials - Total Made Field Goals in the 1st Half,Under 1.5,-0.012199999999999989,0.5,0.5122
 2024-01-30 03:02:42.745346,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Romelu Lukaku (Roma),-0.0131,0.0345,0.0476
 2024-01-30 03:02:42.623874,La Liga - Spain La Liga 2023/24 - To Be Relegated,Alavés,-0.0131,0.0345,0.0476
 2024-01-30 07:03:23.165556,NCAA DI Men - Atlantic 10 Conference 2023-24 - Winner,St. Bonaventure,-0.013699999999999999,0.0141,0.0278
 2024-01-30 03:02:43.316996,DFB Pokal - Germany DFB Pokal 2023/24 - Winner,Hertha BSC,-0.013999999999999999,0.0769,0.0909
 2024-01-29 23:03:21.634625,Boxing Lines - Angelo Leo vs Mike Plania - To Win the Bout,Angelo Leo,-0.014200000000000101,0.8261,0.8403
-2024-01-30 01:03:30.379656,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Trae Young (ATL),-0.0145,0.0099,0.0244
 2024-01-30 07:03:23.040692,NCAA DI Men - Big Ten Conference 2023-24 - Winner,Michigan State,-0.0145,0.0099,0.0244
+2024-01-30 01:03:30.379656,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Trae Young (ATL),-0.0145,0.0099,0.0244
 2024-01-30 03:02:53.870756,Boxing Lines - Angelo Leo vs Mike Plania - To Win the Bout,Mike Plania,-0.01469999999999999,0.2353,0.25
-2024-01-30 05:03:29.968016,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning State,Field,-0.015100000000000002,0.8182,0.8333
 2024-01-30 03:02:45.082558,NBA Championship - NBA Championship 2023-24 - NBA Champion,Milwaukee Bucks,-0.015100000000000002,0.1667,0.1818
+2024-01-30 05:03:29.968016,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning State,Field,-0.015100000000000002,0.8182,0.8333
 2024-01-30 09:04:48.181765,Super Bowl 58 Specials - Super Bowl LVIII Specials - -National Anthem - How Long Will It Take Reba McEntire To Sing The US National Anthem?,Over 1 Minute and 28 Seconds,-0.01539999999999997,0.6,0.6154
 2024-01-30 03:02:45.556182,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Chet Holmgren (OKC),-0.015400000000000025,0.3846,0.4
 2024-01-30 01:03:38.297027,Boxing Lines - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Tyson Fury,-0.017299999999999982,0.5744,0.5917
@@ -117,11 +112,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-30 03:02:42.763445,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Hellas Verona,-0.0179,0.125,0.1429
 2024-01-30 07:03:23.130997,NCAA DI Men - American Athletic Conference 2023-24 - Winner,Memphis,-0.018099999999999998,0.0588,0.0769
 2024-01-30 01:03:30.102740,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Boston Celtics,-0.018100000000000005,0.4167,0.4348
+2024-01-30 11:03:08.409692,NBL - NBL 2023/2024 - Regular Season MVP,Chris Goulding,-0.019099999999999992,0.0476,0.0667
 2024-01-30 07:03:23.095851,NCAA DI Men - Mountain West Conference 2023-24 - Winner,Nevada,-0.019800000000000005,0.0278,0.0476
 2024-01-30 07:03:31.169361,Boxing Lines - Christopher Pearson vs Trevor Mccumby - To Win the Bout,Trevor Mccumby,-0.020100000000000007,0.75,0.7701
 2024-01-30 01:03:30.370625,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Jordan Clarkson (UTA),-0.02020000000000001,0.0909,0.1111
 2024-01-30 03:02:43.316996,DFB Pokal - Germany DFB Pokal 2023/24 - Winner,St. Pauli,-0.02020000000000001,0.0909,0.1111
 2024-01-30 07:03:23.114485,NCAA DI Men - Pac-12 Conference 2023-24 - Winner,Oregon,-0.02049999999999999,0.1333,0.1538
+2024-01-30 11:03:08.390303,NBL - NBL 2023/2024 - Outright,Perth Wildcats,-0.020799999999999985,0.3125,0.3333
+2024-01-30 09:04:48.356264,Super Bowl 58 Specials - Super Bowl LVIII Specials - First TV Advertisement - BMW vs Coors Light,BMW,-0.02169999999999994,0.5238,0.5455
+2024-01-30 11:03:08.390303,NBL - NBL 2023/2024 - Outright,Melbourne United,-0.021699999999999997,0.4545,0.4762
 2024-01-30 03:02:42.754438,Serie A - Italy Serie A 2023/24 - To Be Relegated,Cagliari,-0.021699999999999997,0.4545,0.4762
 2024-01-30 07:03:23.095851,NCAA DI Men - Mountain West Conference 2023-24 - Winner,San Diego State,-0.021999999999999964,0.2857,0.3077
 2024-01-30 03:02:45.526444,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Chet Holmgren (OKC),-0.02310000000000001,0.0769,0.1
@@ -135,46 +134,44 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-30 07:03:23.148845,NCAA DI Men - SEC Conference 2023-24 - Winner,Alabama,-0.02560000000000001,0.3077,0.3333
 2024-01-30 09:04:48.450494,Super Bowl 58 Specials - Super Bowl LVIII Specials - How many times will the chains be used for measurement?,Over 1.5,-0.02639999999999998,0.2439,0.2703
 2024-01-30 01:03:31.549960,Super Bowl 58 Specials - Super Bowl LVIII Specials - Kansas City Chiefs Team to Score a Safety,Yes,-0.0267,0.0909,0.1176
-2024-01-30 07:03:24.672568,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,-0.026700000000000057,0.8824,0.9091
 2024-01-30 03:02:47.295098,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,-0.026700000000000057,0.8824,0.9091
-2024-01-29 23:03:15.175317,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,-0.026700000000000057,0.8824,0.9091
-2024-01-30 03:02:43.316996,DFB Pokal - Germany DFB Pokal 2023/24 - Winner,Borussia Mönchengladbach,-0.02779999999999999,0.2222,0.25
+2024-01-30 07:03:24.672568,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,No,-0.026700000000000057,0.8824,0.9091
 2024-01-30 03:02:42.775897,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Fiorentina,-0.02779999999999999,0.2222,0.25
+2024-01-30 03:02:43.316996,DFB Pokal - Germany DFB Pokal 2023/24 - Winner,Borussia Mönchengladbach,-0.02779999999999999,0.2222,0.25
 2024-01-30 03:02:45.129616,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Division,Atlantic Division,-0.030299999999999994,0.303,0.3333
 2024-01-30 09:04:54.727574,Boxing Lines - Romero Duno vs Antonio Moran - To Win the Bout,Romero Duno,-0.030299999999999994,0.303,0.3333
 2024-01-30 03:02:45.545485,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Shai Gilgeous-Alexander (OKC),-0.031399999999999983,0.2353,0.2667
-2024-01-30 05:03:32.074840,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,-0.03140000000000001,0.1538,0.1852
 2024-01-30 07:03:24.692246,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,-0.03140000000000001,0.1538,0.1852
 2024-01-30 01:03:31.718736,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,-0.03140000000000001,0.1538,0.1852
+2024-01-30 05:03:32.074840,Super Bowl 58 Specials - Super Bowl LVIII Specials - National Anthem - Will any word be forgotten or omitted from the National Anthem?,Yes,-0.03140000000000001,0.1538,0.1852
 2024-01-30 09:04:55.623823,Positions - Finishing Position - Tom Kim - Finishing Position,30th or better,-0.03179999999999994,0.5238,0.5556
 2024-01-30 03:02:43.469411,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,FC Porto,-0.03259999999999999,0.2,0.2326
 2024-01-30 09:04:55.637019,Positions - Finishing Position - Tommy Fleetwood - Finishing Position,27th or better,-0.033299999999999996,0.5122,0.5455
-2024-01-30 07:03:23.050648,NCAA DI Men - West Coast Conference 2023-24 - Winner,San Francisco,-0.03420000000000001,0.0769,0.1111
 2024-01-30 01:03:31.757659,Super Bowl 58 Specials - Super Bowl LVIII Specials - San Francisco 49ers Team to Score a Safety,Yes,-0.03420000000000001,0.0769,0.1111
+2024-01-30 07:03:23.050648,NCAA DI Men - West Coast Conference 2023-24 - Winner,San Francisco,-0.03420000000000001,0.0769,0.1111
 2024-01-30 09:04:55.939157,Tournament Match-Ups - Tournament Match-Up - R. McIlroy vs S. Scheffler - Tournament Match-Up,Rory McIlroy,-0.03480000000000005,0.5,0.5348
 2024-01-30 03:02:45.536346,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Tyrese Maxey (PHI),-0.040999999999999925,0.6923,0.7333
 2024-01-30 07:03:23.040692,NCAA DI Men - Big Ten Conference 2023-24 - Winner,Purdue,-0.041000000000000036,0.7368,0.7778
 2024-01-30 01:03:32.618918,Super Bowl 58 Specials - Super Bowl LVIII Specials - Will there be a Successful 2 Point Conversion,Yes,-0.043399999999999994,0.2899,0.3333
 2024-01-30 09:04:55.436195,Positions - Finishing Position - Ludvig Aberg - Finishing Position,23rd or better,-0.045499999999999985,0.5,0.5455
+2024-01-30 09:04:48.374335,Super Bowl 58 Specials - Super Bowl LVIII Specials - First TV Advertisement - Drumstick vs Uber Eats,Drumstick,-0.045499999999999985,0.5,0.5455
 2024-01-30 09:04:55.650844,Positions - Finishing Position - Tony Finau - Finishing Position,24th or better,-0.045499999999999985,0.5,0.5455
 2024-01-30 03:02:42.775897,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Lazio,-0.04620000000000002,0.1538,0.2
 2024-01-30 05:03:30.073633,Southeast Division - Southeast Division 2023-24 - Division Winner,Miami Heat,-0.04630000000000001,0.5833,0.6296
 2024-01-30 03:02:45.507162,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,-0.047099999999999975,0.4651,0.5122
 2024-01-30 07:03:23.148845,NCAA DI Men - SEC Conference 2023-24 - Winner,Auburn,-0.047599999999999976,0.2857,0.3333
-2024-01-29 23:03:11.335022,La Liga - Spain La Liga 2023/24 - Top 4 Finish,FC Barcelona,-0.048899999999999944,0.9412,0.9901
 2024-01-30 07:03:23.095851,NCAA DI Men - Mountain West Conference 2023-24 - Winner,Colorado State,-0.052399999999999995,0.0385,0.0909
-2024-01-30 03:02:45.526444,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,OG Anunoby (NYK),-0.05559999999999998,0.1111,0.1667
 2024-01-30 09:04:55.316448,Positions - Finishing Position - Cameron Young - Finishing Position,29th or better,-0.05559999999999998,0.5,0.5556
 2024-01-30 03:02:45.507162,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Tyronn Lue,-0.05559999999999998,0.1111,0.1667
-2024-01-29 23:03:11.519427,AFC Asian Cup - AFC Asian Cup 2023 - Top Goalscorer,Aymen Hussein,-0.05559999999999998,0.4444,0.5
+2024-01-30 03:02:45.526444,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,OG Anunoby (NYK),-0.05559999999999998,0.1111,0.1667
 2024-01-30 01:03:30.370625,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Bogdan Bogdanovic (ATL),-0.058300000000000005,0.0667,0.125
 2024-01-30 09:04:55.367160,Positions - Finishing Position - Jason Day - Finishing Position,29th or better,-0.05860000000000004,0.4762,0.5348
 2024-01-30 09:04:55.963455,Tournament Match-Ups - Tournament Match-Up - S. Im vs C. Young - Tournament Match-Up,Cameron Young,-0.05870000000000003,0.4651,0.5238
 2024-01-30 03:02:42.937037,AFC Asian Cup - AFC Asian Cup 2023 - Group of Winning Team,Group D,-0.05980000000000002,0.3846,0.4444
 2024-01-30 05:03:30.043986,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,-0.06509999999999999,0.4,0.4651
 2024-01-30 03:02:54.444510,Positions - Finishing Position - Ludvig Aberg - Finishing Position,24th or worse,-0.06789999999999996,0.5238,0.5917
-2024-01-30 09:04:55.560572,Positions - Finishing Position - Rory McIlroy - Finishing Position,10th or better,-0.06929999999999997,0.4762,0.5455
 2024-01-30 09:04:55.390595,Positions - Finishing Position - Jordan Spieth - Finishing Position,19th or better,-0.06929999999999997,0.4762,0.5455
+2024-01-30 09:04:55.560572,Positions - Finishing Position - Rory McIlroy - Finishing Position,10th or better,-0.06929999999999997,0.4762,0.5455
 2024-01-30 07:03:23.040692,NCAA DI Men - Big Ten Conference 2023-24 - Winner,Illinois,-0.075,0.05,0.125
 2024-01-30 07:03:23.095851,NCAA DI Men - Mountain West Conference 2023-24 - Winner,Boise State,-0.08240000000000001,0.1176,0.2
 2024-01-30 03:02:45.545485,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Joel Embiid (PHI),-0.0849,0.1818,0.2667
