@@ -14,7 +14,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-30 19:05:52.968417,League One - England - League One 2023/24 - League Winner,Bolton Wanderers,0.02560000000000001,0.3333,0.3077
 2024-01-30 19:05:52.968417,League One - England - League One 2023/24 - League Winner,Peterborough United,0.02560000000000001,0.3333,0.3077
 2024-01-30 19:05:52.630635,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Ademola Lookman,0.024299999999999995,0.0588,0.0345
-2024-01-30 11:03:06.306859,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Alexander Isak,0.0242,0.0909,0.0667
 2024-01-30 19:05:52.617982,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,DR Congo,0.0242,0.0909,0.0667
 2024-01-30 19:05:52.702387,Championship - England Championship 2023/24 - To Be Relegated,Huddersfield Town,0.023799999999999988,0.5,0.4762
 2024-01-30 19:05:52.667420,Championship - England Championship 2023/24 - League Winner,Leicester City,0.022199999999999998,0.8,0.7778
@@ -30,6 +29,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-30 19:05:52.617982,Africa Cup of Nations - Africa Cup of Nations Outrights - Winner,Angola,0.018200000000000004,0.0476,0.0294
 2024-01-30 19:05:52.630635,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Agostinho Mabululu,0.018099999999999998,0.0769,0.0588
 2024-01-30 19:06:05.322362,Boxing Lines - Romero Duno vs Antonio Moran - To Win the Bout,Antonio Moran,0.017899999999999916,0.7826,0.7647
+2024-01-30 23:04:06.822194,Boxing Lines - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Tyson Fury,0.017299999999999982,0.5917,0.5744
 2024-01-30 19:05:53.180643,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Everton,0.016699999999999993,0.2667,0.25
 2024-01-30 19:05:52.702387,Championship - England Championship 2023/24 - To Be Relegated,Queens Park Rangers,0.016699999999999937,0.6,0.5833
 2024-01-30 13:03:35.489959,Tournament Match-Ups - Tournament Match-Up - S. Im vs C. Young - Tournament Match-Up,Sungjae Im,0.016100000000000003,0.6078,0.5917
@@ -37,26 +37,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-30 19:05:52.590248,AFC Asian Cup - AFC Asian Cup 2023 - Top Goalscorer,Ayase Ueda,0.015100000000000002,0.1818,0.1667
 2024-01-30 19:05:52.630635,Africa Cup of Nations - Africa Cup of Nations Outrights - Top Goalscorer,Lassine Sinayoko,0.014499999999999999,0.0294,0.0149
 2024-01-30 19:05:52.690864,Championship - England Championship 2023/24 - To Be Promoted,Leicester City,0.014100000000000001,0.9756,0.9615
-2024-01-30 13:03:24.885759,AFC Asian Cup - AFC Asian Cup 2023 - Winner,Uzbekistan,0.014100000000000001,0.0526,0.0385
 2024-01-30 13:03:28.437447,Super Bowl 58 Specials - Super Bowl LVIII Specials - Super Bowl receptions record of 14 catches be broken,No,0.014100000000000001,0.9474,0.9333
+2024-01-30 13:03:24.885759,AFC Asian Cup - AFC Asian Cup 2023 - Winner,Uzbekistan,0.014100000000000001,0.0526,0.0385
 2024-01-30 13:03:27.855219,Super Bowl 58 Specials - Super Bowl LVIII Specials - - Super Bowl LVIII MVP,Travis Kelce,0.013999999999999999,0.0909,0.0769
 2024-01-30 21:08:20.739037,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Ollie Watkins,0.0131,0.0476,0.0345
 2024-01-30 19:05:52.573776,AFC Asian Cup - AFC Asian Cup 2023 - Winner,South Korea,0.011899999999999994,0.25,0.2381
 2024-01-30 13:03:27.873946,Super Bowl 58 Specials - Super Bowl LVIII Specials - -National Anthem - How Long Will It Take Reba McEntire To Sing The US National Anthem?,Under 1 Minute and 28 Seconds,0.0116,0.4878,0.4762
-2024-01-30 19:06:06.111009,Boxing Lines - Jai Opetaia vs Mairis Briedis - To Win the Bout,Jai Opetaia,0.01090000000000002,0.8571,0.8462
+2024-01-30 23:04:06.148343,Boxing Lines - Jeamie Tshikeva vs Kostiantyn Dovbyshchenko - To Win the Bout,Jeamie Tshikeva,0.011099999999999999,0.7333,0.7222
 2024-01-30 15:03:16.193254,Super Bowl 58 Specials - Super Bowl LVIII Specials - Will the First Half End in a Tie,No,0.01090000000000002,0.8148,0.8039
+2024-01-30 19:06:06.111009,Boxing Lines - Jai Opetaia vs Mairis Briedis - To Win the Bout,Jai Opetaia,0.01090000000000002,0.8571,0.8462
 2024-01-30 13:03:27.882449,Super Bowl 58 Specials - Super Bowl LVIII Specials - -What Color Liquid Will Be Poured On The Winning Coach Of Super Bowl 58?,Lime/Green/Yellow,0.01050000000000001,0.1923,0.1818
 2024-01-30 15:03:21.541071,Boxing Lines - Angelo Leo vs Mike Plania - To Win the Bout,Mike Plania,0.010499999999999982,0.2105,0.2
-2024-01-30 11:03:17.193043,Boxing Lines - Christopher Pearson vs Trevor Mccumby - To Win the Bout,Christopher Pearson,0.010099999999999998,0.3226,0.3125
 2024-01-30 15:03:16.193254,Super Bowl 58 Specials - Super Bowl LVIII Specials - Will the First Half End in a Tie,Yes,-0.010000000000000009,0.2532,0.2632
 2024-01-30 13:03:28.392838,Super Bowl 58 Specials - Super Bowl LVIII Specials - Shortest TD Scored,Over 1.5 Yards,-0.010099999999999998,0.4444,0.4545
 2024-01-30 19:06:08.132349,Mayakoba - Mayakoba - Winner,Joaquin Niemann,-0.0102,0.0667,0.0769
 2024-01-30 19:05:52.702387,Championship - England Championship 2023/24 - To Be Relegated,Plymouth Argyle,-0.0102,0.0667,0.0769
 2024-01-30 19:05:52.678672,Championship - England Championship 2023/24 - Top Goalscorer,Adam Armstrong,-0.010399999999999993,0.2222,0.2326
 2024-01-30 19:06:05.348418,Boxing Lines - Angelo Leo vs Mike Plania - To Win the Bout,Mike Plania,-0.010499999999999982,0.2,0.2105
-2024-01-30 15:03:22.123985,Boxing Lines - Edgar Berlanga vs Padraig McCrory - To Win the Bout,Padraig McCrory,-0.010599999999999998,0.2597,0.2703
 2024-01-30 13:03:35.489959,Tournament Match-Ups - Tournament Match-Up - S. Im vs C. Young - Tournament Match-Up,Cameron Young,-0.010599999999999998,0.4545,0.4651
+2024-01-30 15:03:22.123985,Boxing Lines - Edgar Berlanga vs Padraig McCrory - To Win the Bout,Padraig McCrory,-0.010599999999999998,0.2597,0.2703
 2024-01-30 13:03:28.251304,Super Bowl 58 Specials - Super Bowl LVIII Specials - Longest Touchdown Scored,Over 42.5 Yards,-0.011099999999999999,0.4651,0.4762
+2024-01-30 23:04:06.063312,Boxing Lines - Orestes Velazquez vs Julian Smith - To Win the Bout,Julian Smith,-0.011099999999999999,0.1,0.1111
+2024-01-30 23:04:06.090103,Boxing Lines - Ashton Sylve vs Estivan Falcao - To Win the Bout,Estivan Falcao,-0.011099999999999999,0.1,0.1111
+2024-01-30 23:04:06.148343,Boxing Lines - Jeamie Tshikeva vs Kostiantyn Dovbyshchenko - To Win the Bout,Kostiantyn Dovbyshchenko,-0.01150000000000001,0.3333,0.3448
+2024-01-30 23:04:06.822194,Boxing Lines - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Oleksandr Usyk,-0.0116,0.4762,0.4878
 2024-01-30 19:06:06.111009,Boxing Lines - Jai Opetaia vs Mairis Briedis - To Win the Bout,Mairis Briedis,-0.011700000000000016,0.2105,0.2222
 2024-01-30 13:03:28.437447,Super Bowl 58 Specials - Super Bowl LVIII Specials - Super Bowl receptions record of 14 catches be broken,Yes,-0.0121,0.1212,0.1333
 2024-01-30 19:05:52.573776,AFC Asian Cup - AFC Asian Cup 2023 - Winner,Australia,-0.012899999999999995,0.1538,0.1667
@@ -70,12 +74,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-01-30 19:06:08.132349,Mayakoba - Mayakoba - Winner,Jon Rahm,-0.01820000000000002,0.1818,0.2
 2024-01-30 13:03:24.885759,AFC Asian Cup - AFC Asian Cup 2023 - Winner,Tajikistan,-0.0189,0.0196,0.0385
 2024-01-30 19:05:52.702387,Championship - England Championship 2023/24 - To Be Relegated,Sheffield Wednesday,-0.018999999999999906,0.7143,0.7333
-2024-01-30 11:03:08.409692,NBL - NBL 2023/2024 - Regular Season MVP,Chris Goulding,-0.019099999999999992,0.0476,0.0667
 2024-01-30 19:05:53.169185,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Arsenal,-0.019699999999999995,0.1053,0.125
-2024-01-30 11:03:08.390303,NBL - NBL 2023/2024 - Outright,Perth Wildcats,-0.020799999999999985,0.3125,0.3333
 2024-01-30 19:06:05.322362,Boxing Lines - Romero Duno vs Antonio Moran - To Win the Bout,Romero Duno,-0.021299999999999986,0.2817,0.303
 2024-01-30 13:03:35.405760,Tournament Match-Ups - Tournament Match-Up - R. Fowler v T. Hoge - Tournament Match-Up,Rickie Fowler,-0.02169999999999994,0.5238,0.5455
-2024-01-30 11:03:08.390303,NBL - NBL 2023/2024 - Outright,Melbourne United,-0.021699999999999997,0.4545,0.4762
 2024-01-30 13:03:34.268408,Boxing Lines - Angelo Leo vs Mike Plania - To Win the Bout,Mike Plania,-0.022199999999999998,0.2,0.2222
 2024-01-30 21:08:35.525394,Tournament Match-Ups - Tournament Match-Up - D. McCarthy v B. Harman - Tournament Match-Up,Brian Harman,-0.023800000000000043,0.5,0.5238
 2024-01-30 13:03:27.873946,Super Bowl 58 Specials - Super Bowl LVIII Specials - -National Anthem - How Long Will It Take Reba McEntire To Sing The US National Anthem?,Over 1 Minute and 28 Seconds,-0.025599999999999956,0.5744,0.6
