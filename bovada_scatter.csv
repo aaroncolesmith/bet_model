@@ -1,12 +1,18 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-16 07:59:50.877407,Gran Hermano - Gran Hermano 2024 - Outright Winner,Rosina,0.16670000000000001,0.4167,0.25
 2024-02-16 07:59:50.877407,Gran Hermano - Gran Hermano 2024 - Outright Winner,Zoe,0.1524,0.2,0.0476
+2024-02-16 09:06:34.787478,Saudi Ladies International - Aramco Saudi Ladies International - Winner,Leona Maguire,0.1184,0.125,0.0066
+2024-02-16 09:06:34.787478,Saudi Ladies International - Aramco Saudi Ladies International - Winner,Patty Tavatanakit,0.10390000000000002,0.2857,0.1818
+2024-02-16 09:06:34.787478,Saudi Ladies International - Aramco Saudi Ladies International - Winner,Charley Hull,0.09720000000000001,0.125,0.0278
+2024-02-16 07:59:51.294427,NBA All-Star Specials - Slam Dunk Contest 2024 - Slam Dunk Contest Winner,Mac McClung (Osceola Magic),0.07790000000000008,0.7143,0.6364
 2024-02-16 07:59:58.927438,BKFC Prospect Series: Manassas - James Brown vs Bovar Khanakov - To Win the Bout,James Brown,0.06700000000000006,0.6226,0.5556
 2024-02-16 07:59:50.877407,Gran Hermano - Gran Hermano 2024 - Outright Winner,Martin,0.05859999999999999,0.0909,0.0323
 2024-02-16 07:59:59.014629,BKFC Prospect Series: Manassas - Micah Terrill vs Cameron VanCamp - To Win the Bout,Micah Terrill,0.051100000000000034,0.4082,0.3571
-2024-02-16 07:59:57.654481,College Baseball Futures - Big West Conference 2024 Winner - Big West Conference 2024 Regular Season Winner,UC Santa Barbara,0.045499999999999985,0.5455,0.5
 2024-02-16 07:59:57.554705,College Baseball Futures - Pac-12 Conference 2024 Winner - Pac-12 Conference 2024 Regular Season Winner,Oregon State,0.045499999999999985,0.5455,0.5
+2024-02-16 07:59:57.654481,College Baseball Futures - Big West Conference 2024 Winner - Big West Conference 2024 Regular Season Winner,UC Santa Barbara,0.045499999999999985,0.5455,0.5
+2024-02-16 09:06:34.787478,Saudi Ladies International - Aramco Saudi Ladies International - Winner,Manon De Roey,0.04440000000000001,0.1111,0.0667
 2024-02-16 07:59:59.321348,Genesis Invitational - 2/3 Balls - 2nd Round 3-Balls - J. Thomas / T. Woods / G. Woodland - 2nd Round 3-Balls,Justin Thomas,0.043399999999999994,0.5556,0.5122
+2024-02-16 09:06:34.787478,Saudi Ladies International - Aramco Saudi Ladies International - Winner,Nicole Broch Estrup,0.04329999999999999,0.0909,0.0476
 2024-02-16 07:59:51.247145,NBA All-Star Specials - 2024 NBA All-Star Celebrity Game - All-Star Celebrity Game - Player to Score the First Point of the Game,CJ Stroud,0.042899999999999994,0.1429,0.1
 2024-02-16 07:59:57.743752,College Baseball Futures - Sun Belt Conference 2024 Winner - Sun Belt Conference 2024 Regular Season Winner,Coastal Carolina,0.04099999999999998,0.3636,0.3226
 2024-02-16 07:59:58.347180,MLB Futures - MLB 2024 Regular Season Leaders - Player To Record The Most Saves,Evan Phillips (LAD),0.0389,0.0667,0.0278
@@ -16,6 +22,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-16 07:59:57.676699,College Baseball Futures - Coastal Athletic Association 2024 Winner - Coastal Athletic Association 2024 Regular Season Winner,Northeastern,0.035999999999999976,0.5122,0.4762
 2024-02-16 07:59:51.191942,Central Division - Central Division 2023-24 - Division Winner,Cleveland Cavaliers,0.035699999999999954,0.75,0.7143
 2024-02-16 07:59:49.575357,MLS - MLS 2024 - Requested Specials - MLS 2024 - Requested Specials,Orlando City to finish Regular Season with more points than Inter Miami,0.0353,0.2353,0.2
+2024-02-16 07:59:51.015947,Superhero Movie Specials - Deadpool & Wolverine - Who will Have More Kills in the Movie - Proposition,Deadpool,0.03479999999999994,0.6,0.5652
 2024-02-16 07:59:51.265553,NBA All-Star Specials - All-Star MVP 2024 - Winner,Tyrese Haliburton (IND),0.03330000000000001,0.1,0.0667
 2024-02-16 07:59:56.364257,MLB 2024 Regular Season Team Props - Baltimore Orioles Regular Season Win Total - Baltimore Orioles Regular Season Win Total,Under 91.5,0.033299999999999996,0.5455,0.5122
 2024-02-16 07:59:49.850110,UEFA Europa League - UEFA Europa League 2023/24 - Outright,AC Milan,0.027999999999999997,0.1333,0.1053
@@ -23,34 +30,42 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-16 07:59:57.720983,College Baseball Futures - Missouri Valley Conference 2024 Winner - Missouri Valley Conference 2024 Regular Season Winner,Indiana State,0.02750000000000008,0.6429,0.6154
 2024-02-16 07:59:58.524785,Boxing Lines - Lucas Pontes Da Silva vs Efetobor Apochi - To Win the Bout,Efetobor Apochi,0.025600000000000067,0.6923,0.6667
 2024-02-16 07:59:58.347180,MLB Futures - MLB 2024 Regular Season Leaders - Player To Record The Most Saves,Devin Williams (MIL),0.0245,0.0833,0.0588
-2024-02-16 07:59:50.842622,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Beatriz,0.023799999999999988,0.1667,0.1429
+2024-02-16 09:06:34.679844,Round Match-Ups - 2nd Round Match-Up - S. Burns vs V. Hovland - 2nd Round Match-Up,Sam Burns,0.023800000000000043,0.5238,0.5
 2024-02-16 07:59:51.202864,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,0.023799999999999988,0.3571,0.3333
+2024-02-16 07:59:50.842622,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Beatriz,0.023799999999999988,0.1667,0.1429
 2024-02-16 07:59:51.519630,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Victor Wembanyama (SAS),0.023799999999999932,0.8571,0.8333
 2024-02-16 07:59:51.841174,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,0.0233,0.0385,0.0152
 2024-02-16 07:59:50.877407,Gran Hermano - Gran Hermano 2024 - Outright Winner,Nicolas,0.023200000000000002,0.0476,0.0244
+2024-02-16 09:06:34.568769,Round Match-Ups - 2nd Round Match-Up - L. Glover v C. Hoffman - 2nd Round Match-Up,Charley Hoffman,0.022600000000000064,0.5348,0.5122
+2024-02-16 09:06:34.361455,Genesis Invitational - 2/3 Balls - 2nd Round 3-Balls - C. Morikawa / M. Fitzpatrick / S. Scheffler - 2nd Round 3-Balls,Collin Morikawa,0.018799999999999983,0.3636,0.3448
 2024-02-16 07:59:51.304450,NBA All-Star Specials - Three Point Contest 2024 - Three Point Contest Winner,Damian Lillard (MIL),0.01820000000000002,0.2,0.1818
 2024-02-16 07:59:51.484882,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Tyronn Lue,0.0179,0.1429,0.125
+2024-02-16 09:06:34.285453,BKFC Prospect Series: Manassas - Shawn Brooks vs Jordan Christensen - To Win the Bout,Jordan Christensen,0.017299999999999982,0.4255,0.4082
 2024-02-16 07:59:50.343338,CONCACAF Champions Cup - CONCACAF Champions Cup 2024 - Futures - Winner,Inter Miami,0.016699999999999993,0.2667,0.25
-2024-02-16 07:59:51.841174,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,0.016699999999999993,0.2667,0.25
 2024-02-16 07:59:49.901647,UEFA Europa Conference League - Europa Conference League 2023/24 - Winner,Aston Villa,0.016699999999999993,0.2667,0.25
+2024-02-16 07:59:51.841174,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,0.016699999999999993,0.2667,0.25
 2024-02-16 07:59:51.265553,NBA All-Star Specials - All-Star MVP 2024 - Winner,Anthony Edwards (MIN),0.016600000000000004,0.0833,0.0667
 2024-02-16 07:59:58.347180,MLB Futures - MLB 2024 Regular Season Leaders - Player To Record The Most Saves,Jhoan Duran (MIN),0.016600000000000004,0.0833,0.0667
+2024-02-16 09:06:34.787478,Saudi Ladies International - Aramco Saudi Ladies International - Winner,Pei-Yun Chien,0.0159,0.0323,0.0164
 2024-02-16 07:59:51.476331,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,LeBron James (LAL),0.0155,0.05,0.0345
-2024-02-16 07:59:50.877407,Gran Hermano - Gran Hermano 2024 - Outright Winner,Lisandro,0.015300000000000001,0.0476,0.0323
 2024-02-16 07:59:50.877407,Gran Hermano - Gran Hermano 2024 - Outright Winner,Bautista,0.015300000000000001,0.0476,0.0323
+2024-02-16 07:59:50.877407,Gran Hermano - Gran Hermano 2024 - Outright Winner,Lisandro,0.015300000000000001,0.0476,0.0323
 2024-02-16 07:59:51.476331,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Damian Lillard (MIL),0.015100000000000002,0.1818,0.1667
 2024-02-16 07:59:58.454497,Boxing Lines - Shavkatdzhon Rakhimov vs Eduardo Nunez - To Win the Bout,Eduardo Nunez,0.015100000000000002,0.3774,0.3623
 2024-02-16 07:59:50.343338,CONCACAF Champions Cup - CONCACAF Champions Cup 2024 - Futures - Winner,Club América,0.015100000000000002,0.1818,0.1667
 2024-02-16 07:59:58.607451,Boxing Lines - Israel Rodriguez Picazo vs Ramon Cardenas - To Win the Bout,Israel Rodriguez Picazo,0.014800000000000035,0.6226,0.6078
-2024-02-16 07:59:50.343338,CONCACAF Champions Cup - CONCACAF Champions Cup 2024 - Futures - Winner,Herediano,0.0145,0.0244,0.0099
+2024-02-16 07:59:51.149411,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning State,Field,0.014700000000000046,0.7647,0.75
 2024-02-16 07:59:51.476331,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,DeMar DeRozan (CHI),0.0145,0.0244,0.0099
-2024-02-16 07:59:50.842622,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Fernanda,0.013999999999999999,0.0909,0.0769
+2024-02-16 07:59:50.343338,CONCACAF Champions Cup - CONCACAF Champions Cup 2024 - Futures - Winner,Herediano,0.0145,0.0244,0.0099
 2024-02-16 07:59:49.901647,UEFA Europa Conference League - Europa Conference League 2023/24 - Winner,Lille,0.013999999999999999,0.0909,0.0769
+2024-02-16 09:06:34.787478,Saudi Ladies International - Aramco Saudi Ladies International - Winner,Amy Yang,0.013999999999999999,0.0909,0.0769
+2024-02-16 07:59:50.842622,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Fernanda,0.013999999999999999,0.0909,0.0769
 2024-02-16 07:59:51.484882,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,0.01150000000000001,0.3448,0.3333
 2024-02-16 07:59:51.484882,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Michael Malone,0.0114,0.0164,0.005
 2024-02-16 07:59:51.214053,Pacific Division - Pacific Division 2023-24 - Division Winner,Phoenix Suns,0.011199999999999995,0.0588,0.0476
 2024-02-16 07:59:51.224879,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,0.011099999999999999,0.4762,0.4651
 2024-02-16 07:59:51.304450,NBA All-Star Specials - Three Point Contest 2024 - Three Point Contest Winner,Trae Young (ATL),0.010899999999999993,0.1538,0.1429
+2024-02-16 09:06:34.787478,Saudi Ladies International - Aramco Saudi Ladies International - Winner,Georgia Hall,0.010700000000000001,0.0385,0.0278
 2024-02-16 07:59:57.743752,College Baseball Futures - Sun Belt Conference 2024 Winner - Sun Belt Conference 2024 Regular Season Winner,Troy,0.010499999999999982,0.2105,0.2
 2024-02-16 07:59:51.510322,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Jayson Tatum (BOS),0.010300000000000002,0.0244,0.0141
 2024-02-16 07:59:51.265553,NBA All-Star Specials - All-Star MVP 2024 - Winner,Shai Gilgeous-Alexander (OKC),0.0102,0.0769,0.0667
@@ -64,29 +79,46 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-16 07:59:51.265553,NBA All-Star Specials - All-Star MVP 2024 - Winner,Giannis Antetokounmpo (MIL),-0.010899999999999993,0.1429,0.1538
 2024-02-16 07:59:51.510322,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Kawhi Leonard (LAC),-0.012700000000000003,0.0196,0.0323
 2024-02-16 07:59:51.501952,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Coby White (CHI),-0.012899999999999995,0.1538,0.1667
+2024-02-16 09:06:34.787478,Saudi Ladies International - Aramco Saudi Ladies International - Winner,Yuna Nishimura,-0.0132,0.002,0.0152
+2024-02-16 09:06:34.787478,Saudi Ladies International - Aramco Saudi Ladies International - Winner,Olivia Cowan,-0.0139,0.0057,0.0196
+2024-02-16 09:06:34.787478,Saudi Ladies International - Aramco Saudi Ladies International - Winner,Paula Reto,-0.014099999999999998,0.0244,0.0385
 2024-02-16 07:59:49.850110,UEFA Europa League - UEFA Europa League 2023/24 - Outright,Rennes,-0.014599999999999998,0.005,0.0196
+2024-02-16 09:06:34.787478,Saudi Ladies International - Aramco Saudi Ladies International - Winner,Anne Van Dam,-0.014599999999999998,0.005,0.0196
+2024-02-16 09:06:34.361455,Genesis Invitational - 2/3 Balls - 2nd Round 3-Balls - C. Morikawa / M. Fitzpatrick / S. Scheffler - 2nd Round 3-Balls,Matt Fitzpatrick,-0.01469999999999999,0.2353,0.25
 2024-02-16 07:59:59.026428,BKFC Prospect Series: Manassas - Stanislav Grosu vs Brandon Shavers - To Win the Bout,Brandon Shavers,-0.014800000000000035,0.6078,0.6226
 2024-02-16 07:59:51.467827,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Jordan Clarkson (UTA),-0.015300000000000001,0.0323,0.0476
 2024-02-16 07:59:51.235893,Southwest Division - Southwest Division 2023-24 - Division Winner,Dallas Mavericks,-0.015400000000000025,0.3846,0.4
 2024-02-16 07:59:51.304450,NBA All-Star Specials - Three Point Contest 2024 - Three Point Contest Winner,Lauri Markkanen (UTA),-0.015700000000000006,0.1176,0.1333
+2024-02-16 09:06:34.787478,Saudi Ladies International - Aramco Saudi Ladies International - Winner,Emily Pedersen,-0.0159,0.0164,0.0323
 2024-02-16 07:59:59.321348,Genesis Invitational - 2/3 Balls - 2nd Round 3-Balls - J. Thomas / T. Woods / G. Woodland - 2nd Round 3-Balls,Gary Woodland,-0.01629999999999998,0.2778,0.2941
 2024-02-16 07:59:49.575357,MLS - MLS 2024 - Requested Specials - MLS 2024 - Requested Specials,Austin FC to make the playoffs,-0.01759999999999995,0.6491,0.6667
-2024-02-16 07:59:51.304450,NBA All-Star Specials - Three Point Contest 2024 - Three Point Contest Winner,Karl Anthony-Towns (MIN),-0.0179,0.125,0.1429
 2024-02-16 07:59:51.304450,NBA All-Star Specials - Three Point Contest 2024 - Three Point Contest Winner,Jalen Brunson (NYK),-0.0179,0.125,0.1429
-2024-02-16 07:59:51.476331,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Shai Gilgeous-Alexander (OKC),-0.01820000000000002,0.1818,0.2
+2024-02-16 07:59:51.304450,NBA All-Star Specials - Three Point Contest 2024 - Three Point Contest Winner,Karl Anthony-Towns (MIN),-0.0179,0.125,0.1429
 2024-02-16 07:59:51.519630,NBA Awards - NBA Awards 2023-24 - Rookie of the Year,Chet Holmgren (OKC),-0.01820000000000002,0.1818,0.2
+2024-02-16 07:59:51.476331,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Shai Gilgeous-Alexander (OKC),-0.01820000000000002,0.1818,0.2
 2024-02-16 07:59:50.842622,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Bin Laden,-0.0189,0.0196,0.0385
+2024-02-16 09:06:34.787478,Saudi Ladies International - Aramco Saudi Ladies International - Winner,So Mi Lee,-0.020000000000000004,0.0123,0.0323
 2024-02-16 07:59:51.304450,NBA All-Star Specials - Three Point Contest 2024 - Three Point Contest Winner,Malik Beasley (MIL),-0.02049999999999999,0.1333,0.1538
 2024-02-16 07:59:51.467827,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Malik Monk (SAC),-0.02169999999999994,0.5238,0.5455
+2024-02-16 09:06:34.679844,Round Match-Ups - 2nd Round Match-Up - S. Burns vs V. Hovland - 2nd Round Match-Up,Viktor Hovland,-0.02169999999999994,0.5238,0.5455
+2024-02-16 09:06:34.787478,Saudi Ladies International - Aramco Saudi Ladies International - Winner,Alessandra Fanali,-0.022400000000000003,0.0099,0.0323
+2024-02-16 09:06:34.787478,Saudi Ladies International - Aramco Saudi Ladies International - Winner,Mao Saigo,-0.022400000000000003,0.002,0.0244
 2024-02-16 07:59:59.321348,Genesis Invitational - 2/3 Balls - 2nd Round 3-Balls - J. Thomas / T. Woods / G. Woodland - 2nd Round 3-Balls,Tiger Woods,-0.02250000000000002,0.2632,0.2857
+2024-02-16 09:06:34.568769,Round Match-Ups - 2nd Round Match-Up - L. Glover v C. Hoffman - 2nd Round Match-Up,Lucas Glover,-0.022600000000000064,0.5122,0.5348
 2024-02-16 07:59:51.841174,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.023799999999999988,0.4762,0.5
+2024-02-16 09:06:34.787478,Saudi Ladies International - Aramco Saudi Ladies International - Winner,Lindy Duncan,-0.0244,0.0079,0.0323
 2024-02-16 07:59:51.501952,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Tyrese Maxey (PHI),-0.026800000000000046,0.6875,0.7143
 2024-02-16 07:59:58.524785,Boxing Lines - Lucas Pontes Da Silva vs Efetobor Apochi - To Win the Bout,Lucas Pontes Da Silva,-0.029600000000000015,0.3704,0.4
 2024-02-16 07:59:50.877407,Gran Hermano - Gran Hermano 2024 - Outright Winner,Emmanuel,-0.030199999999999998,0.0323,0.0625
 2024-02-16 07:59:56.364257,MLB 2024 Regular Season Team Props - Baltimore Orioles Regular Season Win Total - Baltimore Orioles Regular Season Win Total,Over 91.5,-0.03179999999999994,0.5238,0.5556
 2024-02-16 07:59:51.224879,Southeast Division - Southeast Division 2023-24 - Division Winner,Miami Heat,-0.03639999999999999,0.6,0.6364
 2024-02-16 07:59:51.294427,NBA All-Star Specials - Slam Dunk Contest 2024 - Slam Dunk Contest Winner,Jacob Toppin (NYK),-0.03889999999999999,0.1429,0.1818
+2024-02-16 09:06:34.787478,Saudi Ladies International - Aramco Saudi Ladies International - Winner,Carlota Ciganda,-0.04229999999999999,0.0244,0.0667
+2024-02-16 07:59:51.015947,Superhero Movie Specials - Deadpool & Wolverine - Who will Have More Kills in the Movie - Proposition,Wolverine,-0.04760000000000003,0.4762,0.5238
 2024-02-16 07:59:59.014629,BKFC Prospect Series: Manassas - Micah Terrill vs Cameron VanCamp - To Win the Bout,Cameron VanCamp,-0.05069999999999997,0.6552,0.7059
+2024-02-16 09:06:34.787478,Saudi Ladies International - Aramco Saudi Ladies International - Winner,Ayaka Furue,-0.0635,0.0476,0.1111
+2024-02-16 09:06:34.787478,Saudi Ladies International - Aramco Saudi Ladies International - Winner,Jiyai Shin,-0.0647,0.002,0.0667
 2024-02-16 07:59:58.927438,BKFC Prospect Series: Manassas - James Brown vs Bovar Khanakov - To Win the Bout,Bovar Khanakov,-0.06579999999999997,0.4464,0.5122
+2024-02-16 09:06:34.787478,Saudi Ladies International - Aramco Saudi Ladies International - Winner,Lexi Thompson,-0.07339999999999999,0.0099,0.0833
 2024-02-16 07:59:50.877407,Gran Hermano - Gran Hermano 2024 - Outright Winner,Federico,-0.0927,0.0323,0.125
 2024-02-16 07:59:50.877407,Gran Hermano - Gran Hermano 2024 - Outright Winner,Lucia,-0.1524,0.0476,0.2
