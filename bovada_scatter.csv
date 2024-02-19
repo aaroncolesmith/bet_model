@@ -30,8 +30,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-18 17:00:56.870227,96th Academy Awards - Best Animated Feature - Best Animated Feature,The Boy And The Heron,0.05070000000000002,0.4762,0.4255
 2024-02-18 17:00:56.776612,96th Academy Awards - Best Actor - Best Actor,Cillian Murphy - Oppenheimer,0.050000000000000044,0.8,0.75
 2024-02-18 17:00:57.714400,NBL - NBL 2023/2024 - To Make Grand Final,Melbourne United,0.050000000000000044,0.8,0.75
-2024-02-18 15:03:44.612359,96th Academy Awards - Best Picture - Best Picture,Oppenheimer,0.043300000000000005,0.9524,0.9091
 2024-02-18 17:00:56.851689,96th Academy Awards - Best Supporting Actor - Best Supporting Actor,"Robert Downey, Jr - Oppenheimer",0.043300000000000005,0.9524,0.9091
+2024-02-18 15:03:44.612359,96th Academy Awards - Best Picture - Best Picture,Oppenheimer,0.043300000000000005,0.9524,0.9091
 2024-02-18 17:00:56.953783,96th Academy Awards - Best Make Up & Hairstyling - Best Make Up & Hairstyling,Society Of The Snow,0.04120000000000001,0.1,0.0588
 2024-02-18 19:02:40.310455,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Kilmarnock,0.03920000000000001,0.9804,0.9412
 2024-02-18 17:00:56.233354,A-League - Australia A-League 2023/24 - Top 6 Finish,Wellington Phoenix,0.03839999999999999,0.9615,0.9231
@@ -47,16 +47,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-18 17:00:56.991212,96th Academy Awards - Best Visual Effects - Best Visual Effects,Godzilla Minus One,0.024399999999999977,0.5122,0.4878
 2024-02-18 17:00:56.821240,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,Past Lives,0.0242,0.0909,0.0667
 2024-02-18 17:00:56.250253,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Central Coast Mariners,0.022199999999999998,0.2222,0.2
+2024-02-19 00:59:57.750622,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Boston Red Sox - Triston Casas Total RBIs,Over 80.5,0.02079999999999993,0.5556,0.5348
 2024-02-18 17:00:56.812412,96th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,The Zone Of Interest,0.019800000000000005,0.0476,0.0278
-2024-02-18 19:02:40.260870,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Hvidovre IF,0.019199999999999995,0.9901,0.9709
 2024-02-18 19:02:40.296587,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Hearts,0.019199999999999995,0.9901,0.9709
+2024-02-18 19:02:40.260870,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Hvidovre IF,0.019199999999999995,0.9901,0.9709
 2024-02-18 15:03:44.346255,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Sheffield United,0.019100000000000006,0.9524,0.9333
 2024-02-18 17:00:56.860779,96th Academy Awards - Best Supporting Actress - Best Supporting Actress,America Ferrera - Barbie,0.019000000000000003,0.0625,0.0435
 2024-02-18 19:02:40.271179,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Copenhagen,0.018100000000000005,0.9412,0.9231
 2024-02-18 17:00:56.944651,96th Academy Awards - Best Live Action Short - Best Live Action Short,"Red, White & Blue",0.018099999999999998,0.0769,0.0588
+2024-02-18 23:06:29.364642,NFL Draft '24 - Draft Picks - #2 Pick,J.J. McCarthy,0.0179,0.1429,0.125
 2024-02-18 17:00:56.944651,96th Academy Awards - Best Live Action Short - Best Live Action Short,Knight Of Fortune,0.0179,0.1429,0.125
 2024-02-18 17:00:56.205460,A-League - Australia A-League 2023/24 - Grand Final Winner,Sydney FC,0.0179,0.1429,0.125
-2024-02-18 23:06:29.364642,NFL Draft '24 - Draft Picks - #2 Pick,J.J. McCarthy,0.0179,0.1429,0.125
 2024-02-18 17:00:56.860779,96th Academy Awards - Best Supporting Actress - Best Supporting Actress,DaVine Joy Randolph - The Holdovers,0.015699999999999936,0.9681,0.9524
 2024-02-18 19:02:40.278340,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,AGF Aarhus,0.015599999999999947,0.996,0.9804
 2024-02-18 17:00:57.714400,NBL - NBL 2023/2024 - To Make Grand Final,Tasmania JackJumpers,0.015400000000000025,0.4,0.3846
@@ -75,28 +76,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-18 17:00:56.879520,96th Academy Awards - Best Animated Short - Best Animated Short,Letter To A Pig,0.011499999999999955,0.6667,0.6552
 2024-02-18 17:00:56.217118,A-League - Australia A-League 2023/24 - To Finish Bottom,Brisbane Roar,0.011199999999999995,0.0588,0.0476
 2024-02-18 17:00:56.935758,96th Academy Awards - Best International Feature - Best International Feature,Io capitano,0.011199999999999995,0.0588,0.0476
-2024-02-18 17:00:56.793832,96th Academy Awards - Best Actress - Best Actress,Sandra Huller - Anatomy Of A Fall,0.0102,0.0769,0.0667
 2024-02-18 15:03:44.346255,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Brentford,0.0102,0.0769,0.0667
+2024-02-18 17:00:56.793832,96th Academy Awards - Best Actress - Best Actress,Sandra Huller - Anatomy Of A Fall,0.0102,0.0769,0.0667
+2024-02-19 01:00:01.436501,MLB 2024 Regular Season Team Props - Seattle Mariners Regular Season Win Total - Seattle Mariners Regular Season Win Total,Over 87.5,0.010099999999999998,0.5556,0.5455
 2024-02-18 23:06:39.721213,Boxing Lines - Abass Baraou vs Sam Eggington - To Win the Bout,Sam Eggington,-0.011099999999999999,0.4651,0.4762
 2024-02-18 17:00:56.205460,A-League - Australia A-League 2023/24 - Grand Final Winner,Macarthur FC,-0.011099999999999999,0.1,0.1111
+2024-02-19 01:00:01.436501,MLB 2024 Regular Season Team Props - Seattle Mariners Regular Season Win Total - Seattle Mariners Regular Season Win Total,Under 87.5,-0.011600000000000055,0.5122,0.5238
 2024-02-18 15:03:44.346255,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Crystal Palace,-0.012899999999999995,0.1538,0.1667
 2024-02-18 17:00:56.233354,A-League - Australia A-League 2023/24 - Top 6 Finish,Adelaide United,-0.013800000000000034,0.3636,0.3774
+2024-02-18 17:00:56.851689,96th Academy Awards - Best Supporting Actor - Best Supporting Actor,Ryan Gosling - Barbie,-0.013899999999999996,0.1111,0.125
 2024-02-18 17:00:56.205460,A-League - Australia A-League 2023/24 - Grand Final Winner,Western Sydney Wanderers,-0.013899999999999996,0.1111,0.125
 2024-02-18 17:00:56.233354,A-League - Australia A-League 2023/24 - Top 6 Finish,Newcastle United Jets,-0.013899999999999996,0.1111,0.125
-2024-02-18 17:00:56.851689,96th Academy Awards - Best Supporting Actor - Best Supporting Actor,Ryan Gosling - Barbie,-0.013899999999999996,0.1111,0.125
 2024-02-18 17:00:57.714400,NBL - NBL 2023/2024 - To Make Grand Final,Sydney Kings,-0.013999999999999999,0.0769,0.0909
 2024-02-18 17:00:57.697511,NBL - NBL 2023/2024 - Outright,Sydney Kings,-0.014100000000000001,0.0385,0.0526
 2024-02-18 17:00:56.860779,96th Academy Awards - Best Supporting Actress - Best Supporting Actress,Emily Blunt - Oppenheimer,-0.014399999999999996,0.0625,0.0769
 2024-02-18 17:00:56.981541,96th Academy Awards - Best Sound - Best Sound,Maestro,-0.014399999999999996,0.0625,0.0769
 2024-02-18 19:02:39.905344,Ligue 1 - France Ligue 1 2023/24 - Winner,Nice,-0.0145,0.0099,0.0244
-2024-02-18 17:00:56.803078,96th Academy Awards - Best Director - Best Director,Yorgos Lanthimos - Poor Things,-0.014899999999999997,0.0476,0.0625
-2024-02-18 17:00:56.803078,96th Academy Awards - Best Director - Best Director,Justine Triet - Anatomy Of A Fall,-0.014899999999999997,0.0476,0.0625
 2024-02-18 17:00:56.803078,96th Academy Awards - Best Director - Best Director,Martin Scorsese - Killers of the Flower Moon,-0.014899999999999997,0.0476,0.0625
+2024-02-18 17:00:56.803078,96th Academy Awards - Best Director - Best Director,Justine Triet - Anatomy Of A Fall,-0.014899999999999997,0.0476,0.0625
+2024-02-18 17:00:56.803078,96th Academy Awards - Best Director - Best Director,Yorgos Lanthimos - Poor Things,-0.014899999999999997,0.0476,0.0625
 2024-02-18 19:02:40.278340,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Silkeborg IF,-0.014900000000000024,0.9375,0.9524
 2024-02-18 23:06:29.364642,NFL Draft '24 - Draft Picks - #2 Pick,Drake Maye,-0.016699999999999937,0.5833,0.6
 2024-02-18 15:03:44.612359,96th Academy Awards - Best Picture - Best Picture,Poor Things,-0.018099999999999998,0.0588,0.0769
 2024-02-18 17:00:56.233354,A-League - Australia A-League 2023/24 - Top 6 Finish,Western Sydney Wanderers,-0.018999999999999906,0.7143,0.7333
 2024-02-18 17:00:56.860779,96th Academy Awards - Best Supporting Actress - Best Supporting Actress,Danielle Brooks - The Color Purple,-0.0208,0.0625,0.0833
+2024-02-19 00:59:57.750622,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Boston Red Sox - Triston Casas Total RBIs,Under 80.5,-0.022600000000000064,0.5122,0.5348
 2024-02-18 19:02:40.296587,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,St. Mirren,-0.023200000000000002,0.0244,0.0476
 2024-02-18 15:03:44.346255,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Everton,-0.02779999999999999,0.2222,0.25
 2024-02-18 17:00:56.888623,96th Academy Awards - Best Cinematography - Best Cinematography,Killers Of The Flower Moon - Rodrigo Prieto,-0.028399999999999995,0.0625,0.0909
