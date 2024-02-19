@@ -1,13 +1,8 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-02-18 17:00:56.812412,96th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,American Fiction,0.2889,0.5556,0.2667
-2024-02-18 17:00:56.981541,96th Academy Awards - Best Sound - Best Sound,The Zone Of Interest,0.2091,0.4444,0.2353
-2024-02-18 17:00:56.898299,96th Academy Awards - Best Costume Design - Best Costume Design,Poor Things,0.19050000000000006,0.5238,0.3333
 2024-02-19 04:59:11.961737,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Brest,0.16670000000000001,0.5,0.3333
 2024-02-18 19:02:39.830999,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayer Leverkusen,0.16479999999999995,0.8571,0.6923
-2024-02-18 17:00:56.953783,96th Academy Awards - Best Make Up & Hairstyling - Best Make Up & Hairstyling,Poor Things,0.15740000000000004,0.4651,0.3077
 2024-02-19 04:59:13.153993,Screen Actors Guild Awards - Outstanding Performance By A Female Actor In A Leading Role - Leading Female Actor,Emma Stone (Poor Things),0.15559999999999996,0.5556,0.4
 2024-02-19 04:59:12.304497,First Division A - Belgium First Division A 2023/24 - Outright,Union Saint-Gilloise,0.1552,0.7778,0.6226
-2024-02-18 17:00:56.972438,96th Academy Awards - Best Production Design - Best Production Design,Poor Things,0.1533,0.5455,0.3922
 2024-02-18 19:02:40.303637,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Ross County,0.13190000000000002,0.2857,0.1538
 2024-02-19 04:59:11.954897,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Clermont Foot,0.12119999999999997,0.6667,0.5455
 2024-02-19 04:59:11.942273,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Lille,0.11900000000000002,0.2857,0.1667
@@ -15,139 +10,96 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-19 04:59:11.884751,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Atalanta,0.11259999999999992,0.6364,0.5238
 2024-02-18 19:02:40.317560,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,St. Mirren,0.10390000000000002,0.2857,0.1818
 2024-02-18 19:02:40.271179,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Brøndby IF,0.10389999999999999,0.8182,0.7143
-2024-02-18 17:00:56.917008,96th Academy Awards - Best Documentary Short - Best Documentary Short,The Last Repair Shop,0.10150000000000003,0.4348,0.3333
 2024-02-18 19:02:40.248710,Superligaen - Denmark Superligaen 2023/24 - Winner,Brøndby IF,0.096,0.2778,0.1818
 2024-02-18 19:02:40.310455,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Dundee FC,0.09090000000000004,0.4545,0.3636
 2024-02-18 19:02:40.289340,Premiership - Scotland Premiership 2023/24 - Winner,Rangers,0.09089999999999998,0.6364,0.5455
-2024-02-18 17:00:56.821240,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,Anatomy Of A Fall,0.08330000000000004,0.75,0.6667
-2024-02-18 17:00:56.250253,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Wellington Phoenix,0.08329999999999999,0.3333,0.25
-2024-02-18 17:00:56.793832,96th Academy Awards - Best Actress - Best Actress,Emma Stone - Poor Things,0.07690000000000008,0.6923,0.6154
+2024-02-19 06:59:33.205766,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the 2020 election result federal charges? - Election Result Federal Trial,No,0.08750000000000002,0.4,0.3125
 2024-02-19 04:59:11.969316,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Rennes,0.07619999999999999,0.4762,0.4
-2024-02-19 04:59:11.942273,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Brest,0.07579999999999999,0.1667,0.0909
 2024-02-18 19:02:40.260870,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Lyngby BK,0.07579999999999999,0.1667,0.0909
-2024-02-18 17:00:56.907993,96th Academy Awards - Best Documentary Feature - Best Documentary Feature,20 Days In Mariupol,0.07579999999999998,0.9091,0.8333
-2024-02-18 17:00:56.879520,96th Academy Awards - Best Animated Short - Best Animated Short,Ninety-Five Senses,0.07500000000000001,0.2,0.125
-2024-02-18 17:00:57.714400,NBL - NBL 2023/2024 - To Make Grand Final,Illawarra Hawks,0.06820000000000001,0.25,0.1818
+2024-02-19 04:59:11.942273,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Brest,0.07579999999999999,0.1667,0.0909
 2024-02-18 19:02:40.317560,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Aberdeen,0.06700000000000006,0.6226,0.5556
 2024-02-18 19:02:40.310455,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Hibernian,0.06670000000000004,0.4,0.3333
 2024-02-19 04:59:11.837389,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,FC Köln,0.05980000000000002,0.4444,0.3846
 2024-02-19 02:59:48.162283,Caitlin Clark Specials - Caitlin Clark Specials - Proposition,Caitlin Clark to Declare for WNBA Draft in 2024,0.05860000000000004,0.5348,0.4762
 2024-02-19 04:59:11.954897,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Metz,0.057699999999999974,0.75,0.6923
-2024-02-19 04:59:11.969316,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Lens,0.057699999999999974,0.75,0.6923
 2024-02-19 04:59:11.969316,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Brest,0.057699999999999974,0.75,0.6923
-2024-02-18 17:00:56.991212,96th Academy Awards - Best Visual Effects - Best Visual Effects,Napoleon,0.05679999999999999,0.1818,0.125
+2024-02-19 04:59:11.969316,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Lens,0.057699999999999974,0.75,0.6923
 2024-02-19 04:59:11.969316,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Lille,0.05679999999999996,0.875,0.8182
 2024-02-18 19:02:40.260870,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Viborg FF,0.05559999999999998,0.1667,0.1111
-2024-02-18 17:00:56.944651,96th Academy Awards - Best Live Action Short - Best Live Action Short,The After,0.052000000000000005,0.1429,0.0909
 2024-02-19 04:59:11.884751,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Bologna,0.05080000000000001,0.2326,0.1818
-2024-02-18 17:00:56.870227,96th Academy Awards - Best Animated Feature - Best Animated Feature,The Boy And The Heron,0.05070000000000002,0.4762,0.4255
-2024-02-18 17:00:57.714400,NBL - NBL 2023/2024 - To Make Grand Final,Melbourne United,0.050000000000000044,0.8,0.75
-2024-02-18 17:00:56.776612,96th Academy Awards - Best Actor - Best Actor,Cillian Murphy - Oppenheimer,0.050000000000000044,0.8,0.75
-2024-02-19 04:59:11.954897,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Nantes,0.04999999999999999,0.25,0.2
 2024-02-19 04:59:12.348379,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Holstein Kiel,0.04999999999999999,0.25,0.2
+2024-02-19 04:59:11.954897,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Nantes,0.04999999999999999,0.25,0.2
 2024-02-19 02:59:47.232295,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Davi,0.04760000000000009,0.7143,0.6667
 2024-02-19 04:59:11.845082,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,RB Leipzig,0.04760000000000009,0.7143,0.6667
-2024-02-18 17:00:56.851689,96th Academy Awards - Best Supporting Actor - Best Supporting Actor,"Robert Downey, Jr - Oppenheimer",0.043300000000000005,0.9524,0.9091
+2024-02-19 06:59:33.483155,UK Politics - UK Government After Next General Election - UK Govt After Next Election,Labour Majority,0.04380000000000006,0.8333,0.7895
+2024-02-19 06:59:33.494345,UK Politics - UK Overall Majority After Next General Election - UK Overall Majority After Next Election,Labour,0.04380000000000006,0.8333,0.7895
 2024-02-19 04:59:11.845082,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,VfB Stuttgart,0.04169999999999996,0.875,0.8333
-2024-02-18 17:00:56.953783,96th Academy Awards - Best Make Up & Hairstyling - Best Make Up & Hairstyling,Society Of The Snow,0.04120000000000001,0.1,0.0588
 2024-02-19 02:59:46.311326,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Independiente,0.0407,0.1176,0.0769
 2024-02-19 04:59:13.164961,Screen Actors Guild Awards - Outstanding Performance By A Male Actor In A Leading Role - Leading Male Actor,Cillian Murphy (Oppenheimer),0.0393,0.6226,0.5833
 2024-02-18 19:02:40.310455,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Kilmarnock,0.03920000000000001,0.9804,0.9412
 2024-02-19 04:59:11.871851,Serie A - Italy Serie A 2023/24 - To Be Relegated,Lecce,0.03889999999999999,0.1818,0.1429
-2024-02-18 17:00:56.233354,A-League - Australia A-League 2023/24 - Top 6 Finish,Wellington Phoenix,0.03839999999999999,0.9615,0.9231
+2024-02-19 06:59:33.226875,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the classified documents federal charges? - Classified Documents Federal Trial,No,0.038000000000000034,0.3279,0.2899
 2024-02-19 04:59:11.878700,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Salernitana,0.035699999999999954,0.75,0.7143
-2024-02-18 17:00:56.935758,96th Academy Awards - Best International Feature - Best International Feature,The Zone Of Interest,0.03479999999999994,0.9681,0.9333
-2024-02-18 17:00:56.907993,96th Academy Awards - Best Documentary Feature - Best Documentary Feature,Bobi Wine: The People's President,0.03330000000000001,0.1,0.0667
 2024-02-19 04:59:11.871851,Serie A - Italy Serie A 2023/24 - To Be Relegated,Frosinone,0.03259999999999999,0.2326,0.2
 2024-02-19 04:59:11.871851,Serie A - Italy Serie A 2023/24 - To Be Relegated,Salernitana,0.03210000000000002,0.9412,0.9091
 2024-02-19 04:59:12.348379,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,St. Pauli,0.03179999999999994,0.5556,0.5238
-2024-02-18 17:00:57.714400,NBL - NBL 2023/2024 - To Make Grand Final,Perth Wildcats,0.02960000000000007,0.6296,0.6
-2024-02-18 17:00:56.925897,96th Academy Awards - Best Film Editing - Best Film Editing,Oppenheimer,0.02839999999999998,0.9375,0.9091
 2024-02-18 19:02:40.317560,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Motherwell,0.028200000000000003,0.9615,0.9333
 2024-02-19 04:59:11.837389,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Augsburg,0.027800000000000005,0.1111,0.0833
 2024-02-19 02:59:46.943948,96th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,American Fiction,0.027700000000000058,0.5833,0.5556
 2024-02-18 23:06:29.364642,NFL Draft '24 - Draft Picks - #2 Pick,Jayden Daniels,0.027700000000000002,0.4444,0.4167
-2024-02-18 17:00:56.888623,96th Academy Awards - Best Cinematography - Best Cinematography,Oppenheimer - Hoyte van Hoytema,0.026899999999999924,0.9681,0.9412
+2024-02-19 06:59:33.247892,Donald Trump Specials - Will Joe Biden pardon Donald Trump? - Will Joe Biden pardon Donald Trump?,Joe Biden NOT to pardon Donald Trump before the 2024 election,0.025899999999999923,0.9671,0.9412
 2024-02-19 04:59:18.159787,MLB 2024 Regular Season Team Props - MLB 2024 Regular Season Team Specials - MLB 2024 Regular Season Team Specials,"LAD, ATL, NYY, PHI, HOU, TEX & BAL All To Win 80+ Regular Season Games Each",0.025600000000000067,0.6923,0.6667
-2024-02-18 17:00:56.233354,A-League - Australia A-League 2023/24 - Top 6 Finish,Sydney FC,0.025600000000000067,0.6923,0.6667
+2024-02-19 06:59:33.076403,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,0.02529999999999999,0.2105,0.1852
+2024-02-19 06:59:33.483155,UK Politics - UK Government After Next General Election - UK Govt After Next Election,Labour Minority,0.024800000000000016,0.2353,0.2105
 2024-02-19 04:59:18.592683,MLB 2024 Regular Season Team Props - Kansas City Royals To Make The Playoffs - Kansas City Royals To Make The Playoffs,Yes,0.024800000000000016,0.2353,0.2105
-2024-02-18 17:00:56.991212,96th Academy Awards - Best Visual Effects - Best Visual Effects,Godzilla Minus One,0.024399999999999977,0.5122,0.4878
 2024-02-18 19:02:40.248710,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Copenhagen,0.024399999999999977,0.5122,0.4878
-2024-02-18 17:00:56.821240,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,Past Lives,0.0242,0.0909,0.0667
-2024-02-19 04:59:12.417746,Super Lig - Turkey Super Lig 2023/24 - Winner,Fenerbahce,0.023799999999999988,0.5,0.4762
+2024-02-19 06:59:33.062254,Joe Biden Specials - Joe Biden Approval Rating June 30th 2024 - Joe Biden Approval Rating June 30th 2024,40% or over,0.023799999999999988,0.5,0.4762
 2024-02-19 04:59:11.884751,Serie A - Italy Serie A 2023/24 - Top 4 Finish,AS Roma,0.023799999999999988,0.1667,0.1429
+2024-02-19 04:59:12.417746,Super Lig - Turkey Super Lig 2023/24 - Winner,Fenerbahce,0.023799999999999988,0.5,0.4762
 2024-02-19 04:59:13.142710,Screen Actors Guild Awards - Outstanding Performance By A Cast In A Motion Picture - Cast Motion Picture,Oppenheimer,0.023799999999999932,0.8571,0.8333
-2024-02-19 04:59:12.304497,First Division A - Belgium First Division A 2023/24 - Outright,Anderlecht,0.022199999999999998,0.2222,0.2
-2024-02-18 17:00:56.250253,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Central Coast Mariners,0.022199999999999998,0.2222,0.2
 2024-02-19 04:59:19.023197,MLB 2024 Regular Season Team Props - San Diego Padres To Make The Playoffs - San Diego Padres To Make The Playoffs,Yes,0.022199999999999998,0.3448,0.3226
+2024-02-19 04:59:12.304497,First Division A - Belgium First Division A 2023/24 - Outright,Anderlecht,0.022199999999999998,0.2222,0.2
 2024-02-19 00:59:57.750622,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Boston Red Sox - Triston Casas Total RBIs,Over 80.5,0.02079999999999993,0.5556,0.5348
-2024-02-18 17:00:56.812412,96th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,The Zone Of Interest,0.019800000000000005,0.0476,0.0278
 2024-02-18 19:02:40.260870,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Hvidovre IF,0.019199999999999995,0.9901,0.9709
 2024-02-18 19:02:40.296587,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Hearts,0.019199999999999995,0.9901,0.9709
 2024-02-19 04:59:12.442720,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Alianza Lima,0.019000000000000017,0.2857,0.2667
-2024-02-18 17:00:56.860779,96th Academy Awards - Best Supporting Actress - Best Supporting Actress,America Ferrera - Barbie,0.019000000000000003,0.0625,0.0435
+2024-02-19 06:59:33.319162,45th Federal Election - Sworn In Government After Election - Government After Election,Conservative,0.01880000000000004,0.6552,0.6364
 2024-02-18 19:02:40.271179,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Copenhagen,0.018100000000000005,0.9412,0.9231
-2024-02-18 17:00:56.944651,96th Academy Awards - Best Live Action Short - Best Live Action Short,"Red, White & Blue",0.018099999999999998,0.0769,0.0588
-2024-02-19 02:59:46.311326,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Atlético Lanús,0.018099999999999998,0.0769,0.0588
 2024-02-19 04:59:11.837389,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Borussia Mönchengladbach,0.018099999999999998,0.0769,0.0588
+2024-02-19 02:59:46.311326,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Atlético Lanús,0.018099999999999998,0.0769,0.0588
 2024-02-19 04:59:11.837389,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Heidenheim,0.018099999999999998,0.0769,0.0588
-2024-02-18 17:00:56.944651,96th Academy Awards - Best Live Action Short - Best Live Action Short,Knight Of Fortune,0.0179,0.1429,0.125
 2024-02-18 23:06:29.364642,NFL Draft '24 - Draft Picks - #2 Pick,J.J. McCarthy,0.0179,0.1429,0.125
-2024-02-18 17:00:56.205460,A-League - Australia A-League 2023/24 - Grand Final Winner,Sydney FC,0.0179,0.1429,0.125
 2024-02-19 04:59:14.316082,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Kansas City Chiefs,0.016699999999999993,0.2667,0.25
-2024-02-18 17:00:56.860779,96th Academy Awards - Best Supporting Actress - Best Supporting Actress,DaVine Joy Randolph - The Holdovers,0.015699999999999936,0.9681,0.9524
 2024-02-18 19:02:40.278340,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,AGF Aarhus,0.015599999999999947,0.996,0.9804
-2024-02-18 17:00:57.714400,NBL - NBL 2023/2024 - To Make Grand Final,Tasmania JackJumpers,0.015400000000000025,0.4,0.3846
-2024-02-18 17:00:56.803078,96th Academy Awards - Best Director - Best Director,Christopher Nolan - Oppenheimer,0.015199999999999991,0.9833,0.9681
-2024-02-18 17:00:56.233354,A-League - Australia A-League 2023/24 - Top 6 Finish,Central Coast Mariners,0.015100000000000002,0.8333,0.8182
-2024-02-18 17:00:56.205460,A-League - Australia A-League 2023/24 - Grand Final Winner,Wellington Phoenix,0.015100000000000002,0.1818,0.1667
-2024-02-18 17:00:56.898299,96th Academy Awards - Best Costume Design - Best Costume Design,Napoleon,0.014899999999999997,0.0625,0.0476
 2024-02-18 19:02:40.278340,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Odense,0.014100000000000001,0.0526,0.0385
 2024-02-18 19:02:40.248710,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Nordsjælland,0.014099999999999998,0.0435,0.0294
 2024-02-19 04:59:11.864734,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Lautaro Martinez (Inter Milan),0.014000000000000012,0.9231,0.9091
 2024-02-19 04:59:11.954897,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Le Havre,0.013999999999999999,0.0909,0.0769
-2024-02-18 17:00:56.233354,A-League - Australia A-League 2023/24 - Top 6 Finish,Perth Glory,0.013899999999999996,0.125,0.1111
 2024-02-18 19:02:39.905344,Ligue 1 - France Ligue 1 2023/24 - Winner,Brest,0.013,0.0196,0.0066
-2024-02-18 17:00:56.205460,A-League - Australia A-League 2023/24 - Grand Final Winner,Central Coast Mariners,0.012899999999999995,0.1667,0.1538
 2024-02-19 04:59:14.328744,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Detroit Lions,0.012899999999999995,0.1667,0.1538
 2024-02-18 19:02:39.842849,Serie A - Italy Serie A 2023/24 - Winner,Inter Milan,0.0121,0.9877,0.9756
-2024-02-18 17:00:56.879520,96th Academy Awards - Best Animated Short - Best Animated Short,Letter To A Pig,0.011499999999999955,0.6667,0.6552
-2024-02-19 04:59:11.828933,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Serhou Guirassy,0.011199999999999995,0.0588,0.0476
-2024-02-18 17:00:56.217118,A-League - Australia A-League 2023/24 - To Finish Bottom,Brisbane Roar,0.011199999999999995,0.0588,0.0476
-2024-02-19 04:59:12.442720,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Cienciano,0.011199999999999995,0.0588,0.0476
-2024-02-18 17:00:56.935758,96th Academy Awards - Best International Feature - Best International Feature,Io capitano,0.011199999999999995,0.0588,0.0476
-2024-02-19 04:59:11.864734,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Olivier Giroud (AC Milan),0.011199999999999995,0.0588,0.0476
 2024-02-19 04:59:12.348379,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Hannover 96,0.011199999999999995,0.0588,0.0476
-2024-02-19 04:59:14.316082,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,New York Jets,0.0102,0.0769,0.0667
-2024-02-18 17:00:56.793832,96th Academy Awards - Best Actress - Best Actress,Sandra Huller - Anatomy Of A Fall,0.0102,0.0769,0.0667
+2024-02-19 04:59:12.442720,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Cienciano,0.011199999999999995,0.0588,0.0476
+2024-02-19 04:59:11.828933,1. Bundesliga - Germany Bundesliga 2023/24 - Top Goalscorer,Serhou Guirassy,0.011199999999999995,0.0588,0.0476
+2024-02-19 04:59:11.864734,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Olivier Giroud (AC Milan),0.011199999999999995,0.0588,0.0476
 2024-02-19 04:59:12.359173,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,FC Porto,0.0102,0.0769,0.0667
+2024-02-19 04:59:14.316082,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,New York Jets,0.0102,0.0769,0.0667
 2024-02-19 04:59:12.184545,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,Pumas UNAM,0.0102,0.0769,0.0667
 2024-02-19 01:00:01.436501,MLB 2024 Regular Season Team Props - Seattle Mariners Regular Season Win Total - Seattle Mariners Regular Season Win Total,Over 87.5,0.010099999999999998,0.5556,0.5455
 2024-02-19 04:59:12.348379,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Paderborn,-0.010100000000000001,0.0244,0.0345
 2024-02-19 04:59:14.316082,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Buffalo Bills,-0.010899999999999993,0.1429,0.1538
-2024-02-18 17:00:56.205460,A-League - Australia A-League 2023/24 - Grand Final Winner,Macarthur FC,-0.011099999999999999,0.1,0.1111
 2024-02-18 23:06:39.721213,Boxing Lines - Abass Baraou vs Sam Eggington - To Win the Bout,Sam Eggington,-0.011099999999999999,0.4651,0.4762
 2024-02-19 01:00:01.436501,MLB 2024 Regular Season Team Props - Seattle Mariners Regular Season Win Total - Seattle Mariners Regular Season Win Total,Under 87.5,-0.011600000000000055,0.5122,0.5238
 2024-02-19 02:59:46.943948,96th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,Barbie,-0.011700000000000016,0.2105,0.2222
+2024-02-19 06:59:33.494345,UK Politics - UK Overall Majority After Next General Election - UK Overall Majority After Next Election,None,-0.011700000000000016,0.2105,0.2222
 2024-02-19 02:59:46.943948,96th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,Oppenheimer,-0.012299999999999978,0.3448,0.3571
 2024-02-19 04:59:12.184545,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,CF Monterrey,-0.0131,0.2222,0.2353
-2024-02-18 17:00:56.233354,A-League - Australia A-League 2023/24 - Top 6 Finish,Adelaide United,-0.013800000000000034,0.3636,0.3774
-2024-02-18 17:00:56.205460,A-League - Australia A-League 2023/24 - Grand Final Winner,Western Sydney Wanderers,-0.013899999999999996,0.1111,0.125
-2024-02-18 17:00:56.851689,96th Academy Awards - Best Supporting Actor - Best Supporting Actor,Ryan Gosling - Barbie,-0.013899999999999996,0.1111,0.125
-2024-02-18 17:00:56.233354,A-League - Australia A-League 2023/24 - Top 6 Finish,Newcastle United Jets,-0.013899999999999996,0.1111,0.125
 2024-02-19 02:59:47.232295,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Fernanda,-0.013999999999999999,0.0769,0.0909
-2024-02-18 17:00:57.714400,NBL - NBL 2023/2024 - To Make Grand Final,Sydney Kings,-0.013999999999999999,0.0769,0.0909
-2024-02-18 17:00:57.697511,NBL - NBL 2023/2024 - Outright,Sydney Kings,-0.014100000000000001,0.0385,0.0526
-2024-02-18 17:00:56.860779,96th Academy Awards - Best Supporting Actress - Best Supporting Actress,Emily Blunt - Oppenheimer,-0.014399999999999996,0.0625,0.0769
-2024-02-18 17:00:56.981541,96th Academy Awards - Best Sound - Best Sound,Maestro,-0.014399999999999996,0.0625,0.0769
-2024-02-18 19:02:39.905344,Ligue 1 - France Ligue 1 2023/24 - Winner,Nice,-0.0145,0.0099,0.0244
 2024-02-19 04:59:11.845082,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Eintracht Frankfurt,-0.0145,0.0099,0.0244
-2024-02-19 04:59:13.153993,Screen Actors Guild Awards - Outstanding Performance By A Female Actor In A Leading Role - Leading Female Actor,Carey Mulligan (Maestro),-0.014899999999999997,0.0476,0.0625
-2024-02-18 17:00:56.803078,96th Academy Awards - Best Director - Best Director,Martin Scorsese - Killers of the Flower Moon,-0.014899999999999997,0.0476,0.0625
-2024-02-19 04:59:13.142710,Screen Actors Guild Awards - Outstanding Performance By A Cast In A Motion Picture - Cast Motion Picture,Killers Of The Flower Moon,-0.014899999999999997,0.0476,0.0625
-2024-02-18 17:00:56.803078,96th Academy Awards - Best Director - Best Director,Yorgos Lanthimos - Poor Things,-0.014899999999999997,0.0476,0.0625
+2024-02-18 19:02:39.905344,Ligue 1 - France Ligue 1 2023/24 - Winner,Nice,-0.0145,0.0099,0.0244
 2024-02-19 04:59:13.164961,Screen Actors Guild Awards - Outstanding Performance By A Male Actor In A Leading Role - Leading Male Actor,Jeffrey Wright (American Fiction),-0.014899999999999997,0.0476,0.0625
-2024-02-18 17:00:56.803078,96th Academy Awards - Best Director - Best Director,Justine Triet - Anatomy Of A Fall,-0.014899999999999997,0.0476,0.0625
+2024-02-19 04:59:13.153993,Screen Actors Guild Awards - Outstanding Performance By A Female Actor In A Leading Role - Leading Female Actor,Carey Mulligan (Maestro),-0.014899999999999997,0.0476,0.0625
+2024-02-19 04:59:13.142710,Screen Actors Guild Awards - Outstanding Performance By A Cast In A Motion Picture - Cast Motion Picture,Killers Of The Flower Moon,-0.014899999999999997,0.0476,0.0625
 2024-02-18 19:02:40.278340,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Silkeborg IF,-0.014900000000000024,0.9375,0.9524
 2024-02-19 04:59:11.878700,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Empoli,-0.016600000000000004,0.0667,0.0833
 2024-02-18 23:06:29.364642,NFL Draft '24 - Draft Picks - #2 Pick,Drake Maye,-0.016699999999999937,0.5833,0.6
@@ -155,64 +107,51 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-19 04:59:11.878700,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Cagliari,-0.0179,0.125,0.1429
 2024-02-19 04:59:13.142710,Screen Actors Guild Awards - Outstanding Performance By A Cast In A Motion Picture - Cast Motion Picture,Barbie,-0.01820000000000002,0.1818,0.2
 2024-02-19 04:59:11.942273,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Marseille,-0.0189,0.0196,0.0385
-2024-02-18 17:00:56.233354,A-League - Australia A-League 2023/24 - Top 6 Finish,Western Sydney Wanderers,-0.018999999999999906,0.7143,0.7333
 2024-02-19 04:59:13.153993,Screen Actors Guild Awards - Outstanding Performance By A Female Actor In A Leading Role - Leading Female Actor,Margot Robbie (Barbie),-0.02020000000000001,0.0909,0.1111
-2024-02-18 17:00:56.860779,96th Academy Awards - Best Supporting Actress - Best Supporting Actress,Danielle Brooks - The Color Purple,-0.0208,0.0625,0.0833
 2024-02-19 00:59:57.750622,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Boston Red Sox - Triston Casas Total RBIs,Under 80.5,-0.022600000000000064,0.5122,0.5348
 2024-02-18 19:02:40.296587,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,St. Mirren,-0.023200000000000002,0.0244,0.0476
 2024-02-19 04:59:11.822310,1. Bundesliga - Germany Bundesliga 2023/24 - Winner without Bayern Munich,VfB Stuttgart,-0.0236,0.0149,0.0385
 2024-02-19 04:59:11.871851,Serie A - Italy Serie A 2023/24 - To Be Relegated,Hellas Verona,-0.023800000000000043,0.5,0.5238
 2024-02-19 04:59:11.837389,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Union Berlin,-0.0242,0.0667,0.0909
+2024-02-19 06:59:33.483155,UK Politics - UK Government After Next General Election - UK Govt After Next Election,Conservative Majority,-0.0242,0.0667,0.0909
+2024-02-19 06:59:33.494345,UK Politics - UK Overall Majority After Next General Election - UK Overall Majority After Next Election,Conservative,-0.0242,0.0667,0.0909
 2024-02-19 04:59:11.884751,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Fiorentina,-0.0242,0.0667,0.0909
+2024-02-19 06:59:33.247892,Donald Trump Specials - Will Joe Biden pardon Donald Trump? - Will Joe Biden pardon Donald Trump?,Joe Biden to pardon Donald Trump for all potential federal crimes before the 2024 election,-0.024999999999999994,0.1,0.125
 2024-02-19 04:59:11.878700,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Hellas Verona,-0.024999999999999994,0.1,0.125
+2024-02-19 06:59:33.076403,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,-0.02529999999999999,0.8571,0.8824
 2024-02-19 04:59:12.417746,Super Lig - Turkey Super Lig 2023/24 - Winner,Galatasaray,-0.025599999999999956,0.5744,0.6
+2024-02-19 06:59:33.062254,Joe Biden Specials - Joe Biden Approval Rating June 30th 2024 - Joe Biden Approval Rating June 30th 2024,Under 40%,-0.026499999999999968,0.5652,0.5917
 2024-02-19 02:59:46.311326,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,River Plate,-0.02779999999999999,0.2222,0.25
 2024-02-19 04:59:11.948169,Ligue 1 - France Ligue 1 2023/24 - Top Goalscorer,Wissam Ben Yedder (Monaco),-0.028199999999999996,0.0385,0.0667
-2024-02-18 17:00:56.888623,96th Academy Awards - Best Cinematography - Best Cinematography,Killers Of The Flower Moon - Rodrigo Prieto,-0.028399999999999995,0.0625,0.0909
 2024-02-19 04:59:12.348379,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Hamburger SV,-0.028799999999999992,0.125,0.1538
 2024-02-19 04:59:11.871851,Serie A - Italy Serie A 2023/24 - To Be Relegated,Cagliari,-0.028900000000000037,0.5455,0.5744
 2024-02-18 19:02:40.296587,Premiership - Scotland Premiership 2023/24 - Winner without Celtic & Rangers,Kilmarnock,-0.029299999999999993,0.0476,0.0769
-2024-02-18 17:00:57.697511,NBL - NBL 2023/2024 - Outright,New Zealand Breakers,-0.030199999999999998,0.0323,0.0625
-2024-02-18 17:00:56.233354,A-League - Australia A-League 2023/24 - Top 6 Finish,Brisbane Roar,-0.030299999999999994,0.3333,0.3636
-2024-02-18 17:00:56.776612,96th Academy Awards - Best Actor - Best Actor,Bradley Cooper - Maestro,-0.030699999999999998,0.0526,0.0833
 2024-02-19 04:59:12.304497,First Division A - Belgium First Division A 2023/24 - Outright,Genk,-0.0319,0.0066,0.0385
-2024-02-18 17:00:56.217118,A-League - Australia A-League 2023/24 - To Finish Bottom,Perth Glory,-0.034100000000000005,0.0909,0.125
 2024-02-18 19:02:40.310455,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Motherwell,-0.03420000000000001,0.0769,0.1111
-2024-02-18 17:00:56.917008,96th Academy Awards - Best Documentary Short - Best Documentary Short,The ABCs Of Book Burning,-0.03479999999999994,0.5652,0.6
 2024-02-19 04:59:12.304497,First Division A - Belgium First Division A 2023/24 - Outright,Gent,-0.035300000000000005,0.0123,0.0476
 2024-02-19 02:59:46.311326,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Boca Juniors,-0.03889999999999999,0.1429,0.1818
 2024-02-19 04:59:11.871851,Serie A - Italy Serie A 2023/24 - To Be Relegated,Sassuolo,-0.04040000000000002,0.1818,0.2222
 2024-02-19 02:59:47.232295,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Isabelle,-0.04099999999999998,0.2667,0.3077
+2024-02-19 06:59:33.226875,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the classified documents federal charges? - Classified Documents Federal Trial,Yes,-0.041000000000000036,0.7368,0.7778
 2024-02-19 04:59:12.304497,First Division A - Belgium First Division A 2023/24 - Outright,Club Brugge,-0.04329999999999999,0.0476,0.0909
 2024-02-18 19:02:40.271179,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,AGF Aarhus,-0.04409999999999997,0.25,0.2941
 2024-02-18 19:02:40.260870,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Vejle BK,-0.04700000000000004,0.4878,0.5348
 2024-02-18 19:02:40.317560,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Kilmarnock,-0.047400000000000005,0.0526,0.1
 2024-02-19 04:59:11.942273,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Monaco,-0.047599999999999976,0.2857,0.3333
-2024-02-18 17:00:56.233354,A-League - Australia A-League 2023/24 - Top 6 Finish,Macarthur FC,-0.04760000000000009,0.6667,0.7143
-2024-02-19 04:59:11.969316,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Monaco,-0.04859999999999998,0.8889,0.9375
 2024-02-19 04:59:11.969316,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Nice,-0.04859999999999998,0.8889,0.9375
+2024-02-19 04:59:11.969316,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Monaco,-0.04859999999999998,0.8889,0.9375
 2024-02-19 04:59:11.954897,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Montpellier,-0.04999999999999999,0.2,0.25
-2024-02-18 17:00:56.812412,96th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,Barbie,-0.05180000000000001,0.2222,0.274
-2024-02-18 17:00:56.250253,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Western Sydney Wanderers,-0.052000000000000005,0.0909,0.1429
 2024-02-19 04:59:11.954897,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Lyon,-0.052399999999999995,0.0385,0.0909
-2024-02-18 17:00:56.991212,96th Academy Awards - Best Visual Effects - Best Visual Effects,The Creator,-0.05299999999999999,0.4348,0.4878
 2024-02-19 04:59:12.359173,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,Sporting CP,-0.05449999999999999,0.5455,0.6
-2024-02-18 17:00:57.714400,NBL - NBL 2023/2024 - To Make Grand Final,New Zealand Breakers,-0.055099999999999996,0.0625,0.1176
-2024-02-18 17:00:56.870227,96th Academy Awards - Best Animated Feature - Best Animated Feature,Spider-Man: Across The Spider-Verse,-0.05520000000000003,0.6,0.6552
 2024-02-18 19:02:40.271179,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Midtjylland,-0.05709999999999993,0.8,0.8571
 2024-02-19 04:59:11.871851,Serie A - Italy Serie A 2023/24 - To Be Relegated,Udinese,-0.05710000000000001,0.1429,0.2
 2024-02-19 04:59:12.348379,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Greuther Fürth,-0.058300000000000005,0.0667,0.125
 2024-02-18 19:02:40.278340,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Lyngby BK,-0.0585,0.0526,0.1111
-2024-02-18 17:00:56.217118,A-League - Australia A-League 2023/24 - To Finish Bottom,Western United,-0.0635,0.7143,0.7778
 2024-02-18 19:02:40.278340,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Viborg FF,-0.0635,0.0476,0.1111
 2024-02-19 02:59:48.162283,Caitlin Clark Specials - Caitlin Clark Specials - Proposition,Caitlin Clark to Return to Iowa for a 5th year,-0.06519999999999992,0.5348,0.6
-2024-02-18 17:00:56.217118,A-League - Australia A-League 2023/24 - To Finish Bottom,Newcastle United Jets,-0.06519999999999998,0.2857,0.3509
-2024-02-18 17:00:56.907993,96th Academy Awards - Best Documentary Feature - Best Documentary Feature,The Eternal Memory,-0.066,0.0769,0.1429
 2024-02-19 04:59:11.884751,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Lazio,-0.06620000000000001,0.0588,0.125
-2024-02-18 17:00:56.776612,96th Academy Awards - Best Actor - Best Actor,Paul Giamatti - The Holdovers,-0.06659999999999999,0.2667,0.3333
 2024-02-18 19:02:40.317560,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Hibernian,-0.06659999999999999,0.6667,0.7333
 2024-02-19 04:59:11.954897,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Toulouse,-0.06820000000000001,0.1818,0.25
-2024-02-18 17:00:56.917008,96th Academy Awards - Best Documentary Short - Best Documentary Short,Nai Nai & Wai Po,-0.06820000000000001,0.1818,0.25
 2024-02-18 19:02:40.310455,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Aberdeen,-0.06930000000000003,0.4545,0.5238
 2024-02-19 04:59:11.969316,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Marseille,-0.06990000000000002,0.3846,0.4545
 2024-02-19 04:59:11.954897,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Lorient,-0.07450000000000001,0.4255,0.5
@@ -220,26 +159,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-19 04:59:12.304497,First Division A - Belgium First Division A 2023/24 - Outright,Royal Antwerp,-0.0774,0.0476,0.125
 2024-02-18 19:02:40.260870,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Odense,-0.07930000000000001,0.1429,0.2222
 2024-02-19 04:59:11.942273,Ligue 1 - France Ligue 1 2023/24 - Winner without PSG,Nice,-0.08329999999999999,0.25,0.3333
+2024-02-19 06:59:33.205766,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the 2020 election result federal charges? - Election Result Federal Trial,Yes,-0.08330000000000004,0.6667,0.75
 2024-02-18 19:02:40.271179,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Silkeborg IF,-0.08410000000000001,0.0588,0.1429
 2024-02-19 04:59:11.884751,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Napoli,-0.08979999999999999,0.0769,0.1667
 2024-02-18 19:02:40.317560,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Dundee FC,-0.0917,0.6226,0.7143
-2024-02-18 17:00:56.821240,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,The Holdovers,-0.0922,0.3333,0.4255
 2024-02-18 19:02:40.248710,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Midtjylland,-0.09389999999999998,0.2632,0.3571
 2024-02-18 19:02:40.310455,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,St. Mirren,-0.09719999999999995,0.7778,0.875
 2024-02-19 04:59:11.961737,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Marseille,-0.09720000000000001,0.125,0.2222
-2024-02-18 17:00:56.793832,96th Academy Awards - Best Actress - Best Actress,Lily Gladstone - Killers Of The Flower Moon,-0.0988,0.3774,0.4762
 2024-02-19 04:59:11.845082,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Borussia Dortmund,-0.0988,0.5238,0.6226
 2024-02-18 19:02:40.289340,Premiership - Scotland Premiership 2023/24 - Winner,Celtic,-0.10109999999999997,0.4444,0.5455
 2024-02-19 04:59:11.837389,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Mainz,-0.10340000000000005,0.6667,0.7701
 2024-02-18 19:02:40.260870,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Randers,-0.10730000000000003,0.1667,0.274
-2024-02-18 17:00:56.972438,96th Academy Awards - Best Production Design - Best Production Design,Barbie,-0.10970000000000002,0.5455,0.6552
 2024-02-18 19:02:40.303637,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Livingston,-0.11029999999999995,0.7647,0.875
 2024-02-19 04:59:11.969316,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Reims,-0.1129,0.1538,0.2667
 2024-02-19 04:59:11.961737,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Nice,-0.11360000000000003,0.6364,0.75
 2024-02-19 04:59:11.961737,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Monaco,-0.11360000000000003,0.6364,0.75
-2024-02-18 17:00:56.953783,96th Academy Awards - Best Make Up & Hairstyling - Best Make Up & Hairstyling,Maestro,-0.12739999999999996,0.6226,0.75
 2024-02-19 04:59:13.153993,Screen Actors Guild Awards - Outstanding Performance By A Female Actor In A Leading Role - Leading Female Actor,Lily Gladstone (Killers Of The Flower Moon),-0.1318999999999999,0.5348,0.6667
-2024-02-18 17:00:56.812412,96th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,Oppenheimer,-0.16670000000000007,0.3571,0.5238
-2024-02-18 17:00:56.898299,96th Academy Awards - Best Costume Design - Best Costume Design,Barbie,-0.16809999999999992,0.5652,0.7333
 2024-02-18 19:02:39.830999,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayern Munich,-0.1846,0.2,0.3846
-2024-02-18 17:00:56.981541,96th Academy Awards - Best Sound - Best Sound,Oppenheimer,-0.19690000000000007,0.6364,0.8333
