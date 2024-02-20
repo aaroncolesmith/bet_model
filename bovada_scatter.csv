@@ -18,7 +18,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-19 21:01:14.324230,Brooklyn Nets - 2023-24 Regular Season Wins O/U - Team Wins,Under 34.5,0.05059999999999998,0.5744,0.5238
 2024-02-19 22:59:55.677720,NCAA DI Men - SEC Conference 2023-24 - Winner,Tennessee,0.047599999999999976,0.3333,0.2857
 2024-02-19 22:59:55.667559,NCAA DI Men - American Athletic Conference 2023-24 - Winner,Charlotte,0.04099999999999998,0.3077,0.2667
-2024-02-19 15:04:03.718578,Boxing Lines - Antonio Vargas vs Jonathan Rodriguez - To Win the Bout,Antonio Vargas,0.03959999999999997,0.6364,0.5968
 2024-02-19 22:59:55.627456,NCAA DI Men - ACC Conference 2023-24 - Winner,Duke,0.03920000000000001,0.3333,0.2941
 2024-02-19 22:59:55.687707,NCAA DI Men - Atlantic 10 Conference 2023-24 - Winner,Dayton,0.037800000000000056,0.5833,0.5455
 2024-02-20 02:59:12.985640,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Atlético Madrid,0.03640000000000004,0.4,0.3636
@@ -41,100 +40,106 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-19 22:59:55.721853,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,South Carolina,0.021699999999999997,0.4762,0.4545
 2024-02-19 22:59:55.708977,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Houston,0.020799999999999985,0.3333,0.3125
 2024-02-20 00:59:13.287871,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Los Angeles Dodgers - Shohei Ohtani Total Hits,Over 149.5,0.02079999999999993,0.5556,0.5348
-2024-02-20 00:59:12.142997,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Atlanta Braves - Michael Harris II Total Hits,Over 153.5,0.02079999999999993,0.5556,0.5348
-2024-02-20 00:59:13.951735,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Philadelphia Phillies - Bryce Harper Total RBIs,Under 95.5,0.02079999999999993,0.5556,0.5348
-2024-02-20 00:59:13.717057,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - New York Yankees - Aaron Judge Total Hits,Under 148.5,0.02079999999999993,0.5556,0.5348
-2024-02-20 00:59:13.307273,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Los Angeles Dodgers - Shohei Ohtani Total RBIs,Over 105.5,0.02079999999999993,0.5556,0.5348
 2024-02-20 00:59:12.521019,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Chicago Cubs - Ian Happ Total Hits,Over 130.5,0.02079999999999993,0.5556,0.5348
+2024-02-20 00:59:13.717057,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - New York Yankees - Aaron Judge Total Hits,Under 148.5,0.02079999999999993,0.5556,0.5348
+2024-02-20 00:59:12.806708,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Cleveland Guardians - Steven Kwan Total Stolen Bases,Under 19.5,0.02079999999999993,0.5556,0.5348
 2024-02-20 00:59:12.827901,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Colorado Rockies - Nolan Jones Total Home Runs,Over 23.5,0.02079999999999993,0.5556,0.5348
-2024-02-20 00:59:12.884552,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Houston Astros - Alex Bregman Total Hits,Over 155.5,0.02079999999999993,0.5556,0.5348
+2024-02-20 00:59:13.307273,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Los Angeles Dodgers - Shohei Ohtani Total RBIs,Over 105.5,0.02079999999999993,0.5556,0.5348
 2024-02-20 00:59:12.874054,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Detroit Tigers - Spencer Torkelson Total RBIs,Over 90.5,0.02079999999999993,0.5556,0.5348
 2024-02-20 00:59:12.238437,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Atlanta Braves - Ronald Acuna Jr. Total Runs Scored,Under 130.5,0.02079999999999993,0.5556,0.5348
-2024-02-20 00:59:12.806708,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Cleveland Guardians - Steven Kwan Total Stolen Bases,Under 19.5,0.02079999999999993,0.5556,0.5348
+2024-02-20 00:59:12.884552,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Houston Astros - Alex Bregman Total Hits,Over 155.5,0.02079999999999993,0.5556,0.5348
+2024-02-20 00:59:13.951735,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Philadelphia Phillies - Bryce Harper Total RBIs,Under 95.5,0.02079999999999993,0.5556,0.5348
+2024-02-20 00:59:12.142997,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Atlanta Braves - Michael Harris II Total Hits,Over 153.5,0.02079999999999993,0.5556,0.5348
 2024-02-19 22:59:56.795936,NFL Draft '24 - Draft Picks - #2 Pick,Jayden Daniels,0.020699999999999996,0.4651,0.4444
-2024-02-20 02:59:12.958021,La Liga - Spain La Liga 2023/24 - Winner,FC Barcelona,0.0203,0.0588,0.0385
 2024-02-19 22:59:55.606882,NCAA DI Men - Big Ten Conference 2023-24 - Winner,Illinois,0.0203,0.0526,0.0323
+2024-02-20 02:59:12.958021,La Liga - Spain La Liga 2023/24 - Winner,FC Barcelona,0.0203,0.0588,0.0385
 2024-02-19 22:59:55.677720,NCAA DI Men - SEC Conference 2023-24 - Winner,Florida,0.019800000000000005,0.0476,0.0278
 2024-02-19 21:01:14.287685,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Jonathan Kuminga (GSW),0.019699999999999995,0.125,0.1053
-2024-02-19 22:59:55.647109,NCAA DI Men - Mountain West Conference 2023-24 - Winner,Boise State,0.01949999999999999,0.0909,0.0714
 2024-02-19 22:59:55.708977,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Michigan State,0.01949999999999999,0.0909,0.0714
+2024-02-19 22:59:55.647109,NCAA DI Men - Mountain West Conference 2023-24 - Winner,Boise State,0.01949999999999999,0.0909,0.0714
 2024-02-20 02:59:22.177424,Boxing Lines - Antonio Vargas vs Jonathan Rodriguez - To Win the Bout,Antonio Vargas,0.019499999999999962,0.6491,0.6296
 2024-02-20 02:59:13.682682,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Sheffield United,0.018999999999999906,0.7333,0.7143
 2024-02-19 22:59:55.657447,NCAA DI Men - Pac-12 Conference 2023-24 - Winner,Washington State,0.01820000000000002,0.2,0.1818
+2024-02-20 04:59:59.819521,Tournament Match-Ups - Tournament Match-Ups - N. Hojgaard vs T. Finau - Tournament Match-Ups,Nicolai Hojgaard,0.018100000000000005,0.4348,0.4167
 2024-02-20 02:59:12.985640,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Athletic Bilbao,0.018099999999999998,0.0769,0.0588
 2024-02-19 22:59:55.708977,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Illinois,0.0179,0.1429,0.125
+2024-02-20 04:59:49.865655,Championship - England Championship 2023/24 - League Winner,Leeds United,0.0179,0.1429,0.125
 2024-02-19 17:01:03.866333,Euroleague - Euroleague 2023/24 - Outright,Olympiakos,0.016600000000000004,0.0833,0.0667
 2024-02-19 22:59:55.708977,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Kansas,0.015100000000000002,0.1818,0.1667
+2024-02-20 04:59:59.129946,Boxing Lines - Ardreal Holmes vs Marlon Harrington - To Win the Bout,Marlon Harrington,0.014300000000000035,0.274,0.2597
 2024-02-19 19:01:04.035368,La Liga - Spain La Liga 2023/24 - To Be Relegated,Granada,0.014000000000000012,0.9231,0.9091
 2024-02-19 22:59:55.708977,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Creighton,0.013999999999999999,0.0909,0.0769
 2024-02-19 22:59:56.851385,NFL Draft '24 - Team To Draft Player - Brock Bowers,Cincinnati Bengals,0.013999999999999999,0.0909,0.0769
 2024-02-19 22:59:55.637471,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Baylor,0.013999999999999999,0.0909,0.0769
 2024-02-19 21:01:14.287685,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Coby White (CHI),0.012899999999999995,0.1667,0.1538
+2024-02-19 22:59:55.882872,Toronto Raptors - 2023-24 Regular Season Wins O/U - Team Wins,Under 29.5,0.012199999999999989,0.5122,0.5
 2024-02-19 22:59:55.814945,Miami Heat - 2023-24 Regular Season Wins O/U - Team Wins,Under 45.5,0.012199999999999989,0.5,0.4878
 2024-02-19 22:59:56.031338,Memphis Grizzlies - 2023-24 Regular Season Wins O/U - Team Wins,Under 27.5,0.012199999999999989,0.5,0.4878
-2024-02-19 22:59:55.882872,Toronto Raptors - 2023-24 Regular Season Wins O/U - Team Wins,Under 29.5,0.012199999999999989,0.5122,0.5
 2024-02-20 02:59:22.344734,Boxing Lines - Anthony Joshua vs Francis Ngannou - To Win the Bout,Francis Ngannou,0.011899999999999994,0.25,0.2381
 2024-02-19 22:59:56.851385,NFL Draft '24 - Team To Draft Player - Brock Bowers,Los Angeles Chargers,0.01150000000000001,0.3448,0.3333
 2024-02-20 02:59:12.975897,La Liga - Spain La Liga 2023/24 - Top 4 Finish,FC Barcelona,0.011199999999999988,0.9524,0.9412
+2024-02-20 04:59:49.865655,Championship - England Championship 2023/24 - League Winner,Southampton,0.011099999999999999,0.1111,0.1
 2024-02-20 02:59:13.696801,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Crystal Palace,0.011099999999999999,0.9,0.8889
 2024-02-20 02:59:22.656963,Tournament Match-Ups - Tournament Match-Ups - A. Rai vs D. Ghim - Tournament Match-Ups,Aaron Rai,0.01100000000000001,0.5348,0.5238
 2024-02-19 19:01:04.035368,La Liga - Spain La Liga 2023/24 - To Be Relegated,Mallorca,0.010899999999999993,0.1538,0.1429
 2024-02-19 21:01:14.287685,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Jalen Williams (OKC),0.010700000000000001,0.0385,0.0278
 2024-02-19 17:01:10.789779,Boxing Lines - Zhilei Zhang vs Joseph Parker - To Win the Bout,Joseph Parker,0.010699999999999987,0.3704,0.3597
 2024-02-20 02:59:22.761390,Tournament Match-Ups - Tournament Match-Ups - P. Rodgers vs T. Detry - Tournament Match-Ups,Thomas Detry,0.010699999999999932,0.5455,0.5348
+2024-02-20 02:59:22.709456,Tournament Match-Ups - Tournament Match-Ups - E. Grillo vs S. Jaeger - Tournament Match-Ups,Stephan Jaeger,0.010699999999999932,0.5455,0.5348
 2024-02-20 00:59:13.410071,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Miami Marlins - Jazz Chisholm Jr. Total Runs Scored,Over 70.5,0.010699999999999932,0.5455,0.5348
 2024-02-20 00:59:13.962078,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Philadelphia Phillies - Bryce Harper Total Runs Scored,Over 89.5,0.010699999999999932,0.5455,0.5348
-2024-02-20 02:59:22.709456,Tournament Match-Ups - Tournament Match-Ups - E. Grillo vs S. Jaeger - Tournament Match-Ups,Stephan Jaeger,0.010699999999999932,0.5455,0.5348
 2024-02-20 02:59:16.343582,NFL Awards & League Leaders - NFL Honors - Most Valuable Player (Regular Season 2024/25 MVP),C.J. Stroud,0.0102,0.0769,0.0667
-2024-02-20 02:59:22.722645,Tournament Match-Ups - Tournament Match-Ups - E. Van Rooyen vs J. Knapp - Tournament Match-Ups,Erik Van Rooyen,0.010099999999999998,0.5556,0.5455
 2024-02-19 19:01:04.774009,Premier League Futures/Specials - English Premier League 2023/24 - Man City vs The Field,Any other team,0.010099999999999998,0.5556,0.5455
 2024-02-20 00:59:13.197828,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Los Angeles Dodgers - Freddie Freeman Total Hits,Over 177.5,0.010099999999999998,0.5556,0.5455
-2024-02-20 02:59:13.549407,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,FC Porto,-0.0102,0.0667,0.0769
+2024-02-20 02:59:22.722645,Tournament Match-Ups - Tournament Match-Ups - E. Van Rooyen vs J. Knapp - Tournament Match-Ups,Erik Van Rooyen,0.010099999999999998,0.5556,0.5455
 2024-02-20 02:59:13.675349,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Brentford,-0.0102,0.0667,0.0769
+2024-02-20 02:59:13.549407,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,FC Porto,-0.0102,0.0667,0.0769
 2024-02-20 02:59:22.656963,Tournament Match-Ups - Tournament Match-Ups - A. Rai vs D. Ghim - Tournament Match-Ups,Doug Ghim,-0.010699999999999932,0.5348,0.5455
 2024-02-19 22:59:55.606882,NCAA DI Men - Big Ten Conference 2023-24 - Winner,Wisconsin,-0.010700000000000001,0.011,0.0217
 2024-02-20 02:59:22.344734,Boxing Lines - Anthony Joshua vs Francis Ngannou - To Win the Bout,Anthony Joshua,-0.01089999999999991,0.8182,0.8291
+2024-02-20 00:59:13.962078,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Philadelphia Phillies - Bryce Harper Total Runs Scored,Under 89.5,-0.01100000000000001,0.5238,0.5348
+2024-02-20 02:59:22.761390,Tournament Match-Ups - Tournament Match-Ups - P. Rodgers vs T. Detry - Tournament Match-Ups,Patrick Rodgers,-0.01100000000000001,0.5238,0.5348
 2024-02-20 00:59:13.410071,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Miami Marlins - Jazz Chisholm Jr. Total Runs Scored,Under 70.5,-0.01100000000000001,0.5238,0.5348
 2024-02-20 02:59:22.709456,Tournament Match-Ups - Tournament Match-Ups - E. Grillo vs S. Jaeger - Tournament Match-Ups,Emiliano Grillo,-0.01100000000000001,0.5238,0.5348
-2024-02-20 02:59:22.761390,Tournament Match-Ups - Tournament Match-Ups - P. Rodgers vs T. Detry - Tournament Match-Ups,Patrick Rodgers,-0.01100000000000001,0.5238,0.5348
-2024-02-20 00:59:13.962078,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Philadelphia Phillies - Bryce Harper Total Runs Scored,Under 89.5,-0.01100000000000001,0.5238,0.5348
 2024-02-20 02:59:12.975897,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Girona,-0.011199999999999988,0.9412,0.9524
 2024-02-19 19:01:04.035368,La Liga - Spain La Liga 2023/24 - To Be Relegated,Sevilla,-0.011199999999999995,0.0476,0.0588
 2024-02-19 19:01:04.774009,Premier League Futures/Specials - English Premier League 2023/24 - Man City vs The Field,Man City,-0.011600000000000055,0.5122,0.5238
 2024-02-20 00:59:13.197828,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Los Angeles Dodgers - Freddie Freeman Total Hits,Under 177.5,-0.011600000000000055,0.5122,0.5238
 2024-02-20 02:59:22.722645,Tournament Match-Ups - Tournament Match-Ups - E. Van Rooyen vs J. Knapp - Tournament Match-Ups,Jake Knapp,-0.011600000000000055,0.5122,0.5238
-2024-02-19 21:01:14.376794,Boston Celtics - 2023-24 Regular Season Wins O/U - Team Wins,Under 62.5,-0.012199999999999989,0.5,0.5122
 2024-02-19 22:59:55.910165,Sacramento Kings - 2023-24 Regular Season Wins O/U - Team Wins,Under 46.5,-0.012199999999999989,0.5,0.5122
+2024-02-19 21:01:14.376794,Boston Celtics - 2023-24 Regular Season Wins O/U - Team Wins,Under 62.5,-0.012199999999999989,0.5,0.5122
 2024-02-19 22:59:55.667559,NCAA DI Men - American Athletic Conference 2023-24 - Winner,Memphis,-0.0129,0.002,0.0149
-2024-02-20 00:59:10.352540,Republicans - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Nikki Haley,-0.013999999999999999,0.0769,0.0909
 2024-02-20 02:59:13.682682,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Luton Town,-0.013999999999999999,0.0769,0.0909
+2024-02-20 00:59:10.352540,Republicans - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Nikki Haley,-0.013999999999999999,0.0769,0.0909
 2024-02-20 02:59:13.524334,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Randers,-0.014099999999999998,0.0244,0.0385
 2024-02-19 22:59:55.708977,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Colorado,-0.014099999999999998,0.0244,0.0385
-2024-02-19 22:59:55.627456,NCAA DI Men - ACC Conference 2023-24 - Winner,Virginia,-0.014399999999999996,0.0625,0.0769
 2024-02-19 22:59:55.708977,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,BYU,-0.014399999999999996,0.0625,0.0769
+2024-02-19 22:59:55.627456,NCAA DI Men - ACC Conference 2023-24 - Winner,Virginia,-0.014399999999999996,0.0625,0.0769
 2024-02-19 22:59:55.708977,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Marquette,-0.015100000000000002,0.1667,0.1818
 2024-02-20 02:59:13.328051,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Talleres,-0.015300000000000001,0.0435,0.0588
 2024-02-20 02:59:22.624525,Mexico Open - Mexico Open - Winner,Tony Finau,-0.015700000000000006,0.1176,0.1333
+2024-02-20 04:59:59.129946,Boxing Lines - Ardreal Holmes vs Marlon Harrington - To Win the Bout,Ardreal Holmes,-0.015800000000000036,0.7937,0.8095
 2024-02-19 22:59:55.708977,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Wisconsin,-0.016600000000000004,0.0667,0.0833
 2024-02-19 22:59:55.637471,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Iowa State,-0.016699999999999993,0.25,0.2667
 2024-02-19 22:59:55.637471,NCAA DI Men - Big 12 Conference 2023-24 - Winner,BYU,-0.017800000000000003,0.0066,0.0244
 2024-02-19 22:59:56.795936,NFL Draft '24 - Draft Picks - #2 Pick,Drake Maye,-0.018100000000000005,0.5652,0.5833
 2024-02-20 00:59:10.352540,Republicans - US Presidential Election 2024 - Republican Presidential Candidate - Republican Candidate,Donald Trump,-0.018100000000000005,0.9231,0.9412
 2024-02-20 02:59:13.549407,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,Benfica,-0.018900000000000028,0.4255,0.4444
+2024-02-20 04:59:59.819521,Tournament Match-Ups - Tournament Match-Ups - N. Hojgaard vs T. Finau - Tournament Match-Ups,Tony Finau,-0.019499999999999962,0.6296,0.6491
 2024-02-20 02:59:13.696801,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Sheffield United,-0.02020000000000001,0.0909,0.1111
 2024-02-19 21:01:14.389592,Atlanta Hawks - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.02079999999999993,0.5348,0.5556
 2024-02-19 21:01:14.287685,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Tyrese Maxey (PHI),-0.02080000000000004,0.6667,0.6875
-2024-02-20 00:59:13.307273,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Los Angeles Dodgers - Shohei Ohtani Total RBIs,Under 105.5,-0.022600000000000064,0.5122,0.5348
-2024-02-20 00:59:13.287871,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Los Angeles Dodgers - Shohei Ohtani Total Hits,Under 149.5,-0.022600000000000064,0.5122,0.5348
-2024-02-20 00:59:12.884552,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Houston Astros - Alex Bregman Total Hits,Under 155.5,-0.022600000000000064,0.5122,0.5348
-2024-02-20 00:59:12.142997,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Atlanta Braves - Michael Harris II Total Hits,Under 153.5,-0.022600000000000064,0.5122,0.5348
 2024-02-20 00:59:12.238437,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Atlanta Braves - Ronald Acuna Jr. Total Runs Scored,Over 130.5,-0.022600000000000064,0.5122,0.5348
 2024-02-20 00:59:12.874054,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Detroit Tigers - Spencer Torkelson Total RBIs,Under 90.5,-0.022600000000000064,0.5122,0.5348
-2024-02-20 00:59:12.827901,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Colorado Rockies - Nolan Jones Total Home Runs,Under 23.5,-0.022600000000000064,0.5122,0.5348
-2024-02-20 00:59:12.806708,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Cleveland Guardians - Steven Kwan Total Stolen Bases,Over 19.5,-0.022600000000000064,0.5122,0.5348
-2024-02-20 00:59:13.717057,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - New York Yankees - Aaron Judge Total Hits,Over 148.5,-0.022600000000000064,0.5122,0.5348
-2024-02-20 00:59:13.951735,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Philadelphia Phillies - Bryce Harper Total RBIs,Over 95.5,-0.022600000000000064,0.5122,0.5348
+2024-02-20 00:59:13.287871,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Los Angeles Dodgers - Shohei Ohtani Total Hits,Under 149.5,-0.022600000000000064,0.5122,0.5348
 2024-02-20 00:59:12.521019,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Chicago Cubs - Ian Happ Total Hits,Under 130.5,-0.022600000000000064,0.5122,0.5348
+2024-02-20 00:59:12.806708,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Cleveland Guardians - Steven Kwan Total Stolen Bases,Over 19.5,-0.022600000000000064,0.5122,0.5348
+2024-02-20 00:59:12.142997,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Atlanta Braves - Michael Harris II Total Hits,Under 153.5,-0.022600000000000064,0.5122,0.5348
+2024-02-20 00:59:13.951735,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Philadelphia Phillies - Bryce Harper Total RBIs,Over 95.5,-0.022600000000000064,0.5122,0.5348
+2024-02-20 00:59:13.717057,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - New York Yankees - Aaron Judge Total Hits,Over 148.5,-0.022600000000000064,0.5122,0.5348
+2024-02-20 00:59:12.827901,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Colorado Rockies - Nolan Jones Total Home Runs,Under 23.5,-0.022600000000000064,0.5122,0.5348
+2024-02-20 00:59:13.307273,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Los Angeles Dodgers - Shohei Ohtani Total RBIs,Under 105.5,-0.022600000000000064,0.5122,0.5348
+2024-02-20 00:59:12.884552,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Houston Astros - Alex Bregman Total Hits,Under 155.5,-0.022600000000000064,0.5122,0.5348
 2024-02-19 22:59:55.647109,NCAA DI Men - Mountain West Conference 2023-24 - Winner,UNLV,-0.023200000000000002,0.0244,0.0476
 2024-02-20 02:59:22.683206,Tournament Match-Ups - Tournament Match-Ups - B. Wu vs T. Pendrith - Tournament Match-Ups,Brandon Wu,-0.023799999999999988,0.4762,0.5
 2024-02-19 22:59:55.617323,NCAA DI Men - West Coast Conference 2023-24 - Winner,Gonzaga,-0.025300000000000003,0.1176,0.1429
@@ -143,13 +148,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-19 22:59:55.677720,NCAA DI Men - SEC Conference 2023-24 - Winner,South Carolina,-0.0344,0.0244,0.0588
 2024-02-19 21:01:14.350560,Chicago Bulls - 2023-24 Regular Season Wins O/U - Team Wins,Under 37.5,-0.03600000000000003,0.4878,0.5238
 2024-02-19 22:59:55.637471,NCAA DI Men - Big 12 Conference 2023-24 - Winner,Texas Tech,-0.0392,0.0196,0.0588
-2024-02-19 15:04:03.718578,Boxing Lines - Antonio Vargas vs Jonathan Rodriguez - To Win the Bout,Jonathan Rodriguez,-0.039600000000000024,0.4255,0.4651
 2024-02-19 22:59:55.994918,Minnesota Timberwolves - 2023-24 Regular Season Wins O/U - Team Wins,Under 56.5,-0.05059999999999998,0.5238,0.5744
 2024-02-20 02:59:13.682682,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Nottingham Forest,-0.052399999999999995,0.0385,0.0909
 2024-02-20 02:59:12.985640,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Girona,-0.05520000000000003,0.6,0.6552
-2024-02-19 22:59:56.058959,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 45.5,-0.05559999999999998,0.5,0.5556
 2024-02-20 02:59:12.975897,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Atlético Madrid,-0.05559999999999998,0.8333,0.8889
+2024-02-19 22:59:56.058959,Indiana Pacers - 2023-24 Regular Season Wins O/U - Team Wins,Over 45.5,-0.05559999999999998,0.5,0.5556
 2024-02-19 21:01:14.324230,Brooklyn Nets - 2023-24 Regular Season Wins O/U - Team Wins,Over 34.5,-0.057699999999999974,0.4878,0.5455
+2024-02-20 04:59:49.865655,Championship - England Championship 2023/24 - League Winner,Leicester City,-0.06590000000000007,0.7674,0.8333
 2024-02-19 22:59:55.895052,San Antonio Spurs - 2023-24 Regular Season Wins O/U - Team Wins,Over 17.5,-0.06970000000000004,0.4651,0.5348
 2024-02-19 22:59:56.786296,NFL Draft '24 - Draft Picks - #1 Pick,Bo Nix,-0.07769999999999999,0.0132,0.0909
 2024-02-20 02:59:13.696801,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Luton Town,-0.09820000000000001,0.4762,0.5744
