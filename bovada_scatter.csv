@@ -36,8 +36,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-20 13:00:47.014268,Western Conference - Western Conference Number 4 Seed - Number 4 Seed,Oklahoma City Thunder,0.16670000000000001,0.25,0.0833
 2024-02-20 13:00:46.904505,Eastern Conference - Eastern Conference Number 7 Seed - Number 7 Seed,Orlando Magic,0.1667,0.2667,0.1
 2024-02-20 13:00:46.881197,Eastern Conference - Eastern Conference Number 5 Seed - Number 5 Seed,Orlando Magic,0.16340000000000002,0.2222,0.0588
-2024-02-20 13:00:47.003829,Western Conference - Western Conference Number 3 Seed - Number 3 Seed,Los Angeles Clippers,0.1614,0.2667,0.1053
 2024-02-20 15:00:05.752933,Western Conference - Western Conference Number 6 Seed - Number 6 Seed,New Orleans Pelicans,0.1614,0.2667,0.1053
+2024-02-20 13:00:47.003829,Western Conference - Western Conference Number 3 Seed - Number 3 Seed,Los Angeles Clippers,0.1614,0.2667,0.1053
 2024-02-20 15:00:05.752933,Western Conference - Western Conference Number 6 Seed - Number 6 Seed,Phoenix Suns,0.15910000000000002,0.25,0.0909
 2024-02-20 13:00:46.944094,Eastern Conference - Eastern Conference Number 10 Seed - Number 10 Seed,Brooklyn Nets,0.1524,0.2857,0.1333
 2024-02-20 11:04:59.677505,To Make the Playoffs - Houston Rockets - To Make the 2023-24 Playoffs,No,0.1471,0.9804,0.8333
@@ -62,8 +62,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-20 13:00:46.916965,Eastern Conference - Eastern Conference Number 8 Seed - Number 8 Seed,Indiana Pacers,0.10200000000000001,0.2353,0.1333
 2024-02-20 15:00:05.775112,Western Conference - Western Conference Number 8 Seed - Number 8 Seed,Phoenix Suns,0.09999999999999999,0.1667,0.0667
 2024-02-20 15:00:07.591577,NFL Draft '24 - Justin Fields 2024/25 - Team where Justin Fields will take his First Snap in the 2024/25 NFL Regular Season,Falcons,0.09999999999999998,0.5,0.4
-2024-02-20 15:00:05.764263,Western Conference - Western Conference Number 7 Seed - Number 7 Seed,New Orleans Pelicans,0.09939999999999999,0.2105,0.1111
 2024-02-20 13:00:47.014268,Western Conference - Western Conference Number 4 Seed - Number 4 Seed,Los Angeles Clippers,0.09939999999999999,0.2105,0.1111
+2024-02-20 15:00:05.764263,Western Conference - Western Conference Number 7 Seed - Number 7 Seed,New Orleans Pelicans,0.09939999999999999,0.2105,0.1111
 2024-02-20 13:00:46.892042,Eastern Conference - Eastern Conference Number 6 Seed - Number 6 Seed,Philadelphia 76ers,0.09720000000000001,0.2222,0.125
 2024-02-20 15:00:05.775112,Western Conference - Western Conference Number 8 Seed - Number 8 Seed,Golden State Warriors,0.0953,0.1905,0.0952
 2024-02-20 13:00:46.916965,Eastern Conference - Eastern Conference Number 8 Seed - Number 8 Seed,Miami Heat,0.0909,0.1818,0.0909
@@ -74,6 +74,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-20 15:00:05.786932,Western Conference - Western Conference Number 9 Seed - Number 9 Seed,Sacramento Kings,0.0729,0.1905,0.1176
 2024-02-20 13:00:46.881197,Eastern Conference - Eastern Conference Number 5 Seed - Number 5 Seed,New York Knicks,0.06840000000000002,0.2222,0.1538
 2024-02-20 13:00:46.979724,Western Conference - Western Conference Number 1 Seed - Number 1 Seed,Minnesota Timberwolves,0.06670000000000004,0.4,0.3333
+2024-02-20 16:59:55.883677,NFL Draft '24 - Justin Fields 2024/25 - Team where Justin Fields will take his First Snap in the 2024/25 NFL Regular Season,Falcons,0.06520000000000004,0.5652,0.5
 2024-02-20 15:00:05.786932,Western Conference - Western Conference Number 9 Seed - Number 9 Seed,Phoenix Suns,0.0588,0.1176,0.0588
 2024-02-20 11:04:59.498675,Eastern Conference - Eastern Conference To Participate in Play-In Tournament - To Participate in Eastern Conference Play-In Tournament,Indiana Pacers,0.05860000000000004,0.5348,0.4762
 2024-02-20 11:04:59.498675,Eastern Conference - Eastern Conference To Participate in Play-In Tournament - To Participate in Eastern Conference Play-In Tournament,Orlando Magic,0.057699999999999974,0.5122,0.4545
@@ -86,19 +87,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-20 13:00:46.859247,Eastern Conference - Eastern Conference Number 3 Seed - Number 3 Seed,Cleveland Cavaliers,0.03720000000000001,0.25,0.2128
 2024-02-20 15:00:05.775112,Western Conference - Western Conference Number 8 Seed - Number 8 Seed,New Orleans Pelicans,0.036199999999999996,0.1538,0.1176
 2024-02-20 15:00:05.741923,Western Conference - Western Conference Number 5 Seed - Number 5 Seed,Sacramento Kings,0.031799999999999995,0.1429,0.1111
+2024-02-20 17:00:02.736265,Position - Finishing Position - Tony Finau - Finishing Position,13th or worse,0.03179999999999994,0.5556,0.5238
+2024-02-20 17:00:02.709191,Position - Finishing Position - Thomas Detry - Finishing Position,29th or worse,0.03179999999999994,0.5556,0.5238
+2024-02-20 17:00:02.696385,Position - Finishing Position - Taylor Pendrith - Finishing Position,30th or worse,0.03179999999999994,0.5556,0.5238
+2024-02-20 17:00:02.639804,Position - Finishing Position - Keith Mitchell - Finishing Position,29th or worse,0.03179999999999994,0.5556,0.5238
+2024-02-20 16:59:55.883677,NFL Draft '24 - Justin Fields 2024/25 - Team where Justin Fields will take his First Snap in the 2024/25 NFL Regular Season,Broncos,0.028399999999999995,0.0909,0.0625
 2024-02-20 13:00:46.859247,Eastern Conference - Eastern Conference Number 3 Seed - Number 3 Seed,Indiana Pacers,0.025900000000000003,0.0476,0.0217
 2024-02-20 09:03:37.587982,NFL Draft '24 - Justin Fields 2024/25 - Team where Justin Fields will take his First Snap in the 2024/25 NFL Regular Season,Patriots,0.025300000000000003,0.1429,0.1176
 2024-02-20 15:00:13.224211,Boxing Lines - Kazuki Nakajima vs Mugicha Nakagawa - To Win the Bout,Mugicha Nakagawa,0.02100000000000002,0.3846,0.3636
 2024-02-20 11:04:59.644947,To Make the Playoffs - Cleveland Cavaliers - To Make the 2023-24 Playoffs,Yes,0.018900000000000028,0.9804,0.9615
 2024-02-20 11:05:06.979302,Boxing Lines - Ali Izmailov vs Britton Norwood - To Win the Bout,Ali Izmailov,0.01849999999999996,0.9709,0.9524
 2024-02-20 11:04:59.666405,To Make the Playoffs - Golden State Warriors - To Make the 2023-24 Playoffs,Yes,0.018100000000000005,0.4348,0.4167
-2024-02-20 04:59:59.819521,Tournament Match-Ups - Tournament Match-Ups - N. Hojgaard vs T. Finau - Tournament Match-Ups,Nicolai Hojgaard,0.018100000000000005,0.4348,0.4167
 2024-02-20 13:00:46.928848,Eastern Conference - Eastern Conference Number 9 Seed - Number 9 Seed,Philadelphia 76ers,0.018099999999999998,0.0769,0.0588
-2024-02-20 04:59:49.865655,Championship - England Championship 2023/24 - League Winner,Leeds United,0.0179,0.1429,0.125
 2024-02-20 15:00:05.806523,Western Conference - Western Conference Number 10 Seed - Number 10 Seed,Dallas Mavericks,0.01759999999999999,0.1176,0.1
+2024-02-20 16:59:54.248429,Euroleague - Euroleague 2023/24 - Outright,Fenerbahce,0.016700000000000007,0.1,0.0833
 2024-02-20 11:04:59.943149,Bundesliga - Germany Bundesliga 2023/24 - Outright,Baskets Wuerzburg,0.0162,0.0294,0.0132
 2024-02-20 07:02:02.388536,Trophy Hassan II - Trophy Hassan II - Winner,Paul Broadhurst,0.015300000000000001,0.0476,0.0323
-2024-02-20 04:59:59.129946,Boxing Lines - Ardreal Holmes vs Marlon Harrington - To Win the Bout,Marlon Harrington,0.014300000000000035,0.274,0.2597
+2024-02-20 16:59:55.883677,NFL Draft '24 - Justin Fields 2024/25 - Team where Justin Fields will take his First Snap in the 2024/25 NFL Regular Season,Raiders,0.014399999999999996,0.0769,0.0625
 2024-02-20 13:00:46.992501,Western Conference - Western Conference Number 2 Seed - Number 2 Seed,Denver Nuggets,0.01319999999999999,0.2632,0.25
 2024-02-20 15:00:05.764263,Western Conference - Western Conference Number 7 Seed - Number 7 Seed,Golden State Warriors,0.012299999999999991,0.1176,0.1053
 2024-02-20 11:05:07.069552,Boxing Lines - Takuma Inoue vs Jerwin Ancajas - To Win the Bout,Jerwin Ancajas,0.012299999999999978,0.3571,0.3448
@@ -106,7 +111,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-20 15:00:13.197996,Boxing Lines - Ardreal Holmes vs Marlon Harrington - To Win the Bout,Marlon Harrington,0.011899999999999966,0.3509,0.339
 2024-02-20 09:03:44.478982,Boxing Lines - Takuma Inoue vs Jerwin Ancajas - To Win the Bout,Jerwin Ancajas,0.01150000000000001,0.3448,0.3333
 2024-02-20 13:00:46.979724,Western Conference - Western Conference Number 1 Seed - Number 1 Seed,Oklahoma City Thunder,0.011099999999999999,0.2778,0.2667
-2024-02-20 04:59:49.865655,Championship - England Championship 2023/24 - League Winner,Southampton,0.011099999999999999,0.1111,0.1
 2024-02-20 07:02:00.524607,MLB 2024 Regular Season Team Props - Minnesota Twins Regular Season Win Total - Minnesota Twins Regular Season Win Total,Over 85.5,0.010699999999999932,0.5455,0.5348
 2024-02-20 07:02:00.293440,MLB 2024 Regular Season Team Props - Houston Astros Regular Season Win Total - Houston Astros Regular Season Win Total,Over 91.5,0.010699999999999932,0.5455,0.5348
 2024-02-20 07:01:56.208407,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Pitcher Props - New York Mets - Kodai Senga Total Strikeouts,Under 200.5,0.010099999999999998,0.5556,0.5455
@@ -114,13 +118,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-20 13:00:46.979724,Western Conference - Western Conference Number 1 Seed - Number 1 Seed,Dallas Mavericks,-0.0103,0.002,0.0123
 2024-02-20 11:05:07.044715,Boxing Lines - Keisuke Matsumoto vs Jinki Maeda - To Win the Bout,Jinki Maeda,-0.010499999999999982,0.2,0.2105
 2024-02-20 13:00:46.881197,Eastern Conference - Eastern Conference Number 5 Seed - Number 5 Seed,Philadelphia 76ers,-0.010899999999999993,0.1429,0.1538
-2024-02-20 07:02:00.524607,MLB 2024 Regular Season Team Props - Minnesota Twins Regular Season Win Total - Minnesota Twins Regular Season Win Total,Under 85.5,-0.01100000000000001,0.5238,0.5348
 2024-02-20 07:02:00.293440,MLB 2024 Regular Season Team Props - Houston Astros Regular Season Win Total - Houston Astros Regular Season Win Total,Under 91.5,-0.01100000000000001,0.5238,0.5348
-2024-02-20 11:05:06.966763,Boxing Lines - Joseph Hicks vs Ricardo Ruben Villalba - To Win the Bout,Ricardo Ruben Villalba,-0.011099999999999999,0.0556,0.0667
+2024-02-20 07:02:00.524607,MLB 2024 Regular Season Team Props - Minnesota Twins Regular Season Win Total - Minnesota Twins Regular Season Win Total,Under 85.5,-0.01100000000000001,0.5238,0.5348
 2024-02-20 09:03:44.478982,Boxing Lines - Takuma Inoue vs Jerwin Ancajas - To Win the Bout,Takuma Inoue,-0.011099999999999999,0.7222,0.7333
+2024-02-20 11:05:06.966763,Boxing Lines - Joseph Hicks vs Ricardo Ruben Villalba - To Win the Bout,Ricardo Ruben Villalba,-0.011099999999999999,0.0556,0.0667
 2024-02-20 15:00:05.741923,Western Conference - Western Conference Number 5 Seed - Number 5 Seed,Houston Rockets,-0.011300000000000001,0.001,0.0123
-2024-02-20 15:00:05.752933,Western Conference - Western Conference Number 6 Seed - Number 6 Seed,San Antonio Spurs,-0.011300000000000001,0.001,0.0123
 2024-02-20 13:00:47.003829,Western Conference - Western Conference Number 3 Seed - Number 3 Seed,Utah Jazz,-0.011300000000000001,0.001,0.0123
+2024-02-20 15:00:05.752933,Western Conference - Western Conference Number 6 Seed - Number 6 Seed,San Antonio Spurs,-0.011300000000000001,0.001,0.0123
 2024-02-20 07:01:56.208407,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Pitcher Props - New York Mets - Kodai Senga Total Strikeouts,Over 200.5,-0.011600000000000055,0.5122,0.5238
 2024-02-20 09:03:44.397926,Boxing Lines - Ardreal Holmes vs Marlon Harrington - To Win the Bout,Ardreal Holmes,-0.011699999999999933,0.7778,0.7895
 2024-02-20 15:00:05.741923,Western Conference - Western Conference Number 5 Seed - Number 5 Seed,Oklahoma City Thunder,-0.011900000000000008,0.0833,0.0952
@@ -130,25 +134,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-20 11:04:59.943149,Bundesliga - Germany Bundesliga 2023/24 - Outright,Chemnitz 99,-0.013999999999999999,0.0769,0.0909
 2024-02-20 11:04:59.943149,Bundesliga - Germany Bundesliga 2023/24 - Outright,Oldenburg,-0.014099999999999998,0.0244,0.0385
 2024-02-20 15:00:13.224211,Boxing Lines - Kazuki Nakajima vs Mugicha Nakagawa - To Win the Bout,Kazuki Nakajima,-0.014900000000000024,0.6774,0.6923
+2024-02-20 13:00:46.904505,Eastern Conference - Eastern Conference Number 7 Seed - Number 7 Seed,Washington Wizards,-0.0154,0.001,0.0164
+2024-02-20 13:00:46.928848,Eastern Conference - Eastern Conference Number 9 Seed - Number 9 Seed,Milwaukee Bucks,-0.0154,0.001,0.0164
 2024-02-20 15:00:05.806523,Western Conference - Western Conference Number 10 Seed - Number 10 Seed,Denver Nuggets,-0.0154,0.001,0.0164
 2024-02-20 15:00:05.764263,Western Conference - Western Conference Number 7 Seed - Number 7 Seed,San Antonio Spurs,-0.0154,0.001,0.0164
-2024-02-20 13:00:46.928848,Eastern Conference - Eastern Conference Number 9 Seed - Number 9 Seed,Milwaukee Bucks,-0.0154,0.001,0.0164
-2024-02-20 13:00:46.904505,Eastern Conference - Eastern Conference Number 7 Seed - Number 7 Seed,Washington Wizards,-0.0154,0.001,0.0164
-2024-02-20 04:59:59.129946,Boxing Lines - Ardreal Holmes vs Marlon Harrington - To Win the Bout,Ardreal Holmes,-0.015800000000000036,0.7937,0.8095
 2024-02-20 11:05:07.069552,Boxing Lines - Takuma Inoue vs Jerwin Ancajas - To Win the Bout,Takuma Inoue,-0.01629999999999998,0.7059,0.7222
 2024-02-20 13:00:46.979724,Western Conference - Western Conference Number 1 Seed - Number 1 Seed,Sacramento Kings,-0.017599999999999998,0.002,0.0196
+2024-02-20 16:59:55.883677,NFL Draft '24 - Justin Fields 2024/25 - Team where Justin Fields will take his First Snap in the 2024/25 NFL Regular Season,Patriots,-0.0179,0.125,0.1429
 2024-02-20 13:00:47.014268,Western Conference - Western Conference Number 4 Seed - Number 4 Seed,Utah Jazz,-0.0186,0.001,0.0196
 2024-02-20 15:00:05.752933,Western Conference - Western Conference Number 6 Seed - Number 6 Seed,Houston Rockets,-0.0186,0.001,0.0196
 2024-02-20 13:00:46.881197,Eastern Conference - Eastern Conference Number 5 Seed - Number 5 Seed,Charlotte Hornets,-0.0186,0.001,0.0196
 2024-02-20 13:00:54.350425,Boxing Lines - Ardreal Holmes vs Marlon Harrington - To Win the Bout,Ardreal Holmes,-0.018999999999999906,0.7143,0.7333
 2024-02-20 11:04:59.666405,To Make the Playoffs - Golden State Warriors - To Make the 2023-24 Playoffs,No,-0.019499999999999962,0.6296,0.6491
-2024-02-20 04:59:59.819521,Tournament Match-Ups - Tournament Match-Ups - N. Hojgaard vs T. Finau - Tournament Match-Ups,Tony Finau,-0.019499999999999962,0.6296,0.6491
 2024-02-20 13:00:46.859247,Eastern Conference - Eastern Conference Number 3 Seed - Number 3 Seed,Chicago Bulls,-0.019700000000000002,0.002,0.0217
 2024-02-20 15:00:05.752933,Western Conference - Western Conference Number 6 Seed - Number 6 Seed,Los Angeles Lakers,-0.02020000000000001,0.0909,0.1111
+2024-02-20 16:59:54.248429,Euroleague - Euroleague 2023/24 - Outright,Panathinaikos,-0.02020000000000001,0.0909,0.1111
 2024-02-20 13:00:46.892042,Eastern Conference - Eastern Conference Number 6 Seed - Number 6 Seed,New York Knicks,-0.02049999999999999,0.1333,0.1538
-2024-02-20 13:00:46.916965,Eastern Conference - Eastern Conference Number 8 Seed - Number 8 Seed,Boston Celtics,-0.0207,0.001,0.0217
-2024-02-20 15:00:05.786932,Western Conference - Western Conference Number 9 Seed - Number 9 Seed,Denver Nuggets,-0.0207,0.001,0.0217
 2024-02-20 13:00:46.904505,Eastern Conference - Eastern Conference Number 7 Seed - Number 7 Seed,Detroit Pistons,-0.0207,0.001,0.0217
+2024-02-20 15:00:05.786932,Western Conference - Western Conference Number 9 Seed - Number 9 Seed,Denver Nuggets,-0.0207,0.001,0.0217
+2024-02-20 13:00:46.916965,Eastern Conference - Eastern Conference Number 8 Seed - Number 8 Seed,Boston Celtics,-0.0207,0.001,0.0217
 2024-02-20 13:00:46.916965,Eastern Conference - Eastern Conference Number 8 Seed - Number 8 Seed,Milwaukee Bucks,-0.0215,0.0079,0.0294
 2024-02-20 11:04:59.644947,To Make the Playoffs - Cleveland Cavaliers - To Make the 2023-24 Playoffs,No,-0.022000000000000006,0.0833,0.1053
 2024-02-20 15:00:05.786932,Western Conference - Western Conference Number 9 Seed - Number 9 Seed,New Orleans Pelicans,-0.02239999999999999,0.0952,0.1176
@@ -156,27 +160,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-20 11:05:06.979302,Boxing Lines - Ali Izmailov vs Britton Norwood - To Win the Bout,Britton Norwood,-0.02310000000000001,0.0769,0.1
 2024-02-20 13:00:46.944094,Eastern Conference - Eastern Conference Number 10 Seed - Number 10 Seed,Philadelphia 76ers,-0.024399999999999998,0.0141,0.0385
 2024-02-20 13:00:46.916965,Eastern Conference - Eastern Conference Number 8 Seed - Number 8 Seed,Chicago Bulls,-0.024999999999999994,0.1,0.125
-2024-02-20 13:00:46.944094,Eastern Conference - Eastern Conference Number 10 Seed - Number 10 Seed,Cleveland Cavaliers,-0.026799999999999997,0.001,0.0278
 2024-02-20 15:00:05.741923,Western Conference - Western Conference Number 5 Seed - Number 5 Seed,Utah Jazz,-0.026799999999999997,0.001,0.0278
+2024-02-20 13:00:46.944094,Eastern Conference - Eastern Conference Number 10 Seed - Number 10 Seed,Cleveland Cavaliers,-0.026799999999999997,0.001,0.0278
 2024-02-20 13:00:46.904505,Eastern Conference - Eastern Conference Number 7 Seed - Number 7 Seed,Milwaukee Bucks,-0.028000000000000004,0.0196,0.0476
 2024-02-20 15:00:05.775112,Western Conference - Western Conference Number 8 Seed - Number 8 Seed,Denver Nuggets,-0.028300000000000002,0.004,0.0323
 2024-02-20 13:00:46.892042,Eastern Conference - Eastern Conference Number 6 Seed - Number 6 Seed,Milwaukee Bucks,-0.029299999999999993,0.0476,0.0769
 2024-02-20 15:00:05.752933,Western Conference - Western Conference Number 6 Seed - Number 6 Seed,Denver Nuggets,-0.031,0.0278,0.0588
 2024-02-20 15:00:05.764263,Western Conference - Western Conference Number 7 Seed - Number 7 Seed,Houston Rockets,-0.031000000000000003,0.0013,0.0323
 2024-02-20 07:02:02.388536,Trophy Hassan II - Trophy Hassan II - Winner,Glen Day,-0.0312,0.0123,0.0435
-2024-02-20 13:00:46.916965,Eastern Conference - Eastern Conference Number 8 Seed - Number 8 Seed,Washington Wizards,-0.0313,0.001,0.0323
 2024-02-20 13:00:46.892042,Eastern Conference - Eastern Conference Number 6 Seed - Number 6 Seed,Charlotte Hornets,-0.0313,0.001,0.0323
-2024-02-20 15:00:05.775112,Western Conference - Western Conference Number 8 Seed - Number 8 Seed,San Antonio Spurs,-0.0313,0.001,0.0323
+2024-02-20 13:00:46.916965,Eastern Conference - Eastern Conference Number 8 Seed - Number 8 Seed,Washington Wizards,-0.0313,0.001,0.0323
 2024-02-20 13:00:46.846918,Eastern Conference - Eastern Conference Number 2 Seed - Number 2 Seed,Brooklyn Nets,-0.0313,0.001,0.0323
+2024-02-20 15:00:05.775112,Western Conference - Western Conference Number 8 Seed - Number 8 Seed,San Antonio Spurs,-0.0313,0.001,0.0323
 2024-02-20 15:00:05.806523,Western Conference - Western Conference Number 10 Seed - Number 10 Seed,Houston Rockets,-0.0321,0.0588,0.0909
 2024-02-20 13:00:47.014268,Western Conference - Western Conference Number 4 Seed - Number 4 Seed,Phoenix Suns,-0.033299999999999996,0.1,0.1333
+2024-02-20 17:00:02.736265,Position - Finishing Position - Tony Finau - Finishing Position,12th or better,-0.033299999999999996,0.5122,0.5455
+2024-02-20 17:00:02.696385,Position - Finishing Position - Taylor Pendrith - Finishing Position,29th or better,-0.033299999999999996,0.5122,0.5455
+2024-02-20 17:00:02.709191,Position - Finishing Position - Thomas Detry - Finishing Position,28th or better,-0.033299999999999996,0.5122,0.5455
+2024-02-20 17:00:02.639804,Position - Finishing Position - Keith Mitchell - Finishing Position,28th or better,-0.033299999999999996,0.5122,0.5455
 2024-02-20 15:00:05.764263,Western Conference - Western Conference Number 7 Seed - Number 7 Seed,Denver Nuggets,-0.03559999999999999,0.0079,0.0435
 2024-02-20 11:04:59.498675,Eastern Conference - Eastern Conference To Participate in Play-In Tournament - To Participate in Eastern Conference Play-In Tournament,Brooklyn Nets,-0.03640000000000004,0.3636,0.4
 2024-02-20 13:00:46.859247,Eastern Conference - Eastern Conference Number 3 Seed - Number 3 Seed,Brooklyn Nets,-0.0365,0.002,0.0385
 2024-02-20 13:00:46.871007,Eastern Conference - Eastern Conference Number 4 Seed - Number 4 Seed,Chicago Bulls,-0.0365,0.002,0.0385
 2024-02-20 13:00:46.871007,Eastern Conference - Eastern Conference Number 4 Seed - Number 4 Seed,Toronto Raptors,-0.0372,0.0013,0.0385
-2024-02-20 13:00:46.904505,Eastern Conference - Eastern Conference Number 7 Seed - Number 7 Seed,Boston Celtics,-0.0375,0.001,0.0385
 2024-02-20 15:00:05.752933,Western Conference - Western Conference Number 6 Seed - Number 6 Seed,Utah Jazz,-0.0375,0.001,0.0385
+2024-02-20 13:00:46.904505,Eastern Conference - Eastern Conference Number 7 Seed - Number 7 Seed,Boston Celtics,-0.0375,0.001,0.0385
 2024-02-20 09:03:37.587982,NFL Draft '24 - Justin Fields 2024/25 - Team where Justin Fields will take his First Snap in the 2024/25 NFL Regular Season,Steelers,-0.037800000000000056,0.5455,0.5833
 2024-02-20 11:04:59.498675,Eastern Conference - Eastern Conference To Participate in Play-In Tournament - To Participate in Eastern Conference Play-In Tournament,Milwaukee Bucks,-0.03860000000000001,0.0667,0.1053
 2024-02-20 13:00:46.928848,Eastern Conference - Eastern Conference Number 9 Seed - Number 9 Seed,Miami Heat,-0.04229999999999999,0.0244,0.0667
@@ -186,11 +194,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-20 13:00:46.944094,Eastern Conference - Eastern Conference Number 10 Seed - Number 10 Seed,Miami Heat,-0.0436,0.004,0.0476
 2024-02-20 15:00:05.752933,Western Conference - Western Conference Number 6 Seed - Number 6 Seed,Golden State Warriors,-0.04440000000000001,0.0667,0.1111
 2024-02-20 11:05:06.991690,Boxing Lines - Ardreal Holmes vs Marlon Harrington - To Win the Bout,Ardreal Holmes,-0.044500000000000095,0.7333,0.7778
-2024-02-20 13:00:46.846918,Eastern Conference - Eastern Conference Number 2 Seed - Number 2 Seed,Atlanta Hawks,-0.0456,0.002,0.0476
 2024-02-20 13:00:46.928848,Eastern Conference - Eastern Conference Number 9 Seed - Number 9 Seed,Washington Wizards,-0.0456,0.002,0.0476
-2024-02-20 13:00:46.916965,Eastern Conference - Eastern Conference Number 8 Seed - Number 8 Seed,Detroit Pistons,-0.0466,0.001,0.0476
+2024-02-20 13:00:46.846918,Eastern Conference - Eastern Conference Number 2 Seed - Number 2 Seed,Atlanta Hawks,-0.0456,0.002,0.0476
 2024-02-20 15:00:05.786932,Western Conference - Western Conference Number 9 Seed - Number 9 Seed,San Antonio Spurs,-0.0466,0.001,0.0476
 2024-02-20 13:00:46.904505,Eastern Conference - Eastern Conference Number 7 Seed - Number 7 Seed,Charlotte Hornets,-0.0466,0.001,0.0476
+2024-02-20 13:00:46.916965,Eastern Conference - Eastern Conference Number 8 Seed - Number 8 Seed,Detroit Pistons,-0.0466,0.001,0.0476
 2024-02-20 15:00:05.741923,Western Conference - Western Conference Number 5 Seed - Number 5 Seed,Minnesota Timberwolves,-0.0476,0.0476,0.0952
 2024-02-20 15:00:05.775112,Western Conference - Western Conference Number 8 Seed - Number 8 Seed,Houston Rockets,-0.0501,0.0025,0.0526
 2024-02-20 13:00:46.992501,Western Conference - Western Conference Number 2 Seed - Number 2 Seed,New Orleans Pelicans,-0.051500000000000004,0.011,0.0625
@@ -198,18 +206,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-20 11:04:59.743672,To Make the Playoffs - New York Knicks - To Make the 2023-24 Playoffs,No,-0.052700000000000004,0.0526,0.1053
 2024-02-20 13:00:46.892042,Eastern Conference - Eastern Conference Number 6 Seed - Number 6 Seed,Boston Celtics,-0.054599999999999996,0.001,0.0556
 2024-02-20 13:00:46.881197,Eastern Conference - Eastern Conference Number 5 Seed - Number 5 Seed,Chicago Bulls,-0.0555,0.0033,0.0588
+2024-02-20 16:59:55.883677,NFL Draft '24 - Justin Fields 2024/25 - Team where Justin Fields will take his First Snap in the 2024/25 NFL Regular Season,Bears,-0.05550000000000002,0.1667,0.2222
 2024-02-20 13:00:46.881197,Eastern Conference - Eastern Conference Number 5 Seed - Number 5 Seed,Toronto Raptors,-0.057499999999999996,0.0013,0.0588
-2024-02-20 15:00:05.806523,Western Conference - Western Conference Number 10 Seed - Number 10 Seed,Sacramento Kings,-0.0585,0.0526,0.1111
 2024-02-20 13:00:47.014268,Western Conference - Western Conference Number 4 Seed - Number 4 Seed,Dallas Mavericks,-0.0585,0.0526,0.1111
+2024-02-20 15:00:05.806523,Western Conference - Western Conference Number 10 Seed - Number 10 Seed,Sacramento Kings,-0.0585,0.0526,0.1111
 2024-02-20 15:00:05.741923,Western Conference - Western Conference Number 5 Seed - Number 5 Seed,Los Angeles Clippers,-0.0588,0.0588,0.1176
 2024-02-20 15:00:05.806523,Western Conference - Western Conference Number 10 Seed - Number 10 Seed,Utah Jazz,-0.0588,0.0588,0.1176
 2024-02-20 13:00:46.871007,Eastern Conference - Eastern Conference Number 4 Seed - Number 4 Seed,Brooklyn Nets,-0.0612,0.0013,0.0625
 2024-02-20 13:00:46.992501,Western Conference - Western Conference Number 2 Seed - Number 2 Seed,Sacramento Kings,-0.06269999999999999,0.004,0.0667
 2024-02-20 13:00:46.928848,Eastern Conference - Eastern Conference Number 9 Seed - Number 9 Seed,Detroit Pistons,-0.0647,0.002,0.0667
-2024-02-20 13:00:46.916965,Eastern Conference - Eastern Conference Number 8 Seed - Number 8 Seed,Cleveland Cavaliers,-0.0647,0.002,0.0667
 2024-02-20 15:00:05.806523,Western Conference - Western Conference Number 10 Seed - Number 10 Seed,San Antonio Spurs,-0.0647,0.002,0.0667
+2024-02-20 13:00:46.916965,Eastern Conference - Eastern Conference Number 8 Seed - Number 8 Seed,Cleveland Cavaliers,-0.0647,0.002,0.0667
 2024-02-20 11:04:59.523525,Western Conference - Western Conference To Participate in Play-In Tournament - To Participate in Western Conference Play-In Tournament,Denver Nuggets,-0.065,0.0526,0.1176
-2024-02-20 04:59:49.865655,Championship - England Championship 2023/24 - League Winner,Leicester City,-0.06590000000000007,0.7674,0.8333
 2024-02-20 13:00:46.904505,Eastern Conference - Eastern Conference Number 7 Seed - Number 7 Seed,New York Knicks,-0.066,0.0769,0.1429
 2024-02-20 15:00:05.786932,Western Conference - Western Conference Number 9 Seed - Number 9 Seed,Houston Rockets,-0.06699999999999999,0.0099,0.0769
 2024-02-20 11:04:59.523525,Western Conference - Western Conference To Participate in Play-In Tournament - To Participate in Western Conference Play-In Tournament,Portland Trail Blazers,-0.0713,0.0196,0.0909
@@ -226,12 +234,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-20 13:00:46.992501,Western Conference - Western Conference Number 2 Seed - Number 2 Seed,Dallas Mavericks,-0.0793,0.004,0.0833
 2024-02-20 13:00:46.916965,Eastern Conference - Eastern Conference Number 8 Seed - Number 8 Seed,Atlanta Hawks,-0.0807,0.0526,0.1333
 2024-02-20 13:00:46.892042,Eastern Conference - Eastern Conference Number 6 Seed - Number 6 Seed,Toronto Raptors,-0.082,0.0013,0.0833
-2024-02-20 13:00:46.992501,Western Conference - Western Conference Number 2 Seed - Number 2 Seed,Memphis Grizzlies,-0.0823,0.001,0.0833
 2024-02-20 13:00:46.881197,Eastern Conference - Eastern Conference Number 5 Seed - Number 5 Seed,Boston Celtics,-0.0823,0.001,0.0833
+2024-02-20 13:00:46.992501,Western Conference - Western Conference Number 2 Seed - Number 2 Seed,Memphis Grizzlies,-0.0823,0.001,0.0833
 2024-02-20 13:00:46.904505,Eastern Conference - Eastern Conference Number 7 Seed - Number 7 Seed,Cleveland Cavaliers,-0.0843,0.0066,0.0909
 2024-02-20 13:00:47.003829,Western Conference - Western Conference Number 3 Seed - Number 3 Seed,Dallas Mavericks,-0.0859,0.0141,0.1
-2024-02-20 11:04:59.812091,To Make the Playoffs - Utah Jazz - To Make the 2023-24 Playoffs,Yes,-0.0871,0.0667,0.1538
 2024-02-20 13:00:46.859247,Eastern Conference - Eastern Conference Number 3 Seed - Number 3 Seed,Miami Heat,-0.0871,0.0667,0.1538
+2024-02-20 11:04:59.812091,To Make the Playoffs - Utah Jazz - To Make the 2023-24 Playoffs,Yes,-0.0871,0.0667,0.1538
 2024-02-20 15:00:05.775112,Western Conference - Western Conference Number 8 Seed - Number 8 Seed,Utah Jazz,-0.08889999999999999,0.002,0.0909
 2024-02-20 13:00:46.859247,Eastern Conference - Eastern Conference Number 3 Seed - Number 3 Seed,Atlanta Hawks,-0.08889999999999999,0.002,0.0909
 2024-02-20 13:00:46.944094,Eastern Conference - Eastern Conference Number 10 Seed - Number 10 Seed,Detroit Pistons,-0.08889999999999999,0.002,0.0909
@@ -241,14 +249,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-20 13:00:46.928848,Eastern Conference - Eastern Conference Number 9 Seed - Number 9 Seed,Indiana Pacers,-0.09029999999999999,0.0526,0.1429
 2024-02-20 13:00:46.916965,Eastern Conference - Eastern Conference Number 8 Seed - Number 8 Seed,New York Knicks,-0.0905,0.0345,0.125
 2024-02-20 13:00:46.892042,Eastern Conference - Eastern Conference Number 6 Seed - Number 6 Seed,Brooklyn Nets,-0.09390000000000001,0.0013,0.0952
-2024-02-20 13:00:47.003829,Western Conference - Western Conference Number 3 Seed - Number 3 Seed,Memphis Grizzlies,-0.0942,0.001,0.0952
 2024-02-20 15:00:05.806523,Western Conference - Western Conference Number 10 Seed - Number 10 Seed,Los Angeles Clippers,-0.0942,0.001,0.0952
+2024-02-20 13:00:47.003829,Western Conference - Western Conference Number 3 Seed - Number 3 Seed,Memphis Grizzlies,-0.0942,0.001,0.0952
 2024-02-20 15:00:05.752933,Western Conference - Western Conference Number 6 Seed - Number 6 Seed,Minnesota Timberwolves,-0.0947,0.0164,0.1111
 2024-02-20 13:00:46.871007,Eastern Conference - Eastern Conference Number 4 Seed - Number 4 Seed,Cleveland Cavaliers,-0.0953,0.0952,0.1905
 2024-02-20 15:00:05.786932,Western Conference - Western Conference Number 9 Seed - Number 9 Seed,Utah Jazz,-0.0954,0.0099,0.1053
-2024-02-20 11:04:59.498675,Eastern Conference - Eastern Conference To Participate in Play-In Tournament - To Participate in Eastern Conference Play-In Tournament,Washington Wizards,-0.098,0.0196,0.1176
 2024-02-20 15:00:05.752933,Western Conference - Western Conference Number 6 Seed - Number 6 Seed,Los Angeles Clippers,-0.098,0.0196,0.1176
 2024-02-20 13:00:46.904505,Eastern Conference - Eastern Conference Number 7 Seed - Number 7 Seed,Toronto Raptors,-0.098,0.002,0.1
+2024-02-20 11:04:59.498675,Eastern Conference - Eastern Conference To Participate in Play-In Tournament - To Participate in Eastern Conference Play-In Tournament,Washington Wizards,-0.098,0.0196,0.1176
 2024-02-20 15:00:05.786932,Western Conference - Western Conference Number 9 Seed - Number 9 Seed,Los Angeles Clippers,-0.099,0.001,0.1
 2024-02-20 13:00:46.944094,Eastern Conference - Eastern Conference Number 10 Seed - Number 10 Seed,Toronto Raptors,-0.0994,0.0435,0.1429
 2024-02-20 15:00:05.741923,Western Conference - Western Conference Number 5 Seed - Number 5 Seed,Golden State Warriors,-0.101,0.0323,0.1333
@@ -271,16 +279,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-20 15:00:05.741923,Western Conference - Western Conference Number 5 Seed - Number 5 Seed,Memphis Grizzlies,-0.1166,0.001,0.1176
 2024-02-20 15:00:05.775112,Western Conference - Western Conference Number 8 Seed - Number 8 Seed,Memphis Grizzlies,-0.1166,0.001,0.1176
 2024-02-20 13:00:46.892042,Eastern Conference - Eastern Conference Number 6 Seed - Number 6 Seed,Cleveland Cavaliers,-0.1169,0.0164,0.1333
-2024-02-20 13:00:46.944094,Eastern Conference - Eastern Conference Number 10 Seed - Number 10 Seed,Charlotte Hornets,-0.121,0.004,0.125
 2024-02-20 13:00:47.014268,Western Conference - Western Conference Number 4 Seed - Number 4 Seed,Los Angeles Lakers,-0.121,0.0123,0.1333
+2024-02-20 13:00:46.944094,Eastern Conference - Eastern Conference Number 10 Seed - Number 10 Seed,Charlotte Hornets,-0.121,0.004,0.125
 2024-02-20 09:03:37.587982,NFL Draft '24 - Justin Fields 2024/25 - Team where Justin Fields will take his First Snap in the 2024/25 NFL Regular Season,Bears,-0.12259999999999999,0.2222,0.3448
-2024-02-20 15:00:05.752933,Western Conference - Western Conference Number 6 Seed - Number 6 Seed,Memphis Grizzlies,-0.124,0.001,0.125
+2024-02-20 15:00:05.775112,Western Conference - Western Conference Number 8 Seed - Number 8 Seed,Minnesota Timberwolves,-0.124,0.001,0.125
 2024-02-20 15:00:05.786932,Western Conference - Western Conference Number 9 Seed - Number 9 Seed,Minnesota Timberwolves,-0.124,0.001,0.125
 2024-02-20 15:00:05.786932,Western Conference - Western Conference Number 9 Seed - Number 9 Seed,Memphis Grizzlies,-0.124,0.001,0.125
-2024-02-20 15:00:05.775112,Western Conference - Western Conference Number 8 Seed - Number 8 Seed,Minnesota Timberwolves,-0.124,0.001,0.125
-2024-02-20 15:00:05.764263,Western Conference - Western Conference Number 7 Seed - Number 7 Seed,Memphis Grizzlies,-0.124,0.001,0.125
-2024-02-20 15:00:05.806523,Western Conference - Western Conference Number 10 Seed - Number 10 Seed,Minnesota Timberwolves,-0.124,0.001,0.125
 2024-02-20 13:00:46.871007,Eastern Conference - Eastern Conference Number 4 Seed - Number 4 Seed,Boston Celtics,-0.124,0.001,0.125
+2024-02-20 15:00:05.806523,Western Conference - Western Conference Number 10 Seed - Number 10 Seed,Minnesota Timberwolves,-0.124,0.001,0.125
+2024-02-20 15:00:05.752933,Western Conference - Western Conference Number 6 Seed - Number 6 Seed,Memphis Grizzlies,-0.124,0.001,0.125
+2024-02-20 15:00:05.764263,Western Conference - Western Conference Number 7 Seed - Number 7 Seed,Memphis Grizzlies,-0.124,0.001,0.125
 2024-02-20 13:00:46.881197,Eastern Conference - Eastern Conference Number 5 Seed - Number 5 Seed,Atlanta Hawks,-0.127,0.002,0.129
 2024-02-20 13:00:46.881197,Eastern Conference - Eastern Conference Number 5 Seed - Number 5 Seed,Cleveland Cavaliers,-0.12819999999999998,0.0385,0.1667
 2024-02-20 15:00:05.775112,Western Conference - Western Conference Number 8 Seed - Number 8 Seed,Oklahoma City Thunder,-0.1293,0.004,0.1333
@@ -297,11 +305,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-20 11:04:59.677505,To Make the Playoffs - Houston Rockets - To Make the 2023-24 Playoffs,Yes,-0.1493,0.0833,0.2326
 2024-02-20 11:04:59.498675,Eastern Conference - Eastern Conference To Participate in Play-In Tournament - To Participate in Eastern Conference Play-In Tournament,Cleveland Cavaliers,-0.1557,0.0526,0.2083
 2024-02-20 13:00:46.859247,Eastern Conference - Eastern Conference Number 3 Seed - Number 3 Seed,Boston Celtics,-0.16469999999999999,0.002,0.1667
-2024-02-20 13:00:47.003829,Western Conference - Western Conference Number 3 Seed - Number 3 Seed,Los Angeles Lakers,-0.1657,0.001,0.1667
 2024-02-20 13:00:46.992501,Western Conference - Western Conference Number 2 Seed - Number 2 Seed,Golden State Warriors,-0.1657,0.001,0.1667
+2024-02-20 13:00:47.003829,Western Conference - Western Conference Number 3 Seed - Number 3 Seed,Los Angeles Lakers,-0.1657,0.001,0.1667
 2024-02-20 13:00:46.859247,Eastern Conference - Eastern Conference Number 3 Seed - Number 3 Seed,Philadelphia 76ers,-0.1661,0.0244,0.1905
-2024-02-20 13:00:47.003829,Western Conference - Western Conference Number 3 Seed - Number 3 Seed,Golden State Warriors,-0.1808,0.001,0.1818
 2024-02-20 13:00:46.992501,Western Conference - Western Conference Number 2 Seed - Number 2 Seed,Los Angeles Lakers,-0.1808,0.001,0.1818
+2024-02-20 13:00:47.003829,Western Conference - Western Conference Number 3 Seed - Number 3 Seed,Golden State Warriors,-0.1808,0.001,0.1818
 2024-02-20 13:00:46.992501,Western Conference - Western Conference Number 2 Seed - Number 2 Seed,Phoenix Suns,-0.1877,0.0123,0.2
 2024-02-20 11:04:59.523525,Western Conference - Western Conference To Participate in Play-In Tournament - To Participate in Western Conference Play-In Tournament,Utah Jazz,-0.19480000000000003,0.0909,0.2857
 2024-02-20 11:04:59.800840,To Make the Playoffs - Toronto Raptors - To Make the 2023-24 Playoffs,Yes,-0.2,0.0667,0.2667
@@ -309,6 +317,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-20 11:04:59.498675,Eastern Conference - Eastern Conference To Participate in Play-In Tournament - To Participate in Eastern Conference Play-In Tournament,Charlotte Hornets,-0.2582,0.0196,0.2778
 2024-02-20 11:04:59.498675,Eastern Conference - Eastern Conference To Participate in Play-In Tournament - To Participate in Eastern Conference Play-In Tournament,New York Knicks,-0.2793,0.1053,0.3846
 2024-02-20 13:00:46.846918,Eastern Conference - Eastern Conference Number 2 Seed - Number 2 Seed,Boston Celtics,-0.2844,0.0141,0.2985
+2024-02-20 16:59:55.883677,NFL Draft '24 - Justin Fields 2024/25 - Team where Justin Fields will take his First Snap in the 2024/25 NFL Regular Season,Steelers,-0.3233,0.2222,0.5455
 2024-02-20 11:04:59.523525,Western Conference - Western Conference To Participate in Play-In Tournament - To Participate in Western Conference Play-In Tournament,L.A. Clippers,-0.3269,0.0435,0.3704
 2024-02-20 11:04:59.498675,Eastern Conference - Eastern Conference To Participate in Play-In Tournament - To Participate in Eastern Conference Play-In Tournament,Toronto Raptors,-0.36750000000000005,0.0769,0.4444
 2024-02-20 11:04:59.523525,Western Conference - Western Conference To Participate in Play-In Tournament - To Participate in Western Conference Play-In Tournament,Memphis Grizzlies,-0.3691,0.0476,0.4167
