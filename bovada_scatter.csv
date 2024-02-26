@@ -28,9 +28,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-25 17:10:11.162069,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Randers,0.027800000000000005,0.1111,0.0833
 2024-02-25 17:10:11.206166,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Randers,0.024,0.0625,0.0385
 2024-02-25 17:10:11.252732,Premiership - Scotland Premiership 2023/24 - Winner,Celtic,0.02260000000000001,0.4,0.3774
+2024-02-25 23:06:30.425203,KBO Futures - KBO 2024 Winner - Korea KBO 2024,LG Twins,0.021999999999999964,0.3077,0.2857
 2024-02-25 17:10:11.502183,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Tottenham Hotspur,0.019100000000000006,0.9524,0.9333
 2024-02-25 17:10:10.551422,A-League - Australia A-League 2023/24 - Grand Final Winner,Wellington Phoenix,0.01820000000000002,0.2,0.1818
 2024-02-25 17:10:11.429147,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Sheffield United,0.016700000000000048,0.75,0.7333
+2024-02-25 23:06:30.425203,KBO Futures - KBO 2024 Winner - Korea KBO 2024,Hanwha Eagles,0.015300000000000001,0.0476,0.0323
 2024-02-25 17:10:11.162069,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Lyngby BK,0.01469999999999999,0.25,0.2353
 2024-02-25 17:10:11.537783,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Brentford,0.014100000000000001,0.9756,0.9615
 2024-02-25 17:10:10.585926,A-League - Australia A-League 2023/24 - To Finish Bottom,Western United,0.0131,0.7778,0.7647
@@ -40,10 +42,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-25 17:10:11.311694,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Motherwell,-0.0102,0.0667,0.0769
 2024-02-25 17:10:11.502183,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Chelsea,-0.010399999999999993,0.2222,0.2326
 2024-02-25 17:10:11.128365,Superligaen - Denmark Superligaen 2023/24 - Winner,AGF Aarhus,-0.0109,0.004,0.0149
-2024-02-25 17:10:10.654305,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Macarthur FC,-0.013999999999999999,0.0769,0.0909
 2024-02-25 17:10:10.585926,A-League - Australia A-League 2023/24 - To Finish Bottom,Perth Glory,-0.013999999999999999,0.0769,0.0909
+2024-02-25 17:10:10.654305,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Macarthur FC,-0.013999999999999999,0.0769,0.0909
 2024-02-25 17:10:11.519800,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Chelsea,-0.014000000000000012,0.9091,0.9231
 2024-02-25 17:10:11.519800,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Everton,-0.014099999999999998,0.0244,0.0385
+2024-02-25 23:06:30.425203,KBO Futures - KBO 2024 Winner - Korea KBO 2024,NC Dinos,-0.014399999999999996,0.0625,0.0769
 2024-02-25 17:10:11.343724,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,St. Mirren,-0.01469999999999999,0.2353,0.25
 2024-02-25 15:10:38.641387,Serie A - Italy Serie A 2023/24 - Winner,Juventus,-0.014900000000000004,0.0196,0.0345
 2024-02-25 17:10:11.179503,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Silkeborg IF,-0.015300000000000001,0.0435,0.0588
@@ -58,6 +61,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-25 17:10:11.519800,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Crystal Palace,-0.0203,0.0385,0.0588
 2024-02-25 17:10:11.206166,Superligaen - Denmark Superligaen 2023/24 - Top 6 Finish,Odense,-0.023200000000000002,0.0294,0.0526
 2024-02-25 17:10:11.450397,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Tottenham Hotspur,-0.0236,0.0149,0.0385
+2024-02-25 23:06:30.425203,KBO Futures - KBO 2024 Winner - Korea KBO 2024,Lotte Giants,-0.024,0.0385,0.0625
 2024-02-25 15:10:38.527176,La Liga - Spain La Liga 2023/24 - Winner,Girona,-0.024299999999999995,0.0345,0.0588
 2024-02-25 15:10:38.590729,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayer Leverkusen,-0.025000000000000022,0.875,0.9
 2024-02-25 13:09:09.149435,Caitlin Clark Specials - Caitlin Clark Specials - Caitlin Clark Specials,Caitlin Clark to Return to Iowa for a 5th year,-0.026500000000000024,0.3509,0.3774
