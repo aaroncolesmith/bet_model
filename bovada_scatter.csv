@@ -1,7 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-02-29 05:07:02.249342,Dune: Part Two - Dune Part Two Performance - Dune 2,To win an Oscar for Best Picture,0.1666,0.3333,0.1667
+2024-02-29 17:10:31.127328,WNBL - Australia WNBL 2023/24 - Outright,Perth Lynx (W),0.14379999999999998,0.2105,0.0667
 2024-02-29 09:06:55.264275,To Make the Playoffs - Los Angeles Lakers - To Make the 2023-24 Playoffs,Yes,0.12080000000000002,0.5652,0.4444
-2024-02-29 05:07:02.249342,Dune: Part Two - Dune Part Two Performance - Dune 2,To Gross more than Dune 1 at the Box Office,0.11110000000000003,0.4444,0.3333
 2024-02-29 07:02:19.381990,Dune: Part Two - Dune Part Two Performance - Dune 2,To Gross more than Dune 1 at the Box Office,0.10109999999999997,0.5455,0.4444
 2024-02-29 09:06:55.425267,To Make the Playoffs - Sacramento Kings - To Make the 2023-24 Playoffs,No,0.0948,0.3448,0.25
 2024-02-29 11:08:25.475232,SDC Championship - SDC Championship - Winner,Connor Syme,0.07880000000000001,0.1111,0.0323
@@ -12,48 +11,45 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-29 07:02:42.113447,Jeddah - 2/3 Balls - 1st Round 3 Balls - J. Rahm / J. Niemann / P. Mickelson - 1st Round 3 Balls,Joaquin Niemann,0.05740000000000001,0.4348,0.3774
 2024-02-29 11:08:09.783008,NFL 2024 Sims - Madden 24 Sim Bowl Winner - Outright,Cleveland Browns,0.056400000000000006,0.1333,0.0769
 2024-02-29 07:02:41.807952,Jeddah - 2/3 Balls - 1st Round 3 Balls - B. DeChambeau / P. Reed / B. Watson - 1st Round 3 Balls,Bryson DeChambeau,0.05559999999999998,0.5,0.4444
-2024-02-29 05:07:22.674679,Boxing Lines - Min Ho Jung vs Shinsei Otani - To Win the Bout,Min Ho Jung,0.047099999999999975,0.5122,0.4651
 2024-02-29 11:08:25.475232,SDC Championship - SDC Championship - Winner,Jayden Schaper,0.044599999999999994,0.0769,0.0323
 2024-02-29 07:02:42.176988,Jeddah - 2/3 Balls - 1st Round 3 Balls - P. Casey / S. Munoz / I. Poulter - 1st Round 3 Balls,Ian Poulter,0.03570000000000001,0.2857,0.25
-2024-02-29 09:07:14.714645,Jeddah - 2/3 Balls - 1st Round 3 Balls - J. Kokrak / L. Herbert / L. Westwood - 1st Round 3 Balls,Lucas Herbert,0.0348,0.4348,0.4
 2024-02-29 09:07:14.614873,Jeddah - 2/3 Balls - 1st Round 3 Balls - D. Puig / H. Stenson / T. Pieters - 1st Round 3 Balls,David Puig,0.0348,0.4348,0.4
+2024-02-29 09:07:14.714645,Jeddah - 2/3 Balls - 1st Round 3 Balls - J. Kokrak / L. Herbert / L. Westwood - 1st Round 3 Balls,Lucas Herbert,0.0348,0.4348,0.4
 2024-02-29 11:08:25.475232,SDC Championship - SDC Championship - Winner,Wilco Nienaber,0.0335,0.0476,0.0141
 2024-02-29 11:08:25.475232,SDC Championship - SDC Championship - Winner,Tom McKibbin,0.0321,0.0909,0.0588
 2024-02-29 09:06:55.105640,To Make the Playoffs - Atlanta Hawks - To Make the 2023-24 Playoffs,Yes,0.0305,0.1905,0.16
 2024-02-29 07:02:42.073145,Jeddah - 2/3 Balls - 1st Round 3 Balls - J. Kokrak / L. Herbert / L. Westwood - 1st Round 3 Balls,Lucas Herbert,0.029600000000000015,0.4,0.3704
-2024-02-29 09:07:15.209523,Position - Finishing Position - Tyrrell Hatton - Finishing Position,13th or worse,0.028900000000000037,0.5744,0.5455
+2024-02-29 09:07:15.097363,Position - Finishing Position - Joaquin Niemann - Finishing Position,11th or worse,0.028900000000000037,0.5744,0.5455
 2024-02-29 09:07:15.131361,Position - Finishing Position - Jon Rahm - Finishing Position,7th or worse,0.028900000000000037,0.5744,0.5455
-2024-02-29 09:07:14.929307,Position - Finishing Position - Brooks Koepka - Finishing Position,11th or worse,0.028900000000000037,0.5744,0.5455
+2024-02-29 09:07:15.209523,Position - Finishing Position - Tyrrell Hatton - Finishing Position,13th or worse,0.028900000000000037,0.5744,0.5455
 2024-02-29 09:07:15.179903,Position - Finishing Position - Talor Gooch - Finishing Position,13th or worse,0.028900000000000037,0.5744,0.5455
-2024-02-29 09:07:14.969438,Position - Finishing Position - Bryson DeChambeau - Finishing Position,14th or worse,0.028900000000000037,0.5744,0.5455
+2024-02-29 09:07:14.929307,Position - Finishing Position - Brooks Koepka - Finishing Position,11th or worse,0.028900000000000037,0.5744,0.5455
 2024-02-29 09:07:14.997711,Position - Finishing Position - Cameron Smith - Finishing Position,15th or worse,0.028900000000000037,0.5744,0.5455
 2024-02-29 09:07:15.064518,Position - Finishing Position - Dustin Johnson - Finishing Position,10th or worse,0.028900000000000037,0.5744,0.5455
-2024-02-29 09:07:15.097363,Position - Finishing Position - Joaquin Niemann - Finishing Position,11th or worse,0.028900000000000037,0.5744,0.5455
+2024-02-29 09:07:14.969438,Position - Finishing Position - Bryson DeChambeau - Finishing Position,14th or worse,0.028900000000000037,0.5744,0.5455
 2024-02-29 07:02:42.276594,Jeddah - 2/3 Balls - 1st Round 3 Balls - T. Hatton / L. Oosthuizen / M. Pereira - 1st Round 3 Balls,Mito Pereira,0.02679999999999999,0.3125,0.2857
-2024-02-29 11:08:24.932749,Position - Finishing Position - Talor Gooch - Finishing Position,13th or worse,0.025599999999999956,0.6,0.5744
 2024-02-29 11:08:24.747301,Position - Finishing Position - Brooks Koepka - Finishing Position,11th or worse,0.025599999999999956,0.6,0.5744
 2024-02-29 11:08:24.836513,Position - Finishing Position - Dustin Johnson - Finishing Position,10th or worse,0.025599999999999956,0.6,0.5744
+2024-02-29 11:08:24.932749,Position - Finishing Position - Talor Gooch - Finishing Position,13th or worse,0.025599999999999956,0.6,0.5744
 2024-02-29 11:08:22.659766,Boxing Lines - Min Ho Jung vs Shinsei Otani - To Win the Bout,Min Ho Jung,0.023800000000000043,0.5238,0.5
 2024-02-29 09:07:14.655064,Jeddah - 2/3 Balls - 1st Round 3 Balls - E. Lopez-Chacarra / S. Horsfield / A. Ogletree - 1st Round 3 Balls,Sam Horsfield,0.023799999999999988,0.3571,0.3333
 2024-02-29 09:06:55.358412,To Make the Playoffs - Philadelphia 76ers - To Make the 2023-24 Playoffs,No,0.02210000000000001,0.2326,0.2105
 2024-02-29 09:07:14.803518,Jeddah - 2/3 Balls - 1st Round 3 Balls - P. Casey / S. Munoz / I. Poulter - 1st Round 3 Balls,Ian Poulter,0.021999999999999964,0.3077,0.2857
+2024-02-29 17:10:54.590755,Tournament Match-Ups - Tournament Match-Up - J. Kokrak vs M. Wolff - Tournament Match-Up,Matthew Wolff,0.02169999999999994,0.5455,0.5238
+2024-02-29 17:10:31.127328,WNBL - Australia WNBL 2023/24 - Outright,Southside Flyers (W),0.020699999999999996,0.4651,0.4444
 2024-02-29 09:06:55.391027,To Make the Playoffs - Phoenix Suns - To Make the 2023-24 Playoffs,Yes,0.020100000000000007,0.8462,0.8261
 2024-02-29 11:08:25.475232,SDC Championship - SDC Championship - Winner,Nick Bachem,0.020000000000000004,0.0323,0.0123
 2024-02-29 09:07:15.327617,Tournament Match-Ups - Tournament Match-Up - B. DeChambeau vs D. Johnson - Tournament Match-Up,Bryson DeChambeau,0.01970000000000005,0.5652,0.5455
 2024-02-29 09:07:15.367003,Tournament Match-Ups - Tournament Match-Up - B. Koepka vs B. DeChambeau - Tournament Match-Up,Bryson DeChambeau,0.01970000000000005,0.5652,0.5455
 2024-02-29 11:08:25.475232,SDC Championship - SDC Championship - Winner,Ugo Coussaud,0.0189,0.0385,0.0196
-2024-02-29 05:06:58.538329,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Lautaro Martinez (Inter Milan),0.01849999999999996,0.9709,0.9524
 2024-02-29 07:02:41.948238,Jeddah - 2/3 Balls - 1st Round 3 Balls - D. Burmester / C. Howell III / M. Leishman - 1st Round 3 Balls,Dean Burmester,0.018100000000000005,0.4348,0.4167
-2024-02-29 05:07:23.267020,Boxing Lines - Jonathan Gonzalez vs Rene Santiago - To Win the Bout,Rene Santiago,0.01680000000000001,0.2273,0.2105
 2024-02-29 09:07:12.186386,Boxing Lines - Bryce Mills vs Gerfred Ngayot - To Win the Bout,Gerfred Ngayot,0.016700000000000007,0.1,0.0833
 2024-02-29 07:02:41.970957,Jeddah - 2/3 Balls - 1st Round 3 Balls - D. Johnson / B. Koepka / P. Uihlein - 1st Round 3 Balls,Peter Uihlein,0.016699999999999993,0.2667,0.25
 2024-02-29 11:08:25.475232,SDC Championship - SDC Championship - Winner,Matteo Manassero,0.014599999999999998,0.0196,0.005
 2024-02-29 15:11:35.401335,BKFC Prospect Series: Canada - Stan Surmacz vs Reuben Roundstone - To Win the Bout,Stan Surmacz,0.013900000000000023,0.8889,0.875
 2024-02-29 09:06:55.129300,To Make the Playoffs - Chicago Bulls - To Make the 2023-24 Playoffs,Yes,0.01319999999999999,0.2632,0.25
 2024-02-29 11:08:25.475232,SDC Championship - SDC Championship - Winner,Francesco Laporta,0.013,0.0196,0.0066
-2024-02-29 05:07:23.449317,Boxing Lines - Anthony Joshua vs Francis Ngannou - To Win the Bout,Francis Ngannou,0.012799999999999978,0.2597,0.2469
 2024-02-29 11:08:25.475232,SDC Championship - SDC Championship - Winner,Malcolm Mitchell,0.0127,0.0152,0.0025
-2024-02-29 05:07:22.903988,Boxing Lines - Kajetan Kalinowski vs Lukasz Stanioch - To Win the Bout,Kajetan Kalinowski,0.012199999999999989,0.5,0.4878
 2024-02-29 09:06:55.203399,To Make the Playoffs - Golden State Warriors - To Make the 2023-24 Playoffs,Yes,0.012199999999999989,0.5122,0.5
 2024-02-29 11:08:25.475232,SDC Championship - SDC Championship - Winner,Robin Williams,0.011699999999999999,0.0196,0.0079
 2024-02-29 07:02:42.247568,Jeddah - 2/3 Balls - 1st Round 3 Balls - T. Gooch / S. Garcia / C. Ortiz - 1st Round 3 Balls,Sergio Garcia,0.01150000000000001,0.3448,0.3333
@@ -63,7 +59,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-29 11:08:25.475232,SDC Championship - SDC Championship - Winner,Brandon Stone,-0.0101,0.004,0.0141
 2024-02-29 11:08:25.475232,SDC Championship - SDC Championship - Winner,Adrien Saddier,-0.0103,0.002,0.0123
 2024-02-29 11:08:25.475232,SDC Championship - SDC Championship - Winner,Jaco Prinsloo,-0.011300000000000001,0.001,0.0123
-2024-02-29 05:07:23.449317,Boxing Lines - Anthony Joshua vs Francis Ngannou - To Win the Bout,Anthony Joshua,-0.011900000000000022,0.8095,0.8214
 2024-02-29 07:02:38.440369,Boxing Lines - Min Ho Jung vs Shinsei Otani - To Win the Bout,Min Ho Jung,-0.012199999999999989,0.5,0.5122
 2024-02-29 07:02:42.276594,Jeddah - 2/3 Balls - 1st Round 3 Balls - T. Hatton / L. Oosthuizen / M. Pereira - 1st Round 3 Balls,Louis Oosthuizen,-0.012299999999999978,0.3448,0.3571
 2024-02-29 09:07:14.614873,Jeddah - 2/3 Balls - 1st Round 3 Balls - D. Puig / H. Stenson / T. Pieters - 1st Round 3 Balls,Henrik Stenson,-0.012699999999999989,0.3509,0.3636
@@ -76,21 +71,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-29 09:06:55.391027,To Make the Playoffs - Phoenix Suns - To Make the 2023-24 Playoffs,No,-0.015899999999999997,0.2222,0.2381
 2024-02-29 15:11:35.401335,BKFC Prospect Series: Canada - Stan Surmacz vs Reuben Roundstone - To Win the Bout,Reuben Roundstone,-0.016600000000000004,0.1739,0.1905
 2024-02-29 09:07:14.803518,Jeddah - 2/3 Balls - 1st Round 3 Balls - P. Casey / S. Munoz / I. Poulter - 1st Round 3 Balls,Paul Casey,-0.016699999999999993,0.4,0.4167
-2024-02-29 05:07:23.014331,Boxing Lines - Christopher Diaz vs Headley Scott - To Win the Bout,Headley Scott,-0.016700000000000007,0.0833,0.1
-2024-02-29 05:07:23.267020,Boxing Lines - Jonathan Gonzalez vs Rene Santiago - To Win the Bout,Jonathan Gonzalez,-0.016799999999999926,0.8403,0.8571
 2024-02-29 07:02:42.176988,Jeddah - 2/3 Balls - 1st Round 3 Balls - P. Casey / S. Munoz / I. Poulter - 1st Round 3 Balls,Paul Casey,-0.018100000000000005,0.4167,0.4348
 2024-02-29 11:08:25.475232,SDC Championship - SDC Championship - Winner,Julien Guerrier,-0.0186,0.001,0.0196
 2024-02-29 07:02:42.276594,Jeddah - 2/3 Balls - 1st Round 3 Balls - T. Hatton / L. Oosthuizen / M. Pereira - 1st Round 3 Balls,Tyrrell Hatton,-0.019699999999999995,0.4348,0.4545
 2024-02-29 11:08:22.659766,Boxing Lines - Min Ho Jung vs Shinsei Otani - To Win the Bout,Shinsei Otani,-0.01970000000000005,0.5455,0.5652
 2024-02-29 09:07:14.614873,Jeddah - 2/3 Balls - 1st Round 3 Balls - D. Puig / H. Stenson / T. Pieters - 1st Round 3 Balls,Thomas Pieters,-0.020799999999999985,0.3125,0.3333
-2024-02-29 11:08:24.747301,Position - Finishing Position - Brooks Koepka - Finishing Position,10th or better,-0.022699999999999998,0.4651,0.4878
-2024-02-29 11:08:24.836513,Position - Finishing Position - Dustin Johnson - Finishing Position,9th or better,-0.022699999999999998,0.4651,0.4878
+2024-02-29 17:10:54.590755,Tournament Match-Ups - Tournament Match-Up - J. Kokrak vs M. Wolff - Tournament Match-Up,Jason Kokrak,-0.02169999999999994,0.5238,0.5455
 2024-02-29 11:08:24.932749,Position - Finishing Position - Talor Gooch - Finishing Position,12th or better,-0.022699999999999998,0.4651,0.4878
+2024-02-29 11:08:24.836513,Position - Finishing Position - Dustin Johnson - Finishing Position,9th or better,-0.022699999999999998,0.4651,0.4878
+2024-02-29 11:08:24.747301,Position - Finishing Position - Brooks Koepka - Finishing Position,10th or better,-0.022699999999999998,0.4651,0.4878
 2024-02-29 09:06:55.358412,To Make the Playoffs - Philadelphia 76ers - To Make the 2023-24 Playoffs,Yes,-0.023799999999999932,0.8333,0.8571
+2024-02-29 17:10:31.127328,WNBL - Australia WNBL 2023/24 - Outright,Townsville Fire (W),-0.023799999999999988,0.3333,0.3571
 2024-02-29 11:08:25.475232,SDC Championship - SDC Championship - Winner,Romain Langasque,-0.023799999999999998,0.004,0.0278
 2024-02-29 07:02:42.073145,Jeddah - 2/3 Balls - 1st Round 3 Balls - J. Kokrak / L. Herbert / L. Westwood - 1st Round 3 Balls,Jason Kokrak,-0.023800000000000043,0.5,0.5238
-2024-02-29 09:07:15.327617,Tournament Match-Ups - Tournament Match-Up - B. DeChambeau vs D. Johnson - Tournament Match-Up,Dustin Johnson,-0.023800000000000043,0.5,0.5238
 2024-02-29 09:07:15.367003,Tournament Match-Ups - Tournament Match-Up - B. Koepka vs B. DeChambeau - Tournament Match-Up,Brooks Koepka,-0.023800000000000043,0.5,0.5238
+2024-02-29 09:07:15.327617,Tournament Match-Ups - Tournament Match-Up - B. DeChambeau vs D. Johnson - Tournament Match-Up,Dustin Johnson,-0.023800000000000043,0.5,0.5238
 2024-02-29 09:07:14.655064,Jeddah - 2/3 Balls - 1st Round 3 Balls - E. Lopez-Chacarra / S. Horsfield / A. Ogletree - 1st Round 3 Balls,Eugenio Lopez-Chacarra,-0.025499999999999967,0.4,0.4255
 2024-02-29 11:08:25.475232,SDC Championship - SDC Championship - Winner,Niklas Norgaard,-0.028300000000000002,0.004,0.0323
 2024-02-29 11:08:25.475232,SDC Championship - SDC Championship - Winner,Antoine Rozner,-0.029399999999999996,0.0141,0.0435
@@ -99,17 +94,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-02-29 11:08:25.475232,SDC Championship - SDC Championship - Winner,Joost Luiten,-0.0313,0.001,0.0323
 2024-02-29 11:08:25.475232,SDC Championship - SDC Championship - Winner,Hennie Du Plessis,-0.0345,0.004,0.0385
 2024-02-29 09:07:14.714645,Jeddah - 2/3 Balls - 1st Round 3 Balls - J. Kokrak / L. Herbert / L. Westwood - 1st Round 3 Balls,Jason Kokrak,-0.03489999999999999,0.4651,0.5
+2024-02-29 09:07:15.179903,Position - Finishing Position - Talor Gooch - Finishing Position,12th or better,-0.03600000000000003,0.4878,0.5238
+2024-02-29 09:07:15.131361,Position - Finishing Position - Jon Rahm - Finishing Position,6th or better,-0.03600000000000003,0.4878,0.5238
+2024-02-29 09:07:15.097363,Position - Finishing Position - Joaquin Niemann - Finishing Position,10th or better,-0.03600000000000003,0.4878,0.5238
+2024-02-29 09:07:15.209523,Position - Finishing Position - Tyrrell Hatton - Finishing Position,12th or better,-0.03600000000000003,0.4878,0.5238
 2024-02-29 09:07:15.064518,Position - Finishing Position - Dustin Johnson - Finishing Position,9th or better,-0.03600000000000003,0.4878,0.5238
 2024-02-29 09:07:14.997711,Position - Finishing Position - Cameron Smith - Finishing Position,14th or better,-0.03600000000000003,0.4878,0.5238
-2024-02-29 09:07:14.929307,Position - Finishing Position - Brooks Koepka - Finishing Position,10th or better,-0.03600000000000003,0.4878,0.5238
-2024-02-29 09:07:15.209523,Position - Finishing Position - Tyrrell Hatton - Finishing Position,12th or better,-0.03600000000000003,0.4878,0.5238
 2024-02-29 09:07:14.969438,Position - Finishing Position - Bryson DeChambeau - Finishing Position,13th or better,-0.03600000000000003,0.4878,0.5238
-2024-02-29 09:07:15.179903,Position - Finishing Position - Talor Gooch - Finishing Position,12th or better,-0.03600000000000003,0.4878,0.5238
-2024-02-29 09:07:15.097363,Position - Finishing Position - Joaquin Niemann - Finishing Position,10th or better,-0.03600000000000003,0.4878,0.5238
-2024-02-29 09:07:15.131361,Position - Finishing Position - Jon Rahm - Finishing Position,6th or better,-0.03600000000000003,0.4878,0.5238
+2024-02-29 09:07:14.929307,Position - Finishing Position - Brooks Koepka - Finishing Position,10th or better,-0.03600000000000003,0.4878,0.5238
 2024-02-29 11:08:25.475232,SDC Championship - SDC Championship - Winner,Thriston Lawrence,-0.04229999999999999,0.0244,0.0667
 2024-02-29 11:08:25.475232,SDC Championship - SDC Championship - Winner,Keita Nakajima,-0.042499999999999996,0.001,0.0435
-2024-02-29 05:07:22.674679,Boxing Lines - Min Ho Jung vs Shinsei Otani - To Win the Bout,Shinsei Otani,-0.044399999999999995,0.5556,0.6
 2024-02-29 11:08:25.475232,SDC Championship - SDC Championship - Winner,Ewen Ferguson,-0.047099999999999996,0.0196,0.0667
 2024-02-29 07:02:42.113447,Jeddah - 2/3 Balls - 1st Round 3 Balls - J. Rahm / J. Niemann / P. Mickelson - 1st Round 3 Balls,Phil Mickelson,-0.05679999999999999,0.125,0.1818
 2024-02-29 11:08:25.475232,SDC Championship - SDC Championship - Winner,Zander Lombard,-0.056799999999999996,0.002,0.0588
