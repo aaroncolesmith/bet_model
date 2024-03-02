@@ -12,6 +12,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-01 21:11:27.945119,Round Match-Ups - 3rd Round Match-Up - S. Lowry vs T. Kim - 3rd Round Match-Up,Tom Kim,0.03959999999999997,0.5744,0.5348
 2024-03-01 15:10:29.277073,BKFC Prospect Series: Canada - Stan Surmacz vs Reuben Roundstone - To Win the Bout,Stan Surmacz,0.03420000000000001,0.9231,0.8889
 2024-03-01 11:10:44.938591,SDC Championship - SDC Championship - Winner,James Nicholas,0.032400000000000005,0.0476,0.0152
+2024-03-01 23:08:54.862550,NFL Draft '24 - Team To Draft Player - J.J McCarthy,New England Patriots,0.02840000000000001,0.1053,0.0769
 2024-03-01 11:10:19.470852,96th Academy Awards - Best Live Action Short - Best Live Action Short,"Red, White & Blue",0.028399999999999995,0.0909,0.0625
 2024-03-01 11:10:19.536031,96th Academy Awards - Best Original Score - Best Original Score,Killers Of The Flower Moon - Robbie Robertson,0.0267,0.1176,0.0909
 2024-03-01 11:10:43.158457,Boxing Lines - Justis Huni vs Kevin Lerena - To Win the Bout,Justis Huni,0.025999999999999912,0.7403,0.7143
@@ -22,10 +23,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-01 11:10:44.938591,SDC Championship - SDC Championship - Winner,Shaun Norris,0.0242,0.0909,0.0667
 2024-03-01 17:08:01.365352,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Macarthur FC,0.02310000000000001,0.1,0.0769
 2024-03-01 19:12:03.056331,Round Match-Ups - 2nd Round Match-Up - B. Koepka vs C. Smith - 2nd Round Match-Up,Cameron Smith,0.022699999999999998,0.4878,0.4651
+2024-03-01 23:09:07.601735,Round Match-Ups - 2nd Round Match-Up - B. Steele vs C. Schwartzel - 2nd Round Match-Up,Brendan Steele,0.022600000000000064,0.5348,0.5122
 2024-03-01 11:10:44.938591,SDC Championship - SDC Championship - Winner,Jordan Gumberg,0.022400000000000003,0.0323,0.0099
-2024-03-01 21:11:27.263848,Scores - 2nd Round Score - Jon Rahm - 2nd Round Score,Under 67.5,0.01880000000000004,0.6552,0.6364
-2024-03-01 17:08:21.232130,Round Match-Ups - 2nd Round Match-Up - J. Niemann vs T. Hatton - 2nd Round Match-Up,Joaquin Niemann,0.01880000000000004,0.5744,0.5556
 2024-03-01 17:08:21.087375,Round Match-Ups - 2nd Round Match-Up - B. Koepka vs C. Smith - 2nd Round Match-Up,Brooks Koepka,0.01880000000000004,0.5744,0.5556
+2024-03-01 17:08:21.232130,Round Match-Ups - 2nd Round Match-Up - J. Niemann vs T. Hatton - 2nd Round Match-Up,Joaquin Niemann,0.01880000000000004,0.5744,0.5556
+2024-03-01 21:11:27.263848,Scores - 2nd Round Score - Jon Rahm - 2nd Round Score,Under 67.5,0.01880000000000004,0.6552,0.6364
 2024-03-01 19:11:37.910422,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Brøndby IF,0.018100000000000005,0.9412,0.9231
 2024-03-01 11:10:42.200340,Boxing Lines - Phumiritdet Chonlathondamrongkun vs Hinata Maruta - To Win the Bout,Hinata Maruta,0.016799999999999926,0.8571,0.8403
 2024-03-01 21:11:28.280711,SDC Championship - 2/3 Balls - 3rd Round 2-Balls - G. Green / T. McKibbin - 3rd Round 2-Balls,Tom McKibbin,0.016100000000000003,0.6078,0.5917
@@ -41,17 +43,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-01 21:11:24.819067,Boxing Lines - Stanley Stannard vs Ashlee Eales - To Win the Bout,Ashlee Eales,0.012299999999999978,0.3571,0.3448
 2024-03-01 19:12:00.835430,Boxing Lines - Kajetan Kalinowski vs Lukasz Stanioch - To Win the Bout,Kajetan Kalinowski,0.012199999999999989,0.5122,0.5
 2024-03-01 15:10:28.088512,Boxing Lines - Brian Norman Jr. vs Janelson Figueroa Bocachica - To Win the Bout,Janelson Figueroa Bocachica,0.011700000000000016,0.2222,0.2105
+2024-03-01 23:09:05.715403,Boxing Lines - Kajetan Kalinowski vs Lukasz Stanioch - To Win the Bout,Kajetan Kalinowski,0.011600000000000055,0.5238,0.5122
 2024-03-01 11:10:42.449121,Boxing Lines - Kacper Meyna vs Adam Kownacki - To Win the Bout,Kacper Meyna,0.0116,0.4878,0.4762
-2024-03-01 17:08:01.337903,A-League - Australia A-League 2023/24 - Grand Final Winner,Macarthur FC,0.011099999999999999,0.1111,0.1
-2024-03-01 21:11:25.300415,Boxing Lines - Luis Alberto Lopez vs Abe Reiya - To Win the Bout,Luis Alberto Lopez,0.011099999999999999,0.9,0.8889
 2024-03-01 11:10:42.123193,Boxing Lines - Abass Baraou vs Sam Eggington - To Win the Bout,Abass Baraou,0.011099999999999999,0.7937,0.7826
 2024-03-01 15:10:29.371143,BKFC Prospect Series: Canada - Robert Desharnais vs Desi Johnson - To Win the Bout,Robert Desharnais,0.011099999999999999,0.9,0.8889
+2024-03-01 17:08:01.337903,A-League - Australia A-League 2023/24 - Grand Final Winner,Macarthur FC,0.011099999999999999,0.1111,0.1
+2024-03-01 21:11:25.300415,Boxing Lines - Luis Alberto Lopez vs Abe Reiya - To Win the Bout,Luis Alberto Lopez,0.011099999999999999,0.9,0.8889
 2024-03-01 17:08:19.610546,Boxing Lines - Otabek Kholmatov vs Raymond Ford - To Win the Bout,Raymond Ford,0.010599999999999998,0.4651,0.4545
 2024-03-01 13:11:00.040614,Boxing Lines - Brian Norman Jr. vs Janelson Figueroa Bocachica - To Win the Bout,Janelson Figueroa Bocachica,0.010499999999999982,0.2105,0.2
+2024-03-01 23:09:05.715403,Boxing Lines - Kajetan Kalinowski vs Lukasz Stanioch - To Win the Bout,Lukasz Stanioch,-0.010099999999999998,0.5455,0.5556
 2024-03-01 19:11:37.910422,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,Silkeborg IF,-0.010100000000000001,0.0244,0.0345
 2024-03-01 15:10:29.310372,BKFC Prospect Series: Canada - Sonny Smith vs Jeremiah Riggs - To Win the Bout,Jeremiah Riggs,-0.010299999999999976,0.2564,0.2667
-2024-03-01 15:10:27.872820,Boxing Lines - Kacper Meyna vs Adam Kownacki - To Win the Bout,Kacper Meyna,-0.010599999999999998,0.4545,0.4651
 2024-03-01 19:12:01.513899,Boxing Lines - Otabek Kholmatov vs Raymond Ford - To Win the Bout,Raymond Ford,-0.010599999999999998,0.4545,0.4651
+2024-03-01 15:10:27.872820,Boxing Lines - Kacper Meyna vs Adam Kownacki - To Win the Bout,Kacper Meyna,-0.010599999999999998,0.4545,0.4651
 2024-03-01 17:08:03.934107,WNBL - Australia WNBL 2023/24 - Outright,Southside Flyers (W),-0.010599999999999998,0.4545,0.4651
 2024-03-01 15:10:28.088512,Boxing Lines - Brian Norman Jr. vs Janelson Figueroa Bocachica - To Win the Bout,Brian Norman Jr.,-0.01090000000000002,0.8462,0.8571
 2024-03-01 17:08:01.365352,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Melbourne City,-0.011199999999999995,0.0476,0.0588
@@ -64,23 +68,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-01 21:11:24.819067,Boxing Lines - Stanley Stannard vs Ashlee Eales - To Win the Bout,Stanley Stannard,-0.01629999999999998,0.7059,0.7222
 2024-03-01 11:10:44.938591,SDC Championship - SDC Championship - Winner,Ugo Coussaud,-0.0168,0.0217,0.0385
 2024-03-01 11:10:42.200340,Boxing Lines - Phumiritdet Chonlathondamrongkun vs Hinata Maruta - To Win the Bout,Phumiritdet Chonlathondamrongkun,-0.01680000000000001,0.2105,0.2273
-2024-03-01 11:10:42.449121,Boxing Lines - Kacper Meyna vs Adam Kownacki - To Win the Bout,Adam Kownacki,-0.017299999999999982,0.5744,0.5917
 2024-03-01 11:10:42.896642,Boxing Lines - Sukhdeep Singh vs Gino Natalio Godoy - To Win the Bout,Gino Natalio Godoy,-0.017299999999999982,0.2857,0.303
 2024-03-01 21:11:27.263848,Scores - 2nd Round Score - Jon Rahm - 2nd Round Score,Over 67.5,-0.017299999999999982,0.4082,0.4255
-2024-03-01 11:10:44.938591,SDC Championship - SDC Championship - Winner,Matteo Manassero,-0.017599999999999998,0.002,0.0196
+2024-03-01 11:10:42.449121,Boxing Lines - Kacper Meyna vs Adam Kownacki - To Win the Bout,Adam Kownacki,-0.017299999999999982,0.5744,0.5917
 2024-03-01 11:10:44.938591,SDC Championship - SDC Championship - Winner,Manuel Elvira,-0.017599999999999998,0.002,0.0196
+2024-03-01 11:10:44.938591,SDC Championship - SDC Championship - Winner,Matteo Manassero,-0.017599999999999998,0.002,0.0196
 2024-03-01 11:10:19.470852,96th Academy Awards - Best Live Action Short - Best Live Action Short,The Wonderful Story Of Henry Sugar,-0.017900000000000027,0.8571,0.875
 2024-03-01 15:10:29.238756,BKFC Prospect Series: Canada - Chad Lucanas vs Trai Santos - To Win the Bout,Trai Santos,-0.01820000000000002,0.1818,0.2
 2024-03-01 13:10:59.515612,Boxing Lines - Abass Baraou vs Sam Eggington - To Win the Bout,Abass Baraou,-0.01849999999999996,0.7752,0.7937
 2024-03-01 19:12:03.056331,Round Match-Ups - 2nd Round Match-Up - B. Koepka vs C. Smith - 2nd Round Match-Up,Brooks Koepka,-0.01880000000000004,0.5556,0.5744
 2024-03-01 11:10:44.938591,SDC Championship - SDC Championship - Winner,Thriston Lawrence,-0.0194,0.005,0.0244
 2024-03-01 15:10:06.877558,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Fernanda,-0.02020000000000001,0.0909,0.1111
-2024-03-01 19:11:37.910422,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,AGF Aarhus,-0.02020000000000001,0.0909,0.1111
 2024-03-01 11:10:44.938591,SDC Championship - SDC Championship - Winner,Connor Syme,-0.02020000000000001,0.0909,0.1111
+2024-03-01 19:11:37.910422,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,AGF Aarhus,-0.02020000000000001,0.0909,0.1111
 2024-03-01 19:11:37.910422,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Nordsjælland,-0.022199999999999998,0.2,0.2222
-2024-03-01 13:10:59.816017,Boxing Lines - Kacper Meyna vs Adam Kownacki - To Win the Bout,Kacper Meyna,-0.022699999999999998,0.4651,0.4878
-2024-03-01 17:08:21.087375,Round Match-Ups - 2nd Round Match-Up - B. Koepka vs C. Smith - 2nd Round Match-Up,Cameron Smith,-0.022699999999999998,0.4651,0.4878
+2024-03-01 23:09:07.601735,Round Match-Ups - 2nd Round Match-Up - B. Steele vs C. Schwartzel - 2nd Round Match-Up,Charl Schwartzel,-0.022600000000000064,0.5122,0.5348
 2024-03-01 17:08:21.232130,Round Match-Ups - 2nd Round Match-Up - J. Niemann vs T. Hatton - 2nd Round Match-Up,Tyrrell Hatton,-0.022699999999999998,0.4651,0.4878
+2024-03-01 17:08:21.087375,Round Match-Ups - 2nd Round Match-Up - B. Koepka vs C. Smith - 2nd Round Match-Up,Cameron Smith,-0.022699999999999998,0.4651,0.4878
+2024-03-01 13:10:59.816017,Boxing Lines - Kacper Meyna vs Adam Kownacki - To Win the Bout,Kacper Meyna,-0.022699999999999998,0.4651,0.4878
 2024-03-01 17:08:01.352474,A-League - Australia A-League 2023/24 - Top 6 Finish,Sydney FC,-0.025600000000000067,0.6667,0.6923
 2024-03-01 17:08:01.200300,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayern Munich,-0.027999999999999997,0.1538,0.1818
 2024-03-01 11:10:43.158457,Boxing Lines - Justis Huni vs Kevin Lerena - To Win the Bout,Kevin Lerena,-0.028299999999999992,0.3226,0.3509
