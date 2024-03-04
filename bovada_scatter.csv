@@ -2,7 +2,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-03 17:09:28.119818,WNBL - Australia WNBL 2023/24 - Outright,Perth Lynx (W),0.2895,0.5,0.2105
 2024-03-03 19:08:00.059468,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Midtjylland,0.11359999999999998,0.3636,0.25
 2024-03-03 19:08:00.096836,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Lyngby BK,0.10709999999999997,0.3571,0.25
-2024-03-03 09:09:20.331902,96th Academy Awards - Best Animated Short - Best Animated Short,WAR IS OVER!,0.0988,0.4762,0.3774
 2024-03-03 11:09:21.708654,NFL Draft '24 - Draft Specials - BAL Ravens - Position of 1st Drafted Player in 2024 NFL Draft,Offensive Lineman,0.09549999999999997,0.5122,0.4167
 2024-03-03 19:07:59.540008,A-League - Australia A-League 2023/24 - Top 6 Finish,Brisbane Roar,0.09230000000000005,0.4,0.3077
 2024-03-03 11:09:21.829021,NFL Draft '24 - Draft Specials - GB Packers - Position of 1st Drafted Player in 2024 NFL Draft,Cornerback,0.0847,0.3704,0.2857
@@ -31,8 +30,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-03 11:09:21.934266,NFL Draft '24 - Draft Specials - NY Jets - Position of 1st Drafted Player in 2024 NFL Draft,Offensive Lineman,0.02100000000000002,0.6364,0.6154
 2024-03-03 11:09:21.795925,NFL Draft '24 - Draft Specials - DET Lions - Position of 1st Drafted Player in 2024 NFL Draft,Cornerback,0.02100000000000002,0.3846,0.3636
 2024-03-03 11:09:21.772480,NFL Draft '24 - Draft Specials - DAL Cowboys - Position of 1st Drafted Player in 2024 NFL Draft,Offensive Lineman,0.020699999999999996,0.4651,0.4444
-2024-03-03 11:09:21.756551,NFL Draft '24 - Draft Specials - CIN Bengals - Position of 1st Drafted Player in 2024 NFL Draft,Tight End,0.019699999999999995,0.125,0.1053
 2024-03-03 11:09:21.708654,NFL Draft '24 - Draft Specials - BAL Ravens - Position of 1st Drafted Player in 2024 NFL Draft,Wide Receiver,0.019699999999999995,0.125,0.1053
+2024-03-03 11:09:21.756551,NFL Draft '24 - Draft Specials - CIN Bengals - Position of 1st Drafted Player in 2024 NFL Draft,Tight End,0.019699999999999995,0.125,0.1053
 2024-03-03 17:09:31.355130,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dave Canales,0.019000000000000003,0.0625,0.0435
 2024-03-03 19:08:00.128618,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Copenhagen,0.01849999999999996,0.9709,0.9524
 2024-03-03 17:09:29.608735,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Detroit Lions,0.01820000000000002,0.2,0.1818
@@ -82,7 +81,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-03 13:09:15.792686,NFL Draft '24 - Draft Picks - #1 Pick,Drake Maye,-0.0642,0.1176,0.1818
 2024-03-03 11:09:21.603496,NFL Draft '24 - Draft Specials - Mr. Irrelevant's Position,Quarterback,-0.0726,0.25,0.3226
 2024-03-03 19:07:59.570510,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Melbourne Victory,-0.07930000000000001,0.1429,0.2222
-2024-03-03 09:09:20.331902,96th Academy Awards - Best Animated Short - Best Animated Short,Letter To A Pig,-0.08999999999999997,0.5652,0.6552
 2024-03-03 19:08:00.059468,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Copenhagen,-0.09040000000000004,0.4444,0.5348
 2024-03-03 19:08:00.096836,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Viborg FF,-0.09720000000000001,0.125,0.2222
 2024-03-03 17:09:28.119818,WNBL - Australia WNBL 2023/24 - Outright,Southside Flyers (W),-0.10360000000000003,0.3509,0.4545
