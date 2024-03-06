@@ -1436,8 +1436,6 @@ team_id,team_full_name,team_display_name,team_short_name,team_location,team_abbr
 945,Boston University Terriers,Boston U,Terriers,Boston University,BU,https://static.sprtactn.co/teamlogos/ncaab/100/bu.png,CC0000,D8D8D8,PATRIOTLEAGUE,D1,boston-university-terriers,15.0,16.0,,,,222746,
 931,Stetson Hatters,Stetson,Hatters,Stetson,STET,https://static.sprtactn.co/teamlogos/ncaab/100/stu.png,18581C,000000,ATLANTICSUN,D1,stetson-hatters,19.0,12.0,,,,222747,
 931,Stetson Hatters,Stetson,Hatters,Stetson,STET,https://static.sprtactn.co/teamlogos/ncaab/100/stu.png,18581C,000000,ATLANTICSUN,D1,stetson-hatters,20.0,12.0,,,,222747,
-1398,North Alabama Lions,North Alabama,Lions,North Alabama,UNA,https://assets.actionnetwork.com/485896_north-alabama-lions-logo-150x150_1_200x200.png,CCCCCC,000000,ATLANTICSUN,D1,north-alabama-lions,14.0,16.0,,,,222747,
-1398,North Alabama Lions,North Alabama,Lions,North Alabama,UNA,https://assets.actionnetwork.com/485896_north-alabama-lions-logo-150x150_1_200x200.png,CCCCCC,000000,ATLANTICSUN,D1,north-alabama-lions,15.0,16.0,,,,222747,
 935,Jacksonville Dolphins,Jacksonville,Dolphins,Jacksonville,JAC,https://static.sprtactn.co/teamlogos/ncaab/100/jac.png,008568,000000,ATLANTICSUN,D1,jacksonville-dolphins,15.0,16.0,,,,222750,
 935,Jacksonville Dolphins,Jacksonville,Dolphins,Jacksonville,JAC,https://static.sprtactn.co/teamlogos/ncaab/100/jac.png,008568,000000,ATLANTICSUN,D1,jacksonville-dolphins,16.0,16.0,,,,222750,
 767,Austin Peay Governors,Austin Peay,Governors,Austin Peay,PEAY,https://static.sprtactn.co/teamlogos/ncaab/100/apy.png,8E0B0B,000000,ATLANTICSUN,D1,austin-peay-governors,17.0,14.0,,,,222750,
@@ -1498,3 +1496,4 @@ team_id,team_full_name,team_display_name,team_short_name,team_location,team_abbr
 187,Baltimore Orioles,Orioles,Orioles,Baltimore,BAL,https://static.sprtactn.co/teamlogos/mlb/100/bal.png,DF4601,000000,AL,EAST,baltimore-orioles,10.0,2.0,,,,221876,
 199,Houston Astros,Astros,Astros,Houston,HOU,https://static.sprtactn.co/teamlogos/mlb/100/hou.png,EB6E1F,002D62,AL,WEST,houston-astros,6.0,5.0,,,,221877,
 213,New York Mets,Mets,Mets,New York,NYM,https://static.sprtactn.co/teamlogos/mlb/100/nym.png,FF5910,002D72,NL,EAST,new-york-mets,5.0,5.0,,,,221877,
+1398,North Alabama Lions,North Alabama,Lions,North Alabama,UNA,https://assets.actionnetwork.com/485896_north-alabama-lions-logo-150x150_1_200x200.png,CCCCCC,000000,ATLANTICSUN,D1,north-alabama-lions,15.0,16.0,,,,222750,
