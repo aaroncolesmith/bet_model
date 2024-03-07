@@ -1,20 +1,31 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-07 03:04:37.103470,Blue Bay LPGA - Blue Bay LPGA - Winner,Minjee Lee,0.25,0.3333,0.0833
+2024-03-07 09:02:22.578291,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The 2024 NCAA Tournament,South Florida,0.2122,0.5455,0.3333
+2024-03-07 09:02:22.578291,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The 2024 NCAA Tournament,Texas Tech,0.20090000000000008,0.9231,0.7222
+2024-03-07 09:02:22.578291,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The 2024 NCAA Tournament,Grand Canyon,0.19690000000000007,0.8333,0.6364
+2024-03-07 09:02:22.578291,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The 2024 NCAA Tournament,Texas,0.16959999999999997,0.8571,0.6875
 2024-03-07 07:01:33.307822,2024 State of the Union - To Be Said By Biden During The State Of The Union Address - To Be Said During Address,God,0.16669999999999996,0.6667,0.5
 2024-03-07 01:04:53.945771,NCAA DI Men - Mountain West Conference 2023-24 - Winner,Nevada,0.15089999999999998,0.3509,0.2
+2024-03-07 09:02:22.578291,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The 2024 NCAA Tournament,Oklahoma,0.14289999999999992,0.6667,0.5238
 2024-03-07 05:03:00.160448,Championship - England Championship 2023/24 - Top 6 Finish,Coventry City,0.11359999999999998,0.3636,0.25
+2024-03-07 09:02:22.578291,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The 2024 NCAA Tournament,Princeton,0.1078,0.6078,0.5
 2024-03-07 07:01:33.307822,2024 State of the Union - To Be Said By Biden During The State Of The Union Address - To Be Said During Address,Israel,0.10419999999999996,0.9375,0.8333
+2024-03-07 09:02:31.698084,Boxing Lines - Jake Paul vs Mike Tyson - To Win the Bout,Mike Tyson,0.08729999999999999,0.3226,0.2353
+2024-03-07 09:02:31.685526,Boxing Lines - Jake Paul vs Mike Tyson - To Win the Bout,Jake Paul,0.08330000000000004,0.8333,0.75
 2024-03-07 07:01:32.200852,Northwest Division - Northwest Division 2023-24 - Division Winner,Denver Nuggets,0.08080000000000004,0.4444,0.3636
 2024-03-07 05:03:00.047900,Championship - England Championship 2023/24 - Top Goalscorer,Sammie Szmodics,0.08080000000000004,0.4444,0.3636
 2024-03-07 05:03:00.084726,Championship - England Championship 2023/24 - To Be Relegated,Plymouth Argyle,0.07930000000000001,0.2222,0.1429
 2024-03-07 07:01:42.523579,Boxing Lines - Jake Paul vs Mike Tyson - To Win the Bout,Mike Tyson,0.07719999999999999,0.3125,0.2353
 2024-03-07 07:01:33.307822,2024 State of the Union - To Be Said By Biden During The State Of The Union Address - To Be Said During Address,Palestine,0.07579999999999998,0.9091,0.8333
+2024-03-07 09:02:22.005050,Season Specials - To Reach Round 2 in Playoffs - To Reach Round 2 in Playoffs,Orlando Magic,0.06970000000000004,0.5348,0.4651
 2024-03-07 03:04:19.369037,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Furthest Progressing Premier League Team,Arsenal FC,0.06659999999999999,0.3333,0.2667
 2024-03-07 05:03:03.462397,Euro Cup - Euro Cup 2023/24 - Outright,Joventut Badalona,0.0596,0.1429,0.0833
 2024-03-07 03:04:37.103470,Blue Bay LPGA - Blue Bay LPGA - Winner,Sarah Schmelzel,0.0544,0.0667,0.0123
 2024-03-07 05:03:03.462397,Euro Cup - Euro Cup 2023/24 - Outright,Besiktas,0.0539,0.0833,0.0294
+2024-03-07 09:02:22.578291,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The 2024 NCAA Tournament,Boise State,0.052000000000000046,0.9091,0.8571
 2024-03-07 07:01:30.753600,96th Academy Awards - How many Oscars will Oppenheimer win? - Oppenheimer Oscars Special,7 to 9,0.050000000000000044,0.8,0.75
 2024-03-07 03:04:37.103470,Blue Bay LPGA - Blue Bay LPGA - Winner,Hye Jin Choi,0.048100000000000004,0.125,0.0769
+2024-03-07 09:02:22.578291,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The 2024 NCAA Tournament,Michigan State,0.04760000000000009,0.7143,0.6667
 2024-03-07 05:03:00.084726,Championship - England Championship 2023/24 - To Be Relegated,Huddersfield Town,0.047599999999999976,0.3333,0.2857
 2024-03-07 01:04:53.402757,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,0.044399999999999995,0.4444,0.4
 2024-03-07 05:03:03.462397,Euro Cup - Euro Cup 2023/24 - Outright,Hapoel Tel-Aviv,0.042899999999999994,0.1429,0.1
@@ -24,15 +35,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-07 05:03:00.084726,Championship - England Championship 2023/24 - To Be Relegated,Blackburn Rovers,0.04040000000000002,0.2222,0.1818
 2024-03-07 05:03:00.059477,Championship - England Championship 2023/24 - To Be Promoted,Ipswich Town,0.03639999999999999,0.6364,0.6
 2024-03-07 05:03:06.437662,NFL 2024 Sims - Madden 24 Sim Bowl Winner - Outright,San Fransisco 49ers,0.03570000000000001,0.2857,0.25
-2024-03-07 07:01:31.266524,96th Academy Awards - Best Sound - Best Sound,Oppenheimer,0.035699999999999954,0.75,0.7143
 2024-03-07 01:04:54.228220,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Malik Monk (SAC),0.035699999999999954,0.75,0.7143
+2024-03-07 07:01:31.266524,96th Academy Awards - Best Sound - Best Sound,Oppenheimer,0.035699999999999954,0.75,0.7143
 2024-03-06 23:05:59.686666,NFC West - NFC West 2024/25 - NFC West Winner,Los Angeles Rams,0.0353,0.2353,0.2
 2024-03-07 01:05:17.427795,Tournament Match-Ups - Tournament Match-Up - A. Lahiri vs M. Pereira - Tournament Match-Up,Mito Pereira,0.03480000000000005,0.5348,0.5
 2024-03-07 03:04:37.103470,Blue Bay LPGA - Blue Bay LPGA - Winner,Lucy Li,0.0335,0.0476,0.0141
 2024-03-07 05:03:00.040486,Championship - England Championship 2023/24 - League Winner,Ipswich Town,0.033399999999999985,0.1667,0.1333
+2024-03-06 23:05:59.658364,NFC South - NFC South 2024/25 - NFC South Winner,Atlanta Falcons,0.031799999999999995,0.4762,0.4444
 2024-03-07 07:01:32.200852,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,0.031799999999999995,0.4762,0.4444
 2024-03-07 03:04:19.344674,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Erling Haaland (Man City),0.031799999999999995,0.4762,0.4444
-2024-03-06 23:05:59.658364,NFC South - NFC South 2024/25 - NFC South Winner,Atlanta Falcons,0.031799999999999995,0.4762,0.4444
 2024-03-07 05:03:03.462397,Euro Cup - Euro Cup 2023/24 - Outright,Prometey,0.030699999999999998,0.0833,0.0526
 2024-03-07 05:03:03.462397,Euro Cup - Euro Cup 2023/24 - Outright,JL Bourg,0.028799999999999992,0.1538,0.125
 2024-03-06 23:05:59.549324,AFC North - AFC North 2024/25 - AFC North Winner,Cincinnati Bengals,0.028600000000000014,0.3922,0.3636
@@ -40,22 +51,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-07 03:04:19.804326,CONCACAF Champions Cup - CONCACAF Champions Cup 2024 - Futures - Winner,Club América,0.027999999999999997,0.1818,0.1538
 2024-03-07 01:05:11.486992,Boxing Lines - Jezzrel Corrales vs Joseph Fernandez - To Win the Bout,Joseph Fernandez,0.02739999999999998,0.7333,0.7059
 2024-03-06 23:06:06.860940,Boxing Lines - Israil Madrimov vs Magomed Kurbanov - To Win the Bout,Magomed Kurbanov,0.027100000000000013,0.2469,0.2198
-2024-03-07 05:03:03.474916,FIBA Champions League - Champions League 2023/24 - Outright,Unicaja Malaga,0.02560000000000001,0.3333,0.3077
 2024-03-07 07:01:32.177087,Western Conference - Western Conference 2023-24 - Western Conference Winner,Denver Nuggets,0.02560000000000001,0.3333,0.3077
+2024-03-07 05:03:03.474916,FIBA Champions League - Champions League 2023/24 - Outright,Unicaja Malaga,0.02560000000000001,0.3333,0.3077
 2024-03-06 23:06:07.898707,Arnold Palmer Invitational - 2/3 Balls - 1st Round 2 Balls - C.T. Pan vs S. Jaeger - 1st Round 2 Balls,Stephan Jaeger,0.025599999999999956,0.6,0.5744
 2024-03-07 03:04:19.351749,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,FC Barcelona,0.024999999999999994,0.125,0.1
 2024-03-07 01:05:11.399617,Boxing Lines - Israil Madrimov vs Magomed Kurbanov - To Win the Bout,Israil Madrimov,0.024799999999999933,0.8462,0.8214
-2024-03-06 19:09:36.511535,Tournament Match-Ups - Tournament Match-Up - D. Puig vs P. Casey - Tournament Match-Up,Paul Casey,0.023800000000000043,0.5238,0.5
 2024-03-06 21:09:18.532151,Round Match-Ups - 1st Round Match-Up - J. Spieth vs C. Morikawa - 1st Round Match-Up ,Jordan Spieth,0.023800000000000043,0.5238,0.5
 2024-03-07 01:04:53.427173,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,0.023799999999999988,0.5,0.4762
+2024-03-07 09:02:31.221718,Boxing Lines - Azael Villar vs Jairo Noriega - To Win the Bout,Jairo Noriega,0.023799999999999988,0.5,0.4762
+2024-03-07 09:02:22.005050,Season Specials - To Reach Round 2 in Playoffs - To Reach Round 2 in Playoffs,L.A. Clippers,0.023799999999999932,0.6667,0.6429
 2024-03-07 03:04:19.344674,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Julian Alvarez (Man City),0.023200000000000002,0.0476,0.0244
 2024-03-07 03:04:37.103470,Blue Bay LPGA - Blue Bay LPGA - Winner,Ruixin Liu,0.022799999999999997,0.0278,0.005
 2024-03-07 01:04:53.389094,Central Division - Central Division 2023-24 - Division Winner,Milwaukee Bucks,0.022600000000000064,0.6226,0.6
 2024-03-07 03:04:19.351749,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Inter Milan,0.022199999999999998,0.2222,0.2
-2024-03-07 01:05:14.813046,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Under 70.5,0.02169999999999994,0.5455,0.5238
 2024-03-07 07:01:42.941713,Round Match-Ups - 1st Round Match-Up - M. Pavon vs N. Hojgaard - 1st Round Match-Up ,Matthieu Pavon,0.02169999999999994,0.5455,0.5238
-2024-03-06 19:09:32.588754,Tournament Match-Ups - Tournament Match-Up - J. Spieth vs S. Burns - Tournament Match-Up,Jordan Spieth,0.02169999999999994,0.5455,0.5238
+2024-03-07 01:05:14.813046,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Under 70.5,0.02169999999999994,0.5455,0.5238
 2024-03-06 21:09:14.016887,Boxing Lines - Steven Butler vs Steve Rolls - To Win the Bout,Steve Rolls,0.02079999999999993,0.5556,0.5348
+2024-03-07 09:02:31.195332,Boxing Lines - Justis Huni vs Kevin Lerena - To Win the Bout,Justis Huni,0.020500000000000074,0.8667,0.8462
 2024-03-07 07:01:44.268281,Hong Kong - 2/3 Balls - 1st Round 3 Balls - E. Lopez-Chacarra / K. Vincent / A. Kim - 1st Round 3 Balls,Kieran Vincent,0.02030000000000004,0.3774,0.3571
 2024-03-07 03:04:19.804326,CONCACAF Champions Cup - CONCACAF Champions Cup 2024 - Futures - Winner,Columbus Crew,0.02020000000000001,0.1111,0.0909
 2024-03-06 23:05:59.635454,NFC North - NFC North 2024/25 - NFC North Winner,Chicago Bears,0.01999999999999999,0.2105,0.1905
@@ -64,12 +76,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-06 23:05:58.921298,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Kansas City Chiefs,0.019000000000000017,0.2857,0.2667
 2024-03-07 03:04:32.546773,Boxing Lines - Andrii Novytskyi vs Juan Torres - To Win the Bout,Andrii Novytskyi,0.018900000000000028,0.9804,0.9615
 2024-03-06 23:05:59.212118,NFL Draft - Player Markets - Positional Groups - 1st Non-QB Selected,Rome Odunze,0.0189,0.0385,0.0196
-2024-03-06 19:09:36.414726,Tournament Match-Ups - Tournament Match-Up - C. Ortiz vs P. Uihlein - Tournament Match-Up,Carlos Ortiz,0.01880000000000004,0.5744,0.5556
 2024-03-07 01:04:54.305608,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Alperen Sengun (HOU),0.018800000000000004,0.0714,0.0526
+2024-03-07 09:02:22.578291,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The 2024 NCAA Tournament,TCU,0.018799999999999983,0.3636,0.3448
 2024-03-07 01:05:11.372349,Boxing Lines - Roman Fury vs Martin Svarc - To Win the Bout,Roman Fury,0.01849999999999996,0.9709,0.9524
 2024-03-07 01:04:54.228220,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Bobby Portis (MIL),0.018099999999999998,0.0526,0.0345
 2024-03-07 07:01:44.617074,Blue Bay LPGA - Blue Bay LPGA - Winner,Hye Jin Choi,0.0179,0.1429,0.125
 2024-03-07 03:04:19.359732,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Country of Winning Team,Spain,0.0174,0.25,0.2326
+2024-03-07 09:02:31.053112,Boxing Lines - Steven Butler vs Steve Rolls - To Win the Bout,Steve Rolls,0.017299999999999982,0.5917,0.5744
 2024-03-07 03:04:37.103470,Blue Bay LPGA - Blue Bay LPGA - Winner,Esther Henseleit,0.0168,0.0385,0.0217
 2024-03-07 03:04:32.667750,Boxing Lines - Jezzrel Corrales vs Joseph Fernandez - To Win the Bout,Joseph Fernandez,0.016700000000000048,0.75,0.7333
 2024-03-07 07:01:32.177087,Western Conference - Western Conference 2023-24 - Western Conference Winner,Phoenix Suns,0.015899999999999997,0.1111,0.0952
@@ -91,11 +104,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-06 21:09:16.408966,Arnold Palmer Invitational - 2/3 Balls - 1st Round 2 Balls - N. Taylor vs S. Straka - 1st Round 2 Balls ,Nick Taylor,0.0116,0.4878,0.4762
 2024-03-06 23:05:58.933674,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,San Francisco 49ers,0.01150000000000001,0.3448,0.3333
 2024-03-07 03:04:37.103470,Blue Bay LPGA - Blue Bay LPGA - Winner,Miranda Wang,0.011,0.0123,0.0013
-2024-03-07 01:05:11.433821,Boxing Lines - Justis Huni vs Kevin Lerena - To Win the Bout,Justis Huni,0.01090000000000002,0.8571,0.8462
 2024-03-07 03:04:32.600470,Boxing Lines - Israil Madrimov vs Magomed Kurbanov - To Win the Bout,Israil Madrimov,0.01090000000000002,0.8571,0.8462
+2024-03-07 01:05:11.433821,Boxing Lines - Justis Huni vs Kevin Lerena - To Win the Bout,Justis Huni,0.01090000000000002,0.8571,0.8462
 2024-03-06 23:05:58.933674,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Detroit Lions,0.010499999999999982,0.2105,0.2
 2024-03-07 05:03:00.084726,Championship - England Championship 2023/24 - To Be Relegated,Stoke City,0.010399999999999993,0.2326,0.2222
 2024-03-07 05:03:00.268275,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,River Plate,0.010399999999999993,0.2326,0.2222
+2024-03-07 09:02:22.005050,Season Specials - To Reach Round 2 in Playoffs - To Reach Round 2 in Playoffs,Chicago Bulls,0.0102,0.0769,0.0667
 2024-03-07 05:03:00.268275,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Argentinos Juniors,0.0102,0.0769,0.0667
 2024-03-06 23:05:58.933674,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Los Angeles Rams,0.0102,0.0769,0.0667
 2024-03-07 05:03:00.138265,Championship - England Championship 2023/24 - Top 2 Finish,Ipswich Town,0.010099999999999998,0.4545,0.4444
@@ -103,28 +117,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-07 03:04:37.103470,Blue Bay LPGA - Blue Bay LPGA - Winner,Mone Inami,-0.0101,0.004,0.0141
 2024-03-07 01:04:54.305608,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Jonathan Kuminga (GSW),-0.010100000000000001,0.0244,0.0345
 2024-03-07 03:04:32.587183,Boxing Lines - Roman Fury vs Martin Svarc - To Win the Bout,Martin Svarc,-0.0102,0.0667,0.0769
-2024-03-07 05:03:00.138265,Championship - England Championship 2023/24 - Top 2 Finish,Southampton,-0.010899999999999993,0.1429,0.1538
 2024-03-07 01:04:54.228220,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Norman Powell (LAC),-0.010899999999999993,0.1429,0.1538
+2024-03-07 05:03:00.138265,Championship - England Championship 2023/24 - Top 2 Finish,Southampton,-0.010899999999999993,0.1429,0.1538
 2024-03-07 07:01:42.001941,Boxing Lines - Israil Madrimov vs Magomed Kurbanov - To Win the Bout,Israil Madrimov,-0.01090000000000002,0.8462,0.8571
 2024-03-07 07:01:42.016731,Boxing Lines - Justis Huni vs Kevin Lerena - To Win the Bout,Justis Huni,-0.01090000000000002,0.8462,0.8571
+2024-03-07 09:02:22.005050,Season Specials - To Reach Round 2 in Playoffs - To Reach Round 2 in Playoffs,Indiana Pacers,-0.011099999999999999,0.2667,0.2778
 2024-03-07 03:04:19.344674,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Alvaro Morata (Atletico Madrid),-0.011199999999999995,0.0476,0.0588
 2024-03-07 03:04:37.103470,Blue Bay LPGA - Blue Bay LPGA - Winner,Moriya Jutanugarn,-0.011300000000000001,0.001,0.0123
+2024-03-07 09:02:22.578291,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The 2024 NCAA Tournament,Colorado,-0.011499999999999955,0.6552,0.6667
 2024-03-07 01:05:11.433821,Boxing Lines - Justis Huni vs Kevin Lerena - To Win the Bout,Kevin Lerena,-0.011700000000000016,0.2105,0.2222
 2024-03-07 03:04:32.600470,Boxing Lines - Israil Madrimov vs Magomed Kurbanov - To Win the Bout,Magomed Kurbanov,-0.011700000000000016,0.2105,0.2222
 2024-03-07 01:05:11.139867,Elite Boxing - Zhilei Zhang vs Joseph Parker - To Win the Bout,Joseph Parker,-0.011899999999999966,0.339,0.3509
 2024-03-07 03:04:37.103470,Blue Bay LPGA - Blue Bay LPGA - Winner,Chanettee Wannasaen,-0.0119,0.0013,0.0132
 2024-03-06 23:06:06.860940,Boxing Lines - Israil Madrimov vs Magomed Kurbanov - To Win the Bout,Israil Madrimov,-0.011900000000000022,0.8214,0.8333
-2024-03-06 21:09:16.408966,Arnold Palmer Invitational - 2/3 Balls - 1st Round 2 Balls - N. Taylor vs S. Straka - 1st Round 2 Balls ,Sepp Straka,-0.012199999999999989,0.4878,0.5
+2024-03-07 09:02:22.005050,Season Specials - To Reach Round 2 in Playoffs - To Reach Round 2 in Playoffs,Minnesota Timberwolves,-0.011900000000000022,0.75,0.7619
 2024-03-07 03:04:32.471564,Boxing Lines - Steven Butler vs Steve Rolls - To Win the Bout,Steven Butler,-0.012199999999999989,0.4878,0.5
+2024-03-06 21:09:16.408966,Arnold Palmer Invitational - 2/3 Balls - 1st Round 2 Balls - N. Taylor vs S. Straka - 1st Round 2 Balls ,Sepp Straka,-0.012199999999999989,0.4878,0.5
 2024-03-06 23:06:06.775327,Boxing Lines - Steven Butler vs Steve Rolls - To Win the Bout,Steven Butler,-0.012199999999999989,0.5,0.5122
 2024-03-07 03:04:37.103470,Blue Bay LPGA - Blue Bay LPGA - Winner,Yu Liu,-0.0127,0.0025,0.0152
 2024-03-07 03:04:37.103470,Blue Bay LPGA - Blue Bay LPGA - Winner,In Gee Chun,-0.012799999999999999,0.0013,0.0141
 2024-03-07 05:03:00.084726,Championship - England Championship 2023/24 - To Be Relegated,Birmingham City,-0.012899999999999995,0.1538,0.1667
+2024-03-07 01:04:53.439794,Southwest Division - Southwest Division 2023-24 - Division Winner,Dallas Mavericks,-0.0131,0.2222,0.2353
 2024-03-07 03:04:37.103470,Blue Bay LPGA - Blue Bay LPGA - Winner,Peiyun Chien,-0.0131,0.001,0.0141
 2024-03-06 21:09:14.297440,Boxing Lines - Mark Chamberlain vs Gavin Gwynne - To Win the Bout,Gavin Gwynne,-0.0131,0.2899,0.303
-2024-03-07 01:04:53.439794,Southwest Division - Southwest Division 2023-24 - Division Winner,Dallas Mavericks,-0.0131,0.2222,0.2353
 2024-03-06 23:05:59.658364,NFC South - NFC South 2024/25 - NFC South Winner,Tampa Bay Buccaneers,-0.013600000000000001,0.2941,0.3077
 2024-03-07 01:04:53.402757,Northwest Division - Northwest Division 2023-24 - Division Winner,Denver Nuggets,-0.013800000000000034,0.3636,0.3774
+2024-03-07 09:02:21.992470,Season Specials - To Reach Conference Finals - To Reach Conference Finals,Philadelphia 76ers,-0.013899999999999996,0.1111,0.125
 2024-03-07 03:04:37.103470,Blue Bay LPGA - Blue Bay LPGA - Winner,Mi Hyang Lee,-0.0139,0.0057,0.0196
 2024-03-07 05:03:00.047900,Championship - England Championship 2023/24 - Top Goalscorer,Jack Clarke,-0.014099999999999998,0.0294,0.0435
 2024-03-07 01:04:54.020850,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - March Madness - John R.Wooden Award Winner,Dalton Knecht (Tennessee),-0.014399999999999996,0.0625,0.0769
@@ -135,61 +153,83 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-07 03:04:37.103470,Blue Bay LPGA - Blue Bay LPGA - Winner,Emily Kristine Pedersen,-0.0168,0.011,0.0278
 2024-03-07 05:03:00.160448,Championship - England Championship 2023/24 - Top 6 Finish,Sunderland,-0.017099999999999997,0.0123,0.0294
 2024-03-07 01:05:11.175174,Boxing Lines - Osleys Iglesias vs Marcelo Esteban Coceres - To Win the Bout,Marcelo Esteban Coceres,-0.017200000000000007,0.0909,0.1081
+2024-03-07 09:02:21.992470,Season Specials - To Reach Conference Finals - To Reach Conference Finals,Los Angeles Lakers,-0.018099999999999998,0.0588,0.0769
 2024-03-07 03:04:37.103470,Blue Bay LPGA - Blue Bay LPGA - Winner,Jasmine Suwannapura,-0.0183,0.0013,0.0196
 2024-03-06 23:05:59.610586,NFC East - NFC East 2024/25 - NFC East Winner,Philadelphia Eagles,-0.018900000000000028,0.4255,0.4444
 2024-03-07 03:04:19.344674,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Harry Kane (Bayern Munich),-0.019000000000000017,0.2667,0.2857
 2024-03-07 01:04:53.402757,Northwest Division - Northwest Division 2023-24 - Division Winner,Minnesota Timberwolves,-0.019000000000000017,0.2667,0.2857
 2024-03-07 03:04:37.103470,Blue Bay LPGA - Blue Bay LPGA - Winner,Mao Saigo,-0.019099999999999992,0.0476,0.0667
 2024-03-07 07:01:44.268281,Hong Kong - 2/3 Balls - 1st Round 3 Balls - E. Lopez-Chacarra / K. Vincent / A. Kim - 1st Round 3 Balls,Eugenio Lopez-Chacarra,-0.019699999999999995,0.4348,0.4545
-2024-03-06 19:09:36.511535,Tournament Match-Ups - Tournament Match-Up - D. Puig vs P. Casey - Tournament Match-Up,David Puig,-0.01970000000000005,0.5455,0.5652
+2024-03-07 09:02:21.992470,Season Specials - To Reach Conference Finals - To Reach Conference Finals,Minnesota Timberwolves,-0.020699999999999996,0.4444,0.4651
 2024-03-07 03:04:32.667750,Boxing Lines - Jezzrel Corrales vs Joseph Fernandez - To Win the Bout,Jezzrel Corrales,-0.020799999999999985,0.3125,0.3333
 2024-03-07 03:04:37.103470,Blue Bay LPGA - Blue Bay LPGA - Winner,Yu Jin Sung,-0.021300000000000003,0.011,0.0323
 2024-03-07 01:05:14.813046,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Over 70.5,-0.02169999999999994,0.5238,0.5455
-2024-03-06 19:09:32.588754,Tournament Match-Ups - Tournament Match-Up - J. Spieth vs S. Burns - Tournament Match-Up,Sam Burns,-0.02169999999999994,0.5238,0.5455
 2024-03-06 21:09:18.532151,Round Match-Ups - 1st Round Match-Up - J. Spieth vs C. Morikawa - 1st Round Match-Up ,Collin Morikawa,-0.02169999999999994,0.5238,0.5455
 2024-03-07 07:01:32.177087,Western Conference - Western Conference 2023-24 - Western Conference Winner,Minnesota Timberwolves,-0.022000000000000006,0.0833,0.1053
 2024-03-07 05:03:00.059477,Championship - England Championship 2023/24 - To Be Promoted,Leeds United,-0.022199999999999998,0.7778,0.8
+2024-03-07 09:02:31.195332,Boxing Lines - Justis Huni vs Kevin Lerena - To Win the Bout,Kevin Lerena,-0.022199999999999998,0.2,0.2222
+2024-03-07 09:02:22.005050,Season Specials - To Reach Round 2 in Playoffs - To Reach Round 2 in Playoffs,Phoenix Suns,-0.022199999999999998,0.2,0.2222
+2024-03-07 09:02:21.992470,Season Specials - To Reach Conference Finals - To Reach Conference Finals,Boston Celtics,-0.022199999999999998,0.7778,0.8
 2024-03-06 23:06:07.898707,Arnold Palmer Invitational - 2/3 Balls - 1st Round 2 Balls - C.T. Pan vs S. Jaeger - 1st Round 2 Balls,C T Pan,-0.02260000000000001,0.3774,0.4
 2024-03-06 21:09:14.016887,Boxing Lines - Steven Butler vs Steve Rolls - To Win the Bout,Steven Butler,-0.022600000000000064,0.5122,0.5348
+2024-03-07 09:02:31.011279,Elite Boxing - Zhilei Zhang vs Joseph Parker - To Win the Bout,Joseph Parker,-0.022999999999999965,0.3279,0.3509
 2024-03-07 01:05:11.372349,Boxing Lines - Roman Fury vs Martin Svarc - To Win the Bout,Martin Svarc,-0.02310000000000001,0.0769,0.1
 2024-03-07 01:04:54.228220,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Naz Reid (MIN),-0.02310000000000001,0.0769,0.1
 2024-03-07 05:03:00.059477,Championship - England Championship 2023/24 - To Be Promoted,Southampton,-0.023799999999999988,0.4762,0.5
-2024-03-07 01:05:11.486992,Boxing Lines - Jezzrel Corrales vs Joseph Fernandez - To Win the Bout,Jezzrel Corrales,-0.023799999999999988,0.3333,0.3571
 2024-03-07 05:03:00.268275,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Boca Juniors,-0.023799999999999988,0.1429,0.1667
+2024-03-07 01:05:11.486992,Boxing Lines - Jezzrel Corrales vs Joseph Fernandez - To Win the Bout,Jezzrel Corrales,-0.023799999999999988,0.3333,0.3571
 2024-03-06 23:05:59.635454,NFC North - NFC North 2024/25 - NFC North Winner,Minnesota Vikings,-0.023800000000000016,0.1667,0.1905
-2024-03-07 01:05:14.246746,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs C. Morikawa - Tournament Match-Up,Collin Morikawa,-0.023800000000000043,0.5,0.5238
 2024-03-07 07:01:42.941713,Round Match-Ups - 1st Round Match-Up - M. Pavon vs N. Hojgaard - 1st Round Match-Up ,Nicolai Hojgaard,-0.023800000000000043,0.5,0.5238
+2024-03-07 01:05:14.246746,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs C. Morikawa - Tournament Match-Up,Collin Morikawa,-0.023800000000000043,0.5,0.5238
 2024-03-07 03:04:32.546773,Boxing Lines - Andrii Novytskyi vs Juan Torres - To Win the Bout,Juan Torres,-0.0242,0.0667,0.0909
-2024-03-06 19:09:36.414726,Tournament Match-Ups - Tournament Match-Up - C. Ortiz vs P. Uihlein - Tournament Match-Up,Peter Uihlein,-0.024399999999999977,0.4878,0.5122
 2024-03-07 01:05:11.399617,Boxing Lines - Israil Madrimov vs Magomed Kurbanov - To Win the Bout,Magomed Kurbanov,-0.0247,0.2222,0.2469
 2024-03-07 03:04:19.351749,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Manchester City,-0.025599999999999956,0.5744,0.6
 2024-03-07 05:03:00.047900,Championship - England Championship 2023/24 - Top Goalscorer,Adam Armstrong,-0.02560000000000001,0.3077,0.3333
+2024-03-07 09:02:31.221718,Boxing Lines - Azael Villar vs Jairo Noriega - To Win the Bout,Azael Villar,-0.026499999999999968,0.5652,0.5917
 2024-03-07 03:04:37.103470,Blue Bay LPGA - Blue Bay LPGA - Winner,Robyn Choi,-0.0265,0.0013,0.0278
 2024-03-07 05:03:15.713181,Boxing Lines - Kevin Lele Sadjo vs Giovanni de Carolis - To Win the Bout,Giovanni de Carolis,-0.0267,0.0909,0.1176
+2024-03-07 09:02:22.005050,Season Specials - To Reach Round 2 in Playoffs - To Reach Round 2 in Playoffs,Milwaukee Bucks,-0.026800000000000046,0.6875,0.7143
+2024-03-07 09:02:22.005050,Season Specials - To Reach Round 2 in Playoffs - To Reach Round 2 in Playoffs,Dallas Mavericks,-0.026900000000000007,0.1905,0.2174
 2024-03-07 01:04:54.305608,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Tyrese Maxey (PHI),-0.027999999999999914,0.8182,0.8462
+2024-03-07 09:02:21.992470,Season Specials - To Reach Conference Finals - To Reach Conference Finals,Milwaukee Bucks,-0.028600000000000014,0.3636,0.3922
 2024-03-07 05:03:00.059477,Championship - England Championship 2023/24 - To Be Promoted,Norwich City,-0.029299999999999993,0.0476,0.0769
+2024-03-07 09:02:22.578291,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The 2024 NCAA Tournament,New Mexico,-0.02960000000000007,0.6,0.6296
 2024-03-07 03:04:19.351749,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Real Madrid,-0.030299999999999994,0.3333,0.3636
 2024-03-07 01:05:17.427795,Tournament Match-Ups - Tournament Match-Up - A. Lahiri vs M. Pereira - Tournament Match-Up,Anirban Lahiri,-0.030399999999999983,0.5348,0.5652
+2024-03-07 09:02:21.992470,Season Specials - To Reach Conference Finals - To Reach Conference Finals,New Orelans Pelicans,-0.0305,0.16,0.1905
 2024-03-07 03:04:37.103470,Blue Bay LPGA - Blue Bay LPGA - Winner,Yuna Nishimura,-0.0306,0.0079,0.0385
 2024-03-07 03:04:37.103470,Blue Bay LPGA - Blue Bay LPGA - Winner,Xiyu Lin,-0.03330000000000001,0.0667,0.1
 2024-03-07 05:03:00.047900,Championship - England Championship 2023/24 - Top Goalscorer,Crysencio Summerville,-0.034100000000000005,0.0909,0.125
 2024-03-06 23:05:59.549324,AFC North - AFC North 2024/25 - AFC North Winner,Baltimore Ravens,-0.035999999999999976,0.4762,0.5122
+2024-03-07 09:02:22.005050,Season Specials - To Reach Round 2 in Playoffs - To Reach Round 2 in Playoffs,New Orleans Pelicans,-0.03640000000000004,0.3636,0.4
 2024-03-07 03:04:37.103470,Blue Bay LPGA - Blue Bay LPGA - Winner,Sei Young Kim,-0.037099999999999994,0.0217,0.0588
 2024-03-07 01:04:53.427173,Southeast Division - Southeast Division 2023-24 - Division Winner,Miami Heat,-0.037800000000000056,0.5455,0.5833
 2024-03-06 23:05:59.686666,NFC West - NFC West 2024/25 - NFC West Winner,San Francisco 49ers,-0.03920000000000001,0.6667,0.7059
+2024-03-07 09:02:22.005050,Season Specials - To Reach Round 2 in Playoffs - To Reach Round 2 in Playoffs,Los Angeles Lakers,-0.0406,0.1333,0.1739
 2024-03-07 05:03:00.160448,Championship - England Championship 2023/24 - Top 6 Finish,Norwich City,-0.04089999999999999,0.3846,0.4255
 2024-03-07 05:03:00.160448,Championship - England Championship 2023/24 - Top 6 Finish,Hull City,-0.04089999999999999,0.3846,0.4255
+2024-03-07 09:02:22.578291,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The 2024 NCAA Tournament,Syracuse,-0.040999999999999925,0.5744,0.6154
 2024-03-07 01:04:53.389094,Central Division - Central Division 2023-24 - Division Winner,Cleveland Cavaliers,-0.04139999999999999,0.4348,0.4762
 2024-03-07 03:04:19.804326,CONCACAF Champions Cup - CONCACAF Champions Cup 2024 - Futures - Winner,Chivas Guadalajara,-0.04239999999999999,0.0345,0.0769
+2024-03-07 09:02:22.578291,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The 2024 NCAA Tournament,SMU,-0.043800000000000006,0.1667,0.2105
+2024-03-07 09:02:22.578291,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The 2024 NCAA Tournament,Villanova,-0.044500000000000095,0.7333,0.7778
 2024-03-07 05:03:00.059477,Championship - England Championship 2023/24 - To Be Promoted,West Bromwich Albion,-0.04620000000000002,0.1538,0.2
+2024-03-07 09:02:21.992470,Season Specials - To Reach Conference Finals - To Reach Conference Finals,Cleveland Cavaliers,-0.0474,0.3448,0.3922
+2024-03-07 09:02:22.005050,Season Specials - To Reach Round 2 in Playoffs - To Reach Round 2 in Playoffs,Philadelphia 76ers,-0.055900000000000005,0.2667,0.3226
 2024-03-07 07:01:32.200852,Northwest Division - Northwest Division 2023-24 - Division Winner,Minnesota Timberwolves,-0.0562,0.2105,0.2667
 2024-03-07 05:03:00.138265,Championship - England Championship 2023/24 - Top 2 Finish,Leeds United,-0.061999999999999944,0.5744,0.6364
+2024-03-07 09:02:22.578291,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The 2024 NCAA Tournament,Utah,-0.06519999999999998,0.4348,0.5
 2024-03-07 03:04:19.369037,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Furthest Progressing Premier League Team,Manchester City,-0.06670000000000009,0.7333,0.8
 2024-03-07 03:04:37.103470,Blue Bay LPGA - Blue Bay LPGA - Winner,Ruoning Yin,-0.06699999999999999,0.0099,0.0769
 2024-03-07 03:04:37.103470,Blue Bay LPGA - Blue Bay LPGA - Winner,Lilia Vu,-0.0756,0.0244,0.1
+2024-03-07 09:02:31.685526,Boxing Lines - Jake Paul vs Mike Tyson - To Win the Bout,Mike Tyson,-0.07719999999999999,0.2353,0.3125
 2024-03-07 05:03:00.040486,Championship - England Championship 2023/24 - League Winner,Leicester City,-0.07809999999999995,0.6552,0.7333
 2024-03-07 05:03:00.047900,Championship - England Championship 2023/24 - Top Goalscorer,Morgan Whittaker,-0.07930000000000001,0.1429,0.2222
 2024-03-07 03:04:37.103470,Blue Bay LPGA - Blue Bay LPGA - Winner,Celine Boutier,-0.0804,0.0196,0.1
 2024-03-07 07:01:42.523579,Boxing Lines - Jake Paul vs Mike Tyson - To Win the Bout,Jake Paul,-0.08330000000000004,0.75,0.8333
+2024-03-07 09:02:31.698084,Boxing Lines - Jake Paul vs Mike Tyson - To Win the Bout,Jake Paul,-0.09300000000000008,0.7403,0.8333
 2024-03-07 01:04:53.945771,NCAA DI Men - Mountain West Conference 2023-24 - Winner,Utah State,-0.10810000000000008,0.7101,0.8182
+2024-03-07 09:02:22.578291,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The 2024 NCAA Tournament,Cincinnati,-0.10910000000000002,0.0909,0.2
+2024-03-07 09:02:22.578291,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The 2024 NCAA Tournament,St. Mary's,-0.1482,0.6296,0.7778
 2024-03-07 05:03:00.084726,Championship - England Championship 2023/24 - To Be Relegated,Sheffield Wednesday,-0.16019999999999995,0.4762,0.6364
+2024-03-07 09:02:22.578291,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The 2024 NCAA Tournament,Wake Forest,-0.4167,0.3333,0.75
