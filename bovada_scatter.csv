@@ -1,8 +1,8 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-10 05:13:25.401101,League One - England - League One 2023/24 - Top Goalscorer,Alfie May,0.25710000000000005,0.5238,0.2667
 2024-03-10 01:13:29.404708,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,DeMar DeRozan (CHI),0.20370000000000002,0.3704,0.1667
-2024-03-10 05:13:30.316122,NCAA DI Men - 2024 Southern League Conference Tournament - Conference Tournament Winner,Samford,0.15020000000000006,0.5348,0.3846
 2024-03-10 05:13:25.439538,League One - England - League One 2023/24 - Top 2 Finish,Derby County,0.15020000000000006,0.5348,0.3846
+2024-03-10 05:13:30.316122,NCAA DI Men - 2024 Southern League Conference Tournament - Conference Tournament Winner,Samford,0.15020000000000006,0.5348,0.3846
 2024-03-10 05:13:56.694661,Cologuard Classic - Cologuard Classic - Winner,Stewart Cink,0.14200000000000002,0.4545,0.3125
 2024-03-10 05:13:25.422707,League One - England - League One 2023/24 - To Be Promoted,Derby County,0.13670000000000004,0.6923,0.5556
 2024-03-10 05:13:55.451394,Scores - Final Round Score - Wyndham Clark - Final Round Score,Over 72.5,0.13480000000000003,0.6226,0.4878
@@ -16,6 +16,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-10 05:13:30.316122,NCAA DI Men - 2024 Southern League Conference Tournament - Conference Tournament Winner,Furman,0.1071,0.25,0.1429
 2024-03-10 05:13:55.170236,Scores - Final Round Score - Max Homa - Final Round Score,Over 71.5,0.10389999999999999,0.5917,0.4878
 2024-03-10 05:13:56.694661,Cologuard Classic - Cologuard Classic - Winner,Steve Stricker,0.09999999999999999,0.1667,0.0667
+2024-03-10 11:14:38.744836,96th Academy Awards - Best Make Up & Hairstyling - Best Make Up & Hairstyling,Maestro,0.09689999999999999,0.7333,0.6364
 2024-03-10 09:13:25.529611,96th Academy Awards - Best Production Design - Best Production Design,Poor Things,0.09230000000000005,0.6923,0.6
 2024-03-10 05:13:25.422707,League One - England - League One 2023/24 - To Be Promoted,Peterborough United,0.09099999999999997,0.5455,0.4545
 2024-03-10 09:13:25.601371,96th Academy Awards - Best Visual Effects - Best Visual Effects,Godzilla Minus One,0.09089999999999998,0.6364,0.5455
@@ -30,9 +31,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-10 05:13:25.439538,League One - England - League One 2023/24 - Top 2 Finish,Peterborough United,0.07509999999999997,0.3077,0.2326
 2024-03-10 05:13:30.358079,NCAA DI Men - 2024 Summit League Conference Tournament - Conference Tournament Winner,Denver U,0.07450000000000001,0.1333,0.0588
 2024-03-10 05:13:56.694661,Cologuard Classic - Cologuard Classic - Winner,Stephen Ames,0.071,0.0833,0.0123
-2024-03-09 23:14:39.979742,League One - England - League One 2023/24 - League Winner,Peterborough United,0.06999999999999999,0.1176,0.0476
 2024-03-09 23:15:07.771348,Scores - Final Round Score - Will Zalatoris - Outright,Under 71.5,0.06970000000000004,0.5348,0.4651
 2024-03-10 05:13:55.408263,Scores - Final Round Score - Will Zalatoris - Final Round Score,Over 71.5,0.06519999999999992,0.6,0.5348
+2024-03-10 11:14:38.491350,96th Academy Awards - Best Costume Design - Best Costume Design,Barbie,0.059599999999999986,0.6429,0.5833
 2024-03-10 09:13:25.115702,96th Academy Awards - Best Animated Feature - Best Animated Feature,Spider-Man: Across The Spider-Verse,0.05910000000000004,0.7143,0.6552
 2024-03-10 09:13:24.926476,96th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,American Fiction,0.05910000000000004,0.7143,0.6552
 2024-03-10 01:13:27.241094,96th Academy Awards - Oscars Parlay Specials - Oscars Parlay Specials,All to win: [Lily Gladstone - Best Actress] [Anatomy Of A Fall - Original Screenplay] [Spiderman - Animated Feature] [WAR IS OVER! - Animated Short],0.0562,0.2667,0.2105
@@ -41,49 +42,50 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-10 09:13:24.777811,96th Academy Awards - Best Picture - Best Picture,Maestro,0.054599999999999996,0.0625,0.0079
 2024-03-10 09:13:25.287586,96th Academy Awards - Best Documentary Short - Best Documentary Short,The ABCs Of Book Burning,0.053099999999999925,0.6364,0.5833
 2024-03-10 05:13:56.694661,Cologuard Classic - Cologuard Classic - Winner,Ernie Els,0.052399999999999995,0.0909,0.0385
-2024-03-10 05:13:30.358079,NCAA DI Men - 2024 Summit League Conference Tournament - Conference Tournament Winner,South Dakota State,0.052200000000000024,0.4444,0.3922
 2024-03-10 05:13:55.292093,Scores - Final Round Score - Sam Burns - Final Round Score,Over 71.5,0.052200000000000024,0.6078,0.5556
+2024-03-10 05:13:30.358079,NCAA DI Men - 2024 Summit League Conference Tournament - Conference Tournament Winner,South Dakota State,0.052200000000000024,0.4444,0.3922
 2024-03-10 05:13:56.694661,Cologuard Classic - Cologuard Classic - Winner,Kevin Sutherland,0.052199999999999996,0.0588,0.0066
 2024-03-10 09:13:24.963688,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,Anatomy Of A Fall,0.0504,0.7647,0.7143
 2024-03-10 09:13:25.393591,96th Academy Awards - Best Live Action Short - Best Live Action Short,"Red, White & Blue",0.04999999999999999,0.25,0.2
 2024-03-10 05:13:56.694661,Cologuard Classic - Cologuard Classic - Winner,Retief Goosen,0.0491,0.0769,0.0278
 2024-03-09 23:15:07.511120,Scores - Final Round Score - Justin Thomas - Outright,Under 71.5,0.04820000000000002,0.6226,0.5744
-2024-03-10 07:14:22.467470,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Sporting Cristal,0.047599999999999976,0.3333,0.2857
 2024-03-10 05:13:28.583036,Cryptocurrency Specials - Bitcoin Value On April 30th 2024 - Bitcoin Value On April 30th,"Over $70,000",0.047599999999999976,0.3333,0.2857
+2024-03-10 07:14:22.467470,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Sporting Cristal,0.047599999999999976,0.3333,0.2857
 2024-03-10 09:13:24.741744,96th Academy Awards - How many Oscars will Oppenheimer win? - Oppenheimer Oscars Special,1 to 3,0.047400000000000005,0.1,0.0526
 2024-03-10 05:13:30.117393,NCAA DI Men - 2024 Sun Belt Conference Tournament - Conference Tournament Winner,Appalachian State,0.0474,0.3922,0.3448
 2024-03-09 23:15:07.592451,Scores - Final Round Score - Sam Burns - Outright,Under 71.5,0.047099999999999975,0.5122,0.4651
 2024-03-10 09:13:25.565401,96th Academy Awards - Best Sound - Best Sound,Oppenheimer,0.04479999999999995,0.7222,0.6774
 2024-03-10 05:13:25.674097,League Two - England - League Two 2023/24 - Top 7 Finish,Crawley Town,0.04440000000000001,0.1111,0.0667
-2024-03-09 23:14:40.075328,League Two - England - League Two 2023/24 - League Winner,Stockport County,0.04410000000000003,0.3774,0.3333
+2024-03-10 11:15:01.684455,KBO Futures - KBO 2024 Winner - Korea KBO 2024,Hanwha Eagles,0.04329999999999999,0.0909,0.0476
 2024-03-10 05:13:25.623252,League Two - England - League Two 2023/24 - To Be Promoted,Wrexham,0.04290000000000005,0.9,0.8571
 2024-03-10 09:13:25.081146,96th Academy Awards - Best Supporting Actress - Best Supporting Actress,Danielle Brooks - The Color Purple,0.04239999999999999,0.0588,0.0164
 2024-03-10 01:13:26.737300,96th Academy Awards - Best Animated Feature - Best Animated Feature,Spider-Man: Across The Spider-Verse,0.03980000000000006,0.6552,0.6154
-2024-03-09 23:14:39.979742,League One - England - League One 2023/24 - League Winner,Derby County,0.03889999999999999,0.1818,0.1429
 2024-03-10 05:13:25.674097,League Two - England - League Two 2023/24 - Top 7 Finish,Milton Keynes Dons,0.03839999999999999,0.9615,0.9231
 2024-03-10 05:13:53.639747,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - P. Cantlay vs S. Kim - Final Round 2 Balls,Patrick Cantlay,0.037800000000000056,0.5833,0.5455
 2024-03-10 09:13:25.740046,96th Academy Awards - Oscars Parlay Specials - Oscars Parlay Specials,All to win: [Lily Gladstone - Best Actress] [Anatomy Of A Fall - Original Screenplay] [Spiderman - Animated Feature] [WAR IS OVER! - Animated Short],0.0363,0.303,0.2667
 2024-03-09 23:15:07.840732,Scores - Final Round Score - Scottie Scheffler - Outright,Under 69.5,0.03620000000000001,0.4444,0.4082
 2024-03-10 05:13:55.368155,Scores - Final Round Score - Shane Lowry - Final Round Score,Over 72.5,0.03610000000000002,0.5917,0.5556
-2024-03-09 21:15:21.921728,Round Match-Ups - Final Round Match-Up - J. Day vs T. Kim - Final Round Match-Up,Tom Kim,0.03600000000000003,0.5238,0.4878
 2024-03-09 23:15:06.388807,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - P. Cantlay vs S. Kim - Final Round 2 Balls,Si Woo Kim,0.03489999999999999,0.5,0.4651
 2024-03-10 01:13:26.594412,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,Past Lives,0.03420000000000001,0.1111,0.0769
 2024-03-10 05:13:30.048409,NCAA DI Men - 2024 America East  Conference Tournament - Conference Tournament Winner,Vermont,0.03410000000000002,0.7674,0.7333
 2024-03-10 05:13:55.213910,Scores - Final Round Score - Rory McIlroy - Final Round Score,Over 70.5,0.033399999999999985,0.6078,0.5744
 2024-03-10 01:13:27.541946,Deadpool & Wolverine - To Make A Credited Appearance In Deadpool & Wolverine - To Make A Credited Appearance,Josh Brolin,0.033300000000000024,0.2,0.1667
 2024-03-10 05:13:26.831001,96th Academy Awards - How many Oscars will Oppenheimer win? - Oppenheimer Oscars Special,7 to 9,0.033299999999999996,0.8333,0.8
+2024-03-10 11:14:37.979484,96th Academy Awards - How many Oscars will Oppenheimer win? - Oppenheimer Oscars Special,1 to 3,0.033299999999999996,0.1333,0.1
 2024-03-10 05:13:25.728548,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Holstein Kiel,0.033299999999999996,0.1333,0.1
 2024-03-10 05:13:55.325891,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 69.5,0.03259999999999996,0.6552,0.6226
 2024-03-10 05:13:25.623252,League Two - England - League Two 2023/24 - To Be Promoted,Milton Keynes Dons,0.031799999999999995,0.4762,0.4444
 2024-03-10 09:13:25.287586,96th Academy Awards - Best Documentary Short - Best Documentary Short,The Barber Of Little Rock,0.030199999999999998,0.0625,0.0323
 2024-03-10 01:13:53.944948,Scores - Final Round Score - Rory McIlroy - Final Round Score,Over 70.5,0.028900000000000037,0.5744,0.5455
+2024-03-10 11:15:01.684455,KBO Futures - KBO 2024 Winner - Korea KBO 2024,NC Dinos,0.028399999999999995,0.0909,0.0625
 2024-03-10 01:13:27.177440,96th Academy Awards - Best Sound - Best Sound,The Zone Of Interest,0.028299999999999992,0.3509,0.3226
 2024-03-10 05:13:30.117393,NCAA DI Men - 2024 Sun Belt Conference Tournament - Conference Tournament Winner,Texas State,0.0282,0.0526,0.0244
 2024-03-10 05:13:27.750890,96th Academy Awards - Best Visual Effects - Best Visual Effects,Mission Impossible - Dead Reckoning Part One,0.028000000000000004,0.0476,0.0196
-2024-03-10 09:13:25.224096,96th Academy Awards - Best Costume Design - Best Costume Design,Barbie,0.027700000000000058,0.5833,0.5556
 2024-03-10 01:13:27.505153,Deadpool & Wolverine - Rotten Tomatoes Audience Score On August 23rd 2024 - Deadpool & Wolverine,Over 84%,0.027700000000000058,0.5833,0.5556
+2024-03-10 09:13:25.224096,96th Academy Awards - Best Costume Design - Best Costume Design,Barbie,0.027700000000000058,0.5833,0.5556
 2024-03-10 09:13:25.439900,96th Academy Awards - Best Make Up & Hairstyling - Best Make Up & Hairstyling,Poor Things,0.027700000000000002,0.4444,0.4167
 2024-03-10 09:13:25.150868,96th Academy Awards - Best Animated Short - Best Animated Short,WAR IS OVER!,0.02750000000000008,0.6429,0.6154
+2024-03-10 11:14:37.241623,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Liverpool,0.02560000000000001,0.3333,0.3077
 2024-03-10 05:13:30.013490,NCAA DI Men - 2024 Atlantic Coast Conference Tournament - Conference Tournament Winner,North Carolina,0.02560000000000001,0.3704,0.3448
 2024-03-10 05:13:27.750890,96th Academy Awards - Best Visual Effects - Best Visual Effects,The Creator,0.025499999999999967,0.4255,0.4
 2024-03-10 01:13:26.635837,96th Academy Awards - Best Original Song - Best Original Song,What Was I Made For? - Billie Eilish (Barbie),0.025000000000000022,0.9,0.875
@@ -91,32 +93,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-10 05:13:25.623252,League Two - England - League Two 2023/24 - To Be Promoted,Bradford City,0.0245,0.0833,0.0588
 2024-03-10 05:13:53.535656,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - C. Davis vs B. An - Final Round 2 Balls,Byeong Hun An,0.024499999999999966,0.6078,0.5833
 2024-03-09 23:15:07.881636,Scores - Final Round Score - Shane Lowry - Outright,Under 72.5,0.024399999999999977,0.5122,0.4878
-2024-03-10 05:13:25.623252,League Two - England - League Two 2023/24 - To Be Promoted,AFC Wimbledon,0.0242,0.0909,0.0667
-2024-03-10 01:13:26.891215,96th Academy Awards - Best Documentary Feature - Best Documentary Feature,20 Days In Mariupol,0.0242,0.9333,0.9091
 2024-03-10 01:13:26.816583,96th Academy Awards - Best Cinematography - Best Cinematography,Oppenheimer - Hoyte van Hoytema,0.0242,0.9333,0.9091
-2024-03-10 01:13:27.541946,Deadpool & Wolverine - To Make A Credited Appearance In Deadpool & Wolverine - To Make A Credited Appearance,James McAvoy,0.024,0.0625,0.0385
+2024-03-10 01:13:26.891215,96th Academy Awards - Best Documentary Feature - Best Documentary Feature,20 Days In Mariupol,0.0242,0.9333,0.9091
+2024-03-10 05:13:25.623252,League Two - England - League Two 2023/24 - To Be Promoted,AFC Wimbledon,0.0242,0.0909,0.0667
 2024-03-10 01:13:27.541946,Deadpool & Wolverine - To Make A Credited Appearance In Deadpool & Wolverine - To Make A Credited Appearance,Michael Fassbender,0.024,0.0625,0.0385
+2024-03-10 01:13:27.541946,Deadpool & Wolverine - To Make A Credited Appearance In Deadpool & Wolverine - To Make A Credited Appearance,James McAvoy,0.024,0.0625,0.0385
+2024-03-10 11:15:01.684455,KBO Futures - KBO 2024 Winner - Korea KBO 2024,Lotte Giants,0.024,0.0625,0.0385
 2024-03-10 05:13:25.471193,League One - England - League One 2023/24 - Top 6 Finish,Lincoln City,0.023899999999999998,0.0435,0.0196
 2024-03-10 01:13:53.699338,Round Match-Ups - Final Round Match-Up - R. McIlroy vs S. Scheffler - Final Round Match-Up,Scottie Scheffler,0.023800000000000043,0.5238,0.5
-2024-03-09 21:15:21.764447,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - H. English vs R. McIlroy - Final Round 2 Balls,Rory McIlroy,0.023799999999999932,0.6667,0.6429
 2024-03-10 01:13:54.191378,Scores - Final Round Score - Wyndham Clark - Final Round Score,Over 72.5,0.022699999999999998,0.4878,0.4651
 2024-03-09 23:15:07.653500,Scores - Final Round Score - Rory McIlroy - Outright,Under 70.5,0.022699999999999998,0.4878,0.4651
-2024-03-09 21:15:21.606808,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - J. Thomas vs E. Cole - Final Round 2 Balls,Justin Thomas,0.022600000000000064,0.6226,0.6
+2024-03-10 11:14:37.241623,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Arsenal,0.02250000000000002,0.2857,0.2632
+2024-03-10 11:14:38.165867,96th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,American Fiction,0.022499999999999964,0.7368,0.7143
 2024-03-10 01:13:27.541946,Deadpool & Wolverine - To Make A Credited Appearance In Deadpool & Wolverine - To Make A Credited Appearance,Nicolas Cage,0.022199999999999998,0.2222,0.2
 2024-03-10 01:13:26.469239,96th Academy Awards - Best Actress - Best Actress,Lily Gladstone - Killers Of The Flower Moon,0.02100000000000002,0.6364,0.6154
-2024-03-10 05:13:53.365861,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - C. Bezuidenhout vs P. Rodgers - Final Round 2 Balls,Christiaan Bezuidenhout,0.02079999999999993,0.5556,0.5348
 2024-03-10 01:13:28.886676,Southeast Division - Southeast Division 2023-24 - Division Winner,Miami Heat,0.02079999999999993,0.5556,0.5348
+2024-03-10 05:13:53.365861,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - C. Bezuidenhout vs P. Rodgers - Final Round 2 Balls,Christiaan Bezuidenhout,0.02079999999999993,0.5556,0.5348
+2024-03-09 23:15:06.058926,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - X. Schauffele vs M. Lee - Final Round 2 Balls,Min Woo Lee,0.020699999999999996,0.4651,0.4444
 2024-03-09 23:15:06.306944,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - C. Davis vs B. An - Final Round 2 Balls,Cam Davis,0.020699999999999996,0.4651,0.4444
 2024-03-09 23:15:06.435489,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - L. Aberg vs K. Bradley - Final Round 2 Balls,Keegan Bradley,0.020699999999999996,0.4651,0.4444
 2024-03-09 23:15:06.708165,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - L. Hodges vs B. Todd - Final Round 2 Balls,Lee Hodges,0.020699999999999996,0.4651,0.4444
-2024-03-09 23:15:06.058926,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - X. Schauffele vs M. Lee - Final Round 2 Balls,Min Woo Lee,0.020699999999999996,0.4651,0.4444
 2024-03-10 09:13:25.081146,96th Academy Awards - Best Supporting Actress - Best Supporting Actress,America Ferrera - Barbie,0.0203,0.0526,0.0323
 2024-03-10 09:13:28.904843,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,JD Vance,0.020000000000000004,0.0323,0.0123
 2024-03-10 01:13:26.737300,96th Academy Awards - Best Animated Feature - Best Animated Feature,Robot Dreams,0.019800000000000005,0.0476,0.0278
-2024-03-09 21:15:21.843732,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - W. Clark vs W. Zalatoris - Final Round 2 Balls,Will Zalatoris,0.01970000000000005,0.5652,0.5455
 2024-03-10 01:13:29.482825,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Alperen Sengun (HOU),0.01949999999999999,0.0909,0.0714
-2024-03-10 09:13:25.188274,96th Academy Awards - Best Cinematography - Best Cinematography,Oppenheimer - Hoyte van Hoytema,0.019100000000000006,0.9524,0.9333
 2024-03-10 05:13:25.650993,League Two - England - League Two 2023/24 - Top 3 Finish,Mansfield Town,0.019100000000000006,0.9524,0.9333
+2024-03-10 09:13:25.188274,96th Academy Awards - Best Cinematography - Best Cinematography,Oppenheimer - Hoyte van Hoytema,0.019100000000000006,0.9524,0.9333
 2024-03-10 09:13:25.261688,96th Academy Awards - Best Documentary Feature - Best Documentary Feature,20 Days In Mariupol,0.019100000000000006,0.9524,0.9333
 2024-03-10 01:13:29.482825,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Jalen Williams (OKC),0.019099999999999992,0.0667,0.0476
 2024-03-10 05:13:25.028089,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,Club América,0.019000000000000017,0.2857,0.2667
@@ -130,8 +132,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-10 01:13:29.224188,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Stanford,0.018099999999999998,0.0769,0.0588
 2024-03-10 05:13:30.419084,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Tennessee,0.017299999999999982,0.303,0.2857
 2024-03-09 23:15:06.632215,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - C. Young vs A. Putnam - Final Round 2 Balls,Andrew Putnam,0.016699999999999993,0.4167,0.4
-2024-03-09 23:15:06.268190,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - T. Kim vs M. Hughes - Final Round 2 Balls,Mackenzie Hughes,0.016699999999999993,0.4167,0.4
 2024-03-10 01:13:27.850459,"Cryptocurrency Specials - Will Bitcoin Reach $100,000 Value In 2024 - Will Bitcoin Reach $100k In 2024?",Yes,0.016699999999999993,0.2667,0.25
+2024-03-09 23:15:06.268190,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - T. Kim vs M. Hughes - Final Round 2 Balls,Mackenzie Hughes,0.016699999999999993,0.4167,0.4
 2024-03-10 05:13:53.706105,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - L. Aberg vs K. Bradley - Final Round 2 Balls,Ludvig Aberg,0.016699999999999937,0.6,0.5833
 2024-03-10 05:13:53.245523,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - L. List vs C.T. Pan - Final Round 2 Balls,Luke List,0.016699999999999937,0.6,0.5833
 2024-03-10 01:13:27.148022,96th Academy Awards - Best Production Design - Best Production Design,Poor Things,0.016699999999999937,0.6,0.5833
@@ -141,17 +143,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-10 05:13:30.152233,NCAA DI Men - 2024 Big East Conference Tournament - Conference Tournament Winner,St. John's,0.014399999999999996,0.0769,0.0625
 2024-03-10 05:13:30.281775,NCAA DI Men - 2024 Patriot League Conference Tournament - Conference Tournament Winner,Colgate,0.01429999999999998,0.7403,0.726
 2024-03-10 05:13:26.831001,96th Academy Awards - How many Oscars will Oppenheimer win? - Oppenheimer Oscars Special,1 to 3,0.014100000000000001,0.0526,0.0385
-2024-03-10 09:13:24.777811,96th Academy Awards - Best Picture - Best Picture,Poor Things,0.014099999999999998,0.0385,0.0244
 2024-03-10 05:13:24.746908,MLS - USA MLS 2024 - Futures - Winner,Atlanta United,0.014099999999999998,0.0435,0.0294
+2024-03-10 09:13:24.777811,96th Academy Awards - Best Picture - Best Picture,Poor Things,0.014099999999999998,0.0385,0.0244
 2024-03-10 09:13:25.317831,96th Academy Awards - Best Film Editing - Best Film Editing,Oppenheimer,0.014000000000000012,0.9231,0.9091
-2024-03-10 09:13:25.488997,96th Academy Awards - Best Original Score - Best Original Score,Poor Things - Jerskin Fendrix,0.013999999999999999,0.0909,0.0769
 2024-03-10 07:14:26.747579,NCAA DI Men - 2024 West Coast Conference Tournament - Conference Tournament Winner,San Francisco,0.013999999999999999,0.0909,0.0769
+2024-03-10 09:13:25.488997,96th Academy Awards - Best Original Score - Best Original Score,Poor Things - Jerskin Fendrix,0.013999999999999999,0.0909,0.0769
 2024-03-10 01:13:29.277170,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Purdue,0.013899999999999996,0.125,0.1111
+2024-03-10 11:14:38.203781,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,Anatomy Of A Fall,0.0131,0.7778,0.7647
 2024-03-10 09:13:24.891742,96th Academy Awards - Best Director - Best Director,Yorgos Lanthimos - Poor Things,0.0131,0.0476,0.0345
-2024-03-09 23:14:40.075328,League Two - England - League Two 2023/24 - League Winner,Milton Keynes Dons,0.013,0.0196,0.0066
 2024-03-10 05:13:25.401101,League One - England - League One 2023/24 - Top Goalscorer,Colby Bishop,0.012899999999999995,0.1667,0.1538
-2024-03-10 05:13:55.253737,Scores - Final Round Score - Russell Henley - Final Round Score,Over 71.5,0.012700000000000045,0.6491,0.6364
 2024-03-10 01:13:27.073539,96th Academy Awards - Best Make Up & Hairstyling - Best Make Up & Hairstyling,Maestro,0.012700000000000045,0.6491,0.6364
+2024-03-10 05:13:55.253737,Scores - Final Round Score - Russell Henley - Final Round Score,Over 71.5,0.012700000000000045,0.6491,0.6364
 2024-03-10 09:13:25.188274,96th Academy Awards - Best Cinematography - Best Cinematography,El Conde - Edward Lachman,0.012700000000000003,0.0323,0.0196
 2024-03-10 09:13:24.777811,96th Academy Awards - Best Picture - Best Picture,Anatomy Of A Fall,0.012100000000000001,0.0244,0.0123
 2024-03-10 09:13:24.891742,96th Academy Awards - Best Director - Best Director,Martin Scorsese - Killers of the Flower Moon,0.012100000000000001,0.0244,0.0123
@@ -159,78 +161,76 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-10 07:14:26.712831,NCAA DI Men - 2024 Big East Conference Tournament - Conference Tournament Winner,Creighton,0.011700000000000016,0.2222,0.2105
 2024-03-10 01:13:53.426094,Round Match-Ups - Final Round Match-Up - K. Bradley vs C. Kirk - Final Round Match-Up,Chris Kirk,0.011600000000000055,0.5238,0.5122
 2024-03-10 07:14:26.747579,NCAA DI Men - 2024 West Coast Conference Tournament - Conference Tournament Winner,Santa Clara,0.011199999999999995,0.0435,0.0323
-2024-03-10 05:13:25.674097,League Two - England - League Two 2023/24 - Top 7 Finish,Barrow FC,0.011099999999999999,0.9,0.8889
 2024-03-10 05:13:30.358079,NCAA DI Men - 2024 Summit League Conference Tournament - Conference Tournament Winner,St. Thomas MN,0.011099999999999999,0.2778,0.2667
+2024-03-10 05:13:25.674097,League Two - England - League Two 2023/24 - Top 7 Finish,Barrow FC,0.011099999999999999,0.9,0.8889
+2024-03-10 05:13:54.959878,Round Match-Ups - Final Round Match-Up - R. McIlroy vs S. Scheffler - Final Round Match-Up,Rory McIlroy,0.01100000000000001,0.5348,0.5238
 2024-03-10 01:13:28.450497,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Conference,Western Conference,0.01100000000000001,0.5348,0.5238
 2024-03-10 01:13:53.773033,Round Match-Ups - Final Round Match-Up - W. Clark vs S. Lowry - Final Round Match-Up,Wyndham Clark,0.01100000000000001,0.5348,0.5238
-2024-03-09 21:15:21.645606,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - C. Conners vs S. Im - Final Round 2 Balls,Corey Conners,0.01100000000000001,0.5348,0.5238
-2024-03-10 05:13:54.959878,Round Match-Ups - Final Round Match-Up - R. McIlroy vs S. Scheffler - Final Round Match-Up,Rory McIlroy,0.01100000000000001,0.5348,0.5238
-2024-03-10 05:13:30.419084,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Creighton,0.010899999999999993,0.1538,0.1429
 2024-03-10 05:13:30.152233,NCAA DI Men - 2024 Big East Conference Tournament - Conference Tournament Winner,Marquette,0.010899999999999993,0.1538,0.1429
+2024-03-10 05:13:30.419084,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Creighton,0.010899999999999993,0.1538,0.1429
 2024-03-10 01:13:28.685663,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Indiana Pacers,0.010700000000000001,0.0385,0.0278
 2024-03-10 05:13:54.109030,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - C. Conners vs S. Im - Final Round 2 Balls,Corey Conners,0.010699999999999932,0.5455,0.5348
-2024-03-09 23:14:43.554841,NBA Championship - NBA Championship 2023-24 - NBA Champion,Denver Nuggets,0.01050000000000001,0.1923,0.1818
 2024-03-10 01:13:26.422759,96th Academy Awards - Best Actor - Best Actor,Cillian Murphy - Oppenheimer,0.010199999999999987,0.9333,0.9231
 2024-03-10 05:13:30.013490,NCAA DI Men - 2024 Atlantic Coast Conference Tournament - Conference Tournament Winner,Wake Forest,0.010099999999999998,0.1053,0.0952
 2024-03-10 01:13:29.464306,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Victor Wembanyama (SAS),-0.010099999999999998,0.0952,0.1053
 2024-03-10 05:13:27.750890,96th Academy Awards - Best Visual Effects - Best Visual Effects,Godzilla Minus One,-0.010099999999999998,0.5455,0.5556
 2024-03-10 01:13:29.224188,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,North Carolina State,-0.010100000000000001,0.0244,0.0345
-2024-03-10 05:13:24.746908,MLS - USA MLS 2024 - Futures - Winner,LA Galaxy,-0.0102,0.0667,0.0769
 2024-03-10 01:13:28.716532,Western Conference - Western Conference 2023-24 - Western Conference Winner,Minnesota Timberwolves,-0.0102,0.0667,0.0769
 2024-03-10 09:13:25.261688,96th Academy Awards - Best Documentary Feature - Best Documentary Feature,The Eternal Memory,-0.0102,0.0667,0.0769
+2024-03-10 05:13:24.746908,MLS - USA MLS 2024 - Futures - Winner,LA Galaxy,-0.0102,0.0667,0.0769
 2024-03-10 01:13:28.716532,Western Conference - Western Conference 2023-24 - Western Conference Winner,Denver Nuggets,-0.010699999999999987,0.3226,0.3333
 2024-03-10 09:13:25.261688,96th Academy Awards - Best Documentary Feature - Best Documentary Feature,To Kill A Tiger,-0.010700000000000001,0.0278,0.0385
 2024-03-10 01:13:26.509261,96th Academy Awards - Best Director - Best Director,Justine Triet - Anatomy Of A Fall,-0.010700000000000001,0.0278,0.0385
 2024-03-10 07:14:26.712831,NCAA DI Men - 2024 Big East Conference Tournament - Conference Tournament Winner,Marquette,-0.010899999999999993,0.1429,0.1538
 2024-03-10 01:13:27.817698,Cryptocurrency Specials - Bitcoin Value On April 30th 2024 - Bitcoin Value On April 30th,"Under $50,000",-0.010899999999999993,0.1429,0.1538
 2024-03-10 01:13:26.891215,96th Academy Awards - Best Documentary Feature - Best Documentary Feature,Four Daughters,-0.011099999999999999,0.1,0.1111
-2024-03-10 01:13:28.716532,Western Conference - Western Conference 2023-24 - Western Conference Winner,Golden State Warriors,-0.011099999999999999,0.0556,0.0667
 2024-03-10 01:13:29.375334,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Bobby Portis (MIL),-0.011099999999999999,0.1,0.1111
+2024-03-10 01:13:28.716532,Western Conference - Western Conference 2023-24 - Western Conference Winner,Golden State Warriors,-0.011099999999999999,0.0556,0.0667
 2024-03-10 05:13:56.694661,Cologuard Classic - Cologuard Classic - Winner,KJ Choi,-0.011199999999999995,0.0323,0.0435
 2024-03-10 05:13:30.013490,NCAA DI Men - 2024 Atlantic Coast Conference Tournament - Conference Tournament Winner,Miami Florida,-0.0113,0.0066,0.0179
 2024-03-10 07:14:48.943234,Boxing Lines - Sandy Ryan vs Terri Harper - To Win the Bout,Terri Harper,-0.01150000000000001,0.3333,0.3448
-2024-03-10 05:13:54.959878,Round Match-Ups - Final Round Match-Up - R. McIlroy vs S. Scheffler - Final Round Match-Up,Scottie Scheffler,-0.011600000000000055,0.5122,0.5238
-2024-03-10 01:13:53.773033,Round Match-Ups - Final Round Match-Up - W. Clark vs S. Lowry - Final Round Match-Up,Shane Lowry,-0.011600000000000055,0.5122,0.5238
-2024-03-09 21:15:20.398581,Boxing Lines - Goulamirian Arsen vs Gilberto Ramirez - To Win the Bout,Gilberto Ramirez,-0.011600000000000055,0.7531,0.7647
 2024-03-10 01:13:28.450497,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Conference,Eastern Conference,-0.011600000000000055,0.5122,0.5238
-2024-03-09 21:15:21.645606,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - C. Conners vs S. Im - Final Round 2 Balls,Sungjae Im,-0.011600000000000055,0.5122,0.5238
+2024-03-10 01:13:53.773033,Round Match-Ups - Final Round Match-Up - W. Clark vs S. Lowry - Final Round Match-Up,Shane Lowry,-0.011600000000000055,0.5122,0.5238
+2024-03-10 05:13:54.959878,Round Match-Ups - Final Round Match-Up - R. McIlroy vs S. Scheffler - Final Round Match-Up,Scottie Scheffler,-0.011600000000000055,0.5122,0.5238
 2024-03-10 05:13:30.152233,NCAA DI Men - 2024 Big East Conference Tournament - Conference Tournament Winner,Creighton,-0.011700000000000016,0.2105,0.2222
+2024-03-10 11:14:38.165867,96th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,Oppenheimer,-0.011899999999999994,0.2381,0.25
 2024-03-10 01:13:26.696216,96th Academy Awards - Best Supporting Actress - Best Supporting Actress,Jodie Foster - Nyad,-0.012100000000000001,0.0123,0.0244
 2024-03-10 05:13:54.109030,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - C. Conners vs S. Im - Final Round 2 Balls,Sungjae Im,-0.012199999999999989,0.5,0.5122
 2024-03-10 09:13:25.224096,96th Academy Awards - Best Costume Design - Best Costume Design,Poor Things,-0.012199999999999989,0.5,0.5122
 2024-03-10 01:13:26.673693,96th Academy Awards - Best Supporting Actor - Best Supporting Actor,"Robert Downey, Jr - Oppenheimer",-0.012300000000000089,0.9681,0.9804
 2024-03-10 01:13:26.509261,96th Academy Awards - Best Director - Best Director,Jonathan Glazer - The Zone Of Interest,-0.012700000000000003,0.0196,0.0323
 2024-03-10 09:13:25.439900,96th Academy Awards - Best Make Up & Hairstyling - Best Make Up & Hairstyling,Maestro,-0.012700000000000045,0.6364,0.6491
-2024-03-10 09:13:25.003846,96th Academy Awards - Best Original Song - Best Original Song,I'm Just Ken - Mark Ronson & Andrew Wyatt (Barbie),-0.012899999999999995,0.1538,0.1667
 2024-03-10 05:13:30.182091,NCAA DI Men - 2024 American Athletic Conference Tournament - Conference Tournament Winner,South Florida,-0.012899999999999995,0.1538,0.1667
+2024-03-10 09:13:25.003846,96th Academy Awards - Best Original Song - Best Original Song,I'm Just Ken - Mark Ronson & Andrew Wyatt (Barbie),-0.012899999999999995,0.1538,0.1667
 2024-03-10 05:13:56.694661,Cologuard Classic - Cologuard Classic - Winner,Shane Bertsch,-0.012899999999999998,0.005,0.0179
-2024-03-10 01:13:26.509261,96th Academy Awards - Best Director - Best Director,Yorgos Lanthimos - Poor Things,-0.0131,0.0345,0.0476
 2024-03-10 05:13:25.401101,League One - England - League One 2023/24 - Top Goalscorer,Sam Hoskins,-0.0131,0.0345,0.0476
-2024-03-10 09:13:25.317831,96th Academy Awards - Best Film Editing - Best Film Editing,Anatomy Of A Fall,-0.013899999999999996,0.1111,0.125
+2024-03-10 01:13:26.509261,96th Academy Awards - Best Director - Best Director,Yorgos Lanthimos - Poor Things,-0.0131,0.0345,0.0476
+2024-03-10 11:14:38.203781,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,The Holdovers,-0.0131,0.2222,0.2353
 2024-03-10 09:13:24.812551,96th Academy Awards - Best Actor - Best Actor,Paul Giamatti - The Holdovers,-0.013899999999999996,0.1111,0.125
 2024-03-10 09:13:24.741744,96th Academy Awards - How many Oscars will Oppenheimer win? - Oppenheimer Oscars Special,10 to 12,-0.013899999999999996,0.1111,0.125
+2024-03-10 09:13:25.317831,96th Academy Awards - Best Film Editing - Best Film Editing,Anatomy Of A Fall,-0.013899999999999996,0.1111,0.125
 2024-03-10 09:13:25.317831,96th Academy Awards - Best Film Editing - Best Film Editing,Killers Of The Flower Moon,-0.013999999999999999,0.0769,0.0909
 2024-03-10 01:13:26.891215,96th Academy Awards - Best Documentary Feature - Best Documentary Feature,The Eternal Memory,-0.013999999999999999,0.0769,0.0909
 2024-03-10 01:13:27.111349,96th Academy Awards - Best Original Score - Best Original Score,Poor Things - Jerskin Fendrix,-0.013999999999999999,0.0769,0.0909
 2024-03-10 05:13:25.028089,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,Chivas Guadalajara,-0.014099999999999994,0.0526,0.0667
 2024-03-10 09:13:25.439900,96th Academy Awards - Best Make Up & Hairstyling - Best Make Up & Hairstyling,Society Of The Snow,-0.014099999999999994,0.0526,0.0667
-2024-03-10 01:13:26.635837,96th Academy Awards - Best Original Song - Best Original Song,The Fire Inside - Diane Warren (Flamin' Hot),-0.014099999999999998,0.0244,0.0385
-2024-03-10 01:13:26.635837,96th Academy Awards - Best Original Song - Best Original Song,It Never Went Away - Jon Batiste (American Symphony),-0.014099999999999998,0.0244,0.0385
 2024-03-10 01:13:26.635837,96th Academy Awards - Best Original Song - Best Original Song,Wahzhazhe (A Song For My People) - Scott George (Killers Of The Flower Moon),-0.014099999999999998,0.0244,0.0385
-2024-03-10 09:13:25.393591,96th Academy Awards - Best Live Action Short - Best Live Action Short,Invincible,-0.014100000000000001,0.0385,0.0526
+2024-03-10 01:13:26.635837,96th Academy Awards - Best Original Song - Best Original Song,It Never Went Away - Jon Batiste (American Symphony),-0.014099999999999998,0.0244,0.0385
+2024-03-10 01:13:26.635837,96th Academy Awards - Best Original Song - Best Original Song,The Fire Inside - Diane Warren (Flamin' Hot),-0.014099999999999998,0.0244,0.0385
 2024-03-10 05:13:25.471193,League One - England - League One 2023/24 - Top 6 Finish,Barnsley,-0.014100000000000001,0.9615,0.9756
-2024-03-10 09:13:25.529611,96th Academy Awards - Best Production Design - Best Production Design,Oppenheimer,-0.014399999999999996,0.0625,0.0769
+2024-03-10 09:13:25.393591,96th Academy Awards - Best Live Action Short - Best Live Action Short,Invincible,-0.014100000000000001,0.0385,0.0526
 2024-03-10 05:13:30.013490,NCAA DI Men - 2024 Atlantic Coast Conference Tournament - Conference Tournament Winner,Virginia,-0.014399999999999996,0.0625,0.0769
+2024-03-10 09:13:25.529611,96th Academy Awards - Best Production Design - Best Production Design,Oppenheimer,-0.014399999999999996,0.0625,0.0769
+2024-03-10 01:13:27.850459,"Cryptocurrency Specials - Will Bitcoin Reach $100,000 Value In 2024 - Will Bitcoin Reach $100k In 2024?",No,-0.015100000000000002,0.8182,0.8333
 2024-03-10 09:13:24.926476,96th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,Barbie,-0.015100000000000002,0.1667,0.1818
 2024-03-10 09:13:24.741744,96th Academy Awards - How many Oscars will Oppenheimer win? - Oppenheimer Oscars Special,7 to 9,-0.015100000000000002,0.8182,0.8333
 2024-03-10 07:14:22.171747,First Division A - Belgium First Division A 2023/24 - Outright,Union Saint-Gilloise,-0.015100000000000002,0.8182,0.8333
-2024-03-10 01:13:27.850459,"Cryptocurrency Specials - Will Bitcoin Reach $100,000 Value In 2024 - Will Bitcoin Reach $100k In 2024?",No,-0.015100000000000002,0.8182,0.8333
-2024-03-10 09:13:25.317831,96th Academy Awards - Best Film Editing - Best Film Editing,Poor Things,-0.015300000000000001,0.0323,0.0476
-2024-03-10 01:13:26.696216,96th Academy Awards - Best Supporting Actress - Best Supporting Actress,America Ferrera - Barbie,-0.015300000000000001,0.0323,0.0476
-2024-03-10 05:13:25.401101,League One - England - League One 2023/24 - Top Goalscorer,Dion Charles,-0.015300000000000001,0.0435,0.0588
 2024-03-10 01:13:26.422759,96th Academy Awards - Best Actor - Best Actor,Bradley Cooper - Maestro,-0.015300000000000001,0.0323,0.0476
 2024-03-10 01:13:27.111349,96th Academy Awards - Best Original Score - Best Original Score,Indiana Jones & The Dial Of Destiny - John Williams,-0.015300000000000001,0.0323,0.0476
+2024-03-10 01:13:26.696216,96th Academy Awards - Best Supporting Actress - Best Supporting Actress,America Ferrera - Barbie,-0.015300000000000001,0.0323,0.0476
 2024-03-10 01:13:26.673693,96th Academy Awards - Best Supporting Actor - Best Supporting Actor,Mark Ruffalo - Poor Things,-0.015300000000000001,0.0323,0.0476
+2024-03-10 05:13:25.401101,League One - England - League One 2023/24 - Top Goalscorer,Dion Charles,-0.015300000000000001,0.0435,0.0588
+2024-03-10 09:13:25.317831,96th Academy Awards - Best Film Editing - Best Film Editing,Poor Things,-0.015300000000000001,0.0323,0.0476
 2024-03-10 01:13:29.375334,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Malik Monk (SAC),-0.01660000000000006,0.7561,0.7727
 2024-03-10 01:13:26.931287,96th Academy Awards - Best Documentary Short - Best Documentary Short,The ABCs Of Book Burning,-0.016699999999999937,0.5833,0.6
 2024-03-10 07:14:26.747579,NCAA DI Men - 2024 West Coast Conference Tournament - Conference Tournament Winner,Gonzaga,-0.016699999999999937,0.5833,0.6
@@ -242,83 +242,78 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-10 01:13:29.436603,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,-0.01759999999999995,0.6491,0.6667
 2024-03-10 01:13:27.111349,96th Academy Awards - Best Original Score - Best Original Score,Killers Of The Flower Moon - Robbie Robertson,-0.01759999999999999,0.1,0.1176
 2024-03-10 05:13:30.207353,NCAA DI Men - 2024 Coastal Athletic  Conference Tournament - Conference Tournament Winner,Coll Charleston,-0.017600000000000005,0.3333,0.3509
+2024-03-10 05:13:30.207353,NCAA DI Men - 2024 Coastal Athletic  Conference Tournament - Conference Tournament Winner,Hofstra,-0.0179,0.2174,0.2353
 2024-03-10 01:13:26.422759,96th Academy Awards - Best Actor - Best Actor,Paul Giamatti - The Holdovers,-0.0179,0.125,0.1429
 2024-03-10 05:13:56.694661,Cologuard Classic - Cologuard Classic - Winner,Justin Leonard,-0.0179,0.0099,0.0278
-2024-03-10 05:13:30.207353,NCAA DI Men - 2024 Coastal Athletic  Conference Tournament - Conference Tournament Winner,Hofstra,-0.0179,0.2174,0.2353
 2024-03-10 07:14:26.712831,NCAA DI Men - 2024 Big East Conference Tournament - Conference Tournament Winner,St. John's,-0.018099999999999998,0.0588,0.0769
 2024-03-10 01:13:26.553023,96th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,Oppenheimer,-0.018100000000000005,0.2597,0.2778
-2024-03-09 23:14:40.075328,League Two - England - League Two 2023/24 - League Winner,Wrexham,-0.01820000000000002,0.1818,0.2
 2024-03-10 05:13:30.243452,NCAA DI Men - 2024 Horizon League Conference Tournament - Conference Tournament Winner,Cleveland State,-0.01820000000000002,0.1818,0.2
 2024-03-09 23:15:07.881636,Scores - Final Round Score - Shane Lowry - Outright,Over 72.5,-0.01880000000000004,0.5556,0.5744
 2024-03-10 05:13:25.623252,League Two - England - League Two 2023/24 - To Be Promoted,Morecambe,-0.0189,0.0196,0.0385
 2024-03-10 01:13:26.816583,96th Academy Awards - Best Cinematography - Best Cinematography,El Conde - Edward Lachman,-0.0189,0.0196,0.0385
-2024-03-09 21:15:21.606808,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - J. Thomas vs E. Cole - Final Round 2 Balls,Eric Cole,-0.018900000000000028,0.4255,0.4444
 2024-03-10 05:13:30.419084,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Arizona,-0.019000000000000017,0.2667,0.2857
 2024-03-10 01:13:27.541946,Deadpool & Wolverine - To Make A Credited Appearance In Deadpool & Wolverine - To Make A Credited Appearance,Ben Affleck,-0.019000000000000017,0.2667,0.2857
 2024-03-10 05:13:56.694661,Cologuard Classic - Cologuard Classic - Winner,David Brandson,-0.0194,0.005,0.0244
-2024-03-09 23:15:06.268190,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - T. Kim vs M. Hughes - Final Round 2 Balls,Tom Kim,-0.019499999999999962,0.6296,0.6491
 2024-03-09 23:15:06.632215,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - C. Young vs A. Putnam - Final Round 2 Balls,Cameron Young,-0.019499999999999962,0.6296,0.6491
+2024-03-09 23:15:06.268190,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - T. Kim vs M. Hughes - Final Round 2 Balls,Tom Kim,-0.019499999999999962,0.6296,0.6491
 2024-03-10 05:13:25.439538,League One - England - League One 2023/24 - Top 2 Finish,Stevenage,-0.019499999999999997,0.0099,0.0294
 2024-03-10 01:13:26.673693,96th Academy Awards - Best Supporting Actor - Best Supporting Actor,Robert De Niro - Killers Of The Flower Moon,-0.019800000000000005,0.0278,0.0476
 2024-03-10 01:13:26.673693,96th Academy Awards - Best Supporting Actor - Best Supporting Actor,Sterling K Brown - American Fiction,-0.020000000000000004,0.0123,0.0323
 2024-03-10 01:13:26.891215,96th Academy Awards - Best Documentary Feature - Best Documentary Feature,Bobi Wine: The People's President,-0.02020000000000001,0.0909,0.1111
-2024-03-10 05:13:53.245523,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - L. List vs C.T. Pan - Final Round 2 Balls,C T Pan,-0.020699999999999996,0.4444,0.4651
 2024-03-10 05:13:53.706105,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - L. Aberg vs K. Bradley - Final Round 2 Balls,Keegan Bradley,-0.020699999999999996,0.4444,0.4651
+2024-03-10 05:13:53.245523,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - L. List vs C.T. Pan - Final Round 2 Balls,C T Pan,-0.020699999999999996,0.4444,0.4651
 2024-03-10 01:13:29.277170,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Arizona,-0.0208,0.0625,0.0833
 2024-03-10 01:13:53.699338,Round Match-Ups - Final Round Match-Up - R. McIlroy vs S. Scheffler - Final Round Match-Up,Rory McIlroy,-0.02169999999999994,0.5238,0.5455
 2024-03-10 05:13:25.623252,League Two - England - League Two 2023/24 - To Be Promoted,Crewe Alexandra,-0.021999999999999964,0.2857,0.3077
-2024-03-09 21:15:21.764447,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - H. English vs R. McIlroy - Final Round 2 Balls,Harris English,-0.02260000000000001,0.3774,0.4
 2024-03-10 09:13:25.529611,96th Academy Awards - Best Production Design - Best Production Design,Barbie,-0.02260000000000001,0.3774,0.4
-2024-03-10 05:13:30.243452,NCAA DI Men - 2024 Horizon League Conference Tournament - Conference Tournament Winner,Oakland,-0.022600000000000064,0.5122,0.5348
-2024-03-09 23:15:05.940492,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - J. Spieth vs S. Straka - Final Round 2 Balls,Jordan Spieth,-0.022600000000000064,0.6,0.6226
-2024-03-09 23:15:06.670814,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - E. Grillo vs W. Simpson - Final Round 2 Balls,Emiliano Grillo,-0.022600000000000064,0.6,0.6226
 2024-03-10 01:13:26.852610,96th Academy Awards - Best Costume Design - Best Costume Design,Poor Things,-0.022600000000000064,0.5122,0.5348
+2024-03-10 05:13:30.243452,NCAA DI Men - 2024 Horizon League Conference Tournament - Conference Tournament Winner,Oakland,-0.022600000000000064,0.5122,0.5348
+2024-03-09 23:15:06.670814,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - E. Grillo vs W. Simpson - Final Round 2 Balls,Emiliano Grillo,-0.022600000000000064,0.6,0.6226
+2024-03-09 23:15:05.940492,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - J. Spieth vs S. Straka - Final Round 2 Balls,Jordan Spieth,-0.022600000000000064,0.6,0.6226
 2024-03-10 05:13:56.694661,Cologuard Classic - Cologuard Classic - Winner,Cameron Beckman,-0.022799999999999997,0.005,0.0278
 2024-03-10 05:13:25.623252,League Two - England - League Two 2023/24 - To Be Promoted,Notts County,-0.0232,0.0435,0.0667
 2024-03-10 01:13:26.391403,96th Academy Awards - Best Picture - Best Picture,Poor Things,-0.023200000000000002,0.0244,0.0476
-2024-03-10 01:13:28.801374,Northwest Division - Northwest Division 2023-24 - Division Winner,Minnesota Timberwolves,-0.023799999999999988,0.1429,0.1667
-2024-03-10 09:13:25.287586,96th Academy Awards - Best Documentary Short - Best Documentary Short,Nai Nai & Wai Po,-0.023799999999999988,0.1429,0.1667
-2024-03-09 21:15:21.843732,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - W. Clark vs W. Zalatoris - Final Round 2 Balls,Wyndham Clark,-0.023799999999999988,0.4762,0.5
-2024-03-10 05:13:25.028089,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,CF Pachuca,-0.023799999999999988,0.1429,0.1667
-2024-03-10 05:13:30.281775,NCAA DI Men - 2024 Patriot League Conference Tournament - Conference Tournament Winner,Boston U,-0.023799999999999988,0.1429,0.1667
 2024-03-10 05:13:30.281775,NCAA DI Men - 2024 Patriot League Conference Tournament - Conference Tournament Winner,Lehigh,-0.023799999999999988,0.1429,0.1667
+2024-03-10 05:13:30.281775,NCAA DI Men - 2024 Patriot League Conference Tournament - Conference Tournament Winner,Boston U,-0.023799999999999988,0.1429,0.1667
+2024-03-10 09:13:25.287586,96th Academy Awards - Best Documentary Short - Best Documentary Short,Nai Nai & Wai Po,-0.023799999999999988,0.1429,0.1667
+2024-03-10 01:13:28.801374,Northwest Division - Northwest Division 2023-24 - Division Winner,Minnesota Timberwolves,-0.023799999999999988,0.1429,0.1667
+2024-03-10 05:13:25.028089,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,CF Pachuca,-0.023799999999999988,0.1429,0.1667
+2024-03-10 11:14:37.979484,96th Academy Awards - How many Oscars will Oppenheimer win? - Oppenheimer Oscars Special,4 to 6,-0.023799999999999988,0.1429,0.1667
 2024-03-10 05:13:30.419084,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Iowa State,-0.023800000000000016,0.1667,0.1905
 2024-03-10 05:13:30.281775,NCAA DI Men - 2024 Patriot League Conference Tournament - Conference Tournament Winner,Bucknell,-0.0242,0.0667,0.0909
 2024-03-10 01:13:27.073539,96th Academy Awards - Best Make Up & Hairstyling - Best Make Up & Hairstyling,Society Of The Snow,-0.0242,0.0667,0.0909
-2024-03-10 01:13:29.277170,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Kentucky,-0.024299999999999995,0.0526,0.0769
 2024-03-10 09:13:25.601371,96th Academy Awards - Best Visual Effects - Best Visual Effects,Guardians Of The Galaxy: Volume 3,-0.024299999999999995,0.0526,0.0769
+2024-03-10 01:13:29.277170,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Kentucky,-0.024299999999999995,0.0526,0.0769
 2024-03-10 05:13:53.365861,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - C. Bezuidenhout vs P. Rodgers - Final Round 2 Balls,Patrick Rodgers,-0.024399999999999977,0.4878,0.5122
-2024-03-10 09:13:25.188274,96th Academy Awards - Best Cinematography - Best Cinematography,Poor Things - Robbie Ryan,-0.024999999999999994,0.1,0.125
 2024-03-10 01:13:27.039114,96th Academy Awards - Best Live Action Short - Best Live Action Short,The After,-0.024999999999999994,0.1,0.125
+2024-03-10 09:13:25.188274,96th Academy Awards - Best Cinematography - Best Cinematography,Poor Things - Robbie Ryan,-0.024999999999999994,0.1,0.125
 2024-03-10 05:13:30.419084,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Kansas,-0.025300000000000003,0.1176,0.1429
 2024-03-09 23:15:07.653500,Scores - Final Round Score - Rory McIlroy - Outright,Over 70.5,-0.025599999999999956,0.5744,0.6
 2024-03-10 01:13:54.191378,Scores - Final Round Score - Wyndham Clark - Final Round Score,Under 72.5,-0.025599999999999956,0.5744,0.6
 2024-03-10 05:13:25.674097,League Two - England - League Two 2023/24 - Top 7 Finish,Gillingham,-0.02560000000000001,0.3077,0.3333
 2024-03-10 01:13:26.391403,96th Academy Awards - Best Picture - Best Picture,The Holdovers,-0.0262,0.0123,0.0385
-2024-03-10 05:13:28.583036,Cryptocurrency Specials - Bitcoin Value On April 30th 2024 - Bitcoin Value On April 30th,"$60,001 to $65,000",-0.02779999999999999,0.2222,0.25
 2024-03-10 05:13:26.831001,96th Academy Awards - How many Oscars will Oppenheimer win? - Oppenheimer Oscars Special,4 to 6,-0.02779999999999999,0.2222,0.25
+2024-03-10 05:13:28.583036,Cryptocurrency Specials - Bitcoin Value On April 30th 2024 - Bitcoin Value On April 30th,"$60,001 to $65,000",-0.02779999999999999,0.2222,0.25
 2024-03-10 05:13:56.694661,Cologuard Classic - Cologuard Classic - Winner,Jerry Kelly,-0.028199999999999996,0.0385,0.0667
 2024-03-10 01:13:27.148022,96th Academy Awards - Best Production Design - Best Production Design,Oppenheimer,-0.02840000000000001,0.0769,0.1053
-2024-03-10 01:13:26.774461,96th Academy Awards - Best Animated Short - Best Animated Short,Ninety-Five Senses,-0.028799999999999992,0.125,0.1538
 2024-03-10 05:13:25.422707,League One - England - League One 2023/24 - To Be Promoted,Stevenage,-0.028799999999999992,0.125,0.1538
+2024-03-10 01:13:26.774461,96th Academy Awards - Best Animated Short - Best Animated Short,Ninety-Five Senses,-0.028799999999999992,0.125,0.1538
 2024-03-10 05:13:25.471193,League One - England - League One 2023/24 - Top 6 Finish,Leyton Orient,-0.0294,0.0294,0.0588
 2024-03-10 05:13:53.535656,Arnold Palmer Invitational - 2/3 Balls - Final Round 2 Balls - C. Davis vs B. An - Final Round 2 Balls,Cam Davis,-0.030299999999999994,0.4348,0.4651
 2024-03-10 01:13:26.696216,96th Academy Awards - Best Supporting Actress - Best Supporting Actress,Danielle Brooks - The Color Purple,-0.031200000000000002,0.0164,0.0476
 2024-03-10 05:13:25.471193,League One - England - League One 2023/24 - Top 6 Finish,Blackpool,-0.031399999999999983,0.2353,0.2667
-2024-03-09 21:15:21.921728,Round Match-Ups - Final Round Match-Up - J. Day vs T. Kim - Final Round Match-Up,Jason Day,-0.03179999999999994,0.5238,0.5556
 2024-03-10 01:13:53.426094,Round Match-Ups - Final Round Match-Up - K. Bradley vs C. Kirk - Final Round Match-Up,Keegan Bradley,-0.03179999999999994,0.5238,0.5556
-2024-03-09 23:14:40.075328,League Two - England - League Two 2023/24 - League Winner,Mansfield Town,-0.03179999999999994,0.5238,0.5556
 2024-03-10 05:13:25.674097,League Two - England - League Two 2023/24 - Top 7 Finish,Crewe Alexandra,-0.03180000000000005,0.8571,0.8889
 2024-03-10 01:13:26.816583,96th Academy Awards - Best Cinematography - Best Cinematography,Killers Of The Flower Moon - Rodrigo Prieto,-0.0321,0.0588,0.0909
 2024-03-09 23:15:07.840732,Scores - Final Round Score - Scottie Scheffler - Outright,Over 69.5,-0.03259999999999996,0.6226,0.6552
-2024-03-10 05:13:25.401101,League One - England - League One 2023/24 - Top Goalscorer,Devante Cole,-0.03259999999999999,0.2,0.2326
 2024-03-10 07:14:22.467470,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Alianza Lima,-0.03259999999999999,0.2,0.2326
-2024-03-10 05:13:55.213910,Scores - Final Round Score - Rory McIlroy - Final Round Score,Under 70.5,-0.033299999999999996,0.4545,0.4878
+2024-03-10 05:13:25.401101,League One - England - League One 2023/24 - Top Goalscorer,Devante Cole,-0.03259999999999999,0.2,0.2326
 2024-03-10 01:13:28.758552,Central Division - Central Division 2023-24 - Division Winner,Cleveland Cavaliers,-0.033299999999999996,0.5122,0.5455
+2024-03-10 05:13:55.213910,Scores - Final Round Score - Rory McIlroy - Final Round Score,Under 70.5,-0.033299999999999996,0.4545,0.4878
 2024-03-10 05:13:25.623252,League Two - England - League Two 2023/24 - To Be Promoted,Walsall,-0.03330000000000001,0.0667,0.1
-2024-03-10 01:13:26.635837,96th Academy Awards - Best Original Song - Best Original Song,I'm Just Ken - Mark Ronson & Andrew Wyatt (Barbie),-0.033300000000000024,0.1667,0.2
 2024-03-10 01:13:27.039114,96th Academy Awards - Best Live Action Short - Best Live Action Short,Knight Of Fortune,-0.033300000000000024,0.1667,0.2
 2024-03-10 05:13:25.028089,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,Cruz Azul,-0.033300000000000024,0.1667,0.2
+2024-03-10 01:13:26.635837,96th Academy Awards - Best Original Song - Best Original Song,I'm Just Ken - Mark Ronson & Andrew Wyatt (Barbie),-0.033300000000000024,0.1667,0.2
 2024-03-10 05:13:30.084159,NCAA DI Men - 2024 Big Sky Conference Tournament - Conference Tournament Winner,Weber State,-0.03409999999999999,0.2326,0.2667
 2024-03-10 09:13:25.150868,96th Academy Awards - Best Animated Short - Best Animated Short,Ninety-Five Senses,-0.034100000000000005,0.0909,0.125
 2024-03-10 01:13:27.505153,Deadpool & Wolverine - Rotten Tomatoes Audience Score On August 23rd 2024 - Deadpool & Wolverine,84% or under,-0.03480000000000005,0.5,0.5348
@@ -334,20 +329,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-10 01:13:26.816583,96th Academy Awards - Best Cinematography - Best Cinematography,Maestro - Matthew Libatique,-0.038099999999999995,0.0244,0.0625
 2024-03-10 01:13:26.553023,96th Academy Awards - Best Adapted Screenplay - Best Adapted Screenplay,Poor Things,-0.038299999999999994,0.0526,0.0909
 2024-03-10 09:13:24.849959,96th Academy Awards - Best Actress - Best Actress,Emma Stone - Poor Things,-0.0393,0.3774,0.4167
-2024-03-09 23:14:39.979742,League One - England - League One 2023/24 - League Winner,Barnsley,-0.04120000000000001,0.0588,0.1
 2024-03-10 05:13:25.439538,League One - England - League One 2023/24 - Top 2 Finish,Portsmouth,-0.04169999999999996,0.8333,0.875
 2024-03-10 05:13:25.401101,League One - England - League One 2023/24 - Top Goalscorer,Chris Hugh Martin,-0.042899999999999994,0.1,0.1429
 2024-03-09 23:15:07.511120,Scores - Final Round Score - Justin Thomas - Outright,Over 71.5,-0.043399999999999994,0.4444,0.4878
 2024-03-09 23:15:07.592451,Scores - Final Round Score - Sam Burns - Outright,Over 71.5,-0.044399999999999995,0.5556,0.6
 2024-03-10 01:13:28.886676,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,-0.045499999999999985,0.5,0.5455
 2024-03-10 07:14:22.467470,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Universitario de Deportes,-0.047599999999999976,0.2857,0.3333
+2024-03-10 11:14:37.241623,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Manchester City,-0.04760000000000003,0.4762,0.5238
 2024-03-10 05:13:56.694661,Cologuard Classic - Cologuard Classic - Winner,Paul Broadhurst,-0.0489,0.0099,0.0588
 2024-03-10 05:13:25.674097,League Two - England - League Two 2023/24 - Top 7 Finish,Notts County,-0.04909999999999999,0.1176,0.1667
-2024-03-09 23:14:39.979742,League One - England - League One 2023/24 - League Winner,Portsmouth,-0.04910000000000003,0.6,0.6491
 2024-03-10 01:13:29.482825,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Tyrese Maxey (PHI),-0.050000000000000044,0.75,0.8
 2024-03-10 09:13:24.963688,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,The Holdovers,-0.0504,0.2353,0.2857
-2024-03-10 05:13:27.750890,96th Academy Awards - Best Visual Effects - Best Visual Effects,Napoleon,-0.052000000000000005,0.0909,0.1429
 2024-03-10 01:13:29.404708,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Shai Gilgeous-Alexander (OKC),-0.052000000000000005,0.0909,0.1429
+2024-03-10 05:13:27.750890,96th Academy Awards - Best Visual Effects - Best Visual Effects,Napoleon,-0.052000000000000005,0.0909,0.1429
 2024-03-10 01:13:29.404708,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Damian Lillard (MIL),-0.052399999999999995,0.0385,0.0909
 2024-03-10 01:13:27.541946,Deadpool & Wolverine - To Make A Credited Appearance In Deadpool & Wolverine - To Make A Credited Appearance,Ian McKellen,-0.053099999999999925,0.5833,0.6364
 2024-03-10 01:13:27.541946,Deadpool & Wolverine - To Make A Credited Appearance In Deadpool & Wolverine - To Make A Credited Appearance,Patrick Stewart,-0.053099999999999925,0.5833,0.6364
@@ -357,12 +351,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-10 05:13:25.590349,League Two - England - League Two 2023/24 - Top Goalscorer,Will Evans,-0.05559999999999998,0.1111,0.1667
 2024-03-10 05:13:25.650993,League Two - England - League Two 2023/24 - Top 3 Finish,Barrow FC,-0.05679999999999999,0.125,0.1818
 2024-03-10 01:13:27.817698,Cryptocurrency Specials - Bitcoin Value On April 30th 2024 - Bitcoin Value On April 30th,"$50,000 to $55,000",-0.05710000000000001,0.1429,0.2
-2024-03-10 05:13:55.292093,Scores - Final Round Score - Sam Burns - Final Round Score,Under 71.5,-0.057699999999999974,0.4545,0.5122
 2024-03-10 05:13:25.728548,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,St. Pauli,-0.057699999999999974,0.6923,0.75
+2024-03-10 05:13:55.292093,Scores - Final Round Score - Sam Burns - Final Round Score,Under 71.5,-0.057699999999999974,0.4545,0.5122
 2024-03-10 01:13:27.817698,Cryptocurrency Specials - Bitcoin Value On April 30th 2024 - Bitcoin Value On April 30th,"$60,001 to $65,000",-0.057699999999999974,0.25,0.3077
 2024-03-10 05:13:25.401101,League One - England - League One 2023/24 - Top Goalscorer,Jordan Rhodes,-0.061500000000000006,0.0385,0.1
 2024-03-10 09:13:25.287586,96th Academy Awards - Best Documentary Short - Best Documentary Short,The Last Repair Shop,-0.06340000000000001,0.3448,0.4082
 2024-03-09 23:15:07.771348,Scores - Final Round Score - Will Zalatoris - Outright,Over 71.5,-0.06519999999999992,0.5348,0.6
+2024-03-10 11:14:38.491350,96th Academy Awards - Best Costume Design - Best Costume Design,Poor Things,-0.06519999999999998,0.4348,0.5
 2024-03-10 05:13:25.471193,League One - England - League One 2023/24 - Top 6 Finish,Stevenage,-0.06659999999999999,0.6667,0.7333
 2024-03-10 05:13:25.439538,League One - England - League One 2023/24 - Top 2 Finish,Bolton Wanderers,-0.06670000000000004,0.3333,0.4
 2024-03-10 05:13:55.408263,Scores - Final Round Score - Will Zalatoris - Final Round Score,Under 71.5,-0.06970000000000004,0.4651,0.5348
@@ -371,6 +366,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-10 01:13:27.148022,96th Academy Awards - Best Production Design - Best Production Design,Barbie,-0.07619999999999999,0.4,0.4762
 2024-03-10 01:13:26.594412,96th Academy Awards - Best Original Screenplay - Best Original Screenplay,The Holdovers,-0.07789999999999997,0.2857,0.3636
 2024-03-09 23:15:07.692516,Scores - Final Round Score - Hideki Matsuyama - Outright,Over 71.5,-0.08079999999999998,0.5556,0.6364
+2024-03-10 11:14:38.744836,96th Academy Awards - Best Make Up & Hairstyling - Best Make Up & Hairstyling,Poor Things,-0.08080000000000004,0.3636,0.4444
 2024-03-10 05:13:25.650993,League Two - England - League Two 2023/24 - Top 3 Finish,Crewe Alexandra,-0.08179999999999998,0.1,0.1818
 2024-03-10 01:13:27.817698,Cryptocurrency Specials - Bitcoin Value On April 30th 2024 - Bitcoin Value On April 30th,"$55,001 to $60,000",-0.08549999999999996,0.2222,0.3077
 2024-03-09 23:15:07.552323,Scores - Final Round Score - Max Homa - Outright,Over 71.5,-0.08660000000000001,0.4878,0.5744
