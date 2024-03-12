@@ -4,7 +4,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-12 03:10:42.756488,NCAA DI Men - 2024 Big Sky Conference Tournament - Conference Tournament Winner,Montana,0.17900000000000005,0.5238,0.3448
 2024-03-12 03:10:38.866826,Serie A - Italy Serie A 2023/24 - To Be Relegated,Lecce,0.1607,0.2857,0.125
 2024-03-12 03:10:38.866826,Serie A - Italy Serie A 2023/24 - To Be Relegated,Frosinone,0.15000000000000002,0.4,0.25
-2024-03-11 15:11:51.856880,Boxing Lines - Tomoki Kameda vs Lerato Dlamini - To Win the Bout,Lerato Dlamini,0.1377,0.3846,0.2469
 2024-03-12 03:10:38.866826,Serie A - Italy Serie A 2023/24 - To Be Relegated,Empoli,0.13330000000000003,0.4,0.2667
 2024-03-12 01:11:42.677111,Central Division - Central Division 2023-24 - Division Winner,Milwaukee Bucks,0.11110000000000009,0.7778,0.6667
 2024-03-11 21:13:10.966176,Premier League Futures/Specials - English Premier League 2023/24 - Man City vs The Field,Any other team,0.09509999999999996,0.6364,0.5413
@@ -23,6 +22,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-12 01:11:44.260064,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Coby White (CHI),0.043399999999999994,0.3333,0.2899
 2024-03-12 03:10:38.907681,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Salernitana,0.043300000000000005,0.9524,0.9091
 2024-03-12 03:10:42.756488,NCAA DI Men - 2024 Big Sky Conference Tournament - Conference Tournament Winner,Sacramento State,0.04329999999999999,0.0909,0.0476
+2024-03-12 05:10:42.411320,Championship - England Championship 2023/24 - Top 6 Finish,Norwich City,0.04089999999999999,0.4255,0.3846
 2024-03-12 01:11:42.718367,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,0.039600000000000024,0.4651,0.4255
 2024-03-11 21:13:10.480051,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Randers,0.03889999999999999,0.1818,0.1429
 2024-03-12 01:11:42.824318,Southwest Division - Southwest Division 2023-24 - Division Winner,Dallas Mavericks,0.0388,0.2985,0.2597
@@ -32,31 +32,41 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-12 03:10:43.512532,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Connecticut,0.030199999999999998,0.0625,0.0323
 2024-03-12 01:11:42.629407,Western Conference - Western Conference 2023-24 - Western Conference Winner,Denver Nuggets,0.028299999999999992,0.3509,0.3226
 2024-03-12 03:11:02.224060,Boxing Lines - Zeke Campbell vs Laban Stringer - To Win the Bout,Laban Stringer,0.0267,0.1176,0.0909
+2024-03-12 05:11:09.136172,Boxing Lines - Zeke Campbell vs Laban Stringer - To Win the Bout,Laban Stringer,0.025300000000000003,0.1429,0.1176
 2024-03-12 03:11:02.324978,Boxing Lines - Issac Hardman vs Endry Saavedra - To Win the Bout,Endry Saavedra,0.024800000000000016,0.2353,0.2105
 2024-03-12 01:11:42.589299,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Philadelphia 76ers,0.024299999999999995,0.0769,0.0526
 2024-03-11 17:13:21.427458,NCAA DI Men - 2024 Big 12 Conference Tournament - Conference Tournament Winner,BYU,0.0242,0.0909,0.0667
+2024-03-12 03:10:43.480114,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Connecticut,0.023799999999999988,0.5,0.4762
 2024-03-11 23:12:56.741143,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Fulham,0.023799999999999932,0.8571,0.8333
 2024-03-12 01:11:42.471891,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Conference,Eastern Conference,0.022600000000000064,0.5348,0.5122
+2024-03-12 05:11:11.138890,Boxing Lines - Jake Paul vs Mike Tyson - To Win the Bout,Mike Tyson,0.02260000000000001,0.4,0.3774
 2024-03-12 01:12:07.263354,Boxing Lines - Zach Parker vs Tyron Zeuge - To Win the Bout,Zach Parker,0.022199999999999998,0.8889,0.8667
+2024-03-12 05:11:11.316801,Tournament Match-Ups - Tournament Match-Up - J. Day vs T. Finau - Tournament Match-Up ,Jason Day,0.02169999999999994,0.5455,0.5238
 2024-03-12 01:11:44.146019,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Nikola Jokic (DEN),0.021300000000000003,0.0323,0.011
+2024-03-12 05:10:42.411320,Championship - England Championship 2023/24 - Top 6 Finish,Coventry City,0.02100000000000002,0.3846,0.3636
 2024-03-12 03:11:03.986837,Boxing Lines - Jake Paul vs Mike Tyson - To Win the Bout,Mike Tyson,0.02030000000000004,0.3774,0.3571
 2024-03-12 01:12:06.956453,Boxing Lines - Issac Hardman vs Endry Saavedra - To Win the Bout,Endry Saavedra,0.01999999999999999,0.2105,0.1905
-2024-03-11 15:11:28.637603,NCAA DI Men - 2024 PAC 12 Conference Tournament - To Reach Conference Game,USC,0.019099999999999992,0.0667,0.0476
+2024-03-12 05:11:11.732378,Tournament Match-Ups - Tournament Match-Up - X. Schauffele vs V. Hovland - Tournament Match-Up ,Xander Schauffele,0.01970000000000005,0.5652,0.5455
+2024-03-12 05:11:11.394434,Tournament Match-Ups - Tournament Match-Up - L. Aberg vs W. Clark - Tournament Match-Up ,Ludvig Aberg,0.01970000000000005,0.5652,0.5455
+2024-03-12 05:10:42.411320,Championship - England Championship 2023/24 - Top 6 Finish,Cardiff City,0.019300000000000005,0.0345,0.0152
 2024-03-12 01:11:42.506673,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Division,Northwest Division,0.019000000000000017,0.2857,0.2667
 2024-03-12 03:10:38.907681,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Frosinone,0.0189,0.0385,0.0196
 2024-03-11 17:13:21.427458,NCAA DI Men - 2024 Big 12 Conference Tournament - Conference Tournament Winner,Texas,0.0189,0.0385,0.0196
-2024-03-12 01:11:46.234601,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Jayden Daniels / 3. J.J. McCarthy,0.0179,0.1429,0.125
+2024-03-12 03:10:43.480114,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Arizona,0.01830000000000001,0.2564,0.2381
 2024-03-12 03:10:43.053339,NCAA DI Men - 2024 Mountain West Conference Tournament - Conference Tournament Winner,New Mexico,0.0179,0.1429,0.125
-2024-03-11 15:11:52.476065,Boxing Lines - Jake Paul vs Mike Tyson - To Win the Bout,Mike Tyson,0.017600000000000005,0.3509,0.3333
-2024-03-11 15:11:52.894140,Tournament Match-Ups - Tournament Match-Up - R. Henley vs M. Fitzpatrick - Tournament Match-Up ,Russell Henley,0.016100000000000003,0.6078,0.5917
+2024-03-12 01:11:46.234601,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Jayden Daniels / 3. J.J. McCarthy,0.0179,0.1429,0.125
+2024-03-12 03:10:42.992715,NCAA DI Men - 2024 Big 12 Conference Tournament - Conference Tournament Winner,Baylor,0.015700000000000006,0.1333,0.1176
+2024-03-12 03:10:43.480114,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Kentucky,0.015100000000000002,0.1818,0.1667
 2024-03-11 23:12:56.741143,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Chelsea,0.015100000000000002,0.1818,0.1667
 2024-03-12 03:11:02.177357,Boxing Lines - Charlie Kazzi vs Roy Gavera - To Win the Bout,Charlie Kazzi,0.014900000000000024,0.9804,0.9655
+2024-03-12 05:11:11.500577,Tournament Match-Ups - Tournament Match-Up - R. Henley vs M. Fitzpatrick - Tournament Match-Up ,Russell Henley,0.014800000000000035,0.6226,0.6078
 2024-03-12 01:11:44.113470,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Caris LeVert (CLE),0.014399999999999996,0.0769,0.0625
 2024-03-12 03:10:38.932469,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Fiorentina,0.014099999999999998,0.0385,0.0244
 2024-03-11 17:13:21.427458,NCAA DI Men - 2024 Big 12 Conference Tournament - Conference Tournament Winner,Kansas,0.013999999999999999,0.0909,0.0769
 2024-03-12 01:11:44.146019,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Stephen Curry (GSW),0.013799999999999923,0.6364,0.6226
 2024-03-11 21:13:14.211664,NCAA DI Men - 2024 PAC 12 Conference Tournament - Conference Tournament Winner,USC,0.0131,0.0476,0.0345
 2024-03-11 23:12:56.593961,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Everton,0.012899999999999995,0.1667,0.1538
+2024-03-12 03:10:43.053339,NCAA DI Men - 2024 Mountain West Conference Tournament - Conference Tournament Winner,Nevada,0.012899999999999995,0.1667,0.1538
 2024-03-11 17:13:21.427458,NCAA DI Men - 2024 Big 12 Conference Tournament - Conference Tournament Winner,TCU,0.012599999999999998,0.0278,0.0152
 2024-03-11 21:13:14.335947,NCAA DI Men - 2024 SEC Conference Tournament - Conference Tournament Winner,South Carolina,0.012100000000000001,0.0244,0.0123
 2024-03-12 03:10:42.725818,NCAA DI Men - 2024 America East  Conference Tournament - Conference Tournament Winner,Vermont,0.011699999999999933,0.7895,0.7778
@@ -64,57 +74,70 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-12 03:10:42.972463,NCAA DI Men - 2024 Ivy League Conference Tournament - Conference Tournament Winner,Brown,0.011199999999999995,0.0588,0.0476
 2024-03-12 01:11:46.106823,NFL Draft - Pick Markets - Draft Picks - #2 Pick,Jayden Daniels,0.01100000000000001,0.5348,0.5238
 2024-03-12 01:12:06.992139,Boxing Lines - Luke SantaMaria vs Nicklaus Flaz - To Win the Bout,Luke SantaMaria,0.01100000000000001,0.6078,0.5968
-2024-03-11 15:11:52.601203,THE PLAYERS Championship - THE PLAYERS Championship - Winner,Scottie Scheffler,0.010899999999999993,0.1538,0.1429
+2024-03-12 05:11:11.610038,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs R. McIlroy - Tournament Match-Up ,Scottie Scheffler,0.010700000000000043,0.6774,0.6667
+2024-03-12 05:11:11.540421,Tournament Match-Ups - Tournament Match-Up - S. Burns vs S. Lowry - Tournament Match-Up ,Sam Burns,0.010699999999999932,0.5455,0.5348
+2024-03-12 05:11:11.579111,Tournament Match-Ups - Tournament Match-Up - S. Im vs M.W. Lee - Tournament Match-Up ,Min Woo Lee,0.010699999999999932,0.5455,0.5348
+2024-03-12 05:11:11.460578,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs J. Thomas - Tournament Match-Up ,Justin Thomas,0.010699999999999932,0.5455,0.5348
 2024-03-12 01:11:44.113470,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Bobby Portis (MIL),0.0102,0.0769,0.0667
-2024-03-11 15:11:52.601203,THE PLAYERS Championship - THE PLAYERS Championship - Winner,Rory McIlroy,0.0102,0.0769,0.0667
 2024-03-12 03:11:02.681553,Boxing Lines - William Zepeda vs Maxi Hughes - To Win the Bout,William Zepeda,0.010199999999999987,0.9333,0.9231
-2024-03-12 01:11:42.718367,Northwest Division - Northwest Division 2023-24 - Division Winner,Minnesota Timberwolves,-0.0102,0.0667,0.0769
-2024-03-12 03:11:04.069894,THE PLAYERS Championship - THE PLAYERS Championship - Winner,Rory McIlroy,-0.0102,0.0667,0.0769
+2024-03-12 05:11:11.356311,Tournament Match-Ups - Tournament Match-Up - J. Spieth v T. Fleetwood - Tournament Match-Up ,Jordan Spieth,0.010099999999999998,0.5556,0.5455
+2024-03-12 05:11:11.693407,Tournament Match-Ups - Tournament Match-Up - T. Kim vs C. Conners - Tournament Match-Up ,Corey Conners,0.010099999999999998,0.5556,0.5455
+2024-03-12 05:11:11.500577,Tournament Match-Ups - Tournament Match-Up - R. Henley vs M. Fitzpatrick - Tournament Match-Up ,Matt Fitzpatrick,-0.010099999999999998,0.4444,0.4545
 2024-03-12 01:11:42.589299,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Cleveland Cavaliers,-0.0102,0.0667,0.0769
+2024-03-12 03:11:04.069894,THE PLAYERS Championship - THE PLAYERS Championship - Winner,Rory McIlroy,-0.0102,0.0667,0.0769
+2024-03-12 01:11:42.718367,Northwest Division - Northwest Division 2023-24 - Division Winner,Minnesota Timberwolves,-0.0102,0.0667,0.0769
 2024-03-11 21:13:10.933356,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Liverpool,-0.010699999999999987,0.3226,0.3333
 2024-03-12 01:11:42.754282,Pacific Division - Pacific Division 2023-24 - Division Winner,Sacramento Kings,-0.010700000000000001,0.0278,0.0385
 2024-03-12 03:10:38.907681,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Udinese,-0.0109,0.004,0.0149
+2024-03-12 05:11:11.540421,Tournament Match-Ups - Tournament Match-Up - S. Burns vs S. Lowry - Tournament Match-Up ,Shane Lowry,-0.01100000000000001,0.5238,0.5348
+2024-03-12 05:11:11.579111,Tournament Match-Ups - Tournament Match-Up - S. Im vs M.W. Lee - Tournament Match-Up ,Sungjae Im,-0.01100000000000001,0.5238,0.5348
+2024-03-12 05:11:11.460578,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs J. Thomas - Tournament Match-Up ,Patrick Cantlay,-0.01100000000000001,0.5238,0.5348
 2024-03-12 03:11:02.224060,Boxing Lines - Zeke Campbell vs Laban Stringer - To Win the Bout,Zeke Campbell,-0.011199999999999988,0.9412,0.9524
+2024-03-12 05:11:11.693407,Tournament Match-Ups - Tournament Match-Up - T. Kim vs C. Conners - Tournament Match-Up ,Tom Kim,-0.011600000000000055,0.5122,0.5238
+2024-03-12 05:11:11.356311,Tournament Match-Ups - Tournament Match-Up - J. Spieth v T. Fleetwood - Tournament Match-Up ,Tommy Fleetwood,-0.011600000000000055,0.5122,0.5238
 2024-03-12 01:11:46.106823,NFL Draft - Pick Markets - Draft Picks - #2 Pick,Drake Maye,-0.011600000000000055,0.5122,0.5238
 2024-03-11 21:13:10.933356,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Arsenal,-0.011699999999999988,0.274,0.2857
 2024-03-12 01:11:46.586051,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,Detroit Lions,-0.0118,0.0099,0.0217
 2024-03-11 21:13:10.453098,Superligaen - Denmark Superligaen 2023/24 - Winner,Brøndby IF,-0.012299999999999978,0.3448,0.3571
 2024-03-11 23:12:56.593961,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Luton Town,-0.012700000000000045,0.6364,0.6491
+2024-03-12 03:10:43.480114,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Duke,-0.012899999999999995,0.1538,0.1667
 2024-03-12 01:11:44.146019,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,LeBron James (LAL),-0.012899999999999998,0.0149,0.0278
 2024-03-12 01:11:44.113470,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Malik Monk (SAC),-0.013599999999999945,0.6923,0.7059
 2024-03-12 01:11:42.629407,Western Conference - Western Conference 2023-24 - Western Conference Winner,Oklahoma City Thunder,-0.013899999999999996,0.1111,0.125
 2024-03-12 01:11:44.146019,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Shai Gilgeous-Alexander (OKC),-0.013999999999999999,0.0769,0.0909
 2024-03-12 01:11:46.621790,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,Denver Broncos,-0.014099999999999994,0.0526,0.0667
+2024-03-12 01:11:46.621790,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,New Orleans Saints,-0.014099999999999998,0.0244,0.0385
 2024-03-12 01:11:46.586051,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,Chicago Bears,-0.014099999999999998,0.0244,0.0385
 2024-03-12 01:11:42.589299,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Indiana Pacers,-0.014099999999999998,0.0244,0.0385
-2024-03-12 01:11:46.621790,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,New Orleans Saints,-0.014099999999999998,0.0244,0.0385
-2024-03-12 01:11:44.294741,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Giannis Antetokounmpo (MIL),-0.014100000000000001,0.0385,0.0526
-2024-03-11 15:11:28.637603,NCAA DI Men - 2024 PAC 12 Conference Tournament - To Reach Conference Game,Stanford,-0.014100000000000001,0.0385,0.0526
 2024-03-11 23:12:56.741143,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Manchester United,-0.014100000000000001,0.0385,0.0526
+2024-03-12 01:11:44.294741,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Giannis Antetokounmpo (MIL),-0.014100000000000001,0.0385,0.0526
+2024-03-12 05:11:11.610038,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs R. McIlroy - Tournament Match-Up ,Rory McIlroy,-0.015400000000000025,0.3846,0.4
 2024-03-12 03:10:43.512532,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Virginia Tech,-0.015499999999999998,0.0123,0.0278
-2024-03-11 15:11:50.962831,Boxing Lines - William Zepeda vs Maxi Hughes - To Win the Bout,Maxi Hughes,-0.015700000000000006,0.1176,0.1333
 2024-03-12 03:11:02.177357,Boxing Lines - Charlie Kazzi vs Roy Gavera - To Win the Bout,Roy Gavera,-0.016600000000000004,0.0667,0.0833
 2024-03-11 21:13:10.503975,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Nordsjælland,-0.016699999999999993,0.25,0.2667
 2024-03-12 01:11:44.146019,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Luka Doncic (DAL),-0.017800000000000003,0.0066,0.0244
 2024-03-12 01:12:06.956453,Boxing Lines - Issac Hardman vs Endry Saavedra - To Win the Bout,Issac Hardman,-0.017900000000000027,0.8571,0.875
-2024-03-12 03:10:38.907681,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Sassuolo,-0.018099999999999998,0.0588,0.0769
 2024-03-12 01:11:42.629407,Western Conference - Western Conference 2023-24 - Western Conference Winner,Golden State Warriors,-0.018099999999999998,0.0588,0.0769
+2024-03-12 03:10:38.907681,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Sassuolo,-0.018099999999999998,0.0588,0.0769
 2024-03-12 03:10:42.725818,NCAA DI Men - 2024 America East  Conference Tournament - Conference Tournament Winner,UMass Lowell,-0.01820000000000002,0.1818,0.2
 2024-03-12 03:11:03.986837,Boxing Lines - Jake Paul vs Mike Tyson - To Win the Bout,Jake Paul,-0.018399999999999972,0.6875,0.7059
-2024-03-11 15:11:52.476065,Boxing Lines - Jake Paul vs Mike Tyson - To Win the Bout,Jake Paul,-0.018999999999999906,0.7143,0.7333
 2024-03-12 01:11:42.629407,Western Conference - Western Conference 2023-24 - Western Conference Winner,L.A. Clippers,-0.019000000000000017,0.2667,0.2857
 2024-03-12 01:11:44.113470,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Norman Powell (LAC),-0.019099999999999992,0.0476,0.0667
 2024-03-12 01:11:44.146019,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,DeMar DeRozan (CHI),-0.019500000000000017,0.3509,0.3704
 2024-03-11 21:13:10.453098,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Copenhagen,-0.020699999999999996,0.4444,0.4651
+2024-03-12 05:11:11.138890,Boxing Lines - Jake Paul vs Mike Tyson - To Win the Bout,Jake Paul,-0.02080000000000004,0.6667,0.6875
 2024-03-12 01:11:46.621790,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,New England Patriots,-0.02100000000000002,0.3636,0.3846
 2024-03-12 01:11:46.586051,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,Tennessee Titans,-0.021300000000000003,0.0132,0.0345
-2024-03-11 15:11:52.894140,Tournament Match-Ups - Tournament Match-Up - R. Henley vs M. Fitzpatrick - Tournament Match-Up ,Matt Fitzpatrick,-0.021699999999999997,0.4545,0.4762
+2024-03-12 05:11:11.316801,Tournament Match-Ups - Tournament Match-Up - J. Day vs T. Finau - Tournament Match-Up ,Tony Finau,-0.02169999999999994,0.5238,0.5455
 2024-03-12 01:11:44.260064,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Tyrese Maxey (PHI),-0.02200000000000002,0.6923,0.7143
 2024-03-12 03:10:38.932469,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Lazio,-0.0228,0.0066,0.0294
 2024-03-12 01:11:42.589299,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,New York Knicks,-0.02310000000000001,0.0769,0.1
 2024-03-12 03:11:02.324978,Boxing Lines - Issac Hardman vs Endry Saavedra - To Win the Bout,Issac Hardman,-0.023799999999999932,0.8333,0.8571
+2024-03-12 05:11:11.732378,Tournament Match-Ups - Tournament Match-Up - X. Schauffele vs V. Hovland - Tournament Match-Up ,Viktor Hovland,-0.023800000000000043,0.5,0.5238
+2024-03-12 05:11:11.394434,Tournament Match-Ups - Tournament Match-Up - L. Aberg vs W. Clark - Tournament Match-Up ,Wyndham Clark,-0.023800000000000043,0.5,0.5238
 2024-03-12 01:11:42.785358,Southeast Division - Southeast Division 2023-24 - Division Winner,Miami Heat,-0.023800000000000043,0.5,0.5238
 2024-03-12 01:11:44.294741,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Shai Gilgeous-Alexander (OKC),-0.02400000000000002,0.25,0.274
+2024-03-12 05:11:09.136172,Boxing Lines - Zeke Campbell vs Laban Stringer - To Win the Bout,Zeke Campbell,-0.024500000000000077,0.9167,0.9412
 2024-03-12 01:11:46.586051,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,Tampa Bay Buccaneers,-0.028000000000000004,0.0196,0.0476
 2024-03-12 01:11:46.586051,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,Pittsburgh Steelers,-0.028000000000000004,0.0196,0.0476
 2024-03-12 01:11:44.177004,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Joe Mazzulla,-0.028700000000000003,0.1818,0.2105
@@ -126,14 +149,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-12 01:11:46.621790,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,Atlanta Falcons,-0.037500000000000006,0.0625,0.1
 2024-03-12 03:10:38.907681,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Cagliari,-0.0392,0.0196,0.0588
 2024-03-11 21:13:39.504841,Boxing Lines - Aaron McKenna vs Jeovanny Estela - To Win the Bout,Aaron McKenna,-0.03949999999999998,0.75,0.7895
+2024-03-12 03:10:43.480114,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Alabama,-0.04269999999999999,0.1111,0.1538
 2024-03-12 03:10:38.907681,Serie A - Italy Serie A 2023/24 - To Finish Bottom,Hellas Verona,-0.043899999999999995,0.0149,0.0588
 2024-03-11 23:12:56.741143,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Wolverhampton Wanderers,-0.04760000000000003,0.4762,0.5238
 2024-03-12 01:11:44.177004,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Chris Finch,-0.04830000000000001,0.1739,0.2222
 2024-03-12 01:11:46.621790,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,Las Vegas Raiders,-0.04909999999999999,0.1176,0.1667
 2024-03-12 01:11:46.586051,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,Los Angeles Rams,-0.0491,0.0278,0.0769
+2024-03-12 05:10:42.411320,Championship - England Championship 2023/24 - Top 6 Finish,Hull City,-0.05130000000000001,0.3333,0.3846
 2024-03-12 01:11:46.586051,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,Denver Broncos,-0.05550000000000002,0.1667,0.2222
 2024-03-12 03:10:38.932469,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Bologna,-0.0595,0.4167,0.4762
 2024-03-11 23:12:56.741143,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Brighton & Hove Albion,-0.06270000000000003,0.3077,0.3704
+2024-03-12 05:10:42.411320,Championship - England Championship 2023/24 - Top 6 Finish,Preston North End,-0.0635,0.0476,0.1111
 2024-03-11 21:13:10.966176,Premier League Futures/Specials - English Premier League 2023/24 - Man City vs The Field,Man City,-0.07479999999999998,0.4444,0.5192
 2024-03-12 01:11:42.677111,Central Division - Central Division 2023-24 - Division Winner,Cleveland Cavaliers,-0.07690000000000002,0.3077,0.3846
 2024-03-12 03:10:38.866826,Serie A - Italy Serie A 2023/24 - To Be Relegated,Cagliari,-0.0922,0.3333,0.4255
@@ -142,5 +168,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-12 03:10:38.866826,Serie A - Italy Serie A 2023/24 - To Be Relegated,Sassuolo,-0.09820000000000001,0.4762,0.5744
 2024-03-12 01:11:46.621790,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,Chicago Bears,-0.10419999999999999,0.0625,0.1667
 2024-03-11 17:13:20.798284,NBL - NBL 2023/2024 - Outright,Perth Wildcats,-0.11109999999999998,0.2222,0.3333
-2024-03-11 15:11:51.856880,Boxing Lines - Tomoki Kameda vs Lerato Dlamini - To Win the Bout,Tomoki Kameda,-0.1493,0.6721,0.8214
 2024-03-12 03:10:38.866826,Serie A - Italy Serie A 2023/24 - To Be Relegated,Hellas Verona,-0.1778,0.2222,0.4
