@@ -1,8 +1,8 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-03-11 11:11:16.072586,NFL 2024 Sims - Madden 24 Sim Bowl Winner - Outright,San Fransisco 49ers,0.4,0.8,0.4
 2024-03-11 15:11:51.856880,Boxing Lines - Tomoki Kameda vs Lerato Dlamini - To Win the Bout,Lerato Dlamini,0.1377,0.3846,0.2469
 2024-03-11 21:13:10.966176,Premier League Futures/Specials - English Premier League 2023/24 - Man City vs The Field,Any other team,0.09509999999999996,0.6364,0.5413
 2024-03-11 17:13:20.798284,NBL - NBL 2023/2024 - Outright,Tasmania JackJumpers,0.0889,0.2222,0.1333
+2024-03-11 23:12:56.741143,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Bournemouth,0.07499999999999996,0.875,0.8
 2024-03-11 21:13:10.453098,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Midtjylland,0.059099999999999986,0.3448,0.2857
 2024-03-11 13:14:01.909694,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs R. McIlroy - Tournament Match-Up ,Scottie Scheffler,0.05889999999999995,0.6667,0.6078
 2024-03-11 13:13:41.449651,NFC South - NFC South 2024/25 - NFC South Winner,Atlanta Falcons,0.05860000000000004,0.5348,0.4762
@@ -12,35 +12,38 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-11 21:13:10.480051,Superligaen - Denmark Superligaen 2023/24 - To Be Relegated,Randers,0.03889999999999999,0.1818,0.1429
 2024-03-11 21:13:39.504841,Boxing Lines - Aaron McKenna vs Jeovanny Estela - To Win the Bout,Jeovanny Estela,0.03470000000000001,0.3125,0.2778
 2024-03-11 17:13:21.427458,NCAA DI Men - 2024 Big 12 Conference Tournament - Conference Tournament Winner,BYU,0.0242,0.0909,0.0667
+2024-03-11 23:12:56.741143,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Fulham,0.023799999999999932,0.8571,0.8333
 2024-03-11 13:14:01.531331,Tournament Match-Ups - Tournament Match-Up - J. Day vs T. Finau - Tournament Match-Up ,Tony Finau,0.02169999999999994,0.5455,0.5238
 2024-03-11 13:14:01.969929,Tournament Match-Ups - Tournament Match-Up - T. Kim vs C. Conners - Tournament Match-Up ,Corey Conners,0.02169999999999994,0.5455,0.5238
 2024-03-11 15:11:28.637603,NCAA DI Men - 2024 PAC 12 Conference Tournament - To Reach Conference Game,USC,0.019099999999999992,0.0667,0.0476
 2024-03-11 17:13:21.427458,NCAA DI Men - 2024 Big 12 Conference Tournament - Conference Tournament Winner,Texas,0.0189,0.0385,0.0196
 2024-03-11 13:13:41.413914,NFC North - NFC North 2024/25 - NFC North Winner,Detroit Lions,0.018100000000000005,0.4348,0.4167
 2024-03-11 15:11:52.476065,Boxing Lines - Jake Paul vs Mike Tyson - To Win the Bout,Mike Tyson,0.017600000000000005,0.3509,0.3333
-2024-03-11 11:11:27.416780,Boxing Lines - William Zepeda vs Maxi Hughes - To Win the Bout,William Zepeda,0.016699999999999937,0.9167,0.9
 2024-03-11 15:11:52.894140,Tournament Match-Ups - Tournament Match-Up - R. Henley vs M. Fitzpatrick - Tournament Match-Up ,Russell Henley,0.016100000000000003,0.6078,0.5917
+2024-03-11 23:12:56.741143,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Chelsea,0.015100000000000002,0.1818,0.1667
 2024-03-11 13:13:41.413914,NFC North - NFC North 2024/25 - NFC North Winner,Green Bay Packers,0.014900000000000024,0.3226,0.3077
 2024-03-11 13:14:00.142827,Boxing Lines - Zach Parker vs Tyron Zeuge - To Win the Bout,Tyron Zeuge,0.014800000000000008,0.2,0.1852
 2024-03-11 17:13:21.427458,NCAA DI Men - 2024 Big 12 Conference Tournament - Conference Tournament Winner,Kansas,0.013999999999999999,0.0909,0.0769
 2024-03-11 21:13:14.211664,NCAA DI Men - 2024 PAC 12 Conference Tournament - Conference Tournament Winner,USC,0.0131,0.0476,0.0345
+2024-03-11 23:12:56.593961,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Everton,0.012899999999999995,0.1667,0.1538
 2024-03-11 17:13:21.427458,NCAA DI Men - 2024 Big 12 Conference Tournament - Conference Tournament Winner,TCU,0.012599999999999998,0.0278,0.0152
+2024-03-11 21:13:14.335947,NCAA DI Men - 2024 SEC Conference Tournament - Conference Tournament Winner,South Carolina,0.012100000000000001,0.0244,0.0123
 2024-03-11 21:13:39.459419,Boxing Lines - Sebastian Fundora vs Serhii Bohachuk - To Win the Bout,Sebastian Fundora,0.011499999999999955,0.6667,0.6552
 2024-03-11 13:13:38.157692,NCAA DI Men - 2024 Big East Conference Tournament - Conference Tournament Winner,Villanova,0.011199999999999995,0.0588,0.0476
 2024-03-11 15:11:52.601203,THE PLAYERS Championship - THE PLAYERS Championship - Winner,Scottie Scheffler,0.010899999999999993,0.1538,0.1429
 2024-03-11 13:14:01.621322,Tournament Match-Ups - Tournament Match-Up - L. Aberg vs W. Clark - Tournament Match-Up ,Ludvig Aberg,0.010699999999999932,0.5455,0.5348
 2024-03-11 15:11:52.601203,THE PLAYERS Championship - THE PLAYERS Championship - Winner,Rory McIlroy,0.0102,0.0769,0.0667
-2024-03-11 11:11:28.282331,THE PLAYERS Championship - THE PLAYERS Championship - Winner,Rory McIlroy,-0.0102,0.0667,0.0769
 2024-03-11 13:13:41.413914,NFC North - NFC North 2024/25 - NFC North Winner,Chicago Bears,-0.010499999999999982,0.2,0.2105
 2024-03-11 21:13:10.933356,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Liverpool,-0.010699999999999987,0.3226,0.3333
 2024-03-11 13:14:01.621322,Tournament Match-Ups - Tournament Match-Up - L. Aberg vs W. Clark - Tournament Match-Up ,Wyndham Clark,-0.01100000000000001,0.5238,0.5348
 2024-03-11 21:13:10.933356,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Arsenal,-0.011699999999999988,0.274,0.2857
 2024-03-11 21:13:10.453098,Superligaen - Denmark Superligaen 2023/24 - Winner,Brøndby IF,-0.012299999999999978,0.3448,0.3571
+2024-03-11 23:12:56.593961,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Luton Town,-0.012700000000000045,0.6364,0.6491
+2024-03-11 23:12:56.741143,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Manchester United,-0.014100000000000001,0.0385,0.0526
 2024-03-11 15:11:28.637603,NCAA DI Men - 2024 PAC 12 Conference Tournament - To Reach Conference Game,Stanford,-0.014100000000000001,0.0385,0.0526
 2024-03-11 15:11:50.962831,Boxing Lines - William Zepeda vs Maxi Hughes - To Win the Bout,Maxi Hughes,-0.015700000000000006,0.1176,0.1333
 2024-03-11 13:13:41.449651,NFC South - NFC South 2024/25 - NFC South Winner,Tampa Bay Buccaneers,-0.01629999999999998,0.2778,0.2941
 2024-03-11 21:13:10.503975,Superligaen - Denmark Superligaen 2023/24 - Top 3 Finish,FC Nordsjælland,-0.016699999999999993,0.25,0.2667
-2024-03-11 11:11:27.416780,Boxing Lines - William Zepeda vs Maxi Hughes - To Win the Bout,Maxi Hughes,-0.017100000000000004,0.1429,0.16
 2024-03-11 15:11:52.476065,Boxing Lines - Jake Paul vs Mike Tyson - To Win the Bout,Jake Paul,-0.018999999999999906,0.7143,0.7333
 2024-03-11 21:13:10.453098,Superligaen - Denmark Superligaen 2023/24 - Winner,FC Copenhagen,-0.020699999999999996,0.4444,0.4651
 2024-03-11 13:14:01.531331,Tournament Match-Ups - Tournament Match-Up - J. Day vs T. Finau - Tournament Match-Up ,Jason Day,-0.02169999999999994,0.5238,0.5455
@@ -52,8 +55,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-11 13:13:41.449651,NFC South - NFC South 2024/25 - NFC South Winner,New Orleans Saints,-0.03489999999999999,0.2151,0.25
 2024-03-11 21:13:39.504841,Boxing Lines - Aaron McKenna vs Jeovanny Estela - To Win the Bout,Aaron McKenna,-0.03949999999999998,0.75,0.7895
 2024-03-11 13:14:01.478381,Tournament Match-Ups - Tournament Match-Up - H. Matsuyama vs C. Morikawa - Tournament Match-Up ,Hideki Matsuyama,-0.04760000000000003,0.4762,0.5238
+2024-03-11 23:12:56.741143,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Wolverhampton Wanderers,-0.04760000000000003,0.4762,0.5238
 2024-03-11 13:14:01.741232,Tournament Match-Ups - Tournament Match-Up - R. Henley vs M. Fitzpatrick - Tournament Match-Up ,Matt Fitzpatrick,-0.04760000000000003,0.4762,0.5238
 2024-03-11 13:14:01.909694,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs R. McIlroy - Tournament Match-Up ,Rory McIlroy,-0.05449999999999999,0.4,0.4545
+2024-03-11 23:12:56.741143,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Brighton & Hove Albion,-0.06270000000000003,0.3077,0.3704
 2024-03-11 21:13:10.966176,Premier League Futures/Specials - English Premier League 2023/24 - Man City vs The Field,Man City,-0.07479999999999998,0.4444,0.5192
+2024-03-11 23:12:56.741143,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,West Ham United,-0.09689999999999999,0.2667,0.3636
 2024-03-11 17:13:20.798284,NBL - NBL 2023/2024 - Outright,Perth Wildcats,-0.11109999999999998,0.2222,0.3333
 2024-03-11 15:11:51.856880,Boxing Lines - Tomoki Kameda vs Lerato Dlamini - To Win the Bout,Tomoki Kameda,-0.1493,0.6721,0.8214
