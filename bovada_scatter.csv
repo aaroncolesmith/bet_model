@@ -13,6 +13,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-15 03:13:07.650600,NCAA DI Men - 2024 Atlantic 10 Conference Tournament - Conference Tournament Winner,Virginia Commonwealth,0.1795,0.3333,0.1538
 2024-03-15 03:13:07.650600,NCAA DI Men - 2024 Atlantic 10 Conference Tournament - Conference Tournament Winner,Saint Joseph's,0.1731,0.25,0.0769
 2024-03-15 07:13:29.101463,NCAA DI Men - 2024 Big 12 Conference Tournament - To Reach Championship Game,Baylor,0.1652,0.5652,0.4
+2024-03-15 11:14:51.210000,2024 Election Core - US Presidential Election 2024 - Who will be Robert F. Kennedy Jr. Nomination For Vice President - Nomination For Vice President,Aaron Rodgers,0.1582,0.4082,0.25
 2024-03-15 03:13:07.848125,NCAA DI Men - 2024 Mountain West Conference Tournament - Conference Tournament Winner,New Mexico,0.15389999999999998,0.3077,0.1538
 2024-03-15 03:13:07.731676,NCAA DI Men - 2024 SWAC Conference Tournament - Conference Tournament Winner,Bethune Cookman,0.1472,0.2381,0.0909
 2024-03-15 07:13:29.101463,NCAA DI Men - 2024 Big 12 Conference Tournament - To Reach Championship Game,Iowa State,0.14290000000000003,0.6429,0.5
@@ -23,7 +24,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-15 07:13:29.304028,NCAA DI Men - 2024 Big East Conference Tournament - To Reach Championshp Game,Connecticut,0.13129999999999997,0.9091,0.7778
 2024-03-15 03:13:07.614373,NCAA DI Men - 2024 MAC Conference Tournament - Conference Tournament Winner,Kent State,0.1299,0.2632,0.1333
 2024-03-15 05:13:17.546986,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,FC Barcelona,0.1238,0.2667,0.1429
-2024-03-14 21:14:47.206018,NFL Draft - Pick Markets - Draft Picks - #5 Pick,Malik Nabers,0.12279999999999999,0.3333,0.2105
 2024-03-15 05:13:17.546986,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Paris Saint-Germain,0.11900000000000002,0.2857,0.1667
 2024-03-15 03:13:07.915298,NCAA DI Men - 2024 Conference USA Conference Tournament - Conference Tournament Winner,Western Kentucky,0.11780000000000002,0.4255,0.3077
 2024-03-15 03:13:07.848125,NCAA DI Men - 2024 Mountain West Conference Tournament - Conference Tournament Winner,Colorado State,0.1167,0.25,0.1333
@@ -33,10 +33,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-15 03:13:07.848125,NCAA DI Men - 2024 Mountain West Conference Tournament - Conference Tournament Winner,San Diego State,0.11430000000000001,0.4,0.2857
 2024-03-15 05:13:22.055961,NCAA DI Men - 2024 MAAC Conference Tournament - Conference Tournament Winner,St. Peter's,0.1121,0.25,0.1379
 2024-03-15 05:13:17.546986,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Atlético Madrid,0.1111,0.2222,0.1111
-2024-03-14 21:14:48.210600,NFL Draft - Team Markets - Team's First Pick - SF 49ers - Position of 1st Drafted Player in 2024 NFL Draft,Offensive Lineman,0.10930000000000006,0.5348,0.4255
 2024-03-15 07:13:29.463266,NCAA DI Men - 2024 Atlantic Coast Conference Tournament - To Reach Championship Game,Pittsburgh,0.10709999999999997,0.3571,0.25
 2024-03-15 03:13:07.961272,NCAA DI Men - 2024 Atlantic Coast Conference Tournament - Conference Tournament Winner,Virginia,0.1049,0.1818,0.0769
-2024-03-14 21:14:47.100177,NFL Draft - Pick Markets - Draft Picks - #2 Pick,Jayden Daniels,0.10159999999999991,0.6364,0.5348
 2024-03-15 01:12:27.926068,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,Washington Commanders,0.10159999999999991,0.6364,0.5348
 2024-03-15 01:12:27.926068,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,New York Giants,0.1,0.2,0.1
 2024-03-15 07:13:25.417714,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Paris Saint-Germain,0.09889999999999999,0.3846,0.2857
@@ -65,12 +63,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-15 07:13:29.717769,NCAA DI Men - 2024 SEC Conference Tournament - To Reach Championship Game,Florida,0.06840000000000002,0.2222,0.1538
 2024-03-15 03:13:07.807920,NCAA DI Men - 2024 MEAC Conference Tournament - Conference Tournament Winner,Howard,0.06820000000000001,0.25,0.1818
 2024-03-15 03:13:35.712375,Scores - 2nd Round Score - Scottie Scheffler - 2nd Round Score,Under 69.5,0.06789999999999996,0.5917,0.5238
-2024-03-15 07:13:26.947770,97th Academy Awards - 2025 Oscars - Best Director - Best Director,Yorgos Lanthimos - Kinds Of Kindness,0.06670000000000004,0.4,0.3333
 2024-03-15 07:13:26.947770,97th Academy Awards - 2025 Oscars - Best Director - Best Director,Denis Villeneuve - Dune: Part Two,0.06670000000000004,0.4,0.3333
+2024-03-15 07:13:26.947770,97th Academy Awards - 2025 Oscars - Best Director - Best Director,Yorgos Lanthimos - Kinds Of Kindness,0.06670000000000004,0.4,0.3333
 2024-03-15 03:13:08.051360,NCAA DI Men - 2024 PAC 12 Conference Tournament - Conference Tournament Winner,Arizona,0.06669999999999998,0.6667,0.6
 2024-03-15 03:13:07.689392,NCAA DI Men - 2024 American Athletic Conference Tournament - Conference Tournament Winner,Charlotte,0.0666,0.1333,0.0667
-2024-03-15 07:13:25.417714,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,FC Barcelona,0.06659999999999999,0.3333,0.2667
 2024-03-15 01:12:25.046785,Southwest Division - Southwest Division 2023-24 - Division Winner,New Orleans Pelicans,0.06659999999999999,0.7333,0.6667
+2024-03-15 07:13:25.417714,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,FC Barcelona,0.06659999999999999,0.3333,0.2667
 2024-03-15 07:13:29.793394,NCAA DI Men - 2024 Big Ten Conference Tournament - To Reach Championship Game,Indiana,0.0629,0.1538,0.0909
 2024-03-15 05:13:50.173755,Scores - 2nd Round Score - Matt Fitzpatrick - 2nd Round Score ,Under 70.5,0.057699999999999974,0.5122,0.4545
 2024-03-15 09:13:20.591784,Round Match-Ups - 2nd Round Match-Up - Car. Young v T. Pendrith - 2nd Round Match-Up,Carson Young,0.05689999999999995,0.5917,0.5348
@@ -84,33 +82,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-15 07:13:31.235832,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the 2020 presidential election Georgia result charges? - Georgia Result State Trial,No,0.04910000000000003,0.4,0.3509
 2024-03-15 07:13:31.474483,European Union Specials - Next EU member state to withdraw from the European Union - Next Country To Leave The EU,Hungary,0.048600000000000004,0.1111,0.0625
 2024-03-15 01:12:27.937763,NFL Draft - Player Markets - Team To Draft Player - Marvin Harrison Jr,Arizona Cardinals,0.04849999999999999,0.75,0.7015
-2024-03-14 23:14:31.080266,BKFC Fight Night: Miami - Joshuah Alvarez vs Brandon Meyer - To Win the Bout,Joshuah Alvarez,0.04849999999999999,0.8667,0.8182
-2024-03-14 23:14:31.039943,BKFC Fight Night: Miami - Howard Davis vs Sean Wilson - To Win the Bout,Howard Davis,0.04849999999999999,0.8667,0.8182
 2024-03-15 03:13:08.006890,NCAA DI Men - 2024 Big West Conference Tournament - Conference Tournament Winner,Long Beach State,0.048100000000000004,0.125,0.0769
-2024-03-15 03:13:07.731676,NCAA DI Men - 2024 SWAC Conference Tournament - Conference Tournament Winner,Grambling,0.047599999999999976,0.3333,0.2857
 2024-03-15 07:13:27.286430,"Cryptocurrency Specials - Will Bitcoin Reach $100,000 Value In 2024 - Will Bitcoin Reach $100k In 2024?",Yes,0.047599999999999976,0.3333,0.2857
+2024-03-15 03:13:07.731676,NCAA DI Men - 2024 SWAC Conference Tournament - Conference Tournament Winner,Grambling,0.047599999999999976,0.3333,0.2857
 2024-03-15 03:13:07.689392,NCAA DI Men - 2024 American Athletic Conference Tournament - Conference Tournament Winner,Wichita State,0.0465,0.0588,0.0123
 2024-03-15 03:13:28.647480,MLB Futures - MLB 2024 Regular Season Leaders - Player To Record the Most Strikeouts,Spencer Strider (ATL),0.04630000000000001,0.4167,0.3704
 2024-03-15 07:13:25.417714,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Atlético Madrid,0.044499999999999984,0.2667,0.2222
-2024-03-14 21:14:47.206018,NFL Draft - Pick Markets - Draft Picks - #5 Pick,Taliese Fuaga,0.04440000000000001,0.1111,0.0667
 2024-03-15 09:12:58.320980,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,0.04380000000000006,0.8333,0.7895
-2024-03-14 21:14:47.206018,NFL Draft - Pick Markets - Draft Picks - #5 Pick,J.J. McCarthy,0.042899999999999994,0.1429,0.1
 2024-03-15 03:13:07.883536,NCAA DI Men - 2024 Big East Conference Tournament - Conference Tournament Winner,St. John's,0.0417,0.125,0.0833
 2024-03-15 07:13:26.936763,97th Academy Awards - 2025 Oscars - Best Actress - 2025 Oscars - Best Actress,Jessica Lange - Long Day's Journey Into Night,0.04169999999999999,0.1667,0.125
 2024-03-15 07:13:29.717769,NCAA DI Men - 2024 SEC Conference Tournament - To Reach Championship Game,Mississippi State,0.0407,0.1176,0.0769
 2024-03-15 03:13:35.180226,Scores - 2nd Round Score - Hideki Matsuyama - 2nd Round Score,Over 70.5,0.03959999999999997,0.5744,0.5348
 2024-03-15 09:13:20.513201,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - B. Kohles / N. Lashley / R. Shelton - 2nd Round 3 Balls,Nate Lashley,0.0393,0.4167,0.3774
 2024-03-15 05:13:51.308684,International Series Macau - International Series Macau - Winner,Bjorn Hellgren,0.0392,0.0588,0.0196
-2024-03-14 21:15:10.946051,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - S. Scheffler / R. Fowler / J. Thomas - 2nd Round 3 Balls,Rickie Fowler,0.03889999999999999,0.1818,0.1429
 2024-03-15 03:13:07.689392,NCAA DI Men - 2024 American Athletic Conference Tournament - Conference Tournament Winner,UAB,0.03860000000000001,0.1053,0.0667
 2024-03-15 03:13:08.162767,NCAA DI Men - 2024 Big Ten Conference Tournament - Conference Tournament Winner,Ohio State,0.0384,0.0769,0.0385
 2024-03-15 07:13:31.273309,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the classified documents federal charges? - Classified Documents Federal Trial,No,0.03839999999999999,0.3509,0.3125
 2024-03-15 05:13:50.442178,Scores - 2nd Round Score - Scottie Scheffler - 2nd Round Score,Under 69.5,0.037900000000000045,0.6296,0.5917
 2024-03-15 05:13:22.378385,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Houston,0.0378,0.4545,0.4167
 2024-03-15 01:12:25.567849,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Nikola Jokic (DEN),0.03750000000000009,0.7778,0.7403
-2024-03-15 03:13:07.807920,NCAA DI Men - 2024 MEAC Conference Tournament - Conference Tournament Winner,NC Central,0.03640000000000004,0.4,0.3636
-2024-03-15 03:13:07.689392,NCAA DI Men - 2024 American Athletic Conference Tournament - Conference Tournament Winner,Florida Atlantic,0.03640000000000004,0.4,0.3636
 2024-03-15 01:12:27.926068,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,New England Patriots,0.03640000000000004,0.4,0.3636
+2024-03-15 03:13:07.689392,NCAA DI Men - 2024 American Athletic Conference Tournament - Conference Tournament Winner,Florida Atlantic,0.03640000000000004,0.4,0.3636
+2024-03-15 03:13:07.807920,NCAA DI Men - 2024 MEAC Conference Tournament - Conference Tournament Winner,NC Central,0.03640000000000004,0.4,0.3636
 2024-03-15 05:13:50.073116,Scores - 2nd Round Score - Justin Thomas - 2nd Round Score,Under 70.5,0.03610000000000002,0.5917,0.5556
 2024-03-15 05:13:50.624283,Scores - 2nd Round Score - Wyndham Clark - 2nd Round Score,Under 70.5,0.035999999999999976,0.5122,0.4762
 2024-03-15 05:13:17.515917,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Kylian Mbappe (PSG),0.03570000000000001,0.2857,0.25
@@ -124,11 +117,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-15 03:13:08.162767,NCAA DI Men - 2024 Big Ten Conference Tournament - Conference Tournament Winner,Wisconsin,0.0321,0.0909,0.0588
 2024-03-15 05:13:51.308684,International Series Macau - International Series Macau - Winner,Kiradech Aphibarnrat,0.0319,0.0385,0.0066
 2024-03-15 07:13:29.793394,NCAA DI Men - 2024 Big Ten Conference Tournament - To Reach Championship Game,Michigan State,0.031799999999999995,0.1429,0.1111
-2024-03-15 07:13:26.936763,97th Academy Awards - 2025 Oscars - Best Actress - 2025 Oscars - Best Actress,Angelina Jolie - Maria,0.031799999999999995,0.1429,0.1111
 2024-03-15 07:13:26.936763,97th Academy Awards - 2025 Oscars - Best Actress - 2025 Oscars - Best Actress,Saoirse Ronan - Blitz,0.031799999999999995,0.1429,0.1111
+2024-03-15 07:13:26.936763,97th Academy Awards - 2025 Oscars - Best Actress - 2025 Oscars - Best Actress,Angelina Jolie - Maria,0.031799999999999995,0.1429,0.1111
 2024-03-15 05:13:50.583955,Scores - 2nd Round Score - Will Zalatoris - 2nd Round Score,Under 70.5,0.03179999999999994,0.5556,0.5238
 2024-03-15 07:13:56.706261,Round Match-Ups - 2nd Round Match-Up - R. Fox v K. Kitayama - 2nd Round Match-Up,Kurt Kitayama,0.030399999999999983,0.5652,0.5348
-2024-03-14 21:15:10.777669,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - J. Knapp / M. Pavon / N. Dunlap - 2nd Round 3 Balls,Matthieu Pavon,0.030299999999999994,0.4651,0.4348
 2024-03-15 07:13:26.981577,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2024,Greece,0.030199999999999998,0.0625,0.0323
 2024-03-15 07:13:30.650417,US Senate Elections 2024 - Next Senate Republican Leader After Mitch McConnell - Next Senate Republican Leader,Rand Paul,0.029299999999999993,0.0769,0.0476
 2024-03-15 03:13:07.769891,NCAA DI Men - 2024 Big 12 Conference Tournament - Conference Tournament Winner,Texas Tech,0.029299999999999993,0.0769,0.0476
@@ -141,97 +133,89 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-15 03:13:07.769891,NCAA DI Men - 2024 Big 12 Conference Tournament - Conference Tournament Winner,Iowa State,0.024800000000000016,0.2353,0.2105
 2024-03-15 05:13:17.492150,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,FC Barcelona,0.0245,0.0833,0.0588
 2024-03-15 05:13:50.132131,Scores - 2nd Round Score - Ludvig Aberg - 2nd Round Score ,Under 70.5,0.024399999999999977,0.5122,0.4878
-2024-03-15 03:13:28.647480,MLB Futures - MLB 2024 Regular Season Leaders - Player To Record the Most Strikeouts,Corbin Burnes (BAL),0.0242,0.0909,0.0667
 2024-03-15 07:13:26.981577,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2024,Netherlands,0.0242,0.0909,0.0667
+2024-03-15 03:13:28.647480,MLB Futures - MLB 2024 Regular Season Leaders - Player To Record the Most Strikeouts,Corbin Burnes (BAL),0.0242,0.0909,0.0667
 2024-03-15 07:13:26.907083,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,A Real Pain,0.024,0.0625,0.0385
-2024-03-14 21:14:47.206018,NFL Draft - Pick Markets - Draft Picks - #5 Pick,Drake Maye,0.024,0.0625,0.0385
 2024-03-15 07:13:56.628509,Round Match-Ups - 2nd Round Match-Up - N. Taylor vs T. Hoge - 2nd Round Match-Up,Nick Taylor,0.023800000000000043,0.5238,0.5
 2024-03-15 09:13:20.628613,Round Match-Ups - 2nd Round Match-Up - T. Hoge v M.W. Lee - 2nd Round Match-Up,Min Woo Lee,0.023800000000000043,0.5238,0.5
+2024-03-15 05:13:22.055961,NCAA DI Men - 2024 MAAC Conference Tournament - Conference Tournament Winner,Marist,0.023799999999999988,0.1667,0.1429
 2024-03-15 05:13:49.874583,Scores - 2nd Round Score - Cameron Young - 2nd Round Score,Under 70.5,0.023799999999999988,0.5,0.4762
-2024-03-15 05:13:49.949140,Scores - 2nd Round Score - Corey Conners - 2nd Round Score ,Under 70.5,0.023799999999999988,0.5,0.4762
+2024-03-15 07:13:25.455740,UEFA Europa League - UEFA Europa League 2023/24 - Outright,Liverpool,0.023799999999999988,0.5,0.4762
 2024-03-15 01:12:25.470819,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Norman Powell (LAC),0.023799999999999988,0.1667,0.1429
 2024-03-15 07:13:27.054326,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Matteus,0.023799999999999988,0.1667,0.1429
+2024-03-15 05:13:49.949140,Scores - 2nd Round Score - Corey Conners - 2nd Round Score ,Under 70.5,0.023799999999999988,0.5,0.4762
 2024-03-15 05:13:50.484621,Scores - 2nd Round Score - Tony Finau - 2nd Round Score,Under 70.5,0.023799999999999988,0.5,0.4762
-2024-03-15 05:13:22.055961,NCAA DI Men - 2024 MAAC Conference Tournament - Conference Tournament Winner,Marist,0.023799999999999988,0.1667,0.1429
-2024-03-15 07:13:25.455740,UEFA Europa League - UEFA Europa League 2023/24 - Outright,Liverpool,0.023799999999999988,0.5,0.4762
 2024-03-15 05:13:17.575919,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Country of Winning Team,France,0.02310000000000001,0.1,0.0769
-2024-03-14 21:15:12.409575,Round Match-Ups - 2nd Round Match-Up - J.T. Poston vs H. English - 2nd Round Match-Up,Harris English,0.022600000000000064,0.5348,0.5122
-2024-03-15 07:13:56.671039,Round Match-Ups - 2nd Round Match-Up - T. Fleetwood vs S. Kim - 2nd Round Match-Up,Tommy Fleetwood,0.022600000000000064,0.5348,0.5122
 2024-03-15 03:13:35.992792,Scores - 2nd Round Score - Xander Schauffele - 2nd Round Score,Under 70.5,0.022600000000000064,0.5348,0.5122
+2024-03-15 07:13:56.671039,Round Match-Ups - 2nd Round Match-Up - T. Fleetwood vs S. Kim - 2nd Round Match-Up,Tommy Fleetwood,0.022600000000000064,0.5348,0.5122
 2024-03-15 05:13:50.253812,Scores - 2nd Round Score - Patrick Cantlay - 2nd Round Score ,Under 70.5,0.022600000000000064,0.5348,0.5122
 2024-03-15 07:13:30.492144,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Kristi Noem,0.022199999999999998,0.2222,0.2
-2024-03-14 21:15:08.351843,Boxing Lines - Jake Wyllie vs Ashley Huston - To Win the Bout,Ashley Huston,0.022199999999999998,0.1333,0.1111
 2024-03-15 03:13:08.129233,NCAA DI Men - 2024 SEC Conference Tournament - Conference Tournament Winner,Auburn,0.021999999999999964,0.3077,0.2857
-2024-03-14 21:15:10.614439,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - C. Davis / S. Ryder / S. Jaeger - 2nd Round 3 Balls,Stephan Jaeger,0.021799999999999986,0.3922,0.3704
-2024-03-14 21:15:12.368132,Round Match-Ups - 2nd Round Match-Up - C. Morikawa vs J. Thomas - 2nd Round Match-Up,Justin Thomas,0.02169999999999994,0.5455,0.5238
-2024-03-14 21:15:12.827764,Round Match-Ups - 2nd Round Match-Up - R. McIlroy vs X. Schauffele - 2nd Round Match-Up,Xander Schauffele,0.02169999999999994,0.5455,0.5238
-2024-03-14 21:15:10.868898,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - N. Hardy / M. Wallace / A. Svensson - 2nd Round 3 Balls,Adam Svensson,0.02100000000000002,0.3846,0.3636
+2024-03-15 05:13:50.292919,Scores - 2nd Round Score - Rickie Fowler - 2nd Round Score,Under 71.5,0.02079999999999993,0.5556,0.5348
 2024-03-15 05:13:50.672289,Scores - 2nd Round Score - Xander Schauffele - 2nd Round Score,Under 70.5,0.02079999999999993,0.5556,0.5348
 2024-03-15 05:13:30.751394,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Cincinnati Reds - Elly De la Cruz Total Home Runs,Over 21.5,0.02079999999999993,0.5556,0.5348
-2024-03-15 05:13:50.292919,Scores - 2nd Round Score - Rickie Fowler - 2nd Round Score,Under 71.5,0.02079999999999993,0.5556,0.5348
 2024-03-15 03:13:02.681943,League Two - England - League Two 2023/24 - Top Goalscorer,Isaac Olaofe,0.0203,0.0588,0.0385
 2024-03-15 07:13:30.492144,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tulsi Gabbard,0.02020000000000001,0.1111,0.0909
 2024-03-15 05:13:17.546986,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Borussia Dortmund,0.02020000000000001,0.1111,0.0909
 2024-03-15 07:13:26.969410,97th Academy Awards - 2025 Oscars - Best Supporting Actress - Best Supporting Actress,Maria Bakalova - The Apprentice,0.02020000000000001,0.1111,0.0909
 2024-03-15 03:13:07.174706,Euro Cup - Euro Cup 2023/24 - Outright,London Lions,0.02020000000000001,0.1111,0.0909
-2024-03-14 21:14:47.206018,NFL Draft - Pick Markets - Draft Picks - #5 Pick,Rome Odunze,0.020100000000000007,0.1739,0.1538
 2024-03-15 03:13:07.689392,NCAA DI Men - 2024 American Athletic Conference Tournament - Conference Tournament Winner,East Carolina,0.020000000000000004,0.0323,0.0123
 2024-03-15 05:13:51.308684,International Series Macau - International Series Macau - Winner,Martin Trainer,0.020000000000000004,0.0323,0.0123
 2024-03-15 05:13:51.308684,International Series Macau - International Series Macau - Winner,Tatsunori Shogenji,0.019899999999999998,0.0278,0.0079
 2024-03-15 05:13:51.308684,International Series Macau - International Series Macau - Winner,Jason Kokrak,0.019800000000000005,0.0476,0.0278
+2024-03-15 11:15:13.247628,Boxing Lines - Austin Aokuso vs Titi Motusaga - To Win the Bout,Austin Aokuso,0.01979999999999993,0.9722,0.9524
 2024-03-15 05:13:49.165278,Round Match-Ups - 2nd Round Match-Up - C. Morikawa vs J. Thomas - 2nd Round Match-Up,Justin Thomas,0.01970000000000005,0.5652,0.5455
-2024-03-15 07:13:27.082035,Ghostbusters: Frozen Empire - Rotten Tomatoes Audience Score On April 19th 2024 - Ghostbusters: Frozen Empire,72% or under,0.01970000000000005,0.5652,0.5455
 2024-03-15 09:13:20.699219,Round Match-Ups - 2nd Round Match-Up - R. McIlroy v V. Hovland - 2nd Round Match-Up,Rory McIlroy,0.01970000000000005,0.5652,0.5455
+2024-03-15 07:13:27.082035,Ghostbusters: Frozen Empire - Rotten Tomatoes Audience Score On April 19th 2024 - Ghostbusters: Frozen Empire,72% or under,0.01970000000000005,0.5652,0.5455
 2024-03-15 03:13:08.051360,NCAA DI Men - 2024 PAC 12 Conference Tournament - Conference Tournament Winner,Oregon,0.01949999999999999,0.0909,0.0714
 2024-03-15 03:13:03.919390,CONCACAF Champions Cup - CONCACAF Champions Cup 2024 - Futures - Winner,New England Revolution,0.019099999999999992,0.0667,0.0476
 2024-03-15 05:13:19.886114,"Cryptocurrency Specials - Will Bitcoin Reach $100,000 Value In 2024 - Will Bitcoin Reach $100k In 2024?",Yes,0.019000000000000017,0.2857,0.2667
 2024-03-15 07:13:31.068200,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,0.019000000000000017,0.2857,0.2667
+2024-03-15 03:13:06.881190,Northwest Division - Northwest Division 2023-24 - Division Winner,Denver Nuggets,0.018999999999999906,0.7333,0.7143
 2024-03-15 05:13:17.602224,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Furthest Progressing Premier League Team,Manchester City,0.018999999999999906,0.7333,0.7143
 2024-03-15 07:13:27.054326,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Davi,0.018999999999999906,0.7333,0.7143
-2024-03-15 03:13:06.881190,Northwest Division - Northwest Division 2023-24 - Division Winner,Denver Nuggets,0.018999999999999906,0.7333,0.7143
 2024-03-15 05:13:50.215422,Scores - 2nd Round Score - Max Homa - 2nd Round Score ,Under 70.5,0.01880000000000004,0.5744,0.5556
-2024-03-15 03:13:29.881333,Boxing Lines - Conor Wallace vs Jack Gipp - To Win the Bout,Jack Gipp,0.01820000000000002,0.2,0.1818
-2024-03-15 03:13:03.919390,CONCACAF Champions Cup - CONCACAF Champions Cup 2024 - Futures - Winner,Club América,0.01820000000000002,0.2,0.1818
 2024-03-15 03:13:07.848125,NCAA DI Men - 2024 Mountain West Conference Tournament - Conference Tournament Winner,Utah State,0.01820000000000002,0.2,0.1818
+2024-03-15 03:13:03.919390,CONCACAF Champions Cup - CONCACAF Champions Cup 2024 - Futures - Winner,Club América,0.01820000000000002,0.2,0.1818
+2024-03-15 03:13:29.881333,Boxing Lines - Conor Wallace vs Jack Gipp - To Win the Bout,Jack Gipp,0.01820000000000002,0.2,0.1818
 2024-03-15 09:13:21.064757,Round Match-Ups - 2nd Round Match-Up - R. Fox v K. Kitayama - 2nd Round Match-Up,Kurt Kitayama,0.018100000000000005,0.5833,0.5652
+2024-03-15 11:14:54.068743,NFC West - NFC West 2024/25 - NFC West Winner,Seattle Seahawks,0.0179,0.1429,0.125
 2024-03-15 01:12:25.541089,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Tyrese Maxey (PHI),0.01759999999999995,0.6667,0.6491
 2024-03-15 01:12:25.470819,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Malik Monk (SAC),0.016700000000000048,0.75,0.7333
 2024-03-15 01:12:27.911370,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,New York Giants,0.016699999999999993,0.2667,0.25
 2024-03-15 03:13:08.129233,NCAA DI Men - 2024 SEC Conference Tournament - Conference Tournament Winner,Texas A&M,0.0159,0.0323,0.0164
 2024-03-15 09:12:57.808611,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Lee Zeldin,0.0159,0.0323,0.0164
-2024-03-14 23:14:28.909255,Boxing Lines - Marquis Taylor vs Denis Douglin - To Win the Bout,Denis Douglin,0.015899999999999997,0.1538,0.1379
 2024-03-15 07:13:30.492144,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Elise Stefanik,0.015899999999999997,0.1111,0.0952
 2024-03-15 07:13:53.018819,Boxing Lines - Sandy Ryan vs Terri Harper - To Win the Bout,Terri Harper,0.01579999999999998,0.3333,0.3175
 2024-03-15 03:13:07.731676,NCAA DI Men - 2024 SWAC Conference Tournament - Conference Tournament Winner,Alabama A&M,0.015700000000000006,0.1333,0.1176
 2024-03-15 07:13:30.492144,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Jim Jordan,0.0156,0.0196,0.004
 2024-03-15 07:13:30.492144,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Michael Flynn,0.0156,0.0196,0.004
 2024-03-15 05:13:51.308684,International Series Macau - International Series Macau - Winner,Minkyu Kim,0.015499999999999998,0.0278,0.0123
+2024-03-15 11:15:14.208284,Boxing Lines - Tim Tszyu vs Keith Thurman - To Win the Bout,Keith Thurman,0.015100000000000002,0.1818,0.1667
 2024-03-15 05:13:22.378385,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Auburn,0.015100000000000002,0.1818,0.1667
 2024-03-15 01:12:27.409793,NFL Draft - Pick Markets - Draft Picks - #2 Pick,J.J. McCarthy,0.014899999999999997,0.0625,0.0476
-2024-03-14 21:14:47.206018,NFL Draft - Pick Markets - Draft Picks - #5 Pick,Joe Alt,0.01469999999999999,0.25,0.2353
 2024-03-15 07:13:30.650417,US Senate Elections 2024 - Next Senate Republican Leader After Mitch McConnell - Next Senate Republican Leader,Rick Scott,0.014399999999999996,0.0769,0.0625
 2024-03-15 03:13:08.090093,NCAA DI Men - 2024 WAC Conference Tournament - Conference Tournament Winner,Grand Canyon,0.014200000000000101,0.6296,0.6154
 2024-03-15 05:13:17.492150,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Atlético Madrid,0.014099999999999994,0.0667,0.0526
-2024-03-15 07:13:26.981577,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2024,Belgium,0.013999999999999999,0.0909,0.0769
 2024-03-15 07:13:30.492144,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Ben Carson,0.013999999999999999,0.0909,0.0769
+2024-03-15 11:14:54.068743,NFC West - NFC West 2024/25 - NFC West Winner,Arizona Cardinals,0.013999999999999999,0.0909,0.0769
 2024-03-15 07:13:27.054326,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Beatriz,0.013999999999999999,0.0909,0.0769
+2024-03-15 07:13:26.981577,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2024,Belgium,0.013999999999999999,0.0909,0.0769
 2024-03-15 05:13:17.515917,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Antoine Griezmann (Atletico Madrid),0.013899999999999996,0.125,0.1111
-2024-03-15 01:12:24.913606,Western Conference - Western Conference 2023-24 - Western Conference Winner,Oklahoma City Thunder,0.013899999999999996,0.125,0.1111
-2024-03-15 07:13:57.174799,Futures - US Open 2024 - Winner,Scottie Scheffler,0.013899999999999996,0.125,0.1111
 2024-03-15 07:13:26.926277,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Ralph Fiennes - Conclave,0.013899999999999996,0.125,0.1111
-2024-03-15 07:13:57.128245,Futures - PGA Championship 2024 - Winner,Scottie Scheffler,0.013899999999999996,0.125,0.1111
 2024-03-15 03:13:07.129595,Euroleague - Euroleague 2023/24 - Outright,Barcelona,0.013899999999999996,0.125,0.1111
-2024-03-14 21:15:10.990330,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - D. Riley / C. Conners / J.J. Spaun - 2nd Round 3 Balls,JJ Spaun,0.013600000000000001,0.3077,0.2941
+2024-03-15 07:13:57.128245,Futures - PGA Championship 2024 - Winner,Scottie Scheffler,0.013899999999999996,0.125,0.1111
+2024-03-15 07:13:57.174799,Futures - US Open 2024 - Winner,Scottie Scheffler,0.013899999999999996,0.125,0.1111
+2024-03-15 01:12:24.913606,Western Conference - Western Conference 2023-24 - Western Conference Winner,Oklahoma City Thunder,0.013899999999999996,0.125,0.1111
 2024-03-15 01:12:27.558626,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Drake Maye / 3. J.J. McCarthy,0.012899999999999995,0.1667,0.1538
 2024-03-15 03:13:08.051360,NCAA DI Men - 2024 PAC 12 Conference Tournament - Conference Tournament Winner,Washington State,0.012899999999999995,0.1667,0.1538
 2024-03-15 03:13:03.919390,CONCACAF Champions Cup - CONCACAF Champions Cup 2024 - Futures - Winner,CF Pachuca,0.012899999999999995,0.1667,0.1538
 2024-03-15 01:12:24.913606,Western Conference - Western Conference 2023-24 - Western Conference Winner,Denver Nuggets,0.012699999999999989,0.3636,0.3509
-2024-03-15 05:13:51.308684,International Series Macau - International Series Macau - Winner,Min-Gyu Cho,0.012599999999999998,0.0278,0.0152
 2024-03-15 05:13:51.308684,International Series Macau - International Series Macau - Winner,Ratchanon Chantananuwat,0.012599999999999998,0.0278,0.0152
-2024-03-15 03:13:34.332346,Round Match-Ups - 2nd Round Match-Up - R. McIlroy vs X. Schauffele - 2nd Round Match-Up,Rory McIlroy,0.012199999999999989,0.5122,0.5
-2024-03-14 23:14:33.327046,Round Match-Ups - 2nd Round Match-Up - C. Morikawa vs J. Thomas - 2nd Round Match-Up,Collin Morikawa,0.012199999999999989,0.5122,0.5
-2024-03-15 05:13:49.993612,Scores - 2nd Round Score - Hideki Matsuyama - 2nd Round Score,Under 70.5,0.012199999999999989,0.5,0.4878
+2024-03-15 05:13:51.308684,International Series Macau - International Series Macau - Winner,Min-Gyu Cho,0.012599999999999998,0.0278,0.0152
 2024-03-15 03:13:35.291117,Scores - 2nd Round Score - Justin Thomas - 2nd Round Score,Over 70.5,0.012199999999999989,0.5122,0.5
+2024-03-15 03:13:34.332346,Round Match-Ups - 2nd Round Match-Up - R. McIlroy vs X. Schauffele - 2nd Round Match-Up,Rory McIlroy,0.012199999999999989,0.5122,0.5
+2024-03-15 05:13:49.993612,Scores - 2nd Round Score - Hideki Matsuyama - 2nd Round Score,Under 70.5,0.012199999999999989,0.5,0.4878
 2024-03-15 05:13:51.308684,International Series Macau - International Series Macau - Winner,Travis Smyth,0.012100000000000001,0.0244,0.0123
 2024-03-15 01:12:24.767708,NBA Championship - NBA Championship 2023-24 - NBA Champion,Denver Nuggets,0.011700000000000016,0.2222,0.2105
 2024-03-15 09:13:21.035923,Round Match-Ups - 2nd Round Match-Up - T. Fleetwood vs S. Kim - 2nd Round Match-Up,Si Woo Kim,0.011600000000000055,0.5238,0.5122
@@ -239,11 +223,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-15 01:12:27.516428,NFL Draft - Pick Markets - Draft Picks - #5 Pick,Malik Nabers,0.01150000000000001,0.3448,0.3333
 2024-03-15 03:13:08.129233,NCAA DI Men - 2024 SEC Conference Tournament - Conference Tournament Winner,Mississippi State,0.011399999999999997,0.0278,0.0164
 2024-03-15 07:13:25.455740,UEFA Europa League - UEFA Europa League 2023/24 - Outright,Benfica,0.011199999999999995,0.0588,0.0476
-2024-03-14 21:15:09.224310,Boxing Lines - Rolando Romero vs Isaac Cruz Gonzalez - To Win the Bout,Isaac Cruz Gonzalez,0.011099999999999999,0.7333,0.7222
 2024-03-15 07:13:57.220676,Futures - The Open Championship 2024 - Winner,Scottie Scheffler,0.011099999999999999,0.1111,0.1
 2024-03-15 07:13:56.860177,Round Match-Ups - 2nd Round Match-Up - V. Hovland vs P. Cantlay - 2nd Round Match-Up,Viktor Hovland,0.01100000000000001,0.5348,0.5238
-2024-03-15 03:13:08.090093,NCAA DI Men - 2024 WAC Conference Tournament - Conference Tournament Winner,UT Arlington,0.010899999999999993,0.1538,0.1429
 2024-03-15 01:12:27.558626,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Jayden Daniels / 3. J.J. McCarthy,0.010899999999999993,0.1538,0.1429
+2024-03-15 03:13:08.090093,NCAA DI Men - 2024 WAC Conference Tournament - Conference Tournament Winner,UT Arlington,0.010899999999999993,0.1538,0.1429
 2024-03-15 05:13:51.308684,International Series Macau - International Series Macau - Winner,Lucas Herbert,0.010700000000000001,0.0385,0.0278
 2024-03-15 03:13:33.837082,Round Match-Ups - 2nd Round Match-Up - C. Morikawa vs J. Thomas - 2nd Round Match-Up,Justin Thomas,0.010699999999999932,0.5455,0.5348
 2024-03-15 07:13:56.545514,Round Match-Ups - 2nd Round Match-Up - R. Henley vs M. Lee - 2nd Round Match-Up,Min Woo Lee,0.010599999999999998,0.4651,0.4545
@@ -255,113 +238,95 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-15 01:12:51.984163,Round Match-Ups - 2nd Round Match-Up - J. Day vs L. Aberg - 2nd Round Match-Up,Ludvig Aberg,0.010099999999999998,0.5556,0.5455
 2024-03-15 07:13:31.001590,Joe Biden Specials - Joe Biden Approval Rating June 30th 2024 - Joe Biden Approval Rating June 30th 2024,40% or over,-0.010099999999999998,0.4444,0.4545
 2024-03-15 03:13:35.074111,Scores - 2nd Round Score - Collin Morikawa - 2nd Round Score,Under 70.5,-0.010099999999999998,0.5455,0.5556
-2024-03-15 07:13:30.492144,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Nikki Haley,-0.0102,0.0667,0.0769
 2024-03-15 07:13:25.455740,UEFA Europa League - UEFA Europa League 2023/24 - Outright,AS Roma,-0.0102,0.0667,0.0769
+2024-03-15 07:13:30.492144,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Nikki Haley,-0.0102,0.0667,0.0769
 2024-03-15 05:13:51.308684,International Series Macau - International Series Macau - Winner,Gunn Charoenkul,-0.0103,0.002,0.0123
 2024-03-15 07:13:25.455740,UEFA Europa League - UEFA Europa League 2023/24 - Outright,Bayer Leverkusen,-0.010399999999999993,0.2222,0.2326
-2024-03-14 21:15:10.990330,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - D. Riley / C. Conners / J.J. Spaun - 2nd Round 3 Balls,Davis Riley,-0.010399999999999993,0.2222,0.2326
 2024-03-15 07:13:31.068200,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,-0.010500000000000065,0.7895,0.8
-2024-03-15 07:13:29.793394,NCAA DI Men - 2024 Big Ten Conference Tournament - To Reach Championship Game,Illinois,-0.010699999999999932,0.5348,0.5455
 2024-03-15 03:13:34.332346,Round Match-Ups - 2nd Round Match-Up - R. McIlroy vs X. Schauffele - 2nd Round Match-Up,Xander Schauffele,-0.010699999999999932,0.5348,0.5455
-2024-03-14 23:14:33.327046,Round Match-Ups - 2nd Round Match-Up - C. Morikawa vs J. Thomas - 2nd Round Match-Up,Justin Thomas,-0.010699999999999932,0.5348,0.5455
-2024-03-14 21:15:10.868898,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - N. Hardy / M. Wallace / A. Svensson - 2nd Round 3 Balls,Nick Hardy,-0.010699999999999987,0.3226,0.3333
+2024-03-15 07:13:29.793394,NCAA DI Men - 2024 Big Ten Conference Tournament - To Reach Championship Game,Illinois,-0.010699999999999932,0.5348,0.5455
 2024-03-15 07:13:26.981577,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2024,Georgia,-0.010700000000000001,0.0278,0.0385
 2024-03-15 03:13:03.919390,CONCACAF Champions Cup - CONCACAF Champions Cup 2024 - Futures - Winner,Tigres UANL,-0.010899999999999993,0.1429,0.1538
 2024-03-15 09:13:21.035923,Round Match-Ups - 2nd Round Match-Up - T. Fleetwood vs S. Kim - 2nd Round Match-Up,Tommy Fleetwood,-0.01100000000000001,0.5238,0.5348
 2024-03-15 07:13:57.329843,International Series Macau - International Series Macau - Winner,Jbe Kruger,-0.011099999999999999,0.1,0.1111
-2024-03-14 21:14:47.070456,NFL Draft - Pick Markets - Draft Picks - #1 Pick,Drake Maye,-0.011099999999999999,0.1,0.1111
-2024-03-14 21:14:47.206018,NFL Draft - Pick Markets - Draft Picks - #5 Pick,Bo Nix,-0.011399999999999997,0.0164,0.0278
-2024-03-14 21:14:47.206018,NFL Draft - Pick Markets - Draft Picks - #5 Pick,Michael Penix Jr.,-0.011399999999999997,0.0164,0.0278
-2024-03-14 21:15:09.224310,Boxing Lines - Rolando Romero vs Isaac Cruz Gonzalez - To Win the Bout,Rolando Romero,-0.01150000000000001,0.3333,0.3448
 2024-03-15 07:13:56.583090,Round Match-Ups - 2nd Round Match-Up - J. Day vs L. Aberg - 2nd Round Match-Up,Jason Day,-0.0116,0.4762,0.4878
 2024-03-15 07:13:56.860177,Round Match-Ups - 2nd Round Match-Up - V. Hovland vs P. Cantlay - 2nd Round Match-Up,Patrick Cantlay,-0.011600000000000055,0.5122,0.5238
 2024-03-15 07:13:26.981577,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2024,Iceland,-0.012100000000000001,0.0123,0.0244
 2024-03-15 05:13:51.308684,International Series Macau - International Series Macau - Winner,John Catlin,-0.012100000000000001,0.0123,0.0244
+2024-03-15 03:13:33.927170,Round Match-Ups - 2nd Round Match-Up - B. Harman vs S. Theegala - 2nd Round Match-Up,Brian Harman,-0.012199999999999989,0.4878,0.5
+2024-03-15 07:13:56.706261,Round Match-Ups - 2nd Round Match-Up - R. Fox v K. Kitayama - 2nd Round Match-Up,Ryan Fox,-0.012199999999999989,0.5,0.5122
 2024-03-15 01:12:51.984163,Round Match-Ups - 2nd Round Match-Up - J. Day vs L. Aberg - 2nd Round Match-Up,Jason Day,-0.012199999999999989,0.4878,0.5
 2024-03-15 03:13:33.766512,Round Match-Ups - 2nd Round Match-Up - H. Matsuyama vs M. Homa - 2nd Round Match-Up,Hideki Matsuyama,-0.012199999999999989,0.4878,0.5
 2024-03-15 03:13:33.837082,Round Match-Ups - 2nd Round Match-Up - C. Morikawa vs J. Thomas - 2nd Round Match-Up,Collin Morikawa,-0.012199999999999989,0.5,0.5122
-2024-03-15 03:13:33.927170,Round Match-Ups - 2nd Round Match-Up - B. Harman vs S. Theegala - 2nd Round Match-Up,Brian Harman,-0.012199999999999989,0.4878,0.5
-2024-03-15 07:13:56.706261,Round Match-Ups - 2nd Round Match-Up - R. Fox v K. Kitayama - 2nd Round Match-Up,Ryan Fox,-0.012199999999999989,0.5,0.5122
 2024-03-15 05:13:51.308684,International Series Macau - International Series Macau - Winner,Ian Poulter,-0.013,0.0066,0.0196
 2024-03-15 03:13:07.129595,Euroleague - Euroleague 2023/24 - Outright,Real Madrid BC,-0.013300000000000034,0.3571,0.3704
-2024-03-14 21:15:10.614439,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - C. Davis / S. Ryder / S. Jaeger - 2nd Round 3 Balls,Cam Davis,-0.013300000000000034,0.3571,0.3704
 2024-03-15 07:13:31.474483,European Union Specials - Next EU member state to withdraw from the European Union - Next Country To Leave The EU,Netherlands,-0.013899999999999996,0.1111,0.125
-2024-03-15 03:13:07.129595,Euroleague - Euroleague 2023/24 - Outright,Panathinaikos,-0.013899999999999996,0.1111,0.125
 2024-03-15 03:13:02.714563,League Two - England - League Two 2023/24 - To Be Promoted,AFC Wimbledon,-0.013899999999999996,0.1111,0.125
+2024-03-15 03:13:07.129595,Euroleague - Euroleague 2023/24 - Outright,Panathinaikos,-0.013899999999999996,0.1111,0.125
 2024-03-15 01:12:47.534346,Boxing Lines - Conor Wallace vs Jack Gipp - To Win the Bout,Conor Wallace,-0.014000000000000012,0.9091,0.9231
-2024-03-14 23:14:28.909255,Boxing Lines - Marquis Taylor vs Denis Douglin - To Win the Bout,Marquis Taylor,-0.014000000000000012,0.9091,0.9231
 2024-03-15 03:13:07.129595,Euroleague - Euroleague 2023/24 - Outright,Partizan,-0.014099999999999998,0.0294,0.0435
-2024-03-15 07:13:29.717769,NCAA DI Men - 2024 SEC Conference Tournament - To Reach Championship Game,Kentucky,-0.01419999999999999,0.3704,0.3846
 2024-03-15 09:13:20.513201,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - B. Kohles / N. Lashley / R. Shelton - 2nd Round 3 Balls,Ben Kohles,-0.01419999999999999,0.3704,0.3846
-2024-03-15 07:13:31.474483,European Union Specials - Next EU member state to withdraw from the European Union - Next Country To Leave The EU,Portugal,-0.014399999999999996,0.0625,0.0769
-2024-03-15 07:13:31.474483,European Union Specials - Next EU member state to withdraw from the European Union - Next Country To Leave The EU,Poland,-0.014399999999999996,0.0625,0.0769
+2024-03-15 07:13:29.717769,NCAA DI Men - 2024 SEC Conference Tournament - To Reach Championship Game,Kentucky,-0.01419999999999999,0.3704,0.3846
 2024-03-15 07:13:31.474483,European Union Specials - Next EU member state to withdraw from the European Union - Next Country To Leave The EU,France,-0.014399999999999996,0.0625,0.0769
+2024-03-15 07:13:31.474483,European Union Specials - Next EU member state to withdraw from the European Union - Next Country To Leave The EU,Poland,-0.014399999999999996,0.0625,0.0769
+2024-03-15 07:13:31.474483,European Union Specials - Next EU member state to withdraw from the European Union - Next Country To Leave The EU,Portugal,-0.014399999999999996,0.0625,0.0769
 2024-03-15 07:13:31.474483,European Union Specials - Next EU member state to withdraw from the European Union - Next Country To Leave The EU,Cyprus,-0.014899999999999997,0.0476,0.0625
 2024-03-15 07:13:27.128103,Box Office 2024 - Highest Worldwide Box Office At Year End - Highest Worldwide Box Office At Year End,Gladiator 2,-0.014899999999999997,0.0476,0.0625
 2024-03-15 07:13:25.353978,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Arsenal FC,-0.015100000000000002,0.1667,0.1818
 2024-03-15 07:13:26.981577,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2024,Lithuania,-0.015300000000000001,0.0323,0.0476
 2024-03-15 07:13:30.492144,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Sarah Huckabee Sanders,-0.015300000000000001,0.0435,0.0588
-2024-03-14 21:15:10.868898,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - N. Hardy / M. Wallace / A. Svensson - 2nd Round 3 Balls,Matt Wallace,-0.015400000000000025,0.3846,0.4
 2024-03-15 03:13:07.807920,NCAA DI Men - 2024 MEAC Conference Tournament - Conference Tournament Winner,Norfolk State,-0.015400000000000025,0.3846,0.4
 2024-03-15 05:13:51.308684,International Series Macau - International Series Macau - Winner,Young Han Song,-0.015499999999999998,0.0123,0.0278
 2024-03-15 05:13:51.308684,International Series Macau - International Series Macau - Winner,Richard T Lee,-0.0156,0.004,0.0196
 2024-03-15 01:12:27.558626,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Jayden Daniels / 2. Caleb Williams / 3. J.J. McCarthy,-0.0156,0.004,0.0196
 2024-03-15 07:13:31.155130,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the 2020 election result federal charges? - Election Result Federal Trial,Yes,-0.016699999999999937,0.5833,0.6
-2024-03-15 03:13:03.919390,CONCACAF Champions Cup - CONCACAF Champions Cup 2024 - Futures - Winner,Inter Miami,-0.016699999999999993,0.25,0.2667
 2024-03-15 03:13:08.129233,NCAA DI Men - 2024 SEC Conference Tournament - Conference Tournament Winner,Tennessee,-0.016699999999999993,0.4,0.4167
+2024-03-15 03:13:03.919390,CONCACAF Champions Cup - CONCACAF Champions Cup 2024 - Futures - Winner,Inter Miami,-0.016699999999999993,0.25,0.2667
 2024-03-15 01:12:27.558626,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Marvin Harrison Jr / 3. Jayden Daniels,-0.016700000000000007,0.0833,0.1
 2024-03-15 05:13:22.378385,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Tennessee,-0.017299999999999982,0.2857,0.303
 2024-03-15 05:13:51.308684,International Series Macau - International Series Macau - Winner,Jaco Ahlers,-0.017599999999999998,0.002,0.0196
-2024-03-14 21:15:10.946051,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - S. Scheffler / R. Fowler / J. Thomas - 2nd Round 3 Balls,Justin Thomas,-0.017600000000000005,0.3333,0.3509
 2024-03-15 01:12:27.558626,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Drake Maye / 2. Caleb Williams / 3. J.J. McCarthy,-0.0177,0.004,0.0217
-2024-03-15 03:13:03.919390,CONCACAF Champions Cup - CONCACAF Champions Cup 2024 - Futures - Winner,Columbus Crew,-0.0179,0.125,0.1429
-2024-03-15 05:13:51.308684,International Series Macau - International Series Macau - Winner,Andy Ogletree,-0.0179,0.0099,0.0278
 2024-03-15 07:13:26.981577,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2024,Australia,-0.0179,0.0099,0.0278
+2024-03-15 05:13:51.308684,International Series Macau - International Series Macau - Winner,Andy Ogletree,-0.0179,0.0099,0.0278
+2024-03-15 03:13:03.919390,CONCACAF Champions Cup - CONCACAF Champions Cup 2024 - Futures - Winner,Columbus Crew,-0.0179,0.125,0.1429
 2024-03-15 05:13:19.886114,"Cryptocurrency Specials - Will Bitcoin Reach $100,000 Value In 2024 - Will Bitcoin Reach $100k In 2024?",No,-0.018199999999999994,0.8,0.8182
 2024-03-15 03:13:08.090093,NCAA DI Men - 2024 WAC Conference Tournament - Conference Tournament Winner,Tarleton State,-0.01820000000000002,0.1818,0.2
-2024-03-15 07:13:30.492144,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tim Scott,-0.01820000000000002,0.1818,0.2
 2024-03-15 03:13:03.919390,CONCACAF Champions Cup - CONCACAF Champions Cup 2024 - Futures - Winner,CF Monterrey,-0.01820000000000002,0.1818,0.2
+2024-03-15 07:13:30.492144,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tim Scott,-0.01820000000000002,0.1818,0.2
 2024-03-15 05:13:50.132131,Scores - 2nd Round Score - Ludvig Aberg - 2nd Round Score ,Over 70.5,-0.01880000000000004,0.5556,0.5744
-2024-03-14 21:15:10.946051,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - S. Scheffler / R. Fowler / J. Thomas - 2nd Round 3 Balls,Scottie Scheffler,-0.019100000000000006,0.5833,0.6024
 2024-03-15 07:13:29.717769,NCAA DI Men - 2024 SEC Conference Tournament - To Reach Championship Game,Auburn,-0.019699999999999995,0.4348,0.4545
 2024-03-15 05:13:51.308684,International Series Macau - International Series Macau - Winner,Takumi Kanaya,-0.019899999999999998,0.0079,0.0278
 2024-03-15 01:12:25.567849,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Shai Gilgeous-Alexander (OKC),-0.01999999999999999,0.1905,0.2105
-2024-03-15 01:12:25.470819,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Naz Reid (MIN),-0.02049999999999999,0.1333,0.1538
 2024-03-15 07:13:29.793394,NCAA DI Men - 2024 Big Ten Conference Tournament - To Reach Championship Game,Northwestern,-0.02049999999999999,0.1333,0.1538
-2024-03-15 03:13:35.992792,Scores - 2nd Round Score - Xander Schauffele - 2nd Round Score,Over 70.5,-0.02079999999999993,0.5348,0.5556
+2024-03-15 01:12:25.470819,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Naz Reid (MIN),-0.02049999999999999,0.1333,0.1538
 2024-03-15 05:13:50.253812,Scores - 2nd Round Score - Patrick Cantlay - 2nd Round Score ,Over 70.5,-0.02079999999999993,0.5348,0.5556
+2024-03-15 03:13:35.992792,Scores - 2nd Round Score - Xander Schauffele - 2nd Round Score,Over 70.5,-0.02079999999999993,0.5348,0.5556
 2024-03-15 07:13:27.082035,Ghostbusters: Frozen Empire - Rotten Tomatoes Audience Score On April 19th 2024 - Ghostbusters: Frozen Empire,Over 72%,-0.02169999999999994,0.5238,0.5455
 2024-03-15 09:13:20.628613,Round Match-Ups - 2nd Round Match-Up - T. Hoge v M.W. Lee - 2nd Round Match-Up,Tom Hoge,-0.02169999999999994,0.5238,0.5455
 2024-03-15 07:13:56.628509,Round Match-Ups - 2nd Round Match-Up - N. Taylor vs T. Hoge - 2nd Round Match-Up,Tom Hoge,-0.02169999999999994,0.5238,0.5455
 2024-03-15 07:13:26.936763,97th Academy Awards - 2025 Oscars - Best Actress - 2025 Oscars - Best Actress,Emma Stone - Kinds Of Kindness,-0.022199999999999998,0.2,0.2222
-2024-03-14 21:15:10.777669,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - J. Knapp / M. Pavon / N. Dunlap - 2nd Round 3 Balls,Jake Knapp,-0.02260000000000001,0.3774,0.4
-2024-03-15 07:13:56.671039,Round Match-Ups - 2nd Round Match-Up - T. Fleetwood vs S. Kim - 2nd Round Match-Up,Si Woo Kim,-0.022600000000000064,0.5122,0.5348
-2024-03-14 21:15:12.409575,Round Match-Ups - 2nd Round Match-Up - J.T. Poston vs H. English - 2nd Round Match-Up,JT Poston,-0.022600000000000064,0.5122,0.5348
 2024-03-15 05:13:50.672289,Scores - 2nd Round Score - Xander Schauffele - 2nd Round Score,Over 70.5,-0.022600000000000064,0.5122,0.5348
-2024-03-15 05:13:30.751394,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Cincinnati Reds - Elly De la Cruz Total Home Runs,Under 21.5,-0.022600000000000064,0.5122,0.5348
+2024-03-15 07:13:56.671039,Round Match-Ups - 2nd Round Match-Up - T. Fleetwood vs S. Kim - 2nd Round Match-Up,Si Woo Kim,-0.022600000000000064,0.5122,0.5348
 2024-03-15 05:13:50.292919,Scores - 2nd Round Score - Rickie Fowler - 2nd Round Score,Over 71.5,-0.022600000000000064,0.5122,0.5348
-2024-03-14 21:14:47.206018,NFL Draft - Pick Markets - Draft Picks - #5 Pick,Marvin Harrison Jr.,-0.02310000000000001,0.0769,0.1
-2024-03-15 09:13:20.699219,Round Match-Ups - 2nd Round Match-Up - R. McIlroy v V. Hovland - 2nd Round Match-Up,Viktor Hovland,-0.023799999999999988,0.4762,0.5
+2024-03-15 11:15:14.208284,Boxing Lines - Tim Tszyu vs Keith Thurman - To Win the Bout,Tim Tszyu,-0.022600000000000064,0.8824,0.905
+2024-03-15 05:13:30.751394,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Cincinnati Reds - Elly De la Cruz Total Home Runs,Under 21.5,-0.022600000000000064,0.5122,0.5348
 2024-03-15 05:13:49.165278,Round Match-Ups - 2nd Round Match-Up - C. Morikawa vs J. Thomas - 2nd Round Match-Up,Collin Morikawa,-0.023799999999999988,0.4762,0.5
+2024-03-15 09:13:20.699219,Round Match-Ups - 2nd Round Match-Up - R. McIlroy v V. Hovland - 2nd Round Match-Up,Viktor Hovland,-0.023799999999999988,0.4762,0.5
 2024-03-15 07:13:31.116048,Donald Trump Specials - Will Donald Trump be found guilty of one or more felonies in New York? - Business Records New York State Trial,No,-0.023800000000000016,0.1667,0.1905
-2024-03-14 21:15:12.827764,Round Match-Ups - 2nd Round Match-Up - R. McIlroy vs X. Schauffele - 2nd Round Match-Up,Rory McIlroy,-0.023800000000000043,0.5,0.5238
-2024-03-14 21:15:12.368132,Round Match-Ups - 2nd Round Match-Up - C. Morikawa vs J. Thomas - 2nd Round Match-Up,Collin Morikawa,-0.023800000000000043,0.5,0.5238
 2024-03-15 07:13:27.128103,Box Office 2024 - Highest Worldwide Box Office At Year End - Highest Worldwide Box Office At Year End,Kung Fu Panda 4,-0.024,0.0385,0.0625
 2024-03-15 07:13:25.455740,UEFA Europa League - UEFA Europa League 2023/24 - Outright,West Ham United,-0.0242,0.0667,0.0909
-2024-03-14 21:15:08.351843,Boxing Lines - Jake Wyllie vs Ashley Huston - To Win the Bout,Jake Wyllie,-0.02429999999999999,0.9231,0.9474
 2024-03-15 05:13:50.215422,Scores - 2nd Round Score - Max Homa - 2nd Round Score ,Over 70.5,-0.024399999999999977,0.4878,0.5122
 2024-03-15 01:12:27.558626,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Marvin Harrison Jr / 3. Drake Maye,-0.0245,0.0588,0.0833
 2024-03-15 01:12:27.409793,NFL Draft - Pick Markets - Draft Picks - #2 Pick,Caleb Williams,-0.0245,0.0588,0.0833
 2024-03-15 09:13:20.513201,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - B. Kohles / N. Lashley / R. Shelton - 2nd Round 3 Balls,Robby Shelton,-0.02560000000000001,0.3077,0.3333
-2024-03-15 05:13:49.874583,Scores - 2nd Round Score - Cameron Young - 2nd Round Score,Over 70.5,-0.026499999999999968,0.5652,0.5917
 2024-03-15 05:13:50.484621,Scores - 2nd Round Score - Tony Finau - 2nd Round Score,Over 70.5,-0.026499999999999968,0.5652,0.5917
 2024-03-15 05:13:49.949140,Scores - 2nd Round Score - Corey Conners - 2nd Round Score ,Over 70.5,-0.026499999999999968,0.5652,0.5917
+2024-03-15 05:13:49.874583,Scores - 2nd Round Score - Cameron Young - 2nd Round Score,Over 70.5,-0.026499999999999968,0.5652,0.5917
 2024-03-15 05:13:17.492150,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Manchester City,-0.026500000000000024,0.3509,0.3774
 2024-03-15 01:12:27.926068,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,Las Vegas Raiders,-0.0267,0.0909,0.1176
-2024-03-14 21:14:47.168722,NFL Draft - Pick Markets - Draft Picks - #4 Pick,Rome Odunze,-0.028399999999999995,0.0625,0.0909
 2024-03-15 05:13:17.575919,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Country of Winning Team,England,-0.028900000000000037,0.5455,0.5744
-2024-03-15 01:12:24.959656,Central Division - Central Division 2023-24 - Division Winner,Cleveland Cavaliers,-0.029000000000000026,0.4255,0.4545
 2024-03-15 03:13:02.654110,League Two - England - League Two 2023/24 - League Winner,Mansfield Town,-0.029000000000000026,0.4255,0.4545
+2024-03-15 01:12:24.959656,Central Division - Central Division 2023-24 - Division Winner,Cleveland Cavaliers,-0.029000000000000026,0.4255,0.4545
 2024-03-15 07:13:25.455740,UEFA Europa League - UEFA Europa League 2023/24 - Outright,Atalanta,-0.029299999999999993,0.0476,0.0769
 2024-03-15 05:13:17.602224,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Furthest Progressing Premier League Team,Arsenal FC,-0.030299999999999994,0.3333,0.3636
 2024-03-15 05:13:47.129152,BKFC Fight Night: Miami - Rosalinda Rodriguez vs Monica Franco - To Win the Bout,Monica Franco,-0.031700000000000006,0.1905,0.2222
@@ -376,12 +341,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-15 01:12:27.558626,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Jayden Daniels / 2. Caleb Williams / 3. Marvin Harrison Jr,-0.0345,0.004,0.0385
 2024-03-15 01:12:27.443704,NFL Draft - Pick Markets - Draft Picks - #3 Pick,Jayden Daniels,-0.0348,0.4,0.4348
 2024-03-15 09:13:21.064757,Round Match-Ups - 2nd Round Match-Up - R. Fox v K. Kitayama - 2nd Round Match-Up,Ryan Fox,-0.03489999999999999,0.4651,0.5
-2024-03-15 07:13:30.650417,US Senate Elections 2024 - Next Senate Republican Leader After Mitch McConnell - Next Senate Republican Leader,John Thune,-0.035699999999999954,0.7143,0.75
 2024-03-15 07:13:31.273309,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the classified documents federal charges? - Classified Documents Federal Trial,Yes,-0.035699999999999954,0.7143,0.75
-2024-03-15 07:13:26.981577,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2024,Croatia,-0.03570000000000001,0.25,0.2857
-2024-03-15 07:13:25.417714,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Arsenal FC,-0.03570000000000001,0.25,0.2857
-2024-03-15 05:13:17.546986,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Bayern Munich,-0.03570000000000001,0.25,0.2857
+2024-03-15 07:13:30.650417,US Senate Elections 2024 - Next Senate Republican Leader After Mitch McConnell - Next Senate Republican Leader,John Thune,-0.035699999999999954,0.7143,0.75
 2024-03-15 07:13:25.417714,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Real Madrid,-0.03570000000000001,0.25,0.2857
+2024-03-15 07:13:26.981577,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2024,Croatia,-0.03570000000000001,0.25,0.2857
+2024-03-15 05:13:17.546986,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Bayern Munich,-0.03570000000000001,0.25,0.2857
+2024-03-15 07:13:25.417714,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Arsenal FC,-0.03570000000000001,0.25,0.2857
 2024-03-15 05:13:50.073116,Scores - 2nd Round Score - Justin Thomas - 2nd Round Score,Over 70.5,-0.035999999999999976,0.4762,0.5122
 2024-03-15 07:13:29.717769,NCAA DI Men - 2024 SEC Conference Tournament - To Reach Championship Game,Tennessee,-0.03600000000000003,0.4878,0.5238
 2024-03-15 05:13:50.624283,Scores - 2nd Round Score - Wyndham Clark - 2nd Round Score,Over 70.5,-0.03610000000000002,0.5556,0.5917
@@ -390,23 +355,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-15 05:13:50.442178,Scores - 2nd Round Score - Scottie Scheffler - 2nd Round Score,Over 69.5,-0.04139999999999999,0.4348,0.4762
 2024-03-15 03:13:29.881333,Boxing Lines - Conor Wallace vs Jack Gipp - To Win the Bout,Conor Wallace,-0.04239999999999999,0.8667,0.9091
 2024-03-15 07:13:27.054326,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Fernanda,-0.04329999999999999,0.0476,0.0909
-2024-03-14 21:14:47.206018,NFL Draft - Pick Markets - Draft Picks - #5 Pick,J.C. Latham,-0.04329999999999999,0.0476,0.0909
-2024-03-14 21:14:47.100177,NFL Draft - Pick Markets - Draft Picks - #2 Pick,Marvin Harrison Jr.,-0.04329999999999999,0.0476,0.0909
+2024-03-15 11:14:54.068743,NFC West - NFC West 2024/25 - NFC West Winner,Los Angeles Rams,-0.044800000000000006,0.1905,0.2353
 2024-03-15 03:13:35.180226,Scores - 2nd Round Score - Hideki Matsuyama - 2nd Round Score,Under 70.5,-0.04700000000000004,0.4878,0.5348
-2024-03-14 21:14:47.206018,NFL Draft - Pick Markets - Draft Picks - #5 Pick,Jayden Daniels,-0.047400000000000005,0.0526,0.1
 2024-03-15 05:13:17.546986,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Real Madrid,-0.047599999999999976,0.2857,0.3333
 2024-03-15 07:13:31.474483,European Union Specials - Next EU member state to withdraw from the European Union - Next Country To Leave The EU,Italy,-0.047599999999999976,0.2857,0.3333
 2024-03-15 07:13:31.235832,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the 2020 presidential election Georgia result charges? - Georgia Result State Trial,Yes,-0.04760000000000009,0.6667,0.7143
 2024-03-15 03:13:06.881190,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,-0.04799999999999999,0.2597,0.3077
 2024-03-15 07:13:25.417714,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Bayern Munich,-0.04999999999999999,0.2,0.25
 2024-03-15 07:13:31.474483,European Union Specials - Next EU member state to withdraw from the European Union - Next Country To Leave The EU,Greece,-0.04999999999999999,0.2,0.25
-2024-03-14 23:14:31.039943,BKFC Fight Night: Miami - Howard Davis vs Sean Wilson - To Win the Bout,Sean Wilson,-0.04999999999999999,0.2,0.25
-2024-03-14 23:14:31.080266,BKFC Fight Night: Miami - Joshuah Alvarez vs Brandon Meyer - To Win the Bout,Brandon Meyer,-0.04999999999999999,0.2,0.25
 2024-03-15 07:13:27.286430,"Cryptocurrency Specials - Will Bitcoin Reach $100,000 Value In 2024 - Will Bitcoin Reach $100k In 2024?",No,-0.050000000000000044,0.75,0.8
 2024-03-15 05:13:50.173755,Scores - 2nd Round Score - Matt Fitzpatrick - 2nd Round Score ,Over 70.5,-0.052200000000000024,0.5556,0.6078
 2024-03-15 05:13:51.308684,International Series Macau - International Series Macau - Winner,Patrick Reed,-0.052399999999999995,0.0385,0.0909
-2024-03-15 07:13:26.981577,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2024,Slovenia,-0.0526,0.0099,0.0625
 2024-03-15 01:12:27.926068,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,Atlanta Falcons,-0.0526,0.0099,0.0625
+2024-03-15 07:13:26.981577,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2024,Slovenia,-0.0526,0.0099,0.0625
 2024-03-15 09:12:58.320980,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,-0.05310000000000001,0.2326,0.2857
 2024-03-15 01:12:27.911370,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,Minnesota Vikings,-0.053100000000000036,0.3636,0.4167
 2024-03-15 01:12:27.558626,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Jayden Daniels / 2. Caleb Williams / 3. Drake Maye,-0.0548,0.004,0.0588
@@ -418,13 +379,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-15 03:13:35.712375,Scores - 2nd Round Score - Scottie Scheffler - 2nd Round Score,Over 69.5,-0.06929999999999997,0.4762,0.5455
 2024-03-15 01:12:27.926068,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,Minnesota Vikings,-0.0729,0.1176,0.1905
 2024-03-15 05:13:17.546986,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Arsenal FC,-0.07789999999999997,0.2857,0.3636
+2024-03-15 11:14:51.210000,2024 Election Core - US Presidential Election 2024 - Who will be Robert F. Kennedy Jr. Nomination For Vice President - Nomination For Vice President,Jesse Ventura,-0.07790000000000008,0.6364,0.7143
 2024-03-15 03:13:35.666672,Scores - 2nd Round Score - Sam Burns - 2nd Round Score,Under 70.5,-0.07939999999999997,0.4762,0.5556
+2024-03-15 11:14:51.210000,2024 Election Core - US Presidential Election 2024 - Who will be Robert F. Kennedy Jr. Nomination For Vice President - Nomination For Vice President,Tony Robbins,-0.08329999999999999,0.25,0.3333
 2024-03-15 03:13:02.654110,League Two - England - League Two 2023/24 - League Winner,Wrexham,-0.08330000000000001,0.1667,0.25
 2024-03-15 01:12:25.046785,Southwest Division - Southwest Division 2023-24 - Division Winner,Dallas Mavericks,-0.09410000000000002,0.3226,0.4167
-2024-03-14 21:14:47.100177,NFL Draft - Pick Markets - Draft Picks - #2 Pick,Drake Maye,-0.09549999999999997,0.4167,0.5122
 2024-03-15 07:13:27.128103,Box Office 2024 - Highest Worldwide Box Office At Year End - Highest Worldwide Box Office At Year End,Despicable Me 4,-0.09740000000000004,0.3571,0.4545
-2024-03-14 21:14:47.100177,NFL Draft - Pick Markets - Draft Picks - #2 Pick,J.J. McCarthy,-0.1005,0.0476,0.1481
 2024-03-15 01:12:27.443704,NFL Draft - Pick Markets - Draft Picks - #3 Pick,Marvin Harrison Jr.,-0.10390000000000002,0.1818,0.2857
 2024-03-15 01:12:27.911370,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,Atlanta Falcons,-0.10769999999999999,0.0099,0.1176
 2024-03-15 05:13:17.546986,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Manchester City,-0.12260000000000004,0.5,0.6226
-2024-03-14 21:14:47.206018,NFL Draft - Pick Markets - Draft Picks - #5 Pick,Brock Bowers,-0.1353,0.1,0.2353
