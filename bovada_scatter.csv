@@ -1,163 +1,63 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-03-15 07:13:29.304028,NCAA DI Men - 2024 Big East Conference Tournament - To Reach Championshp Game,Marquette,0.3788,0.8333,0.4545
-2024-03-15 07:13:29.229768,NCAA DI Men - 2024 Mountain West Conference Tournament - To Reach Championship Game,New Mexico,0.31239999999999996,0.6154,0.303
-2024-03-15 07:13:29.229768,NCAA DI Men - 2024 Mountain West Conference Tournament - To Reach Championship Game,Colorado State,0.3056,0.5556,0.25
-2024-03-15 07:13:29.304028,NCAA DI Men - 2024 Big East Conference Tournament - To Reach Championshp Game,Providence,0.2651,0.3704,0.1053
-2024-03-15 07:13:29.229768,NCAA DI Men - 2024 Mountain West Conference Tournament - To Reach Championship Game,San Diego State,0.22960000000000003,0.6296,0.4
-2024-03-15 07:13:29.101463,NCAA DI Men - 2024 Big 12 Conference Tournament - To Reach Championship Game,Houston,0.2023999999999999,0.9167,0.7143
-2024-03-15 07:13:29.101463,NCAA DI Men - 2024 Big 12 Conference Tournament - To Reach Championship Game,Baylor,0.1652,0.5652,0.4
 2024-03-15 11:14:51.210000,2024 Election Core - US Presidential Election 2024 - Who will be Robert F. Kennedy Jr. Nomination For Vice President - Nomination For Vice President,Aaron Rodgers,0.1582,0.4082,0.25
-2024-03-15 07:13:29.101463,NCAA DI Men - 2024 Big 12 Conference Tournament - To Reach Championship Game,Iowa State,0.14290000000000003,0.6429,0.5
-2024-03-15 07:13:27.128103,Box Office 2024 - Highest Worldwide Box Office At Year End - Highest Worldwide Box Office At Year End,Dune: Part Two,0.13489999999999996,0.3571,0.2222
-2024-03-15 07:13:29.101463,NCAA DI Men - 2024 Big 12 Conference Tournament - To Reach Championship Game,Texas Tech,0.13409999999999997,0.2941,0.16
-2024-03-15 07:13:29.304028,NCAA DI Men - 2024 Big East Conference Tournament - To Reach Championshp Game,Connecticut,0.13129999999999997,0.9091,0.7778
-2024-03-15 07:13:29.463266,NCAA DI Men - 2024 Atlantic Coast Conference Tournament - To Reach Championship Game,Pittsburgh,0.10709999999999997,0.3571,0.25
-2024-03-15 07:13:25.417714,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Paris Saint-Germain,0.09889999999999999,0.3846,0.2857
-2024-03-15 07:13:29.793394,NCAA DI Men - 2024 Big Ten Conference Tournament - To Reach Championship Game,Ohio State,0.0947,0.2,0.1053
-2024-03-15 07:13:29.304028,NCAA DI Men - 2024 Big East Conference Tournament - To Reach Championshp Game,St. John's,0.09409999999999996,0.2941,0.2
-2024-03-15 07:13:26.926277,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Colman Domingo - Sing Sing,0.0857,0.2857,0.2
-2024-03-15 07:13:29.793394,NCAA DI Men - 2024 Big Ten Conference Tournament - To Reach Championship Game,Wisconsin,0.08549999999999999,0.2105,0.125
-2024-03-15 07:13:26.907083,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Dune: Part Two,0.08330000000000001,0.25,0.1667
-2024-03-15 07:13:26.959193,97th Academy Awards - 2025 Oscars - Best Supporting Actor - Best Supporting Actor,Samuel L Jackson - The Piano Lesson,0.07579999999999999,0.1667,0.0909
-2024-03-15 07:13:29.717769,NCAA DI Men - 2024 SEC Conference Tournament - To Reach Championship Game,Texas A&M,0.06910000000000001,0.16,0.0909
-2024-03-15 07:13:29.717769,NCAA DI Men - 2024 SEC Conference Tournament - To Reach Championship Game,Florida,0.06840000000000002,0.2222,0.1538
-2024-03-15 07:13:26.947770,97th Academy Awards - 2025 Oscars - Best Director - Best Director,Yorgos Lanthimos - Kinds Of Kindness,0.06670000000000004,0.4,0.3333
-2024-03-15 07:13:26.947770,97th Academy Awards - 2025 Oscars - Best Director - Best Director,Denis Villeneuve - Dune: Part Two,0.06670000000000004,0.4,0.3333
-2024-03-15 07:13:25.417714,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,FC Barcelona,0.06659999999999999,0.3333,0.2667
-2024-03-15 07:13:29.793394,NCAA DI Men - 2024 Big Ten Conference Tournament - To Reach Championship Game,Indiana,0.0629,0.1538,0.0909
+2024-03-15 19:14:39.271191,NFL Draft - Team Markets - Team's First Pick - NY Jets - Position of 1st Drafted Player in 2024 NFL Draft,Tight End,0.08240000000000001,0.2,0.1176
+2024-03-15 19:14:32.250795,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Central Coast Mariners,0.08080000000000004,0.4444,0.3636
+2024-03-15 19:14:57.994790,MLB Futures - MLB 2024 Player Awards - National League ROY,Yoshinobu Yamamoto (R),0.06990000000000002,0.4545,0.3846
+2024-03-15 19:14:32.223130,A-League - Australia A-League 2023/24 - Top 6 Finish,Adelaide United,0.05710000000000001,0.2,0.1429
 2024-03-15 09:13:20.591784,Round Match-Ups - 2nd Round Match-Up - Car. Young v T. Pendrith - 2nd Round Match-Up,Carson Young,0.05689999999999995,0.5917,0.5348
-2024-03-15 07:13:26.981577,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2024,Italy,0.05679999999999999,0.1818,0.125
-2024-03-15 07:13:30.650417,US Senate Elections 2024 - Next Senate Republican Leader After Mitch McConnell - Next Senate Republican Leader,John Cornyn,0.04999999999999999,0.25,0.2
-2024-03-15 07:13:31.235832,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the 2020 presidential election Georgia result charges? - Georgia Result State Trial,No,0.04910000000000003,0.4,0.3509
-2024-03-15 07:13:31.474483,European Union Specials - Next EU member state to withdraw from the European Union - Next Country To Leave The EU,Hungary,0.048600000000000004,0.1111,0.0625
-2024-03-15 07:13:27.286430,"Cryptocurrency Specials - Will Bitcoin Reach $100,000 Value In 2024 - Will Bitcoin Reach $100k In 2024?",Yes,0.047599999999999976,0.3333,0.2857
-2024-03-15 07:13:25.417714,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Atlético Madrid,0.044499999999999984,0.2667,0.2222
+2024-03-15 19:14:32.196079,A-League - Australia A-League 2023/24 - To Finish Bottom,Newcastle United Jets,0.047599999999999976,0.3333,0.2857
 2024-03-15 09:12:58.320980,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,0.04380000000000006,0.8333,0.7895
-2024-03-15 07:13:26.936763,97th Academy Awards - 2025 Oscars - Best Actress - 2025 Oscars - Best Actress,Jessica Lange - Long Day's Journey Into Night,0.04169999999999999,0.1667,0.125
-2024-03-15 07:13:29.717769,NCAA DI Men - 2024 SEC Conference Tournament - To Reach Championship Game,Mississippi State,0.0407,0.1176,0.0769
+2024-03-15 19:14:32.196079,A-League - Australia A-League 2023/24 - To Finish Bottom,Perth Glory,0.042899999999999994,0.1429,0.1
 2024-03-15 09:13:20.513201,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - B. Kohles / N. Lashley / R. Shelton - 2nd Round 3 Balls,Nate Lashley,0.0393,0.4167,0.3774
-2024-03-15 07:13:31.273309,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the classified documents federal charges? - Classified Documents Federal Trial,No,0.03839999999999999,0.3509,0.3125
-2024-03-15 07:13:29.717769,NCAA DI Men - 2024 SEC Conference Tournament - To Reach Championship Game,South Carolina,0.033399999999999985,0.1667,0.1333
-2024-03-15 07:13:26.981577,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2024,Switzerland,0.033299999999999996,0.1333,0.1
-2024-03-15 07:13:29.793394,NCAA DI Men - 2024 Big Ten Conference Tournament - To Reach Championship Game,Michigan State,0.031799999999999995,0.1429,0.1111
-2024-03-15 07:13:26.936763,97th Academy Awards - 2025 Oscars - Best Actress - 2025 Oscars - Best Actress,Angelina Jolie - Maria,0.031799999999999995,0.1429,0.1111
-2024-03-15 07:13:26.936763,97th Academy Awards - 2025 Oscars - Best Actress - 2025 Oscars - Best Actress,Saoirse Ronan - Blitz,0.031799999999999995,0.1429,0.1111
-2024-03-15 07:13:56.706261,Round Match-Ups - 2nd Round Match-Up - R. Fox v K. Kitayama - 2nd Round Match-Up,Kurt Kitayama,0.030399999999999983,0.5652,0.5348
-2024-03-15 07:13:26.981577,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2024,Greece,0.030199999999999998,0.0625,0.0323
-2024-03-15 07:13:30.650417,US Senate Elections 2024 - Next Senate Republican Leader After Mitch McConnell - Next Senate Republican Leader,Rand Paul,0.029299999999999993,0.0769,0.0476
+2024-03-15 19:14:51.644782,MLB 2024 Regular Season Team Props - Baltimore Orioles AL East Finishing Position - Baltimore Orioles AL East Finishing Position,1st,0.030299999999999994,0.3636,0.3333
+2024-03-15 19:14:32.549923,UEFA Europa Conference League - Europa Conference League 2023/24 - Winner,Fiorentina,0.02779999999999999,0.25,0.2222
 2024-03-15 15:15:04.000888,BKFC Fight Night: Miami - Julio Perez vs Kory Moegenburg - To Win the Bout,Kory Moegenburg,0.02779999999999999,0.25,0.2222
-2024-03-15 07:13:27.683380,Social Media Specials - Who will buy TikTok In 2024 - Proposition,Steve Mnuchin/Liberty Strategic Capital,0.025900000000000003,0.0476,0.0217
-2024-03-15 07:13:31.116048,Donald Trump Specials - Will Donald Trump be found guilty of one or more felonies in New York? - Business Records New York State Trial,Yes,0.025000000000000022,0.9,0.875
-2024-03-15 07:13:26.981577,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2024,Netherlands,0.0242,0.0909,0.0667
-2024-03-15 07:13:26.907083,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,A Real Pain,0.024,0.0625,0.0385
+2024-03-15 19:14:36.231315,A1 - Greece A1 2023/2024 - Outright,Olympiakos,0.027700000000000002,0.4444,0.4167
 2024-03-15 09:13:20.628613,Round Match-Ups - 2nd Round Match-Up - T. Hoge v M.W. Lee - 2nd Round Match-Up,Min Woo Lee,0.023800000000000043,0.5238,0.5
-2024-03-15 07:13:56.628509,Round Match-Ups - 2nd Round Match-Up - N. Taylor vs T. Hoge - 2nd Round Match-Up,Nick Taylor,0.023800000000000043,0.5238,0.5
-2024-03-15 07:13:27.054326,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Matteus,0.023799999999999988,0.1667,0.1429
-2024-03-15 07:13:25.455740,UEFA Europa League - UEFA Europa League 2023/24 - Outright,Liverpool,0.023799999999999988,0.5,0.4762
-2024-03-15 07:13:56.671039,Round Match-Ups - 2nd Round Match-Up - T. Fleetwood vs S. Kim - 2nd Round Match-Up,Tommy Fleetwood,0.022600000000000064,0.5348,0.5122
 2024-03-15 15:15:03.245752,Boxing Lines - Tim Tszyu vs Keith Thurman - To Win the Bout,Tim Tszyu,0.022600000000000064,0.905,0.8824
-2024-03-15 07:13:30.492144,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Kristi Noem,0.022199999999999998,0.2222,0.2
-2024-03-15 07:13:26.969410,97th Academy Awards - 2025 Oscars - Best Supporting Actress - Best Supporting Actress,Maria Bakalova - The Apprentice,0.02020000000000001,0.1111,0.0909
-2024-03-15 07:13:30.492144,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tulsi Gabbard,0.02020000000000001,0.1111,0.0909
 2024-03-15 11:15:13.247628,Boxing Lines - Austin Aokuso vs Titi Motusaga - To Win the Bout,Austin Aokuso,0.01979999999999993,0.9722,0.9524
 2024-03-15 09:13:20.699219,Round Match-Ups - 2nd Round Match-Up - R. McIlroy v V. Hovland - 2nd Round Match-Up,Rory McIlroy,0.01970000000000005,0.5652,0.5455
-2024-03-15 07:13:27.082035,Ghostbusters: Frozen Empire - Rotten Tomatoes Audience Score On April 19th 2024 - Ghostbusters: Frozen Empire,72% or under,0.01970000000000005,0.5652,0.5455
-2024-03-15 07:13:31.068200,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,0.019000000000000017,0.2857,0.2667
-2024-03-15 07:13:27.054326,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Davi,0.018999999999999906,0.7333,0.7143
 2024-03-15 09:13:21.064757,Round Match-Ups - 2nd Round Match-Up - R. Fox v K. Kitayama - 2nd Round Match-Up,Kurt Kitayama,0.018100000000000005,0.5833,0.5652
 2024-03-15 11:14:54.068743,NFC West - NFC West 2024/25 - NFC West Winner,Seattle Seahawks,0.0179,0.1429,0.125
+2024-03-15 19:14:32.549923,UEFA Europa Conference League - Europa Conference League 2023/24 - Winner,Fenerbahce,0.0179,0.1429,0.125
+2024-03-15 19:14:58.690573,Boxing Lines - Eithan James vs Owen Cooper - To Win the Bout,Eithan James,0.01759999999999995,0.6667,0.6491
 2024-03-15 09:12:57.808611,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Lee Zeldin,0.0159,0.0323,0.0164
-2024-03-15 07:13:30.492144,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Elise Stefanik,0.015899999999999997,0.1111,0.0952
 2024-03-15 15:15:01.497679,Boxing Lines - Callum Walsh vs Dauren Yeleussinov - To Win the Bout,Dauren Yeleussinov,0.01580000000000001,0.0714,0.0556
-2024-03-15 07:13:53.018819,Boxing Lines - Sandy Ryan vs Terri Harper - To Win the Bout,Terri Harper,0.01579999999999998,0.3333,0.3175
-2024-03-15 07:13:30.492144,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Michael Flynn,0.0156,0.0196,0.004
-2024-03-15 07:13:30.492144,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Jim Jordan,0.0156,0.0196,0.004
+2024-03-15 19:14:58.149327,MLB Futures - MLB 2024 Regular Season Leaders - Player To Record The Most RBIs,Kyle Tucker (HOU),0.015300000000000001,0.0588,0.0435
 2024-03-15 17:14:57.281065,Futures - PGA Championship 2024 - Winner,Wyndham Clark,0.015300000000000001,0.0476,0.0323
 2024-03-15 11:15:14.208284,Boxing Lines - Tim Tszyu vs Keith Thurman - To Win the Bout,Keith Thurman,0.015100000000000002,0.1818,0.1667
-2024-03-15 07:13:30.650417,US Senate Elections 2024 - Next Senate Republican Leader After Mitch McConnell - Next Senate Republican Leader,Rick Scott,0.014399999999999996,0.0769,0.0625
-2024-03-15 07:13:26.981577,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2024,Belgium,0.013999999999999999,0.0909,0.0769
-2024-03-15 07:13:27.054326,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Beatriz,0.013999999999999999,0.0909,0.0769
+2024-03-15 19:14:32.549923,UEFA Europa Conference League - Europa Conference League 2023/24 - Winner,Club Brugge,0.013999999999999999,0.0909,0.0769
 2024-03-15 11:14:54.068743,NFC West - NFC West 2024/25 - NFC West Winner,Arizona Cardinals,0.013999999999999999,0.0909,0.0769
-2024-03-15 07:13:30.492144,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Ben Carson,0.013999999999999999,0.0909,0.0769
 2024-03-15 15:15:03.920457,BKFC Fight Night: Miami - Howard Davis vs Sean Wilson - To Win the Bout,Howard Davis,0.013900000000000023,0.8889,0.875
-2024-03-15 07:13:57.128245,Futures - PGA Championship 2024 - Winner,Scottie Scheffler,0.013899999999999996,0.125,0.1111
-2024-03-15 07:13:57.174799,Futures - US Open 2024 - Winner,Scottie Scheffler,0.013899999999999996,0.125,0.1111
-2024-03-15 07:13:26.926277,97th Academy Awards - 2025 Oscars - Best Actor - Best Actor,Ralph Fiennes - Conclave,0.013899999999999996,0.125,0.1111
 2024-03-15 15:15:04.118402,BKFC Fight Night: Miami - Wayna Reid vs Jim Pulgar - To Win the Bout,Wayna Reid,0.0131,0.7778,0.7647
+2024-03-15 19:14:57.994790,MLB Futures - MLB 2024 Player Awards - National League ROY,Jackson Merrill,0.011900000000000008,0.0952,0.0833
 2024-03-15 09:13:21.035923,Round Match-Ups - 2nd Round Match-Up - T. Fleetwood vs S. Kim - 2nd Round Match-Up,Si Woo Kim,0.011600000000000055,0.5238,0.5122
-2024-03-15 07:13:25.455740,UEFA Europa League - UEFA Europa League 2023/24 - Outright,Benfica,0.011199999999999995,0.0588,0.0476
-2024-03-15 07:13:57.220676,Futures - The Open Championship 2024 - Winner,Scottie Scheffler,0.011099999999999999,0.1111,0.1
-2024-03-15 07:13:56.860177,Round Match-Ups - 2nd Round Match-Up - V. Hovland vs P. Cantlay - 2nd Round Match-Up,Viktor Hovland,0.01100000000000001,0.5348,0.5238
-2024-03-15 07:13:56.545514,Round Match-Ups - 2nd Round Match-Up - R. Henley vs M. Lee - 2nd Round Match-Up,Min Woo Lee,0.010599999999999998,0.4651,0.4545
 2024-03-15 13:15:17.143851,Boxing Lines - Nathan Heaney vs Brad Pauls - To Win the Bout,Nathan Heaney,0.010500000000000065,0.8182,0.8077
-2024-03-15 07:13:25.353978,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Atlético Madrid,0.0102,0.0769,0.0667
-2024-03-15 07:13:53.819584,Boxing Lines - Tim Tszyu vs Keith Thurman - To Win the Bout,Tim Tszyu,0.010199999999999987,0.905,0.8948
-2024-03-15 07:13:31.001590,Joe Biden Specials - Joe Biden Approval Rating June 30th 2024 - Joe Biden Approval Rating June 30th 2024,40% or over,-0.010099999999999998,0.4444,0.4545
-2024-03-15 07:13:25.455740,UEFA Europa League - UEFA Europa League 2023/24 - Outright,AS Roma,-0.0102,0.0667,0.0769
-2024-03-15 07:13:30.492144,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Nikki Haley,-0.0102,0.0667,0.0769
-2024-03-15 07:13:25.455740,UEFA Europa League - UEFA Europa League 2023/24 - Outright,Bayer Leverkusen,-0.010399999999999993,0.2222,0.2326
-2024-03-15 07:13:31.068200,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,-0.010500000000000065,0.7895,0.8
-2024-03-15 07:13:29.793394,NCAA DI Men - 2024 Big Ten Conference Tournament - To Reach Championship Game,Illinois,-0.010699999999999932,0.5348,0.5455
-2024-03-15 07:13:26.981577,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2024,Georgia,-0.010700000000000001,0.0278,0.0385
+2024-03-15 19:14:57.994790,MLB Futures - MLB 2024 Player Awards - National League ROY,Adael Amador (COL),-0.010700000000000001,0.0278,0.0385
 2024-03-15 09:13:21.035923,Round Match-Ups - 2nd Round Match-Up - T. Fleetwood vs S. Kim - 2nd Round Match-Up,Tommy Fleetwood,-0.01100000000000001,0.5238,0.5348
-2024-03-15 07:13:57.329843,International Series Macau - International Series Macau - Winner,Jbe Kruger,-0.011099999999999999,0.1,0.1111
-2024-03-15 07:13:56.583090,Round Match-Ups - 2nd Round Match-Up - J. Day vs L. Aberg - 2nd Round Match-Up,Jason Day,-0.0116,0.4762,0.4878
-2024-03-15 07:13:56.860177,Round Match-Ups - 2nd Round Match-Up - V. Hovland vs P. Cantlay - 2nd Round Match-Up,Patrick Cantlay,-0.011600000000000055,0.5122,0.5238
-2024-03-15 07:13:26.981577,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2024,Iceland,-0.012100000000000001,0.0123,0.0244
-2024-03-15 07:13:56.706261,Round Match-Ups - 2nd Round Match-Up - R. Fox v K. Kitayama - 2nd Round Match-Up,Ryan Fox,-0.012199999999999989,0.5,0.5122
-2024-03-15 07:13:31.474483,European Union Specials - Next EU member state to withdraw from the European Union - Next Country To Leave The EU,Netherlands,-0.013899999999999996,0.1111,0.125
+2024-03-15 19:14:32.250795,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Sydney FC,-0.011099999999999999,0.1,0.1111
 2024-03-15 09:13:20.513201,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - B. Kohles / N. Lashley / R. Shelton - 2nd Round 3 Balls,Ben Kohles,-0.01419999999999999,0.3704,0.3846
-2024-03-15 07:13:29.717769,NCAA DI Men - 2024 SEC Conference Tournament - To Reach Championship Game,Kentucky,-0.01419999999999999,0.3704,0.3846
-2024-03-15 07:13:31.474483,European Union Specials - Next EU member state to withdraw from the European Union - Next Country To Leave The EU,Portugal,-0.014399999999999996,0.0625,0.0769
-2024-03-15 07:13:31.474483,European Union Specials - Next EU member state to withdraw from the European Union - Next Country To Leave The EU,Poland,-0.014399999999999996,0.0625,0.0769
-2024-03-15 07:13:31.474483,European Union Specials - Next EU member state to withdraw from the European Union - Next Country To Leave The EU,France,-0.014399999999999996,0.0625,0.0769
-2024-03-15 07:13:31.474483,European Union Specials - Next EU member state to withdraw from the European Union - Next Country To Leave The EU,Cyprus,-0.014899999999999997,0.0476,0.0625
-2024-03-15 07:13:27.128103,Box Office 2024 - Highest Worldwide Box Office At Year End - Highest Worldwide Box Office At Year End,Gladiator 2,-0.014899999999999997,0.0476,0.0625
-2024-03-15 07:13:25.353978,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Arsenal FC,-0.015100000000000002,0.1667,0.1818
-2024-03-15 07:13:26.981577,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2024,Lithuania,-0.015300000000000001,0.0323,0.0476
-2024-03-15 07:13:30.492144,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Sarah Huckabee Sanders,-0.015300000000000001,0.0435,0.0588
+2024-03-15 19:14:58.690573,Boxing Lines - Eithan James vs Owen Cooper - To Win the Bout,Owen Cooper,-0.014899999999999969,0.4,0.4149
 2024-03-15 15:15:03.920457,BKFC Fight Night: Miami - Howard Davis vs Sean Wilson - To Win the Bout,Sean Wilson,-0.016600000000000004,0.1739,0.1905
-2024-03-15 07:13:31.155130,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the 2020 election result federal charges? - Election Result Federal Trial,Yes,-0.016699999999999937,0.5833,0.6
 2024-03-15 15:15:04.118402,BKFC Fight Night: Miami - Wayna Reid vs Jim Pulgar - To Win the Bout,Jim Pulgar,-0.017299999999999982,0.2857,0.303
-2024-03-15 07:13:26.981577,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2024,Australia,-0.0179,0.0099,0.0278
-2024-03-15 07:13:30.492144,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tim Scott,-0.01820000000000002,0.1818,0.2
-2024-03-15 07:13:29.717769,NCAA DI Men - 2024 SEC Conference Tournament - To Reach Championship Game,Auburn,-0.019699999999999995,0.4348,0.4545
-2024-03-15 07:13:29.793394,NCAA DI Men - 2024 Big Ten Conference Tournament - To Reach Championship Game,Northwestern,-0.02049999999999999,0.1333,0.1538
-2024-03-15 07:13:56.628509,Round Match-Ups - 2nd Round Match-Up - N. Taylor vs T. Hoge - 2nd Round Match-Up,Tom Hoge,-0.02169999999999994,0.5238,0.5455
+2024-03-15 19:14:57.994790,MLB Futures - MLB 2024 Player Awards - National League ROY,Michael Busch (CHC),-0.018099999999999998,0.0588,0.0769
 2024-03-15 09:13:20.628613,Round Match-Ups - 2nd Round Match-Up - T. Hoge v M.W. Lee - 2nd Round Match-Up,Tom Hoge,-0.02169999999999994,0.5238,0.5455
-2024-03-15 07:13:27.082035,Ghostbusters: Frozen Empire - Rotten Tomatoes Audience Score On April 19th 2024 - Ghostbusters: Frozen Empire,Over 72%,-0.02169999999999994,0.5238,0.5455
 2024-03-15 13:15:17.298644,Boxing Lines - Eric Priest vs Jose Sanchez Charles - To Win the Bout,Jose Sanchez Charles,-0.022199999999999998,0.1111,0.1333
-2024-03-15 07:13:26.936763,97th Academy Awards - 2025 Oscars - Best Actress - 2025 Oscars - Best Actress,Emma Stone - Kinds Of Kindness,-0.022199999999999998,0.2,0.2222
-2024-03-15 07:13:56.671039,Round Match-Ups - 2nd Round Match-Up - T. Fleetwood vs S. Kim - 2nd Round Match-Up,Si Woo Kim,-0.022600000000000064,0.5122,0.5348
+2024-03-15 19:14:32.250795,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Wellington Phoenix,-0.02260000000000001,0.3774,0.4
 2024-03-15 11:15:14.208284,Boxing Lines - Tim Tszyu vs Keith Thurman - To Win the Bout,Tim Tszyu,-0.022600000000000064,0.8824,0.905
 2024-03-15 09:13:20.699219,Round Match-Ups - 2nd Round Match-Up - R. McIlroy v V. Hovland - 2nd Round Match-Up,Viktor Hovland,-0.023799999999999988,0.4762,0.5
-2024-03-15 07:13:31.116048,Donald Trump Specials - Will Donald Trump be found guilty of one or more felonies in New York? - Business Records New York State Trial,No,-0.023800000000000016,0.1667,0.1905
-2024-03-15 07:13:27.128103,Box Office 2024 - Highest Worldwide Box Office At Year End - Highest Worldwide Box Office At Year End,Kung Fu Panda 4,-0.024,0.0385,0.0625
-2024-03-15 07:13:25.455740,UEFA Europa League - UEFA Europa League 2023/24 - Outright,West Ham United,-0.0242,0.0667,0.0909
+2024-03-15 19:14:32.223130,A-League - Australia A-League 2023/24 - Top 6 Finish,Newcastle United Jets,-0.0242,0.0667,0.0909
 2024-03-15 09:13:20.513201,THE PLAYERS Championship - 2/3 Balls - 2nd Round 3 Balls - B. Kohles / N. Lashley / R. Shelton - 2nd Round 3 Balls,Robby Shelton,-0.02560000000000001,0.3077,0.3333
 2024-03-15 15:15:04.000888,BKFC Fight Night: Miami - Julio Perez vs Kory Moegenburg - To Win the Bout,Julio Perez,-0.027999999999999914,0.8182,0.8462
-2024-03-15 07:13:25.455740,UEFA Europa League - UEFA Europa League 2023/24 - Outright,Atalanta,-0.029299999999999993,0.0476,0.0769
-2024-03-15 07:13:29.717769,NCAA DI Men - 2024 SEC Conference Tournament - To Reach Championship Game,Alabama,-0.033299999999999996,0.4545,0.4878
-2024-03-15 07:13:27.128103,Box Office 2024 - Highest Worldwide Box Office At Year End - Highest Worldwide Box Office At Year End,Inside Out 2,-0.034100000000000005,0.0909,0.125
-2024-03-15 07:13:27.128103,Box Office 2024 - Highest Worldwide Box Office At Year End - Highest Worldwide Box Office At Year End,Mufasa: The Lion King,-0.034100000000000005,0.0909,0.125
+2024-03-15 19:14:32.250795,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Macarthur FC,-0.028199999999999996,0.0385,0.0667
+2024-03-15 19:14:32.549923,UEFA Europa Conference League - Europa Conference League 2023/24 - Winner,Viktoria Plzen,-0.029299999999999993,0.0476,0.0769
+2024-03-15 19:14:57.994790,MLB Futures - MLB 2024 Player Awards - National League ROY,Jung Hoo Lee (SF),-0.029799999999999993,0.0952,0.125
 2024-03-15 09:13:21.064757,Round Match-Ups - 2nd Round Match-Up - R. Fox v K. Kitayama - 2nd Round Match-Up,Ryan Fox,-0.03489999999999999,0.4651,0.5
-2024-03-15 07:13:31.273309,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the classified documents federal charges? - Classified Documents Federal Trial,Yes,-0.035699999999999954,0.7143,0.75
-2024-03-15 07:13:30.650417,US Senate Elections 2024 - Next Senate Republican Leader After Mitch McConnell - Next Senate Republican Leader,John Thune,-0.035699999999999954,0.7143,0.75
-2024-03-15 07:13:26.981577,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2024,Croatia,-0.03570000000000001,0.25,0.2857
-2024-03-15 07:13:25.417714,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Arsenal FC,-0.03570000000000001,0.25,0.2857
-2024-03-15 07:13:25.417714,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Real Madrid,-0.03570000000000001,0.25,0.2857
-2024-03-15 07:13:29.717769,NCAA DI Men - 2024 SEC Conference Tournament - To Reach Championship Game,Tennessee,-0.03600000000000003,0.4878,0.5238
-2024-03-15 07:13:27.054326,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Fernanda,-0.04329999999999999,0.0476,0.0909
+2024-03-15 19:14:32.250795,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Melbourne Victory,-0.04169999999999999,0.125,0.1667
+2024-03-15 19:14:32.196079,A-League - Australia A-League 2023/24 - To Finish Bottom,Adelaide United,-0.04269999999999999,0.1111,0.1538
 2024-03-15 11:14:54.068743,NFC West - NFC West 2024/25 - NFC West Winner,Los Angeles Rams,-0.044800000000000006,0.1905,0.2353
-2024-03-15 07:13:31.474483,European Union Specials - Next EU member state to withdraw from the European Union - Next Country To Leave The EU,Italy,-0.047599999999999976,0.2857,0.3333
-2024-03-15 07:13:31.235832,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the 2020 presidential election Georgia result charges? - Georgia Result State Trial,Yes,-0.04760000000000009,0.6667,0.7143
-2024-03-15 07:13:25.417714,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Bayern Munich,-0.04999999999999999,0.2,0.25
-2024-03-15 07:13:31.474483,European Union Specials - Next EU member state to withdraw from the European Union - Next Country To Leave The EU,Greece,-0.04999999999999999,0.2,0.25
-2024-03-15 07:13:27.286430,"Cryptocurrency Specials - Will Bitcoin Reach $100,000 Value In 2024 - Will Bitcoin Reach $100k In 2024?",No,-0.050000000000000044,0.75,0.8
-2024-03-15 07:13:26.981577,Eurovision Song Contest - Eurovision Song Contest Winner - Eurovision Song Contest Winner 2024,Slovenia,-0.0526,0.0099,0.0625
 2024-03-15 09:12:58.320980,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,-0.05310000000000001,0.2326,0.2857
 2024-03-15 09:13:20.591784,Round Match-Ups - 2nd Round Match-Up - Car. Young v T. Pendrith - 2nd Round Match-Up,Taylor Pendrith,-0.057699999999999974,0.4545,0.5122
-2024-03-15 07:13:29.793394,NCAA DI Men - 2024 Big Ten Conference Tournament - To Reach Championship Game,Purdue,-0.0635,0.7143,0.7778
+2024-03-15 19:14:32.196079,A-League - Australia A-League 2023/24 - To Finish Bottom,Western United,-0.06700000000000006,0.5556,0.6226
 2024-03-15 11:14:51.210000,2024 Election Core - US Presidential Election 2024 - Who will be Robert F. Kennedy Jr. Nomination For Vice President - Nomination For Vice President,Jesse Ventura,-0.07790000000000008,0.6364,0.7143
 2024-03-15 11:14:51.210000,2024 Election Core - US Presidential Election 2024 - Who will be Robert F. Kennedy Jr. Nomination For Vice President - Nomination For Vice President,Tony Robbins,-0.08329999999999999,0.25,0.3333
-2024-03-15 07:13:27.128103,Box Office 2024 - Highest Worldwide Box Office At Year End - Highest Worldwide Box Office At Year End,Despicable Me 4,-0.09740000000000004,0.3571,0.4545
