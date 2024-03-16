@@ -13,8 +13,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-16 01:14:05.472105,NCAA DI Men - 2024 Big Ten Conference Tournament - Conference Tournament Winner,Purdue,0.12260000000000004,0.6226,0.5
 2024-03-16 01:14:08.158181,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2024 NFL Draft,Offensive Lineman,0.10970000000000002,0.6552,0.5455
 2024-03-16 05:12:43.483603,Scores - 3rd Round Score - Xander Schauffele - 3rd Round Score,Under 70.5,0.10109999999999997,0.5455,0.4444
-2024-03-16 01:14:08.158181,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2024 NFL Draft,Defensive Line/Edge,0.0948,0.3448,0.25
 2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Lucas Herbert,0.0948,0.1333,0.0385
+2024-03-16 01:14:08.158181,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2024 NFL Draft,Defensive Line/Edge,0.0948,0.3448,0.25
 2024-03-16 01:14:05.583891,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,0.08330000000000004,0.8333,0.75
 2024-03-16 05:12:43.311885,Scores - 3rd Round Score - Rory McIlroy - 3rd Round Score,Over 70.5,0.07940000000000003,0.5238,0.4444
 2024-03-16 01:14:04.619840,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,0.07240000000000002,0.7647,0.6923
@@ -27,86 +27,80 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-16 01:14:05.395289,NCAA DI Men - 2024 American Athletic Conference Tournament - Conference Tournament Winner,South Florida,0.03219999999999998,0.2703,0.2381
 2024-03-16 03:13:14.194024,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Purdue,0.029600000000000015,0.4,0.3704
 2024-03-16 01:14:05.514801,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Malik Monk (SAC),0.027800000000000047,0.7778,0.75
-2024-03-15 23:13:32.591727,Round Match-Ups - 3rd Round Match-Up - J. Day vs S. Im - 3rd Round Match-Up,Sungjae Im,0.024399999999999977,0.5122,0.4878
-2024-03-16 09:14:08.578180,Round Match-Ups - 3rd Round Match-Up - X. Schauffele vs R. McIlroy - 3rd Round Match-Up,Rory McIlroy,0.024399999999999977,0.5122,0.4878
 2024-03-16 09:14:08.539538,Round Match-Ups - 3rd Round Match-Up - H. Matsuyama vs C. Young - 3rd Round Match-Up,Cameron Young,0.024399999999999977,0.5122,0.4878
-2024-03-16 03:13:14.194024,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Florida,0.024299999999999995,0.0769,0.0526
+2024-03-16 09:14:08.578180,Round Match-Ups - 3rd Round Match-Up - X. Schauffele vs R. McIlroy - 3rd Round Match-Up,Rory McIlroy,0.024399999999999977,0.5122,0.4878
 2024-03-16 01:14:08.112253,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2024 NFL Draft,Wide Receiver,0.024299999999999995,0.0769,0.0526
-2024-03-16 03:13:37.922278,Round Match-Ups - 3rd Round Match-Up - C. Morikawa vs L. Aberg - 3rd Round Match-Up,Ludvig Aberg,0.023800000000000043,0.5238,0.5
+2024-03-16 03:13:14.194024,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Florida,0.024299999999999995,0.0769,0.0526
 2024-03-16 03:13:14.194024,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Connecticut,0.023800000000000043,0.5238,0.5
+2024-03-16 03:13:37.922278,Round Match-Ups - 3rd Round Match-Up - C. Morikawa vs L. Aberg - 3rd Round Match-Up,Ludvig Aberg,0.023800000000000043,0.5238,0.5
 2024-03-16 01:14:29.533602,Round Match-Ups - 3rd Round Match-Up - W. Clark vs M. Fitzpatrick - 3rd Round Match-Up,Matt Fitzpatrick,0.023800000000000043,0.5238,0.5
 2024-03-16 05:12:42.493120,Round Match-Ups - 3rd Round Match-Up - S. Theegala vs H. English - 3rd Round Match-Up,Harris English,0.023799999999999988,0.5,0.4762
 2024-03-16 01:14:05.395289,NCAA DI Men - 2024 American Athletic Conference Tournament - Conference Tournament Winner,Temple,0.022200000000000004,0.0345,0.0123
 2024-03-16 07:13:42.673560,Round Match-Ups - 3rd Round Match-Up - A. Eckroat v D. Ghim - 3rd Round Match-Up ,Austin Eckroat,0.02169999999999994,0.5455,0.5238
-2024-03-16 05:12:41.932967,Round Match-Ups - 3rd Round Match-Up - C. Conners vs T. Hoge - 3rd Round Match-Up,Corey Conners,0.02079999999999993,0.5556,0.5348
-2024-03-16 03:13:37.979192,Round Match-Ups - 3rd Round Match-Up - H. Matsuyama vs C. Young - 3rd Round Match-Up,Hideki Matsuyama,0.02079999999999993,0.5556,0.5348
-2024-03-16 05:12:42.227372,Round Match-Ups - 3rd Round Match-Up - J. Day vs S. Im - 3rd Round Match-Up,Jason Day,0.02079999999999993,0.5556,0.5348
 2024-03-16 03:13:38.380906,Round Match-Ups - 3rd Round Match-Up - X. Schauffele vs R. McIlroy - 3rd Round Match-Up,Xander Schauffele,0.02079999999999993,0.5556,0.5348
-2024-03-15 21:16:01.000233,Boxing Lines - William Zepeda vs Maxi Hughes - To Win the Bout,Maxi Hughes,0.0203,0.1379,0.1176
+2024-03-16 05:12:42.227372,Round Match-Ups - 3rd Round Match-Up - J. Day vs S. Im - 3rd Round Match-Up,Jason Day,0.02079999999999993,0.5556,0.5348
+2024-03-16 03:13:37.979192,Round Match-Ups - 3rd Round Match-Up - H. Matsuyama vs C. Young - 3rd Round Match-Up,Hideki Matsuyama,0.02079999999999993,0.5556,0.5348
+2024-03-16 05:12:41.932967,Round Match-Ups - 3rd Round Match-Up - C. Conners vs T. Hoge - 3rd Round Match-Up,Corey Conners,0.02079999999999993,0.5556,0.5348
 2024-03-16 01:14:05.472105,NCAA DI Men - 2024 Big Ten Conference Tournament - Conference Tournament Winner,Wisconsin,0.02020000000000001,0.1111,0.0909
 2024-03-16 03:13:38.173431,Round Match-Ups - 3rd Round Match-Up - S. Theegala vs H. English - 3rd Round Match-Up,Sahith Theegala,0.01970000000000005,0.5652,0.5455
 2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Ben Campbell,0.0189,0.0385,0.0196
 2024-03-16 05:12:21.015595,AFC East - AFC East 2024/25 - AFC East Winner,Miami Dolphins,0.018799999999999983,0.3636,0.3448
-2024-03-15 21:16:00.957760,Boxing Lines - Eric Priest vs Jose Sanchez Charles - To Win the Bout,Eric Priest,0.018100000000000005,0.9412,0.9231
 2024-03-16 01:14:05.652571,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Luka Doncic (DAL),0.01759999999999999,0.1176,0.1
 2024-03-16 01:14:05.472105,NCAA DI Men - 2024 Big Ten Conference Tournament - Conference Tournament Winner,Illinois,0.016699999999999993,0.2667,0.25
-2024-03-16 01:14:05.514801,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Norman Powell (LAC),0.015100000000000002,0.1818,0.1667
 2024-03-16 03:13:14.194024,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Iowa State,0.015100000000000002,0.1818,0.1667
+2024-03-16 01:14:05.514801,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Norman Powell (LAC),0.015100000000000002,0.1818,0.1667
 2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Andy Ogletree,0.0145,0.0244,0.0099
 2024-03-16 01:14:04.577563,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,0.014300000000000035,0.274,0.2597
 2024-03-16 09:14:05.849410,Boxing Lines - Eric Priest vs Jose Sanchez Charles - To Win the Bout,Jose Sanchez Charles,0.013899999999999996,0.125,0.1111
 2024-03-16 07:13:19.723301,Euroleague - Euroleague 2023/24 - Outright,Real Madrid BC,0.013300000000000034,0.3704,0.3571
 2024-03-16 03:13:14.162302,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Houston,0.012899999999999995,0.1667,0.1538
 2024-03-16 03:13:35.746422,Boxing Lines - Nathan Heaney vs Brad Pauls - To Win the Bout,Brad Pauls,0.012500000000000011,0.2564,0.2439
-2024-03-15 23:13:31.321147,Boxing Lines - Eric Robles vs Liam Davies - To Win the Bout,Liam Davies,0.011099999999999999,0.7333,0.7222
+2024-03-16 11:14:39.184295,Boxing Lines - Pierce O'Leary vs Hovhannes Martirosyan - To Win the Bout,Pierce O'Leary,0.011099999999999999,0.9,0.8889
 2024-03-16 05:12:40.218353,Boxing Lines - Sandy Ryan vs Terri Harper - To Win the Bout,Terri Harper,0.010699999999999987,0.3333,0.3226
 2024-03-16 03:13:14.194024,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Houston,0.010599999999999998,0.4651,0.4545
 2024-03-16 03:13:14.162302,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,North Carolina,0.0102,0.0769,0.0667
-2024-03-15 23:13:31.496272,Boxing Lines - Austin Aokuso vs Titi Motusaga - To Win the Bout,Titi Motusaga,-0.0102,0.0667,0.0769
+2024-03-16 11:14:39.453218,Boxing Lines - William Zepeda vs Maxi Hughes - To Win the Bout,William Zepeda,0.010199999999999987,0.9333,0.9231
 2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Poom Saksansin,-0.0103,0.002,0.0123
 2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Ervin Chang,-0.0103,0.002,0.0123
 2024-03-16 03:13:36.265120,Boxing Lines - Sandy Ryan vs Terri Harper - To Win the Bout,Terri Harper,-0.010699999999999987,0.3226,0.3333
 2024-03-16 05:12:40.050456,Boxing Lines - Dillian Whyte vs Christian Hammer - To Win the Bout,Christian Hammer,-0.011099999999999999,0.1,0.1111
 2024-03-16 03:13:14.194024,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Virginia,-0.011399999999999997,0.0164,0.0278
-2024-03-15 23:13:31.321147,Boxing Lines - Eric Robles vs Liam Davies - To Win the Bout,Eric Robles,-0.01150000000000001,0.3333,0.3448
 2024-03-16 03:13:14.194024,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Villanova,-0.012100000000000001,0.0123,0.0244
 2024-03-16 01:14:08.112253,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2024 NFL Draft,Linebacker,-0.0131,0.0345,0.0476
-2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Sergio Garcia,-0.0132,0.002,0.0152
 2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Yeongsu Kim,-0.0132,0.002,0.0152
+2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Sergio Garcia,-0.0132,0.002,0.0152
 2024-03-16 01:14:05.514801,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Caris LeVert (CLE),-0.014900000000000004,0.0196,0.0345
 2024-03-16 03:13:14.194024,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Kentucky,-0.015100000000000002,0.1667,0.1818
-2024-03-15 21:16:00.514848,Boxing Lines - Joseph Joyce vs Kash Ali - To Win the Bout,Kash Ali,-0.016600000000000004,0.0667,0.0833
 2024-03-16 03:13:14.162302,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Tennessee,-0.016700000000000007,0.0833,0.1
 2024-03-16 01:14:08.201490,NFL Draft - Team Markets - Team's First Pick - NY Jets - Position of 1st Drafted Player in 2024 NFL Draft,Linebacker,-0.0179,0.0099,0.0278
-2024-03-16 01:14:05.554842,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Stephen Curry (GSW),-0.018100000000000005,0.4167,0.4348
 2024-03-16 03:13:35.920146,Boxing Lines - William Zepeda vs Maxi Hughes - To Win the Bout,William Zepeda,-0.018100000000000005,0.9231,0.9412
+2024-03-16 01:14:05.554842,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Stephen Curry (GSW),-0.018100000000000005,0.4167,0.4348
 2024-03-16 05:12:21.015595,AFC East - AFC East 2024/25 - AFC East Winner,Buffalo Bills,-0.018900000000000028,0.4255,0.4444
 2024-03-16 05:12:42.493120,Round Match-Ups - 3rd Round Match-Up - S. Theegala vs H. English - 3rd Round Match-Up,Sahith Theegala,-0.01970000000000005,0.5455,0.5652
 2024-03-16 01:14:05.615873,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Rudy Gobert (MIN),-0.020199999999999996,0.8889,0.9091
 2024-03-16 03:13:14.194024,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Duke,-0.02049999999999999,0.1333,0.1538
 2024-03-16 03:13:14.194024,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Creighton,-0.02049999999999999,0.1333,0.1538
-2024-03-16 09:14:08.578180,Round Match-Ups - 3rd Round Match-Up - X. Schauffele vs R. McIlroy - 3rd Round Match-Up,Xander Schauffele,-0.02079999999999993,0.5348,0.5556
-2024-03-15 23:13:32.591727,Round Match-Ups - 3rd Round Match-Up - J. Day vs S. Im - 3rd Round Match-Up,Jason Day,-0.02079999999999993,0.5348,0.5556
 2024-03-16 09:14:08.539538,Round Match-Ups - 3rd Round Match-Up - H. Matsuyama vs C. Young - 3rd Round Match-Up,Hideki Matsuyama,-0.02079999999999993,0.5348,0.5556
-2024-03-16 03:13:37.922278,Round Match-Ups - 3rd Round Match-Up - C. Morikawa vs L. Aberg - 3rd Round Match-Up,Collin Morikawa,-0.02169999999999994,0.5238,0.5455
+2024-03-16 09:14:08.578180,Round Match-Ups - 3rd Round Match-Up - X. Schauffele vs R. McIlroy - 3rd Round Match-Up,Xander Schauffele,-0.02079999999999993,0.5348,0.5556
 2024-03-16 01:14:29.533602,Round Match-Ups - 3rd Round Match-Up - W. Clark vs M. Fitzpatrick - 3rd Round Match-Up,Wyndham Clark,-0.02169999999999994,0.5238,0.5455
+2024-03-16 03:13:37.922278,Round Match-Ups - 3rd Round Match-Up - C. Morikawa vs L. Aberg - 3rd Round Match-Up,Collin Morikawa,-0.02169999999999994,0.5238,0.5455
 2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Minkyu Kim,-0.022799999999999997,0.005,0.0278
 2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Carlos Ortiz,-0.02310000000000001,0.0769,0.1
 2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Jbe Kruger,-0.02310000000000001,0.0769,0.1
 2024-03-16 03:13:38.173431,Round Match-Ups - 3rd Round Match-Up - S. Theegala vs H. English - 3rd Round Match-Up,Harris English,-0.023799999999999988,0.4762,0.5
 2024-03-16 07:13:42.673560,Round Match-Ups - 3rd Round Match-Up - A. Eckroat v D. Ghim - 3rd Round Match-Up ,Doug Ghim,-0.023800000000000043,0.5,0.5238
-2024-03-16 03:13:14.194024,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Arizona,-0.024399999999999977,0.2353,0.2597
-2024-03-16 03:13:37.979192,Round Match-Ups - 3rd Round Match-Up - H. Matsuyama vs C. Young - 3rd Round Match-Up,Cameron Young,-0.024399999999999977,0.4878,0.5122
-2024-03-16 05:12:41.932967,Round Match-Ups - 3rd Round Match-Up - C. Conners vs T. Hoge - 3rd Round Match-Up,Tom Hoge,-0.024399999999999977,0.4878,0.5122
-2024-03-16 05:12:42.227372,Round Match-Ups - 3rd Round Match-Up - J. Day vs S. Im - 3rd Round Match-Up,Sungjae Im,-0.024399999999999977,0.4878,0.5122
 2024-03-16 03:13:38.380906,Round Match-Ups - 3rd Round Match-Up - X. Schauffele vs R. McIlroy - 3rd Round Match-Up,Rory McIlroy,-0.024399999999999977,0.4878,0.5122
+2024-03-16 05:12:42.227372,Round Match-Ups - 3rd Round Match-Up - J. Day vs S. Im - 3rd Round Match-Up,Sungjae Im,-0.024399999999999977,0.4878,0.5122
+2024-03-16 03:13:37.979192,Round Match-Ups - 3rd Round Match-Up - H. Matsuyama vs C. Young - 3rd Round Match-Up,Cameron Young,-0.024399999999999977,0.4878,0.5122
+2024-03-16 03:13:14.194024,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Arizona,-0.024399999999999977,0.2353,0.2597
+2024-03-16 05:12:41.932967,Round Match-Ups - 3rd Round Match-Up - C. Conners vs T. Hoge - 3rd Round Match-Up,Tom Hoge,-0.024399999999999977,0.4878,0.5122
 2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Ratchanon Chantananuwat,-0.024499999999999997,0.0033,0.0278
 2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Min-Gyu Cho,-0.025799999999999997,0.002,0.0278
 2024-03-16 01:14:05.652571,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Nikola Jokic (DEN),-0.027800000000000047,0.75,0.7778
 2024-03-16 01:14:05.583891,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Joe Mazzulla,-0.033399999999999985,0.1333,0.1667
 2024-03-16 01:14:05.583891,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Chris Finch,-0.03889999999999999,0.1429,0.1818
-2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Pat Perez,-0.0392,0.0196,0.0588
 2024-03-16 01:14:08.158181,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2024 NFL Draft,Safety,-0.0392,0.0196,0.0588
+2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Pat Perez,-0.0392,0.0196,0.0588
 2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Yuta Sugiura,-0.046,0.0066,0.0526
 2024-03-16 01:14:08.112253,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2024 NFL Draft,Quarterback,-0.048100000000000004,0.0769,0.125
 2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Bjorn Hellgren,-0.052199999999999996,0.0066,0.0588
