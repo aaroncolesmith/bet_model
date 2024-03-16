@@ -36,15 +36,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-15 19:14:32.549923,UEFA Europa Conference League - Europa Conference League 2023/24 - Winner,Fiorentina,0.02779999999999999,0.25,0.2222
 2024-03-15 19:14:36.231315,A1 - Greece A1 2023/2024 - Outright,Olympiakos,0.027700000000000002,0.4444,0.4167
 2024-03-15 23:13:32.591727,Round Match-Ups - 3rd Round Match-Up - J. Day vs S. Im - 3rd Round Match-Up,Sungjae Im,0.024399999999999977,0.5122,0.4878
-2024-03-16 01:14:08.112253,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2024 NFL Draft,Wide Receiver,0.024299999999999995,0.0769,0.0526
 2024-03-16 03:13:14.194024,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Florida,0.024299999999999995,0.0769,0.0526
-2024-03-16 03:13:14.194024,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Connecticut,0.023800000000000043,0.5238,0.5
+2024-03-16 01:14:08.112253,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2024 NFL Draft,Wide Receiver,0.024299999999999995,0.0769,0.0526
 2024-03-16 03:13:37.922278,Round Match-Ups - 3rd Round Match-Up - C. Morikawa vs L. Aberg - 3rd Round Match-Up,Ludvig Aberg,0.023800000000000043,0.5238,0.5
 2024-03-16 01:14:29.533602,Round Match-Ups - 3rd Round Match-Up - W. Clark vs M. Fitzpatrick - 3rd Round Match-Up,Matt Fitzpatrick,0.023800000000000043,0.5238,0.5
+2024-03-16 03:13:14.194024,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Connecticut,0.023800000000000043,0.5238,0.5
 2024-03-16 05:12:42.493120,Round Match-Ups - 3rd Round Match-Up - S. Theegala vs H. English - 3rd Round Match-Up,Harris English,0.023799999999999988,0.5,0.4762
 2024-03-16 01:14:05.395289,NCAA DI Men - 2024 American Athletic Conference Tournament - Conference Tournament Winner,Temple,0.022200000000000004,0.0345,0.0123
-2024-03-16 05:12:42.227372,Round Match-Ups - 3rd Round Match-Up - J. Day vs S. Im - 3rd Round Match-Up,Jason Day,0.02079999999999993,0.5556,0.5348
+2024-03-16 07:13:42.673560,Round Match-Ups - 3rd Round Match-Up - A. Eckroat v D. Ghim - 3rd Round Match-Up ,Austin Eckroat,0.02169999999999994,0.5455,0.5238
 2024-03-16 03:13:38.380906,Round Match-Ups - 3rd Round Match-Up - X. Schauffele vs R. McIlroy - 3rd Round Match-Up,Xander Schauffele,0.02079999999999993,0.5556,0.5348
+2024-03-16 05:12:42.227372,Round Match-Ups - 3rd Round Match-Up - J. Day vs S. Im - 3rd Round Match-Up,Jason Day,0.02079999999999993,0.5556,0.5348
 2024-03-16 03:13:37.979192,Round Match-Ups - 3rd Round Match-Up - H. Matsuyama vs C. Young - 3rd Round Match-Up,Hideki Matsuyama,0.02079999999999993,0.5556,0.5348
 2024-03-16 05:12:41.932967,Round Match-Ups - 3rd Round Match-Up - C. Conners vs T. Hoge - 3rd Round Match-Up,Corey Conners,0.02079999999999993,0.5556,0.5348
 2024-03-15 21:16:01.000233,Boxing Lines - William Zepeda vs Maxi Hughes - To Win the Bout,Maxi Hughes,0.0203,0.1379,0.1176
@@ -58,12 +59,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-15 19:14:58.690573,Boxing Lines - Eithan James vs Owen Cooper - To Win the Bout,Eithan James,0.01759999999999995,0.6667,0.6491
 2024-03-16 01:14:05.472105,NCAA DI Men - 2024 Big Ten Conference Tournament - Conference Tournament Winner,Illinois,0.016699999999999993,0.2667,0.25
 2024-03-15 19:14:58.149327,MLB Futures - MLB 2024 Regular Season Leaders - Player To Record The Most RBIs,Kyle Tucker (HOU),0.015300000000000001,0.0588,0.0435
-2024-03-15 17:14:57.281065,Futures - PGA Championship 2024 - Winner,Wyndham Clark,0.015300000000000001,0.0476,0.0323
-2024-03-16 01:14:05.514801,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Norman Powell (LAC),0.015100000000000002,0.1818,0.1667
 2024-03-16 03:13:14.194024,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Iowa State,0.015100000000000002,0.1818,0.1667
+2024-03-16 01:14:05.514801,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Norman Powell (LAC),0.015100000000000002,0.1818,0.1667
 2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Andy Ogletree,0.0145,0.0244,0.0099
 2024-03-16 01:14:04.577563,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,0.014300000000000035,0.274,0.2597
 2024-03-15 19:14:32.549923,UEFA Europa Conference League - Europa Conference League 2023/24 - Winner,Club Brugge,0.013999999999999999,0.0909,0.0769
+2024-03-16 07:13:19.723301,Euroleague - Euroleague 2023/24 - Outright,Real Madrid BC,0.013300000000000034,0.3704,0.3571
 2024-03-16 03:13:14.162302,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Houston,0.012899999999999995,0.1667,0.1538
 2024-03-16 03:13:35.746422,Boxing Lines - Nathan Heaney vs Brad Pauls - To Win the Bout,Brad Pauls,0.012500000000000011,0.2564,0.2439
 2024-03-15 19:14:57.994790,MLB Futures - MLB 2024 Player Awards - National League ROY,Jackson Merrill,0.011900000000000008,0.0952,0.0833
@@ -72,8 +73,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-16 03:13:14.194024,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Houston,0.010599999999999998,0.4651,0.4545
 2024-03-16 03:13:14.162302,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,North Carolina,0.0102,0.0769,0.0667
 2024-03-15 23:13:31.496272,Boxing Lines - Austin Aokuso vs Titi Motusaga - To Win the Bout,Titi Motusaga,-0.0102,0.0667,0.0769
-2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Poom Saksansin,-0.0103,0.002,0.0123
 2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Ervin Chang,-0.0103,0.002,0.0123
+2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Poom Saksansin,-0.0103,0.002,0.0123
 2024-03-16 03:13:36.265120,Boxing Lines - Sandy Ryan vs Terri Harper - To Win the Bout,Terri Harper,-0.010699999999999987,0.3226,0.3333
 2024-03-15 19:14:57.994790,MLB Futures - MLB 2024 Player Awards - National League ROY,Adael Amador (COL),-0.010700000000000001,0.0278,0.0385
 2024-03-15 19:14:32.250795,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Sydney FC,-0.011099999999999999,0.1,0.1111
@@ -82,8 +83,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-15 23:13:31.321147,Boxing Lines - Eric Robles vs Liam Davies - To Win the Bout,Eric Robles,-0.01150000000000001,0.3333,0.3448
 2024-03-16 03:13:14.194024,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Villanova,-0.012100000000000001,0.0123,0.0244
 2024-03-16 01:14:08.112253,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2024 NFL Draft,Linebacker,-0.0131,0.0345,0.0476
-2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Sergio Garcia,-0.0132,0.002,0.0152
 2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Yeongsu Kim,-0.0132,0.002,0.0152
+2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Sergio Garcia,-0.0132,0.002,0.0152
 2024-03-15 19:14:58.690573,Boxing Lines - Eithan James vs Owen Cooper - To Win the Bout,Owen Cooper,-0.014899999999999969,0.4,0.4149
 2024-03-16 01:14:05.514801,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Caris LeVert (CLE),-0.014900000000000004,0.0196,0.0345
 2024-03-16 03:13:14.194024,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Kentucky,-0.015100000000000002,0.1667,0.1818
@@ -99,19 +100,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-16 03:13:14.194024,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Duke,-0.02049999999999999,0.1333,0.1538
 2024-03-16 03:13:14.194024,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Creighton,-0.02049999999999999,0.1333,0.1538
 2024-03-15 23:13:32.591727,Round Match-Ups - 3rd Round Match-Up - J. Day vs S. Im - 3rd Round Match-Up,Jason Day,-0.02079999999999993,0.5348,0.5556
-2024-03-16 03:13:37.922278,Round Match-Ups - 3rd Round Match-Up - C. Morikawa vs L. Aberg - 3rd Round Match-Up,Collin Morikawa,-0.02169999999999994,0.5238,0.5455
 2024-03-16 01:14:29.533602,Round Match-Ups - 3rd Round Match-Up - W. Clark vs M. Fitzpatrick - 3rd Round Match-Up,Wyndham Clark,-0.02169999999999994,0.5238,0.5455
+2024-03-16 03:13:37.922278,Round Match-Ups - 3rd Round Match-Up - C. Morikawa vs L. Aberg - 3rd Round Match-Up,Collin Morikawa,-0.02169999999999994,0.5238,0.5455
 2024-03-15 19:14:32.250795,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Wellington Phoenix,-0.02260000000000001,0.3774,0.4
 2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Minkyu Kim,-0.022799999999999997,0.005,0.0278
-2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Jbe Kruger,-0.02310000000000001,0.0769,0.1
 2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Carlos Ortiz,-0.02310000000000001,0.0769,0.1
+2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Jbe Kruger,-0.02310000000000001,0.0769,0.1
 2024-03-16 03:13:38.173431,Round Match-Ups - 3rd Round Match-Up - S. Theegala vs H. English - 3rd Round Match-Up,Harris English,-0.023799999999999988,0.4762,0.5
+2024-03-16 07:13:42.673560,Round Match-Ups - 3rd Round Match-Up - A. Eckroat v D. Ghim - 3rd Round Match-Up ,Doug Ghim,-0.023800000000000043,0.5,0.5238
 2024-03-15 19:14:32.223130,A-League - Australia A-League 2023/24 - Top 6 Finish,Newcastle United Jets,-0.0242,0.0667,0.0909
 2024-03-16 05:12:42.227372,Round Match-Ups - 3rd Round Match-Up - J. Day vs S. Im - 3rd Round Match-Up,Sungjae Im,-0.024399999999999977,0.4878,0.5122
-2024-03-16 03:13:37.979192,Round Match-Ups - 3rd Round Match-Up - H. Matsuyama vs C. Young - 3rd Round Match-Up,Cameron Young,-0.024399999999999977,0.4878,0.5122
-2024-03-16 05:12:41.932967,Round Match-Ups - 3rd Round Match-Up - C. Conners vs T. Hoge - 3rd Round Match-Up,Tom Hoge,-0.024399999999999977,0.4878,0.5122
 2024-03-16 03:13:38.380906,Round Match-Ups - 3rd Round Match-Up - X. Schauffele vs R. McIlroy - 3rd Round Match-Up,Rory McIlroy,-0.024399999999999977,0.4878,0.5122
 2024-03-16 03:13:14.194024,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Arizona,-0.024399999999999977,0.2353,0.2597
+2024-03-16 05:12:41.932967,Round Match-Ups - 3rd Round Match-Up - C. Conners vs T. Hoge - 3rd Round Match-Up,Tom Hoge,-0.024399999999999977,0.4878,0.5122
+2024-03-16 03:13:37.979192,Round Match-Ups - 3rd Round Match-Up - H. Matsuyama vs C. Young - 3rd Round Match-Up,Cameron Young,-0.024399999999999977,0.4878,0.5122
 2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Ratchanon Chantananuwat,-0.024499999999999997,0.0033,0.0278
 2024-03-16 03:13:39.024741,International Series Macau - International Series Macau - Winner,Min-Gyu Cho,-0.025799999999999997,0.002,0.0278
 2024-03-16 01:14:05.652571,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Nikola Jokic (DEN),-0.027800000000000047,0.75,0.7778
