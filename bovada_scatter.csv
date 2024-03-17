@@ -1,6 +1,9 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-16 21:13:32.361020,Boxing Lines - Jorge Masvidal vs Nate Diaz - To Win the Bout,Nate Diaz,0.42779999999999996,0.7403,0.3125
+2024-03-17 07:10:14.189929,League One - England - League One 2023/24 - Top 2 Finish,Derby County,0.26990000000000003,0.7143,0.4444
 2024-03-16 23:14:02.911217,League One - England - League One 2023/24 - League Winner,Portsmouth,0.2126,0.7778,0.5652
+2024-03-17 07:10:14.205644,League One - England - League One 2023/24 - Top 6 Finish,Oxford United,0.2,0.4,0.2
+2024-03-17 07:10:14.176798,League One - England - League One 2023/24 - To Be Promoted,Derby County,0.19690000000000007,0.8333,0.6364
 2024-03-16 23:14:02.999317,League Two - England - League Two 2023/24 - League Winner,Mansfield Town,0.1745,0.6,0.4255
 2024-03-16 19:12:21.765400,A-League - Australia A-League 2023/24 - Top 6 Finish,Melbourne Victory,0.1471,0.9804,0.8333
 2024-03-16 19:12:21.765400,A-League - Australia A-League 2023/24 - Top 6 Finish,Macarthur FC,0.125,0.875,0.75
@@ -8,57 +11,78 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-17 03:13:55.893837,Totals - Final Round Birdies - Rory McIlroy - Final Round Birdies,Under 4.5,0.12080000000000002,0.5652,0.4444
 2024-03-16 19:12:21.790542,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Central Coast Mariners,0.11119999999999997,0.5556,0.4444
 2024-03-16 19:12:21.741814,A-League - Australia A-League 2023/24 - To Finish Bottom,Newcastle United Jets,0.11110000000000003,0.4444,0.3333
+2024-03-17 07:10:14.189929,League One - England - League One 2023/24 - Top 2 Finish,Portsmouth,0.10909999999999997,0.9091,0.8
 2024-03-16 23:14:02.335214,FA Cup - FA Cup 2023/24 - Outright,Manchester City,0.09830000000000005,0.5238,0.4255
+2024-03-17 07:10:14.163549,League One - England - League One 2023/24 - Top Goalscorer,Alfie May,0.09229999999999994,0.6667,0.5744
 2024-03-16 19:12:21.765400,A-League - Australia A-League 2023/24 - Top 6 Finish,Sydney FC,0.08179999999999998,0.9,0.8182
 2024-03-17 01:10:16.176784,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Hibernian,0.07619999999999993,0.6,0.5238
+2024-03-17 07:10:14.205644,League One - England - League One 2023/24 - Top 6 Finish,Lincoln City,0.07500000000000001,0.2,0.125
 2024-03-17 01:10:16.205510,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Motherwell,0.0726,0.9615,0.8889
 2024-03-16 21:13:33.856262,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - T. Montgomery vs H. Matsuyama - Final Round 2 Balls,Hideki Matsuyama,0.06969999999999998,0.6923,0.6226
 2024-03-16 23:14:28.453395,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - R. Fowler vs G. Murray - Final Round 2 Balls,Grayson Murray,0.067,0.4444,0.3774
 2024-03-17 01:10:21.886911,NFL Draft - Player Markets - Positional Groups - Caleb Williams 1st QB Drafted / Marvin Harrison Jr 1st WR Drafted Exacta,Yes,0.0625,0.9375,0.875
 2024-03-17 01:10:21.609013,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Jayden Daniels / 3. Drake Maye,0.0595,0.4762,0.4167
+2024-03-17 07:10:40.894438,Scores - Final Round Score - Brian Harman - Final Round Score,Under 70.5,0.05860000000000004,0.5348,0.4762
+2024-03-17 07:10:41.265574,Scores - Final Round Score - Wyndham Clark - Final Round Score,Under 70.5,0.057699999999999974,0.5122,0.4545
 2024-03-17 03:13:29.107994,Central Division - Central Division 2023-24 - Division Winner,Milwaukee Bucks,0.057699999999999974,0.75,0.6923
 2024-03-16 21:13:33.296316,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - A. Rai vs J. Knapp - Final Round 2 Balls,Aaron Rai,0.05740000000000001,0.6226,0.5652
 2024-03-17 01:10:16.137771,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Livingston,0.05730000000000002,0.9804,0.9231
+2024-03-17 07:10:41.365164,Totals - Final Round Birdies - Brian Harman - Final Round Birdies,Over 4.5,0.05689999999999995,0.5917,0.5348
 2024-03-17 01:10:41.029651,Boxing Lines - Conor Wallace vs Jack Gipp - To Win the Bout,Jack Gipp,0.0562,0.2667,0.2105
 2024-03-16 19:12:21.765400,A-League - Australia A-League 2023/24 - Top 6 Finish,Melbourne City,0.05590000000000006,0.6923,0.6364
+2024-03-17 07:10:41.563273,Totals - Final Round Birdies - Rory McIlroy - Final Round Birdies,Over 4.5,0.05559999999999998,0.5556,0.5
 2024-03-17 01:10:21.778261,NFL Draft - Player Markets - Positional Groups - 1st QB Selected,Caleb Williams,0.05249999999999999,0.9756,0.9231
-2024-03-16 17:14:46.299543,NFL Draft - Pick Markets - Draft Picks - #1 Pick,Caleb Williams,0.05249999999999999,0.9756,0.9231
 2024-03-16 21:13:32.701320,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - F. Molinari vs A. Putnam - Final Round 2 Balls,Andrew Putnam,0.04910000000000003,0.6491,0.6
-2024-03-16 17:14:46.363751,NFL Draft - Pick Markets - Draft Picks - #3 Pick,Drake Maye,0.045499999999999985,0.5455,0.5
 2024-03-17 03:13:29.238980,Southwest Division - Southwest Division 2023-24 - Division Winner,New Orleans Pelicans,0.044500000000000095,0.7778,0.7333
 2024-03-16 19:12:21.718980,A-League - Australia A-League 2023/24 - Grand Final Winner,Central Coast Mariners,0.044499999999999984,0.2667,0.2222
 2024-03-16 21:13:33.043737,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - D. Wu vs K. Kirayama - Final Round 2 Balls,Kurt Kitayama,0.044399999999999995,0.6,0.5556
+2024-03-17 07:10:14.176798,League One - England - League One 2023/24 - To Be Promoted,Portsmouth,0.043300000000000005,0.9524,0.9091
 2024-03-17 01:10:16.045323,Premiership - Scotland Premiership 2023/24 - Winner,Celtic,0.04089999999999999,0.4255,0.3846
 2024-03-16 23:14:02.911217,League One - England - League One 2023/24 - League Winner,Derby County,0.04040000000000002,0.2222,0.1818
-2024-03-16 17:14:46.363751,NFL Draft - Pick Markets - Draft Picks - #3 Pick,Marvin Harrison Jr.,0.04040000000000002,0.2222,0.1818
 2024-03-16 19:12:21.741814,A-League - Australia A-League 2023/24 - To Finish Bottom,Perth Glory,0.03889999999999999,0.1818,0.1429
 2024-03-17 05:12:35.360074,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Stephen Curry (GSW),0.0378,0.4545,0.4167
+2024-03-17 07:10:13.568995,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Vélez Sarsfield,0.0373,0.0667,0.0294
 2024-03-16 23:14:02.287189,Championship - England Championship 2023/24 - League Winner,Leicester City,0.03710000000000002,0.6923,0.6552
 2024-03-16 21:13:32.865718,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - V. Hovland vs J. Stanger - Final Round 2 Balls,Viktor Hovland,0.03710000000000002,0.6923,0.6552
 2024-03-17 03:13:55.536615,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 68.5,0.03489999999999999,0.5,0.4651
+2024-03-17 07:10:41.690755,Totals - Final Round Birdies - Sam Burns - Final Round Birdies,Over 4.5,0.03489999999999999,0.5,0.4651
+2024-03-17 07:10:41.764344,Totals - Final Round Birdies - Wyndham Clark - Final Round Birdies,Over 4.5,0.03489999999999999,0.5,0.4651
+2024-03-17 07:10:41.503610,Totals - Final Round Birdies - Matt Fitzpatrick - Final Round Birdies,Over 4.5,0.03489999999999999,0.5,0.4651
 2024-03-17 03:13:55.408460,Scores - Final Round Score - Rory McIlroy - Final Round Score,Over 69.5,0.03480000000000005,0.5348,0.5
+2024-03-17 07:10:13.568995,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Godoy Cruz,0.03420000000000001,0.1111,0.0769
+2024-03-17 07:10:41.727741,Totals - Final Round Birdies - Scottie Scheffler - Final Round Birdies,Over 4.5,0.030399999999999983,0.5652,0.5348
+2024-03-17 07:10:41.420327,Totals - Final Round Birdies - Hideki Matsuyama - Final Round Birdies,Over 4.5,0.030399999999999983,0.5652,0.5348
+2024-03-17 07:10:14.176798,League One - England - League One 2023/24 - To Be Promoted,Oxford United,0.029299999999999993,0.0769,0.0476
 2024-03-17 01:10:21.540593,NFL Draft - Pick Markets - Draft Picks - #2 Pick,J.J. McCarthy,0.028399999999999995,0.0909,0.0625
 2024-03-16 23:14:02.335214,FA Cup - FA Cup 2023/24 - Outright,Coventry City,0.028000000000000004,0.0476,0.0196
 2024-03-17 01:10:21.575250,NFL Draft - Pick Markets - Draft Picks - #3 Pick,J.J. McCarthy,0.027999999999999997,0.1818,0.1538
+2024-03-17 07:10:14.143414,League One - England - League One 2023/24 - League Winner,Derby County,0.02779999999999999,0.25,0.2222
 2024-03-17 01:10:44.828124,Round Match-Ups - Final Round Match-Up - S. Scheffler vs X. Schauffele - Final Round Match-Up,Scottie Scheffler,0.027700000000000058,0.5833,0.5556
+2024-03-17 07:10:39.774588,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - J. Dahmen vs A. Eckroat - Final Round 2 Balls,Austin Eckroat,0.027700000000000058,0.5833,0.5556
 2024-03-17 03:13:51.162090,Boxing Lines - James Flint vs Campbell Hatton - To Win the Bout,Campbell Hatton,0.026499999999999968,0.6491,0.6226
 2024-03-17 03:13:55.648506,Scores - Final Round Score - Xander Schauffele - Final Round Score,Under 70.5,0.025599999999999956,0.6,0.5744
+2024-03-17 07:10:41.462275,Totals - Final Round Birdies - Ludvig Aberg - Final Round Birdies,Over 4.5,0.025599999999999956,0.6,0.5744
 2024-03-17 01:10:21.927594,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,Minnesota Vikings,0.025300000000000003,0.1429,0.1176
 2024-03-17 03:13:51.239517,Boxing Lines - Ishmael Davis vs Troy Williamson - To Win the Bout,Ishmael Davis,0.02440000000000009,0.7647,0.7403
 2024-03-16 23:14:26.545286,Boxing Lines - Austin Aokuso vs Titi Motusaga - To Win the Bout,Titi Motusaga,0.0242,0.0909,0.0667
+2024-03-17 07:10:13.568995,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Talleres,0.02310000000000001,0.1,0.0769
 2024-03-16 23:14:02.287189,Championship - England Championship 2023/24 - League Winner,Ipswich Town,0.02310000000000001,0.1,0.0769
 2024-03-16 23:14:29.227551,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - J. Day vs N. Taylor - Final Round 2 Balls,Nick Taylor,0.022699999999999998,0.4878,0.4651
-2024-03-16 21:13:32.529307,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - R. Fowler vs G. Murray - Final Round 2 Balls,Rickie Fowler,0.022600000000000064,0.6226,0.6
+2024-03-17 07:10:41.308614,Scores - Final Round Score - Xander Schauffele - Final Round Score,Under 70.5,0.022600000000000064,0.6226,0.6
+2024-03-17 07:10:41.037322,Scores - Final Round Score - Matt Fitzpatrick - Final Round Score,Under 70.5,0.022600000000000064,0.5348,0.5122
 2024-03-17 01:10:44.545215,Round Match-Ups - Final Round Match-Up - D. Ghim vs E. Grillo - Final Round Match-Up,Emiliano Grillo,0.022600000000000064,0.5348,0.5122
+2024-03-16 21:13:32.529307,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - R. Fowler vs G. Murray - Final Round 2 Balls,Rickie Fowler,0.022600000000000064,0.6226,0.6
 2024-03-17 01:10:19.249622,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Purdue,0.022199999999999998,0.1333,0.1111
 2024-03-17 01:10:21.927594,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,Chicago Bears,0.0208,0.0833,0.0625
-2024-03-16 21:13:33.092544,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - S. Valimaki vs M. Hughes - Final Round 2 Balls,Mackenzie Hughes,0.02079999999999993,0.5556,0.5348
 2024-03-16 21:13:32.743643,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - B. Martin vs T. Duncan - Final Round 2 Balls,Tyler Duncan,0.02079999999999993,0.5556,0.5348
+2024-03-16 21:13:33.092544,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - S. Valimaki vs M. Hughes - Final Round 2 Balls,Mackenzie Hughes,0.02079999999999993,0.5556,0.5348
 2024-03-17 03:13:55.978715,Totals - Final Round Birdies - Sam Burns - Final Round Birdies,Over 4.5,0.020699999999999996,0.4651,0.4444
 2024-03-16 23:14:26.695809,Boxing Lines - Conor Wallace vs Jack Gipp - To Win the Bout,Jack Gipp,0.01999999999999999,0.2105,0.1905
 2024-03-17 01:10:19.196434,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,USC,0.0189,0.0385,0.0196
+2024-03-17 07:10:14.205644,League One - England - League One 2023/24 - Top 6 Finish,Leyton Orient,0.0189,0.0385,0.0196
 2024-03-17 01:10:21.927594,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,Washington Commanders,0.01880000000000004,0.6552,0.6364
 2024-03-17 01:10:19.283467,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Iowa State,0.01820000000000002,0.2,0.1818
+2024-03-17 07:10:13.788471,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,Necaxa,0.018200000000000004,0.0476,0.0294
 2024-03-16 21:13:33.177366,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - L. Hodges vs C. Kirk - Final Round 2 Balls,Chris Kirk,0.018100000000000005,0.5833,0.5652
 2024-03-17 01:10:21.609013,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Jayden Daniels / 3. Marvin Harrison Jr,0.01759999999999999,0.1176,0.1
 2024-03-17 03:13:51.124266,Boxing Lines - Dillian Whyte vs Christian Hammer - To Win the Bout,Christian Hammer,0.016700000000000007,0.1,0.0833
@@ -67,8 +91,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-17 05:12:35.360074,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Shai Gilgeous-Alexander (OKC),0.015300000000000001,0.0476,0.0323
 2024-03-17 05:12:31.112757,MLS - USA MLS 2024 - Futures - Winner,Inter Miami,0.014900000000000024,0.3226,0.3077
 2024-03-16 21:13:07.669272,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Liverpool,0.014900000000000024,0.3226,0.3077
-2024-03-16 23:14:02.335214,FA Cup - FA Cup 2023/24 - Outright,Liverpool,0.01469999999999999,0.25,0.2353
 2024-03-17 01:10:19.283467,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Arizona,0.01469999999999999,0.25,0.2353
+2024-03-16 23:14:02.335214,FA Cup - FA Cup 2023/24 - Outright,Liverpool,0.01469999999999999,0.25,0.2353
 2024-03-17 01:10:16.205510,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,St. Mirren,0.014100000000000001,0.0526,0.0385
 2024-03-16 21:13:06.915443,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayern Munich,0.013899999999999996,0.125,0.1111
 2024-03-16 21:13:33.384109,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - T. Moore vs C. Morikawa - Final Round 2 Balls,Collin Morikawa,0.013799999999999923,0.6364,0.6226
@@ -76,114 +100,143 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-16 19:12:46.886784,Boxing Lines - Matt Floyd vs Cole Smith - To Win the Bout,Matt Floyd,0.0131,0.9655,0.9524
 2024-03-17 05:12:35.488176,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Jayson Tatum (BOS),0.012700000000000003,0.0323,0.0196
 2024-03-17 01:10:21.540593,NFL Draft - Pick Markets - Draft Picks - #2 Pick,Jayden Daniels,0.012299999999999978,0.6552,0.6429
-2024-03-16 21:13:33.940390,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - M. Fitzpatrick vs S. Theegala - Final Round 2 Balls,Matt Fitzpatrick,0.011600000000000055,0.5238,0.5122
+2024-03-17 07:10:41.651876,Totals - Final Round Birdies - Sahith Theegala - Final Round Birdies,Over 4.5,0.012199999999999989,0.5,0.4878
 2024-03-16 23:14:29.421506,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - M. Schmid vs P. Malnati - Final Round 2 Balls,Matti Schmid,0.011600000000000055,0.5238,0.5122
+2024-03-16 21:13:33.940390,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - M. Fitzpatrick vs S. Theegala - Final Round 2 Balls,Matt Fitzpatrick,0.011600000000000055,0.5238,0.5122
 2024-03-17 01:10:19.249622,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Iowa State,0.011500000000000003,0.05,0.0385
 2024-03-17 01:10:16.137771,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,St. Johnstone,0.011199999999999995,0.0588,0.0476
+2024-03-17 07:10:16.674953,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Wisconsin,0.011199999999999995,0.0588,0.0476
+2024-03-17 07:10:13.568995,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Estudiantes de La Plata,0.011099999999999999,0.1111,0.1
 2024-03-16 21:13:33.516058,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - S.W. Kim vs E. Grillo - Final Round 2 Balls,Emiliano Grillo,0.011099999999999999,0.4762,0.4651
 2024-03-16 19:12:21.718980,A-League - Australia A-League 2023/24 - Grand Final Winner,Sydney FC,0.010899999999999993,0.1538,0.1429
 2024-03-17 03:13:29.017364,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Boston Celtics,0.010699999999999932,0.5455,0.5348
 2024-03-17 01:10:21.575250,NFL Draft - Pick Markets - Draft Picks - #3 Pick,Drake Maye,0.010099999999999998,0.5556,0.5455
-2024-03-16 21:13:07.669272,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Manchester City,-0.010099999999999998,0.4444,0.4545
 2024-03-17 05:12:54.369587,Boxing Lines - Sandy Ryan vs Terri Harper - To Win the Bout,Terri Harper,-0.010099999999999998,0.3125,0.3226
+2024-03-16 21:13:07.669272,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Manchester City,-0.010099999999999998,0.4444,0.4545
+2024-03-17 07:10:13.568995,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Argentinos Juniors,-0.0102,0.0667,0.0769
 2024-03-17 01:10:19.249622,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,North Carolina,-0.0102,0.0667,0.0769
+2024-03-17 07:10:13.568995,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Huracán,-0.0103,0.002,0.0123
 2024-03-16 21:13:31.004865,Boxing Lines - Sandy Ryan vs Terri Harper - To Win the Bout,Terri Harper,-0.010699999999999987,0.3226,0.3333
-2024-03-17 01:10:19.196434,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Iowa,-0.010899999999999993,0.1429,0.1538
 2024-03-17 01:10:21.609013,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Jayden Daniels / 3. J.J. McCarthy,-0.010899999999999993,0.1429,0.1538
-2024-03-16 23:14:29.421506,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - M. Schmid vs P. Malnati - Final Round 2 Balls,Peter Malnati,-0.01100000000000001,0.5238,0.5348
+2024-03-17 01:10:19.196434,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Iowa,-0.010899999999999993,0.1429,0.1538
+2024-03-17 07:10:13.568995,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Banfield,-0.0109,0.004,0.0149
 2024-03-16 21:13:33.940390,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - M. Fitzpatrick vs S. Theegala - Final Round 2 Balls,Sahith Theegala,-0.01100000000000001,0.5238,0.5348
+2024-03-16 23:14:29.421506,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - M. Schmid vs P. Malnati - Final Round 2 Balls,Peter Malnati,-0.01100000000000001,0.5238,0.5348
 2024-03-16 21:13:33.177366,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - L. Hodges vs C. Kirk - Final Round 2 Balls,Lee Hodges,-0.011099999999999999,0.4651,0.4762
 2024-03-16 21:13:06.915443,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayer Leverkusen,-0.011199999999999988,0.9412,0.9524
-2024-03-17 01:10:14.737896,La Liga - Spain La Liga 2023/24 - Winner,FC Barcelona,-0.011199999999999995,0.0476,0.0588
 2024-03-17 01:10:19.196434,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Stanford,-0.011199999999999995,0.0476,0.0588
+2024-03-17 01:10:14.737896,La Liga - Spain La Liga 2023/24 - Winner,FC Barcelona,-0.011199999999999995,0.0476,0.0588
 2024-03-17 01:10:21.927594,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,New Orleans Saints,-0.011200000000000002,0.0132,0.0244
-2024-03-16 17:14:46.363751,NFL Draft - Pick Markets - Draft Picks - #3 Pick,Bo Nix,-0.011399999999999997,0.0164,0.0278
-2024-03-16 17:14:46.363751,NFL Draft - Pick Markets - Draft Picks - #3 Pick,Michael Penix Jr.,-0.011399999999999997,0.0164,0.0278
-2024-03-16 17:14:46.299543,NFL Draft - Pick Markets - Draft Picks - #1 Pick,Michael Penix Jr.,-0.0118,0.0099,0.0217
 2024-03-16 19:12:21.718980,A-League - Australia A-League 2023/24 - Grand Final Winner,Melbourne Victory,-0.0131,0.2222,0.2353
-2024-03-16 17:14:46.299543,NFL Draft - Pick Markets - Draft Picks - #1 Pick,J.J. McCarthy,-0.014099999999999998,0.0244,0.0385
-2024-03-16 17:14:46.363751,NFL Draft - Pick Markets - Draft Picks - #3 Pick,Olumuyiwa Fashanu,-0.014599999999999998,0.0132,0.0278
 2024-03-17 01:10:21.540593,NFL Draft - Pick Markets - Draft Picks - #2 Pick,Caleb Williams,-0.014899999999999997,0.0476,0.0625
 2024-03-16 23:14:27.680576,Boxing Lines - Tim Tszyu vs Keith Thurman - To Win the Bout,Keith Thurman,-0.015100000000000002,0.1667,0.1818
-2024-03-16 17:14:46.299543,NFL Draft - Pick Markets - Draft Picks - #1 Pick,Marvin Harrison Jr.,-0.015300000000000001,0.0323,0.0476
+2024-03-17 07:10:14.143414,League One - England - League One 2023/24 - League Winner,Bolton Wanderers,-0.015300000000000001,0.0435,0.0588
 2024-03-17 01:10:19.283467,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Purdue,-0.015400000000000025,0.3846,0.4
-2024-03-16 17:14:46.363751,NFL Draft - Pick Markets - Draft Picks - #3 Pick,Caleb Williams,-0.0159,0.0164,0.0323
 2024-03-17 01:10:21.575250,NFL Draft - Pick Markets - Draft Picks - #3 Pick,Joe Alt,-0.0162,0.0132,0.0294
 2024-03-17 05:12:54.763933,Boxing Lines - Sebastian Fundora vs Serhii Bohachuk - To Win the Bout,Sebastian Fundora,-0.01639999999999997,0.6503,0.6667
 2024-03-17 01:10:41.073354,Boxing Lines - Dillian Whyte vs Christian Hammer - To Win the Bout,Christian Hammer,-0.016700000000000007,0.0833,0.1
 2024-03-17 01:10:16.045323,Premiership - Scotland Premiership 2023/24 - Winner,Rangers,-0.01759999999999995,0.6491,0.6667
 2024-03-17 03:13:29.152713,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,-0.017600000000000005,0.2564,0.274
 2024-03-16 23:14:26.695809,Boxing Lines - Conor Wallace vs Jack Gipp - To Win the Bout,Conor Wallace,-0.017900000000000027,0.8571,0.875
+2024-03-17 07:10:14.163549,League One - England - League One 2023/24 - Top Goalscorer,Dion Charles,-0.018200000000000004,0.0294,0.0476
 2024-03-17 01:10:19.249622,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Connecticut,-0.01820000000000002,0.1818,0.2
 2024-03-16 23:14:29.227551,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - J. Day vs N. Taylor - Final Round 2 Balls,Jason Day,-0.01880000000000004,0.5556,0.5744
+2024-03-17 07:10:13.568995,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Racing Club,-0.019099999999999992,0.0476,0.0667
 2024-03-17 03:13:51.239517,Boxing Lines - Ishmael Davis vs Troy Williamson - To Win the Bout,Troy Williamson,-0.019600000000000006,0.303,0.3226
-2024-03-16 19:12:21.741814,A-League - Australia A-League 2023/24 - To Finish Bottom,Adelaide United,-0.02020000000000001,0.0909,0.1111
 2024-03-16 23:14:02.335214,FA Cup - FA Cup 2023/24 - Outright,Manchester United,-0.02020000000000001,0.0909,0.1111
+2024-03-16 19:12:21.741814,A-League - Australia A-League 2023/24 - To Finish Bottom,Adelaide United,-0.02020000000000001,0.0909,0.1111
+2024-03-17 07:10:13.568995,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Independiente,-0.02020000000000001,0.0909,0.1111
 2024-03-16 19:12:21.718980,A-League - Australia A-League 2023/24 - Grand Final Winner,Melbourne City,-0.02049999999999999,0.1333,0.1538
 2024-03-16 21:13:32.657559,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - P. Cantlay vs M. Lee - Final Round 2 Balls,Min Woo Lee,-0.020699999999999996,0.4444,0.4651
+2024-03-17 07:10:41.308614,Scores - Final Round Score - Xander Schauffele - Final Round Score,Over 70.5,-0.020699999999999996,0.4444,0.4651
+2024-03-17 07:10:41.037322,Scores - Final Round Score - Matt Fitzpatrick - Final Round Score,Over 70.5,-0.02079999999999993,0.5348,0.5556
 2024-03-17 03:13:55.606072,Scores - Final Round Score - Wyndham Clark - Final Round Score,Under 70.5,-0.021699999999999997,0.4545,0.4762
 2024-03-16 23:14:02.287189,Championship - England Championship 2023/24 - League Winner,Leeds United,-0.021999999999999964,0.2857,0.3077
-2024-03-16 17:14:46.363751,NFL Draft - Pick Markets - Draft Picks - #3 Pick,Jayden Daniels,-0.02260000000000001,0.3774,0.4
 2024-03-17 01:10:21.927594,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,New England Patriots,-0.02260000000000001,0.3774,0.4
+2024-03-17 01:10:44.545215,Round Match-Ups - Final Round Match-Up - D. Ghim vs E. Grillo - Final Round Match-Up,Doug Ghim,-0.022600000000000064,0.5122,0.5348
 2024-03-17 03:13:55.978715,Totals - Final Round Birdies - Sam Burns - Final Round Birdies,Under 4.5,-0.022600000000000064,0.6,0.6226
 2024-03-17 01:10:42.752396,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - R. Fowler vs G. Murray - Final Round 2 Balls,Rickie Fowler,-0.022600000000000064,0.6,0.6226
-2024-03-17 01:10:44.545215,Round Match-Ups - Final Round Match-Up - D. Ghim vs E. Grillo - Final Round Match-Up,Doug Ghim,-0.022600000000000064,0.5122,0.5348
+2024-03-17 07:10:41.462275,Totals - Final Round Birdies - Ludvig Aberg - Final Round Birdies,Under 4.5,-0.022699999999999998,0.4651,0.4878
+2024-03-17 07:10:39.774588,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - J. Dahmen vs A. Eckroat - Final Round 2 Balls,Joel Dahmen,-0.022699999999999998,0.4651,0.4878
 2024-03-17 01:10:44.828124,Round Match-Ups - Final Round Match-Up - S. Scheffler vs X. Schauffele - Final Round Match-Up,Xander Schauffele,-0.022699999999999998,0.4651,0.4878
 2024-03-16 19:12:21.718980,A-League - Australia A-League 2023/24 - Grand Final Winner,Brisbane Roar,-0.0236,0.0149,0.0385
 2024-03-17 01:10:19.249622,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Houston,-0.023799999999999988,0.1429,0.1667
+2024-03-17 07:10:13.568995,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Boca Juniors,-0.023799999999999988,0.1429,0.1667
 2024-03-17 01:10:21.927594,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,Denver Broncos,-0.024,0.0385,0.0625
 2024-03-16 21:13:33.092544,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - S. Valimaki vs M. Hughes - Final Round 2 Balls,Sami Valimaki,-0.024399999999999977,0.4878,0.5122
 2024-03-16 21:13:32.743643,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - B. Martin vs T. Duncan - Final Round 2 Balls,Ben Martin,-0.024399999999999977,0.4878,0.5122
 2024-03-17 01:10:19.249622,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Tennessee,-0.0245,0.0588,0.0833
+2024-03-17 07:10:14.163549,League One - England - League One 2023/24 - Top Goalscorer,Colby Bishop,-0.024999999999999994,0.1,0.125
 2024-03-17 03:13:29.152713,Northwest Division - Northwest Division 2023-24 - Division Winner,Denver Nuggets,-0.02739999999999998,0.7059,0.7333
 2024-03-17 03:13:51.162090,Boxing Lines - James Flint vs Campbell Hatton - To Win the Bout,James Flint,-0.027700000000000002,0.4167,0.4444
+2024-03-17 07:10:14.143414,League One - England - League One 2023/24 - League Winner,Portsmouth,-0.027800000000000047,0.75,0.7778
 2024-03-17 01:10:21.927594,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,Las Vegas Raiders,-0.028399999999999995,0.0625,0.0909
+2024-03-17 07:10:14.163549,League One - England - League One 2023/24 - Top Goalscorer,Jamie Reid,-0.028799999999999992,0.125,0.1538
 2024-03-17 01:10:21.609013,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Marvin Harrison Jr / 3. Drake Maye,-0.0294,0.0294,0.0588
 2024-03-17 01:10:19.283467,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Final 4,Houston,-0.030299999999999994,0.4348,0.4651
 2024-03-17 03:13:55.408460,Scores - Final Round Score - Rory McIlroy - Final Round Score,Under 69.5,-0.030399999999999983,0.5348,0.5652
+2024-03-17 07:10:13.568995,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Rosario Central,-0.03270000000000001,0.0149,0.0476
+2024-03-17 07:10:13.788471,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,Cruz Azul,-0.033399999999999985,0.1333,0.1667
 2024-03-16 19:12:21.790542,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Macarthur FC,-0.0335,0.005,0.0385
 2024-03-16 21:13:32.865718,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - V. Hovland vs J. Stanger - Final Round 2 Balls,Jimmy Stanger,-0.03370000000000001,0.3509,0.3846
 2024-03-16 23:14:02.911217,League One - England - League One 2023/24 - League Winner,Barnsley,-0.0344,0.0244,0.0588
+2024-03-17 07:10:41.503610,Totals - Final Round Birdies - Matt Fitzpatrick - Final Round Birdies,Under 4.5,-0.03479999999999994,0.5652,0.6
+2024-03-17 07:10:41.690755,Totals - Final Round Birdies - Sam Burns - Final Round Birdies,Under 4.5,-0.03479999999999994,0.5652,0.6
+2024-03-17 07:10:41.764344,Totals - Final Round Birdies - Wyndham Clark - Final Round Birdies,Under 4.5,-0.03479999999999994,0.5652,0.6
 2024-03-17 03:13:55.536615,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Under 68.5,-0.03479999999999994,0.5652,0.6
+2024-03-17 07:10:41.727741,Totals - Final Round Birdies - Scottie Scheffler - Final Round Birdies,Under 4.5,-0.03480000000000005,0.5,0.5348
+2024-03-17 07:10:41.420327,Totals - Final Round Birdies - Hideki Matsuyama - Final Round Birdies,Under 4.5,-0.03480000000000005,0.5,0.5348
 2024-03-17 03:13:55.648506,Scores - Final Round Score - Xander Schauffele - Final Round Score,Over 70.5,-0.03489999999999999,0.4651,0.5
+2024-03-17 07:10:14.176798,League One - England - League One 2023/24 - To Be Promoted,Blackpool,-0.035699999999999996,0.0476,0.0833
 2024-03-16 19:12:21.790542,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Melbourne City,-0.0365,0.002,0.0385
 2024-03-17 03:13:29.238980,Southwest Division - Southwest Division 2023-24 - Division Winner,Dallas Mavericks,-0.03689999999999999,0.2857,0.3226
-2024-03-16 17:14:46.299543,NFL Draft - Pick Markets - Draft Picks - #1 Pick,Drake Maye,-0.037500000000000006,0.0625,0.1
+2024-03-17 07:10:14.163549,League One - England - League One 2023/24 - Top Goalscorer,Devante Cole,-0.03889999999999999,0.1429,0.1818
 2024-03-16 21:13:33.043737,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - D. Wu vs K. Kirayama - Final Round 2 Balls,Dylan Wu,-0.043399999999999994,0.4444,0.4878
 2024-03-16 21:13:32.701320,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - F. Molinari vs A. Putnam - Final Round 2 Balls,Francesco Molinari,-0.044399999999999995,0.4,0.4444
 2024-03-17 01:10:16.205510,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Dundee FC,-0.04469999999999996,0.5917,0.6364
-2024-03-16 17:14:46.363751,NFL Draft - Pick Markets - Draft Picks - #3 Pick,J.J. McCarthy,-0.04620000000000002,0.1538,0.2
 2024-03-16 21:13:33.856262,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - T. Montgomery vs H. Matsuyama - Final Round 2 Balls,Taylor Montgomery,-0.04630000000000001,0.3704,0.4167
 2024-03-17 01:10:16.137771,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Ross County,-0.048100000000000004,0.0769,0.125
 2024-03-17 01:10:21.778261,NFL Draft - Player Markets - Positional Groups - 1st QB Selected,Drake Maye,-0.048600000000000004,0.0625,0.1111
 2024-03-17 01:10:21.609013,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Marvin Harrison Jr / 3. Jayden Daniels,-0.048799999999999996,0.0345,0.0833
-2024-03-17 01:10:21.609013,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Drake Maye / 3. J.J. McCarthy,-0.04909999999999999,0.1176,0.1667
 2024-03-17 01:10:21.609013,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Drake Maye / 3. Marvin Harrison Jr,-0.04909999999999999,0.1176,0.1667
+2024-03-17 01:10:21.609013,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Drake Maye / 3. J.J. McCarthy,-0.04909999999999999,0.1176,0.1667
 2024-03-16 21:13:33.296316,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - A. Rai vs J. Knapp - Final Round 2 Balls,Jake Knapp,-0.05070000000000002,0.4255,0.4762
 2024-03-17 05:12:35.360074,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,DeMar DeRozan (CHI),-0.05130000000000001,0.6154,0.6667
+2024-03-17 07:10:41.265574,Scores - Final Round Score - Wyndham Clark - Final Round Score,Over 70.5,-0.052200000000000024,0.5556,0.6078
+2024-03-17 07:10:41.563273,Totals - Final Round Birdies - Rory McIlroy - Final Round Birdies,Under 4.5,-0.05300000000000005,0.5122,0.5652
 2024-03-17 01:10:21.575250,NFL Draft - Pick Markets - Draft Picks - #3 Pick,Marvin Harrison Jr.,-0.05550000000000002,0.1667,0.2222
+2024-03-17 07:10:40.894438,Scores - Final Round Score - Brian Harman - Final Round Score,Over 70.5,-0.05689999999999995,0.5348,0.5917
 2024-03-17 01:10:41.029651,Boxing Lines - Conor Wallace vs Jack Gipp - To Win the Bout,Conor Wallace,-0.05709999999999993,0.8,0.8571
-2024-03-17 01:10:21.927594,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,Tennessee Titans,-0.0615,0.0294,0.0909
+2024-03-17 07:10:41.365164,Totals - Final Round Birdies - Brian Harman - Final Round Birdies,Under 4.5,-0.05860000000000004,0.4762,0.5348
 2024-03-16 19:12:21.765400,A-League - Australia A-League 2023/24 - Top 6 Finish,Perth Glory,-0.0615,0.0294,0.0909
+2024-03-17 01:10:21.927594,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,Tennessee Titans,-0.0615,0.0294,0.0909
 2024-03-16 19:12:21.765400,A-League - Australia A-League 2023/24 - Top 6 Finish,Newcastle United Jets,-0.0617,0.005,0.0667
+2024-03-17 07:10:14.176798,League One - England - League One 2023/24 - To Be Promoted,Stevenage,-0.066,0.0769,0.1429
 2024-03-16 19:12:21.790542,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Melbourne Victory,-0.06620000000000001,0.0588,0.125
 2024-03-17 01:10:21.886911,NFL Draft - Player Markets - Positional Groups - Caleb Williams 1st QB Drafted / Marvin Harrison Jr 1st WR Drafted Exacta,No,-0.06670000000000001,0.1333,0.2
 2024-03-16 21:13:32.529307,THE PLAYERS Championship - 2/3 Balls - Final Round 2 Balls - R. Fowler vs G. Murray - Final Round 2 Balls,Grayson Murray,-0.067,0.3774,0.4444
 2024-03-16 19:12:21.765400,A-League - Australia A-League 2023/24 - Top 6 Finish,Western Sydney Wanderers,-0.06700000000000006,0.5556,0.6226
 2024-03-16 23:14:02.999317,League Two - England - League Two 2023/24 - League Winner,Wrexham,-0.07579999999999999,0.0909,0.1667
-2024-03-16 17:14:46.299543,NFL Draft - Pick Markets - Draft Picks - #1 Pick,Jayden Daniels,-0.07579999999999999,0.0909,0.1667
 2024-03-17 01:10:21.778261,NFL Draft - Player Markets - Positional Groups - 1st QB Selected,Jayden Daniels,-0.07579999999999999,0.0909,0.1667
 2024-03-16 23:14:02.999317,League Two - England - League Two 2023/24 - League Winner,Stockport County,-0.07619999999999999,0.4,0.4762
 2024-03-17 01:10:16.205510,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Hibernian,-0.07939999999999997,0.4762,0.5556
+2024-03-17 07:10:14.176798,League One - England - League One 2023/24 - To Be Promoted,Barnsley,-0.08549999999999996,0.2222,0.3077
 2024-03-16 19:12:21.790542,A-League - Australia A-League 2023/24 - League Leaders Shield Winners,Sydney FC,-0.0901,0.0099,0.1
 2024-03-17 03:13:29.107994,Central Division - Central Division 2023-24 - Division Winner,Cleveland Cavaliers,-0.0922,0.3333,0.4255
+2024-03-17 07:10:14.176798,League One - England - League One 2023/24 - To Be Promoted,Bolton Wanderers,-0.09999999999999998,0.5,0.6
 2024-03-17 01:10:16.176784,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Motherwell,-0.09999999999999999,0.0667,0.1667
+2024-03-17 07:10:14.189929,League One - England - League One 2023/24 - Top 2 Finish,Barnsley,-0.09999999999999999,0.0667,0.1667
 2024-03-16 23:14:02.911217,League One - England - League One 2023/24 - League Winner,Peterborough United,-0.101,0.0323,0.1333
+2024-03-17 07:10:14.205644,League One - England - League One 2023/24 - Top 6 Finish,Blackpool,-0.10769999999999996,0.2,0.3077
 2024-03-16 23:14:02.911217,League One - England - League One 2023/24 - League Winner,Bolton Wanderers,-0.1079,0.0588,0.1667
 2024-03-17 03:13:55.893837,Totals - Final Round Birdies - Rory McIlroy - Final Round Birdies,Over 4.5,-0.12260000000000004,0.5,0.6226
 2024-03-17 01:10:21.927594,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,New York Giants,-0.1375,0.0625,0.2
 2024-03-16 19:12:21.765400,A-League - Australia A-League 2023/24 - Top 6 Finish,Adelaide United,-0.14120000000000002,0.0588,0.2
 2024-03-17 01:10:16.176784,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Aberdeen,-0.1439,0.0099,0.1538
+2024-03-17 07:10:14.176798,League One - England - League One 2023/24 - To Be Promoted,Peterborough United,-0.14549999999999996,0.4545,0.6
 2024-03-16 19:12:21.741814,A-League - Australia A-League 2023/24 - To Finish Bottom,Western United,-0.15559999999999996,0.4,0.5556
+2024-03-17 07:10:14.189929,League One - England - League One 2023/24 - Top 2 Finish,Bolton Wanderers,-0.1755,0.25,0.4255
+2024-03-17 07:10:14.189929,League One - England - League One 2023/24 - Top 2 Finish,Peterborough United,-0.1969,0.1667,0.3636
+2024-03-17 07:10:14.205644,League One - England - League One 2023/24 - Top 6 Finish,Stevenage,-0.21539999999999998,0.3846,0.6
 2024-03-16 19:12:21.765400,A-League - Australia A-League 2023/24 - Top 6 Finish,Brisbane Roar,-0.3144,0.1111,0.4255
 2024-03-16 21:13:32.361020,Boxing Lines - Jorge Masvidal vs Nate Diaz - To Win the Bout,Jorge Masvidal,-0.4274,0.3226,0.75
