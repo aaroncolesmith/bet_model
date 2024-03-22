@@ -1,30 +1,21 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-03-22 01:11:43.423771,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket – Oregon vs North Carolina State,North Carolina State,0.3912999999999999,0.8261,0.4348
 2024-03-22 09:08:07.955865,Donald Trump Specials - Which properties will Donald Trump lose by court order? - Which properties will Trump lose?,"Seven Springs Estate, New York",0.25,0.4167,0.1667
-2024-03-22 01:11:46.801229,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,Minnesota Vikings,0.2364,0.6,0.3636
-2024-03-22 01:11:43.354089,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket – Dayton vs Duquesne,Duquesne,0.22350000000000003,0.5744,0.3509
 2024-03-22 07:08:47.213095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,NC State,0.2232,0.2857,0.0625
-2024-03-22 01:11:43.891873,College Specials - NCAA Mens Tournament Specials - Wins by Atlantic 10 Teams in 2024 Men's NCAA Tournament,Over 1.5,0.15000000000000002,0.4,0.25
 2024-03-22 07:08:47.213095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Illinois,0.14640000000000003,0.4167,0.2703
 2024-03-22 13:08:32.062091,FIBA Champions League - Champions League 2023/24 - Outright,Unicaja Malaga,0.14290000000000003,0.4762,0.3333
-2024-03-22 01:11:46.862028,NFL Draft - Player Markets - Team To Draft Player - Marvin Harrison Jr,Los Angeles Chargers,0.13890000000000002,0.2222,0.0833
 2024-03-22 07:08:43.827875,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Beatriz,0.13130000000000003,0.2222,0.0909
 2024-03-22 03:10:31.296022,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Iowa State,0.12879999999999997,0.5455,0.4167
-2024-03-22 01:11:46.862028,NFL Draft - Player Markets - Team To Draft Player - Marvin Harrison Jr,New York Jets,0.1012,0.1111,0.0099
 2024-03-22 07:08:47.213095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Michigan State,0.09939999999999999,0.2105,0.1111
 2024-03-22 07:08:47.213095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Oregon,0.09029999999999999,0.1429,0.0526
-2024-03-22 01:11:46.419917,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Jayden Daniels / 3. Drake Maye,0.08900000000000002,0.5652,0.4762
-2024-03-22 01:11:46.646121,NFL Draft - Player Markets - Positional Groups - Caleb Williams 1st QB Drafted / Marvin Harrison Jr 1st WR Drafted Exacta,No,0.0889,0.2222,0.1333
 2024-03-22 07:08:44.207934,Juno Awards - Juno Awards 2024 - Single of the Year - Single of the Year Winner,Daniel Caesar - Always,0.0889,0.2,0.1111
-2024-03-22 01:11:46.579093,NFL Draft - Player Markets - Positional Groups - 1st Wide Receiver Selected,Malik Nabers,0.0889,0.2,0.1111
 2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Yuka Saso,0.0867,0.1111,0.0244
 2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Alison Lee,0.0867,0.1111,0.0244
 2024-03-22 13:08:32.062091,FIBA Champions League - Champions League 2023/24 - Outright,Tenerife,0.0857,0.2857,0.2
 2024-03-22 07:08:47.831291,Republicans - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win 45.01 to 50% of the popular vote,0.08330000000000004,0.75,0.6667
 2024-03-22 07:08:44.184092,Juno Awards - Juno Awards 2024 - Fan Choice Award - Fan Choice Award Winner,Daniel Caesar,0.08330000000000001,0.25,0.1667
 2024-03-22 03:10:31.296022,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Gonzaga,0.0814,0.2632,0.1818
+2024-03-22 15:09:42.350601,MLB Futures - MLB 2024 Player Awards - American League ROY,Wyatt Langford (TEX),0.0799,0.3125,0.2326
 2024-03-22 03:10:31.650395,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Nikola Jokic (DEN),0.07879999999999998,0.8462,0.7674
-2024-03-22 01:11:46.487629,NFL Draft - Player Markets - Positional Groups - 1st Non-QB Selected,Malik Nabers,0.07500000000000001,0.2,0.125
 2024-03-22 07:09:07.137814,Singapore Classic - Singapore Classic - Winner,Matthieu Pavon,0.07450000000000001,0.1333,0.0588
 2024-03-22 03:10:29.453487,Southwest Division - Southwest Division 2023-24 - Division Winner,Dallas Mavericks,0.06970000000000004,0.3774,0.3077
 2024-03-22 03:10:31.296022,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Oakland,0.06899999999999999,0.0769,0.0079
@@ -33,105 +24,71 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-22 07:09:07.137814,Singapore Classic - Singapore Classic - Winner,Richard Mansell,0.066,0.1429,0.0769
 2024-03-22 03:10:29.358374,Central Division - Central Division 2023-24 - Division Winner,Milwaukee Bucks,0.06590000000000007,0.8333,0.7674
 2024-03-22 07:08:47.213095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Duquesne,0.059,0.0769,0.0179
-2024-03-22 01:11:42.973750,College Specials - NCAA Mens Tournament Specials - Buzzer Beaters - Game Winning Buzzer Beating Shot to occur during the 2024 NCAA Men's Basketball Championship Tournament,No,0.05740000000000001,0.6226,0.5652
 2024-03-22 03:10:31.296022,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Kansas,0.05710000000000001,0.2,0.1429
 2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Brooke Henderson,0.052700000000000004,0.1053,0.0526
-2024-03-22 01:11:46.767827,NFL Draft - Player Markets - Team To Draft Player - Caleb Williams,Chicago Bears,0.05249999999999999,0.9756,0.9231
 2024-03-22 05:12:34.970114,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - West Region Winner - To Make NCAA Tournament Final 4,Michigan State,0.0524,0.1,0.0476
 2024-03-22 07:08:48.663910,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the classified documents federal charges? - Classified Documents Federal Trial,No,0.04910000000000003,0.4,0.3509
 2024-03-22 09:08:20.382314,MLB Futures - MLB 2024 Player Awards - National League ROY,Jung Hoo Lee (SF),0.04849999999999999,0.1818,0.1333
 2024-03-22 03:10:31.296022,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Washington State,0.048100000000000004,0.125,0.0769
 2024-03-22 07:08:44.150062,Juno Awards - Juno Awards 2024 - Artist of the Year - Artist of the Year Winner,Daniel Caesar,0.0476,0.1905,0.1429
 2024-03-22 07:08:47.116878,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - South Region Winner - To Make NCAA Tournament Final 4,Marquette,0.04620000000000002,0.2,0.1538
-2024-03-22 01:12:04.788933,Scores - 2nd Round Score - Brian Harman - 2nd Round Score,Over 70.5,0.045499999999999985,0.5455,0.5
-2024-03-22 01:12:05.434223,Valspar Championship - 2/3 Balls - 2nd Round 3 Balls - L. Hodges / C. Ramey / R. Brehm - 2nd Round 3 Balls,Lee Hodges,0.045499999999999985,0.5,0.4545
 2024-03-22 03:10:31.567561,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Jamahl Mosley,0.045399999999999996,0.0909,0.0455
-2024-03-22 01:11:43.204493,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket –  Alabama vs Auburn,Alabama,0.044399999999999995,0.4444,0.4
-2024-03-22 01:11:43.293931,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket –  Tennessee vs Iowa State,Iowa State,0.044399999999999995,0.6,0.5556
 2024-03-22 07:08:44.184092,Juno Awards - Juno Awards 2024 - Fan Choice Award - Fan Choice Award Winner,Tate McRae,0.043800000000000006,0.2105,0.1667
 2024-03-22 13:08:32.491141,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tim Scott,0.043800000000000006,0.2105,0.1667
 2024-03-22 07:08:47.213095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Dayton,0.042800000000000005,0.1053,0.0625
-2024-03-22 07:08:49.215171,UK Politics - UK Overall Majority After Next General Election - UK Overall Majority After Next Election,Labour,0.04169999999999996,0.875,0.8333
 2024-03-22 07:08:49.191761,UK Politics - UK Government After Next General Election - UK Govt After Next Election,Labour Majority,0.04169999999999996,0.875,0.8333
-2024-03-22 01:11:43.715483,College Specials - NCAA Mens Tournament Specials - Total Tournament Wins - North Carolina,Under 2.5,0.040999999999999925,0.6154,0.5744
+2024-03-22 07:08:49.215171,UK Politics - UK Overall Majority After Next General Election - UK Overall Majority After Next Election,Labour,0.04169999999999996,0.875,0.8333
 2024-03-22 13:08:32.062091,FIBA Champions League - Champions League 2023/24 - Outright,Peristeri,0.040100000000000004,0.05,0.0099
 2024-03-22 03:10:54.842577,Scores - 2nd Round Score - Cameron Young - 2nd Round Score,Over 69.5,0.0393,0.6226,0.5833
 2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Rose Zhang,0.0384,0.0769,0.0385
-2024-03-22 01:11:44.275815,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Sweet 16 - To Make Sweet 16,Wisconsin,0.03710000000000002,0.3704,0.3333
 2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Maude-Aimee Leblanc,0.0365,0.0385,0.002
-2024-03-22 01:11:46.704916,NFL Draft - Player Markets - Team To Draft Player - Bo Nix,Denver Broncos,0.03640000000000004,0.4,0.3636
 2024-03-22 05:12:58.754370,Scores - 2nd Round Score - Xander Schauffele - 2nd Round Score,Over 68.5,0.03639999999999999,0.6364,0.6
-2024-03-22 01:11:43.483135,College Specials - NCAA Mens Tournament Specials - Total Tournament Wins - Arizona,Over 2.5,0.03600000000000003,0.5238,0.4878
-2024-03-22 01:11:43.650389,College Specials - NCAA Mens Tournament Specials - Total Tournament Wins - Iowa State,Over 2.5,0.035999999999999976,0.5122,0.4762
 2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Xiyu Lin,0.035699999999999996,0.0833,0.0476
 2024-03-22 03:10:31.567561,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,0.03489999999999993,0.8462,0.8113
 2024-03-22 05:12:58.713471,Scores - 2nd Round Score - Tony Finau - 2nd Round Score,Over 70.5,0.03479999999999994,0.6,0.5652
 2024-03-22 07:09:07.137814,Singapore Classic - Singapore Classic - Winner,Paul Waring,0.03439999999999999,0.0667,0.0323
 2024-03-22 07:08:44.150062,Juno Awards - Juno Awards 2024 - Artist of the Year - Artist of the Year Winner,Tate McRae,0.033300000000000024,0.2,0.1667
-2024-03-22 01:11:46.767827,NFL Draft - Player Markets - Team To Draft Player - Caleb Williams,Minnesota Vikings,0.033,0.0526,0.0196
 2024-03-22 07:08:47.747545,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tulsi Gabbard,0.031799999999999995,0.1429,0.1111
 2024-03-22 07:08:47.213095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Arizona,0.03179999999999994,0.5556,0.5238
 2024-03-22 07:09:07.137814,Singapore Classic - Singapore Classic - Winner,Freddy Schott,0.0309,0.0526,0.0217
-2024-03-22 05:12:58.644305,Scores - 2nd Round Score - Sam Burns - 2nd Round Score,Over 69.5,0.030399999999999983,0.5652,0.5348
 2024-03-22 05:12:58.673885,Scores - 2nd Round Score - Sungjae Im - 2nd Round Score,Over 70.5,0.030399999999999983,0.5652,0.5348
+2024-03-22 05:12:58.644305,Scores - 2nd Round Score - Sam Burns - 2nd Round Score,Over 69.5,0.030399999999999983,0.5652,0.5348
 2024-03-22 03:10:54.802458,Scores - 2nd Round Score - Brian Harman - 2nd Round Score,Over 70.5,0.028900000000000037,0.5744,0.5455
-2024-03-22 01:12:04.959407,Scores - 2nd Round Score - Sam Burns - 2nd Round Score,Under 69.5,0.028900000000000037,0.5744,0.5455
 2024-03-22 13:08:32.491141,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Kristi Noem,0.028700000000000003,0.2105,0.1818
 2024-03-22 03:10:29.409730,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,0.02739999999999998,0.7333,0.7059
 2024-03-22 07:08:48.185466,US Senate Elections 2024 - Senate Election Winner - Arizona - Winner,Republican,0.026600000000000013,0.4348,0.4082
-2024-03-22 01:11:43.779757,College Specials - NCAA Mens Tournament Specials - Total Tournament Wins - Tennessee,Under 2.5,0.026499999999999968,0.6491,0.6226
 2024-03-22 03:10:31.597191,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Victor Wembanyama (SAS),0.026100000000000012,0.2,0.1739
 2024-03-22 05:12:58.457509,Scores - 2nd Round Score - Brian Harman - 2nd Round Score,Over 70.5,0.025599999999999956,0.6,0.5744
-2024-03-22 01:11:46.704916,NFL Draft - Player Markets - Team To Draft Player - Bo Nix,New York Giants,0.025300000000000003,0.1429,0.1176
-2024-03-22 01:11:46.419917,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Jayden Daniels / 3. Marvin Harrison Jr,0.025300000000000003,0.1429,0.1176
 2024-03-22 05:12:34.901253,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - Midwest Region Winner - To Make NCAA Tournament Final 4,Oregon,0.0253,0.0417,0.0164
 2024-03-22 03:10:29.387758,Northwest Division - Northwest Division 2023-24 - Division Winner,Denver Nuggets,0.02400000000000002,0.75,0.726
 2024-03-22 03:10:31.387089,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The Finals - To Make Finals,Gonzaga,0.024,0.0625,0.0385
-2024-03-22 01:11:46.487629,NFL Draft - Player Markets - Positional Groups - 1st Non-QB Selected,Rome Odunze,0.024,0.0625,0.0385
 2024-03-22 09:08:19.756161,College Baseball Futures - College World Series Winner - College World Series Winner,Florida State,0.023899999999999998,0.0435,0.0196
-2024-03-22 01:11:43.162829,College Specials - NCAA Mens Tournament Specials - Sum of Final Four Seeds in 2024 NCAA Tournament,Over 12.5,0.023800000000000043,0.5238,0.5
-2024-03-22 01:12:07.467705,Round Match-Ups - 2nd Round Match-Up - E. Cole vs S. Straka - 2nd Round Match-Up,Eric Cole,0.023800000000000043,0.5238,0.5
-2024-03-22 01:11:44.275815,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Sweet 16 - To Make Sweet 16,Alabama,0.023799999999999988,0.5,0.4762
 2024-03-22 07:08:47.213095,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Creighton,0.023799999999999988,0.3571,0.3333
-2024-03-22 01:11:46.419917,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Jayden Daniels / 3. J.J. McCarthy,0.023799999999999988,0.1667,0.1429
-2024-03-22 01:11:46.862028,NFL Draft - Player Markets - Team To Draft Player - Marvin Harrison Jr,New York Giants,0.023200000000000002,0.0476,0.0244
 2024-03-22 03:10:31.387089,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The Finals - To Make Finals,Michigan State,0.023200000000000002,0.0476,0.0244
 2024-03-22 03:10:31.508737,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Bobby Portis (MIL),0.023200000000000002,0.0476,0.0244
-2024-03-22 01:11:46.906299,NFL Draft - Player Markets - Team To Draft Player - Xavier Worthy,Houston Texans,0.02310000000000001,0.1,0.0769
 2024-03-22 03:10:54.954813,Scores - 2nd Round Score - Sam Burns - 2nd Round Score,Over 69.5,0.022600000000000064,0.5348,0.5122
 2024-03-22 05:12:34.901253,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - Midwest Region Winner - To Make NCAA Tournament Final 4,Purdue,0.02260000000000001,0.4,0.3774
-2024-03-22 01:11:44.275815,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Sweet 16 - To Make Sweet 16,San Diego State,0.02250000000000002,0.2857,0.2632
 2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Yuna Nishimura,0.022099999999999998,0.0385,0.0164
 2024-03-22 03:10:29.387758,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,0.021999999999999964,0.3077,0.2857
-2024-03-22 01:12:04.912808,Scores - 2nd Round Score - Justin Thomas - 2nd Round Score,Over 68.5,0.02180000000000004,0.6296,0.6078
 2024-03-22 03:10:31.625058,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Coby White (CHI),0.021699999999999997,0.4762,0.4545
 2024-03-22 03:10:29.274224,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Miami Heat,0.0213,0.0769,0.0556
 2024-03-22 05:12:58.546045,Scores - 2nd Round Score - Jordan Spieth - 2nd Round Score,Over 68.5,0.02080000000000004,0.6875,0.6667
 2024-03-22 05:12:34.901253,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - Midwest Region Winner - To Make NCAA Tournament Final 4,Kansas,0.0208,0.0833,0.0625
 2024-03-22 07:09:06.433180,Round Match-Ups - 2nd Round Match-Up - B. Martin v S. Power - 2nd Round Match-Up ,Seamus Power,0.02079999999999993,0.5556,0.5348
-2024-03-22 01:12:04.696927,Boxing Lines - Jake Paul vs Mike Tyson - To Win the Bout,Mike Tyson,0.020699999999999996,0.4651,0.4444
 2024-03-22 05:12:34.970114,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - West Region Winner - To Make NCAA Tournament Final 4,Dayton,0.0206,0.0385,0.0179
-2024-03-22 01:11:43.183086,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket –   New Mexico vs San Diego State,San Diego State,0.020299999999999985,0.6429,0.6226
 2024-03-22 07:08:44.150062,Juno Awards - Juno Awards 2024 - Artist of the Year - Artist of the Year Winner,Shania Twain,0.02020000000000001,0.1111,0.0909
 2024-03-22 07:09:07.137814,Singapore Classic - Singapore Classic - Winner,Alex Fitzpatrick,0.019899999999999998,0.0278,0.0079
-2024-03-22 01:11:43.130978,College Specials - NCAA Mens Tournament Specials - Seed to Win 2024 NCAA Tournament,7 Seed,0.019800000000000005,0.0476,0.0278
 2024-03-22 03:10:55.014550,Scores - 2nd Round Score - Tony Finau - 2nd Round Score,Over 70.5,0.01970000000000005,0.5652,0.5455
 2024-03-22 11:06:38.057434,Boxing Lines - Sandy Ryan vs Terri Harper - To Win the Bout,Sandy Ryan,0.01959999999999995,0.8291,0.8095
 2024-03-22 11:06:38.083850,Boxing Lines - Dalton Smith vs Jose Zepeda - To Win the Bout,Dalton Smith,0.019400000000000084,0.8131,0.7937
 2024-03-22 09:08:20.840362,Boxing Lines - Sonny Ali vs Petar Aleksandrov - To Win the Bout,Petar Aleksandrov,0.019099999999999992,0.0667,0.0476
 2024-03-22 09:08:19.756161,College Baseball Futures - College World Series Winner - College World Series Winner,East Carolina,0.0189,0.0385,0.0196
 2024-03-22 07:09:06.279935,Round Match-Ups - 2nd Round Match-Up - C. Bezuidenhout vs S. Im - 2nd Round Match-Up,Sungjae Im,0.01880000000000004,0.5744,0.5556
-2024-03-22 01:11:43.513602,College Specials - NCAA Mens Tournament Specials - Total Tournament Wins - Auburn,Under 1.5,0.018799999999999983,0.3636,0.3448
-2024-03-22 01:11:43.801652,College Specials - NCAA Mens Tournament Specials - Will a 9 Seed Reach the Final Four?,Yes,0.018599999999999978,0.1667,0.1481
 2024-03-22 05:12:57.909758,Round Match-Ups - 2nd Round Match-Up - X. Schauffele vs J. Spieth - 2nd Round Match-Up,Xander Schauffele,0.018100000000000005,0.5833,0.5652
-2024-03-22 01:11:44.275815,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Sweet 16 - To Make Sweet 16,Oakland,0.018099999999999998,0.0526,0.0345
 2024-03-22 03:10:31.296022,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Texas A&M,0.018099999999999998,0.0769,0.0588
 2024-03-22 03:10:54.880629,Scores - 2nd Round Score - Jordan Spieth - 2nd Round Score,Over 68.5,0.01759999999999995,0.6667,0.6491
-2024-03-22 01:12:06.546166,Valspar Championship - 2/3 Balls - 2nd Round 3 Balls - M. Kim / J. Bramlett / C. Tarren - 2nd Round 3 Balls,Joseph Bramlett,0.016699999999999993,0.4167,0.4
 2024-03-22 11:06:26.628654,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Specials - MLB 2024 Regular Season Specials,Bobby Witt Jr. to Record 30+ HRs and 30+ Stolen Bases in the 2024 MLB Regular Season,0.016699999999999993,0.4167,0.4
 2024-03-22 07:08:44.184092,Juno Awards - Juno Awards 2024 - Fan Choice Award - Fan Choice Award Winner,The Weeknd,0.016699999999999993,0.2667,0.25
-2024-03-22 01:11:46.735336,NFL Draft - Player Markets - Team To Draft Player - Brock Bowers,New York Jets,0.016699999999999993,0.4167,0.4
-2024-03-22 01:11:46.704916,NFL Draft - Player Markets - Team To Draft Player - Bo Nix,Minnesota Vikings,0.016699999999999993,0.2667,0.25
 2024-03-22 03:10:55.053708,Scores - 2nd Round Score - Xander Schauffele - 2nd Round Score,Over 68.5,0.016699999999999937,0.6,0.5833
 2024-03-22 09:08:21.501351,Boxing Lines - Dalton Smith vs Jose Zepeda - To Win the Bout,Dalton Smith,0.015899999999999914,0.7937,0.7778
 2024-03-22 05:12:34.866534,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - East Region Winner - To Make NCAA Tournament Final 4,Illinois,0.015700000000000006,0.1333,0.1176
@@ -139,157 +96,109 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Malia Nam,0.0154,0.0164,0.001
 2024-03-22 03:10:31.296022,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Texas,0.015100000000000002,0.1818,0.1667
 2024-03-22 03:10:29.274224,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Philadelphia 76ers,0.014899999999999997,0.0625,0.0476
-2024-03-22 01:11:43.827230,College Specials - NCAA Mens Tournament Specials - Will an 8 Seed Reach the Final Four?,No,0.014399999999999968,0.9375,0.9231
-2024-03-22 05:12:34.901253,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - Midwest Region Winner - To Make NCAA Tournament Final 4,Texas,0.014099999999999994,0.0667,0.0526
 2024-03-22 09:08:20.382314,MLB Futures - MLB 2024 Player Awards - National League ROY,Kyle Harrison (SF),0.014099999999999994,0.0667,0.0526
+2024-03-22 05:12:34.901253,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - Midwest Region Winner - To Make NCAA Tournament Final 4,Texas,0.014099999999999994,0.0667,0.0526
 2024-03-22 13:08:32.075216,Bundesliga - Germany Bundesliga 2023/24 - Outright,Chemnitz 99,0.013999999999999999,0.0909,0.0769
-2024-03-22 05:12:58.593043,Scores - 2nd Round Score - Justin Thomas - 2nd Round Score,Over 68.5,0.013799999999999923,0.6364,0.6226
 2024-03-22 05:12:58.494241,Scores - 2nd Round Score - Cameron Young - 2nd Round Score,Over 69.5,0.013799999999999923,0.6364,0.6226
-2024-03-22 01:11:44.275815,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Sweet 16 - To Make Sweet 16,Saint Mary's CA,0.013300000000000034,0.3704,0.3571
+2024-03-22 05:12:58.593043,Scores - 2nd Round Score - Justin Thomas - 2nd Round Score,Over 68.5,0.013799999999999923,0.6364,0.6226
 2024-03-22 07:09:07.137814,Singapore Classic - Singapore Classic - Winner,Shubankar Sharma,0.013,0.0196,0.0066
 2024-03-22 05:12:34.936625,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - South Region Winner - To Make NCAA Tournament Final 4,Oakland,0.013,0.0196,0.0066
-2024-03-22 01:12:04.871082,Scores - 2nd Round Score - Jordan Spieth - 2nd Round Score,Over 68.5,0.012700000000000045,0.6491,0.6364
-2024-03-22 01:11:44.275815,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Sweet 16 - To Make Sweet 16,Vermont,0.012600000000000007,0.0714,0.0588
-2024-03-22 01:11:46.419917,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Drake Maye / 3. Jayden Daniels,0.011899999999999966,0.3509,0.339
-2024-03-22 01:11:43.130978,College Specials - NCAA Mens Tournament Specials - Seed to Win 2024 NCAA Tournament,11 Seed,0.0118,0.0217,0.0099
-2024-03-22 03:10:31.296022,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Northwestern,0.011199999999999995,0.0435,0.0323
+2024-03-22 15:09:43.340746,Boxing Lines - Sandy Ryan vs Terri Harper - To Win the Bout,Sandy Ryan,0.011200000000000099,0.8403,0.8291
 2024-03-22 09:08:19.756161,College Baseball Futures - College World Series Winner - College World Series Winner,Duke,0.011199999999999995,0.0588,0.0476
-2024-03-22 01:11:46.358721,NFL Draft - Pick Markets - Draft Picks - #4 Pick,Malik Nabers,0.011099999999999999,0.1111,0.1
-2024-03-22 01:12:07.500230,Round Match-Ups - 2nd Round Match-Up - J. Thomas vs S. Burns - 2nd Round Match-Up,Justin Thomas,0.01100000000000001,0.5348,0.5238
+2024-03-22 03:10:31.296022,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Northwestern,0.011199999999999995,0.0435,0.0323
 2024-03-22 11:06:37.995199,Boxing Lines - Martina Bernile vs Nina Radovanovic - To Win the Bout,Martina Bernile,0.01100000000000001,0.5348,0.5238
-2024-03-22 01:11:43.033478,College Specials - NCAA Mens Tournament Specials - Exact Number of 1 Seeds to reach 2024 Final Four,3,0.010899999999999993,0.1538,0.1429
 2024-03-22 09:08:20.382314,MLB Futures - MLB 2024 Player Awards - National League ROY,Jackson Chourio (MIL),0.010899999999999993,0.1538,0.1429
 2024-03-22 13:08:40.604351,Boxing Lines - Sandy Ryan vs Terri Harper - To Win the Bout,Terri Harper,0.010800000000000004,0.2381,0.2273
 2024-03-22 07:09:04.487447,Boxing Lines - Ishmael Davis vs Troy Williamson - To Win the Bout,Troy Williamson,0.010699999999999987,0.3333,0.3226
-2024-03-22 03:10:50.762663,Boxing Lines - Martina Bernile vs Nina Radovanovic - To Win the Bout,Nina Radovanovic,0.010699999999999932,0.5455,0.5348
 2024-03-22 09:08:18.145010,MLB 2024 Regular Season Team Props - New York Mets Regular Season Win Total - New York Mets Regular Season Win Total,Over 81.5,0.010699999999999932,0.5455,0.5348
+2024-03-22 03:10:50.762663,Boxing Lines - Martina Bernile vs Nina Radovanovic - To Win the Bout,Nina Radovanovic,0.010699999999999932,0.5455,0.5348
 2024-03-22 03:10:31.508737,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Caris LeVert (CLE),0.010600000000000002,0.0323,0.0217
-2024-03-22 01:11:42.997080,College Specials - NCAA Mens Tournament Specials - Conference to Win 2024 Men's NCAA Tournament,Big Ten,0.010499999999999982,0.2105,0.2
 2024-03-22 03:10:31.296022,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Coll Charleston,0.010300000000000002,0.0244,0.0141
 2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Lauren Hartlage,0.0103,0.0123,0.002
-2024-03-22 01:11:43.394301,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket – North Carolina vs Tennessee,North Carolina,0.010099999999999998,0.5556,0.5455
-2024-03-22 01:11:43.598597,College Specials - NCAA Mens Tournament Specials - Total Tournament Wins - Duke,Over 1.5,0.010099999999999998,0.5556,0.5455
-2024-03-22 01:12:06.024020,Valspar Championship - 2/3 Balls - 2nd Round 3 Balls - T. Duncan / S.H. Kim / S. Gutschewski - 2nd Round 3 Balls,Tyler Duncan,0.010099999999999998,0.4545,0.4444
-2024-03-22 01:12:07.160409,Round Match-Ups - 2nd Round Match-Up - N. Taylor vs B. Harman - 2nd Round Match-Up,Brian Harman,-0.010099999999999998,0.5455,0.5556
+2024-03-22 15:09:43.045906,Boxing Lines - Deanha Hobbs vs Tywarna Campbell - To Win the Bout,Tywarna Campbell,0.010099999999999998,0.3226,0.3125
+2024-03-22 15:09:43.199900,Boxing Lines - Ishmael Davis vs Troy Williamson - To Win the Bout,Troy Williamson,-0.010099999999999998,0.3125,0.3226
 2024-03-22 03:10:54.917439,Scores - 2nd Round Score - Justin Thomas - 2nd Round Score,Under 68.5,-0.010099999999999998,0.4444,0.4545
-2024-03-22 01:11:46.673505,NFL Draft - Player Markets - Team To Draft Player - Blake Corum,Baltimore Ravens,-0.0102,0.0667,0.0769
-2024-03-22 03:10:29.318748,Western Conference - Western Conference 2023-24 - Western Conference Winner,Minnesota Timberwolves,-0.0102,0.0667,0.0769
-2024-03-22 03:10:29.274224,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Cleveland Cavaliers,-0.0102,0.0667,0.0769
 2024-03-22 07:08:49.191761,UK Politics - UK Government After Next General Election - UK Govt After Next Election,Conservative Minority,-0.0102,0.0667,0.0769
-2024-03-22 01:11:46.862028,NFL Draft - Player Markets - Team To Draft Player - Marvin Harrison Jr,New England Patriots,-0.010499999999999982,0.2,0.2105
+2024-03-22 03:10:29.274224,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Cleveland Cavaliers,-0.0102,0.0667,0.0769
+2024-03-22 03:10:29.318748,Western Conference - Western Conference 2023-24 - Western Conference Winner,Minnesota Timberwolves,-0.0102,0.0667,0.0769
 2024-03-22 09:08:20.382314,MLB Futures - MLB 2024 Player Awards - National League ROY,Hunter Goodman (COL),-0.010600000000000002,0.0217,0.0323
-2024-03-22 03:10:54.983058,Scores - 2nd Round Score - Sungjae Im - 2nd Round Score,Under 70.5,-0.010699999999999932,0.5348,0.5455
 2024-03-22 11:06:37.995199,Boxing Lines - Martina Bernile vs Nina Radovanovic - To Win the Bout,Nina Radovanovic,-0.010699999999999932,0.5348,0.5455
 2024-03-22 03:10:54.983058,Scores - 2nd Round Score - Sungjae Im - 2nd Round Score,Over 70.5,-0.010699999999999932,0.5348,0.5455
+2024-03-22 03:10:54.983058,Scores - 2nd Round Score - Sungjae Im - 2nd Round Score,Under 70.5,-0.010699999999999932,0.5348,0.5455
 2024-03-22 11:06:38.007675,Boxing Lines - Ishmael Davis vs Troy Williamson - To Win the Bout,Troy Williamson,-0.010699999999999987,0.3226,0.3333
 2024-03-22 07:09:07.137814,Singapore Classic - Singapore Classic - Winner,Sebastian Soderberg,-0.010700000000000001,0.0057,0.0164
 2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Charley Hull,-0.010700000000000001,0.0278,0.0385
+2024-03-22 15:09:43.340746,Boxing Lines - Sandy Ryan vs Terri Harper - To Win the Bout,Terri Harper,-0.010800000000000004,0.2273,0.2381
 2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Ariya Jutanugarn,-0.011,0.0013,0.0123
-2024-03-22 09:08:18.145010,MLB 2024 Regular Season Team Props - New York Mets Regular Season Win Total - New York Mets Regular Season Win Total,Under 81.5,-0.01100000000000001,0.5238,0.5348
 2024-03-22 03:10:50.762663,Boxing Lines - Martina Bernile vs Nina Radovanovic - To Win the Bout,Martina Bernile,-0.01100000000000001,0.5238,0.5348
+2024-03-22 09:08:18.145010,MLB 2024 Regular Season Team Props - New York Mets Regular Season Win Total - New York Mets Regular Season Win Total,Under 81.5,-0.01100000000000001,0.5238,0.5348
+2024-03-22 15:09:43.150235,Boxing Lines - Connan Murray vs Edgar Kemsky - To Win the Bout,Edgar Kemsky,-0.011099999999999999,0.0556,0.0667
 2024-03-22 05:12:57.909758,Round Match-Ups - 2nd Round Match-Up - X. Schauffele vs J. Spieth - 2nd Round Match-Up,Jordan Spieth,-0.011099999999999999,0.4651,0.4762
-2024-03-22 01:11:43.683224,College Specials - NCAA Mens Tournament Specials - Total Tournament Wins - Marquette,Under 1.5,-0.011099999999999999,0.4651,0.4762
-2024-03-22 01:11:46.419917,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. J.J. McCarthy / 3. Marvin Harrison Jr,-0.011200000000000002,0.0132,0.0244
 2024-03-22 09:08:19.756161,College Baseball Futures - College World Series Winner - College World Series Winner,Oregon,-0.011200000000000002,0.0132,0.0244
 2024-03-22 07:09:06.502385,Round Match-Ups - 2nd Round Match-Up - R. Hoey v C. Gotterup - 2nd Round Match-Up ,Rico Hoey,-0.0116,0.4762,0.4878
-2024-03-22 01:11:43.598597,College Specials - NCAA Mens Tournament Specials - Total Tournament Wins - Duke,Under 1.5,-0.011600000000000055,0.5122,0.5238
-2024-03-22 01:12:07.500230,Round Match-Ups - 2nd Round Match-Up - J. Thomas vs S. Burns - 2nd Round Match-Up,Sam Burns,-0.011600000000000055,0.5122,0.5238
-2024-03-22 01:11:43.394301,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket – North Carolina vs Tennessee,Tennessee,-0.011600000000000055,0.5122,0.5238
 2024-03-22 09:08:21.501351,Boxing Lines - Dalton Smith vs Jose Zepeda - To Win the Bout,Jose Zepeda,-0.011699999999999988,0.274,0.2857
-2024-03-22 01:11:46.735336,NFL Draft - Player Markets - Team To Draft Player - Brock Bowers,Indianapolis Colts,-0.011700000000000016,0.2105,0.2222
 2024-03-22 07:09:07.137814,Singapore Classic - Singapore Classic - Winner,Haotong Li,-0.012100000000000001,0.0123,0.0244
-2024-03-22 01:12:07.160409,Round Match-Ups - 2nd Round Match-Up - N. Taylor vs B. Harman - 2nd Round Match-Up,Nick Taylor,-0.012199999999999989,0.5,0.5122
 2024-03-22 03:10:52.843626,Valspar Championship - 2/3 Balls - 2nd Round 3 Balls - L. Hodges / C. Ramey / R. Brehm - 2nd Round 3 Balls,Lee Hodges,-0.012199999999999989,0.4878,0.5
-2024-03-22 01:11:46.735336,NFL Draft - Player Markets - Team To Draft Player - Brock Bowers,Chicago Bears,-0.012299999999999991,0.1053,0.1176
 2024-03-22 09:08:20.978249,Boxing Lines - Michael Magnesi vs Masanori Rikiishi - To Win the Bout,Masanori Rikiishi,-0.012700000000000045,0.6364,0.6491
 2024-03-22 09:08:19.756161,College Baseball Futures - College World Series Winner - College World Series Winner,Northeastern,-0.013,0.0066,0.0196
-2024-03-22 01:12:05.434223,Valspar Championship - 2/3 Balls - 2nd Round 3 Balls - L. Hodges / C. Ramey / R. Brehm - 2nd Round 3 Balls,Ryan Brehm,-0.01319999999999999,0.25,0.2632
 2024-03-22 03:10:29.274224,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Milwaukee Bucks,-0.01319999999999999,0.25,0.2632
 2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Lexi Thompson,-0.013400000000000002,0.011,0.0244
-2024-03-22 01:11:43.827230,College Specials - NCAA Mens Tournament Specials - Will an 8 Seed Reach the Final Four?,Yes,-0.013899999999999996,0.129,0.1429
 2024-03-22 07:09:07.137814,Singapore Classic - Singapore Classic - Winner,Ashun Wu,-0.013900000000000001,0.0025,0.0164
 2024-03-22 07:08:49.035838,Irish Politics - Irish Presidential Election 2025 - Irish Presidential Election Winner,Bertie Ahern,-0.013999999999999999,0.0769,0.0909
-2024-03-22 01:11:46.735336,NFL Draft - Player Markets - Team To Draft Player - Brock Bowers,Tennessee Titans,-0.013999999999999999,0.0769,0.0909
-2024-03-22 01:11:46.391852,NFL Draft - Pick Markets - Draft Picks - #5 Pick,Dallas Turner,-0.014099999999999998,0.0244,0.0385
 2024-03-22 07:08:48.100711,US Senate Elections 2024 - Next Senate Republican Leader After Mitch McConnell - Next Senate Republican Leader,Joni Ernst,-0.014100000000000001,0.0385,0.0526
 2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Nasa Hataoka,-0.014100000000000001,0.0385,0.0526
 2024-03-22 07:09:07.137814,Singapore Classic - Singapore Classic - Winner,Andrea Pavan,-0.0142,0.001,0.0152
-2024-03-22 07:08:48.100711,US Senate Elections 2024 - Next Senate Republican Leader After Mitch McConnell - Next Senate Republican Leader,Rick Scott,-0.014399999999999996,0.0625,0.0769
 2024-03-22 07:08:48.100711,US Senate Elections 2024 - Next Senate Republican Leader After Mitch McConnell - Next Senate Republican Leader,Steve Daines,-0.014399999999999996,0.0625,0.0769
-2024-03-22 01:11:46.419917,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Jayden Daniels / 3. Michael Penix Jr,-0.0145,0.0099,0.0244
-2024-03-22 01:11:46.419917,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Drake Maye / 3. Michael Penix Jr,-0.0145,0.0099,0.0244
-2024-03-22 01:11:46.419917,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Drake Maye / 3. Bo Nix,-0.0145,0.0099,0.0244
-2024-03-22 01:11:46.419917,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Jayden Daniels / 3. Bo Nix,-0.0145,0.0099,0.0244
-2024-03-22 01:11:46.767827,NFL Draft - Player Markets - Team To Draft Player - Caleb Williams,Pittsburgh Steelers,-0.0145,0.0099,0.0244
-2024-03-22 01:11:46.801229,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,Los Angeles Rams,-0.014599999999999998,0.0132,0.0278
+2024-03-22 07:08:48.100711,US Senate Elections 2024 - Next Senate Republican Leader After Mitch McConnell - Next Senate Republican Leader,Rick Scott,-0.014399999999999996,0.0625,0.0769
 2024-03-22 09:08:19.756161,College Baseball Futures - College World Series Winner - College World Series Winner,Miami (FL),-0.014599999999999998,0.0132,0.0278
-2024-03-22 01:12:06.546166,Valspar Championship - 2/3 Balls - 2nd Round 3 Balls - M. Kim / J. Bramlett / C. Tarren - 2nd Round 3 Balls,Michael Kim,-0.01479999999999998,0.3774,0.3922
-2024-03-22 01:11:43.033478,College Specials - NCAA Mens Tournament Specials - Exact Number of 1 Seeds to reach 2024 Final Four,0,-0.015100000000000002,0.1667,0.1818
 2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Somi Lee,-0.015100000000000002,0.0013,0.0164
-2024-03-22 01:11:46.767827,NFL Draft - Player Markets - Team To Draft Player - Caleb Williams,Las Vegas Raiders,-0.015300000000000001,0.0323,0.0476
 2024-03-22 07:09:07.137814,Singapore Classic - Singapore Classic - Winner,Matthew Jordan,-0.015499999999999998,0.0123,0.0278
 2024-03-22 07:09:07.137814,Singapore Classic - Singapore Classic - Winner,Jesper Svensson,-0.0156,0.004,0.0196
-2024-03-22 01:11:44.275815,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Sweet 16 - To Make Sweet 16,New Mexico,-0.01629999999999998,0.2778,0.2941
-2024-03-22 01:11:43.513602,College Specials - NCAA Mens Tournament Specials - Total Tournament Wins - Auburn,Over 1.5,-0.01629999999999998,0.7059,0.7222
 2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Carlota Ciganda,-0.0163,0.0033,0.0196
-2024-03-22 07:09:06.247330,Round Match-Ups - 2nd Round Match-Up - J. Campillo vs V. Perez - 2nd Round Match-Up,Victor Perez,-0.016699999999999937,0.5833,0.6
 2024-03-22 07:09:06.458174,Round Match-Ups - 2nd Round Match-Up - K. Mitchell vs D. Thompson - 2nd Round Match-Up,Keith Mitchell,-0.016699999999999937,0.5833,0.6
-2024-03-22 01:11:43.801652,College Specials - NCAA Mens Tournament Specials - Will a 9 Seed Reach the Final Four?,No,-0.016699999999999937,0.9,0.9167
-2024-03-22 01:11:43.033478,College Specials - NCAA Mens Tournament Specials - Exact Number of 1 Seeds to reach 2024 Final Four,1,-0.016699999999999993,0.4,0.4167
+2024-03-22 07:09:06.247330,Round Match-Ups - 2nd Round Match-Up - J. Campillo vs V. Perez - 2nd Round Match-Up,Victor Perez,-0.016699999999999937,0.5833,0.6
 2024-03-22 07:09:07.137814,Singapore Classic - Singapore Classic - Winner,Calum Hill,-0.0171,0.0025,0.0196
 2024-03-22 05:12:54.046449,Boxing Lines - Karol Welter vs Andrew Robinson - To Win the Bout,Andrew Robinson,-0.01759999999999999,0.1,0.1176
 2024-03-22 11:06:38.083850,Boxing Lines - Dalton Smith vs Jose Zepeda - To Win the Bout,Jose Zepeda,-0.017600000000000005,0.2564,0.274
 2024-03-22 13:08:32.062091,FIBA Champions League - Champions League 2023/24 - Outright,Tofas,-0.018200000000000004,0.0294,0.0476
+2024-03-22 13:08:32.307511,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Marquette,-0.018200000000000004,0.0294,0.0476
 2024-03-22 07:08:47.747545,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Kristi Noem,-0.01820000000000002,0.1818,0.2
-2024-03-22 01:11:46.801229,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,New England Patriots,-0.01820000000000002,0.1818,0.2
 2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Yu Jin Sung,-0.0183,0.0013,0.0196
 2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Georgia Hall,-0.0183,0.0013,0.0196
 2024-03-22 09:08:20.382314,MLB Futures - MLB 2024 Player Awards - National League ROY,Noelvi Marte (CIN),-0.01830000000000001,0.0769,0.0952
 2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Hannah Green,-0.0184,0.0033,0.0217
 2024-03-22 03:10:29.387758,Northwest Division - Northwest Division 2023-24 - Division Winner,Minnesota Timberwolves,-0.018800000000000004,0.0526,0.0714
 2024-03-22 07:08:48.185466,US Senate Elections 2024 - Senate Election Winner - Arizona - Winner,Democrat,-0.01880000000000004,0.6364,0.6552
-2024-03-22 05:12:58.494241,Scores - 2nd Round Score - Cameron Young - 2nd Round Score,Under 69.5,-0.018900000000000028,0.4255,0.4444
-2024-03-22 01:11:43.183086,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket –   New Mexico vs San Diego State,New Mexico,-0.018900000000000028,0.4255,0.4444
 2024-03-22 05:12:58.593043,Scores - 2nd Round Score - Justin Thomas - 2nd Round Score,Under 68.5,-0.018900000000000028,0.4255,0.4444
+2024-03-22 05:12:58.494241,Scores - 2nd Round Score - Cameron Young - 2nd Round Score,Under 69.5,-0.018900000000000028,0.4255,0.4444
 2024-03-22 07:08:43.827875,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Davi,-0.018999999999999906,0.7143,0.7333
 2024-03-22 05:12:54.116617,Boxing Lines - Sonny Ali vs Petar Aleksandrov - To Win the Bout,Petar Aleksandrov,-0.019099999999999992,0.0476,0.0667
-2024-03-22 01:11:46.862028,NFL Draft - Player Markets - Team To Draft Player - Marvin Harrison Jr,Washington Commanders,-0.019099999999999992,0.0476,0.0667
-2024-03-22 01:11:43.162829,College Specials - NCAA Mens Tournament Specials - Sum of Final Four Seeds in 2024 NCAA Tournament,Under 12.5,-0.01970000000000005,0.5455,0.5652
 2024-03-22 03:10:31.650395,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Shai Gilgeous-Alexander (OKC),-0.020100000000000007,0.1538,0.1739
-2024-03-22 01:11:42.997080,College Specials - NCAA Mens Tournament Specials - Conference to Win 2024 Men's NCAA Tournament,SEC,-0.020100000000000007,0.1538,0.1739
 2024-03-22 07:08:47.831291,Republicans - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win more than 60% of the popular vote,-0.02020000000000001,0.0909,0.1111
 2024-03-22 07:08:47.831291,Republicans - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win 55.01 to 60% of the popular vote,-0.02020000000000001,0.0909,0.1111
 2024-03-22 09:08:07.955865,Donald Trump Specials - Which properties will Donald Trump lose by court order? - Which properties will Trump lose?,"Mar-a-Lago, Florida",-0.02020000000000001,0.0909,0.1111
 2024-03-22 03:10:29.318748,Western Conference - Western Conference 2023-24 - Western Conference Winner,L.A. Clippers,-0.020299999999999985,0.25,0.2703
 2024-03-22 09:08:19.756161,College Baseball Futures - College World Series Winner - College World Series Winner,Texas,-0.0203,0.0323,0.0526
-2024-03-22 01:12:05.434223,Valspar Championship - 2/3 Balls - 2nd Round 3 Balls - L. Hodges / C. Ramey / R. Brehm - 2nd Round 3 Balls,Chad Ramey,-0.02030000000000004,0.3571,0.3774
 2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Jiyai Shin,-0.0204,0.004,0.0244
-2024-03-22 01:12:04.912808,Scores - 2nd Round Score - Justin Thomas - 2nd Round Score,Under 68.5,-0.021699999999999997,0.4545,0.4762
 2024-03-22 09:08:19.756161,College Baseball Futures - College World Series Winner - College World Series Winner,Wake Forest,-0.022199999999999998,0.1111,0.1333
 2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Megan Khang,-0.022400000000000003,0.0099,0.0323
-2024-03-22 01:11:43.130978,College Specials - NCAA Mens Tournament Specials - Seed to Win 2024 NCAA Tournament,6 Seed,-0.022400000000000003,0.0099,0.0323
 2024-03-22 05:12:58.546045,Scores - 2nd Round Score - Jordan Spieth - 2nd Round Score,Under 68.5,-0.02260000000000001,0.3774,0.4
-2024-03-22 01:12:04.696927,Boxing Lines - Jake Paul vs Mike Tyson - To Win the Bout,Jake Paul,-0.022600000000000064,0.6,0.6226
 2024-03-22 05:12:58.457509,Scores - 2nd Round Score - Brian Harman - 2nd Round Score,Under 70.5,-0.022699999999999998,0.4651,0.4878
 2024-03-22 07:09:07.137814,Singapore Classic - Singapore Classic - Winner,Niklas Norgaard,-0.0233,0.0152,0.0385
 2024-03-22 07:09:06.313445,Round Match-Ups - 2nd Round Match-Up - A. Svensson vs B. Cauley - 2nd Round Match-Up,Bud Cauley,-0.023799999999999988,0.4762,0.5
-2024-03-22 01:11:46.906299,NFL Draft - Player Markets - Team To Draft Player - Xavier Worthy,Arizona Cardinals,-0.0242,0.0667,0.0909
-2024-03-22 07:09:06.433180,Round Match-Ups - 2nd Round Match-Up - B. Martin v S. Power - 2nd Round Match-Up ,Ben Martin,-0.024399999999999977,0.4878,0.5122
 2024-03-22 07:09:06.279935,Round Match-Ups - 2nd Round Match-Up - C. Bezuidenhout vs S. Im - 2nd Round Match-Up,Christiaan Bezuidenhout,-0.024399999999999977,0.4878,0.5122
+2024-03-22 07:09:06.433180,Round Match-Ups - 2nd Round Match-Up - B. Martin v S. Power - 2nd Round Match-Up ,Ben Martin,-0.024399999999999977,0.4878,0.5122
 2024-03-22 11:06:38.057434,Boxing Lines - Sandy Ryan vs Terri Harper - To Win the Bout,Terri Harper,-0.02589999999999998,0.2273,0.2532
-2024-03-22 07:09:07.137814,Singapore Classic - Singapore Classic - Winner,Grant Forrest,-0.0262,0.0123,0.0385
 2024-03-22 09:08:19.756161,College Baseball Futures - College World Series Winner - College World Series Winner,Stanford,-0.0262,0.0123,0.0385
-2024-03-22 01:11:43.779757,College Specials - NCAA Mens Tournament Specials - Total Tournament Wins - Tennessee,Over 2.5,-0.027700000000000002,0.4167,0.4444
+2024-03-22 07:09:07.137814,Singapore Classic - Singapore Classic - Winner,Grant Forrest,-0.0262,0.0123,0.0385
 2024-03-22 03:10:29.274224,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Boston Celtics,-0.027700000000000058,0.5556,0.5833
 2024-03-22 07:08:48.100711,US Senate Elections 2024 - Next Senate Republican Leader After Mitch McConnell - Next Senate Republican Leader,John Cornyn,-0.02779999999999999,0.2222,0.25
 2024-03-22 03:10:29.358374,Central Division - Central Division 2023-24 - Division Winner,Cleveland Cavaliers,-0.02779999999999999,0.25,0.2778
-2024-03-22 01:11:44.275815,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Sweet 16 - To Make Sweet 16,Colorado,-0.02779999999999999,0.2222,0.25
-2024-03-22 01:11:46.801229,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,Seattle Seahawks,-0.027999999999999997,0.0345,0.0625
+2024-03-22 15:09:42.350601,MLB Futures - MLB 2024 Player Awards - American League ROY,Jackson Holliday (BAL),-0.02779999999999999,0.2222,0.25
 2024-03-22 03:10:31.567561,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Chris Finch,-0.028399999999999995,0.0625,0.0909
-2024-03-22 09:08:19.756161,College Baseball Futures - College World Series Winner - College World Series Winner,UCLA,-0.0286,0.0099,0.0385
 2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Lilia Vu,-0.0286,0.0099,0.0385
+2024-03-22 09:08:19.756161,College Baseball Futures - College World Series Winner - College World Series Winner,UCLA,-0.0286,0.0099,0.0385
 2024-03-22 03:10:31.387089,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The Finals - To Make Finals,North Carolina,-0.028799999999999992,0.125,0.1538
-2024-03-22 01:11:43.483135,College Specials - NCAA Mens Tournament Specials - Total Tournament Wins - Arizona,Under 2.5,-0.028900000000000037,0.5455,0.5744
 2024-03-22 07:09:07.137814,Singapore Classic - Singapore Classic - Winner,Thriston Lawrence,-0.029,0.0033,0.0323
 2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Hye Jin Choi,-0.029700000000000004,0.0179,0.0476
 2024-03-22 07:08:48.615056,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the 2020 presidential election Georgia result charges? - Georgia Result State Trial,Yes,-0.030299999999999994,0.6364,0.6667
@@ -297,64 +206,44 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-22 09:08:07.955865,Donald Trump Specials - Which properties will Donald Trump lose by court order? - Which properties will Trump lose?,"Trump Park Avenue, Manhattan",-0.031799999999999995,0.1111,0.1429
 2024-03-22 07:09:07.137814,Singapore Classic - Singapore Classic - Winner,Kiradech Aphibarnrat,-0.0321,0.0588,0.0909
 2024-03-22 13:08:32.062091,FIBA Champions League - Champions League 2023/24 - Outright,Promitheas,-0.033,0.0196,0.0526
-2024-03-22 01:11:43.715483,College Specials - NCAA Mens Tournament Specials - Total Tournament Wins - North Carolina,Over 2.5,-0.033299999999999996,0.4545,0.4878
-2024-03-22 01:12:04.959407,Scores - 2nd Round Score - Sam Burns - 2nd Round Score,Over 69.5,-0.033299999999999996,0.5122,0.5455
 2024-03-22 03:10:31.567561,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Joe Mazzulla,-0.033299999999999996,0.1,0.1333
 2024-03-22 07:08:49.035838,Irish Politics - Irish Presidential Election 2025 - Irish Presidential Election Winner,Mairead McGuinness,-0.033300000000000024,0.1667,0.2
 2024-03-22 07:08:43.827875,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Matteus,-0.033399999999999985,0.1333,0.1667
 2024-03-22 03:10:54.880629,Scores - 2nd Round Score - Jordan Spieth - 2nd Round Score,Under 68.5,-0.0348,0.4,0.4348
-2024-03-22 05:12:58.673885,Scores - 2nd Round Score - Sungjae Im - 2nd Round Score,Under 70.5,-0.03480000000000005,0.5,0.5348
 2024-03-22 05:12:58.644305,Scores - 2nd Round Score - Sam Burns - 2nd Round Score,Under 69.5,-0.03480000000000005,0.5,0.5348
-2024-03-22 03:10:55.053708,Scores - 2nd Round Score - Xander Schauffele - 2nd Round Score,Under 68.5,-0.03489999999999999,0.4651,0.5
+2024-03-22 05:12:58.673885,Scores - 2nd Round Score - Sungjae Im - 2nd Round Score,Under 70.5,-0.03480000000000005,0.5,0.5348
 2024-03-22 05:12:58.713471,Scores - 2nd Round Score - Tony Finau - 2nd Round Score,Under 70.5,-0.03489999999999999,0.4651,0.5
+2024-03-22 03:10:55.053708,Scores - 2nd Round Score - Xander Schauffele - 2nd Round Score,Under 68.5,-0.03489999999999999,0.4651,0.5
 2024-03-22 03:10:29.453487,Southwest Division - Southwest Division 2023-24 - Division Winner,New Orleans Pelicans,-0.035699999999999954,0.7143,0.75
 2024-03-22 05:12:34.970114,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - West Region Winner - To Make NCAA Tournament Final 4,North Carolina,-0.03570000000000001,0.25,0.2857
-2024-03-22 01:11:43.650389,College Specials - NCAA Mens Tournament Specials - Total Tournament Wins - Iowa State,Under 2.5,-0.03610000000000002,0.5556,0.5917
 2024-03-22 03:10:29.409730,Southeast Division - Southeast Division 2023-24 - Division Winner,Miami Heat,-0.03710000000000002,0.3333,0.3704
 2024-03-22 13:08:32.491141,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tulsi Gabbard,-0.037599999999999995,0.1053,0.1429
-2024-03-22 01:11:46.767827,NFL Draft - Player Markets - Team To Draft Player - Caleb Williams,New England Patriots,-0.0392,0.0164,0.0556
 2024-03-22 03:10:54.954813,Scores - 2nd Round Score - Sam Burns - 2nd Round Score,Under 69.5,-0.03959999999999997,0.5348,0.5744
 2024-03-22 05:12:58.754370,Scores - 2nd Round Score - Xander Schauffele - 2nd Round Score,Under 68.5,-0.039600000000000024,0.4255,0.4651
-2024-03-22 01:12:07.467705,Round Match-Ups - 2nd Round Match-Up - E. Cole vs S. Straka - 2nd Round Match-Up,Sepp Straka,-0.04139999999999999,0.5238,0.5652
 2024-03-22 13:08:32.062091,FIBA Champions League - Champions League 2023/24 - Outright,UCAM Murcia,-0.04169999999999999,0.125,0.1667
 2024-03-22 07:09:07.137814,Singapore Classic - Singapore Classic - Winner,Gavin Green,-0.04239999999999999,0.0164,0.0588
-2024-03-22 01:11:46.767827,NFL Draft - Player Markets - Team To Draft Player - Caleb Williams,Atlanta Falcons,-0.0427,0.0099,0.0526
 2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Patty Tavatanakit,-0.0427,0.0099,0.0526
-2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Ayaka Furue,-0.0436,0.004,0.0476
 2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Hyo Joo Kim,-0.0436,0.004,0.0476
+2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Ayaka Furue,-0.0436,0.004,0.0476
 2024-03-22 07:08:49.215171,UK Politics - UK Overall Majority After Next General Election - UK Overall Majority After Next Election,None,-0.043800000000000006,0.1667,0.2105
-2024-03-22 01:11:43.204493,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket –  Alabama vs Auburn,Auburn,-0.04409999999999992,0.6226,0.6667
 2024-03-22 07:09:07.137814,Singapore Classic - Singapore Classic - Winner,Ugo Coussaud,-0.044300000000000006,0.0033,0.0476
 2024-03-22 13:08:32.062091,FIBA Champions League - Champions League 2023/24 - Outright,Ludwigsburg,-0.0448,0.0385,0.0833
 2024-03-22 03:10:55.014550,Scores - 2nd Round Score - Tony Finau - 2nd Round Score,Under 70.5,-0.045499999999999985,0.5,0.5455
 2024-03-22 03:10:54.802458,Scores - 2nd Round Score - Brian Harman - 2nd Round Score,Under 70.5,-0.04700000000000004,0.4878,0.5348
-2024-03-22 01:11:43.293931,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket –  Tennessee vs Iowa State,Tennessee,-0.047099999999999975,0.4651,0.5122
 2024-03-22 07:08:48.663910,Donald Trump Specials - Will Donald Trump be found guilty of one or more of the classified documents federal charges? - Classified Documents Federal Trial,Yes,-0.04760000000000009,0.6667,0.7143
-2024-03-22 01:11:46.579093,NFL Draft - Player Markets - Positional Groups - 1st Wide Receiver Selected,Marvin Harrison Jr.,-0.04810000000000003,0.875,0.9231
-2024-03-22 01:12:04.788933,Scores - 2nd Round Score - Brian Harman - 2nd Round Score,Under 70.5,-0.04849999999999999,0.5348,0.5833
 2024-03-22 07:09:07.137814,Singapore Classic - Singapore Classic - Winner,Shane Lowry,-0.0489,0.0099,0.0588
 2024-03-22 09:08:07.955865,Donald Trump Specials - Which properties will Donald Trump lose by court order? - Which properties will Trump lose?,"Aberdeenshire Golf Course, Scotland",-0.052000000000000005,0.0909,0.1429
-2024-03-22 01:11:46.801229,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,Las Vegas Raiders,-0.052300000000000006,0.0588,0.1111
 2024-03-22 07:08:49.191761,UK Politics - UK Government After Next General Election - UK Govt After Next Election,Labour Minority,-0.05350000000000002,0.1818,0.2353
 2024-03-22 07:08:47.747545,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tim Scott,-0.05550000000000002,0.1667,0.2222
-2024-03-22 01:11:42.973750,College Specials - NCAA Mens Tournament Specials - Buzzer Beaters - Game Winning Buzzer Beating Shot to occur during the 2024 NCAA Men's Basketball Championship Tournament,Yes,-0.05559999999999998,0.4444,0.5
 2024-03-22 03:10:54.842577,Scores - 2nd Round Score - Cameron Young - 2nd Round Score,Under 69.5,-0.05559999999999998,0.4444,0.5
 2024-03-22 05:12:58.923625,Seri Pak Championship - Seri Pak Championship - Winner,Nelly Korda,-0.06309999999999999,0.0278,0.0909
-2024-03-22 01:11:46.801229,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,Washington Commanders,-0.06480000000000001,0.0833,0.1481
 2024-03-22 07:08:48.100711,US Senate Elections 2024 - Next Senate Republican Leader After Mitch McConnell - Next Senate Republican Leader,John Thune,-0.06669999999999998,0.6,0.6667
 2024-03-22 09:08:20.382314,MLB Futures - MLB 2024 Player Awards - National League ROY,Yoshinobu Yamamoto (R),-0.06670000000000004,0.3333,0.4
 2024-03-22 07:08:44.207934,Juno Awards - Juno Awards 2024 - Single of the Year - Single of the Year Winner,Charlotte Cardin - Confetti,-0.06779999999999997,0.4444,0.5122
 2024-03-22 07:08:44.207934,Juno Awards - Juno Awards 2024 - Single of the Year - Single of the Year Winner,Tate McRae - Greedy,-0.06779999999999997,0.4444,0.5122
 2024-03-22 09:08:07.955865,Donald Trump Specials - Which properties will Donald Trump lose by court order? - Which properties will Trump lose?,"Trump Tower Triplex, Manhattan",-0.06820000000000001,0.1818,0.25
-2024-03-22 01:11:46.646121,NFL Draft - Player Markets - Positional Groups - Caleb Williams 1st QB Drafted / Marvin Harrison Jr 1st WR Drafted Exacta,Yes,-0.08040000000000003,0.8571,0.9375
 2024-03-22 07:08:44.150062,Juno Awards - Juno Awards 2024 - Artist of the Year - Artist of the Year Winner,Charlotte Cardin,-0.08330000000000004,0.75,0.8333
-2024-03-22 01:11:46.862028,NFL Draft - Player Markets - Team To Draft Player - Marvin Harrison Jr,Arizona Cardinals,-0.08899999999999997,0.661,0.75
 2024-03-22 07:08:47.831291,Republicans - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win 40.01 to 45% of the popular vote,-0.09620000000000001,0.1538,0.25
 2024-03-22 07:09:07.137814,Singapore Classic - Singapore Classic - Winner,Jordan Smith,-0.1049,0.0769,0.1818
 2024-03-22 07:08:43.827875,Big Brother Brazil - Outright Winner BBB24 - Outright Winner,Isabelle,-0.1167,0.1333,0.25
-2024-03-22 01:11:43.891873,College Specials - NCAA Mens Tournament Specials - Wins by Atlantic 10 Teams in 2024 Men's NCAA Tournament,Under 1.5,-0.15150000000000008,0.6667,0.8182
 2024-03-22 07:08:44.184092,Juno Awards - Juno Awards 2024 - Fan Choice Award - Fan Choice Award Winner,Charlotte Cardin,-0.15559999999999996,0.4444,0.6
-2024-03-22 01:11:46.862028,NFL Draft - Player Markets - Team To Draft Player - Marvin Harrison Jr,Chicago Bears,-0.1667,0.1,0.2667
-2024-03-22 01:11:46.767827,NFL Draft - Player Markets - Team To Draft Player - Caleb Williams,Washington Commanders,-0.1837,0.0385,0.2222
-2024-03-22 01:11:43.354089,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket – Dayton vs Duquesne,Dayton,-0.22650000000000003,0.4878,0.7143
-2024-03-22 01:11:43.423771,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket – Oregon vs North Carolina State,Oregon,-0.39150000000000007,0.2381,0.6296
