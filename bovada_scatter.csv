@@ -1,85 +1,114 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-22 21:08:30.864814,Hoag Classic - Hoag Classic - Winner,Padraig Harrington,0.23329999999999998,0.3333,0.1
 2024-03-22 21:08:19.054991,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Connecticut,0.2028000000000001,0.8182,0.6154
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,David Micheluzzi,0.1804,0.2,0.0196
 2024-03-22 21:08:19.054991,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Colorado,0.1746,0.2857,0.1111
 2024-03-22 21:08:19.054991,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Marquette,0.16670000000000001,0.5,0.3333
 2024-03-22 21:08:30.816703,Seri Pak Championship - Seri Pak Championship - Winner,Ruoning Yin,0.15739999999999998,0.1818,0.0244
-2024-03-22 13:08:32.062091,FIBA Champions League - Champions League 2023/24 - Outright,Unicaja Malaga,0.14290000000000003,0.4762,0.3333
 2024-03-22 21:08:30.864814,Hoag Classic - Hoag Classic - Winner,Thongchai Jaidee,0.14229999999999998,0.1667,0.0244
 2024-03-22 21:08:19.054991,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Baylor,0.11109999999999998,0.3333,0.2222
 2024-03-22 21:08:19.054991,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,San Diego State,0.1079,0.1667,0.0588
+2024-03-23 03:01:32.891852,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,0.10000000000000009,0.8333,0.7333
 2024-03-22 17:11:26.757298,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - East Region Winner - To Make NCAA Tournament Final 4,Connecticut,0.09999999999999998,0.6,0.5
 2024-03-22 21:08:30.864814,Hoag Classic - Hoag Classic - Winner,Paul Broadhurst,0.098,0.1176,0.0196
-2024-03-22 13:08:32.062091,FIBA Champions League - Champions League 2023/24 - Outright,Tenerife,0.0857,0.2857,0.2
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Andy Sullivan,0.08979999999999999,0.1667,0.0769
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Sam Bairstow,0.0815,0.125,0.0435
 2024-03-22 17:11:26.304232,NBL - NBL 2023/2024 - Outright,Tasmania JackJumpers,0.08080000000000004,0.4444,0.3636
 2024-03-22 15:09:42.350601,MLB Futures - MLB 2024 Player Awards - American League ROY,Wyatt Langford (TEX),0.0799,0.3125,0.2326
+2024-03-23 03:01:32.857184,Central Division - Central Division 2023-24 - Division Winner,Milwaukee Bucks,0.06669999999999998,0.9,0.8333
 2024-03-22 21:08:30.816703,Seri Pak Championship - Seri Pak Championship - Winner,Leona Maguire,0.061,0.0667,0.0057
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Paul Casey,0.058300000000000005,0.125,0.0667
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Shubankar Sharma,0.0573,0.0769,0.0196
 2024-03-22 21:08:19.054991,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Clemson,0.056400000000000006,0.1333,0.0769
 2024-03-22 21:08:30.816703,Seri Pak Championship - Seri Pak Championship - Winner,Rose Zhang,0.056400000000000006,0.1333,0.0769
+2024-03-23 03:01:33.047405,College Specials - NCAA Mens Tournament Specials - Buzzer Beaters - Game Winning Buzzer Beating Shot to occur during the 2024 NCAA Men's Basketball Championship Tournament,No,0.05479999999999996,0.6774,0.6226
 2024-03-22 21:08:19.054991,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Tennessee,0.05299999999999999,0.4878,0.4348
+2024-03-23 03:01:33.522250,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Jamahl Mosley,0.052000000000000005,0.1429,0.0909
 2024-03-23 01:02:55.106994,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Derrick Henry,0.0515,0.0667,0.0152
 2024-03-22 17:11:26.725146,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Connecticut,0.0504,0.2857,0.2353
 2024-03-22 21:08:30.816703,Seri Pak Championship - Seri Pak Championship - Winner,Madelene Sagstrom,0.05,0.1333,0.0833
-2024-03-22 13:08:32.491141,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tim Scott,0.043800000000000006,0.2105,0.1667
+2024-03-23 03:01:33.056335,College Specials - NCAA Mens Tournament Specials - Conference to Win 2024 Men's NCAA Tournament,Big East,0.04799999999999999,0.3077,0.2597
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Ratchanon Chantananuwat,0.0436,0.0476,0.004
 2024-03-22 17:11:26.757298,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - East Region Winner - To Make NCAA Tournament Final 4,San Diego State,0.04329999999999999,0.0909,0.0476
-2024-03-22 13:08:32.062091,FIBA Champions League - Champions League 2023/24 - Outright,Peristeri,0.040100000000000004,0.05,0.0099
+2024-03-23 03:01:32.879899,Pacific Division - Pacific Division 2023-24 - Division Winner,Phoenix Suns,0.04239999999999999,0.0769,0.0345
+2024-03-23 03:01:32.809070,NBA Championship - NBA Championship 2023-24 - First Time Winner,No,0.03880000000000006,0.8214,0.7826
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Matthias Schwab,0.0345,0.0385,0.004
 2024-03-23 01:02:55.087679,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Raheem Morris,0.034100000000000005,0.125,0.0909
+2024-03-23 03:01:33.462372,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Naz Reid (MIN),0.03270000000000001,0.0952,0.0625
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Sebastian Soderberg,0.0319,0.0385,0.0066
 2024-03-22 21:08:30.816703,Seri Pak Championship - Seri Pak Championship - Winner,Malia Nam,0.031200000000000002,0.0476,0.0164
-2024-03-22 21:08:30.816703,Seri Pak Championship - Seri Pak Championship - Winner,Linn Grant,0.031,0.0588,0.0278
 2024-03-22 21:08:30.816703,Seri Pak Championship - Seri Pak Championship - Winner,Nelly Korda,0.031,0.0588,0.0278
+2024-03-22 21:08:30.816703,Seri Pak Championship - Seri Pak Championship - Winner,Linn Grant,0.031,0.0588,0.0278
 2024-03-22 21:08:30.864814,Hoag Classic - Hoag Classic - Winner,Miguel Angel Jimenez,0.030699999999999998,0.0833,0.0526
-2024-03-22 13:08:32.491141,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Kristi Noem,0.028700000000000003,0.2105,0.1818
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Shane Lowry,0.0286,0.0385,0.0099
+2024-03-23 03:01:33.074073,College Specials - NCAA Mens Tournament Specials - Region to Win 2024 NCAA Tournament,South,0.026000000000000023,0.2857,0.2597
+2024-03-23 03:01:32.839695,Western Conference - Western Conference 2023-24 - Western Conference Winner,Oklahoma City Thunder,0.025300000000000003,0.1429,0.1176
 2024-03-22 21:08:30.864814,Hoag Classic - Hoag Classic - Winner,Alex Cejka,0.0245,0.0833,0.0588
 2024-03-22 21:08:30.816703,Seri Pak Championship - Seri Pak Championship - Winner,Ashleigh Buhai,0.024499999999999997,0.0278,0.0033
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Ewen Ferguson,0.024299999999999995,0.0769,0.0526
 2024-03-22 23:07:57.271824,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Texas (W),0.024,0.0625,0.0385
 2024-03-22 23:08:17.551527,Round Match-Ups - 3rd Round Match-Up - K. Mitchell vs L. Glover - 3rd Round Match-Up,Keith Mitchell,0.022600000000000064,0.5348,0.5122
 2024-03-22 21:08:19.054991,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Yale,0.022400000000000003,0.0323,0.0099
+2024-03-23 03:01:33.542831,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Victor Wembanyama (SAS),0.022199999999999998,0.2222,0.2
 2024-03-22 23:08:17.514298,Round Match-Ups - 3rd Round Match-Up - J. Thomas vs X. Schauffele - 3rd Round Match-Up,Justin Thomas,0.021699999999999997,0.4762,0.4545
 2024-03-23 01:03:01.698469,Round Match-Ups - 3rd Round Match-Up - K. Mitchell vs L. Glover - 3rd Round Match-Up,Keith Mitchell,0.02079999999999993,0.5556,0.5348
 2024-03-22 17:11:26.725146,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,San Diego State,0.020700000000000003,0.0323,0.0116
+2024-03-23 03:01:33.593875,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Nikola Jokic (DEN),0.020500000000000074,0.8667,0.8462
+2024-03-23 03:01:32.879899,Pacific Division - Pacific Division 2023-24 - Division Winner,L.A. Clippers,0.01979999999999993,0.9722,0.9524
 2024-03-22 21:08:30.864814,Hoag Classic - Hoag Classic - Winner,Retief Goosen,0.019099999999999995,0.0435,0.0244
+2024-03-23 03:01:43.887291,Round Match-Ups - 3rd Round Match-Up - B. Todd vs M . Hughes - 3rd Round Match-Up,Brendon Todd,0.01880000000000004,0.5744,0.5556
 2024-03-22 15:09:27.526877,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Marquette,0.018200000000000004,0.0476,0.0294
 2024-03-23 01:03:00.926563,Boxing Lines - Alejandro Paulino vs Estivan Falcao - To Win the Bout,Estivan Falcao,0.0179,0.1429,0.125
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Alejandro Del Rey,0.017599999999999998,0.0196,0.002
+2024-03-23 03:01:32.839695,Western Conference - Western Conference 2023-24 - Western Conference Winner,Minnesota Timberwolves,0.016600000000000004,0.0833,0.0667
 2024-03-22 21:08:19.045031,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - Midwest Region Winner - To Make NCAA Tournament Final 4,Kansas,0.016600000000000004,0.0833,0.0667
 2024-03-22 17:11:26.757298,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - East Region Winner - To Make NCAA Tournament Final 4,Iowa State,0.016000000000000014,0.2222,0.2062
-2024-03-22 17:11:26.757298,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - East Region Winner - To Make NCAA Tournament Final 4,Northwestern,0.0159,0.0323,0.0164
 2024-03-22 21:08:30.816703,Seri Pak Championship - Seri Pak Championship - Winner,Mao Saigo,0.0159,0.0323,0.0164
+2024-03-22 17:11:26.757298,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - East Region Winner - To Make NCAA Tournament Final 4,Northwestern,0.0159,0.0323,0.0164
+2024-03-23 03:01:33.056335,College Specials - NCAA Mens Tournament Specials - Conference to Win 2024 Men's NCAA Tournament,Pac-12,0.015899999999999997,0.1111,0.0952
 2024-03-23 01:02:54.649699,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Drake Maye / 3. Marvin Harrison Jr,0.015700000000000006,0.1333,0.1176
 2024-03-22 21:08:19.045031,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - Midwest Region Winner - To Make NCAA Tournament Final 4,Gonzaga,0.015700000000000006,0.1333,0.1176
 2024-03-23 01:02:55.062013,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Kirk Cousins,0.0157,0.0435,0.0278
 2024-03-22 23:07:57.271824,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Stanford (W),0.014899999999999997,0.0625,0.0476
 2024-03-22 17:11:26.725146,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Colorado,0.014599999999999998,0.0196,0.005
+2024-03-23 03:01:42.618405,Boxing Lines - Connan Murray vs Edgar Kemsky - To Win the Bout,Connan Murray,0.014599999999999946,0.995,0.9804
 2024-03-23 01:02:55.062013,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Russell Wilson,0.0145,0.0244,0.0099
 2024-03-22 23:07:57.271824,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,North Carolina (W),0.014400000000000001,0.0164,0.002
+2024-03-23 03:01:32.827771,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Philadelphia 76ers,0.014399999999999996,0.0769,0.0625
 2024-03-23 01:02:55.087679,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Mike Tomlin,0.014100000000000001,0.0526,0.0385
-2024-03-22 13:08:32.075216,Bundesliga - Germany Bundesliga 2023/24 - Outright,Chemnitz 99,0.013999999999999999,0.0909,0.0769
 2024-03-22 21:08:30.816703,Seri Pak Championship - Seri Pak Championship - Winner,Allisen Corpuz,0.0139,0.0152,0.0013
 2024-03-22 21:08:19.066770,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,LSU (W),0.013899999999999996,0.125,0.1111
 2024-03-22 15:09:27.526877,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Connecticut,0.0131,0.2353,0.2222
 2024-03-23 01:02:55.106994,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Russell Wilson,0.013,0.0196,0.0066
 2024-03-23 01:02:55.106994,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Gus Edwards,0.013,0.0196,0.0066
+2024-03-23 03:01:44.310099,Main Markets - 3rd Round Six-Shooter - Group A - X. Schauffele / C. Bezuidenhout / J. Thomas / K. Mitchell / C. Young / A. Hadwin - 3rd Round Six-Shooter,Keith Mitchell,0.012899999999999995,0.1667,0.1538
 2024-03-23 01:02:55.097477,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Micah Parsons,0.012899999999999995,0.1667,0.1538
+2024-03-23 03:01:33.056335,College Specials - NCAA Mens Tournament Specials - Conference to Win 2024 Men's NCAA Tournament,Field (Any Other Conference Not Listed),0.0127,0.0152,0.0025
+2024-03-23 01:02:55.106994,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Josh Jacobs,0.011699999999999999,0.0196,0.0079
 2024-03-23 01:02:55.106994,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),George Pickens,0.011699999999999999,0.0196,0.0079
 2024-03-22 21:08:30.816703,Seri Pak Championship - Seri Pak Championship - Winner,Albane Valenzuela,0.011699999999999999,0.0196,0.0079
-2024-03-23 01:02:55.106994,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Josh Jacobs,0.011699999999999999,0.0196,0.0079
 2024-03-22 15:09:43.340746,Boxing Lines - Sandy Ryan vs Terri Harper - To Win the Bout,Sandy Ryan,0.011200000000000099,0.8403,0.8291
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Jesper Svensson,0.0112,0.0152,0.004
 2024-03-23 01:02:55.106994,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Saquon Barkley,0.011199999999999995,0.0435,0.0323
+2024-03-23 03:01:32.782406,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Conference,Eastern Conference,0.01100000000000001,0.5348,0.5238
 2024-03-22 21:08:19.026001,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Houston,0.010899999999999993,0.1538,0.1429
-2024-03-22 13:08:40.604351,Boxing Lines - Sandy Ryan vs Terri Harper - To Win the Bout,Terri Harper,0.010800000000000004,0.2381,0.2273
 2024-03-22 17:11:26.757298,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - East Region Winner - To Make NCAA Tournament Final 4,Washington State,0.010700000000000001,0.0385,0.0278
 2024-03-23 01:03:00.806576,Boxing Lines - Martina Bernile vs Nina Radovanovic - To Win the Bout,Martina Bernile,0.010699999999999932,0.5455,0.5348
 2024-03-22 17:11:44.919186,Boxing Lines - Ishmael Davis vs Troy Williamson - To Win the Bout,Troy Williamson,0.010099999999999998,0.3226,0.3125
 2024-03-22 15:09:43.045906,Boxing Lines - Deanha Hobbs vs Tywarna Campbell - To Win the Bout,Tywarna Campbell,0.010099999999999998,0.3226,0.3125
+2024-03-23 03:01:32.774028,NBA Championship - NBA Championship 2023-24 - NBA Champion,Boston Celtics,0.010099999999999998,0.3226,0.3125
 2024-03-22 21:08:19.054991,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Dayton,-0.010099999999999998,0.0952,0.1053
 2024-03-22 15:09:43.199900,Boxing Lines - Ishmael Davis vs Troy Williamson - To Win the Bout,Troy Williamson,-0.010099999999999998,0.3125,0.3226
 2024-03-23 01:02:55.087679,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Demeco Ryans,-0.0102,0.0667,0.0769
-2024-03-23 01:02:55.062013,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Justin Herbert,-0.0102,0.0667,0.0769
-2024-03-23 01:02:55.062013,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Brock Purdy,-0.0102,0.0667,0.0769
 2024-03-23 01:02:55.097477,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Aidan Hutchinson,-0.0102,0.0667,0.0769
+2024-03-23 01:02:55.062013,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Brock Purdy,-0.0102,0.0667,0.0769
+2024-03-23 01:02:55.062013,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Justin Herbert,-0.0102,0.0667,0.0769
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Simon Forsstrom,-0.0103,0.002,0.0123
 2024-03-22 15:09:27.564514,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - Midwest Region Winner - To Make NCAA Tournament Final 4,Creighton,-0.010499999999999982,0.2,0.2105
 2024-03-22 21:08:28.820025,Boxing Lines - Dana Coolwell vs Fernando Tagpuno Jr. - To Win the Bout,Fernando Tagpuno Jr.,-0.010499999999999982,0.2,0.2105
 2024-03-22 21:08:30.864814,Hoag Classic - Hoag Classic - Winner,Ricardo Gonzalez,-0.0106,0.0017,0.0123
 2024-03-22 21:08:19.026001,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,San Diego State,-0.010600000000000002,0.0217,0.0323
+2024-03-23 03:01:32.782406,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Conference,Western Conference,-0.010699999999999932,0.5348,0.5455
 2024-03-22 15:09:43.340746,Boxing Lines - Sandy Ryan vs Terri Harper - To Win the Bout,Terri Harper,-0.010800000000000004,0.2273,0.2381
 2024-03-23 01:02:55.062013,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Patrick Mahomes,-0.010899999999999993,0.1429,0.1538
 2024-03-23 01:03:00.806576,Boxing Lines - Martina Bernile vs Nina Radovanovic - To Win the Bout,Nina Radovanovic,-0.01100000000000001,0.5238,0.5348
@@ -88,23 +117,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-22 21:08:19.066770,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Stanford (W),-0.011199999999999995,0.0476,0.0588
 2024-03-23 01:02:55.087679,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Zac Taylor,-0.011199999999999995,0.0323,0.0435
 2024-03-22 21:08:30.816703,Seri Pak Championship - Seri Pak Championship - Winner,Lucy Li,-0.0112,0.002,0.0132
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Matthew Jordan,-0.011300000000000001,0.001,0.0123
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Grant Forrest,-0.011300000000000001,0.001,0.0123
 2024-03-22 21:08:30.864814,Hoag Classic - Hoag Classic - Winner,Joe Durant,-0.0119,0.0033,0.0152
 2024-03-22 21:08:19.066770,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Iowa (W),-0.012899999999999995,0.1538,0.1667
-2024-03-22 21:08:30.864814,Hoag Classic - Hoag Classic - Winner,Justin Leonard,-0.0131,0.0033,0.0164
 2024-03-23 01:02:55.087679,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Matt Eberflus,-0.0131,0.0345,0.0476
+2024-03-22 21:08:30.864814,Hoag Classic - Hoag Classic - Winner,Justin Leonard,-0.0131,0.0033,0.0164
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Niklas Norgaard,-0.0132,0.002,0.0152
 2024-03-23 01:02:55.062013,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Lamar Jackson,-0.013999999999999999,0.0769,0.0909
 2024-03-23 01:02:55.062013,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Tua Tagovailoa,-0.014100000000000001,0.0385,0.0526
 2024-03-22 21:08:19.054991,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Oakland,-0.014399999999999996,0.0625,0.0769
 2024-03-23 01:02:55.062013,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Justin Fields,-0.0145,0.0099,0.0244
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Guido Migliozzi,-0.014599999999999998,0.005,0.0196
 2024-03-22 21:08:30.816703,Seri Pak Championship - Seri Pak Championship - Winner,Ally Ewing,-0.015100000000000002,0.0013,0.0164
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Gavin Green,-0.0154,0.001,0.0164
 2024-03-22 21:08:30.864814,Hoag Classic - Hoag Classic - Winner,Vijay Singh,-0.015499999999999998,0.0123,0.0278
 2024-03-22 21:08:30.816703,Seri Pak Championship - Seri Pak Championship - Winner,Xiyu Lin,-0.016600000000000004,0.0667,0.0833
 2024-03-22 15:09:27.564514,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - Midwest Region Winner - To Make NCAA Tournament Final 4,Kansas,-0.016600000000000004,0.0667,0.0833
 2024-03-23 01:03:00.926563,Boxing Lines - Alejandro Paulino vs Estivan Falcao - To Win the Bout,Alejandro Paulino,-0.01660000000000006,0.9167,0.9333
 2024-03-22 21:08:30.864814,Hoag Classic - Hoag Classic - Winner,Darren Clarke,-0.0168,0.0217,0.0385
 2024-03-23 01:02:55.087679,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Shane Steichen,-0.018099999999999998,0.0588,0.0769
-2024-03-22 13:08:32.062091,FIBA Champions League - Champions League 2023/24 - Outright,Tofas,-0.018200000000000004,0.0294,0.0476
-2024-03-22 13:08:32.307511,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Marquette,-0.018200000000000004,0.0294,0.0476
 2024-03-22 21:08:19.054991,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,NC State,-0.019000000000000017,0.2667,0.2857
 2024-03-22 21:08:30.864814,Hoag Classic - Hoag Classic - Winner,Stephen Ames,-0.019099999999999992,0.0476,0.0667
 2024-03-22 21:08:30.864814,Hoag Classic - Hoag Classic - Winner,Mark Hensby,-0.019100000000000002,0.0132,0.0323
@@ -115,30 +147,42 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-22 21:08:19.066770,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Texas (W),-0.0203,0.0385,0.0588
 2024-03-22 21:08:30.864814,Hoag Classic - Hoag Classic - Winner,Greg Chalmers,-0.021900000000000003,0.0025,0.0244
 2024-03-22 23:08:17.551527,Round Match-Ups - 3rd Round Match-Up - K. Mitchell vs L. Glover - 3rd Round Match-Up,Lucas Glover,-0.022600000000000064,0.5122,0.5348
+2024-03-23 03:01:43.887291,Round Match-Ups - 3rd Round Match-Up - B. Todd vs M . Hughes - 3rd Round Match-Up,Mackenzie Hughes,-0.022699999999999998,0.4651,0.4878
 2024-03-23 01:02:55.087679,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Robert Saleh,-0.024,0.0385,0.0625
 2024-03-23 01:03:01.698469,Round Match-Ups - 3rd Round Match-Up - K. Mitchell vs L. Glover - 3rd Round Match-Up,Lucas Glover,-0.024399999999999977,0.4878,0.5122
 2024-03-22 21:08:19.054991,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Oregon,-0.025300000000000003,0.1176,0.1429
 2024-03-22 23:08:17.514298,Round Match-Ups - 3rd Round Match-Up - J. Thomas vs X. Schauffele - 3rd Round Match-Up,Xander Schauffele,-0.026499999999999968,0.5652,0.5917
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Alex Fitzpatrick,-0.026799999999999997,0.001,0.0278
 2024-03-22 21:08:30.864814,Hoag Classic - Hoag Classic - Winner,Richard Green,-0.0274,0.0071,0.0345
 2024-03-22 15:09:42.350601,MLB Futures - MLB 2024 Player Awards - American League ROY,Jackson Holliday (BAL),-0.02779999999999999,0.2222,0.25
+2024-03-23 03:01:32.799507,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning State,California,-0.02779999999999999,0.2222,0.25
 2024-03-23 01:02:55.087679,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Matt LaFleur,-0.027800000000000005,0.0833,0.1111
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Jordan Smith,-0.029299999999999993,0.0476,0.0769
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Kiradech Aphibarnrat,-0.031,0.0278,0.0588
 2024-03-22 21:08:30.864814,Hoag Classic - Hoag Classic - Winner,David Toms,-0.031200000000000002,0.0033,0.0345
-2024-03-22 13:08:32.062091,FIBA Champions League - Champions League 2023/24 - Outright,Promitheas,-0.033,0.0196,0.0526
 2024-03-22 21:08:30.816703,Seri Pak Championship - Seri Pak Championship - Winner,Yuna Nishimura,-0.0365,0.002,0.0385
 2024-03-22 21:08:30.816703,Seri Pak Championship - Seri Pak Championship - Winner,Maude-Aimee Leblanc,-0.0375,0.001,0.0385
-2024-03-22 13:08:32.491141,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tulsi Gabbard,-0.037599999999999995,0.1053,0.1429
 2024-03-22 21:08:30.864814,Hoag Classic - Hoag Classic - Winner,Jerry Kelly,-0.0389,0.0278,0.0667
-2024-03-22 13:08:32.062091,FIBA Champions League - Champions League 2023/24 - Outright,UCAM Murcia,-0.04169999999999999,0.125,0.1667
 2024-03-22 21:08:30.864814,Hoag Classic - Hoag Classic - Winner,Kevin Sutherland,-0.04190000000000001,0.0057,0.0476
 2024-03-23 01:02:55.106994,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Justin Jefferson,-0.04240000000000001,0.0909,0.1333
-2024-03-22 13:08:32.062091,FIBA Champions League - Champions League 2023/24 - Outright,Ludwigsburg,-0.0448,0.0385,0.0833
 2024-03-22 21:08:30.864814,Hoag Classic - Hoag Classic - Winner,Brian Gay,-0.0469,0.0057,0.0526
 2024-03-22 21:08:19.054991,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Texas,-0.04849999999999999,0.1333,0.1818
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Romain Langasque,-0.0501,0.0025,0.0526
 2024-03-22 17:11:26.304232,NBL - NBL 2023/2024 - Outright,Melbourne United,-0.051100000000000034,0.6364,0.6875
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Freddy Schott,-0.0516,0.001,0.0526
+2024-03-23 03:01:33.047405,College Specials - NCAA Mens Tournament Specials - Buzzer Beaters - Game Winning Buzzer Beating Shot to occur during the 2024 NCAA Men's Basketball Championship Tournament,Yes,-0.052200000000000024,0.3922,0.4444
 2024-03-23 01:02:55.087679,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jim Harbaugh,-0.05559999999999998,0.1111,0.1667
 2024-03-23 01:02:55.106994,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Christian McCaffrey,-0.05710000000000001,0.1429,0.2
+2024-03-23 03:01:33.565544,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Coby White (CHI),-0.0595,0.4167,0.4762
 2024-03-22 21:08:30.816703,Seri Pak Championship - Seri Pak Championship - Winner,Brooke Henderson,-0.06180000000000001,0.0435,0.1053
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Paul Waring,-0.06269999999999999,0.004,0.0667
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Matthieu Pavon,-0.0666,0.0667,0.1333
 2024-03-22 21:08:30.864814,Hoag Classic - Hoag Classic - Winner,Steve Stricker,-0.06669999999999998,0.1,0.1667
+2024-03-23 03:01:33.056335,College Specials - NCAA Mens Tournament Specials - Conference to Win 2024 Men's NCAA Tournament,SEC,-0.0705,0.0833,0.1538
+2024-03-23 03:01:32.891852,Southeast Division - Southeast Division 2023-24 - Division Winner,Miami Heat,-0.08329999999999999,0.25,0.3333
+2024-03-23 03:01:32.857184,Central Division - Central Division 2023-24 - Division Winner,Cleveland Cavaliers,-0.08330000000000001,0.1667,0.25
 2024-03-22 21:08:30.864814,Hoag Classic - Hoag Classic - Winner,Ernie Els,-0.0901,0.0099,0.1
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Rasmus Hojgaard,-0.099,0.001,0.1
 2024-03-22 21:08:30.816703,Seri Pak Championship - Seri Pak Championship - Winner,Yuka Saso,-0.10450000000000001,0.0066,0.1111
 2024-03-22 21:08:30.864814,Hoag Classic - Hoag Classic - Winner,Steven Alker,-0.1363,0.0066,0.1429
+2024-03-23 03:01:44.359793,Singapore Classic - Singapore Classic - Winner,Richard Mansell,-0.1396,0.0033,0.1429
