@@ -1,86 +1,24 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-03-23 05:03:34.913374,College Specials - NCAA Mens Tournament Specials - Conference with most 2024 NCAA Tournament wins,Pac-12,0.3513,0.3636,0.0123
-2024-03-23 05:03:35.175434,College Specials - NCAA Mens Tournament Specials - Wins by Big East Teams in 2024 Men's NCAA Tournament,Over 7.5,0.11740000000000006,0.6296,0.5122
-2024-03-23 05:03:34.913374,College Specials - NCAA Mens Tournament Specials - Conference with most 2024 NCAA Tournament wins,Big East,0.0807,0.1333,0.0526
-2024-03-23 05:03:35.285931,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Grand Canyon,0.0774,0.125,0.0476
-2024-03-23 05:03:35.122839,College Specials - NCAA Mens Tournament Specials - Total Tournament Wins - Purdue,Over 3.5,0.07290000000000002,0.4651,0.3922
-2024-03-23 05:03:35.087122,College Specials - NCAA Mens Tournament Specials - Total Tournament Wins - Houston,Over 3.5,0.06519999999999998,0.5,0.4348
-2024-03-23 05:03:34.913374,College Specials - NCAA Mens Tournament Specials - Conference with most 2024 NCAA Tournament wins,ACC,0.0577,0.1053,0.0476
-2024-03-23 05:03:34.929824,College Specials - NCAA Mens Tournament Specials - Number of 1 Seeds to reach 2024 Final Four,Under 1.5,0.05059999999999998,0.5744,0.5238
-2024-03-23 05:03:35.296026,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The Finals - To Make Finals,Duke,0.047400000000000005,0.1,0.0526
 2024-03-23 11:10:11.229615,"Daily Specials - NBA Daily Specials - Saturday, 23rd of March","Kevin Durant 24+ Pts, Clint Capela 10+ Rebounds",0.04139999999999999,0.4762,0.4348
-2024-03-23 05:03:35.296026,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The Finals - To Make Finals,Colorado,0.0397,0.0476,0.0079
-2024-03-23 05:03:35.251324,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - South Region Winner - To Make NCAA Tournament Final 4,Colorado,0.038299999999999994,0.0909,0.0526
-2024-03-23 05:03:35.296026,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The Finals - To Make Finals,Connecticut,0.03710000000000002,0.3704,0.3333
-2024-03-23 05:03:35.016424,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket – Connecticut vs Houston,Connecticut,0.03479999999999994,0.6,0.5652
-2024-03-23 05:03:35.262056,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - West Region Winner - To Make NCAA Tournament Final 4,Clemson,0.0347,0.0625,0.0278
-2024-03-23 05:03:35.251324,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - South Region Winner - To Make NCAA Tournament Final 4,James Madison,0.0335,0.0476,0.0141
-2024-03-23 05:03:35.296026,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The Finals - To Make Finals,Marquette,0.03330000000000001,0.1,0.0667
-2024-03-23 05:03:35.262056,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - West Region Winner - To Make NCAA Tournament Final 4,Grand Canyon,0.033,0.0526,0.0196
-2024-03-23 05:03:35.262056,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - West Region Winner - To Make NCAA Tournament Final 4,Alabama,0.031799999999999995,0.1429,0.1111
-2024-03-23 05:03:35.285931,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,James Madison,0.030199999999999998,0.0625,0.0323
-2024-03-23 05:03:35.024675,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket – Creighton vs Baylor,Creighton,0.026499999999999968,0.5917,0.5652
-2024-03-23 05:03:47.498211,Round Match-Ups - 3rd Round Match-Up - J. Thomas vs X. Schauffele - 3rd Round Match-Up,Xander Schauffele,0.026499999999999968,0.5917,0.5652
 2024-03-23 11:10:33.180315,Round Match-Ups - Final Round Match-Up - P. Casey v S. Lowry - Final Round Match-Up ,Shane Lowry,0.026499999999999968,0.5917,0.5652
-2024-03-23 05:03:35.296026,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The Finals - To Make Finals,NC State,0.0253,0.0385,0.0132
-2024-03-23 05:03:34.990327,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket –  North Carolina vs Duke,Duke,0.024500000000000022,0.4167,0.3922
-2024-03-23 05:03:35.285931,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Utah State,0.024,0.0625,0.0385
-2024-03-23 05:03:35.296026,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The Finals - To Make Finals,San Diego State,0.023200000000000002,0.0476,0.0244
 2024-03-23 09:06:16.931043,Round Match-Ups - 3rd Round Match-Up - K. Mitchell vs L. Glover - 3rd Round Match-Up,Lucas Glover,0.022699999999999998,0.4878,0.4651
+2024-03-23 17:11:38.778852,Singapore Classic - 2/3 Balls - Final Round 3 Ball - H. Li / S. Lowry / J. Svensson - Final Round 3 Ball ,Shane Lowry,0.02169999999999994,0.5455,0.5238
 2024-03-23 09:06:16.978046,Round Match-Ups - 3rd Round Match-Up - B. Todd vs M . Hughes - 3rd Round Match-Up,Mackenzie Hughes,0.020699999999999996,0.4651,0.4444
 2024-03-23 09:06:16.192929,Boxing Lines - Martina Bernile vs Nina Radovanovic - To Win the Bout,Martina Bernile,0.01970000000000005,0.5652,0.5455
 2024-03-23 09:06:16.904707,Round Match-Ups - 3rd Round Match-Up - A. Baddeley v C. Phillips - 3rd Round Match-Up ,Aaron Baddeley,0.01970000000000005,0.5652,0.5455
 2024-03-23 11:10:33.102590,Round Match-Ups - Final Round Match-Up - Haotong Li v R. Hoshino - Final Round Match-Up ,Rikuya Hoshino,0.01880000000000004,0.5744,0.5556
-2024-03-23 05:03:47.537166,Round Match-Ups - 3rd Round Match-Up - K. Mitchell vs L. Glover - 3rd Round Match-Up,Keith Mitchell,0.01880000000000004,0.5744,0.5556
-2024-03-23 05:03:35.296026,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The Finals - To Make Finals,Alabama,0.018800000000000004,0.0714,0.0526
-2024-03-23 05:03:35.296026,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The Finals - To Make Finals,Creighton,0.01830000000000001,0.0952,0.0769
 2024-03-23 13:12:38.414290,MLB Futures - MLB 2024 Player Awards - National League ROY,Shota Imanaga (L),0.01830000000000001,0.0952,0.0769
-2024-03-23 05:03:35.285931,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Texas A&M,0.01830000000000001,0.0952,0.0769
-2024-03-23 05:03:35.251324,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - South Region Winner - To Make NCAA Tournament Final 4,Houston,0.018100000000000005,0.4348,0.4167
 2024-03-23 11:10:33.848011,Singapore Classic - Singapore Classic - Winner,Sam Bairstow,0.0179,0.1429,0.125
-2024-03-23 05:03:47.291045,Round Match-Ups - 3rd Round Match-Up - B. Todd vs M . Hughes - 3rd Round Match-Up,Brendon Todd,0.017299999999999982,0.5917,0.5744
-2024-03-23 05:03:34.964360,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket –  Connecticut vs Marquette,Connecticut,0.015100000000000002,0.8333,0.8182
-2024-03-23 05:03:34.921578,College Specials - NCAA Mens Tournament Specials - Exact Number of 1 Seeds to reach 2024 Final Four,3,0.012899999999999995,0.1667,0.1538
-2024-03-23 05:03:35.251324,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - South Region Winner - To Make NCAA Tournament Final 4,Duke,0.012899999999999995,0.1667,0.1538
+2024-03-23 15:11:33.844357,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Gonzaga,0.015300000000000001,0.0476,0.0323
 2024-03-23 13:12:38.952619,Boxing Lines - Ishmael Davis vs Troy Williamson - To Win the Bout,Troy Williamson,0.012799999999999978,0.3333,0.3205
-2024-03-23 05:03:32.960925,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Manchester City,0.012699999999999989,0.3636,0.3509
-2024-03-23 05:03:35.296026,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The Finals - To Make Finals,Baylor,0.012600000000000007,0.0714,0.0588
-2024-03-23 05:03:35.296026,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The Finals - To Make Finals,Illinois,0.012600000000000007,0.0714,0.0588
-2024-03-23 05:03:34.951694,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket –   Illinois vs Baylor,Illinois,0.012199999999999989,0.5,0.4878
-2024-03-23 05:03:35.033203,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket – Dayton vs Duquesne,Dayton,0.012199999999999989,0.5,0.4878
-2024-03-23 05:03:35.296026,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The Finals - To Make Finals,James Madison,0.011699999999999999,0.0196,0.0079
-2024-03-23 05:03:35.045563,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket – North Carolina vs Tennessee,Tennessee,0.011600000000000055,0.5238,0.5122
-2024-03-23 05:03:34.981778,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket –  Marquette vs Creighton,Marquette,0.0116,0.4878,0.4762
 2024-03-23 13:12:22.924561,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Arizona,0.011099999999999999,0.1111,0.1
-2024-03-23 05:03:35.045563,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket – North Carolina vs Tennessee,North Carolina,-0.010099999999999998,0.5455,0.5556
 2024-03-23 11:10:33.848011,Singapore Classic - Singapore Classic - Winner,Andy Sullivan,-0.012899999999999995,0.1538,0.1667
-2024-03-23 05:03:34.921578,College Specials - NCAA Mens Tournament Specials - Exact Number of 1 Seeds to reach 2024 Final Four,2,-0.013800000000000034,0.3636,0.3774
+2024-03-23 17:11:38.778852,Singapore Classic - 2/3 Balls - Final Round 3 Ball - H. Li / S. Lowry / J. Svensson - Final Round 3 Ball ,Hao Tong Li,-0.01319999999999999,0.25,0.2632
 2024-03-23 09:06:16.978046,Round Match-Ups - 3rd Round Match-Up - B. Todd vs M . Hughes - 3rd Round Match-Up,Brendon Todd,-0.017299999999999982,0.5744,0.5917
-2024-03-23 05:03:34.981778,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket –  Marquette vs Creighton,Creighton,-0.017299999999999982,0.5744,0.5917
-2024-03-23 05:03:34.964360,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket –  Connecticut vs Marquette,Marquette,-0.0174,0.2326,0.25
 2024-03-23 13:12:39.106044,Boxing Lines - Dalton Smith vs Jose Zepeda - To Win the Bout,Jose Zepeda,-0.01830000000000001,0.2381,0.2564
 2024-03-23 09:06:16.931043,Round Match-Ups - 3rd Round Match-Up - K. Mitchell vs L. Glover - 3rd Round Match-Up,Keith Mitchell,-0.01880000000000004,0.5556,0.5744
-2024-03-23 05:03:35.207529,NCAA DI Men - 2024 NCAA National Invitation Tournament - NIT Winner,Iowa,-0.01949999999999999,0.0714,0.0909
-2024-03-23 05:03:47.291045,Round Match-Ups - 3rd Round Match-Up - B. Todd vs M . Hughes - 3rd Round Match-Up,Mackenzie Hughes,-0.020699999999999996,0.4444,0.4651
 2024-03-23 11:10:33.180315,Round Match-Ups - Final Round Match-Up - P. Casey v S. Lowry - Final Round Match-Up ,Paul Casey,-0.021699999999999997,0.4545,0.4762
-2024-03-23 05:03:47.498211,Round Match-Ups - 3rd Round Match-Up - J. Thomas vs X. Schauffele - 3rd Round Match-Up,Justin Thomas,-0.021699999999999997,0.4545,0.4762
 2024-03-23 11:10:33.102590,Round Match-Ups - Final Round Match-Up - Haotong Li v R. Hoshino - Final Round Match-Up ,Haotong Li,-0.022699999999999998,0.4651,0.4878
-2024-03-23 05:03:47.537166,Round Match-Ups - 3rd Round Match-Up - K. Mitchell vs L. Glover - 3rd Round Match-Up,Lucas Glover,-0.022699999999999998,0.4651,0.4878
-2024-03-23 05:03:35.024675,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket – Creighton vs Baylor,Baylor,-0.023799999999999988,0.4762,0.5
-2024-03-23 05:03:34.921578,College Specials - NCAA Mens Tournament Specials - Exact Number of 1 Seeds to reach 2024 Final Four,0,-0.023799999999999988,0.1429,0.1667
 2024-03-23 09:06:16.904707,Round Match-Ups - 3rd Round Match-Up - A. Baddeley v C. Phillips - 3rd Round Match-Up ,Chandler Phillips,-0.023799999999999988,0.4762,0.5
 2024-03-23 09:06:16.192929,Boxing Lines - Martina Bernile vs Nina Radovanovic - To Win the Bout,Nina Radovanovic,-0.023800000000000043,0.5,0.5238
-2024-03-23 05:03:48.540232,Hoag Classic - Hoag Classic - Winner,Padraig Harrington,-0.02560000000000001,0.3077,0.3333
-2024-03-23 05:03:35.296026,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The Finals - To Make Finals,Houston,-0.02679999999999999,0.2857,0.3125
-2024-03-23 05:03:35.262056,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - West Region Winner - To Make NCAA Tournament Final 4,North Carolina,-0.02779999999999999,0.2222,0.25
-2024-03-23 05:03:34.990327,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket –  North Carolina vs Duke,North Carolina,-0.028299999999999992,0.6491,0.6774
-2024-03-23 05:03:35.262056,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - West Region Winner - To Make NCAA Tournament Final 4,Arizona,-0.030299999999999994,0.303,0.3333
-2024-03-23 05:03:35.296026,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The Finals - To Make Finals,Purdue,-0.03409999999999999,0.2326,0.2667
-2024-03-23 05:03:35.016424,College Specials - NCAA Mens Tournament Specials - Team to Advance Further in Bracket – Connecticut vs Houston,Houston,-0.03489999999999999,0.4651,0.5
 2024-03-23 13:12:38.414290,MLB Futures - MLB 2024 Player Awards - National League ROY,Yoshinobu Yamamoto (R),-0.047599999999999976,0.2857,0.3333
-2024-03-23 05:03:34.929824,College Specials - NCAA Mens Tournament Specials - Number of 1 Seeds to reach 2024 Final Four,Over 1.5,-0.057699999999999974,0.4878,0.5455
-2024-03-23 05:03:35.087122,College Specials - NCAA Mens Tournament Specials - Total Tournament Wins - Houston,Under 3.5,-0.06440000000000001,0.5652,0.6296
-2024-03-23 05:03:35.122839,College Specials - NCAA Mens Tournament Specials - Total Tournament Wins - Purdue,Under 3.5,-0.07740000000000002,0.6,0.6774
-2024-03-23 05:03:35.175434,College Specials - NCAA Mens Tournament Specials - Wins by Big East Teams in 2024 Men's NCAA Tournament,Under 7.5,-0.12079999999999996,0.4348,0.5556
-2024-03-23 05:03:34.913374,College Specials - NCAA Mens Tournament Specials - Conference with most 2024 NCAA Tournament wins,Big 12,-0.16519999999999996,0.4348,0.6
-2024-03-23 05:03:34.913374,College Specials - NCAA Mens Tournament Specials - Conference with most 2024 NCAA Tournament wins,SEC,-0.2847,0.0278,0.3125
