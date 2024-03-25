@@ -1,124 +1,70 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-03-24 05:03:47.311448,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,North Carolina,0.2429,0.6429,0.4
-2024-03-24 05:03:47.311448,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Gonzaga,0.15000000000000002,0.4,0.25
+2024-03-24 17:08:19.087464,NBL - NBL 2023/2024 - Outright,Tasmania JackJumpers,0.2571,0.7015,0.4444
 2024-03-24 13:08:38.943939,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - South Region Winner - To Make NCAA Tournament Final 4,Marquette,0.11359999999999998,0.3636,0.25
-2024-03-24 05:03:47.311448,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Arizona,0.11109999999999998,0.6667,0.5556
-2024-03-24 05:03:47.296203,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - West Region Winner - To Make NCAA Tournament Final 4,North Carolina,0.11109999999999998,0.3333,0.2222
-2024-03-24 05:03:47.276538,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - Midwest Region Winner - To Make NCAA Tournament Final 4,Tennessee,0.08729999999999999,0.3226,0.2353
-2024-03-24 05:03:47.296203,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - West Region Winner - To Make NCAA Tournament Final 4,Arizona,0.0816,0.3846,0.303
-2024-03-24 05:03:47.311448,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,NC State,0.06659999999999999,0.3333,0.2667
-2024-03-24 05:03:47.331004,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The Finals - To Make Finals,Tennessee,0.0637,0.1887,0.125
+2024-03-24 15:10:58.328473,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - Midwest Region Winner - To Make NCAA Tournament Final 4,Purdue,0.08080000000000004,0.4444,0.3636
 2024-03-24 07:02:39.675477,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - South Region Winner - To Make NCAA Tournament Final 4,NC State,0.06309999999999999,0.0909,0.0278
-2024-03-24 05:03:47.276538,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - Midwest Region Winner - To Make NCAA Tournament Final 4,Gonzaga,0.059,0.1923,0.1333
 2024-03-24 07:02:39.675477,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - South Region Winner - To Make NCAA Tournament Final 4,Marquette,0.04999999999999999,0.25,0.2
-2024-03-24 05:03:59.924885,Scores - Final Round Score - Keith Mitchell - Final Round Score,Over 69.5,0.04469999999999996,0.6364,0.5917
-2024-03-24 05:03:47.311448,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Duke,0.04409999999999997,0.2941,0.25
 2024-03-24 07:02:39.649098,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - Midwest Region Winner - To Make NCAA Tournament Final 4,Purdue,0.04290000000000005,0.4,0.3571
 2024-03-24 07:02:39.649098,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - Midwest Region Winner - To Make NCAA Tournament Final 4,Tennessee,0.04099999999999998,0.3636,0.3226
 2024-03-24 07:02:39.696642,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - West Region Winner - To Make NCAA Tournament Final 4,Arizona,0.04089999999999999,0.4255,0.3846
-2024-03-24 05:03:44.593836,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Los Angeles FC,0.04040000000000002,0.2222,0.1818
-2024-03-24 05:03:44.593836,MLS - USA MLS 2024 - Futures - Western Conference League Winner,LA Galaxy,0.04040000000000002,0.2222,0.1818
-2024-03-24 05:03:47.331004,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The Finals - To Make Finals,Iowa State,0.037599999999999995,0.1429,0.1053
 2024-03-24 11:10:16.410238,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - East Region Winner - To Make NCAA Tournament Final 4,Connecticut,0.03639999999999999,0.6364,0.6
 2024-03-24 07:02:48.807267,Scores - Final Round Score - Brendon Todd - Final Round Score,Over 70.5,0.035999999999999976,0.5122,0.4762
 2024-03-24 11:10:16.410238,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - East Region Winner - To Make NCAA Tournament Final 4,Illinois,0.033399999999999985,0.1667,0.1333
 2024-03-24 07:02:39.675477,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - South Region Winner - To Make NCAA Tournament Final 4,Duke,0.033300000000000024,0.2,0.1667
 2024-03-24 07:02:39.675477,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - South Region Winner - To Make NCAA Tournament Final 4,Houston,0.030299999999999994,0.4651,0.4348
 2024-03-24 07:02:39.649098,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - Midwest Region Winner - To Make NCAA Tournament Final 4,Gonzaga,0.02990000000000001,0.2222,0.1923
-2024-03-24 05:03:47.331004,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The Finals - To Make Finals,North Carolina,0.028799999999999992,0.1538,0.125
-2024-03-24 05:03:47.331004,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The Finals - To Make Finals,Gonzaga,0.028399999999999995,0.0909,0.0625
 2024-03-24 07:02:39.777049,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Iowa (W),0.027999999999999997,0.1818,0.1538
-2024-03-24 05:03:46.308240,UEFA Euro 2024 Futures - UEFA Euro 2024 - To Reach the Final,Portugal,0.024800000000000016,0.2353,0.2105
-2024-03-24 05:03:59.845701,Scores - Final Round Score - Cameron Young - Final Round Score,Over 69.5,0.023800000000000043,0.5238,0.5
+2024-03-24 17:08:19.623609,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tim Scott,0.024800000000000016,0.2353,0.2105
+2024-03-24 17:08:19.847557,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,The Field,0.02479999999999999,0.1538,0.129
 2024-03-24 07:02:48.880881,Scores - Final Round Score - Mackenzie Hughes - Final Round Score,Over 70.5,0.023800000000000043,0.5238,0.5
 2024-03-24 07:02:39.696642,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - West Region Winner - To Make NCAA Tournament Final 4,Alabama,0.023799999999999988,0.1667,0.1429
-2024-03-24 05:04:00.170048,Seri Pak Championship - Seri Pak Championship - Winner,Nelly Korda,0.023799999999999988,0.1667,0.1429
-2024-03-24 05:03:58.896797,Valspar Championship - 2/3 Balls - Final Round 2-Balls - K. Mitchell / S. Power - Final Round 2-Balls,Seamus Power,0.023799999999999988,0.5,0.4762
 2024-03-24 09:02:36.631890,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Tennessee,0.02310000000000001,0.1,0.0769
 2024-03-24 15:11:15.222851,Boxing Lines - Jake Paul vs Mike Tyson - To Win the Bout,Jake Paul,0.022600000000000064,0.6226,0.6
-2024-03-24 05:03:59.209150,Round Match-Ups - Final Round Match-Up - C. Bezuidenhout vs E. Cole - Final Round Match-Up,Christiaan Bezuidenhout,0.02169999999999994,0.5455,0.5238
-2024-03-24 05:03:58.329061,Valspar Championship - 2/3 Balls - Final Round 2-Balls - J. Dahmen / A. Bhatia - Final Round 2-Balls,Joel Dahmen,0.02169999999999994,0.5455,0.5238
-2024-03-24 05:03:58.190421,Valspar Championship - 2/3 Balls - Final Round 2-Balls - R. Palmer / C. Gotterup - Final Round 2-Balls,Ryan Palmer,0.02079999999999993,0.5556,0.5348
-2024-03-24 05:03:59.242207,Round Match-Ups - Final Round Match-Up - S. Valimaki vs J. Campillo - Final Round Match-Up,Sami Valimaki,0.02079999999999993,0.5556,0.5348
+2024-03-24 17:08:28.110542,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Philadelphia Phillies - Alec Bohm Total Runs Scored,Over 69.5,0.02079999999999993,0.5556,0.5348
 2024-03-24 07:02:39.696642,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - West Region Winner - To Make NCAA Tournament Final 4,Baylor,0.02049999999999999,0.1538,0.1333
-2024-03-24 05:03:44.577510,MLS - USA MLS 2024 - Futures - To Reach the Final,FC Cincinnati,0.02049999999999999,0.1538,0.1333
-2024-03-24 05:03:44.577510,MLS - USA MLS 2024 - Futures - To Reach the Final,New York Red Bulls,0.02049999999999999,0.1538,0.1333
-2024-03-24 05:03:47.285999,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - South Region Winner - To Make NCAA Tournament Final 4,Texas A&M,0.0203,0.0526,0.0323
-2024-03-24 05:03:58.685499,Valspar Championship - 2/3 Balls - Final Round 2-Balls - R. Moore / J. Bramlett - Final Round 2-Balls,Ryan Moore,0.01970000000000005,0.5652,0.5455
 2024-03-24 07:02:48.741515,Round Match-Ups - Final Round Match-Up - Cam. Young vs K. Mitchell - Final Round Match-Up,Cameron Young,0.018100000000000005,0.5833,0.5652
-2024-03-24 05:03:44.577510,MLS - USA MLS 2024 - Futures - To Reach the Final,LA Galaxy,0.0179,0.1429,0.125
-2024-03-24 05:03:44.586272,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,Columbus Crew,0.0179,0.1429,0.125
 2024-03-24 07:02:48.228096,Valspar Championship - 2/3 Balls - Final Round 2-Balls - X. Schauffele / M. McNealy - Final Round 2-Balls,Xander Schauffele,0.01759999999999995,0.6667,0.6491
-2024-03-24 05:03:46.308240,UEFA Euro 2024 Futures - UEFA Euro 2024 - To Reach the Final,Germany,0.0174,0.25,0.2326
 2024-03-24 15:11:00.237447,NFL Draft - Pick Markets - Draft Picks - #3 Pick,Drake Maye,0.016699999999999937,0.6,0.5833
 2024-03-24 07:02:48.794081,Scores - Final Round Score - Adam Hadwin - Final Round Score,Over 69.5,0.016100000000000003,0.6078,0.5917
-2024-03-24 05:03:44.586272,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,New York Red Bulls,0.015700000000000006,0.1333,0.1176
 2024-03-24 13:08:38.884657,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Purdue,0.015700000000000006,0.1333,0.1176
-2024-03-24 05:03:47.331004,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The Finals - To Make Finals,Arizona,0.015100000000000002,0.1818,0.1667
-2024-03-24 05:03:44.577510,MLS - USA MLS 2024 - Futures - To Reach the Final,Columbus Crew,0.015100000000000002,0.1818,0.1667
-2024-03-24 05:03:47.311448,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,San Diego State,0.015100000000000002,0.1818,0.1667
 2024-03-24 07:02:39.675477,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - South Region Winner - To Make NCAA Tournament Final 4,Colorado,0.01440000000000001,0.1053,0.0909
 2024-03-24 15:10:59.289904,US Senate Elections 2024 - Senate Election Winner - Ohio - Winner,Republican,0.014200000000000101,0.6296,0.6154
-2024-03-24 05:03:47.331004,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The Finals - To Make Finals,Connecticut,0.01419999999999999,0.3846,0.3704
-2024-03-24 05:03:44.567578,MLS - USA MLS 2024 - Futures - Golden Boot Award,Christian Benteke,0.013999999999999999,0.0909,0.0769
-2024-03-24 05:03:44.593836,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Minnesota United,0.013999999999999999,0.0909,0.0769
-2024-03-24 05:03:44.586272,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,FC Cincinnati,0.013899999999999996,0.125,0.1111
-2024-03-24 05:03:59.988954,Scores - Final Round Score - Peter Malnati - Final Round Score,Over 70.5,0.013799999999999923,0.6364,0.6226
 2024-03-24 11:10:16.474702,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - West Region Winner - To Make NCAA Tournament Final 4,Baylor,0.012899999999999995,0.1667,0.1538
-2024-03-24 05:03:59.887201,Scores - Final Round Score - Chandler Phillips - Final Round Score,Over 70.5,0.012700000000000045,0.6491,0.6364
+2024-03-24 15:10:58.286391,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - East Region Winner - To Make NCAA Tournament Final 4,Connecticut,0.012700000000000045,0.6491,0.6364
 2024-03-24 07:02:48.399301,Valspar Championship - 2/3 Balls - Final Round 2-Balls - A. Hadwin / R. Hoey - Final Round 2-Balls,Adam Hadwin,0.011499999999999955,0.6667,0.6552
+2024-03-24 17:08:33.001076,MLB 2024 Regular Season Team Props - San Francisco Giants Regular Season Win Total - San Francisco Giants Regular Season Win Total,Under 84.5,0.01100000000000001,0.5348,0.5238
 2024-03-24 07:02:39.777049,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,USC (W),0.010700000000000001,0.0385,0.0278
 2024-03-24 13:08:51.366035,MLB 2024 Regular Season Team Props - Chicago White Sox Regular Season Win Total - Chicago White Sox Regular Season Win Total,Over 60.5,0.010099999999999998,0.5556,0.5455
-2024-03-24 05:03:44.557907,MLS - USA MLS 2024 - Futures - Winner,Los Angeles FC,-0.0102,0.0667,0.0769
-2024-03-24 05:03:44.593836,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Portland Timbers,-0.0102,0.0667,0.0769
-2024-03-24 05:03:44.593836,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Vancouver Whitecaps,-0.0102,0.0667,0.0769
-2024-03-24 05:03:44.557907,MLS - USA MLS 2024 - Futures - Winner,LA Galaxy,-0.0102,0.0667,0.0769
+2024-03-24 17:08:33.001076,MLB 2024 Regular Season Team Props - San Francisco Giants Regular Season Win Total - San Francisco Giants Regular Season Win Total,Over 84.5,-0.010699999999999932,0.5348,0.5455
 2024-03-24 07:02:48.741515,Round Match-Ups - Final Round Match-Up - Cam. Young vs K. Mitchell - Final Round Match-Up,Keith Mitchell,-0.011099999999999999,0.4651,0.4762
 2024-03-24 13:08:51.366035,MLB 2024 Regular Season Team Props - Chicago White Sox Regular Season Win Total - Chicago White Sox Regular Season Win Total,Under 60.5,-0.011600000000000055,0.5122,0.5238
 2024-03-24 11:10:16.410238,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - East Region Winner - To Make NCAA Tournament Final 4,Iowa State,-0.011700000000000016,0.2105,0.2222
 2024-03-24 15:11:00.237447,NFL Draft - Pick Markets - Draft Picks - #3 Pick,Jayden Daniels,-0.012699999999999989,0.3509,0.3636
+2024-03-24 15:10:58.286391,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - East Region Winner - To Make NCAA Tournament Final 4,Illinois,-0.012899999999999995,0.1538,0.1667
 2024-03-24 15:11:00.237447,NFL Draft - Pick Markets - Draft Picks - #3 Pick,Marvin Harrison Jr.,-0.012899999999999995,0.1538,0.1667
-2024-03-24 05:04:00.170048,Seri Pak Championship - Seri Pak Championship - Winner,Alison Lee,-0.01319999999999999,0.25,0.2632
-2024-03-24 05:03:47.311448,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Grand Canyon,-0.013899999999999996,0.1111,0.125
 2024-03-24 07:02:39.777049,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,North Carolina (W),-0.013900000000000001,0.0025,0.0164
 2024-03-24 07:02:48.228096,Valspar Championship - 2/3 Balls - Final Round 2-Balls - X. Schauffele / M. McNealy - Final Round 2-Balls,Maverick McNealy,-0.01479999999999998,0.3774,0.3922
-2024-03-24 05:03:44.557907,MLS - USA MLS 2024 - Futures - Winner,Inter Miami,-0.014900000000000024,0.3077,0.3226
-2024-03-24 05:03:47.285999,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - South Region Winner - To Make NCAA Tournament Final 4,James Madison,-0.015300000000000001,0.0323,0.0476
-2024-03-24 05:03:46.308240,UEFA Euro 2024 Futures - UEFA Euro 2024 - To Reach the Final,Spain,-0.016699999999999993,0.25,0.2667
 2024-03-24 11:10:16.387335,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Tennessee,-0.016700000000000007,0.0833,0.1
-2024-03-24 05:03:59.988954,Scores - Final Round Score - Peter Malnati - Final Round Score,Under 70.5,-0.018900000000000028,0.4255,0.4444
-2024-03-24 05:03:44.577510,MLS - USA MLS 2024 - Futures - To Reach the Final,Inter Miami,-0.018900000000000028,0.4255,0.4444
-2024-03-24 05:03:47.258332,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - East Region Winner - To Make NCAA Tournament Final 4,San Diego State,-0.01949999999999999,0.0714,0.0909
 2024-03-24 15:10:59.289904,US Senate Elections 2024 - Senate Election Winner - Ohio - Winner,Democrat,-0.019699999999999995,0.4348,0.4545
-2024-03-24 05:03:58.896797,Valspar Championship - 2/3 Balls - Final Round 2-Balls - K. Mitchell / S. Power - Final Round 2-Balls,Keith Mitchell,-0.01970000000000005,0.5455,0.5652
-2024-03-24 05:03:59.845701,Scores - Final Round Score - Cameron Young - Final Round Score,Under 69.5,-0.01970000000000005,0.5455,0.5652
 2024-03-24 07:02:48.880881,Scores - Final Round Score - Mackenzie Hughes - Final Round Score,Under 70.5,-0.01970000000000005,0.5455,0.5652
+2024-03-24 17:08:19.623609,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Kristi Noem,-0.01999999999999999,0.1905,0.2105
 2024-03-24 11:10:16.443032,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - Midwest Region Winner - To Make NCAA Tournament Final 4,Creighton,-0.01999999999999999,0.1905,0.2105
 2024-03-24 11:10:16.474702,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - West Region Winner - To Make NCAA Tournament Final 4,Grand Canyon,-0.0203,0.0323,0.0526
 2024-03-24 15:11:15.222851,Boxing Lines - Jake Paul vs Mike Tyson - To Win the Bout,Mike Tyson,-0.020699999999999996,0.4444,0.4651
 2024-03-24 07:02:48.794081,Scores - Final Round Score - Adam Hadwin - Final Round Score,Under 69.5,-0.021699999999999997,0.4545,0.4762
-2024-03-24 05:03:44.593836,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Seattle Sounders,-0.02310000000000001,0.0769,0.1
-2024-03-24 05:03:47.311448,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Houston,-0.023799999999999932,0.6429,0.6667
-2024-03-24 05:03:58.685499,Valspar Championship - 2/3 Balls - Final Round 2-Balls - R. Moore / J. Bramlett - Final Round 2-Balls,Joseph Bramlett,-0.023799999999999988,0.4762,0.5
+2024-03-24 17:08:28.110542,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Philadelphia Phillies - Alec Bohm Total Runs Scored,Under 69.5,-0.022600000000000064,0.5122,0.5348
 2024-03-24 11:10:16.387335,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Houston,-0.023799999999999988,0.1429,0.1667
 2024-03-24 11:10:16.474702,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - West Region Winner - To Make NCAA Tournament Final 4,Alabama,-0.023799999999999988,0.1429,0.1667
-2024-03-24 05:03:59.209150,Round Match-Ups - Final Round Match-Up - C. Bezuidenhout vs E. Cole - Final Round Match-Up,Eric Cole,-0.023800000000000043,0.5,0.5238
-2024-03-24 05:03:58.329061,Valspar Championship - 2/3 Balls - Final Round 2-Balls - J. Dahmen / A. Bhatia - Final Round 2-Balls,Akshay Bhatia,-0.023800000000000043,0.5,0.5238
 2024-03-24 13:08:38.943939,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - South Region Winner - To Make NCAA Tournament Final 4,NC State,-0.0242,0.0667,0.0909
-2024-03-24 05:03:58.190421,Valspar Championship - 2/3 Balls - Final Round 2-Balls - R. Palmer / C. Gotterup - Final Round 2-Balls,Chris Gotterup,-0.024399999999999977,0.4878,0.5122
-2024-03-24 05:03:59.242207,Round Match-Ups - Final Round Match-Up - S. Valimaki vs J. Campillo - Final Round Match-Up,Jorge Campillo,-0.024399999999999977,0.4878,0.5122
-2024-03-24 05:03:47.311448,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Purdue,-0.024499999999999966,0.5833,0.6078
 2024-03-24 11:10:16.474702,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - West Region Winner - To Make NCAA Tournament Final 4,Arizona,-0.025499999999999967,0.4,0.4255
-2024-03-24 13:08:38.943939,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - South Region Winner - To Make NCAA Tournament Final 4,Houston,-0.030299999999999994,0.4348,0.4651
+2024-03-24 17:08:19.847557,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,Joe Biden,-0.02839999999999998,0.9091,0.9375
+2024-03-24 17:08:19.800400,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.02839999999999998,0.9091,0.9375
 2024-03-24 11:10:16.443032,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - Midwest Region Winner - To Make NCAA Tournament Final 4,Tennessee,-0.030299999999999994,0.3333,0.3636
-2024-03-24 05:03:47.311448,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Colorado,-0.03570000000000001,0.25,0.2857
+2024-03-24 13:08:38.943939,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - South Region Winner - To Make NCAA Tournament Final 4,Houston,-0.030299999999999994,0.4348,0.4651
 2024-03-24 07:02:48.807267,Scores - Final Round Score - Brendon Todd - Final Round Score,Under 70.5,-0.03610000000000002,0.5556,0.5917
 2024-03-24 11:10:16.443032,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - Midwest Region Winner - To Make NCAA Tournament Final 4,Purdue,-0.03640000000000004,0.3636,0.4
 2024-03-24 11:10:30.754121,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Yoshinobu Yamamoto (R),-0.037500000000000006,0.0625,0.1
 2024-03-24 11:10:16.387335,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Iowa State,-0.038299999999999994,0.0526,0.0909
 2024-03-24 15:11:00.237447,NFL Draft - Pick Markets - Draft Picks - #3 Pick,J.J. McCarthy,-0.03889999999999999,0.1429,0.1818
-2024-03-24 05:03:47.276538,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - Midwest Region Winner - To Make NCAA Tournament Final 4,Purdue,-0.04290000000000005,0.3571,0.4
-2024-03-24 05:03:47.311448,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make Elite 8 - To Make Elite 8,Baylor,-0.047599999999999976,0.2857,0.3333
-2024-03-24 05:03:59.924885,Scores - Final Round Score - Keith Mitchell - Final Round Score,Under 69.5,-0.05070000000000002,0.4255,0.4762
-2024-03-24 05:03:47.285999,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - South Region Winner - To Make NCAA Tournament Final 4,NC State,-0.06309999999999999,0.0278,0.0909
-2024-03-24 05:03:44.586272,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,Inter Miami,-0.07450000000000001,0.4255,0.5
+2024-03-24 15:10:58.328473,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - Midwest Region Winner - To Make NCAA Tournament Final 4,Gonzaga,-0.04040000000000002,0.1818,0.2222
+2024-03-24 17:08:19.087464,NBL - NBL 2023/2024 - Outright,Melbourne United,-0.2728,0.3636,0.6364
