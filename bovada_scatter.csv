@@ -3,55 +3,77 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-26 01:02:42.640873,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,Washington Commanders,0.1,0.2,0.1
 2024-03-26 01:02:42.431214,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. J.J. McCarthy / 3. Jayden Daniels,0.09960000000000001,0.1905,0.0909
 2024-03-25 15:10:20.987412,NFL Draft - Pick Markets - Draft Picks - #2 Pick,J.J. McCarthy,0.09849999999999999,0.1818,0.0833
-2024-03-25 13:07:49.418430,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2024 NCAA Tournament,Exactly 7,0.08979999999999999,0.1667,0.0769
-2024-03-25 13:07:49.418430,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2024 NCAA Tournament,Exactly 6,0.0871,0.1538,0.0667
 2024-03-25 15:10:21.099180,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. J.J. McCarthy / 3. Drake Maye,0.0867,0.1111,0.0244
+2024-03-26 03:03:33.618710,NCAA DI Men - 2024 NCAA College Basketball Invitational - CBI Winner,Arkansas State,0.0849,0.2667,0.1818
 2024-03-25 15:10:16.942180,Grand Theft Auto - GTA 6 Official Characters - To be an official character in GTA 6,50 Cent,0.08329999999999999,0.3333,0.25
 2024-03-26 01:02:42.431214,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. J.J. McCarthy / 3. Drake Maye,0.0794,0.1905,0.1111
-2024-03-25 13:07:49.418430,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2024 NCAA Tournament,Exactly 5,0.07239999999999999,0.125,0.0526
+2024-03-26 03:03:32.551901,Southwest Division - Southwest Division 2023-24 - Division Winner,Dallas Mavericks,0.06740000000000002,0.3704,0.303
+2024-03-26 03:03:32.518735,Pacific Division - Pacific Division 2023-24 - Division Winner,Sacramento Kings,0.065,0.1176,0.0526
+2024-03-26 03:03:34.100479,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Tyrese Maxey (PHI),0.0635,0.7778,0.7143
 2024-03-25 15:10:21.099180,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. J.J. McCarthy / 3. Jayden Daniels,0.0615,0.0909,0.0294
-2024-03-25 13:07:49.418430,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2024 NCAA Tournament,Exactly 8,0.058599999999999985,0.1538,0.0952
-2024-03-25 13:07:49.418430,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2024 NCAA Tournament,Exactly 9,0.052000000000000005,0.1429,0.0909
 2024-03-25 17:12:25.522943,B League - Japan B League 1 2023/2024 - Outright,Utsunomiya Brex,0.04999999999999999,0.25,0.2
+2024-03-26 03:03:32.530542,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,0.04250000000000009,0.7647,0.7222
 2024-03-26 01:02:40.210573,NBA Championship - NBA Championship 2023-24 - First Time Winner,No,0.031399999999999983,0.8462,0.8148
+2024-03-26 03:03:33.618710,NCAA DI Men - 2024 NCAA College Basketball Invitational - CBI Winner,Fairfield,0.0305,0.1905,0.16
 2024-03-26 01:02:43.181361,2024 UFL Championship - UFL Champion - Outright,Michigan Panthers,0.0286,0.1,0.0714
+2024-03-26 03:03:34.002939,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,DeMar DeRozan (CHI),0.02739999999999998,0.7333,0.7059
+2024-03-26 03:03:34.129316,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Nikola Jokic (DEN),0.026700000000000057,0.9091,0.8824
+2024-03-26 03:03:46.410345,Tournament Match-Ups - Tournament Match-Up - S. Kim vs S. Jaeger - Tournament Match-Up,Si Woo Kim,0.026499999999999968,0.5917,0.5652
+2024-03-26 03:03:33.896085,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Iowa (W),0.025300000000000003,0.1429,0.1176
+2024-03-26 03:03:34.070378,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Rudy Gobert (MIN),0.025000000000000022,0.9,0.875
 2024-03-26 01:02:43.181361,2024 UFL Championship - UFL Champion - Outright,San Antonio Brahmas,0.0242,0.0909,0.0667
-2024-03-25 13:07:49.418430,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2024 NCAA Tournament,Exactly 4,0.023200000000000002,0.0476,0.0244
+2024-03-26 03:03:46.757359,The Galleri Classic - The Galleri Classic - Winner,Steve Stricker,0.022199999999999998,0.2222,0.2
+2024-03-26 03:03:46.604595,Tournament Match-Ups - Tournament Match-Up - T. Olesen vs B. Horschel - Tournament Match-Up,Billy Horschel,0.01970000000000005,0.5652,0.5455
+2024-03-26 03:03:46.525222,Tournament Match-Ups - Tournament Match-Up - T. Finau vs W. Zalatoris - Tournament Match-Up,Will Zalatoris,0.01970000000000005,0.5652,0.5455
 2024-03-26 01:02:40.184186,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Division,Northwest Division,0.019600000000000006,0.3226,0.303
+2024-03-26 03:03:32.466765,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Philadelphia 76ers,0.019099999999999992,0.0667,0.0476
 2024-03-26 01:02:42.640873,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,New York Giants,0.019000000000000017,0.2857,0.2667
 2024-03-26 01:02:42.327994,NFL Draft - Pick Markets - Draft Picks - #2 Pick,J.J. McCarthy,0.01820000000000002,0.2,0.1818
 2024-03-25 15:10:21.464365,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,Washington Commanders,0.016700000000000007,0.1,0.0833
 2024-03-25 19:05:17.588031,Houston Open - Houston Open - Winner,Scottie Scheffler,0.016699999999999993,0.2667,0.25
+2024-03-26 03:03:32.490234,Western Conference - Western Conference 2023-24 - Western Conference Winner,Denver Nuggets,0.016699999999999993,0.4167,0.4
+2024-03-26 03:03:33.896085,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Connecticut (W),0.016600000000000004,0.0833,0.0667
+2024-03-26 03:03:46.757359,The Galleri Classic - The Galleri Classic - Winner,Steven Alker,0.015700000000000006,0.1333,0.1176
+2024-03-26 03:03:34.037087,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,0.015100000000000002,0.8333,0.8182
 2024-03-26 01:02:40.157577,NBA Championship - NBA Championship 2023-24 - NBA Champion,Denver Nuggets,0.01469999999999999,0.25,0.2353
-2024-03-25 13:08:08.488512,Hero Indian Open - Hero Indian Open - Winner,Bernd Wiesberger,0.014100000000000001,0.0526,0.0385
+2024-03-26 03:03:32.507758,Central Division - Central Division 2023-24 - Division Winner,Cleveland Cavaliers,0.013999999999999999,0.0909,0.0769
 2024-03-25 23:09:14.456899,Boxing Lines - Seniesa Estrada vs Yokasta Valle - To Win the Bout,Seniesa Estrada,0.012700000000000045,0.6491,0.6364
 2024-03-25 17:12:25.549492,LNB Pro A - France LNB Pro A 2023/24 - Outright,Nanterre,0.011200000000000002,0.0244,0.0132
-2024-03-25 13:07:49.418430,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2024 NCAA Tournament,Exactly 10,0.011099999999999999,0.1111,0.1
+2024-03-26 03:03:46.332706,Tournament Match-Ups - Tournament Match-Up - J. Knapp vs P. Rodgers - Tournament Match-Up,Jake Knapp,0.010699999999999932,0.5455,0.5348
 2024-03-26 01:02:40.157577,NBA Championship - NBA Championship 2023-24 - NBA Champion,Boston Celtics,-0.010099999999999998,0.3125,0.3226
-2024-03-25 13:07:49.418430,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2024 NCAA Tournament,Exactly 25,-0.0103,0.002,0.0123
+2024-03-26 03:03:46.642677,Hero Indian Open - Hero Indian Open - Winner,Rasmus Hojgaard,-0.0102,0.0667,0.0769
+2024-03-26 03:03:46.450626,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs W. Clark - Tournament Match-Up,Scottie Scheffler,-0.010400000000000076,0.7674,0.7778
+2024-03-26 03:03:46.216047,Houston Open - Houston Open - Winner,Stephan Jaeger,-0.010600000000000002,0.0217,0.0323
+2024-03-26 03:03:46.332706,Tournament Match-Ups - Tournament Match-Up - J. Knapp vs P. Rodgers - Tournament Match-Up,Patrick Rodgers,-0.01100000000000001,0.5238,0.5348
+2024-03-26 03:03:32.490234,Western Conference - Western Conference 2023-24 - Western Conference Winner,Los Angeles Lakers,-0.011199999999999995,0.0476,0.0588
+2024-03-26 03:03:46.705228,Ford Championship - Ford Championship - Winner,Minjee Lee,-0.011199999999999995,0.0476,0.0588
+2024-03-26 03:03:44.704194,Boxing Lines - Raymond Muratalla vs Xolisani Ndongeni - To Win the Bout,Xolisani Ndongeni,-0.011700000000000002,0.0909,0.1026
 2024-03-26 01:02:42.574550,NFL Draft - Player Markets - Positional Groups - Caleb Williams 1st QB Drafted / Marvin Harrison Jr 1st WR Drafted Exacta,No,-0.011700000000000016,0.2105,0.2222
-2024-03-25 13:07:49.418430,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2024 NCAA Tournament,Exactly 24,-0.0132,0.002,0.0152
-2024-03-25 13:07:49.418430,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2024 NCAA Tournament,Exactly 11,-0.013999999999999999,0.0769,0.0909
+2024-03-26 03:03:46.705228,Ford Championship - Ford Championship - Winner,Nelly Korda,-0.013899999999999996,0.1111,0.125
+2024-03-26 03:03:32.466765,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,New York Knicks,-0.013999999999999999,0.0769,0.0909
+2024-03-26 03:03:46.705228,Ford Championship - Ford Championship - Winner,Lydia Ko,-0.014099999999999994,0.0526,0.0667
 2024-03-25 15:10:20.987412,NFL Draft - Pick Markets - Draft Picks - #2 Pick,Caleb Williams,-0.014099999999999998,0.0244,0.0385
+2024-03-26 03:03:32.490234,Western Conference - Western Conference 2023-24 - Western Conference Winner,Golden State Warriors,-0.014100000000000001,0.0385,0.0526
 2024-03-25 15:10:20.987412,NFL Draft - Pick Markets - Draft Picks - #2 Pick,Marvin Harrison Jr.,-0.014100000000000001,0.0385,0.0526
 2024-03-26 01:02:42.640873,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,Seattle Seahawks,-0.014900000000000004,0.0196,0.0345
 2024-03-26 01:02:42.640873,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,Minnesota Vikings,-0.016699999999999937,0.5833,0.6
-2024-03-25 13:07:49.418430,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2024 NCAA Tournament,Exactly 23,-0.019,0.0027,0.0217
+2024-03-26 03:03:32.466765,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Boston Celtics,-0.017299999999999982,0.5744,0.5917
 2024-03-26 01:02:42.640873,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,Las Vegas Raiders,-0.0203,0.0385,0.0588
 2024-03-26 01:02:42.327994,NFL Draft - Pick Markets - Draft Picks - #2 Pick,Drake Maye,-0.02100000000000002,0.3636,0.3846
+2024-03-26 03:03:32.466765,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Cleveland Cavaliers,-0.02310000000000001,0.0769,0.1
+2024-03-26 03:03:46.410345,Tournament Match-Ups - Tournament Match-Up - S. Kim vs S. Jaeger - Tournament Match-Up,Stephan Jaeger,-0.023799999999999988,0.4762,0.5
 2024-03-26 01:02:42.640873,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,Denver Broncos,-0.023799999999999988,0.1429,0.1667
-2024-03-25 13:07:49.418430,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2024 NCAA Tournament,Exactly 22,-0.025799999999999997,0.002,0.0278
-2024-03-25 13:07:49.418430,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2024 NCAA Tournament,Exactly 12,-0.028399999999999995,0.0625,0.0909
+2024-03-26 03:03:46.525222,Tournament Match-Ups - Tournament Match-Up - T. Finau vs W. Zalatoris - Tournament Match-Up,Tony Finau,-0.023800000000000043,0.5,0.5238
+2024-03-26 03:03:46.604595,Tournament Match-Ups - Tournament Match-Up - T. Olesen vs B. Horschel - Tournament Match-Up,Thorbjorn Olesen,-0.023800000000000043,0.5,0.5238
 2024-03-25 23:09:14.699068,Boxing Lines - Tim Tszyu vs Sebastian Fundora - To Win the Bout,Tim Tszyu,-0.028800000000000048,0.8462,0.875
-2024-03-25 13:07:49.418430,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2024 NCAA Tournament,Exactly 21,-0.029500000000000002,0.005,0.0345
-2024-03-25 13:07:49.418430,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2024 NCAA Tournament,Exactly 20,-0.0319,0.0066,0.0385
+2024-03-26 01:02:40.210573,NBA Championship - NBA Championship 2023-24 - First Time Winner,Yes,-0.030999999999999972,0.2222,0.2532
+2024-03-26 03:03:32.490234,Western Conference - Western Conference 2023-24 - Western Conference Winner,L.A. Clippers,-0.031399999999999983,0.2353,0.2667
 2024-03-25 15:10:20.987412,NFL Draft - Pick Markets - Draft Picks - #2 Pick,Drake Maye,-0.03210000000000002,0.3846,0.4167
-2024-03-25 13:07:49.418430,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2024 NCAA Tournament,Exactly 19,-0.0336,0.0099,0.0435
-2024-03-25 13:07:49.418430,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2024 NCAA Tournament,Exactly 18,-0.0427,0.0099,0.0526
-2024-03-25 13:07:49.418430,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2024 NCAA Tournament,Exactly 17,-0.0472,0.0116,0.0588
-2024-03-25 13:07:49.418430,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2024 NCAA Tournament,Exactly 13,-0.048799999999999996,0.0345,0.0833
-2024-03-25 13:07:49.418430,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2024 NCAA Tournament,Exactly 14,-0.051,0.0323,0.0833
-2024-03-25 13:07:49.418430,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2024 NCAA Tournament,Exactly 15,-0.05249999999999999,0.0244,0.0769
+2024-03-26 03:03:32.518735,Pacific Division - Pacific Division 2023-24 - Division Winner,L.A. Clippers,-0.03210000000000002,0.9091,0.9412
+2024-03-26 03:03:34.129316,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Shai Gilgeous-Alexander (OKC),-0.033299999999999996,0.1,0.1333
+2024-03-26 03:03:33.661428,NCAA DI Men - 2024 NCAA National Invitation Tournament - NIT Winner,Ohio State,-0.03570000000000001,0.25,0.2857
+2024-03-26 03:03:32.551901,Southwest Division - Southwest Division 2023-24 - Division Winner,New Orleans Pelicans,-0.046600000000000086,0.697,0.7436
+2024-03-26 03:03:32.530542,Southeast Division - Southeast Division 2023-24 - Division Winner,Miami Heat,-0.047599999999999976,0.2857,0.3333
 2024-03-25 15:10:20.987412,NFL Draft - Pick Markets - Draft Picks - #2 Pick,Jayden Daniels,-0.05520000000000003,0.6,0.6552
 2024-03-26 01:02:42.640873,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,New England Patriots,-0.05679999999999999,0.125,0.1818
-2024-03-25 13:07:49.418430,College Specials - NCAA Mens Tournament Specials - Exact Sum of Final Four Seeds in 2024 NCAA Tournament,Exactly 16,-0.059,0.0179,0.0769
+2024-03-26 03:03:34.100479,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Coby White (CHI),-0.0847,0.2857,0.3704
