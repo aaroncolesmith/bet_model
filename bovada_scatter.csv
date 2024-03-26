@@ -10,6 +10,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-26 03:03:32.551901,Southwest Division - Southwest Division 2023-24 - Division Winner,Dallas Mavericks,0.06740000000000002,0.3704,0.303
 2024-03-26 03:03:32.518735,Pacific Division - Pacific Division 2023-24 - Division Winner,Sacramento Kings,0.065,0.1176,0.0526
 2024-03-26 03:03:34.100479,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Tyrese Maxey (PHI),0.0635,0.7778,0.7143
+2024-03-26 09:06:03.867833,NFL Draft - Player Markets - Team To Draft Player - Xavier Worthy,Kansas City Chiefs,0.05559999999999998,0.1667,0.1111
 2024-03-26 03:03:33.618710,NCAA DI Men - 2024 NCAA College Basketball Invitational - CBI Winner,Seattle,0.05299999999999999,0.303,0.25
 2024-03-26 07:07:42.104452,Boxing Lines - Jalen Tait vs Alexander Espinoza - To Win the Bout,Jalen Tait,0.04849999999999999,0.8667,0.8182
 2024-03-26 03:03:33.855040,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The Finals - To Make Finals,Marquette,0.042899999999999994,0.1429,0.1
@@ -30,8 +31,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-26 01:02:43.181361,2024 UFL Championship - UFL Champion - Outright,San Antonio Brahmas,0.0242,0.0909,0.0667
 2024-03-26 03:03:46.757359,The Galleri Classic - The Galleri Classic - Winner,Steve Stricker,0.022199999999999998,0.2222,0.2
 2024-03-26 05:03:36.944850,Tournament Match-Ups - Tournament Match-Up - J. Knapp vs P. Rodgers - Tournament Match-Up,Patrick Rodgers,0.02169999999999994,0.5455,0.5238
-2024-03-26 03:03:46.604595,Tournament Match-Ups - Tournament Match-Up - T. Olesen vs B. Horschel - Tournament Match-Up,Billy Horschel,0.01970000000000005,0.5652,0.5455
 2024-03-26 03:03:46.525222,Tournament Match-Ups - Tournament Match-Up - T. Finau vs W. Zalatoris - Tournament Match-Up,Will Zalatoris,0.01970000000000005,0.5652,0.5455
+2024-03-26 03:03:46.604595,Tournament Match-Ups - Tournament Match-Up - T. Olesen vs B. Horschel - Tournament Match-Up,Billy Horschel,0.01970000000000005,0.5652,0.5455
+2024-03-26 09:06:14.494876,Tournament Match-Ups - Tournament Match-Up - J. Knapp vs P. Rodgers - Tournament Match-Up,Patrick Rodgers,0.01970000000000005,0.5652,0.5455
 2024-03-26 01:02:40.184186,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Division,Northwest Division,0.019600000000000006,0.3226,0.303
 2024-03-26 03:03:32.466765,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Philadelphia 76ers,0.019099999999999992,0.0667,0.0476
 2024-03-26 01:02:42.640873,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,New York Giants,0.019000000000000017,0.2857,0.2667
@@ -42,6 +44,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-26 07:07:42.140023,Boxing Lines - Taylah Robertson vs Gloria Gallardo - To Win the Bout,Taylah Robertson,0.01660000000000006,0.9333,0.9167
 2024-03-26 03:03:33.896085,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Connecticut (W),0.016600000000000004,0.0833,0.0667
 2024-03-26 03:03:46.757359,The Galleri Classic - The Galleri Classic - Winner,Steven Alker,0.015700000000000006,0.1333,0.1176
+2024-03-26 09:06:13.395713,Boxing Lines - Jalen Tait vs Alexander Espinoza - To Win the Bout,Jalen Tait,0.015699999999999936,0.8824,0.8667
 2024-03-26 03:03:34.037087,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,0.015100000000000002,0.8333,0.8182
 2024-03-26 01:02:40.157577,NBA Championship - NBA Championship 2023-24 - NBA Champion,Denver Nuggets,0.01469999999999999,0.25,0.2353
 2024-03-26 07:07:42.210862,Boxing Lines - Joseph Adorno vs Nicholas Walters - To Win the Bout,Joseph Adorno,0.01430000000000009,0.8182,0.8039
@@ -55,6 +58,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-26 05:03:35.942128,Boxing Lines - Oscar Valdez vs Liam Wilson - To Win the Bout,Liam Wilson,0.010000000000000009,0.2632,0.2532
 2024-03-26 01:02:40.157577,NBA Championship - NBA Championship 2023-24 - NBA Champion,Boston Celtics,-0.010099999999999998,0.3125,0.3226
 2024-03-26 03:03:46.642677,Hero Indian Open - Hero Indian Open - Winner,Rasmus Hojgaard,-0.0102,0.0667,0.0769
+2024-03-26 09:06:13.504418,Boxing Lines - Oshae Jones vs Sonya Dreiling - To Win the Bout,Sonya Dreiling,-0.0102,0.0667,0.0769
 2024-03-26 07:07:42.760897,Boxing Lines - Rolando Romero vs Isaac Cruz Gonzalez - To Win the Bout,Rolando Romero,-0.01040000000000002,0.3175,0.3279
 2024-03-26 03:03:46.450626,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs W. Clark - Tournament Match-Up,Scottie Scheffler,-0.010400000000000076,0.7674,0.7778
 2024-03-26 07:07:42.104452,Boxing Lines - Jalen Tait vs Alexander Espinoza - To Win the Bout,Alexander Espinoza,-0.010499999999999982,0.2,0.2105
@@ -65,6 +69,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-26 03:03:46.705228,Ford Championship - Ford Championship - Winner,Minjee Lee,-0.011199999999999995,0.0476,0.0588
 2024-03-26 03:03:44.704194,Boxing Lines - Raymond Muratalla vs Xolisani Ndongeni - To Win the Bout,Xolisani Ndongeni,-0.011700000000000002,0.0909,0.1026
 2024-03-26 01:02:42.574550,NFL Draft - Player Markets - Positional Groups - Caleb Williams 1st QB Drafted / Marvin Harrison Jr 1st WR Drafted Exacta,No,-0.011700000000000016,0.2105,0.2222
+2024-03-26 09:06:03.867833,NFL Draft - Player Markets - Team To Draft Player - Xavier Worthy,Buffalo Bills,-0.012899999999999995,0.1538,0.1667
 2024-03-26 07:07:42.364494,Boxing Lines - Haven Brady Jr. vs Waldemar Carril Areizaga - To Win the Bout,Waldemar Carril Areizaga,-0.013899999999999996,0.1111,0.125
 2024-03-26 03:03:46.705228,Ford Championship - Ford Championship - Winner,Nelly Korda,-0.013899999999999996,0.1111,0.125
 2024-03-26 03:03:32.466765,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,New York Knicks,-0.013999999999999999,0.0769,0.0909
@@ -74,8 +79,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-26 01:02:42.640873,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,Minnesota Vikings,-0.016699999999999937,0.5833,0.6
 2024-03-26 05:03:36.871958,Houston Open - Houston Open - Winner,Scottie Scheffler,-0.016699999999999993,0.25,0.2667
 2024-03-26 03:03:32.466765,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Boston Celtics,-0.017299999999999982,0.5744,0.5917
-2024-03-26 03:03:33.855040,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The Finals - To Make Finals,Iowa State,-0.0179,0.125,0.1429
 2024-03-26 07:07:42.140023,Boxing Lines - Taylah Robertson vs Gloria Gallardo - To Win the Bout,Gloria Gallardo,-0.0179,0.125,0.1429
+2024-03-26 03:03:33.855040,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - To Make The Finals - To Make Finals,Iowa State,-0.0179,0.125,0.1429
+2024-03-26 09:06:13.395713,Boxing Lines - Jalen Tait vs Alexander Espinoza - To Win the Bout,Alexander Espinoza,-0.01820000000000002,0.1818,0.2
 2024-03-26 01:02:42.640873,NFL Draft - Player Markets - Team To Draft Player - J.J McCarthy,Las Vegas Raiders,-0.0203,0.0385,0.0588
 2024-03-26 01:02:42.327994,NFL Draft - Pick Markets - Draft Picks - #2 Pick,Drake Maye,-0.02100000000000002,0.3636,0.3846
 2024-03-26 05:03:36.944850,Tournament Match-Ups - Tournament Match-Up - J. Knapp vs P. Rodgers - Tournament Match-Up,Jake Knapp,-0.02169999999999994,0.5238,0.5455
@@ -85,6 +91,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-26 05:03:37.043003,Tournament Match-Ups - Tournament Match-Up - S. Theegala vs J. Day - Tournament Match-Up,Jason Day,-0.023799999999999988,0.4762,0.5
 2024-03-26 03:03:46.410345,Tournament Match-Ups - Tournament Match-Up - S. Kim vs S. Jaeger - Tournament Match-Up,Stephan Jaeger,-0.023799999999999988,0.4762,0.5
 2024-03-26 03:03:46.604595,Tournament Match-Ups - Tournament Match-Up - T. Olesen vs B. Horschel - Tournament Match-Up,Thorbjorn Olesen,-0.023800000000000043,0.5,0.5238
+2024-03-26 09:06:14.494876,Tournament Match-Ups - Tournament Match-Up - J. Knapp vs P. Rodgers - Tournament Match-Up,Jake Knapp,-0.023800000000000043,0.5,0.5238
 2024-03-26 03:03:46.525222,Tournament Match-Ups - Tournament Match-Up - T. Finau vs W. Zalatoris - Tournament Match-Up,Tony Finau,-0.023800000000000043,0.5,0.5238
 2024-03-26 05:03:20.995136,Serie A - Italy Serie A 2023/24 - Outright,Milano,-0.024499999999999966,0.5833,0.6078
 2024-03-25 23:09:14.699068,Boxing Lines - Tim Tszyu vs Sebastian Fundora - To Win the Bout,Tim Tszyu,-0.028800000000000048,0.8462,0.875
