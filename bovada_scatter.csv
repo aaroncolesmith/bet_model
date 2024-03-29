@@ -4,6 +4,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-28 23:14:24.388304,Scores - 2nd Round Score - Scottie Scheffler - 2nd Round Score,Under 68.5,0.07440000000000002,0.5744,0.5
 2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Carlota Ciganda,0.073,0.0909,0.0179
 2024-03-29 03:11:58.124151,Southwest Division - Southwest Division 2023-24 - Division Winner,New Orleans Pelicans,0.06519999999999992,0.6,0.5348
+2024-03-29 07:08:27.208378,Round Match-Ups - 2nd Round Match-Up - D. Ghim vs C. Kim - 2nd Round Match-Up,Chan Kim,0.05870000000000003,0.5238,0.4651
 2024-03-28 19:15:15.351935,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Connecticut,0.053100000000000036,0.4167,0.3636
 2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Gabriela Ruffels,0.0503,0.0667,0.0164
 2024-03-29 03:11:58.096096,Southeast Division - Southeast Division 2023-24 - Division Winner,Orlando Magic,0.050000000000000044,0.8,0.75
@@ -14,13 +15,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Hyo Joo Kim,0.04329999999999999,0.0909,0.0476
 2024-03-29 05:10:39.435578,BKFC 59: Dodson vs Aguero - John Dodson vs Dagoberto Aguero - To Win the Bout,Dagoberto Aguero,0.04139999999999999,0.4762,0.4348
 2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Pajaree Anannarukarn,0.0402,0.0435,0.0033
+2024-03-29 07:08:26.156529,BKFC 59: Dodson vs Aguero - Donald Sanchez vs Dallas Davison - To Win the Bout,Donald Sanchez,0.03750000000000009,0.7778,0.7403
 2024-03-29 03:12:05.049028,Round Match-Ups - 2nd Round Match-Up - W. Furr vs D. Riley - 2nd Round Match-Up,Wilson Furr,0.03600000000000003,0.5238,0.4878
 2024-03-29 05:10:39.883273,Round Match-Ups - 2nd Round Match-Up - C. Gotterup vs K. Dougherty - 2nd Round Match-Up,Kevin Dougherty,0.033299999999999996,0.5455,0.5122
 2024-03-29 01:14:17.463337,Houston Open - 2/3 Balls - 2nd Round 3 Balls - T. Olesen / J. Highsmith / D. van der Walt - 2nd Round 3 Balls,Joe Highsmith,0.03210000000000002,0.4167,0.3846
 2024-03-28 23:14:17.942216,NFL Draft - Pick Markets - Draft Picks - #2 Pick,Jayden Daniels,0.03090000000000004,0.6226,0.5917
-2024-03-29 05:10:27.779372,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Universitario de Deportes,0.030299999999999994,0.3636,0.3333
-2024-03-28 17:13:42.164237,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Connecticut,0.030299999999999994,0.3636,0.3333
 2024-03-29 05:10:39.340554,BKFC 59: Dodson vs Aguero - Will Santiago vs James Dennis - To Win the Bout,James Dennis,0.030299999999999994,0.3636,0.3333
+2024-03-29 05:10:27.779372,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Universitario de Deportes,0.030299999999999994,0.3636,0.3333
 2024-03-28 21:13:59.201556,BKFC 59: Dodson vs Aguero - Austin Lewis vs Joshua Richey - To Win the Bout,Austin Lewis,0.027799999999999936,0.9167,0.8889
 2024-03-28 23:14:24.538247,Round Match-Ups - 2nd Round Match-Up - J. Day vs S.W. Kim - 2nd Round Match-Up,Si Woo Kim,0.026499999999999968,0.5917,0.5652
 2024-03-28 21:13:53.011179,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Alabama,0.024800000000000003,0.0526,0.0278
@@ -29,18 +30,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-28 23:14:22.710084,Houston Open - 2/3 Balls - 2nd Round 3 Balls - S. Theegala / J. Day / P. Harrington - 2nd Round 3 Balls,Sahith Theegala,0.023799999999999988,0.5,0.4762
 2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Azahara Munoz,0.0216,0.0244,0.0028
 2024-03-28 21:14:00.671752,Houston Open - 2/3 Balls - 2nd Round 3 Balls - P. Malnati / S. Scheffler / W. Zalatoris - 2nd Round 3 Balls,Scottie Scheffler,0.02100000000000002,0.6364,0.6154
-2024-03-28 23:14:24.620465,Round Match-Ups - 2nd Round Match-Up - W. Furr vs D. Riley - 2nd Round Match-Up,Davis Riley,0.02079999999999993,0.5556,0.5348
 2024-03-28 23:14:24.661596,Round Match-Ups - 2nd Round Match-Up - M. Hughes vs P. Rodgers - 2nd Round Match-Up,Mackenzie Hughes,0.02079999999999993,0.5556,0.5348
-2024-03-28 17:13:50.247652,Hero Indian Open - Match-Ups - 2nd Round Match-Up - S. Bairstow v A Fitzpatrick - 2nd Round Match-Up ,Alex Fitzpatrick,0.01970000000000005,0.5652,0.5455
-2024-03-28 23:14:24.577513,Round Match-Ups - 2nd Round Match-Up - S. Theegala vs T. Finau - 2nd Round Match-Up,Sahith Theegala,0.01970000000000005,0.5652,0.5455
+2024-03-29 07:08:27.402549,Round Match-Ups - 2nd Round Match-Up - M. NeSmith v P. Coody - 2nd Round Match-Up,Matt NeSmith,0.02079999999999993,0.5556,0.5348
+2024-03-28 23:14:24.620465,Round Match-Ups - 2nd Round Match-Up - W. Furr vs D. Riley - 2nd Round Match-Up,Davis Riley,0.02079999999999993,0.5556,0.5348
 2024-03-29 05:10:40.301852,Round Match-Ups - 2nd Round Match-Up - M. Meissner vs G. Sigg - 2nd Round Match-Up,Greyson Sigg,0.01970000000000005,0.5652,0.5455
+2024-03-28 23:14:24.577513,Round Match-Ups - 2nd Round Match-Up - S. Theegala vs T. Finau - 2nd Round Match-Up,Sahith Theegala,0.01970000000000005,0.5652,0.5455
 2024-03-29 05:10:39.387567,BKFC 59: Dodson vs Aguero - Donald Sanchez vs Dallas Davison - To Win the Bout,Dallas Davison,0.019600000000000006,0.3226,0.303
 2024-03-28 23:14:24.739935,Round Match-Ups - 2nd Round Match-Up - D. Ghim vs C. Kim - 2nd Round Match-Up,Doug Ghim,0.01880000000000004,0.5744,0.5556
 2024-03-29 03:11:57.989810,Western Conference - Western Conference 2023-24 - Western Conference Winner,Minnesota Timberwolves,0.01830000000000001,0.0952,0.0769
+2024-03-29 07:08:26.027566,BKFC 59: Dodson vs Aguero - Kyle McElroy vs Nick Kohring - To Win the Bout,Kyle McElroy,0.01820000000000002,0.2,0.1818
 2024-03-29 03:11:57.879730,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning State,Field,0.018199999999999994,0.8182,0.8
 2024-03-28 19:15:17.872592,NFL Draft - Pick Markets - Draft Picks - #3 Pick,Jayden Daniels,0.017600000000000005,0.3509,0.3333
 2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Nelly Korda,0.01759999999999999,0.1176,0.1
-2024-03-28 17:13:50.395459,Hero Indian Open - Match-Ups - 2nd Round Match-Up - C. Jarvis v M. Penge - 2nd Round Match-Up,Casey Jarvis,0.017299999999999982,0.5917,0.5744
+2024-03-29 07:08:26.119269,BKFC 59: Dodson vs Aguero - Will Santiago vs James Dennis - To Win the Bout,Will Santiago,0.017300000000000093,0.7143,0.697
 2024-03-28 23:14:18.052854,NFL Draft - Pick Markets - Draft Picks - #5 Pick,Marvin Harrison Jr.,0.016699999999999993,0.2667,0.25
 2024-03-28 23:14:25.230805,Main Markets - 2nd Round Six-Shooter - Group A - S. Jaeger / A. Bhatia / B. Hossler / A. Novak / A. Rai / C. Davis - 2nd Round Six-Shooter,Andrew Novak,0.016600000000000004,0.1905,0.1739
 2024-03-28 21:13:59.337364,BKFC 59: Dodson vs Aguero - Will Santiago vs James Dennis - To Win the Bout,Will Santiago,0.01629999999999998,0.7222,0.7059
@@ -49,34 +51,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-28 23:14:15.548691,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Illinois,0.015300000000000001,0.0588,0.0435
 2024-03-28 19:15:20.233853,Boxing Lines - Raymond Muratalla vs Xolisani Ndongeni - To Win the Bout,Raymond Muratalla,0.014900000000000024,0.9804,0.9655
 2024-03-28 21:14:00.671752,Houston Open - 2/3 Balls - 2nd Round 3 Balls - P. Malnati / S. Scheffler / W. Zalatoris - 2nd Round 3 Balls,Peter Malnati,0.014800000000000008,0.1887,0.1739
-2024-03-28 17:13:49.891591,Hero Indian Open - 2/3 Balls - 2nd Round 3 Balls - S. Baisoya / D. Lawson / R. Gouveia - 2nd Round 3 Balls,Ricardo Gouveia,0.01479999999999998,0.3922,0.3774
 2024-03-28 19:15:19.956575,Boxing Lines - Elijah Pierce vs Arthur Villanueva - To Win the Bout,Elijah Pierce,0.014100000000000001,0.9615,0.9474
 2024-03-28 23:14:15.548691,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Tennessee,0.013999999999999999,0.0909,0.0769
 2024-03-29 03:11:57.952608,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,New York Knicks,0.013999999999999999,0.0909,0.0769
 2024-03-29 05:10:27.779372,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Alianza Lima,0.013899999999999996,0.125,0.1111
-2024-03-28 17:13:50.208801,Hero Indian Open - Match-Ups - 2nd Round Match-Up - J. Luiten v R. Cabrera Bello - 2nd Round Match-Up ,Joost Luiten,0.013799999999999923,0.6364,0.6226
 2024-03-29 03:11:57.786751,NBA Championship - NBA Championship 2023-24 - NBA Champion,Los Angeles Clippers,0.012899999999999995,0.1667,0.1538
 2024-03-28 23:14:23.184495,Houston Open - 2/3 Balls - 2nd Round 3 Balls - R. MacIntyre / R. Campos / R. Pereda - 2nd Round 3 Balls,Raul Pereda,0.011899999999999994,0.25,0.2381
 2024-03-29 03:11:57.811978,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Conference,Western Conference,0.011600000000000055,0.5238,0.5122
+2024-03-29 07:08:26.194401,BKFC 59: Dodson vs Aguero - John Dodson vs Dagoberto Aguero - To Win the Bout,Dagoberto Aguero,0.0116,0.4878,0.4762
 2024-03-28 23:14:22.082020,BKFC 59: Dodson vs Aguero - Manuel Otero vs Mikey Furnier - To Win the Bout,Mikey Furnier,0.01150000000000001,0.3448,0.3333
-2024-03-28 21:13:53.011179,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Illinois,0.011199999999999995,0.0435,0.0323
 2024-03-29 05:10:27.779372,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Comerciantes Unidos,0.011199999999999995,0.0588,0.0476
+2024-03-28 21:13:53.011179,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Illinois,0.011199999999999995,0.0435,0.0323
 2024-03-28 23:14:22.221709,BKFC 59: Dodson vs Aguero - Will Santiago vs James Dennis - To Win the Bout,Will Santiago,0.011099999999999999,0.7333,0.7222
-2024-03-28 17:13:42.164237,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Clemson,0.010700000000000001,0.0217,0.011
+2024-03-29 07:08:25.989990,BKFC 59: Dodson vs Aguero - Manuel Otero vs Mikey Furnier - To Win the Bout,Manuel Otero,0.011099999999999999,0.7333,0.7222
 2024-03-29 03:11:57.847273,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Division,Northwest Division,0.010699999999999987,0.3333,0.3226
-2024-03-29 03:11:57.811978,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Conference,Eastern Conference,-0.010099999999999998,0.5455,0.5556
+2024-03-29 07:08:25.966377,BKFC 59: Dodson vs Aguero - Austin Lewis vs Joshua Richey - To Win the Bout,Austin Lewis,0.010199999999999987,0.9333,0.9231
 2024-03-28 23:14:23.033968,Houston Open - 2/3 Balls - 2nd Round 3 Balls - B. Silverman / P. Barjon / K. Ventura - 2nd Round 3 Balls,Paul Barjon,-0.010099999999999998,0.3125,0.3226
+2024-03-29 03:11:57.811978,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Conference,Eastern Conference,-0.010099999999999998,0.5455,0.5556
 2024-03-29 05:10:27.779372,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,FBC Melgar,-0.0102,0.0667,0.0769
 2024-03-29 01:14:17.463337,Houston Open - 2/3 Balls - 2nd Round 3 Balls - T. Olesen / J. Highsmith / D. van der Walt - 2nd Round 3 Balls,Dawie Van Der Walt,-0.010399999999999993,0.2222,0.2326
 2024-03-28 23:14:25.230805,Main Markets - 2nd Round Six-Shooter - Group A - S. Jaeger / A. Bhatia / B. Hossler / A. Novak / A. Rai / C. Davis - 2nd Round Six-Shooter,Beau Hossler,-0.010499999999999982,0.2,0.2105
+2024-03-29 07:08:26.078586,BKFC 59: Dodson vs Aguero - Marc Entenberg vs Van Vo - To Win the Bout,Van Vo,-0.010499999999999982,0.2,0.2105
 2024-03-28 23:14:23.184495,Houston Open - 2/3 Balls - 2nd Round 3 Balls - R. MacIntyre / R. Campos / R. Pereda - 2nd Round 3 Balls,Robert MacIntyre,-0.010599999999999998,0.4545,0.4651
 2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Sei Young Kim,-0.010700000000000001,0.0278,0.0385
 2024-03-28 23:14:22.082020,BKFC 59: Dodson vs Aguero - Manuel Otero vs Mikey Furnier - To Win the Bout,Manuel Otero,-0.011099999999999999,0.7222,0.7333
-2024-03-28 17:13:41.891861,Super Ligi - Turkey BSL 2023/24 - Outright,Pinar Karsiyaka,-0.011199999999999995,0.0476,0.0588
 2024-03-28 21:13:53.011179,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Iowa State,-0.011199999999999995,0.0323,0.0435
 2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Georgia Hall,-0.0113,0.0028,0.0141
 2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Lexi Thompson,-0.0114,0.005,0.0164
 2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Amy Yang,-0.0115,0.0017,0.0132
+2024-03-29 07:08:25.989990,BKFC 59: Dodson vs Aguero - Manuel Otero vs Mikey Furnier - To Win the Bout,Mikey Furnier,-0.01150000000000001,0.3333,0.3448
 2024-03-28 23:14:22.221709,BKFC 59: Dodson vs Aguero - Will Santiago vs James Dennis - To Win the Bout,James Dennis,-0.01150000000000001,0.3333,0.3448
 2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Madelene Sagstrom,-0.0116,0.0036,0.0152
 2024-03-29 03:11:57.952608,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Milwaukee Bucks,-0.011899999999999994,0.2381,0.25
@@ -85,17 +88,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Andrea Lee,-0.012199999999999999,0.0057,0.0179
 2024-03-28 21:13:59.337364,BKFC 59: Dodson vs Aguero - Will Santiago vs James Dennis - To Win the Bout,James Dennis,-0.012299999999999978,0.3448,0.3571
 2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Hannah Green,-0.0139,0.0057,0.0196
-2024-03-29 05:10:27.779372,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Cienciano,-0.013999999999999999,0.0769,0.0909
 2024-03-29 05:10:27.779372,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Sport Huancayo,-0.013999999999999999,0.0769,0.0909
+2024-03-29 05:10:27.779372,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Cienciano,-0.013999999999999999,0.0769,0.0909
 2024-03-28 19:15:20.001263,Boxing Lines - Emiliano Vargas vs Nelson Hampton - To Win the Bout,Nelson Hampton,-0.014099999999999994,0.0526,0.0667
 2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Nasa Hataoka,-0.014400000000000003,0.0179,0.0323
-2024-03-28 17:13:41.564652,Euro Cup - Euro Cup 2023/24 - Outright,JL Bourg,-0.015100000000000002,0.1667,0.1818
 2024-03-28 23:14:22.710084,Houston Open - 2/3 Balls - 2nd Round 3 Balls - S. Theegala / J. Day / P. Harrington - 2nd Round 3 Balls,Jason Day,-0.016699999999999993,0.4,0.4167
 2024-03-28 23:14:19.945448,Boxing Lines - Lindolfo Delgado vs Carlos Sanchez Valdez - To Win the Bout,Carlos Sanchez Valdez,-0.016700000000000007,0.0833,0.1
 2024-03-29 05:10:27.779372,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Sporting Cristal,-0.017600000000000005,0.3333,0.3509
 2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Hae Ran Ryu,-0.0179,0.0017,0.0196
 2024-03-28 19:15:17.872592,NFL Draft - Pick Markets - Draft Picks - #3 Pick,Drake Maye,-0.01880000000000004,0.5556,0.5744
-2024-03-28 17:13:49.891591,Hero Indian Open - 2/3 Balls - 2nd Round 3 Balls - S. Baisoya / D. Lawson / R. Gouveia - 2nd Round 3 Balls,Deyen Lawson,-0.019500000000000017,0.3509,0.3704
 2024-03-29 03:12:04.977322,Round Match-Ups - 2nd Round Match-Up - J. Day vs S.W. Kim - 2nd Round Match-Up,Jason Day,-0.019699999999999995,0.4348,0.4545
 2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Minjee Lee,-0.019800000000000005,0.0278,0.0476
 2024-03-28 19:15:19.956575,Boxing Lines - Elijah Pierce vs Arthur Villanueva - To Win the Bout,Arthur Villanueva,-0.02020000000000001,0.0909,0.1111
@@ -108,12 +109,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-28 23:14:24.739935,Round Match-Ups - 2nd Round Match-Up - D. Ghim vs C. Kim - 2nd Round Match-Up,Chan Kim,-0.022699999999999998,0.4651,0.4878
 2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Yuka Saso,-0.022799999999999997,0.005,0.0278
 2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Leona Maguire,-0.023100000000000002,0.0013,0.0244
-2024-03-28 19:15:15.351935,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Houston,-0.023799999999999988,0.1429,0.1667
-2024-03-28 17:13:50.247652,Hero Indian Open - Match-Ups - 2nd Round Match-Up - S. Bairstow v A Fitzpatrick - 2nd Round Match-Up ,Sam Bairstow,-0.023799999999999988,0.4762,0.5
 2024-03-28 23:14:24.577513,Round Match-Ups - 2nd Round Match-Up - S. Theegala vs T. Finau - 2nd Round Match-Up,Tony Finau,-0.023799999999999988,0.4762,0.5
 2024-03-29 05:10:40.301852,Round Match-Ups - 2nd Round Match-Up - M. Meissner vs G. Sigg - 2nd Round Match-Up,Mac Meissner,-0.023799999999999988,0.4762,0.5
+2024-03-28 19:15:15.351935,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Houston,-0.023799999999999988,0.1429,0.1667
 2024-03-28 23:14:24.620465,Round Match-Ups - 2nd Round Match-Up - W. Furr vs D. Riley - 2nd Round Match-Up,Wilson Furr,-0.024399999999999977,0.4878,0.5122
 2024-03-28 23:14:24.661596,Round Match-Ups - 2nd Round Match-Up - M. Hughes vs P. Rodgers - 2nd Round Match-Up,Patrick Rodgers,-0.024399999999999977,0.4878,0.5122
+2024-03-29 07:08:27.402549,Round Match-Ups - 2nd Round Match-Up - M. NeSmith v P. Coody - 2nd Round Match-Up,Pierceson Coody,-0.024399999999999977,0.4878,0.5122
 2024-03-29 05:10:39.387567,BKFC 59: Dodson vs Aguero - Donald Sanchez vs Dallas Davison - To Win the Bout,Donald Sanchez,-0.02440000000000009,0.7403,0.7647
 2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Rose Zhang,-0.0253,0.0132,0.0385
 2024-03-28 23:14:18.052854,NFL Draft - Pick Markets - Draft Picks - #5 Pick,Joe Alt,-0.028700000000000003,0.1818,0.2105
@@ -123,15 +124,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Hye-Jin Choi,-0.0313,0.001,0.0323
 2024-03-29 03:12:05.049028,Round Match-Ups - 2nd Round Match-Up - W. Furr vs D. Riley - 2nd Round Match-Up,Davis Riley,-0.03179999999999994,0.5238,0.5556
 2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Xiyu Lin,-0.0319,0.0066,0.0385
-2024-03-28 17:13:41.564652,Euro Cup - Euro Cup 2023/24 - Outright,London Lions,-0.0321,0.0588,0.0909
-2024-03-28 17:13:50.395459,Hero Indian Open - Match-Ups - 2nd Round Match-Up - C. Jarvis v M. Penge - 2nd Round Match-Up,Marco Penge,-0.033299999999999996,0.4545,0.4878
 2024-03-29 03:11:57.879730,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning State,California,-0.033300000000000024,0.1667,0.2
 2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Mao Saigo,-0.0335,0.005,0.0385
-2024-03-28 17:13:41.564652,Euro Cup - Euro Cup 2023/24 - Outright,Besiktas,-0.0343,0.0833,0.1176
 2024-03-29 05:10:39.883273,Round Match-Ups - 2nd Round Match-Up - C. Gotterup vs K. Dougherty - 2nd Round Match-Up,Chris Gotterup,-0.03480000000000005,0.5,0.5348
-2024-03-28 17:13:50.208801,Hero Indian Open - Match-Ups - 2nd Round Match-Up - J. Luiten v R. Cabrera Bello - 2nd Round Match-Up ,Rafa Cabrera Bello,-0.03620000000000001,0.4082,0.4444
 2024-03-29 05:10:39.340554,BKFC 59: Dodson vs Aguero - Will Santiago vs James Dennis - To Win the Bout,Will Santiago,-0.0363,0.697,0.7333
 2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Ayaka Furue,-0.0365,0.002,0.0385
+2024-03-29 07:08:26.156529,BKFC 59: Dodson vs Aguero - Donald Sanchez vs Dallas Davison - To Win the Bout,Dallas Davison,-0.03689999999999999,0.2857,0.3226
 2024-03-29 05:10:39.435578,BKFC 59: Dodson vs Aguero - John Dodson vs Dagoberto Aguero - To Win the Bout,John Dodson,-0.037900000000000045,0.5917,0.6296
 2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Lydia Ko,-0.0385,0.0141,0.0526
 2024-03-29 03:11:57.847273,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Division,Pacific Division,-0.04040000000000002,0.1818,0.2222
@@ -139,5 +137,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-29 01:14:17.719234,Scores - 2nd Round Score - Scottie Scheffler - 2nd Round Score,Over 68.5,-0.045499999999999985,0.4545,0.5
 2024-03-29 03:12:00.257109,Joe Biden Specials - Joe Biden Approval Rating June 30th 2024 - Joe Biden Approval Rating June 30th 2024,Under 40%,-0.04700000000000004,0.4878,0.5348
 2024-03-29 03:11:58.124151,Southwest Division - Southwest Division 2023-24 - Division Winner,Dallas Mavericks,-0.04760000000000003,0.4762,0.5238
-2024-03-28 17:13:42.164237,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Arizona,-0.052300000000000006,0.0588,0.1111
+2024-03-29 07:08:27.208378,Round Match-Ups - 2nd Round Match-Up - D. Ghim vs C. Kim - 2nd Round Match-Up,Doug Ghim,-0.0595,0.5238,0.5833
 2024-03-28 23:14:24.388304,Scores - 2nd Round Score - Scottie Scheffler - 2nd Round Score,Over 68.5,-0.06520000000000004,0.5,0.5652
