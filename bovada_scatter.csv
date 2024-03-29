@@ -1,21 +1,19 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-28 13:14:30.924129,NCAA DI Men - 2024 NCAA National Invitation Tournament - NIT Winner,Indiana State,0.2262,0.4167,0.1905
 2024-03-28 13:14:30.924129,NCAA DI Men - 2024 NCAA National Invitation Tournament - NIT Winner,Georgia,0.1855,0.2381,0.0526
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Lilia Vu,0.0865,0.125,0.0385
 2024-03-28 13:14:30.924129,NCAA DI Men - 2024 NCAA National Invitation Tournament - NIT Winner,Seton Hall,0.0849,0.2667,0.1818
 2024-03-28 13:14:30.924129,NCAA DI Men - 2024 NCAA National Invitation Tournament - NIT Winner,Utah,0.08330000000000001,0.25,0.1667
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Keita Nakajima,0.0831,0.1176,0.0345
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Joost Luiten,0.0741,0.1176,0.0435
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Jordan Smith,0.07239999999999999,0.125,0.0526
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Matteo Manassero,0.0701,0.0833,0.0132
-2024-03-28 09:13:18.191233,Hero Indian Open - Match-Ups - 2nd Round Match-Up - J. Luiten v R. Cabrera Bello - 2nd Round Match-Up ,Joost Luiten,0.05449999999999999,0.6,0.5455
-2024-03-28 09:12:59.855116,NFL Draft - Player Markets - Positional Groups - 1st Wide Receiver Selected,Malik Nabers,0.04999999999999999,0.25,0.2
-2024-03-28 09:12:59.791448,NFL Draft - Player Markets - Positional Groups - 1st Offensive Lineman Selected,Olumuyiwa Fashanu,0.048100000000000004,0.125,0.0769
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Sam Bairstow,0.04229999999999999,0.0667,0.0244
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Carlota Ciganda,0.073,0.0909,0.0179
+2024-03-28 19:15:15.351935,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Connecticut,0.053100000000000036,0.4167,0.3636
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Gabriela Ruffels,0.0503,0.0667,0.0164
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Celine Boutier,0.0448,0.0833,0.0385
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Hyo Joo Kim,0.04329999999999999,0.0909,0.0476
 2024-03-28 11:13:59.428600,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Raheem Morris,0.04169999999999999,0.1667,0.125
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Pajaree Anannarukarn,0.0402,0.0435,0.0033
 2024-03-28 13:14:29.987906,College Specials - NCAA Mens Tournament Specials - Conference to Win 2024 Men's NCAA Tournament,Big East,0.0398,0.3846,0.3448
 2024-03-28 15:14:13.253465,NFL Draft - Pick Markets - Draft Picks - #3 Pick,Drake Maye,0.03959999999999997,0.5744,0.5348
 2024-03-28 11:13:58.457071,NFL Draft - Player Markets - Positional Groups - 1st Defensive Player Selected,Byron Murphy II,0.038299999999999994,0.0909,0.0526
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Romain Langasque,0.037099999999999994,0.0588,0.0217
 2024-03-28 11:14:15.042296,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Edwin Diaz (R),0.03570000000000001,0.2857,0.25
 2024-03-28 11:14:15.042296,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Raisel Iglesias (ATL),0.033299999999999996,0.1333,0.1
 2024-03-28 11:14:19.794288,Hero Indian Open - Match-Ups - 2nd Round Match-Up - S. Bairstow v A Fitzpatrick - 2nd Round Match-Up ,Alex Fitzpatrick,0.033299999999999996,0.5455,0.5122
@@ -23,106 +21,89 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-28 17:13:42.164237,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Connecticut,0.030299999999999994,0.3636,0.3333
 2024-03-28 11:14:19.971639,Hero Indian Open - Match-Ups - 2nd Round Match-Up - C. Jarvis v M. Penge - 2nd Round Match-Up,Casey Jarvis,0.028900000000000037,0.5744,0.5455
 2024-03-28 13:14:33.645505,NFL Draft - Pick Markets - Draft Picks - #2 Pick,Jayden Daniels,0.028900000000000037,0.5744,0.5455
-2024-03-28 09:12:59.527363,NFL Draft - Pick Markets - Draft Picks - #2 Pick,Drake Maye,0.027700000000000002,0.4444,0.4167
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Adrian Otaegui,0.026499999999999996,0.0588,0.0323
+2024-03-28 21:13:59.201556,BKFC 59: Dodson vs Aguero - Austin Lewis vs Joshua Richey - To Win the Bout,Austin Lewis,0.027799999999999936,0.9167,0.8889
 2024-03-28 11:14:19.747921,Hero Indian Open - Match-Ups - 2nd Round Match-Up - J. Luiten v R. Cabrera Bello - 2nd Round Match-Up ,Joost Luiten,0.022600000000000064,0.6226,0.6
 2024-03-28 13:14:49.140520,BKFC 59: Dodson vs Aguero - John Dodson vs Dagoberto Aguero - To Win the Bout,John Dodson,0.02180000000000004,0.6296,0.6078
-2024-03-28 11:14:18.985742,Round Match-Ups - 1st Round Match-Up - P. Rodgers vs M. Hughes - 1st Round Match-Up,Mackenzie Hughes,0.02169999999999994,0.5455,0.5238
 2024-03-28 11:14:19.023091,Round Match-Ups - 1st Round Match-Up - T. Hoge vs K. Kitayama - 1st Round Match-Up,Kurt Kitayama,0.02169999999999994,0.5455,0.5238
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Fabrizio Zanotti,0.021300000000000003,0.0345,0.0132
+2024-03-28 11:14:18.985742,Round Match-Ups - 1st Round Match-Up - P. Rodgers vs M. Hughes - 1st Round Match-Up,Mackenzie Hughes,0.02169999999999994,0.5455,0.5238
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Azahara Munoz,0.0216,0.0244,0.0028
+2024-03-28 21:14:00.671752,Houston Open - 2/3 Balls - 2nd Round 3 Balls - P. Malnati / S. Scheffler / W. Zalatoris - 2nd Round 3 Balls,Scottie Scheffler,0.02100000000000002,0.6364,0.6154
 2024-03-28 13:14:35.182792,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Arizona Diamondbacks - Corbin Carroll Total Runs Scored,Over 99.5,0.02079999999999993,0.5556,0.5348
-2024-03-28 09:13:18.438230,Hero Indian Open - Match-Ups - 2nd Round Match-Up - B. Stone v G. Migliozzi - 2nd Round Match-Up ,Guido Migliozzi,0.02079999999999993,0.5556,0.5348
-2024-03-28 17:13:50.247652,Hero Indian Open - Match-Ups - 2nd Round Match-Up - S. Bairstow v A Fitzpatrick - 2nd Round Match-Up ,Alex Fitzpatrick,0.01970000000000005,0.5652,0.5455
 2024-03-28 13:14:44.678390,MLB 2024 Regular Season Team Props - Pittsburgh Pirates Regular Season Win Total - Pittsburgh Pirates Regular Season Win Total,Over 76.5,0.01970000000000005,0.5652,0.5455
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Ewen Ferguson,0.019099999999999992,0.0667,0.0476
+2024-03-28 17:13:50.247652,Hero Indian Open - Match-Ups - 2nd Round Match-Up - S. Bairstow v A Fitzpatrick - 2nd Round Match-Up ,Alex Fitzpatrick,0.01970000000000005,0.5652,0.5455
 2024-03-28 11:14:15.042296,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Camilo Doval (R),0.01830000000000001,0.0952,0.0769
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Angel Hidalgo,0.0182,0.0323,0.0141
 2024-03-28 19:15:17.872592,NFL Draft - Pick Markets - Draft Picks - #3 Pick,Jayden Daniels,0.017600000000000005,0.3509,0.3333
 2024-03-28 11:14:15.042296,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Evan Phillips (LAD),0.01759999999999999,0.1176,0.1
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Nelly Korda,0.01759999999999999,0.1176,0.1
 2024-03-28 17:13:50.395459,Hero Indian Open - Match-Ups - 2nd Round Match-Up - C. Jarvis v M. Penge - 2nd Round Match-Up,Casey Jarvis,0.017299999999999982,0.5917,0.5744
 2024-03-28 15:14:13.217080,NFL Draft - Pick Markets - Draft Picks - #2 Pick,Jayden Daniels,0.017299999999999982,0.5917,0.5744
+2024-03-28 21:13:59.337364,BKFC 59: Dodson vs Aguero - Will Santiago vs James Dennis - To Win the Bout,Will Santiago,0.01629999999999998,0.7222,0.7059
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Isi Gabsa,0.015899999999999997,0.0179,0.002
 2024-03-28 19:15:20.233853,Boxing Lines - Raymond Muratalla vs Xolisani Ndongeni - To Win the Bout,Raymond Muratalla,0.014900000000000024,0.9804,0.9655
+2024-03-28 21:14:00.671752,Houston Open - 2/3 Balls - 2nd Round 3 Balls - P. Malnati / S. Scheffler / W. Zalatoris - 2nd Round 3 Balls,Peter Malnati,0.014800000000000008,0.1887,0.1739
 2024-03-28 17:13:49.891591,Hero Indian Open - 2/3 Balls - 2nd Round 3 Balls - S. Baisoya / D. Lawson / R. Gouveia - 2nd Round 3 Balls,Ricardo Gouveia,0.01479999999999998,0.3922,0.3774
 2024-03-28 11:13:58.329185,NFL Draft - Pick Markets - Draft Picks - #3 Pick,Marvin Harrison Jr.,0.014299999999999993,0.1143,0.1
 2024-03-28 19:15:19.956575,Boxing Lines - Elijah Pierce vs Arthur Villanueva - To Win the Bout,Elijah Pierce,0.014100000000000001,0.9615,0.9474
 2024-03-28 11:14:15.042296,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Adbert Alzolay (CHC),0.013999999999999999,0.0909,0.0769
 2024-03-28 11:14:15.042296,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Alexis Diaz (CIN),0.013999999999999999,0.0909,0.0769
 2024-03-28 17:13:50.208801,Hero Indian Open - Match-Ups - 2nd Round Match-Up - J. Luiten v R. Cabrera Bello - 2nd Round Match-Up ,Joost Luiten,0.013799999999999923,0.6364,0.6226
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Joel Girrbach,0.013,0.0196,0.0066
 2024-03-28 11:14:17.249697,Boxing Lines - Viddal Riley vs Mikael Lawal - To Win the Bout,Viddal Riley,0.011699999999999933,0.7895,0.7778
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Jeong Weon Ko,0.0114,0.0164,0.005
-2024-03-28 09:13:15.378255,Boxing Lines - Serhii Bohachuk vs Brian Mendoza - To Win the Bout,Serhii Bohachuk,0.011399999999999966,0.6491,0.6377
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Daan Huizing,0.011200000000000002,0.0244,0.0132
 2024-03-28 13:14:46.549205,Boxing Lines - Juan Carlos Carrillo vs Quinton Rankin - To Win the Bout,Quinton Rankin,0.011099999999999999,0.1111,0.1
 2024-03-28 17:13:42.164237,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Clemson,0.010700000000000001,0.0217,0.011
-2024-03-28 09:13:18.406470,Hero Indian Open - Match-Ups - 2nd Round Match-Up - C. Jarvis v M. Penge - 2nd Round Match-Up,Casey Jarvis,0.010699999999999932,0.5455,0.5348
-2024-03-28 09:13:12.218213,MLB 2024 Regular Season Team Props - San Diego Padres Regular Season Win Total - San Diego Padres Regular Season Win Total,Under 84.5,0.010699999999999932,0.5455,0.5348
 2024-03-28 13:14:40.972187,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - St Louis Cardinals - Tommy Edman Total Stolen Bases,Under 25.5,0.010699999999999932,0.5455,0.5348
 2024-03-28 11:13:58.394796,NFL Draft - Pick Markets - Draft Picks - #5 Pick,Joe Alt,0.010499999999999982,0.2105,0.2
 2024-03-28 11:14:15.042296,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Ryan Helsley (R),0.0102,0.0769,0.0667
 2024-03-28 13:14:40.910492,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - St Louis Cardinals - Tommy Edman Total Hits,Under 133.5,0.010099999999999998,0.5556,0.5455
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Matthew Southgate,-0.0103,0.002,0.0123
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Ugo Coussaud,-0.0108,0.0033,0.0141
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Sei Young Kim,-0.010700000000000001,0.0278,0.0385
 2024-03-28 11:14:15.758073,Boxing Lines - Giovanni Marquez vs Jayson Velez - To Win the Bout,Jayson Velez,-0.010899999999999993,0.1429,0.1538
-2024-03-28 09:13:18.312441,Hero Indian Open - Match-Ups - 2nd Round Match-Up - J. Veerman v M. Kieffer - 2nd Round Match-Up ,Johannes Veerman,-0.01100000000000001,0.5238,0.5348
-2024-03-28 09:13:18.312441,Hero Indian Open - Match-Ups - 2nd Round Match-Up - J. Veerman v M. Kieffer - 2nd Round Match-Up ,Maximillian Kieffer,-0.01100000000000001,0.5238,0.5348
-2024-03-28 09:13:18.406470,Hero Indian Open - Match-Ups - 2nd Round Match-Up - C. Jarvis v M. Penge - 2nd Round Match-Up,Marco Penge,-0.01100000000000001,0.5238,0.5348
-2024-03-28 09:13:18.256207,Hero Indian Open - Match-Ups - 2nd Round Match-Up - J. Morrison v T. Lewis - 2nd Round Match-Up ,Tom Lewis,-0.01100000000000001,0.5238,0.5348
 2024-03-28 13:14:40.972187,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - St Louis Cardinals - Tommy Edman Total Stolen Bases,Over 25.5,-0.01100000000000001,0.5238,0.5348
-2024-03-28 09:13:12.218213,MLB 2024 Regular Season Team Props - San Diego Padres Regular Season Win Total - San Diego Padres Regular Season Win Total,Over 84.5,-0.01100000000000001,0.5238,0.5348
-2024-03-28 09:13:18.256207,Hero Indian Open - Match-Ups - 2nd Round Match-Up - J. Morrison v T. Lewis - 2nd Round Match-Up ,James Morrison,-0.01100000000000001,0.5238,0.5348
 2024-03-28 17:13:41.891861,Super Ligi - Turkey BSL 2023/24 - Outright,Pinar Karsiyaka,-0.011199999999999995,0.0476,0.0588
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Georgia Hall,-0.0113,0.0028,0.0141
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Lexi Thompson,-0.0114,0.005,0.0164
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Amy Yang,-0.0115,0.0017,0.0132
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Madelene Sagstrom,-0.0116,0.0036,0.0152
 2024-03-28 13:14:40.910492,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - St Louis Cardinals - Tommy Edman Total Hits,Over 133.5,-0.011600000000000055,0.5122,0.5238
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Gaganjeet Bhullar,-0.0119,0.0033,0.0152
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Masahiro Kawamura,-0.0119,0.0033,0.0152
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Sarah Schmelzel,-0.012100000000000001,0.0123,0.0244
 2024-03-28 13:14:44.306382,MLB 2024 Regular Season Team Props - New York Yankees Regular Season Win Total - New York Yankees Regular Season Win Total,Over 92.5,-0.012199999999999989,0.5,0.5122
-2024-03-28 09:13:14.433540,Boxing Lines - Shohjahon Ergashev vs Juan Huertas - To Win the Bout,Juan Huertas,-0.012600000000000007,0.0588,0.0714
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Guido Migliozzi,-0.013,0.0066,0.0196
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Kazuma Kobori,-0.0132,0.002,0.0152
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Andrea Lee,-0.012199999999999999,0.0057,0.0179
+2024-03-28 21:13:59.337364,BKFC 59: Dodson vs Aguero - Will Santiago vs James Dennis - To Win the Bout,James Dennis,-0.012299999999999978,0.3448,0.3571
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Hannah Green,-0.0139,0.0057,0.0196
 2024-03-28 19:15:20.001263,Boxing Lines - Emiliano Vargas vs Nelson Hampton - To Win the Bout,Nelson Hampton,-0.014099999999999994,0.0526,0.0667
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Kiradech Aphibarnrat,-0.0145,0.0099,0.0244
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Aaron Cockerill,-0.014599999999999998,0.0033,0.0179
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Nasa Hataoka,-0.014400000000000003,0.0179,0.0323
 2024-03-28 17:13:41.564652,Euro Cup - Euro Cup 2023/24 - Outright,JL Bourg,-0.015100000000000002,0.1667,0.1818
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,David Micheluzzi,-0.0154,0.001,0.0164
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Callum Shinkwin,-0.0163,0.0033,0.0196
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Gavin Green,-0.0163,0.0033,0.0196
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Jayden Schaper,-0.017599999999999998,0.002,0.0196
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Calum Hill,-0.017800000000000003,0.0066,0.0244
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Frederic Lacroix,-0.017800000000000003,0.0066,0.0244
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Daniel Hillier,-0.0186,0.001,0.0196
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Hae Ran Ryu,-0.0179,0.0017,0.0196
 2024-03-28 19:15:17.872592,NFL Draft - Pick Markets - Draft Picks - #3 Pick,Drake Maye,-0.01880000000000004,0.5556,0.5744
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Shubankar Sharma,-0.0189,0.0196,0.0385
 2024-03-28 17:13:49.891591,Hero Indian Open - 2/3 Balls - 2nd Round 3 Balls - S. Baisoya / D. Lawson / R. Gouveia - 2nd Round 3 Balls,Deyen Lawson,-0.019500000000000017,0.3509,0.3704
 2024-03-28 13:14:49.140520,BKFC 59: Dodson vs Aguero - John Dodson vs Dagoberto Aguero - To Win the Bout,Dagoberto Aguero,-0.019699999999999995,0.4348,0.4545
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Minjee Lee,-0.019800000000000005,0.0278,0.0476
 2024-03-28 19:15:19.956575,Boxing Lines - Elijah Pierce vs Arthur Villanueva - To Win the Bout,Arthur Villanueva,-0.02020000000000001,0.0909,0.1111
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Niklas Norgaard,-0.0204,0.004,0.0244
 2024-03-28 11:14:19.747921,Hero Indian Open - Match-Ups - 2nd Round Match-Up - J. Luiten v R. Cabrera Bello - 2nd Round Match-Up ,Rafa Cabrera Bello,-0.020699999999999996,0.4444,0.4651
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Scott Jamieson,-0.022400000000000003,0.002,0.0244
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Ruoning Yin,-0.021799999999999996,0.0217,0.0435
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Linn Grant,-0.022400000000000003,0.0099,0.0323
 2024-03-28 13:14:35.182792,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Arizona Diamondbacks - Corbin Carroll Total Runs Scored,Under 99.5,-0.022600000000000064,0.5122,0.5348
 2024-03-28 11:14:02.076399,MLB 2024 Regular Season Player Props - MLB 2024 Regular Season Hitter Props - Arizona Diamondbacks - Corbin Carroll Total RBIs,Over 79.5,-0.022600000000000064,0.5122,0.5348
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Grant Forrest,-0.0234,0.001,0.0244
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Yuka Saso,-0.022799999999999997,0.005,0.0278
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Leona Maguire,-0.023100000000000002,0.0013,0.0244
 2024-03-28 17:13:50.247652,Hero Indian Open - Match-Ups - 2nd Round Match-Up - S. Bairstow v A Fitzpatrick - 2nd Round Match-Up ,Sam Bairstow,-0.023799999999999988,0.4762,0.5
+2024-03-28 19:15:15.351935,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Houston,-0.023799999999999988,0.1429,0.1667
 2024-03-28 13:14:44.678390,MLB 2024 Regular Season Team Props - Pittsburgh Pirates Regular Season Win Total - Pittsburgh Pirates Regular Season Win Total,Under 76.5,-0.023800000000000043,0.5,0.5238
-2024-03-28 09:13:18.487183,Hero Indian Open - Match-Ups - 2nd Round Match-Up - S. Sharma v A. Otaegui - 2nd Round Match-Up ,Shubankar Sharma,-0.023800000000000043,0.5,0.5238
-2024-03-28 09:13:18.360575,Hero Indian Open - Match-Ups - 2nd Round Match-Up - M. Kawamura v A. Sullivan - 2nd Round Match-Up,Masahiro Kawamura,-0.023800000000000043,0.5,0.5238
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Andy Sullivan,-0.024499999999999997,0.0033,0.0278
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Sebastian Soderberg,-0.0262,0.0123,0.0385
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Rose Zhang,-0.0253,0.0132,0.0385
 2024-03-28 15:14:13.253465,NFL Draft - Pick Markets - Draft Picks - #3 Pick,J.J. McCarthy,-0.028700000000000003,0.1818,0.2105
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Yannik Paul,-0.029399999999999996,0.0141,0.0435
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Laurie Canter,-0.029500000000000002,0.005,0.0345
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Bernd Wiesberger,-0.031200000000000002,0.0164,0.0476
+2024-03-28 21:14:00.671752,Houston Open - 2/3 Balls - 2nd Round 3 Balls - P. Malnati / S. Scheffler / W. Zalatoris - 2nd Round 3 Balls,Will Zalatoris,-0.029899999999999982,0.2778,0.3077
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Charley Hull,-0.030600000000000002,0.0017,0.0323
+2024-03-28 21:13:59.201556,BKFC 59: Dodson vs Aguero - Austin Lewis vs Joshua Richey - To Win the Bout,Joshua Richey,-0.031,0.1429,0.1739
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Hye-Jin Choi,-0.0313,0.001,0.0323
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Xiyu Lin,-0.0319,0.0066,0.0385
 2024-03-28 17:13:41.564652,Euro Cup - Euro Cup 2023/24 - Outright,London Lions,-0.0321,0.0588,0.0909
 2024-03-28 17:13:50.395459,Hero Indian Open - Match-Ups - 2nd Round Match-Up - C. Jarvis v M. Penge - 2nd Round Match-Up,Marco Penge,-0.033299999999999996,0.4545,0.4878
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Richard Mansell,-0.0335,0.005,0.0385
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Mao Saigo,-0.0335,0.005,0.0385
 2024-03-28 17:13:41.564652,Euro Cup - Euro Cup 2023/24 - Outright,Besiktas,-0.0343,0.0833,0.1176
 2024-03-28 11:14:19.794288,Hero Indian Open - Match-Ups - 2nd Round Match-Up - S. Bairstow v A Fitzpatrick - 2nd Round Match-Up ,Sam Bairstow,-0.03480000000000005,0.5,0.5348
 2024-03-28 11:14:19.971639,Hero Indian Open - Match-Ups - 2nd Round Match-Up - C. Jarvis v M. Penge - 2nd Round Match-Up,Marco Penge,-0.03600000000000003,0.4878,0.5238
 2024-03-28 17:13:50.208801,Hero Indian Open - Match-Ups - 2nd Round Match-Up - J. Luiten v R. Cabrera Bello - 2nd Round Match-Up ,Rafa Cabrera Bello,-0.03620000000000001,0.4082,0.4444
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Anirban Lahiri,-0.042499999999999996,0.001,0.0435
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Ayaka Furue,-0.0365,0.002,0.0385
+2024-03-28 21:14:02.912100,Ford Championship - Ford Championship - Winner,Lydia Ko,-0.0385,0.0141,0.0526
 2024-03-28 13:14:33.645505,NFL Draft - Pick Markets - Draft Picks - #2 Pick,Drake Maye,-0.044399999999999995,0.4,0.4444
-2024-03-28 09:13:18.438230,Hero Indian Open - Match-Ups - 2nd Round Match-Up - B. Stone v G. Migliozzi - 2nd Round Match-Up ,Brandon Stone,-0.04700000000000004,0.4878,0.5348
 2024-03-28 17:13:42.164237,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Arizona,-0.052300000000000006,0.0588,0.1111
-2024-03-28 09:13:18.191233,Hero Indian Open - Match-Ups - 2nd Round Match-Up - J. Luiten v R. Cabrera Bello - 2nd Round Match-Up ,Rafa Cabrera Bello,-0.05870000000000003,0.4651,0.5238
-2024-03-28 09:13:18.138884,Hero Indian Open - Hero Indian Open - Winner,Rasmus Hojgaard,-0.0657,0.001,0.0667
 2024-03-28 15:14:13.253465,NFL Draft - Pick Markets - Draft Picks - #3 Pick,Jayden Daniels,-0.06670000000000004,0.3333,0.4
 2024-03-28 11:14:15.042296,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Devin Williams (R),-0.2024,0.0476,0.25
