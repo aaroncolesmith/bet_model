@@ -1,4 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2024-04-01 03:08:07.465424,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,Borussia Dortmund,0.3031,0.6667,0.3636
 2024-03-31 23:09:30.145947,Northwest Division - Northwest Division 2023-24 - Division Winner,Oklahoma City Thunder,0.19840000000000002,0.4651,0.2667
 2024-03-31 23:09:30.259297,Southwest Division - Southwest Division 2023-24 - Division Winner,Dallas Mavericks,0.19130000000000003,0.7368,0.5455
 2024-03-31 23:09:30.519373,College Specials - NCAA Mens Tournament Specials - Final Four Most Outstanding Player,Donovan Clingan (UConn),0.1792,0.3125,0.1333
@@ -7,6 +8,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-01 01:08:47.117443,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Hibernian,0.09820000000000001,0.5744,0.4762
 2024-03-31 15:13:30.707630,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Purdue,0.09029999999999999,0.3125,0.2222
 2024-04-01 01:08:49.244300,Republicans - US Presidential Election 2024 - Republican Electoral College Votes - Republican Electoral College Votes,Under 280.5,0.08339999999999992,0.6667,0.5833
+2024-04-01 03:08:09.957567,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,Malmö FF,0.08079999999999998,0.6364,0.5556
 2024-03-31 23:09:28.306062,Superligaen - Denmark Superligaen 2023/2024 - To Be Relegated,Lyngby BK,0.07520000000000002,0.2857,0.2105
 2024-03-31 23:09:30.609351,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Mark Daigneault,0.06909999999999994,0.7874,0.7183
 2024-03-31 17:14:23.452008,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Botafogo,0.06670000000000004,0.4,0.3333
@@ -20,7 +22,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-31 17:14:29.832515,NFL Draft - Pick Markets - Draft Picks - #3 Pick,J.J. McCarthy,0.04040000000000002,0.2222,0.1818
 2024-03-31 23:09:30.590070,NBA Awards - NBA Awards 2023-24 - Clutch Player of the Year,Shai Gilgeous-Alexander (OKC),0.0392,0.0588,0.0196
 2024-03-31 23:09:30.640137,NBA Awards - NBA Awards 2023-24 - Most Improved Player,Coby White (CHI),0.03839999999999999,0.3509,0.3125
-2024-03-31 13:12:38.341654,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Tennessee,0.034100000000000005,0.125,0.0909
 2024-04-01 01:08:49.789069,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,0.033399999999999985,0.8667,0.8333
 2024-03-31 23:09:30.519373,College Specials - NCAA Mens Tournament Specials - Final Four Most Outstanding Player,DJ Burns,0.0319,0.0385,0.0066
 2024-03-31 17:14:27.693088,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,NC State,0.031,0.0588,0.0278
@@ -28,23 +29,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-31 23:09:30.030385,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Cleveland Cavaliers,0.028399999999999995,0.0909,0.0625
 2024-03-31 23:09:30.110959,Central Division - Central Division 2023-24 - Division Winner,Milwaukee Bucks,0.028200000000000003,0.9615,0.9333
 2024-04-01 01:08:45.162006,MLS - USA MLS 2024 - Futures - Western Conference League Winner,LA Galaxy,0.02779999999999999,0.25,0.2222
-2024-03-31 13:12:38.341654,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Purdue,0.022199999999999998,0.2222,0.2
 2024-03-31 23:09:29.884759,NBA Championship - NBA Championship 2023-24 - NBA Champion,Boston Celtics,0.022199999999999998,0.3448,0.3226
+2024-04-01 03:08:07.444936,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,FC Köln,0.02200000000000002,0.7143,0.6923
 2024-03-31 15:13:34.172844,MLB Daily Fantasy Specials - MLB DFS Sunday Night Baseball Best Performing Pitcher - MLB DFS Sunday Night Baseball Best Performing Pitcher,Gavin Stone,0.021699999999999997,0.4762,0.4545
 2024-03-31 23:09:30.030385,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Milwaukee Bucks,0.02159999999999998,0.2597,0.2381
 2024-03-31 15:13:28.188663,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Arsenal,0.019000000000000017,0.2857,0.2667
 2024-03-31 23:09:29.938863,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Division,Pacific Division,0.01820000000000002,0.2,0.1818
 2024-03-31 19:13:22.841833,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,NC State (W),0.015300000000000001,0.0476,0.0323
 2024-03-31 23:09:29.957154,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning State,California,0.015100000000000002,0.1818,0.1667
+2024-04-01 03:08:07.444936,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Borussia Mönchengladbach,0.014099999999999998,0.0385,0.0244
 2024-03-31 23:09:29.884759,NBA Championship - NBA Championship 2023-24 - NBA Champion,Oklahoma City Thunder,0.014099999999999994,0.0667,0.0526
-2024-04-01 01:08:45.162006,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Sporting Kansas City,0.013999999999999999,0.0909,0.0769
 2024-03-31 23:09:30.070322,Western Conference - Western Conference 2023-24 - Western Conference Winner,Dallas Mavericks,0.013999999999999999,0.0909,0.0769
 2024-03-31 23:09:30.565308,NBA Awards - NBA Awards 2023-24 - 6th Man of the Year,Norman Powell (LAC),0.013999999999999999,0.0909,0.0769
+2024-04-01 01:08:45.162006,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Sporting Kansas City,0.013999999999999999,0.0909,0.0769
+2024-04-01 03:08:09.957567,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,Djurgårdens IF,0.013899999999999996,0.125,0.1111
+2024-04-01 03:08:07.444936,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Bochum,0.012899999999999995,0.1667,0.1538
 2024-04-01 01:08:45.162006,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Houston Dynamo,0.011099999999999999,0.1111,0.1
 2024-03-31 23:09:29.912592,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Conference,Western Conference,0.01100000000000001,0.5348,0.5238
 2024-03-31 23:09:30.030385,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Philadelphia 76ers,0.0102,0.0769,0.0667
 2024-04-01 01:08:45.162006,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Vancouver Whitecaps,0.0102,0.0769,0.0667
 2024-03-31 17:14:27.693088,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Purdue,0.010099999999999998,0.3226,0.3125
+2024-04-01 03:08:12.746962,College Specials - NCAA Mens Tournament Specials - Final Four Most Outstanding Player,Donovan Clingan (UConn),0.010099999999999998,0.3226,0.3125
 2024-03-31 23:09:28.306062,Superligaen - Denmark Superligaen 2023/2024 - To Be Relegated,Vejle BK,-0.010099999999999998,0.5455,0.5556
 2024-03-31 15:13:30.707630,NCAA DI Men - 2024 NCAA DI Mens Basketball Tournament - National Champion ,Connecticut,-0.010099999999999998,0.6774,0.6875
 2024-03-31 23:09:30.030385,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Miami Heat,-0.0102,0.0667,0.0769
@@ -61,10 +66,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-31 19:13:22.841833,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,LSU (W),-0.015700000000000006,0.1176,0.1333
 2024-03-31 23:09:30.070322,Western Conference - Western Conference 2023-24 - Western Conference Winner,Denver Nuggets,-0.016699999999999993,0.4,0.4167
 2024-04-01 01:08:47.102356,Premiership - Scotland Premiership 2023/24 - To Finish Bottom,Ross County,-0.018099999999999998,0.0588,0.0769
+2024-04-01 03:08:07.444936,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Wolfsburg,-0.019099999999999992,0.0476,0.0667
 2024-03-31 23:09:30.648473,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Nikola Jokic (DEN),-0.01980000000000004,0.875,0.8948
 2024-04-01 01:08:47.179035,Professional League - Saudi Professional League 2023/24 - Winner,Al Nassr,-0.0203,0.0385,0.0588
+2024-04-01 03:08:12.746962,College Specials - NCAA Mens Tournament Specials - Final Four Most Outstanding Player,Zach Edey (Purdue),-0.022199999999999998,0.3226,0.3448
 2024-04-01 01:08:45.162006,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Los Angeles FC,-0.022199999999999998,0.2,0.2222
 2024-03-31 23:09:30.648473,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Shai Gilgeous-Alexander (OKC),-0.0238,0.0476,0.0714
+2024-04-01 03:08:07.444936,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Mainz,-0.025599999999999956,0.5744,0.6
 2024-03-31 23:09:29.938863,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Division,Northwest Division,-0.02560000000000001,0.3077,0.3333
 2024-04-01 01:08:47.109474,Premiership - Scotland Premiership 2023/24 - Top 6 Finish,Motherwell,-0.028199999999999996,0.0385,0.0667
 2024-04-01 01:08:47.076079,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,Benfica,-0.030299999999999994,0.3333,0.3636
@@ -83,6 +91,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-31 23:09:30.626346,NBA Awards - NBA Awards 2023-24 - Defensive Player of the Year,Victor Wembanyama (SAS),-0.0509,0.0667,0.1176
 2024-03-31 23:09:30.220145,Southeast Division - Southeast Division 2023-24 - Division Winner,Miami Heat,-0.05790000000000001,0.3125,0.3704
 2024-03-31 23:09:28.258556,First Division A - Belgium First Division A 2023/24 - Outright,Union Saint-Gilloise,-0.06520000000000004,0.6491,0.7143
+2024-04-01 03:08:07.465424,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,VfB Stuttgart,-0.06620000000000004,0.875,0.9412
+2024-04-01 03:08:09.957567,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,BK Häcken,-0.06669999999999998,0.1,0.1667
 2024-03-31 23:09:28.306062,Superligaen - Denmark Superligaen 2023/2024 - To Be Relegated,Viborg FF,-0.07500000000000001,0.125,0.2
 2024-04-01 01:08:49.244300,Republicans - US Presidential Election 2024 - Republican Electoral College Votes - Republican Electoral College Votes,Over 280.5,-0.07619999999999999,0.4,0.4762
 2024-04-01 01:08:47.117443,Premiership - Scotland Premiership 2023/24 - Bottom 6 Finish,Dundee FC,-0.0917,0.5,0.5917
@@ -90,3 +100,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-03-31 15:13:28.188663,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Manchester City,-0.12120000000000003,0.3333,0.4545
 2024-03-31 23:09:30.259297,Southwest Division - Southwest Division 2023-24 - Division Winner,New Orleans Pelicans,-0.1997,0.3125,0.5122
 2024-03-31 23:09:30.145947,Northwest Division - Northwest Division 2023-24 - Division Winner,Minnesota Timberwolves,-0.22360000000000002,0.1538,0.3774
+2024-04-01 03:08:07.465424,1. Bundesliga - Germany Bundesliga 2023/24 - Top 4 Finish,RB Leipzig,-0.23230000000000006,0.5455,0.7778
