@@ -23,6 +23,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-06 03:00:53.938445,Valero Texas Open - 2/3 Balls - 3rd Round 3-Balls - A. Bjork / C.T. Pan / J. Lower - 3rd Round 3-Balls,C T Pan,0.03640000000000004,0.4,0.3636
 2024-04-06 07:00:51.954419,Totals - 3rd Round Birdies - Ludvig Aberg - 3rd Round Birdies ,Over 3.5,0.03610000000000002,0.5917,0.5556
 2024-04-06 01:00:54.391823,NFL Draft - Player Markets - Team To Draft Player - Michael Penix Jr.,Las Vegas Raiders,0.03570000000000001,0.2857,0.25
+2024-04-06 11:00:34.311942,BKFC 60: Lilley vs Tenaglia - James Lilley vs Franco Tenaglia - To Win the Bout,Franco Tenaglia,0.03570000000000001,0.2857,0.25
 2024-04-06 09:00:42.976014,BKFC 60: Lilley vs Tenaglia - Dawid Oskar vs Conor Cook - To Win the Bout,Conor Cook,0.0353,0.8,0.7647
 2024-04-06 07:00:52.238242,Scores - 3rd Round Score - Hideki Matsuyama - 3rd Round Score ,Over 70.5,0.03479999999999994,0.6,0.5652
 2024-04-06 01:00:51.905039,Championship - England Championship 2023/24 - To Be Relegated,Queens Park Rangers,0.0321,0.0909,0.0588
@@ -38,57 +39,63 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-06 07:00:51.874359,BKFC 60: Lilley vs Tenaglia - James Lilley vs Franco Tenaglia - To Win the Bout,James Lilley,0.02400000000000002,0.75,0.726
 2024-04-06 07:00:51.943198,Totals - 3rd Round Birdies - Jordan Spieth - 3rd Round Birdies ,Over 4.5,0.023800000000000043,0.5238,0.5
 2024-04-06 03:00:53.735255,Round Match-Ups - 3rd Round Match-Ups - C. Conners vs M. Homa - 3rd Round Match-Ups,Max Homa,0.023800000000000043,0.5238,0.5
-2024-04-06 07:00:52.045436,Round Match-Ups - 3rd Round Match-Ups - R. McIIroy vs L. Aberg - 3rd Round Match-Ups,Ludvig Aberg,0.023799999999999988,0.5,0.4762
 2024-04-06 07:00:51.920926,Totals - 3rd Round Birdies - Denny McCarthy - 3rd Round Birdies ,Over 3.5,0.023799999999999988,0.5,0.4762
-2024-04-06 07:00:52.283082,Scores - 3rd Round Score - Russell Henley - 3rd Round Score ,Over 70.5,0.022600000000000064,0.6226,0.6
+2024-04-06 07:00:52.045436,Round Match-Ups - 3rd Round Match-Ups - R. McIIroy vs L. Aberg - 3rd Round Match-Ups,Ludvig Aberg,0.023799999999999988,0.5,0.4762
 2024-04-06 07:00:52.148635,Round Match-Ups - 3rd Round Match-Ups - T. Olesen vs V. Perez - 3rd Round Match-Ups,Victor Perez,0.022600000000000064,0.5348,0.5122
-2024-04-06 07:00:52.227303,Scores - 3rd Round Score - Denny McCarthy - 3rd Round Score ,Over 70.5,0.022600000000000064,0.6226,0.6
-2024-04-06 05:00:51.643283,Round Match-Ups - 3rd Round Match-Ups - A. Schenk vs A. Putnam - 3rd Round Match-Ups,Andrew Putnam,0.022600000000000064,0.5348,0.5122
+2024-04-06 07:00:52.283082,Scores - 3rd Round Score - Russell Henley - 3rd Round Score ,Over 70.5,0.022600000000000064,0.6226,0.6
 2024-04-06 07:00:52.169296,Round Match-Ups - 3rd Round Match-Ups - L. Glover vs D. McCarthy - 3rd Round Match-Ups,Lucas Glover,0.022600000000000064,0.5348,0.5122
+2024-04-06 05:00:51.643283,Round Match-Ups - 3rd Round Match-Ups - A. Schenk vs A. Putnam - 3rd Round Match-Ups,Andrew Putnam,0.022600000000000064,0.5348,0.5122
+2024-04-06 07:00:52.227303,Scores - 3rd Round Score - Denny McCarthy - 3rd Round Score ,Over 70.5,0.022600000000000064,0.6226,0.6
 2024-04-06 09:00:42.965470,BKFC 60: Lilley vs Tenaglia - Danny Mcintosh vs Rob Boardman - To Win the Bout,Danny Mcintosh,0.02159999999999998,0.2597,0.2381
-2024-04-06 07:00:51.931941,Totals - 3rd Round Birdies - Hideki Matsuyama - 3rd Round Birdies ,Over 3.5,0.02079999999999993,0.5556,0.5348
 2024-04-05 23:00:40.811798,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Conference,Eastern Conference,0.02079999999999993,0.5556,0.5348
+2024-04-06 07:00:51.931941,Totals - 3rd Round Birdies - Hideki Matsuyama - 3rd Round Birdies ,Over 3.5,0.02079999999999993,0.5556,0.5348
 2024-04-06 07:00:52.055666,Round Match-Ups - 3rd Round Match-Up - C. Morikawa v H. Matsuyama - 3rd Round Match-Up ,Hideki Matsuyama,0.02079999999999993,0.5556,0.5348
 2024-04-06 07:00:52.249399,Scores - 3rd Round Score - Jordan Spieth - 3rd Round Score ,Over 70.5,0.02079999999999993,0.5556,0.5348
 2024-04-06 09:00:42.943190,BKFC 60: Lilley vs Tenaglia - Charles Wasserman vs Matt Hodgson - To Win the Bout,Matt Hodgson,0.02030000000000004,0.3774,0.3571
 2024-04-05 23:00:40.837657,NBA Championship - NBA Championship 2023-24 - First Time Winner,No,0.020100000000000007,0.8462,0.8261
-2024-04-06 07:00:52.192893,Round Match-Ups - 3rd Round Match-Up - M. Schmid v R. Moore - 3rd Round Match-Up ,Matti Schmid,0.01970000000000005,0.5652,0.5455
-2024-04-06 03:00:53.832417,Round Match-Ups - 3rd Round Match-Ups - A. Bhatia vs R. Henley - 3rd Round Match-Ups,Russell Henley,0.01970000000000005,0.5652,0.5455
 2024-04-06 09:00:42.922042,BKFC 60: Lilley vs Tenaglia - Toby Bindon vs Marcus Pond - To Win the Bout,Marcus Pond,0.01970000000000005,0.5652,0.5455
+2024-04-06 03:00:53.832417,Round Match-Ups - 3rd Round Match-Ups - A. Bhatia vs R. Henley - 3rd Round Match-Ups,Russell Henley,0.01970000000000005,0.5652,0.5455
+2024-04-06 07:00:52.192893,Round Match-Ups - 3rd Round Match-Up - M. Schmid v R. Moore - 3rd Round Match-Up ,Matti Schmid,0.01970000000000005,0.5652,0.5455
 2024-04-06 03:00:54.201018,Valero Texas Open - 2/3 Balls - 3rd Round 3-Balls - D. McCarthy / R. McIIroy / T. Fleetwood - 3rd Round 3-Balls,Denny McCarthy,0.019000000000000017,0.2857,0.2667
+2024-04-06 11:00:34.212701,BKFC 60: Lilley vs Tenaglia - Bartek Kanabey vs Bakhtyor Kudratov - To Win the Bout,Bakhtyor Kudratov,0.018900000000000028,0.4444,0.4255
+2024-04-06 11:00:34.311942,BKFC 60: Lilley vs Tenaglia - James Lilley vs Franco Tenaglia - To Win the Bout,James Lilley,0.01880000000000004,0.7778,0.759
 2024-04-06 07:00:51.976494,Totals - 3rd Round Birdies - Russell Henley - 3rd Round Birdies ,Over 3.5,0.01880000000000004,0.5744,0.5556
 2024-04-05 23:00:43.408627,T-Mobile Match-Play - T-Mobile Match-Play - Winner,Sei Young Kim,0.01820000000000002,0.2,0.1818
 2024-04-06 01:00:54.235841,NFL Draft - Player Markets - Positional Groups - 1st Defensive Player Selected,Laiatu Latu,0.0179,0.1429,0.125
 2024-04-06 05:00:51.444294,BKFC 60: Lilley vs Tenaglia - Jonno Chipchase vs Robbie Brown  - To Win the Bout,Robbie Brown,0.017500000000000016,0.3623,0.3448
+2024-04-06 11:00:33.534681,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,Washington Commanders,0.016699999999999937,0.6,0.5833
 2024-04-06 01:00:54.391823,NFL Draft - Player Markets - Team To Draft Player - Michael Penix Jr.,Minnesota Vikings,0.014900000000000024,0.3226,0.3077
 2024-04-05 23:00:40.873342,Western Conference - Western Conference 2023-24 - Western Conference Winner,Dallas Mavericks,0.013999999999999999,0.0909,0.0769
 2024-04-05 23:00:40.873342,Western Conference - Western Conference 2023-24 - Western Conference Winner,Los Angeles Lakers,0.013899999999999996,0.0556,0.0417
 2024-04-05 23:00:42.680911,BKFC 60: Lilley vs Tenaglia - Gary Fox vs Ellis Shepherd - To Win the Bout,Gary Fox,0.011600000000000055,0.5238,0.5122
 2024-04-05 23:00:40.873342,Western Conference - Western Conference 2023-24 - Western Conference Winner,Golden State Warriors,0.011199999999999995,0.0435,0.0323
-2024-04-06 07:00:51.486367,Boxing Lines - Pablo Vicente vs Ricardo Nunez - To Win the Bout,Ricardo Nunez,0.010499999999999982,0.2105,0.2
 2024-04-06 09:00:42.771943,Boxing Lines - Jared Anderson vs Ryad Merhy - To Win the Bout,Ryad Merhy,0.010499999999999982,0.2105,0.2
+2024-04-06 07:00:51.486367,Boxing Lines - Pablo Vicente vs Ricardo Nunez - To Win the Bout,Ricardo Nunez,0.010499999999999982,0.2105,0.2
 2024-04-05 23:00:43.408627,T-Mobile Match-Play - T-Mobile Match-Play - Winner,Minami Katsu,0.0102,0.0769,0.0667
 2024-04-05 23:00:40.873342,Western Conference - Western Conference 2023-24 - Western Conference Winner,New Orleans Pelicans,0.010100000000000001,0.0345,0.0244
 2024-04-06 09:00:42.986275,BKFC 60: Lilley vs Tenaglia - Gary Fox vs Ellis Shepherd - To Win the Bout,Ellis Shepherd,0.010099999999999998,0.5556,0.5455
 2024-04-05 23:00:42.680911,BKFC 60: Lilley vs Tenaglia - Gary Fox vs Ellis Shepherd - To Win the Bout,Ellis Shepherd,-0.010099999999999998,0.5455,0.5556
+2024-04-06 11:00:34.079467,Boxing Lines - Jared Anderson vs Ryad Merhy - To Win the Bout,Ryad Merhy,-0.010499999999999982,0.2,0.2105
 2024-04-06 03:00:53.879198,Scores - 3rd Round Score - Jordan Spieth - 3rd Round Score ,Over 70.5,-0.010699999999999932,0.5348,0.5455
-2024-04-06 03:00:53.879198,Scores - 3rd Round Score - Jordan Spieth - 3rd Round Score ,Under 70.5,-0.010699999999999932,0.5348,0.5455
-2024-04-06 03:00:53.608621,Totals - 3rd Round Birdies - Rory McIlroy - 3rd Round Birdies ,Over 3.5,-0.010699999999999932,0.5348,0.5455
-2024-04-06 03:00:53.572906,Totals - 3rd Round Birdies - Hideki Matsuyama - 3rd Round Birdies ,Under 3.5,-0.010699999999999932,0.5348,0.5455
 2024-04-06 03:00:53.572906,Totals - 3rd Round Birdies - Hideki Matsuyama - 3rd Round Birdies ,Over 3.5,-0.010699999999999932,0.5348,0.5455
+2024-04-06 03:00:53.608621,Totals - 3rd Round Birdies - Rory McIlroy - 3rd Round Birdies ,Over 3.5,-0.010699999999999932,0.5348,0.5455
+2024-04-06 03:00:53.879198,Scores - 3rd Round Score - Jordan Spieth - 3rd Round Score ,Under 70.5,-0.010699999999999932,0.5348,0.5455
 2024-04-06 03:00:53.608621,Totals - 3rd Round Birdies - Rory McIlroy - 3rd Round Birdies ,Under 3.5,-0.010699999999999932,0.5348,0.5455
-2024-04-06 07:00:52.866696,Futures - The Masters 2024 - Winner,Justin Thomas,-0.010700000000000001,0.0278,0.0385
-2024-04-06 07:00:52.866696,Futures - The Masters 2024 - Winner,Viktor Hovland,-0.010700000000000001,0.0278,0.0385
+2024-04-06 03:00:53.572906,Totals - 3rd Round Birdies - Hideki Matsuyama - 3rd Round Birdies ,Under 3.5,-0.010699999999999932,0.5348,0.5455
 2024-04-06 07:00:52.866696,Futures - The Masters 2024 - Winner,Will Zalatoris,-0.010700000000000001,0.0278,0.0385
+2024-04-06 07:00:52.866696,Futures - The Masters 2024 - Winner,Viktor Hovland,-0.010700000000000001,0.0278,0.0385
+2024-04-06 07:00:52.866696,Futures - The Masters 2024 - Winner,Justin Thomas,-0.010700000000000001,0.0278,0.0385
 2024-04-06 03:00:53.522067,BKFC 60: Lilley vs Tenaglia - James Lilley vs Franco Tenaglia - To Win the Bout,Franco Tenaglia,-0.01150000000000001,0.3333,0.3448
 2024-04-06 03:00:54.026450,Valero Texas Open - 2/3 Balls - 3rd Round 3-Balls - C. Kim / R. Hoey / P. Coody - 3rd Round 3-Balls,Rico Hoey,-0.01150000000000001,0.3333,0.3448
 2024-04-06 05:00:51.610373,Round Match-Ups - 3rd Round Match-Ups - R. McIIroy vs L. Aberg - 3rd Round Match-Ups,Ludvig Aberg,-0.0116,0.4762,0.4878
 2024-04-06 09:00:42.986275,BKFC 60: Lilley vs Tenaglia - Gary Fox vs Ellis Shepherd - To Win the Bout,Gary Fox,-0.011600000000000055,0.5122,0.5238
 2024-04-05 23:00:41.163221,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Chris Finch,-0.011899999999999994,0.2381,0.25
-2024-04-06 03:00:53.938445,Valero Texas Open - 2/3 Balls - 3rd Round 3-Balls - A. Bjork / C.T. Pan / J. Lower - 3rd Round 3-Balls,Alexander Bjork,-0.012699999999999989,0.3509,0.3636
+2024-04-06 11:00:34.300194,BKFC 60: Lilley vs Tenaglia - Gary Fox vs Ellis Shepherd - To Win the Bout,Gary Fox,-0.012199999999999989,0.5,0.5122
 2024-04-05 23:00:40.804379,NBA Championship - NBA Championship 2023-24 - NBA Champion,Boston Celtics,-0.012699999999999989,0.3509,0.3636
-2024-04-06 01:00:54.235841,NFL Draft - Player Markets - Positional Groups - 1st Defensive Player Selected,Byron Murphy II,-0.013999999999999999,0.0769,0.0909
+2024-04-06 03:00:53.938445,Valero Texas Open - 2/3 Balls - 3rd Round 3-Balls - A. Bjork / C.T. Pan / J. Lower - 3rd Round 3-Balls,Alexander Bjork,-0.012699999999999989,0.3509,0.3636
+2024-04-06 11:00:34.212701,BKFC 60: Lilley vs Tenaglia - Bartek Kanabey vs Bakhtyor Kudratov - To Win the Bout,Bartek Kanabey,-0.013799999999999923,0.6226,0.6364
 2024-04-06 01:00:54.254331,NFL Draft - Player Markets - Positional Groups - 1st Offensive Lineman Selected,J.C. Latham,-0.013999999999999999,0.0769,0.0909
+2024-04-06 01:00:54.235841,NFL Draft - Player Markets - Positional Groups - 1st Defensive Player Selected,Byron Murphy II,-0.013999999999999999,0.0769,0.0909
 2024-04-05 23:00:41.796308,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Marvin Harrison Jr / 3. Drake Maye,-0.0145,0.0099,0.0244
 2024-04-05 23:00:41.796308,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Jayden Daniels / 3. J.J. McCarthy,-0.01469999999999999,0.2353,0.25
 2024-04-05 23:00:41.188785,NBA Awards - NBA Awards 2023-24 - Regular Season MVP,Luka Doncic (DAL),-0.014899999999999997,0.0476,0.0625
@@ -108,12 +115,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-06 07:00:52.438604,Valero Texas Open - 2/3 Balls - 3rd Round 3-Balls - J. Highsmith / P. Coody / L. Griffin - 3rd Round 3-Balls,Joe Highsmith,-0.02100000000000002,0.3636,0.3846
 2024-04-06 03:00:53.735255,Round Match-Ups - 3rd Round Match-Ups - C. Conners vs M. Homa - 3rd Round Match-Ups,Corey Conners,-0.02169999999999994,0.5238,0.5455
 2024-04-06 03:00:54.201018,Valero Texas Open - 2/3 Balls - 3rd Round 3-Balls - D. McCarthy / R. McIIroy / T. Fleetwood - 3rd Round 3-Balls,Rory McIlroy,-0.021699999999999997,0.4545,0.4762
-2024-04-06 05:00:51.643283,Round Match-Ups - 3rd Round Match-Ups - A. Schenk vs A. Putnam - 3rd Round Match-Ups,Adam Schenk,-0.022600000000000064,0.5122,0.5348
 2024-04-06 07:00:52.169296,Round Match-Ups - 3rd Round Match-Ups - L. Glover vs D. McCarthy - 3rd Round Match-Ups,Denny McCarthy,-0.022600000000000064,0.5122,0.5348
-2024-04-06 07:00:52.249399,Scores - 3rd Round Score - Jordan Spieth - 3rd Round Score ,Under 70.5,-0.022600000000000064,0.5122,0.5348
+2024-04-05 23:00:40.811798,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Conference,Western Conference,-0.022600000000000064,0.5122,0.5348
+2024-04-06 05:00:51.643283,Round Match-Ups - 3rd Round Match-Ups - A. Schenk vs A. Putnam - 3rd Round Match-Ups,Adam Schenk,-0.022600000000000064,0.5122,0.5348
 2024-04-06 07:00:51.931941,Totals - 3rd Round Birdies - Hideki Matsuyama - 3rd Round Birdies ,Under 3.5,-0.022600000000000064,0.5122,0.5348
 2024-04-06 07:00:52.148635,Round Match-Ups - 3rd Round Match-Ups - T. Olesen vs V. Perez - 3rd Round Match-Ups,Thorbjorn Olesen,-0.022600000000000064,0.5122,0.5348
-2024-04-05 23:00:40.811798,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning Conference,Western Conference,-0.022600000000000064,0.5122,0.5348
+2024-04-06 07:00:52.249399,Scores - 3rd Round Score - Jordan Spieth - 3rd Round Score ,Under 70.5,-0.022600000000000064,0.5122,0.5348
 2024-04-05 23:00:41.796308,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Drake Maye / 3. Marvin Harrison Jr,-0.0232,0.0435,0.0667
 2024-04-06 03:00:53.832417,Round Match-Ups - 3rd Round Match-Ups - A. Bhatia vs R. Henley - 3rd Round Match-Ups,Akshay Bhatia,-0.023799999999999988,0.4762,0.5
 2024-04-06 07:00:52.192893,Round Match-Ups - 3rd Round Match-Up - M. Schmid v R. Moore - 3rd Round Match-Up ,Ryan Moore,-0.023799999999999988,0.4762,0.5
@@ -123,8 +130,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-06 09:00:43.008401,BKFC 60: Lilley vs Tenaglia - Jonno Chipchase vs Robbie Brown  - To Win the Bout,Jonno Chipchase,-0.02739999999999998,0.7059,0.7333
 2024-04-06 05:00:51.354223,BKFC 60: Lilley vs Tenaglia - Ben Bonner vs Ray Putterill - To Win the Bout,Ray Putterill,-0.029000000000000026,0.4255,0.4545
 2024-04-06 01:00:54.235841,NFL Draft - Player Markets - Positional Groups - 1st Defensive Player Selected,Dallas Turner,-0.030299999999999994,0.6364,0.6667
-2024-04-06 07:00:52.283082,Scores - 3rd Round Score - Russell Henley - 3rd Round Score ,Under 70.5,-0.031799999999999995,0.4444,0.4762
 2024-04-06 07:00:52.227303,Scores - 3rd Round Score - Denny McCarthy - 3rd Round Score ,Under 70.5,-0.031799999999999995,0.4444,0.4762
+2024-04-06 07:00:52.283082,Scores - 3rd Round Score - Russell Henley - 3rd Round Score ,Under 70.5,-0.031799999999999995,0.4444,0.4762
 2024-04-05 23:00:41.163221,NBA Awards - NBA Awards 2023-24 - Coach of the Year,Jamahl Mosley,-0.034100000000000005,0.0909,0.125
 2024-04-06 07:00:51.920926,Totals - 3rd Round Birdies - Denny McCarthy - 3rd Round Birdies ,Under 3.5,-0.03479999999999994,0.5652,0.6
 2024-04-06 05:00:51.527528,Totals - 3rd Round Birdies - Rory McIlroy - 3rd Round Birdies ,Under 3.5,-0.03480000000000005,0.5,0.5348
