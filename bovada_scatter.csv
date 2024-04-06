@@ -17,8 +17,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-05 11:00:42.044084,NBA Draft - 2024 NBA Draft - Which Team will Select Bronny James,Los Angeles Lakers,0.033300000000000024,0.2,0.1667
 2024-04-05 13:00:53.641435,BKFC 60: Lilley vs Tenaglia - Danny Mcintosh vs Rob Boardman - To Win the Bout,Danny Mcintosh,0.027600000000000013,0.2381,0.2105
 2024-04-05 15:00:40.589586,FIBA Champions League - Champions League 2023/24 - Outright,Tenerife,0.02679999999999999,0.3125,0.2857
-2024-04-05 09:00:46.642653,Round Match-Ups - 2nd Round Match-Up - J. Lower v R. Moore - 2nd Round Match-Up,Justin Lower,0.024399999999999977,0.5122,0.4878
 2024-04-05 09:00:46.723442,Round Match-Ups - 2nd Round Match-Ups - L. Aberg vs M. Homa - 2nd Round Match-Ups,Max Homa,0.024399999999999977,0.5122,0.4878
+2024-04-05 09:00:46.642653,Round Match-Ups - 2nd Round Match-Up - J. Lower v R. Moore - 2nd Round Match-Up,Justin Lower,0.024399999999999977,0.5122,0.4878
 2024-04-05 13:00:53.675083,BKFC 60: Lilley vs Tenaglia - Charles Wasserman vs Matt Hodgson - To Win the Bout,Matt Hodgson,0.023799999999999988,0.3571,0.3333
 2024-04-05 11:00:41.562677,To Make the Playoffs - Miami Heat - To Make the 2023-24 Playoffs,No,0.022199999999999998,0.1333,0.1111
 2024-04-05 11:00:41.594336,Potential Matchups - Round 1 Playoffs Series Prices - L.A. Clippers vs New Orleans Pelicans,L.A. Clippers,0.02080000000000004,0.6875,0.6667
@@ -31,6 +31,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-05 15:00:40.589586,FIBA Champions League - Champions League 2023/24 - Outright,UCAM Murcia,0.0179,0.1429,0.125
 2024-04-05 11:00:41.602842,Potential Matchups - Round 1 Playoffs Series Prices - Milwaukee Bucks vs Miami Heat,Milwaukee Bucks,0.01629999999999998,0.7222,0.7059
 2024-04-05 09:00:45.800249,Boxing Lines - Ricardo Malajika vs Marcel Braithwaite - To Win the Bout,Marcel Braithwaite,0.014900000000000024,0.3226,0.3077
+2024-04-05 17:00:40.349277,FIBA Champions League - Champions League 2023/24 - Outright,Peristeri,0.0145,0.0244,0.0099
 2024-04-05 11:00:41.715675,Potential Matchups - Round 1 Playoffs Series Prices - L.A. Clippers vs Dallas Mavericks,L.A. Clippers,0.014200000000000101,0.6296,0.6154
 2024-04-05 11:00:41.723938,Potential Matchups - Round 1 Playoffs Series Prices - Milwaukee Bucks vs Indiana Pacers,Indiana Pacers,0.013300000000000034,0.3704,0.3571
 2024-04-05 11:00:43.551504,Boxing Lines - Jack Culcay vs Bakhram Murtazaliev - To Win the Bout,Jack Culcay,0.0131,0.2353,0.2222
@@ -40,8 +41,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-05 07:00:26.292168,Round Match-Ups - 1st Round Match-Ups - B. Koepka v T. Hatton - 1st Round Match-Ups,Tyrrell Hatton,0.011600000000000055,0.5238,0.5122
 2024-04-05 15:00:40.589586,FIBA Champions League - Champions League 2023/24 - Outright,Unicaja Malaga,0.0116,0.4878,0.4762
 2024-04-05 11:00:41.749585,Potential Matchups - Round 1 Playoffs Series Prices - Oklahoma City Thunder vs Golden State Warriors,Golden State Warriors,0.011200000000000015,0.2174,0.2062
-2024-04-05 15:00:40.589586,FIBA Champions League - Champions League 2023/24 - Outright,Telekom Bonn,0.011099999999999999,0.1111,0.1
 2024-04-05 11:00:43.679038,Boxing Lines - Richardson Hitchins vs Gustavo Daniel Lemos - To Win the Bout,Richardson Hitchins,0.011099999999999999,0.9,0.8889
+2024-04-05 15:00:40.589586,FIBA Champions League - Champions League 2023/24 - Outright,Telekom Bonn,0.011099999999999999,0.1111,0.1
 2024-04-05 07:00:26.314812,Round Match-Ups - 1st Round Match-Ups - H. Varner v P. Uihlein - 1st Round Match-Ups,Harold Varner III,0.01100000000000001,0.5348,0.5238
 2024-04-05 09:00:46.700385,Round Match-Ups - 2nd Round Match-Ups - C. Morikawa vs B. Harman - 2nd Round Match-Ups,Collin Morikawa,0.010699999999999932,0.5455,0.5348
 2024-04-05 11:00:41.636873,Potential Matchups - Round 1 Playoffs Series Prices - New York Knicks vs Orlando Magic,New York Knicks,0.010699999999999932,0.5455,0.5348
@@ -53,17 +54,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-05 09:00:45.789124,Boxing Lines - Brandon Thysse vs Darrin Rossouw - To Win the Bout,Darrin Rossouw,0.010099999999999998,0.3226,0.3125
 2024-04-05 09:00:47.021732,Round Match-Ups - 1st Round Match-Ups - C. Smith v P. Casey - 1st Round Match-Ups,Cameron Smith,-0.010099999999999998,0.5455,0.5556
 2024-04-05 11:00:41.749585,Potential Matchups - Round 1 Playoffs Series Prices - Oklahoma City Thunder vs Golden State Warriors,Oklahoma City Thunder,-0.010199999999999987,0.8519,0.8621
-2024-04-05 13:00:53.607674,BKFC 60: Lilley vs Tenaglia - Ben Bonner vs Ray Putterill - To Win the Bout,Ray Putterill,-0.010599999999999998,0.4545,0.4651
 2024-04-05 09:00:46.355499,BKFC 60: Lilley vs Tenaglia - James Lilley vs Franco Tenaglia - To Win the Bout,Franco Tenaglia,-0.010599999999999998,0.2247,0.2353
+2024-04-05 13:00:53.607674,BKFC 60: Lilley vs Tenaglia - Ben Bonner vs Ray Putterill - To Win the Bout,Ray Putterill,-0.010599999999999998,0.4545,0.4651
 2024-04-05 07:00:26.292168,Round Match-Ups - 1st Round Match-Ups - B. Koepka v T. Hatton - 1st Round Match-Ups,Brooks Koepka,-0.01100000000000001,0.5238,0.5348
 2024-04-05 11:00:41.636873,Potential Matchups - Round 1 Playoffs Series Prices - New York Knicks vs Orlando Magic,Orlando Magic,-0.01100000000000001,0.5238,0.5348
 2024-04-05 09:00:44.372439,To Make the Playoffs - To Participate in Play-in Tournament - To Participate in Eastern Conference Play-in Tournament,Cleveland Cavaliers,-0.011199999999999995,0.0476,0.0588
 2024-04-05 07:00:26.314812,Round Match-Ups - 1st Round Match-Ups - H. Varner v P. Uihlein - 1st Round Match-Ups,Peter Uihlein,-0.011600000000000055,0.5122,0.5238
 2024-04-05 07:00:26.017394,Round Match-Ups - 2nd Round Match-Ups - L. Aberg vs M. Homa - 2nd Round Match-Ups,Max Homa,-0.012199999999999989,0.4878,0.5
 2024-04-05 07:00:25.936383,Round Match-Ups - 2nd Round Match-Up - J. Lower v R. Moore - 2nd Round Match-Up,Justin Lower,-0.012199999999999989,0.4878,0.5
-2024-04-05 07:00:26.326304,Round Match-Ups - 1st Round Match-Ups - J. Rahm v J. Niemann - 1st Round Match-Ups,Joaquin Niemann,-0.012199999999999989,0.4878,0.5
-2024-04-05 09:00:46.700385,Round Match-Ups - 2nd Round Match-Ups - C. Morikawa vs B. Harman - 2nd Round Match-Ups,Brian Harman,-0.012199999999999989,0.5,0.5122
 2024-04-05 07:00:26.258323,Round Match-Ups - 1st Round Match-Ups - A. Ancer v D. Burmester - 1st Round Match-Ups,Abraham Ancer,-0.012199999999999989,0.4878,0.5
+2024-04-05 09:00:46.700385,Round Match-Ups - 2nd Round Match-Ups - C. Morikawa vs B. Harman - 2nd Round Match-Ups,Brian Harman,-0.012199999999999989,0.5,0.5122
+2024-04-05 07:00:26.326304,Round Match-Ups - 1st Round Match-Ups - J. Rahm v J. Niemann - 1st Round Match-Ups,Joaquin Niemann,-0.012199999999999989,0.4878,0.5
 2024-04-05 11:00:43.551504,Boxing Lines - Jack Culcay vs Bakhram Murtazaliev - To Win the Bout,Bakhram Murtazaliev,-0.012899999999999912,0.8333,0.8462
 2024-04-05 11:00:43.652629,Boxing Lines - Galal Yafai vs Agustin Mauro Gauto - To Win the Bout,Agustin Mauro Gauto,-0.012899999999999995,0.1538,0.1667
 2024-04-05 11:00:41.723938,Potential Matchups - Round 1 Playoffs Series Prices - Milwaukee Bucks vs Indiana Pacers,Milwaukee Bucks,-0.0131,0.697,0.7101
@@ -77,10 +78,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-05 11:00:41.562677,To Make the Playoffs - Miami Heat - To Make the 2023-24 Playoffs,Yes,-0.019100000000000006,0.9333,0.9524
 2024-04-05 11:00:41.732244,Potential Matchups - Round 1 Playoffs Series Prices - Milwaukee Bucks vs Philadelphia 76ers,Milwaukee Bucks,-0.019299999999999984,0.7368,0.7561
 2024-04-05 11:00:41.715675,Potential Matchups - Round 1 Playoffs Series Prices - L.A. Clippers vs Dallas Mavericks,Dallas Mavericks,-0.019699999999999995,0.4348,0.4545
-2024-04-05 09:00:46.723442,Round Match-Ups - 2nd Round Match-Ups - L. Aberg vs M. Homa - 2nd Round Match-Ups,Ludvig Aberg,-0.02079999999999993,0.5348,0.5556
 2024-04-05 09:00:46.642653,Round Match-Ups - 2nd Round Match-Up - J. Lower v R. Moore - 2nd Round Match-Up,Ryan Moore,-0.02079999999999993,0.5348,0.5556
-2024-04-05 11:00:41.671108,Potential Matchups - Round 1 Playoffs Series Prices - Cleveland Cavaliers vs Miami Heat,Miami Heat,-0.02260000000000001,0.3774,0.4
+2024-04-05 09:00:46.723442,Round Match-Ups - 2nd Round Match-Ups - L. Aberg vs M. Homa - 2nd Round Match-Ups,Ludvig Aberg,-0.02079999999999993,0.5348,0.5556
 2024-04-05 11:00:41.594336,Potential Matchups - Round 1 Playoffs Series Prices - L.A. Clippers vs New Orleans Pelicans,New Orleans Pelicans,-0.02260000000000001,0.3774,0.4
+2024-04-05 11:00:41.671108,Potential Matchups - Round 1 Playoffs Series Prices - Cleveland Cavaliers vs Miami Heat,Miami Heat,-0.02260000000000001,0.3774,0.4
 2024-04-05 15:00:40.589586,FIBA Champions League - Champions League 2023/24 - Outright,Ludwigsburg,-0.0236,0.0149,0.0385
 2024-04-05 07:00:26.280699,Round Match-Ups - 1st Round Match-Ups - B. DeChambeau v D. Johnson - 1st Round Match-Ups,Dustin Johnson,-0.023799999999999988,0.4762,0.5
 2024-04-05 11:00:42.044084,NBA Draft - 2024 NBA Draft - Which Team will Select Bronny James,Oklahoma City Thunder,-0.024299999999999995,0.0526,0.0769
@@ -88,6 +89,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-05 13:00:53.675083,BKFC 60: Lilley vs Tenaglia - Charles Wasserman vs Matt Hodgson - To Win the Bout,Charles Wasserman,-0.02739999999999998,0.7059,0.7333
 2024-04-05 13:00:53.641435,BKFC 60: Lilley vs Tenaglia - Danny Mcintosh vs Rob Boardman - To Win the Bout,Rob Boardman,-0.028000000000000025,0.8291,0.8571
 2024-04-05 13:00:53.618981,BKFC 60: Lilley vs Tenaglia - Danny Christie vs David Round - To Win the Bout,David Round,-0.034499999999999975,0.3226,0.3571
+2024-04-05 17:00:42.016318,BKFC 60: Lilley vs Tenaglia - James Lilley vs Franco Tenaglia - To Win the Bout,James Lilley,-0.03870000000000007,0.726,0.7647
 2024-04-05 15:00:40.589586,FIBA Champions League - Champions League 2023/24 - Outright,Peristeri,-0.040100000000000004,0.0099,0.05
 2024-04-05 15:00:42.520646,BKFC 60: Lilley vs Tenaglia - James Lilley vs Franco Tenaglia - To Win the Bout,James Lilley,-0.04299999999999993,0.7647,0.8077
 2024-04-05 05:00:53.401839,Totals - 2nd Round Birdies - Alex Noren - 2nd Round Birdies,Over 3.5,-0.045499999999999985,0.5,0.5455
