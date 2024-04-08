@@ -1,95 +1,46 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-04-07 03:01:07.552132,T-Mobile Match-Play - T-Mobile Match-Play - Winner,Leona Maguire,0.2878,0.4878,0.2
-2024-04-07 03:01:07.552132,T-Mobile Match-Play - T-Mobile Match-Play - Winner,Nelly Korda,0.28740000000000004,0.5652,0.2778
-2024-04-07 03:01:05.923432,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2024 NFL Draft,Defensive Line/Edge,0.2385,0.6552,0.4167
-2024-04-07 03:01:05.989691,NFL Draft - Team Markets - Team's First Pick - NY Jets - Position of 1st Drafted Player in 2024 NFL Draft,Offensive Lineman,0.2298,0.4651,0.2353
-2024-04-07 05:00:46.881317,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,Sporting CP,0.14170000000000005,0.875,0.7333
-2024-04-07 05:00:50.064439,Scores - Final Round Score - Brendon Todd - Final Round Score,Over 70.5,0.07110000000000005,0.5833,0.5122
-2024-04-07 03:01:06.045767,NFL Draft - Team Markets - Team's First Pick - SF 49ers - Position of 1st Drafted Player in 2024 NFL Draft,Offensive Lineman,0.06519999999999992,0.6,0.5348
-2024-04-07 03:01:05.954180,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2024 NFL Draft,Wide Receiver,0.0596,0.1429,0.0833
+2024-04-07 17:01:24.348109,Euroleague - Euroleague 2023/24 - To Make Final Four,Panathinaikos,0.14140000000000008,0.7778,0.6364
+2024-04-07 17:01:24.348109,Euroleague - Euroleague 2023/24 - To Make Final Four,AS Monaco,0.06520000000000004,0.7143,0.6491
+2024-04-07 17:01:24.348109,Euroleague - Euroleague 2023/24 - To Make Final Four,Maccabi Tel-Aviv,0.0635,0.2857,0.2222
 2024-04-07 09:00:32.501599,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,South Carolina (W),0.05940000000000001,0.7368,0.6774
 2024-04-07 09:00:32.501599,NCAA DI Women - 2024 NCAA DI Womens Basketball Tournament - National Champion,Iowa (W),0.05299999999999999,0.303,0.25
 2024-04-07 07:00:40.798279,Central Division - Central Division 2023-24 - Division Winner,Cleveland Cavaliers,0.05020000000000002,0.4348,0.3846
+2024-04-07 17:01:23.505577,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Manchester City,0.04910000000000003,0.4,0.3509
 2024-04-07 07:00:42.936548,Round Match-Ups - Final Round Match-Ups - H. Matsuyama vs A. Noren - Final Round Match-Ups,Hideki Matsuyama,0.04620000000000002,0.5917,0.5455
-2024-04-07 03:01:05.954180,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2024 NFL Draft,Cornerback,0.04120000000000001,0.1,0.0588
-2024-04-07 03:01:05.638290,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,Washington Commanders,0.03639999999999999,0.6364,0.6
-2024-04-07 03:01:05.293103,NFL Draft - Pick Markets - Draft Picks - #2 Pick,Jayden Daniels,0.03639999999999999,0.6364,0.6
+2024-04-07 17:01:23.505577,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Arsenal,0.04099999999999998,0.3636,0.3226
+2024-04-07 17:01:24.348109,Euroleague - Euroleague 2023/24 - To Make Final Four,Barcelona,0.03709999999999991,0.6667,0.6296
 2024-04-07 07:00:43.038313,Valero Texas Open - 2/3 Balls - Final Round 3-Balls - Pa. Coody / M. Meissner / J. Spieth - Final Round 3-Balls,Jordan Spieth,0.033299999999999996,0.5455,0.5122
-2024-04-07 05:00:46.902555,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Universitario de Deportes,0.030299999999999994,0.3636,0.3333
-2024-04-07 03:01:07.202957,Valero Texas Open - 2/3 Balls - Final Round 3-Balls - R. McIIroy / L. Glover / B. Martin - Final Round 3-Balls,Ben Martin,0.02779999999999999,0.25,0.2222
-2024-04-07 03:01:07.017505,Round Match-Ups - Final Round Match-Ups - H. Matsuyama vs A. Noren - Final Round Match-Ups,Alex Noren,0.023799999999999988,0.5,0.4762
 2024-04-07 07:00:42.947726,Round Match-Ups - Final Round Match-Ups - A. Bhatia vs D. McCarthy - Final Round Match-Ups,Denny McCarthy,0.022600000000000064,0.5348,0.5122
 2024-04-07 09:00:34.288210,Round Match-Ups - Final Round Match-Ups - H. Matsuyama vs A. Noren - Final Round Match-Ups,Alex Noren,0.021699999999999997,0.4762,0.4545
-2024-04-07 07:00:42.847588,Round Match-Ups - Final Round Match-Up - R. Hisatsune v V. Perez - Final Round Match-Up,Victor Perez,0.02169999999999994,0.5455,0.5238
-2024-04-07 03:01:06.895527,Round Match-Ups - Final Round Match-Ups - J. Spieth vs M. Homa - Final Round Match-Ups,Jordan Spieth,0.02169999999999994,0.5455,0.5238
 2024-04-07 07:00:42.892001,Round Match-Ups - Final Round Match-Ups - C. Morikawa vs T. Fleetwood - Final Round Match-Ups,Tommy Fleetwood,0.02169999999999994,0.5455,0.5238
+2024-04-07 07:00:42.847588,Round Match-Ups - Final Round Match-Up - R. Hisatsune v V. Perez - Final Round Match-Up,Victor Perez,0.02169999999999994,0.5455,0.5238
 2024-04-07 07:00:42.869970,Round Match-Ups - Final Round Match-Up - A. Bjork v B. Martin - Final Round Match-Up,Ben Martin,0.02169999999999994,0.5455,0.5238
 2024-04-07 07:00:42.781729,Round Match-Ups - Final Round Match-Up - C. Kim v S. Stevens - Final Round Match-Up,Chan Kim,0.02169999999999994,0.5455,0.5238
-2024-04-07 05:00:46.686071,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,CF Pachuca,0.02020000000000001,0.1111,0.0909
-2024-04-07 07:00:42.707061,Round Match-Ups - Final Round Match-Ups - C.T. Pan v C. Yuan - Final Round Match-Ups ,C T Pan,0.01970000000000005,0.5652,0.5455
+2024-04-07 17:01:24.348109,Euroleague - Euroleague 2023/24 - To Make Final Four,Anadolu Efes,0.02020000000000001,0.1111,0.0909
 2024-04-07 07:00:42.792948,Round Match-Ups - Final Round Match-Ups - B. Cauley vs M. Hubbard - Final Round Match-Ups,Mark Hubbard,0.01970000000000005,0.5652,0.5455
-2024-04-07 03:01:06.855470,Round Match-Ups - Final Round Match-Ups - B. Harman vs M. Fitzpatrick - Final Round Match-Ups,Matt Fitzpatrick,0.01970000000000005,0.5652,0.5455
-2024-04-07 03:01:05.923432,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2024 NFL Draft,Offensive Lineman,0.01820000000000002,0.2,0.1818
-2024-04-07 03:01:06.957886,Round Match-Ups - Final Round Match-Ups - R. Hoey vs T. Olesen - Final Round Match-Ups,Thorbjorn Olesen,0.018100000000000005,0.5833,0.5652
+2024-04-07 07:00:42.707061,Round Match-Ups - Final Round Match-Ups - C.T. Pan v C. Yuan - Final Round Match-Ups ,C T Pan,0.01970000000000005,0.5652,0.5455
 2024-04-07 07:00:43.189035,Scores - Final Round Score - Denny McCarthy - Final Round Score,Over 70.5,0.018100000000000005,0.5833,0.5652
 2024-04-07 07:00:43.165351,Scores - Final Round Score - Akshay Bhatia - Final Round Score,Over 70.5,0.018100000000000005,0.5833,0.5652
-2024-04-07 05:00:46.686071,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,Deportivo Toluca,0.0179,0.1429,0.125
 2024-04-07 13:00:42.825174,MLB Futures - MLB 2024 American League Central - American League Central Winner,Cleveland Guardians,0.016699999999999993,0.2667,0.25
 2024-04-07 07:00:43.176949,Scores - Final Round Score - Brendon Todd - Final Round Score,Over 70.5,0.016699999999999937,0.6,0.5833
-2024-04-07 05:00:46.686071,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,Cruz Azul,0.015700000000000006,0.1333,0.1176
-2024-04-07 03:01:06.045767,NFL Draft - Team Markets - Team's First Pick - SF 49ers - Position of 1st Drafted Player in 2024 NFL Draft,Wide Receiver,0.015100000000000002,0.1818,0.1667
-2024-04-07 05:00:46.664472,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Boca Juniors,0.015100000000000002,0.1818,0.1667
-2024-04-07 05:00:49.329970,Boxing Lines - Michael Gomez Jr vs Kane Baker - To Win the Bout,Kane Baker,0.014300000000000007,0.2469,0.2326
-2024-04-07 05:00:46.686071,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,Querétaro FC,0.014099999999999998,0.0385,0.0244
 2024-04-07 11:00:57.005133,CONCACAF Champions Cup - CONCACAF Champions Cup 2024 - Futures - Winner,Club América,0.013800000000000034,0.3774,0.3636
-2024-04-07 05:00:49.361622,Boxing Lines - Rhiannon Dixon vs Karen Elizabeth Carabajal - To Win the Bout,Rhiannon Dixon,0.0131,0.7778,0.7647
-2024-04-07 05:00:46.464874,MLS - USA MLS 2024 - Futures - Winner,Philadelphia Union,0.0102,0.0769,0.0667
+2024-04-07 17:01:23.200112,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayer Leverkusen,0.012800000000000034,0.998,0.9852
 2024-04-07 15:00:51.352583,Boxing Lines - Jordan Gill vs Zelfa Barrett - To Win the Bout,Zelfa Barrett,0.010099999999999998,0.6875,0.6774
-2024-04-07 05:00:49.351092,Boxing Lines - Ellie Scotney vs Segolene Lefebve - To Win the Bout,Segolene Lefebve,-0.010899999999999993,0.1429,0.1538
-2024-04-07 05:00:49.382697,Boxing Lines - Abdullah Mason vs Ronal Ron - To Win the Bout,Ronal Ron,-0.011099999999999999,0.0556,0.0667
 2024-04-07 07:00:43.176949,Scores - Final Round Score - Brendon Todd - Final Round Score,Under 70.5,-0.011099999999999999,0.4651,0.4762
-2024-04-07 03:01:05.989691,NFL Draft - Team Markets - Team's First Pick - NY Jets - Position of 1st Drafted Player in 2024 NFL Draft,Quarterback,-0.011200000000000002,0.0132,0.0244
-2024-04-07 05:00:48.040093,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Hillary Clinton,-0.011699999999999999,0.0079,0.0196
-2024-04-07 05:00:46.664472,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Independiente,-0.0131,0.0345,0.0476
-2024-04-07 05:00:46.464874,MLS - USA MLS 2024 - Futures - Winner,FC Cincinnati,-0.013999999999999999,0.0769,0.0909
-2024-04-07 03:01:05.923432,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2024 NFL Draft,Wide Receiver,-0.014399999999999996,0.0625,0.0769
-2024-04-07 03:01:05.954180,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2024 NFL Draft,Tight End,-0.015300000000000001,0.0435,0.0588
-2024-04-07 05:00:46.464874,MLS - USA MLS 2024 - Futures - Winner,LA Galaxy,-0.016600000000000004,0.0667,0.0833
-2024-04-07 09:00:34.288210,Round Match-Ups - Final Round Match-Ups - H. Matsuyama vs A. Noren - Final Round Match-Ups,Hideki Matsuyama,-0.017299999999999982,0.5744,0.5917
-2024-04-07 05:00:49.361622,Boxing Lines - Rhiannon Dixon vs Karen Elizabeth Carabajal - To Win the Bout,Karen Elizabeth Carabajal,-0.017299999999999982,0.2857,0.303
+2024-04-07 17:01:23.200112,1. Bundesliga - Germany Bundesliga 2023/24 - Winner,Bayern Munich,-0.014900000000000004,0.0196,0.0345
 2024-04-07 13:00:42.825174,MLB Futures - MLB 2024 American League Central - American League Central Winner,Detroit Tigers,-0.017299999999999982,0.2857,0.303
-2024-04-07 03:01:06.045767,NFL Draft - Team Markets - Team's First Pick - SF 49ers - Position of 1st Drafted Player in 2024 NFL Draft,Tight End,-0.018200000000000004,0.0294,0.0476
-2024-04-07 03:01:05.954180,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2024 NFL Draft,Linebacker,-0.018200000000000004,0.0294,0.0476
-2024-04-07 05:00:46.686071,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,CF Monterrey,-0.01820000000000002,0.1818,0.2
+2024-04-07 09:00:34.288210,Round Match-Ups - Final Round Match-Ups - H. Matsuyama vs A. Noren - Final Round Match-Ups,Hideki Matsuyama,-0.017299999999999982,0.5744,0.5917
 2024-04-07 07:00:40.798279,Central Division - Central Division 2023-24 - Division Winner,Milwaukee Bucks,-0.01880000000000004,0.6364,0.6552
-2024-04-07 03:01:05.989691,NFL Draft - Team Markets - Team's First Pick - NY Jets - Position of 1st Drafted Player in 2024 NFL Draft,Defensive Line/Edge,-0.019000000000000003,0.0435,0.0625
-2024-04-07 03:01:07.017505,Round Match-Ups - Final Round Match-Ups - H. Matsuyama vs A. Noren - Final Round Match-Ups,Hideki Matsuyama,-0.01970000000000005,0.5455,0.5652
-2024-04-07 05:00:46.902555,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Sporting Cristal,-0.02100000000000002,0.3636,0.3846
-2024-04-07 03:01:06.957886,Round Match-Ups - Final Round Match-Ups - R. Hoey vs T. Olesen - Final Round Match-Ups,Rico Hoey,-0.021699999999999997,0.4545,0.4762
-2024-04-07 03:01:06.045767,NFL Draft - Team Markets - Team's First Pick - SF 49ers - Position of 1st Drafted Player in 2024 NFL Draft,Cornerback,-0.022199999999999998,0.2,0.2222
 2024-04-07 07:00:42.947726,Round Match-Ups - Final Round Match-Ups - A. Bhatia vs D. McCarthy - Final Round Match-Ups,Akshay Bhatia,-0.022600000000000064,0.5122,0.5348
-2024-04-07 05:00:46.902555,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,FBC Melgar,-0.02310000000000001,0.0769,0.1
 2024-04-07 07:00:43.038313,Valero Texas Open - 2/3 Balls - Final Round 3-Balls - Pa. Coody / M. Meissner / J. Spieth - Final Round 3-Balls,Mac Meissner,-0.0232,0.2667,0.2899
 2024-04-07 07:00:42.707061,Round Match-Ups - Final Round Match-Ups - C.T. Pan v C. Yuan - Final Round Match-Ups ,Carl Yuan,-0.023799999999999988,0.4762,0.5
-2024-04-07 07:00:43.189035,Scores - Final Round Score - Denny McCarthy - Final Round Score,Under 70.5,-0.023799999999999988,0.4762,0.5
-2024-04-07 07:00:43.165351,Scores - Final Round Score - Akshay Bhatia - Final Round Score,Under 70.5,-0.023799999999999988,0.4762,0.5
-2024-04-07 03:01:06.855470,Round Match-Ups - Final Round Match-Ups - B. Harman vs M. Fitzpatrick - Final Round Match-Ups,Brian Harman,-0.023799999999999988,0.4762,0.5
 2024-04-07 07:00:42.792948,Round Match-Ups - Final Round Match-Ups - B. Cauley vs M. Hubbard - Final Round Match-Ups,Bud Cauley,-0.023799999999999988,0.4762,0.5
-2024-04-07 07:00:42.847588,Round Match-Ups - Final Round Match-Up - R. Hisatsune v V. Perez - Final Round Match-Up,Ryo Hisatsune,-0.023800000000000043,0.5,0.5238
-2024-04-07 03:01:06.895527,Round Match-Ups - Final Round Match-Ups - J. Spieth vs M. Homa - Final Round Match-Ups,Max Homa,-0.023800000000000043,0.5,0.5238
+2024-04-07 07:00:43.165351,Scores - Final Round Score - Akshay Bhatia - Final Round Score,Under 70.5,-0.023799999999999988,0.4762,0.5
+2024-04-07 07:00:43.189035,Scores - Final Round Score - Denny McCarthy - Final Round Score,Under 70.5,-0.023799999999999988,0.4762,0.5
 2024-04-07 07:00:42.892001,Round Match-Ups - Final Round Match-Ups - C. Morikawa vs T. Fleetwood - Final Round Match-Ups,Collin Morikawa,-0.023800000000000043,0.5,0.5238
+2024-04-07 07:00:42.847588,Round Match-Ups - Final Round Match-Up - R. Hisatsune v V. Perez - Final Round Match-Up,Ryo Hisatsune,-0.023800000000000043,0.5,0.5238
 2024-04-07 07:00:42.869970,Round Match-Ups - Final Round Match-Up - A. Bjork v B. Martin - Final Round Match-Up,Alexander Bjork,-0.023800000000000043,0.5,0.5238
 2024-04-07 07:00:42.781729,Round Match-Ups - Final Round Match-Up - C. Kim v S. Stevens - Final Round Match-Up,Sam Stevens,-0.023800000000000043,0.5,0.5238
-2024-04-07 03:01:06.045767,NFL Draft - Team Markets - Team's First Pick - SF 49ers - Position of 1st Drafted Player in 2024 NFL Draft,Safety,-0.024299999999999995,0.0345,0.0588
-2024-04-07 05:00:46.686071,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,Club América,-0.02560000000000001,0.3077,0.3333
-2024-04-07 03:01:07.202957,Valero Texas Open - 2/3 Balls - Final Round 3-Balls - R. McIIroy / L. Glover / B. Martin - Final Round 3-Balls,Lucas Glover,-0.02679999999999999,0.2857,0.3125
-2024-04-07 03:01:05.923432,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2024 NFL Draft,Quarterback,-0.029299999999999993,0.0476,0.0769
-2024-04-07 05:00:46.686071,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,Tigres UANL,-0.031799999999999995,0.1111,0.1429
-2024-04-07 03:01:05.989691,NFL Draft - Team Markets - Team's First Pick - NY Jets - Position of 1st Drafted Player in 2024 NFL Draft,Tight End,-0.044399999999999995,0.4,0.4444
 2024-04-07 07:00:42.936548,Round Match-Ups - Final Round Match-Ups - H. Matsuyama vs A. Noren - Final Round Match-Ups,Alex Noren,-0.045499999999999985,0.4545,0.5
-2024-04-07 03:01:05.954180,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2024 NFL Draft,Offensive Lineman,-0.07189999999999996,0.5833,0.6552
-2024-04-07 03:01:06.045767,NFL Draft - Team Markets - Team's First Pick - SF 49ers - Position of 1st Drafted Player in 2024 NFL Draft,Defensive Line/Edge,-0.07520000000000002,0.2105,0.2857
-2024-04-07 05:00:50.064439,Scores - Final Round Score - Brendon Todd - Final Round Score,Under 70.5,-0.07939999999999997,0.4762,0.5556
-2024-04-07 05:00:46.881317,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,Benfica,-0.12279999999999999,0.2105,0.3333
-2024-04-07 03:01:05.989691,NFL Draft - Team Markets - Team's First Pick - NY Jets - Position of 1st Drafted Player in 2024 NFL Draft,Wide Receiver,-0.13670000000000004,0.3077,0.4444
-2024-04-07 03:01:05.923432,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2024 NFL Draft,Cornerback,-0.26260000000000006,0.1818,0.4444
+2024-04-07 17:01:24.348109,Euroleague - Euroleague 2023/24 - To Make Final Four,Milano,-0.05859999999999999,0.0323,0.0909
+2024-04-07 17:01:23.505577,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Liverpool,-0.09230000000000005,0.3077,0.4
