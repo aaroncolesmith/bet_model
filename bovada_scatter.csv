@@ -1,109 +1,129 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-09 09:00:30.277138,College Specials - Next Full Time Kentucky Men's Basketball Coach - Proposition,Dan Hurley,0.1453,0.2222,0.0769
+2024-04-09 17:01:07.969017,Round Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Over 71.5,0.13480000000000003,0.5348,0.4
 2024-04-09 09:00:30.277138,College Specials - Next Full Time Kentucky Men's Basketball Coach - Proposition,Billy Donovan,0.13329999999999997,0.3333,0.2
+2024-04-09 17:01:04.371379,Championship - England Championship 2023/24 - League Winner,Ipswich Town,0.1167,0.25,0.1333
 2024-04-09 07:00:26.177124,College Specials - Next Full Time Kentucky Men's Basketball Coach - Proposition,Billy Donovan,0.1,0.2,0.1
-2024-04-09 05:00:43.976385,MLB Futures - MLB 2024 American League Central - American League Central Winner,Cleveland Guardians,0.06659999999999999,0.3333,0.2667
 2024-04-09 13:00:19.276819,Match-Ups - Tournament Match-Up - J. Rahm v V. Hovland - Requests,Viktor Hovland,0.06440000000000001,0.4348,0.3704
 2024-04-09 15:00:45.519297,Match-Ups - Tournament Match-Up - J. Spieth v R. McIlroy - Requests,Rory McIlroy,0.04910000000000003,0.6491,0.6
+2024-04-09 17:01:05.574446,CBA - China CBA 2023/24 - Outright,Liaoning,0.0484,0.4651,0.4167
+2024-04-09 17:01:07.946322,Round Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Over 70.5,0.04139999999999999,0.5652,0.5238
 2024-04-09 13:00:18.781172,Positions - Finishing Position - Shane Lowry - Finishing Position,28th or better,0.04139999999999999,0.5652,0.5238
 2024-04-09 07:00:26.177124,College Specials - Next Full Time Kentucky Men's Basketball Coach - Proposition,Dan Hurley,0.0384,0.0769,0.0385
 2024-04-09 07:00:26.497770,WNBA Championship - WNBA Championship 2024 - Outright Winner,New York Liberty,0.0363,0.303,0.2667
 2024-04-09 09:00:33.036010,Positions - Finishing Position - Ludvig Aberg - Finishing Position,23rd or better,0.03480000000000005,0.5348,0.5
-2024-04-09 13:00:18.673377,Positions - Finishing Position - Jordan Spieth - Finishing Position,20th or better,0.03179999999999994,0.5556,0.5238
 2024-04-09 13:00:18.745087,Positions - Finishing Position - Rory McIlroy - Finishing Position,13th or better,0.03179999999999994,0.5556,0.5238
-2024-04-09 13:00:19.150355,Tournament Match-Ups - Tournament Match-Up - P. Mickelson v B. Watson - Tournament Match-Up,Bubba Watson,0.030399999999999983,0.5652,0.5348
+2024-04-09 13:00:18.673377,Positions - Finishing Position - Jordan Spieth - Finishing Position,20th or better,0.03179999999999994,0.5556,0.5238
+2024-04-09 13:00:18.549666,Positions - Finishing Position - Brooks Koepka - Finishing Position,19th or better,0.030399999999999983,0.5652,0.5348
 2024-04-09 13:00:18.853041,Positions - Finishing Position - Xander Schauffele - Finishing Position,15th or better,0.030399999999999983,0.5652,0.5348
 2024-04-09 13:00:18.697282,Positions - Finishing Position - Ludvig Aberg - Finishing Position,23rd or better,0.030399999999999983,0.5652,0.5348
-2024-04-09 13:00:18.649866,Positions - Finishing Position - Joaquin Niemann - Finishing Position,23rd or better,0.030399999999999983,0.5652,0.5348
-2024-04-09 13:00:18.549666,Positions - Finishing Position - Brooks Koepka - Finishing Position,19th or better,0.030399999999999983,0.5652,0.5348
 2024-04-09 13:00:18.637691,Positions - Finishing Position - Hideki Matsuyama - Finishing Position,17th or better,0.030399999999999983,0.5652,0.5348
+2024-04-09 13:00:18.649866,Positions - Finishing Position - Joaquin Niemann - Finishing Position,23rd or better,0.030399999999999983,0.5652,0.5348
+2024-04-09 13:00:19.150355,Tournament Match-Ups - Tournament Match-Up - P. Mickelson v B. Watson - Tournament Match-Up,Bubba Watson,0.030399999999999983,0.5652,0.5348
 2024-04-09 07:00:28.961305,Tournament Match-Ups - Tournament Match-Up - B. DeChambeau vs C. Smith - Tournament Match-Up,Bryson DeChambeau,0.026499999999999968,0.5917,0.5652
-2024-04-09 07:00:29.156004,Tournament Match-Ups - Tournament Match-Up - M. Fitzpatrick vs D. Johnson - Tournament Match-Up,Matt Fitzpatrick,0.026499999999999968,0.5917,0.5652
 2024-04-09 09:00:33.312072,Tournament Match-Ups - Tournament Match-Up - B. Koepka vs H. Matsuyama - Tournament Match-Up,Hideki Matsuyama,0.026499999999999968,0.5917,0.5652
+2024-04-09 07:00:29.156004,Tournament Match-Ups - Tournament Match-Up - M. Fitzpatrick vs D. Johnson - Tournament Match-Up,Matt Fitzpatrick,0.026499999999999968,0.5917,0.5652
 2024-04-09 09:00:31.655547,NFL Draft - Props - Position Props (1st Round) - Total Wide Receivers Selected in Round 1,Over 6.5,0.025499999999999967,0.4255,0.4
 2024-04-09 07:00:27.799427,NFL Draft - Player Markets - Positional Groups - 1st Running Back Selected,Blake Corum,0.025300000000000003,0.1429,0.1176
 2024-04-09 13:00:19.184576,Tournament Match-Ups - Tournament Match-Up - R. McIlroy vs X. Schauffele - Tournament Match-Up,Xander Schauffele,0.023800000000000043,0.5238,0.5
-2024-04-09 15:00:45.496152,Match-Ups - Tournament Match-Up - T. Woods v P. Mickelson - Requests,Tiger Woods,0.023799999999999988,0.5,0.4762
 2024-04-09 13:00:18.989822,Tournament Match-Ups - Tournament Match-Up - C. Schwartzel v T. Woods - Tournament Match-Up,Tiger Woods,0.023799999999999988,0.5,0.4762
 2024-04-09 13:00:19.406470,Main Markets - 1st Round 3 Balls - P. Mickelson / S. Straka / T. Finau - 1st Round 3 Balls,Tony Finau,0.023799999999999988,0.5,0.4762
+2024-04-09 15:00:45.496152,Match-Ups - Tournament Match-Up - T. Woods v P. Mickelson - Requests,Tiger Woods,0.023799999999999988,0.5,0.4762
 2024-04-09 09:00:33.515695,Tournament Match-Ups - Tournament Match-Up - P. Mickelson v B. Watson - Tournament Match-Up,Bubba Watson,0.022600000000000064,0.5348,0.5122
-2024-04-09 09:00:33.265476,Tournament Match-Ups - Tournament Match-Up - A. Schenk v M. Pavon - Tournament Match-Up,Adam Schenk,0.02079999999999993,0.5556,0.5348
+2024-04-09 17:01:04.175491,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Manchester City,0.02100000000000002,0.3846,0.3636
 2024-04-09 13:00:18.685654,Positions - Finishing Position - Justin Thomas - Finishing Position,28th or worse,0.02079999999999993,0.5556,0.5348
+2024-04-09 09:00:33.265476,Tournament Match-Ups - Tournament Match-Up - A. Schenk v M. Pavon - Tournament Match-Up,Adam Schenk,0.02079999999999993,0.5556,0.5348
 2024-04-09 09:00:33.478253,Tournament Match-Ups - Tournament Match-Up - M.W. Lee vs C. Conners - Tournament Match-Up,Corey Conners,0.02079999999999993,0.5556,0.5348
+2024-04-09 17:01:08.241586,Positions - Finishing Position - Will Zalatoris - Finishing Position,28th or worse,0.02079999999999993,0.5556,0.5348
 2024-04-09 11:00:50.410636,Positions - Finishing Position - Cameron Smith - Finishing Position,29th or worse,0.01970000000000005,0.5652,0.5455
 2024-04-09 07:00:28.984798,Tournament Match-Ups - Tournament Match-Up - B. Koepka vs H. Matsuyama - Tournament Match-Up,Hideki Matsuyama,0.01970000000000005,0.5652,0.5455
 2024-04-09 15:00:45.508139,Match-Ups - Tournament Match-Up - J. Rahm v V. Hovland - Requests,Jon Rahm,0.019499999999999962,0.6491,0.6296
 2024-04-09 07:00:28.948358,Tournament Match-Ups - Tournament Match-Up - A. Scott vs R. Fowler - Tournament Match-Up ,Adam Scott,0.017299999999999982,0.5917,0.5744
-2024-04-09 09:00:33.277393,Tournament Match-Ups - Tournament Match-Up - A. Scott vs R. Fowler - Tournament Match-Up ,Adam Scott,0.016100000000000003,0.6078,0.5917
 2024-04-09 11:00:50.777842,Tournament Match-Ups - Tournament Match-Up - B. DeChambeau vs C. Smith - Tournament Match-Up,Bryson DeChambeau,0.016100000000000003,0.6078,0.5917
+2024-04-09 09:00:33.277393,Tournament Match-Ups - Tournament Match-Up - A. Scott vs R. Fowler - Tournament Match-Up ,Adam Scott,0.016100000000000003,0.6078,0.5917
+2024-04-09 17:01:08.691563,Miscellaneous - PGA Tour vs LIV Tour - Requests,PGA Tour,0.015100000000000002,0.8333,0.8182
 2024-04-09 13:00:18.922512,Tournament Match-Ups - Tournament Match-Up - A. Scott vs R. Fowler - Tournament Match-Up ,Adam Scott,0.014800000000000035,0.6226,0.6078
 2024-04-09 13:00:18.934097,Tournament Match-Ups - Tournament Match-Up - B. DeChambeau vs C. Smith - Tournament Match-Up,Bryson DeChambeau,0.014800000000000035,0.6226,0.6078
 2024-04-09 07:00:27.799427,NFL Draft - Player Markets - Positional Groups - 1st Running Back Selected,Jaylen Wright,0.01469999999999999,0.25,0.2353
 2024-04-09 15:00:45.481531,Miscellaneous - PGA Tour vs LIV Tour - Requests,LIV Tour,0.01469999999999999,0.25,0.2353
-2024-04-09 13:00:18.978628,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs M. Homa - Tournament Match-Up,Max Homa,0.012199999999999989,0.5122,0.5
 2024-04-09 07:00:26.497770,WNBA Championship - WNBA Championship 2024 - Outright Winner,Las Vegas Aces,0.012199999999999989,0.5,0.4878
+2024-04-09 13:00:18.978628,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs M. Homa - Tournament Match-Up,Max Homa,0.012199999999999989,0.5122,0.5
 2024-04-09 11:00:50.215228,Boxing Lines - Devin Haney vs Ryan Garcia - To Win the Bout,Devin Haney,0.011099999999999999,0.9,0.8889
-2024-04-09 13:00:18.709265,Positions - Finishing Position - Matt Fitzpatrick - Finishing Position,25th or better,0.010699999999999932,0.5455,0.5348
-2024-04-09 13:00:18.721399,Positions - Finishing Position - Max Homa - Finishing Position,33rd or better,0.010699999999999932,0.5455,0.5348
 2024-04-09 13:00:18.756710,Positions - Finishing Position - Sam Burns - Finishing Position,33rd or better,0.010699999999999932,0.5455,0.5348
+2024-04-09 13:00:18.721399,Positions - Finishing Position - Max Homa - Finishing Position,33rd or better,0.010699999999999932,0.5455,0.5348
+2024-04-09 13:00:18.709265,Positions - Finishing Position - Matt Fitzpatrick - Finishing Position,25th or better,0.010699999999999932,0.5455,0.5348
 2024-04-09 13:00:19.316075,Main Markets - 1st Round 2 Balls - E. Van Rooyen v J. Knapp - 1st Round 2 Balls,Erik Van Rooyen,0.010699999999999932,0.5455,0.5348
 2024-04-09 13:00:18.420628,Boxing Lines - Saul 'Canelo' Alvarez vs Jaime Munguia - To Win the Bout,Jaime Munguia,0.010499999999999982,0.2105,0.2
 2024-04-09 07:00:26.681192,NCAA DI Men - 2025 NCAA DI Men's Basketball Tournament - National Champion 2025,Kansas,0.0102,0.0769,0.0667
-2024-04-09 07:00:29.191232,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs W. Zalatoris - Tournament Match-Up,Patrick Cantlay,0.010099999999999998,0.5556,0.5455
 2024-04-09 09:00:32.560484,Boxing Lines - Kingsley Egbunike vs Jordan Dujon - To Win the Bout,Kingsley Egbunike,0.010099999999999998,0.4545,0.4444
-2024-04-09 13:00:18.922512,Tournament Match-Ups - Tournament Match-Up - A. Scott vs R. Fowler - Tournament Match-Up ,Rickie Fowler,-0.010099999999999998,0.4444,0.4545
+2024-04-09 07:00:29.191232,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs W. Zalatoris - Tournament Match-Up,Patrick Cantlay,0.010099999999999998,0.5556,0.5455
 2024-04-09 13:00:18.934097,Tournament Match-Ups - Tournament Match-Up - B. DeChambeau vs C. Smith - Tournament Match-Up,Cameron Smith,-0.010099999999999998,0.4444,0.4545
+2024-04-09 13:00:18.922512,Tournament Match-Ups - Tournament Match-Up - A. Scott vs R. Fowler - Tournament Match-Up ,Rickie Fowler,-0.010099999999999998,0.4444,0.4545
 2024-04-09 13:00:18.756710,Positions - Finishing Position - Sam Burns - Finishing Position,34th or worse,-0.01100000000000001,0.5238,0.5348
-2024-04-09 13:00:18.721399,Positions - Finishing Position - Max Homa - Finishing Position,34th or worse,-0.01100000000000001,0.5238,0.5348
 2024-04-09 13:00:18.709265,Positions - Finishing Position - Matt Fitzpatrick - Finishing Position,26th or worse,-0.01100000000000001,0.5238,0.5348
+2024-04-09 13:00:18.721399,Positions - Finishing Position - Max Homa - Finishing Position,34th or worse,-0.01100000000000001,0.5238,0.5348
 2024-04-09 13:00:18.956001,Tournament Match-Ups - Tournament Match-Up - B. Koepka vs H. Matsuyama - Tournament Match-Up,Brooks Koepka,-0.011099999999999999,0.4651,0.4762
 2024-04-09 13:00:19.105076,Tournament Match-Ups - Tournament Match-Up - M. Fitzpatrick vs D. Johnson - Tournament Match-Up,Dustin Johnson,-0.011099999999999999,0.4651,0.4762
-2024-04-09 07:00:26.177124,College Specials - Next Full Time Kentucky Men's Basketball Coach - Proposition,Jamie Dixon,-0.011199999999999995,0.0476,0.0588
 2024-04-09 09:00:30.277138,College Specials - Next Full Time Kentucky Men's Basketball Coach - Proposition,Sean Miller,-0.011199999999999995,0.0476,0.0588
+2024-04-09 07:00:26.177124,College Specials - Next Full Time Kentucky Men's Basketball Coach - Proposition,Jamie Dixon,-0.011199999999999995,0.0476,0.0588
 2024-04-09 07:00:27.799427,NFL Draft - Player Markets - Positional Groups - 1st Running Back Selected,Jonathon Brooks,-0.01150000000000001,0.3333,0.3448
 2024-04-09 07:00:28.948358,Tournament Match-Ups - Tournament Match-Up - A. Scott vs R. Fowler - Tournament Match-Up ,Rickie Fowler,-0.0116,0.4762,0.4878
 2024-04-09 07:00:29.191232,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs W. Zalatoris - Tournament Match-Up,Will Zalatoris,-0.011600000000000055,0.5122,0.5238
-2024-04-09 13:00:19.316075,Main Markets - 1st Round 2 Balls - E. Van Rooyen v J. Knapp - 1st Round 2 Balls,Jake Knapp,-0.012199999999999989,0.5,0.5122
 2024-04-09 13:00:18.967758,Tournament Match-Ups - Tournament Match-Up - C. Kirk v K. Bradley - Tournament Match-Up,Keegan Bradley,-0.012199999999999989,0.5,0.5122
+2024-04-09 13:00:19.316075,Main Markets - 1st Round 2 Balls - E. Van Rooyen v J. Knapp - 1st Round 2 Balls,Jake Knapp,-0.012199999999999989,0.5,0.5122
+2024-04-09 17:01:05.574446,CBA - China CBA 2023/24 - Outright,Guangdong,-0.012899999999999995,0.1538,0.1667
+2024-04-09 17:01:04.175491,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Arsenal FC,-0.012899999999999995,0.1538,0.1667
+2024-04-09 17:01:04.175491,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,FC Barcelona,-0.013999999999999999,0.0769,0.0909
+2024-04-09 17:01:04.484191,League One - England - League One 2023/24 - League Winner,Bolton Wanderers,-0.014099999999999998,0.0244,0.0385
+2024-04-09 17:01:08.691563,Miscellaneous - PGA Tour vs LIV Tour - Requests,LIV Tour,-0.01469999999999999,0.2353,0.25
 2024-04-09 09:00:32.560484,Boxing Lines - Kingsley Egbunike vs Jordan Dujon - To Win the Bout,Jordan Dujon,-0.014800000000000035,0.6078,0.6226
 2024-04-09 15:00:45.481531,Miscellaneous - PGA Tour vs LIV Tour - Requests,PGA Tour,-0.015100000000000002,0.8182,0.8333
 2024-04-09 07:00:27.799427,NFL Draft - Player Markets - Positional Groups - 1st Running Back Selected,Trey Benson,-0.016699999999999993,0.4,0.4167
+2024-04-09 17:01:04.175491,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Real Madrid,-0.0179,0.125,0.1429
 2024-04-09 15:00:45.508139,Match-Ups - Tournament Match-Up - J. Rahm v V. Hovland - Requests,Viktor Hovland,-0.018100000000000005,0.4167,0.4348
-2024-04-09 05:00:44.526845,The Masters - The Masters 2024 - Winner,Scottie Scheffler,-0.01820000000000002,0.1818,0.2
+2024-04-09 17:01:04.484191,League One - England - League One 2023/24 - League Winner,Portsmouth,-0.01849999999999996,0.9524,0.9709
 2024-04-09 13:00:19.184576,Tournament Match-Ups - Tournament Match-Up - R. McIlroy vs X. Schauffele - Tournament Match-Up,Rory McIlroy,-0.01970000000000005,0.5455,0.5652
 2024-04-09 07:00:26.497770,WNBA Championship - WNBA Championship 2024 - Outright Winner,Seattle Storm,-0.02020000000000001,0.0909,0.1111
 2024-04-09 09:00:33.515695,Tournament Match-Ups - Tournament Match-Up - P. Mickelson v B. Watson - Tournament Match-Up,Phil Mickelson,-0.02079999999999993,0.5348,0.5556
 2024-04-09 09:00:33.277393,Tournament Match-Ups - Tournament Match-Up - A. Scott vs R. Fowler - Tournament Match-Up ,Rickie Fowler,-0.021699999999999997,0.4545,0.4762
 2024-04-09 11:00:50.777842,Tournament Match-Ups - Tournament Match-Up - B. DeChambeau vs C. Smith - Tournament Match-Up,Cameron Smith,-0.021699999999999997,0.4545,0.4762
-2024-04-09 09:00:33.478253,Tournament Match-Ups - Tournament Match-Up - M.W. Lee vs C. Conners - Tournament Match-Up,Min Woo Lee,-0.022600000000000064,0.5122,0.5348
+2024-04-09 17:01:05.574446,CBA - China CBA 2023/24 - Outright,Zhejiang Golden Bulls,-0.022199999999999998,0.2,0.2222
 2024-04-09 09:00:33.265476,Tournament Match-Ups - Tournament Match-Up - A. Schenk v M. Pavon - Tournament Match-Up,Matthieu Pavon,-0.022600000000000064,0.5122,0.5348
+2024-04-09 17:01:08.241586,Positions - Finishing Position - Will Zalatoris - Finishing Position,27th or better,-0.022600000000000064,0.5122,0.5348
 2024-04-09 13:00:18.685654,Positions - Finishing Position - Justin Thomas - Finishing Position,27th or better,-0.022600000000000064,0.5122,0.5348
+2024-04-09 09:00:33.478253,Tournament Match-Ups - Tournament Match-Up - M.W. Lee vs C. Conners - Tournament Match-Up,Min Woo Lee,-0.022600000000000064,0.5122,0.5348
 2024-04-09 09:00:33.312072,Tournament Match-Ups - Tournament Match-Up - B. Koepka vs H. Matsuyama - Tournament Match-Up,Brooks Koepka,-0.023799999999999988,0.4762,0.5
 2024-04-09 07:00:29.156004,Tournament Match-Ups - Tournament Match-Up - M. Fitzpatrick vs D. Johnson - Tournament Match-Up,Dustin Johnson,-0.023799999999999988,0.4762,0.5
+2024-04-09 17:01:05.563414,Euroleague - Euroleague 2023/24 - To Make Final Four,Virtus Bologna,-0.023799999999999988,0.1429,0.1667
 2024-04-09 07:00:28.961305,Tournament Match-Ups - Tournament Match-Up - B. DeChambeau vs C. Smith - Tournament Match-Up,Cameron Smith,-0.023799999999999988,0.4762,0.5
-2024-04-09 11:00:48.474062,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.023800000000000043,0.5,0.5238
 2024-04-09 07:00:28.984798,Tournament Match-Ups - Tournament Match-Up - B. Koepka vs H. Matsuyama - Tournament Match-Up,Brooks Koepka,-0.023800000000000043,0.5,0.5238
+2024-04-09 11:00:48.474062,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.023800000000000043,0.5,0.5238
 2024-04-09 11:00:50.410636,Positions - Finishing Position - Cameron Smith - Finishing Position,28th or better,-0.023800000000000043,0.5,0.5238
 2024-04-09 13:00:18.989822,Tournament Match-Ups - Tournament Match-Up - C. Schwartzel v T. Woods - Tournament Match-Up,Charl Schwartzel,-0.026499999999999968,0.5652,0.5917
 2024-04-09 15:00:45.496152,Match-Ups - Tournament Match-Up - T. Woods v P. Mickelson - Requests,Phil Mickelson,-0.026499999999999968,0.5652,0.5917
+2024-04-09 17:01:04.371379,Championship - England Championship 2023/24 - League Winner,Leeds United,-0.02779999999999999,0.2222,0.25
 2024-04-09 07:00:26.177124,College Specials - Next Full Time Kentucky Men's Basketball Coach - Proposition,Kelvin Sampson,-0.029299999999999993,0.0476,0.0769
 2024-04-09 09:00:31.655547,NFL Draft - Props - Position Props (1st Round) - Total Wide Receivers Selected in Round 1,Under 6.5,-0.030299999999999994,0.6364,0.6667
 2024-04-09 09:00:33.036010,Positions - Finishing Position - Ludvig Aberg - Finishing Position,24th or worse,-0.030399999999999983,0.5348,0.5652
-2024-04-09 13:00:18.745087,Positions - Finishing Position - Rory McIlroy - Finishing Position,14th or worse,-0.033299999999999996,0.5122,0.5455
 2024-04-09 13:00:18.673377,Positions - Finishing Position - Jordan Spieth - Finishing Position,21st or worse,-0.033299999999999996,0.5122,0.5455
+2024-04-09 13:00:18.745087,Positions - Finishing Position - Rory McIlroy - Finishing Position,14th or worse,-0.033299999999999996,0.5122,0.5455
+2024-04-09 13:00:18.649866,Positions - Finishing Position - Joaquin Niemann - Finishing Position,24th or worse,-0.03480000000000005,0.5,0.5348
+2024-04-09 13:00:18.637691,Positions - Finishing Position - Hideki Matsuyama - Finishing Position,18th or worse,-0.03480000000000005,0.5,0.5348
+2024-04-09 13:00:18.549666,Positions - Finishing Position - Brooks Koepka - Finishing Position,20th or worse,-0.03480000000000005,0.5,0.5348
+2024-04-09 13:00:18.697282,Positions - Finishing Position - Ludvig Aberg - Finishing Position,24th or worse,-0.03480000000000005,0.5,0.5348
 2024-04-09 13:00:19.150355,Tournament Match-Ups - Tournament Match-Up - P. Mickelson v B. Watson - Tournament Match-Up,Phil Mickelson,-0.03480000000000005,0.5,0.5348
 2024-04-09 13:00:18.853041,Positions - Finishing Position - Xander Schauffele - Finishing Position,16th or worse,-0.03480000000000005,0.5,0.5348
-2024-04-09 13:00:18.697282,Positions - Finishing Position - Ludvig Aberg - Finishing Position,24th or worse,-0.03480000000000005,0.5,0.5348
-2024-04-09 13:00:18.549666,Positions - Finishing Position - Brooks Koepka - Finishing Position,20th or worse,-0.03480000000000005,0.5,0.5348
-2024-04-09 13:00:18.637691,Positions - Finishing Position - Hideki Matsuyama - Finishing Position,18th or worse,-0.03480000000000005,0.5,0.5348
-2024-04-09 13:00:18.649866,Positions - Finishing Position - Joaquin Niemann - Finishing Position,24th or worse,-0.03480000000000005,0.5,0.5348
 2024-04-09 09:00:30.277138,College Specials - Next Full Time Kentucky Men's Basketball Coach - Proposition,Richard Pitino,-0.035699999999999996,0.0476,0.0833
 2024-04-09 07:00:26.177124,College Specials - Next Full Time Kentucky Men's Basketball Coach - Proposition,Richard Pitino,-0.0417,0.0833,0.125
+2024-04-09 17:01:07.946322,Round Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Under 70.5,-0.045499999999999985,0.5,0.5455
 2024-04-09 13:00:18.781172,Positions - Finishing Position - Shane Lowry - Finishing Position,29th or worse,-0.045499999999999985,0.5,0.5455
 2024-04-09 07:00:26.497770,WNBA Championship - WNBA Championship 2024 - Outright Winner,Phoenix Mercury,-0.0474,0.0435,0.0909
+2024-04-09 17:01:04.371379,Championship - England Championship 2023/24 - League Winner,Leicester City,-0.04760000000000009,0.6667,0.7143
 2024-04-09 15:00:45.519297,Match-Ups - Tournament Match-Up - J. Spieth v R. McIlroy - Requests,Jordan Spieth,-0.0484,0.4167,0.4651
 2024-04-09 09:00:30.277138,College Specials - Next Full Time Kentucky Men's Basketball Coach - Proposition,Nate Oats,-0.052399999999999995,0.0385,0.0909
+2024-04-09 17:01:05.563414,Euroleague - Euroleague 2023/24 - To Make Final Four,Olympiakos,-0.05559999999999998,0.4444,0.5
 2024-04-09 13:00:19.276819,Match-Ups - Tournament Match-Up - J. Rahm v V. Hovland - Requests,Jon Rahm,-0.06269999999999998,0.6296,0.6923
-2024-04-09 05:00:43.976385,MLB Futures - MLB 2024 American League Central - American League Central Winner,Detroit Tigers,-0.0635,0.2222,0.2857
+2024-04-09 17:01:05.563414,Euroleague - Euroleague 2023/24 - To Make Final Four,Fenerbahce,-0.08329999999999999,0.4167,0.5
 2024-04-09 09:00:30.277138,College Specials - Next Full Time Kentucky Men's Basketball Coach - Proposition,Scott Drew,-0.12259999999999999,0.3774,0.5
+2024-04-09 17:01:07.969017,Round Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Under 71.5,-0.1318999999999999,0.5348,0.6667
 2024-04-09 07:00:26.177124,College Specials - Next Full Time Kentucky Men's Basketball Coach - Proposition,Nate Oats,-0.15910000000000002,0.0909,0.25
