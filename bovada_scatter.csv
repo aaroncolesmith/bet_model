@@ -2,7 +2,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-13 15:00:40.201634,To Make the Playoffs - Sacramento Kings - To Make the 2023-24 Playoffs,No,0.1985,0.6429,0.4444
 2024-04-13 15:00:40.162882,To Make the Playoffs - Los Angeles Lakers - To Make the 2023-24 Playoffs,Yes,0.17209999999999998,0.5,0.3279
 2024-04-13 17:01:01.810151,Championship - England Championship 2023/24 - League Winner,Leicester City,0.14289999999999992,0.6667,0.5238
+2024-04-14 01:00:50.687800,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Drake Maye / 3. J.J. McCarthy,0.1,0.2667,0.1667
 2024-04-13 15:00:40.142989,To Make the Playoffs - Golden State Warriors - To Make the 2023-24 Playoffs,No,0.0917,0.7143,0.6226
+2024-04-14 01:00:50.719713,NFL Draft - Player Markets - Positional Groups - 1st Defensive Player Selected,Jared Verse,0.07500000000000001,0.2,0.125
+2024-04-14 01:00:50.687800,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Jayden Daniels / 3. J.J. McCarthy,0.07239999999999996,0.3077,0.2353
+2024-04-14 01:00:50.719713,NFL Draft - Player Markets - Positional Groups - 1st Defensive Player Selected,Laiatu Latu,0.06669999999999998,0.2667,0.2
 2024-04-13 15:00:40.252686,Potential Matchups - Round 1 Playoffs Series Prices - New York Knicks vs Indiana Pacers,New York Knicks,0.05520000000000003,0.6552,0.6
 2024-04-13 15:00:40.260482,Potential Matchups - Round 1 Playoffs Series Prices - New York Knicks vs Miami Heat,New York Knicks,0.054300000000000015,0.7368,0.6825
 2024-04-13 15:00:40.338634,WNBA Awards - WNBA Regular Season MVP 2024 - WNBA Regular Season MVP 2024,Caitlin Clark (Iowa),0.0509,0.1176,0.0667
@@ -18,35 +22,60 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-13 15:00:40.153142,To Make the Playoffs - Indiana Pacers - To Make the 2023-24 Playoffs,No,0.03259999999999999,0.1379,0.1053
 2024-04-13 15:00:40.212995,Potential Matchups - Round 1 Playoffs Series Prices - Cleveland Cavaliers vs Indiana Pacers,Cleveland Cavaliers,0.02960000000000007,0.6296,0.6
 2024-04-13 19:00:37.297722,MLB Futures - MLB 2024 American League West - American League West Winner,Texas Rangers,0.029600000000000015,0.4,0.3704
+2024-04-14 01:00:48.423256,League Two - England - League Two 2023/24 - League Winner,Stockport County,0.028000000000000025,0.9804,0.9524
 2024-04-13 15:00:40.228876,Potential Matchups - Round 1 Playoffs Series Prices - Milwaukee Bucks vs Miami Heat,Milwaukee Bucks,0.02739999999999998,0.7333,0.7059
+2024-04-14 01:00:51.753005,Main Markets - Final Round 2 Balls - W. Zalatoris / T. Hatton - Final Round 2 Balls,Tyrrell Hatton,0.024399999999999977,0.5122,0.4878
+2024-04-14 01:00:50.698018,NFL Draft - Pick Markets - Draft Picks - Top 10 Pick,Laiatu Latu,0.02250000000000002,0.2857,0.2632
+2024-04-14 01:00:50.737727,NFL Draft - Player Markets - Positional Groups - 1st Offensive Lineman Selected,Joe Alt,0.022199999999999998,0.8,0.7778
 2024-04-13 23:02:11.674304,Round Match-Ups - Final Round Match-Ups - J. Day vs M.W. Lee - Final Round Match-Ups,Min Woo Lee,0.02169999999999994,0.5455,0.5238
 2024-04-13 23:02:11.816061,Round Match-Ups - Final Round Match-Ups - X. Schauffele vs P. Cantlay - Final Round Match-Ups,Xander Schauffele,0.02079999999999993,0.5556,0.5348
+2024-04-14 01:00:51.645860,Main Markets - Final Round 2 Balls - C. Conners / B. Koepka - Final Round 2 Balls,Corey Conners,0.020699999999999996,0.4651,0.4444
 2024-04-13 15:00:40.307949,Potential Matchups - Round 1 Playoffs Series Prices - Oklahoma City Thunder vs Los Angeles Lakers,Oklahoma City Thunder,0.020100000000000007,0.8462,0.8261
 2024-04-13 15:00:40.124065,To Make the Playoffs - Atlanta Hawks - To Make the 2023-24 Playoffs,Yes,0.018600000000000005,0.1786,0.16
 2024-04-13 15:00:40.299674,Potential Matchups - Round 1 Playoffs Series Prices - Oklahoma City Thunder vs Golden State Warriors,Oklahoma City Thunder,0.017900000000000027,0.875,0.8571
 2024-04-13 19:00:37.287137,MLB Futures - MLB 2024 American League East - American League East Winner,Baltimore Orioles,0.015400000000000025,0.2857,0.2703
-2024-04-13 13:00:19.255831,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Brady Cook,0.015300000000000001,0.0476,0.0323
+2024-04-14 01:00:51.656796,Main Markets - Final Round 2 Balls - P. Mickelson / S. Lowry - Final Round 2 Balls,Phil Mickelson,0.015400000000000025,0.4,0.3846
 2024-04-13 17:01:01.810151,Championship - England Championship 2023/24 - League Winner,Southampton,0.0145,0.0244,0.0099
-2024-04-13 17:01:03.029073,Euroleague - Euroleague 2023/24 - Outright,AS Monaco,0.012899999999999995,0.1667,0.1538
 2024-04-13 21:00:29.306429,Boxing Lines - Devin Haney vs Ryan Garcia - To Win the Bout,Ryan Garcia,0.012899999999999995,0.1667,0.1538
+2024-04-13 17:01:03.029073,Euroleague - Euroleague 2023/24 - Outright,AS Monaco,0.012899999999999995,0.1667,0.1538
 2024-04-13 19:00:37.276213,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,0.012299999999999978,0.3571,0.3448
 2024-04-13 17:01:02.954197,To Make the Playoffs - Los Angeles Lakers - To Make the 2023-24 Playoffs,Yes,0.012199999999999989,0.5122,0.5
 2024-04-13 15:00:40.133433,To Make the Playoffs - Chicago Bulls - To Make the 2023-24 Playoffs,No,0.011599999999999944,0.8519,0.8403
 2024-04-13 15:00:40.338634,WNBA Awards - WNBA Regular Season MVP 2024 - WNBA Regular Season MVP 2024,Alyssa Thomas (CON),0.011099999999999999,0.1111,0.1
+2024-04-14 01:00:51.730052,Main Markets - Final Round 2 Balls - R. Fox / R. Fowler - Final Round 2 Balls,Ryan Fox,0.011099999999999999,0.4762,0.4651
+2024-04-14 01:00:51.577728,Main Markets - Final Round 2 Balls - K. Kitayama / T. Olesen - Final Round 2 Balls,Kurt Kitayama,0.01100000000000001,0.5348,0.5238
 2024-04-13 15:00:40.081279,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning State,Field,0.01090000000000002,0.8571,0.8462
 2024-04-13 23:02:10.499583,NFL Draft - Pick Markets - Draft Picks - #2 Pick,Jayden Daniels,0.010700000000000043,0.6774,0.6667
-2024-04-13 13:00:19.498256,Boxing Lines - Jordan Gill vs Zelfa Barrett - To Win the Bout,Jordan Gill,0.010699999999999987,0.3333,0.3226
+2024-04-14 01:00:51.764635,Main Markets - Final Round 2 Balls - R. McIIroy / J. Niemann - Final Round 2 Balls,Joaquin Niemann,0.010599999999999998,0.4651,0.4545
 2024-04-13 15:00:42.226275,Boxing Lines - Jalan Walker vs Alejandro Guerrero - To Win the Bout,Jalan Walker,0.010199999999999987,0.9333,0.9231
+2024-04-14 01:00:51.566868,Main Markets - Final Round 2 Balls - T. Kim / D. McCarthy - Final Round 2 Balls,Denny McCarthy,0.010099999999999998,0.5556,0.5455
+2024-04-14 01:00:50.687800,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Jayden Daniels / 3. Drake Maye,-0.010099999999999998,0.5455,0.5556
 2024-04-13 21:00:26.215103,A-League - Australia A-League 2023/24 - Grand Final Winner,Western Sydney Wanderers,-0.0102,0.0667,0.0769
+2024-04-14 01:00:50.678388,NFL Draft - Pick Markets - Draft Picks - #5 Pick,Drake Maye,-0.0102,0.0667,0.0769
 2024-04-13 19:00:37.276213,MLB Futures - MLB 2024 American League Central - American League Central Winner,Cleveland Guardians,-0.010699999999999987,0.3226,0.3333
+2024-04-14 01:00:50.669080,NFL Draft - Pick Markets - Draft Picks - #4 Pick,Drake Maye,-0.010899999999999993,0.1429,0.1538
+2024-04-14 01:00:50.669080,NFL Draft - Pick Markets - Draft Picks - #4 Pick,Rome Odunze,-0.011200000000000002,0.0132,0.0244
+2024-04-14 01:00:51.577728,Main Markets - Final Round 2 Balls - K. Kitayama / T. Olesen - Final Round 2 Balls,Thorbjorn Olesen,-0.011600000000000055,0.5122,0.5238
+2024-04-14 01:00:51.566868,Main Markets - Final Round 2 Balls - T. Kim / D. McCarthy - Final Round 2 Balls,Tom Kim,-0.012199999999999989,0.4878,0.5
+2024-04-14 01:00:51.656796,Main Markets - Final Round 2 Balls - P. Mickelson / S. Lowry - Final Round 2 Balls,Shane Lowry,-0.012299999999999978,0.6429,0.6552
+2024-04-14 01:00:50.687800,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. J.J. McCarthy / 3. Jayden Daniels,-0.012299999999999991,0.1053,0.1176
 2024-04-13 17:01:01.960494,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Arsenal,-0.012699999999999989,0.3509,0.3636
 2024-04-13 15:00:40.338634,WNBA Awards - WNBA Regular Season MVP 2024 - WNBA Regular Season MVP 2024,Kahleah Copper (CHI),-0.012800000000000002,0.0217,0.0345
 2024-04-13 15:00:42.270968,Boxing Lines - Efe Ajagba vs Guido Vianello - To Win the Bout,Guido Vianello,-0.012899999999999995,0.1538,0.1667
+2024-04-14 01:00:50.669080,NFL Draft - Pick Markets - Draft Picks - #4 Pick,Jayden Daniels,-0.014399999999999996,0.0625,0.0769
+2024-04-14 01:00:50.678388,NFL Draft - Pick Markets - Draft Picks - #5 Pick,Marvin Harrison Jr.,-0.01469999999999999,0.2353,0.25
 2024-04-13 15:00:40.307949,Potential Matchups - Round 1 Playoffs Series Prices - Oklahoma City Thunder vs Los Angeles Lakers,Los Angeles Lakers,-0.015899999999999997,0.2222,0.2381
 2024-04-13 15:00:40.124065,To Make the Playoffs - Atlanta Hawks - To Make the 2023-24 Playoffs,No,-0.016100000000000003,0.8889,0.905
+2024-04-14 01:00:51.645860,Main Markets - Final Round 2 Balls - C. Conners / B. Koepka - Final Round 2 Balls,Brooks Koepka,-0.016699999999999937,0.5833,0.6
+2024-04-14 01:00:50.678388,NFL Draft - Pick Markets - Draft Picks - #5 Pick,J.J. McCarthy,-0.016699999999999993,0.25,0.2667
+2024-04-14 01:00:50.669080,NFL Draft - Pick Markets - Draft Picks - #4 Pick,Malik Nabers,-0.018099999999999998,0.0588,0.0769
+2024-04-14 01:00:50.678388,NFL Draft - Pick Markets - Draft Picks - #5 Pick,Joe Alt,-0.01820000000000002,0.1818,0.2
+2024-04-14 01:00:50.678388,NFL Draft - Pick Markets - Draft Picks - #5 Pick,Malik Nabers,-0.018799999999999983,0.3448,0.3636
 2024-04-13 17:01:01.910619,League One - England - League One 2023/24 - League Winner,Bolton Wanderers,-0.0189,0.0196,0.0385
 2024-04-13 15:00:40.299674,Potential Matchups - Round 1 Playoffs Series Prices - Oklahoma City Thunder vs Golden State Warriors,Golden State Warriors,-0.01999999999999999,0.1905,0.2105
+2024-04-14 01:00:48.423256,League Two - England - League Two 2023/24 - League Winner,Mansfield Town,-0.0203,0.0385,0.0588
 2024-04-13 19:00:37.287137,MLB Futures - MLB 2024 American League East - American League East Winner,Toronto Blue Jays,-0.02049999999999999,0.1333,0.1538
+2024-04-14 01:00:51.753005,Main Markets - Final Round 2 Balls - W. Zalatoris / T. Hatton - Final Round 2 Balls,Will Zalatoris,-0.02079999999999993,0.5348,0.5556
 2024-04-13 17:01:01.960494,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Liverpool,-0.021999999999999964,0.2857,0.3077
 2024-04-13 23:02:11.674304,Round Match-Ups - Final Round Match-Ups - J. Day vs M.W. Lee - Final Round Match-Ups,Jason Day,-0.023800000000000043,0.5,0.5238
 2024-04-13 23:02:11.816061,Round Match-Ups - Final Round Match-Ups - X. Schauffele vs P. Cantlay - Final Round Match-Ups,Patrick Cantlay,-0.024399999999999977,0.4878,0.5122
@@ -54,7 +83,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-13 15:00:40.212995,Potential Matchups - Round 1 Playoffs Series Prices - Cleveland Cavaliers vs Indiana Pacers,Indiana Pacers,-0.030299999999999994,0.4348,0.4651
 2024-04-13 15:00:40.228876,Potential Matchups - Round 1 Playoffs Series Prices - Milwaukee Bucks vs Miami Heat,Miami Heat,-0.030299999999999994,0.3333,0.3636
 2024-04-13 15:00:40.153142,To Make the Playoffs - Indiana Pacers - To Make the 2023-24 Playoffs,Yes,-0.03290000000000004,0.9286,0.9615
+2024-04-14 01:00:50.603735,NFL Draft - Props - Position Props (1st Round) - Total Quarterbacks Selected in Round 1,Over 4.5,-0.03710000000000002,0.6552,0.6923
+2024-04-14 01:00:50.669080,NFL Draft - Pick Markets - Draft Picks - #4 Pick,J.J. McCarthy,-0.03710000000000002,0.3333,0.3704
 2024-04-13 15:00:40.292226,Potential Matchups - Round 1 Playoffs Series Prices - Milwaukee Bucks vs Indiana Pacers,Indiana Pacers,-0.0378,0.4167,0.4545
+2024-04-14 01:00:48.423256,League Two - England - League Two 2023/24 - League Winner,Wrexham,-0.0384,0.0385,0.0769
 2024-04-13 15:00:40.284566,Potential Matchups - Round 1 Playoffs Series Prices - Denver Nuggets vs New Orleans Pelicans,Denver Nuggets,-0.0394000000000001,0.7333,0.7727
 2024-04-13 23:02:11.783607,Round Match-Ups - Final Round Match-Ups - J. Niemann vs W. Zalatoris - Final Round Match-Ups,Will Zalatoris,-0.04760000000000003,0.4762,0.5238
 2024-04-13 15:00:40.315728,Potential Matchups - Round 1 Playoffs Series Prices - Oklahoma City Thunder vs Sacramento Kings,Sacramento Kings,-0.05310000000000001,0.2326,0.2857
@@ -63,7 +95,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-13 19:00:37.297722,MLB Futures - MLB 2024 American League West - American League West Winner,Houston Astros,-0.0595,0.4167,0.4762
 2024-04-13 17:01:01.810151,Championship - England Championship 2023/24 - League Winner,Ipswich Town,-0.0635,0.2222,0.2857
 2024-04-13 23:02:10.499583,NFL Draft - Pick Markets - Draft Picks - #2 Pick,J.J. McCarthy,-0.0642,0.1176,0.1818
+2024-04-14 01:00:50.719713,NFL Draft - Player Markets - Positional Groups - 1st Defensive Player Selected,Quinyon Mitchell,-0.0642,0.1176,0.1818
 2024-04-13 15:00:40.142989,To Make the Playoffs - Golden State Warriors - To Make the 2023-24 Playoffs,Yes,-0.09350000000000003,0.3509,0.4444
+2024-04-14 01:00:50.719713,NFL Draft - Player Markets - Positional Groups - 1st Defensive Player Selected,Dallas Turner,-0.09960000000000002,0.5556,0.6552
+2024-04-14 01:00:50.687800,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Drake Maye / 3. Jayden Daniels,-0.11359999999999998,0.25,0.3636
 2024-04-13 17:01:01.810151,Championship - England Championship 2023/24 - League Winner,Leeds United,-0.1428,0.1429,0.2857
 2024-04-13 23:02:10.508795,NFL Draft - Pick Markets - Draft Picks - #3 Pick,Jayden Daniels,-0.1491,0.2857,0.4348
 2024-04-13 15:00:40.162882,To Make the Playoffs - Los Angeles Lakers - To Make the 2023-24 Playoffs,No,-0.17159999999999997,0.5652,0.7368
