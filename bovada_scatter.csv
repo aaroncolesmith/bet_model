@@ -17,6 +17,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-14 01:00:50.719713,NFL Draft - Player Markets - Positional Groups - 1st Defensive Player Selected,Laiatu Latu,0.06669999999999998,0.2667,0.2
 2024-04-14 07:00:50.673876,MLB Futures - MLB 2024 National League Central - National League Central Winner,St. Louis Cardinals,0.06659999999999999,0.3333,0.2667
 2024-04-14 05:00:58.853797,Round Scores - Final Round Score - Jon Rahm - Final Round Score ,Under 71.5,0.06220000000000003,0.5744,0.5122
+2024-04-14 09:00:51.322686,Main Markets - Final Round 2 Balls - M. Fitzpatrick / P. Reed - Final Round 2 Balls,Matt Fitzpatrick,0.05740000000000001,0.6226,0.5652
 2024-04-14 07:00:51.614628,Round Scores - Final Round Score - Bryson DeChambeau - Final Round Score,Under 72.5,0.05740000000000001,0.6226,0.5652
 2024-04-14 05:00:58.865768,Round Scores - Final Round Score - Ludvig Aberg - Final Round Score,Under 71.5,0.05689999999999995,0.5917,0.5348
 2024-04-14 05:00:54.807243,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Alexander Isak,0.05639999999999999,0.0909,0.0345
@@ -26,6 +27,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-14 05:00:58.889371,Round Scores - Final Round Score - Max Homa - Final Round Score,Under 72.5,0.0413,0.6491,0.6078
 2024-04-13 23:02:10.508795,NFL Draft - Pick Markets - Draft Picks - #3 Pick,J.J. McCarthy,0.03689999999999999,0.3226,0.2857
 2024-04-14 05:00:54.579423,Championship - England Championship 2023/24 - Top 2 Finish,Ipswich Town,0.03639999999999999,0.6364,0.6
+2024-04-14 09:00:51.333812,Main Markets - Final Round 2 Balls - A. Schenk / C. Kirk - Final Round 2 Balls,Adam Schenk,0.03600000000000003,0.5238,0.4878
 2024-04-14 07:00:51.599240,Round Scores - Final Round Score - Brooks Koepka - Final Round Score,Under 71.5,0.03600000000000003,0.5238,0.4878
 2024-04-14 05:00:54.807243,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Erling Braut Haaland,0.035699999999999954,0.75,0.7143
 2024-04-14 05:00:58.164778,Main Markets - Final Round 2 Balls - S.W. Kim / J.T. Poston - Final Round 2 Balls,Si Woo Kim,0.03510000000000002,0.6429,0.6078
@@ -35,8 +37,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-14 05:00:54.567349,Championship - England Championship 2023/24 - To Be Promoted,Southampton,0.031799999999999995,0.4762,0.4444
 2024-04-14 05:00:54.814795,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Luton Town,0.030299999999999994,0.6667,0.6364
 2024-04-14 05:00:58.948002,Round Scores - Final Round Score - Tommy Fleetwood - Final Round Score,Under 72.5,0.02859999999999996,0.6364,0.6078
-2024-04-14 07:00:51.778571,Round Scores - Final Round Score - Rory McIlroy - Final Round Score,Under 71.5,0.02859999999999996,0.6364,0.6078
 2024-04-14 05:00:58.936161,Round Scores - Final Round Score - Scottie Scheffler - Final Round Score,Under 71.5,0.02859999999999996,0.6364,0.6078
+2024-04-14 07:00:51.778571,Round Scores - Final Round Score - Rory McIlroy - Final Round Score,Under 71.5,0.02859999999999996,0.6364,0.6078
 2024-04-14 01:00:48.423256,League Two - England - League Two 2023/24 - League Winner,Stockport County,0.028000000000000025,0.9804,0.9524
 2024-04-14 07:00:51.399960,Round Match-Ups - Final Round Match-Ups - X. Schauffele vs P. Cantlay - Final Round Match-Ups,Xander Schauffele,0.027700000000000058,0.5833,0.5556
 2024-04-14 05:00:58.805619,Round Scores - Final Round Score - Collin Morikawa - Final Round Score,Over 72.5,0.027700000000000002,0.4444,0.4167
@@ -45,21 +47,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-14 05:00:54.656576,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,Club América,0.02560000000000001,0.3333,0.3077
 2024-04-14 05:00:54.586357,Championship - England Championship 2023/24 - Top 6 Finish,Hull City,0.0245,0.0833,0.0588
 2024-04-14 01:00:51.753005,Main Markets - Final Round 2 Balls - W. Zalatoris / T. Hatton - Final Round 2 Balls,Tyrrell Hatton,0.024399999999999977,0.5122,0.4878
+2024-04-14 09:00:51.538614,Round Match-Ups - Final Round Match-Ups - B. DeChambeau vs M. Homa - Final Round Match-Ups,Max Homa,0.024399999999999977,0.5122,0.4878
 2024-04-14 05:00:54.579423,Championship - England Championship 2023/24 - Top 2 Finish,Southampton,0.0242,0.0909,0.0667
 2024-04-14 05:00:54.481331,MLS - USA MLS 2024 - Futures - Golden Boot Award,Christian Benteke,0.0242,0.0909,0.0667
-2024-04-14 07:00:51.717189,Round Scores - Final Round Score - Ludvig Aberg - Final Round Score,Over 71.5,0.023799999999999988,0.5,0.4762
 2024-04-14 05:00:54.567349,Championship - England Championship 2023/24 - To Be Promoted,West Bromwich Albion,0.023799999999999988,0.1667,0.1429
+2024-04-14 07:00:51.717189,Round Scores - Final Round Score - Ludvig Aberg - Final Round Score,Over 71.5,0.023799999999999988,0.5,0.4762
 2024-04-14 01:00:50.698018,NFL Draft - Pick Markets - Draft Picks - Top 10 Pick,Laiatu Latu,0.02250000000000002,0.2857,0.2632
 2024-04-14 01:00:50.737727,NFL Draft - Player Markets - Positional Groups - 1st Offensive Lineman Selected,Joe Alt,0.022199999999999998,0.8,0.7778
 2024-04-14 03:00:49.961377,Main Markets - Final Round 2 Balls - B. Hun An / C. Smith - Final Round 2 Balls,Byeong Hun An,0.021699999999999997,0.4762,0.4545
-2024-04-14 03:00:50.341585,Round Match-Ups - Final Round Match-Ups - B. Hun An vs P. Reed - Final Round Match-Ups,Byeong Hun An,0.02169999999999994,0.5455,0.5238
 2024-04-13 23:02:11.674304,Round Match-Ups - Final Round Match-Ups - J. Day vs M.W. Lee - Final Round Match-Ups,Min Woo Lee,0.02169999999999994,0.5455,0.5238
+2024-04-14 03:00:50.341585,Round Match-Ups - Final Round Match-Ups - B. Hun An vs P. Reed - Final Round Match-Ups,Byeong Hun An,0.02169999999999994,0.5455,0.5238
 2024-04-14 07:00:50.896567,Main Markets - Final Round 2 Balls - R. Henley / J. Day - Final Round 2 Balls,Russell Henley,0.02079999999999993,0.5556,0.5348
 2024-04-13 23:02:11.816061,Round Match-Ups - Final Round Match-Ups - X. Schauffele vs P. Cantlay - Final Round Match-Ups,Xander Schauffele,0.02079999999999993,0.5556,0.5348
 2024-04-14 03:00:50.052593,Match-Ups - Final Round Matchups - X. Schauffele v R. McIIroy - Requests,Xander Schauffele,0.02079999999999993,0.5556,0.5348
 2024-04-14 01:00:51.645860,Main Markets - Final Round 2 Balls - C. Conners / B. Koepka - Final Round 2 Balls,Corey Conners,0.020699999999999996,0.4651,0.4444
-2024-04-14 03:00:50.319085,Round Match-Ups - Final Round Match-Ups - T. Finau vs S. Lowry - Final Round Match-Ups,Tony Finau,0.01970000000000005,0.5652,0.5455
 2024-04-14 03:00:50.308495,Round Match-Ups - Final Round Match-Ups - J. Day vs M.W. Lee - Final Round Match-Ups,Min Woo Lee,0.01970000000000005,0.5652,0.5455
+2024-04-14 03:00:50.319085,Round Match-Ups - Final Round Match-Ups - T. Finau vs S. Lowry - Final Round Match-Ups,Tony Finau,0.01970000000000005,0.5652,0.5455
 2024-04-14 05:00:54.814795,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Crystal Palace,0.019099999999999992,0.0667,0.0476
 2024-04-14 05:00:54.780412,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Molde FK,0.019000000000000017,0.2857,0.2667
 2024-04-14 05:00:54.501962,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,Inter Miami,0.018900000000000028,0.4444,0.4255
@@ -67,43 +70,43 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-14 03:00:50.329863,Round Match-Ups - Final Round Match-Ups - A. Bhatia vs S. Theegala - Final Round Match-Ups,Sahith Theegala,0.01880000000000004,0.5744,0.5556
 2024-04-14 05:00:54.481331,MLS - USA MLS 2024 - Futures - Golden Boot Award,Dejan Joveljic,0.018099999999999998,0.0769,0.0588
 2024-04-14 05:00:58.757984,Round Scores - Final Round Score - Tiger Woods - Final Round Score,Over 73.5,0.017299999999999982,0.5917,0.5744
+2024-04-14 09:00:51.402434,Main Markets - Final Round 2 Balls - M. Homa / L. Aberg - Final Round 2 Balls,Ludvig Aberg,0.016699999999999937,0.6,0.5833
 2024-04-14 01:00:51.656796,Main Markets - Final Round 2 Balls - P. Mickelson / S. Lowry - Final Round 2 Balls,Phil Mickelson,0.015400000000000025,0.4,0.3846
 2024-04-14 05:00:54.821963,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Newcastle United,0.014599999999999998,0.0196,0.005
 2024-04-14 05:00:54.606427,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Independiente,0.0131,0.0476,0.0345
-2024-04-13 21:00:29.306429,Boxing Lines - Devin Haney vs Ryan Garcia - To Win the Bout,Ryan Garcia,0.012899999999999995,0.1667,0.1538
 2024-04-14 05:00:54.481331,MLS - USA MLS 2024 - Futures - Golden Boot Award,Lionel Messi,0.011700000000000016,0.2222,0.2105
 2024-04-14 05:00:54.596786,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Grêmio,0.011199999999999995,0.0588,0.0476
-2024-04-14 05:00:54.627024,A-League - Australia A-League 2023/24 - Grand Final Winner,Melbourne City,0.011199999999999995,0.0588,0.0476
 2024-04-14 05:00:54.656576,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,Chivas Guadalajara,0.011199999999999995,0.0588,0.0476
-2024-04-14 03:00:49.792021,Main Markets - Final Round 2 Balls - C. Conners / B. Koepka - Final Round 2 Balls,Corey Conners,0.011099999999999999,0.4762,0.4651
-2024-04-14 01:00:51.730052,Main Markets - Final Round 2 Balls - R. Fox / R. Fowler - Final Round 2 Balls,Ryan Fox,0.011099999999999999,0.4762,0.4651
+2024-04-14 05:00:54.627024,A-League - Australia A-League 2023/24 - Grand Final Winner,Melbourne City,0.011199999999999995,0.0588,0.0476
 2024-04-14 05:00:54.501962,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,Philadelphia Union,0.011099999999999999,0.1111,0.1
+2024-04-14 01:00:51.730052,Main Markets - Final Round 2 Balls - R. Fox / R. Fowler - Final Round 2 Balls,Ryan Fox,0.011099999999999999,0.4762,0.4651
 2024-04-14 05:00:54.790774,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,Sporting CP,0.011099999999999999,0.9,0.8889
+2024-04-14 03:00:49.792021,Main Markets - Final Round 2 Balls - C. Conners / B. Koepka - Final Round 2 Balls,Corey Conners,0.011099999999999999,0.4762,0.4651
 2024-04-14 05:00:58.594513,Round Match-Ups - Final Round Match-Ups - J. Rahm vs R. McIIroy - Final Round Match-Ups,Rory McIlroy,0.01100000000000001,0.5348,0.5238
 2024-04-14 01:00:51.577728,Main Markets - Final Round 2 Balls - K. Kitayama / T. Olesen - Final Round 2 Balls,Kurt Kitayama,0.01100000000000001,0.5348,0.5238
 2024-04-14 05:00:54.606427,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Talleres,0.010899999999999993,0.1538,0.1429
 2024-04-13 23:02:10.499583,NFL Draft - Pick Markets - Draft Picks - #2 Pick,Jayden Daniels,0.010700000000000043,0.6774,0.6667
-2024-04-14 05:00:54.780412,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Bodø/Glimt,0.010699999999999932,0.5455,0.5348
 2024-04-14 03:00:49.724196,Main Markets - Final Round 2 Balls - K. Kitayama / T. Olesen - Final Round 2 Balls,Kurt Kitayama,0.010699999999999932,0.5455,0.5348
+2024-04-14 05:00:54.780412,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Bodø/Glimt,0.010699999999999932,0.5455,0.5348
 2024-04-14 01:00:51.764635,Main Markets - Final Round 2 Balls - R. McIIroy / J. Niemann - Final Round 2 Balls,Joaquin Niemann,0.010599999999999998,0.4651,0.4545
 2024-04-14 05:00:54.510581,MLS - USA MLS 2024 - Futures - Western Conference League Winner,LA Galaxy,0.010399999999999993,0.2326,0.2222
 2024-04-14 01:00:51.566868,Main Markets - Final Round 2 Balls - T. Kim / D. McCarthy - Final Round 2 Balls,Denny McCarthy,0.010099999999999998,0.5556,0.5455
 2024-04-14 01:00:50.687800,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Jayden Daniels / 3. Drake Maye,-0.010099999999999998,0.5455,0.5556
 2024-04-14 05:00:54.510581,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Seattle Sounders,-0.0102,0.0667,0.0769
 2024-04-14 01:00:50.678388,NFL Draft - Pick Markets - Draft Picks - #5 Pick,Drake Maye,-0.0102,0.0667,0.0769
-2024-04-13 21:00:26.215103,A-League - Australia A-League 2023/24 - Grand Final Winner,Western Sydney Wanderers,-0.0102,0.0667,0.0769
 2024-04-14 01:00:50.669080,NFL Draft - Pick Markets - Draft Picks - #4 Pick,Drake Maye,-0.010899999999999993,0.1429,0.1538
 2024-04-14 05:00:54.573028,Championship - England Championship 2023/24 - To Be Relegated,Stoke City,-0.011099999999999999,0.1,0.1111
-2024-04-14 05:00:54.656576,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,CF Pachuca,-0.011099999999999999,0.1,0.1111
 2024-04-14 05:00:54.656576,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,Tigres UANL,-0.011099999999999999,0.1,0.1111
+2024-04-14 05:00:54.656576,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,CF Pachuca,-0.011099999999999999,0.1,0.1111
 2024-04-14 01:00:50.669080,NFL Draft - Pick Markets - Draft Picks - #4 Pick,Rome Odunze,-0.011200000000000002,0.0132,0.0244
 2024-04-14 05:00:58.757984,Round Scores - Final Round Score - Tiger Woods - Final Round Score,Under 73.5,-0.0116,0.4762,0.4878
-2024-04-14 05:00:58.594513,Round Match-Ups - Final Round Match-Ups - J. Rahm vs R. McIIroy - Final Round Match-Ups,Jon Rahm,-0.011600000000000055,0.5122,0.5238
 2024-04-14 01:00:51.577728,Main Markets - Final Round 2 Balls - K. Kitayama / T. Olesen - Final Round 2 Balls,Thorbjorn Olesen,-0.011600000000000055,0.5122,0.5238
-2024-04-14 01:00:51.566868,Main Markets - Final Round 2 Balls - T. Kim / D. McCarthy - Final Round 2 Balls,Tom Kim,-0.012199999999999989,0.4878,0.5
+2024-04-14 05:00:58.594513,Round Match-Ups - Final Round Match-Ups - J. Rahm vs R. McIIroy - Final Round Match-Ups,Jon Rahm,-0.011600000000000055,0.5122,0.5238
 2024-04-14 03:00:49.724196,Main Markets - Final Round 2 Balls - K. Kitayama / T. Olesen - Final Round 2 Balls,Thorbjorn Olesen,-0.012199999999999989,0.5,0.5122
+2024-04-14 01:00:51.566868,Main Markets - Final Round 2 Balls - T. Kim / D. McCarthy - Final Round 2 Balls,Tom Kim,-0.012199999999999989,0.4878,0.5
 2024-04-14 01:00:51.656796,Main Markets - Final Round 2 Balls - P. Mickelson / S. Lowry - Final Round 2 Balls,Shane Lowry,-0.012299999999999978,0.6429,0.6552
 2024-04-14 01:00:50.687800,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. J.J. McCarthy / 3. Jayden Daniels,-0.012299999999999991,0.1053,0.1176
+2024-04-14 09:00:48.514928,NBA Championship - NBA Championship 2023-24 - NBA Finals Winning State,California,-0.012899999999999995,0.1538,0.1667
 2024-04-14 05:00:54.656576,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,CF Monterrey,-0.012899999999999995,0.1538,0.1667
 2024-04-14 05:00:54.586357,Championship - England Championship 2023/24 - Top 6 Finish,Middlesbrough,-0.0129,0.002,0.0149
 2024-04-14 07:00:50.673876,MLB Futures - MLB 2024 National League Central - National League Central Winner,Pittsburgh Pirates,-0.013899999999999996,0.1111,0.125
@@ -124,30 +127,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-14 01:00:50.678388,NFL Draft - Pick Markets - Draft Picks - #5 Pick,Joe Alt,-0.01820000000000002,0.1818,0.2
 2024-04-14 01:00:50.678388,NFL Draft - Pick Markets - Draft Picks - #5 Pick,Malik Nabers,-0.018799999999999983,0.3448,0.3636
 2024-04-14 01:00:48.423256,League Two - England - League Two 2023/24 - League Winner,Mansfield Town,-0.0203,0.0385,0.0588
+2024-04-14 09:00:51.402434,Main Markets - Final Round 2 Balls - M. Homa / L. Aberg - Final Round 2 Balls,Max Homa,-0.020699999999999996,0.4444,0.4651
+2024-04-14 09:00:51.538614,Round Match-Ups - Final Round Match-Ups - B. DeChambeau vs M. Homa - Final Round Match-Ups,Bryson DeChambeau,-0.02079999999999993,0.5348,0.5556
 2024-04-14 01:00:51.753005,Main Markets - Final Round 2 Balls - W. Zalatoris / T. Hatton - Final Round 2 Balls,Will Zalatoris,-0.02079999999999993,0.5348,0.5556
-2024-04-14 03:00:50.329863,Round Match-Ups - Final Round Match-Ups - A. Bhatia vs S. Theegala - Final Round Match-Ups,Akshay Bhatia,-0.022699999999999998,0.4651,0.4878
 2024-04-14 07:00:51.399960,Round Match-Ups - Final Round Match-Ups - X. Schauffele vs P. Cantlay - Final Round Match-Ups,Patrick Cantlay,-0.022699999999999998,0.4651,0.4878
-2024-04-14 03:00:50.319085,Round Match-Ups - Final Round Match-Ups - T. Finau vs S. Lowry - Final Round Match-Ups,Shane Lowry,-0.023799999999999988,0.4762,0.5
+2024-04-14 03:00:50.329863,Round Match-Ups - Final Round Match-Ups - A. Bhatia vs S. Theegala - Final Round Match-Ups,Akshay Bhatia,-0.022699999999999998,0.4651,0.4878
 2024-04-14 03:00:50.308495,Round Match-Ups - Final Round Match-Ups - J. Day vs M.W. Lee - Final Round Match-Ups,Jason Day,-0.023799999999999988,0.4762,0.5
-2024-04-13 23:02:11.674304,Round Match-Ups - Final Round Match-Ups - J. Day vs M.W. Lee - Final Round Match-Ups,Jason Day,-0.023800000000000043,0.5,0.5238
+2024-04-14 03:00:50.319085,Round Match-Ups - Final Round Match-Ups - T. Finau vs S. Lowry - Final Round Match-Ups,Shane Lowry,-0.023799999999999988,0.4762,0.5
 2024-04-14 03:00:50.341585,Round Match-Ups - Final Round Match-Ups - B. Hun An vs P. Reed - Final Round Match-Ups,Patrick Reed,-0.023800000000000043,0.5,0.5238
-2024-04-13 23:02:11.816061,Round Match-Ups - Final Round Match-Ups - X. Schauffele vs P. Cantlay - Final Round Match-Ups,Patrick Cantlay,-0.024399999999999977,0.4878,0.5122
+2024-04-13 23:02:11.674304,Round Match-Ups - Final Round Match-Ups - J. Day vs M.W. Lee - Final Round Match-Ups,Jason Day,-0.023800000000000043,0.5,0.5238
 2024-04-14 07:00:50.896567,Main Markets - Final Round 2 Balls - R. Henley / J. Day - Final Round 2 Balls,Jason Day,-0.024399999999999977,0.4878,0.5122
+2024-04-13 23:02:11.816061,Round Match-Ups - Final Round Match-Ups - X. Schauffele vs P. Cantlay - Final Round Match-Ups,Patrick Cantlay,-0.024399999999999977,0.4878,0.5122
 2024-04-14 05:00:54.573028,Championship - England Championship 2023/24 - To Be Relegated,Millwall,-0.024600000000000004,0.0099,0.0345
-2024-04-14 07:00:51.745048,Round Scores - Final Round Score - Max Homa - Final Round Score,Under 72.5,-0.026499999999999968,0.6226,0.6491
-2024-04-14 05:00:58.805619,Round Scores - Final Round Score - Collin Morikawa - Final Round Score,Under 72.5,-0.026499999999999968,0.6226,0.6491
 2024-04-14 03:00:49.961377,Main Markets - Final Round 2 Balls - B. Hun An / C. Smith - Final Round 2 Balls,Cameron Smith,-0.026499999999999968,0.5652,0.5917
 2024-04-14 07:00:51.717189,Round Scores - Final Round Score - Ludvig Aberg - Final Round Score,Under 71.5,-0.026499999999999968,0.5652,0.5917
+2024-04-14 05:00:58.805619,Round Scores - Final Round Score - Collin Morikawa - Final Round Score,Under 72.5,-0.026499999999999968,0.6226,0.6491
+2024-04-14 07:00:51.745048,Round Scores - Final Round Score - Max Homa - Final Round Score,Under 72.5,-0.026499999999999968,0.6226,0.6491
 2024-04-14 05:00:58.164778,Main Markets - Final Round 2 Balls - S.W. Kim / J.T. Poston - Final Round 2 Balls,J.T. Poston,-0.026600000000000013,0.4082,0.4348
 2024-04-13 23:02:10.499583,NFL Draft - Pick Markets - Draft Picks - #2 Pick,Drake Maye,-0.027700000000000002,0.4167,0.4444
 2024-04-14 05:00:54.586357,Championship - England Championship 2023/24 - Top 6 Finish,Preston North End,-0.0279,0.0066,0.0345
 2024-04-14 05:00:54.481331,MLS - USA MLS 2024 - Futures - Golden Boot Award,Georgios Giakoumakis,-0.027999999999999997,0.1538,0.1818
 2024-04-14 05:00:54.560932,Championship - England Championship 2023/24 - Top Goalscorer,Morgan Whittaker,-0.028000000000000004,0.0196,0.0476
 2024-04-14 07:00:51.599240,Round Scores - Final Round Score - Brooks Koepka - Final Round Score,Over 71.5,-0.028900000000000037,0.5455,0.5744
-2024-04-14 07:00:51.778571,Round Scores - Final Round Score - Rory McIlroy - Final Round Score,Over 71.5,-0.029000000000000026,0.4255,0.4545
-2024-04-14 05:00:58.936161,Round Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 71.5,-0.029000000000000026,0.4255,0.4545
 2024-04-14 05:00:58.948002,Round Scores - Final Round Score - Tommy Fleetwood - Final Round Score,Over 72.5,-0.029000000000000026,0.4255,0.4545
+2024-04-14 05:00:58.936161,Round Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 71.5,-0.029000000000000026,0.4255,0.4545
+2024-04-14 07:00:51.778571,Round Scores - Final Round Score - Rory McIlroy - Final Round Score,Over 71.5,-0.029000000000000026,0.4255,0.4545
 2024-04-14 05:00:54.807243,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Cole Palmer,-0.029299999999999993,0.0476,0.0769
+2024-04-14 09:00:51.333812,Main Markets - Final Round 2 Balls - A. Schenk / C. Kirk - Final Round 2 Balls,Chris Kirk,-0.03179999999999994,0.5238,0.5556
 2024-04-14 05:00:54.596786,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Fluminense,-0.0321,0.0588,0.0909
 2024-04-14 01:00:50.669080,NFL Draft - Pick Markets - Draft Picks - #4 Pick,J.J. McCarthy,-0.03710000000000002,0.3333,0.3704
 2024-04-14 01:00:50.603735,NFL Draft - Props - Position Props (1st Round) - Total Quarterbacks Selected in Round 1,Over 4.5,-0.03710000000000002,0.6552,0.6923
@@ -162,12 +168,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-14 03:00:50.052593,Match-Ups - Final Round Matchups - X. Schauffele v R. McIIroy - Requests,Rory McIIroy,-0.04700000000000004,0.4878,0.5348
 2024-04-13 23:02:11.783607,Round Match-Ups - Final Round Match-Ups - J. Niemann vs W. Zalatoris - Final Round Match-Ups,Will Zalatoris,-0.04760000000000003,0.4762,0.5238
 2024-04-14 05:00:54.567349,Championship - England Championship 2023/24 - To Be Promoted,Ipswich Town,-0.050000000000000044,0.75,0.8
+2024-04-14 09:00:51.322686,Main Markets - Final Round 2 Balls - M. Fitzpatrick / P. Reed - Final Round 2 Balls,Patrick Reed,-0.05070000000000002,0.4255,0.4762
 2024-04-14 05:00:54.567349,Championship - England Championship 2023/24 - To Be Promoted,Coventry City,-0.0509,0.0079,0.0588
 2024-04-14 07:00:51.614628,Round Scores - Final Round Score - Bryson DeChambeau - Final Round Score,Over 72.5,-0.05559999999999998,0.4444,0.5
 2024-04-14 05:00:54.807243,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Mohamed Salah,-0.05679999999999999,0.125,0.1818
 2024-04-14 05:00:58.865768,Round Scores - Final Round Score - Ludvig Aberg - Final Round Score,Over 71.5,-0.05860000000000004,0.4762,0.5348
-2024-04-14 01:00:50.719713,NFL Draft - Player Markets - Positional Groups - 1st Defensive Player Selected,Quinyon Mitchell,-0.0642,0.1176,0.1818
 2024-04-13 23:02:10.499583,NFL Draft - Pick Markets - Draft Picks - #2 Pick,J.J. McCarthy,-0.0642,0.1176,0.1818
+2024-04-14 01:00:50.719713,NFL Draft - Player Markets - Positional Groups - 1st Defensive Player Selected,Quinyon Mitchell,-0.0642,0.1176,0.1818
 2024-04-14 05:00:54.640034,A-League - Australia A-League 2023/24 - Top 6 Finish,Brisbane Roar,-0.06459999999999999,0.0123,0.0769
 2024-04-14 05:00:58.853797,Round Scores - Final Round Score - Jon Rahm - Final Round Score ,Over 71.5,-0.06779999999999997,0.4878,0.5556
 2024-04-14 05:00:58.841074,Round Scores - Final Round Score - Joaquin Niemann - Final Round Score,Over 71.5,-0.07299999999999995,0.5348,0.6078
