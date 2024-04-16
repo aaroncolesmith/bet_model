@@ -1,6 +1,4 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-04-16 01:00:40.596377,Premier League Futures/Specials - English Premier League 2023/24 - Man City vs The Field,Man City,0.25980000000000003,0.7143,0.4545
-2024-04-16 01:00:40.571438,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Cole Palmer,0.2381,0.2857,0.0476
 2024-04-16 03:00:46.858023,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Cole Palmer,0.1795,0.3333,0.1538
 2024-04-16 03:00:46.893029,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Newcastle United,0.16670000000000001,0.5,0.3333
 2024-04-16 03:00:46.886549,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Aston Villa,0.16669999999999996,0.6667,0.5
@@ -10,7 +8,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-16 03:00:46.899777,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Fulham,0.12310000000000001,0.2,0.0769
 2024-04-16 03:00:46.858023,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Alexander Isak,0.1222,0.2222,0.1
 2024-04-16 03:00:46.375984,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Atlético Madrid,0.11109999999999998,0.3333,0.2222
-2024-04-16 01:00:40.578620,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer - Haaland vs The Field,Any Other Player,0.10360000000000003,0.4545,0.3509
 2024-04-16 03:00:46.906638,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,West Ham United,0.1,0.2667,0.1667
 2024-04-16 03:00:46.370197,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Atlético Madrid,0.09199999999999997,0.8621,0.7701
 2024-04-16 09:01:38.429842,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Atlético Madrid,0.08329999999999999,0.3333,0.25
@@ -18,17 +15,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-16 03:00:46.865737,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Everton,0.07500000000000001,0.2,0.125
 2024-04-16 03:00:46.801339,Primera Division - Chile Primera Division 2024 - Futures - Winner,Universidad Católica,0.06669999999999998,0.1667,0.1
 2024-04-16 03:00:46.558434,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Vélez Sarsfield,0.0635,0.1111,0.0476
+2024-04-16 13:00:57.112308,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Jayden Daniels / 3. Drake Maye,0.05740000000000001,0.6226,0.5652
 2024-04-16 03:00:46.779970,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,Malmö FF,0.05590000000000006,0.6923,0.6364
 2024-04-16 07:00:39.928573,Play-In Tournament Specials - 2024 Play-In Tournament Specials - Most PPG,DeMar DeRozan (CHI),0.052399999999999995,0.0909,0.0385
 2024-04-16 03:00:46.906638,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Brighton & Hove Albion,0.05020000000000002,0.4348,0.3846
 2024-04-16 03:00:46.906638,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Wolverhampton Wanderers,0.04930000000000001,0.7826,0.7333
+2024-04-16 13:00:57.872286,MLB Futures - MLB 2024 National League Central - National League Central Winner,Chicago Cubs,0.04780000000000001,0.3704,0.3226
 2024-04-16 09:01:42.906041,Position - Finishing Position - Max Homa - Finishing Position,21st or better,0.045499999999999985,0.5455,0.5
-2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Tiquinho Soares (Botafogo),0.0448,0.0833,0.0385
 2024-04-16 03:00:46.812051,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Sporting Cristal,0.044399999999999995,0.4444,0.4
-2024-04-16 01:00:40.571438,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Ollie Watkins,0.04269999999999999,0.1538,0.1111
 2024-04-16 03:00:46.872513,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Sheffield United,0.038899999999999935,0.8571,0.8182
 2024-04-16 03:00:46.801339,Primera Division - Chile Primera Division 2024 - Futures - Winner,Palestino,0.034100000000000005,0.125,0.0909
-2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Enner Valencia (Internacional),0.03330000000000001,0.1,0.0667
 2024-04-16 11:01:48.060286,NFL Draft - Props - Position Props (1st Round) - Total Offensive Lineman Selected in Round 1,Over 9.5,0.03259999999999996,0.6552,0.6226
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Gaganjeet Bhullar,0.0319,0.0385,0.0066
 2024-04-16 05:00:43.959159,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Bologna,0.03179999999999994,0.5556,0.5238
@@ -43,8 +39,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-16 11:01:48.390656,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,Washington Commanders,0.02739999999999998,0.7333,0.7059
 2024-04-16 03:00:46.801339,Primera Division - Chile Primera Division 2024 - Futures - Winner,Universidad de Chile,0.02560000000000001,0.3333,0.3077
 2024-04-16 03:00:46.913850,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Luton Town,0.025499999999999967,0.4255,0.4
+2024-04-16 13:00:57.249830,NFL Draft - Player Markets - Team To Draft Player - Brock Bowers,Los Angeles Rams,0.024,0.0625,0.0385
 2024-04-16 11:01:48.892014,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Mookie Betts (LAD),0.02310000000000001,0.1,0.0769
-2024-04-16 01:00:41.943896,Caitlin Clark Specials - Caitlin Clark Specials - Caitlin Clark 2024 Regular Season Specials,To Record 3+ Triple Doubles In the 2024 WNBA Regular Season,0.022199999999999998,0.3448,0.3226
+2024-04-16 13:00:57.894628,MLB Futures - MLB 2024 National League West - National League West Winner,Arizona Diamondbacks,0.022000000000000006,0.1053,0.0833
+2024-04-16 13:00:57.849505,MLB Futures - MLB 2024 American League East - American League East Winner,Baltimore Orioles,0.021999999999999964,0.3077,0.2857
 2024-04-16 03:00:50.984927,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs X. Schauffele - Tournament Match-Up,Xander Schauffele,0.02100000000000002,0.3846,0.3636
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Tomoyo Ikemura,0.0204,0.0244,0.004
 2024-04-16 03:00:46.865737,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Burnley,0.020299999999999985,0.9615,0.9412
@@ -52,23 +50,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-16 03:00:46.558434,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,River Plate,0.020100000000000007,0.25,0.2299
 2024-04-16 11:01:48.218075,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Jayden Daniels / 3. Drake Maye,0.01970000000000005,0.5652,0.5455
 2024-04-16 11:01:48.128592,NFL Draft - Pick Markets - Draft Picks -  #2 Pick,Jayden Daniels,0.018999999999999906,0.7333,0.7143
-2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Yuri Alberto (Corinthians),0.0189,0.0385,0.0196
 2024-04-16 03:00:46.893029,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Chelsea,0.01820000000000002,0.2,0.1818
+2024-04-16 13:00:57.838060,MLB Futures - MLB 2024 American League Central - American League Central Winner,Kansas City Royals,0.01820000000000002,0.2,0.1818
 2024-04-16 05:00:43.959159,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Atalanta,0.01820000000000002,0.2,0.1818
 2024-04-16 07:00:39.936930,Play-In Tournament Specials - 2024 Play-In Tournament Specials - Play-In Teams to Win a 1st Round Playoff Series,3,0.018099999999999998,0.0769,0.0588
 2024-04-16 03:00:46.801339,Primera Division - Chile Primera Division 2024 - Futures - Winner,Unión Española,0.018099999999999998,0.0769,0.0588
+2024-04-16 13:00:57.894628,MLB Futures - MLB 2024 National League West - National League West Winner,San Diego Padres,0.018099999999999998,0.0769,0.0588
 2024-04-16 03:00:46.281157,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,FC Barcelona,0.0179,0.1429,0.125
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Sadom Kaewkanjana,0.017800000000000003,0.0244,0.0066
 2024-04-16 03:00:46.913850,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Nottingham Forest,0.016700000000000048,0.75,0.7333
 2024-04-16 03:00:46.281157,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Manchester City,0.015400000000000025,0.4,0.3846
+2024-04-16 13:00:57.101833,NFL Draft - Pick Markets - Draft Picks - #10 Pick,Brock Bowers,0.015400000000000025,0.4,0.3846
 2024-04-16 11:01:48.892014,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Freddie Freeman (LAD),0.015300000000000001,0.0476,0.0323
 2024-04-16 11:01:48.892014,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Teoscar Hernandez (LAD),0.015300000000000001,0.0476,0.0323
-2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Eduardo Sasha (Bragantino),0.015300000000000001,0.0476,0.0323
 2024-04-16 03:00:46.558434,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Godoy Cruz,0.015100000000000002,0.1818,0.1667
 2024-04-16 09:01:38.429842,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Real Madrid,0.015100000000000002,0.1818,0.1667
 2024-04-16 03:00:46.899777,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Newcastle United,0.014599999999999946,0.995,0.9804
-2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Junior Santos (Botafogo),0.014099999999999998,0.0385,0.0244
-2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Diego Costa (Gremio),0.014099999999999998,0.0385,0.0244
+2024-04-16 13:00:57.249830,NFL Draft - Player Markets - Team To Draft Player - Brock Bowers,Philadelphia Eagles,0.0145,0.0244,0.0099
 2024-04-16 07:00:42.773210,The Chevron Championship - The Chevron Championship - Winner,Nelly Korda,0.012899999999999995,0.1667,0.1538
 2024-04-16 03:00:46.779970,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,Djurgårdens IF,0.012899999999999995,0.1667,0.1538
 2024-04-16 09:01:42.172778,NFL Draft - Team Markets - Team's First Pick - JAX Jaguars - Position of 1st Drafted Player in 2024 NFL Draft,Cornerback,0.012700000000000045,0.6491,0.6364
@@ -78,57 +76,52 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-16 03:00:46.790805,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Trelleborgs FF,0.011199999999999995,0.0588,0.0476
 2024-04-16 07:00:39.928573,Play-In Tournament Specials - 2024 Play-In Tournament Specials - Most PPG,Tyrese Maxey (PHI),0.011099999999999999,0.1111,0.1
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Scott Hend,0.0108,0.0141,0.0033
+2024-04-16 13:00:57.080764,NFL Draft - Pick Markets - Draft Picks -  #8 Pick,Joe Alt,0.010700000000000001,0.0385,0.0278
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Jbe Kruger,0.010700000000000001,0.0164,0.0057
+2024-04-16 13:00:57.838060,MLB Futures - MLB 2024 American League Central - American League Central Winner,Cleveland Guardians,0.010699999999999987,0.3333,0.3226
 2024-04-16 03:00:50.944143,Tournament Match-Ups - Tournament Match-Up - M. Homa vs J. Spieth - Tournament Match-Up,Max Homa,0.010699999999999932,0.5455,0.5348
-2024-04-16 01:00:44.305110,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Dmitry Bivol,0.010699999999999932,0.5455,0.5348
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Sarit Suwannarut,0.0103,0.0123,0.002
-2024-04-16 01:00:43.226686,NFL Draft - Props - Draft Match Ups - Penix vs Nix,Bo Nix,-0.010099999999999998,0.4444,0.4545
-2024-04-16 03:00:46.281157,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Paris Saint-Germain,-0.0102,0.0667,0.0769
 2024-04-16 03:00:50.863378,RBC Heritage - RBC Heritage - Winner,Ludvig Aberg,-0.0102,0.0667,0.0769
+2024-04-16 03:00:46.281157,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Paris Saint-Germain,-0.0102,0.0667,0.0769
 2024-04-16 11:01:48.892014,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Shohei Ohtani (LAD),-0.0102,0.0667,0.0769
 2024-04-16 03:00:46.370197,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Sociedad,-0.0103,0.002,0.0123
 2024-04-16 03:00:50.863378,RBC Heritage - RBC Heritage - Winner,Sam Burns,-0.010600000000000002,0.0217,0.0323
-2024-04-16 07:00:41.402800,NFL Draft - Props - Position Props (1st Round) - Total Offensive Players Selected in Round 1,Over 21,-0.010699999999999932,0.5348,0.5455
+2024-04-16 07:00:41.402800,NFL Draft - Props - Position Props (1st Round) - Total Offensive Players Selected in Round 1,Under 21,-0.010699999999999932,0.5348,0.5455
 2024-04-16 07:00:41.383962,NFL Draft - Props - Position Props (1st Round) - Total Defensive Players Selected in Round 1,Over 11,-0.010699999999999932,0.5348,0.5455
 2024-04-16 07:00:41.383962,NFL Draft - Props - Position Props (1st Round) - Total Defensive Players Selected in Round 1,Under 11,-0.010699999999999932,0.5348,0.5455
-2024-04-16 07:00:41.402800,NFL Draft - Props - Position Props (1st Round) - Total Offensive Players Selected in Round 1,Under 21,-0.010699999999999932,0.5348,0.5455
+2024-04-16 07:00:41.402800,NFL Draft - Props - Position Props (1st Round) - Total Offensive Players Selected in Round 1,Over 21,-0.010699999999999932,0.5348,0.5455
 2024-04-16 03:00:46.281157,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Arsenal FC,-0.010899999999999993,0.1429,0.1538
-2024-04-16 01:00:41.943896,Caitlin Clark Specials - Caitlin Clark Specials - Caitlin Clark 2024 Regular Season Specials,To Record 130+ Made Threes in 2024 WNBA Regular Season,-0.01100000000000001,0.5238,0.5348
 2024-04-16 03:00:50.944143,Tournament Match-Ups - Tournament Match-Up - M. Homa vs J. Spieth - Tournament Match-Up,Jordan Spieth,-0.01100000000000001,0.5238,0.5348
-2024-04-16 01:00:44.305110,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,-0.01100000000000001,0.5238,0.5348
-2024-04-16 01:00:40.571438,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Dominic Solanke,-0.011199999999999995,0.0476,0.0588
 2024-04-16 03:00:46.363881,La Liga - Spain La Liga 2023/24 - To Be Relegated,Rayo Vallecano,-0.011199999999999995,0.0476,0.0588
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Steve Lewton,-0.011399999999999997,0.0164,0.0278
-2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Rafael Borre (Internacional),-0.011500000000000003,0.0385,0.05
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,William Harrold,-0.011699999999999999,0.0079,0.0196
 2024-04-16 03:00:46.812051,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Universitario de Deportes,-0.012699999999999989,0.3509,0.3636
 2024-04-16 03:00:46.298552,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Paris Saint-Germain,-0.012899999999999995,0.1538,0.1667
 2024-04-16 11:01:48.892014,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Austin Riley (ATL),-0.0131,0.0345,0.0476
-2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Paulinho (Atletico MG),-0.013899999999999996,0.1111,0.125
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Nitithorn Thippong,-0.0139,0.004,0.0179
 2024-04-16 03:00:50.863378,RBC Heritage - RBC Heritage - Winner,Xander Schauffele,-0.013999999999999999,0.0769,0.0909
-2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Endrick (Palmeiras),-0.014099999999999998,0.0244,0.0385
 2024-04-16 03:00:46.829707,Premier League Futures/Specials - English Premier League 2023/24 - Winner without ''The Big 6'',Newcastle United,-0.014100000000000001,0.0385,0.0526
 2024-04-16 03:00:46.893029,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Brighton & Hove Albion,-0.014199999999999999,0.0152,0.0294
 2024-04-16 05:00:43.959159,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Napoli,-0.014199999999999999,0.0152,0.0294
-2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Deyverson (Cuiaba MT),-0.0145,0.0099,0.0244
 2024-04-16 07:00:42.562430,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs M. Fitzpatrick - Tournament Match-Up,Patrick Cantlay,-0.017299999999999982,0.5744,0.5917
 2024-04-16 03:00:46.865737,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Luton Town,-0.01759999999999995,0.6491,0.6667
 2024-04-16 11:01:48.892014,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Aaron Judge (NYY),-0.018099999999999998,0.0588,0.0769
-2024-04-16 11:01:48.892014,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Jose Altuve (HOU),-0.019099999999999992,0.0476,0.0667
+2024-04-16 13:00:58.096245,RBC Heritage - RBC Heritage - Winner,Scottie Scheffler,-0.01820000000000002,0.1818,0.2
 2024-04-16 11:01:48.892014,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Ozzie Albies (ATL),-0.019099999999999992,0.0476,0.0667
+2024-04-16 11:01:48.892014,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Jose Altuve (HOU),-0.019099999999999992,0.0476,0.0667
 2024-04-16 03:00:50.984927,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs X. Schauffele - Tournament Match-Up,Scottie Scheffler,-0.01959999999999995,0.6774,0.697
-2024-04-16 03:00:46.357064,La Liga - Spain La Liga 2023/24 - Winner,FC Barcelona,-0.0203,0.0385,0.0588
 2024-04-16 03:00:46.858023,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Phil Foden,-0.0203,0.0385,0.0588
+2024-04-16 03:00:46.357064,La Liga - Spain La Liga 2023/24 - Winner,FC Barcelona,-0.0203,0.0385,0.0588
 2024-04-16 03:00:46.363881,La Liga - Spain La Liga 2023/24 - To Be Relegated,Sevilla,-0.022200000000000004,0.0123,0.0345
 2024-04-16 03:00:46.913850,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Burnley,-0.02310000000000001,0.0769,0.1
+2024-04-16 13:00:57.838060,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,-0.023799999999999988,0.3333,0.3571
 2024-04-16 03:00:46.298552,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Manchester City,-0.023800000000000043,0.5,0.5238
-2024-04-16 01:00:40.571438,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Alexander Isak,-0.0242,0.0667,0.0909
 2024-04-16 03:00:50.863378,RBC Heritage - RBC Heritage - Winner,Rory McIlroy,-0.0242,0.0667,0.0909
 2024-04-16 11:01:48.892014,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Ronald Acuna Jr. (ATL),-0.025300000000000003,0.1176,0.1429
-2024-04-16 01:00:41.943896,Caitlin Clark Specials - Caitlin Clark Specials - Caitlin Clark 2024 Regular Season Specials,To Average 22+ Points Per Game In 2024 WNBA Regular Season (Must Play 28+ Regular Season Games),-0.025599999999999956,0.5744,0.6
+2024-04-16 13:00:57.249830,NFL Draft - Player Markets - Team To Draft Player - Brock Bowers,Cincinnati Bengals,-0.025300000000000003,0.1176,0.1429
 2024-04-16 03:00:46.865737,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Nottingham Forest,-0.02560000000000001,0.3077,0.3333
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Gunn Charoenkul,-0.0262,0.0123,0.0385
+2024-04-16 13:00:57.894628,MLB Futures - MLB 2024 National League West - National League West Winner,Los Angeles Dodgers,-0.026700000000000057,0.8824,0.9091
 2024-04-16 11:01:48.892014,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Bobby Witt Jr. (KC),-0.027999999999999997,0.1053,0.1333
 2024-04-16 03:00:46.812051,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Comerciantes Unidos,-0.028000000000000004,0.0196,0.0476
 2024-04-16 03:00:46.893029,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,West Ham United,-0.0283,0.0152,0.0435
@@ -138,15 +131,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-16 03:00:46.906638,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Newcastle United,-0.0294,0.0294,0.0588
 2024-04-16 05:00:43.953034,Serie A - Italy Serie A 2023/24 - To Be Relegated,Udinese,-0.029899999999999982,0.2,0.2299
 2024-04-16 05:00:43.953034,Serie A - Italy Serie A 2023/24 - To Be Relegated,Hellas Verona,-0.030299999999999994,0.3333,0.3636
-2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Pedro Raul (Corinthians),-0.030400000000000003,0.0196,0.05
 2024-04-16 03:00:46.801339,Primera Division - Chile Primera Division 2024 - Futures - Winner,Deportes Iquique,-0.034100000000000005,0.0909,0.125
 2024-04-16 03:00:46.779970,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,IF Elfsborg,-0.03420000000000001,0.0769,0.1111
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Chikkarangappa S,-0.0345,0.004,0.0385
+2024-04-16 13:00:57.849505,MLB Futures - MLB 2024 American League East - American League East Winner,New York Yankees,-0.03480000000000005,0.5,0.5348
 2024-04-16 09:01:38.429842,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,FC Barcelona,-0.03489999999999999,0.4651,0.5
 2024-04-16 03:00:46.298552,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Atlético Madrid,-0.03570000000000001,0.25,0.2857
 2024-04-16 11:01:48.060286,NFL Draft - Props - Position Props (1st Round) - Total Offensive Lineman Selected in Round 1,Under 9.5,-0.03620000000000001,0.4082,0.4444
 2024-04-16 11:01:48.128592,NFL Draft - Pick Markets - Draft Picks -  #2 Pick,Drake Maye,-0.03640000000000004,0.3636,0.4
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Suradit Yongchareonchai,-0.037700000000000004,0.0099,0.0476
+2024-04-16 13:00:57.249830,NFL Draft - Player Markets - Team To Draft Player - Brock Bowers,New York Jets,-0.0378,0.4167,0.4545
 2024-04-16 03:00:46.558434,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Boca Juniors,-0.03889999999999999,0.1429,0.1818
 2024-04-16 11:01:48.218075,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Jayden Daniels / 3. J.J. McCarthy,-0.04099999999999998,0.2667,0.3077
 2024-04-16 09:01:42.906041,Position - Finishing Position - Max Homa - Finishing Position,22nd or worse,-0.04139999999999999,0.5238,0.5652
@@ -162,12 +156,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-16 03:00:46.906638,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Chelsea,-0.052700000000000004,0.0526,0.1053
 2024-04-16 05:00:43.953034,Serie A - Italy Serie A 2023/24 - To Be Relegated,Frosinone,-0.05559999999999998,0.4444,0.5
 2024-04-16 03:00:46.879592,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Arsenal,-0.05590000000000006,0.6364,0.6923
-2024-04-16 01:00:40.571438,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Mohamed Salah,-0.058300000000000005,0.0667,0.125
-2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Jose Lopez (Palmeiras),-0.061500000000000006,0.0385,0.1
 2024-04-16 03:00:46.865737,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Crystal Palace,-0.0617,0.005,0.0667
 2024-04-16 03:00:46.899777,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Brighton & Hove Albion,-0.06520000000000004,0.6491,0.7143
 2024-04-16 03:00:46.913850,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Everton,-0.06600000000000006,0.8571,0.9231
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Veer Ahlawat,-0.06649999999999999,0.0244,0.0909
+2024-04-16 13:00:57.872286,MLB Futures - MLB 2024 National League Central - National League Central Winner,St. Louis Cardinals,-0.06659999999999999,0.2667,0.3333
 2024-04-16 03:00:46.872513,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Burnley,-0.06820000000000001,0.1818,0.25
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Travis Smyth,-0.06999999999999999,0.0476,0.1176
 2024-04-16 09:01:42.918561,Position - Finishing Position - Patrick Cantlay - Finishing Position,17th or worse,-0.07619999999999993,0.5238,0.6
@@ -182,10 +175,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-16 03:00:46.858023,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Heung-Min Son,-0.1049,0.0769,0.1818
 2024-04-16 03:00:46.879592,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Liverpool,-0.11259999999999992,0.5238,0.6364
 2024-04-16 05:00:43.953034,Serie A - Italy Serie A 2023/24 - To Be Relegated,Lecce,-0.11909999999999998,0.0476,0.1667
-2024-04-16 01:00:40.571438,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Erling Braut Haaland,-0.12739999999999996,0.6226,0.75
-2024-04-16 01:00:40.578620,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer - Haaland vs The Field,Erling Haaland,-0.12739999999999996,0.6226,0.75
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Denwit Boriboonsub,-0.1344,0.0323,0.1667
 2024-04-16 03:00:46.893029,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Manchester United,-0.13889999999999997,0.4167,0.5556
 2024-04-16 03:00:46.886549,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Tottenham Hotspur,-0.17099999999999999,0.3846,0.5556
-2024-04-16 01:00:40.596377,Premier League Futures/Specials - English Premier League 2023/24 - Man City vs The Field,Any other team,-0.2081,0.4348,0.6429
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Phachara Khongwatmai,-0.3124,0.0385,0.3509
