@@ -1,9 +1,11 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2024-04-16 01:00:40.596377,Premier League Futures/Specials - English Premier League 2023/24 - Man City vs The Field,Man City,0.25980000000000003,0.7143,0.4545
 2024-04-15 19:00:39.677277,NFL Draft - Team Markets - Team's First Pick - CAR Panthers - Position of 1st Drafted Player in 2024 NFL Draft,Offensive Lineman,0.25129999999999997,0.3846,0.1333
+2024-04-16 01:00:40.571438,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Cole Palmer,0.2381,0.2857,0.0476
 2024-04-15 19:00:39.775772,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2024 NFL Draft,Offensive Lineman,0.16359999999999997,0.3636,0.2
 2024-04-15 17:01:06.780055,Premier League Futures/Specials - English Premier League 2023/24 - Man City Specials,Man City to win the Champions League & Man City to win the FA Cup,0.15910000000000002,0.25,0.0909
 2024-04-15 17:01:06.780055,Premier League Futures/Specials - English Premier League 2023/24 - Man City Specials,"Man City to win the Premier League, Man City to win the Champions League & Man City to win the FA Cup",0.1151,0.1818,0.0667
-2024-04-15 13:00:18.590450,WNBA Draft - 2024 WNBA Draft - 4th Overall Pick,Rickea Jackson,0.11430000000000007,0.7143,0.6
+2024-04-16 01:00:40.578620,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer - Haaland vs The Field,Any Other Player,0.10360000000000003,0.4545,0.3509
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Flamengo,0.0857,0.8,0.7143
 2024-04-15 23:01:16.242085,Superligaen - Denmark Superligaen 2023/2024 - Top 3 Finish,FC Nordsjælland,0.08340000000000003,0.4167,0.3333
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Palmeiras,0.07809999999999995,0.7333,0.6552
@@ -12,89 +14,95 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-15 19:00:39.619033,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,Washington Commanders,0.0695,0.7059,0.6364
 2024-04-15 23:01:16.235305,Superligaen - Denmark Superligaen 2023/2024 - To Be Relegated,Vejle BK,0.0595,0.4762,0.4167
 2024-04-15 19:00:40.344866,Tournament Match-Ups - Tournament Match-Up - R. McIlroy vs L. Aberg - Tournament Match-Up,Ludvig Aberg,0.05860000000000004,0.5348,0.4762
-2024-04-15 13:00:18.573843,WNBA Draft - 2024 WNBA Draft - 2nd Overall Pick,Kamilla Cardoso (South Carolina),0.052300000000000006,0.1111,0.0588
-2024-04-15 13:00:18.581973,WNBA Draft - 2024 WNBA Draft - 3rd Overall Pick,Kamilla Cardoso (South Carolina),0.0504,0.7647,0.7143
+2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Tiquinho Soares (Botafogo),0.0448,0.0833,0.0385
+2024-04-16 01:00:40.571438,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Ollie Watkins,0.04269999999999999,0.1538,0.1111
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Internacional,0.04089999999999999,0.4255,0.3846
 2024-04-15 23:01:16.228241,Superligaen - Denmark Superligaen 2023/2024 - Winner,FC Nordsjælland,0.0398,0.0833,0.0435
-2024-04-15 17:01:06.780055,Premier League Futures/Specials - English Premier League 2023/24 - Man City Specials,Man City to win the Premier League & Man City to win the Champions League,0.03570000000000001,0.2857,0.25
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Corinthians,0.03570000000000001,0.2857,0.25
-2024-04-15 13:00:18.382633,Western Conference - Western Conference 2023-24 - Western Conference Winner,Denver Nuggets,0.033299999999999996,0.4255,0.3922
+2024-04-15 17:01:06.780055,Premier League Futures/Specials - English Premier League 2023/24 - Man City Specials,Man City to win the Premier League & Man City to win the Champions League,0.03570000000000001,0.2857,0.25
+2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Enner Valencia (Internacional),0.03330000000000001,0.1,0.0667
 2024-04-15 23:01:15.942399,Championship - England Championship 2023/24 - To Be Relegated,Huddersfield Town,0.026499999999999968,0.6491,0.6226
-2024-04-15 13:00:20.091568,NFL Draft - Pick Markets - Draft Picks - Top 5 Pick,Joe Alt,0.026100000000000012,0.2,0.1739
 2024-04-15 23:01:17.576246,To Make the Playoffs - Indiana Fever - To Make the 2024 WNBA Playoffs - Indiana Fever - To Make the 2024 WNBA Playoffs,Yes,0.0252,0.7222,0.697
-2024-04-15 13:00:18.418967,CBA - China CBA 2023/24 - Outright,Zhejiang Lions,0.0245,0.0833,0.0588
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Palmeiras,0.023799999999999932,0.8571,0.8333
 2024-04-15 15:00:35.880635,Adelaide - Adelaide - Winner,Bryson DeChambeau,0.02310000000000001,0.1,0.0769
+2024-04-16 01:00:41.943896,Caitlin Clark Specials - Caitlin Clark Specials - Caitlin Clark 2024 Regular Season Specials,To Record 3+ Triple Doubles In the 2024 WNBA Regular Season,0.022199999999999998,0.3448,0.3226
 2024-04-15 19:00:39.387167,NFL Draft - Pick Markets - Draft Picks -  #2 Pick,Jayden Daniels,0.02200000000000002,0.7143,0.6923
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Flamengo,0.021199999999999997,0.9,0.8788
+2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Yuri Alberto (Corinthians),0.0189,0.0385,0.0196
 2024-04-15 15:00:34.723813,NFL Draft - Props - Position Props (1st Round) - Total Wide Receivers Selected in Round 1,Under 6.5,0.018399999999999972,0.7059,0.6875
 2024-04-15 15:00:34.794981,NFL Draft - Pick Markets - Draft Picks -  #7 Pick,Joe Alt,0.018100000000000005,0.5833,0.5652
-2024-04-15 13:00:19.933225,NFL Draft - Props - Position Props (1st Round) - Total Quarterbacks Selected in Round 1,Under 4.5,0.017299999999999982,0.4255,0.4082
-2024-04-15 13:00:19.983907,NFL Draft - Pick Markets - Draft Picks -  #2 Pick,Jayden Daniels,0.014900000000000024,0.6923,0.6774
-2024-04-15 13:00:18.598876,WNBA Draft - 2024 WNBA Draft - 5th Overall Pick,Rickea Jackson,0.014899999999999997,0.0625,0.0476
-2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Fortaleza,0.0131,0.2353,0.2222
+2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Eduardo Sasha (Bragantino),0.015300000000000001,0.0476,0.0323
+2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Junior Santos (Botafogo),0.014099999999999998,0.0385,0.0244
+2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Diego Costa (Gremio),0.014099999999999998,0.0385,0.0244
 2024-04-15 23:01:15.922675,Championship - England Championship 2023/24 - League Winner,Ipswich Town,0.0131,0.2353,0.2222
-2024-04-15 13:00:18.607853,WNBA Draft - 2024 WNBA Draft - 6th Overall Pick,Alissa Pili,0.012600000000000007,0.0714,0.0588
+2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Fortaleza,0.0131,0.2353,0.2222
 2024-04-15 23:01:15.922675,Championship - England Championship 2023/24 - League Winner,Leeds United,0.010899999999999993,0.1538,0.1429
 2024-04-15 23:01:17.563585,Regular Season Wins O/U - Indiana Fever - 2024 Regular Season Wins - Indiana Fever - 2024 Regular Season Wins,Over 21.5,0.010699999999999932,0.5455,0.5348
+2024-04-16 01:00:44.305110,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Dmitry Bivol,0.010699999999999932,0.5455,0.5348
 2024-04-15 21:01:43.738992,Adelaide - Adelaide - Winner,Talor Gooch,0.0102,0.0769,0.0667
+2024-04-16 01:00:43.226686,NFL Draft - Props - Draft Match Ups - Penix vs Nix,Bo Nix,-0.010099999999999998,0.4444,0.4545
 2024-04-15 23:01:17.563585,Regular Season Wins O/U - Indiana Fever - 2024 Regular Season Wins - Indiana Fever - 2024 Regular Season Wins,Under 21.5,-0.01100000000000001,0.5238,0.5348
+2024-04-16 01:00:44.305110,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,-0.01100000000000001,0.5238,0.5348
+2024-04-16 01:00:41.943896,Caitlin Clark Specials - Caitlin Clark Specials - Caitlin Clark 2024 Regular Season Specials,To Record 130+ Made Threes in 2024 WNBA Regular Season,-0.01100000000000001,0.5238,0.5348
 2024-04-15 19:00:37.911637,WNBA Awards - WNBA Regular Season MVP 2024 - WNBA Regular Season MVP 2024,Alyssa Thomas (CON),-0.011099999999999999,0.1,0.1111
+2024-04-16 01:00:40.571438,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Dominic Solanke,-0.011199999999999995,0.0476,0.0588
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Vitória BA,-0.011500000000000003,0.0385,0.05
+2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Rafael Borre (Internacional),-0.011500000000000003,0.0385,0.05
 2024-04-15 23:01:16.235305,Superligaen - Denmark Superligaen 2023/2024 - To Be Relegated,Odense,-0.011899999999999994,0.2381,0.25
-2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Corinthians,-0.012899999999999995,0.1538,0.1667
 2024-04-15 15:00:34.794981,NFL Draft - Pick Markets - Draft Picks -  #7 Pick,Rome Odunze,-0.012899999999999995,0.1538,0.1667
+2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Corinthians,-0.012899999999999995,0.1538,0.1667
+2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Paulinho (Atletico MG),-0.013899999999999996,0.1111,0.125
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Atlético Goianiense,-0.014099999999999998,0.0294,0.0435
+2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Endrick (Palmeiras),-0.014099999999999998,0.0244,0.0385
+2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Deyverson (Cuiaba MT),-0.0145,0.0099,0.0244
 2024-04-15 15:00:34.723813,NFL Draft - Props - Position Props (1st Round) - Total Wide Receivers Selected in Round 1,Over 6.5,-0.01479999999999998,0.3774,0.3922
 2024-04-15 19:00:37.911637,WNBA Awards - WNBA Regular Season MVP 2024 - WNBA Regular Season MVP 2024,Breanna Stewart (NYL),-0.015100000000000002,0.1667,0.1818
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Fortaleza,-0.015700000000000006,0.1176,0.1333
-2024-04-15 19:00:38.079279,NBA Specials - Who Will Average the Most Points Per Game in the First Round of the NBA Playoffs - Proposition,Kevin Durant (PHX),-0.016600000000000004,0.0667,0.0833
 2024-04-15 19:00:38.079279,NBA Specials - Who Will Average the Most Points Per Game in the First Round of the NBA Playoffs - Proposition,Devin Booker (PHX),-0.016600000000000004,0.0667,0.0833
-2024-04-15 13:00:19.983907,NFL Draft - Pick Markets - Draft Picks -  #2 Pick,Drake Maye,-0.016699999999999993,0.4,0.4167
+2024-04-15 19:00:38.079279,NBA Specials - Who Will Average the Most Points Per Game in the First Round of the NBA Playoffs - Proposition,Kevin Durant (PHX),-0.016600000000000004,0.0667,0.0833
 2024-04-15 19:00:37.900982,WNBA Championship - WNBA Championship 2024 - Outright Winner,New York Liberty,-0.017299999999999982,0.2857,0.303
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Atlético Goianiense,-0.018099999999999998,0.0588,0.0769
 2024-04-15 23:01:16.228241,Superligaen - Denmark Superligaen 2023/2024 - Winner,FC Midtjylland,-0.018100000000000005,0.4167,0.4348
-2024-04-15 13:00:18.418967,CBA - China CBA 2023/24 - Outright,Zhejiang Golden Bulls,-0.01820000000000002,0.1818,0.2
 2024-04-15 23:01:16.242085,Superligaen - Denmark Superligaen 2023/2024 - Top 3 Finish,FC Midtjylland,-0.01849999999999996,0.9524,0.9709
 2024-04-15 23:01:16.242085,Superligaen - Denmark Superligaen 2023/2024 - Top 3 Finish,Brøndby IF,-0.01849999999999996,0.9524,0.9709
-2024-04-15 13:00:19.933225,NFL Draft - Props - Position Props (1st Round) - Total Quarterbacks Selected in Round 1,Over 4.5,-0.01880000000000004,0.6364,0.6552
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Criciúma SC,-0.0189,0.0196,0.0385
 2024-04-15 23:01:16.228241,Superligaen - Denmark Superligaen 2023/2024 - Winner,Brøndby IF,-0.018900000000000028,0.4255,0.4444
-2024-04-15 13:00:18.607853,WNBA Draft - 2024 WNBA Draft - 6th Overall Pick,Charisma Osborne,-0.01949999999999999,0.0714,0.0909
-2024-04-15 13:00:18.607853,WNBA Draft - 2024 WNBA Draft - 6th Overall Pick,Leïla Lacan,-0.01949999999999999,0.0714,0.0909
-2024-04-15 13:00:18.573843,WNBA Draft - 2024 WNBA Draft - 2nd Overall Pick,Rickea Jackson,-0.0203,0.0385,0.0588
-2024-04-15 13:00:18.418967,CBA - China CBA 2023/24 - Outright,Liaoning,-0.021699999999999997,0.4545,0.4762
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Vitória BA,-0.02310000000000001,0.0769,0.1
 2024-04-15 23:01:16.235305,Superligaen - Denmark Superligaen 2023/2024 - To Be Relegated,Viborg FF,-0.0232,0.0435,0.0667
+2024-04-16 01:00:40.571438,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Alexander Isak,-0.0242,0.0667,0.0909
+2024-04-16 01:00:41.943896,Caitlin Clark Specials - Caitlin Clark Specials - Caitlin Clark 2024 Regular Season Specials,To Average 22+ Points Per Game In 2024 WNBA Regular Season (Must Play 28+ Regular Season Games),-0.025599999999999956,0.5744,0.6
 2024-04-15 23:01:15.942399,Championship - England Championship 2023/24 - To Be Relegated,Birmingham City,-0.026500000000000024,0.3509,0.3774
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,RB Bragantino,-0.02779999999999999,0.25,0.2778
 2024-04-15 23:01:16.235305,Superligaen - Denmark Superligaen 2023/2024 - To Be Relegated,Randers,-0.028000000000000004,0.0196,0.0476
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Criciúma SC,-0.028199999999999996,0.0385,0.0667
+2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Pedro Raul (Corinthians),-0.030400000000000003,0.0196,0.05
 2024-04-15 23:01:17.576246,To Make the Playoffs - Indiana Fever - To Make the 2024 WNBA Playoffs - Indiana Fever - To Make the 2024 WNBA Playoffs,No,-0.031399999999999983,0.339,0.3704
 2024-04-15 23:01:16.242085,Superligaen - Denmark Superligaen 2023/2024 - Top 3 Finish,FC Copenhagen,-0.03180000000000005,0.8571,0.8889
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,RB Bragantino,-0.033399999999999985,0.1333,0.1667
 2024-04-15 19:00:38.079279,NBA Specials - Who Will Average the Most Points Per Game in the First Round of the NBA Playoffs - Proposition,Giannis Antetokounmpo (MIL),-0.033399999999999985,0.1333,0.1667
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Cruzeiro MG,-0.034100000000000005,0.0909,0.125
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Athletico Paranaense,-0.034100000000000005,0.0909,0.125
-2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Cruzeiro MG,-0.04040000000000002,0.1818,0.2222
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Athletico Paranaense,-0.04040000000000002,0.1818,0.2222
-2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Vasco da Gama,-0.04169999999999999,0.125,0.1667
+2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Cruzeiro MG,-0.04040000000000002,0.1818,0.2222
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Bahia,-0.04169999999999999,0.125,0.1667
+2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Vasco da Gama,-0.04169999999999999,0.125,0.1667
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Bahia,-0.04249999999999998,0.2353,0.2778
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Grêmio,-0.04910000000000003,0.3509,0.4
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Grêmio,-0.04999999999999999,0.2,0.25
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Vasco da Gama,-0.0504,0.2353,0.2857
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Cuiabá,-0.052399999999999995,0.0385,0.0909
-2024-04-15 13:00:18.590450,WNBA Draft - 2024 WNBA Draft - 4th Overall Pick,Aaliyah Edwards (Connecticut),-0.055099999999999996,0.0625,0.1176
 2024-04-15 19:00:40.344866,Tournament Match-Ups - Tournament Match-Up - R. McIlroy vs L. Aberg - Tournament Match-Up,Rory McIlroy,-0.05689999999999995,0.5348,0.5917
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Botafogo,-0.05710000000000001,0.1429,0.2
+2024-04-16 01:00:40.571438,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Mohamed Salah,-0.058300000000000005,0.0667,0.125
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Atlético Mineiro,-0.059599999999999986,0.6923,0.7519
+2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Jose Lopez (Palmeiras),-0.061500000000000006,0.0385,0.1
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Fluminense,-0.08030000000000004,0.4545,0.5348
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Atlético Mineiro,-0.08330000000000004,0.5,0.5833
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Cuiabá,-0.08979999999999999,0.0769,0.1667
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,São Paulo,-0.09029999999999999,0.2222,0.3125
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Fluminense,-0.09889999999999999,0.2857,0.3846
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,São Paulo,-0.11260000000000003,0.3636,0.4762
+2024-04-16 01:00:40.578620,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer - Haaland vs The Field,Erling Haaland,-0.12739999999999996,0.6226,0.75
+2024-04-16 01:00:40.571438,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Erling Braut Haaland,-0.12739999999999996,0.6226,0.75
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Botafogo,-0.13330000000000003,0.2667,0.4
-2024-04-15 13:00:18.590450,WNBA Draft - 2024 WNBA Draft - 4th Overall Pick,Kamilla Cardoso (South Carolina),-0.13480000000000003,0.4,0.5348
-2024-04-15 13:00:18.581973,WNBA Draft - 2024 WNBA Draft - 3rd Overall Pick,Rickea Jackson,-0.14290000000000003,0.3333,0.4762
+2024-04-16 01:00:40.596377,Premier League Futures/Specials - English Premier League 2023/24 - Man City vs The Field,Any other team,-0.2081,0.4348,0.6429
