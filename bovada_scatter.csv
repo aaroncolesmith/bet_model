@@ -8,6 +8,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-15 19:00:39.775772,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2024 NFL Draft,Offensive Lineman,0.16359999999999997,0.3636,0.2
 2024-04-15 17:01:06.780055,Premier League Futures/Specials - English Premier League 2023/24 - Man City Specials,Man City to win the Champions League & Man City to win the FA Cup,0.15910000000000002,0.25,0.0909
 2024-04-16 03:00:46.879592,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Manchester City,0.13890000000000002,0.8889,0.75
+2024-04-16 05:00:43.953034,Serie A - Italy Serie A 2023/24 - To Be Relegated,Empoli,0.13670000000000004,0.4444,0.3077
+2024-04-16 05:00:43.953034,Serie A - Italy Serie A 2023/24 - To Be Relegated,Sassuolo,0.13,0.5744,0.4444
 2024-04-16 03:00:46.899777,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Fulham,0.12310000000000001,0.2,0.0769
 2024-04-16 03:00:46.858023,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Alexander Isak,0.1222,0.2222,0.1
 2024-04-15 17:01:06.780055,Premier League Futures/Specials - English Premier League 2023/24 - Man City Specials,"Man City to win the Premier League, Man City to win the Champions League & Man City to win the FA Cup",0.1151,0.1818,0.0667
@@ -35,10 +37,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Internacional,0.04089999999999999,0.4255,0.3846
 2024-04-15 23:01:16.228241,Superligaen - Denmark Superligaen 2023/2024 - Winner,FC Nordsjælland,0.0398,0.0833,0.0435
 2024-04-16 03:00:46.872513,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Sheffield United,0.038899999999999935,0.8571,0.8182
-2024-04-15 17:01:06.780055,Premier League Futures/Specials - English Premier League 2023/24 - Man City Specials,Man City to win the Premier League & Man City to win the Champions League,0.03570000000000001,0.2857,0.25
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Corinthians,0.03570000000000001,0.2857,0.25
+2024-04-15 17:01:06.780055,Premier League Futures/Specials - English Premier League 2023/24 - Man City Specials,Man City to win the Premier League & Man City to win the Champions League,0.03570000000000001,0.2857,0.25
 2024-04-16 03:00:46.801339,Primera Division - Chile Primera Division 2024 - Futures - Winner,Palestino,0.034100000000000005,0.125,0.0909
 2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Enner Valencia (Internacional),0.03330000000000001,0.1,0.0667
+2024-04-16 05:00:43.959159,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Bologna,0.03179999999999994,0.5556,0.5238
 2024-04-16 03:00:46.558434,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Barracas Central,0.029299999999999993,0.0769,0.0476
 2024-04-16 03:00:46.836347,Premier League Futures/Specials - English Premier League 2023/24 - Winner without Manchester City,Arsenal,0.028900000000000037,0.5744,0.5455
 2024-04-16 03:00:46.899777,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Chelsea,0.028000000000000025,0.9804,0.9524
@@ -56,6 +59,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-16 03:00:46.558434,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,River Plate,0.020100000000000007,0.25,0.2299
 2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Yuri Alberto (Corinthians),0.0189,0.0385,0.0196
 2024-04-16 03:00:46.893029,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Chelsea,0.01820000000000002,0.2,0.1818
+2024-04-16 05:00:43.959159,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Atalanta,0.01820000000000002,0.2,0.1818
 2024-04-16 03:00:46.801339,Primera Division - Chile Primera Division 2024 - Futures - Winner,Unión Española,0.018099999999999998,0.0769,0.0588
 2024-04-16 03:00:46.281157,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,FC Barcelona,0.0179,0.1429,0.125
 2024-04-16 03:00:46.913850,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Nottingham Forest,0.016700000000000048,0.75,0.7333
@@ -68,23 +72,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-15 23:01:15.922675,Championship - England Championship 2023/24 - League Winner,Ipswich Town,0.0131,0.2353,0.2222
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Fortaleza,0.0131,0.2353,0.2222
 2024-04-16 03:00:46.779970,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,Djurgårdens IF,0.012899999999999995,0.1667,0.1538
-2024-04-16 03:00:46.801339,Primera Division - Chile Primera Division 2024 - Futures - Winner,Cobreloa Calama,0.011199999999999995,0.0588,0.0476
 2024-04-16 03:00:46.790805,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Trelleborgs FF,0.011199999999999995,0.0588,0.0476
+2024-04-16 03:00:46.801339,Primera Division - Chile Primera Division 2024 - Futures - Winner,Cobreloa Calama,0.011199999999999995,0.0588,0.0476
 2024-04-15 23:01:15.922675,Championship - England Championship 2023/24 - League Winner,Leeds United,0.010899999999999993,0.1538,0.1429
-2024-04-16 01:00:44.305110,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Dmitry Bivol,0.010699999999999932,0.5455,0.5348
-2024-04-16 03:00:50.944143,Tournament Match-Ups - Tournament Match-Up - M. Homa vs J. Spieth - Tournament Match-Up,Max Homa,0.010699999999999932,0.5455,0.5348
 2024-04-15 23:01:17.563585,Regular Season Wins O/U - Indiana Fever - 2024 Regular Season Wins - Indiana Fever - 2024 Regular Season Wins,Over 21.5,0.010699999999999932,0.5455,0.5348
+2024-04-16 03:00:50.944143,Tournament Match-Ups - Tournament Match-Up - M. Homa vs J. Spieth - Tournament Match-Up,Max Homa,0.010699999999999932,0.5455,0.5348
+2024-04-16 01:00:44.305110,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Dmitry Bivol,0.010699999999999932,0.5455,0.5348
 2024-04-15 21:01:43.738992,Adelaide - Adelaide - Winner,Talor Gooch,0.0102,0.0769,0.0667
 2024-04-16 01:00:43.226686,NFL Draft - Props - Draft Match Ups - Penix vs Nix,Bo Nix,-0.010099999999999998,0.4444,0.4545
-2024-04-16 03:00:46.281157,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Paris Saint-Germain,-0.0102,0.0667,0.0769
 2024-04-16 03:00:50.863378,RBC Heritage - RBC Heritage - Winner,Ludvig Aberg,-0.0102,0.0667,0.0769
+2024-04-16 03:00:46.281157,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Paris Saint-Germain,-0.0102,0.0667,0.0769
 2024-04-16 03:00:46.370197,La Liga - Spain La Liga 2023/24 - Top 4 Finish,Real Sociedad,-0.0103,0.002,0.0123
 2024-04-16 03:00:50.863378,RBC Heritage - RBC Heritage - Winner,Sam Burns,-0.010600000000000002,0.0217,0.0323
 2024-04-16 03:00:46.281157,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Arsenal FC,-0.010899999999999993,0.1429,0.1538
-2024-04-16 01:00:44.305110,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,-0.01100000000000001,0.5238,0.5348
-2024-04-16 03:00:50.944143,Tournament Match-Ups - Tournament Match-Up - M. Homa vs J. Spieth - Tournament Match-Up,Jordan Spieth,-0.01100000000000001,0.5238,0.5348
 2024-04-15 23:01:17.563585,Regular Season Wins O/U - Indiana Fever - 2024 Regular Season Wins - Indiana Fever - 2024 Regular Season Wins,Under 21.5,-0.01100000000000001,0.5238,0.5348
+2024-04-16 01:00:44.305110,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,-0.01100000000000001,0.5238,0.5348
 2024-04-16 01:00:41.943896,Caitlin Clark Specials - Caitlin Clark Specials - Caitlin Clark 2024 Regular Season Specials,To Record 130+ Made Threes in 2024 WNBA Regular Season,-0.01100000000000001,0.5238,0.5348
+2024-04-16 03:00:50.944143,Tournament Match-Ups - Tournament Match-Up - M. Homa vs J. Spieth - Tournament Match-Up,Jordan Spieth,-0.01100000000000001,0.5238,0.5348
 2024-04-15 19:00:37.911637,WNBA Awards - WNBA Regular Season MVP 2024 - WNBA Regular Season MVP 2024,Alyssa Thomas (CON),-0.011099999999999999,0.1,0.1111
 2024-04-16 03:00:46.363881,La Liga - Spain La Liga 2023/24 - To Be Relegated,Rayo Vallecano,-0.011199999999999995,0.0476,0.0588
 2024-04-16 01:00:40.571438,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Dominic Solanke,-0.011199999999999995,0.0476,0.0588
@@ -99,12 +103,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Endrick (Palmeiras),-0.014099999999999998,0.0244,0.0385
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Atlético Goianiense,-0.014099999999999998,0.0294,0.0435
 2024-04-16 03:00:46.829707,Premier League Futures/Specials - English Premier League 2023/24 - Winner without ''The Big 6'',Newcastle United,-0.014100000000000001,0.0385,0.0526
+2024-04-16 05:00:43.959159,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Napoli,-0.014199999999999999,0.0152,0.0294
 2024-04-16 03:00:46.893029,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Brighton & Hove Albion,-0.014199999999999999,0.0152,0.0294
 2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Deyverson (Cuiaba MT),-0.0145,0.0099,0.0244
 2024-04-15 19:00:37.911637,WNBA Awards - WNBA Regular Season MVP 2024 - WNBA Regular Season MVP 2024,Breanna Stewart (NYL),-0.015100000000000002,0.1667,0.1818
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Fortaleza,-0.015700000000000006,0.1176,0.1333
-2024-04-15 19:00:38.079279,NBA Specials - Who Will Average the Most Points Per Game in the First Round of the NBA Playoffs - Proposition,Devin Booker (PHX),-0.016600000000000004,0.0667,0.0833
 2024-04-15 19:00:38.079279,NBA Specials - Who Will Average the Most Points Per Game in the First Round of the NBA Playoffs - Proposition,Kevin Durant (PHX),-0.016600000000000004,0.0667,0.0833
+2024-04-15 19:00:38.079279,NBA Specials - Who Will Average the Most Points Per Game in the First Round of the NBA Playoffs - Proposition,Devin Booker (PHX),-0.016600000000000004,0.0667,0.0833
 2024-04-15 19:00:37.900982,WNBA Championship - WNBA Championship 2024 - Outright Winner,New York Liberty,-0.017299999999999982,0.2857,0.303
 2024-04-16 03:00:46.865737,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Luton Town,-0.01759999999999995,0.6491,0.6667
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Atlético Goianiense,-0.018099999999999998,0.0588,0.0769
@@ -114,31 +119,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Criciúma SC,-0.0189,0.0196,0.0385
 2024-04-15 23:01:16.228241,Superligaen - Denmark Superligaen 2023/2024 - Winner,Brøndby IF,-0.018900000000000028,0.4255,0.4444
 2024-04-16 03:00:50.984927,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs X. Schauffele - Tournament Match-Up,Scottie Scheffler,-0.01959999999999995,0.6774,0.697
-2024-04-16 03:00:46.357064,La Liga - Spain La Liga 2023/24 - Winner,FC Barcelona,-0.0203,0.0385,0.0588
 2024-04-16 03:00:46.858023,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Phil Foden,-0.0203,0.0385,0.0588
+2024-04-16 03:00:46.357064,La Liga - Spain La Liga 2023/24 - Winner,FC Barcelona,-0.0203,0.0385,0.0588
 2024-04-16 03:00:46.363881,La Liga - Spain La Liga 2023/24 - To Be Relegated,Sevilla,-0.022200000000000004,0.0123,0.0345
-2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Vitória BA,-0.02310000000000001,0.0769,0.1
 2024-04-16 03:00:46.913850,Premier League Futures/Specials - English Premier League 2023/24 - To Stay Up,Burnley,-0.02310000000000001,0.0769,0.1
+2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Vitória BA,-0.02310000000000001,0.0769,0.1
 2024-04-15 23:01:16.235305,Superligaen - Denmark Superligaen 2023/2024 - To Be Relegated,Viborg FF,-0.0232,0.0435,0.0667
 2024-04-16 03:00:46.298552,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Manchester City,-0.023800000000000043,0.5,0.5238
-2024-04-16 01:00:40.571438,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Alexander Isak,-0.0242,0.0667,0.0909
 2024-04-16 03:00:50.863378,RBC Heritage - RBC Heritage - Winner,Rory McIlroy,-0.0242,0.0667,0.0909
+2024-04-16 01:00:40.571438,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Alexander Isak,-0.0242,0.0667,0.0909
 2024-04-16 01:00:41.943896,Caitlin Clark Specials - Caitlin Clark Specials - Caitlin Clark 2024 Regular Season Specials,To Average 22+ Points Per Game In 2024 WNBA Regular Season (Must Play 28+ Regular Season Games),-0.025599999999999956,0.5744,0.6
 2024-04-16 03:00:46.865737,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Nottingham Forest,-0.02560000000000001,0.3077,0.3333
 2024-04-15 23:01:15.942399,Championship - England Championship 2023/24 - To Be Relegated,Birmingham City,-0.026500000000000024,0.3509,0.3774
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,RB Bragantino,-0.02779999999999999,0.25,0.2778
-2024-04-16 03:00:46.812051,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Comerciantes Unidos,-0.028000000000000004,0.0196,0.0476
 2024-04-15 23:01:16.235305,Superligaen - Denmark Superligaen 2023/2024 - To Be Relegated,Randers,-0.028000000000000004,0.0196,0.0476
+2024-04-16 03:00:46.812051,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Comerciantes Unidos,-0.028000000000000004,0.0196,0.0476
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Criciúma SC,-0.028199999999999996,0.0385,0.0667
 2024-04-16 03:00:46.893029,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,West Ham United,-0.0283,0.0152,0.0435
 2024-04-16 03:00:46.858023,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Dominic Solanke,-0.028799999999999992,0.125,0.1538
 2024-04-16 03:00:46.801339,Primera Division - Chile Primera Division 2024 - Futures - Winner,Everton Viña del Mar,-0.029299999999999993,0.0476,0.0769
 2024-04-16 03:00:46.906638,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Newcastle United,-0.0294,0.0294,0.0588
+2024-04-16 05:00:43.953034,Serie A - Italy Serie A 2023/24 - To Be Relegated,Udinese,-0.029899999999999982,0.2,0.2299
+2024-04-16 05:00:43.953034,Serie A - Italy Serie A 2023/24 - To Be Relegated,Hellas Verona,-0.030299999999999994,0.3333,0.3636
 2024-04-16 01:00:40.288328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Pedro Raul (Corinthians),-0.030400000000000003,0.0196,0.05
 2024-04-15 23:01:17.576246,To Make the Playoffs - Indiana Fever - To Make the 2024 WNBA Playoffs - Indiana Fever - To Make the 2024 WNBA Playoffs,No,-0.031399999999999983,0.339,0.3704
 2024-04-15 23:01:16.242085,Superligaen - Denmark Superligaen 2023/2024 - Top 3 Finish,FC Copenhagen,-0.03180000000000005,0.8571,0.8889
-2024-04-15 19:00:38.079279,NBA Specials - Who Will Average the Most Points Per Game in the First Round of the NBA Playoffs - Proposition,Giannis Antetokounmpo (MIL),-0.033399999999999985,0.1333,0.1667
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,RB Bragantino,-0.033399999999999985,0.1333,0.1667
+2024-04-15 19:00:38.079279,NBA Specials - Who Will Average the Most Points Per Game in the First Round of the NBA Playoffs - Proposition,Giannis Antetokounmpo (MIL),-0.033399999999999985,0.1333,0.1667
 2024-04-16 03:00:46.801339,Primera Division - Chile Primera Division 2024 - Futures - Winner,Deportes Iquique,-0.034100000000000005,0.0909,0.125
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Cruzeiro MG,-0.034100000000000005,0.0909,0.125
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Athletico Paranaense,-0.034100000000000005,0.0909,0.125
@@ -147,13 +154,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-16 03:00:46.558434,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Boca Juniors,-0.03889999999999999,0.1429,0.1818
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Athletico Paranaense,-0.04040000000000002,0.1818,0.2222
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Cruzeiro MG,-0.04040000000000002,0.1818,0.2222
-2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Vasco da Gama,-0.04169999999999999,0.125,0.1667
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Bahia,-0.04169999999999999,0.125,0.1667
+2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Vasco da Gama,-0.04169999999999999,0.125,0.1667
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Bahia,-0.04249999999999998,0.2353,0.2778
+2024-04-16 05:00:43.959159,Serie A - Italy Serie A 2023/24 - Top 4 Finish,AS Roma,-0.044399999999999995,0.4,0.4444
 2024-04-16 03:00:46.858023,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Darwin Nunez,-0.047099999999999996,0.0196,0.0667
 2024-04-16 03:00:46.858023,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Bukayo Saka,-0.0475,0.0294,0.0769
 2024-04-16 03:00:46.899777,Premier League Futures/Specials - English Premier League 2023/24 - Top 10 Finish,Wolverhampton Wanderers,-0.047599999999999976,0.2857,0.3333
 2024-04-16 03:00:46.836347,Premier League Futures/Specials - English Premier League 2023/24 - Winner without Manchester City,Liverpool,-0.04760000000000003,0.4762,0.5238
+2024-04-16 05:00:43.953034,Serie A - Italy Serie A 2023/24 - To Be Relegated,Cagliari,-0.04849999999999999,0.1333,0.1818
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Grêmio,-0.04910000000000003,0.3509,0.4
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Grêmio,-0.04999999999999999,0.2,0.25
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Vasco da Gama,-0.0504,0.2353,0.2857
@@ -161,6 +170,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-16 03:00:46.779970,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,BK Häcken,-0.052300000000000006,0.0588,0.1111
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Cuiabá,-0.052399999999999995,0.0385,0.0909
 2024-04-16 03:00:46.906638,Premier League Futures/Specials - English Premier League 2023/24 - Bottom 10 Finish,Chelsea,-0.052700000000000004,0.0526,0.1053
+2024-04-16 05:00:43.953034,Serie A - Italy Serie A 2023/24 - To Be Relegated,Frosinone,-0.05559999999999998,0.4444,0.5
 2024-04-16 03:00:46.879592,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Arsenal,-0.05590000000000006,0.6364,0.6923
 2024-04-15 19:00:40.344866,Tournament Match-Ups - Tournament Match-Up - R. McIlroy vs L. Aberg - Tournament Match-Up,Rory McIlroy,-0.05689999999999995,0.5348,0.5917
 2024-04-15 23:01:15.972587,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Botafogo,-0.05710000000000001,0.1429,0.2
@@ -185,8 +195,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-16 03:00:46.858023,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Heung-Min Son,-0.1049,0.0769,0.1818
 2024-04-16 03:00:46.879592,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Liverpool,-0.11259999999999992,0.5238,0.6364
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,São Paulo,-0.11260000000000003,0.3636,0.4762
-2024-04-16 01:00:40.571438,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Erling Braut Haaland,-0.12739999999999996,0.6226,0.75
+2024-04-16 05:00:43.953034,Serie A - Italy Serie A 2023/24 - To Be Relegated,Lecce,-0.11909999999999998,0.0476,0.1667
 2024-04-16 01:00:40.578620,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer - Haaland vs The Field,Erling Haaland,-0.12739999999999996,0.6226,0.75
+2024-04-16 01:00:40.571438,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Erling Braut Haaland,-0.12739999999999996,0.6226,0.75
 2024-04-15 23:01:15.978809,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Botafogo,-0.13330000000000003,0.2667,0.4
 2024-04-16 03:00:46.893029,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Manchester United,-0.13889999999999997,0.4167,0.5556
 2024-04-16 03:00:46.886549,Premier League Futures/Specials - English Premier League 2023/24 - Top 4 Finish,Tottenham Hotspur,-0.17099999999999999,0.3846,0.5556
