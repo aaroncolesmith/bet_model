@@ -18,20 +18,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-16 13:00:57.112308,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Jayden Daniels / 3. Drake Maye,0.05740000000000001,0.6226,0.5652
 2024-04-16 15:01:15.296622,Position - Finishing Position - Max Homa - Finishing Position,21st or better,0.05449999999999999,0.6,0.5455
 2024-04-16 15:01:15.383214,Position - Finishing Position - Wyndham Clark - Finishing Position,24th or worse,0.05300000000000005,0.5652,0.5122
-2024-04-16 07:00:39.928573,Play-In Tournament Specials - 2024 Play-In Tournament Specials - Most PPG,DeMar DeRozan (CHI),0.052399999999999995,0.0909,0.0385
 2024-04-16 15:01:12.565608,Play-In Tournament Specials - 2024 Play-In Tournament Specials - Total Triple-Doubles,Under 1.5,0.051100000000000034,0.6875,0.6364
 2024-04-16 13:00:57.872286,MLB Futures - MLB 2024 National League Central - National League Central Winner,Chicago Cubs,0.04780000000000001,0.3704,0.3226
 2024-04-16 17:01:13.718088,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,LSU (W),0.047400000000000005,0.1,0.0526
 2024-04-16 09:01:42.906041,Position - Finishing Position - Max Homa - Finishing Position,21st or better,0.045499999999999985,0.5455,0.5
 2024-04-16 17:01:13.718088,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,South Carolina (W),0.04460000000000003,0.4082,0.3636
-2024-04-16 15:01:15.357026,Position - Finishing Position - Tommy Fleetwood - Finishing Position,18th or better,0.04139999999999999,0.5652,0.5238
 2024-04-16 15:01:15.345029,Position - Finishing Position - Si Woo Kim - Finishing Position,22nd or better,0.04139999999999999,0.5652,0.5238
-2024-04-16 15:01:15.368945,Position - Finishing Position - Will Zalatoris - Finishing Position,22nd or worse,0.04139999999999999,0.5652,0.5238
 2024-04-16 15:01:15.332992,Position - Finishing Position - Scottie Scheffler - Finishing Position,5th or better,0.04139999999999999,0.5652,0.5238
+2024-04-16 15:01:15.368945,Position - Finishing Position - Will Zalatoris - Finishing Position,22nd or worse,0.04139999999999999,0.5652,0.5238
+2024-04-16 15:01:15.357026,Position - Finishing Position - Tommy Fleetwood - Finishing Position,18th or better,0.04139999999999999,0.5652,0.5238
 2024-04-16 15:01:12.737562,Caitlin Clark Specials - Caitlin Clark Specials - Caitlin Clark 2024 Regular Season Specials,To Record 10+ Made Threes In Any 2024 WNBA Regular Season Game,0.0384,0.0769,0.0385
 2024-04-16 15:01:12.627154,NBA Specials - NBA Post Season Awards -  2024 NBA Finals MVP,Joel Embiid (PHI),0.0374,0.0526,0.0152
 2024-04-16 15:01:12.627154,NBA Specials - NBA Post Season Awards -  2024 NBA Finals MVP,Luka Doncic (DAL),0.036199999999999996,0.0526,0.0164
 2024-04-16 15:01:15.395325,Position - Finishing Position - Xander Schauffele - Finishing Position ,13th or better,0.03610000000000002,0.5917,0.5556
+2024-04-16 19:00:56.720088,Position - Finishing Position - Xander Schauffele - Finishing Position ,14th or worse,0.035999999999999976,0.5122,0.4762
 2024-04-16 15:01:12.644144,NBA Specials - NBA Post Season Awards - 2024 NBA Western Conference Finals MVP,Anthony Edwards (MIN),0.03439999999999999,0.0667,0.0323
 2024-04-16 15:01:12.635770,NBA Specials - NBA Post Season Awards - 2024 NBA Eastern Conference Finals MVP,Jalen Brunson (NYK),0.0334,0.0769,0.0435
 2024-04-16 11:01:48.060286,NFL Draft - Props - Position Props (1st Round) - Total Offensive Lineman Selected in Round 1,Over 9.5,0.03259999999999996,0.6552,0.6226
@@ -39,71 +39,67 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-16 15:01:12.510672,Super Ligi - Turkey BSL 2023/24 - Outright,Anadolu Efes,0.031799999999999995,0.4762,0.4444
 2024-04-16 11:01:48.892014,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Corbin Carroll (ARIZ),0.030699999999999998,0.0833,0.0526
 2024-04-16 15:01:15.234949,Position - Finishing Position - Cameron Young - Finishing Position,22nd or worse,0.030399999999999983,0.5652,0.5348
-2024-04-16 15:01:15.272352,Position - Finishing Position - Ludvig Aberg - Finishing Position,14th or better,0.028900000000000037,0.5744,0.5455
 2024-04-16 15:01:15.284849,Position - Finishing Position - Matt Fitzpatrick - Finishing Position,21st or better,0.028900000000000037,0.5744,0.5455
-2024-04-16 07:00:41.493798,NFL Draft - Pick Markets - Draft Picks -  #5 Pick,Joe Alt,0.028700000000000003,0.2105,0.1818
+2024-04-16 15:01:15.272352,Position - Finishing Position - Ludvig Aberg - Finishing Position,14th or better,0.028900000000000037,0.5744,0.5455
 2024-04-16 15:01:15.015578,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Grayson Rodriguez (BAL),0.028399999999999995,0.0909,0.0625
 2024-04-16 11:01:48.892014,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Ketel Marte (ARIZ),0.028199999999999996,0.0667,0.0385
-2024-04-16 15:01:12.421276,To Make the Playoffs - Philadelphia 76ers - To Make the 2023-24 Playoffs,No,0.027999999999999997,0.1333,0.1053
 2024-04-16 09:01:38.429842,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Paris Saint-Germain,0.027999999999999997,0.1818,0.1538
-2024-04-16 07:00:39.928573,Play-In Tournament Specials - 2024 Play-In Tournament Specials - Most PPG,Stephen Curry (GSW),0.02779999999999999,0.25,0.2222
+2024-04-16 15:01:12.421276,To Make the Playoffs - Philadelphia 76ers - To Make the 2023-24 Playoffs,No,0.027999999999999997,0.1333,0.1053
 2024-04-16 11:01:48.390656,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,Washington Commanders,0.02739999999999998,0.7333,0.7059
 2024-04-16 17:01:15.653382,NFL Draft - Player Markets - Team To Draft Player - Xavier Worthy,Chicago Bears,0.025900000000000003,0.0476,0.0217
 2024-04-16 15:01:15.015578,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Joe Ryan (MIN),0.024800000000000003,0.0526,0.0278
+2024-04-16 19:00:56.599302,Position - Finishing Position - Ludvig Aberg - Finishing Position,15th or worse,0.024399999999999977,0.5122,0.4878
+2024-04-16 19:00:56.610838,Position - Finishing Position - Matt Fitzpatrick - Finishing Position,22nd or worse,0.024399999999999977,0.5122,0.4878
 2024-04-16 13:00:57.249830,NFL Draft - Player Markets - Team To Draft Player - Brock Bowers,Los Angeles Rams,0.024,0.0625,0.0385
 2024-04-16 15:01:12.627154,NBA Specials - NBA Post Season Awards -  2024 NBA Finals MVP,Anthony Edwards (MIN),0.0233,0.0385,0.0152
 2024-04-16 11:01:48.892014,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Mookie Betts (LAD),0.02310000000000001,0.1,0.0769
 2024-04-16 15:01:12.365181,To Make the Playoffs - Chicago Bulls - To Make the 2023-24 Playoffs,No,0.02310000000000001,0.875,0.8519
+2024-04-16 19:00:56.622850,Position - Finishing Position - Max Homa - Finishing Position,22nd or worse,0.022699999999999998,0.4878,0.4651
 2024-04-16 15:01:15.015578,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Cole Ragans (KC),0.022199999999999998,0.1333,0.1111
 2024-04-16 15:01:12.409114,To Make the Playoffs - New Orleans Pelicans - To Make the 2023-24 Playoffs,No,0.02210000000000001,0.2326,0.2105
 2024-04-16 13:00:57.894628,MLB Futures - MLB 2024 National League West - National League West Winner,Arizona Diamondbacks,0.022000000000000006,0.1053,0.0833
 2024-04-16 13:00:57.849505,MLB Futures - MLB 2024 American League East - American League East Winner,Baltimore Orioles,0.021999999999999964,0.3077,0.2857
+2024-04-16 19:00:55.912758,NFL Draft - Team Markets - Team's First Pick - LV Raiders - Position of 1st Drafted Player in 2024 NFL Draft,Quarterback,0.021999999999999964,0.3077,0.2857
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Tomoyo Ikemura,0.0204,0.0244,0.004
 2024-04-16 11:01:48.218075,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Jayden Daniels / 3. Drake Maye,0.01970000000000005,0.5652,0.5455
 2024-04-16 17:01:13.635162,A1 - Greece A1 2023/2024 - Outright,Panathinaikos,0.019499999999999962,0.6491,0.6296
 2024-04-16 11:01:48.128592,NFL Draft - Pick Markets - Draft Picks -  #2 Pick,Jayden Daniels,0.018999999999999906,0.7333,0.7143
 2024-04-16 13:00:57.838060,MLB Futures - MLB 2024 American League Central - American League Central Winner,Kansas City Royals,0.01820000000000002,0.2,0.1818
+2024-04-16 19:00:55.912758,NFL Draft - Team Markets - Team's First Pick - LV Raiders - Position of 1st Drafted Player in 2024 NFL Draft,Wide Receiver,0.018200000000000004,0.0476,0.0294
 2024-04-16 13:00:57.894628,MLB Futures - MLB 2024 National League West - National League West Winner,San Diego Padres,0.018099999999999998,0.0769,0.0588
-2024-04-16 07:00:39.936930,Play-In Tournament Specials - 2024 Play-In Tournament Specials - Play-In Teams to Win a 1st Round Playoff Series,3,0.018099999999999998,0.0769,0.0588
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Sadom Kaewkanjana,0.017800000000000003,0.0244,0.0066
 2024-04-16 15:01:12.556267,Play-In Tournament Specials - 2024 Play-In Tournament Specials - Play-In Teams to Win a 1st Round Playoff Series,0,0.017299999999999982,0.4255,0.4082
 2024-04-16 15:01:12.644144,NBA Specials - NBA Post Season Awards - 2024 NBA Western Conference Finals MVP,Kyrie Irving (DAL),0.0168,0.0385,0.0217
 2024-04-16 15:01:12.547720,Play-In Tournament Specials - 2024 Play-In Tournament Specials - Most PPG,Stephen Curry (GSW),0.016699999999999993,0.2667,0.25
 2024-04-16 13:00:57.101833,NFL Draft - Pick Markets - Draft Picks - #10 Pick,Brock Bowers,0.015400000000000025,0.4,0.3846
+2024-04-16 15:01:12.644144,NBA Specials - NBA Post Season Awards - 2024 NBA Western Conference Finals MVP,Devin Booker (PHX),0.015300000000000001,0.0476,0.0323
 2024-04-16 11:01:48.892014,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Freddie Freeman (LAD),0.015300000000000001,0.0476,0.0323
 2024-04-16 11:01:48.892014,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Teoscar Hernandez (LAD),0.015300000000000001,0.0476,0.0323
-2024-04-16 15:01:12.644144,NBA Specials - NBA Post Season Awards - 2024 NBA Western Conference Finals MVP,Devin Booker (PHX),0.015300000000000001,0.0476,0.0323
 2024-04-16 09:01:38.429842,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Real Madrid,0.015100000000000002,0.1818,0.1667
 2024-04-16 15:01:15.015578,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Corbin Burnes (BAL),0.015100000000000002,0.1818,0.1667
 2024-04-16 15:01:12.627154,NBA Specials - NBA Post Season Awards -  2024 NBA Finals MVP,Jalen Brunson (NYK),0.014599999999999998,0.0278,0.0132
+2024-04-16 15:01:12.635770,NBA Specials - NBA Post Season Awards - 2024 NBA Eastern Conference Finals MVP,Tyrese Maxey (PHI),0.0145,0.0244,0.0099
 2024-04-16 13:00:57.249830,NFL Draft - Player Markets - Team To Draft Player - Brock Bowers,Philadelphia Eagles,0.0145,0.0244,0.0099
 2024-04-16 17:01:13.718088,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Duke (W),0.0145,0.0244,0.0099
-2024-04-16 15:01:12.635770,NBA Specials - NBA Post Season Awards - 2024 NBA Eastern Conference Finals MVP,Tyrese Maxey (PHI),0.0145,0.0244,0.0099
 2024-04-16 15:01:12.627154,NBA Specials - NBA Post Season Awards -  2024 NBA Finals MVP,Shai Gilgeous-Alexander (OKC),0.014100000000000001,0.0526,0.0385
 2024-04-16 17:01:13.704918,NCAA DI Men - 2025 NCAA DI Men's Basketball Tournament - National Champion,Connecticut,0.013999999999999999,0.0909,0.0769
 2024-04-16 15:01:15.015578,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Tanner Bibee (CLE),0.013,0.0196,0.0066
-2024-04-16 07:00:42.773210,The Chevron Championship - The Chevron Championship - Winner,Nelly Korda,0.012899999999999995,0.1667,0.1538
 2024-04-16 09:01:42.172778,NFL Draft - Team Markets - Team's First Pick - JAX Jaguars - Position of 1st Drafted Player in 2024 NFL Draft,Cornerback,0.012700000000000045,0.6491,0.6364
 2024-04-16 15:01:12.635770,NBA Specials - NBA Post Season Awards - 2024 NBA Eastern Conference Finals MVP,Tyrese Haliburton (IND),0.012700000000000003,0.0323,0.0196
 2024-04-16 09:01:38.429842,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Manchester City,0.012199999999999989,0.5122,0.5
-2024-04-16 07:00:42.562430,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs M. Fitzpatrick - Tournament Match-Up,Matt Fitzpatrick,0.0116,0.4878,0.4762
 2024-04-16 15:01:15.015578,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Jose Berrios (TOR),0.011399999999999997,0.0278,0.0164
+2024-04-16 19:00:57.778024,LECOM Suncoast Classic - LECOM Suncoast Classic - Winner,Ricky Castillo,0.011199999999999995,0.0588,0.0476
 2024-04-16 15:01:12.354603,To Make the Playoffs - Atlanta Hawks - To Make the 2023-24 Playoffs,No,0.011099999999999999,0.9,0.8889
-2024-04-16 07:00:39.928573,Play-In Tournament Specials - 2024 Play-In Tournament Specials - Most PPG,Tyrese Maxey (PHI),0.011099999999999999,0.1111,0.1
 2024-04-16 15:01:12.737562,Caitlin Clark Specials - Caitlin Clark Specials - Caitlin Clark 2024 Regular Season Specials,To Record 130+ Made Threes in 2024 WNBA Regular Season,0.01100000000000001,0.5348,0.5238
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Scott Hend,0.0108,0.0141,0.0033
-2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Jbe Kruger,0.010700000000000001,0.0164,0.0057
 2024-04-16 13:00:57.080764,NFL Draft - Pick Markets - Draft Picks -  #8 Pick,Joe Alt,0.010700000000000001,0.0385,0.0278
+2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Jbe Kruger,0.010700000000000001,0.0164,0.0057
 2024-04-16 13:00:57.838060,MLB Futures - MLB 2024 American League Central - American League Central Winner,Cleveland Guardians,0.010699999999999987,0.3333,0.3226
 2024-04-16 15:01:12.737562,Caitlin Clark Specials - Caitlin Clark Specials - Caitlin Clark 2024 Regular Season Specials,To Record 1+ Made Three In Every 2024 WNBA Regular Season Game (Must Play 28+ Regular Season Games),0.010399999999999993,0.2326,0.2222
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Sarit Suwannarut,0.0103,0.0123,0.002
 2024-04-16 15:01:15.246989,Position - Finishing Position - Collin Morikawa - Finishing Position,19th or better,0.010099999999999998,0.5556,0.5455
 2024-04-16 11:01:48.892014,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Shohei Ohtani (LAD),-0.0102,0.0667,0.0769
 2024-04-16 15:01:12.644144,NBA Specials - NBA Post Season Awards - 2024 NBA Western Conference Finals MVP,Bradley Beal (PHX),-0.010600000000000002,0.0217,0.0323
-2024-04-16 07:00:41.402800,NFL Draft - Props - Position Props (1st Round) - Total Offensive Players Selected in Round 1,Under 21,-0.010699999999999932,0.5348,0.5455
-2024-04-16 07:00:41.402800,NFL Draft - Props - Position Props (1st Round) - Total Offensive Players Selected in Round 1,Over 21,-0.010699999999999932,0.5348,0.5455
-2024-04-16 07:00:41.383962,NFL Draft - Props - Position Props (1st Round) - Total Defensive Players Selected in Round 1,Over 11,-0.010699999999999932,0.5348,0.5455
-2024-04-16 07:00:41.383962,NFL Draft - Props - Position Props (1st Round) - Total Defensive Players Selected in Round 1,Under 11,-0.010699999999999932,0.5348,0.5455
 2024-04-16 15:01:15.054629,Boxing Lines - Joel Taylor vs Lachlan O'shea - To Win the Bout,Lachlan O'shea,-0.010699999999999987,0.3226,0.3333
 2024-04-16 15:01:12.635770,NBA Specials - NBA Post Season Awards - 2024 NBA Eastern Conference Finals MVP,Jaylen Brown (BOS),-0.010899999999999993,0.1429,0.1538
 2024-04-16 15:01:15.015578,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Hunter Brown (HOU),-0.011200000000000002,0.0132,0.0244
@@ -122,14 +118,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-16 15:01:14.195337,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Jayden Daniels / 3. Drake Maye,-0.014800000000000035,0.6078,0.6226
 2024-04-16 15:01:12.635770,NBA Specials - NBA Post Season Awards - 2024 NBA Eastern Conference Finals MVP,OG Anunoby (NYK),-0.0151,0.0066,0.0217
 2024-04-16 15:01:12.556267,Play-In Tournament Specials - 2024 Play-In Tournament Specials - Play-In Teams to Win a 1st Round Playoff Series,1,-0.01539999999999997,0.6,0.6154
-2024-04-16 07:00:42.562430,Tournament Match-Ups - Tournament Match-Up - P. Cantlay vs M. Fitzpatrick - Tournament Match-Up,Patrick Cantlay,-0.017299999999999982,0.5744,0.5917
+2024-04-16 19:00:55.912758,NFL Draft - Team Markets - Team's First Pick - LV Raiders - Position of 1st Drafted Player in 2024 NFL Draft,Defensive Line/Edge,-0.01759999999999999,0.1,0.1176
 2024-04-16 15:01:12.635770,NBA Specials - NBA Post Season Awards - 2024 NBA Eastern Conference Finals MVP,Khris Middleton (MIL),-0.017800000000000003,0.0066,0.0244
 2024-04-16 11:01:48.892014,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Aaron Judge (NYY),-0.018099999999999998,0.0588,0.0769
 2024-04-16 15:01:12.627154,NBA Specials - NBA Post Season Awards -  2024 NBA Finals MVP,Kawhi Leonard (LAC),-0.018099999999999998,0.0345,0.0526
 2024-04-16 13:00:58.096245,RBC Heritage - RBC Heritage - Winner,Scottie Scheffler,-0.01820000000000002,0.1818,0.2
 2024-04-16 15:01:12.635770,NBA Specials - NBA Post Season Awards - 2024 NBA Eastern Conference Finals MVP,Jarrett Allen (CLE),-0.0184,0.0033,0.0217
-2024-04-16 11:01:48.892014,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Jose Altuve (HOU),-0.019099999999999992,0.0476,0.0667
+2024-04-16 19:00:56.599302,Position - Finishing Position - Ludvig Aberg - Finishing Position,14th or better,-0.01880000000000004,0.5556,0.5744
+2024-04-16 19:00:56.610838,Position - Finishing Position - Matt Fitzpatrick - Finishing Position,21st or better,-0.01880000000000004,0.5556,0.5744
 2024-04-16 11:01:48.892014,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Ozzie Albies (ATL),-0.019099999999999992,0.0476,0.0667
+2024-04-16 11:01:48.892014,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Jose Altuve (HOU),-0.019099999999999992,0.0476,0.0667
 2024-04-16 15:01:12.627154,NBA Specials - NBA Post Season Awards -  2024 NBA Finals MVP,Jaylen Brown (BOS),-0.02310000000000001,0.0769,0.1
 2024-04-16 15:01:12.409114,To Make the Playoffs - New Orleans Pelicans - To Make the 2023-24 Playoffs,Yes,-0.023799999999999932,0.8333,0.8571
 2024-04-16 13:00:57.838060,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,-0.023799999999999988,0.3333,0.3571
@@ -138,24 +136,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-16 15:01:12.627154,NBA Specials - NBA Post Season Awards -  2024 NBA Finals MVP,Jamal Murray (DEN),-0.024800000000000003,0.0278,0.0526
 2024-04-16 11:01:48.892014,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Ronald Acuna Jr. (ATL),-0.025300000000000003,0.1176,0.1429
 2024-04-16 13:00:57.249830,NFL Draft - Player Markets - Team To Draft Player - Brock Bowers,Cincinnati Bengals,-0.025300000000000003,0.1176,0.1429
+2024-04-16 19:00:56.622850,Position - Finishing Position - Max Homa - Finishing Position,21st or better,-0.025599999999999956,0.5744,0.6
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Gunn Charoenkul,-0.0262,0.0123,0.0385
 2024-04-16 13:00:57.894628,MLB Futures - MLB 2024 National League West - National League West Winner,Los Angeles Dodgers,-0.026700000000000057,0.8824,0.9091
 2024-04-16 15:01:12.365181,To Make the Playoffs - Chicago Bulls - To Make the 2023-24 Playoffs,Yes,-0.026900000000000007,0.1905,0.2174
 2024-04-16 17:01:13.635162,A1 - Greece A1 2023/2024 - Outright,Olympiakos,-0.027700000000000002,0.4167,0.4444
 2024-04-16 11:01:48.892014,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Bobby Witt Jr. (KC),-0.027999999999999997,0.1053,0.1333
-2024-04-16 15:01:12.627154,NBA Specials - NBA Post Season Awards -  2024 NBA Finals MVP,James Harden (LAC),-0.028000000000000004,0.0196,0.0476
 2024-04-16 15:01:12.627154,NBA Specials - NBA Post Season Awards -  2024 NBA Finals MVP,Paul George (LAC),-0.028000000000000004,0.0196,0.0476
+2024-04-16 15:01:12.627154,NBA Specials - NBA Post Season Awards -  2024 NBA Finals MVP,James Harden (LAC),-0.028000000000000004,0.0196,0.0476
 2024-04-16 15:01:12.421276,To Make the Playoffs - Philadelphia 76ers - To Make the 2023-24 Playoffs,Yes,-0.028200000000000003,0.9333,0.9615
 2024-04-16 11:01:48.892014,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Yordan Alvarez (HOU),-0.02850000000000001,0.0667,0.0952
 2024-04-16 15:01:12.565608,Play-In Tournament Specials - 2024 Play-In Tournament Specials - Total Triple-Doubles,Over 1.5,-0.033299999999999996,0.3922,0.4255
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Chikkarangappa S,-0.0345,0.004,0.0385
-2024-04-16 13:00:57.849505,MLB Futures - MLB 2024 American League East - American League East Winner,New York Yankees,-0.03480000000000005,0.5,0.5348
 2024-04-16 15:01:15.234949,Position - Finishing Position - Cameron Young - Finishing Position,21st or better,-0.03480000000000005,0.5,0.5348
+2024-04-16 13:00:57.849505,MLB Futures - MLB 2024 American League East - American League East Winner,New York Yankees,-0.03480000000000005,0.5,0.5348
 2024-04-16 09:01:38.429842,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,FC Barcelona,-0.03489999999999999,0.4651,0.5
 2024-04-16 15:01:12.644144,NBA Specials - NBA Post Season Awards - 2024 NBA Western Conference Finals MVP,Michael Porter Jr. (DEN).,-0.03559999999999999,0.0079,0.0435
 2024-04-16 15:01:15.395325,Position - Finishing Position - Xander Schauffele - Finishing Position ,14th or worse,-0.035999999999999976,0.4762,0.5122
-2024-04-16 15:01:15.272352,Position - Finishing Position - Ludvig Aberg - Finishing Position,15th or worse,-0.03600000000000003,0.4878,0.5238
 2024-04-16 15:01:15.284849,Position - Finishing Position - Matt Fitzpatrick - Finishing Position,22nd or worse,-0.03600000000000003,0.4878,0.5238
+2024-04-16 15:01:15.272352,Position - Finishing Position - Ludvig Aberg - Finishing Position,15th or worse,-0.03600000000000003,0.4878,0.5238
+2024-04-16 19:00:56.720088,Position - Finishing Position - Xander Schauffele - Finishing Position ,13th or better,-0.03610000000000002,0.5556,0.5917
 2024-04-16 11:01:48.060286,NFL Draft - Props - Position Props (1st Round) - Total Offensive Lineman Selected in Round 1,Under 9.5,-0.03620000000000001,0.4082,0.4444
 2024-04-16 11:01:48.128592,NFL Draft - Pick Markets - Draft Picks -  #2 Pick,Drake Maye,-0.03640000000000004,0.3636,0.4
 2024-04-16 15:01:12.627154,NBA Specials - NBA Post Season Awards -  2024 NBA Finals MVP,Michael Porter Jr. (DEN).,-0.036899999999999995,0.0066,0.0435
@@ -167,14 +167,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-16 15:01:15.015578,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Kevin Gausman (TOR),-0.04239999999999999,0.0345,0.0769
 2024-04-16 15:01:12.635770,NBA Specials - NBA Post Season Awards - 2024 NBA Eastern Conference Finals MVP,Damian Lillard (MIL),-0.0448,0.0385,0.0833
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Andy Ogletree,-0.0448,0.0385,0.0833
-2024-04-16 15:01:15.357026,Position - Finishing Position - Tommy Fleetwood - Finishing Position,19th or worse,-0.045499999999999985,0.5,0.5455
 2024-04-16 15:01:15.345029,Position - Finishing Position - Si Woo Kim - Finishing Position,23rd or worse,-0.045499999999999985,0.5,0.5455
-2024-04-16 15:01:15.368945,Position - Finishing Position - Will Zalatoris - Finishing Position,21st or better,-0.045499999999999985,0.5,0.5455
 2024-04-16 15:01:15.332992,Position - Finishing Position - Scottie Scheffler - Finishing Position,6th or worse,-0.045499999999999985,0.5,0.5455
+2024-04-16 15:01:15.357026,Position - Finishing Position - Tommy Fleetwood - Finishing Position,19th or worse,-0.045499999999999985,0.5,0.5455
+2024-04-16 15:01:15.368945,Position - Finishing Position - Will Zalatoris - Finishing Position,21st or better,-0.045499999999999985,0.5,0.5455
 2024-04-16 17:01:13.718088,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Texas (W),-0.04620000000000002,0.1538,0.2
 2024-04-16 15:01:15.383214,Position - Finishing Position - Wyndham Clark - Finishing Position,23rd or better,-0.05559999999999998,0.5,0.5556
-2024-04-16 15:01:15.015578,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Framber Valdez (HOU),-0.05639999999999999,0.0345,0.0909
 2024-04-16 15:01:15.015578,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Luis Castillo (SEA),-0.05639999999999999,0.0345,0.0909
+2024-04-16 15:01:15.015578,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Framber Valdez (HOU),-0.05639999999999999,0.0345,0.0909
 2024-04-16 15:01:12.644144,NBA Specials - NBA Post Season Awards - 2024 NBA Western Conference Finals MVP,Kawhi Leonard (LAC),-0.056400000000000006,0.0769,0.1333
 2024-04-16 15:01:15.296622,Position - Finishing Position - Max Homa - Finishing Position,22nd or worse,-0.05870000000000003,0.4651,0.5238
 2024-04-16 15:01:12.635770,NBA Specials - NBA Post Season Awards - 2024 NBA Eastern Conference Finals MVP,Giannis Antetokounmpo (MIL),-0.0629,0.0909,0.1538
@@ -182,14 +182,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-16 15:01:12.375133,To Make the Playoffs - Golden State Warriors - To Make the 2023-24 Playoffs,Yes,-0.06519999999999998,0.2857,0.3509
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Veer Ahlawat,-0.06649999999999999,0.0244,0.0909
 2024-04-16 13:00:57.872286,MLB Futures - MLB 2024 National League Central - National League Central Winner,St. Louis Cardinals,-0.06659999999999999,0.2667,0.3333
-2024-04-16 15:01:15.259250,Position - Finishing Position - Jordan Spieth - Finishing Position,21st or better,-0.06970000000000004,0.4651,0.5348
 2024-04-16 15:01:15.321113,Position - Finishing Position - Rory McIlroy - Finishing Position,14th or better,-0.06970000000000004,0.4651,0.5348
+2024-04-16 15:01:15.259250,Position - Finishing Position - Jordan Spieth - Finishing Position,21st or better,-0.06970000000000004,0.4651,0.5348
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Travis Smyth,-0.06999999999999999,0.0476,0.1176
 2024-04-16 09:01:42.918561,Position - Finishing Position - Patrick Cantlay - Finishing Position,17th or worse,-0.07619999999999993,0.5238,0.6
 2024-04-16 15:01:15.308869,Position - Finishing Position - Patrick Cantlay - Finishing Position,16th or better,-0.08039999999999997,0.4651,0.5455
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Todd Sinnott,-0.0843,0.0066,0.0909
-2024-04-16 15:01:12.644144,NBA Specials - NBA Post Season Awards - 2024 NBA Western Conference Finals MVP,James Harden (LAC),-0.0865,0.0385,0.125
 2024-04-16 15:01:12.644144,NBA Specials - NBA Post Season Awards - 2024 NBA Western Conference Finals MVP,Paul George (LAC),-0.0865,0.0385,0.125
+2024-04-16 15:01:12.644144,NBA Specials - NBA Post Season Awards - 2024 NBA Western Conference Finals MVP,James Harden (LAC),-0.0865,0.0385,0.125
 2024-04-16 11:01:48.218075,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Drake Maye / 3. J.J. McCarthy,-0.1,0.1667,0.2667
 2024-04-16 09:01:43.481053,Saudi Open - Saudi Open - Winner,Denwit Boriboonsub,-0.1344,0.0323,0.1667
 2024-04-16 15:01:12.431270,To Make the Playoffs - Sacramento Kings - To Make the 2023-24 Playoffs,Yes,-0.22549999999999998,0.2,0.4255
