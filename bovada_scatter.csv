@@ -1,19 +1,16 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-17 17:01:08.085040,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Real Madrid,0.3056,0.4167,0.1111
 2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,John Catlin,0.14120000000000002,0.2,0.0588
-2024-04-17 09:00:56.457506,NFL Draft - Player Markets - Player Draft Position - Quinyon Mitchell Draft Position,Over 13.5,0.13990000000000002,0.7143,0.5744
 2024-04-17 17:01:08.085040,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Bayern Munich,0.1334,0.2667,0.1333
 2024-04-17 13:00:59.624474,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2024 NFL Draft,Offensive Lineman,0.12420000000000003,0.4878,0.3636
 2024-04-17 11:01:19.993113,NFL Draft - Player Markets - Player Draft Position - Adonai Mitchell Draft Position,Over 27.5,0.12080000000000002,0.5652,0.4444
-2024-04-17 09:00:56.806373,NFL Draft - Team Markets - Team's First Pick - HOU Texans - Position of 1st Drafted Player in 2024 NFL Draft,Safety,0.0948,0.1333,0.0385
-2024-04-17 09:00:56.506605,NFL Draft - Player Markets - Player Draft Position - Tyler Guyton Draft Position,Under 29.5,0.07929999999999993,0.7222,0.6429
+2024-04-17 21:01:22.194398,NFL Draft - Player Markets - Player Draft Position - Adonai Mitchell Draft Position,Under 27.5,0.08039999999999997,0.5455,0.4651
 2024-04-17 11:01:20.599124,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2024 NFL Draft,Offensive Lineman,0.07769999999999999,0.661,0.5833
 2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,David Puig,0.07069999999999999,0.1818,0.1111
 2024-04-17 13:00:58.763355,NFL Draft - Props - College Props (1st Round) - Total SEC Players Drafted in Round 1,Under 9.5,0.0529,0.3704,0.3175
 2024-04-17 17:01:08.085040,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Paris Saint-Germain,0.0504,0.2857,0.2353
 2024-04-17 13:00:58.832283,NFL Draft - Props - Position Props (1st Round) - Total Offensive Players Selected in Round 1,Over 21,0.04849999999999999,0.5833,0.5348
 2024-04-17 13:00:58.794742,NFL Draft - Props - Position Props (1st Round) - Total Cornerbacks Selected in Round 1,Under 5.5,0.045499999999999985,0.8182,0.7727
-2024-04-17 09:00:54.570105,NBA Draft - 2024 NBA Draft - Which Team will Select Bronny James,Los Angeles Lakers,0.044499999999999984,0.2667,0.2222
 2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Kiradech Aphibarnrat,0.04440000000000001,0.1111,0.0667
 2024-04-17 13:00:59.031049,NFL Draft - Player Markets - Player Draft Position - Adonai Mitchell Draft Position,Over 27.5,0.04259999999999997,0.6078,0.5652
 2024-04-17 13:00:58.726372,NFL Draft - Props - College Props (1st Round) - Total ACC Players Drafted in Round 1,Under 4.5,0.04039999999999999,0.8182,0.7778
@@ -27,74 +24,80 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-17 19:01:23.152102,Off-Season Specials - Next Team Specials  - Trae Young (ATL),San Antonio Spurs,0.034100000000000005,0.125,0.0909
 2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Tatsunori Shogenji,0.0335,0.0476,0.0141
 2024-04-17 13:00:58.754435,NFL Draft - Props - College Props (1st Round) - Total PAC 12 Players Drafted in Round 1,Under 7.5,0.03180000000000005,0.7143,0.6825
+2024-04-17 21:01:22.061864,NFL Draft - Pick Markets - Draft Picks -  #2 Pick,Jayden Daniels,0.031400000000000095,0.7647,0.7333
 2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Haotong Li,0.0282,0.0526,0.0244
+2024-04-17 21:01:23.798997,Round Match-Ups - 1st Round Matchups - T. Fleetwood vs W. Clark - 1st Round Matchups,Tommy Fleetwood,0.026499999999999968,0.5917,0.5652
 2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Maverick Antcliff,0.024399999999999998,0.0385,0.0141
 2024-04-17 11:01:20.060872,NFL Draft - Player Markets - Player Draft Position - Cooper DeJean Draft Position,Under 22.5,0.023800000000000043,0.5238,0.5
-2024-04-17 11:01:20.090656,NFL Draft - Player Markets - Player Draft Position - Graham Barton Draft Position,Over 21.5,0.022699999999999998,0.4878,0.4651
 2024-04-17 11:01:20.032096,NFL Draft - Player Markets - Player Draft Position - Brock Bowers Draft Position,Over 12.5,0.022699999999999998,0.4878,0.4651
+2024-04-17 11:01:20.090656,NFL Draft - Player Markets - Player Draft Position - Graham Barton Draft Position,Over 21.5,0.022699999999999998,0.4878,0.4651
 2024-04-17 13:00:58.745603,NFL Draft - Props - College Props (1st Round) - Total BIG 12 Players Drafted in Round 1,Over 3.5,0.022600000000000064,0.6226,0.6
 2024-04-17 13:00:57.387284,Daily Specials - NBA Daily Specials - Requested Specials,"T.Maxey 20+ Pts, J.Embiid 24+ Pts, Tr.Young 8+ Assists, B.Adebayo 8+ Rebounds",0.02260000000000001,0.4,0.3774
+2024-04-17 21:01:23.705241,Round Match-Ups - 1st Round Matchups - C. Kirk vs J.T. Poston - 1st Round Matchups,Chris Kirk,0.02169999999999994,0.5455,0.5238
 2024-04-17 11:01:20.173098,NFL Draft - Player Markets - Player Draft Position - Michael Penix Jr. Draft Position,Under 32.5,0.02169999999999994,0.5455,0.5238
+2024-04-17 21:01:23.740563,Round Match-Ups - 1st Round Matchups - C. Bezuidenhout vs B. Hun An - 1st Round Matchups,Byeong Hun An,0.02169999999999994,0.5455,0.5238
 2024-04-17 13:00:59.100182,NFL Draft - Player Markets - Player Draft Position - Cooper DeJean Draft Position,Under 22.5,0.02169999999999994,0.5455,0.5238
+2024-04-17 21:01:24.574968,Main Markets - 1st Round 2 Balls - C. Conners v T. Hoge - Including Tie,Corey Conners,0.02169999999999994,0.5455,0.5238
 2024-04-17 11:01:20.192724,NFL Draft - Player Markets - Player Draft Position - Olumuyiwa Fashanu Draft Position,Under 14.5,0.02080000000000004,0.6875,0.6667
-2024-04-17 15:01:40.338819,Tournament Match-Ups - Tournament Match-Up - B. Harman v S. Burns - Requests,Brian Harman,0.02079999999999993,0.5556,0.5348
 2024-04-17 11:01:21.172916,Boxing Lines - Brandon Adams vs Ismael Villarreal - To Win the Bout,Ismael Villarreal,0.02079999999999993,0.5556,0.5348
+2024-04-17 15:01:40.338819,Tournament Match-Ups - Tournament Match-Up - B. Harman v S. Burns - Requests,Brian Harman,0.02079999999999993,0.5556,0.5348
 2024-04-17 11:01:20.182357,NFL Draft - Player Markets - Player Draft Position - Nate Wiggins Draft Position,Over 26.5,0.01970000000000005,0.5652,0.5455
 2024-04-17 11:01:21.125114,Boxing Lines - George Arias vs Skylar Lacy - To Win the Bout,Skylar Lacy,0.019600000000000006,0.3226,0.303
-2024-04-17 15:01:38.482633,Boxing Lines - Brandon Adams vs Ismael Villarreal - To Win the Bout,Ismael Villarreal,0.01880000000000004,0.5744,0.5556
 2024-04-17 15:01:39.182177,Round Match-Ups - 1st Round Matchups - W. Simpson v N. Dunlap - 1st Round Matchups,Webb Simpson,0.01880000000000004,0.5744,0.5556
+2024-04-17 15:01:38.482633,Boxing Lines - Brandon Adams vs Ismael Villarreal - To Win the Bout,Ismael Villarreal,0.01880000000000004,0.5744,0.5556
 2024-04-17 13:00:59.220530,NFL Draft - Player Markets - Player Draft Position - Nate Wiggins Draft Position,Over 26.5,0.018100000000000005,0.5833,0.5652
+2024-04-17 21:01:24.169085,Position - Finishing Position - Tommy Fleetwood - Finishing Position,18th or better,0.018100000000000005,0.5833,0.5652
 2024-04-17 17:01:08.085040,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Borussia Dortmund,0.016700000000000007,0.1,0.0833
 2024-04-17 15:01:37.578841,NFL Draft - Player Markets - Player Draft Position - Laiatu Latu Draft Position,Over 18.5,0.016699999999999993,0.4167,0.4
 2024-04-17 11:01:21.375692,Boxing Lines - Brandon Figueroa vs Jessie Magdaleno - To Win the Bout,Brandon Figueroa,0.01660000000000006,0.9333,0.9167
 2024-04-17 11:01:21.351478,Boxing Lines - Eimantas Stanionis vs Gabriel Maestre - To Win the Bout,Eimantas Stanionis,0.01660000000000006,0.9333,0.9167
 2024-04-17 11:01:20.041756,NFL Draft - Player Markets - Player Draft Position - Byron Murphy II Draft Position,Over 16.5,0.015400000000000025,0.4,0.3846
-2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Wade Ormsby,0.014599999999999998,0.0196,0.005
 2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Justin Quiban,0.014599999999999998,0.0196,0.005
+2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Wade Ormsby,0.014599999999999998,0.0196,0.005
 2024-04-17 11:01:20.139524,NFL Draft - Player Markets - Player Draft Position - Joe Alt Draft Position,Over 7.5,0.013600000000000001,0.3077,0.2941
 2024-04-17 11:01:20.129809,NFL Draft - Player Markets - Player Draft Position - JC Latham Draft Position,Under 14.5,0.013299999999999979,0.6429,0.6296
 2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Justin Warren,0.013,0.0196,0.0066
 2024-04-17 19:01:25.888884,Boxing Lines - Brandon Adams vs Ismael Villarreal - To Win the Bout,Brandon Adams,0.012199999999999989,0.5,0.4878
 2024-04-17 11:01:20.150540,NFL Draft - Player Markets - Player Draft Position - Jordan Morgan Draft Position,Over 32.5,0.011600000000000055,0.5238,0.5122
 2024-04-17 13:00:58.822429,NFL Draft - Props - Position Props (1st Round) - Total Offensive Lineman Selected in Round 1,Over 9.5,0.011499999999999955,0.6667,0.6552
-2024-04-17 09:00:56.806373,NFL Draft - Team Markets - Team's First Pick - HOU Texans - Position of 1st Drafted Player in 2024 NFL Draft,Wide Receiver,0.011200000000000002,0.0244,0.0132
 2024-04-17 17:01:12.346239,Boxing Lines - Roney Hines vs Robert Hall Jr - To Win the Bout,Roney Hines,0.011099999999999999,0.7937,0.7826
 2024-04-17 17:01:12.334676,Boxing Lines - George Arias vs Skylar Lacy - To Win the Bout,Skylar Lacy,0.010699999999999987,0.3333,0.3226
 2024-04-17 11:01:20.081183,"NFL Draft - Player Markets - Player Draft Position - Ga'Quincy ""Kool-Aid"" McKinstry Draft Position",Over 28.5,0.010699999999999932,0.5455,0.5348
 2024-04-17 11:01:20.081183,"NFL Draft - Player Markets - Player Draft Position - Ga'Quincy ""Kool-Aid"" McKinstry Draft Position",Under 28.5,-0.010099999999999998,0.5455,0.5556
 2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Suteepat Prateeptienchai,-0.0101,0.004,0.0141
 2024-04-17 11:01:21.196999,Boxing Lines - Eoghan Lavin vs Vasif Mamedov - To Win the Bout,Vasif Mamedov,-0.0102,0.0667,0.0769
-2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Ratchanon Chantananuwat,-0.010600000000000002,0.0217,0.0323
 2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Denwit Boriboonsub,-0.010600000000000002,0.0217,0.0323
+2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Ratchanon Chantananuwat,-0.010600000000000002,0.0217,0.0323
+2024-04-17 21:01:23.229344,Boxing Lines - George Arias vs Skylar Lacy - To Win the Bout,Skylar Lacy,-0.010699999999999987,0.3226,0.3333
 2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Gaganjeet Bhullar,-0.010700000000000001,0.0278,0.0385
 2024-04-17 17:01:12.498037,Boxing Lines - Bektemir Melikuziev vs Pierre Hubert Dibombe - To Win the Bout,Pierre Hubert Dibombe,-0.010899999999999993,0.1429,0.1538
 2024-04-17 11:01:21.364020,Boxing Lines - Mario Barrios vs Fabian Andres Maidana - To Win the Bout,Fabian Andres Maidana,-0.010899999999999993,0.1429,0.1538
 2024-04-17 11:01:20.212145,NFL Draft - Player Markets - Player Draft Position - Rome Odunze Draft Position,Over 8.5,-0.011099999999999999,0.4651,0.4762
 2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Jbe Kruger,-0.0114,0.005,0.0164
-2024-04-17 09:00:54.659559,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.0116,0.4762,0.4878
 2024-04-17 11:01:20.139524,NFL Draft - Player Markets - Player Draft Position - Joe Alt Draft Position,Under 7.5,-0.011699999999999933,0.7778,0.7895
-2024-04-17 11:01:18.269740,Off-Season Specials - Next Team Specials  - Stephen Curry (GSW) ,Houston Rockets,-0.011699999999999999,0.0079,0.0196
 2024-04-17 11:01:18.269740,Off-Season Specials - Next Team Specials  - Stephen Curry (GSW) ,Orlando Magic,-0.011699999999999999,0.0079,0.0196
+2024-04-17 11:01:18.269740,Off-Season Specials - Next Team Specials  - Stephen Curry (GSW) ,Houston Rockets,-0.011699999999999999,0.0079,0.0196
 2024-04-17 11:01:18.269740,Off-Season Specials - Next Team Specials  - Stephen Curry (GSW) ,Oklahoma City Thunder,-0.011699999999999999,0.0079,0.0196
-2024-04-17 11:01:18.269740,Off-Season Specials - Next Team Specials  - Stephen Curry (GSW) ,New Orleans Pelicans,-0.0118,0.0099,0.0217
-2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Daniel Gale,-0.0118,0.0099,0.0217
-2024-04-17 11:01:18.269740,Off-Season Specials - Next Team Specials  - Stephen Curry (GSW) ,Sacramento Kings,-0.0118,0.0099,0.0217
 2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Kosuke Hamamoto,-0.0118,0.0005,0.0123
+2024-04-17 11:01:18.269740,Off-Season Specials - Next Team Specials  - Stephen Curry (GSW) ,New Orleans Pelicans,-0.0118,0.0099,0.0217
+2024-04-17 11:01:18.269740,Off-Season Specials - Next Team Specials  - Stephen Curry (GSW) ,Sacramento Kings,-0.0118,0.0099,0.0217
+2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Daniel Gale,-0.0118,0.0099,0.0217
 2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Denver Nuggets,-0.012100000000000001,0.0123,0.0244
-2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,Washington Wizards,-0.012999999999999998,0.0164,0.0294
 2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,Charlotte Hornets,-0.012999999999999998,0.0164,0.0294
 2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,Houston Rockets,-0.012999999999999998,0.0164,0.0294
+2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,Washington Wizards,-0.012999999999999998,0.0164,0.0294
 2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,New York Knicks,-0.012999999999999998,0.0164,0.0294
 2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,Los Angeles Lakers,-0.0131,0.0345,0.0476
+2024-04-17 21:01:22.061864,NFL Draft - Pick Markets - Draft Picks -  #2 Pick,J.J. McCarthy,-0.013899999999999996,0.1111,0.125
 2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Henrik Stenson,-0.013999999999999999,0.0769,0.0909
-2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,Miami Heat,-0.014099999999999998,0.0244,0.0385
-2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,Milwaukee Bucks,-0.014099999999999998,0.0244,0.0385
-2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,Brooklyn Nets,-0.014099999999999998,0.0244,0.0385
+2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,Boston Celtics,-0.014099999999999998,0.0244,0.0385
 2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,Cleveland Cavaliers,-0.014099999999999998,0.0244,0.0385
 2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,Dallas Mavericks,-0.014099999999999998,0.0244,0.0385
+2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,Brooklyn Nets,-0.014099999999999998,0.0244,0.0385
 2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,Indiana Pacers,-0.014099999999999998,0.0244,0.0385
 2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,Memphis Grizzlies,-0.014099999999999998,0.0244,0.0385
-2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,Boston Celtics,-0.014099999999999998,0.0244,0.0385
+2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,Miami Heat,-0.014099999999999998,0.0244,0.0385
+2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,Milwaukee Bucks,-0.014099999999999998,0.0244,0.0385
 2024-04-17 13:00:58.754435,NFL Draft - Props - College Props (1st Round) - Total PAC 12 Players Drafted in Round 1,Over 7.5,-0.01419999999999999,0.3704,0.3846
 2024-04-17 11:01:20.599124,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2024 NFL Draft,Cornerback,-0.014299999999999993,0.1,0.1143
 2024-04-17 11:01:18.269740,Off-Season Specials - Next Team Specials  - Stephen Curry (GSW) ,Milwaukee Bucks,-0.0145,0.0099,0.0244
@@ -102,64 +105,68 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Jaco Ahlers,-0.014599999999999998,0.005,0.0196
 2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Karandeep Kochhar,-0.0154,0.001,0.0164
 2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Eugenio Chacarra,-0.0159,0.0164,0.0323
-2024-04-17 11:01:20.090656,NFL Draft - Player Markets - Player Draft Position - Graham Barton Draft Position,Under 21.5,-0.016100000000000003,0.5917,0.6078
 2024-04-17 11:01:20.032096,NFL Draft - Player Markets - Player Draft Position - Brock Bowers Draft Position,Under 12.5,-0.016100000000000003,0.5917,0.6078
+2024-04-17 11:01:20.090656,NFL Draft - Player Markets - Player Draft Position - Graham Barton Draft Position,Under 21.5,-0.016100000000000003,0.5917,0.6078
 2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Rafa Cabrera Bello,-0.0165,0.0079,0.0244
-2024-04-17 09:00:56.806373,NFL Draft - Team Markets - Team's First Pick - HOU Texans - Position of 1st Drafted Player in 2024 NFL Draft,Cornerback,-0.016699999999999993,0.25,0.2667
 2024-04-17 11:01:18.269740,Off-Season Specials - Next Team Specials  - Stephen Curry (GSW) ,Philadelphia 76ers,-0.0168,0.011,0.0278
 2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Milwaukee Bucks,-0.017099999999999997,0.0123,0.0294
 2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Poom Saksansin,-0.017599999999999998,0.002,0.0196
 2024-04-17 11:01:21.351478,Boxing Lines - Eimantas Stanionis vs Gabriel Maestre - To Win the Bout,Gabriel Maestre,-0.0179,0.125,0.1429
 2024-04-17 11:01:21.375692,Boxing Lines - Brandon Figueroa vs Jessie Magdaleno - To Win the Bout,Jessie Magdaleno,-0.0179,0.125,0.1429
-2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,Atlanta Hawks,-0.018099999999999998,0.0345,0.0526
 2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,Chicago Bulls,-0.018099999999999998,0.0345,0.0526
-2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Brooklyn Nets,-0.018099999999999998,0.0345,0.0526
-2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Oklahoma City Thunder,-0.018099999999999998,0.0345,0.0526
-2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Chicago Bulls,-0.018099999999999998,0.0345,0.0526
 2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Minnesota Timberwolves,-0.018099999999999998,0.0345,0.0526
-2024-04-17 11:01:20.060872,NFL Draft - Player Markets - Player Draft Position - Cooper DeJean Draft Position,Over 22.5,-0.018100000000000005,0.5652,0.5833
+2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,Atlanta Hawks,-0.018099999999999998,0.0345,0.0526
+2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Brooklyn Nets,-0.018099999999999998,0.0345,0.0526
+2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Chicago Bulls,-0.018099999999999998,0.0345,0.0526
+2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Oklahoma City Thunder,-0.018099999999999998,0.0345,0.0526
 2024-04-17 11:01:20.129809,NFL Draft - Player Markets - Player Draft Position - JC Latham Draft Position,Over 14.5,-0.018100000000000005,0.4167,0.4348
+2024-04-17 11:01:20.060872,NFL Draft - Player Markets - Player Draft Position - Cooper DeJean Draft Position,Over 22.5,-0.018100000000000005,0.5652,0.5833
 2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Phachara Khongwatmai,-0.0189,0.0196,0.0385
 2024-04-17 13:00:58.726372,NFL Draft - Props - College Props (1st Round) - Total ACC Players Drafted in Round 1,Over 4.5,-0.019000000000000017,0.2667,0.2857
 2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Kristoffer Broberg,-0.0194,0.005,0.0244
 2024-04-17 11:01:20.599124,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2024 NFL Draft,Linebacker,-0.019499999999999997,0.0099,0.0294
-2024-04-17 11:01:20.173098,NFL Draft - Player Markets - Player Draft Position - Michael Penix Jr. Draft Position,Over 32.5,-0.01970000000000005,0.5455,0.5652
+2024-04-17 21:01:24.574968,Main Markets - 1st Round 2 Balls - C. Conners v T. Hoge - Including Tie,Tom Hoge,-0.019699999999999995,0.4348,0.4545
 2024-04-17 13:00:59.100182,NFL Draft - Player Markets - Player Draft Position - Cooper DeJean Draft Position,Over 22.5,-0.01970000000000005,0.5455,0.5652
+2024-04-17 11:01:20.173098,NFL Draft - Player Markets - Player Draft Position - Michael Penix Jr. Draft Position,Over 32.5,-0.01970000000000005,0.5455,0.5652
+2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Sacramento Kings,-0.020000000000000004,0.0123,0.0323
 2024-04-17 11:01:18.269740,Off-Season Specials - Next Team Specials  - Stephen Curry (GSW) ,Minnesota Timberwolves,-0.020000000000000004,0.0123,0.0323
 2024-04-17 11:01:18.269740,Off-Season Specials - Next Team Specials  - Stephen Curry (GSW) ,Brooklyn Nets,-0.020000000000000004,0.0123,0.0323
-2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Sacramento Kings,-0.020000000000000004,0.0123,0.0323
 2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Washington Wizards,-0.0203,0.0385,0.0588
 2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Tomoyo Ikemura,-0.0204,0.004,0.0244
 2024-04-17 13:00:58.745603,NFL Draft - Props - College Props (1st Round) - Total BIG 12 Players Drafted in Round 1,Under 3.5,-0.020699999999999996,0.4444,0.4651
 2024-04-17 11:01:20.182357,NFL Draft - Player Markets - Player Draft Position - Nate Wiggins Draft Position,Under 26.5,-0.02169999999999994,0.5238,0.5455
+2024-04-17 21:01:23.798997,Round Match-Ups - 1st Round Matchups - T. Fleetwood vs W. Clark - 1st Round Matchups,Wyndham Clark,-0.021699999999999997,0.4545,0.4762
 2024-04-17 11:01:18.269740,Off-Season Specials - Next Team Specials  - Stephen Curry (GSW) ,Los Angeles Clippers,-0.022099999999999998,0.0164,0.0385
 2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Houston Rockets,-0.022200000000000004,0.0123,0.0345
 2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Sadom Kaewkanjana,-0.022400000000000003,0.002,0.0244
-2024-04-17 15:01:40.338819,Tournament Match-Ups - Tournament Match-Up - B. Harman v S. Burns - Requests,Sam Burns,-0.022600000000000064,0.5122,0.5348
 2024-04-17 11:01:21.172916,Boxing Lines - Brandon Adams vs Ismael Villarreal - To Win the Bout,Brandon Adams,-0.022600000000000064,0.5122,0.5348
+2024-04-17 15:01:40.338819,Tournament Match-Ups - Tournament Match-Up - B. Harman v S. Burns - Requests,Sam Burns,-0.022600000000000064,0.5122,0.5348
 2024-04-17 15:01:39.182177,Round Match-Ups - 1st Round Matchups - W. Simpson v N. Dunlap - 1st Round Matchups,Nick Dunlap,-0.022699999999999998,0.4651,0.4878
-2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Philadelphia 76ers,-0.0232,0.0435,0.0667
 2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Memphis Grizzlies,-0.0232,0.0435,0.0667
+2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Philadelphia 76ers,-0.0232,0.0435,0.0667
 2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Andy Ogletree,-0.0233,0.0152,0.0385
 2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Charlotte Hornets,-0.0236,0.0149,0.0385
+2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Utah Jazz,-0.0236,0.0149,0.0385
 2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Toronto Raptors,-0.0236,0.0149,0.0385
 2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Phoenix Suns,-0.0236,0.0149,0.0385
 2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Los Angeles Clippers,-0.0236,0.0149,0.0385
-2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Utah Jazz,-0.0236,0.0149,0.0385
 2024-04-17 15:01:37.578841,NFL Draft - Player Markets - Player Draft Position - Laiatu Latu Draft Position,Under 18.5,-0.023799999999999932,0.6429,0.6667
+2024-04-17 21:01:24.169085,Position - Finishing Position - Tommy Fleetwood - Finishing Position,19th or worse,-0.023799999999999988,0.4762,0.5
 2024-04-17 13:00:59.220530,NFL Draft - Player Markets - Player Draft Position - Nate Wiggins Draft Position,Under 26.5,-0.023800000000000043,0.5,0.5238
+2024-04-17 21:01:23.740563,Round Match-Ups - 1st Round Matchups - C. Bezuidenhout vs B. Hun An - 1st Round Matchups,Christiaan Bezuidenhout,-0.023800000000000043,0.5,0.5238
+2024-04-17 21:01:23.705241,Round Match-Ups - 1st Round Matchups - C. Kirk vs J.T. Poston - 1st Round Matchups,J. T. Poston,-0.023800000000000043,0.5,0.5238
 2024-04-17 15:01:38.482633,Boxing Lines - Brandon Adams vs Ismael Villarreal - To Win the Bout,Brandon Adams,-0.024399999999999977,0.4878,0.5122
 2024-04-17 11:01:21.125114,Boxing Lines - George Arias vs Skylar Lacy - To Win the Bout,George Arias,-0.02440000000000009,0.7403,0.7647
 2024-04-17 13:00:59.139673,NFL Draft - Player Markets - Player Draft Position - J.J. McCarthy Draft Position,Under 5.5,-0.024499999999999966,0.5833,0.6078
 2024-04-17 11:01:24.082269,Saudi Open - Saudi Open - Winner,Peter Uihlein,-0.0245,0.0588,0.0833
+2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),New Orleans Pelicans,-0.028000000000000004,0.0196,0.0476
+2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Los Angeles Lakers,-0.028000000000000004,0.0196,0.0476
 2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),San Antonio Spurs,-0.028000000000000004,0.0196,0.0476
 2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Portland Trail Blazers,-0.028000000000000004,0.0196,0.0476
-2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),New York Knicks,-0.028000000000000004,0.0196,0.0476
-2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),New Orleans Pelicans,-0.028000000000000004,0.0196,0.0476
-2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Indiana Pacers,-0.028000000000000004,0.0196,0.0476
-2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Los Angeles Lakers,-0.028000000000000004,0.0196,0.0476
 2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Atlanta Hawks,-0.028000000000000004,0.0196,0.0476
 2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Cleveland Cavaliers,-0.028000000000000004,0.0196,0.0476
+2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),New York Knicks,-0.028000000000000004,0.0196,0.0476
+2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Indiana Pacers,-0.028000000000000004,0.0196,0.0476
 2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Boston Celtics,-0.028599999999999997,0.0149,0.0435
 2024-04-17 11:01:20.041756,NFL Draft - Player Markets - Player Draft Position - Byron Murphy II Draft Position,Under 16.5,-0.030299999999999994,0.6667,0.697
 2024-04-17 11:01:18.269740,Off-Season Specials - Next Team Specials  - Stephen Curry (GSW) ,New York Knicks,-0.031,0.0278,0.0588
@@ -167,32 +174,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,Utah Jazz,-0.0321,0.0588,0.0909
 2024-04-17 13:00:58.832283,NFL Draft - Props - Position Props (1st Round) - Total Offensive Players Selected in Round 1,Under 21,-0.03480000000000005,0.5,0.5348
 2024-04-17 13:00:58.763355,NFL Draft - Props - College Props (1st Round) - Total SEC Players Drafted in Round 1,Over 9.5,-0.035699999999999954,0.7143,0.75
-2024-04-17 09:00:56.806373,NFL Draft - Team Markets - Team's First Pick - HOU Texans - Position of 1st Drafted Player in 2024 NFL Draft,Defensive Line/Edge,-0.03600000000000003,0.303,0.339
 2024-04-17 13:00:58.804733,NFL Draft - Props - Position Props (1st Round) - Total Defensive Lineman Selected in Round 1,Under 6.5,-0.03810000000000002,0.7619,0.8
 2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Dallas Mavericks,-0.038299999999999994,0.0526,0.0909
 2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Orlando Magic,-0.038299999999999994,0.0526,0.0909
 2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Miami Heat,-0.04440000000000001,0.0667,0.1111
 2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,Detroit Pistons,-0.04440000000000001,0.0667,0.1111
-2024-04-17 11:01:18.269740,Off-Season Specials - Next Team Specials  - Stephen Curry (GSW) ,Phoenix Suns,-0.044599999999999994,0.0323,0.0769
 2024-04-17 11:01:18.269740,Off-Season Specials - Next Team Specials  - Stephen Curry (GSW) ,Boston Celtics,-0.044599999999999994,0.0323,0.0769
+2024-04-17 11:01:18.269740,Off-Season Specials - Next Team Specials  - Stephen Curry (GSW) ,Phoenix Suns,-0.044599999999999994,0.0323,0.0769
 2024-04-17 13:00:59.260668,NFL Draft - Player Markets - Player Draft Position - Taliese Fuaga Draft Position,Over 13.5,-0.045499999999999985,0.5,0.5455
 2024-04-17 13:00:58.794742,NFL Draft - Props - Position Props (1st Round) - Total Cornerbacks Selected in Round 1,Over 5.5,-0.04580000000000001,0.2667,0.3125
 2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,Philadelphia 76ers,-0.048100000000000004,0.0769,0.125
-2024-04-17 09:00:56.806373,NFL Draft - Team Markets - Team's First Pick - HOU Texans - Position of 1st Drafted Player in 2024 NFL Draft,Linebacker,-0.04909999999999999,0.1176,0.1667
 2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,Oklahoma City Thunder,-0.052000000000000005,0.0909,0.1429
 2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,San Antonio Spurs,-0.052000000000000005,0.0909,0.1429
 2024-04-17 11:01:18.269740,Off-Season Specials - Next Team Specials  - Stephen Curry (GSW) ,Chicago Bulls,-0.052399999999999995,0.0385,0.0909
 2024-04-17 11:01:18.269740,Off-Season Specials - Next Team Specials  - Stephen Curry (GSW) ,Dallas Mavericks,-0.052399999999999995,0.0385,0.0909
 2024-04-17 11:01:18.269740,Off-Season Specials - Next Team Specials  - Stephen Curry (GSW) ,Miami Heat,-0.0524,0.0476,0.1
-2024-04-17 09:00:56.506605,NFL Draft - Player Markets - Player Draft Position - Tyler Guyton Draft Position,Over 29.5,-0.053100000000000036,0.3636,0.4167
+2024-04-17 21:01:22.061864,NFL Draft - Pick Markets - Draft Picks -  #2 Pick,Drake Maye,-0.055900000000000005,0.3077,0.3636
 2024-04-17 13:00:59.031049,NFL Draft - Player Markets - Player Draft Position - Adonai Mitchell Draft Position,Under 27.5,-0.05870000000000003,0.4651,0.5238
 2024-04-17 11:01:20.599124,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2024 NFL Draft,Defensive Line/Edge,-0.059099999999999986,0.2857,0.3448
 2024-04-17 11:01:20.599124,NFL Draft - Team Markets - Team's First Pick - MIA Dolphins - Position of 1st Drafted Player in 2024 NFL Draft,Wide Receiver,-0.06,0.1,0.16
+2024-04-17 21:01:22.194398,NFL Draft - Player Markets - Player Draft Position - Adonai Mitchell Draft Position,Over 27.5,-0.06230000000000002,0.5455,0.6078
 2024-04-17 11:01:18.269740,Off-Season Specials - Next Team Specials  - Stephen Curry (GSW) ,Charlotte Hornets,-0.066,0.0769,0.1429
 2024-04-17 11:01:18.251269,Off-Season Specials - Next Team Specials  - Draymond Green (GSW),Detroit Pistons,-0.07579999999999999,0.0909,0.1667
 2024-04-17 11:01:18.260412,Off-Season Specials - Next Team Specials  - Klay Thompson (GSW) ,Orlando Magic,-0.08330000000000001,0.1667,0.25
 2024-04-17 11:01:18.269740,Off-Season Specials - Next Team Specials  - Stephen Curry (GSW) ,Los Angeles Lakers,-0.0889,0.1111,0.2
 2024-04-17 11:01:19.993113,NFL Draft - Player Markets - Player Draft Position - Adonai Mitchell Draft Position,Under 27.5,-0.0988,0.5238,0.6226
-2024-04-17 09:00:56.806373,NFL Draft - Team Markets - Team's First Pick - HOU Texans - Position of 1st Drafted Player in 2024 NFL Draft,Offensive Lineman,-0.11370000000000002,0.303,0.4167
-2024-04-17 09:00:56.457506,NFL Draft - Player Markets - Player Draft Position - Quinyon Mitchell Draft Position,Under 13.5,-0.14179999999999998,0.3704,0.5122
 2024-04-17 11:01:18.269740,Off-Season Specials - Next Team Specials  - Stephen Curry (GSW) ,San Antonio Spurs,-0.19999999999999998,0.1333,0.3333
