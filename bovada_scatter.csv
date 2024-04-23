@@ -1,13 +1,15 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-04-23 03:00:40.012375,Championship - England Championship 2023/24 - Top 2 Finish,Leeds United,0.1745,0.6,0.4255
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Pelicans To Win The NBA Title,0.1266,0.4545,0.3279
+2024-04-23 15:16:09.287841,Position - Finishing Position - Nicolai Hojgaard / Rasmus Hojgaard - Finishing Position ,21st or worse,0.11040000000000005,0.6226,0.5122
 2024-04-23 11:00:57.111676,NFL Draft - Player Markets - Player Draft Position - Troy Fautanu Draft Position,Over 15.5,0.08399999999999996,0.6078,0.5238
 2024-04-23 13:01:12.089951,NFL Draft - Player Markets - Player Draft Position - Amarius Mims Draft Position,Under 22.5,0.06929999999999997,0.5455,0.4762
+2024-04-23 15:16:04.888589,NFL Draft - Team Markets - Team's First Pick - CIN Bengals - Position of 1st Drafted Player in 2024 NFL Draft,Defensive Line/Edge,0.0625,0.3125,0.25
+2024-04-23 15:15:56.547300,"Daily Specials - NBA Daily Specials - Tuesday, April 23rd","Devin Booker, Anthony Edwards & Damian Lillard 20+ Pts Each",0.062000000000000055,0.6774,0.6154
 2024-04-23 09:01:10.083239,NFL Draft - Player Markets - Position Props (1st Round) - Total Quarterbacks Selected in Round 1,Over 4.5,0.055600000000000094,0.7778,0.7222
 2024-04-23 13:01:12.408015,NFL Draft - Player Markets - Positional Groups - 1st Defensive Line/Edge Selected,Dallas Turner,0.05559999999999998,0.5,0.4444
 2024-04-23 13:01:12.720708,NFL Draft - Pick Markets - Draft Picks - First Round Pick,Kingsley Suamataia,0.05449999999999999,0.4545,0.4
 2024-04-23 09:01:10.614644,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2024 NFL Draft,Quarterback,0.052300000000000006,0.1111,0.0588
-2024-04-23 03:00:44.394416,Boxing Lines - Jerome Pampellone vs Malik Zinad - To Win the Bout,Jerome Pampellone,0.05080000000000007,0.8403,0.7895
+2024-04-23 15:16:02.993120,NFL Draft - Player Markets - Player Draft Position - Michael Penix Jr. Draft Position,Under 32.5,0.04410000000000003,0.75,0.7059
 2024-04-23 13:01:12.720708,NFL Draft - Pick Markets - Draft Picks - First Round Pick,Xavier Worthy,0.04290000000000005,0.6429,0.6
 2024-04-23 11:00:57.800593,NFL Draft - Team Markets - Team's First Pick - CIN Bengals - Position of 1st Drafted Player in 2024 NFL Draft,Cornerback,0.04269999999999999,0.1538,0.1111
 2024-04-23 07:00:38.587224,NFL Draft - Team Markets - Team's First Pick - CAR Panthers - Position of 1st Drafted Player in 2024 NFL Draft,Defensive Line/Edge,0.04240000000000001,0.1333,0.0909
@@ -18,26 +20,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-23 07:00:38.284174,NFL Draft - Player Markets - Team To Draft Player - Jayden Daniels,Washington Commanders,0.03949999999999998,0.7895,0.75
 2024-04-23 13:01:12.181658,NFL Draft - Player Markets - Player Draft Position - J.J. McCarthy Draft Position,Under 5.5,0.037800000000000056,0.5833,0.5455
 2024-04-23 09:01:11.138280,MLB Futures - MLB 2024 Player Awards - American League ROY,Heston Kjerstad (BAL),0.0374,0.0526,0.0152
+2024-04-23 15:16:02.305338,NFL Draft - Player Markets - Draft Match Ups - Penix vs Nix,Michael Penix Jr,0.03739999999999999,0.7874,0.75
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Nuggets OR Clippers To Win The NBA Title,0.03640000000000004,0.4,0.3636
 2024-04-23 09:01:11.149324,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Dylan Cease (SD),0.03640000000000001,0.0952,0.0588
 2024-04-23 09:01:10.306372,NFL Draft - Pick Markets - Draft Picks -  #3 Pick,Drake Maye,0.03599999999999992,0.697,0.661
+2024-04-23 15:16:03.783942,NFL Draft - Player Markets - Positional Groups - 1st Offensive Lineman Selected,Troy Fautanu,0.03439999999999999,0.0667,0.0323
+2024-04-23 15:16:07.780191,Boxing Lines - Maisey Rose Courtney vs Giuseppina Di Stefano - To Win the Bout,Maisey Rose Courtney,0.0343,0.9167,0.8824
+2024-04-23 15:16:04.688350,NFL Draft - Pick Markets - Draft Picks - First Round Pick,Keon Coleman,0.033399999999999985,0.1667,0.1333
 2024-04-23 13:01:12.081229,NFL Draft - Player Markets - Player Draft Position - Adonai Mitchell Draft Position,Over 27.5,0.03259999999999996,0.6552,0.6226
 2024-04-23 11:00:58.685007,Boxing Lines - Cesar Mateo Tapia vs Kevin Gonzalez - To Win the Bout,Cesar Mateo Tapia,0.03180000000000005,0.8889,0.8571
 2024-04-23 09:01:10.327308,NFL Draft - Pick Markets - Draft Picks -  #5 Pick,J.J. McCarthy,0.031399999999999983,0.2667,0.2353
 2024-04-23 09:01:10.978757,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Gunnar Henderson (BAL),0.029299999999999993,0.0769,0.0476
-2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Nuggets OR Pelicans To Win The NBA Title,0.028500000000000025,0.3226,0.2941
-2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Nuggets OR Heat To Win The NBA Title,0.028500000000000025,0.3226,0.2941
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Nuggets OR Magic To Win The NBA Title,0.028500000000000025,0.3226,0.2941
+2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Nuggets OR Heat To Win The NBA Title,0.028500000000000025,0.3226,0.2941
+2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Nuggets OR Pelicans To Win The NBA Title,0.028500000000000025,0.3226,0.2941
 2024-04-23 13:01:12.060272,NFL Draft - Player Markets - Draft Match Ups - Nabers vs Odunze,Malik Nabers,0.02729999999999999,0.8,0.7727
-2024-04-23 03:00:44.751699,Tournament Match-Ups - Tournament Match-Up - Morikawa / Kitayama vs Hojgaard / Hojgaard - Outright,Collin Morikawa / Kurt Kitayama,0.026499999999999968,0.5917,0.5652
+2024-04-23 15:16:03.512932,NFL Draft - Player Markets - Position Props (1st Round) - Total Quarterbacks Selected in Round 1,Under 4.5,0.02560000000000001,0.3333,0.3077
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Nuggets OR Cavs To Win The NBA Title,0.02560000000000001,0.3333,0.3077
 2024-04-23 13:01:13.520112,Boxing Lines - Linn Sandstrom vs Clara Lescurat - To Win the Bout,Clara Lescurat,0.025599999999999956,0.6,0.5744
 2024-04-23 09:01:10.182120,NFL Draft - Player Markets - Positional Groups - 1st Wide Receiver Selected,Marvin Harrison Jr.,0.025000000000000022,0.9,0.875
+2024-04-23 15:16:07.339848,Boxing Lines - Nikita Tszyu vs Danilo Creati - To Win the Bout,Danilo Creati,0.024999999999999994,0.125,0.1
 2024-04-23 09:01:11.149324,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Logan Webb (SF),0.0242,0.0909,0.0667
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Nuggets OR PacersTo Win The NBA Title,0.02410000000000001,0.3226,0.2985
 2024-04-23 09:01:11.149324,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Ranger Suarez (PHI),0.024,0.0625,0.0385
 2024-04-23 13:01:12.163241,"NFL Draft - Player Markets - Player Draft Position - Ga'Quincy ""Kool-Aid"" McKinstry Draft Position",Under 28.5,0.023800000000000043,0.5238,0.5
 2024-04-23 09:01:10.215523,NFL Draft - Player Markets - Team To Draft Player - Bo Nix,Las Vegas Raiders,0.023799999999999988,0.1667,0.1429
+2024-04-23 15:16:03.440572,NFL Draft - Player Markets - Position Props (1st Round) - Total Offensive Lineman Selected in Round 1,Over 9.5,0.023799999999999932,0.6667,0.6429
 2024-04-23 09:01:10.358593,NFL Draft - Pick Markets - Draft Picks -  #8 Pick,Dallas Turner,0.022999999999999965,0.3509,0.3279
 2024-04-23 11:00:57.720196,NFL Draft - Pick Markets - Draft Picks - First Round Pick,Michael Penix Jr.,0.022499999999999964,0.7368,0.7143
 2024-04-23 11:00:57.720196,NFL Draft - Pick Markets - Draft Picks - First Round Pick,"Ga'Quincy ""Kool-Aid"" McKinstry",0.02200000000000002,0.7143,0.6923
@@ -48,20 +56,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-23 13:01:12.396692,NFL Draft - Player Markets - Position Props (1st Round) - Total Wide Receivers Selected in Round 1,Under 6.5,0.02069999999999994,0.7826,0.7619
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Nuggets OR Bucks To Win The NBA Title,0.019500000000000017,0.3704,0.3509
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Nuggets OR T'Wolves To Win The NBA Title,0.018799999999999983,0.3636,0.3448
-2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Nuggets OR Mavs To Win The NBA Title,0.018799999999999983,0.3636,0.3448
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Nuggets OR Knicks To Win The NBA Title,0.018799999999999983,0.3636,0.3448
+2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Nuggets OR Mavs To Win The NBA Title,0.018799999999999983,0.3636,0.3448
+2024-04-23 15:16:02.694013,NFL Draft - Player Markets - Player Draft Position - Graham Barton Draft Position,Under 21.5,0.018399999999999972,0.7059,0.6875
 2024-04-23 13:01:12.245868,NFL Draft - Player Markets - Player Draft Position - Michael Penix Jr. Draft Position,Under 32.5,0.018399999999999972,0.7059,0.6875
+2024-04-23 15:16:02.274675,NFL Draft - Player Markets - Draft Match Ups - Nabers vs Odunze,Malik Nabers,0.018199999999999994,0.8182,0.8
 2024-04-23 09:01:11.067180,MLB Futures - MLB 2024 American League West - American League West Winner,Texas Rangers,0.018100000000000005,0.4348,0.4167
 2024-04-23 09:01:10.614644,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2024 NFL Draft,Cornerback,0.018099999999999998,0.0769,0.0588
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Nuggets OR Suns To Win The NBA Title,0.017600000000000005,0.3509,0.3333
 2024-04-23 07:00:37.908827,NFL Draft - Player Markets - Player Draft Position - Taliese Fuaga Draft Position,Over 13.5,0.017299999999999982,0.4255,0.4082
 2024-04-23 09:01:11.115904,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Tarik Skubal (DET),0.017100000000000004,0.16,0.1429
-2024-04-23 05:00:44.617930,Boxing Lines - Jerome Pampellone vs Malik Zinad - To Win the Bout,Jerome Pampellone,0.016799999999999926,0.8571,0.8403
 2024-04-23 05:00:44.606239,Boxing Lines - Cesar Mateo Tapia vs Kevin Gonzalez - To Win the Bout,Cesar Mateo Tapia,0.016799999999999926,0.8571,0.8403
+2024-04-23 05:00:44.617930,Boxing Lines - Jerome Pampellone vs Malik Zinad - To Win the Bout,Jerome Pampellone,0.016799999999999926,0.8571,0.8403
 2024-04-23 13:01:12.069696,NFL Draft - Player Markets - Draft Match Ups - Penix vs Nix,Michael Penix Jr,0.016700000000000048,0.75,0.7333
 2024-04-23 09:01:11.043027,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,0.016699999999999993,0.2667,0.25
 2024-04-23 13:01:13.493729,Boxing Lines - Shanell Dargan vs Christine Gillespie - To Win the Bout,Christine Gillespie,0.016600000000000004,0.1905,0.1739
 2024-04-23 13:01:12.720708,NFL Draft - Pick Markets - Draft Picks - First Round Pick,Junior Colson,0.015700000000000006,0.1333,0.1176
+2024-04-23 15:16:05.060886,NFL Draft - Team Markets - Team's First Pick - HOU Texans - Position of 1st Drafted Player in 2024 NFL Draft,Wide Receiver,0.015300000000000001,0.0476,0.0323
+2024-04-23 15:16:11.420274,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Stewart Cink,0.015100000000000002,0.1818,0.1667
 2024-04-23 09:01:10.602664,NFL Draft - Team Markets - Team's First Pick - JAX Jaguars - Position of 1st Drafted Player in 2024 NFL Draft,Offensive Lineman,0.015100000000000002,0.1818,0.1667
 2024-04-23 09:01:11.115904,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Reid Detmers (LAA),0.014899999999999997,0.0625,0.0476
 2024-04-23 11:00:54.108482,"Daily Soccer Specials - European Soccer Specials - Tuesday, 23rd April - European Soccer Specials - Tuesday, 23rd April",10+ corners in each match; 5+ cards in each match,0.014399999999999996,0.0769,0.0625
@@ -72,32 +84,31 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-23 13:01:12.720708,NFL Draft - Pick Markets - Draft Picks - First Round Pick,Michael Penix Jr.,0.01319999999999999,0.75,0.7368
 2024-04-23 13:01:14.418955,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Charley Hull,0.0131,0.0476,0.0345
 2024-04-23 09:01:10.978757,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Paul Goldschmidt (STL),0.0131,0.0476,0.0345
+2024-04-23 15:16:04.888589,NFL Draft - Team Markets - Team's First Pick - CIN Bengals - Position of 1st Drafted Player in 2024 NFL Draft,Cornerback,0.012899999999999995,0.1667,0.1538
 2024-04-23 09:01:11.055270,MLB Futures - MLB 2024 American League East - American League East Winner,Toronto Blue Jays,0.012899999999999995,0.1667,0.1538
 2024-04-23 09:01:11.248080,Boxing Lines - Linn Sandstrom vs Clara Lescurat - To Win the Bout,Linn Sandstrom,0.012199999999999989,0.5,0.4878
 2024-04-23 09:01:10.111485,NFL Draft - Player Markets - Position Props (1st Round) - Total Wide Receivers Selected in Round 1,Under 6.5,0.011900000000000022,0.7619,0.75
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Nuggets OR 76ers To Win The NBA Title,0.01150000000000001,0.3448,0.3333
 2024-04-23 09:01:10.390542,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Jayden Daniels / 3. Drake Maye,0.011499999999999955,0.6667,0.6552
 2024-04-23 13:01:14.401095,Adelaide - Adelaide - Winner,Joaquin Niemann,0.011099999999999999,0.1111,0.1
-2024-04-23 03:00:44.716590,Tournament Match-Ups - Tournament Match-Up - Hossler / Ryder vs Horschel / Alexander - Outright,Beau Hossler / Sam Ryder,0.01100000000000001,0.5348,0.5238
 2024-04-23 13:01:14.418955,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Hyo Joo Kim,0.010700000000000001,0.0385,0.0278
-2024-04-23 03:00:44.764254,Tournament Match-Ups - Tournament Match-Up - Thompson / Novak vs Wallace / Olesen - Outright,Davis Thompson / Andrew Novak,0.010699999999999932,0.5455,0.5348
-2024-04-23 03:00:44.810257,ISPS Handa Championship - ISPS Handa Championship - Winner,Christiaan Bezuidenhout,0.0102,0.0769,0.0667
-2024-04-23 03:00:44.810257,ISPS Handa Championship - ISPS Handa Championship - Winner,Matthieu Pavon,0.0102,0.0769,0.0667
-2024-04-23 03:00:41.611117,Super Ligi - Turkey BSL 2023/24 - Outright,Fenerbahce,0.010099999999999998,0.5556,0.5455
-2024-04-23 09:01:10.327308,NFL Draft - Pick Markets - Draft Picks -  #5 Pick,Malik Nabers,-0.010099999999999998,0.3125,0.3226
+2024-04-23 15:16:05.060886,NFL Draft - Team Markets - Team's First Pick - HOU Texans - Position of 1st Drafted Player in 2024 NFL Draft,Defensive Line/Edge,0.010699999999999987,0.3333,0.3226
+2024-04-23 15:16:02.597022,NFL Draft - Player Markets - Player Draft Position - Cooper DeJean Draft Position,Over 22.5,0.010699999999999932,0.5455,0.5348
+2024-04-23 15:16:04.278996,NFL Draft - Pick Markets - Draft Picks -  #2 Pick,Jayden Daniels,0.010500000000000065,0.8,0.7895
+2024-04-23 15:16:03.783942,NFL Draft - Player Markets - Positional Groups - 1st Offensive Lineman Selected,J.C. Latham,0.0102,0.0769,0.0667
 2024-04-23 13:01:12.209024,NFL Draft - Player Markets - Player Draft Position - JC Latham Draft Position,Over 14.5,-0.010099999999999998,0.4444,0.4545
+2024-04-23 15:16:02.597022,NFL Draft - Player Markets - Player Draft Position - Cooper DeJean Draft Position,Under 22.5,-0.010099999999999998,0.5455,0.5556
+2024-04-23 09:01:10.327308,NFL Draft - Pick Markets - Draft Picks -  #5 Pick,Malik Nabers,-0.010099999999999998,0.3125,0.3226
 2024-04-23 11:00:58.614389,Boxing Lines - Charlie Kazzi vs Joe Kara - To Win the Bout,Joe Kara,-0.0102,0.0667,0.0769
 2024-04-23 09:01:11.149324,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Freddy Peralta (MIL),-0.010499999999999982,0.2,0.2105
-2024-04-23 03:00:44.716590,Tournament Match-Ups - Tournament Match-Up - Hossler / Ryder vs Horschel / Alexander - Outright,Billy Horschel / Tyson Alexander,-0.010699999999999932,0.5348,0.5455
 2024-04-23 09:01:10.111485,NFL Draft - Player Markets - Position Props (1st Round) - Total Wide Receivers Selected in Round 1,Over 6.5,-0.010699999999999987,0.3226,0.3333
-2024-04-23 03:00:44.764254,Tournament Match-Ups - Tournament Match-Up - Thompson / Novak vs Wallace / Olesen - Outright,Matt Wallace / Thorbjorn Olesen,-0.01100000000000001,0.5238,0.5348
-2024-04-23 03:00:44.406236,Boxing Lines - Nikita Tszyu vs Danilo Creati - To Win the Bout,Danilo Creati,-0.011099999999999999,0.1,0.1111
-2024-04-23 03:00:41.611117,Super Ligi - Turkey BSL 2023/24 - Outright,Anadolu Efes,-0.011099999999999999,0.4651,0.4762
+2024-04-23 15:16:07.045209,Elite Boxing - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Oleksandr Usyk,-0.01100000000000001,0.5238,0.5348
+2024-04-23 15:16:07.045209,Elite Boxing - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Tyson Fury,-0.01100000000000001,0.5238,0.5348
 2024-04-23 09:01:10.978757,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Alex Bregman (HOU),-0.011199999999999995,0.0476,0.0588
 2024-04-23 09:01:10.390542,NFL Draft - Pick Markets - Draft Picks - Top 3 Picks Exact Order,1. Caleb Williams / 2. Jayden Daniels / 3. J.J. McCarthy,-0.011700000000000016,0.2105,0.2222
 2024-04-23 09:01:10.306372,NFL Draft - Pick Markets - Draft Picks -  #3 Pick,Jayden Daniels,-0.011700000000000016,0.2105,0.2222
-2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR Knicks To Win The NBA Title,-0.0121,0.1212,0.1333
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR T'Wolves To Win The NBA Title,-0.0121,0.1212,0.1333
+2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR Knicks To Win The NBA Title,-0.0121,0.1212,0.1333
 2024-04-23 11:00:58.671978,Boxing Lines - Linn Sandstrom vs Clara Lescurat - To Win the Bout,Linn Sandstrom,-0.012199999999999989,0.4878,0.5
 2024-04-23 05:00:44.594318,Boxing Lines - Linn Sandstrom vs Clara Lescurat - To Win the Bout,Linn Sandstrom,-0.012199999999999989,0.4878,0.5
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR Suns To Win The NBA Title,-0.012299999999999991,0.1053,0.1176
@@ -107,21 +118,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-23 09:01:10.978757,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,George Springer (TOR),-0.0131,0.0345,0.0476
 2024-04-23 11:00:58.600353,Boxing Lines - Andrei Mikhailovich vs Les Sherrington - To Win the Bout,Les Sherrington,-0.013899999999999996,0.1111,0.125
 2024-04-23 13:01:13.493729,Boxing Lines - Shanell Dargan vs Christine Gillespie - To Win the Bout,Shanell Dargan,-0.013900000000000023,0.875,0.8889
-2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,76ers OR T'Wolves To Win The NBA Title,-0.013999999999999999,0.0769,0.0909
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR Pacers To Win The NBA Title,-0.013999999999999999,0.0769,0.0909
+2024-04-23 15:16:03.783942,NFL Draft - Player Markets - Positional Groups - 1st Offensive Lineman Selected,Taliese Fuaga,-0.013999999999999999,0.0769,0.0909
+2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,76ers OR T'Wolves To Win The NBA Title,-0.013999999999999999,0.0769,0.0909
 2024-04-23 09:01:10.978757,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Juan Soto (NYY),-0.014099999999999994,0.0526,0.0667
-2024-04-23 03:00:40.012375,Championship - England Championship 2023/24 - Top 2 Finish,Southampton,-0.014099999999999998,0.0244,0.0385
 2024-04-23 07:00:39.122607,Boxing Lines - Andrei Mikhailovich vs Les Sherrington - To Win the Bout,Andrei Mikhailovich,-0.014100000000000001,0.9333,0.9474
 2024-04-23 09:01:10.327308,NFL Draft - Pick Markets - Draft Picks -  #5 Pick,Drake Maye,-0.014399999999999996,0.0625,0.0769
 2024-04-23 13:01:12.245868,NFL Draft - Player Markets - Player Draft Position - Michael Penix Jr. Draft Position,Over 32.5,-0.01479999999999998,0.3774,0.3922
+2024-04-23 15:16:02.694013,NFL Draft - Player Markets - Player Draft Position - Graham Barton Draft Position,Over 21.5,-0.01479999999999998,0.3774,0.3922
 2024-04-23 09:01:10.327308,NFL Draft - Pick Markets - Draft Picks -  #5 Pick,J.C. Latham,-0.014899999999999997,0.0476,0.0625
 2024-04-23 09:01:11.149324,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Zack Wheeler (PHI),-0.015100000000000002,0.1667,0.1818
 2024-04-23 09:01:11.965164,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Stewart Cink,-0.015100000000000002,0.1667,0.1818
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,76ers OR Pelicans To Win The NBA Title,-0.015300000000000001,0.0323,0.0476
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,76ers OR Cavs To Win The NBA Title,-0.015300000000000001,0.0435,0.0588
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Clippers OR Lakers To Win The NBA Title,-0.015700000000000006,0.1176,0.1333
-2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR Heat To Win The NBA Title,-0.016600000000000004,0.0667,0.0833
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR Magic To Win The NBA Title,-0.016600000000000004,0.0667,0.0833
+2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR Heat To Win The NBA Title,-0.016600000000000004,0.0667,0.0833
+2024-04-23 15:16:05.397312,NFL Draft - Team Markets - Team's First Pick - SEA Seahawks - Position of 1st Drafted Player in 2024 NFL Draft,Defensive Line/Edge,-0.016699999999999993,0.4,0.4167
+2024-04-23 15:16:03.440572,NFL Draft - Player Markets - Position Props (1st Round) - Total Offensive Lineman Selected in Round 1,Under 9.5,-0.016699999999999993,0.4,0.4167
 2024-04-23 05:00:44.606239,Boxing Lines - Cesar Mateo Tapia vs Kevin Gonzalez - To Win the Bout,Kevin Gonzalez,-0.01680000000000001,0.2105,0.2273
 2024-04-23 05:00:44.617930,Boxing Lines - Jerome Pampellone vs Malik Zinad - To Win the Bout,Malik Zinad,-0.01680000000000001,0.2105,0.2273
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR Bucks To Win The NBA Title,-0.0179,0.125,0.1429
@@ -130,6 +144,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-23 13:01:12.163241,"NFL Draft - Player Markets - Player Draft Position - Ga'Quincy ""Kool-Aid"" McKinstry Draft Position",Over 28.5,-0.018100000000000005,0.5652,0.5833
 2024-04-23 07:00:37.908827,NFL Draft - Player Markets - Player Draft Position - Taliese Fuaga Draft Position,Under 13.5,-0.01880000000000004,0.6364,0.6552
 2024-04-23 09:01:10.358593,NFL Draft - Pick Markets - Draft Picks -  #8 Pick,Laiatu Latu,-0.019000000000000017,0.2667,0.2857
+2024-04-23 15:16:02.274675,NFL Draft - Player Markets - Draft Match Ups - Nabers vs Odunze,Rome Odunze,-0.019000000000000017,0.2667,0.2857
+2024-04-23 15:16:07.339848,Boxing Lines - Nikita Tszyu vs Danilo Creati - To Win the Bout,Nikita Tszyu,-0.019100000000000006,0.9333,0.9524
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,76ers OR Bucks To Win The NBA Title,-0.019299999999999998,0.0833,0.1026
 2024-04-23 13:01:12.396692,NFL Draft - Player Markets - Position Props (1st Round) - Total Wide Receivers Selected in Round 1,Over 6.5,-0.019600000000000006,0.303,0.3226
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,76ers OR Heat To Win The NBA Title,-0.019800000000000005,0.0278,0.0476
@@ -138,15 +154,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-23 07:00:39.360108,Boxing Lines - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Tyson Fury,-0.02169999999999994,0.5238,0.5455
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR Mavs To Win The NBA Title,-0.021699999999999997,0.1212,0.1429
 2024-04-23 09:01:11.115904,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Corbin Burnes (BAL),-0.021799999999999986,0.16,0.1818
-2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Knicks OR Lakers To Win The NBA Title,-0.022000000000000006,0.0833,0.1053
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Lakers OR T'Wolves To Win The NBA Title,-0.022000000000000006,0.0833,0.1053
+2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Knicks OR Lakers To Win The NBA Title,-0.022000000000000006,0.0833,0.1053
 2024-04-23 09:01:11.138280,MLB Futures - MLB 2024 Player Awards - American League ROY,Wyatt Langford (TEX),-0.022199999999999998,0.2,0.2222
 2024-04-23 13:01:13.520112,Boxing Lines - Linn Sandstrom vs Clara Lescurat - To Win the Bout,Linn Sandstrom,-0.022699999999999998,0.4651,0.4878
-2024-04-23 09:01:10.978757,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Ronald Acuna Jr. (ATL),-0.02310000000000001,0.0769,0.1
 2024-04-23 09:01:10.978757,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Yordan Alvarez (HOU),-0.02310000000000001,0.0769,0.1
+2024-04-23 09:01:10.978757,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Ronald Acuna Jr. (ATL),-0.02310000000000001,0.0769,0.1
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,76ers OR Mavs To Win The NBA Title,-0.02310000000000001,0.0769,0.1
 2024-04-23 13:01:12.069696,NFL Draft - Player Markets - Draft Match Ups - Penix vs Nix,Bo Nix,-0.023799999999999988,0.3333,0.3571
-2024-04-23 03:00:44.751699,Tournament Match-Ups - Tournament Match-Up - Morikawa / Kitayama vs Hojgaard / Hojgaard - Outright,Nicolai Hojgaard / Rasmus Hojgaard,-0.023799999999999988,0.4762,0.5
+2024-04-23 15:16:05.060886,NFL Draft - Team Markets - Team's First Pick - HOU Texans - Position of 1st Drafted Player in 2024 NFL Draft,Safety,-0.023799999999999988,0.1429,0.1667
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Lakers OR Suns To Win The NBA Title,-0.0242,0.0667,0.0909
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,76ers OR Suns To Win The NBA Title,-0.024299999999999995,0.0526,0.0769
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Lakers OR Pelicans To Win The NBA Title,-0.024299999999999995,0.0345,0.0588
@@ -157,34 +173,39 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-23 13:01:12.060272,NFL Draft - Player Markets - Draft Match Ups - Nabers vs Odunze,Rome Odunze,-0.02679999999999999,0.2857,0.3125
 2024-04-23 09:01:10.614644,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2024 NFL Draft,Wide Receiver,-0.02679999999999999,0.1111,0.1379
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Lakers OR Mavs To Win The NBA Title,-0.027800000000000005,0.0833,0.1111
+2024-04-23 15:16:03.512932,NFL Draft - Player Markets - Position Props (1st Round) - Total Quarterbacks Selected in Round 1,Over 4.5,-0.027800000000000047,0.75,0.7778
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Lakers OR Pacers To Win The NBA Title,-0.028199999999999996,0.0385,0.0667
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Lakers OR Cavs To Win The NBA Title,-0.029299999999999993,0.0476,0.0769
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Thunder To Win The NBA Title,-0.030399999999999983,0.5348,0.5652
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Bucks To Win The NBA Title,-0.03179999999999994,0.5238,0.5556
 2024-04-23 09:01:11.055270,MLB Futures - MLB 2024 American League East - American League East Winner,New York Yankees,-0.031799999999999995,0.4444,0.4762
+2024-04-23 15:16:05.060886,NFL Draft - Team Markets - Team's First Pick - HOU Texans - Position of 1st Drafted Player in 2024 NFL Draft,Linebacker,-0.03259999999999999,0.1053,0.1379
 2024-04-23 09:01:11.331671,Boxing Lines - Brandon Figueroa vs Jessie Magdaleno - To Win the Bout,Brandon Figueroa,-0.033299999999999996,0.9,0.9333
-2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Heat To Win The NBA Title,-0.033299999999999996,0.4545,0.4878
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Magic To Win The NBA Title,-0.033299999999999996,0.4545,0.4878
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Pacers To Win The NBA Title,-0.033299999999999996,0.4545,0.4878
+2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Heat To Win The NBA Title,-0.033299999999999996,0.4545,0.4878
 2024-04-23 09:01:10.182120,NFL Draft - Player Markets - Positional Groups - 1st Wide Receiver Selected,Malik Nabers,-0.03369999999999998,0.1481,0.1818
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Lakers OR Bucks To Win The NBA Title,-0.0343,0.0833,0.1176
+2024-04-23 15:16:02.305338,NFL Draft - Player Markets - Draft Match Ups - Penix vs Nix,Bo Nix,-0.0348,0.2985,0.3333
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Cavs To Win The NBA Title,-0.03489999999999999,0.4651,0.5
 2024-04-23 09:01:11.172250,MLB Futures - MLB 2024 Player Awards - National League ROY,Yoshinobu Yamamoto (R),-0.0353,0.2,0.2353
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Suns To Win The NBA Title,-0.03600000000000003,0.4878,0.5238
 2024-04-23 11:00:58.685007,Boxing Lines - Cesar Mateo Tapia vs Kevin Gonzalez - To Win the Bout,Kevin Gonzalez,-0.036599999999999994,0.1739,0.2105
-2024-04-23 03:00:40.012375,Championship - England Championship 2023/24 - Top 2 Finish,Leicester City,-0.03759999999999997,0.9333,0.9709
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR Lakers To Win The NBA Title,-0.038099999999999995,0.0952,0.1333
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,76ers OR Lakers To Win The NBA Title,-0.038299999999999994,0.0526,0.0909
+2024-04-23 15:16:07.780191,Boxing Lines - Maisey Rose Courtney vs Giuseppina Di Stefano - To Win the Bout,Giuseppina Di Stefano,-0.03889999999999999,0.1429,0.1818
 2024-04-23 13:01:12.923235,NFL Draft - Team Markets - Team's First Pick - PHI Eagles - Position of 1st Drafted Player in 2024 NFL Draft,Offensive Lineman,-0.0393,0.3774,0.4167
 2024-04-23 09:01:10.978757,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Xander Bogaerts (SD),-0.04120000000000001,0.0588,0.1
+2024-04-23 15:16:04.888589,NFL Draft - Team Markets - Team's First Pick - CIN Bengals - Position of 1st Drafted Player in 2024 NFL Draft,Wide Receiver,-0.04240000000000001,0.0909,0.1333
+2024-04-23 15:16:02.993120,NFL Draft - Player Markets - Player Draft Position - Michael Penix Jr. Draft Position,Over 32.5,-0.04410000000000003,0.3333,0.3774
 2024-04-23 09:01:10.614644,NFL Draft - Team Markets - Team's First Pick - LA Rams - Position of 1st Drafted Player in 2024 NFL Draft,Defensive Line/Edge,-0.044399999999999995,0.4,0.4444
-2024-04-23 13:01:12.181658,NFL Draft - Player Markets - Player Draft Position - J.J. McCarthy Draft Position,Over 5.5,-0.045499999999999985,0.5,0.5455
-2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Mavs To Win The NBA Title,-0.045499999999999985,0.5,0.5455
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Knicks To Win The NBA Title,-0.045499999999999985,0.5,0.5455
+2024-04-23 13:01:12.181658,NFL Draft - Player Markets - Player Draft Position - J.J. McCarthy Draft Position,Over 5.5,-0.045499999999999985,0.5,0.5455
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR T'Wolves To Win The NBA Title,-0.045499999999999985,0.5,0.5455
+2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Mavs To Win The NBA Title,-0.045499999999999985,0.5,0.5455
 2024-04-23 13:01:12.081229,NFL Draft - Player Markets - Player Draft Position - Adonai Mitchell Draft Position,Under 27.5,-0.04630000000000001,0.4082,0.4545
 2024-04-23 07:00:35.456625,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR 76ers To Win The NBA Title,-0.04760000000000003,0.4762,0.5238
-2024-04-23 03:00:44.394416,Boxing Lines - Jerome Pampellone vs Malik Zinad - To Win the Bout,Malik Zinad,-0.05049999999999999,0.2273,0.2778
+2024-04-23 15:16:04.888589,NFL Draft - Team Markets - Team's First Pick - CIN Bengals - Position of 1st Drafted Player in 2024 NFL Draft,Offensive Lineman,-0.04910000000000003,0.6,0.6491
 2024-04-23 13:01:12.089951,NFL Draft - Player Markets - Player Draft Position - Amarius Mims Draft Position,Over 22.5,-0.05449999999999999,0.5455,0.6
 2024-04-23 09:01:10.083239,NFL Draft - Player Markets - Position Props (1st Round) - Total Quarterbacks Selected in Round 1,Under 4.5,-0.055900000000000005,0.3077,0.3636
 2024-04-23 09:01:10.978757,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Julio Rodriguez (SEA),-0.058300000000000005,0.0667,0.125
@@ -193,4 +214,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-23 09:01:10.978757,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Fernando Tatis Jr. (SD),-0.07579999999999999,0.0909,0.1667
 2024-04-23 11:00:57.111676,NFL Draft - Player Markets - Player Draft Position - Troy Fautanu Draft Position,Under 15.5,-0.10010000000000002,0.4651,0.5652
 2024-04-23 09:01:10.991528,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Pitcher - Main Slate - MLB DFS Best Performing Pitcher,Logan Gilbert (SEA),-0.1111,0.1111,0.2222
-2024-04-23 03:00:40.012375,Championship - England Championship 2023/24 - Top 2 Finish,Ipswich Town,-0.14680000000000004,0.5455,0.6923
+2024-04-23 15:16:09.287841,Position - Finishing Position - Nicolai Hojgaard / Rasmus Hojgaard - Finishing Position ,20th or better,-0.11119999999999997,0.4444,0.5556
