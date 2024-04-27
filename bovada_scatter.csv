@@ -22,6 +22,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Doug Barron,0.0515,0.0667,0.0152
 2024-04-26 15:15:47.939681,NFL Draft - Player Markets - Positional Groups - 1st Safety Selected,Cole Bishop,0.0509,0.1176,0.0667
 2024-04-26 15:15:49.138902,Boxing Lines - Yoenis Tellez vs Joseph Jackson - To Win the Bout,Joseph Jackson,0.0489,0.1739,0.125
+2024-04-26 21:13:22.586142,BKFC: Knuckle Mania 4 - David Diaz vs Shane Jordan - To Win the Bout,David Diaz,0.045499999999999985,0.5455,0.5
 2024-04-26 11:15:45.245746,MLB Futures - MLB 2024 Player Awards - National League MVP,Elly De La Cruz (CIN),0.04360000000000001,0.0714,0.0278
 2024-04-26 09:14:51.817844,NFL Draft - Player Markets - Positional Groups - 1st Linebacked Selected,Edgerrin Cooper,0.043399999999999994,0.5556,0.5122
 2024-04-26 09:14:51.920210,NFL Draft - Team Markets - Team's First Pick - BUF Bills - Position of 1st Drafted Player in 2024 NFL Draft,Cornerback,0.042899999999999994,0.1429,0.1
@@ -56,8 +57,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-26 09:14:54.367582,BKFC: Knuckle Mania 4 - Todd Duffee vs Ben Rothwell - To Win the Bout,Ben Rothwell,0.018199999999999994,0.8182,0.8
 2024-04-26 15:15:43.130065,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,Jamal Murray (DEN),0.018099999999999998,0.0526,0.0345
 2024-04-26 09:14:54.461338,BKFC: Knuckle Mania 4 - Richard Brooks vs Tommy Aaron - To Win the Bout,Tommy Aaron,0.01759999999999995,0.6667,0.6491
-2024-04-26 09:14:54.639094,BKFC: Knuckle Mania 4 - Jeremiah Riggs vs Alfredo Angulo - To Win the Bout,Jeremiah Riggs,0.017299999999999982,0.303,0.2857
 2024-04-26 11:15:45.914543,Boxing Lines - Marlen Esparza vs Gabriela Celeste Alaniz - To Win the Bout,Marlen Esparza,0.017299999999999982,0.5917,0.5744
+2024-04-26 09:14:54.639094,BKFC: Knuckle Mania 4 - Jeremiah Riggs vs Alfredo Angulo - To Win the Bout,Jeremiah Riggs,0.017299999999999982,0.303,0.2857
 2024-04-26 09:14:54.566701,BKFC: Knuckle Mania 4 - Evgeny Kurdanov vs Julian Lane - To Win the Bout,Julian Lane,0.016699999999999993,0.4167,0.4
 2024-04-26 19:13:22.162288,BKFC: Knuckle Mania 4 - Mick Terrill vs Lorenzo Hunt - To Win the Bout,Lorenzo Hunt,0.01539999999999997,0.6875,0.6721
 2024-04-26 09:14:51.684275,NFL Draft - Specials - Day 2 Specials - Proposition,"Offensive Linemen to be Drafted at Pick 34, Pick 35 and Pick 36",0.015300000000000001,0.0476,0.0323
@@ -71,6 +72,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-26 11:15:45.430689,Boxing Lines - Yoenis Tellez vs Joseph Jackson - To Win the Bout,Joseph Jackson,0.013899999999999996,0.125,0.1111
 2024-04-26 09:14:47.317636,"Daily Specials - NBA Daily Specials - Friday, April 26th","Bucks, Pacers, Mavs & Suns each 20+ points in each quarter",0.013600000000000001,0.3077,0.2941
 2024-04-26 11:15:43.982153,NFL Draft - Player Markets - Team To Draft Player - Blake Corum,Baltimore Ravens,0.0126,0.0526,0.04
+2024-04-26 21:13:22.480827,BKFC: Knuckle Mania 4 - Keith Richardson vs Cody Vidal - To Win the Bout,Keith Richardson,0.012199999999999989,0.5,0.4878
 2024-04-26 19:13:21.257079,Boxing Lines - Marlen Esparza vs Gabriela Celeste Alaniz - To Win the Bout,Gabriela Celeste Alaniz,0.012199999999999989,0.5,0.4878
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Paul Goydos,0.012100000000000001,0.0244,0.0123
 2024-04-26 15:15:47.837357,NFL Draft - Player Markets - Positional Groups - 1st Running Back Selected,Blake Corum,0.011899999999999994,0.0833,0.0714
@@ -79,12 +81,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-26 11:15:45.845383,Boxing Lines - Joseph Diaz vs Oscar Duarte Jurado - To Win the Bout,Joseph Diaz,0.0116,0.2469,0.2353
 2024-04-26 19:13:21.889484,BKFC: Knuckle Mania 4 - Keith Richardson vs Cody Vidal - To Win the Bout,Keith Richardson,0.0116,0.4878,0.4762
 2024-04-26 19:13:21.972395,BKFC: Knuckle Mania 4 - Evgeny Kurdanov vs Julian Lane - To Win the Bout,Evgeny Kurdanov,0.011499999999999955,0.6667,0.6552
+2024-04-26 21:13:22.662798,BKFC: Knuckle Mania 4 - Frank Alvarez vs Victor Rosas - To Win the Bout,Frank Alvarez,0.011499999999999955,0.6667,0.6552
 2024-04-26 09:14:53.045061,MLB Futures - MLB 2024 Player Awards - American League MVP,Jose Altuve (HOU),0.011199999999999995,0.0435,0.0323
 2024-04-26 15:15:50.311885,BKFC: Knuckle Mania 4 - Keith Richardson vs Cody Vidal - To Win the Bout,Keith Richardson,0.011099999999999999,0.4762,0.4651
 2024-04-26 11:15:45.245746,MLB Futures - MLB 2024 Player Awards - National League MVP,Seiya Suzuki (CHC),0.010700000000000001,0.0385,0.0278
 2024-04-26 09:14:53.267077,Boxing Lines - Junaid Bostan vs Jack Martin - To Win the Bout,Junaid Bostan,0.010199999999999987,0.9333,0.9231
-2024-04-26 11:15:47.224601,BKFC: Knuckle Mania 4 - Mick Terrill vs Lorenzo Hunt - To Win the Bout,Lorenzo Hunt,0.010099999999999998,0.6875,0.6774
 2024-04-26 15:15:47.939681,NFL Draft - Player Markets - Positional Groups - 1st Safety Selected,Jaden Hicks,0.010099999999999998,0.1053,0.0952
+2024-04-26 11:15:47.224601,BKFC: Knuckle Mania 4 - Mick Terrill vs Lorenzo Hunt - To Win the Bout,Lorenzo Hunt,0.010099999999999998,0.6875,0.6774
+2024-04-26 21:13:22.704808,BKFC: Knuckle Mania 4 - Jeremiah Riggs vs Alfredo Angulo - To Win the Bout,Jeremiah Riggs,-0.010099999999999998,0.3125,0.3226
 2024-04-26 11:15:44.136531,NFL Draft - Player Markets - Positional Groups - 1st Safety Selected,Jaden Hicks,-0.010099999999999998,0.0952,0.1053
 2024-04-26 09:14:53.233044,Boxing Lines - Joe Mcgrail vs Ryan Walker - To Win the Bout,Ryan Walker (R),-0.0102,0.0667,0.0769
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Kevin Sutherland,-0.010700000000000001,0.0278,0.0385
@@ -101,8 +105,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-26 11:15:44.136531,NFL Draft - Player Markets - Positional Groups - 1st Safety Selected,Calen Bullock,-0.012600000000000007,0.0588,0.0714
 2024-04-26 09:14:54.639094,BKFC: Knuckle Mania 4 - Jeremiah Riggs vs Alfredo Angulo - To Win the Bout,Alfredo Angulo,-0.0131,0.7647,0.7778
 2024-04-26 11:15:38.817656,NBA Specials - D'Angelo Russell team at start of 24/25 season? - Proposition,Portland Trail Blazers,-0.013899999999999996,0.1111,0.125
-2024-04-26 11:15:38.817656,NBA Specials - D'Angelo Russell team at start of 24/25 season? - Proposition,Washington Wizards,-0.013999999999999999,0.0769,0.0909
 2024-04-26 09:14:47.280316,NBA Specials - Next Lakers Coach after Darvin Ham - Proposition,JB Bickerstaff,-0.013999999999999999,0.0769,0.0909
+2024-04-26 11:15:38.817656,NBA Specials - D'Angelo Russell team at start of 24/25 season? - Proposition,Washington Wizards,-0.013999999999999999,0.0769,0.0909
 2024-04-26 11:15:45.430689,Boxing Lines - Yoenis Tellez vs Joseph Jackson - To Win the Bout,Yoenis Tellez,-0.014100000000000001,0.9333,0.9474
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Ricardo Gonzalez,-0.0145,0.0099,0.0244
 2024-04-26 09:14:53.536098,Boxing Lines - Joseph Diaz vs Oscar Duarte Jurado - To Win the Bout,Joseph Diaz,-0.01469999999999999,0.2353,0.25
@@ -113,8 +117,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-26 09:14:54.461338,BKFC: Knuckle Mania 4 - Richard Brooks vs Tommy Aaron - To Win the Bout,Richard Brooks,-0.016699999999999993,0.4,0.4167
 2024-04-26 09:14:54.367582,BKFC: Knuckle Mania 4 - Todd Duffee vs Ben Rothwell - To Win the Bout,Todd Duffee,-0.016699999999999993,0.25,0.2667
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Brian Gay,-0.0168,0.0217,0.0385
-2024-04-26 17:14:39.704493,Boxing Lines - Marlen Esparza vs Gabriela Celeste Alaniz - To Win the Bout,Marlen Esparza,-0.017299999999999982,0.5744,0.5917
 2024-04-26 19:13:21.889484,BKFC: Knuckle Mania 4 - Keith Richardson vs Cody Vidal - To Win the Bout,Cody Vidal,-0.017299999999999982,0.5744,0.5917
+2024-04-26 17:14:39.704493,Boxing Lines - Marlen Esparza vs Gabriela Celeste Alaniz - To Win the Bout,Marlen Esparza,-0.017299999999999982,0.5744,0.5917
 2024-04-26 09:14:54.566701,BKFC: Knuckle Mania 4 - Evgeny Kurdanov vs Julian Lane - To Win the Bout,Evgeny Kurdanov,-0.01759999999999995,0.6491,0.6667
 2024-04-26 11:15:44.249900,NFL Draft - Team Markets - Team's First Pick - BUF Bills - Position of 1st Drafted Player in 2024 NFL Draft,Wide Receiver,-0.018199999999999994,0.8,0.8182
 2024-04-26 11:15:44.136531,NFL Draft - Player Markets - Positional Groups - 1st Safety Selected,Kamren Kinchens,-0.018200000000000004,0.0294,0.0476
@@ -125,8 +129,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-26 11:15:38.817656,NBA Specials - D'Angelo Russell team at start of 24/25 season? - Proposition,Los Angeles Clippers,-0.023799999999999988,0.1429,0.1667
 2024-04-26 11:15:38.817656,NBA Specials - D'Angelo Russell team at start of 24/25 season? - Proposition,Chicago Bulls,-0.023799999999999988,0.1429,0.1667
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Paul Stankowski,-0.023799999999999998,0.004,0.0278
-2024-04-26 09:14:53.045061,MLB Futures - MLB 2024 Player Awards - American League MVP,Aaron Judge (NYY),-0.0238,0.0476,0.0714
 2024-04-26 09:14:51.760552,NFL Draft - Player Markets - Positional Groups - 1st Running Back Selected,Marshawn Lloyd,-0.0238,0.0476,0.0714
+2024-04-26 09:14:53.045061,MLB Futures - MLB 2024 Player Awards - American League MVP,Aaron Judge (NYY),-0.0238,0.0476,0.0714
 2024-04-26 19:13:22.030440,BKFC: Knuckle Mania 4 - Jeremiah Riggs vs Alfredo Angulo - To Win the Bout,Alfredo Angulo,-0.02440000000000009,0.7403,0.7647
 2024-04-26 17:14:41.276371,Round Scores - 2nd Round Score - Bryson DeChambeau - 2nd Round Score,Over 66.5,-0.025599999999999956,0.5744,0.6
 2024-04-26 11:15:44.136531,NFL Draft - Player Markets - Positional Groups - 1st Safety Selected,Dadrion Taylor-Demerson,-0.025599999999999998,0.0179,0.0435
@@ -146,6 +150,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-26 15:15:47.969405,NFL Draft - Player Markets - Positional Groups - 2nd Tight End Selected,Ben Sinnott,-0.03689999999999999,0.2857,0.3226
 2024-04-26 09:14:54.709469,BKFC: Knuckle Mania 4 - Mick Terrill vs Lorenzo Hunt - To Win the Bout,Lorenzo Hunt,-0.036900000000000044,0.6774,0.7143
 2024-04-26 11:15:44.039873,NFL Draft - Player Markets - Positional Groups - 1st Running Back Selected,Trey Benson,-0.03920000000000001,0.2941,0.3333
+2024-04-26 21:13:22.586142,BKFC: Knuckle Mania 4 - David Diaz vs Shane Jordan - To Win the Bout,Shane Jordan,-0.04139999999999999,0.5238,0.5652
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Miguel Angel Jimenez,-0.04239999999999999,0.0345,0.0769
 2024-04-26 15:15:47.837357,NFL Draft - Player Markets - Positional Groups - 1st Running Back Selected,Trey Benson,-0.04409999999999997,0.25,0.2941
 2024-04-26 15:15:49.138902,Boxing Lines - Yoenis Tellez vs Joseph Jackson - To Win the Bout,Yoenis Tellez,-0.044399999999999995,0.8889,0.9333
@@ -154,8 +159,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Stephen Ames,-0.05249999999999999,0.0244,0.0769
 2024-04-26 11:15:44.136531,NFL Draft - Player Markets - Positional Groups - 1st Safety Selected,Javon Bullard,-0.0539,0.1961,0.25
 2024-04-26 19:13:21.953273,BKFC: Knuckle Mania 4 - David Diaz vs Shane Jordan - To Win the Bout,David Diaz,-0.05559999999999998,0.5,0.5556
-2024-04-26 09:14:47.280316,NBA Specials - Next Lakers Coach after Darvin Ham - Proposition,Jamahl Mosley,-0.0635,0.0476,0.1111
 2024-04-26 11:15:38.817656,NBA Specials - D'Angelo Russell team at start of 24/25 season? - Proposition,Atlanta Hawks,-0.0635,0.2222,0.2857
+2024-04-26 09:14:47.280316,NBA Specials - Next Lakers Coach after Darvin Ham - Proposition,Jamahl Mosley,-0.0635,0.0476,0.1111
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Stewart Cink,-0.08179999999999998,0.1,0.1818
 2024-04-26 09:14:51.760552,NFL Draft - Player Markets - Positional Groups - 1st Running Back Selected,Trey Benson,-0.0922,0.3333,0.4255
 2024-04-26 09:14:51.920210,NFL Draft - Team Markets - Team's First Pick - BUF Bills - Position of 1st Drafted Player in 2024 NFL Draft,Defensive Line/Edge,-0.09639999999999999,0.1739,0.2703
