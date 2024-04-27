@@ -1,14 +1,19 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-27 01:11:35.410132,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Grace Kim,0.42310000000000003,0.5,0.0769
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Steven Alker,0.25880000000000003,0.4255,0.1667
+2024-04-27 03:12:01.929116,ISPS Handa Championship - ISPS Handa Championship - Winner,Casey Jarvis,0.17220000000000002,0.2,0.0278
 2024-04-26 15:15:48.009574,NFL Draft - Player Markets - Team To Draft Player - Blake Corum,Los Angeles Chargers,0.14680000000000004,0.4545,0.3077
 2024-04-26 15:15:48.122120,NFL Draft - Team Markets - Team's First Pick - BUF Bills - Position of 1st Drafted Player in 2024 NFL Draft,Cornerback,0.13379999999999997,0.3077,0.1739
 2024-04-26 15:15:47.837357,NFL Draft - Player Markets - Positional Groups - 1st Running Back Selected,Marshawn Lloyd,0.11909999999999998,0.1667,0.0476
+2024-04-27 03:12:01.929116,ISPS Handa Championship - ISPS Handa Championship - Winner,Keita Nakajima,0.1079,0.1667,0.0588
 2024-04-27 01:11:35.410132,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Maja Stark,0.1071,0.25,0.1429
 2024-04-26 15:15:43.130065,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,Nikola Jokic (DEN),0.10109999999999997,0.5455,0.4444
+2024-04-27 03:11:47.499885,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,St. Pauli,0.09820000000000001,0.5744,0.4762
 2024-04-26 15:15:47.837357,NFL Draft - Player Markets - Positional Groups - 1st Running Back Selected,Jaylen Wright,0.08360000000000001,0.1053,0.0217
+2024-04-27 03:12:01.929116,ISPS Handa Championship - ISPS Handa Championship - Winner,Haotong Li,0.06459999999999999,0.0769,0.0123
 2024-04-27 01:11:30.155029,Western Conference - Western Conference 2023-24 - Western Conference Winner,Minnesota Timberwolves,0.059,0.1923,0.1333
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,David Toms,0.058300000000000005,0.125,0.0667
+2024-04-27 03:12:01.929116,ISPS Handa Championship - ISPS Handa Championship - Winner,Matthieu Pavon,0.0573,0.0769,0.0196
 2024-04-26 15:15:47.969405,NFL Draft - Player Markets - Positional Groups - 2nd Tight End Selected,Jared Wiley,0.05650000000000001,0.1,0.0435
 2024-04-26 19:13:21.953273,BKFC: Knuckle Mania 4 - David Diaz vs Shane Jordan - To Win the Bout,Shane Jordan,0.05300000000000005,0.5652,0.5122
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Doug Barron,0.0515,0.0667,0.0152
@@ -19,8 +24,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Shane Bertsch,0.042600000000000006,0.0476,0.005
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Tim Petrovic,0.041,0.0476,0.0066
 2024-04-26 15:15:47.837357,NFL Draft - Player Markets - Positional Groups - 1st Running Back Selected,Jonathon Brooks,0.040999999999999925,0.7333,0.6923
-2024-04-26 23:09:53.276286,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Botafogo,0.03920000000000001,0.3333,0.2941
 2024-04-26 15:15:47.939681,NFL Draft - Player Markets - Positional Groups - 1st Safety Selected,Javon Bullard,0.03920000000000001,0.2353,0.1961
+2024-04-26 23:09:53.276286,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Botafogo,0.03920000000000001,0.3333,0.2941
 2024-04-27 01:11:34.311346,Boxing Lines - Carla Ayelen Merino vs Micaela Milagros Lujan - To Win the Bout,Carla Ayelen Merino,0.03600000000000003,0.5238,0.4878
 2024-04-26 15:15:47.907790,NFL Draft - Player Markets - Positional Groups - 1st Linebacked Selected,Junior Colson,0.035999999999999976,0.5122,0.4762
 2024-04-27 01:11:30.155029,Western Conference - Western Conference 2023-24 - Western Conference Winner,Dallas Mavericks,0.033399999999999985,0.1667,0.1333
@@ -30,28 +35,36 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-26 23:10:06.469977,BKFC: Knuckle Mania 4 - Mick Terrill vs Lorenzo Hunt - To Win the Bout,Mick Terrill,0.030799999999999994,0.4082,0.3774
 2024-04-26 17:14:39.529203,Boxing Lines - Carla Ayelen Merino vs Micaela Milagros Lujan - To Win the Bout,Carla Ayelen Merino,0.029000000000000026,0.4545,0.4255
 2024-04-26 23:09:53.767779,Copa Libertadores - Copa Libertadores 2024 - Futures - Winner,River Plate,0.028799999999999992,0.1538,0.125
+2024-04-27 03:12:01.929116,ISPS Handa Championship - ISPS Handa Championship - Winner,Ryosuke Kinoshita,0.028000000000000004,0.0476,0.0196
 2024-04-26 15:15:47.907790,NFL Draft - Player Markets - Positional Groups - 1st Linebacked Selected,Payton Wilson,0.027999999999999997,0.1818,0.1538
 2024-04-26 23:09:53.276286,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Athletico Paranaense,0.02779999999999999,0.25,0.2222
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Richard Green,0.024800000000000003,0.0526,0.0278
+2024-04-26 15:15:50.421902,BKFC: Knuckle Mania 4 - David Diaz vs Shane Jordan - To Win the Bout,Shane Jordan,0.024399999999999977,0.5122,0.4878
 2024-04-26 23:10:06.016216,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.024399999999999977,0.5122,0.4878
 2024-04-27 01:11:34.684790,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.024399999999999977,0.5122,0.4878
-2024-04-26 15:15:50.421902,BKFC: Knuckle Mania 4 - David Diaz vs Shane Jordan - To Win the Bout,Shane Jordan,0.024399999999999977,0.5122,0.4878
+2024-04-27 03:11:59.766952,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.024399999999999977,0.5122,0.4878
 2024-04-26 23:09:53.725530,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Argentinos Juniors,0.024299999999999995,0.0588,0.0345
 2024-04-27 01:11:30.107894,NBA Championship - NBA Championship 2023-24 - NBA Champion,Minnesota Timberwolves,0.0242,0.0909,0.0667
+2024-04-27 03:11:46.742462,Championship - England Championship 2023/24 - League Winner,Ipswich Town,0.0242,0.0909,0.0667
 2024-04-26 23:09:53.767779,Copa Libertadores - Copa Libertadores 2024 - Futures - Winner,Grêmio,0.023200000000000002,0.0476,0.0244
 2024-04-26 15:15:47.969405,NFL Draft - Player Markets - Positional Groups - 2nd Tight End Selected,Tanner McLachlan,0.02310000000000001,0.1,0.0769
 2024-04-26 17:14:41.276371,Round Scores - 2nd Round Score - Bryson DeChambeau - 2nd Round Score,Under 66.5,0.022699999999999998,0.4878,0.4651
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Paul Broadhurst,0.0203,0.0588,0.0385
 2024-04-26 23:09:53.725530,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Fortaleza,0.02020000000000001,0.1111,0.0909
+2024-04-27 03:12:01.929116,ISPS Handa Championship - ISPS Handa Championship - Winner,Yuta Sugiura,0.019899999999999998,0.0278,0.0079
 2024-04-26 23:09:53.725530,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Athletico Paranaense,0.019699999999999995,0.125,0.1053
 2024-04-26 19:13:22.030440,BKFC: Knuckle Mania 4 - Jeremiah Riggs vs Alfredo Angulo - To Win the Bout,Jeremiah Riggs,0.019600000000000006,0.3226,0.303
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Ken Duke,0.0194,0.0244,0.005
-2024-04-27 01:11:34.663653,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.01880000000000004,0.5744,0.5556
 2024-04-26 23:10:05.986615,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.01880000000000004,0.5744,0.5556
+2024-04-27 01:11:34.663653,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.01880000000000004,0.5744,0.5556
+2024-04-27 03:11:59.728641,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.01880000000000004,0.5744,0.5556
 2024-04-26 23:09:53.767779,Copa Libertadores - Copa Libertadores 2024 - Futures - Winner,Palmeiras,0.01820000000000002,0.2,0.1818
 2024-04-26 23:10:06.406288,BKFC: Knuckle Mania 4 - Sydney Smith vs Crystal Pittman - To Win the Bout,Sydney Smith,0.018100000000000005,0.4348,0.4167
 2024-04-26 15:15:43.130065,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,Jamal Murray (DEN),0.018099999999999998,0.0526,0.0345
+2024-04-27 03:12:00.161569,BKFC: Knuckle Mania 4 - Mike Perry vs Thiago Alves - To Win the Bout,Thiago Alves,0.016600000000000004,0.1905,0.1739
+2024-04-27 03:12:01.929116,ISPS Handa Championship - ISPS Handa Championship - Winner,Yuto Katsuragawa,0.0165,0.0244,0.0079
 2024-04-27 01:11:35.410132,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Emily Pedersen,0.0165,0.0244,0.0079
+2024-04-27 03:12:01.929116,ISPS Handa Championship - ISPS Handa Championship - Winner,Ivan Cantero,0.0156,0.0196,0.004
 2024-04-26 19:13:22.162288,BKFC: Knuckle Mania 4 - Mick Terrill vs Lorenzo Hunt - To Win the Bout,Lorenzo Hunt,0.01539999999999997,0.6875,0.6721
 2024-04-26 15:15:50.708783,BKFC: Knuckle Mania 4 - Mick Terrill vs Lorenzo Hunt - To Win the Bout,Mick Terrill,0.01479999999999998,0.3922,0.3774
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Lee Janzen,0.014599999999999998,0.0196,0.005
@@ -63,24 +76,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-27 01:11:35.410132,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Hannah Green,0.013999999999999999,0.0909,0.0769
 2024-04-27 01:11:30.142838,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Philadelphia 76ers,0.013999999999999999,0.0909,0.0769
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Jesper Parnevik,0.0139,0.0152,0.0013
+2024-04-27 03:12:01.929116,ISPS Handa Championship - ISPS Handa Championship - Winner,Joel Girrbach,0.0139,0.0196,0.0057
 2024-04-27 01:11:34.437147,Boxing Lines - Jose Carlos Ramirez vs Rances Barthelemy - To Win the Bout,Rances Barthelemy,0.012899999999999995,0.1667,0.1538
 2024-04-27 01:11:30.107894,NBA Championship - NBA Championship 2023-24 - NBA Champion,Dallas Mavericks,0.012600000000000007,0.0714,0.0588
 2024-04-27 01:11:30.126794,NBA Championship - NBA Championship 2023-24 - Seed # to win the NBA Finals,3 Seed,0.012299999999999991,0.1176,0.1053
-2024-04-26 23:10:06.166666,BKFC: Knuckle Mania 4 - Keith Richardson vs Cody Vidal - To Win the Bout,Keith Richardson,0.012199999999999989,0.5122,0.5
 2024-04-26 21:13:22.480827,BKFC: Knuckle Mania 4 - Keith Richardson vs Cody Vidal - To Win the Bout,Keith Richardson,0.012199999999999989,0.5,0.4878
 2024-04-26 19:13:21.257079,Boxing Lines - Marlen Esparza vs Gabriela Celeste Alaniz - To Win the Bout,Gabriela Celeste Alaniz,0.012199999999999989,0.5,0.4878
 2024-04-27 01:11:34.395859,Boxing Lines - Marlen Esparza vs Gabriela Celeste Alaniz - To Win the Bout,Gabriela Celeste Alaniz,0.012199999999999989,0.5122,0.5
+2024-04-26 23:10:06.166666,BKFC: Knuckle Mania 4 - Keith Richardson vs Cody Vidal - To Win the Bout,Keith Richardson,0.012199999999999989,0.5122,0.5
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Paul Goydos,0.012100000000000001,0.0244,0.0123
+2024-04-27 03:12:01.929116,ISPS Handa Championship - ISPS Handa Championship - Winner,Marcel Schneider,0.012100000000000001,0.0244,0.0123
 2024-04-26 15:15:47.837357,NFL Draft - Player Markets - Positional Groups - 1st Running Back Selected,Blake Corum,0.011899999999999994,0.0833,0.0714
 2024-04-26 19:13:21.889484,BKFC: Knuckle Mania 4 - Keith Richardson vs Cody Vidal - To Win the Bout,Keith Richardson,0.0116,0.4878,0.4762
 2024-04-26 17:14:39.704493,Boxing Lines - Marlen Esparza vs Gabriela Celeste Alaniz - To Win the Bout,Gabriela Celeste Alaniz,0.0116,0.4878,0.4762
-2024-04-26 19:13:21.972395,BKFC: Knuckle Mania 4 - Evgeny Kurdanov vs Julian Lane - To Win the Bout,Evgeny Kurdanov,0.011499999999999955,0.6667,0.6552
 2024-04-26 21:13:22.662798,BKFC: Knuckle Mania 4 - Frank Alvarez vs Victor Rosas - To Win the Bout,Frank Alvarez,0.011499999999999955,0.6667,0.6552
+2024-04-26 19:13:21.972395,BKFC: Knuckle Mania 4 - Evgeny Kurdanov vs Julian Lane - To Win the Bout,Evgeny Kurdanov,0.011499999999999955,0.6667,0.6552
 2024-04-26 23:10:06.437726,BKFC: Knuckle Mania 4 - Todd Duffee vs Ben Rothwell - To Win the Bout,Ben Rothwell,0.011200000000000099,0.8403,0.8291
+2024-04-27 03:11:46.742462,Championship - England Championship 2023/24 - League Winner,Leicester City,0.011199999999999988,0.9524,0.9412
 2024-04-26 15:15:50.311885,BKFC: Knuckle Mania 4 - Keith Richardson vs Cody Vidal - To Win the Bout,Keith Richardson,0.011099999999999999,0.4762,0.4651
 2024-04-26 23:10:06.316010,BKFC: Knuckle Mania 4 - Frank Alvarez vs Victor Rosas - To Win the Bout,Frank Alvarez,0.010700000000000043,0.6774,0.6667
-2024-04-26 15:15:47.939681,NFL Draft - Player Markets - Positional Groups - 1st Safety Selected,Jaden Hicks,0.010099999999999998,0.1053,0.0952
+2024-04-27 03:12:01.929116,ISPS Handa Championship - ISPS Handa Championship - Winner,Tom Vaillant,0.010700000000000001,0.0385,0.0278
+2024-04-27 03:12:01.929116,ISPS Handa Championship - ISPS Handa Championship - Winner,Masahiro Kawamura,0.010300000000000002,0.0244,0.0141
 2024-04-27 01:11:30.107894,NBA Championship - NBA Championship 2023-24 - NBA Champion,Denver Nuggets,0.010099999999999998,0.3226,0.3125
+2024-04-26 15:15:47.939681,NFL Draft - Player Markets - Positional Groups - 1st Safety Selected,Jaden Hicks,0.010099999999999998,0.1053,0.0952
+2024-04-27 03:11:51.868461,NBA Championship - NBA Championship 2023-24 - NBA Champion,Denver Nuggets,-0.010099999999999998,0.3125,0.3226
 2024-04-26 21:13:22.704808,BKFC: Knuckle Mania 4 - Jeremiah Riggs vs Alfredo Angulo - To Win the Bout,Jeremiah Riggs,-0.010099999999999998,0.3125,0.3226
 2024-04-26 23:09:53.767779,Copa Libertadores - Copa Libertadores 2024 - Futures - Winner,Independiente del Valle,-0.010100000000000001,0.0244,0.0345
 2024-04-26 23:09:53.276286,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Vitória BA,-0.0102,0.0667,0.0769
@@ -90,12 +109,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-26 23:10:06.437726,BKFC: Knuckle Mania 4 - Todd Duffee vs Ben Rothwell - To Win the Bout,Todd Duffee,-0.010800000000000004,0.2273,0.2381
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Joe Durant,-0.0112,0.004,0.0152
 2024-04-26 19:13:22.092319,BKFC: Knuckle Mania 4 - Sydney Smith vs Crystal Pittman - To Win the Bout,Crystal Pittman,-0.011499999999999955,0.6552,0.6667
+2024-04-27 03:12:01.586789,Round Match-Ups - 3rd Round Match-Up - Cantlay/Schauffele vs McIlroy/Lowry - 3rd Round Match-Up,Rory McIlroy / Shane Lowry,-0.0116,0.4762,0.4878
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Dicky Pride,-0.0119,0.0004,0.0123
 2024-04-27 01:11:35.410132,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Nataliya Guseva,-0.0121,0.002,0.0141
 2024-04-26 23:09:53.767779,Copa Libertadores - Copa Libertadores 2024 - Futures - Winner,Barcelona SC,-0.0129,0.002,0.0149
 2024-04-27 01:11:35.410132,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Charley Hull,-0.013,0.0066,0.0196
+2024-04-27 03:12:00.161569,BKFC: Knuckle Mania 4 - Mike Perry vs Thiago Alves - To Win the Bout,Mike Perry,-0.013900000000000023,0.875,0.8889
+2024-04-27 03:12:01.929116,ISPS Handa Championship - ISPS Handa Championship - Winner,Matthew Southgate,-0.014099999999999998,0.0244,0.0385
 2024-04-26 23:09:53.276286,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Atlético Goianiense,-0.014100000000000001,0.0385,0.0526
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Ricardo Gonzalez,-0.0145,0.0099,0.0244
+2024-04-27 03:12:01.929116,ISPS Handa Championship - ISPS Handa Championship - Winner,Takumi Kanaya,-0.0145,0.0099,0.0244
 2024-04-26 19:13:22.162288,BKFC: Knuckle Mania 4 - Mick Terrill vs Lorenzo Hunt - To Win the Bout,Mick Terrill,-0.01479999999999998,0.3774,0.3922
 2024-04-26 17:14:32.962434,CBA - China CBA 2023/24 - Outright,Zhejiang Golden Bulls,-0.015100000000000002,0.1667,0.1818
 2024-04-26 15:15:50.708783,BKFC: Knuckle Mania 4 - Mick Terrill vs Lorenzo Hunt - To Win the Bout,Lorenzo Hunt,-0.01539999999999997,0.6721,0.6875
@@ -104,6 +127,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-26 17:14:39.704493,Boxing Lines - Marlen Esparza vs Gabriela Celeste Alaniz - To Win the Bout,Marlen Esparza,-0.017299999999999982,0.5744,0.5917
 2024-04-26 19:13:21.889484,BKFC: Knuckle Mania 4 - Keith Richardson vs Cody Vidal - To Win the Bout,Cody Vidal,-0.017299999999999982,0.5744,0.5917
 2024-04-26 23:10:06.016216,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.01880000000000004,0.5556,0.5744
+2024-04-27 03:11:59.766952,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.01880000000000004,0.5556,0.5744
 2024-04-27 01:11:34.684790,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.01880000000000004,0.5556,0.5744
 2024-04-26 15:15:50.421902,BKFC: Knuckle Mania 4 - David Diaz vs Shane Jordan - To Win the Bout,David Diaz,-0.01880000000000004,0.5556,0.5744
 2024-04-27 01:11:35.410132,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Auston Kim,-0.0189,0.0196,0.0385
@@ -113,15 +137,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Thongchai Jaidee,-0.020000000000000004,0.0123,0.0323
 2024-04-26 15:15:47.907790,NFL Draft - Player Markets - Positional Groups - 1st Linebacked Selected,Edgerrin Cooper,-0.02079999999999993,0.5348,0.5556
 2024-04-27 01:11:30.155029,Western Conference - Western Conference 2023-24 - Western Conference Winner,Phoenix Suns,-0.0211,0.0083,0.0294
+2024-04-27 03:12:01.929116,ISPS Handa Championship - ISPS Handa Championship - Winner,Yannik Paul,-0.022199999999999998,0.2,0.2222
 2024-04-27 01:11:35.410132,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Bianca Pagdanganan,-0.022400000000000003,0.002,0.0244
 2024-04-27 01:11:30.126794,NBA Championship - NBA Championship 2023-24 - Seed # to win the NBA Finals,1 Seed,-0.022600000000000064,0.5122,0.5348
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Paul Stankowski,-0.023799999999999998,0.004,0.0278
-2024-04-26 23:10:05.986615,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.024399999999999977,0.4878,0.5122
+2024-04-27 03:11:59.728641,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.024399999999999977,0.4878,0.5122
 2024-04-27 01:11:34.663653,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.024399999999999977,0.4878,0.5122
+2024-04-26 23:10:05.986615,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.024399999999999977,0.4878,0.5122
 2024-04-26 19:13:22.030440,BKFC: Knuckle Mania 4 - Jeremiah Riggs vs Alfredo Angulo - To Win the Bout,Alfredo Angulo,-0.02440000000000009,0.7403,0.7647
 2024-04-26 17:14:41.276371,Round Scores - 2nd Round Score - Bryson DeChambeau - 2nd Round Score,Over 66.5,-0.025599999999999956,0.5744,0.6
-2024-04-26 23:09:53.767779,Copa Libertadores - Copa Libertadores 2024 - Futures - Winner,Flamengo,-0.02779999999999999,0.2222,0.25
 2024-04-26 23:09:53.276286,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Corinthians,-0.02779999999999999,0.2222,0.25
+2024-04-26 23:09:53.767779,Copa Libertadores - Copa Libertadores 2024 - Futures - Winner,Flamengo,-0.02779999999999999,0.2222,0.25
 2024-04-26 15:15:43.130065,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,Paul George (LAC),-0.0282,0.0244,0.0526
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Y E Yang,-0.0282,0.0244,0.0526
 2024-04-26 17:14:39.529203,Boxing Lines - Carla Ayelen Merino vs Micaela Milagros Lujan - To Win the Bout,Micaela Milagros Lujan,-0.02859999999999996,0.6078,0.6364
@@ -133,9 +159,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-26 19:13:21.097135,Boxing Lines - Carla Ayelen Merino vs Micaela Milagros Lujan - To Win the Bout,Micaela Milagros Lujan,-0.033399999999999985,0.5744,0.6078
 2024-04-27 01:11:30.155029,Western Conference - Western Conference 2023-24 - Western Conference Winner,L.A. Clippers,-0.0334,0.0435,0.0769
 2024-04-27 01:11:35.410132,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Hye-Jin Choi,-0.0335,0.005,0.0385
+2024-04-27 03:12:01.929116,ISPS Handa Championship - ISPS Handa Championship - Winner,Christiaan Bezuidenhout,-0.0335,0.005,0.0385
 2024-04-26 23:09:53.725530,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Boca Juniors,-0.034100000000000005,0.0909,0.125
 2024-04-26 15:15:47.969405,NFL Draft - Player Markets - Positional Groups - 2nd Tight End Selected,Ben Sinnott,-0.03689999999999999,0.2857,0.3226
 2024-04-27 01:11:35.410132,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Chanettee Wannasaen,-0.036899999999999995,0.0066,0.0435
+2024-04-27 03:11:47.499885,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Fortuna Düsseldorf,-0.0384,0.0385,0.0769
 2024-04-27 01:11:30.142838,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Milwaukee Bucks,-0.04089999999999999,0.05,0.0909
 2024-04-26 21:13:22.586142,BKFC: Knuckle Mania 4 - David Diaz vs Shane Jordan - To Win the Bout,Shane Jordan,-0.04139999999999999,0.5238,0.5652
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Miguel Angel Jimenez,-0.04239999999999999,0.0345,0.0769
@@ -146,9 +174,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-27 01:11:30.155029,Western Conference - Western Conference 2023-24 - Western Conference Winner,Denver Nuggets,-0.05059999999999998,0.5238,0.5744
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Stephen Ames,-0.05249999999999999,0.0244,0.0769
 2024-04-26 23:09:53.276286,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Internacional,-0.05359999999999998,0.6,0.6536
+2024-04-27 03:11:47.499885,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,Holstein Kiel,-0.05559999999999998,0.5,0.5556
 2024-04-26 19:13:21.953273,BKFC: Knuckle Mania 4 - David Diaz vs Shane Jordan - To Win the Bout,David Diaz,-0.05559999999999998,0.5,0.5556
 2024-04-26 23:09:53.725530,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Corinthians,-0.05650000000000001,0.0435,0.1
+2024-04-27 03:12:01.929116,ISPS Handa Championship - ISPS Handa Championship - Winner,Tom McKibbin,-0.0578,0.001,0.0588
+2024-04-27 03:12:01.929116,ISPS Handa Championship - ISPS Handa Championship - Winner,Taihei Sato,-0.0756,0.0244,0.1
 2024-04-26 19:13:22.233249,Mitsubishi Electric Classic - Mitsubishi Electric Classic - Winner,Stewart Cink,-0.08179999999999998,0.1,0.1818
 2024-04-27 01:11:35.410132,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Haeran Ryu,-0.0865,0.0385,0.125
+2024-04-27 03:12:01.929116,ISPS Handa Championship - ISPS Handa Championship - Winner,Sebastian Soderberg,-0.1111,0.1111,0.2222
 2024-04-26 15:15:47.939681,NFL Draft - Player Markets - Positional Groups - 1st Safety Selected,Tyler Nubin,-0.13329999999999997,0.6,0.7333
+2024-04-27 03:12:01.929116,ISPS Handa Championship - ISPS Handa Championship - Winner,Sam Bairstow,-0.14709999999999998,0.0196,0.1667
 2024-04-27 01:11:35.410132,JM Eagle LA Championship - JM Eagle LA Championship - Winner,Sei Young Kim,-0.1615,0.0385,0.2
