@@ -11,8 +11,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-30 03:02:21.183401,Serie A - Italy Serie A 2023/24 - To Be Relegated,Sassuolo,0.15910000000000002,0.9091,0.75
 2024-04-29 21:07:02.471314,Political Specials - Will Mike Johnson be House Speaker on June 30th 2024? - Will Johnson be Speaker On June 30th?,Yes,0.1491,0.8824,0.7333
 2024-04-29 21:06:59.130480,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Newcastle United,0.14290000000000003,0.4762,0.3333
-2024-04-29 21:06:59.027281,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer - Haaland vs The Field,Erling Haaland,0.13990000000000002,0.7143,0.5744
 2024-04-29 21:06:58.821190,2. Bundesliga - 2. Bundesliga 2023/24 - Outright,St. Pauli,0.13990000000000002,0.7143,0.5744
+2024-04-29 21:06:59.027281,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer - Haaland vs The Field,Erling Haaland,0.13990000000000002,0.7143,0.5744
 2024-04-30 03:02:21.193499,Serie A - Italy Serie A 2023/24 - Top 4 Finish,Atalanta,0.13329999999999997,0.3333,0.2
 2024-04-30 03:02:21.326674,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Cuiabá,0.13,0.5744,0.4444
 2024-04-29 21:06:58.361302,Championship - England Championship 2023/24 - To Be Promoted,Ipswich Town,0.119,0.8333,0.7143
@@ -43,8 +43,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-30 01:04:09.298520,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Boston Celtics,0.05910000000000004,0.7143,0.6552
 2024-04-29 21:06:58.305352,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Brest,0.05730000000000002,0.9804,0.9231
 2024-04-29 21:06:59.926422,Eurovision Song Contest - Eurovision Song Contest 2024: Outright Winner - Eurovision Song Contest Winner 2024,Netherlands,0.05710000000000001,0.2,0.1429
-2024-04-30 03:02:21.326674,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Vitória BA,0.05559999999999998,0.5556,0.5
 2024-04-29 21:06:58.765568,Superligaen - Denmark Superligaen 2023/2024 - To Be Relegated,Odense,0.05559999999999998,0.2778,0.2222
+2024-04-30 03:02:21.326674,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Vitória BA,0.05559999999999998,0.5556,0.5
 2024-04-29 21:06:58.331784,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Marseille,0.05550000000000002,0.2222,0.1667
 2024-04-29 21:07:02.244840,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Marco Rubio,0.0548,0.0588,0.004
 2024-04-29 21:06:58.225624,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Real Salt Lake,0.048100000000000004,0.125,0.0769
@@ -64,9 +64,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-29 21:07:02.244840,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Ron DeSantis,0.0344,0.0588,0.0244
 2024-04-29 21:06:58.139988,MLS - USA MLS 2024 - Futures - Winner,Real Salt Lake,0.0344,0.0588,0.0244
 2024-04-29 21:06:58.179121,MLS - USA MLS 2024 - Futures - To Reach the Final,Vancouver Whitecaps,0.03420000000000001,0.1111,0.0769
-2024-04-29 21:07:05.303140,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Deebo Samuel,0.0335,0.0385,0.005
-2024-04-29 21:07:05.303140,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Michael Penix Jr,0.0335,0.0385,0.005
 2024-04-29 21:07:05.303140,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Maxx Crosby,0.0335,0.0385,0.005
+2024-04-29 21:07:05.303140,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Michael Penix Jr,0.0335,0.0385,0.005
+2024-04-29 21:07:05.303140,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Deebo Samuel,0.0335,0.0385,0.005
 2024-04-29 21:06:58.361302,Championship - England Championship 2023/24 - To Be Promoted,Norwich City,0.033399999999999985,0.1667,0.1333
 2024-04-30 01:04:09.298520,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,New York Knicks,0.033300000000000024,0.2,0.1667
 2024-04-29 21:06:58.664367,League One - England - League One 2023/24 - To Be Promoted,Oxford United,0.033300000000000024,0.2,0.1667
@@ -77,16 +77,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-29 21:06:58.305352,Ligue 1 - France Ligue 1 2023/24 - Top 4 Finish,Lille,0.029299999999999993,0.9524,0.9231
 2024-04-29 21:06:58.731081,League Two - England - League Two 2023/24 - To Be Promoted,Crawley Town,0.028799999999999992,0.1538,0.125
 2024-04-29 21:06:58.161072,MLS - USA MLS 2024 - Futures - Golden Boot Award,Cristian Arango,0.02840000000000001,0.1053,0.0769
-2024-04-29 21:06:59.096247,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Manchester City,0.028000000000000025,0.9804,0.9524
 2024-04-29 21:06:58.778733,Superligaen - Denmark Superligaen 2023/2024 - Top 3 Finish,Brøndby IF,0.028000000000000025,0.9804,0.9524
+2024-04-29 21:06:59.096247,Premier League Futures/Specials - English Premier League 2023/24 - Top 2 Finish,Manchester City,0.028000000000000025,0.9804,0.9524
 2024-04-30 03:02:21.309187,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Bahia,0.028000000000000004,0.0476,0.0196
 2024-04-29 21:07:05.725956,MLB Futures - MLB 2024 American League West - American League West Winner,Houston Astros,0.02739999999999998,0.2941,0.2667
 2024-04-29 21:06:58.476048,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Boca Juniors,0.02560000000000001,0.3333,0.3077
 2024-04-30 03:02:21.326674,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Atlético Goianiense,0.025599999999999956,0.6,0.5744
 2024-04-29 21:07:02.244840,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Doug Burgum,0.024800000000000003,0.0526,0.0278
-2024-04-29 21:07:00.396698,Box Office 2024 - Highest Worldwide Box Office At Year End - Highest Worldwide Box Office At Year End,Joker: Folie a Deux,0.0242,0.0909,0.0667
 2024-04-30 03:02:21.047398,La Liga - Spain La Liga 2023/24 - To Be Relegated,Celta de Vigo,0.0242,0.0909,0.0667
+2024-04-29 21:07:00.396698,Box Office 2024 - Highest Worldwide Box Office At Year End - Highest Worldwide Box Office At Year End,Joker: Folie a Deux,0.0242,0.0909,0.0667
 2024-04-29 21:07:05.435106,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Drake Maye,0.024,0.0625,0.0385
+2024-04-30 05:03:26.659713,Position - Finishing Position - Jordan Spieth - Finishing Position,22nd or better,0.023800000000000043,0.5238,0.5
 2024-04-30 03:02:21.677016,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Sandvikens IF,0.023200000000000002,0.0476,0.0244
 2024-04-30 01:04:09.275879,NBA Championship - NBA Championship 2023-24 - NBA Champion,Oklahoma City Thunder,0.02310000000000001,0.1,0.0769
 2024-04-29 21:06:59.004174,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Alexander Isak,0.02310000000000001,0.1,0.0769
@@ -94,24 +95,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-29 21:07:05.415741,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Laiatu Latu,0.022199999999999998,0.1333,0.1111
 2024-04-29 21:06:58.243740,1. Bundesliga - Germany Bundesliga 2023/24 - To Be Relegated,Mainz,0.021999999999999964,0.3077,0.2857
 2024-04-29 21:07:05.693539,MLB Futures - MLB 2024 American League East - American League East Winner,New York Yankees,0.021699999999999997,0.4762,0.4545
-2024-04-30 01:04:09.321496,Western Conference - Western Conference 2023-24 - Western Conference Winner,Denver Nuggets,0.02169999999999994,0.5455,0.5238
 2024-04-29 21:06:58.765568,Superligaen - Denmark Superligaen 2023/2024 - To Be Relegated,Vejle BK,0.02169999999999994,0.5455,0.5238
+2024-04-30 01:04:09.321496,Western Conference - Western Conference 2023-24 - Western Conference Winner,Denver Nuggets,0.02169999999999994,0.5455,0.5238
 2024-04-30 03:02:27.040340,Tournament Match-Ups - Tournament Match-Up - K. Lee vs M. McNealy - Tournament Match-Up,Maverick McNealy,0.02169999999999994,0.5455,0.5238
+2024-04-30 05:03:26.791393,Tournament Match-Ups - Tournament Match-Up - A. Scott vs A. Noren - Tournament Match-Up,Alex Noren,0.02079999999999993,0.5556,0.5348
 2024-04-30 03:02:21.317128,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Rafael Borre (Internacional),0.0203,0.0588,0.0385
 2024-04-30 03:02:21.677016,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Landskrona BoIS,0.02020000000000001,0.1111,0.0909
+2024-04-30 05:03:26.835312,Tournament Match-Ups - Tournament Match-Up - K. Lee vs M. McNealy - Tournament Match-Up,Maverick McNealy,0.01970000000000005,0.5652,0.5455
 2024-04-29 21:07:05.415741,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Braden Fiske,0.019100000000000002,0.0323,0.0132
-2024-04-30 03:02:21.309187,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Botafogo,0.019099999999999992,0.0667,0.0476
 2024-04-29 21:06:58.225624,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Austin FC,0.019099999999999992,0.0667,0.0476
+2024-04-30 03:02:21.309187,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Botafogo,0.019099999999999992,0.0667,0.0476
 2024-04-30 03:02:21.317128,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Eduardo Sasha (Bragantino),0.019099999999999992,0.0667,0.0476
 2024-04-29 21:06:58.960488,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Manchester City,0.018999999999999906,0.7333,0.7143
 2024-04-30 01:04:09.275879,NBA Championship - NBA Championship 2023-24 - NBA Champion,Boston Celtics,0.018900000000000028,0.4444,0.4255
 2024-04-29 21:07:05.435106,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Keon Coleman,0.0189,0.0385,0.0196
 2024-04-29 21:06:59.080000,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Sheffield United,0.01859999999999995,0.999,0.9804
 2024-04-29 21:07:05.630201,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,0.018400000000000027,0.3125,0.2941
-2024-04-30 01:04:09.321496,Western Conference - Western Conference 2023-24 - Western Conference Winner,Minnesota Timberwolves,0.01820000000000002,0.2,0.1818
 2024-04-29 21:06:58.225624,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Los Angeles FC,0.01820000000000002,0.2,0.1818
 2024-04-30 03:02:21.183401,Serie A - Italy Serie A 2023/24 - To Be Relegated,Hellas Verona,0.01820000000000002,0.2,0.1818
+2024-04-30 01:04:09.321496,Western Conference - Western Conference 2023-24 - Western Conference Winner,Minnesota Timberwolves,0.01820000000000002,0.2,0.1818
 2024-04-29 21:06:58.933645,Premiership - Scotland Premiership 2023/24 - Winner,Celtic,0.018199999999999994,0.8182,0.8
+2024-04-30 05:03:26.869184,Tournament Match-Ups - Tournament Match-Up - S. Kim vs W. Zalatoris - Tournament Match-Up,Si Woo Kim,0.018100000000000005,0.5833,0.5652
 2024-04-29 21:06:58.331784,Ligue 1 - France Ligue 1 2023/24 - Top 6 Finish,Lyon,0.018099999999999998,0.0769,0.0588
 2024-04-30 03:02:21.660441,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,Malmö FF,0.017900000000000027,0.875,0.8571
 2024-04-30 03:02:21.309187,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Atlético Mineiro,0.0179,0.1429,0.125
@@ -128,18 +132,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-30 03:02:23.594959,B League - Japan B League 1 2023/2024 - Outright,Utsunomiya Brex,0.013800000000000034,0.3774,0.3636
 2024-04-29 21:06:59.926422,Eurovision Song Contest - Eurovision Song Contest 2024: Outright Winner - Eurovision Song Contest Winner 2024,Italy,0.012899999999999995,0.1667,0.1538
 2024-04-29 21:06:58.139988,MLS - USA MLS 2024 - Futures - Winner,Inter Miami,0.012699999999999989,0.3636,0.3509
+2024-04-29 21:07:06.280570,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
 2024-04-30 01:04:13.749231,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
 2024-04-29 23:04:35.153384,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
-2024-04-29 21:07:06.280570,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
 2024-04-30 03:02:26.814551,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
+2024-04-30 05:03:26.473321,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
 2024-04-29 21:06:58.361302,Championship - England Championship 2023/24 - To Be Promoted,Hull City,0.012100000000000001,0.0244,0.0123
 2024-04-30 03:02:21.677016,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Örebro SK,0.011199999999999995,0.0588,0.0476
-2024-04-30 03:02:21.317128,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Paulinho (Atletico MG),0.011099999999999999,0.1111,0.1
 2024-04-30 03:02:20.980820,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Borussia Dortmund,0.011099999999999999,0.1111,0.1
-2024-04-29 21:07:05.769657,MLB Futures - MLB 2024 National League Central - National League Central Winner,Cincinnati Reds,0.010899999999999993,0.1538,0.1429
+2024-04-30 03:02:21.317128,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Paulinho (Atletico MG),0.011099999999999999,0.1111,0.1
 2024-04-29 21:06:58.361302,Championship - England Championship 2023/24 - To Be Promoted,West Bromwich Albion,0.010899999999999993,0.1538,0.1429
+2024-04-29 21:07:05.769657,MLB Futures - MLB 2024 National League Central - National League Central Winner,Cincinnati Reds,0.010899999999999993,0.1538,0.1429
 2024-04-29 21:07:06.293684,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Dmitry Bivol,0.010699999999999932,0.5455,0.5348
 2024-04-30 03:02:21.047398,La Liga - Spain La Liga 2023/24 - To Be Relegated,Cádiz,0.010199999999999987,0.9333,0.9231
+2024-04-30 05:03:26.296525,Boxing Lines - Brandon Figueroa vs Jessie Magdaleno - To Win the Bout,Brandon Figueroa,0.010199999999999987,0.9333,0.9231
 2024-04-30 01:04:09.275879,NBA Championship - NBA Championship 2023-24 - NBA Champion,Denver Nuggets,0.010099999999999998,0.3226,0.3125
 2024-04-29 21:07:00.122215,Eurovision Song Contest - Eurovision 2024: Top Big Five Country (Final) - Top Big Five Country,France,-0.010099999999999998,0.3125,0.3226
 2024-04-29 21:06:58.731081,League Two - England - League Two 2023/24 - To Be Promoted,Milton Keynes Dons,-0.010099999999999998,0.4444,0.4545
@@ -149,38 +155,39 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-29 21:06:59.130480,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Brighton & Hove Albion,-0.0103,0.002,0.0123
 2024-04-29 21:06:59.130480,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,West Ham United,-0.0103,0.002,0.0123
 2024-04-29 21:06:59.926422,Eurovision Song Contest - Eurovision Song Contest 2024: Outright Winner - Eurovision Song Contest Winner 2024,Greece,-0.010700000000000001,0.0278,0.0385
-2024-04-29 21:07:05.955409,Boxing Lines - Mario Barrios vs Fabian Andres Maidana - To Win the Bout,Fabian Andres Maidana,-0.010899999999999993,0.1429,0.1538
 2024-04-30 03:02:27.160182,Singapore - Singapore - Winner,Jon Rahm,-0.010899999999999993,0.1429,0.1538
+2024-04-29 21:07:05.955409,Boxing Lines - Mario Barrios vs Fabian Andres Maidana - To Win the Bout,Fabian Andres Maidana,-0.010899999999999993,0.1429,0.1538
 2024-04-29 21:07:06.293684,Boxing Lines - Artur Beterbiev vs Dmitry Bivol - To Win the Bout,Artur Beterbiev,-0.01100000000000001,0.5238,0.5348
 2024-04-29 21:06:59.047529,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Mohamed Salah,-0.011099999999999999,0.1,0.1111
 2024-04-29 21:07:02.244840,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Vivek Ramaswamy,-0.011199999999999995,0.0476,0.0588
-2024-04-29 21:07:05.303140,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Kirk Cousins,-0.011199999999999995,0.0323,0.0435
-2024-04-29 21:06:58.179121,MLS - USA MLS 2024 - Futures - To Reach the Final,New York City FC,-0.011199999999999995,0.0476,0.0588
-2024-04-30 03:02:21.691899,Primera Division - Chile Primera Division 2024 - Futures - Winner,Everton Viña del Mar,-0.011199999999999995,0.0476,0.0588
-2024-04-30 03:02:21.660441,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,AIK,-0.011199999999999995,0.0476,0.0588
-2024-04-29 21:06:58.852698,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Viking FK,-0.011199999999999995,0.0476,0.0588
 2024-04-30 03:02:26.932241,The CJ Cup - The CJ Cup - Winner,Jason Day,-0.011199999999999995,0.0476,0.0588
-2024-04-29 21:07:05.415741,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Bralen Trice,-0.011200000000000002,0.0132,0.0244
+2024-04-30 03:02:21.660441,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,AIK,-0.011199999999999995,0.0476,0.0588
+2024-04-29 21:06:58.179121,MLS - USA MLS 2024 - Futures - To Reach the Final,New York City FC,-0.011199999999999995,0.0476,0.0588
+2024-04-29 21:06:58.852698,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Viking FK,-0.011199999999999995,0.0476,0.0588
+2024-04-29 21:07:05.303140,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Kirk Cousins,-0.011199999999999995,0.0323,0.0435
+2024-04-30 03:02:21.691899,Primera Division - Chile Primera Division 2024 - Futures - Winner,Everton Viña del Mar,-0.011199999999999995,0.0476,0.0588
 2024-04-29 21:07:05.303140,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Russell Wilson,-0.011200000000000002,0.0132,0.0244
+2024-04-29 21:07:05.415741,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Bralen Trice,-0.011200000000000002,0.0132,0.0244
 2024-04-29 21:06:59.926422,Eurovision Song Contest - Eurovision Song Contest 2024: Outright Winner - Eurovision Song Contest Winner 2024,Switzerland,-0.01150000000000001,0.3333,0.3448
 2024-04-30 03:02:21.691899,Primera Division - Chile Primera Division 2024 - Futures - Winner,O'Higgins,-0.012100000000000001,0.0123,0.0244
 2024-04-30 03:02:26.793861,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.012199999999999989,0.5,0.5122
+2024-04-30 05:03:26.461541,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.012199999999999989,0.5,0.5122
+2024-04-30 01:04:13.733546,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.012199999999999989,0.5,0.5122
 2024-04-29 21:07:06.268384,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.012199999999999989,0.5,0.5122
 2024-04-29 23:04:35.127107,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.012199999999999989,0.5,0.5122
-2024-04-30 01:04:13.733546,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.012199999999999989,0.5,0.5122
-2024-04-29 21:07:00.396698,Box Office 2024 - Highest Worldwide Box Office At Year End - Highest Worldwide Box Office At Year End,Kung Fu Panda 4,-0.012700000000000003,0.0196,0.0323
 2024-04-29 21:06:59.926422,Eurovision Song Contest - Eurovision Song Contest 2024: Outright Winner - Eurovision Song Contest Winner 2024,Belgium,-0.012700000000000003,0.0196,0.0323
+2024-04-29 21:07:00.396698,Box Office 2024 - Highest Worldwide Box Office At Year End - Highest Worldwide Box Office At Year End,Kung Fu Panda 4,-0.012700000000000003,0.0196,0.0323
 2024-04-29 21:06:58.513085,A-League - Australia A-League 2023/24 - Grand Final Winner,Sydney FC,-0.012899999999999995,0.1538,0.1667
 2024-04-30 03:02:21.326674,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Corinthians,-0.012899999999999995,0.1538,0.1667
 2024-04-29 21:06:58.179121,MLS - USA MLS 2024 - Futures - To Reach the Final,New England Revolution,-0.013,0.0066,0.0196
-2024-04-29 21:07:05.322989,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean McVay,-0.0131,0.0345,0.0476
 2024-04-29 21:06:59.926422,Eurovision Song Contest - Eurovision Song Contest 2024: Outright Winner - Eurovision Song Contest Winner 2024,Croatia,-0.0131,0.2222,0.2353
+2024-04-29 21:07:05.322989,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Sean McVay,-0.0131,0.0345,0.0476
 2024-04-30 03:02:21.691899,Primera Division - Chile Primera Division 2024 - Futures - Winner,Palestino,-0.013899999999999996,0.1111,0.125
 2024-04-29 21:07:06.696529,Volvo China Open - Volvo China Open - Winner,Zijie Huang,-0.0139,0.0013,0.0152
 2024-04-30 03:02:21.677016,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Utsiktens,-0.013999999999999999,0.0769,0.0909
-2024-04-30 03:02:21.317128,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Tiquinho Soares (Botafogo),-0.013999999999999999,0.0769,0.0909
-2024-04-29 21:07:05.303140,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Jordan Love,-0.013999999999999999,0.0769,0.0909
 2024-04-29 21:07:05.693539,MLB Futures - MLB 2024 American League East - American League East Winner,Tampa Bay Rays,-0.013999999999999999,0.0769,0.0909
+2024-04-29 21:07:05.303140,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Jordan Love,-0.013999999999999999,0.0769,0.0909
+2024-04-30 03:02:21.317128,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Tiquinho Soares (Botafogo),-0.013999999999999999,0.0769,0.0909
 2024-04-29 21:07:05.303140,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Justin Herbert,-0.014099999999999994,0.0526,0.0667
 2024-04-29 21:07:05.303140,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Brock Purdy,-0.014099999999999994,0.0526,0.0667
 2024-04-29 21:06:58.203772,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,Orlando City,-0.014099999999999998,0.0244,0.0385
@@ -202,42 +209,46 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-30 01:04:09.298520,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Miami Heat,-0.017599999999999998,0.002,0.0196
 2024-04-30 01:04:09.275879,NBA Championship - NBA Championship 2023-24 - NBA Champion,Milwaukee Bucks,-0.017800000000000003,0.0066,0.0244
 2024-04-30 01:04:09.275879,NBA Championship - NBA Championship 2023-24 - NBA Champion,Dallas Mavericks,-0.018099999999999998,0.0588,0.0769
-2024-04-29 21:06:58.139988,MLS - USA MLS 2024 - Futures - Winner,Philadelphia Union,-0.018099999999999998,0.0588,0.0769
 2024-04-30 03:02:21.691899,Primera Division - Chile Primera Division 2024 - Futures - Winner,Deportes Iquique,-0.018099999999999998,0.0588,0.0769
+2024-04-29 21:06:58.139988,MLS - USA MLS 2024 - Futures - Winner,Philadelphia Union,-0.018099999999999998,0.0588,0.0769
 2024-04-29 21:07:05.322989,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Mike Tomlin,-0.018099999999999998,0.0345,0.0526
 2024-04-29 21:07:05.725956,MLB Futures - MLB 2024 American League West - American League West Winner,Texas Rangers,-0.018100000000000005,0.4167,0.4348
 2024-04-29 21:06:58.550394,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,Necaxa,-0.018200000000000004,0.0294,0.0476
 2024-04-29 21:06:58.664367,League One - England - League One 2023/24 - To Be Promoted,Barnsley,-0.01820000000000002,0.1818,0.2
-2024-04-29 21:06:58.161072,MLS - USA MLS 2024 - Futures - Golden Boot Award,Raul Ruidiaz,-0.0189,0.0196,0.0385
-2024-04-29 21:06:58.161072,MLS - USA MLS 2024 - Futures - Golden Boot Award,Daniel Gazdag,-0.0189,0.0196,0.0385
 2024-04-29 21:06:58.161072,MLS - USA MLS 2024 - Futures - Golden Boot Award,Aaron-Salem Boupendza,-0.0189,0.0196,0.0385
+2024-04-29 21:06:58.161072,MLS - USA MLS 2024 - Futures - Golden Boot Award,Daniel Gazdag,-0.0189,0.0196,0.0385
+2024-04-29 21:06:58.161072,MLS - USA MLS 2024 - Futures - Golden Boot Award,Raul Ruidiaz,-0.0189,0.0196,0.0385
 2024-04-30 03:02:21.660441,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,BK Häcken,-0.0189,0.0196,0.0385
 2024-04-29 21:06:58.899197,Primeira Liga - Portugal Primeira Liga 2023/24 - Winner,Sporting CP,-0.018900000000000028,0.9615,0.9804
-2024-04-30 01:04:09.298520,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Cleveland Cavaliers,-0.019099999999999992,0.0476,0.0667
 2024-04-29 21:06:58.225624,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Sporting Kansas City,-0.019099999999999992,0.0476,0.0667
+2024-04-30 01:04:09.298520,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Cleveland Cavaliers,-0.019099999999999992,0.0476,0.0667
 2024-04-29 21:06:58.960488,Premier League Futures/Specials - English Premier League 2023/24 - Winner,Liverpool,-0.0194,0.005,0.0244
 2024-04-29 21:06:59.080000,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Luton Town,-0.019499999999999997,0.0099,0.0294
+2024-04-30 05:03:26.659713,Position - Finishing Position - Jordan Spieth - Finishing Position,23rd or worse,-0.01970000000000005,0.5455,0.5652
+2024-04-29 21:07:05.303140,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Dak Prescott,-0.0203,0.0385,0.0588
 2024-04-29 21:06:58.179121,MLS - USA MLS 2024 - Futures - To Reach the Final,Houston Dynamo,-0.0203,0.0385,0.0588
 2024-04-29 21:06:58.225624,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Portland Timbers,-0.0203,0.0385,0.0588
-2024-04-29 21:07:05.303140,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Dak Prescott,-0.0203,0.0385,0.0588
 2024-04-29 21:06:58.179121,MLS - USA MLS 2024 - Futures - To Reach the Final,LA Galaxy,-0.02049999999999999,0.1333,0.1538
 2024-04-29 21:07:06.696529,Volvo China Open - Volvo China Open - Winner,Taichi Kho,-0.021199999999999997,0.0066,0.0278
 2024-04-30 03:02:27.040340,Tournament Match-Ups - Tournament Match-Up - K. Lee vs M. McNealy - Tournament Match-Up,K H Lee,-0.02169999999999994,0.5238,0.5455
 2024-04-30 03:02:21.183401,Serie A - Italy Serie A 2023/24 - To Be Relegated,Empoli,-0.021999999999999964,0.2857,0.3077
-2024-04-29 21:06:59.047529,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Ollie Watkins,-0.022199999999999998,0.2,0.2222
 2024-04-29 21:06:58.179121,MLS - USA MLS 2024 - Futures - To Reach the Final,Philadelphia Union,-0.022199999999999998,0.1111,0.1333
 2024-04-29 21:06:58.513085,A-League - Australia A-League 2023/24 - Grand Final Winner,Melbourne City,-0.022199999999999998,0.1111,0.1333
+2024-04-29 21:06:59.047529,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Ollie Watkins,-0.022199999999999998,0.2,0.2222
 2024-04-29 21:07:05.769657,MLB Futures - MLB 2024 National League Central - National League Central Winner,Milwaukee Brewers,-0.02250000000000002,0.2632,0.2857
 2024-04-29 21:06:58.361302,Championship - England Championship 2023/24 - To Be Promoted,Southampton,-0.02260000000000001,0.3774,0.4
+2024-04-30 05:03:26.791393,Tournament Match-Ups - Tournament Match-Up - A. Scott vs A. Noren - Tournament Match-Up,Adam Scott,-0.022600000000000064,0.5122,0.5348
 2024-04-29 21:06:58.281849,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Nantes,-0.02310000000000001,0.0769,0.1
 2024-04-29 21:07:05.303140,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Joe Burrow,-0.02310000000000001,0.0769,0.1
 2024-04-29 21:06:58.203772,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,Philadelphia Union,-0.02310000000000001,0.0769,0.1
 2024-04-29 21:06:59.004174,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Mohamed Salah,-0.023200000000000002,0.0244,0.0476
 2024-04-29 21:07:05.693539,MLB Futures - MLB 2024 American League East - American League East Winner,Baltimore Orioles,-0.02360000000000001,0.3846,0.4082
 2024-04-30 03:02:21.326674,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,RB Bragantino,-0.023799999999999988,0.1429,0.1667
+2024-04-30 05:03:26.869184,Tournament Match-Ups - Tournament Match-Up - S. Kim vs W. Zalatoris - Tournament Match-Up,Will Zalatoris,-0.023799999999999988,0.4762,0.5
+2024-04-30 05:03:26.835312,Tournament Match-Ups - Tournament Match-Up - K. Lee vs M. McNealy - Tournament Match-Up,K H Lee,-0.023800000000000043,0.5,0.5238
 2024-04-30 03:02:21.174370,Serie A - Italy Serie A 2023/24 - Top Goalscorer,Dusan Vlahovic (Juventus),-0.023899999999999998,0.0196,0.0435
-2024-04-29 21:06:58.550394,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,CF Pachuca,-0.0242,0.0667,0.0909
 2024-04-30 03:02:21.326674,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,São Paulo,-0.0242,0.0667,0.0909
+2024-04-29 21:06:58.550394,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,CF Pachuca,-0.0242,0.0667,0.0909
 2024-04-30 03:02:21.326674,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Botafogo,-0.024999999999999994,0.1,0.125
 2024-04-30 03:02:21.073186,La Liga - Spain La Liga 2023/24 - Winner Without Real Madrid & Barcelona,Atlético Madrid,-0.024999999999999994,0.1,0.125
 2024-04-29 21:06:59.047529,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Dominic Solanke,-0.024999999999999994,0.1,0.125
@@ -247,24 +258,24 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-30 03:02:21.326674,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Cruzeiro MG,-0.027999999999999997,0.1538,0.1818
 2024-04-29 21:06:59.130480,Premier League Futures/Specials - English Premier League 2023/24 - Top 6 Finish,Chelsea,-0.027999999999999997,0.1538,0.1818
 2024-04-29 21:06:58.852698,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,SK Brann,-0.027999999999999997,0.1538,0.1818
-2024-04-29 21:06:59.080000,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Burnley,-0.028000000000000004,0.0196,0.0476
 2024-04-30 03:02:21.691899,Primera Division - Chile Primera Division 2024 - Futures - Winner,Cobreloa Calama,-0.028000000000000004,0.0196,0.0476
+2024-04-29 21:06:59.080000,Premier League Futures/Specials - English Premier League 2023/24 - To Finish Bottom,Burnley,-0.028000000000000004,0.0196,0.0476
 2024-04-29 21:06:59.004174,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer,Dominic Solanke,-0.028199999999999996,0.0385,0.0667
-2024-04-29 21:06:58.179121,MLS - USA MLS 2024 - Futures - To Reach the Final,FC Cincinnati,-0.028799999999999992,0.125,0.1538
 2024-04-29 21:06:58.161072,MLS - USA MLS 2024 - Futures - Golden Boot Award,Georgios Giakoumakis,-0.028799999999999992,0.125,0.1538
+2024-04-29 21:06:58.179121,MLS - USA MLS 2024 - Futures - To Reach the Final,FC Cincinnati,-0.028799999999999992,0.125,0.1538
 2024-04-29 21:06:58.225624,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Seattle Sounders,-0.0294,0.0294,0.0588
 2024-04-29 21:06:58.664367,League One - England - League One 2023/24 - To Be Promoted,Peterborough United,-0.030299999999999994,0.3333,0.3636
 2024-04-29 21:06:59.047529,Premier League Futures/Specials - English Premier League 2023/24 - Top Goalscorer Without Erling Haaland,Cole Palmer,-0.03179999999999994,0.5238,0.5556
 2024-04-29 21:07:00.396698,Box Office 2024 - Highest Worldwide Box Office At Year End - Highest Worldwide Box Office At Year End,Inside Out 2,-0.031799999999999995,0.1111,0.1429
+2024-04-29 21:07:05.322989,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Demeco Ryans,-0.0321,0.0588,0.0909
 2024-04-29 21:06:58.225624,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Houston Dynamo,-0.0321,0.0588,0.0909
 2024-04-29 21:07:05.322989,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Robert Saleh,-0.0321,0.0588,0.0909
-2024-04-29 21:07:05.322989,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Demeco Ryans,-0.0321,0.0588,0.0909
 2024-04-30 03:02:23.504828,Western Conference - Western Conference 2023-24 - Western Conference Winner,Denver Nuggets,-0.033299999999999996,0.5122,0.5455
 2024-04-29 21:06:58.513085,A-League - Australia A-League 2023/24 - Grand Final Winner,Melbourne Victory,-0.033300000000000024,0.1667,0.2
-2024-04-30 01:04:09.321496,Western Conference - Western Conference 2023-24 - Western Conference Winner,Dallas Mavericks,-0.033399999999999985,0.1333,0.1667
 2024-04-29 21:06:58.778733,Superligaen - Denmark Superligaen 2023/2024 - Top 3 Finish,FC Nordsjælland,-0.033399999999999985,0.5744,0.6078
-2024-04-29 21:06:58.179121,MLS - USA MLS 2024 - Futures - To Reach the Final,Portland Timbers,-0.0334,0.0435,0.0769
+2024-04-30 01:04:09.321496,Western Conference - Western Conference 2023-24 - Western Conference Winner,Dallas Mavericks,-0.033399999999999985,0.1333,0.1667
 2024-04-29 21:07:05.322989,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Matt LaFleur,-0.0334,0.0435,0.0769
+2024-04-29 21:06:58.179121,MLS - USA MLS 2024 - Futures - To Reach the Final,Portland Timbers,-0.0334,0.0435,0.0769
 2024-04-29 21:06:59.064236,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Burnley,-0.03410000000000002,0.875,0.9091
 2024-04-29 21:06:58.751364,Superligaen - Denmark Superligaen 2023/2024 - Winner,FC Nordsjælland,-0.03420000000000001,0.0769,0.1111
 2024-04-29 21:06:58.179121,MLS - USA MLS 2024 - Futures - To Reach the Final,Nashville SC,-0.0344,0.0244,0.0588
@@ -272,8 +283,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-30 01:04:09.298520,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Milwaukee Bucks,-0.036199999999999996,0.0164,0.0526
 2024-04-29 21:06:59.064236,Premier League Futures/Specials - English Premier League 2023/24 - To Be Relegated,Nottingham Forest,-0.03640000000000004,0.3636,0.4
 2024-04-29 21:07:02.638546,Donald Trump Specials - Hush Money: Will Donald Trump be found guilty of one or more felonies in New York? - Business Records/Hush Money New York State Trial,Yes,-0.036900000000000044,0.6774,0.7143
-2024-04-29 21:06:58.179121,MLS - USA MLS 2024 - Futures - To Reach the Final,Orlando City,-0.0373,0.0294,0.0667
 2024-04-29 21:07:05.322989,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Mike Macdonald,-0.0373,0.0294,0.0667
+2024-04-29 21:06:58.179121,MLS - USA MLS 2024 - Futures - To Reach the Final,Orlando City,-0.0373,0.0294,0.0667
 2024-04-29 21:06:58.281849,Ligue 1 - France Ligue 1 2023/24 - To Be Relegated,Clermont Foot,-0.037699999999999956,0.9524,0.9901
 2024-04-30 03:02:21.691899,Primera Division - Chile Primera Division 2024 - Futures - Winner,Huachipato,-0.0384,0.0385,0.0769
 2024-04-29 21:06:58.373190,Championship - England Championship 2023/24 - To Be Relegated,Blackburn Rovers,-0.04120000000000001,0.0588,0.1
