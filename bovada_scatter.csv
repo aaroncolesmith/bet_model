@@ -5,6 +5,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-01 01:04:58.156757,Championship - England Championship 2023/24 - Top 2 Finish,Ipswich Town,0.17559999999999998,0.9756,0.8
 2024-05-01 01:04:58.116835,Championship - England Championship 2023/24 - To Be Promoted,Ipswich Town,0.14229999999999998,0.9756,0.8333
 2024-05-01 01:04:57.529170,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Harry Kane (Bayern Munich),0.13640000000000002,0.5,0.3636
+2024-05-01 05:07:14.140387,Scores - 1st Round Score - Jordan Spieth - 1st Round Score,Under 67.5,0.0771,0.4545,0.3774
 2024-05-01 01:05:02.275047,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,Anthony Edwards (MIN),0.06669999999999998,0.1667,0.1
 2024-05-01 03:07:37.681925,Euroleague - Euroleague 2023/24 - Outright,Barcelona,0.05379999999999999,0.1538,0.1
 2024-04-30 23:02:55.607214,UFL - UFL Championship - UFL Winner 2024,St. Louis BattleHawks,0.05109999999999998,0.3636,0.3125
@@ -31,49 +32,54 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-30 23:02:57.693395,Position - Finishing Position - Alex Noren - Finishing Position,32nd or better,0.02079999999999993,0.5556,0.5348
 2024-04-30 19:08:00.071698,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Laiatu Latu,0.02049999999999999,0.1538,0.1333
 2024-05-01 03:07:37.681925,Euroleague - Euroleague 2023/24 - Outright,Maccabi Tel-Aviv,0.02020000000000001,0.1111,0.0909
-2024-04-30 23:02:57.740998,Position - Finishing Position - Min Woo Lee - Finishing Position,33rd or better,0.01970000000000005,0.5652,0.5455
 2024-04-30 23:02:57.705251,Position - Finishing Position - Byeong Hun An - Finishing Position,35th or better,0.01970000000000005,0.5652,0.5455
+2024-04-30 23:02:57.740998,Position - Finishing Position - Min Woo Lee - Finishing Position,33rd or better,0.01970000000000005,0.5652,0.5455
 2024-04-30 23:02:51.879722,Championship - England Championship 2023/24 - To Be Relegated,Sheffield Wednesday,0.019099999999999992,0.0667,0.0476
 2024-04-30 23:02:51.688904,MLS - USA MLS 2024 - Futures - To Reach the Final,FC Cincinnati,0.0179,0.1429,0.125
 2024-05-01 03:07:43.287685,Boxing Lines - Toshiki Kawamitsu vs Kosuke Ando - To Win the Bout,Toshiki Kawamitsu,0.01660000000000006,0.9333,0.9167
 2024-04-30 19:08:00.071698,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Dallas Turner,0.015100000000000002,0.1818,0.1667
+2024-04-30 17:07:29.086604,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
+2024-04-30 19:08:01.154029,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
 2024-04-30 23:02:56.751288,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
 2024-04-30 21:05:00.114381,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
-2024-04-30 19:08:01.154029,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
-2024-04-30 17:07:29.086604,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
 2024-05-01 01:05:02.255746,NBA Awards - NBA Awards 2023-24 - Finals MVP,Anthony Edwards (MIN),0.011899999999999994,0.0833,0.0714
 2024-05-01 01:05:07.421630,Boxing Lines - Jessica McCaskill vs Lauren Price - To Win the Bout,Lauren Price,0.011699999999999933,0.7895,0.7778
+2024-05-01 05:07:12.126814,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
 2024-05-01 03:07:43.642991,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
 2024-05-01 01:05:07.653994,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
 2024-04-30 23:02:51.670630,MLS - USA MLS 2024 - Futures - Winner,Vancouver Whitecaps,0.011199999999999995,0.0588,0.0476
 2024-05-01 03:07:43.605483,Boxing Lines - Joe Cordina vs Anthony Cacace - To Win the Bout,Joe Cordina,0.01090000000000002,0.8571,0.8462
 2024-05-01 03:07:43.213422,Boxing Lines - Edward Vazquez vs Daniel Baily - To Win the Bout,Daniel Baily,0.010899999999999993,0.1538,0.1429
-2024-04-30 17:07:30.514497,Insperity Invitational - Insperity Invitational - Winner,Stephen Ames,0.0102,0.0769,0.0667
 2024-04-30 23:02:51.713130,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Austin FC,0.0102,0.0769,0.0667
+2024-04-30 17:07:30.514497,Insperity Invitational - Insperity Invitational - Winner,Stephen Ames,0.0102,0.0769,0.0667
+2024-05-01 03:07:43.659876,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
 2024-05-01 01:05:09.309362,Tournament Match-Up - Tournament Match-Ups - B. Griffin v B. Hossler - Requests,Beau Hossler,0.010099999999999998,0.5556,0.5455
 2024-05-01 01:05:07.678687,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
-2024-05-01 03:07:43.659876,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
-2024-05-01 01:05:07.653994,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
+2024-05-01 05:07:12.140584,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
 2024-05-01 03:07:43.642991,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
+2024-05-01 01:05:07.653994,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
+2024-05-01 05:07:12.126814,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
 2024-05-01 01:04:58.116835,Championship - England Championship 2023/24 - To Be Promoted,West Bromwich Albion,-0.010899999999999993,0.1429,0.1538
 2024-04-30 23:02:51.688904,MLS - USA MLS 2024 - Futures - To Reach the Final,Inter Miami,-0.01100000000000001,0.5238,0.5348
 2024-04-30 23:02:51.699133,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,Columbus Crew,-0.011099999999999999,0.1,0.1111
 2024-04-30 23:02:51.713130,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Houston Dynamo,-0.011199999999999995,0.0476,0.0588
 2024-05-01 01:05:02.255746,NBA Awards - NBA Awards 2023-24 - Finals MVP,James Harden (LAC),-0.0114,0.005,0.0164
+2024-05-01 05:07:11.679324,Boxing Lines - Emmanuel Rodriguez vs Ryosuke Nishida - To Win the Bout,Emmanuel Rodriguez (MIN),-0.011499999999999955,0.6552,0.6667
 2024-05-01 03:07:37.681925,Euroleague - Euroleague 2023/24 - Outright,Real Madrid BC,-0.0116,0.4762,0.4878
-2024-05-01 01:05:07.678687,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
 2024-05-01 03:07:43.659876,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-01 05:07:12.140584,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-01 01:05:07.678687,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
 2024-05-01 03:07:43.605483,Boxing Lines - Joe Cordina vs Anthony Cacace - To Win the Bout,Anthony Cacace,-0.011700000000000016,0.2105,0.2222
+2024-05-01 01:05:09.309362,Tournament Match-Up - Tournament Match-Ups - B. Griffin v B. Hossler - Requests,Ben Griffin,-0.012199999999999989,0.4878,0.5
 2024-04-30 17:07:29.049208,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.012199999999999989,0.5,0.5122
 2024-04-30 19:08:01.115094,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.012199999999999989,0.5,0.5122
 2024-04-30 21:05:00.072141,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.012199999999999989,0.5,0.5122
 2024-04-30 23:02:56.740305,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.012199999999999989,0.5,0.5122
-2024-05-01 01:05:09.309362,Tournament Match-Up - Tournament Match-Ups - B. Griffin v B. Hossler - Requests,Ben Griffin,-0.012199999999999989,0.4878,0.5
 2024-04-30 23:02:51.670630,MLS - USA MLS 2024 - Futures - Winner,Inter Miami,-0.012699999999999989,0.3509,0.3636
 2024-05-01 01:04:58.116835,Championship - England Championship 2023/24 - To Be Promoted,Norwich City,-0.012899999999999995,0.1538,0.1667
 2024-05-01 03:07:37.681925,Euroleague - Euroleague 2023/24 - Outright,Panathinaikos,-0.013899999999999996,0.1111,0.125
-2024-04-30 19:08:00.071698,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Jared Verse,-0.013999999999999999,0.0769,0.0909
 2024-04-30 23:02:53.627309,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Indiana Pacers,-0.013999999999999999,0.0769,0.0909
+2024-04-30 19:08:00.071698,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Jared Verse,-0.013999999999999999,0.0769,0.0909
 2024-05-01 01:05:02.275047,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,James Harden (LAC),-0.0151,0.0066,0.0217
 2024-05-01 01:05:02.275047,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,Kawhi Leonard (LAC),-0.015300000000000001,0.0323,0.0476
 2024-05-01 01:05:02.275047,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,Kyrie Irving (DAL),-0.0159,0.0164,0.0323
@@ -86,8 +92,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-30 23:02:57.693395,Position - Finishing Position - Alex Noren - Finishing Position,33rd or worse,-0.022600000000000064,0.5122,0.5348
 2024-05-01 01:04:57.529170,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Jude Bellingham (Real Madrid),-0.0236,0.0149,0.0385
 2024-04-30 23:02:57.740998,Position - Finishing Position - Min Woo Lee - Finishing Position,34th or worse,-0.023800000000000043,0.5,0.5238
-2024-05-01 01:05:09.674059,Round Match-Ups - 1st Round Match-Ups - V. Norrman v M. Kuchar - Requests,Matt Kuchar,-0.023800000000000043,0.5,0.5238
 2024-04-30 23:02:57.705251,Position - Finishing Position - Byeong Hun An - Finishing Position,36th or worse,-0.023800000000000043,0.5,0.5238
+2024-05-01 01:05:09.674059,Round Match-Ups - 1st Round Match-Ups - V. Norrman v M. Kuchar - Requests,Matt Kuchar,-0.023800000000000043,0.5,0.5238
 2024-05-01 01:04:58.756984,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,FBC Melgar,-0.0245,0.0588,0.0833
 2024-05-01 01:05:02.255746,NBA Awards - NBA Awards 2023-24 - Finals MVP,Kawhi Leonard (LAC),-0.0262,0.0123,0.0385
 2024-05-01 03:07:37.681925,Euroleague - Euroleague 2023/24 - Outright,Olympiakos,-0.029799999999999993,0.0952,0.125
@@ -104,6 +110,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-01 01:05:02.218350,NBA Awards - NBA Awards 2023-24 - Eastern Conference Finals MVP,Jaylen Brown (BOS),-0.05379999999999999,0.1,0.1538
 2024-05-01 01:04:57.551133,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Borussia Dortmund,-0.055900000000000005,0.3077,0.3636
 2024-05-01 01:05:02.218350,NBA Awards - NBA Awards 2023-24 - Eastern Conference Finals MVP,Giannis Antetokounmpo (MIL),-0.062,0.0149,0.0769
+2024-05-01 05:07:14.140387,Scores - 1st Round Score - Jordan Spieth - 1st Round Score,Over 67.5,-0.06489999999999996,0.6226,0.6875
 2024-05-01 01:05:02.275047,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,Nikola Jokic (DEN),-0.06929999999999997,0.4762,0.5455
 2024-05-01 01:04:58.116835,Championship - England Championship 2023/24 - To Be Promoted,Leeds United,-0.13890000000000002,0.4444,0.5833
 2024-05-01 01:04:58.756984,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Alianza Lima,-0.1415,0.0123,0.1538
