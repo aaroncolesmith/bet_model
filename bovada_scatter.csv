@@ -1,5 +1,11 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2024-05-01 01:04:59.030731,CONCACAF Champions Cup - CONCACAF Champions Cup 2024 - Futures - Winner,CF Pachuca,0.31429999999999997,0.6,0.2857
 2024-04-30 23:02:51.951002,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Estudiantes de La Plata,0.30770000000000003,0.5744,0.2667
+2024-05-01 01:04:58.756984,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Universitario de Deportes,0.27170000000000005,0.6226,0.3509
+2024-05-01 01:04:58.156757,Championship - England Championship 2023/24 - Top 2 Finish,Ipswich Town,0.17559999999999998,0.9756,0.8
+2024-05-01 01:04:58.116835,Championship - England Championship 2023/24 - To Be Promoted,Ipswich Town,0.14229999999999998,0.9756,0.8333
+2024-05-01 01:04:57.529170,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Harry Kane (Bayern Munich),0.13640000000000002,0.5,0.3636
+2024-05-01 01:05:02.275047,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,Anthony Edwards (MIN),0.06669999999999998,0.1667,0.1
 2024-04-30 23:02:55.607214,UFL - UFL Championship - UFL Winner 2024,St. Louis BattleHawks,0.05109999999999998,0.3636,0.3125
 2024-04-30 15:05:54.010509,CBA - China CBA 2023/24 - Outright,Liaoning,0.04849999999999999,0.5833,0.5348
 2024-04-30 23:02:51.951002,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Vélez Sarsfield,0.045499999999999985,0.5,0.4545
@@ -7,70 +13,97 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-30 23:02:55.607214,UFL - UFL Championship - UFL Winner 2024,Birmingham Stallions,0.039600000000000024,0.4651,0.4255
 2024-04-30 23:02:57.767656,Position - Finishing Position - Stephan Jaeger - Finishing Position,34th or better,0.037800000000000056,0.5833,0.5455
 2024-04-30 15:05:50.607230,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Real Madrid,0.0378,0.4545,0.4167
+2024-05-01 01:04:57.571066,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Country of Winning Team,Spain,0.0378,0.4545,0.4167
+2024-05-01 01:04:57.551133,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Paris Saint-Germain,0.035699999999999954,0.75,0.7143
 2024-04-30 23:02:55.607214,UFL - UFL Championship - UFL Winner 2024,San Antonio Brahmas,0.033399999999999985,0.1667,0.1333
+2024-05-01 01:05:02.275047,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,Shai Gilgeous-Alexander (OKC),0.033300000000000024,0.2,0.1667
 2024-04-30 23:02:57.648591,Tournament Match-Up - Tournament Match-Ups - B. Griffin v B. Hossler - Requests,Beau Hossler,0.033299999999999996,0.5455,0.5122
-2024-04-30 11:08:28.863402,NBA Awards - NBA Awards 2023-24 - Finals MVP,Shai Gilgeous-Alexander (OKC),0.0321,0.0909,0.0588
+2024-05-01 01:05:02.218350,NBA Awards - NBA Awards 2023-24 - Eastern Conference Finals MVP,Jayson Tatum (BOS),0.033299999999999996,0.5455,0.5122
+2024-05-01 01:05:02.218350,NBA Awards - NBA Awards 2023-24 - Eastern Conference Finals MVP,Tyrese Haliburton (IND),0.033,0.0526,0.0196
 2024-04-30 23:02:53.627309,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Cleveland Cavaliers,0.029299999999999993,0.0769,0.0476
+2024-05-01 01:05:02.218350,NBA Awards - NBA Awards 2023-24 - Eastern Conference Finals MVP,Jalen Brunson (NYK),0.028799999999999992,0.1538,0.125
+2024-05-01 01:05:02.218350,NBA Awards - NBA Awards 2023-24 - Eastern Conference Finals MVP,Pascal Siakam (IND),0.0275,0.0385,0.011
+2024-05-01 01:05:02.255746,NBA Awards - NBA Awards 2023-24 - Finals MVP,Jaylen Brown (BOS),0.0242,0.0909,0.0667
 2024-04-30 23:02:53.627309,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Philadelphia 76ers,0.0238,0.0714,0.0476
-2024-04-30 11:08:28.863402,NBA Awards - NBA Awards 2023-24 - Finals MVP,Anthony Edwards (MIN),0.0238,0.0714,0.0476
 2024-04-30 23:02:51.713130,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Los Angeles FC,0.022199999999999998,0.2222,0.2
 2024-04-30 23:02:53.627309,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Milwaukee Bucks,0.022099999999999998,0.0385,0.0164
 2024-04-30 23:02:51.879722,Championship - England Championship 2023/24 - To Be Relegated,Plymouth Argyle,0.021999999999999964,0.3077,0.2857
+2024-05-01 01:05:09.674059,Round Match-Ups - 1st Round Match-Ups - V. Norrman v M. Kuchar - Requests,Vincent Norrman,0.02169999999999994,0.5455,0.5238
 2024-04-30 23:02:57.693395,Position - Finishing Position - Alex Noren - Finishing Position,32nd or better,0.02079999999999993,0.5556,0.5348
 2024-04-30 19:08:00.071698,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Laiatu Latu,0.02049999999999999,0.1538,0.1333
 2024-04-30 23:02:57.740998,Position - Finishing Position - Min Woo Lee - Finishing Position,33rd or better,0.01970000000000005,0.5652,0.5455
 2024-04-30 23:02:57.705251,Position - Finishing Position - Byeong Hun An - Finishing Position,35th or better,0.01970000000000005,0.5652,0.5455
 2024-04-30 23:02:51.879722,Championship - England Championship 2023/24 - To Be Relegated,Sheffield Wednesday,0.019099999999999992,0.0667,0.0476
-2024-04-30 11:08:28.863402,NBA Awards - NBA Awards 2023-24 - Finals MVP,Nikola Jokic (DEN),0.019000000000000017,0.2857,0.2667
 2024-04-30 23:02:51.688904,MLS - USA MLS 2024 - Futures - To Reach the Final,FC Cincinnati,0.0179,0.1429,0.125
-2024-04-30 11:08:28.863402,NBA Awards - NBA Awards 2023-24 - Finals MVP,Jayson Tatum (BOS),0.017600000000000005,0.3509,0.3333
 2024-04-30 19:08:00.071698,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Dallas Turner,0.015100000000000002,0.1818,0.1667
 2024-04-30 13:07:42.062821,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Pitcher - Main Slate - MLB DFS Best Performing Pitcher,Freddy Peralta (MIL),0.015100000000000002,0.1818,0.1667
 2024-04-30 13:07:42.062821,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Pitcher - Main Slate - MLB DFS Best Performing Pitcher,Reynaldo Lopez (CWS),0.012299999999999991,0.1176,0.1053
-2024-04-30 19:08:01.154029,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
-2024-04-30 11:08:33.523463,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
-2024-04-30 13:07:42.449208,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
-2024-04-30 15:05:59.461539,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
-2024-04-30 21:05:00.114381,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
-2024-04-30 17:07:29.086604,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
 2024-04-30 23:02:56.751288,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
-2024-04-30 11:08:28.863402,NBA Awards - NBA Awards 2023-24 - Finals MVP,Derrick White (BOS),0.0114,0.0164,0.005
+2024-04-30 21:05:00.114381,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
+2024-04-30 19:08:01.154029,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
+2024-04-30 17:07:29.086604,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
+2024-04-30 15:05:59.461539,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
+2024-04-30 13:07:42.449208,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
+2024-05-01 01:05:02.255746,NBA Awards - NBA Awards 2023-24 - Finals MVP,Anthony Edwards (MIN),0.011899999999999994,0.0833,0.0714
+2024-05-01 01:05:07.421630,Boxing Lines - Jessica McCaskill vs Lauren Price - To Win the Bout,Lauren Price,0.011699999999999933,0.7895,0.7778
+2024-05-01 01:05:07.653994,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
 2024-04-30 23:02:51.670630,MLS - USA MLS 2024 - Futures - Winner,Vancouver Whitecaps,0.011199999999999995,0.0588,0.0476
 2024-04-30 23:02:51.713130,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Austin FC,0.0102,0.0769,0.0667
 2024-04-30 17:07:30.514497,Insperity Invitational - Insperity Invitational - Winner,Stephen Ames,0.0102,0.0769,0.0667
+2024-05-01 01:05:09.309362,Tournament Match-Up - Tournament Match-Ups - B. Griffin v B. Hossler - Requests,Beau Hossler,0.010099999999999998,0.5556,0.5455
+2024-05-01 01:05:07.678687,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
+2024-05-01 01:05:07.653994,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
+2024-05-01 01:04:58.116835,Championship - England Championship 2023/24 - To Be Promoted,West Bromwich Albion,-0.010899999999999993,0.1429,0.1538
 2024-04-30 23:02:51.688904,MLS - USA MLS 2024 - Futures - To Reach the Final,Inter Miami,-0.01100000000000001,0.5238,0.5348
-2024-04-30 23:02:51.699133,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,Columbus Crew,-0.011099999999999999,0.1,0.1111
 2024-04-30 15:05:50.607230,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Borussia Dortmund,-0.011099999999999999,0.1,0.1111
+2024-04-30 23:02:51.699133,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,Columbus Crew,-0.011099999999999999,0.1,0.1111
 2024-04-30 23:02:51.713130,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Houston Dynamo,-0.011199999999999995,0.0476,0.0588
-2024-04-30 11:08:33.498548,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.012199999999999989,0.5,0.5122
-2024-04-30 23:02:56.740305,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.012199999999999989,0.5,0.5122
+2024-05-01 01:05:02.255746,NBA Awards - NBA Awards 2023-24 - Finals MVP,James Harden (LAC),-0.0114,0.005,0.0164
+2024-05-01 01:05:07.678687,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-04-30 15:05:59.445353,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.012199999999999989,0.5,0.5122
 2024-04-30 21:05:00.072141,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.012199999999999989,0.5,0.5122
+2024-05-01 01:05:09.309362,Tournament Match-Up - Tournament Match-Ups - B. Griffin v B. Hossler - Requests,Ben Griffin,-0.012199999999999989,0.4878,0.5
+2024-04-30 19:08:01.115094,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.012199999999999989,0.5,0.5122
 2024-04-30 13:07:42.423537,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.012199999999999989,0.5,0.5122
 2024-04-30 17:07:29.049208,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.012199999999999989,0.5,0.5122
-2024-04-30 15:05:59.445353,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.012199999999999989,0.5,0.5122
-2024-04-30 19:08:01.115094,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.012199999999999989,0.5,0.5122
+2024-04-30 23:02:56.740305,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.012199999999999989,0.5,0.5122
 2024-04-30 13:07:42.062821,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Pitcher - Main Slate - MLB DFS Best Performing Pitcher,Cole Ragans (KC),-0.012299999999999991,0.1053,0.1176
-2024-04-30 11:08:28.863402,NBA Awards - NBA Awards 2023-24 - Finals MVP,Damian Lillard (MIL),-0.0124,0.0028,0.0152
 2024-04-30 23:02:51.670630,MLS - USA MLS 2024 - Futures - Winner,Inter Miami,-0.012699999999999989,0.3509,0.3636
+2024-05-01 01:04:58.116835,Championship - England Championship 2023/24 - To Be Promoted,Norwich City,-0.012899999999999995,0.1538,0.1667
 2024-04-30 15:05:54.010509,CBA - China CBA 2023/24 - Outright,Xinjiang,-0.0131,0.2222,0.2353
-2024-04-30 23:02:53.627309,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Indiana Pacers,-0.013999999999999999,0.0769,0.0909
 2024-04-30 19:08:00.071698,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Jared Verse,-0.013999999999999999,0.0769,0.0909
-2024-04-30 11:08:28.708958,NBA Specials - LeBron James next team? - Proposition,Cleveland Cavaliers,-0.015100000000000002,0.1667,0.1818
+2024-04-30 23:02:53.627309,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Indiana Pacers,-0.013999999999999999,0.0769,0.0909
+2024-05-01 01:05:02.275047,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,James Harden (LAC),-0.0151,0.0066,0.0217
+2024-05-01 01:05:02.275047,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,Kawhi Leonard (LAC),-0.015300000000000001,0.0323,0.0476
+2024-05-01 01:05:02.275047,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,Kyrie Irving (DAL),-0.0159,0.0164,0.0323
 2024-04-30 19:08:00.071698,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Quinyon Mitchell,-0.016600000000000004,0.0667,0.0833
 2024-04-30 23:02:53.627309,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,New York Knicks,-0.01820000000000002,0.1818,0.2
 2024-04-30 23:02:51.888886,Championship - England Championship 2023/24 - Top 6 Finish,West Bromwich Albion,-0.01849999999999996,0.9524,0.9709
 2024-04-30 23:02:53.627309,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Boston Celtics,-0.02200000000000002,0.6923,0.7143
 2024-04-30 23:02:55.607214,UFL - UFL Championship - UFL Winner 2024,Arlington Renegades,-0.022400000000000003,0.0099,0.0323
 2024-04-30 23:02:57.693395,Position - Finishing Position - Alex Noren - Finishing Position,33rd or worse,-0.022600000000000064,0.5122,0.5348
+2024-05-01 01:04:57.529170,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Jude Bellingham (Real Madrid),-0.0236,0.0149,0.0385
 2024-04-30 15:05:54.010509,CBA - China CBA 2023/24 - Outright,Guangdong,-0.023799999999999988,0.1429,0.1667
 2024-04-30 23:02:57.705251,Position - Finishing Position - Byeong Hun An - Finishing Position,36th or worse,-0.023800000000000043,0.5,0.5238
+2024-05-01 01:05:09.674059,Round Match-Ups - 1st Round Match-Ups - V. Norrman v M. Kuchar - Requests,Matt Kuchar,-0.023800000000000043,0.5,0.5238
 2024-04-30 23:02:57.740998,Position - Finishing Position - Min Woo Lee - Finishing Position,34th or worse,-0.023800000000000043,0.5,0.5238
-2024-04-30 11:08:28.863402,NBA Awards - NBA Awards 2023-24 - Finals MVP,Kristaps Porzingis (BOS),-0.0282,0.0244,0.0526
+2024-05-01 01:04:58.756984,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,FBC Melgar,-0.0245,0.0588,0.0833
+2024-05-01 01:05:02.255746,NBA Awards - NBA Awards 2023-24 - Finals MVP,Kawhi Leonard (LAC),-0.0262,0.0123,0.0385
+2024-05-01 01:05:02.218350,NBA Awards - NBA Awards 2023-24 - Eastern Conference Finals MVP,Kristaps Porzingis (BOS),-0.030199999999999998,0.0323,0.0625
 2024-04-30 23:02:55.607214,UFL - UFL Championship - UFL Winner 2024,Memphis Showboats,-0.033,0.0196,0.0526
-2024-04-30 11:08:28.863402,NBA Awards - NBA Awards 2023-24 - Finals MVP,Giannis Antetokounmpo (MIL),-0.0335,0.005,0.0385
+2024-05-01 01:04:59.030731,CONCACAF Champions Cup - CONCACAF Champions Cup 2024 - Futures - Winner,CF Monterrey,-0.0348,0.2985,0.3333
 2024-04-30 23:02:57.648591,Tournament Match-Up - Tournament Match-Ups - B. Griffin v B. Hossler - Requests,Ben Griffin,-0.03480000000000005,0.5,0.5348
 2024-04-30 23:02:57.767656,Position - Finishing Position - Stephan Jaeger - Finishing Position,35th or worse,-0.03600000000000003,0.4878,0.5238
+2024-05-01 01:04:57.571066,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Country of Winning Team,Germany,-0.03640000000000004,0.3636,0.4
 2024-04-30 23:02:51.879722,Championship - England Championship 2023/24 - To Be Relegated,Birmingham City,-0.040999999999999925,0.6923,0.7333
 2024-04-30 15:05:50.607230,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Bayern Munich,-0.044499999999999984,0.2222,0.2667
 2024-04-30 15:06:00.520675,Volvo China Open - 2/3 Balls - 1st Round 3 Balls - C. Jian / Y. Chen / K.P. Lin - 1st Round 3 Balls ,Yilong Cheng,-0.04459999999999997,0.3125,0.3571
 2024-04-30 23:02:55.607214,UFL - UFL Championship - UFL Winner 2024,DC Defenders,-0.048600000000000004,0.0625,0.1111
+2024-05-01 01:05:02.218350,NBA Awards - NBA Awards 2023-24 - Eastern Conference Finals MVP,Damian Lillard (MIL),-0.0526,0.0099,0.0625
+2024-05-01 01:05:02.218350,NBA Awards - NBA Awards 2023-24 - Eastern Conference Finals MVP,Jaylen Brown (BOS),-0.05379999999999999,0.1,0.1538
+2024-05-01 01:04:57.551133,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Borussia Dortmund,-0.055900000000000005,0.3077,0.3636
+2024-05-01 01:05:02.218350,NBA Awards - NBA Awards 2023-24 - Eastern Conference Finals MVP,Giannis Antetokounmpo (MIL),-0.062,0.0149,0.0769
+2024-05-01 01:05:02.275047,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,Nikola Jokic (DEN),-0.06929999999999997,0.4762,0.5455
+2024-05-01 01:04:58.116835,Championship - England Championship 2023/24 - To Be Promoted,Leeds United,-0.13890000000000002,0.4444,0.5833
+2024-05-01 01:04:58.756984,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Alianza Lima,-0.1415,0.0123,0.1538
+2024-05-01 01:04:58.156757,Championship - England Championship 2023/24 - Top 2 Finish,Leeds United,-0.22690000000000002,0.0588,0.2857
