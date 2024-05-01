@@ -2,6 +2,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-01 07:02:45.301423,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May","Harry Kane, Vinicius Jr. and Kylian Mbappe each to score a goal",0.42310000000000003,0.5,0.0769
 2024-05-01 01:04:59.030731,CONCACAF Champions Cup - CONCACAF Champions Cup 2024 - Futures - Winner,CF Pachuca,0.31429999999999997,0.6,0.2857
 2024-04-30 23:02:51.951002,Copa de la Liga Profesional - Argentina Copa de la Liga Profesional 2024 - Futures - Winner,Estudiantes de La Plata,0.30770000000000003,0.5744,0.2667
+2024-05-01 09:05:00.422482,Totals - 1st Round Birdies - Jordan Spieth - 1st Round Birdies,Over 4.5,0.2756,0.6923,0.4167
 2024-05-01 01:04:58.756984,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Universitario de Deportes,0.27170000000000005,0.6226,0.3509
 2024-05-01 07:02:45.301423,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May",10+ corners taken in each match,0.2667,0.6,0.3333
 2024-05-01 01:04:58.156757,Championship - England Championship 2023/24 - Top 2 Finish,Ipswich Town,0.17559999999999998,0.9756,0.8
@@ -9,9 +10,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-01 01:04:58.116835,Championship - England Championship 2023/24 - To Be Promoted,Ipswich Town,0.14229999999999998,0.9756,0.8333
 2024-05-01 01:04:57.529170,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Harry Kane (Bayern Munich),0.13640000000000002,0.5,0.3636
 2024-05-01 07:02:45.301423,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May",A total of 7 or more goals and 22 or more corners taken,0.12589999999999998,0.3077,0.1818
+2024-05-01 09:04:59.879592,Position - Finishing Position - Si Woo Kim - Finishing Position,24th or better,0.11429999999999996,0.6491,0.5348
+2024-05-01 09:04:59.970893,Position - Finishing Position - Tom Hoge - Finishing Position,37th or better,0.11109999999999998,0.6667,0.5556
+2024-05-01 09:04:59.998666,Position - Finishing Position - Tom Kim - Finishing Position,33rd or better,0.10159999999999991,0.6364,0.5348
+2024-05-01 09:04:59.687982,Position - Finishing Position - Adam Scott - Finishing Position,34th or better,0.10159999999999991,0.6364,0.5348
+2024-05-01 09:04:59.744821,Position - Finishing Position - Byeong Hun An - Finishing Position,35th or better,0.10149999999999992,0.6667,0.5652
 2024-05-01 07:02:45.301423,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May",8 or more goals scored,0.08080000000000004,0.4444,0.3636
 2024-05-01 05:07:14.140387,Scores - 1st Round Score - Jordan Spieth - 1st Round Score,Under 67.5,0.0771,0.4545,0.3774
 2024-05-01 01:05:02.275047,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,Anthony Edwards (MIN),0.06669999999999998,0.1667,0.1
+2024-05-01 09:04:52.287812,CBA - China CBA 2023/24 - Outright,Liaoning,0.059599999999999986,0.6429,0.5833
+2024-05-01 09:04:59.782817,Position - Finishing Position - Jason Day - Finishing Position,26th or worse,0.05740000000000001,0.6491,0.5917
 2024-05-01 07:02:51.340606,Scores - 1st Round Score - Jon Rahm - 1st Round Score,Under 67.5,0.05559999999999998,0.5,0.4444
 2024-05-01 03:07:37.681925,Euroleague - Euroleague 2023/24 - Outright,Barcelona,0.05379999999999999,0.1538,0.1
 2024-04-30 23:02:55.607214,UFL - UFL Championship - UFL Winner 2024,St. Louis BattleHawks,0.05109999999999998,0.3636,0.3125
@@ -20,6 +28,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-30 23:02:57.767656,Position - Finishing Position - Stephan Jaeger - Finishing Position,34th or better,0.037800000000000056,0.5833,0.5455
 2024-05-01 01:04:57.571066,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Country of Winning Team,Spain,0.0378,0.4545,0.4167
 2024-05-01 03:07:43.262898,Boxing Lines - Shoki Sakai vs Ryota Toyoshima - To Win the Bout,Shoki Sakai,0.03689999999999999,0.3226,0.2857
+2024-05-01 09:04:58.764766,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - D. Skinns / Pa. Coody / Q. Cummins - 1st Round 3-Balls,Parker Coody,0.03640000000000004,0.4,0.3636
+2024-05-01 09:04:59.710735,Position - Finishing Position - Alex Noren - Finishing Position,32nd or better,0.03610000000000002,0.5917,0.5556
 2024-05-01 01:04:57.551133,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Paris Saint-Germain,0.035699999999999954,0.75,0.7143
 2024-05-01 07:02:51.304219,Scores - 1st Round Score - Cameron Smith - 1st Round Score,Under 68.5,0.03479999999999994,0.6,0.5652
 2024-04-30 23:02:55.607214,UFL - UFL Championship - UFL Winner 2024,San Antonio Brahmas,0.033399999999999985,0.1667,0.1333
@@ -31,87 +41,102 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-30 23:02:53.627309,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Cleveland Cavaliers,0.029299999999999993,0.0769,0.0476
 2024-05-01 01:05:02.218350,NBA Awards - NBA Awards 2023-24 - Eastern Conference Finals MVP,Jalen Brunson (NYK),0.028799999999999992,0.1538,0.125
 2024-05-01 01:05:02.218350,NBA Awards - NBA Awards 2023-24 - Eastern Conference Finals MVP,Pascal Siakam (IND),0.0275,0.0385,0.011
-2024-05-01 01:05:02.255746,NBA Awards - NBA Awards 2023-24 - Finals MVP,Jaylen Brown (BOS),0.0242,0.0909,0.0667
 2024-05-01 07:02:45.301423,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May",A total of 8 or more goals and 25 or more corners taken,0.0242,0.0909,0.0667
+2024-05-01 01:05:02.255746,NBA Awards - NBA Awards 2023-24 - Finals MVP,Jaylen Brown (BOS),0.0242,0.0909,0.0667
 2024-04-30 23:02:53.627309,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Philadelphia 76ers,0.0238,0.0714,0.0476
 2024-04-30 23:02:51.713130,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Los Angeles FC,0.022199999999999998,0.2222,0.2
 2024-04-30 23:02:53.627309,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Milwaukee Bucks,0.022099999999999998,0.0385,0.0164
 2024-04-30 23:02:51.879722,Championship - England Championship 2023/24 - To Be Relegated,Plymouth Argyle,0.021999999999999964,0.3077,0.2857
 2024-05-01 01:05:09.674059,Round Match-Ups - 1st Round Match-Ups - V. Norrman v M. Kuchar - Requests,Vincent Norrman,0.02169999999999994,0.5455,0.5238
 2024-04-30 23:02:57.693395,Position - Finishing Position - Alex Noren - Finishing Position,32nd or better,0.02079999999999993,0.5556,0.5348
-2024-04-30 19:08:00.071698,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Laiatu Latu,0.02049999999999999,0.1538,0.1333
 2024-05-01 03:07:37.681925,Euroleague - Euroleague 2023/24 - Outright,Maccabi Tel-Aviv,0.02020000000000001,0.1111,0.0909
-2024-04-30 23:02:57.740998,Position - Finishing Position - Min Woo Lee - Finishing Position,33rd or better,0.01970000000000005,0.5652,0.5455
 2024-04-30 23:02:57.705251,Position - Finishing Position - Byeong Hun An - Finishing Position,35th or better,0.01970000000000005,0.5652,0.5455
+2024-04-30 23:02:57.740998,Position - Finishing Position - Min Woo Lee - Finishing Position,33rd or better,0.01970000000000005,0.5652,0.5455
 2024-04-30 23:02:51.879722,Championship - England Championship 2023/24 - To Be Relegated,Sheffield Wednesday,0.019099999999999992,0.0667,0.0476
+2024-05-01 09:05:00.262670,Tournament Match-Up - Tournament Match-Ups - B. Griffin v B. Hossler - Requests,Beau Hossler,0.01880000000000004,0.5744,0.5556
+2024-05-01 09:05:01.073090,Tournament Match-Ups - Tournament Match-Up - M. Pereira vs R. Bland - Tournament Match-Up,Mito Pereira,0.01880000000000004,0.5744,0.5556
+2024-05-01 09:05:01.088805,Tournament Match-Ups - Tournament Match-Up - P. Uihlein vs B. Steele - Tournament Match-Up,Peter Uihlein,0.01880000000000004,0.5744,0.5556
 2024-04-30 23:02:51.688904,MLS - USA MLS 2024 - Futures - To Reach the Final,FC Cincinnati,0.0179,0.1429,0.125
+2024-05-01 09:04:57.280824,Boxing Lines - Emmanuel Rodriguez vs Ryosuke Nishida - To Win the Bout,Ryosuke Nishida,0.016699999999999993,0.4167,0.4
 2024-05-01 03:07:43.287685,Boxing Lines - Toshiki Kawamitsu vs Kosuke Ando - To Win the Bout,Toshiki Kawamitsu,0.01660000000000006,0.9333,0.9167
-2024-04-30 19:08:00.071698,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Dallas Turner,0.015100000000000002,0.1818,0.1667
 2024-05-01 07:02:49.312963,Boxing Lines - Eridson Garcia vs Maliek Montgomery - To Win the Bout,Eridson Garcia,0.012699999999999989,0.3636,0.3509
-2024-04-30 19:08:01.154029,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
-2024-04-30 21:05:00.114381,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
 2024-04-30 23:02:56.751288,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.012199999999999989,0.5122,0.5
 2024-05-01 01:05:02.255746,NBA Awards - NBA Awards 2023-24 - Finals MVP,Anthony Edwards (MIN),0.011899999999999994,0.0833,0.0714
 2024-05-01 01:05:07.421630,Boxing Lines - Jessica McCaskill vs Lauren Price - To Win the Bout,Lauren Price,0.011699999999999933,0.7895,0.7778
-2024-05-01 05:07:12.126814,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
-2024-05-01 03:07:43.642991,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
 2024-05-01 07:02:49.545117,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
+2024-05-01 05:07:12.126814,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
+2024-05-01 09:04:57.657186,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
+2024-05-01 03:07:43.642991,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
 2024-05-01 01:05:07.653994,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
 2024-05-01 07:02:49.347721,Boxing Lines - Emmanuel Rodriguez vs Ryosuke Nishida - To Win the Bout,Emmanuel Rodriguez (MIN),0.011499999999999955,0.6667,0.6552
 2024-04-30 23:02:51.670630,MLS - USA MLS 2024 - Futures - Winner,Vancouver Whitecaps,0.011199999999999995,0.0588,0.0476
+2024-05-01 09:04:59.810022,Position - Finishing Position - Jordan Spieth - Finishing Position,22nd or better,0.01100000000000001,0.5348,0.5238
 2024-05-01 03:07:43.605483,Boxing Lines - Joe Cordina vs Anthony Cacace - To Win the Bout,Joe Cordina,0.01090000000000002,0.8571,0.8462
 2024-05-01 03:07:43.213422,Boxing Lines - Edward Vazquez vs Daniel Baily - To Win the Bout,Daniel Baily,0.010899999999999993,0.1538,0.1429
+2024-05-01 09:04:59.936639,Position - Finishing Position - Sungjae Im - Finishing Position,33rd or better,0.010699999999999932,0.5455,0.5348
 2024-04-30 23:02:51.713130,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Austin FC,0.0102,0.0769,0.0667
-2024-05-01 03:07:43.659876,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
 2024-05-01 01:05:09.309362,Tournament Match-Up - Tournament Match-Ups - B. Griffin v B. Hossler - Requests,Beau Hossler,0.010099999999999998,0.5556,0.5455
-2024-05-01 01:05:07.678687,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
+2024-05-01 09:04:57.679949,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
 2024-05-01 07:02:49.556052,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
 2024-05-01 05:07:12.140584,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
+2024-05-01 03:07:43.659876,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
+2024-05-01 01:05:07.678687,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
 2024-05-01 01:05:07.653994,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
+2024-05-01 09:04:57.657186,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
+2024-05-01 07:02:49.545117,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
 2024-05-01 05:07:12.126814,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
 2024-05-01 03:07:43.642991,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
-2024-05-01 07:02:49.545117,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
 2024-05-01 07:02:45.301423,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May",13 or more goals scored,-0.010300000000000002,0.0141,0.0244
+2024-05-01 09:04:59.810022,Position - Finishing Position - Jordan Spieth - Finishing Position,23rd or worse,-0.010699999999999932,0.5348,0.5455
+2024-05-01 09:05:00.652333,Singapore - Singapore - Winner,Lucas Herbert,-0.010700000000000001,0.0278,0.0385
 2024-05-01 01:04:58.116835,Championship - England Championship 2023/24 - To Be Promoted,West Bromwich Albion,-0.010899999999999993,0.1429,0.1538
+2024-05-01 09:04:57.149065,Elite Boxing - Saul 'Canelo' Alvarez vs Jaime Munguia - To Win the Bout,Saul 'Canelo' Alvarez,-0.01090000000000002,0.8462,0.8571
+2024-05-01 09:04:59.936639,Position - Finishing Position - Sungjae Im - Finishing Position,34th or worse,-0.01100000000000001,0.5238,0.5348
 2024-04-30 23:02:51.688904,MLS - USA MLS 2024 - Futures - To Reach the Final,Inter Miami,-0.01100000000000001,0.5238,0.5348
 2024-04-30 23:02:51.699133,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,Columbus Crew,-0.011099999999999999,0.1,0.1111
 2024-04-30 23:02:51.713130,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Houston Dynamo,-0.011199999999999995,0.0476,0.0588
 2024-05-01 01:05:02.255746,NBA Awards - NBA Awards 2023-24 - Finals MVP,James Harden (LAC),-0.0114,0.005,0.0164
 2024-05-01 05:07:11.679324,Boxing Lines - Emmanuel Rodriguez vs Ryosuke Nishida - To Win the Bout,Emmanuel Rodriguez (MIN),-0.011499999999999955,0.6552,0.6667
 2024-05-01 03:07:37.681925,Euroleague - Euroleague 2023/24 - Outright,Real Madrid BC,-0.0116,0.4762,0.4878
-2024-05-01 01:05:07.678687,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
-2024-05-01 03:07:43.659876,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-01 09:04:59.903354,Position - Finishing Position - Stephan Jaeger - Finishing Position,35th or worse,-0.0116,0.4762,0.4878
+2024-05-01 09:04:57.679949,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
 2024-05-01 07:02:49.556052,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
 2024-05-01 05:07:12.140584,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-01 03:07:43.659876,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-01 01:05:07.678687,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
 2024-05-01 03:07:43.605483,Boxing Lines - Joe Cordina vs Anthony Cacace - To Win the Bout,Anthony Cacace,-0.011700000000000016,0.2105,0.2222
 2024-05-01 07:02:45.301423,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May",Total of 31 or more corners taken,-0.0118,0.0099,0.0217
-2024-04-30 19:08:01.115094,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.012199999999999989,0.5,0.5122
 2024-04-30 23:02:56.740305,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.012199999999999989,0.5,0.5122
+2024-05-01 09:04:59.844193,Position - Finishing Position - Min Woo Lee - Finishing Position,34th or worse,-0.012199999999999989,0.4878,0.5
 2024-05-01 01:05:09.309362,Tournament Match-Up - Tournament Match-Ups - B. Griffin v B. Hossler - Requests,Ben Griffin,-0.012199999999999989,0.4878,0.5
-2024-04-30 21:05:00.072141,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.012199999999999989,0.5,0.5122
 2024-04-30 23:02:51.670630,MLS - USA MLS 2024 - Futures - Winner,Inter Miami,-0.012699999999999989,0.3509,0.3636
+2024-05-01 09:04:52.287812,CBA - China CBA 2023/24 - Outright,Zhejiang Golden Bulls,-0.012899999999999995,0.1538,0.1667
 2024-05-01 01:04:58.116835,Championship - England Championship 2023/24 - To Be Promoted,Norwich City,-0.012899999999999995,0.1538,0.1667
 2024-05-01 03:07:37.681925,Euroleague - Euroleague 2023/24 - Outright,Panathinaikos,-0.013899999999999996,0.1111,0.125
-2024-04-30 19:08:00.071698,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Jared Verse,-0.013999999999999999,0.0769,0.0909
 2024-04-30 23:02:53.627309,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Indiana Pacers,-0.013999999999999999,0.0769,0.0909
 2024-05-01 01:05:02.275047,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,James Harden (LAC),-0.0151,0.0066,0.0217
 2024-05-01 07:02:45.301423,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May",12 or more goals scored,-0.015300000000000001,0.0323,0.0476
 2024-05-01 01:05:02.275047,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,Kawhi Leonard (LAC),-0.015300000000000001,0.0323,0.0476
 2024-05-01 01:05:02.275047,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,Kyrie Irving (DAL),-0.0159,0.0164,0.0323
-2024-04-30 19:08:00.071698,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Quinyon Mitchell,-0.016600000000000004,0.0667,0.0833
 2024-05-01 07:02:49.312963,Boxing Lines - Eridson Garcia vs Maliek Montgomery - To Win the Bout,Maliek Montgomery,-0.017300000000000093,0.697,0.7143
+2024-05-01 09:04:57.280824,Boxing Lines - Emmanuel Rodriguez vs Ryosuke Nishida - To Win the Bout,Emmanuel Rodriguez (MIN),-0.01759999999999995,0.6491,0.6667
 2024-05-01 03:07:43.287685,Boxing Lines - Toshiki Kawamitsu vs Kosuke Ando - To Win the Bout,Kosuke Ando,-0.0179,0.125,0.1429
 2024-04-30 23:02:53.627309,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,New York Knicks,-0.01820000000000002,0.1818,0.2
 2024-04-30 23:02:51.888886,Championship - England Championship 2023/24 - Top 6 Finish,West Bromwich Albion,-0.01849999999999996,0.9524,0.9709
+2024-05-01 09:04:58.764766,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - D. Skinns / Pa. Coody / Q. Cummins - 1st Round 3-Balls,David Skinns,-0.018799999999999983,0.3448,0.3636
+2024-05-01 09:04:58.764766,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - D. Skinns / Pa. Coody / Q. Cummins - 1st Round 3-Balls,Quade Cummins,-0.018799999999999983,0.3448,0.3636
 2024-04-30 23:02:53.627309,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Boston Celtics,-0.02200000000000002,0.6923,0.7143
+2024-05-01 09:04:52.287812,CBA - China CBA 2023/24 - Outright,Xinjiang,-0.022199999999999998,0.2,0.2222
 2024-04-30 23:02:55.607214,UFL - UFL Championship - UFL Winner 2024,Arlington Renegades,-0.022400000000000003,0.0099,0.0323
 2024-04-30 23:02:57.693395,Position - Finishing Position - Alex Noren - Finishing Position,33rd or worse,-0.022600000000000064,0.5122,0.5348
 2024-05-01 01:04:57.529170,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Jude Bellingham (Real Madrid),-0.0236,0.0149,0.0385
 2024-05-01 07:02:51.304219,Scores - 1st Round Score - Cameron Smith - 1st Round Score,Over 68.5,-0.023799999999999988,0.4762,0.5
 2024-05-01 07:02:45.301423,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May",Total of 28 or more corners taken,-0.0238,0.0476,0.0714
-2024-04-30 23:02:57.705251,Position - Finishing Position - Byeong Hun An - Finishing Position,36th or worse,-0.023800000000000043,0.5,0.5238
-2024-04-30 23:02:57.740998,Position - Finishing Position - Min Woo Lee - Finishing Position,34th or worse,-0.023800000000000043,0.5,0.5238
 2024-05-01 01:05:09.674059,Round Match-Ups - 1st Round Match-Ups - V. Norrman v M. Kuchar - Requests,Matt Kuchar,-0.023800000000000043,0.5,0.5238
+2024-04-30 23:02:57.740998,Position - Finishing Position - Min Woo Lee - Finishing Position,34th or worse,-0.023800000000000043,0.5,0.5238
+2024-04-30 23:02:57.705251,Position - Finishing Position - Byeong Hun An - Finishing Position,36th or worse,-0.023800000000000043,0.5,0.5238
+2024-05-01 09:05:01.073090,Tournament Match-Ups - Tournament Match-Up - M. Pereira vs R. Bland - Tournament Match-Up,Richard Bland,-0.024399999999999977,0.4878,0.5122
+2024-05-01 09:05:01.088805,Tournament Match-Ups - Tournament Match-Up - P. Uihlein vs B. Steele - Tournament Match-Up,Brendan Steele,-0.024399999999999977,0.4878,0.5122
 2024-05-01 01:04:58.756984,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,FBC Melgar,-0.0245,0.0588,0.0833
 2024-05-01 01:05:02.255746,NBA Awards - NBA Awards 2023-24 - Finals MVP,Kawhi Leonard (LAC),-0.0262,0.0123,0.0385
 2024-05-01 03:07:37.681925,Euroleague - Euroleague 2023/24 - Outright,Olympiakos,-0.029799999999999993,0.0952,0.125
@@ -119,20 +144,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-04-30 23:02:55.607214,UFL - UFL Championship - UFL Winner 2024,Memphis Showboats,-0.033,0.0196,0.0526
 2024-05-01 01:04:59.030731,CONCACAF Champions Cup - CONCACAF Champions Cup 2024 - Futures - Winner,CF Monterrey,-0.0348,0.2985,0.3333
 2024-04-30 23:02:57.648591,Tournament Match-Up - Tournament Match-Ups - B. Griffin v B. Hossler - Requests,Ben Griffin,-0.03480000000000005,0.5,0.5348
+2024-05-01 09:04:59.710735,Position - Finishing Position - Alex Noren - Finishing Position,33rd or worse,-0.035999999999999976,0.4762,0.5122
 2024-04-30 23:02:57.767656,Position - Finishing Position - Stephan Jaeger - Finishing Position,35th or worse,-0.03600000000000003,0.4878,0.5238
 2024-05-01 01:04:57.571066,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Country of Winning Team,Germany,-0.03640000000000004,0.3636,0.4
 2024-05-01 03:07:43.262898,Boxing Lines - Shoki Sakai vs Ryota Toyoshima - To Win the Bout,Ryota Toyoshima,-0.03750000000000009,0.7403,0.7778
 2024-05-01 07:02:51.340606,Scores - 1st Round Score - Jon Rahm - 1st Round Score,Over 67.5,-0.0393,0.5833,0.6226
 2024-04-30 23:02:51.879722,Championship - England Championship 2023/24 - To Be Relegated,Birmingham City,-0.040999999999999925,0.6923,0.7333
+2024-05-01 09:04:52.287812,CBA - China CBA 2023/24 - Outright,Guangdong,-0.042899999999999994,0.1,0.1429
 2024-05-01 07:02:45.301423,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May",Total of 15 or more cards,-0.045,0.0217,0.0667
 2024-04-30 23:02:55.607214,UFL - UFL Championship - UFL Winner 2024,DC Defenders,-0.048600000000000004,0.0625,0.1111
 2024-05-01 01:05:02.218350,NBA Awards - NBA Awards 2023-24 - Eastern Conference Finals MVP,Damian Lillard (MIL),-0.0526,0.0099,0.0625
 2024-05-01 01:05:02.218350,NBA Awards - NBA Awards 2023-24 - Eastern Conference Finals MVP,Jaylen Brown (BOS),-0.05379999999999999,0.1,0.1538
 2024-05-01 01:04:57.551133,UEFA Champions League - UEFA Champions League 2023/24 - Futures - To Reach the Final,Borussia Dortmund,-0.055900000000000005,0.3077,0.3636
+2024-05-01 09:04:59.782817,Position - Finishing Position - Jason Day - Finishing Position,25th or better,-0.0595,0.4167,0.4762
 2024-05-01 01:05:02.218350,NBA Awards - NBA Awards 2023-24 - Eastern Conference Finals MVP,Giannis Antetokounmpo (MIL),-0.062,0.0149,0.0769
 2024-05-01 05:07:14.140387,Scores - 1st Round Score - Jordan Spieth - 1st Round Score,Over 67.5,-0.06489999999999996,0.6226,0.6875
 2024-05-01 01:05:02.275047,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,Nikola Jokic (DEN),-0.06929999999999997,0.4762,0.5455
+2024-05-01 09:04:59.744821,Position - Finishing Position - Byeong Hun An - Finishing Position,36th or worse,-0.09999999999999998,0.4,0.5
+2024-05-01 09:04:59.998666,Position - Finishing Position - Tom Kim - Finishing Position,34th or worse,-0.10930000000000006,0.4255,0.5348
+2024-05-01 09:04:59.687982,Position - Finishing Position - Adam Scott - Finishing Position,35th or worse,-0.10930000000000006,0.4255,0.5348
+2024-05-01 09:04:59.970893,Position - Finishing Position - Tom Hoge - Finishing Position,38th or worse,-0.11219999999999997,0.4,0.5122
 2024-05-01 07:02:45.301423,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May",Total of 11 or more cards,-0.11359999999999998,0.25,0.3636
+2024-05-01 09:04:59.879592,Position - Finishing Position - Si Woo Kim - Finishing Position,25th or worse,-0.11810000000000004,0.4167,0.5348
 2024-05-01 01:04:58.116835,Championship - England Championship 2023/24 - To Be Promoted,Leeds United,-0.13890000000000002,0.4444,0.5833
 2024-05-01 01:04:58.756984,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Alianza Lima,-0.1415,0.0123,0.1538
 2024-05-01 07:02:45.301423,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May",Under 6.5 goals scored,-0.18329999999999996,0.4167,0.6
@@ -141,3 +174,4 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-01 07:02:45.301423,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May",Borussia Dortmund to score more goals than Bayern Munich,-0.2323,0.2222,0.4545
 2024-05-01 07:02:45.301423,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May",Under 4.5 goals scored,-0.24519999999999997,0.0625,0.3077
 2024-05-01 07:02:45.301423,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May - UEFA Champions League Specials - Tuesday, 30th April & Wednesday, 1st May",Under 5.5 goals scored,-0.2545,0.2,0.4545
+2024-05-01 09:05:00.422482,Totals - 1st Round Birdies - Jordan Spieth - 1st Round Birdies,Under 4.5,-0.2787,0.3704,0.6491
