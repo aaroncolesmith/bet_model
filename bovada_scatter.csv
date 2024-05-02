@@ -5,23 +5,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Romain Langasque,0.0927,0.125,0.0323
 2024-05-02 03:02:00.807700,CONCACAF Champions Cup - CONCACAF Champions Cup 2024 - Futures - Winner,Columbus Crew,0.08549999999999996,0.3077,0.2222
 2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Sanghyun Park,0.048100000000000004,0.125,0.0769
+2024-05-02 09:02:21.547677,Round Match-Ups - 1st Round Match-Ups - L. List vs R. Fox - 1st Round Match-Ups,Luke List,0.04620000000000002,0.5917,0.5455
 2024-05-01 23:03:06.923865,NBA Specials - NBA Post Season Awards -  2024 NBA Finals MVP,Shai Gilgeous-Alexander (OKC),0.042600000000000006,0.0952,0.0526
 2024-05-01 23:03:06.933628,NBA Specials - NBA Post Season Awards - 2024 NBA Eastern Conference Finals MVP,Jalen Brunson (NYK),0.04169999999999999,0.1667,0.125
 2024-05-01 23:03:06.923865,NBA Specials - NBA Post Season Awards -  2024 NBA Finals MVP,Anthony Edwards (MIN),0.0398,0.0833,0.0435
+2024-05-02 09:02:21.041188,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - T. Merritt / V. Whaley / A. Novak - 1st Round 3-Balls,Andrew Novak,0.039600000000000024,0.4651,0.4255
 2024-05-01 23:03:06.923865,NBA Specials - NBA Post Season Awards -  2024 NBA Finals MVP,Jayson Tatum (BOS),0.03920000000000001,0.3333,0.2941
 2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Kyungnam Kang,0.0389,0.0667,0.0278
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Guido Migliozzi,0.0374,0.0526,0.0152
 2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Richard T Lee,0.037099999999999994,0.0588,0.0217
 2024-05-02 05:02:15.136498,Round Match-Ups - 1st Round Match-Ups - T. Montgomery v R. MacIntyre - 1st Round Match-Ups,Robert MacIntyre,0.03600000000000003,0.5238,0.4878
+2024-05-02 09:02:20.546051,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - J. Walker / A. Smalley / S. Gutschewski - 1st Round 3-Balls,Alex Smalley,0.03600000000000003,0.5238,0.4878
 2024-05-02 01:02:45.554105,Round Match-Ups - 1st Round Match-Ups - G. Sigg v M. Kim - 1st Round Match-Ups,Greyson Sigg,0.033299999999999996,0.5455,0.5122
 2024-05-01 23:03:06.933628,NBA Specials - NBA Post Season Awards - 2024 NBA Eastern Conference Finals MVP,Tyrese Haliburton (IND),0.033,0.0526,0.0196
 2024-05-01 23:03:06.694356,NBA Championship - NBA Championship 2023-24 - NBA Champion,Dallas Mavericks,0.0321,0.0909,0.0588
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Julien Guerrier,0.029700000000000004,0.0476,0.0179
 2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Yubin Jang,0.029299999999999993,0.0769,0.0476
+2024-05-02 09:02:21.649194,Round Match-Ups - 1st Round Match-Ups - C. Ramey v S. Ryder - 1st Round Match-Ups,Chad Ramey,0.028900000000000037,0.5744,0.5455
 2024-05-02 05:02:13.364289,College Baseball Futures - College World Series Winner - College World Series Winner,Texas A&M,0.027999999999999997,0.1818,0.1538
 2024-05-01 23:03:06.933628,NBA Specials - NBA Post Season Awards - 2024 NBA Eastern Conference Finals MVP,Pascal Siakam (IND),0.0275,0.0385,0.011
 2024-05-01 23:03:06.717184,Western Conference - Western Conference 2023-24 - Western Conference Winner,Dallas Mavericks,0.0267,0.16,0.1333
 2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Hanmil Jung,0.026600000000000002,0.0345,0.0079
+2024-05-02 09:02:21.991154,Round Match-Ups - 1st Round Match-Ups - S. Jaeger v Pi. Coody - 1st Round Match-Ups,Stephan Jaeger,0.026499999999999968,0.6491,0.6226
 2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Sungjoon Park,0.0257,0.0323,0.0066
 2024-05-01 21:07:48.568116,Round Match-Ups - 1st Round Match-Ups - C.T. Pan vs J. Lower - 1st Round Match-Ups,C.T. Pan,0.024399999999999977,0.5122,0.4878
 2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Junghwan Lee,0.024299999999999995,0.0769,0.0526
@@ -32,18 +37,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-01 23:03:06.705805,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Orlando Magic,0.022200000000000004,0.0345,0.0123
 2024-05-01 23:03:12.478898,Totals - 1st Round Birdies - Stephan Jaeger - 1st Round Birdies,Over 4.5,0.022199999999999998,0.6774,0.6552
 2024-05-02 05:02:15.867011,Main Markets - 1st Round 3-Balls - S. Garcia / H. Stenson / P. Mickelson - 1st Round 3-Balls,Sergio Garcia,0.021699999999999997,0.4762,0.4545
+2024-05-01 21:07:50.443432,Tournament Match-Ups - Tournament Match-Up - S. Jaeger vs T. Hoge - Tournament Match-Up,Tom Hoge,0.02169999999999994,0.5455,0.5238
+2024-05-01 21:07:48.629008,Round Match-Ups - 1st Round Match-Ups - K. Yu vs N. Lashley - 1st Round Match-Ups,Kevin Yu,0.02169999999999994,0.5455,0.5238
 2024-05-02 01:02:47.519279,Round Match-Ups - 1st Round Match-Ups - C. Smith vs B. Dechambeau - 1st Round Match-Ups,Bryson DeChambeau,0.02169999999999994,0.5455,0.5238
 2024-05-01 21:07:48.598470,Round Match-Ups - 1st Round Match-Ups - J. Day vs A. Noren - 1st Round Match-Ups,Alex Noren,0.02169999999999994,0.5455,0.5238
-2024-05-01 21:07:48.629008,Round Match-Ups - 1st Round Match-Ups - K. Yu vs N. Lashley - 1st Round Match-Ups,Kevin Yu,0.02169999999999994,0.5455,0.5238
-2024-05-01 21:07:50.443432,Tournament Match-Ups - Tournament Match-Up - S. Jaeger vs T. Hoge - Tournament Match-Up,Tom Hoge,0.02169999999999994,0.5455,0.5238
-2024-05-01 21:07:50.642241,Tournament Match-Ups - Tournament Match-Up - A. Rai v S. Power - Tournament Match-Up,Aaron Rai,0.02079999999999993,0.5556,0.5348
 2024-05-01 21:07:52.528516,Tournament Match-Ups - Tournament Match-Up - C. Smith v T. Hatton - Tournament Match-Up,Tyrrell Hatton,0.02079999999999993,0.5556,0.5348
+2024-05-01 21:07:50.642241,Tournament Match-Ups - Tournament Match-Up - A. Rai v S. Power - Tournament Match-Up,Aaron Rai,0.02079999999999993,0.5556,0.5348
 2024-05-01 21:07:50.559420,Tournament Match-Ups - Tournament Match-Up - T. Olesen v R. Fox - Tournament Match-Up,Ryan Fox,0.02079999999999993,0.5556,0.5348
 2024-05-01 21:07:50.662079,Tournament Match-Ups - Tournament Match-Up - J. Knapp v B. Cauley - Tournament Match-Up,Jake Knapp,0.02079999999999993,0.5556,0.5348
 2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Kristoffer Broberg,0.0203,0.0526,0.0323
 2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Hongtaek Kim,0.020000000000000004,0.0323,0.0123
 2024-05-02 01:02:40.966573,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,Luka Doncic (DAL),0.019699999999999995,0.125,0.1053
 2024-05-02 03:02:07.256765,Tournament Match-Ups - Tournament Match-Up - J. Knapp v B. Cauley - Tournament Match-Up,Jake Knapp,0.01880000000000004,0.5744,0.5556
+2024-05-02 09:02:21.355909,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - D. Skinns / Pa. Coody / Q. Cummins - 1st Round 3-Balls,Quade Cummins,0.018799999999999983,0.3636,0.3448
 2024-05-01 23:03:10.075162,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - C. Villegas / T. Kim / M. Hughes - 1st Round 3-Balls,Mackenzie Hughes,0.018100000000000005,0.4348,0.4167
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Zander Lombard,0.018099999999999998,0.0526,0.0345
 2024-05-02 03:02:00.462360,Liga MX - Clausura - Liga MX - Clausura 2024 - Winner,Cruz Azul,0.0179,0.1429,0.125
@@ -56,8 +62,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Woohyun Kim,0.0156,0.0196,0.004
 2024-05-02 05:02:13.364289,College Baseball Futures - College World Series Winner - College World Series Winner,East Carolina,0.0155,0.05,0.0345
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Joel Girrbach,0.015499999999999998,0.0278,0.0123
+2024-05-02 09:02:19.293508,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Arizona To Make the 2024-2025 College Football Playoff,Yes,0.015100000000000002,0.1818,0.1667
 2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Taehoon Ok,0.014900000000000004,0.0345,0.0196
 2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Rattanon Wannasrichan,0.014599999999999998,0.0278,0.0132
+2024-05-02 09:02:16.600414,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Doug Burgum,0.014099999999999994,0.0667,0.0526
 2024-05-02 01:02:38.124846,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Winner ,Bayern Munich,0.0131,0.2353,0.2222
 2024-05-02 07:01:51.600656,League Two - England - League Two 2023/24 - To Be Promoted,Crawley Town,0.012899999999999995,0.1667,0.1538
 2024-05-02 01:02:40.946527,NBA Awards - NBA Awards 2023-24 - Eastern Conference Finals MVP,Jalen Brunson (NYK),0.012899999999999995,0.1667,0.1538
@@ -65,59 +73,61 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Marcus Armitage,0.012599999999999998,0.0278,0.0152
 2024-05-02 01:02:40.956271,NBA Awards - NBA Awards 2023-24 - Finals MVP,Derrick White (BOS),0.012100000000000001,0.0244,0.0123
 2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Gyumin Lee,0.0118,0.0217,0.0099
-2024-05-02 03:02:05.244868,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
+2024-05-02 09:02:20.416003,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
+2024-05-01 21:07:50.819330,Tournament Match-Ups - Tournament Match-Up - A. Novak v Pa. Coody - Tournament Match-Up,Parker Coody,0.011600000000000055,0.5238,0.5122
+2024-05-01 21:07:47.196309,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
 2024-05-01 21:07:50.687874,Tournament Match-Ups - Tournament Match-Up - S.H. Kim v J.J. Spaun - Tournament Match-Up,J.J. Spaun,0.011600000000000055,0.5238,0.5122
-2024-05-02 05:02:14.057744,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
+2024-05-01 21:07:50.576392,Tournament Match-Ups - Tournament Match-Up - J. Vegas v A. Tosti - Tournament Match-Up,Alejandro Tosti,0.011600000000000055,0.5238,0.5122
+2024-05-01 21:07:50.858867,Tournament Match-Ups - Tournament Match-Up - H. Springer v R. Moore - Tournament Match-Up,Ryan Moore,0.011600000000000055,0.5238,0.5122
 2024-05-01 21:07:50.497473,Tournament Match-Ups - Tournament Match-Up - B. Griffin v S. Power - Tournament Match-Up,Ben Griffin,0.011600000000000055,0.5238,0.5122
 2024-05-02 07:01:56.723384,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
-2024-05-01 21:07:50.522224,Tournament Match-Ups - Tournament Match-Up - B. Silverman v R. Hoey - Tournament Match-Up,Ben Silverman,0.011600000000000055,0.5238,0.5122
+2024-05-02 05:02:14.057744,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
 2024-05-01 21:07:50.541026,Tournament Match-Ups - Tournament Match-Up - R. Hisatsune v M. Greyserman - Tournament Match-Up,Max Greyserman,0.011600000000000055,0.5238,0.5122
+2024-05-02 03:02:05.244868,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
 2024-05-02 01:02:44.838232,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
-2024-05-01 21:07:47.196309,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
-2024-05-01 21:07:50.819330,Tournament Match-Ups - Tournament Match-Up - A. Novak v Pa. Coody - Tournament Match-Up,Parker Coody,0.011600000000000055,0.5238,0.5122
-2024-05-01 19:04:35.295696,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
-2024-05-01 21:07:50.858867,Tournament Match-Ups - Tournament Match-Up - H. Springer v R. Moore - Tournament Match-Up,Ryan Moore,0.011600000000000055,0.5238,0.5122
 2024-05-01 23:03:09.875057,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
-2024-05-01 21:07:50.576392,Tournament Match-Ups - Tournament Match-Up - J. Vegas v A. Tosti - Tournament Match-Up,Alejandro Tosti,0.011600000000000055,0.5238,0.5122
+2024-05-01 21:07:50.522224,Tournament Match-Ups - Tournament Match-Up - B. Silverman v R. Hoey - Tournament Match-Up,Ben Silverman,0.011600000000000055,0.5238,0.5122
 2024-05-02 01:02:40.966573,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,Jamal Murray (DEN),0.011199999999999995,0.0588,0.0476
 2024-05-01 21:07:50.735940,Tournament Match-Ups - Tournament Match-Up - T. Detry v K.H. Lee - Tournament Match-Up,Thomas Detry,0.01100000000000001,0.5348,0.5238
-2024-05-01 21:07:50.776819,Tournament Match-Ups - Tournament Match-Up - A. Bjork v M. Laird - Tournament Match-Up,Martin Laird,0.01100000000000001,0.5348,0.5238
-2024-05-01 21:07:50.607489,Tournament Match-Ups - Tournament Match-Up - J. Suh v D. Riley - Tournament Match-Up,Davis Riley,0.01100000000000001,0.5348,0.5238
-2024-05-01 21:07:50.607489,Tournament Match-Ups - Tournament Match-Up - J. Suh v D. Riley - Tournament Match-Up,Justin Suh,0.01100000000000001,0.5348,0.5238
 2024-05-01 21:07:50.735940,Tournament Match-Ups - Tournament Match-Up - T. Detry v K.H. Lee - Tournament Match-Up,K H Lee,0.01100000000000001,0.5348,0.5238
-2024-05-01 21:07:51.688037,Round Match-Ups - 1st Round Match-Ups - D. Johnson vs S. Garcia - 1st Round Match-Ups,Sergio Garcia,0.01100000000000001,0.5348,0.5238
 2024-05-01 21:07:50.776819,Tournament Match-Ups - Tournament Match-Up - A. Bjork v M. Laird - Tournament Match-Up,Alexander Bjork,0.01100000000000001,0.5348,0.5238
-2024-05-01 21:07:50.247267,Tournament Match-Ups - Tournament Match-Up - M.W. Lee v A. Noren - Tournament Match-Up,Min Woo Lee,0.01100000000000001,0.5348,0.5238
-2024-05-01 21:07:50.247267,Tournament Match-Ups - Tournament Match-Up - M.W. Lee v A. Noren - Tournament Match-Up,Alex Noren,0.01100000000000001,0.5348,0.5238
+2024-05-01 21:07:50.776819,Tournament Match-Ups - Tournament Match-Up - A. Bjork v M. Laird - Tournament Match-Up,Martin Laird,0.01100000000000001,0.5348,0.5238
+2024-05-01 21:07:51.688037,Round Match-Ups - 1st Round Match-Ups - D. Johnson vs S. Garcia - 1st Round Match-Ups,Sergio Garcia,0.01100000000000001,0.5348,0.5238
+2024-05-01 21:07:50.607489,Tournament Match-Ups - Tournament Match-Up - J. Suh v D. Riley - Tournament Match-Up,Justin Suh,0.01100000000000001,0.5348,0.5238
+2024-05-01 21:07:50.607489,Tournament Match-Ups - Tournament Match-Up - J. Suh v D. Riley - Tournament Match-Up,Davis Riley,0.01100000000000001,0.5348,0.5238
 2024-05-01 21:07:50.222207,Tournament Match-Ups - Tournament Match-Up - C. Ramey v M. Kim - Tournament Match-Up,Chad Ramey,0.01100000000000001,0.5348,0.5238
+2024-05-01 21:07:50.247267,Tournament Match-Ups - Tournament Match-Up - M.W. Lee v A. Noren - Tournament Match-Up,Alex Noren,0.01100000000000001,0.5348,0.5238
 2024-05-01 21:07:50.222207,Tournament Match-Ups - Tournament Match-Up - C. Ramey v M. Kim - Tournament Match-Up,Michael Kim,0.01100000000000001,0.5348,0.5238
+2024-05-01 21:07:50.247267,Tournament Match-Ups - Tournament Match-Up - M.W. Lee v A. Noren - Tournament Match-Up,Min Woo Lee,0.01100000000000001,0.5348,0.5238
+2024-05-02 09:02:20.009517,Elite Boxing - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Tyson Fury,0.01100000000000001,0.5348,0.5238
 2024-05-02 07:01:53.804604,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,The Field,0.010899999999999993,0.1538,0.1429
 2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Seonghyeon An,0.0107,0.0132,0.0025
-2024-05-01 21:07:50.858867,Tournament Match-Ups - Tournament Match-Up - H. Springer v R. Moore - Tournament Match-Up,Hayden Springer,0.010699999999999932,0.5455,0.5348
-2024-05-01 21:07:50.522224,Tournament Match-Ups - Tournament Match-Up - B. Silverman v R. Hoey - Tournament Match-Up,Rico Hoey,0.010699999999999932,0.5455,0.5348
+2024-05-01 21:07:50.687874,Tournament Match-Ups - Tournament Match-Up - S.H. Kim v J.J. Spaun - Tournament Match-Up,S.H. Kim,0.010699999999999932,0.5455,0.5348
 2024-05-01 21:07:50.497473,Tournament Match-Ups - Tournament Match-Up - B. Griffin v S. Power - Tournament Match-Up,Seamus Power,0.010699999999999932,0.5455,0.5348
+2024-05-01 21:07:50.522224,Tournament Match-Ups - Tournament Match-Up - B. Silverman v R. Hoey - Tournament Match-Up,Rico Hoey,0.010699999999999932,0.5455,0.5348
 2024-05-01 21:07:50.576392,Tournament Match-Ups - Tournament Match-Up - J. Vegas v A. Tosti - Tournament Match-Up,Jhonattan Vegas,0.010699999999999932,0.5455,0.5348
 2024-05-01 21:07:50.819330,Tournament Match-Ups - Tournament Match-Up - A. Novak v Pa. Coody - Tournament Match-Up,Andrew Novak,0.010699999999999932,0.5455,0.5348
+2024-05-01 21:07:50.858867,Tournament Match-Ups - Tournament Match-Up - H. Springer v R. Moore - Tournament Match-Up,Hayden Springer,0.010699999999999932,0.5455,0.5348
 2024-05-01 21:07:50.541026,Tournament Match-Ups - Tournament Match-Up - R. Hisatsune v M. Greyserman - Tournament Match-Up,Ryo Hisatsune,0.010699999999999932,0.5455,0.5348
-2024-05-01 21:07:50.687874,Tournament Match-Ups - Tournament Match-Up - S.H. Kim v J.J. Spaun - Tournament Match-Up,S.H. Kim,0.010699999999999932,0.5455,0.5348
+2024-05-02 09:02:19.331269,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Florida State To Make the 2024-2025 College Football Playoff,Yes,0.010599999999999998,0.4651,0.4545
 2024-05-02 05:02:13.364289,College Baseball Futures - College World Series Winner - College World Series Winner,UC Irvine,0.010300000000000002,0.0244,0.0141
 2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Jeongwoo Ham,0.010100000000000001,0.0345,0.0244
-2024-05-02 05:02:14.081644,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
 2024-05-02 03:02:05.268803,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
-2024-05-02 01:02:44.849516,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
+2024-05-02 05:02:14.081644,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
 2024-05-02 03:02:05.980183,Round Match-Ups - 1st Round Match-Ups - J. Day vs A. Noren - 1st Round Match-Ups,Alex Noren,0.010099999999999998,0.5556,0.5455
-2024-05-01 23:03:09.887239,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
-2024-05-01 21:07:47.212333,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
-2024-05-01 19:04:35.311785,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
 2024-05-02 03:02:07.756595,Main Markets - 1st Round 3-Balls - S. Garcia / H. Stenson / P. Mickelson - 1st Round 3-Balls,Sergio Garcia,0.010099999999999998,0.4545,0.4444
+2024-05-02 09:02:20.428481,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
 2024-05-02 07:01:56.749862,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
+2024-05-01 21:07:47.212333,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
+2024-05-01 23:03:09.887239,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
+2024-05-02 01:02:44.849516,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
+2024-05-01 21:07:47.196309,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
+2024-05-02 07:01:56.723384,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
+2024-05-02 03:02:05.244868,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
+2024-05-02 09:02:20.416003,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
 2024-05-01 23:03:09.875057,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
 2024-05-02 01:02:44.838232,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
-2024-05-01 21:07:47.196309,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
-2024-05-02 03:02:05.244868,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
-2024-05-01 19:04:35.295696,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
 2024-05-02 05:02:14.057744,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
-2024-05-02 07:01:56.723384,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
 2024-05-01 23:03:06.923865,NBA Specials - NBA Post Season Awards -  2024 NBA Finals MVP,James Harden (LAC),-0.0101,0.004,0.0141
 2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Jaewoong Eom,-0.0102,0.005,0.0152
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Marco Penge,-0.0103,0.002,0.0123
@@ -129,52 +139,54 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Minkyu Kim,-0.011399999999999997,0.0164,0.0278
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Aaron Cockerill,-0.0114,0.005,0.0164
 2024-05-01 23:03:10.096850,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - J. Day / J. Spieth / S. Im - 1st Round 3-Balls,Sungjae Im,-0.01150000000000001,0.3333,0.3448
-2024-05-02 07:01:56.749862,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
-2024-05-01 19:04:35.311785,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
-2024-05-01 21:07:51.688037,Round Match-Ups - 1st Round Match-Ups - D. Johnson vs S. Garcia - 1st Round Match-Ups,Dustin Johnson,-0.011600000000000055,0.5122,0.5238
-2024-05-02 05:02:14.081644,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
-2024-05-02 03:02:05.268803,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
-2024-05-02 01:02:44.849516,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
-2024-05-01 23:03:09.887239,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
 2024-05-01 21:07:47.212333,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-01 23:03:09.887239,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-02 07:01:56.749862,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-02 09:02:20.428481,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-02 09:02:20.009517,Elite Boxing - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Oleksandr Usyk,-0.011600000000000055,0.5122,0.5238
+2024-05-01 21:07:51.688037,Round Match-Ups - 1st Round Match-Ups - D. Johnson vs S. Garcia - 1st Round Match-Ups,Dustin Johnson,-0.011600000000000055,0.5122,0.5238
+2024-05-02 03:02:05.268803,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-02 05:02:14.081644,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-02 01:02:44.849516,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Johannes Veerman,-0.011699999999999999,0.0079,0.0196
 2024-05-02 03:02:05.980183,Round Match-Ups - 1st Round Match-Ups - J. Day vs A. Noren - 1st Round Match-Ups,Jason Day,-0.012199999999999989,0.4878,0.5
 2024-05-02 01:02:44.542226,Elite Boxing - Jake Paul vs Mike Tyson - To Win the Bout,Jake Paul,-0.012299999999999978,0.6429,0.6552
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Darius Van Driel,-0.0128,0.0004,0.0132
+2024-05-02 09:02:19.944730,Elite Boxing - Saul 'Canelo' Alvarez vs Jaime Munguia - To Win the Bout,Saul 'Canelo' Alvarez,-0.012899999999999912,0.8333,0.8462
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Gavin Green,-0.012899999999999998,0.005,0.0179
 2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Doyeob Mun,-0.013,0.0066,0.0196
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Jeff Winther,-0.0131,0.0033,0.0164
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Ugo Coussaud,-0.0132,0.002,0.0152
 2024-05-01 23:03:06.717184,Western Conference - Western Conference 2023-24 - Western Conference Winner,Minnesota Timberwolves,-0.013899999999999996,0.2083,0.2222
-2024-05-02 07:01:53.793112,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.014000000000000012,0.9091,0.9231
 2024-05-02 07:01:53.804604,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,Joe Biden,-0.014000000000000012,0.9091,0.9231
+2024-05-02 07:01:53.793112,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.014000000000000012,0.9091,0.9231
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Calum Hill,-0.0142,0.001,0.0152
 2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Sadom Kaewkanjana,-0.014400000000000003,0.0179,0.0323
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Jesper Svensson,-0.014599999999999998,0.0132,0.0278
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Dongmin Kim,-0.014599999999999998,0.005,0.0196
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Kiradech Aphibarnrat,-0.014599999999999998,0.0132,0.0278
+2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Dongmin Kim,-0.014599999999999998,0.005,0.0196
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Grant Forrest,-0.0148,0.0004,0.0152
 2024-05-02 05:02:13.364289,College Baseball Futures - College World Series Winner - College World Series Winner,Duke,-0.014899999999999997,0.0476,0.0625
 2024-05-01 23:03:06.694356,NBA Championship - NBA Championship 2023-24 - NBA Champion,Denver Nuggets,-0.014900000000000024,0.3077,0.3226
 2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Inhoi Hur,-0.015100000000000002,0.0013,0.0164
-2024-05-02 05:02:13.364289,College Baseball Futures - College World Series Winner - College World Series Winner,LSU,-0.015300000000000001,0.0323,0.0476
 2024-05-02 05:02:13.364289,College Baseball Futures - College World Series Winner - College World Series Winner,Florida,-0.015300000000000001,0.0323,0.0476
+2024-05-02 05:02:13.364289,College Baseball Futures - College World Series Winner - College World Series Winner,LSU,-0.015300000000000001,0.0323,0.0476
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Matthew Southgate,-0.0154,0.001,0.0164
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Dan Bradbury,-0.0156,0.004,0.0196
 2024-05-01 23:03:06.923865,NBA Specials - NBA Post Season Awards -  2024 NBA Finals MVP,Kristaps Porzingis (BOS),-0.0159,0.0164,0.0323
 2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Minhyuk Song,-0.016,0.0057,0.0217
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Brandon Stone,-0.016,0.0004,0.0164
-2024-05-01 23:03:06.923865,NBA Specials - NBA Post Season Awards -  2024 NBA Finals MVP,Paul George (LAC),-0.0162,0.0055,0.0217
 2024-05-01 23:03:06.694356,NBA Championship - NBA Championship 2023-24 - NBA Champion,Los Angeles Clippers,-0.0162,0.0132,0.0294
+2024-05-01 23:03:06.923865,NBA Specials - NBA Post Season Awards -  2024 NBA Finals MVP,Paul George (LAC),-0.0162,0.0055,0.0217
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Matthew Jordan,-0.0163,0.0033,0.0196
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Richard Ramsay,-0.0169,0.001,0.0179
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Jacques Kruyswijk,-0.0169,0.001,0.0179
+2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Richard Ramsay,-0.0169,0.001,0.0179
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Pablo Larrazabal,-0.0171,0.0025,0.0196
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Travis Smyth,-0.017100000000000004,0.0152,0.0323
 2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Denwit Boriboonsub,-0.017100000000000004,0.0152,0.0323
+2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Travis Smyth,-0.017100000000000004,0.0152,0.0323
+2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Matteo Manassero,-0.017599999999999998,0.002,0.0196
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Ashun Wu,-0.017599999999999998,0.002,0.0196
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Fabrizio Zanotti,-0.017599999999999998,0.002,0.0196
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Matteo Manassero,-0.017599999999999998,0.002,0.0196
 2024-05-02 01:02:40.956271,NBA Awards - NBA Awards 2023-24 - Finals MVP,Jayson Tatum (BOS),-0.017600000000000005,0.3333,0.3509
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Joost Luiten,-0.0179,0.0099,0.0278
 2024-05-02 03:02:04.954001,Boxing Lines - Erik Bazinyan vs Shakeel Phinn - To Win the Bout,Shakeel Phinn,-0.01820000000000002,0.1818,0.2
@@ -188,30 +200,35 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-02 05:02:13.364289,College Baseball Futures - College World Series Winner - College World Series Winner,Kentucky,-0.0208,0.0625,0.0833
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Frederic Lacroix,-0.021199999999999997,0.0066,0.0278
 2024-05-01 23:03:06.923865,NBA Specials - NBA Post Season Awards -  2024 NBA Finals MVP,Nikola Jokic (DEN),-0.021399999999999975,0.2564,0.2778
-2024-05-02 01:02:47.497033,Round Match-Ups - 1st Round Match-Ups - B. Koepka vs T. Gooch - 1st Round Match-Ups,Brooks Koepka,-0.02169999999999994,0.5238,0.5455
 2024-05-01 21:07:50.443432,Tournament Match-Ups - Tournament Match-Up - S. Jaeger vs T. Hoge - Tournament Match-Up,Stephan Jaeger,-0.02169999999999994,0.5238,0.5455
+2024-05-02 01:02:47.497033,Round Match-Ups - 1st Round Match-Ups - B. Koepka vs T. Gooch - 1st Round Match-Ups,Brooks Koepka,-0.02169999999999994,0.5238,0.5455
 2024-05-01 23:03:10.075162,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - C. Villegas / T. Kim / M. Hughes - 1st Round 3-Balls,Tom Kim,-0.021699999999999997,0.4545,0.4762
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Sam Bairstow,-0.022400000000000003,0.0099,0.0323
-2024-05-02 07:01:57.351288,Round Match-Ups - 1st Round Match-Ups - T. Detry vs K.H. Lee - 1st Round Match-Ups,Thomas Detry,-0.022600000000000064,0.5122,0.5348
-2024-05-01 21:07:52.528516,Tournament Match-Ups - Tournament Match-Up - C. Smith v T. Hatton - Tournament Match-Up,Cameron Smith,-0.022600000000000064,0.5122,0.5348
+2024-05-02 09:02:21.355909,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - D. Skinns / Pa. Coody / Q. Cummins - 1st Round 3-Balls,Parker Coody,-0.02260000000000001,0.3774,0.4
 2024-05-01 21:07:48.581618,Round Match-Ups - 1st Round Match-Ups - G. Sigg v M. Kim - 1st Round Match-Ups,Greyson Sigg,-0.022600000000000064,0.5122,0.5348
+2024-05-01 21:07:52.528516,Tournament Match-Ups - Tournament Match-Up - C. Smith v T. Hatton - Tournament Match-Up,Cameron Smith,-0.022600000000000064,0.5122,0.5348
+2024-05-02 07:01:57.351288,Round Match-Ups - 1st Round Match-Ups - T. Detry vs K.H. Lee - 1st Round Match-Ups,Thomas Detry,-0.022600000000000064,0.5122,0.5348
 2024-05-01 23:03:12.478898,Totals - 1st Round Birdies - Stephan Jaeger - 1st Round Birdies,Under 4.5,-0.02360000000000001,0.3846,0.4082
-2024-05-01 21:07:48.629008,Round Match-Ups - 1st Round Match-Ups - K. Yu vs N. Lashley - 1st Round Match-Ups,Nate Lashley,-0.023800000000000043,0.5,0.5238
+2024-05-02 09:02:21.041188,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - T. Merritt / V. Whaley / A. Novak - 1st Round 3-Balls,Vince Whaley,-0.023799999999999988,0.3333,0.3571
 2024-05-01 21:07:48.598470,Round Match-Ups - 1st Round Match-Ups - J. Day vs A. Noren - 1st Round Match-Ups,Jason Day,-0.023800000000000043,0.5,0.5238
+2024-05-01 21:07:48.629008,Round Match-Ups - 1st Round Match-Ups - K. Yu vs N. Lashley - 1st Round Match-Ups,Nate Lashley,-0.023800000000000043,0.5,0.5238
 2024-05-02 01:02:47.519279,Round Match-Ups - 1st Round Match-Ups - C. Smith vs B. Dechambeau - 1st Round Match-Ups,Cameron Smith,-0.023800000000000043,0.5,0.5238
 2024-05-02 03:02:07.256765,Tournament Match-Ups - Tournament Match-Up - J. Knapp v B. Cauley - Tournament Match-Up,Bud Cauley,-0.024399999999999977,0.4878,0.5122
 2024-05-01 23:03:06.717184,Western Conference - Western Conference 2023-24 - Western Conference Winner,L.A. Clippers,-0.024800000000000003,0.0278,0.0526
 2024-05-01 23:03:06.923865,NBA Specials - NBA Post Season Awards -  2024 NBA Finals MVP,Kawhi Leonard (LAC),-0.0257,0.0066,0.0323
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Connor Syme,-0.025799999999999997,0.002,0.0278
+2024-05-02 09:02:20.546051,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - J. Walker / A. Smalley / S. Gutschewski - 1st Round 3-Balls,Jimmy Walker,-0.02679999999999999,0.2857,0.3125
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Alexander Levy,-0.0273,0.005,0.0323
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Alejandro Del Rey,-0.028300000000000002,0.004,0.0323
 2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Bio Kim,-0.0286,0.0099,0.0385
 2024-05-02 01:02:40.956271,NBA Awards - NBA Awards 2023-24 - Finals MVP,Nikola Jokic (DEN),-0.029299999999999993,0.2564,0.2857
 2024-05-01 23:03:06.933628,NBA Specials - NBA Post Season Awards - 2024 NBA Eastern Conference Finals MVP,Kristaps Porzingis (BOS),-0.030199999999999998,0.0323,0.0625
 2024-05-02 05:02:15.136498,Round Match-Ups - 1st Round Match-Ups - T. Montgomery v R. MacIntyre - 1st Round Match-Ups,Taylor Montgomery,-0.03179999999999994,0.5238,0.5556
+2024-05-02 09:02:21.991154,Round Match-Ups - 1st Round Match-Ups - S. Jaeger v Pi. Coody - 1st Round Match-Ups,Pierceson Coody,-0.033299999999999996,0.3922,0.4255
 2024-05-02 01:02:40.946527,NBA Awards - NBA Awards 2023-24 - Eastern Conference Finals MVP,Jayson Tatum (BOS),-0.033299999999999996,0.5122,0.5455
 2024-05-02 01:02:45.554105,Round Match-Ups - 1st Round Match-Ups - G. Sigg v M. Kim - 1st Round Match-Ups,Michael Kim,-0.03480000000000005,0.5,0.5348
 2024-05-02 01:02:38.144117,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Harry Kane (Bayern Munich),-0.03489999999999999,0.4651,0.5
+2024-05-02 09:02:21.649194,Round Match-Ups - 1st Round Match-Ups - C. Ramey v S. Ryder - 1st Round Match-Ups,Sam Ryder,-0.03489999999999999,0.4651,0.5
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Tom McKibbin,-0.0392,0.0196,0.0588
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Jordan Smith,-0.039400000000000004,0.0132,0.0526
 2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Bernd Wiesberger,-0.041,0.0066,0.0476
@@ -219,5 +236,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,John Catlin,-0.044599999999999994,0.0323,0.0769
 2024-05-01 23:03:06.933628,NBA Specials - NBA Post Season Awards - 2024 NBA Eastern Conference Finals MVP,Damian Lillard (MIL),-0.0526,0.0099,0.0625
 2024-05-01 23:03:06.933628,NBA Specials - NBA Post Season Awards - 2024 NBA Eastern Conference Finals MVP,Jaylen Brown (BOS),-0.05379999999999999,0.1,0.1538
+2024-05-02 09:02:21.547677,Round Match-Ups - 1st Round Match-Ups - L. List vs R. Fox - 1st Round Match-Ups,Ryan Fox,-0.05559999999999998,0.4444,0.5
 2024-05-01 23:03:06.933628,NBA Specials - NBA Post Season Awards - 2024 NBA Eastern Conference Finals MVP,Giannis Antetokounmpo (MIL),-0.0617,0.0152,0.0769
 2024-05-02 01:02:38.144117,UEFA Champions League - UEFA Champions League 2023/24 - Futures - Top Goalscorer,Kylian Mbappe (PSG),-0.07499999999999996,0.5917,0.6667
