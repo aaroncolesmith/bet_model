@@ -1,181 +1,103 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Sebastian Soderberg,0.16340000000000002,0.2222,0.0588
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Haotong Li,0.1103,0.1538,0.0435
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Romain Langasque,0.0927,0.125,0.0323
 2024-05-02 13:07:44.315398,CBA - China CBA 2023/24 - Outright,Xinjiang,0.0857,0.2857,0.2
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR T'Wolves To Win The NBA Title,0.05550000000000002,0.2222,0.1667
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Sanghyun Park,0.048100000000000004,0.125,0.0769
-2024-05-02 09:02:21.547677,Round Match-Ups - 1st Round Match-Ups - L. List vs R. Fox - 1st Round Match-Ups,Luke List,0.04620000000000002,0.5917,0.5455
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR Mavs To Win The NBA Title,0.04620000000000002,0.2,0.1538
+2024-05-02 09:02:21.547677,Round Match-Ups - 1st Round Match-Ups - L. List vs R. Fox - 1st Round Match-Ups,Luke List,0.04620000000000002,0.5917,0.5455
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR Knicks To Win The NBA Title,0.043899999999999995,0.1818,0.1379
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Thunder To Win The NBA Title,0.043399999999999994,0.5556,0.5122
 2024-05-02 09:02:21.041188,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - T. Merritt / V. Whaley / A. Novak - 1st Round 3-Balls,Andrew Novak,0.039600000000000024,0.4651,0.4255
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Kyungnam Kang,0.0389,0.0667,0.0278
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR Pacers To Win The NBA Title,0.03789999999999999,0.1379,0.1
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Guido Migliozzi,0.0374,0.0526,0.0152
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Richard T Lee,0.037099999999999994,0.0588,0.0217
 2024-05-02 09:02:20.546051,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - J. Walker / A. Smalley / S. Gutschewski - 1st Round 3-Balls,Alex Smalley,0.03600000000000003,0.5238,0.4878
-2024-05-02 05:02:15.136498,Round Match-Ups - 1st Round Match-Ups - T. Montgomery v R. MacIntyre - 1st Round Match-Ups,Robert MacIntyre,0.03600000000000003,0.5238,0.4878
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR Nuggets To Win The NBA Title,0.0348,0.4348,0.4
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR Magic To Win The NBA Title,0.0343,0.1176,0.0833
 2024-05-02 11:07:04.385851,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,0.032299999999999995,0.3448,0.3125
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR T'Wolves To Win The NBA Title,0.03179999999999994,0.5556,0.5238
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR Cavs To Win The NBA Title,0.029799999999999993,0.125,0.0952
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Julien Guerrier,0.029700000000000004,0.0476,0.0179
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Yubin Jang,0.029299999999999993,0.0769,0.0476
 2024-05-02 09:02:21.649194,Round Match-Ups - 1st Round Match-Ups - C. Ramey v S. Ryder - 1st Round Match-Ups,Chad Ramey,0.028900000000000037,0.5744,0.5455
-2024-05-02 05:02:13.364289,College Baseball Futures - College World Series Winner - College World Series Winner,Texas A&M,0.027999999999999997,0.1818,0.1538
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR Bucks To Win The NBA Title,0.027999999999999997,0.1333,0.1053
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Hanmil Jung,0.026600000000000002,0.0345,0.0079
 2024-05-02 09:02:21.991154,Round Match-Ups - 1st Round Match-Ups - S. Jaeger v Pi. Coody - 1st Round Match-Ups,Stephan Jaeger,0.026499999999999968,0.6491,0.6226
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Sungjoon Park,0.0257,0.0323,0.0066
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR 76ers To Win The NBA Title,0.0252,0.1333,0.1081
 2024-05-02 11:06:59.530572,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Milwaukee Bucks,0.024299999999999995,0.0588,0.0345
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Junghwan Lee,0.024299999999999995,0.0769,0.0526
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Miguel Carballo,0.023799999999999998,0.0278,0.004
 2024-05-02 07:01:57.351288,Round Match-Ups - 1st Round Match-Ups - T. Detry vs K.H. Lee - 1st Round Match-Ups,K.H. Lee,0.022600000000000064,0.5348,0.5122
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Mavs To Win The NBA Title,0.022600000000000064,0.5348,0.5122
-2024-05-02 05:02:15.867011,Main Markets - 1st Round 3-Balls - S. Garcia / H. Stenson / P. Mickelson - 1st Round 3-Balls,Sergio Garcia,0.021699999999999997,0.4762,0.4545
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Pacers To Win The NBA Title,0.020699999999999996,0.4651,0.4444
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Kristoffer Broberg,0.0203,0.0526,0.0323
+2024-05-02 17:09:28.029284,Boxing Lines - Edward Vazquez vs Daniel Bailey - To Win the Bout,Daniel Bailey,0.02049999999999999,0.1538,0.1333
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Knicks OR T'Wolves To Win The NBA Title,0.020100000000000007,0.1739,0.1538
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Hongtaek Kim,0.020000000000000004,0.0323,0.0123
 2024-05-02 11:07:06.221385,Round Match-Ups - 1st Round Match-Ups - A. Tosti v R. Brehm - 1st Round Match-Ups,Alejandro Tosti,0.01970000000000005,0.5652,0.5455
 2024-05-02 11:06:59.515808,NBA Championship - NBA Championship 2023-24 - NBA Champion,Boston Celtics,0.019699999999999995,0.4545,0.4348
 2024-05-02 09:02:21.355909,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - D. Skinns / Pa. Coody / Q. Cummins - 1st Round 3-Balls,Quade Cummins,0.018799999999999983,0.3636,0.3448
 2024-05-02 13:07:49.608393,Boxing Lines - Erik Bazinyan vs Shakeel Phinn - To Win the Bout,Shakeel Phinn,0.01820000000000002,0.2,0.1818
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Zander Lombard,0.018099999999999998,0.0526,0.0345
-2024-05-02 05:02:13.364289,College Baseball Futures - College World Series Winner - College World Series Winner,Florida State,0.0177,0.05,0.0323
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Nuggets OR T'Wolves To Win The NBA Title,0.017299999999999982,0.4255,0.4082
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Knicks OR Mavs To Win The NBA Title,0.015899999999999997,0.1538,0.1379
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Woohyun Kim,0.0156,0.0196,0.004
-2024-05-02 05:02:13.364289,College Baseball Futures - College World Series Winner - College World Series Winner,East Carolina,0.0155,0.05,0.0345
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Joel Girrbach,0.015499999999999998,0.0278,0.0123
 2024-05-02 09:02:19.293508,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Arizona To Make the 2024-2025 College Football Playoff,Yes,0.015100000000000002,0.1818,0.1667
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Taehoon Ok,0.014900000000000004,0.0345,0.0196
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Rattanon Wannasrichan,0.014599999999999998,0.0278,0.0132
 2024-05-02 09:02:16.600414,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Doug Burgum,0.014099999999999994,0.0667,0.0526
+2024-05-02 17:09:28.972695,Singapore - Singapore - Winner,Louis Oosthuizen,0.014099999999999994,0.0667,0.0526
 2024-05-02 13:07:49.859523,Boxing Lines - William Scull vs Sean Hemphill - To Win the Bout,William Scull,0.014000000000000012,0.9231,0.9091
 2024-05-02 07:01:51.600656,League Two - England - League Two 2023/24 - To Be Promoted,Crawley Town,0.012899999999999995,0.1667,0.1538
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Marcus Armitage,0.012599999999999998,0.0278,0.0152
 2024-05-02 13:07:44.315398,CBA - China CBA 2023/24 - Outright,Liaoning,0.012299999999999978,0.6552,0.6429
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Knicks To Win The NBA Title,0.012199999999999989,0.5,0.4878
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,76ers OR T'Wolves To Win The NBA Title,0.0121,0.1333,0.1212
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Gyumin Lee,0.0118,0.0217,0.0099
-2024-05-02 13:07:50.390157,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
-2024-05-02 11:07:05.204396,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
-2024-05-02 09:02:20.416003,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
 2024-05-02 07:01:56.723384,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
-2024-05-02 05:02:14.057744,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
+2024-05-02 09:02:20.416003,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
+2024-05-02 11:07:05.204396,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
+2024-05-02 13:07:50.390157,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
 2024-05-02 15:08:01.231179,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
+2024-05-02 17:09:28.776772,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
 2024-05-02 09:02:20.009517,Elite Boxing - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Tyson Fury,0.01100000000000001,0.5348,0.5238
 2024-05-02 07:01:53.804604,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,The Field,0.010899999999999993,0.1538,0.1429
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Seonghyeon An,0.0107,0.0132,0.0025
 2024-05-02 09:02:19.331269,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Florida State To Make the 2024-2025 College Football Playoff,Yes,0.010599999999999998,0.4651,0.4545
-2024-05-02 05:02:13.364289,College Baseball Futures - College World Series Winner - College World Series Winner,UC Irvine,0.010300000000000002,0.0244,0.0141
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Jeongwoo Ham,0.010100000000000001,0.0345,0.0244
+2024-05-02 09:02:20.428481,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
 2024-05-02 13:07:50.402849,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
+2024-05-02 17:09:28.807697,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
+2024-05-02 11:07:05.217083,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
 2024-05-02 15:08:01.263416,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
 2024-05-02 07:01:56.749862,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
-2024-05-02 05:02:14.081644,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
-2024-05-02 09:02:20.428481,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
-2024-05-02 11:07:05.217083,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
-2024-05-02 07:01:56.723384,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
-2024-05-02 09:02:20.416003,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
 2024-05-02 11:07:05.204396,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
-2024-05-02 05:02:14.057744,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
+2024-05-02 09:02:20.416003,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
 2024-05-02 13:07:50.390157,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
+2024-05-02 17:09:28.776772,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
+2024-05-02 07:01:56.723384,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
 2024-05-02 15:08:01.231179,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Jaewoong Eom,-0.0102,0.005,0.0152
 2024-05-02 11:07:04.407281,MLB Futures - MLB 2024 American League East - American League East Winner,Tampa Bay Rays,-0.0102,0.0667,0.0769
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Marco Penge,-0.0103,0.002,0.0123
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Nuggets OR Cavs To Win The NBA Title,-0.010699999999999987,0.3226,0.3333
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Atiruj Winaicharoenchai,-0.0108,0.0033,0.0141
-2024-05-02 05:02:15.867011,Main Markets - 1st Round 3-Balls - S. Garcia / H. Stenson / P. Mickelson - 1st Round 3-Balls,Phil Mickelson,-0.011099999999999999,0.2667,0.2778
 2024-05-02 11:06:59.515808,NBA Championship - NBA Championship 2023-24 - NBA Champion,Oklahoma City Thunder,-0.011099999999999999,0.1,0.1111
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Karandeep Kochhar,-0.0112,0.002,0.0132
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Masahiro Kawamura,-0.0112,0.004,0.0152
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Minkyu Kim,-0.011399999999999997,0.0164,0.0278
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Aaron Cockerill,-0.0114,0.005,0.0164
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Nuggets OR 76ers To Win The NBA Title,-0.01150000000000001,0.3333,0.3448
-2024-05-02 13:07:50.402849,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
-2024-05-02 11:07:05.217083,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
 2024-05-02 09:02:20.428481,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
-2024-05-02 07:01:56.749862,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
-2024-05-02 05:02:14.081644,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-02 13:07:50.402849,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
 2024-05-02 15:08:01.263416,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-02 07:01:56.749862,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-02 17:09:28.807697,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
 2024-05-02 09:02:20.009517,Elite Boxing - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Oleksandr Usyk,-0.011600000000000055,0.5122,0.5238
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Johannes Veerman,-0.011699999999999999,0.0079,0.0196
+2024-05-02 11:07:05.217083,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Clippers OR Mavs To Win The NBA Title,-0.012299999999999991,0.1053,0.1176
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Darius Van Driel,-0.0128,0.0004,0.0132
 2024-05-02 09:02:19.944730,Elite Boxing - Saul 'Canelo' Alvarez vs Jaime Munguia - To Win the Bout,Saul 'Canelo' Alvarez,-0.012899999999999912,0.8333,0.8462
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Gavin Green,-0.012899999999999998,0.005,0.0179
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Doyeob Mun,-0.013,0.0066,0.0196
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Jeff Winther,-0.0131,0.0033,0.0164
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Ugo Coussaud,-0.0132,0.002,0.0152
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Knicks OR 76ers To Win The NBA Title,-0.013999999999999999,0.0769,0.0909
-2024-05-02 07:01:53.804604,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,Joe Biden,-0.014000000000000012,0.9091,0.9231
+2024-05-02 17:09:28.029284,Boxing Lines - Edward Vazquez vs Daniel Bailey - To Win the Bout,Edward Vazquez,-0.014000000000000012,0.9091,0.9231
 2024-05-02 07:01:53.793112,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.014000000000000012,0.9091,0.9231
+2024-05-02 07:01:53.804604,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,Joe Biden,-0.014000000000000012,0.9091,0.9231
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,76ers OR Bucks To Win The NBA Title,-0.014100000000000001,0.0385,0.0526
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Calum Hill,-0.0142,0.001,0.0152
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Sadom Kaewkanjana,-0.014400000000000003,0.0179,0.0323
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Jesper Svensson,-0.014599999999999998,0.0132,0.0278
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Dongmin Kim,-0.014599999999999998,0.005,0.0196
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Kiradech Aphibarnrat,-0.014599999999999998,0.0132,0.0278
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Grant Forrest,-0.0148,0.0004,0.0152
-2024-05-02 05:02:13.364289,College Baseball Futures - College World Series Winner - College World Series Winner,Duke,-0.014899999999999997,0.0476,0.0625
 2024-05-02 11:06:59.530572,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Orlando Magic,-0.014900000000000004,0.0196,0.0345
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Inhoi Hur,-0.015100000000000002,0.0013,0.0164
-2024-05-02 05:02:13.364289,College Baseball Futures - College World Series Winner - College World Series Winner,LSU,-0.015300000000000001,0.0323,0.0476
-2024-05-02 05:02:13.364289,College Baseball Futures - College World Series Winner - College World Series Winner,Florida,-0.015300000000000001,0.0323,0.0476
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Matthew Southgate,-0.0154,0.001,0.0164
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Dan Bradbury,-0.0156,0.004,0.0196
 2024-05-02 13:07:49.608393,Boxing Lines - Erik Bazinyan vs Shakeel Phinn - To Win the Bout,Erik Bazinyan,-0.015699999999999936,0.8667,0.8824
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Minhyuk Song,-0.016,0.0057,0.0217
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Brandon Stone,-0.016,0.0004,0.0164
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Matthew Jordan,-0.0163,0.0033,0.0196
 2024-05-02 13:07:44.315398,CBA - China CBA 2023/24 - Outright,Guangdong,-0.016700000000000007,0.0833,0.1
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Richard Ramsay,-0.0169,0.001,0.0179
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Jacques Kruyswijk,-0.0169,0.001,0.0179
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Pablo Larrazabal,-0.0171,0.0025,0.0196
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Denwit Boriboonsub,-0.017100000000000004,0.0152,0.0323
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Travis Smyth,-0.017100000000000004,0.0152,0.0323
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Fabrizio Zanotti,-0.017599999999999998,0.002,0.0196
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Ashun Wu,-0.017599999999999998,0.002,0.0196
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Matteo Manassero,-0.017599999999999998,0.002,0.0196
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Joost Luiten,-0.0179,0.0099,0.0278
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Phachara Khongwatmai,-0.0189,0.0196,0.0385
 2024-05-02 07:01:51.600656,League Two - England - League Two 2023/24 - To Be Promoted,Milton Keynes Dons,-0.018900000000000028,0.4255,0.4444
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Clippers OR Pacers To Win The NBA Title,-0.0203,0.0385,0.0588
 2024-05-02 13:07:49.859523,Boxing Lines - William Scull vs Sean Hemphill - To Win the Bout,Sean Hemphill,-0.02049999999999999,0.1333,0.1538
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Clippers To Win The NBA Title,-0.020699999999999996,0.4444,0.4651
-2024-05-02 05:02:13.364289,College Baseball Futures - College World Series Winner - College World Series Winner,Kentucky,-0.0208,0.0625,0.0833
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Frederic Lacroix,-0.021199999999999997,0.0066,0.0278
 2024-05-02 11:06:59.515808,NBA Championship - NBA Championship 2023-24 - NBA Champion,Denver Nuggets,-0.021999999999999964,0.2857,0.3077
 2024-05-02 11:07:04.385851,MLB Futures - MLB 2024 American League Central - American League Central Winner,Detroit Tigers,-0.022199999999999998,0.2,0.2222
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Sam Bairstow,-0.022400000000000003,0.0099,0.0323
 2024-05-02 09:02:21.355909,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - D. Skinns / Pa. Coody / Q. Cummins - 1st Round 3-Balls,Parker Coody,-0.02260000000000001,0.3774,0.4
 2024-05-02 07:01:57.351288,Round Match-Ups - 1st Round Match-Ups - T. Detry vs K.H. Lee - 1st Round Match-Ups,Thomas Detry,-0.022600000000000064,0.5122,0.5348
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Knicks OR Clippers To Win The NBA Title,-0.02310000000000001,0.0769,0.1
-2024-05-02 11:07:06.221385,Round Match-Ups - 1st Round Match-Ups - A. Tosti v R. Brehm - 1st Round Match-Ups,Ryan Brehm,-0.023799999999999988,0.4762,0.5
 2024-05-02 09:02:21.041188,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - T. Merritt / V. Whaley / A. Novak - 1st Round 3-Balls,Vince Whaley,-0.023799999999999988,0.3333,0.3571
+2024-05-02 11:07:06.221385,Round Match-Ups - 1st Round Match-Ups - A. Tosti v R. Brehm - 1st Round Match-Ups,Ryan Brehm,-0.023799999999999988,0.4762,0.5
 2024-05-02 11:07:04.385851,MLB Futures - MLB 2024 American League Central - American League Central Winner,Kansas City Royals,-0.023800000000000016,0.1667,0.1905
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Connor Syme,-0.025799999999999997,0.002,0.0278
 2024-05-02 09:02:20.546051,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - J. Walker / A. Smalley / S. Gutschewski - 1st Round 3-Balls,Jimmy Walker,-0.02679999999999999,0.2857,0.3125
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Clippers OR Magic To Win The NBA Title,-0.027099999999999996,0.0164,0.0435
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Alexander Levy,-0.0273,0.005,0.0323
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Nuggets OR Clippers To Win The NBA Title,-0.028299999999999992,0.3226,0.3509
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Alejandro Del Rey,-0.028300000000000002,0.004,0.0323
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,Bio Kim,-0.0286,0.0099,0.0385
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Clippers OR Cavs To Win The NBA Title,-0.0294,0.0294,0.0588
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Clippers OR Bucks To Win The NBA Title,-0.030199999999999998,0.0323,0.0625
-2024-05-02 05:02:15.136498,Round Match-Ups - 1st Round Match-Ups - T. Montgomery v R. MacIntyre - 1st Round Match-Ups,Taylor Montgomery,-0.03179999999999994,0.5238,0.5556
 2024-05-02 09:02:21.991154,Round Match-Ups - 1st Round Match-Ups - S. Jaeger v Pi. Coody - 1st Round Match-Ups,Pierceson Coody,-0.033299999999999996,0.3922,0.4255
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Clippers OR 76ers To Win The NBA Title,-0.03439999999999999,0.0323,0.0667
 2024-05-02 09:02:21.649194,Round Match-Ups - 1st Round Match-Ups - C. Ramey v S. Ryder - 1st Round Match-Ups,Sam Ryder,-0.03489999999999999,0.4651,0.5
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Tom McKibbin,-0.0392,0.0196,0.0588
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Jordan Smith,-0.039400000000000004,0.0132,0.0526
-2024-05-02 05:02:16.590045,Volvo China Open - Volvo China Open - Winner,Bernd Wiesberger,-0.041,0.0066,0.0476
-2024-05-02 05:02:16.860772,Maekyung Open - Maekyung Open - Winner,John Catlin,-0.044599999999999994,0.0323,0.0769
 2024-05-02 09:02:21.547677,Round Match-Ups - 1st Round Match-Ups - L. List vs R. Fox - 1st Round Match-Ups,Ryan Fox,-0.05559999999999998,0.4444,0.5
 2024-05-02 13:07:44.315398,CBA - China CBA 2023/24 - Outright,Zhejiang Golden Bulls,-0.0705,0.0833,0.1538
