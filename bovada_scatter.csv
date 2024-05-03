@@ -1,8 +1,8 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-02 13:07:44.315398,CBA - China CBA 2023/24 - Outright,Xinjiang,0.0857,0.2857,0.2
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR T'Wolves To Win The NBA Title,0.05550000000000002,0.2222,0.1667
-2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR Mavs To Win The NBA Title,0.04620000000000002,0.2,0.1538
 2024-05-02 09:02:21.547677,Round Match-Ups - 1st Round Match-Ups - L. List vs R. Fox - 1st Round Match-Ups,Luke List,0.04620000000000002,0.5917,0.5455
+2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR Mavs To Win The NBA Title,0.04620000000000002,0.2,0.1538
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR Knicks To Win The NBA Title,0.043899999999999995,0.1818,0.1379
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Thunder To Win The NBA Title,0.043399999999999994,0.5556,0.5122
 2024-05-02 09:02:21.041188,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - T. Merritt / V. Whaley / A. Novak - 1st Round 3-Balls,Andrew Novak,0.039600000000000024,0.4651,0.4255
@@ -18,7 +18,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-02 09:02:21.991154,Round Match-Ups - 1st Round Match-Ups - S. Jaeger v Pi. Coody - 1st Round Match-Ups,Stephan Jaeger,0.026499999999999968,0.6491,0.6226
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR 76ers To Win The NBA Title,0.0252,0.1333,0.1081
 2024-05-02 11:06:59.530572,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Milwaukee Bucks,0.024299999999999995,0.0588,0.0345
-2024-05-02 07:01:57.351288,Round Match-Ups - 1st Round Match-Ups - T. Detry vs K.H. Lee - 1st Round Match-Ups,K.H. Lee,0.022600000000000064,0.5348,0.5122
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Mavs To Win The NBA Title,0.022600000000000064,0.5348,0.5122
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Pacers To Win The NBA Title,0.020699999999999996,0.4651,0.4444
 2024-05-02 17:09:28.029284,Boxing Lines - Edward Vazquez vs Daniel Bailey - To Win the Bout,Daniel Bailey,0.02049999999999999,0.1538,0.1333
@@ -33,60 +32,56 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-02 09:02:16.600414,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Doug Burgum,0.014099999999999994,0.0667,0.0526
 2024-05-02 17:09:28.972695,Singapore - Singapore - Winner,Louis Oosthuizen,0.014099999999999994,0.0667,0.0526
 2024-05-02 13:07:49.859523,Boxing Lines - William Scull vs Sean Hemphill - To Win the Bout,William Scull,0.014000000000000012,0.9231,0.9091
-2024-05-02 07:01:51.600656,League Two - England - League Two 2023/24 - To Be Promoted,Crawley Town,0.012899999999999995,0.1667,0.1538
 2024-05-02 13:07:44.315398,CBA - China CBA 2023/24 - Outright,Liaoning,0.012299999999999978,0.6552,0.6429
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Knicks To Win The NBA Title,0.012199999999999989,0.5,0.4878
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,76ers OR T'Wolves To Win The NBA Title,0.0121,0.1333,0.1212
-2024-05-02 07:01:56.723384,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
-2024-05-02 09:02:20.416003,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
-2024-05-02 11:07:05.204396,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
-2024-05-02 13:07:50.390157,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
-2024-05-02 15:08:01.231179,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
+2024-05-02 19:06:21.168147,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
 2024-05-02 17:09:28.776772,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
+2024-05-02 15:08:01.231179,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
+2024-05-02 13:07:50.390157,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
+2024-05-02 11:07:05.204396,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
+2024-05-02 09:02:20.416003,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
+2024-05-02 19:06:21.029740,Boxing Lines - Agit Kabayel vs Frank Sanchez - To Win the Bout,Frank Sanchez,0.011499999999999955,0.6667,0.6552
 2024-05-02 09:02:20.009517,Elite Boxing - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Tyson Fury,0.01100000000000001,0.5348,0.5238
-2024-05-02 07:01:53.804604,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,The Field,0.010899999999999993,0.1538,0.1429
+2024-05-02 19:06:20.454006,Boxing Lines - Shoki Sakai vs Ryota Toyoshima - To Win the Bout,Shoki Sakai,0.010699999999999987,0.3333,0.3226
 2024-05-02 09:02:19.331269,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Florida State To Make the 2024-2025 College Football Playoff,Yes,0.010599999999999998,0.4651,0.4545
+2024-05-02 19:06:21.185757,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
 2024-05-02 09:02:20.428481,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
-2024-05-02 13:07:50.402849,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
 2024-05-02 17:09:28.807697,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
 2024-05-02 11:07:05.217083,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
 2024-05-02 15:08:01.263416,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
-2024-05-02 07:01:56.749862,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
+2024-05-02 13:07:50.402849,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
+2024-05-02 15:08:01.231179,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
+2024-05-02 19:06:21.168147,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
+2024-05-02 17:09:28.776772,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
 2024-05-02 11:07:05.204396,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
 2024-05-02 09:02:20.416003,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
 2024-05-02 13:07:50.390157,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
-2024-05-02 17:09:28.776772,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
-2024-05-02 07:01:56.723384,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
-2024-05-02 15:08:01.231179,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
 2024-05-02 11:07:04.407281,MLB Futures - MLB 2024 American League East - American League East Winner,Tampa Bay Rays,-0.0102,0.0667,0.0769
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Nuggets OR Cavs To Win The NBA Title,-0.010699999999999987,0.3226,0.3333
 2024-05-02 11:06:59.515808,NBA Championship - NBA Championship 2023-24 - NBA Champion,Oklahoma City Thunder,-0.011099999999999999,0.1,0.1111
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Nuggets OR 76ers To Win The NBA Title,-0.01150000000000001,0.3333,0.3448
-2024-05-02 09:02:20.428481,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
-2024-05-02 13:07:50.402849,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
 2024-05-02 15:08:01.263416,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
-2024-05-02 07:01:56.749862,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
-2024-05-02 17:09:28.807697,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-02 19:06:21.185757,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-02 13:07:50.402849,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
 2024-05-02 09:02:20.009517,Elite Boxing - Tyson Fury vs Oleksandr Usyk - To Win the Bout,Oleksandr Usyk,-0.011600000000000055,0.5122,0.5238
 2024-05-02 11:07:05.217083,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-02 09:02:20.428481,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-02 17:09:28.807697,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Clippers OR Mavs To Win The NBA Title,-0.012299999999999991,0.1053,0.1176
 2024-05-02 09:02:19.944730,Elite Boxing - Saul 'Canelo' Alvarez vs Jaime Munguia - To Win the Bout,Saul 'Canelo' Alvarez,-0.012899999999999912,0.8333,0.8462
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Knicks OR 76ers To Win The NBA Title,-0.013999999999999999,0.0769,0.0909
 2024-05-02 17:09:28.029284,Boxing Lines - Edward Vazquez vs Daniel Bailey - To Win the Bout,Edward Vazquez,-0.014000000000000012,0.9091,0.9231
-2024-05-02 07:01:53.793112,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.014000000000000012,0.9091,0.9231
-2024-05-02 07:01:53.804604,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,Joe Biden,-0.014000000000000012,0.9091,0.9231
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,76ers OR Bucks To Win The NBA Title,-0.014100000000000001,0.0385,0.0526
 2024-05-02 11:06:59.530572,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Orlando Magic,-0.014900000000000004,0.0196,0.0345
 2024-05-02 13:07:49.608393,Boxing Lines - Erik Bazinyan vs Shakeel Phinn - To Win the Bout,Erik Bazinyan,-0.015699999999999936,0.8667,0.8824
 2024-05-02 13:07:44.315398,CBA - China CBA 2023/24 - Outright,Guangdong,-0.016700000000000007,0.0833,0.1
-2024-05-02 07:01:51.600656,League Two - England - League Two 2023/24 - To Be Promoted,Milton Keynes Dons,-0.018900000000000028,0.4255,0.4444
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Clippers OR Pacers To Win The NBA Title,-0.0203,0.0385,0.0588
 2024-05-02 13:07:49.859523,Boxing Lines - William Scull vs Sean Hemphill - To Win the Bout,Sean Hemphill,-0.02049999999999999,0.1333,0.1538
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Clippers To Win The NBA Title,-0.020699999999999996,0.4444,0.4651
 2024-05-02 11:06:59.515808,NBA Championship - NBA Championship 2023-24 - NBA Champion,Denver Nuggets,-0.021999999999999964,0.2857,0.3077
 2024-05-02 11:07:04.385851,MLB Futures - MLB 2024 American League Central - American League Central Winner,Detroit Tigers,-0.022199999999999998,0.2,0.2222
 2024-05-02 09:02:21.355909,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - D. Skinns / Pa. Coody / Q. Cummins - 1st Round 3-Balls,Parker Coody,-0.02260000000000001,0.3774,0.4
-2024-05-02 07:01:57.351288,Round Match-Ups - 1st Round Match-Ups - T. Detry vs K.H. Lee - 1st Round Match-Ups,Thomas Detry,-0.022600000000000064,0.5122,0.5348
 2024-05-02 13:07:44.111833,NBA Championship - NBA Championship 2023-24 - Double Chance,Knicks OR Clippers To Win The NBA Title,-0.02310000000000001,0.0769,0.1
 2024-05-02 09:02:21.041188,The CJ Cup - 2/3 Balls - 1st Round 3-Balls - T. Merritt / V. Whaley / A. Novak - 1st Round 3-Balls,Vince Whaley,-0.023799999999999988,0.3333,0.3571
 2024-05-02 11:07:06.221385,Round Match-Ups - 1st Round Match-Ups - A. Tosti v R. Brehm - 1st Round Match-Ups,Ryan Brehm,-0.023799999999999988,0.4762,0.5
