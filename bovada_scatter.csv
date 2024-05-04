@@ -4,6 +4,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-03 13:07:29.024250,NBA Specials - Next Lakers Coach after Darvin Ham - Proposition,Kenny Atkinson,0.1556,0.2667,0.1111
 2024-05-03 19:04:10.710634,Denver Broncos - 2024-25 Regular Season Wins O/U - Regular Season Wins - Denver Broncos O/U 5.5 Wins,Over 5.5 Wins,0.1372,0.5917,0.4545
 2024-05-03 11:06:03.074951,NCAA Regular Season Wins - Big 12 Regular Season Wins - Texas Tech,Under 7.5 Wins,0.10930000000000006,0.5348,0.4255
+2024-05-03 23:03:21.988594,NBA Championship - NBA Championship 2023-24 - Requested Specials,Neither Celtics or Nuggets to Win the NBA Championship,0.07619999999999999,0.4762,0.4
 2024-05-03 13:07:29.047871,NBA Specials - Where will Darvin Ham be Head Coach Game 1 Of the 2024/2025 Season - Proposition,Phoenix Suns,0.0726,0.1111,0.0385
 2024-05-03 11:06:03.455734,NCAA Regular Season Wins - Big Ten Regular Season Wins - USC,Over 7.5 Wins,0.06520000000000004,0.5652,0.5
 2024-05-03 11:06:03.042759,NCAA Regular Season Wins - Big 12 Regular Season Wins - Oklahoma State,Under 7.5 Wins,0.06519999999999992,0.6,0.5348
@@ -13,6 +14,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-03 13:07:29.047871,NBA Specials - Where will Darvin Ham be Head Coach Game 1 Of the 2024/2025 Season - Proposition,Portland Trail Blazers,0.052399999999999995,0.0909,0.0385
 2024-05-03 13:07:29.047871,NBA Specials - Where will Darvin Ham be Head Coach Game 1 Of the 2024/2025 Season - Proposition,Charlotte Hornets,0.04769999999999999,0.1429,0.0952
 2024-05-03 11:06:03.119396,NCAA Regular Season Wins - Big 12 Regular Season Wins - Utah,Over 9.5 Wins,0.044399999999999995,0.6,0.5556
+2024-05-03 23:03:21.972779,NBA Championship - NBA Championship 2023-24 - NBA Champion,Boston Celtics,0.043399999999999994,0.4878,0.4444
 2024-05-03 21:04:52.005538,Caitlin Clark Specials - Caitlin Clark Specials - Caitlin Clark 2024 Regular Season Specials,To Lead Indiana Fever in Scoring,0.041000000000000036,0.7778,0.7368
 2024-05-03 11:06:03.094334,NCAA Regular Season Wins - Big 12 Regular Season Wins - UCF,Over 7.5 Wins,0.040999999999999925,0.6154,0.5744
 2024-05-03 21:04:52.005538,Caitlin Clark Specials - Caitlin Clark Specials - Caitlin Clark 2024 Regular Season Specials,To Average 22+ Points Per Game In 2024 WNBA Regular Season (Must Play 28+ Regular Season Games),0.040999999999999925,0.6154,0.5744
@@ -29,76 +31,88 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-03 13:07:28.645028,NBA Championship - NBA Championship 2023-24 - Double Chance,Knicks OR Magic To Win The NBA Title,0.028399999999999995,0.0909,0.0625
 2024-05-03 13:07:28.645028,NBA Championship - NBA Championship 2023-24 - Double Chance,Knicks OR Pacers To Win The NBA Title,0.027800000000000005,0.1111,0.0833
 2024-05-03 11:06:03.133354,NCAA Regular Season Wins - Big 12 Regular Season Wins - West Virginia ,Over 6.5 Wins,0.026499999999999968,0.5917,0.5652
+2024-05-03 23:03:22.020910,Western Conference - Western Conference 2023-24 - Denver vs The Field (Western Conference) ,The Field (Anyone Else),0.025599999999999956,0.6,0.5744
 2024-05-03 11:06:05.303959,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Pitcher - Main Slate - MLB DFS Best Performing Pitcher,Sonny Gray (R),0.023799999999999988,0.1667,0.1429
 2024-05-03 11:06:05.303959,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Pitcher - Main Slate - MLB DFS Best Performing Pitcher,Tanner Houck (BOS),0.02239999999999999,0.1176,0.0952
 2024-05-03 21:04:51.933213,To Make the Playoffs - Indiana Fever - To Make the 2024 WNBA Playoffs - Indiana Fever - To Make the 2024 WNBA Playoffs,Yes,0.021400000000000086,0.7436,0.7222
 2024-05-03 13:07:28.645028,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Cavs To Win The NBA Title,0.020699999999999996,0.4651,0.4444
 2024-05-03 13:07:32.758613,NFL Specials - 2024/2025 NFL Regular Season - Total Rushing Yards - Ezekiel Elliott - Proposition,Under 749.5,0.01970000000000005,0.5652,0.5455
-2024-05-03 17:07:08.654444,NBA Specials - Next Lakers Coach after Darvin Ham - Proposition,Kenny Atkinson,0.019000000000000017,0.2857,0.2667
 2024-05-03 17:07:08.654444,NBA Specials - Next Lakers Coach after Darvin Ham - Proposition,Mike Budenholzer,0.019000000000000017,0.2857,0.2667
+2024-05-03 17:07:08.654444,NBA Specials - Next Lakers Coach after Darvin Ham - Proposition,Kenny Atkinson,0.019000000000000017,0.2857,0.2667
 2024-05-03 13:07:28.645028,NBA Championship - NBA Championship 2023-24 - Double Chance,Knicks OR Clippers To Win The NBA Title,0.01830000000000001,0.0952,0.0769
+2024-05-03 23:03:26.265693,MLB Futures - MLB 2024 National League Central - National League Central Winner,Milwaukee Brewers,0.01629999999999998,0.2941,0.2778
 2024-05-03 13:07:29.024250,NBA Specials - Next Lakers Coach after Darvin Ham - Proposition,Mark Jackson,0.015300000000000001,0.0476,0.0323
+2024-05-03 23:03:22.012381,Western Conference - Western Conference 2023-24 - Western Conference Winner,Dallas Mavericks,0.015100000000000002,0.1818,0.1667
 2024-05-03 11:06:03.202671,NCAA Regular Season Wins - Big Ten Regular Season Wins - Iowa,Over 7.5 Wins,0.014200000000000101,0.6296,0.6154
 2024-05-03 13:07:28.645028,NBA Championship - NBA Championship 2023-24 - Double Chance,Knicks OR Mavs To Win The NBA Title,0.012899999999999995,0.1667,0.1538
 2024-05-03 19:04:10.604420,Cincinnati Bengals - 2024-25 Regular Season Wins O/U - Regular Season Wins - Cincinnati Bengals O/U 10.5 Wins,Under 10.5 Wins,0.012199999999999989,0.5,0.4878
-2024-05-03 19:04:11.078029,New York Jets - 2024-25 Regular Season Wins O/U - Regular Season Wins - New York Jets O/U 9.5 Wins,Under 9.5 Wins,0.012199999999999989,0.5122,0.5
 2024-05-03 19:04:11.024694,New Orleans Saints - 2024-25 Regular Season Wins O/U - Regular Season Wins - New Orleans Saints O/U 7.5 Wins,Under 7.5 Wins,0.012199999999999989,0.5122,0.5
-2024-05-03 11:06:06.317063,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
-2024-05-03 13:07:36.647537,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
+2024-05-03 19:04:11.078029,New York Jets - 2024-25 Regular Season Wins O/U - Regular Season Wins - New York Jets O/U 9.5 Wins,Under 9.5 Wins,0.012199999999999989,0.5122,0.5
 2024-05-03 21:04:56.189599,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
+2024-05-03 13:07:36.647537,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
+2024-05-03 17:07:17.268395,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
 2024-05-03 15:05:23.813340,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
 2024-05-03 19:04:13.702359,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
-2024-05-03 17:07:17.268395,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
+2024-05-03 11:06:06.317063,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
+2024-05-03 23:03:26.630024,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
 2024-05-03 19:04:10.907204,Los Angeles Rams - 2024-25 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U 8.5 Wins,Under 8.5 Wins,0.0116,0.4878,0.4762
 2024-05-03 19:04:10.779968,Green Bay Packers - 2024-25 Regular Season Wins O/U - Regular Season Wins - Green Bay Packers O/U 9.5 Wins,Under 9.5 Wins,0.0116,0.4878,0.4762
 2024-05-03 19:04:11.139277,Seattle Seahawks - 2024-25 Regular Season Wins O/U - Regular Season Wins - Seattle Seahawks O/U 7.5 Wins,Under 7.5 Wins,0.0116,0.4878,0.4762
+2024-05-03 23:03:22.012381,Western Conference - Western Conference 2023-24 - Western Conference Winner,Oklahoma City Thunder,0.011300000000000004,0.2439,0.2326
 2024-05-03 11:06:03.586353,NCAA Regular Season Wins - ACC Regular Season Wins - Florida State,Over 9.5 Wins,0.011099999999999999,0.4762,0.4651
-2024-05-03 19:04:10.410392,Atlanta Falcons - 2024-25 Regular Season Wins O/U - Regular Season Wins - Atlanta Falcons O/U 9.5 Wins,Under 9.5 Wins,0.011099999999999999,0.4762,0.4651
 2024-05-03 11:06:03.709984,NCAA Regular Season Wins - ACC Regular Season Wins - North Carolina,Under 7.5 Wins,0.011099999999999999,0.4762,0.4651
-2024-05-03 11:06:03.818867,NCAA Regular Season Wins - ACC Regular Season Wins - Virginia Tech,Under 7.5 Wins,0.011099999999999999,0.4762,0.4651
-2024-05-03 19:04:10.379145,Arizona Cardinals - 2024-25 Regular Season Wins O/U - Regular Season Wins - Arizona Cardinals O/U 6.5,Under 6.5 Wins,0.011099999999999999,0.4762,0.4651
-2024-05-03 13:07:28.645028,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Pacers To Win The NBA Title,0.011099999999999999,0.4762,0.4651
 2024-05-03 19:04:11.052068,New York Giants - 2024-25 Regular Season Wins O/U - Regular Season Wins - New York Giants O/U 6.5 Wins,Over 6.5 Wins,0.011099999999999999,0.4762,0.4651
+2024-05-03 11:06:03.818867,NCAA Regular Season Wins - ACC Regular Season Wins - Virginia Tech,Under 7.5 Wins,0.011099999999999999,0.4762,0.4651
+2024-05-03 19:04:10.410392,Atlanta Falcons - 2024-25 Regular Season Wins O/U - Regular Season Wins - Atlanta Falcons O/U 9.5 Wins,Under 9.5 Wins,0.011099999999999999,0.4762,0.4651
+2024-05-03 19:04:10.379145,Arizona Cardinals - 2024-25 Regular Season Wins O/U - Regular Season Wins - Arizona Cardinals O/U 6.5,Under 6.5 Wins,0.011099999999999999,0.4762,0.4651
 2024-05-03 19:04:10.812272,Indianapolis Colts - 2024-25 Regular Season Wins O/U - Regular Season Wins - Indianapolis Colts O/U 8.5 Wins,Over 8.5 Wins,0.011099999999999999,0.4762,0.4651
+2024-05-03 13:07:28.645028,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Pacers To Win The NBA Title,0.011099999999999999,0.4762,0.4651
 2024-05-03 11:06:05.303959,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Pitcher - Main Slate - MLB DFS Best Performing Pitcher,Dylan Cease (R),0.010899999999999993,0.1538,0.1429
-2024-05-03 19:04:10.878451,Las Vegas Raiders - 2024-25 Regular Season Wins O/U - Regular Season Wins - Las Vegas Raiders O/U 6.5 Wins,Under 6.5 Wins,0.010599999999999998,0.4651,0.4545
 2024-05-03 19:04:10.795904,Houston Texans - 2024-25 Regular Season Wins O/U - Regular Season Wins - Houston Texans O/U 9.5 Wins,Under 9.5 Wins,0.010599999999999998,0.4651,0.4545
+2024-05-03 19:04:10.878451,Las Vegas Raiders - 2024-25 Regular Season Wins O/U - Regular Season Wins - Las Vegas Raiders O/U 6.5 Wins,Under 6.5 Wins,0.010599999999999998,0.4651,0.4545
 2024-05-03 21:04:56.200255,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
-2024-05-03 13:07:36.670587,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
 2024-05-03 19:04:13.714142,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
-2024-05-03 15:05:23.837377,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
-2024-05-03 13:07:28.645028,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Clippers To Win The NBA Title,0.010099999999999998,0.4545,0.4444
-2024-05-03 11:06:06.350015,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
 2024-05-03 17:07:17.287598,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
+2024-05-03 15:05:23.837377,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
+2024-05-03 13:07:36.670587,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
+2024-05-03 11:06:06.350015,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
+2024-05-03 23:03:26.641660,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
+2024-05-03 13:07:28.645028,NBA Championship - NBA Championship 2023-24 - Double Chance,Celtics OR Clippers To Win The NBA Title,0.010099999999999998,0.4545,0.4444
 2024-05-03 21:04:52.005538,Caitlin Clark Specials - Caitlin Clark Specials - Caitlin Clark 2024 Regular Season Specials,To Score 50+ Points In Any 2024 WNBA Regular Season Game,0.010000000000000002,0.05,0.04
-2024-05-03 13:07:36.647537,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
-2024-05-03 21:04:56.189599,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
+2024-05-03 23:03:26.630024,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
 2024-05-03 11:06:06.317063,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
 2024-05-03 15:05:23.813340,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
-2024-05-03 19:04:13.702359,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
 2024-05-03 17:07:17.268395,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
+2024-05-03 19:04:13.702359,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
+2024-05-03 13:07:36.647537,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
+2024-05-03 21:04:56.189599,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
 2024-05-03 19:04:13.714142,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
 2024-05-03 11:06:06.350015,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
-2024-05-03 15:05:23.837377,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
-2024-05-03 13:07:36.670587,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
 2024-05-03 21:04:56.200255,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-03 23:03:26.641660,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-03 13:07:36.670587,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
 2024-05-03 17:07:17.287598,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-03 15:05:23.837377,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
 2024-05-03 13:07:28.645028,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR T'Wolves To Win The NBA Title,-0.011700000000000016,0.2105,0.2222
 2024-05-03 21:04:51.849126,Regular Season Wins O/U - Minnesota Lynx- 2024 Regular Season Wins - Minnesota Lynx- 2024 Regular Season Wins,Under 16.5,-0.012199999999999989,0.4878,0.5
 2024-05-03 13:07:28.645028,NBA Championship - NBA Championship 2023-24 - Double Chance,Clippers OR T'Wolves To Win The NBA Title,-0.013899999999999996,0.1111,0.125
 2024-05-03 13:07:28.645028,NBA Championship - NBA Championship 2023-24 - Double Chance,Clippers OR Mavs To Win The NBA Title,-0.01440000000000001,0.0909,0.1053
+2024-05-03 23:03:21.972779,NBA Championship - NBA Championship 2023-24 - NBA Champion,Denver Nuggets,-0.014600000000000002,0.2632,0.2778
 2024-05-03 13:07:29.024250,NBA Specials - Next Lakers Coach after Darvin Ham - Proposition,Jamahl Mosley,-0.015300000000000001,0.0323,0.0476
 2024-05-03 15:05:17.627735,NBA Specials - Next Lakers Coach after Darvin Ham - Proposition,Billy Donovan,-0.015300000000000001,0.0323,0.0476
 2024-05-03 19:04:10.795904,Houston Texans - 2024-25 Regular Season Wins O/U - Regular Season Wins - Houston Texans O/U 9.5 Wins,Over 9.5 Wins,-0.01539999999999997,0.6,0.6154
 2024-05-03 19:04:10.878451,Las Vegas Raiders - 2024-25 Regular Season Wins O/U - Regular Season Wins - Las Vegas Raiders O/U 6.5 Wins,Over 6.5 Wins,-0.01539999999999997,0.6,0.6154
 2024-05-03 21:04:51.933213,To Make the Playoffs - Indiana Fever - To Make the 2024 WNBA Playoffs - Indiana Fever - To Make the 2024 WNBA Playoffs,No,-0.016400000000000026,0.3226,0.339
-2024-05-03 19:04:11.139277,Seattle Seahawks - 2024-25 Regular Season Wins O/U - Regular Season Wins - Seattle Seahawks O/U 7.5 Wins,Over 7.5 Wins,-0.017299999999999982,0.5744,0.5917
-2024-05-03 19:04:10.907204,Los Angeles Rams - 2024-25 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U 8.5 Wins,Over 8.5 Wins,-0.017299999999999982,0.5744,0.5917
 2024-05-03 19:04:10.779968,Green Bay Packers - 2024-25 Regular Season Wins O/U - Regular Season Wins - Green Bay Packers O/U 9.5 Wins,Over 9.5 Wins,-0.017299999999999982,0.5744,0.5917
+2024-05-03 19:04:10.907204,Los Angeles Rams - 2024-25 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U 8.5 Wins,Over 8.5 Wins,-0.017299999999999982,0.5744,0.5917
+2024-05-03 19:04:11.139277,Seattle Seahawks - 2024-25 Regular Season Wins O/U - Regular Season Wins - Seattle Seahawks O/U 7.5 Wins,Over 7.5 Wins,-0.017299999999999982,0.5744,0.5917
 2024-05-03 13:07:28.645028,NBA Championship - NBA Championship 2023-24 - Double Chance,Thunder OR Mavs To Win The NBA Title,-0.01820000000000002,0.1818,0.2
+2024-05-03 23:03:22.000659,Eastern Conference - Eastern Conference 2023-24 - Eastern Conference Winner,Boston Celtics,-0.018999999999999906,0.7143,0.7333
 2024-05-03 13:07:28.645028,NBA Championship - NBA Championship 2023-24 - Double Chance,Nuggets OR Cavs To Win The NBA Title,-0.019600000000000006,0.303,0.3226
 2024-05-03 11:06:03.202671,NCAA Regular Season Wins - Big Ten Regular Season Wins - Iowa,Under 7.5 Wins,-0.019699999999999995,0.4348,0.4545
 2024-05-03 13:07:32.758613,NFL Specials - 2024/2025 NFL Regular Season - Total Rushing Yards - Ezekiel Elliott - Proposition,Over 749.5,-0.02169999999999994,0.5238,0.5455
+2024-05-03 23:03:22.020910,Western Conference - Western Conference 2023-24 - Denver vs The Field (Western Conference) ,Denver Nuggets,-0.022699999999999998,0.4651,0.4878
+2024-05-03 23:03:22.012381,Western Conference - Western Conference 2023-24 - Western Conference Winner,Denver Nuggets,-0.022699999999999998,0.4651,0.4878
 2024-05-03 11:06:03.133354,NCAA Regular Season Wins - Big 12 Regular Season Wins - West Virginia ,Under 6.5 Wins,-0.023799999999999988,0.4762,0.5
 2024-05-03 13:07:29.047871,NBA Specials - Where will Darvin Ham be Head Coach Game 1 Of the 2024/2025 Season - Proposition,Not a Head Coach For Game 1,-0.0242,0.9091,0.9333
 2024-05-03 13:07:29.024250,NBA Specials - Next Lakers Coach after Darvin Ham - Proposition,Mike Brown,-0.026499999999999996,0.0323,0.0588
