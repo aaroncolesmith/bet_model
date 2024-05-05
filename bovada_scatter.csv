@@ -14,6 +14,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-05 07:00:48.716066,MLB Futures - MLB 2024 Player Awards - American League MVP,Gunnar Henderson (BAL),0.09240000000000001,0.2353,0.1429
 2024-05-04 23:01:16.521084,NBA Championship - NBA Championship 2023-24 - NBA Finals Exact Matchup,Boston Celtics vs Minnesota Timberwolves,0.0897,0.2326,0.1429
 2024-05-05 05:01:06.482326,Superligaen - Denmark Superligaen 2023/2024 - Top 3 Finish,FC Nordsjælland,0.07469999999999999,0.6491,0.5744
+2024-05-05 09:00:40.279646,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Pitcher - Main Slate - MLB DFS Best Performing Pitcher,Freddy Peralta (MIL),0.06820000000000001,0.25,0.1818
 2024-05-05 03:01:08.411600,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,Inter Miami,0.06700000000000006,0.6226,0.5556
 2024-05-05 03:01:08.604915,League One - England - League One 2023/24 - To Be Promoted,Oxford United,0.0635,0.2857,0.2222
 2024-05-04 21:00:46.217926,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,Luka Doncic (DAL),0.05710000000000001,0.2,0.1429
@@ -26,6 +27,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-05 07:00:48.660113,MLB Futures - MLB 2024 American League West - American League West Winner,Seattle Mariners,0.05020000000000002,0.4348,0.3846
 2024-05-05 07:00:48.735682,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Zack Wheeler (PHI),0.04830000000000001,0.2222,0.1739
 2024-05-05 07:00:48.682478,MLB Futures - MLB 2024 National League East - National League East Winner,Philadelphia Phillies,0.044499999999999984,0.2667,0.2222
+2024-05-05 09:00:40.268472,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Yordan Alvarez (HOU),0.04440000000000001,0.1111,0.0667
 2024-05-05 07:00:48.694390,MLB Futures - MLB 2024 National League West - National League West Winner,Los Angeles Dodgers,0.044399999999999995,0.9333,0.8889
 2024-05-05 07:00:48.735682,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Tyler Glasnow (LAD),0.043800000000000006,0.2105,0.1667
 2024-05-05 07:00:46.108471,Donald Trump Specials - Georgia Election Interference: Will Donald Trump be found guilty of one or more of the 2020 presidential election Georgia result charges? - Georgia Result State Trial,No,0.043399999999999994,0.5556,0.5122
@@ -42,6 +44,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-05 07:00:49.467719,Scores - Final Round Score - Jake Knapp - Final Round Score,Under 68.5,0.03090000000000004,0.6226,0.5917
 2024-05-04 23:01:16.529506,NBA Championship - NBA Championship 2023-24 - NBA Finals Exact Outcome,Minnesota Timberwolves to beat Boston Celtics,0.030699999999999998,0.0833,0.0526
 2024-05-05 07:00:48.716066,MLB Futures - MLB 2024 Player Awards - American League MVP,Juan Soto (NYY),0.029299999999999993,0.2857,0.2564
+2024-05-05 09:00:40.279646,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Pitcher - Main Slate - MLB DFS Best Performing Pitcher,Hunter Brown (HOU),0.029299999999999993,0.0769,0.0476
 2024-05-05 03:01:08.604915,League One - England - League One 2023/24 - To Be Promoted,Bolton Wanderers,0.028900000000000037,0.5744,0.5455
 2024-05-05 05:01:11.773659,Round Match-Ups - Final Round Match-Up - M. Wallace v V. Whaley - Requests,Matt Wallace,0.028900000000000037,0.5744,0.5455
 2024-05-05 03:01:10.276825,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Elise Stefanik,0.028399999999999995,0.0909,0.0625
@@ -49,17 +52,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-05 07:00:49.625083,Round Match-Ups - Final Round Match-Up - M. Wallace v V. Whaley - Requests,Matt Wallace,0.025599999999999956,0.6,0.5744
 2024-05-04 21:00:46.209841,NBA Awards - NBA Awards 2023-24 - Finals MVP,Luka Doncic (DAL),0.0245,0.0833,0.0588
 2024-05-05 07:00:49.213072,The CJ Cup - 2/3 Balls - Final Round 3 Balls - K. Tway / V. Whaley / B.H. An - Final Round 3 Balls,Byeong Hun An,0.024399999999999977,0.5122,0.4878
+2024-05-05 09:00:40.279646,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Pitcher - Main Slate - MLB DFS Best Performing Pitcher,Javier Assad (CHC),0.024299999999999995,0.0769,0.0526
+2024-05-05 09:00:40.279646,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Pitcher - Main Slate - MLB DFS Best Performing Pitcher,Ryan Feltner (COL),0.024299999999999995,0.0588,0.0345
+2024-05-05 03:01:09.094163,Eurovision Song Contest - Eurovision 2024: Top Big Five Country (Final) - Top Big Five Country,France,0.023799999999999988,0.3571,0.3333
 2024-05-05 05:01:11.571252,Scores - Final Round Score - Adam Scott - Final Round Score,Under 67.5,0.023799999999999988,0.5,0.4762
 2024-05-05 05:01:11.688804,Scores - Final Round Score - Stephan Jaeger - Final Round Score,Under 67.5,0.023799999999999988,0.5,0.4762
-2024-05-05 03:01:09.094163,Eurovision Song Contest - Eurovision 2024: Top Big Five Country (Final) - Top Big Five Country,France,0.023799999999999988,0.3571,0.3333
-2024-05-04 19:00:52.574628,Elite Boxing - Jake Paul vs Mike Tyson - To Win the Bout,Jake Paul,0.023799999999999932,0.6667,0.6429
+2024-05-05 09:00:40.973565,Round Match-Ups - Final Round Match-Up - M. Wallace v V. Whaley - Requests,Matt Wallace,0.022600000000000064,0.6226,0.6
 2024-05-05 03:01:08.521949,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,São Paulo,0.02260000000000001,0.4,0.3774
 2024-05-05 07:00:48.705538,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Tarik Skubal (DET),0.02250000000000002,0.2857,0.2632
 2024-05-04 21:00:49.422890,Boxing Lines - Nate Diaz vs Jorge Masvidal - To Win the Bout,Nate Diaz,0.022199999999999998,0.3448,0.3226
 2024-05-04 21:00:46.209841,NBA Awards - NBA Awards 2023-24 - Finals MVP,Kristaps Porzingis (BOS),0.022099999999999998,0.0385,0.0164
 2024-05-05 07:00:49.479612,Scores - Final Round Score - Keith Mitchell - Final Round Score,Under 67.5,0.021699999999999997,0.4762,0.4545
-2024-05-05 03:01:08.509501,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Criciúma SC,0.02169999999999994,0.5455,0.5238
 2024-05-05 05:01:11.582746,Scores - Final Round Score - Alex Noren - Final Round Score,Under 67.5,0.02169999999999994,0.5455,0.5238
+2024-05-05 03:01:08.509501,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Criciúma SC,0.02169999999999994,0.5455,0.5238
 2024-05-05 07:00:49.224103,The CJ Cup - 2/3 Balls - Final Round 3 Balls - K. Chappell / H. Buckley / S.Y. Noh - Final Round 3 Balls,Kevin Chappell,0.020799999999999985,0.3333,0.3125
 2024-05-05 07:00:46.098156,Donald Trump Specials - Federal Election Fraud: Will Donald Trump be found guilty of one or more of the 2020 election result federal charges? - Election Result Federal Trial,No,0.02079999999999993,0.5556,0.5348
 2024-05-05 05:01:11.676407,Scores - Final Round Score - Si Woo Kim - Final Round Score,Under 67.5,0.02079999999999993,0.5556,0.5348
@@ -69,12 +74,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-05 05:01:11.547020,Round Match-Ups - Final Round Match-Up - M. Wallace vs B. Kohles - Final Round Match-Up,Matt Wallace,0.01970000000000005,0.5652,0.5455
 2024-05-05 01:01:09.306550,Insperity Invitational - Insperity Invitational - Winner,Dicky Pride,0.0194,0.0244,0.005
 2024-05-05 07:00:48.735682,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Shota Imanaga (L),0.019099999999999992,0.0667,0.0476
+2024-05-05 09:00:40.268472,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Marcus Semien (TEX),0.019000000000000003,0.0625,0.0435
 2024-05-05 07:00:48.615957,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Minnesota Twins,0.01830000000000001,0.0952,0.0769
 2024-05-05 01:01:09.306550,Insperity Invitational - Insperity Invitational - Winner,Jesper Parnevik,0.0183,0.0196,0.0013
 2024-05-05 07:00:48.615957,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Baltimore Orioles,0.01820000000000002,0.2,0.1818
 2024-05-05 03:01:08.411600,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,Toronto FC,0.018200000000000004,0.0476,0.0294
-2024-05-04 23:01:16.553598,Western Conference - Western Conference 2023-24 - Western Conference Winner,Dallas Mavericks,0.0179,0.2353,0.2174
 2024-05-05 07:00:48.627101,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Philadelphia Phillies,0.0179,0.1429,0.125
+2024-05-04 23:01:16.553598,Western Conference - Western Conference 2023-24 - Western Conference Winner,Dallas Mavericks,0.0179,0.2353,0.2174
 2024-05-05 05:01:08.207886,Political Specials - Will Mike Johnson be House Speaker on June 30th 2024? - Will Johnson be Speaker On June 30th?,Yes,0.01760000000000006,0.9,0.8824
 2024-05-04 23:01:16.529506,NBA Championship - NBA Championship 2023-24 - NBA Finals Exact Outcome,New York Knicks to beat Minnesota Timberwolves,0.0173,0.0417,0.0244
 2024-05-05 07:00:48.604543,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Philadelphia Phillies,0.016600000000000004,0.0833,0.0667
@@ -83,24 +89,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-05 03:01:08.705724,Primera División - Peru - Liga1 Apertura 2024 - Futures - Winner,Alianza Lima,0.014099999999999998,0.0385,0.0244
 2024-05-05 07:00:48.735682,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Yoshinobu Yamamoto (R),0.014099999999999998,0.0385,0.0244
 2024-05-05 03:01:09.034556,Eurovision Song Contest - Eurovision Song Contest 2024: Outright Winner - Eurovision Song Contest Winner 2024,France,0.014099999999999994,0.0667,0.0526
+2024-05-05 09:00:40.279646,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Pitcher - Main Slate - MLB DFS Best Performing Pitcher,Luis Severino (R),0.014099999999999994,0.0667,0.0526
 2024-05-05 03:01:08.695408,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Utsiktens,0.013999999999999999,0.0909,0.0769
-2024-05-05 03:01:08.401991,MLS - USA MLS 2024 - Futures - Winner,FC Cincinnati,0.013999999999999999,0.0909,0.0769
 2024-05-05 05:01:06.523931,Primera Division - Chile Primera Division 2024 - Futures - Winner,Universidad Católica,0.013999999999999999,0.0909,0.0769
+2024-05-05 03:01:08.401991,MLS - USA MLS 2024 - Futures - Winner,FC Cincinnati,0.013999999999999999,0.0909,0.0769
 2024-05-05 07:00:49.125316,The CJ Cup - 2/3 Balls - Final Round 3 Balls - D. Skinns / A. Cook / M. McGreevy - Final Round 3 Balls,Max McGreevy,0.013300000000000034,0.3704,0.3571
+2024-05-05 09:00:40.268472,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Bryan Reynolds (PIT),0.0131,0.0476,0.0345
 2024-05-04 23:01:16.521084,NBA Championship - NBA Championship 2023-24 - NBA Finals Exact Matchup,Boston Celtics vs Dallas Mavericks,0.012899999999999995,0.1667,0.1538
 2024-05-05 03:01:08.663385,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,SK Brann,0.012899999999999995,0.1667,0.1538
 2024-05-05 03:01:08.663385,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Molde FK,0.012799999999999978,0.2985,0.2857
 2024-05-05 05:01:08.241056,Donald Trump Specials - Donald Trump Favorability Rating June 30th 2024 - Donald Trump Favorability Rating June 30th 2024,Over 43.5%,0.012199999999999989,0.5122,0.5
 2024-05-05 01:01:09.306550,Insperity Invitational - Insperity Invitational - Winner,Shane Bertsch,0.0119,0.0152,0.0033
 2024-05-04 23:01:16.553598,Western Conference - Western Conference 2023-24 - Western Conference Winner,Oklahoma City Thunder,0.011899999999999994,0.25,0.2381
-2024-05-05 03:01:13.274351,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
-2024-05-04 23:01:19.998236,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
 2024-05-05 05:01:11.101732,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
+2024-05-05 01:01:08.842789,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
 2024-05-05 07:00:48.954512,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
+2024-05-05 03:01:13.274351,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
+2024-05-05 09:00:40.659778,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
+2024-05-04 23:01:19.998236,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
 2024-05-04 21:00:49.380012,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
 2024-05-05 05:01:11.558211,Round Match-Ups - Final Round Match-Up - T. Pendrith vs J. Knapp - Final Round Match-Up,Jake Knapp,0.011600000000000055,0.5238,0.5122
-2024-05-04 19:00:52.744932,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
-2024-05-05 01:01:08.842789,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,0.011600000000000055,0.5238,0.5122
 2024-05-05 03:01:13.144218,Boxing Lines - Seigo Yuri Akui vs Taku Kuwahara - To Win the Bout,Taku Kuwahara,0.01150000000000001,0.3448,0.3333
 2024-05-04 23:01:16.521084,NBA Championship - NBA Championship 2023-24 - NBA Finals Exact Matchup,Boston Celtics vs Oklahoma City Thunder,0.011300000000000004,0.1852,0.1739
 2024-05-05 07:00:48.705538,MLB Futures - MLB 2024 Player Awards - American League Cy Young,George Kirby (SEA),0.011199999999999995,0.0588,0.0476
@@ -109,20 +117,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-04 21:00:46.217926,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,Shai Gilgeous-Alexander (OKC),0.010800000000000004,0.2381,0.2273
 2024-05-05 07:00:48.705538,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Jose Berrios (TOR),0.010700000000000001,0.0385,0.0278
 2024-05-05 07:00:48.735682,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Sonny Gray (STL),0.0102,0.0769,0.0667
-2024-05-04 23:01:20.009126,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
-2024-05-04 19:00:52.755346,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
 2024-05-04 21:00:49.390315,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
-2024-05-05 01:01:08.854893,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
-2024-05-05 07:00:48.965637,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
 2024-05-05 05:01:11.112422,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
+2024-05-05 09:00:40.670529,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
+2024-05-05 07:00:48.965637,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
 2024-05-05 03:01:13.284700,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
-2024-05-04 23:01:19.998236,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
+2024-05-05 01:01:08.854893,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
+2024-05-04 23:01:20.009126,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,0.010099999999999998,0.5556,0.5455
 2024-05-05 03:01:13.274351,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
+2024-05-04 21:00:49.380012,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
 2024-05-05 07:00:48.954512,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
 2024-05-05 01:01:08.842789,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
+2024-05-05 09:00:40.659778,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
+2024-05-04 23:01:19.998236,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
 2024-05-05 05:01:11.101732,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
-2024-05-04 19:00:52.744932,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
-2024-05-04 21:00:49.380012,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Josh Taylor,-0.010099999999999998,0.5455,0.5556
 2024-05-05 03:01:08.401991,MLS - USA MLS 2024 - Futures - Winner,New York Red Bulls,-0.0102,0.0667,0.0769
 2024-05-05 07:00:48.682478,MLB Futures - MLB 2024 National League East - National League East Winner,New York Mets,-0.010700000000000001,0.0278,0.0385
 2024-05-05 01:01:09.306550,Insperity Invitational - Insperity Invitational - Winner,Mark Hensby,-0.010799999999999999,0.0071,0.0179
@@ -136,14 +144,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-05 07:00:48.804044,Boxing Lines - Jason Moloney vs Yoshiki Takei - To Win the Bout,Jason Moloney,-0.011499999999999955,0.6552,0.6667
 2024-05-05 03:01:09.034556,Eurovision Song Contest - Eurovision Song Contest 2024: Outright Winner - Eurovision Song Contest Winner 2024,Croatia,-0.01150000000000001,0.3333,0.3448
 2024-05-05 01:01:09.306550,Insperity Invitational - Insperity Invitational - Winner,Bob Estes,-0.0116,0.0036,0.0152
-2024-05-05 01:01:08.854893,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
-2024-05-05 07:00:49.407571,Round Match-Ups - Final Round Match-Up - T. Pendrith vs J. Knapp - Final Round Match-Up,Taylor Pendrith,-0.011600000000000055,0.5122,0.5238
-2024-05-05 07:00:48.965637,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
-2024-05-04 19:00:52.755346,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
-2024-05-04 21:00:49.390315,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
 2024-05-05 05:01:11.112422,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
-2024-05-05 03:01:13.284700,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-05 07:00:48.965637,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-04 21:00:49.390315,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-05 07:00:49.407571,Round Match-Ups - Final Round Match-Up - T. Pendrith vs J. Knapp - Final Round Match-Up,Taylor Pendrith,-0.011600000000000055,0.5122,0.5238
+2024-05-05 01:01:08.854893,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-05 09:00:40.670529,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
 2024-05-04 23:01:20.009126,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
+2024-05-05 03:01:13.284700,Boxing Lines - Josh Taylor vs Jack Catterall - To Win the Bout,Jack Catterall,-0.011600000000000055,0.5122,0.5238
 2024-05-05 07:00:48.716066,MLB Futures - MLB 2024 Player Awards - American League MVP,Bobby Witt Jr. (KC),-0.011700000000000016,0.2105,0.2222
 2024-05-05 05:01:08.402903,US Senate Elections 2024 - Senate Election Winner - Georgia - Winner,Democrat,-0.012199999999999989,0.4878,0.5
 2024-05-05 07:00:49.213072,The CJ Cup - 2/3 Balls - Final Round 3 Balls - K. Tway / V. Whaley / B.H. An - Final Round 3 Balls,Vince Whaley,-0.013600000000000001,0.2941,0.3077
@@ -164,18 +172,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-05 07:00:48.745623,MLB Futures - MLB 2024 Player Awards - National League MVP,Trea Turner (PHI),-0.017100000000000004,0.0152,0.0323
 2024-05-05 07:00:48.716066,MLB Futures - MLB 2024 Player Awards - American League MVP,Julio Rodriguez (SEA),-0.018099999999999998,0.0345,0.0526
 2024-05-05 03:01:08.424121,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Austin FC,-0.018099999999999998,0.0588,0.0769
-2024-05-05 07:00:49.224103,The CJ Cup - 2/3 Balls - Final Round 3 Balls - K. Chappell / H. Buckley / S.Y. Noh - Final Round 3 Balls,S.Y. Noh,-0.018100000000000005,0.4167,0.4348
+2024-05-05 09:00:40.268472,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Adolis Garcia (TEX),-0.018099999999999998,0.0588,0.0769
 2024-05-04 21:00:49.422890,Boxing Lines - Nate Diaz vs Jorge Masvidal - To Win the Bout,Jorge Masvidal,-0.018100000000000005,0.7222,0.7403
-2024-05-05 03:01:08.424121,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Sporting Kansas City,-0.018200000000000004,0.0294,0.0476
+2024-05-05 07:00:49.224103,The CJ Cup - 2/3 Balls - Final Round 3 Balls - K. Chappell / H. Buckley / S.Y. Noh - Final Round 3 Balls,S.Y. Noh,-0.018100000000000005,0.4167,0.4348
 2024-05-05 03:01:08.695408,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Sandvikens IF,-0.018200000000000004,0.0294,0.0476
+2024-05-05 03:01:08.424121,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Sporting Kansas City,-0.018200000000000004,0.0294,0.0476
 2024-05-05 07:00:48.638167,MLB Futures - MLB 2024 American League Central - American League Central Winner,Detroit Tigers,-0.01820000000000002,0.1818,0.2
 2024-05-05 05:01:08.207886,Political Specials - Will Mike Johnson be House Speaker on June 30th 2024? - Will Johnson be Speaker On June 30th?,No,-0.018500000000000016,0.1667,0.1852
 2024-05-05 03:01:08.424121,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Portland Timbers,-0.0189,0.0196,0.0385
+2024-05-05 09:00:40.973565,Round Match-Ups - Final Round Match-Up - M. Wallace v V. Whaley - Requests,Vince Whaley,-0.018900000000000028,0.4255,0.4444
 2024-05-05 03:01:09.132861,Eurovision Song Contest - Eurovision 2024: Top Ten Finish (Final) - Top Ten Finish,Austria,-0.019000000000000017,0.2667,0.2857
-2024-05-05 07:00:48.705538,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Bryce Miller (SEA),-0.019099999999999992,0.0476,0.0667
 2024-05-05 07:00:48.735682,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Max Fried (ATL),-0.019099999999999992,0.0476,0.0667
-2024-05-05 03:01:08.521949,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Flamengo,-0.020199999999999996,0.8889,0.9091
+2024-05-05 09:00:40.268472,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Hitter - Main Slate - MLB DFS Best Performing Hitter,Vladimir Guerrero Jr. (TOR),-0.019099999999999992,0.0476,0.0667
+2024-05-05 09:00:40.279646,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Pitcher - Main Slate - MLB DFS Best Performing Pitcher,Griffin Canning (LAA),-0.019099999999999992,0.0476,0.0667
+2024-05-05 07:00:48.705538,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Bryce Miller (SEA),-0.019099999999999992,0.0476,0.0667
 2024-05-05 05:01:06.482326,Superligaen - Denmark Superligaen 2023/2024 - Top 3 Finish,FC Copenhagen,-0.020199999999999996,0.8889,0.9091
+2024-05-05 03:01:08.521949,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Flamengo,-0.020199999999999996,0.8889,0.9091
 2024-05-05 03:01:08.695408,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,GIF Sundsvall,-0.0203,0.0385,0.0588
 2024-05-05 07:00:48.671203,MLB Futures - MLB 2024 National League Central - National League Central Winner,Cincinnati Reds,-0.02049999999999999,0.1333,0.1538
 2024-05-05 07:00:49.625083,Round Match-Ups - Final Round Match-Up - M. Wallace v V. Whaley - Requests,Vince Whaley,-0.020699999999999996,0.4444,0.4651
@@ -183,12 +195,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-05 01:01:09.306550,Insperity Invitational - Insperity Invitational - Winner,KJ Choi,-0.021799999999999996,0.0217,0.0435
 2024-05-05 07:00:48.735682,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Logan Webb (SF),-0.022000000000000006,0.0833,0.1053
 2024-05-05 03:01:08.521949,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Fortaleza,-0.022199999999999998,0.2,0.2222
-2024-05-05 03:01:08.424121,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Los Angeles FC,-0.022199999999999998,0.2,0.2222
 2024-05-05 03:01:08.521949,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Palmeiras,-0.022199999999999998,0.7778,0.8
 2024-05-05 03:01:08.424121,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Vancouver Whitecaps,-0.022199999999999998,0.1111,0.1333
-2024-05-04 19:00:52.574628,Elite Boxing - Jake Paul vs Mike Tyson - To Win the Bout,Mike Tyson,-0.02260000000000001,0.3774,0.4
-2024-05-05 05:01:11.676407,Scores - Final Round Score - Si Woo Kim - Final Round Score,Over 67.5,-0.022600000000000064,0.5122,0.5348
+2024-05-05 03:01:08.424121,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Los Angeles FC,-0.022199999999999998,0.2,0.2222
 2024-05-05 07:00:46.098156,Donald Trump Specials - Federal Election Fraud: Will Donald Trump be found guilty of one or more of the 2020 election result federal charges? - Election Result Federal Trial,Yes,-0.022600000000000064,0.5122,0.5348
+2024-05-05 05:01:11.676407,Scores - Final Round Score - Si Woo Kim - Final Round Score,Over 67.5,-0.022600000000000064,0.5122,0.5348
 2024-05-05 03:01:08.411600,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,Columbus Crew,-0.02310000000000001,0.0769,0.1
 2024-05-05 03:01:09.034556,Eurovision Song Contest - Eurovision Song Contest 2024: Outright Winner - Eurovision Song Contest Winner 2024,Netherlands,-0.02310000000000001,0.0769,0.1
 2024-05-04 21:00:46.217926,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,Karl-Anthony Towns (MIN),-0.023299999999999994,0.0323,0.0556
@@ -196,12 +207,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-05 03:01:08.509501,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Juventude,-0.023800000000000043,0.5,0.5238
 2024-05-05 07:00:48.615957,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Toronto Blue Jays,-0.0242,0.0667,0.0909
 2024-05-05 07:00:48.735682,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Zac Gallen (ARIZ),-0.0242,0.0667,0.0909
-2024-05-05 03:01:08.521949,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Cuiabá,-0.024299999999999995,0.0526,0.0769
+2024-05-05 09:00:40.279646,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Pitcher - Main Slate - MLB DFS Best Performing Pitcher,MacKenzie Gore (WAS),-0.0242,0.0667,0.0909
 2024-05-04 23:01:16.529506,NBA Championship - NBA Championship 2023-24 - NBA Finals Exact Outcome,Denver Nuggets to beat New York Knicks,-0.024299999999999995,0.0526,0.0769
+2024-05-05 03:01:08.521949,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Cuiabá,-0.024299999999999995,0.0526,0.0769
 2024-05-05 03:01:08.411600,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,Philadelphia Union,-0.0245,0.0588,0.0833
 2024-05-05 03:01:08.521949,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Internacional,-0.025599999999999956,0.5744,0.6
-2024-05-05 05:01:11.688804,Scores - Final Round Score - Stephan Jaeger - Final Round Score,Over 67.5,-0.026499999999999968,0.5652,0.5917
 2024-05-05 05:01:11.571252,Scores - Final Round Score - Adam Scott - Final Round Score,Over 67.5,-0.026499999999999968,0.5652,0.5917
+2024-05-05 05:01:11.688804,Scores - Final Round Score - Stephan Jaeger - Final Round Score,Over 67.5,-0.026499999999999968,0.5652,0.5917
 2024-05-05 07:00:48.705538,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Grayson Rodriguez (BAL),-0.026499999999999996,0.0323,0.0588
 2024-05-05 07:00:48.660113,MLB Futures - MLB 2024 American League West - American League West Winner,Houston Astros,-0.02739999999999998,0.2667,0.2941
 2024-05-05 03:01:08.695408,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Östers IF,-0.02779999999999999,0.2222,0.25
@@ -243,6 +255,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-05-05 03:01:11.314895,Scottish Politics - Next First Minister After Humza Yousaf - Next First Minister,Kate Forbes,-0.1049,0.0769,0.1818
 2024-05-05 03:01:11.314895,Scottish Politics - Next First Minister After Humza Yousaf - Next First Minister,Neil Gray,-0.10619999999999999,0.0476,0.1538
 2024-05-05 03:01:08.604915,League One - England - League One 2023/24 - To Be Promoted,Peterborough United,-0.10769999999999996,0.2,0.3077
+2024-05-05 09:00:40.279646,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Pitcher - Main Slate - MLB DFS Best Performing Pitcher,Joe Ryan (MIN),-0.10769999999999996,0.2,0.3077
 2024-05-04 23:01:16.521084,NBA Championship - NBA Championship 2023-24 - NBA Finals Exact Matchup,Boston Celtics vs Denver Nuggets,-0.11589999999999998,0.2174,0.3333
 2024-05-05 01:01:09.306550,Insperity Invitational - Insperity Invitational - Winner,Padraig Harrington,-0.1277,0.0152,0.1429
 2024-05-04 21:00:46.217926,NBA Awards - NBA Awards 2023-24 - Western Conference Finals MVP,Nikola Jokic (DEN),-0.13979999999999998,0.2857,0.4255
+2024-05-05 09:00:40.279646,MLB Daily Fantasy Specials - Main Slate - MLB DFS Best Performing Pitcher - Main Slate - MLB DFS Best Performing Pitcher,Garrett Crochet (CWS),-0.24889999999999998,0.0588,0.3077
