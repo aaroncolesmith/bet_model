@@ -55,9 +55,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:24.936080,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Philadelphia Phillies,0.0906,0.1739,0.0833
 2024-06-11 15:13:15.075428,To Make the Playoffs - Phoenix Mercury- To Make the 2024 WNBA Playoffs - Phoenix Mercury- To Make the 2024 WNBA Playoffs,Yes,0.0897,0.8333,0.7436
 2024-06-11 15:13:15.128281,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.08900000000000002,0.5652,0.4762
-2024-06-11 15:13:23.149461,NCAA Regular Season Wins - Big Ten Regular Season Wins - Wisconsin ,Over 6.5 Wins,0.08779999999999999,0.6,0.5122
 2024-06-11 15:13:14.867799,Regular Season Wins O/U - Los Angeles Sparks- 2024 Regular Season Wins - Los Angeles Sparks- 2024 Regular Season Wins,Over 11.5,0.08779999999999999,0.6,0.5122
 2024-06-11 15:13:14.922313,Regular Season Wins O/U - Phoenix Mercury- 2024 Regular Season Wins - Phoenix Mercury- 2024 Regular Season Wins,Over 18.5,0.08779999999999999,0.6226,0.5348
+2024-06-11 15:13:23.149461,NCAA Regular Season Wins - Big Ten Regular Season Wins - Wisconsin ,Over 6.5 Wins,0.08779999999999999,0.6,0.5122
 2024-06-11 15:13:23.274722,NCAA Regular Season Wins - ACC Regular Season Wins - Georgia Tech ,Under 5.5 Wins,0.08730000000000004,0.6429,0.5556
 2024-06-11 15:13:10.789134,MLS - USA MLS 2024 - Futures - To Reach the Final,New York City FC,0.0857,0.1333,0.0476
 2024-06-11 15:13:10.807057,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Real Salt Lake,0.0849,0.2667,0.1818
@@ -82,16 +82,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:22.748023,NCAA Regular Season Wins - Big 12 Regular Season Wins - Iowa State,Over 7.5 Wins,0.06970000000000004,0.5348,0.4651
 2024-06-11 15:13:24.050908,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Clemson To Make the 2024-2025 College Football Playoff,No,0.0695,0.7059,0.6364
 2024-06-11 15:13:19.254291,New York Jets - 2024-25 Regular Season Wins O/U - Regular Season Wins - New York Jets O/U 9.5 Wins,Over 9.5 Wins,0.06700000000000006,0.6226,0.5556
-2024-06-11 15:13:10.807057,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Los Angeles FC,0.06669999999999998,0.2667,0.2
 2024-06-11 15:13:14.445960,NBA Championship - NBA Championship 2023-24 - NBA Champion,Dallas Mavericks,0.06669999999999998,0.1667,0.1
+2024-06-11 15:13:10.807057,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Los Angeles FC,0.06669999999999998,0.2667,0.2
 2024-06-11 15:13:15.187316,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Ben Carson,0.06620000000000001,0.125,0.0588
 2024-06-11 15:13:14.074304,Spotify - 2024 Spotify Top Global Artist - 2024 Top Global Artist,Beyonce,0.066,0.1429,0.0769
 2024-06-11 15:13:22.998965,NCAA Regular Season Wins - Big Ten Regular Season Wins - Nebraska,Over 7.5 Wins,0.06519999999999998,0.5,0.4348
 2024-06-11 15:13:22.835970,NCAA Regular Season Wins - Big 12 Regular Season Wins - Texas Tech,Over 7.5 Wins,0.06519999999999992,0.6,0.5348
 2024-06-11 15:13:15.253260,Democrats - US Presidential Election 2024 - Democratic Electoral College Votes - Democratic Electoral College Votes,Over 252.5,0.06440000000000001,0.6296,0.5652
-2024-06-11 15:13:23.215135,NCAA Regular Season Wins - ACC Regular Season Wins - Clemson,Under 9.5 Wins,0.0635,0.6552,0.5917
 2024-06-11 15:13:10.798176,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,New York City FC,0.0635,0.1111,0.0476
 2024-06-11 15:13:10.971816,Primera Division - Chile Primera Division 2024 - Futures - Winner,Colo-Colo,0.0635,0.2857,0.2222
+2024-06-11 15:13:23.215135,NCAA Regular Season Wins - ACC Regular Season Wins - Clemson,Under 9.5 Wins,0.0635,0.6552,0.5917
 2024-06-11 15:13:14.616276,NCAA DI Men - 2025 NCAA DI Men's Basketball Tournament - National Champion,Alabama,0.0635,0.1111,0.0476
 2024-06-11 15:13:24.296464,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Oregon To Make the 2024-2025 College Football Playoff,Yes,0.06320000000000003,0.7299,0.6667
 2024-06-11 15:13:14.944463,Regular Season Wins O/U - Seattle Storm- 2024 Regular Season Wins - Seattle Storm- 2024 Regular Season Wins,Over 23.5,0.06220000000000003,0.5744,0.5122
@@ -110,8 +110,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:23.676236,NCAA Regular Season Wins - SEC Regular Season Wins - Oklahoma ,Over 7.5 Wins,0.05559999999999998,0.5556,0.5
 2024-06-11 15:13:25.376724,Elite Boxing - Jake Paul vs Mike Tyson - To Win the Bout,Jake Paul,0.055499999999999994,0.7222,0.6667
 2024-06-11 15:13:24.088921,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Florida State To Make the 2024-2025 College Football Playoff,No,0.05520000000000003,0.6552,0.6
-2024-06-11 15:13:17.492474,NFC North - NFC North 2024/25 - NFC North Winner,Detroit Lions,0.05449999999999999,0.4545,0.4
 2024-06-11 15:13:15.200458,Republicans - US Presidential Election 2024 - Republican Electoral College Votes - Republican Electoral College Votes,Over 280.5,0.05449999999999999,0.4545,0.4
+2024-06-11 15:13:17.492474,NFC North - NFC North 2024/25 - NFC North Winner,Detroit Lions,0.05449999999999999,0.4545,0.4
 2024-06-11 15:13:24.511424,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Dallas Turner,0.05350000000000002,0.2353,0.1818
 2024-06-11 15:13:17.443895,AFC West - AFC West 2024/25 - AFC West Winner,Kansas City Chiefs,0.053099999999999925,0.7674,0.7143
 2024-06-11 15:13:23.373013,NCAA Regular Season Wins - ACC Regular Season Wins - Stanford,Over 3.5 Wins,0.05300000000000005,0.5652,0.5122
@@ -134,8 +134,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:25.318829,MLB Futures - MLB 2024 Regular Season Leaders - Player To Hit The Most Home Runs,Kyle Tucker (HOU),0.0446,0.0625,0.0179
 2024-06-11 15:13:10.961934,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Östers IF,0.044499999999999984,0.2667,0.2222
 2024-06-11 15:13:23.429695,NCAA Regular Season Wins - ACC Regular Season Wins - Wake Forest,Over 4.5 Wins,0.044399999999999995,0.6,0.5556
-2024-06-11 16:57:53.707680,"Olympics Basketball - Men - Qualification - Paris 2024 - Men's Basketball Qualification (Piraeus, Greece) - Outright",Greece,0.044399999999999995,0.6,0.5556
 2024-06-11 15:13:15.434959,Donald Trump Specials - Georgia Election Interference: Will Donald Trump be found guilty of one or more of the 2020 presidential election Georgia result charges? - Georgia Result State Trial,No,0.044399999999999995,0.6,0.5556
+2024-06-11 16:57:53.707680,"Olympics Basketball - Men - Qualification - Paris 2024 - Men's Basketball Qualification (Piraeus, Greece) - Outright",Greece,0.044399999999999995,0.6,0.5556
 2024-06-11 16:58:04.063911,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Minjee Lee,0.044300000000000006,0.0476,0.0033
 2024-06-11 15:13:23.361239,NCAA Regular Season Wins - ACC Regular Season Wins - SMU,Over 7.5 Wins,0.04409999999999992,0.6667,0.6226
 2024-06-11 15:13:18.252678,Detroit Lions - 2024-25 Regular Season Wins O/U - Regular Season Wins - Detroit Lions O/U 10.5 Wins,Over 10.5 Wins,0.043399999999999994,0.5556,0.5122
@@ -143,8 +143,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:17.218979,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Buffalo Bills,0.042899999999999994,0.1429,0.1
 2024-06-11 15:13:10.789134,MLS - USA MLS 2024 - Futures - To Reach the Final,Real Salt Lake,0.04269999999999999,0.1538,0.1111
 2024-06-11 15:13:25.192238,MLB Futures - MLB 2024 Player Awards - American League ROY,Wilyer Abreu (BOS),0.04240000000000001,0.1333,0.0909
-2024-06-11 15:13:24.511424,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Junior Colson,0.04229999999999999,0.0667,0.0244
 2024-06-11 15:13:10.766908,MLS - USA MLS 2024 - Futures - Winner,New York City FC,0.04229999999999999,0.0667,0.0244
+2024-06-11 15:13:24.511424,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Junior Colson,0.04229999999999999,0.0667,0.0244
 2024-06-11 15:13:15.147225,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican,0.04139999999999999,0.5652,0.5238
 2024-06-11 15:13:19.499974,Seattle Seahawks - 2024-25 Regular Season Wins O/U - Regular Season Wins - Seattle Seahawks O/U 7.5 Wins,Over 7.5 Wins,0.040999999999999925,0.6154,0.5744
 2024-06-11 15:13:23.655796,NCAA Regular Season Wins - SEC Regular Season Wins - Missouri ,Over 9.5 Wins,0.039600000000000024,0.4651,0.4255
@@ -158,8 +158,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:23.570697,NCAA Regular Season Wins - SEC Regular Season Wins - Kentucky,Over 6.5 Wins,0.03489999999999999,0.5,0.4651
 2024-06-11 15:13:23.137663,NCAA Regular Season Wins - Big Ten Regular Season Wins - Washington,Over 7.5 Wins,0.03489999999999999,0.5,0.4651
 2024-06-11 15:13:18.893537,Miami Dolphins - 2024-25 Regular Season Wins O/U - Regular Season Wins - Miami Dolphins O/U 9.5 Wins,Under 9.5 Wins,0.03489999999999999,0.5,0.4651
-2024-06-11 15:13:19.283908,Philadelphia Eagles - 2024-25 Regular Season Wins O/U - Regular Season Wins - Philadelphia Eagles O/U 10.5 Wins,Over 10.5 Wins,0.03480000000000005,0.5348,0.5
 2024-06-11 15:13:23.126196,NCAA Regular Season Wins - Big Ten Regular Season Wins - USC,Under 7.5 Wins,0.03480000000000005,0.5348,0.5
+2024-06-11 20:58:17.559879,Positions - Finishing Position - Viktor Hovland - Viktor Hovland,19th or worse,0.03480000000000005,0.5348,0.5
+2024-06-11 15:13:19.283908,Philadelphia Eagles - 2024-25 Regular Season Wins O/U - Regular Season Wins - Philadelphia Eagles O/U 10.5 Wins,Over 10.5 Wins,0.03480000000000005,0.5348,0.5
 2024-06-11 15:13:18.122513,Dallas Cowboys - 2024-25 Regular Season Wins O/U - Regular Season Wins - Dallas Cowboys O/U 10.5 Wins,Under 10.5 Wins,0.03479999999999994,0.6,0.5652
 2024-06-11 15:13:25.277742,MLB Futures - MLB 2024 Player Awards - National League MVP,Marcell Ozuna (ATL),0.0344,0.0588,0.0244
 2024-06-11 15:13:14.471303,WNBA Championship - WNBA Championship 2024 - Outright Winner,Connecticut Sun,0.0343,0.1176,0.0833
@@ -174,16 +175,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:10.789134,MLS - USA MLS 2024 - Futures - To Reach the Final,Charlotte FC,0.033,0.0526,0.0196
 2024-06-11 15:13:10.880168,Copa Libertadores - Copa Libertadores 2024 - Futures - Winner,Botafogo,0.03219999999999999,0.0667,0.0345
 2024-06-11 18:58:09.433427,Boxing Lines - Amanda Serrano vs Katie Taylor - To Win the Bout,Amanda Serrano,0.031799999999999995,0.4762,0.4444
-2024-06-11 15:13:23.019228,NCAA Regular Season Wins - Big Ten Regular Season Wins - Northwestern,Under 5.5 Wins,0.030299999999999994,0.697,0.6667
-2024-06-11 15:13:13.620052,Business Specials - Price Of Oil At Year End - Price of Oil at Year end 2024,$90.01 to $100,0.030299999999999994,0.3636,0.3333
 2024-06-11 15:13:13.620052,Business Specials - Price Of Oil At Year End - Price of Oil at Year end 2024,$80.01 to $90,0.030299999999999994,0.3636,0.3333
+2024-06-11 15:13:13.620052,Business Specials - Price Of Oil At Year End - Price of Oil at Year end 2024,$90.01 to $100,0.030299999999999994,0.3636,0.3333
+2024-06-11 15:13:23.019228,NCAA Regular Season Wins - Big Ten Regular Season Wins - Northwestern,Under 5.5 Wins,0.030299999999999994,0.697,0.6667
 2024-06-11 15:13:24.936080,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Cleveland Guardians,0.030199999999999998,0.0625,0.0323
 2024-06-11 15:13:22.663211,NCAA Regular Season Wins - Big 12 Regular Season Wins - Arizona State,Under 4.5 Wins,0.02960000000000007,0.6296,0.6
 2024-06-11 15:13:10.961934,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Sandvikens IF,0.0294,0.0588,0.0294
-2024-06-11 15:13:25.234991,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Aaron Nola (PHI),0.029299999999999993,0.0769,0.0476
 2024-06-11 15:13:24.524992,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Bo Nix,0.029299999999999993,0.0769,0.0476
-2024-06-11 15:13:13.864912,Deadpool & Wolverine - To Make A Credited Appearance In Deadpool & Wolverine - To Make A Credited Appearance,James McAvoy,0.028399999999999995,0.0909,0.0625
+2024-06-11 15:13:25.234991,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Aaron Nola (PHI),0.029299999999999993,0.0769,0.0476
 2024-06-11 15:13:13.864912,Deadpool & Wolverine - To Make A Credited Appearance In Deadpool & Wolverine - To Make A Credited Appearance,Michael Fassbender,0.028399999999999995,0.0909,0.0625
+2024-06-11 15:13:13.864912,Deadpool & Wolverine - To Make A Credited Appearance In Deadpool & Wolverine - To Make A Credited Appearance,James McAvoy,0.028399999999999995,0.0909,0.0625
 2024-06-11 15:13:24.936080,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Kansas City Royals,0.0283,0.0435,0.0152
 2024-06-11 15:13:10.961934,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Trelleborgs FF,0.028199999999999996,0.0667,0.0385
 2024-06-11 15:13:28.599632,Futures - The Open Championship 2024 - Winner,Xander Schauffele,0.028199999999999996,0.0667,0.0385
@@ -195,43 +196,44 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:24.484423,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),T.J. Watt,0.0267,0.16,0.1333
 2024-06-11 15:13:17.776678,Buffalo Bills - 2024-25 Regular Season Wins O/U - Regular Season Wins - Buffalo Bills O/U 10.5 Wins,Under 10.5 Wins,0.026499999999999968,0.5917,0.5652
 2024-06-11 15:13:15.054310,To Make the Playoffs - Los Angeles Sparks- To Make the 2024 WNBA Playoffs - Los Angeles Sparks- To Make the 2024 WNBA Playoffs,No,0.02639999999999998,0.8667,0.8403
-2024-06-11 15:13:18.341885,Green Bay Packers - 2024-25 Regular Season Wins O/U - Regular Season Wins - Green Bay Packers O/U 9.5 Wins,Over 9.5 Wins,0.025599999999999956,0.6,0.5744
 2024-06-11 16:58:02.120173,Main Markets - 1st Round 3 Balls - B.H. An / E. Molinari / S. Bennett - 1st Round 3 Balls,Byeong Hun An,0.025599999999999956,0.6,0.5744
-2024-06-11 15:13:23.857577,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,NC State,0.024999999999999994,0.125,0.1
+2024-06-11 15:13:18.341885,Green Bay Packers - 2024-25 Regular Season Wins O/U - Regular Season Wins - Green Bay Packers O/U 9.5 Wins,Over 9.5 Wins,0.025599999999999956,0.6,0.5744
 2024-06-11 15:13:23.938241,NCAA Football Futures - 2024 SEC Conference Championship  - Championship Game Winner,Alabama,0.024999999999999994,0.125,0.1
+2024-06-11 15:13:23.857577,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,NC State,0.024999999999999994,0.125,0.1
 2024-06-11 15:13:10.880168,Copa Libertadores - Copa Libertadores 2024 - Futures - Winner,São Paulo,0.0245,0.0833,0.0588
 2024-06-11 15:13:24.497430,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Breece Hall,0.024299999999999995,0.0588,0.0345
 2024-06-11 15:13:24.983910,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Milwaukee Brewers,0.024299999999999995,0.0769,0.0526
-2024-06-11 15:13:23.857577,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Virginia Tech,0.024299999999999995,0.0769,0.0526
 2024-06-11 15:13:24.445546,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Brock Purdy,0.024299999999999995,0.0769,0.0526
-2024-06-11 15:13:10.766908,MLS - USA MLS 2024 - Futures - Winner,LA Galaxy,0.0242,0.0909,0.0667
-2024-06-11 15:13:10.766908,MLS - USA MLS 2024 - Futures - Winner,Los Angeles FC,0.0242,0.0909,0.0667
+2024-06-11 15:13:23.857577,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Virginia Tech,0.024299999999999995,0.0769,0.0526
 2024-06-11 15:13:14.601960,LNB Pro A - France LNB Pro A 2023/24 - Outright,AS Monaco,0.0242,0.9333,0.9091
+2024-06-11 15:13:10.766908,MLS - USA MLS 2024 - Futures - Winner,Los Angeles FC,0.0242,0.0909,0.0667
+2024-06-11 15:13:10.766908,MLS - USA MLS 2024 - Futures - Winner,LA Galaxy,0.0242,0.0909,0.0667
 2024-06-11 15:13:19.430682,San Francisco 49ers - 2024-25 Regular Season Wins O/U - Regular Season Wins - San Francisco 49ers O/U 11.5 Wins,Over 11.5 Wins,0.023800000000000043,0.5238,0.5
 2024-06-11 15:13:17.129669,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Kansas City Chiefs,0.023800000000000016,0.1905,0.1667
 2024-06-11 15:13:22.683266,NCAA Regular Season Wins - Big 12 Regular Season Wins - Baylor ,Under 5.5 Wins,0.023799999999999932,0.6667,0.6429
 2024-06-11 15:13:18.183500,Denver Broncos - 2024-25 Regular Season Wins O/U - Regular Season Wins - Denver Broncos O/U 5.5 Wins,Over 5.5 Wins,0.023699999999999943,0.6154,0.5917
 2024-06-11 15:13:19.146158,New York Giants - 2024-25 Regular Season Wins O/U - Regular Season Wins - New York Giants O/U 6.5 Wins,Under 6.5 Wins,0.023699999999999943,0.6154,0.5917
-2024-06-11 15:13:15.187316,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Sarah Huckabee Sanders,0.023200000000000002,0.0476,0.0244
 2024-06-11 15:13:15.227988,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Kamala Harris,0.023200000000000002,0.0476,0.0244
+2024-06-11 15:13:15.187316,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Sarah Huckabee Sanders,0.023200000000000002,0.0476,0.0244
 2024-06-11 15:13:24.484423,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Aidan Hutchinson,0.02310000000000001,0.1,0.0769
 2024-06-11 15:13:24.511424,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Byron Murphy,0.02310000000000001,0.1,0.0769
 2024-06-11 15:13:22.874985,NCAA Regular Season Wins - Big 12 Regular Season Wins - Utah,Under 9.5 Wins,0.022699999999999998,0.4878,0.4651
-2024-06-11 15:13:18.737727,Los Angeles Chargers - 2024-25 Regular Season Wins O/U - Regular Season Wins - Los Angeles Chargers O/U 8.5 Wins,Over 8.5 Wins,0.022600000000000064,0.6226,0.6
-2024-06-11 15:13:23.384889,NCAA Regular Season Wins - ACC Regular Season Wins - Virginia,Under 4.5 Wins,0.022600000000000064,0.5348,0.5122
 2024-06-11 15:13:23.744216,NCAA Regular Season Wins - SEC Regular Season Wins - Texas,Under 10.5 Wins,0.022600000000000064,0.6226,0.6
 2024-06-11 15:13:23.700370,NCAA Regular Season Wins - SEC Regular Season Wins - South Carolina,Under 5.5 Wins,0.022600000000000064,0.5348,0.5122
+2024-06-11 15:13:18.737727,Los Angeles Chargers - 2024-25 Regular Season Wins O/U - Regular Season Wins - Los Angeles Chargers O/U 8.5 Wins,Over 8.5 Wins,0.022600000000000064,0.6226,0.6
+2024-06-11 15:13:23.384889,NCAA Regular Season Wins - ACC Regular Season Wins - Virginia,Under 4.5 Wins,0.022600000000000064,0.5348,0.5122
 2024-06-11 15:13:15.172633,2024 Election Core - US Presidential Election 2024 - Party Of Popular Vote Winner - Party of Popular Vote Winner,Democratic,0.022199999999999998,0.8,0.7778
 2024-06-11 15:13:15.666694,US Senate Elections 2024 - Senate Control Following 2024 Elections - Senate Control Followng Elections,Republican,0.02200000000000002,0.7143,0.6923
 2024-06-11 15:13:23.881272,NCAA Football Futures - 2024 Big 12 Conference Championship  - Championship Game Winner,Utah,0.021699999999999997,0.2439,0.2222
 2024-06-11 15:13:13.794925,Deadpool & Wolverine - Deadpool & Wolverine Opening Weekend - Opening Weekend,Over $160m,0.02169999999999994,0.5455,0.5238
 2024-06-11 15:13:23.325695,NCAA Regular Season Wins - ACC Regular Season Wins - NC State,Over 8.5 Wins,0.02169999999999994,0.5455,0.5238
+2024-06-11 20:58:17.483000,Positions - Finishing Position - Shane Lowry - Shane Lowry,42nd or worse,0.02169999999999994,0.5455,0.5238
 2024-06-11 15:13:22.953383,NCAA Regular Season Wins - Big Ten Regular Season Wins - Michigan,Under 9.5 Wins,0.02080000000000004,0.6875,0.6667
 2024-06-11 15:13:19.709904,Washington Commanders - 2024-25 Regular Season Wins O/U - Regular Season Wins - Washington Commanders O/U 6.5 Wins,Over 6.5 Wins,0.02079999999999993,0.5556,0.5348
 2024-06-11 16:58:02.189432,Main Markets - 1st Round 3 Balls - B. Kim / I. Salinda / J. Herman - 1st Round 3 Balls,Isaiah Salinda,0.02079999999999993,0.5556,0.5348
 2024-06-11 16:58:04.063911,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Madelene Sagstrom,0.0207,0.0217,0.001
-2024-06-11 15:13:23.162912,NCAA Regular Season Wins - ACC Regular Season Wins - Syracuse ,Over 7.5 Wins,0.020699999999999996,0.4651,0.4444
 2024-06-11 15:13:23.520307,NCAA Regular Season Wins - SEC Regular Season Wins - Auburn,Over 7.5 Wins,0.020699999999999996,0.4651,0.4444
+2024-06-11 15:13:23.162912,NCAA Regular Season Wins - ACC Regular Season Wins - Syracuse ,Over 7.5 Wins,0.020699999999999996,0.4651,0.4444
 2024-06-11 15:13:22.904756,NCAA Regular Season Wins - Big Ten Regular Season Wins - Indiana,Over 5.5 Wins,0.020699999999999996,0.4651,0.4444
 2024-06-11 15:13:24.983910,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,San Diego Padres,0.0203,0.0526,0.0323
 2024-06-11 15:13:24.222181,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Notre Dame To Make the 2024-2025 College Football Playoff,Yes,0.020299999999999985,0.6429,0.6226
@@ -239,10 +241,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:24.006726,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Arizona To Make the 2024-2025 College Football Playoff,No,0.020199999999999996,0.9091,0.8889
 2024-06-11 15:13:24.332519,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Texas A&M To Make the 2024-2025 College Football Playoff,No,0.020100000000000007,0.75,0.7299
 2024-06-11 15:13:14.496660,WNBA Awards - WNBA Rookie of the Year 2024 - WNBA Rookie of the Year 2024,Caitlin Clark (IND),0.01980000000000004,0.8948,0.875
-2024-06-11 15:13:25.149319,MLB Futures - MLB 2024 Player Awards - American League MVP,Jose Ramirez (CLE),0.019800000000000005,0.0476,0.0278
 2024-06-11 15:13:25.304274,MLB Futures - MLB 2024 Player Awards - National League ROY,Masyn Winn (STL),0.019800000000000005,0.0476,0.0278
-2024-06-11 15:13:18.539600,Jacksonville Jaguars - 2024-25 Regular Season Wins O/U - Regular Season Wins - Jacksonville Jaguars O/U 8.5 Wins,Over 8.5 Wins,0.01970000000000005,0.5652,0.5455
+2024-06-11 15:13:25.149319,MLB Futures - MLB 2024 Player Awards - American League MVP,Jose Ramirez (CLE),0.019800000000000005,0.0476,0.0278
 2024-06-11 15:13:13.806273,Deadpool & Wolverine - Deadpool & Wolverine Worldwide Gross After Six Months - Worldwide Gross,Over $960m,0.01970000000000005,0.5652,0.5455
+2024-06-11 15:13:18.539600,Jacksonville Jaguars - 2024-25 Regular Season Wins O/U - Regular Season Wins - Jacksonville Jaguars O/U 8.5 Wins,Over 8.5 Wins,0.01970000000000005,0.5652,0.5455
 2024-06-11 15:13:23.080368,NCAA Regular Season Wins - Big Ten Regular Season Wins - Penn State,Over 9.5 Wins,0.019499999999999962,0.6491,0.6296
 2024-06-11 15:13:24.936080,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Milwaukee Brewers,0.019099999999999995,0.0435,0.0244
 2024-06-11 15:13:10.880168,Copa Libertadores - Copa Libertadores 2024 - Futures - Winner,Grêmio,0.019099999999999992,0.0667,0.0476
@@ -250,12 +252,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:23.857577,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Miami Florida,0.01820000000000002,0.2,0.1818
 2024-06-11 15:13:23.100258,NCAA Regular Season Wins - Big Ten Regular Season Wins - Purdue,Over 4.5 Wins,0.018100000000000005,0.4348,0.4167
 2024-06-11 15:13:10.778341,MLS - USA MLS 2024 - Futures - Golden Boot Award,Denis Bouanga,0.018099999999999998,0.0769,0.0588
-2024-06-11 15:13:24.031096,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Auburn To Make the 2024-2025 College Football Playoff,Yes,0.0179,0.1429,0.125
 2024-06-11 15:13:15.187316,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tom Cotton,0.0179,0.0278,0.0099
+2024-06-11 15:13:24.031096,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Auburn To Make the 2024-2025 College Football Playoff,Yes,0.0179,0.1429,0.125
 2024-06-11 16:58:04.063911,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Alison Lee,0.017599999999999998,0.0196,0.002
 2024-06-11 15:13:23.195690,NCAA Regular Season Wins - ACC Regular Season Wins - California,Under 6.5 Wins,0.017299999999999982,0.5917,0.5744
 2024-06-11 15:13:18.823080,Los Angeles Rams - 2024-25 Regular Season Wins O/U - Regular Season Wins - Los Angeles Rams O/U 8.5 Wins,Over 8.5 Wins,0.017299999999999982,0.5917,0.5744
 2024-06-11 15:13:25.133891,MLB Futures - MLB 2024 Player Awards - American League Manager of the Year,Aaron Boone,0.016700000000000007,0.1,0.0833
+2024-06-11 20:58:15.848506,Boxing Lines - Oleksandr Usyk vs Tyson Fury - To Win the Bout,Tyson Fury,0.016699999999999993,0.4167,0.4
 2024-06-11 15:13:17.218979,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Kansas City Chiefs,0.016699999999999993,0.2667,0.25
 2024-06-11 15:13:15.187316,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tim Scott,0.016600000000000004,0.1905,0.1739
 2024-06-11 18:58:08.854563,Elite Boxing - Jake Paul vs Mike Tyson - To Win the Bout,Mike Tyson,0.016400000000000026,0.339,0.3226
@@ -265,44 +268,44 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:18.933118,Minnesota Vikings - 2024-25 Regular Season Wins O/U - Regular Season Wins - Minnesota Vikings O/U 6.5 Wins,Over 6.5 Wins,0.01539999999999997,0.6154,0.6
 2024-06-11 15:13:23.039701,NCAA Regular Season Wins - Big Ten Regular Season Wins - Ohio State,Over 10.5 Wins,0.01539999999999997,0.6154,0.6
 2024-06-11 15:13:18.413637,Houston Texans - 2024-25 Regular Season Wins O/U - Regular Season Wins - Houston Texans O/U 9.5 Wins,Over 9.5 Wins,0.01539999999999997,0.6154,0.6
-2024-06-11 15:13:15.187316,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Nikki Haley,0.015300000000000001,0.0476,0.0323
 2024-06-11 15:13:15.128281,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Michelle Obama,0.015300000000000001,0.0476,0.0323
+2024-06-11 15:13:15.187316,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Nikki Haley,0.015300000000000001,0.0476,0.0323
 2024-06-11 15:13:28.599632,Futures - The Open Championship 2024 - Winner,Scottie Scheffler,0.015100000000000002,0.1818,0.1667
 2024-06-11 16:58:04.063911,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Carlota Ciganda,0.014900000000000004,0.0345,0.0196
-2024-06-11 15:13:17.129669,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Green Bay Packers,0.014899999999999997,0.0625,0.0476
 2024-06-11 15:13:13.864912,Deadpool & Wolverine - To Make A Credited Appearance In Deadpool & Wolverine - To Make A Credited Appearance,Anya Taylor Joy,0.014899999999999997,0.0625,0.0476
+2024-06-11 15:13:17.129669,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Green Bay Packers,0.014899999999999997,0.0625,0.0476
 2024-06-11 16:58:01.997278,Main Markets - 1st Round 3 Balls - M. Fitzpatrick / T. Woods / W. Zalatoris - 1st Round 3 Balls,Will Zalatoris,0.01479999999999998,0.3922,0.3774
-2024-06-11 15:13:23.905333,NCAA Football Futures - 2024 Big Ten Conference Championship  - Championship Game Winner,Ohio State,0.01479999999999998,0.3922,0.3774
 2024-06-11 16:58:02.038584,Main Markets - 1st Round 3 Balls - A. Hadwin / P. Mickelson / R. Fowler - 1st Round 3 Balls,Rickie Fowler,0.01479999999999998,0.3922,0.3774
+2024-06-11 15:13:23.905333,NCAA Football Futures - 2024 Big Ten Conference Championship  - Championship Game Winner,Ohio State,0.01479999999999998,0.3922,0.3774
 2024-06-11 16:58:04.063911,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Na Rin An,0.0147,0.0152,0.0005
 2024-06-11 15:13:28.599632,Futures - The Open Championship 2024 - Winner,Robert MacIntyre,0.0145,0.0244,0.0099
 2024-06-11 15:13:10.869755,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Belgrano,0.014499999999999999,0.0294,0.0149
-2024-06-11 15:13:10.766908,MLS - USA MLS 2024 - Futures - Winner,FC Cincinnati,0.01440000000000001,0.1053,0.0909
 2024-06-11 15:13:15.187316,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Marco Rubio,0.01440000000000001,0.1053,0.0909
-2024-06-11 15:13:24.936080,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,San Diego Padres,0.014400000000000003,0.0323,0.0179
+2024-06-11 15:13:10.766908,MLS - USA MLS 2024 - Futures - Winner,FC Cincinnati,0.01440000000000001,0.1053,0.0909
 2024-06-11 15:13:25.133891,MLB Futures - MLB 2024 Player Awards - American League Manager of the Year,Mark Kotsay,0.014400000000000003,0.0323,0.0179
+2024-06-11 15:13:24.936080,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,San Diego Padres,0.014400000000000003,0.0323,0.0179
 2024-06-11 15:13:17.519551,NFC South - NFC South 2024/25 - NFC South Winner,Carolina Panthers,0.014399999999999996,0.0769,0.0625
 2024-06-11 15:13:17.129669,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Detroit Lions,0.014399999999999996,0.0769,0.0625
 2024-06-11 15:13:23.938241,NCAA Football Futures - 2024 SEC Conference Championship  - Championship Game Winner,Missouri,0.014399999999999996,0.0769,0.0625
-2024-06-11 15:13:23.314019,NCAA Regular Season Wins - ACC Regular Season Wins - Miami FL,Under 9.5 Wins,0.014200000000000101,0.6296,0.6154
 2024-06-11 18:58:08.698289,MLB Futures - MLB 2024 American League Central - American League Central Winner,Cleveland Guardians,0.014200000000000101,0.6296,0.6154
+2024-06-11 15:13:23.314019,NCAA Regular Season Wins - ACC Regular Season Wins - Miami FL,Under 9.5 Wins,0.014200000000000101,0.6296,0.6154
 2024-06-11 15:13:10.789134,MLS - USA MLS 2024 - Futures - To Reach the Final,Toronto FC,0.014100000000000001,0.0526,0.0385
-2024-06-11 15:13:24.484423,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Danielle Hunter,0.014099999999999998,0.0385,0.0244
 2024-06-11 15:13:28.599632,Futures - The Open Championship 2024 - Winner,Bryson DeChambeau,0.014099999999999998,0.0385,0.0244
-2024-06-11 15:13:13.646630,The Matrix 5 - The Matrix 5 Oscars Specials - The Matrix 5 Oscars Specials,To win the Academy Award for Best Visual Effects,0.014099999999999998,0.0385,0.0244
+2024-06-11 15:13:24.484423,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Danielle Hunter,0.014099999999999998,0.0385,0.0244
 2024-06-11 15:13:14.074304,Spotify - 2024 Spotify Top Global Artist - 2024 Top Global Artist,Billie Eilish,0.014099999999999998,0.0385,0.0244
-2024-06-11 15:13:25.094569,MLB Futures - MLB 2024 National League West - National League West Winner,San Diego Padres,0.014099999999999994,0.0667,0.0526
-2024-06-11 15:13:25.121007,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Luis Castillo (SEA),0.014099999999999994,0.0667,0.0526
+2024-06-11 15:13:13.646630,The Matrix 5 - The Matrix 5 Oscars Specials - The Matrix 5 Oscars Specials,To win the Academy Award for Best Visual Effects,0.014099999999999998,0.0385,0.0244
 2024-06-11 15:13:24.466595,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Shane Steichen,0.014099999999999994,0.0667,0.0526
-2024-06-11 15:13:24.511424,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Jared Verse,0.013999999999999999,0.0909,0.0769
-2024-06-11 15:13:23.881272,NCAA Football Futures - 2024 Big 12 Conference Championship  - Championship Game Winner,Oklahoma State,0.013999999999999999,0.0909,0.0769
+2024-06-11 15:13:25.121007,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Luis Castillo (SEA),0.014099999999999994,0.0667,0.0526
+2024-06-11 15:13:25.094569,MLB Futures - MLB 2024 National League West - National League West Winner,San Diego Padres,0.014099999999999994,0.0667,0.0526
 2024-06-11 15:13:14.616276,NCAA DI Men - 2025 NCAA DI Men's Basketball Tournament - National Champion,Kansas,0.013999999999999999,0.0909,0.0769
-2024-06-11 15:13:10.778341,MLS - USA MLS 2024 - Futures - Golden Boot Award,Christian Benteke,0.013899999999999996,0.125,0.1111
+2024-06-11 15:13:23.881272,NCAA Football Futures - 2024 Big 12 Conference Championship  - Championship Game Winner,Oklahoma State,0.013999999999999999,0.0909,0.0769
+2024-06-11 15:13:24.511424,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Jared Verse,0.013999999999999999,0.0909,0.0769
 2024-06-11 15:13:17.218979,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Cincinnati Bengals,0.013899999999999996,0.125,0.1111
+2024-06-11 15:13:10.778341,MLS - USA MLS 2024 - Futures - Golden Boot Award,Christian Benteke,0.013899999999999996,0.125,0.1111
 2024-06-11 15:13:24.182160,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Missouri To Make the 2024-2025 College Football Playoff,Yes,0.013800000000000034,0.3774,0.3636
 2024-06-11 16:58:04.063911,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Yuna Nishimura,0.0137,0.0141,0.0004
-2024-06-11 16:58:04.063911,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Hye Jin Choi,0.0131,0.0164,0.0033
 2024-06-11 16:58:04.063911,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Anna Nordqvist,0.0131,0.0141,0.001
+2024-06-11 16:58:04.063911,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Hye Jin Choi,0.0131,0.0164,0.0033
 2024-06-11 15:13:10.961934,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Degerfors IF,0.012899999999999995,0.1667,0.1538
 2024-06-11 15:13:14.630215,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Texas (W),0.012899999999999995,0.1667,0.1538
 2024-06-11 15:13:14.046678,James Bond Specials - Next James Bond Song Artist - Next Bond Song,Muse,0.012700000000000003,0.0323,0.0196
@@ -317,59 +320,60 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:25.318829,MLB Futures - MLB 2024 Regular Season Leaders - Player To Hit The Most Home Runs,Jose Ramirez (CLE),0.011399999999999997,0.0278,0.0164
 2024-06-11 16:58:04.063911,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Mi Hyang Lee,0.011300000000000001,0.0123,0.001
 2024-06-11 18:58:09.219054,Boxing Lines - Cameron Vuong vs Jordan Flynn - To Win the Bout,Cameron Vuong,0.011200000000000099,0.8403,0.8291
-2024-06-11 15:13:28.599632,Futures - The Open Championship 2024 - Winner,Collin Morikawa,0.011199999999999995,0.0588,0.0476
 2024-06-11 15:13:10.930476,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Viking FK,0.011199999999999995,0.0588,0.0476
-2024-06-11 15:13:23.612014,NCAA Regular Season Wins - SEC Regular Season Wins - Mississippi,Under 9.5 Wins,0.011099999999999999,0.4762,0.4651
+2024-06-11 20:58:15.897521,US Open - US Open 2024 - Winner,Bryson DeChambeau,0.011199999999999995,0.0588,0.0476
+2024-06-11 15:13:28.599632,Futures - The Open Championship 2024 - Winner,Collin Morikawa,0.011199999999999995,0.0588,0.0476
 2024-06-11 15:13:23.881272,NCAA Football Futures - 2024 Big 12 Conference Championship  - Championship Game Winner,Texas Tech,0.011099999999999999,0.1111,0.1
-2024-06-11 15:13:14.601960,LNB Pro A - France LNB Pro A 2023/24 - Outright,Paris,0.011099999999999999,0.1111,0.1
 2024-06-11 15:13:23.765078,NCAA Regular Season Wins - SEC Regular Season Wins - Texas A&M,Over 8.5 Wins,0.011099999999999999,0.4762,0.4651
 2024-06-11 15:13:22.776990,NCAA Regular Season Wins - Big 12 Regular Season Wins - Kansas State,Over 9.5 Wins,0.011099999999999999,0.4762,0.4651
+2024-06-11 15:13:23.612014,NCAA Regular Season Wins - SEC Regular Season Wins - Mississippi,Under 9.5 Wins,0.011099999999999999,0.4762,0.4651
+2024-06-11 15:13:14.601960,LNB Pro A - France LNB Pro A 2023/24 - Outright,Paris,0.011099999999999999,0.1111,0.1
 2024-06-11 15:13:17.545404,NFC West - NFC West 2024/25 - NFC West Winner,San Francisco 49ers,0.010700000000000043,0.6774,0.6667
-2024-06-11 15:13:27.264166,Tournament 3 Balls - Tournament 3 Balls - S. Scheffler / X. Schauffele / R. McIlroy - Tournament 3 Balls,Scottie Scheffler,0.010699999999999932,0.5455,0.5348
 2024-06-11 15:13:17.429895,AFC South - AFC South 2024/25 - AFC South Winner,Houston Texans,0.010699999999999932,0.5455,0.5348
-2024-06-11 15:13:24.959616,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Baltimore Orioles,0.010499999999999982,0.2105,0.2
+2024-06-11 15:13:27.264166,Tournament 3 Balls - Tournament 3 Balls - S. Scheffler / X. Schauffele / R. McIlroy - Tournament 3 Balls,Scottie Scheffler,0.010699999999999932,0.5455,0.5348
 2024-06-11 15:13:24.112523,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Georgia To Make the 2024-2025 College Football Playoff,No,0.010499999999999982,0.2105,0.2
+2024-06-11 15:13:24.959616,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Baltimore Orioles,0.010499999999999982,0.2105,0.2
 2024-06-11 15:13:10.766908,MLS - USA MLS 2024 - Futures - Winner,Real Salt Lake,0.0102,0.0769,0.0667
 2024-06-11 18:58:09.286215,Boxing Lines - Robeisy Ramirez vs Brandon Leon Benitez - To Win the Bout,Robeisy Ramirez,0.010199999999999987,0.9333,0.9231
-2024-06-11 15:13:23.825043,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Missouri,0.010100000000000001,0.0345,0.0244
 2024-06-11 15:13:10.869755,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Independiente Medellín,0.010100000000000001,0.0345,0.0244
+2024-06-11 15:13:23.825043,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Missouri,0.010100000000000001,0.0345,0.0244
 2024-06-11 15:13:13.864912,Deadpool & Wolverine - To Make A Credited Appearance In Deadpool & Wolverine - To Make A Credited Appearance,Taylor Swift,0.010099999999999998,0.5556,0.5455
 2024-06-11 15:13:24.497430,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Jalen Hurts,-0.010100000000000001,0.0244,0.0345
 2024-06-11 15:13:24.031096,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Auburn To Make the 2024-2025 College Football Playoff,No,-0.010199999999999987,0.9231,0.9333
 2024-06-11 15:13:14.005146,Taylor Swift Specials - When will Taylor & Travis announce their first pregancy? - When will Taylor and Travis announce their first pregnancy?,Q4 2024,-0.0102,0.0667,0.0769
-2024-06-11 15:13:14.005146,Taylor Swift Specials - When will Taylor & Travis announce their first pregancy? - When will Taylor and Travis announce their first pregnancy?,Q3 2024,-0.0102,0.0667,0.0769
 2024-06-11 15:13:24.445546,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Jordan Love,-0.0102,0.0667,0.0769
+2024-06-11 15:13:14.005146,Taylor Swift Specials - When will Taylor & Travis announce their first pregancy? - When will Taylor and Travis announce their first pregnancy?,Q3 2024,-0.0102,0.0667,0.0769
 2024-06-11 15:13:24.936080,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Mets,-0.0102,0.005,0.0152
-2024-06-11 15:13:23.857577,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Clemson,-0.010299999999999976,0.2564,0.2667
 2024-06-11 15:13:23.857577,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Florida State,-0.010299999999999976,0.2564,0.2667
+2024-06-11 15:13:23.857577,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Clemson,-0.010299999999999976,0.2564,0.2667
 2024-06-11 15:13:25.318829,MLB Futures - MLB 2024 Regular Season Leaders - Player To Hit The Most Home Runs,Adolis Garcia (TEX),-0.010300000000000002,0.0141,0.0244
-2024-06-11 15:13:18.413637,Houston Texans - 2024-25 Regular Season Wins O/U - Regular Season Wins - Houston Texans O/U 9.5 Wins,Under 9.5 Wins,-0.010599999999999998,0.4545,0.4651
 2024-06-11 15:13:23.039701,NCAA Regular Season Wins - Big Ten Regular Season Wins - Ohio State,Under 10.5 Wins,-0.010599999999999998,0.4545,0.4651
+2024-06-11 15:13:18.413637,Houston Texans - 2024-25 Regular Season Wins O/U - Regular Season Wins - Houston Texans O/U 9.5 Wins,Under 9.5 Wins,-0.010599999999999998,0.4545,0.4651
 2024-06-11 15:13:18.933118,Minnesota Vikings - 2024-25 Regular Season Wins O/U - Regular Season Wins - Minnesota Vikings O/U 6.5 Wins,Under 6.5 Wins,-0.010599999999999998,0.4545,0.4651
 2024-06-11 15:13:23.825043,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,USC,-0.010600000000000002,0.0217,0.0323
 2024-06-11 15:13:23.905333,NCAA Football Futures - 2024 Big Ten Conference Championship  - Championship Game Winner,Oregon,-0.010699999999999987,0.3226,0.3333
-2024-06-11 15:13:28.599632,Futures - The Open Championship 2024 - Winner,Patrick Cantlay,-0.010700000000000001,0.0278,0.0385
-2024-06-11 15:13:28.599632,Futures - The Open Championship 2024 - Winner,Jordan Spieth,-0.010700000000000001,0.0278,0.0385
-2024-06-11 15:13:25.291198,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Jose Alvarado (NOP),-0.010700000000000001,0.0278,0.0385
-2024-06-11 15:13:17.129669,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Los Angeles Rams,-0.010700000000000001,0.0278,0.0385
-2024-06-11 15:13:24.511424,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Payton Wilson,-0.010700000000000001,0.0278,0.0385
-2024-06-11 16:58:04.063911,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Jennifer Kupcho,-0.010700000000000001,0.0278,0.0385
 2024-06-11 15:13:24.936080,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Detroit Tigers,-0.010700000000000001,0.011,0.0217
 2024-06-11 15:13:23.825043,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Notre Dame,-0.010700000000000001,0.0278,0.0385
+2024-06-11 15:13:24.511424,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Payton Wilson,-0.010700000000000001,0.0278,0.0385
+2024-06-11 15:13:28.599632,Futures - The Open Championship 2024 - Winner,Jordan Spieth,-0.010700000000000001,0.0278,0.0385
+2024-06-11 15:13:17.129669,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Los Angeles Rams,-0.010700000000000001,0.0278,0.0385
+2024-06-11 15:13:28.599632,Futures - The Open Championship 2024 - Winner,Patrick Cantlay,-0.010700000000000001,0.0278,0.0385
+2024-06-11 16:58:04.063911,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Jennifer Kupcho,-0.010700000000000001,0.0278,0.0385
+2024-06-11 15:13:25.291198,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Jose Alvarado (NOP),-0.010700000000000001,0.0278,0.0385
 2024-06-11 18:58:09.219054,Boxing Lines - Cameron Vuong vs Jordan Flynn - To Win the Bout,Jordan Flynn,-0.010800000000000004,0.2273,0.2381
 2024-06-11 18:58:09.365615,Boxing Lines - Johnny Fisher vs Alen Babic - To Win the Bout,Johnny Fisher,-0.01089999999999991,0.8182,0.8291
-2024-06-11 15:13:15.213381,Republicans - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win 40.01 to 45% of the popular vote,-0.010899999999999993,0.1429,0.1538
 2024-06-11 15:13:15.213381,Republicans - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win 50.01 to 55% of the popular vote,-0.010899999999999993,0.1429,0.1538
-2024-06-11 18:58:09.189825,Boxing Lines - Rafael Espinoza vs Sergio Sanchez - To Win the Bout,Rafael Espinoza,-0.011099999999999999,0.8889,0.9
+2024-06-11 15:13:15.213381,Republicans - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win 40.01 to 45% of the popular vote,-0.010899999999999993,0.1429,0.1538
 2024-06-11 15:13:17.637926,Atlanta Falcons - 2024-25 Regular Season Wins O/U - Regular Season Wins - Atlanta Falcons O/U 9.5 Wins,Under 9.5 Wins,-0.011099999999999999,0.4651,0.4762
-2024-06-11 15:13:14.616276,NCAA DI Men - 2025 NCAA DI Men's Basketball Tournament - National Champion,Arizona,-0.011199999999999995,0.0323,0.0435
-2024-06-11 16:58:01.828910,US Open - US Open 2024 - Winner,Bryson DeChambeau,-0.011199999999999995,0.0476,0.0588
-2024-06-11 15:13:24.524992,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Xavier Worthy,-0.011199999999999995,0.0476,0.0588
+2024-06-11 18:58:09.189825,Boxing Lines - Rafael Espinoza vs Sergio Sanchez - To Win the Bout,Rafael Espinoza,-0.011099999999999999,0.8889,0.9
 2024-06-11 15:13:10.971816,Primera Division - Chile Primera Division 2024 - Futures - Winner,Deportes Iquique,-0.011199999999999995,0.0476,0.0588
+2024-06-11 15:13:14.616276,NCAA DI Men - 2025 NCAA DI Men's Basketball Tournament - National Champion,Arizona,-0.011199999999999995,0.0323,0.0435
+2024-06-11 15:13:24.524992,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Xavier Worthy,-0.011199999999999995,0.0476,0.0588
+2024-06-11 16:58:01.828910,US Open - US Open 2024 - Winner,Bryson DeChambeau,-0.011199999999999995,0.0476,0.0588
 2024-06-11 15:13:10.766908,MLS - USA MLS 2024 - Futures - Winner,Minnesota United,-0.011199999999999995,0.0476,0.0588
 2024-06-11 15:13:24.983910,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,New York Mets,-0.011200000000000002,0.0132,0.0244
-2024-06-11 15:13:25.121007,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Nathan Eovaldi (TEX),-0.011200000000000002,0.0132,0.0244
 2024-06-11 15:13:24.936080,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Tampa Bay Rays,-0.011200000000000002,0.0132,0.0244
+2024-06-11 15:13:25.121007,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Nathan Eovaldi (TEX),-0.011200000000000002,0.0132,0.0244
 2024-06-11 15:13:25.149319,MLB Futures - MLB 2024 Player Awards - American League MVP,Bo Bichette (TOR),-0.0113,0.0066,0.0179
 2024-06-11 18:58:08.698289,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,-0.011300000000000004,0.1739,0.1852
 2024-06-11 15:13:23.195690,NCAA Regular Season Wins - ACC Regular Season Wins - California,Over 6.5 Wins,-0.0116,0.4762,0.4878
@@ -378,111 +382,112 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:10.778341,MLS - USA MLS 2024 - Futures - Golden Boot Award,Luis Muriel,-0.011699999999999999,0.0079,0.0196
 2024-06-11 16:58:02.120173,Main Markets - 1st Round 3 Balls - B.H. An / E. Molinari / S. Bennett - 1st Round 3 Balls,Edoardo Molinari,-0.011700000000000016,0.2105,0.2222
 2024-06-11 15:13:25.149319,MLB Futures - MLB 2024 Player Awards - American League MVP,Adolis Garcia (TEX),-0.0118,0.0099,0.0217
-2024-06-11 15:13:25.277742,MLB Futures - MLB 2024 Player Awards - National League MVP,Seiya Suzuki (CHC),-0.0118,0.0099,0.0217
 2024-06-11 15:13:25.192238,MLB Futures - MLB 2024 Player Awards - American League ROY,Ricky Tiedemann,-0.0118,0.0099,0.0217
+2024-06-11 15:13:25.277742,MLB Futures - MLB 2024 Player Awards - National League MVP,Seiya Suzuki (CHC),-0.0118,0.0099,0.0217
+2024-06-11 15:13:17.545404,NFC West - NFC West 2024/25 - NFC West Winner,Arizona Cardinals,-0.011899999999999994,0.0714,0.0833
 2024-06-11 15:13:17.218979,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Baltimore Ravens,-0.011899999999999994,0.1481,0.16
 2024-06-11 15:13:17.218979,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,New York Jets,-0.011899999999999994,0.0714,0.0833
-2024-06-11 15:13:17.545404,NFC West - NFC West 2024/25 - NFC West Winner,Arizona Cardinals,-0.011899999999999994,0.0714,0.0833
 2024-06-11 15:13:25.170366,MLB Futures - MLB 2024 Player Awards - American League Reliever of the Year,David Robertson (R),-0.012,0.0076,0.0196
-2024-06-11 15:13:10.778341,MLS - USA MLS 2024 - Futures - Golden Boot Award,Joao Klauss,-0.012100000000000001,0.0123,0.0244
-2024-06-11 15:13:10.778341,MLS - USA MLS 2024 - Futures - Golden Boot Award,Jeremy Ebobisse,-0.012100000000000001,0.0123,0.0244
-2024-06-11 15:13:10.778341,MLS - USA MLS 2024 - Futures - Golden Boot Award,Alan Pulido,-0.012100000000000001,0.0123,0.0244
 2024-06-11 15:13:14.471303,WNBA Championship - WNBA Championship 2024 - Outright Winner,Chicago Sky,-0.012100000000000001,0.0123,0.0244
-2024-06-11 15:13:22.724085,NCAA Regular Season Wins - Big 12 Regular Season Wins - Colorado,Under 5.5 Wins,-0.012199999999999989,0.5,0.5122
+2024-06-11 15:13:10.778341,MLS - USA MLS 2024 - Futures - Golden Boot Award,Alan Pulido,-0.012100000000000001,0.0123,0.0244
+2024-06-11 15:13:10.778341,MLS - USA MLS 2024 - Futures - Golden Boot Award,Jeremy Ebobisse,-0.012100000000000001,0.0123,0.0244
+2024-06-11 15:13:10.778341,MLS - USA MLS 2024 - Futures - Golden Boot Award,Joao Klauss,-0.012100000000000001,0.0123,0.0244
+2024-06-11 16:58:01.997278,Main Markets - 1st Round 3 Balls - M. Fitzpatrick / T. Woods / W. Zalatoris - 1st Round 3 Balls,Matt Fitzpatrick,-0.012199999999999989,0.4878,0.5
+2024-06-11 15:13:15.422519,Donald Trump Specials - Federal Election Fraud: Will Donald Trump be found guilty of one or more of the 2020 election result federal charges? - Election Result Federal Trial,Yes,-0.012199999999999989,0.5,0.5122
 2024-06-11 15:13:19.089414,New Orleans Saints - 2024-25 Regular Season Wins O/U - Regular Season Wins - New Orleans Saints O/U 7.5 Wins,Under 7.5 Wins,-0.012199999999999989,0.5,0.5122
+2024-06-11 15:13:18.567599,Kansas City Chiefs - 2024-25 Regular Season Wins O/U - Regular Season Wins - Kansas City Chiefs O/U 11.5 Wins,Under 11.5 Wins,-0.012199999999999989,0.5,0.5122
+2024-06-11 15:13:22.724085,NCAA Regular Season Wins - Big 12 Regular Season Wins - Colorado,Under 5.5 Wins,-0.012199999999999989,0.5,0.5122
 2024-06-11 15:13:18.079490,Cleveland Browns - 2024-25 Regular Season Wins O/U  - Regular Season Wins - Cleveland Browns O/U 8.5 Wins,Under 8.5 Wins,-0.012199999999999989,0.4878,0.5
 2024-06-11 15:13:17.975142,Cincinnati Bengals - 2024-25 Regular Season Wins O/U - Regular Season Wins - Cincinnati Bengals O/U 10.5 Wins,Under 10.5 Wins,-0.012199999999999989,0.4878,0.5
-2024-06-11 16:58:01.997278,Main Markets - 1st Round 3 Balls - M. Fitzpatrick / T. Woods / W. Zalatoris - 1st Round 3 Balls,Matt Fitzpatrick,-0.012199999999999989,0.4878,0.5
-2024-06-11 15:13:18.567599,Kansas City Chiefs - 2024-25 Regular Season Wins O/U - Regular Season Wins - Kansas City Chiefs O/U 11.5 Wins,Under 11.5 Wins,-0.012199999999999989,0.5,0.5122
-2024-06-11 15:13:15.422519,Donald Trump Specials - Federal Election Fraud: Will Donald Trump be found guilty of one or more of the 2020 election result federal charges? - Election Result Federal Trial,Yes,-0.012199999999999989,0.5,0.5122
 2024-06-11 15:13:24.936080,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Baltimore Orioles,-0.012299999999999991,0.1053,0.1176
 2024-06-11 15:13:17.443895,AFC West - AFC West 2024/25 - AFC West Winner,Denver Broncos,-0.012499999999999997,0.05,0.0625
 2024-06-11 15:13:25.149319,MLB Futures - MLB 2024 Player Awards - American League MVP,Rafael Devers (BOS),-0.012599999999999998,0.0152,0.0278
 2024-06-11 15:13:15.666694,US Senate Elections 2024 - Senate Control Following 2024 Elections - Senate Control Followng Elections,Democrat,-0.012699999999999989,0.3509,0.3636
 2024-06-11 15:13:25.121007,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Grayson Rodriguez (BAL),-0.012700000000000003,0.0196,0.0323
 2024-06-11 15:13:24.983910,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Cincinnati Reds,-0.012700000000000003,0.0196,0.0323
-2024-06-11 15:13:24.959616,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Boston Red Sox,-0.012700000000000003,0.0196,0.0323
 2024-06-11 15:13:24.511424,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Mike Sainristil,-0.012700000000000003,0.0196,0.0323
+2024-06-11 15:13:24.959616,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Boston Red Sox,-0.012700000000000003,0.0196,0.0323
 2024-06-11 15:13:14.484704,WNBA Awards - WNBA Regular Season MVP 2024 - WNBA Regular Season MVP 2024,Arike Ogunbowale (DAL),-0.012800000000000002,0.0217,0.0345
-2024-06-11 15:13:17.246517,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Detroit Lions,-0.012899999999999995,0.1538,0.1667
 2024-06-11 15:13:24.466595,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Raheem Morris,-0.012899999999999995,0.1538,0.1667
-2024-06-11 15:13:10.778341,MLS - USA MLS 2024 - Futures - Golden Boot Award,Diego Rubio,-0.013,0.0066,0.0196
-2024-06-11 15:13:25.192238,MLB Futures - MLB 2024 Player Awards - American League ROY,Coby Mayo,-0.013,0.0066,0.0196
+2024-06-11 15:13:17.246517,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Detroit Lions,-0.012899999999999995,0.1538,0.1667
 2024-06-11 15:13:25.277742,MLB Futures - MLB 2024 Player Awards - National League MVP,Francisco Lindor (NYM),-0.013,0.0066,0.0196
 2024-06-11 15:13:25.304274,MLB Futures - MLB 2024 Player Awards - National League ROY,Jordan Lawlar (ARIZ),-0.013,0.0066,0.0196
-2024-06-11 15:13:17.129669,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Atlanta Falcons,-0.0131,0.0345,0.0476
-2024-06-11 15:13:24.983910,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Arizona Diamondbacks,-0.0131,0.0345,0.0476
+2024-06-11 15:13:25.192238,MLB Futures - MLB 2024 Player Awards - American League ROY,Coby Mayo,-0.013,0.0066,0.0196
+2024-06-11 15:13:10.778341,MLS - USA MLS 2024 - Futures - Golden Boot Award,Diego Rubio,-0.013,0.0066,0.0196
 2024-06-11 15:13:13.620052,Business Specials - Price Of Oil At Year End - Price of Oil at Year end 2024,Over $100,-0.0131,0.2222,0.2353
+2024-06-11 15:13:24.983910,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Arizona Diamondbacks,-0.0131,0.0345,0.0476
+2024-06-11 15:13:17.129669,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Atlanta Falcons,-0.0131,0.0345,0.0476
 2024-06-11 15:13:25.318829,MLB Futures - MLB 2024 Regular Season Leaders - Player To Hit The Most Home Runs,Corey Seager (TEX),-0.013400000000000002,0.011,0.0244
-2024-06-11 15:13:10.789134,MLS - USA MLS 2024 - Futures - To Reach the Final,Columbus Crew,-0.013899999999999996,0.1111,0.125
 2024-06-11 15:13:13.620052,Business Specials - Price Of Oil At Year End - Price of Oil at Year end 2024,$60 or under,-0.013899999999999996,0.1111,0.125
+2024-06-11 15:13:10.789134,MLS - USA MLS 2024 - Futures - To Reach the Final,Columbus Crew,-0.013899999999999996,0.1111,0.125
 2024-06-11 15:13:24.445546,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),C.J. Stroud,-0.013899999999999996,0.1111,0.125
-2024-06-11 15:13:14.616276,NCAA DI Men - 2025 NCAA DI Men's Basketball Tournament - National Champion,Duke,-0.013999999999999999,0.0769,0.0909
 2024-06-11 15:13:14.496660,WNBA Awards - WNBA Rookie of the Year 2024 - WNBA Rookie of the Year 2024,Cameron Brink (LAS),-0.013999999999999999,0.0769,0.0909
-2024-06-11 15:13:10.971816,Primera Division - Chile Primera Division 2024 - Futures - Winner,Coquimbo Unido,-0.013999999999999999,0.0769,0.0909
 2024-06-11 15:13:10.869755,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,RB Bragantino,-0.013999999999999999,0.0769,0.0909
-2024-06-11 15:13:28.599632,Futures - The Open Championship 2024 - Winner,Tyrrell Hatton,-0.014099999999999998,0.0244,0.0385
+2024-06-11 15:13:10.971816,Primera Division - Chile Primera Division 2024 - Futures - Winner,Coquimbo Unido,-0.013999999999999999,0.0769,0.0909
+2024-06-11 15:13:14.616276,NCAA DI Men - 2025 NCAA DI Men's Basketball Tournament - National Champion,Duke,-0.013999999999999999,0.0769,0.0909
 2024-06-11 15:13:10.789134,MLS - USA MLS 2024 - Futures - To Reach the Final,CF Montréal,-0.014099999999999998,0.0244,0.0385
+2024-06-11 15:13:28.599632,Futures - The Open Championship 2024 - Winner,Tyrrell Hatton,-0.014099999999999998,0.0244,0.0385
 2024-06-11 15:13:14.074304,Spotify - 2024 Spotify Top Global Artist - 2024 Top Global Artist,Taylor Swift,-0.014399999999999968,0.9231,0.9375
 2024-06-11 15:13:17.129669,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Cincinnati Bengals,-0.014399999999999996,0.0625,0.0769
 2024-06-11 15:13:14.496660,WNBA Awards - WNBA Rookie of the Year 2024 - WNBA Rookie of the Year 2024,Jacy Sheldon (DAL),-0.014400000000000001,0.002,0.0164
-2024-06-11 15:13:10.807057,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Seattle Sounders,-0.014499999999999999,0.0149,0.0294
 2024-06-11 15:13:10.778341,MLS - USA MLS 2024 - Futures - Golden Boot Award,Juan Hernandez,-0.014499999999999999,0.0149,0.0294
 2024-06-11 15:13:10.766908,MLS - USA MLS 2024 - Futures - Winner,Saint Louis City SC,-0.014499999999999999,0.0149,0.0294
-2024-06-11 15:13:10.778341,MLS - USA MLS 2024 - Futures - Golden Boot Award,Teemu Pukki,-0.0145,0.0099,0.0244
+2024-06-11 15:13:10.807057,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Seattle Sounders,-0.014499999999999999,0.0149,0.0294
 2024-06-11 15:13:25.121007,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Zach Eflin (TB),-0.0145,0.0099,0.0244
-2024-06-11 15:13:10.778341,MLS - USA MLS 2024 - Futures - Golden Boot Award,Josef Martinez,-0.0145,0.0099,0.0244
-2024-06-11 15:13:25.192238,MLB Futures - MLB 2024 Player Awards - American League ROY,Everson Pereira (NYY),-0.0145,0.0099,0.0244
-2024-06-11 15:13:10.961934,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Örgryte IS,-0.0145,0.0099,0.0244
 2024-06-11 15:13:25.291198,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,AJ Minter,-0.0145,0.0099,0.0244
-2024-06-11 15:13:25.277742,MLB Futures - MLB 2024 Player Awards - National League MVP,Manny Machado (SD),-0.014599999999999998,0.0132,0.0278
+2024-06-11 15:13:10.778341,MLS - USA MLS 2024 - Futures - Golden Boot Award,Teemu Pukki,-0.0145,0.0099,0.0244
+2024-06-11 15:13:10.778341,MLS - USA MLS 2024 - Futures - Golden Boot Award,Josef Martinez,-0.0145,0.0099,0.0244
+2024-06-11 15:13:10.961934,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Örgryte IS,-0.0145,0.0099,0.0244
+2024-06-11 15:13:25.192238,MLB Futures - MLB 2024 Player Awards - American League ROY,Everson Pereira (NYY),-0.0145,0.0099,0.0244
 2024-06-11 16:58:04.063911,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Lindsey Weaver-Wright,-0.014599999999999998,0.005,0.0196
 2024-06-11 15:13:14.484704,WNBA Awards - WNBA Regular Season MVP 2024 - WNBA Regular Season MVP 2024,Aliyah Boston (IND),-0.014599999999999998,0.005,0.0196
+2024-06-11 15:13:25.277742,MLB Futures - MLB 2024 Player Awards - National League MVP,Manny Machado (SD),-0.014599999999999998,0.0132,0.0278
 2024-06-11 15:13:15.297927,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,-0.014800000000000008,0.1852,0.2
-2024-06-11 15:13:25.256338,MLB Futures - MLB 2024 Player Awards - National League Manager of the Year,Bob Melvin,-0.014899999999999997,0.0476,0.0625
 2024-06-11 15:13:24.524992,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Drake Maye,-0.014899999999999997,0.0476,0.0625
+2024-06-11 15:13:25.256338,MLB Futures - MLB 2024 Player Awards - National League Manager of the Year,Bob Melvin,-0.014899999999999997,0.0476,0.0625
 2024-06-11 15:13:10.766908,MLS - USA MLS 2024 - Futures - Winner,Atlanta United,-0.014900000000000004,0.0196,0.0345
 2024-06-11 15:13:14.392706,Nobel Prizes - Nobel Peace Prize 2024 - Nobel Peace Prize 2024,Ilham Tohti,-0.015100000000000002,0.1667,0.1818
 2024-06-11 15:13:25.094569,MLB Futures - MLB 2024 National League West - National League West Winner,San Francisco Giants,-0.015300000000000001,0.0323,0.0476
-2024-06-11 15:13:25.121007,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Joe Ryan (MIN),-0.015300000000000001,0.0323,0.0476
 2024-06-11 15:13:10.766908,MLS - USA MLS 2024 - Futures - Winner,Vancouver Whitecaps,-0.015300000000000001,0.0435,0.0588
+2024-06-11 15:13:25.121007,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Joe Ryan (MIN),-0.015300000000000001,0.0323,0.0476
 2024-06-11 15:13:10.778341,MLS - USA MLS 2024 - Futures - Golden Boot Award,Sebastian Ferreira,-0.0156,0.004,0.0196
 2024-06-11 15:13:10.778341,MLS - USA MLS 2024 - Futures - Golden Boot Award,Jovan Mijatovic,-0.0156,0.004,0.0196
-2024-06-11 15:13:25.067223,MLB Futures - MLB 2024 National League Central - National League Central Winner,Cincinnati Reds,-0.015700000000000006,0.1176,0.1333
 2024-06-11 15:13:10.869755,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Internacional,-0.015700000000000006,0.1176,0.1333
+2024-06-11 15:13:25.067223,MLB Futures - MLB 2024 National League Central - National League Central Winner,Cincinnati Reds,-0.015700000000000006,0.1176,0.1333
 2024-06-11 15:13:23.881272,NCAA Football Futures - 2024 Big 12 Conference Championship  - Championship Game Winner,Kansas,-0.015700000000000006,0.1176,0.1333
 2024-06-11 15:13:25.318829,MLB Futures - MLB 2024 Regular Season Leaders - Player To Hit The Most Home Runs,Shohei Ohtani (LAD),-0.015899999999999997,0.0952,0.1111
-2024-06-11 15:13:15.187316,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Mike Pompeo,-0.0159,0.0164,0.0323
 2024-06-11 15:13:25.318829,MLB Futures - MLB 2024 Regular Season Leaders - Player To Hit The Most Home Runs,Bryce Harper (PHI),-0.0159,0.0164,0.0323
+2024-06-11 15:13:15.187316,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Mike Pompeo,-0.0159,0.0164,0.0323
 2024-06-11 18:58:08.854563,Elite Boxing - Jake Paul vs Mike Tyson - To Win the Bout,Jake Paul,-0.01629999999999998,0.7059,0.7222
 2024-06-11 15:13:25.192238,MLB Futures - MLB 2024 Player Awards - American League ROY,Nolan Schanuel (LAA),-0.0165,0.0079,0.0244
 2024-06-11 15:13:14.484704,WNBA Awards - WNBA Regular Season MVP 2024 - WNBA Regular Season MVP 2024,Chelsea Gray (LVA),-0.0167,0.005,0.0217
 2024-06-11 15:13:23.825043,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Alabama,-0.016700000000000007,0.0833,0.1
 2024-06-11 15:13:25.121007,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Jose Berrios (TOR),-0.0168,0.0217,0.0385
 2024-06-11 15:13:14.471303,WNBA Championship - WNBA Championship 2024 - Outright Winner,Dallas Wings,-0.0168,0.0217,0.0385
-2024-06-11 15:13:10.930476,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Rosenborg BK,-0.017099999999999997,0.0123,0.0294
 2024-06-11 15:13:10.778341,MLS - USA MLS 2024 - Futures - Golden Boot Award,Sebastian Driussi,-0.017099999999999997,0.0123,0.0294
+2024-06-11 15:13:10.930476,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Rosenborg BK,-0.017099999999999997,0.0123,0.0294
 2024-06-11 15:13:22.891190,NCAA Regular Season Wins - Big 12 Regular Season Wins - West Virginia ,Over 6.5 Wins,-0.017299999999999982,0.5744,0.5917
+2024-06-11 20:58:15.848506,Boxing Lines - Oleksandr Usyk vs Tyson Fury - To Win the Bout,Oleksandr Usyk,-0.01759999999999995,0.6491,0.6667
 2024-06-11 15:13:23.881272,NCAA Football Futures - 2024 Big 12 Conference Championship  - Championship Game Winner,Arizona,-0.01759999999999999,0.1,0.1176
 2024-06-11 15:13:10.971816,Primera Division - Chile Primera Division 2024 - Futures - Winner,Cobreloa Calama,-0.017599999999999998,0.002,0.0196
 2024-06-11 15:13:23.938241,NCAA Football Futures - 2024 SEC Conference Championship  - Championship Game Winner,Georgia,-0.017600000000000005,0.3333,0.3509
-2024-06-11 15:13:10.971816,Primera Division - Chile Primera Division 2024 - Futures - Winner,Huachipato,-0.017800000000000003,0.0066,0.0244
-2024-06-11 15:13:10.940469,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,IF Elfsborg,-0.017800000000000003,0.0066,0.0244
-2024-06-11 15:13:10.940469,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,Hammarby IF,-0.017800000000000003,0.0066,0.0244
 2024-06-11 15:13:25.170366,MLB Futures - MLB 2024 Player Awards - American League Reliever of the Year,Ryan Pressley,-0.017800000000000003,0.0066,0.0244
-2024-06-11 15:13:25.121007,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Gerrit Cole (NYY),-0.0179,0.0099,0.0278
-2024-06-11 15:13:25.192238,MLB Futures - MLB 2024 Player Awards - American League ROY,Brayan Rocchio (CLE),-0.0179,0.0099,0.0278
-2024-06-11 15:13:25.149319,MLB Futures - MLB 2024 Player Awards - American League MVP,Anthony Volpe (NYY),-0.0179,0.0099,0.0278
-2024-06-11 15:13:17.246517,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Dallas Cowboys,-0.0179,0.125,0.1429
-2024-06-11 15:13:15.187316,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,"Robert Kennedy, Jr",-0.0179,0.0099,0.0278
-2024-06-11 15:13:25.149319,MLB Futures - MLB 2024 Player Awards - American League MVP,Vladimir Guerrero Jr. (TOR),-0.0179,0.0099,0.0278
+2024-06-11 15:13:10.940469,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,Hammarby IF,-0.017800000000000003,0.0066,0.0244
+2024-06-11 15:13:10.940469,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,IF Elfsborg,-0.017800000000000003,0.0066,0.0244
+2024-06-11 15:13:10.971816,Primera Division - Chile Primera Division 2024 - Futures - Winner,Huachipato,-0.017800000000000003,0.0066,0.0244
 2024-06-11 15:13:10.880168,Copa Libertadores - Copa Libertadores 2024 - Futures - Winner,Atlético Mineiro,-0.0179,0.125,0.1429
+2024-06-11 15:13:25.149319,MLB Futures - MLB 2024 Player Awards - American League MVP,Vladimir Guerrero Jr. (TOR),-0.0179,0.0099,0.0278
+2024-06-11 15:13:25.192238,MLB Futures - MLB 2024 Player Awards - American League ROY,Brayan Rocchio (CLE),-0.0179,0.0099,0.0278
+2024-06-11 15:13:15.187316,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,"Robert Kennedy, Jr",-0.0179,0.0099,0.0278
+2024-06-11 15:13:25.121007,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Gerrit Cole (NYY),-0.0179,0.0099,0.0278
+2024-06-11 15:13:17.246517,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Dallas Cowboys,-0.0179,0.125,0.1429
+2024-06-11 15:13:25.149319,MLB Futures - MLB 2024 Player Awards - American League MVP,Anthony Volpe (NYY),-0.0179,0.0099,0.0278
 2024-06-11 15:13:25.094569,MLB Futures - MLB 2024 National League West - National League West Winner,Arizona Diamondbacks,-0.018099999999999998,0.0345,0.0526
 2024-06-11 15:13:23.825043,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,LSU,-0.018099999999999998,0.0588,0.0769
 2024-06-11 18:58:09.259510,Boxing Lines - Lamont Roach vs Feargal McCrory - To Win the Bout,Lamont Roach,-0.018100000000000005,0.9231,0.9412
-2024-06-11 15:13:23.080368,NCAA Regular Season Wins - Big Ten Regular Season Wins - Penn State,Under 9.5 Wins,-0.018100000000000005,0.4167,0.4348
-2024-06-11 16:57:53.707680,"Olympics Basketball - Men - Qualification - Paris 2024 - Men's Basketball Qualification (Piraeus, Greece) - Outright",Slovenia,-0.018100000000000005,0.4167,0.4348
 2024-06-11 15:13:17.519551,NFC South - NFC South 2024/25 - NFC South Winner,New Orleans Saints,-0.018100000000000005,0.2041,0.2222
+2024-06-11 16:57:53.707680,"Olympics Basketball - Men - Qualification - Paris 2024 - Men's Basketball Qualification (Piraeus, Greece) - Outright",Slovenia,-0.018100000000000005,0.4167,0.4348
+2024-06-11 15:13:23.080368,NCAA Regular Season Wins - Big Ten Regular Season Wins - Penn State,Under 9.5 Wins,-0.018100000000000005,0.4167,0.4348
 2024-06-11 15:13:24.936080,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Toronto Blue Jays,-0.0182,0.0141,0.0323
 2024-06-11 15:13:14.630215,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,Connecticut (W),-0.01820000000000002,0.1818,0.2
 2024-06-11 15:13:25.121007,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Cole Ragans (KC),-0.01830000000000001,0.0769,0.0952
@@ -490,17 +495,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:28.599632,Futures - The Open Championship 2024 - Winner,Min Woo Lee,-0.0189,0.0196,0.0385
 2024-06-11 15:13:10.971816,Primera Division - Chile Primera Division 2024 - Futures - Winner,Universidad de Chile,-0.018900000000000028,0.4255,0.4444
 2024-06-11 15:13:25.133891,MLB Futures - MLB 2024 Player Awards - American League Manager of the Year,Alex Cora,-0.019099999999999992,0.0476,0.0667
-2024-06-11 15:13:14.616276,NCAA DI Men - 2025 NCAA DI Men's Basketball Tournament - National Champion,North Carolina,-0.019099999999999992,0.0476,0.0667
 2024-06-11 15:13:10.766908,MLS - USA MLS 2024 - Futures - Winner,New York Red Bulls,-0.019099999999999992,0.0476,0.0667
+2024-06-11 15:13:14.616276,NCAA DI Men - 2025 NCAA DI Men's Basketball Tournament - National Champion,North Carolina,-0.019099999999999992,0.0476,0.0667
 2024-06-11 15:13:10.789134,MLS - USA MLS 2024 - Futures - To Reach the Final,Portland Timbers,-0.019099999999999995,0.0244,0.0435
 2024-06-11 15:13:14.471303,WNBA Championship - WNBA Championship 2024 - Outright Winner,Los Angeles Sparks,-0.0194,0.005,0.0244
 2024-06-11 15:13:23.100258,NCAA Regular Season Wins - Big Ten Regular Season Wins - Purdue,Under 4.5 Wins,-0.019499999999999962,0.6296,0.6491
 2024-06-11 15:13:17.443895,AFC West - AFC West 2024/25 - AFC West Winner,Las Vegas Raiders,-0.01949999999999999,0.0714,0.0909
 2024-06-11 15:13:13.794925,Deadpool & Wolverine - Deadpool & Wolverine Opening Weekend - Opening Weekend,$160m or under,-0.01970000000000005,0.5455,0.5652
 2024-06-11 15:13:19.430682,San Francisco 49ers - 2024-25 Regular Season Wins O/U - Regular Season Wins - San Francisco 49ers O/U 11.5 Wins,Under 11.5 Wins,-0.01970000000000005,0.5455,0.5652
-2024-06-11 15:13:23.825043,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Penn State,-0.019800000000000005,0.0278,0.0476
 2024-06-11 15:13:25.149319,MLB Futures - MLB 2024 Player Awards - American League MVP,Corey Seager (TEX),-0.019800000000000005,0.0278,0.0476
 2024-06-11 15:13:25.277742,MLB Futures - MLB 2024 Player Awards - National League MVP,Freddie Freeman (LAD),-0.019800000000000005,0.0278,0.0476
+2024-06-11 15:13:23.825043,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Penn State,-0.019800000000000005,0.0278,0.0476
 2024-06-11 15:13:25.318829,MLB Futures - MLB 2024 Regular Season Leaders - Player To Hit The Most Home Runs,Austin Riley (ATL),-0.019899999999999998,0.0079,0.0278
 2024-06-11 16:58:04.063911,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Lexi Thompson,-0.020000000000000004,0.0123,0.0323
 2024-06-11 15:13:13.608408,Business Specials - Price Of Gold At Year End - Price Of Gold At Year end 2024,Over $2500,-0.02009999999999995,0.274,0.2941
@@ -510,16 +515,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:24.484423,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Josh Allen (JAX),-0.0203,0.0385,0.0588
 2024-06-11 15:13:25.192238,MLB Futures - MLB 2024 Player Awards - American League ROY,Parker Meadows (DET),-0.020399999999999998,0.0074,0.0278
 2024-06-11 15:13:14.471303,WNBA Championship - WNBA Championship 2024 - Outright Winner,Phoenix Mercury,-0.0206,0.0179,0.0385
-2024-06-11 15:13:23.744216,NCAA Regular Season Wins - SEC Regular Season Wins - Texas,Over 10.5 Wins,-0.020699999999999996,0.4444,0.4651
 2024-06-11 15:13:18.737727,Los Angeles Chargers - 2024-25 Regular Season Wins O/U - Regular Season Wins - Los Angeles Chargers O/U 8.5 Wins,Under 8.5 Wins,-0.020699999999999996,0.4444,0.4651
-2024-06-11 15:13:23.700370,NCAA Regular Season Wins - SEC Regular Season Wins - South Carolina,Over 5.5 Wins,-0.02079999999999993,0.5348,0.5556
+2024-06-11 15:13:23.744216,NCAA Regular Season Wins - SEC Regular Season Wins - Texas,Over 10.5 Wins,-0.020699999999999996,0.4444,0.4651
 2024-06-11 15:13:23.384889,NCAA Regular Season Wins - ACC Regular Season Wins - Virginia,Over 4.5 Wins,-0.02079999999999993,0.5348,0.5556
+2024-06-11 15:13:23.700370,NCAA Regular Season Wins - SEC Regular Season Wins - South Carolina,Over 5.5 Wins,-0.02079999999999993,0.5348,0.5556
 2024-06-11 15:13:24.332519,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Texas A&M To Make the 2024-2025 College Football Playoff,Yes,-0.020799999999999985,0.3125,0.3333
 2024-06-11 15:13:25.318829,MLB Futures - MLB 2024 Regular Season Leaders - Player To Hit The Most Home Runs,Mookie Betts (LAD),-0.021199999999999997,0.0066,0.0278
 2024-06-11 15:13:23.857577,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,SMU,-0.0213,0.0556,0.0769
 2024-06-11 15:13:25.149319,MLB Futures - MLB 2024 Player Awards - American League MVP,Julio Rodriguez (SEA),-0.021300000000000003,0.0132,0.0345
 2024-06-11 15:13:13.806273,Deadpool & Wolverine - Deadpool & Wolverine Worldwide Gross After Six Months - Worldwide Gross,$960m or under,-0.02169999999999994,0.5238,0.5455
 2024-06-11 15:13:23.325695,NCAA Regular Season Wins - ACC Regular Season Wins - NC State,Under 8.5 Wins,-0.02169999999999994,0.5238,0.5455
+2024-06-11 20:58:17.483000,Positions - Finishing Position - Shane Lowry - Shane Lowry,41st or better,-0.02169999999999994,0.5238,0.5455
 2024-06-11 15:13:18.183500,Denver Broncos - 2024-25 Regular Season Wins O/U - Regular Season Wins - Denver Broncos O/U 5.5 Wins,Under 5.5 Wins,-0.021699999999999997,0.4545,0.4762
 2024-06-11 15:13:19.146158,New York Giants - 2024-25 Regular Season Wins O/U - Regular Season Wins - New York Giants O/U 6.5 Wins,Over 6.5 Wins,-0.021699999999999997,0.4545,0.4762
 2024-06-11 15:13:25.121007,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Reid Detmers (LAA),-0.022099999999999998,0.0164,0.0385
@@ -528,26 +534,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:15.213381,Republicans - US Presidential Election 2024 - Donald Trump Popular Vote - Donald Trump Popular Vote,To be Republican Nominee and win 45.01 to 50% of the popular vote,-0.022199999999999998,0.7778,0.8
 2024-06-11 15:13:15.643861,US Senate Elections 2024 - Next Senate Republican Leader After Mitch McConnell - Next Senate Republican Leader,John Cornyn,-0.022199999999999998,0.2,0.2222
 2024-06-11 15:13:17.466434,NFC East - NFC East 2024/25 - NFC East Winner,Washington Commanders,-0.02239999999999999,0.0952,0.1176
-2024-06-11 15:13:25.133891,MLB Futures - MLB 2024 Player Awards - American League Manager of the Year,Pedro Grifol,-0.022400000000000003,0.0099,0.0323
 2024-06-11 15:13:14.484704,WNBA Awards - WNBA Regular Season MVP 2024 - WNBA Regular Season MVP 2024,Kelsey Plum (LVA),-0.022400000000000003,0.0099,0.0323
-2024-06-11 15:13:25.304274,MLB Futures - MLB 2024 Player Awards - National League ROY,Kyle Harrison (SF),-0.022400000000000003,0.0099,0.0323
 2024-06-11 15:13:25.291198,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Yuki Matsui (L),-0.022400000000000003,0.0099,0.0323
-2024-06-11 15:13:25.304274,MLB Futures - MLB 2024 Player Awards - National League ROY,James Wood,-0.022400000000000003,0.0099,0.0323
 2024-06-11 15:13:25.304274,MLB Futures - MLB 2024 Player Awards - National League ROY,Pete Crow-Armstrong (CHC),-0.022400000000000003,0.0099,0.0323
+2024-06-11 15:13:25.304274,MLB Futures - MLB 2024 Player Awards - National League ROY,James Wood,-0.022400000000000003,0.0099,0.0323
+2024-06-11 15:13:25.133891,MLB Futures - MLB 2024 Player Awards - American League Manager of the Year,Pedro Grifol,-0.022400000000000003,0.0099,0.0323
+2024-06-11 15:13:25.304274,MLB Futures - MLB 2024 Player Awards - National League ROY,Kyle Harrison (SF),-0.022400000000000003,0.0099,0.0323
 2024-06-11 15:13:22.953383,NCAA Regular Season Wins - Big Ten Regular Season Wins - Michigan,Over 9.5 Wins,-0.02260000000000001,0.3774,0.4
-2024-06-11 15:13:19.709904,Washington Commanders - 2024-25 Regular Season Wins O/U - Regular Season Wins - Washington Commanders O/U 6.5 Wins,Under 6.5 Wins,-0.022600000000000064,0.5122,0.5348
-2024-06-11 15:13:22.904756,NCAA Regular Season Wins - Big Ten Regular Season Wins - Indiana,Under 5.5 Wins,-0.022600000000000064,0.6,0.6226
 2024-06-11 15:13:23.520307,NCAA Regular Season Wins - SEC Regular Season Wins - Auburn,Under 7.5 Wins,-0.022600000000000064,0.6,0.6226
+2024-06-11 15:13:22.904756,NCAA Regular Season Wins - Big Ten Regular Season Wins - Indiana,Under 5.5 Wins,-0.022600000000000064,0.6,0.6226
+2024-06-11 15:13:19.709904,Washington Commanders - 2024-25 Regular Season Wins O/U - Regular Season Wins - Washington Commanders O/U 6.5 Wins,Under 6.5 Wins,-0.022600000000000064,0.5122,0.5348
 2024-06-11 15:13:23.162912,NCAA Regular Season Wins - ACC Regular Season Wins - Syracuse ,Under 7.5 Wins,-0.022600000000000064,0.6,0.6226
 2024-06-11 15:13:18.341885,Green Bay Packers - 2024-25 Regular Season Wins O/U - Regular Season Wins - Green Bay Packers O/U 9.5 Wins,Under 9.5 Wins,-0.022699999999999998,0.4651,0.4878
-2024-06-11 15:13:10.930476,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Lillestrøm SK,-0.0228,0.0066,0.0294
 2024-06-11 15:13:10.807057,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Sporting Kansas City,-0.0228,0.0066,0.0294
+2024-06-11 15:13:10.930476,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Lillestrøm SK,-0.0228,0.0066,0.0294
 2024-06-11 15:13:17.466434,NFC East - NFC East 2024/25 - NFC East Winner,New York Giants,-0.02310000000000001,0.0769,0.1
 2024-06-11 15:13:10.789134,MLS - USA MLS 2024 - Futures - To Reach the Final,Saint Louis City SC,-0.0232,0.0435,0.0667
-2024-06-11 15:13:23.825043,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Clemson,-0.023200000000000002,0.0244,0.0476
-2024-06-11 15:13:24.959616,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Detroit Tigers,-0.023200000000000002,0.0244,0.0476
-2024-06-11 15:13:28.599632,Futures - The Open Championship 2024 - Winner,Cameron Young,-0.023200000000000002,0.0244,0.0476
 2024-06-11 15:13:10.798176,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,Toronto FC,-0.023200000000000002,0.0244,0.0476
+2024-06-11 15:13:23.825043,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Clemson,-0.023200000000000002,0.0244,0.0476
+2024-06-11 15:13:28.599632,Futures - The Open Championship 2024 - Winner,Cameron Young,-0.023200000000000002,0.0244,0.0476
+2024-06-11 15:13:24.959616,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Detroit Tigers,-0.023200000000000002,0.0244,0.0476
 2024-06-11 15:13:25.149319,MLB Futures - MLB 2024 Player Awards - American League MVP,Adley Rutschman (BAL),-0.0233,0.0152,0.0385
 2024-06-11 15:13:25.121007,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Kevin Gausman (TOR),-0.0233,0.0152,0.0385
 2024-06-11 15:13:10.789134,MLS - USA MLS 2024 - Futures - To Reach the Final,Sporting Kansas City,-0.0236,0.0149,0.0385
@@ -555,8 +561,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:17.776678,Buffalo Bills - 2024-25 Regular Season Wins O/U - Regular Season Wins - Buffalo Bills O/U 10.5 Wins,Over 10.5 Wins,-0.023799999999999988,0.4762,0.5
 2024-06-11 15:13:25.080638,MLB Futures - MLB 2024 National League East - National League East Winner,New York Mets,-0.023799999999999998,0.004,0.0278
 2024-06-11 15:13:18.539600,Jacksonville Jaguars - 2024-25 Regular Season Wins O/U - Regular Season Wins - Jacksonville Jaguars O/U 8.5 Wins,Under 8.5 Wins,-0.023800000000000043,0.5,0.5238
-2024-06-11 15:13:14.074304,Spotify - 2024 Spotify Top Global Artist - 2024 Top Global Artist,Dua Lipa,-0.024,0.0385,0.0625
 2024-06-11 15:13:14.074304,Spotify - 2024 Spotify Top Global Artist - 2024 Top Global Artist,Drake,-0.024,0.0385,0.0625
+2024-06-11 15:13:14.074304,Spotify - 2024 Spotify Top Global Artist - 2024 Top Global Artist,Dua Lipa,-0.024,0.0385,0.0625
 2024-06-11 15:13:24.524992,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),J.J. McCarthy,-0.0242,0.0667,0.0909
 2024-06-11 15:13:24.983910,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Chicago Cubs,-0.024299999999999995,0.0526,0.0769
 2024-06-11 15:13:28.599632,Futures - The Open Championship 2024 - Winner,Viktor Hovland,-0.0245,0.0588,0.0833
@@ -568,8 +574,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:25.170366,MLB Futures - MLB 2024 Player Awards - American League Reliever of the Year,Yennier Cano (BAL),-0.0257,0.0066,0.0323
 2024-06-11 15:13:24.936080,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Chicago Cubs,-0.025900000000000003,0.0217,0.0476
 2024-06-11 16:58:04.063911,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Ariya Jutanugarn,-0.025900000000000003,0.0217,0.0476
-2024-06-11 15:13:15.054310,To Make the Playoffs - Los Angeles Sparks- To Make the 2024 WNBA Playoffs - Los Angeles Sparks- To Make the 2024 WNBA Playoffs,Yes,-0.02729999999999999,0.2,0.2273
 2024-06-11 15:13:17.401890,AFC East - AFC East 2024/25 - AFC East Winner,Miami Dolphins,-0.02729999999999999,0.3175,0.3448
+2024-06-11 15:13:15.054310,To Make the Playoffs - Los Angeles Sparks- To Make the 2024 WNBA Playoffs - Los Angeles Sparks- To Make the 2024 WNBA Playoffs,Yes,-0.02729999999999999,0.2,0.2273
 2024-06-11 15:13:25.277742,MLB Futures - MLB 2024 Player Awards - National League MVP,Pete Alonso (NYM),-0.0275,0.011,0.0385
 2024-06-11 15:13:25.170366,MLB Futures - MLB 2024 Player Awards - American League Reliever of the Year,Carlos Estevez (LAA),-0.0279,0.0066,0.0345
 2024-06-11 15:13:24.006726,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Arizona To Make the 2024-2025 College Football Playoff,Yes,-0.027999999999999997,0.1538,0.1818
@@ -579,17 +585,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:10.798176,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,Atlanta United,-0.0286,0.0099,0.0385
 2024-06-11 15:13:17.415503,AFC North - AFC North 2024/25 - AFC North Winner,Baltimore Ravens,-0.029000000000000026,0.4255,0.4545
 2024-06-11 15:13:25.256338,MLB Futures - MLB 2024 Player Awards - National League Manager of the Year,Mike Shildt,-0.029299999999999993,0.0476,0.0769
-2024-06-11 15:13:10.961934,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Örebro SK,-0.0294,0.0294,0.0588
 2024-06-11 15:13:14.616276,NCAA DI Men - 2025 NCAA DI Men's Basketball Tournament - National Champion,Kentucky,-0.0294,0.0294,0.0588
+2024-06-11 15:13:10.961934,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Örebro SK,-0.0294,0.0294,0.0588
 2024-06-11 15:13:10.766908,MLS - USA MLS 2024 - Futures - Winner,Philadelphia Union,-0.0294,0.0294,0.0588
 2024-06-11 15:13:23.019228,NCAA Regular Season Wins - Big Ten Regular Season Wins - Northwestern,Over 5.5 Wins,-0.029600000000000015,0.3704,0.4
 2024-06-11 15:13:22.663211,NCAA Regular Season Wins - Big 12 Regular Season Wins - Arizona State,Over 4.5 Wins,-0.030299999999999994,0.4348,0.4651
+2024-06-11 20:58:17.559879,Positions - Finishing Position - Viktor Hovland - Viktor Hovland,18th or better,-0.030399999999999983,0.5348,0.5652
 2024-06-11 15:13:19.283908,Philadelphia Eagles - 2024-25 Regular Season Wins O/U - Regular Season Wins - Philadelphia Eagles O/U 10.5 Wins,Under 10.5 Wins,-0.030399999999999983,0.5348,0.5652
 2024-06-11 15:13:23.126196,NCAA Regular Season Wins - Big Ten Regular Season Wins - USC,Over 7.5 Wins,-0.030399999999999983,0.5348,0.5652
 2024-06-11 15:13:25.234991,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Logan Webb (SF),-0.030699999999999998,0.0526,0.0833
+2024-06-11 15:13:10.789134,MLS - USA MLS 2024 - Futures - To Reach the Final,Atlanta United,-0.030699999999999998,0.0526,0.0833
 2024-06-11 15:13:25.234991,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Dylan Cease (SD),-0.030699999999999998,0.0526,0.0833
 2024-06-11 15:13:24.936080,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Houston Astros,-0.030699999999999998,0.0526,0.0833
-2024-06-11 15:13:10.789134,MLS - USA MLS 2024 - Futures - To Reach the Final,Atlanta United,-0.030699999999999998,0.0526,0.0833
 2024-06-11 15:13:14.630215,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,South Carolina (W),-0.030799999999999994,0.3774,0.4082
 2024-06-11 18:58:09.433427,Boxing Lines - Amanda Serrano vs Katie Taylor - To Win the Bout,Katie Taylor,-0.03090000000000004,0.5917,0.6226
 2024-06-11 15:13:25.170366,MLB Futures - MLB 2024 Player Awards - American League Reliever of the Year,Kenley Jansen (BOS),-0.0312,0.0123,0.0435
@@ -597,22 +604,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:25.170366,MLB Futures - MLB 2024 Player Awards - American League Reliever of the Year,James McArthur,-0.0319,0.0066,0.0385
 2024-06-11 15:13:10.961934,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,GIF Sundsvall,-0.0319,0.0066,0.0385
 2024-06-11 15:13:23.825043,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Michigan,-0.0321,0.0588,0.0909
-2024-06-11 15:13:10.778341,MLS - USA MLS 2024 - Futures - Golden Boot Award,Dejan Joveljic,-0.03219999999999999,0.0345,0.0667
 2024-06-11 15:13:25.121007,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Logan Gilbert (SEA),-0.03219999999999999,0.0345,0.0667
+2024-06-11 15:13:10.778341,MLS - USA MLS 2024 - Futures - Golden Boot Award,Dejan Joveljic,-0.03219999999999999,0.0345,0.0667
 2024-06-11 15:13:14.484704,WNBA Awards - WNBA Regular Season MVP 2024 - WNBA Regular Season MVP 2024,Jewell Loyd (SEA),-0.032400000000000005,0.0152,0.0476
 2024-06-11 15:13:19.499974,Seattle Seahawks - 2024-25 Regular Season Wins O/U - Regular Season Wins - Seattle Seahawks O/U 7.5 Wins,Under 7.5 Wins,-0.033299999999999996,0.4545,0.4878
 2024-06-11 15:13:14.484704,WNBA Awards - WNBA Regular Season MVP 2024 - WNBA Regular Season MVP 2024,Sabrina Ionescu (NYL),-0.0335,0.0141,0.0476
-2024-06-11 15:13:13.620052,Business Specials - Price Of Oil At Year End - Price of Oil at Year end 2024,$60.01 to $70,-0.034100000000000005,0.0909,0.125
 2024-06-11 15:13:10.869755,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Athletico Paranaense,-0.034100000000000005,0.0909,0.125
+2024-06-11 15:13:13.620052,Business Specials - Price Of Oil At Year End - Price of Oil at Year end 2024,$60.01 to $70,-0.034100000000000005,0.0909,0.125
 2024-06-11 15:13:25.234991,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Zac Gallen (ARIZ),-0.03439999999999999,0.0323,0.0667
-2024-06-11 15:13:25.256338,MLB Futures - MLB 2024 Player Awards - National League Manager of the Year,Torey Lovullo,-0.03439999999999999,0.0323,0.0667
 2024-06-11 15:13:24.936080,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Texas Rangers,-0.03439999999999999,0.0323,0.0667
-2024-06-11 15:13:25.149319,MLB Futures - MLB 2024 Player Awards - American League MVP,Yordan Alvarez (HOU),-0.0344,0.0132,0.0476
+2024-06-11 15:13:25.256338,MLB Futures - MLB 2024 Player Awards - National League Manager of the Year,Torey Lovullo,-0.03439999999999999,0.0323,0.0667
 2024-06-11 15:13:10.961934,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,IK Oddevold,-0.0344,0.0244,0.0588
+2024-06-11 15:13:25.149319,MLB Futures - MLB 2024 Player Awards - American League MVP,Yordan Alvarez (HOU),-0.0344,0.0132,0.0476
 2024-06-11 15:13:25.149319,MLB Futures - MLB 2024 Player Awards - American League MVP,Jose Altuve (HOU),-0.0344,0.0132,0.0476
-2024-06-11 15:13:23.137663,NCAA Regular Season Wins - Big Ten Regular Season Wins - Washington,Under 7.5 Wins,-0.03479999999999994,0.5652,0.6
 2024-06-11 15:13:18.893537,Miami Dolphins - 2024-25 Regular Season Wins O/U - Regular Season Wins - Miami Dolphins O/U 9.5 Wins,Over 9.5 Wins,-0.03479999999999994,0.5652,0.6
 2024-06-11 15:13:23.570697,NCAA Regular Season Wins - SEC Regular Season Wins - Kentucky,Under 6.5 Wins,-0.03479999999999994,0.5652,0.6
+2024-06-11 15:13:23.137663,NCAA Regular Season Wins - Big Ten Regular Season Wins - Washington,Under 7.5 Wins,-0.03479999999999994,0.5652,0.6
 2024-06-11 15:13:18.122513,Dallas Cowboys - 2024-25 Regular Season Wins O/U - Regular Season Wins - Dallas Cowboys O/U 10.5 Wins,Over 10.5 Wins,-0.03489999999999999,0.4651,0.5
 2024-06-11 15:13:10.961934,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Varbergs BoIS,-0.035300000000000005,0.0123,0.0476
 2024-06-11 15:13:24.511424,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Terrion Arnold,-0.035699999999999996,0.0476,0.0833
@@ -630,8 +637,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:25.192238,MLB Futures - MLB 2024 Player Awards - American League ROY,Colt Keith (DET),-0.039400000000000004,0.0132,0.0526
 2024-06-11 15:13:25.277742,MLB Futures - MLB 2024 Player Awards - National League MVP,Matt Olson (ATL),-0.0409,0.0179,0.0588
 2024-06-11 15:13:10.940469,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,AIK,-0.041,0.0066,0.0476
-2024-06-11 15:13:25.318829,MLB Futures - MLB 2024 Regular Season Leaders - Player To Hit The Most Home Runs,Vladimir Guerrero Jr. (TOR),-0.041,0.0066,0.0476
 2024-06-11 15:13:25.170366,MLB Futures - MLB 2024 Player Awards - American League Reliever of the Year,Jose Leclerc (R),-0.041,0.0066,0.0476
+2024-06-11 15:13:25.318829,MLB Futures - MLB 2024 Regular Season Leaders - Player To Hit The Most Home Runs,Vladimir Guerrero Jr. (TOR),-0.041,0.0066,0.0476
 2024-06-11 15:13:14.630215,NCAA DI Women - 2025 NCAA DI Womens Basketball Tournament - National Champion,LSU (W),-0.04120000000000001,0.0588,0.1
 2024-06-11 15:13:17.947059,Chicago Bears - 2024-25 Regular Season Wins O/U - Regular Season Wins - Chicago Bears O/U 8.5 Wins,Under 8.5 Wins,-0.04139999999999999,0.4348,0.4762
 2024-06-11 15:13:15.187316,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,JD Vance,-0.04169999999999999,0.125,0.1667
@@ -650,9 +657,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:10.807057,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Vancouver Whitecaps,-0.04440000000000001,0.0667,0.1111
 2024-06-11 15:13:25.277742,MLB Futures - MLB 2024 Player Awards - National League MVP,Elly De La Cruz (CIN),-0.044599999999999994,0.0323,0.0769
 2024-06-11 15:13:23.254213,NCAA Regular Season Wins - ACC Regular Season Wins - Florida State,Under 9.5 Wins,-0.04620000000000002,0.5455,0.5917
-2024-06-11 15:13:23.429695,NCAA Regular Season Wins - ACC Regular Season Wins - Wake Forest,Under 4.5 Wins,-0.047099999999999975,0.4651,0.5122
-2024-06-11 15:13:15.434959,Donald Trump Specials - Georgia Election Interference: Will Donald Trump be found guilty of one or more of the 2020 presidential election Georgia result charges? - Georgia Result State Trial,Yes,-0.047099999999999975,0.4651,0.5122
 2024-06-11 15:13:15.147225,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,-0.047099999999999975,0.4651,0.5122
+2024-06-11 15:13:15.434959,Donald Trump Specials - Georgia Election Interference: Will Donald Trump be found guilty of one or more of the 2020 presidential election Georgia result charges? - Georgia Result State Trial,Yes,-0.047099999999999975,0.4651,0.5122
+2024-06-11 15:13:23.429695,NCAA Regular Season Wins - ACC Regular Season Wins - Wake Forest,Under 4.5 Wins,-0.047099999999999975,0.4651,0.5122
 2024-06-11 15:13:25.121007,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Pablo Lopez (MIN),-0.047099999999999996,0.0196,0.0667
 2024-06-11 15:13:10.789134,MLS - USA MLS 2024 - Futures - To Reach the Final,Inter Miami,-0.04760000000000003,0.4762,0.5238
 2024-06-11 15:13:23.215135,NCAA Regular Season Wins - ACC Regular Season Wins - Clemson,Over 9.5 Wins,-0.0484,0.4167,0.4651
@@ -668,20 +675,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:15.227988,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.052000000000000046,0.8571,0.9091
 2024-06-11 15:13:15.240782,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,Joe Biden,-0.052000000000000046,0.8571,0.9091
 2024-06-11 15:13:25.192238,MLB Futures - MLB 2024 Player Awards - American League ROY,Heston Kjerstad (BAL),-0.052199999999999996,0.0066,0.0588
-2024-06-11 15:13:25.234991,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Freddy Peralta (MIL),-0.052399999999999995,0.0385,0.0909
-2024-06-11 15:13:25.318829,MLB Futures - MLB 2024 Regular Season Leaders - Player To Hit The Most Home Runs,Yordan Alvarez (HOU),-0.052399999999999995,0.0385,0.0909
 2024-06-11 15:13:10.961934,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Helsingborgs IF,-0.052399999999999995,0.0385,0.0909
-2024-06-11 15:13:10.869755,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Racing Club,-0.0524,0.0476,0.1
+2024-06-11 15:13:25.318829,MLB Futures - MLB 2024 Regular Season Leaders - Player To Hit The Most Home Runs,Yordan Alvarez (HOU),-0.052399999999999995,0.0385,0.0909
+2024-06-11 15:13:25.234991,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Freddy Peralta (MIL),-0.052399999999999995,0.0385,0.0909
 2024-06-11 15:13:25.256338,MLB Futures - MLB 2024 Player Awards - National League Manager of the Year,Derek Shelton,-0.0524,0.0476,0.1
+2024-06-11 15:13:10.869755,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Racing Club,-0.0524,0.0476,0.1
 2024-06-11 15:13:25.256338,MLB Futures - MLB 2024 Player Awards - National League Manager of the Year,Skip Schumaker,-0.0526,0.0099,0.0625
 2024-06-11 15:13:25.133891,MLB Futures - MLB 2024 Player Awards - American League Manager of the Year,Scott Servais,-0.052700000000000004,0.0526,0.1053
-2024-06-11 15:13:25.906371,Bare Knuckle Fighting Championship - Ryan Garcia vs Conor McGregor - To Win the Bout,Ryan Garcia,-0.05300000000000005,0.697,0.75
 2024-06-11 15:13:23.676236,NCAA Regular Season Wins - SEC Regular Season Wins - Oklahoma ,Under 7.5 Wins,-0.05300000000000005,0.5122,0.5652
 2024-06-11 15:13:15.410094,Donald Trump Specials - Classified Docs: Will Donald Trump be found guilty of one or more of the classified documents federal charges? - Classified Documents Federal Trial,Yes,-0.05300000000000005,0.5122,0.5652
+2024-06-11 15:13:25.906371,Bare Knuckle Fighting Championship - Ryan Garcia vs Conor McGregor - To Win the Bout,Ryan Garcia,-0.05300000000000005,0.697,0.75
+2024-06-11 15:13:23.786466,NCAA Regular Season Wins - SEC Regular Season Wins - Vanderbilt ,Under 2.5 Wins,-0.05449999999999999,0.4,0.4545
+2024-06-11 15:13:13.852548,Deadpool & Wolverine - Rotten Tomatoes Audience Score On August 23rd 2024 - Deadpool & Wolverine,84% or under,-0.05449999999999999,0.4,0.4545
 2024-06-11 15:13:23.059799,NCAA Regular Season Wins - Big Ten Regular Season Wins - Oregon,Under 10.5 Wins,-0.05449999999999999,0.5455,0.6
 2024-06-11 15:13:15.128281,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,-0.05449999999999999,0.4,0.4545
-2024-06-11 15:13:13.852548,Deadpool & Wolverine - Rotten Tomatoes Audience Score On August 23rd 2024 - Deadpool & Wolverine,84% or under,-0.05449999999999999,0.4,0.4545
-2024-06-11 15:13:23.786466,NCAA Regular Season Wins - SEC Regular Season Wins - Vanderbilt ,Under 2.5 Wins,-0.05449999999999999,0.4,0.4545
 2024-06-11 15:13:25.376724,Elite Boxing - Jake Paul vs Mike Tyson - To Win the Bout,Mike Tyson,-0.054800000000000015,0.3226,0.3774
 2024-06-11 15:13:25.133891,MLB Futures - MLB 2024 Player Awards - American League Manager of the Year,Bruce Bochy,-0.0552,0.0217,0.0769
 2024-06-11 15:13:22.929438,NCAA Regular Season Wins - Big Ten Regular Season Wins - Iowa,Over 7.5 Wins,-0.05520000000000003,0.5744,0.6296
@@ -689,8 +696,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:23.114742,NCAA Regular Season Wins - Big Ten Regular Season Wins - UCLA ,Over 5.5 Wins,-0.05689999999999995,0.5348,0.5917
 2024-06-11 15:13:24.088921,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Florida State To Make the 2024-2025 College Football Playoff,Yes,-0.056900000000000006,0.4082,0.4651
 2024-06-11 15:13:15.348363,Donald Trump Specials - Prison Match Bet: To Serve Time First - Prison Match Bet: To Serve Time First,Hillary Clinton,-0.05710000000000001,0.1429,0.2
-2024-06-11 15:13:22.759759,NCAA Regular Season Wins - Big 12 Regular Season Wins - Kansas,Over 8.5 Wins,-0.057699999999999974,0.4545,0.5122
 2024-06-11 15:13:23.591328,NCAA Regular Season Wins - SEC Regular Season Wins - LSU,Over 9.5 Wins,-0.057699999999999974,0.4878,0.5455
+2024-06-11 15:13:22.759759,NCAA Regular Season Wins - Big 12 Regular Season Wins - Kansas,Over 8.5 Wins,-0.057699999999999974,0.4545,0.5122
 2024-06-11 15:13:25.256338,MLB Futures - MLB 2024 Player Awards - National League Manager of the Year,Dave Roberts,-0.0577,0.0476,0.1053
 2024-06-11 15:13:24.296464,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Oregon To Make the 2024-2025 College Football Playoff,No,-0.05890000000000001,0.3333,0.3922
 2024-06-11 15:13:17.466434,NFC East - NFC East 2024/25 - NFC East Winner,Dallas Cowboys,-0.05980000000000002,0.3846,0.4444
@@ -712,12 +719,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:19.254291,New York Jets - 2024-25 Regular Season Wins O/U - Regular Season Wins - New York Jets O/U 9.5 Wins,Under 9.5 Wins,-0.06779999999999997,0.4444,0.5122
 2024-06-11 15:13:24.050908,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Clemson To Make the 2024-2025 College Football Playoff,Yes,-0.06840000000000002,0.3571,0.4255
 2024-06-11 15:13:13.864912,Deadpool & Wolverine - To Make A Credited Appearance In Deadpool & Wolverine - To Make A Credited Appearance,Chris Evans,-0.06929999999999997,0.4762,0.5455
-2024-06-11 15:13:24.136178,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - LSU To Make the 2024-2025 College Football Playoff,Yes,-0.06930000000000003,0.4545,0.5238
 2024-06-11 15:13:22.712214,NCAA Regular Season Wins - Big 12 Regular Season Wins - Cincinnati,Over 5.5 Wins,-0.06930000000000003,0.4545,0.5238
+2024-06-11 15:13:24.136178,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - LSU To Make the 2024-2025 College Football Playoff,Yes,-0.06930000000000003,0.4545,0.5238
 2024-06-11 15:13:24.147900,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Miami FL To Make the 2024-2025 College Football Playoff,No,-0.0695,0.7222,0.7917
 2024-06-11 15:13:22.835970,NCAA Regular Season Wins - Big 12 Regular Season Wins - Texas Tech,Under 7.5 Wins,-0.06970000000000004,0.4651,0.5348
-2024-06-11 15:13:25.256338,MLB Futures - MLB 2024 Player Awards - National League Manager of the Year,Oliver Marmol,-0.06999999999999999,0.0476,0.1176
 2024-06-11 15:13:25.291198,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Evan Phillips (LAD),-0.06999999999999999,0.0476,0.1176
+2024-06-11 15:13:25.256338,MLB Futures - MLB 2024 Player Awards - National League Manager of the Year,Oliver Marmol,-0.06999999999999999,0.0476,0.1176
 2024-06-11 15:13:25.133891,MLB Futures - MLB 2024 Player Awards - American League Manager of the Year,John Schneider,-0.0701,0.0132,0.0833
 2024-06-11 15:13:25.170366,MLB Futures - MLB 2024 Player Awards - American League Reliever of the Year,Peter Fairbanks,-0.0703,0.0066,0.0769
 2024-06-11 15:13:25.291198,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Alexis Diaz (CIN),-0.0713,0.0196,0.0909
@@ -733,8 +740,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-11 15:13:25.291198,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Adbert Alzolay (CHC),-0.08099999999999999,0.0099,0.0909
 2024-06-11 15:13:25.133891,MLB Futures - MLB 2024 Player Awards - American League Manager of the Year,Kevin Cash,-0.08360000000000001,0.0217,0.1053
 2024-06-11 15:13:25.234991,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Tyler Glasnow (LAD),-0.08549999999999999,0.125,0.2105
-2024-06-11 15:13:25.318829,MLB Futures - MLB 2024 Regular Season Leaders - Player To Hit The Most Home Runs,Pete Alonso (NYM),-0.0865,0.0385,0.125
 2024-06-11 15:13:25.192238,MLB Futures - MLB 2024 Player Awards - American League ROY,Wenceel Perez (DET),-0.0865,0.0385,0.125
+2024-06-11 15:13:25.318829,MLB Futures - MLB 2024 Regular Season Leaders - Player To Hit The Most Home Runs,Pete Alonso (NYM),-0.0865,0.0385,0.125
 2024-06-11 15:13:23.274722,NCAA Regular Season Wins - ACC Regular Season Wins - Georgia Tech ,Over 5.5 Wins,-0.0867,0.4255,0.5122
 2024-06-11 15:13:25.256338,MLB Futures - MLB 2024 Player Awards - National League Manager of the Year,Craig Counsell,-0.0871,0.0667,0.1538
 2024-06-11 15:13:15.075428,To Make the Playoffs - Phoenix Mercury- To Make the 2024 WNBA Playoffs - Phoenix Mercury- To Make the 2024 WNBA Playoffs,No,-0.09,0.2326,0.3226
