@@ -18,14 +18,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-14 21:01:14.788064,UEFA Euro 2024 Team Specials - Scotland Team Specials - Group Stage Points,1,0.0635,0.2857,0.2222
 2024-06-14 19:03:53.428891,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Nanna Koerstz Madsen,0.0605,0.0667,0.0062
 2024-06-15 01:01:22.438704,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Boca Juniors,0.05710000000000001,0.2,0.1429
+2024-06-15 07:02:44.527534,Round Scores - 3rd Round Score - Bryson DeChambeau - 3rd Round Score ,Under 71.5,0.05689999999999995,0.5917,0.5348
 2024-06-14 21:01:14.796335,UEFA Euro 2024 Team Specials - Scotland Team Specials - Top Team Goalscorer,No Goalscorer,0.056400000000000006,0.1333,0.0769
 2024-06-14 21:01:16.846963,Regular Season Wins O/U - Seattle Storm- 2024 Regular Season Wins - Seattle Storm- 2024 Regular Season Wins,Over 24.5,0.05590000000000006,0.6923,0.6364
 2024-06-14 21:01:14.761531,UEFA Euro 2024 Team Specials - Germany Team Specials - Top Team Goalscorer,Kai Havertz,0.055900000000000005,0.3636,0.3077
 2024-06-15 03:03:12.177277,Round Scores - 3rd Round Score - Wyndham Clark - 3rd Round Score ,Over 72.5,0.05449999999999999,0.6,0.5455
 2024-06-15 03:03:00.645213,UEFA Euro 2024 Futures - Euro 2024 - Group A - Top 2 in Exact Order,"Germany 1st , Switzerland 2nd",0.053100000000000036,0.4167,0.3636
 2024-06-15 01:01:25.717075,To Make the Playoffs - Los Angeles Sparks- To Make the 2024 WNBA Playoffs - Los Angeles Sparks- To Make the 2024 WNBA Playoffs,Yes,0.0524,0.2062,0.1538
-2024-06-15 03:03:11.092704,Main Markets - 3rd Round 2 Balls - A. Rai / N. Shipley - 3rd Round 2 Balls,Aaron Rai,0.051100000000000034,0.6875,0.6364
 2024-06-15 05:01:25.383945,Main Markets - 3rd Round 2 Balls - C. Kirk / J. Suber - 3rd Round 2 Balls,Chris Kirk,0.051100000000000034,0.6875,0.6364
+2024-06-15 03:03:11.092704,Main Markets - 3rd Round 2 Balls - A. Rai / N. Shipley - 3rd Round 2 Balls,Aaron Rai,0.051100000000000034,0.6875,0.6364
 2024-06-15 01:01:22.456420,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Landskrona BoIS,0.0504,0.2857,0.2353
 2024-06-15 05:01:25.825914,Round Match-Ups - 3rd Round Match-Ups - B. Harman vs S. Burns - 3rd Round Match-Ups,Sam Burns,0.04849999999999999,0.5833,0.5348
 2024-06-15 03:03:11.824160,Round Scores - 3rd Round Score - Aaron Rai - 3rd Round Score ,Under 72.5,0.04700000000000004,0.5348,0.4878
@@ -38,6 +39,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-15 03:03:11.967229,Round Scores - 3rd Round Score - Jordan Spieth - 3rd Round Score ,Under 72.5,0.04259999999999997,0.6078,0.5652
 2024-06-15 03:03:11.242260,Main Markets - 3rd Round 2 Balls - S. Straka / B. Harman - 3rd Round 2 Balls,Sepp Straka,0.04139999999999999,0.5652,0.5238
 2024-06-14 21:01:14.788064,UEFA Euro 2024 Team Specials - Scotland Team Specials - Group Stage Points,3,0.04099999999999998,0.3077,0.2667
+2024-06-15 07:02:44.645823,Round Scores - 3rd Round Score - Ludvig Aberg - 3rd Round Score,Under 71.5,0.03959999999999997,0.5744,0.5348
+2024-06-15 07:02:43.926657,Main Markets - 3rd Round 2 Balls - H. English / C. Bezuidenhout - 3rd Round 2 Balls,Christiaan Bezuidenhout,0.037800000000000056,0.5833,0.5455
 2024-06-14 23:01:24.493402,UEFA Euro 2024 Team Specials - Albania Team Specials - Group Stage Points,0,0.0378,0.4545,0.4167
 2024-06-15 05:01:26.623653,Round Scores - 3rd Round Score - Wyndham Clark - 3rd Round Score ,Over 72.5,0.03639999999999999,0.6364,0.6
 2024-06-15 05:01:25.785855,Round Match-Ups - 3rd Round Match-Ups - D. Thompson vs E. Grillo - 3rd Round Match-Ups,Davis Thompson,0.03610000000000002,0.5917,0.5556
@@ -45,43 +48,58 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-14 19:03:45.315822,NBA Championship - NBA Championship 2023-24 - NBA Champion,Dallas Mavericks,0.035699999999999996,0.0833,0.0476
 2024-06-15 05:01:25.145595,Main Markets - 3rd Round 2 Balls - B. Koepka / F. Molinari - 3rd Round 2 Balls,Brooks Koepka,0.035699999999999954,0.75,0.7143
 2024-06-14 21:01:14.753503,UEFA Euro 2024 Team Specials - Germany Team Specials - Group Stage Points,6,0.0353,0.2353,0.2
-2024-06-15 05:01:26.186721,Totals - 3rd Round Birdies - Tom Kim - 3rd Round Birdies,Under 2.5,0.03489999999999999,0.5,0.4651
+2024-06-15 07:02:45.002167,Round Match-Ups - 3rd Round Match-Ups - B. Harman vs S. Burns - 3rd Round Match-Ups,Brian Harman,0.03489999999999999,0.5,0.4651
 2024-06-15 05:01:26.200785,Totals - 3rd Round Birdies - Tommy Fleetwood - 3rd Round Birdies,Under 2.5,0.03489999999999999,0.5,0.4651
+2024-06-15 05:01:26.186721,Totals - 3rd Round Birdies - Tom Kim - 3rd Round Birdies,Under 2.5,0.03489999999999999,0.5,0.4651
 2024-06-15 03:03:00.636069,UEFA Euro 2024 Futures - Euro 2024 - Group A - Top 2 in Either Order,Germany & Switzerland,0.03489999999999999,0.5,0.4651
 2024-06-15 05:01:26.609702,Round Scores - 3rd Round Score - Tyrrell Hatton - 3rd Round Score,Under 72.5,0.03480000000000005,0.5348,0.5
+2024-06-15 07:02:44.501252,Round Scores - 3rd Round Score - Adam Scott - 3rd Round Score,Over 72.5,0.03480000000000005,0.5348,0.5
 2024-06-15 03:03:11.995491,Round Scores - 3rd Round Score - Ludvig Aberg - 3rd Round Score,Under 71.5,0.03480000000000005,0.5348,0.5
 2024-06-15 01:01:25.683499,To Make the Playoffs - Chicago Sky- To Make the 2024 WNBA Playoffs - Chicago Sky- To Make the 2024 WNBA Playoffs,Yes,0.0348,0.4348,0.4
 2024-06-15 03:03:12.038178,Round Scores - 3rd Round Score - Patrick Cantlay - 3rd Round Score,Under 72.5,0.03479999999999994,0.6,0.5652
 2024-06-15 01:01:22.438704,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Talleres,0.034100000000000005,0.125,0.0909
+2024-06-15 07:02:45.090094,Round Match-Ups - 3rd Round Match-Ups - M. Pavon vs T. Detry - 3rd Round Match-Ups,Thomas Detry,0.033399999999999985,0.6078,0.5744
 2024-06-15 03:03:00.394079,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - England Premier League,Kai Havertz,0.033300000000000024,0.2,0.1667
 2024-06-14 21:01:16.893236,To Make the Playoffs - Phoenix Mercury- To Make the 2024 WNBA Playoffs - Phoenix Mercury- To Make the 2024 WNBA Playoffs,Yes,0.033299999999999996,0.9,0.8667
 2024-06-15 05:01:25.692158,Round Match-Ups - 3rd Round Match-Ups - C. Morikawa vs C. Smith - 3rd Round Match-Ups,Collin Morikawa,0.03259999999999996,0.6552,0.6226
 2024-06-14 21:01:16.859911,To Make the Playoffs - Atlanta Dream- To Make the 2024 WNBA Playoffs - Atlanta Dream- To Make the 2024 WNBA Playoffs,No,0.031799999999999995,0.2985,0.2667
+2024-06-15 07:02:44.000998,Main Markets - 3rd Round 2 Balls - S. Straka / B. Harman - 3rd Round 2 Balls,Brian Harman,0.031799999999999995,0.4762,0.4444
+2024-06-15 07:02:44.712647,Round Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score ,Under 70.5,0.03090000000000004,0.6226,0.5917
+2024-06-15 07:02:44.833296,Round Scores - 3rd Round Score - Xander Schauffele - 3rd Round Score,Under 71.5,0.03090000000000004,0.6226,0.5917
 2024-06-14 21:01:16.813140,Regular Season Wins O/U - Las Vegas Aces- 2024 Regular Season Wins - Las Vegas Aces- 2024 Regular Season Wins,Over 27.5,0.030399999999999983,0.5652,0.5348
 2024-06-15 05:01:25.476130,Main Markets - 3rd Round 2 Balls - B. Horschel / Z. Blair - 3rd Round 2 Balls,Billy Horschel,0.030299999999999994,0.6667,0.6364
-2024-06-15 05:01:26.117801,Totals - 3rd Round Birdies - Rory McIlroy - 3rd Round Birdies,Over 2.5,0.030299999999999994,0.6667,0.6364
-2024-06-15 03:03:11.147208,Main Markets - 3rd Round 2 Balls - M. Kaymer / J. Spieth - 3rd Round 2 Balls,Jordan Spieth,0.030299999999999994,0.6667,0.6364
 2024-06-15 03:03:11.133748,Main Markets - 3rd Round 2 Balls - G. Broin / B. Campbell - 3rd Round 2 Balls,Brian Campbell,0.030299999999999994,0.6667,0.6364
+2024-06-15 03:03:11.147208,Main Markets - 3rd Round 2 Balls - M. Kaymer / J. Spieth - 3rd Round 2 Balls,Jordan Spieth,0.030299999999999994,0.6667,0.6364
+2024-06-15 05:01:26.117801,Totals - 3rd Round Birdies - Rory McIlroy - 3rd Round Birdies,Over 2.5,0.030299999999999994,0.6667,0.6364
+2024-06-15 07:02:44.204104,Totals - 3rd Round Birdies - Bryson DeChambeau - 3rd Round Birdies,Over 2.5,0.030299999999999994,0.6667,0.6364
+2024-06-15 07:02:44.050730,Main Markets - 3rd Round 2 Balls - R. Henley / S. Garcia - 3rd Round 2 Balls,Sergio Garcia,0.030299999999999994,0.4651,0.4348
+2024-06-15 07:02:44.659120,Round Scores - 3rd Round Score - Martin Kaymer - 3rd Round Score ,Over 73.5,0.02960000000000007,0.6296,0.6
+2024-06-15 07:02:44.765920,Round Scores - 3rd Round Score - Thomas Detry - 3rd Round Score,Over 72.5,0.02960000000000007,0.6296,0.6
 2024-06-15 03:03:10.969186,Main Markets - 3rd Round 2 Balls - R. Fox / S. Theegala - 3rd Round 2 Balls,Sahith Theegala,0.02859999999999996,0.6364,0.6078
 2024-06-15 03:03:00.428208,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Jamal Musiala,0.028199999999999996,0.0667,0.0385
-2024-06-14 21:01:14.746117,UEFA Euro 2024 Team Specials - Germany Team Specials - Stage Of Elimination,Winner,0.027999999999999997,0.1818,0.1538
 2024-06-14 21:01:14.761531,UEFA Euro 2024 Team Specials - Germany Team Specials - Top Team Goalscorer,Jamal Musiala,0.027999999999999997,0.1818,0.1538
 2024-06-14 21:01:14.761531,UEFA Euro 2024 Team Specials - Germany Team Specials - Top Team Goalscorer,Florian Wirtz,0.027999999999999997,0.1818,0.1538
+2024-06-14 21:01:14.746117,UEFA Euro 2024 Team Specials - Germany Team Specials - Stage Of Elimination,Winner,0.027999999999999997,0.1818,0.1538
 2024-06-15 03:03:11.024196,Main Markets - 3rd Round 2 Balls - C. Young / S. Scheffler - 3rd Round 2 Balls,Scottie Scheffler,0.02739999999999998,0.7333,0.7059
-2024-06-15 05:01:25.905837,Round Match-Ups - 3rd Round Match-Ups - R. McIIroy vs B. DeChambeau - 3rd Round Match-Ups,Rory McIlroy,0.026499999999999968,0.5917,0.5652
-2024-06-15 05:01:26.510435,Round Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score ,Under 70.5,0.026499999999999968,0.5917,0.5652
 2024-06-15 03:03:11.188040,Main Markets - 3rd Round 2 Balls - I. Salinda / D. Thompson - 3rd Round 2 Balls,Davis Thompson,0.026499999999999968,0.6491,0.6226
+2024-06-15 05:01:26.510435,Round Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score ,Under 70.5,0.026499999999999968,0.5917,0.5652
+2024-06-15 05:01:25.905837,Round Match-Ups - 3rd Round Match-Ups - R. McIIroy vs B. DeChambeau - 3rd Round Match-Ups,Rory McIlroy,0.026499999999999968,0.5917,0.5652
 2024-06-15 03:03:00.636069,UEFA Euro 2024 Futures - Euro 2024 - Group A - Top 2 in Either Order,Germany & Hungary,0.02560000000000001,0.3333,0.3077
 2024-06-15 01:01:25.602575,Regular Season Wins O/U - Los Angeles Sparks- 2024 Regular Season Wins - Los Angeles Sparks- 2024 Regular Season Wins,Over 11.5,0.025599999999999956,0.6,0.5744
+2024-06-15 07:02:44.886901,Round Match-Ups - 3rd Round Match-Ups - J. Spieth vs W. Clark - 3rd Round Match-Ups,Wyndham Clark,0.024399999999999977,0.5122,0.4878
 2024-06-14 19:03:53.428891,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Na Rin An,0.024299999999999995,0.0769,0.0526
+2024-06-15 07:02:44.672471,Round Scores - 3rd Round Score - Min Woo Lee - 3rd Round Score,Over 72.5,0.023799999999999988,0.5,0.4762
 2024-06-15 03:03:10.671442,Round Match-Ups - 3rd Round Match-Ups - X. Schauffele vs S. Scheffler - 3rd Round Match-Ups,Scottie Scheffler,0.022600000000000064,0.6226,0.6
 2024-06-14 19:03:45.363553,WNBA Awards - WNBA Regular Season MVP 2024 - WNBA Regular Season MVP 2024,A'ja Wilson (LVA),0.022199999999999998,0.6774,0.6552
 2024-06-15 03:03:11.065217,Main Markets - 3rd Round 2 Balls - C. Morikawa / K. Bradley - 3rd Round 2 Balls,Collin Morikawa,0.02180000000000004,0.6296,0.6078
 2024-06-15 03:03:12.191158,Round Scores - 3rd Round Score - Xander Schauffele - 3rd Round Score,Over 71.5,0.021699999999999997,0.4762,0.4545
-2024-06-15 01:01:23.878130,UEFA Euro 2024 Futures - Euro 2024 - Group B - Group Winner,Spain,0.02079999999999993,0.5556,0.5348
+2024-06-15 07:02:44.963424,Round Match-Ups - 3rd Round Match-Ups - D. Thompson vs E. Grillo - 3rd Round Match-Ups,Emiliano Grillo,0.021699999999999997,0.4762,0.4545
+2024-06-15 07:02:44.925543,Round Match-Ups - 3rd Round Match-Ups - M. Kaymer v M. Kuchar - 3rd Round Match-Ups ,Matt Kuchar,0.02169999999999994,0.5455,0.5238
 2024-06-14 21:01:16.768287,Regular Season Wins O/U - Atlanta Dream- 2024 Regular Season Wins - Atlanta Dream- 2024 Regular Season Wins,Under 17.5,0.02079999999999993,0.5556,0.5348
+2024-06-15 01:01:23.878130,UEFA Euro 2024 Futures - Euro 2024 - Group B - Group Winner,Spain,0.02079999999999993,0.5556,0.5348
 2024-06-15 05:01:25.437002,Main Markets - 3rd Round 2 Balls - F. Capan / T. Pendrith - 3rd Round 2 Balls,Taylor Pendrith,0.020299999999999985,0.6429,0.6226
 2024-06-15 01:01:33.087424,Boxing Lines - Subriel Matias vs Liam Paro - To Win the Bout,Liam Paro,0.01820000000000002,0.2,0.1818
+2024-06-15 07:02:44.699149,Round Scores - 3rd Round Score - Rory McIlroy - 3rd Round Score,Over 70.5,0.018100000000000005,0.5833,0.5652
 2024-06-15 05:01:24.587425,Boxing Lines - Shervantaigh Koopman vs Wendy Toussaint - To Win the Bout,Shervantaigh Koopman,0.017300000000000093,0.7143,0.697
 2024-06-15 01:01:27.263448,Starting QB Specials - 2024-25 Las Vegas Raiders Week 1 Starting QB - 2024-25 Las Vegas Raiders Week 1 Starting QB,Aidan O'Connell,0.017299999999999982,0.4255,0.4082
 2024-06-15 01:01:33.035657,Boxing Lines - Yankiel Rivera vs Victor Efrain Sandoval - To Win the Bout,Victor Efrain Sandoval,0.017299999999999982,0.303,0.2857
@@ -91,17 +109,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-14 21:01:16.791039,Regular Season Wins O/U - Dallas Wings- 2024 Regular Season Wins - Dallas Wings- 2024 Regular Season Wins,Under 17.5,0.015599999999999947,0.7299,0.7143
 2024-06-15 03:03:10.320093,Boxing Lines - Angel Fierro vs Alfredo Santiago Alvarez - To Win the Bout,Alfredo Santiago Alvarez,0.015400000000000025,0.2564,0.241
 2024-06-14 21:01:16.824446,Regular Season Wins O/U - New York Liberty- 2024 Regular Season Wins - New York Liberty- 2024 Regular Season Wins,Over 29.5,0.01539999999999997,0.6154,0.6
+2024-06-15 07:02:43.801582,Main Markets - 3rd Round 2 Balls - C. Young / S. Scheffler - 3rd Round 2 Balls,Cameron Young,0.014900000000000024,0.3226,0.3077
 2024-06-14 21:01:14.796335,UEFA Euro 2024 Team Specials - Scotland Team Specials - Top Team Goalscorer,Ryan Christie,0.013999999999999999,0.0909,0.0769
 2024-06-14 19:03:45.338599,WNBA Championship - WNBA Championship 2024 - Outright Winner,Minnesota Lynx,0.013899999999999996,0.1429,0.129
 2024-06-15 05:01:24.784670,Boxing Lines - Angel Fierro vs Alfredo Santiago Alvarez - To Win the Bout,Angel Fierro,0.0129999999999999,0.8261,0.8131
 2024-06-14 21:01:14.796335,UEFA Euro 2024 Team Specials - Scotland Team Specials - Top Team Goalscorer,Che Adams,0.012899999999999995,0.1667,0.1538
 2024-06-15 03:03:11.379081,Main Markets - 3rd Round 2 Balls - T. Finau / R. McIIroy - 3rd Round 2 Balls,Rory McIlroy,0.012700000000000045,0.6491,0.6364
+2024-06-15 07:02:43.234261,Elite Boxing - Gervonta Davis vs Frank Martin - To Win the Bout,Gervonta Davis,0.012400000000000078,0.8948,0.8824
+2024-06-15 07:02:45.052428,Round Match-Ups - 3rd Round Match-Ups - T. Hatton vs T. Kim - 3rd Round Match-Ups,Tom Kim,0.011600000000000055,0.5238,0.5122
 2024-06-14 19:03:53.428891,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Allisen Corpuz,0.011199999999999995,0.0435,0.0323
 2024-06-15 03:03:10.134251,Boxing Lines - Deevorn Miller vs Edwin Mosquera - To Win the Bout,Deevorn Miller,0.011199999999999988,0.9524,0.9412
 2024-06-15 01:01:32.997524,Boxing Lines - Kevin Gonzalez vs Kenny Demecillo - To Win the Bout,Kevin Gonzalez,0.011199999999999988,0.9524,0.9412
+2024-06-15 07:02:43.371614,Boxing Lines - Isaac Chamberlain vs Jack Massey - To Win the Bout,Jack Massey,0.011099999999999999,0.4762,0.4651
 2024-06-15 03:03:11.866701,Round Scores - 3rd Round Score - Bryson DeChambeau - 3rd Round Score ,Over 71.5,0.01100000000000001,0.5348,0.5238
 2024-06-14 19:03:53.007961,Boxing Lines - Stephanie Pineiro Aquino vs Diana Carolina Tapia Castro - To Win the Bout,Stephanie Pineiro Aquino,0.01090000000000002,0.8571,0.8462
 2024-06-15 03:03:00.436791,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Young Player of The Tournament,Florian Wirtz,0.010899999999999993,0.1538,0.1429
+2024-06-15 07:02:43.826365,Main Markets - 3rd Round 2 Balls - A. Eckroat / D. Puig - 3rd Round 2 Balls,Austin Eckroat,0.010699999999999932,0.5455,0.5348
 2024-06-15 01:01:25.546020,Regular Season Wins O/U - Chicago Sky- 2024 Regular Season Wins - Chicago Sky- 2024 Regular Season Wins,Under 14.5,0.010699999999999932,0.5455,0.5348
 2024-06-15 03:03:10.200319,Boxing Lines - Isaac Chamberlain vs Jack Massey - To Win the Bout,Jack Massey,0.010599999999999998,0.4651,0.4545
 2024-06-15 05:01:24.745520,Boxing Lines - Stephanie Pineiro Aquino vs Diana Carolina Tapia Castro - To Win the Bout,Diana Carolina Tapia Castro,0.010499999999999982,0.2105,0.2
@@ -111,6 +134,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-15 01:01:32.934347,Boxing Lines - Isaac Chamberlain vs Jack Massey - To Win the Bout,Jack Massey,-0.010599999999999998,0.4545,0.4651
 2024-06-15 03:03:11.866701,Round Scores - 3rd Round Score - Bryson DeChambeau - 3rd Round Score ,Under 71.5,-0.010699999999999932,0.5348,0.5455
 2024-06-15 01:01:25.546020,Regular Season Wins O/U - Chicago Sky- 2024 Regular Season Wins - Chicago Sky- 2024 Regular Season Wins,Over 14.5,-0.01100000000000001,0.5238,0.5348
+2024-06-15 07:02:45.052428,Round Match-Ups - 3rd Round Match-Ups - T. Hatton vs T. Kim - 3rd Round Match-Ups,Tyrrell Hatton,-0.01100000000000001,0.5238,0.5348
 2024-06-14 21:01:14.788064,UEFA Euro 2024 Team Specials - Scotland Team Specials - Group Stage Points,6,-0.011099999999999999,0.1,0.1111
 2024-06-15 03:03:00.402651,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Germany Bundesliga,Lois Openda,-0.011199999999999995,0.0476,0.0588
 2024-06-14 19:03:53.007961,Boxing Lines - Stephanie Pineiro Aquino vs Diana Carolina Tapia Castro - To Win the Bout,Diana Carolina Tapia Castro,-0.011700000000000016,0.2105,0.2222
@@ -119,6 +143,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-14 19:03:53.428891,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Ariya Jutanugarn,-0.012799999999999999,0.0013,0.0141
 2024-06-15 03:03:00.394079,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - England Premier League,Phil Foden,-0.012899999999999995,0.1538,0.1667
 2024-06-14 23:01:24.493402,UEFA Euro 2024 Team Specials - Albania Team Specials - Group Stage Points,3,-0.012899999999999995,0.1538,0.1667
+2024-06-15 07:02:43.234261,Elite Boxing - Gervonta Davis vs Frank Martin - To Win the Bout,Frank Martin,-0.012899999999999995,0.1538,0.1667
 2024-06-15 03:03:10.320093,Boxing Lines - Angel Fierro vs Alfredo Santiago Alvarez - To Win the Bout,Angel Fierro,-0.0129999999999999,0.8131,0.8261
 2024-06-15 01:01:33.035657,Boxing Lines - Yankiel Rivera vs Victor Efrain Sandoval - To Win the Bout,Yankiel Rivera,-0.0131,0.7647,0.7778
 2024-06-15 03:03:00.436791,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Young Player of The Tournament,Lamine Yamal,-0.013899999999999996,0.1111,0.125
@@ -134,13 +159,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-15 03:03:00.436791,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Young Player of The Tournament,Jude Bellingham,-0.016699999999999993,0.25,0.2667
 2024-06-14 19:03:53.428891,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Lizette Salas,-0.017300000000000003,0.0071,0.0244
 2024-06-15 03:03:10.134251,Boxing Lines - Deevorn Miller vs Edwin Mosquera - To Win the Bout,Edwin Mosquera,-0.01759999999999999,0.1,0.1176
-2024-06-15 01:01:32.997524,Boxing Lines - Kevin Gonzalez vs Kenny Demecillo - To Win the Bout,Kenny Demecillo,-0.01759999999999999,0.1,0.1176
 2024-06-15 03:03:00.394079,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - England Premier League,Bruno Fernandes,-0.01759999999999999,0.1,0.1176
+2024-06-15 01:01:32.997524,Boxing Lines - Kevin Gonzalez vs Kenny Demecillo - To Win the Bout,Kenny Demecillo,-0.01759999999999999,0.1,0.1176
 2024-06-14 19:03:45.315822,NBA Championship - NBA Championship 2023-24 - NBA Champion,Boston Celtics,-0.017799999999999927,0.9655,0.9833
 2024-06-14 21:01:16.791039,Regular Season Wins O/U - Dallas Wings- 2024 Regular Season Wins - Dallas Wings- 2024 Regular Season Wins,Over 17.5,-0.01809999999999995,0.339,0.3571
+2024-06-15 07:02:45.002167,Round Match-Ups - 3rd Round Match-Ups - B. Harman vs S. Burns - 3rd Round Match-Ups,Sam Burns,-0.018100000000000005,0.5652,0.5833
 2024-06-14 21:01:14.761531,UEFA Euro 2024 Team Specials - Germany Team Specials - Top Team Goalscorer,Deniz Undav,-0.018200000000000004,0.0294,0.0476
-2024-06-15 03:03:00.645213,UEFA Euro 2024 Futures - Euro 2024 - Group A - Top 2 in Exact Order,"Germany 1st , Scotland 2nd",-0.01820000000000002,0.1818,0.2
 2024-06-15 01:01:23.878130,UEFA Euro 2024 Futures - Euro 2024 - Group B - Group Winner,Croatia,-0.01820000000000002,0.1818,0.2
+2024-06-15 03:03:00.645213,UEFA Euro 2024 Futures - Euro 2024 - Group A - Top 2 in Exact Order,"Germany 1st , Scotland 2nd",-0.01820000000000002,0.1818,0.2
 2024-06-15 01:01:27.263448,Starting QB Specials - 2024-25 Las Vegas Raiders Week 1 Starting QB - 2024-25 Las Vegas Raiders Week 1 Starting QB,Gardner Minshew,-0.01880000000000004,0.6364,0.6552
 2024-06-15 03:03:00.636069,UEFA Euro 2024 Futures - Euro 2024 - Group A - Top 2 in Either Order,Switzerland & Scotland,-0.0189,0.0196,0.0385
 2024-06-15 03:03:10.671442,Round Match-Ups - 3rd Round Match-Ups - X. Schauffele vs S. Scheffler - 3rd Round Match-Ups,Xander Schauffele,-0.018900000000000028,0.4255,0.4444
@@ -149,9 +175,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-15 03:03:00.645213,UEFA Euro 2024 Futures - Euro 2024 - Group A - Top 2 in Exact Order,"Switzerland 1st , Scotland 2nd",-0.0194,0.005,0.0244
 2024-06-15 01:01:22.438704,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Racing Club,-0.02020000000000001,0.0909,0.1111
 2024-06-15 03:03:00.583288,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Team,Netherlands,-0.0203,0.0385,0.0588
+2024-06-15 07:02:44.886901,Round Match-Ups - 3rd Round Match-Ups - J. Spieth vs W. Clark - 3rd Round Match-Ups,Jordan Spieth,-0.02079999999999993,0.5348,0.5556
 2024-06-15 03:03:00.636069,UEFA Euro 2024 Futures - Euro 2024 - Group A - Top 2 in Either Order,Hungary & Scotland,-0.021199999999999997,0.0066,0.0278
-2024-06-15 05:01:25.905837,Round Match-Ups - 3rd Round Match-Ups - R. McIIroy vs B. DeChambeau - 3rd Round Match-Ups,Bryson DeChambeau,-0.021699999999999997,0.4545,0.4762
 2024-06-14 21:01:16.824446,Regular Season Wins O/U - New York Liberty- 2024 Regular Season Wins - New York Liberty- 2024 Regular Season Wins,Under 29.5,-0.021699999999999997,0.4545,0.4762
+2024-06-15 05:01:25.905837,Round Match-Ups - 3rd Round Match-Ups - R. McIIroy vs B. DeChambeau - 3rd Round Match-Ups,Bryson DeChambeau,-0.021699999999999997,0.4545,0.4762
 2024-06-15 03:03:00.583288,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Team,France,-0.022199999999999998,0.2,0.2222
 2024-06-15 03:03:00.583288,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Team,England,-0.022199999999999998,0.2,0.2222
 2024-06-14 19:03:53.428891,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Hye Jin Choi,-0.022400000000000003,0.002,0.0244
@@ -161,35 +188,49 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-14 21:01:14.753503,UEFA Euro 2024 Team Specials - Germany Team Specials - Group Stage Points,3,-0.023200000000000002,0.0244,0.0476
 2024-06-14 19:03:43.611501,UEFA Euro 2024 Team Specials - Scotland Team Specials - Stage Of Elimination,Semi Finals,-0.023200000000000002,0.0294,0.0526
 2024-06-15 05:01:26.510435,Round Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score ,Over 70.5,-0.023799999999999988,0.4762,0.5
-2024-06-15 05:01:25.437002,Main Markets - 3rd Round 2 Balls - F. Capan / T. Pendrith - 3rd Round 2 Balls,Frankie Capan III,-0.025499999999999967,0.4,0.4255
+2024-06-15 07:02:44.925543,Round Match-Ups - 3rd Round Match-Ups - M. Kaymer v M. Kuchar - 3rd Round Match-Ups ,Martin Kaymer,-0.023800000000000043,0.5,0.5238
+2024-06-15 07:02:44.204104,Totals - 3rd Round Birdies - Bryson DeChambeau - 3rd Round Birdies,Under 2.5,-0.025499999999999967,0.4,0.4255
 2024-06-15 05:01:26.117801,Totals - 3rd Round Birdies - Rory McIlroy - 3rd Round Birdies,Under 2.5,-0.025499999999999967,0.4,0.4255
+2024-06-15 05:01:25.437002,Main Markets - 3rd Round 2 Balls - F. Capan / T. Pendrith - 3rd Round 2 Balls,Frankie Capan III,-0.025499999999999967,0.4,0.4255
 2024-06-14 21:01:14.753503,UEFA Euro 2024 Team Specials - Germany Team Specials - Group Stage Points,7,-0.02560000000000001,0.3077,0.3333
+2024-06-15 07:02:44.963424,Round Match-Ups - 3rd Round Match-Ups - D. Thompson vs E. Grillo - 3rd Round Match-Ups,Davis Thompson,-0.026499999999999968,0.5652,0.5917
+2024-06-15 07:02:44.672471,Round Scores - 3rd Round Score - Min Woo Lee - 3rd Round Score,Under 72.5,-0.026499999999999968,0.5652,0.5917
 2024-06-14 19:03:53.428891,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Brooke Henderson,-0.0267,0.0909,0.1176
 2024-06-15 03:03:11.188040,Main Markets - 3rd Round 2 Balls - I. Salinda / D. Thompson - 3rd Round 2 Balls,Isaiah Salinda,-0.027700000000000002,0.4167,0.4444
 2024-06-14 21:01:14.788064,UEFA Euro 2024 Team Specials - Scotland Team Specials - Group Stage Points,2,-0.027800000000000005,0.0833,0.1111
 2024-06-14 19:03:53.428891,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Lilia Vu,-0.0283,0.0152,0.0435
 2024-06-14 19:03:53.428891,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Ashleigh Buhai,-0.028300000000000002,0.004,0.0323
 2024-06-15 03:03:10.969186,Main Markets - 3rd Round 2 Balls - R. Fox / S. Theegala - 3rd Round 2 Balls,Ryan Fox,-0.029000000000000026,0.4255,0.4545
+2024-06-15 07:02:44.659120,Round Scores - 3rd Round Score - Martin Kaymer - 3rd Round Score ,Under 73.5,-0.030299999999999994,0.4348,0.4651
+2024-06-15 07:02:44.765920,Round Scores - 3rd Round Score - Thomas Detry - 3rd Round Score,Under 72.5,-0.030299999999999994,0.4348,0.4651
 2024-06-15 03:03:00.402651,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Germany Bundesliga,Harry Kane,-0.030299999999999994,0.6364,0.6667
+2024-06-15 07:02:45.090094,Round Match-Ups - 3rd Round Match-Ups - M. Pavon vs T. Detry - 3rd Round Match-Ups,Matthieu Pavon,-0.030299999999999994,0.4348,0.4651
+2024-06-15 07:02:44.501252,Round Scores - 3rd Round Score - Adam Scott - 3rd Round Score,Under 72.5,-0.030399999999999983,0.5348,0.5652
 2024-06-15 03:03:11.995491,Round Scores - 3rd Round Score - Ludvig Aberg - 3rd Round Score,Over 71.5,-0.030399999999999983,0.5348,0.5652
 2024-06-15 05:01:26.609702,Round Scores - 3rd Round Score - Tyrrell Hatton - 3rd Round Score,Over 72.5,-0.030399999999999983,0.5348,0.5652
+2024-06-15 07:02:44.833296,Round Scores - 3rd Round Score - Xander Schauffele - 3rd Round Score,Over 71.5,-0.031799999999999995,0.4444,0.4762
 2024-06-15 05:01:25.397366,Main Markets - 3rd Round 2 Balls - S. Straka / B. Harman - 3rd Round 2 Balls,Brian Harman,-0.031799999999999995,0.4444,0.4762
+2024-06-15 07:02:44.712647,Round Scores - 3rd Round Score - Scottie Scheffler - 3rd Round Score ,Over 70.5,-0.031799999999999995,0.4444,0.4762
 2024-06-15 03:03:00.394079,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - England Premier League,Bukayo Saka,-0.031799999999999995,0.1111,0.1429
 2024-06-15 05:01:25.692158,Round Match-Ups - 3rd Round Match-Ups - C. Morikawa vs C. Smith - 3rd Round Match-Ups,Cameron Smith,-0.03210000000000002,0.3846,0.4167
 2024-06-14 21:01:16.859911,To Make the Playoffs - Atlanta Dream- To Make the 2024 WNBA Playoffs - Atlanta Dream- To Make the 2024 WNBA Playoffs,Yes,-0.03260000000000007,0.7674,0.8
 2024-06-15 05:01:25.785855,Round Match-Ups - 3rd Round Match-Ups - D. Thompson vs E. Grillo - 3rd Round Match-Ups,Emiliano Grillo,-0.033299999999999996,0.4545,0.4878
 2024-06-14 21:01:16.893236,To Make the Playoffs - Phoenix Mercury- To Make the 2024 WNBA Playoffs - Phoenix Mercury- To Make the 2024 WNBA Playoffs,No,-0.033300000000000024,0.1667,0.2
 2024-06-14 21:01:14.796335,UEFA Euro 2024 Team Specials - Scotland Team Specials - Top Team Goalscorer,Lawrence Shankland,-0.033399999999999985,0.1333,0.1667
+2024-06-15 07:02:44.000998,Main Markets - 3rd Round 2 Balls - S. Straka / B. Harman - 3rd Round 2 Balls,Sepp Straka,-0.033399999999999985,0.5744,0.6078
+2024-06-15 07:02:44.050730,Main Markets - 3rd Round 2 Balls - R. Henley / S. Garcia - 3rd Round 2 Balls,Russell Henley,-0.033399999999999985,0.5744,0.6078
 2024-06-15 03:03:00.591739,UEFA Euro 2024 Futures - Euro 2024 Futures - Lowest Scoring Team,Scotland,-0.03420000000000001,0.0769,0.1111
 2024-06-15 05:01:26.186721,Totals - 3rd Round Birdies - Tom Kim - 3rd Round Birdies,Over 2.5,-0.03479999999999994,0.5652,0.6
 2024-06-15 05:01:26.200785,Totals - 3rd Round Birdies - Tommy Fleetwood - 3rd Round Birdies,Over 2.5,-0.03479999999999994,0.5652,0.6
 2024-06-14 21:01:16.813140,Regular Season Wins O/U - Las Vegas Aces- 2024 Regular Season Wins - Las Vegas Aces- 2024 Regular Season Wins,Under 27.5,-0.03480000000000005,0.5,0.5348
-2024-06-15 01:01:25.602575,Regular Season Wins O/U - Los Angeles Sparks- 2024 Regular Season Wins - Los Angeles Sparks- 2024 Regular Season Wins,Under 11.5,-0.03489999999999999,0.4651,0.5
+2024-06-15 07:02:44.645823,Round Scores - 3rd Round Score - Ludvig Aberg - 3rd Round Score,Over 71.5,-0.03480000000000005,0.5,0.5348
+2024-06-15 07:02:43.826365,Main Markets - 3rd Round 2 Balls - A. Eckroat / D. Puig - 3rd Round 2 Balls,David Puig,-0.03480000000000005,0.5,0.5348
 2024-06-15 03:03:12.038178,Round Scores - 3rd Round Score - Patrick Cantlay - 3rd Round Score,Over 72.5,-0.03489999999999999,0.4651,0.5
+2024-06-15 01:01:25.602575,Regular Season Wins O/U - Los Angeles Sparks- 2024 Regular Season Wins - Los Angeles Sparks- 2024 Regular Season Wins,Under 11.5,-0.03489999999999999,0.4651,0.5
 2024-06-14 21:01:14.753503,UEFA Euro 2024 Team Specials - Germany Team Specials - Group Stage Points,5,-0.035699999999999996,0.0476,0.0833
 2024-06-15 01:01:25.683499,To Make the Playoffs - Chicago Sky- To Make the 2024 WNBA Playoffs - Chicago Sky- To Make the 2024 WNBA Playoffs,No,-0.03709999999999991,0.6296,0.6667
-2024-06-15 03:03:11.065217,Main Markets - 3rd Round 2 Balls - C. Morikawa / K. Bradley - 3rd Round 2 Balls,Keegan Bradley,-0.0378,0.4167,0.4545
 2024-06-14 19:03:45.338599,WNBA Championship - WNBA Championship 2024 - Outright Winner,Las Vegas Aces,-0.0378,0.4167,0.4545
+2024-06-15 03:03:11.065217,Main Markets - 3rd Round 2 Balls - C. Morikawa / K. Bradley - 3rd Round 2 Balls,Keegan Bradley,-0.0378,0.4167,0.4545
 2024-06-15 03:03:11.824160,Round Scores - 3rd Round Score - Aaron Rai - 3rd Round Score ,Over 72.5,-0.03959999999999997,0.5348,0.5744
 2024-06-15 05:01:26.623653,Round Scores - 3rd Round Score - Wyndham Clark - 3rd Round Score ,Under 72.5,-0.039600000000000024,0.4255,0.4651
 2024-06-15 03:03:11.881410,Round Scores - 3rd Round Score - Cameron Smith - 3rd Round Score ,Under 71.5,-0.039600000000000024,0.4255,0.4651
@@ -197,18 +238,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-15 03:03:00.645213,UEFA Euro 2024 Futures - Euro 2024 - Group A - Top 2 in Exact Order,"Scotland 1st , Germany 2nd",-0.041,0.0066,0.0476
 2024-06-15 05:01:25.450098,Main Markets - 3rd Round 2 Balls - R. Henley / S. Garcia - 3rd Round 2 Balls,Sergio Garcia,-0.04139999999999999,0.4348,0.4762
 2024-06-14 21:01:14.746117,UEFA Euro 2024 Team Specials - Germany Team Specials - Stage Of Elimination,Group Stage,-0.04239999999999999,0.0345,0.0769
-2024-06-15 05:01:26.553498,Round Scores - 3rd Round Score - Si Woo Kim - 3rd Round Score ,Over 72.5,-0.043399999999999994,0.5122,0.5556
 2024-06-15 03:03:11.981683,Round Scores - 3rd Round Score - Keegan Bradley - 3rd Round Score ,Over 72.5,-0.043399999999999994,0.5122,0.5556
+2024-06-15 05:01:26.553498,Round Scores - 3rd Round Score - Si Woo Kim - 3rd Round Score ,Over 72.5,-0.043399999999999994,0.5122,0.5556
 2024-06-14 21:01:14.753503,UEFA Euro 2024 Team Specials - Germany Team Specials - Group Stage Points,4,-0.04440000000000001,0.0667,0.1111
 2024-06-15 03:03:11.967229,Round Scores - 3rd Round Score - Jordan Spieth - 3rd Round Score ,Over 72.5,-0.045499999999999985,0.4545,0.5
 2024-06-15 01:01:25.717075,To Make the Playoffs - Los Angeles Sparks- To Make the 2024 WNBA Playoffs - Los Angeles Sparks- To Make the 2024 WNBA Playoffs,No,-0.04700000000000004,0.8621,0.9091
 2024-06-15 05:01:25.825914,Round Match-Ups - 3rd Round Match-Ups - B. Harman vs S. Burns - 3rd Round Match-Ups,Brian Harman,-0.047099999999999975,0.4651,0.5122
 2024-06-14 19:03:53.428891,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Jennifer Kupcho,-0.047099999999999996,0.0196,0.0667
 2024-06-15 01:01:22.438704,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,River Plate,-0.047599999999999976,0.2857,0.3333
-2024-06-15 05:01:25.383945,Main Markets - 3rd Round 2 Balls - C. Kirk / J. Suber - 3rd Round 2 Balls,Jackson Suber,-0.048099999999999976,0.3774,0.4255
 2024-06-15 03:03:11.147208,Main Markets - 3rd Round 2 Balls - M. Kaymer / J. Spieth - 3rd Round 2 Balls,Martin Kaymer,-0.048099999999999976,0.3774,0.4255
 2024-06-15 03:03:11.133748,Main Markets - 3rd Round 2 Balls - G. Broin / B. Campbell - 3rd Round 2 Balls,Gunnar Broin,-0.048099999999999976,0.3774,0.4255
 2024-06-15 03:03:11.092704,Main Markets - 3rd Round 2 Balls - A. Rai / N. Shipley - 3rd Round 2 Balls,Neal Shipley,-0.048099999999999976,0.3774,0.4255
+2024-06-15 05:01:25.383945,Main Markets - 3rd Round 2 Balls - C. Kirk / J. Suber - 3rd Round 2 Balls,Jackson Suber,-0.048099999999999976,0.3774,0.4255
 2024-06-15 05:01:25.476130,Main Markets - 3rd Round 2 Balls - B. Horschel / Z. Blair - 3rd Round 2 Balls,Zac Blair,-0.048099999999999976,0.3774,0.4255
 2024-06-15 03:03:11.024196,Main Markets - 3rd Round 2 Balls - C. Young / S. Scheffler - 3rd Round 2 Balls,Cameron Young,-0.0494,0.3077,0.3571
 2024-06-15 03:03:00.636069,UEFA Euro 2024 Futures - Euro 2024 - Group A - Top 2 in Either Order,Germany & Scotland,-0.04999999999999999,0.2,0.25
@@ -219,7 +260,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-15 03:03:00.498939,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Group,Group E,-0.05559999999999998,0.1111,0.1667
 2024-06-15 05:01:25.145595,Main Markets - 3rd Round 2 Balls - B. Koepka / F. Molinari - 3rd Round 2 Balls,Francesco Molinari,-0.05680000000000002,0.2941,0.3509
 2024-06-14 21:01:16.846963,Regular Season Wins O/U - Seattle Storm- 2024 Regular Season Wins - Seattle Storm- 2024 Regular Season Wins,Under 24.5,-0.05740000000000001,0.3774,0.4348
+2024-06-15 07:02:44.527534,Round Scores - 3rd Round Score - Bryson DeChambeau - 3rd Round Score ,Over 71.5,-0.05860000000000004,0.4762,0.5348
 2024-06-15 03:03:12.177277,Round Scores - 3rd Round Score - Wyndham Clark - 3rd Round Score ,Under 72.5,-0.05870000000000003,0.4651,0.5238
+2024-06-15 07:02:43.926657,Main Markets - 3rd Round 2 Balls - H. English / C. Bezuidenhout - 3rd Round 2 Balls,Harris English,-0.05870000000000003,0.4651,0.5238
 2024-06-14 19:03:53.428891,Meijer LPGA Classic - Meijer LPGA Classic - Winner,Carlota Ciganda,-0.06369999999999999,0.0132,0.0769
 2024-06-15 03:03:00.498939,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Group,Group B,-0.0642,0.1176,0.1818
 2024-06-15 03:03:12.163354,Round Scores - 3rd Round Score - Tyrrell Hatton - 3rd Round Score,Under 72.5,-0.06520000000000004,0.5,0.5652
