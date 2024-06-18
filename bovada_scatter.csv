@@ -45,18 +45,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-18 03:03:39.947324,UEFA Euro 2024 Futures - Euro 2024 - Group D - Not To Advance from Group,Austria,0.045499999999999985,0.5,0.4545
 2024-06-18 03:03:39.689409,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Group,Group B,0.04169999999999999,0.1667,0.125
 2024-06-18 03:03:39.954921,UEFA Euro 2024 Futures - Euro 2024 - Group D - To Advance from Group,France,0.037699999999999956,0.9901,0.9524
+2024-06-18 15:01:08.009890,Bare Knuckle Fighting Championship - Gee Perez vs Albert Inclan - To Win the Bout,Albert Inclan,0.03689999999999999,0.3226,0.2857
 2024-06-18 03:03:39.954921,UEFA Euro 2024 Futures - Euro 2024 - Group D - To Advance from Group,Poland,0.03570000000000001,0.2857,0.25
 2024-06-18 03:03:39.689409,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Group,Group A,0.035699999999999954,0.75,0.7143
 2024-06-18 11:04:11.443492,MLB Futures - MLB 2024 American League Central - American League Central Winner,Cleveland Guardians,0.03510000000000002,0.6429,0.6078
+2024-06-18 15:01:07.957425,Bare Knuckle Fighting Championship - Peter Peraza vs Wayna Reid - To Win the Bout,Wayna Reid,0.033399999999999985,0.6078,0.5744
 2024-06-18 03:03:39.979043,UEFA Euro 2024 Futures - Euro 2024 - Group D - Top 2 in Exact Order,"France 1st , Austria 2nd",0.033300000000000024,0.2,0.1667
 2024-06-18 03:03:50.461479,Bare Knuckle Fighting Championship - Markus Suarez vs David Simpson - To Win the Bout,David Simpson,0.033299999999999996,0.4255,0.3922
 2024-06-18 11:04:11.974956,Boxing Lines - Jake Paul vs Mike Perry - To Win the Bout,Mike Perry,0.030299999999999994,0.3636,0.3333
+2024-06-18 15:01:08.035168,Bare Knuckle Fighting Championship - Justin Ibarrola vs Rick Caruso - To Win the Bout,Rick Caruso,0.02729999999999999,0.2273,0.2
+2024-06-18 15:01:08.073013,Bare Knuckle Fighting Championship - Yosdenis Cedeno vs Josh Zuckerman - To Win the Bout,Josh Zuckerman,0.02729999999999999,0.2273,0.2
 2024-06-18 03:03:50.561919,Tournament Match-Ups - Tournament Match-Up - C. Conners vs K. Bradley - Tournament Match-Up,Corey Conners,0.026499999999999968,0.5917,0.5652
 2024-06-18 03:03:50.548262,Tournament Match-Ups - Tournament Match-Up - B. Harman vs R. Henley - Tournament Match-Up,Russell Henley,0.026499999999999968,0.5917,0.5652
+2024-06-18 15:01:07.984410,Bare Knuckle Fighting Championship - Christine Vicens vs Melanie Shah - To Win the Bout,Christine Vicens,0.024899999999999922,0.697,0.6721
+2024-06-18 15:01:08.022516,Bare Knuckle Fighting Championship - Jared Warren vs John Escoboza - To Win the Bout,Jared Warren,0.022600000000000064,0.6226,0.6
 2024-06-18 07:01:47.382081,Compliance Solutions Championship - Compliance Solutions Championship - Winner,Noah Goodwin,0.022400000000000003,0.0323,0.0099
 2024-06-18 09:01:55.533322,MLB Futures - MLB 2024 National League East - National League East Winner,Philadelphia Phillies,0.022199999999999998,0.8,0.7778
-2024-06-18 09:01:55.508103,MLB Futures - MLB 2024 American League West - American League West Winner,Seattle Mariners,0.022199999999999998,0.8,0.7778
 2024-06-18 03:03:39.970003,UEFA Euro 2024 Futures - Euro 2024 - Group D - Top 2 in Either Order,France & Austria,0.022199999999999998,0.2222,0.2
+2024-06-18 09:01:55.508103,MLB Futures - MLB 2024 American League West - American League West Winner,Seattle Mariners,0.022199999999999998,0.8,0.7778
+2024-06-18 15:01:07.561097,Boxing Lines - Mitchell Leek vs Jack Brubaker - To Win the Bout,Mitchell Leek,0.02200000000000002,0.7143,0.6923
 2024-06-18 03:03:50.434843,Bare Knuckle Fighting Championship - Kai Stewart vs Bryan Duran - To Win the Bout,Kai Stewart,0.021699999999999997,0.4762,0.4545
 2024-06-18 09:01:55.520700,MLB Futures - MLB 2024 National League Central - National League Central Winner,Milwaukee Brewers,0.02080000000000004,0.6875,0.6667
 2024-06-18 11:04:03.509614,To Make the Playoffs - Dallas Wings- To Make the 2024 WNBA Playoffs - Dallas Wings- To Make the 2024 WNBA Playoffs,Yes,0.020799999999999985,0.3333,0.3125
@@ -75,38 +82,46 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-18 09:01:55.482891,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,0.016600000000000004,0.2439,0.2273
 2024-06-18 07:01:46.819403,Boxing Lines - Yamileth Mercado vs Ramla Ali - To Win the Bout,Ramla Ali,0.014900000000000024,0.3226,0.3077
 2024-06-18 03:03:50.575412,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs V. Hovland - Tournament Match-Up,Collin Morikawa,0.013799999999999923,0.6364,0.6226
+2024-06-18 15:01:07.713574,Boxing Lines - Lewis Crocker vs Conah Walker - To Win the Bout,Conah Walker,0.01369999999999999,0.241,0.2273
 2024-06-18 03:03:40.030326,UEFA Euro 2024 Futures - Euro 2024 - Group E - Top 2 in Exact Order,"Ukraine 1st , Slovakia 2nd",0.0131,0.0476,0.0345
 2024-06-18 13:01:18.576413,MLB Futures - MLB 2024 American League Central - American League Central Winner,Cleveland Guardians,0.012299999999999978,0.6552,0.6429
 2024-06-18 11:04:03.464798,Regular Season Wins O/U - Seattle Storm- 2024 Regular Season Wins - Seattle Storm- 2024 Regular Season Wins,Over 25.5,0.012199999999999989,0.5122,0.5
 2024-06-18 09:01:56.128703,Bare Knuckle Fighting Championship - Kai Stewart vs Bryan Duran - To Win the Bout,Kai Stewart,0.0116,0.4878,0.4762
+2024-06-18 15:01:07.548046,Boxing Lines - Lucas Miller vs Mat Sheehan - To Win the Bout,Lucas Miller,0.0116,0.4878,0.4762
 2024-06-18 09:01:55.482891,MLB Futures - MLB 2024 American League Central - American League Central Winner,Kansas City Royals,0.011300000000000004,0.2439,0.2326
 2024-06-18 05:01:31.506587,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Trelleborgs FF,0.011199999999999995,0.0588,0.0476
 2024-06-18 11:04:03.367450,Regular Season Wins O/U - Chicago Sky- 2024 Regular Season Wins - Chicago Sky- 2024 Regular Season Wins,Over 13.5,0.011099999999999999,0.4762,0.4651
 2024-06-18 13:01:18.829397,Boxing Lines - Lucas Miller vs Mat Sheehan - To Win the Bout,Lucas Miller,0.011099999999999999,0.4762,0.4651
-2024-06-18 05:01:43.130616,Boxing Lines - Kazuto Ioka vs Fernando Daniel Martinez - To Win the Bout,Fernando Daniel Martinez,0.011099999999999999,0.4762,0.4651
 2024-06-18 03:03:39.409726,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Peru,0.011099999999999999,0.1111,0.1
+2024-06-18 05:01:43.130616,Boxing Lines - Kazuto Ioka vs Fernando Daniel Martinez - To Win the Bout,Fernando Daniel Martinez,0.011099999999999999,0.4762,0.4651
+2024-06-18 15:00:57.251998,UEFA Euro 2024 Futures - Euro 2024 Futures - Top Goalscorer,Phil Foden,0.010700000000000001,0.0385,0.0278
 2024-06-18 09:01:56.103604,Bare Knuckle Fighting Championship - Jared Warren vs John Escoboza - To Win the Bout,John Escoboza,0.010599999999999998,0.4651,0.4545
 2024-06-18 09:01:55.024857,MLB 2024 Regular Season Team Props - Atlanta Braves To Make The Playoffs - Atlanta Braves To Make The Playoffs,Yes,0.010400000000000076,0.9785,0.9681
+2024-06-18 15:00:57.251998,UEFA Euro 2024 Futures - Euro 2024 Futures - Top Goalscorer,Jude Bellingham,0.0102,0.0769,0.0667
 2024-06-18 03:03:50.133973,Boxing Lines - Lamont Roach vs Feargal McCrory - To Win the Bout,Lamont Roach,0.010199999999999987,0.9333,0.9231
+2024-06-18 15:01:08.060470,Bare Knuckle Fighting Championship - Keith Richardson vs Alberto Blas - To Win the Bout,Keith Richardson,0.010099999999999998,0.4545,0.4444
 2024-06-18 13:01:19.602644,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,Bernhard Langer,-0.0102,0.0667,0.0769
 2024-06-18 03:03:39.377682,Copa America Futures - Copa América 2024 - Straight Forecast,"Argentina 1st, Colombia 2nd",-0.0102,0.0667,0.0769
 2024-06-18 03:03:39.402334,Copa America Futures - Copa América 2024 - To Reach Final,Chile,-0.0102,0.0667,0.0769
 2024-06-18 13:01:18.576413,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,-0.010399999999999993,0.2222,0.2326
 2024-06-18 03:03:39.409726,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Ecuador,-0.010699999999999987,0.3226,0.3333
-2024-06-18 13:01:19.602644,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,Padraig Harrington,-0.010899999999999993,0.1429,0.1538
 2024-06-18 03:03:39.377682,Copa America Futures - Copa América 2024 - Straight Forecast,"Brazil 1st, Argentina 2nd",-0.010899999999999993,0.1429,0.1538
 2024-06-18 13:01:19.602644,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,Ernie Els,-0.010899999999999993,0.1429,0.1538
+2024-06-18 13:01:19.602644,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,Padraig Harrington,-0.010899999999999993,0.1429,0.1538
 2024-06-18 03:03:39.402334,Copa America Futures - Copa América 2024 - To Reach Final,USA,-0.011099999999999999,0.1,0.1111
-2024-06-18 07:01:46.885160,Boxing Lines - William Zepeda vs Giovanni Cabrera - To Win the Bout,Giovanni Cabrera,-0.011099999999999999,0.1,0.1111
 2024-06-18 13:01:19.481965,Tournament Match-Ups - Tournament Match-Up - J. Thomas vs T. Finau - Tournament Match-Up,Justin Thomas,-0.011099999999999999,0.4651,0.4762
+2024-06-18 07:01:46.885160,Boxing Lines - William Zepeda vs Giovanni Cabrera - To Win the Bout,Giovanni Cabrera,-0.011099999999999999,0.1,0.1111
 2024-06-18 03:03:39.979043,UEFA Euro 2024 Futures - Euro 2024 - Group D - Top 2 in Exact Order,"Netherlands 1st , Poland 2nd",-0.011199999999999995,0.0476,0.0588
 2024-06-18 11:04:11.443492,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,-0.011300000000000004,0.2326,0.2439
 2024-06-18 11:04:03.356624,Regular Season Wins O/U - Atlanta Dream- 2024 Regular Season Wins - Atlanta Dream- 2024 Regular Season Wins,Under 17.5,-0.0116,0.4762,0.4878
+2024-06-18 15:00:57.251998,UEFA Euro 2024 Futures - Euro 2024 Futures - Top Goalscorer,Marcus Thuram,-0.012100000000000001,0.0123,0.0244
 2024-06-18 03:03:39.402334,Copa America Futures - Copa América 2024 - To Reach Final,Brazil,-0.012199999999999989,0.5,0.5122
 2024-06-18 11:04:03.442993,Regular Season Wins O/U - New York Liberty- 2024 Regular Season Wins - New York Liberty- 2024 Regular Season Wins,Under 30.5,-0.012199999999999989,0.4878,0.5
 2024-06-18 11:04:03.602555,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Lee Zeldin,-0.012700000000000003,0.0196,0.0323
 2024-06-18 03:03:39.402334,Copa America Futures - Copa América 2024 - To Reach Final,Colombia,-0.012899999999999995,0.1538,0.1667
 2024-06-18 13:01:18.576413,MLB Futures - MLB 2024 American League Central - American League Central Winner,Kansas City Royals,-0.0131,0.2222,0.2353
+2024-06-18 15:01:07.713574,Boxing Lines - Lewis Crocker vs Conah Walker - To Win the Bout,Lewis Crocker,-0.014200000000000101,0.8261,0.8403
+2024-06-18 15:01:08.060470,Bare Knuckle Fighting Championship - Keith Richardson vs Alberto Blas - To Win the Bout,Alberto Blas,-0.014800000000000035,0.6078,0.6226
 2024-06-18 09:01:55.702628,MLB Futures - MLB 2024 Regular Season Leaders - Player To Hit The Most Home Runs,Kyle Tucker (HOU),-0.014899999999999997,0.0476,0.0625
 2024-06-18 03:03:39.409726,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Jamaica,-0.014899999999999997,0.0476,0.0625
 2024-06-18 09:01:55.688864,MLB Futures - MLB 2024 Player Awards - National League ROY,Yoshinobu Yamamoto (LAD),-0.015300000000000001,0.0323,0.0476
@@ -117,14 +132,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-18 11:04:03.602555,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tim Scott,-0.016700000000000007,0.0833,0.1
 2024-06-18 11:04:03.509614,To Make the Playoffs - Dallas Wings- To Make the 2024 WNBA Playoffs - Dallas Wings- To Make the 2024 WNBA Playoffs,No,-0.016700000000000048,0.7333,0.75
 2024-06-18 03:03:39.962523,UEFA Euro 2024 Futures - Euro 2024 - Group D - To Finish Bottom,France,-0.017099999999999997,0.0123,0.0294
+2024-06-18 15:01:07.548046,Boxing Lines - Lucas Miller vs Mat Sheehan - To Win the Bout,Mat Sheehan,-0.017299999999999982,0.5744,0.5917
 2024-06-18 03:03:50.121023,Boxing Lines - Tyler Denny vs Felix Cash - To Win the Bout,Tyler Denny,-0.017299999999999982,0.4082,0.4255
 2024-06-18 09:01:56.128703,Bare Knuckle Fighting Championship - Kai Stewart vs Bryan Duran - To Win the Bout,Bryan Duran,-0.017299999999999982,0.5744,0.5917
 2024-06-18 09:01:55.988475,Boxing Lines - Jake Paul vs Mike Perry - To Win the Bout,Mike Perry,-0.017600000000000005,0.3333,0.3509
 2024-06-18 03:03:39.979043,UEFA Euro 2024 Futures - Euro 2024 - Group D - Top 2 in Exact Order,"Austria 1st , France 2nd",-0.018200000000000004,0.0294,0.0476
 2024-06-18 03:03:50.575412,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs V. Hovland - Tournament Match-Up,Viktor Hovland,-0.018900000000000028,0.4255,0.4444
 2024-06-18 03:03:39.402334,Copa America Futures - Copa América 2024 - To Reach Final,Uruguay,-0.019000000000000017,0.2667,0.2857
+2024-06-18 15:01:07.561097,Boxing Lines - Mitchell Leek vs Jack Brubaker - To Win the Bout,Jack Brubaker,-0.019500000000000017,0.3509,0.3704
 2024-06-18 03:03:40.030326,UEFA Euro 2024 Futures - Euro 2024 - Group E - Top 2 in Exact Order,"Ukraine 1st , Romania 2nd",-0.0203,0.0323,0.0526
 2024-06-18 03:03:39.409726,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Canada,-0.02049999999999999,0.1333,0.1538
+2024-06-18 15:01:08.022516,Bare Knuckle Fighting Championship - Jared Warren vs John Escoboza - To Win the Bout,John Escoboza,-0.020699999999999996,0.4444,0.4651
 2024-06-18 09:01:55.482891,MLB Futures - MLB 2024 American League Central - American League Central Winner,Cleveland Guardians,-0.02180000000000004,0.6078,0.6296
 2024-06-18 09:01:55.533322,MLB Futures - MLB 2024 National League East - National League East Winner,Atlanta Braves,-0.021999999999999964,0.2857,0.3077
 2024-06-18 11:04:03.432106,Regular Season Wins O/U - Minnesota Lynx- 2024 Regular Season Wins - Minnesota Lynx- 2024 Regular Season Wins,Under 27.5,-0.022600000000000064,0.5122,0.5348
@@ -133,13 +151,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-18 13:01:18.489595,MLB Daily Fantasy Specials - Fantasy Picks - Pitcher  Matchups - Fantasy Picks - Pitcher  Matchups - Nick Lodolo v Framber Valdez,Framber Valdez (HOU),-0.023800000000000043,0.5,0.5238
 2024-06-18 13:01:10.251200,Draft Position - Player Draft Position - Bronny James (USC),Under 39.5 Draft Position,-0.024500000000000022,0.3922,0.4167
 2024-06-18 05:01:31.506587,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,IK Brage,-0.024999999999999994,0.1,0.125
+2024-06-18 15:01:08.073013,Bare Knuckle Fighting Championship - Yosdenis Cedeno vs Josh Zuckerman - To Win the Bout,Yosdenis Cedeno,-0.02639999999999998,0.8403,0.8667
+2024-06-18 15:01:08.035168,Bare Knuckle Fighting Championship - Justin Ibarrola vs Rick Caruso - To Win the Bout,Justin Ibarrola,-0.02639999999999998,0.8403,0.8667
+2024-06-18 15:00:57.251998,UEFA Euro 2024 Futures - Euro 2024 Futures - Top Goalscorer,Cristiano Ronaldo,-0.0267,0.0909,0.1176
 2024-06-18 05:01:31.506587,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Östers IF,-0.02779999999999999,0.2222,0.25
 2024-06-18 09:01:55.508103,MLB Futures - MLB 2024 American League West - American League West Winner,Texas Rangers,-0.027999999999999997,0.1053,0.1333
 2024-06-18 09:01:55.702628,MLB Futures - MLB 2024 Regular Season Leaders - Player To Hit The Most Home Runs,Marcell Ozuna (ATL),-0.028399999999999995,0.0625,0.0909
 2024-06-18 09:01:55.702628,MLB Futures - MLB 2024 Regular Season Leaders - Player To Hit The Most Home Runs,Shohei Ohtani (LAD),-0.02850000000000001,0.0667,0.0952
+2024-06-18 15:01:07.984410,Bare Knuckle Fighting Championship - Christine Vicens vs Melanie Shah - To Win the Bout,Melanie Shah,-0.028600000000000014,0.3636,0.3922
+2024-06-18 15:00:57.251998,UEFA Euro 2024 Futures - Euro 2024 Futures - Top Goalscorer,Kylian Mbappe,-0.033299999999999996,0.1,0.1333
+2024-06-18 15:01:07.957425,Bare Knuckle Fighting Championship - Peter Peraza vs Wayna Reid - To Win the Bout,Peter Peraza,-0.033299999999999996,0.4545,0.4878
 2024-06-18 03:03:42.295956,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,JD Vance,-0.033399999999999985,0.1333,0.1667
 2024-06-18 03:03:50.461479,Bare Knuckle Fighting Championship - Markus Suarez vs David Simpson - To Win the Bout,Markus Suarez,-0.035700000000000065,0.6364,0.6721
 2024-06-18 11:04:11.974956,Boxing Lines - Jake Paul vs Mike Perry - To Win the Bout,Jake Paul,-0.0363,0.697,0.7333
+2024-06-18 15:01:08.009890,Bare Knuckle Fighting Championship - Gee Perez vs Albert Inclan - To Win the Bout,Gee Perez,-0.03750000000000009,0.7403,0.7778
 2024-06-18 03:03:39.938530,UEFA Euro 2024 Futures - Euro 2024 - Group D - Group Winner,Netherlands,-0.03920000000000001,0.2941,0.3333
 2024-06-18 03:03:40.030326,UEFA Euro 2024 Futures - Euro 2024 - Group E - Top 2 in Exact Order,"Belgium 1st , Romania 2nd",-0.04040000000000002,0.1818,0.2222
 2024-06-18 03:03:39.689409,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Group,Group E,-0.04239999999999999,0.0345,0.0769
