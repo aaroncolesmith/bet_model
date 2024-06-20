@@ -5,7 +5,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-20 05:01:12.078981,UEFA Euro 2024 Futures - Euro 2024 - Group A - Top 2 in Exact Order,"Germany 1st , Switzerland 2nd",0.18269999999999997,0.875,0.6923
 2024-06-20 07:01:23.116784,Daily MLB Specials - Daily MLB Specials - Highest Scoring Game,Los Angeles Dodgers @ Colorado Rockies,0.1696,0.3125,0.1429
 2024-06-20 05:01:12.063664,UEFA Euro 2024 Futures - Euro 2024 - Group A - To Finish Bottom,Hungary,0.16100000000000003,0.661,0.5
-2024-06-20 01:01:04.285659,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Group,Group B,0.1389,0.25,0.1111
+2024-06-20 11:01:27.987185,College Baseball Futures - College World Series - College World Series Winner,Texas A&M,0.1518,0.4082,0.2564
+2024-06-20 11:01:27.987185,College Baseball Futures - College World Series - College World Series Winner,Tennessee,0.13690000000000002,0.6491,0.5122
 2024-06-20 03:00:52.980291,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Young Player of The Tournament,Jamal Musiala,0.12589999999999998,0.3077,0.1818
 2024-06-20 07:01:23.130085,Daily MLB Specials - Daily MLB Specials - Highest Scoring Team,Los Angeles Dodgers,0.1131,0.2083,0.0952
 2024-06-20 11:01:18.763100,Total Medals - Paris 2024 - Total Gold Medals - France Total Gold Medals,Under 25.5,0.08779999999999999,0.6226,0.5348
@@ -13,12 +14,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-20 03:00:53.096465,UEFA Euro 2024 Futures - Euro 2024 Futures - Lowest Scoring Team,Hungary,0.07450000000000001,0.1333,0.0588
 2024-06-20 07:01:23.116784,Daily MLB Specials - Daily MLB Specials - Highest Scoring Game,Houston Astros @ Chicago White Sox,0.0694,0.125,0.0556
 2024-06-20 05:01:12.056329,UEFA Euro 2024 Futures - Euro 2024 - Group A - To Advance from Group,Scotland,0.06670000000000004,0.4,0.3333
-2024-06-20 01:01:04.253367,UEFA Euro 2024 Futures - Euro 2024 Futures - Top Goalscorer,Jamal Musiala,0.0635,0.1111,0.0476
 2024-06-20 05:01:12.048892,UEFA Euro 2024 Futures - Euro 2024 - Group A - Not To Advance from Group,Hungary,0.0635,0.7778,0.7143
 2024-06-20 07:01:23.130085,Daily MLB Specials - Daily MLB Specials - Highest Scoring Team,Houston Astros,0.061500000000000006,0.1,0.0385
 2024-06-20 05:01:11.891459,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Germany Bundesliga,Andrej Kramaric,0.058899999999999994,0.0833,0.0244
-2024-06-20 01:01:04.285659,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Group,Group F,0.057699999999999974,0.3077,0.25
 2024-06-20 03:00:51.855941,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Palmeiras,0.057699999999999974,0.3077,0.25
+2024-06-20 13:01:15.013917,Draft Specials - Draft Requested Specials - Draft Requested Specials,Rob Dillingham (Kentucky) to NOT be drafted in the Top 10,0.05449999999999999,0.4545,0.4
 2024-06-20 03:00:53.006145,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Final,Germany,0.05109999999999998,0.3636,0.3125
 2024-06-20 09:01:12.378342,2024 Election Core - US Presidential Election 2024 - Party Of Popular Vote Winner - Party of Popular Vote Winner,Republican,0.04849999999999999,0.2985,0.25
 2024-06-20 11:01:20.066364,Draft Picks - Draft Picks - 5th Overall Pick,Matas Buzelis (G League),0.047599999999999976,0.3333,0.2857
@@ -31,56 +31,47 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-20 05:01:12.128242,UEFA Euro 2024 Futures - Euro 2024 - Group B - Top 2 in Exact Order,"Italy 1st , Albania 2nd",0.0427,0.0526,0.0099
 2024-06-20 09:01:12.356257,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican,0.04259999999999997,0.6078,0.5652
 2024-06-20 03:01:05.702203,Boxing Lines - Floyd Diaz vs Francisco Pedroza - To Win the Bout,Francisco Pedroza,0.04169999999999999,0.1667,0.125
-2024-06-20 01:01:16.748988,Boxing Lines - Jordan Panthen vs Victor Toney - To Win the Bout,Victor Toney,0.040700000000000014,0.2817,0.241
+2024-06-20 13:01:14.872768,Draft Picks - Draft Picks - 4th Overall Pick,Zaccharie Risacher (JL Bourg),0.0407,0.1176,0.0769
 2024-06-20 03:00:53.096465,UEFA Euro 2024 Futures - Euro 2024 Futures - Lowest Scoring Team,Ukraine,0.04040000000000002,0.2222,0.1818
 2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Netherlands Or Portugal To Win Outright,0.04040000000000002,0.2222,0.1818
-2024-06-20 01:01:04.294490,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Germany,0.04039999999999999,0.8182,0.7778
 2024-06-20 05:01:12.120101,UEFA Euro 2024 Futures - Euro 2024 - Group B - Top 2 in Either Order,Italy & Albania,0.0392,0.0588,0.0196
 2024-06-20 05:01:23.487952,Boxing Lines - Adel El Garmaoui vs Wassim Chellan - To Win the Bout,Adel El Garmaoui,0.038899999999999935,0.8571,0.8182
-2024-06-20 01:01:16.771454,Boxing Lines - Quaise Khademi vs Ryan Farrag - To Win the Bout,Ryan Farrag,0.0378,0.4082,0.3704
 2024-06-20 07:01:23.116784,Daily MLB Specials - Daily MLB Specials - Highest Scoring Game,Tampa Bay Rays @ Minnesota Twins,0.037500000000000006,0.1,0.0625
 2024-06-20 05:01:12.470223,"Daily Soccer Specials - Euro 2024 Daily Specials - Thursday, 20th June - Euro 2024 Daily Specials - Thursday, 20th June",10+ corners taken in 2+ matches,0.03710000000000002,0.3704,0.3333
 2024-06-20 05:01:12.088859,UEFA Euro 2024 Futures - Euro 2024 - Group B - Group Winner,Italy,0.03710000000000002,0.3448,0.3077
 2024-06-20 09:01:20.471900,BKFC 62: Stewart vs Duran - Christine Vicens vs Melanie Shah - To Win the Bout,Christine Vicens,0.0363,0.7333,0.697
 2024-06-20 03:00:53.096465,UEFA Euro 2024 Futures - Euro 2024 Futures - Lowest Scoring Team,Austria,0.036199999999999996,0.1538,0.1176
-2024-06-20 01:01:06.299114,Regular Season Wins O/U - Minnesota Lynx- 2024 Regular Season Wins - Minnesota Lynx- 2024 Regular Season Wins,Over 27.5,0.03610000000000002,0.5917,0.5556
-2024-06-20 01:01:06.276475,Regular Season Wins O/U - Las Vegas Aces- 2024 Regular Season Wins - Las Vegas Aces- 2024 Regular Season Wins,Over 27.5,0.03600000000000003,0.5238,0.4878
 2024-06-20 09:01:20.523063,BKFC 62: Stewart vs Duran - Justin Ibarrola vs Rick Caruso - To Win the Bout,Rick Caruso,0.03589999999999999,0.2632,0.2273
 2024-06-20 07:01:23.130085,Daily MLB Specials - Daily MLB Specials - Highest Scoring Team,Washington Nationals,0.035699999999999996,0.0833,0.0476
 2024-06-20 07:01:23.116784,Daily MLB Specials - Daily MLB Specials - Highest Scoring Game,Baltimore Orioles @ New York Yankees,0.03420000000000001,0.1111,0.0769
 2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Netherlands Or Spain To Win Outright,0.033300000000000024,0.2,0.1667
 2024-06-20 03:00:52.988948,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and Top Goalscorer Parlay,Germany/Jamal Musiala,0.03270000000000001,0.0476,0.0149
-2024-06-20 01:01:04.261311,UEFA Euro 2024 Futures - Euro 2024 Futures - First Time Winner?,No,0.03260000000000007,0.8,0.7674
 2024-06-20 09:01:20.459263,BKFC 62: Stewart vs Duran - Peter Peraza vs Wayna Reid - To Win the Bout,Wayna Reid,0.03259999999999996,0.6552,0.6226
-2024-06-20 01:01:04.285659,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Group,Group D,0.0321,0.0909,0.0588
 2024-06-20 09:01:20.008824,Boxing Lines - Jordan Panthen vs Victor Toney - To Win the Bout,Jordan Panthen,0.03080000000000005,0.8403,0.8095
-2024-06-20 01:01:06.332841,Regular Season Wins O/U - Seattle Storm- 2024 Regular Season Wins - Seattle Storm- 2024 Regular Season Wins,Under 25.5,0.030399999999999983,0.5652,0.5348
 2024-06-20 03:00:53.064773,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Netherlands,0.02960000000000007,0.6296,0.6
 2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either France Or Germany To Win Outright,0.029600000000000015,0.4,0.3704
 2024-06-20 07:01:24.571640,Round Match-Ups - 1st Round Match-Ups - J. Thomas vs K. Bradley - 1st Round Match-Ups,Keegan Bradley,0.028900000000000037,0.5744,0.5455
 2024-06-20 07:01:23.116784,Daily MLB Specials - Daily MLB Specials - Highest Scoring Game,Kansas City Royals @ Oakland Athletics,0.028399999999999995,0.0909,0.0625
-2024-06-20 05:01:11.891459,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Germany Bundesliga,Florian Wirtz,0.027800000000000005,0.1111,0.0833
 2024-06-20 03:00:52.972378,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Jamal Musiala,0.027800000000000005,0.1111,0.0833
-2024-06-20 03:00:52.964013,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - England Premier League,Kai Havertz,0.02779999999999999,0.25,0.2222
+2024-06-20 05:01:11.891459,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Germany Bundesliga,Florian Wirtz,0.027800000000000005,0.1111,0.0833
 2024-06-20 03:00:51.790963,MLS - USA MLS 2024 - Futures - To Reach the Final,FC Cincinnati,0.02779999999999999,0.25,0.2222
-2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Denmark Or France To Win Outright,0.02779999999999999,0.25,0.2222
+2024-06-20 03:00:52.964013,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - England Premier League,Kai Havertz,0.02779999999999999,0.25,0.2222
 2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Germany Or Italy To Win Outright,0.02779999999999999,0.25,0.2222
+2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Denmark Or France To Win Outright,0.02779999999999999,0.25,0.2222
 2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Germany Or Portugal To Win Outright,0.02560000000000001,0.3333,0.3077
 2024-06-20 03:00:53.096465,UEFA Euro 2024 Futures - Euro 2024 Futures - Lowest Scoring Team,Serbia,0.025300000000000003,0.1429,0.1176
-2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Belgium Or Germany To Win Outright,0.024800000000000016,0.2353,0.2105
 2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Germany Or Netherlands To Win Outright,0.024800000000000016,0.2353,0.2105
+2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Belgium Or Germany To Win Outright,0.024800000000000016,0.2353,0.2105
 2024-06-20 07:01:23.130085,Daily MLB Specials - Daily MLB Specials - Highest Scoring Team,Baltimore Orioles,0.024,0.0625,0.0385
 2024-06-20 07:01:23.130085,Daily MLB Specials - Daily MLB Specials - Highest Scoring Team,Tampa Bay Rays,0.024,0.0625,0.0385
 2024-06-20 03:00:51.790963,MLS - USA MLS 2024 - Futures - To Reach the Final,Inter Miami,0.023799999999999988,0.5,0.4762
-2024-06-20 01:01:04.294490,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,France,0.023799999999999932,0.8571,0.8333
 2024-06-20 03:00:53.046740,UEFA Euro 2024 Futures - Euro 2024 Futures - Most Assists,Ilkay Gundogan,0.023200000000000002,0.0476,0.0244
-2024-06-20 01:01:06.389828,To Make the Playoffs - Indiana Fever - To Make the 2024 WNBA Playoffs - Indiana Fever - To Make the 2024 WNBA Playoffs,Yes,0.022600000000000064,0.5348,0.5122
 2024-06-20 03:00:51.790963,MLS - USA MLS 2024 - Futures - To Reach the Final,LA Galaxy,0.022199999999999998,0.2222,0.2
 2024-06-20 09:01:12.437020,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.022199999999999998,0.8,0.7778
 2024-06-20 09:01:12.448164,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,Joe Biden,0.022199999999999998,0.8,0.7778
 2024-06-20 03:00:53.064773,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Portugal,0.02200000000000002,0.7143,0.6923
 2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Germany Or Spain To Win Outright,0.021999999999999964,0.3077,0.2857
-2024-06-20 01:01:06.265443,Regular Season Wins O/U - Indiana Fever - 2024 Regular Season Wins - Indiana Fever - 2024 Regular Season Wins,Under 14.5,0.02169999999999994,0.5455,0.5238
+2024-06-20 13:01:15.232030,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Doug Burgum,0.021999999999999964,0.3077,0.2857
 2024-06-20 07:01:23.130085,Daily MLB Specials - Daily MLB Specials - Highest Scoring Team,New York Yankees,0.0213,0.0769,0.0556
 2024-06-20 03:00:51.769195,MLS - USA MLS 2024 - Futures - Winner,Inter Miami,0.02100000000000002,0.3846,0.3636
 2024-06-20 05:01:12.128242,UEFA Euro 2024 Futures - Euro 2024 - Group B - Top 2 in Exact Order,"Italy 1st , Spain 2nd",0.020799999999999985,0.3333,0.3125
@@ -88,106 +79,102 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-20 07:01:23.130085,Daily MLB Specials - Daily MLB Specials - Highest Scoring Team,Chicago White Sox,0.0203,0.0588,0.0385
 2024-06-20 05:01:12.161550,UEFA Euro 2024 Futures - Euro 2024 - Group C - To Finish Bottom,Denmark,0.020299999999999985,0.2703,0.25
 2024-06-20 03:00:52.997410,UEFA Euro 2024 Futures - Euro 2024 Futures - Name The Finalists,France & Germany to meet in the Final,0.02020000000000001,0.1111,0.0909
-2024-06-20 01:01:04.253367,UEFA Euro 2024 Futures - Euro 2024 Futures - Top Goalscorer,Ilkay Gundogan,0.020000000000000004,0.0323,0.0123
 2024-06-20 03:00:52.988948,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and Top Goalscorer Parlay,England/Jamal Musiala,0.019899999999999998,0.0278,0.0079
 2024-06-20 03:00:53.055336,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"Portugal Winner, France Runner Up",0.019099999999999995,0.0435,0.0244
 2024-06-20 07:01:23.130085,Daily MLB Specials - Daily MLB Specials - Highest Scoring Team,Kansas City Royals,0.019099999999999992,0.0667,0.0476
 2024-06-20 03:00:51.806663,MLS - USA MLS 2024 - Futures - Western Conference League Winner,LA Galaxy,0.019000000000000017,0.2857,0.2667
 2024-06-20 09:01:12.367157,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Donald Trump,0.019000000000000017,0.2857,0.2667
-2024-06-20 07:01:23.130085,Daily MLB Specials - Daily MLB Specials - Highest Scoring Team,Seattle Mariners,0.019000000000000003,0.0625,0.0435
 2024-06-20 07:01:23.130085,Daily MLB Specials - Daily MLB Specials - Highest Scoring Team,San Diego Padres,0.019000000000000003,0.0625,0.0435
+2024-06-20 07:01:23.130085,Daily MLB Specials - Daily MLB Specials - Highest Scoring Team,Seattle Mariners,0.019000000000000003,0.0625,0.0435
 2024-06-20 05:01:11.619349,UEFA Euro 2024 Team Specials - Croatia Team Specials - Stage Of Elimination,Group Stage,0.018999999999999906,0.7333,0.7143
 2024-06-20 05:01:23.364013,Boxing Lines - Quaise Khademi vs Ryan Farrag - To Win the Bout,Quaise Khademi,0.01880000000000004,0.6552,0.6364
-2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Italy Or Spain To Win Outright,0.01820000000000002,0.2,0.1818
 2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Denmark Or Germany To Win Outright,0.01820000000000002,0.2,0.1818
+2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Italy Or Spain To Win Outright,0.01820000000000002,0.2,0.1818
 2024-06-20 05:01:12.146664,UEFA Euro 2024 Futures - Euro 2024 - Group C - Not To Advance from Group,Denmark,0.018100000000000005,0.4348,0.4167
-2024-06-20 05:01:12.040170,UEFA Euro 2024 Futures - Euro 2024 - Group A - Group Winner,Germany,0.017900000000000027,0.875,0.8571
 2024-06-20 05:01:12.138168,UEFA Euro 2024 Futures - Euro 2024 - Group C - Group Winner,England,0.017900000000000027,0.875,0.8571
+2024-06-20 05:01:12.040170,UEFA Euro 2024 Futures - Euro 2024 - Group A - Group Winner,Germany,0.017900000000000027,0.875,0.8571
+2024-06-20 13:01:25.795648,BKFC 62: Stewart vs Duran - Kai Stewart vs Bryan Duran - To Win the Bout,Bryan Duran,0.017299999999999982,0.5917,0.5744
 2024-06-20 03:01:05.663399,Boxing Lines - Quaise Khademi vs Ryan Farrag - To Win the Bout,Ryan Farrag,0.017299999999999982,0.4255,0.4082
-2024-06-20 03:00:53.064773,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Austria,0.016699999999999993,0.2667,0.25
-2024-06-20 03:00:53.089033,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Team,Germany,0.016699999999999993,0.4167,0.4
-2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Portugal Or Spain To Win Outright,0.016699999999999993,0.2667,0.25
 2024-06-20 11:01:28.638190,Boxing Lines - Jared Anderson vs Martin Bakole Ilunga - To Win the Bout,Martin Bakole Ilunga,0.016699999999999993,0.4167,0.4
-2024-06-20 07:01:23.130085,Daily MLB Specials - Daily MLB Specials - Highest Scoring Team,Minnesota Twins,0.016699999999999993,0.0667,0.05
 2024-06-20 03:00:53.072748,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Spain,0.016699999999999993,0.4167,0.4
+2024-06-20 03:00:53.064773,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Austria,0.016699999999999993,0.2667,0.25
+2024-06-20 07:01:23.130085,Daily MLB Specials - Daily MLB Specials - Highest Scoring Team,Minnesota Twins,0.016699999999999993,0.0667,0.05
+2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Portugal Or Spain To Win Outright,0.016699999999999993,0.2667,0.25
 2024-06-20 03:00:51.799031,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,FC Cincinnati,0.016699999999999993,0.2667,0.25
+2024-06-20 03:00:53.089033,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Team,Germany,0.016699999999999993,0.4167,0.4
 2024-06-20 09:01:20.393164,Boxing Lines - Jake Paul vs Mike Perry - To Win the Bout,Jake Paul,0.01629999999999998,0.7222,0.7059
 2024-06-20 07:01:24.806412,Match-Ups - 1st Round Match-Up - P. Cantlay v X. Schauffele - Requests,Xander Schauffele,0.016100000000000003,0.6078,0.5917
 2024-06-20 07:01:23.291338,Boxing Lines - Jordan Panthen vs Victor Toney - To Win the Bout,Jordan Panthen,0.015800000000000036,0.8095,0.7937
+2024-06-20 13:01:13.205603,UEFA Euro 2024 Futures - Euro 2024 Futures - Outright Winner,Spain,0.015700000000000006,0.1333,0.1176
 2024-06-20 03:00:53.064773,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,England,0.015100000000000002,0.8333,0.8182
 2024-06-20 03:00:53.064773,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Croatia,0.015100000000000002,0.1818,0.1667
 2024-06-20 03:00:51.855941,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Cruzeiro MG,0.014900000000000004,0.0345,0.0196
 2024-06-20 07:01:23.130085,Daily MLB Specials - Daily MLB Specials - Highest Scoring Team,Cleveland Guardians,0.014899999999999997,0.0625,0.0476
 2024-06-20 05:01:11.502655,UEFA Euro 2024 Team Specials - Germany Team Specials - Top Team Goalscorer,Kai Havertz,0.01469999999999999,0.25,0.2353
+2024-06-20 13:01:15.000412,Draft Position - To Be Drafted in Top 5  - To Be a Top 5 Pick,Ja'Kobe Walter (Baylor),0.014399999999999996,0.0769,0.0625
 2024-06-20 05:01:12.097599,UEFA Euro 2024 Futures - Euro 2024 - Group B - Not To Advance from Group,Albania,0.014399999999999968,0.9375,0.9231
 2024-06-20 05:01:11.601367,UEFA Euro 2024 Team Specials - Albania Team Specials - Stage Of Elimination,Group Stage,0.014399999999999968,0.9375,0.9231
-2024-06-20 03:00:53.006145,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Final,Denmark,0.014100000000000001,0.0526,0.0385
 2024-06-20 07:01:23.130085,Daily MLB Specials - Daily MLB Specials - Highest Scoring Team,Oakland Athletics,0.014100000000000001,0.0526,0.0385
+2024-06-20 03:00:53.006145,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Final,Denmark,0.014100000000000001,0.0526,0.0385
 2024-06-20 03:00:53.055336,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"Portugal Winner, England Runner Up",0.014099999999999998,0.0385,0.0244
-2024-06-20 03:00:53.096465,UEFA Euro 2024 Futures - Euro 2024 Futures - Lowest Scoring Team,Poland,0.013999999999999999,0.0909,0.0769
 2024-06-20 03:00:52.972378,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Toni Kroos,0.013999999999999999,0.0909,0.0769
+2024-06-20 03:00:53.096465,UEFA Euro 2024 Futures - Euro 2024 Futures - Lowest Scoring Team,Poland,0.013999999999999999,0.0909,0.0769
+2024-06-20 03:01:10.379338,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Nelly Korda,0.013899999999999996,0.125,0.1111
 2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Italy Or Netherlands To Win Outright,0.013899999999999996,0.125,0.1111
 2024-06-20 07:01:23.116784,Daily MLB Specials - Daily MLB Specials - Highest Scoring Game,Arizona Diamondbacks @ Washington Nationals,0.013899999999999996,0.125,0.1111
-2024-06-20 01:01:16.793439,Boxing Lines - Lyndon Arthur vs Liam Cameron - To Win the Bout,Liam Cameron,0.013899999999999996,0.125,0.1111
-2024-06-20 03:01:10.379338,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Nelly Korda,0.013899999999999996,0.125,0.1111
 2024-06-20 03:00:51.799031,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,Inter Miami,0.013799999999999923,0.6364,0.6226
-2024-06-20 01:01:04.294490,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Italy,0.013799999999999923,0.6364,0.6226
 2024-06-20 03:00:53.006145,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Final,Spain,0.0131,0.2353,0.2222
-2024-06-20 03:00:53.055336,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"France Winner, Germany Runner Up",0.0131,0.0476,0.0345
-2024-06-20 01:01:04.294490,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Slovakia,0.0131,0.2353,0.2222
 2024-06-20 03:00:53.055336,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"England Winner, Portugal Runner Up",0.0131,0.0476,0.0345
+2024-06-20 03:00:53.055336,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"France Winner, Germany Runner Up",0.0131,0.0476,0.0345
 2024-06-20 03:00:53.055336,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"Portugal Winner, Germany Runner Up",0.012700000000000003,0.0323,0.0196
-2024-06-20 01:01:04.302061,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Germany,0.011600000000000055,0.5238,0.5122
+2024-06-20 13:01:16.627888,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Baltimore Ravens,0.011900000000000008,0.0952,0.0833
 2024-06-20 11:01:28.194559,Boxing Lines - Quaise Khademi vs Ryan Farrag - To Win the Bout,Quaise Khademi,0.011499999999999955,0.6667,0.6552
-2024-06-20 03:00:53.096465,UEFA Euro 2024 Futures - Euro 2024 Futures - Lowest Scoring Team,Denmark,0.011199999999999995,0.0588,0.0476
-2024-06-20 03:00:53.055336,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"England Winner, Germany Runner Up",0.011199999999999995,0.0588,0.0476
 2024-06-20 03:00:53.006145,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Final,Turkey,0.011199999999999995,0.0588,0.0476
-2024-06-20 03:01:05.640867,Boxing Lines - Jordan Panthen vs Victor Toney - To Win the Bout,Jordan Panthen,0.011099999999999999,0.7937,0.7826
+2024-06-20 03:00:53.055336,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"England Winner, Germany Runner Up",0.011199999999999995,0.0588,0.0476
+2024-06-20 03:00:53.096465,UEFA Euro 2024 Futures - Euro 2024 Futures - Lowest Scoring Team,Denmark,0.011199999999999995,0.0588,0.0476
+2024-06-20 13:01:16.627888,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Dallas Cowboys,0.011199999999999995,0.0588,0.0476
 2024-06-20 03:00:53.096465,UEFA Euro 2024 Futures - Euro 2024 Futures - Lowest Scoring Team,Georgia,0.011099999999999999,0.1111,0.1
 2024-06-20 03:00:53.096465,UEFA Euro 2024 Futures - Euro 2024 Futures - Lowest Scoring Team,Slovenia,0.011099999999999999,0.1111,0.1
+2024-06-20 03:01:05.640867,Boxing Lines - Jordan Panthen vs Victor Toney - To Win the Bout,Jordan Panthen,0.011099999999999999,0.7937,0.7826
 2024-06-20 03:00:51.769195,MLS - USA MLS 2024 - Futures - Winner,FC Cincinnati,0.011099999999999999,0.1111,0.1
-2024-06-20 01:01:04.253367,UEFA Euro 2024 Futures - Euro 2024 Futures - Top Goalscorer,Kylian Mbappe,0.011099999999999999,0.1111,0.1
 2024-06-20 03:00:53.072748,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Germany,0.01100000000000001,0.5348,0.5238
 2024-06-20 03:00:53.006145,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Final,Netherlands,0.010899999999999993,0.1538,0.1429
 2024-06-20 03:00:53.072748,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Switzerland,0.010899999999999993,0.1538,0.1429
-2024-06-20 03:00:53.096465,UEFA Euro 2024 Futures - Euro 2024 Futures - Lowest Scoring Team,Czech Republic,0.010700000000000001,0.0385,0.0278
 2024-06-20 03:00:52.972378,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Ilkay Gundogan,0.010700000000000001,0.0385,0.0278
+2024-06-20 03:00:53.096465,UEFA Euro 2024 Futures - Euro 2024 Futures - Lowest Scoring Team,Czech Republic,0.010700000000000001,0.0385,0.0278
 2024-06-20 09:01:20.497912,BKFC 62: Stewart vs Duran - Gee Perez vs Albert Inclan - To Win the Bout,Albert Inclan,0.010699999999999987,0.3333,0.3226
-2024-06-20 01:01:04.245667,UEFA Euro 2024 Futures - Euro 2024 Futures - Outright Winner,England,0.010499999999999982,0.2105,0.2
 2024-06-20 03:01:05.689329,Boxing Lines - Demler Zamora vs Jose Antonio Meza - To Win the Bout,Jose Antonio Meza,0.0102,0.0769,0.0667
-2024-06-20 01:01:04.302061,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Romania,0.0102,0.0769,0.0667
 2024-06-20 03:00:52.997410,UEFA Euro 2024 Futures - Euro 2024 Futures - Name The Finalists,England & Portugal to meet in the Final,0.0102,0.0769,0.0667
 2024-06-20 03:00:52.988948,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and Top Goalscorer Parlay,England/Harry Kane,0.0102,0.0769,0.0667
-2024-06-20 01:01:16.827376,Boxing Lines - Floyd Diaz vs Francisco Pedroza - To Win the Bout,Floyd Diaz,0.010199999999999987,0.9333,0.9231
 2024-06-20 07:01:23.319576,Boxing Lines - Lyndon Arthur vs Liam Cameron - To Win the Bout,Lyndon Arthur,0.010199999999999987,0.9333,0.9231
+2024-06-20 13:01:16.627888,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Atlanta Falcons,-0.010100000000000001,0.0244,0.0345
 2024-06-20 05:01:23.377086,Boxing Lines - Lyndon Arthur vs Liam Cameron - To Win the Bout,Lyndon Arthur,-0.010199999999999987,0.9231,0.9333
-2024-06-20 03:00:52.972378,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Harry Kane,-0.0102,0.0667,0.0769
-2024-06-20 05:01:11.899120,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Italy Serie A,Khvicha Kvaratskhelia,-0.0102,0.0667,0.0769
 2024-06-20 03:00:53.072748,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Romania,-0.0102,0.0667,0.0769
+2024-06-20 03:00:52.997410,UEFA Euro 2024 Futures - Euro 2024 Futures - Name The Finalists,Croatia & France to meet in the Final,-0.0102,0.005,0.0152
 2024-06-20 07:01:23.130085,Daily MLB Specials - Daily MLB Specials - Highest Scoring Team,San Francisco Giants,-0.0102,0.0667,0.0769
 2024-06-20 03:00:52.997410,UEFA Euro 2024 Futures - Euro 2024 Futures - Name The Finalists,Croatia & England to meet in the Final,-0.0102,0.005,0.0152
-2024-06-20 01:01:04.253367,UEFA Euro 2024 Futures - Euro 2024 Futures - Top Goalscorer,Jude Bellingham,-0.0102,0.0667,0.0769
-2024-06-20 03:00:52.997410,UEFA Euro 2024 Futures - Euro 2024 Futures - Name The Finalists,Croatia & France to meet in the Final,-0.0102,0.005,0.0152
+2024-06-20 03:00:52.972378,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Harry Kane,-0.0102,0.0667,0.0769
+2024-06-20 05:01:11.899120,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Italy Serie A,Khvicha Kvaratskhelia,-0.0102,0.0667,0.0769
 2024-06-20 11:01:18.310233,UEFA Euro 2024 Futures - Euro 2024 Futures - Outright Winner,England,-0.010499999999999982,0.2,0.2105
 2024-06-20 05:01:11.511250,UEFA Euro 2024 Team Specials - Germany Team Specials - Total Tournament Goals,Under 10.5 Goals,-0.010599999999999998,0.4545,0.4651
 2024-06-20 03:00:52.972378,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Lamine Yamal,-0.010700000000000001,0.0278,0.0385
 2024-06-20 05:01:11.891459,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Germany Bundesliga,Thomas Muller,-0.010700000000000001,0.0278,0.0385
-2024-06-20 03:00:51.855941,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,RB Bragantino,-0.010700000000000001,0.0278,0.0385
-2024-06-20 01:01:04.269537,UEFA Euro 2024 Futures - Euro 2024 Futures - Runner Up,Croatia,-0.010700000000000001,0.0278,0.0385
-2024-06-20 05:01:12.120101,UEFA Euro 2024 Futures - Euro 2024 - Group B - Top 2 in Either Order,Spain & Albania,-0.010700000000000001,0.0278,0.0385
 2024-06-20 03:00:52.972378,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Kevin de Bruyne,-0.010700000000000001,0.0278,0.0385
-2024-06-20 05:01:12.105354,UEFA Euro 2024 Futures - Euro 2024 - Group B - To Advance from Group,Albania,-0.010899999999999993,0.1429,0.1538
+2024-06-20 05:01:12.120101,UEFA Euro 2024 Futures - Euro 2024 - Group B - Top 2 in Either Order,Spain & Albania,-0.010700000000000001,0.0278,0.0385
+2024-06-20 03:00:51.855941,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,RB Bragantino,-0.010700000000000001,0.0278,0.0385
 2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Croatia Or Portugal To Win Outright,-0.010899999999999993,0.1429,0.1538
+2024-06-20 05:01:12.105354,UEFA Euro 2024 Futures - Euro 2024 - Group B - To Advance from Group,Albania,-0.010899999999999993,0.1429,0.1538
 2024-06-20 03:00:53.064773,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,France,-0.01090000000000002,0.8462,0.8571
 2024-06-20 03:01:06.527269,Match-Ups - Tournament Match-Up - A. Scott v S. Lowry - Requests,Shane Lowry,-0.01100000000000001,0.5238,0.5348
 2024-06-20 03:01:06.527269,Match-Ups - Tournament Match-Up - A. Scott v S. Lowry - Requests,Adam Scott,-0.01100000000000001,0.5238,0.5348
-2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Belgium Or Italy To Win Outright,-0.011099999999999999,0.1,0.1111
 2024-06-20 03:00:52.972378,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Kylian Mbappe,-0.011099999999999999,0.1,0.1111
-2024-06-20 03:00:52.972378,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Phil Foden,-0.011199999999999995,0.0476,0.0588
+2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Belgium Or Italy To Win Outright,-0.011099999999999999,0.1,0.1111
 2024-06-20 03:00:52.980291,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Young Player of The Tournament,Eduardo Camavinga,-0.011199999999999995,0.0476,0.0588
 2024-06-20 05:01:11.891459,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Germany Bundesliga,Donyell Malen,-0.011199999999999995,0.0476,0.0588
 2024-06-20 03:00:51.806663,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Vancouver Whitecaps,-0.011199999999999995,0.0476,0.0588
+2024-06-20 03:00:52.972378,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Phil Foden,-0.011199999999999995,0.0476,0.0588
 2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either England Or Spain To Win Outright,-0.01150000000000001,0.3333,0.3448
+2024-06-20 13:01:25.795648,BKFC 62: Stewart vs Duran - Kai Stewart vs Bryan Duran - To Win the Bout,Kai Stewart,-0.0116,0.4762,0.4878
 2024-06-20 09:01:20.393164,Boxing Lines - Jake Paul vs Mike Perry - To Win the Bout,Mike Perry,-0.012299999999999978,0.3448,0.3571
 2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either England Or Portugal To Win Outright,-0.012699999999999989,0.3509,0.3636
 2024-06-20 05:01:12.154051,UEFA Euro 2024 Futures - Euro 2024 - Group C - To Advance from Group,Denmark,-0.012700000000000045,0.6364,0.6491
@@ -195,58 +182,51 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-20 05:01:12.128242,UEFA Euro 2024 Futures - Euro 2024 - Group B - Top 2 in Exact Order,"Spain 1st , Croatia 2nd",-0.0131,0.2222,0.2353
 2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Belgium Or France To Win Outright,-0.01319999999999999,0.25,0.2632
 2024-06-20 03:00:52.964013,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - England Premier League,Phil Foden,-0.013899999999999996,0.1111,0.125
-2024-06-20 03:00:52.980291,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Young Player of The Tournament,Arda Guler,-0.013999999999999999,0.0769,0.0909
 2024-06-20 03:00:51.790963,MLS - USA MLS 2024 - Futures - To Reach the Final,Minnesota United,-0.013999999999999999,0.0769,0.0909
+2024-06-20 03:00:52.980291,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Young Player of The Tournament,Arda Guler,-0.013999999999999999,0.0769,0.0909
 2024-06-20 03:00:51.790963,MLS - USA MLS 2024 - Futures - To Reach the Final,Vancouver Whitecaps,-0.013999999999999999,0.0769,0.0909
 2024-06-20 03:00:52.972378,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Cristiano Ronaldo,-0.014099999999999994,0.0526,0.0667
 2024-06-20 03:00:53.055336,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"England Winner, France Runner Up",-0.014099999999999998,0.0294,0.0435
-2024-06-20 01:01:16.793439,Boxing Lines - Lyndon Arthur vs Liam Cameron - To Win the Bout,Lyndon Arthur,-0.014100000000000001,0.9333,0.9474
 2024-06-20 03:00:53.096465,UEFA Euro 2024 Futures - Euro 2024 Futures - Lowest Scoring Team,Scotland,-0.014100000000000001,0.0385,0.0526
 2024-06-20 07:01:23.291338,Boxing Lines - Jordan Panthen vs Victor Toney - To Win the Bout,Victor Toney,-0.014300000000000035,0.2597,0.274
 2024-06-20 03:00:52.988948,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and Top Goalscorer Parlay,France/Kylian Mbappe,-0.014399999999999996,0.0625,0.0769
-2024-06-20 01:01:04.278051,UEFA Euro 2024 Futures - Euro 2024 Futures - Group of Winning Team,Group C,-0.01469999999999999,0.2353,0.25
+2024-06-20 05:01:11.635119,UEFA Euro 2024 Team Specials - Croatia Team Specials - Total Tournament Goals,Under 5.5 Goals,-0.015100000000000002,0.8182,0.8333
+2024-06-20 13:01:15.232030,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,JD Vance,-0.015100000000000002,0.1667,0.1818
 2024-06-20 03:00:53.089033,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Team,Portugal,-0.015100000000000002,0.1667,0.1818
 2024-06-20 03:00:52.972378,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Jude Bellingham,-0.015100000000000002,0.1667,0.1818
-2024-06-20 05:01:11.635119,UEFA Euro 2024 Team Specials - Croatia Team Specials - Total Tournament Goals,Under 5.5 Goals,-0.015100000000000002,0.8182,0.8333
 2024-06-20 05:01:11.891459,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Germany Bundesliga,Serge Gnabry,-0.015300000000000001,0.0323,0.0476
 2024-06-20 03:00:51.855941,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,São Paulo,-0.0157,0.0278,0.0435
 2024-06-20 05:01:12.138168,UEFA Euro 2024 Futures - Euro 2024 - Group C - Group Winner,Denmark,-0.015700000000000006,0.1176,0.1333
 2024-06-20 05:01:11.635119,UEFA Euro 2024 Team Specials - Croatia Team Specials - Total Tournament Goals,Over 5.5 Goals,-0.016699999999999993,0.25,0.2667
-2024-06-20 01:01:04.294490,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Spain,-0.016700000000000048,0.7333,0.75
 2024-06-20 05:01:12.088859,UEFA Euro 2024 Futures - Euro 2024 - Group B - Group Winner,Spain,-0.016700000000000048,0.7333,0.75
 2024-06-20 05:01:23.364013,Boxing Lines - Quaise Khademi vs Ryan Farrag - To Win the Bout,Ryan Farrag,-0.017299999999999982,0.4082,0.4255
 2024-06-20 11:01:28.638190,Boxing Lines - Jared Anderson vs Martin Bakole Ilunga - To Win the Bout,Jared Anderson,-0.01759999999999995,0.6491,0.6667
 2024-06-20 05:01:12.128242,UEFA Euro 2024 Futures - Euro 2024 - Group B - Top 2 in Exact Order,"Croatia 1st , Italy 2nd",-0.017599999999999998,0.002,0.0196
-2024-06-20 03:00:51.799031,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,Columbus Crew,-0.018099999999999998,0.0588,0.0769
 2024-06-20 03:00:51.799031,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,New York City FC,-0.018099999999999998,0.0588,0.0769
+2024-06-20 03:00:51.799031,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,Columbus Crew,-0.018099999999999998,0.0588,0.0769
 2024-06-20 03:01:05.663399,Boxing Lines - Quaise Khademi vs Ryan Farrag - To Win the Bout,Quaise Khademi,-0.01880000000000004,0.6364,0.6552
-2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either England Or Netherlands To Win Outright,-0.019000000000000017,0.2667,0.2857
 2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either France Or Italy To Win Outright,-0.019000000000000017,0.2667,0.2857
+2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either England Or Netherlands To Win Outright,-0.019000000000000017,0.2667,0.2857
 2024-06-20 07:01:24.806412,Match-Ups - 1st Round Match-Up - P. Cantlay v X. Schauffele - Requests,Patrick Cantlay,-0.019699999999999995,0.4348,0.4545
 2024-06-20 05:01:11.891459,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Germany Bundesliga,Niclas Fullkrug,-0.02020000000000001,0.0909,0.1111
 2024-06-20 03:00:53.006145,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Final,Croatia,-0.0203,0.0385,0.0588
 2024-06-20 03:00:51.790963,MLS - USA MLS 2024 - Futures - To Reach the Final,Real Salt Lake,-0.02049999999999999,0.1333,0.1538
 2024-06-20 03:01:06.626776,Match-Ups - Tournament Match-Up - S. Theegala v V. Hovland - Requests,Sahith Theegala,-0.020699999999999996,0.4444,0.4651
-2024-06-20 01:01:06.389828,To Make the Playoffs - Indiana Fever - To Make the 2024 WNBA Playoffs - Indiana Fever - To Make the 2024 WNBA Playoffs,No,-0.02079999999999993,0.5348,0.5556
 2024-06-20 03:01:06.650592,Match-Ups - Tournament Match-Up - S.W. Kim v M. Fitzpatrick - Requests,Si Woo Kim,-0.02079999999999993,0.5348,0.5556
-2024-06-20 01:01:06.265443,Regular Season Wins O/U - Indiana Fever - 2024 Regular Season Wins - Indiana Fever - 2024 Regular Season Wins,Over 14.5,-0.02169999999999994,0.5238,0.5455
 2024-06-20 03:01:06.555227,Match-Ups - Tournament Match-Up - J.T. Poston v B. Horschel - Requests,Billy Horschel,-0.021699999999999997,0.4545,0.4762
-2024-06-20 05:01:11.899120,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Italy Serie A,Romelu Lukaku,-0.021999999999999964,0.2857,0.3077
 2024-06-20 03:00:51.806663,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Los Angeles FC,-0.021999999999999964,0.2857,0.3077
-2024-06-20 01:01:04.294490,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Portugal,-0.02200000000000002,0.6923,0.7143
+2024-06-20 05:01:11.899120,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Italy Serie A,Romelu Lukaku,-0.021999999999999964,0.2857,0.3077
 2024-06-20 05:01:12.040170,UEFA Euro 2024 Futures - Euro 2024 - Group A - Group Winner,Switzerland,-0.022199999999999998,0.2,0.2222
 2024-06-20 03:00:51.806663,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Minnesota United,-0.02310000000000001,0.0769,0.1
 2024-06-20 09:01:12.448164,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,The Field,-0.0232,0.2667,0.2899
+2024-06-20 03:01:06.602137,Match-Ups - Tournament Match-Up - S. Straka v J. Thomas - Requests,Justin Thomas,-0.023799999999999988,0.4762,0.5
 2024-06-20 03:01:06.541039,Match-Ups - Tournament Match-Up - B. Hun An v C. Bezuidenhout - Requests,Byeong Hun An,-0.023799999999999988,0.4762,0.5
 2024-06-20 03:01:06.578109,Match-Ups - Tournament Match-Up - R. Henley v T. Finau - Requests,Tony Finau,-0.023799999999999988,0.4762,0.5
-2024-06-20 03:01:06.602137,Match-Ups - Tournament Match-Up - S. Straka v J. Thomas - Requests,Justin Thomas,-0.023799999999999988,0.4762,0.5
 2024-06-20 05:01:12.128242,UEFA Euro 2024 Futures - Euro 2024 - Group B - Top 2 in Exact Order,"Croatia 1st , Spain 2nd",-0.023799999999999998,0.004,0.0278
 2024-06-20 05:01:12.097599,UEFA Euro 2024 Futures - Euro 2024 - Group B - Not To Advance from Group,Italy,-0.0242,0.0667,0.0909
 2024-06-20 03:00:52.997410,UEFA Euro 2024 Futures - Euro 2024 Futures - Name The Finalists,England & France to meet in the Final,-0.024299999999999995,0.0526,0.0769
 2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Belgium Or Netherlands To Win Outright,-0.024999999999999994,0.1,0.125
 2024-06-20 03:00:51.855941,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Flamengo,-0.025499999999999967,0.4,0.4255
-2024-06-20 01:01:04.302061,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,France,-0.025599999999999956,0.5744,0.6
-2024-06-20 01:01:04.302061,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,England,-0.025599999999999956,0.5744,0.6
 2024-06-20 03:00:52.980291,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Young Player of The Tournament,Jude Bellingham,-0.02560000000000001,0.3077,0.3333
 2024-06-20 09:01:12.367157,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Joe Biden,-0.025600000000000067,0.6667,0.6923
 2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either England Or Italy To Win Outright,-0.02739999999999998,0.2667,0.2941
@@ -255,38 +235,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-20 03:00:53.089033,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Team,England,-0.027999999999999997,0.1538,0.1818
 2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Croatia Or Denmark To Win Outright,-0.0282,0.0244,0.0526
 2024-06-20 03:00:52.980291,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Young Player of The Tournament,Florian Wirtz,-0.028799999999999992,0.125,0.1538
-2024-06-20 01:01:06.276475,Regular Season Wins O/U - Las Vegas Aces- 2024 Regular Season Wins - Las Vegas Aces- 2024 Regular Season Wins,Under 27.5,-0.028900000000000037,0.5455,0.5744
 2024-06-20 09:01:20.471900,BKFC 62: Stewart vs Duran - Christine Vicens vs Melanie Shah - To Win the Bout,Melanie Shah,-0.030299999999999994,0.3333,0.3636
-2024-06-20 05:01:12.120101,UEFA Euro 2024 Futures - Euro 2024 - Group B - Top 2 in Either Order,Spain & Croatia,-0.031399999999999983,0.2353,0.2667
 2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Croatia Or England To Win Outright,-0.031399999999999983,0.2353,0.2667
-2024-06-20 01:01:04.302061,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Portugal,-0.031799999999999995,0.4444,0.4762
-2024-06-20 01:01:04.261311,UEFA Euro 2024 Futures - Euro 2024 Futures - First Time Winner?,Yes,-0.031799999999999995,0.2667,0.2985
+2024-06-20 05:01:12.120101,UEFA Euro 2024 Futures - Euro 2024 - Group B - Top 2 in Either Order,Spain & Croatia,-0.031399999999999983,0.2353,0.2667
 2024-06-20 09:01:20.008824,Boxing Lines - Jordan Panthen vs Victor Toney - To Win the Bout,Victor Toney,-0.032399999999999984,0.2273,0.2597
 2024-06-20 03:01:05.702203,Boxing Lines - Floyd Diaz vs Francisco Pedroza - To Win the Bout,Floyd Diaz,-0.033299999999999996,0.9,0.9333
-2024-06-20 01:01:04.294490,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Hungary,-0.033299999999999996,0.1,0.1333
 2024-06-20 05:01:12.120101,UEFA Euro 2024 Futures - Euro 2024 - Group B - Top 2 in Either Order,Italy & Croatia,-0.0335,0.005,0.0385
 2024-06-20 05:01:12.088859,UEFA Euro 2024 Futures - Euro 2024 - Group B - Group Winner,Croatia,-0.0336,0.0099,0.0435
-2024-06-20 01:01:06.332841,Regular Season Wins O/U - Seattle Storm- 2024 Regular Season Wins - Seattle Storm- 2024 Regular Season Wins,Over 25.5,-0.03480000000000005,0.5,0.5348
 2024-06-20 07:01:24.571640,Round Match-Ups - 1st Round Match-Ups - J. Thomas vs K. Bradley - 1st Round Match-Ups,Justin Thomas,-0.03489999999999999,0.4651,0.5
 2024-06-20 11:01:20.066364,Draft Picks - Draft Picks - 5th Overall Pick,Cody Williams (Colorado),-0.03570000000000001,0.25,0.2857
-2024-06-20 01:01:04.294490,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Austria,-0.03570000000000001,0.25,0.2857
-2024-06-20 01:01:06.299114,Regular Season Wins O/U - Minnesota Lynx- 2024 Regular Season Wins - Minnesota Lynx- 2024 Regular Season Wins,Under 27.5,-0.035999999999999976,0.4762,0.5122
 2024-06-20 09:01:20.459263,BKFC 62: Stewart vs Duran - Peter Peraza vs Wayna Reid - To Win the Bout,Peter Peraza,-0.03620000000000001,0.4082,0.4444
 2024-06-20 09:01:20.523063,BKFC 62: Stewart vs Duran - Justin Ibarrola vs Rick Caruso - To Win the Bout,Justin Ibarrola,-0.0364000000000001,0.8039,0.8403
-2024-06-20 01:01:16.771454,Boxing Lines - Quaise Khademi vs Ryan Farrag - To Win the Bout,Quaise Khademi,-0.03710000000000002,0.6552,0.6923
 2024-06-20 05:01:23.487952,Boxing Lines - Adel El Garmaoui vs Wassim Chellan - To Win the Bout,Wassim Chellan,-0.03950000000000001,0.2105,0.25
 2024-06-20 09:01:12.356257,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,-0.039600000000000024,0.4255,0.4651
 2024-06-20 03:00:52.980291,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Young Player of The Tournament,Lamine Yamal,-0.04169999999999999,0.125,0.1667
 2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Belgium Or Croatia To Win Outright,-0.04329999999999999,0.0476,0.0909
-2024-06-20 01:01:16.748988,Boxing Lines - Jordan Panthen vs Victor Toney - To Win the Bout,Jordan Panthen,-0.04349999999999998,0.7826,0.8261
 2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either England Or France To Win Outright,-0.044399999999999995,0.4,0.4444
 2024-06-20 03:00:53.080791,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Belgium Or Denmark To Win Outright,-0.047400000000000005,0.0526,0.1
 2024-06-20 03:00:51.855941,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Atlético Mineiro,-0.05559999999999998,0.1111,0.1667
-2024-06-20 01:01:04.302061,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Croatia,-0.056400000000000006,0.0769,0.1333
 2024-06-20 05:01:12.070873,UEFA Euro 2024 Futures - Euro 2024 - Group A - Top 2 in Either Order,Germany & Scotland,-0.0596,0.0833,0.1429
 2024-06-20 09:01:12.378342,2024 Election Core - US Presidential Election 2024 - Party Of Popular Vote Winner - Party of Popular Vote Winner,Democratic,-0.06320000000000003,0.7368,0.8
-2024-06-20 05:01:12.048892,UEFA Euro 2024 Futures - Euro 2024 - Group A - Not To Advance from Group,Switzerland,-0.0756,0.0244,0.1
 2024-06-20 03:00:53.096465,UEFA Euro 2024 Futures - Euro 2024 Futures - Lowest Scoring Team,Croatia,-0.0756,0.0244,0.1
+2024-06-20 05:01:12.048892,UEFA Euro 2024 Futures - Euro 2024 - Group A - Not To Advance from Group,Switzerland,-0.0756,0.0244,0.1
 2024-06-20 05:01:12.056329,UEFA Euro 2024 Futures - Euro 2024 - Group A - To Advance from Group,Hungary,-0.07789999999999997,0.2857,0.3636
 2024-06-20 05:01:12.048892,UEFA Euro 2024 Futures - Euro 2024 - Group A - Not To Advance from Group,Scotland,-0.08330000000000004,0.6667,0.75
 2024-06-20 11:01:18.763100,Total Medals - Paris 2024 - Total Gold Medals - France Total Gold Medals,Over 25.5,-0.09040000000000004,0.4444,0.5348
@@ -294,7 +264,5 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-20 03:00:53.096465,UEFA Euro 2024 Futures - Euro 2024 Futures - Lowest Scoring Team,Albania,-0.1294,0.0244,0.1538
 2024-06-20 05:01:11.891459,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Germany Bundesliga,Harry Kane,-0.16519999999999996,0.4348,0.6
 2024-06-20 05:01:12.063664,UEFA Euro 2024 Futures - Euro 2024 - Group A - To Finish Bottom,Scotland,-0.16620000000000001,0.4082,0.5744
-2024-06-20 01:01:04.285659,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Group,Group A,-0.18189999999999995,0.4545,0.6364
-2024-06-20 01:01:04.294490,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Croatia,-0.1842,0.1667,0.3509
 2024-06-20 05:01:12.112573,UEFA Euro 2024 Futures - Euro 2024 - Group B - To Finish Bottom,Albania,-0.20950000000000002,0.6,0.8095
 2024-06-20 05:01:12.105354,UEFA Euro 2024 Futures - Euro 2024 - Group B - To Advance from Group,Croatia,-0.28480000000000005,0.3448,0.6296
