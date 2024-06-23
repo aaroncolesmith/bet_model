@@ -4,7 +4,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-22 19:03:09.486498,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,Padraig Harrington,0.20829999999999999,0.3333,0.125
 2024-06-22 23:02:07.990833,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Amy Yang,0.2014,0.3125,0.1111
 2024-06-23 01:06:06.405214,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Team,Portugal,0.2,0.4,0.2
-2024-06-22 15:02:16.398557,KLM Open - KLM Open - Winner,Guido Migliozzi,0.1899,0.2222,0.0323
 2024-06-22 19:02:55.133434,UEFA Euro 2024 Futures - Euro 2024 - Group E - Group Winner,Belgium,0.1896,0.5122,0.3226
 2024-06-22 17:02:33.001567,UEFA Euro 2024 Team Specials - Belgium Team Specials - Top Team Goalscorer,Kevin De Bruyne,0.1524,0.2857,0.1333
 2024-06-23 03:01:38.060814,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Botafogo,0.13329999999999997,0.3333,0.2
@@ -16,7 +15,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-22 21:02:56.255309,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Portugal,0.10000000000000009,0.8333,0.7333
 2024-06-22 23:02:07.990833,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Lauren Hartlage,0.0988,0.1111,0.0123
 2024-06-23 03:01:38.060814,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Bahia,0.09799999999999998,0.3333,0.2353
-2024-06-22 15:02:16.398557,KLM Open - KLM Open - Winner,Mikko Korhonen,0.09720000000000001,0.2222,0.125
 2024-06-22 19:02:55.169721,UEFA Euro 2024 Futures - Euro 2024 - Group E - Top 2 in Exact Order,"Romania 1st , Belgium 2nd",0.09620000000000001,0.25,0.1538
 2024-06-23 01:06:06.694517,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Brazil,0.09239999999999993,0.8571,0.7647
 2024-06-23 01:06:06.686948,Copa America Futures - Copa América 2024 - To Reach Final,Mexico,0.0889,0.2222,0.1333
@@ -27,14 +25,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-23 03:01:38.067399,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Bahia,0.07450000000000001,0.5,0.4255
 2024-06-22 19:03:09.486498,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,Ken Tanigawa,0.0745,0.0909,0.0164
 2024-06-22 23:02:07.990833,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Lilia Vu,0.0745,0.0909,0.0164
-2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,New York Knicks OR Memphis Grizzlies,0.07339999999999999,0.0833,0.0099
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,New York Knicks OR LA Clippers,0.07339999999999999,0.0833,0.0099
+2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,New York Knicks OR Memphis Grizzlies,0.07339999999999999,0.0833,0.0099
 2024-06-22 19:02:56.961149,To Make the Playoffs - Atlanta Dream- To Make the 2024 WNBA Playoffs - Atlanta Dream- To Make the 2024 WNBA Playoffs,No,0.0721,0.3846,0.3125
 2024-06-23 01:06:06.694517,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Mexico,0.06990000000000002,0.4545,0.3846
 2024-06-22 23:02:07.634257,Round Match-Ups - Final Round Match-Ups - P. Cantlay vs T. Finau - Final Round Match-Ups,Patrick Cantlay,0.06929999999999997,0.5455,0.4762
 2024-06-22 21:02:56.185397,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - England Premier League,Bruno Fernandes,0.06669999999999998,0.1667,0.1
 2024-06-22 19:02:56.916994,Regular Season Wins O/U - Indiana Fever - 2024 Regular Season Wins - Indiana Fever - 2024 Regular Season Wins,Over 15.5,0.06520000000000004,0.5652,0.5
-2024-06-22 15:02:15.865941,MLB Daily Fantasy Specials - Fantasy Picks - Hitter Matchups - Fantasy Picks - Hitter Matchups - Matt Olson v William Contreras,Matt Olson (ATL),0.06519999999999992,0.6,0.5348
 2024-06-23 03:01:38.067399,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Internacional,0.061999999999999944,0.6364,0.5744
 2024-06-23 01:06:06.694517,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Colombia,0.05980000000000002,0.4444,0.3846
 2024-06-22 19:03:09.486498,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,Bob Estes,0.05879999999999999,0.0667,0.0079
@@ -49,15 +46,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-23 03:01:38.060814,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Atlético Mineiro,0.05070000000000002,0.4762,0.4255
 2024-06-22 19:02:55.141514,UEFA Euro 2024 Futures - Euro 2024 - Group E - Not To Advance from Group,Ukraine,0.05059999999999998,0.5744,0.5238
 2024-06-23 01:06:06.412311,UEFA Euro 2024 Futures - Euro 2024 Futures - Lowest Scoring Team,Hungary,0.0504,0.2857,0.2353
-2024-06-22 19:02:55.169721,UEFA Euro 2024 Futures - Euro 2024 - Group E - Top 2 in Exact Order,"Slovakia 1st , Belgium 2nd",0.04999999999999999,0.25,0.2
 2024-06-22 17:02:33.010134,UEFA Euro 2024 Team Specials - Belgium Team Specials - Total Tournament Goals,Over 8.5 Goals,0.04999999999999999,0.25,0.2
-2024-06-22 15:02:16.398557,KLM Open - KLM Open - Winner,Rasmus Hojgaard,0.04849999999999999,0.1818,0.1333
+2024-06-22 19:02:55.169721,UEFA Euro 2024 Futures - Euro 2024 - Group E - Top 2 in Exact Order,"Slovakia 1st , Belgium 2nd",0.04999999999999999,0.25,0.2
 2024-06-23 01:06:06.661241,Copa America Futures - Copa América 2024 - Straight Forecast,"Argentina 1st, Colombia 2nd",0.048100000000000004,0.125,0.0769
 2024-06-22 19:02:56.711748,Draft Picks - Draft Picks - 9th Overall Pick,Devin Carter (Providence),0.048100000000000004,0.125,0.0769
 2024-06-22 21:02:56.262326,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Portugal,0.04760000000000003,0.5238,0.4762
 2024-06-23 01:06:06.412311,UEFA Euro 2024 Futures - Euro 2024 Futures - Lowest Scoring Team,Serbia,0.047599999999999976,0.3333,0.2857
 2024-06-22 19:02:56.702927,Draft Picks - Draft Picks - 8th Overall Pick,Devin Carter (Providence),0.047599999999999976,0.3333,0.2857
-2024-06-22 15:02:16.398557,KLM Open - KLM Open - Winner,Matteo Manassero,0.047400000000000005,0.1,0.0526
 2024-06-23 01:06:18.186821,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,Stephen Ames,0.044499999999999984,0.2667,0.2222
 2024-06-23 01:06:06.694517,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Chile,0.044499999999999984,0.2667,0.2222
 2024-06-23 01:06:06.686948,Copa America Futures - Copa América 2024 - To Reach Final,USA,0.042899999999999994,0.1429,0.1
@@ -71,40 +66,38 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-22 19:02:56.938420,Regular Season Wins O/U - Minnesota Lynx- 2024 Regular Season Wins - Minnesota Lynx- 2024 Regular Season Wins,Under 27.5,0.035999999999999976,0.5122,0.4762
 2024-06-22 19:02:55.148796,UEFA Euro 2024 Futures - Euro 2024 - Group E - To Advance from Group,Slovakia,0.0353,0.8,0.7647
 2024-06-22 19:02:56.639385,Draft Picks - Draft Picks - 1st Overall Pick,Donovan Clingan (Connecticut),0.03510000000000002,0.3922,0.3571
-2024-06-22 15:02:08.167400,Carolina Panthers - 2024-25 Regular Season Wins O/U - Regular Season Wins - Carolina Panthers O/U 5.5 Wins,Under 5.5 Wins,0.03489999999999999,0.5,0.4651
 2024-06-22 21:03:11.630990,Nashville - 2/3 Balls - Final Round 3-Balls - B. DeChambeau / J. Catlin / T. Hatton - Final Round 3-Balls,Bryson DeChambeau,0.03480000000000005,0.5348,0.5
 2024-06-22 17:02:33.027400,UEFA Euro 2024 Team Specials - Romania Team Specials - Top Team Goalscorer,Dennis Man,0.034100000000000005,0.125,0.0909
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Orlando Magic OR Oklahoma City Thunder,0.03380000000000001,0.1481,0.1143
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Boston Celtics OR Oklahoma City Thunder,0.03370000000000001,0.3846,0.3509
 2024-06-22 19:02:56.694275,Draft Picks - Draft Picks - 7th Overall Pick,Cody Williams (Colorado),0.033300000000000024,0.2,0.1667
+2024-06-23 01:06:06.661241,Copa America Futures - Copa América 2024 - Straight Forecast,"Brazil 1st, Mexico 2nd",0.03330000000000001,0.1,0.0667
 2024-06-22 19:02:56.850834,Draft Position - To Be Drafted in Top 10 - To Be a Top 10 Pick,Kel'el Ware (Indiana),0.03330000000000001,0.1,0.0667
 2024-06-22 19:02:55.169721,UEFA Euro 2024 Futures - Euro 2024 - Group E - Top 2 in Exact Order,"Ukraine 1st , Romania 2nd",0.03330000000000001,0.1,0.0667
-2024-06-23 01:06:06.661241,Copa America Futures - Copa América 2024 - Straight Forecast,"Brazil 1st, Mexico 2nd",0.03330000000000001,0.1,0.0667
-2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Washington Wizards OR Oklahoma City Thunder,0.033299999999999996,0.1333,0.1
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Brooklyn Nets OR Oklahoma City Thunder,0.033299999999999996,0.1333,0.1
-2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Toronto Raptors OR Oklahoma City Thunder,0.033299999999999996,0.1333,0.1
-2024-06-22 21:03:12.014244,Round Match-Ups - Final Round Match-Ups - S. Horsfield vs S. Vincent - Final Round Match-Ups,Scott Vincent,0.033299999999999996,0.5455,0.5122
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Detroit Pistons OR Oklahoma City Thunder,0.033299999999999996,0.1333,0.1
+2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Washington Wizards OR Oklahoma City Thunder,0.033299999999999996,0.1333,0.1
+2024-06-22 21:03:12.014244,Round Match-Ups - Final Round Match-Ups - S. Horsfield vs S. Vincent - Final Round Match-Ups,Scott Vincent,0.033299999999999996,0.5455,0.5122
+2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Toronto Raptors OR Oklahoma City Thunder,0.033299999999999996,0.1333,0.1
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Charlotte Hornets OR Oklahoma City Thunder,0.03259999999999999,0.1379,0.1053
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Philadelphia 76ers OR Oklahoma City Thunder,0.032299999999999995,0.1923,0.16
 2024-06-23 01:06:06.412311,UEFA Euro 2024 Futures - Euro 2024 Futures - Lowest Scoring Team,Slovenia,0.0321,0.0909,0.0588
 2024-06-23 01:06:06.694517,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Argentina,0.03180000000000005,0.8889,0.8571
-2024-06-23 03:01:38.053129,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Juventude,0.031799999999999995,0.4762,0.4444
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Atlanta Hawks OR Oklahoma City Thunder,0.031799999999999995,0.1429,0.1111
+2024-06-23 03:01:38.053129,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Juventude,0.031799999999999995,0.4762,0.4444
 2024-06-23 03:01:38.053129,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Fortaleza,0.031799999999999995,0.1429,0.1111
 2024-06-22 21:02:57.961385,Draft Specials - Draft Requested Specials - Draft Requested Specials,Rob Dillingham (Kentucky) to NOT be drafted in the Top 10,0.03179999999999994,0.5556,0.5238
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Miami Heat OR Oklahoma City Thunder,0.031,0.16,0.129
 2024-06-22 19:02:56.762631,Draft Position - Player Draft Position - Donovan Clingan (Connecticut),Under 3.5 Draft Position,0.030399999999999983,0.5652,0.5348
 2024-06-23 01:06:06.335673,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Final,England,0.030299999999999994,0.3636,0.3333
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Milwaukee Bucks OR Oklahoma City Thunder,0.02990000000000001,0.2222,0.1923
-2024-06-22 19:03:09.486498,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,Paul Stankowski,0.029299999999999993,0.0769,0.0476
 2024-06-23 01:06:06.694517,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Costa Rica,0.029299999999999993,0.0769,0.0476
+2024-06-22 19:03:09.486498,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,Paul Stankowski,0.029299999999999993,0.0769,0.0476
 2024-06-23 03:01:38.067399,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Corinthians,0.029299999999999993,0.0769,0.0476
 2024-06-22 21:03:11.938806,Round Match-Ups - Final Round Match-Ups - L. Oosthuizen vs D. Johnson - Final Round Match-Ups,Louis Oosthuizen,0.028900000000000037,0.5744,0.5455
+2024-06-22 19:02:55.155660,UEFA Euro 2024 Futures - Euro 2024 - Group E - To Finish Bottom,Romania,0.028799999999999992,0.1538,0.125
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Cleveland Cavaliers OR Oklahoma City Thunder,0.028799999999999992,0.1538,0.125
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Indiana Pacers OR Oklahoma City Thunder,0.028799999999999992,0.1538,0.125
-2024-06-22 19:02:55.155660,UEFA Euro 2024 Futures - Euro 2024 - Group E - To Finish Bottom,Romania,0.028799999999999992,0.1538,0.125
-2024-06-22 15:02:15.469710,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Nebraska To Make the 2024-2025 College Football Playoff,Yes,0.028399999999999995,0.0909,0.0625
 2024-06-23 03:01:38.039441,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Botafogo,0.0282,0.0526,0.0244
 2024-06-23 03:01:38.067399,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Vasco da Gama,0.028199999999999996,0.0667,0.0385
 2024-06-22 23:02:07.990833,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Hae Ran Ryu,0.0279,0.0345,0.0066
@@ -115,79 +108,73 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-22 19:03:09.486498,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,David Brandson,0.026600000000000002,0.0345,0.0079
 2024-06-22 23:01:57.133452,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Young Player of The Tournament,Nuno Mendes,0.0262,0.0385,0.0123
 2024-06-22 21:03:11.662148,Nashville - 2/3 Balls - Final Round 3-Balls - C. Smith / C. Ortiz / J. Rahm - Final Round 3-Balls,Carlos Ortiz,0.02560000000000001,0.3333,0.3077
-2024-06-22 15:02:15.609736,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Texas To Make the 2024-2025 College Football Playoff,No,0.02560000000000001,0.3704,0.3448
-2024-06-22 15:02:15.263196,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - To Make The Play Off Parlays,"Georgia, Ohio State & Texas all to make the play offs",0.025499999999999967,0.4255,0.4
 2024-06-22 23:01:57.133452,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Young Player of The Tournament,Pedri,0.025300000000000003,0.1429,0.1176
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,New York Knicks OR Oklahoma City Thunder,0.0252,0.1852,0.16
-2024-06-22 15:02:16.398557,KLM Open - KLM Open - Winner,Matt Wallace,0.024999999999999994,0.125,0.1
 2024-06-23 01:06:06.661241,Copa America Futures - Copa América 2024 - Straight Forecast,"Argentina 1st, Uruguay 2nd",0.024999999999999994,0.125,0.1
 2024-06-22 19:02:56.685524,Draft Picks - Draft Picks - 6th Overall Pick,Dalton Knecht (Tennessee),0.024800000000000016,0.2353,0.2105
 2024-06-22 19:02:56.771349,Draft Position - Player Draft Position - Isaiah Collier (USC),Over 17.5 Draft Position,0.024600000000000066,0.661,0.6364
 2024-06-23 01:06:06.661241,Copa America Futures - Copa América 2024 - Straight Forecast,"Argentina 1st, USA 2nd",0.0245,0.0833,0.0588
+2024-06-22 19:02:56.711748,Draft Picks - Draft Picks - 9th Overall Pick,Zach Edey (Purdue),0.024299999999999995,0.0769,0.0526
 2024-06-23 03:01:37.978319,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,New York Red Bulls,0.024299999999999995,0.0769,0.0526
 2024-06-23 01:06:06.628825,Copa America Futures - Copa América 2024 - Tournament Winner and Top Goalscorer Parlay,Brazil & Lautaro Matrinez,0.024299999999999995,0.0588,0.0345
-2024-06-22 19:02:56.711748,Draft Picks - Draft Picks - 9th Overall Pick,Zach Edey (Purdue),0.024299999999999995,0.0769,0.0526
 2024-06-23 03:01:38.039441,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Internacional,0.0242,0.0909,0.0667
-2024-06-22 15:02:09.884489,Tennessee Titans - 2024-25 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U 6.5 Wins,Under 6.5 Wins,0.023800000000000043,0.5238,0.5
-2024-06-22 15:02:08.835014,Kansas City Chiefs - 2024-25 Regular Season Wins O/U - Regular Season Wins - Kansas City Chiefs O/U 11.5 Wins,Under 11.5 Wins,0.023800000000000043,0.5238,0.5
 2024-06-23 01:06:06.686948,Copa America Futures - Copa América 2024 - To Reach Final,Brazil,0.023800000000000043,0.5238,0.5
 2024-06-22 17:02:33.018798,UEFA Euro 2024 Team Specials - Romania Team Specials - Stage Of Elimination,Group Stage,0.023799999999999988,0.1667,0.1429
+2024-06-22 19:02:56.648154,Draft Picks - Draft Picks - 2nd Overall Pick,Alexandre Sarr (Perth Wildcats),0.023799999999999932,0.8571,0.8333
 2024-06-22 23:02:06.965593,Boxing Lines - Goki Kobayashi vs Joseph Sumabong - To Win the Bout,Goki Kobayashi,0.023799999999999932,0.8571,0.8333
 2024-06-23 01:06:06.644559,Copa America Futures - Copa América 2024 - First Time Winner?,No,0.023799999999999932,0.8571,0.8333
-2024-06-22 19:02:56.648154,Draft Picks - Draft Picks - 2nd Overall Pick,Alexandre Sarr (Perth Wildcats),0.023799999999999932,0.8571,0.8333
 2024-06-22 23:01:57.125399,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Bernardo Silva,0.0236,0.0385,0.0149
+2024-06-23 01:06:17.591775,Scores - Final Round Score - Wyndham Clark - Final Round Score,Under 67.5,0.022600000000000064,0.6226,0.6
 2024-06-22 21:03:11.962758,Round Match-Ups - Final Round Match-Ups - M. Leishman vs A. Ancer - Final Round Match-Ups,Abraham Ancer,0.022600000000000064,0.5348,0.5122
 2024-06-22 19:02:56.736353,Draft Position - Player Draft Position - Bronny James (USC),Over 41.5 Draft Position,0.022600000000000064,0.6226,0.6
-2024-06-23 01:06:17.591775,Scores - Final Round Score - Wyndham Clark - Final Round Score,Under 67.5,0.022600000000000064,0.6226,0.6
 2024-06-23 03:01:37.956481,MLS - USA MLS 2024 - Futures - Golden Boot Award,Petar Musa,0.022200000000000004,0.0345,0.0123
-2024-06-23 03:01:37.968696,MLS - USA MLS 2024 - Futures - To Reach the Final,Los Angeles FC,0.022199999999999998,0.2222,0.2
-2024-06-22 21:02:56.262326,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Belgium,0.022199999999999998,0.2222,0.2
 2024-06-22 17:02:33.027400,UEFA Euro 2024 Team Specials - Romania Team Specials - Top Team Goalscorer,Razvan Marin,0.022199999999999998,0.2222,0.2
-2024-06-22 15:02:16.398557,KLM Open - KLM Open - Winner,Joe Dean,0.022099999999999998,0.0385,0.0164
-2024-06-23 03:01:37.986370,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Los Angeles FC,0.021999999999999964,0.3077,0.2857
+2024-06-22 21:02:56.262326,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Belgium,0.022199999999999998,0.2222,0.2
+2024-06-23 03:01:37.968696,MLS - USA MLS 2024 - Futures - To Reach the Final,Los Angeles FC,0.022199999999999998,0.2222,0.2
 2024-06-23 03:01:37.986370,MLS - USA MLS 2024 - Futures - Western Conference League Winner,LA Galaxy,0.021999999999999964,0.3077,0.2857
+2024-06-23 03:01:37.986370,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Los Angeles FC,0.021999999999999964,0.3077,0.2857
 2024-06-22 19:02:56.321369,NBA Championship - NBA Championship 2024-25 - Division to Win the NBA Finals,Northwest Division,0.020799999999999985,0.3333,0.3125
-2024-06-22 19:02:56.796846,Draft Position - Player Draft Position - Reed Sheppard (Kentucky),Under 3.5 Draft Position,0.02079999999999993,0.5556,0.5348
-2024-06-22 21:03:11.911755,Round Match-Ups - Final Round Match-Ups - J. Rahm vs B. DeChambeau - Final Round Match-Ups,Bryson DeChambeau,0.02079999999999993,0.5556,0.5348
 2024-06-23 01:06:17.509710,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Under 65.5,0.02079999999999993,0.5556,0.5348
-2024-06-22 15:02:16.398557,KLM Open - KLM Open - Winner,Marcus Kinhult,0.0206,0.0385,0.0179
+2024-06-22 21:03:11.911755,Round Match-Ups - Final Round Match-Ups - J. Rahm vs B. DeChambeau - Final Round Match-Ups,Bryson DeChambeau,0.02079999999999993,0.5556,0.5348
+2024-06-22 19:02:56.796846,Draft Position - Player Draft Position - Reed Sheppard (Kentucky),Under 3.5 Draft Position,0.02079999999999993,0.5556,0.5348
 2024-06-23 01:06:06.628825,Copa America Futures - Copa América 2024 - Tournament Winner and Top Goalscorer Parlay,Uruguay & Darwin Nunez,0.0203,0.0526,0.0323
-2024-06-23 01:06:06.628825,Copa America Futures - Copa América 2024 - Tournament Winner and Top Goalscorer Parlay,Brazil & Rodrygo,0.0203,0.0588,0.0385
 2024-06-22 23:01:57.125399,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Bruno Fernandes,0.0203,0.0588,0.0385
 2024-06-23 03:01:38.053129,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,RB Bragantino,0.0203,0.0588,0.0385
-2024-06-22 15:02:15.201003,NCAA Football Futures - 2024 Big 12 Conference Championship  - Championship Game Winner,Oklahoma State,0.02020000000000001,0.1111,0.0909
+2024-06-23 01:06:06.628825,Copa America Futures - Copa América 2024 - Tournament Winner and Top Goalscorer Parlay,Brazil & Rodrygo,0.0203,0.0588,0.0385
 2024-06-22 21:02:56.248133,UEFA Euro 2024 Futures - Euro 2024 Futures - To Be Eliminated By Penalty Shootout,Turkey,0.02020000000000001,0.1111,0.0909
 2024-06-22 19:02:56.685524,Draft Picks - Draft Picks - 6th Overall Pick,Devin Carter (Providence),0.020000000000000004,0.0323,0.0123
 2024-06-22 19:02:56.822584,Draft Position - Player Draft Position - Stephon Castle,Under 5.5 Draft Position,0.01970000000000005,0.5652,0.5455
 2024-06-22 23:01:57.125399,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Cristiano Ronaldo,0.019099999999999992,0.0667,0.0476
+2024-06-23 05:01:45.598844,Travelers Championship - 2/3 Balls - Final Round 3-Balls - X. Schauffele / S. Im / C. Morikawa - Final Round 3-Balls,Sungjae Im,0.019000000000000017,0.2857,0.2667
 2024-06-22 17:02:33.027400,UEFA Euro 2024 Team Specials - Romania Team Specials - Top Team Goalscorer,Denis Deagus,0.019000000000000017,0.2857,0.2667
 2024-06-22 21:02:56.239109,UEFA Euro 2024 Futures - Euro 2024 Futures - Most Assists,Cristiano Ronaldo,0.0189,0.0385,0.0196
 2024-06-22 21:03:12.036942,Round Match-Ups - Final Round Match-Ups - T. Hatton vs C. Smith - Final Round Match-Ups,Tyrrell Hatton,0.01880000000000004,0.5744,0.5556
-2024-06-23 03:01:38.053129,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Atlético Goianiense,0.01880000000000004,0.6552,0.6364
 2024-06-23 03:01:37.978319,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,Inter Miami,0.01880000000000004,0.6552,0.6364
+2024-06-23 03:01:38.053129,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Atlético Goianiense,0.01880000000000004,0.6552,0.6364
 2024-06-22 19:02:56.972010,To Make the Playoffs - Chicago Sky- To Make the 2024 WNBA Playoffs - Chicago Sky- To Make the 2024 WNBA Playoffs,Yes,0.018799999999999983,0.3636,0.3448
 2024-06-22 23:02:07.990833,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Gaby Lopez,0.0187,0.0244,0.0057
 2024-06-22 19:02:56.666703,Draft Picks - Draft Picks - 4th Overall Pick,Zaccharie Risacher (JL Bourg),0.01820000000000002,0.2,0.1818
 2024-06-22 19:02:56.676302,Draft Picks - Draft Picks - 5th Overall Pick,Cody Williams (Colorado),0.01820000000000002,0.2,0.1818
+2024-06-23 05:01:32.685166,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Croatia Or England To Win Outright,0.01820000000000002,0.2,0.1818
 2024-06-23 03:01:53.568954,Round Match-Ups - Final Round Match-Ups - B. Harman vs S. Lowry - Final Round Match-Ups,Brian Harman,0.018100000000000005,0.5833,0.5652
 2024-06-23 03:01:37.978319,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,Columbus Crew,0.018099999999999998,0.0769,0.0588
 2024-06-23 03:01:38.053129,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Cruzeiro MG,0.018099999999999998,0.0769,0.0588
-2024-06-23 01:06:06.686948,Copa America Futures - Copa América 2024 - To Reach Final,Peru,0.018099999999999998,0.0526,0.0345
 2024-06-22 19:03:09.486498,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,Mike Weir,0.018099999999999998,0.0526,0.0345
-2024-06-23 01:06:06.628825,Copa America Futures - Copa América 2024 - Tournament Winner and Top Goalscorer Parlay,Argentina & Lionel Messi,0.0179,0.1429,0.125
+2024-06-23 01:06:06.686948,Copa America Futures - Copa América 2024 - To Reach Final,Peru,0.018099999999999998,0.0526,0.0345
 2024-06-22 21:02:56.215317,UEFA Euro 2024 Futures - Euro 2024 Futures - Runner Up,Portugal,0.0179,0.1429,0.125
+2024-06-23 01:06:06.628825,Copa America Futures - Copa América 2024 - Tournament Winner and Top Goalscorer Parlay,Argentina & Lionel Messi,0.0179,0.1429,0.125
 2024-06-22 23:02:07.478109,Travelers Championship - 2/3 Balls - Final Round 3-Balls - T. Kim / A. Bhatia / S. Scheffler - Final Round 3-Balls,Scottie Scheffler,0.017299999999999982,0.5917,0.5744
 2024-06-23 01:06:06.652527,Copa America Futures - Copa América 2024 - Runner Up,Venezuela,0.017099999999999997,0.0556,0.0385
 2024-06-23 03:01:37.944479,MLS - USA MLS 2024 - Futures - Winner,Los Angeles FC,0.016700000000000007,0.1,0.0833
 2024-06-22 21:02:56.255309,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Switzerland,0.016699999999999993,0.4167,0.4
-2024-06-22 17:02:33.027400,UEFA Euro 2024 Team Specials - Romania Team Specials - Top Team Goalscorer,Nicolae Stanciu,0.016699999999999993,0.2667,0.25
 2024-06-22 21:02:57.567134,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Outcome,Oklahoma City Thunder to beat Boston Celtics,0.016699999999999993,0.0667,0.05
+2024-06-22 17:02:33.027400,UEFA Euro 2024 Team Specials - Romania Team Specials - Top Team Goalscorer,Nicolae Stanciu,0.016699999999999993,0.2667,0.25
 2024-06-23 01:06:06.612696,Copa America Futures - Copa América 2024 - Winner,Mexico,0.016600000000000004,0.0833,0.0667
 2024-06-23 01:06:06.628825,Copa America Futures - Copa América 2024 - Tournament Winner and Top Goalscorer Parlay,Brazil & Darwin Nunez,0.015300000000000001,0.0588,0.0435
-2024-06-22 21:02:56.215317,UEFA Euro 2024 Futures - Euro 2024 Futures - Runner Up,England,0.015100000000000002,0.1818,0.1667
 2024-06-22 21:02:56.255309,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Spain,0.015100000000000002,0.8333,0.8182
-2024-06-22 21:02:56.239109,UEFA Euro 2024 Futures - Euro 2024 Futures - Most Assists,Romelu Lukaku,0.0145,0.0244,0.0099
+2024-06-22 21:02:56.215317,UEFA Euro 2024 Futures - Euro 2024 Futures - Runner Up,England,0.015100000000000002,0.1818,0.1667
 2024-06-22 21:02:56.177997,UEFA Euro 2024 Futures - Euro 2024 Futures - Top Goalscorer,Bernardo Silva,0.0145,0.0244,0.0099
+2024-06-22 21:02:56.239109,UEFA Euro 2024 Futures - Euro 2024 Futures - Most Assists,Romelu Lukaku,0.0145,0.0244,0.0099
 2024-06-23 01:06:06.661241,Copa America Futures - Copa América 2024 - Straight Forecast,"Colombia 1st, Mexico 2nd",0.014199999999999999,0.0294,0.0152
 2024-06-23 01:06:06.628825,Copa America Futures - Copa América 2024 - Tournament Winner and Top Goalscorer Parlay,Uruguay & Lautaro Matrinez,0.014199999999999999,0.0294,0.0152
 2024-06-23 01:06:06.412311,UEFA Euro 2024 Futures - Euro 2024 Futures - Lowest Scoring Team,Croatia,0.014100000000000001,0.0526,0.0385
@@ -196,11 +183,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-23 03:01:38.053129,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,São Paulo,0.014099999999999998,0.0435,0.0294
 2024-06-22 19:02:57.042047,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Nikki Haley,0.014099999999999998,0.0385,0.0244
 2024-06-23 03:01:37.986370,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Colorado Rapids,0.014099999999999994,0.0667,0.0526
-2024-06-23 01:06:06.628825,Copa America Futures - Copa América 2024 - Tournament Winner and Top Goalscorer Parlay,Argentina & Darwin Nunez,0.014099999999999994,0.0667,0.0526
 2024-06-23 01:06:06.412311,UEFA Euro 2024 Futures - Euro 2024 Futures - Lowest Scoring Team,Ukraine,0.014099999999999994,0.0667,0.0526
+2024-06-23 01:06:06.628825,Copa America Futures - Copa América 2024 - Tournament Winner and Top Goalscorer Parlay,Argentina & Darwin Nunez,0.014099999999999994,0.0667,0.0526
 2024-06-23 03:01:38.067399,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Fluminense,0.013999999999999999,0.0909,0.0769
-2024-06-22 15:02:15.573169,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Tennessee To Make the 2024-2025 College Football Playoff,Yes,0.013300000000000034,0.3704,0.3571
 2024-06-23 03:01:54.475039,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Ally Ewing,0.0131,0.0476,0.0345
+2024-06-23 05:01:32.685166,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either England Or Netherlands To Win Outright,0.0131,0.2353,0.2222
+2024-06-23 05:01:32.685166,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either England Or Italy To Win Outright,0.0131,0.2353,0.2222
+2024-06-23 05:01:32.650953,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"France Winner, Germany Runner Up",0.0131,0.0476,0.0345
 2024-06-23 01:06:06.661241,Copa America Futures - Copa América 2024 - Straight Forecast,"Uruguay 1st, Mexico 2nd",0.0131,0.0476,0.0345
 2024-06-22 19:03:09.486498,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,Billy Andrade,0.013,0.0196,0.0066
 2024-06-22 21:02:56.177997,UEFA Euro 2024 Futures - Euro 2024 Futures - Top Goalscorer,Patrik Schick,0.012899999999999998,0.0278,0.0149
@@ -209,243 +198,245 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-22 19:02:56.338594,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,Any Other State,0.012899999999999912,0.8462,0.8333
 2024-06-23 01:06:06.694517,Copa America Futures - Copa América 2024 - To Reach the Semi Final,USA,0.012699999999999989,0.3636,0.3509
 2024-06-22 21:02:56.177997,UEFA Euro 2024 Futures - Euro 2024 Futures - Top Goalscorer,Kevin De Bruyne,0.012599999999999998,0.0278,0.0152
+2024-06-23 05:01:45.451466,Travelers Championship - 2/3 Balls - Final Round 3-Balls - M. Thorbjornsen / R. Fowler / S. Jaeger - Final Round 3-Balls,Michael Thorbjornsen,0.011899999999999966,0.3509,0.339
 2024-06-22 19:03:09.486498,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,Stephen Ames,0.011700000000000016,0.2222,0.2105
 2024-06-22 21:02:58.263497,Regular Season Wins O/U - Seattle Storm- 2024 Regular Season Wins - Seattle Storm- 2024 Regular Season Wins,Under 24.5,0.0116,0.4878,0.4762
 2024-06-22 21:02:56.255309,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Netherlands,0.011499999999999955,0.6667,0.6552
 2024-06-22 19:03:09.486498,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,Mark Hensby,0.011200000000000002,0.0244,0.0132
 2024-06-22 19:02:56.711748,Draft Picks - Draft Picks - 9th Overall Pick,Kel'el Ware (Indiana),0.011199999999999995,0.0588,0.0476
+2024-06-23 03:01:37.944479,MLS - USA MLS 2024 - Futures - Winner,New York Red Bulls,0.011199999999999995,0.0588,0.0476
 2024-06-22 23:01:57.125399,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Harry Kane,0.011199999999999995,0.0588,0.0476
 2024-06-22 19:02:56.630734,Draft Picks - Draft Picks - 10th Overall Pick,Zach Edey (Purdue),0.011199999999999995,0.0435,0.0323
-2024-06-23 03:01:37.944479,MLS - USA MLS 2024 - Futures - Winner,New York Red Bulls,0.011199999999999995,0.0588,0.0476
-2024-06-23 01:06:06.628825,Copa America Futures - Copa América 2024 - Tournament Winner and Top Goalscorer Parlay,Argentina & Lautaro Matrinez,0.011099999999999999,0.1111,0.1
 2024-06-23 01:06:06.694517,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Venezuela,0.011099999999999999,0.1111,0.1
-2024-06-22 17:02:46.316548,Boxing Lines - Jake Paul vs Mike Perry - To Win the Bout,Jake Paul,0.011099999999999999,0.7333,0.7222
 2024-06-23 03:01:40.719453,Olympics Basketball - Men - Paris 2024 - Men's Basketball - Outright,Canada,0.011099999999999999,0.1111,0.1
+2024-06-22 17:02:46.316548,Boxing Lines - Jake Paul vs Mike Perry - To Win the Bout,Jake Paul,0.011099999999999999,0.7333,0.7222
+2024-06-23 01:06:06.628825,Copa America Futures - Copa América 2024 - Tournament Winner and Top Goalscorer Parlay,Argentina & Lautaro Matrinez,0.011099999999999999,0.1111,0.1
 2024-06-22 19:02:56.861419,Draft Position - To Be Drafted in Top 5  - To Be a Top 5 Pick,Reed Sheppard (Kentucky),0.01090000000000002,0.8571,0.8462
-2024-06-23 03:01:37.956481,MLS - USA MLS 2024 - Futures - Golden Boot Award,Christian Benteke,0.010899999999999993,0.1538,0.1429
-2024-06-23 03:01:38.053129,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Grêmio,0.010899999999999993,0.1538,0.1429
 2024-06-22 19:02:55.133434,UEFA Euro 2024 Futures - Euro 2024 - Group E - Group Winner,Ukraine,0.010899999999999993,0.1538,0.1429
+2024-06-23 03:01:38.053129,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Grêmio,0.010899999999999993,0.1538,0.1429
 2024-06-22 19:02:56.630734,Draft Picks - Draft Picks - 10th Overall Pick,Nikola Topic (KK Crvena Zvezda),0.010899999999999993,0.1538,0.1429
-2024-06-22 19:02:56.419386,WNBA Awards - WNBA Regular Season MVP 2024 - WNBA Regular Season MVP 2024,Breanna Stewart (NYL),0.010700000000000001,0.0385,0.0278
+2024-06-23 03:01:37.956481,MLS - USA MLS 2024 - Futures - Golden Boot Award,Christian Benteke,0.010899999999999993,0.1538,0.1429
 2024-06-23 01:06:06.694517,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Panama,0.010700000000000001,0.0385,0.0278
+2024-06-22 19:02:56.419386,WNBA Awards - WNBA Regular Season MVP 2024 - WNBA Regular Season MVP 2024,Breanna Stewart (NYL),0.010700000000000001,0.0385,0.0278
 2024-06-23 01:06:06.694517,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Uruguay,0.010699999999999932,0.5455,0.5348
 2024-06-23 01:06:17.293592,Round Match-Ups - Final Round Match-Ups - W. Clark vs M. Fitzpatrick - Final Round Match-Ups,Wyndham Clark,0.010599999999999998,0.4651,0.4545
 2024-06-22 19:02:56.861419,Draft Position - To Be Drafted in Top 5  - To Be a Top 5 Pick,Cody Williams (Colorado),0.010499999999999982,0.2105,0.2
 2024-06-22 21:02:56.177997,UEFA Euro 2024 Futures - Euro 2024 Futures - Top Goalscorer,Bukayo Saka,0.010300000000000002,0.0244,0.0141
-2024-06-23 01:06:06.628825,Copa America Futures - Copa América 2024 - Tournament Winner and Top Goalscorer Parlay,Argentina & Vinicius Jr.,0.0102,0.0769,0.0667
-2024-06-23 01:06:06.686948,Copa America Futures - Copa América 2024 - To Reach Final,Chile,0.0102,0.0769,0.0667
-2024-06-22 19:03:09.486498,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,Steve Allan,0.0102,0.0769,0.0667
-2024-06-23 03:01:37.968696,MLS - USA MLS 2024 - Futures - To Reach the Final,Austin FC,0.0102,0.0769,0.0667
 2024-06-23 01:06:06.661241,Copa America Futures - Copa América 2024 - Straight Forecast,"Uruguay 1st, Argentina 2nd",0.0102,0.0769,0.0667
+2024-06-23 03:01:37.968696,MLS - USA MLS 2024 - Futures - To Reach the Final,Austin FC,0.0102,0.0769,0.0667
+2024-06-23 01:06:06.628825,Copa America Futures - Copa América 2024 - Tournament Winner and Top Goalscorer Parlay,Argentina & Vinicius Jr.,0.0102,0.0769,0.0667
+2024-06-22 19:03:09.486498,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,Steve Allan,0.0102,0.0769,0.0667
 2024-06-23 03:01:54.475039,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Sarah Schmelzel,0.0102,0.0769,0.0667
-2024-06-23 03:01:37.968696,MLS - USA MLS 2024 - Futures - To Reach the Final,Seattle Sounders,0.010100000000000001,0.0345,0.0244
+2024-06-23 01:06:06.686948,Copa America Futures - Copa América 2024 - To Reach Final,Chile,0.0102,0.0769,0.0667
+2024-06-23 03:01:37.978319,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,Charlotte FC,0.010100000000000001,0.0345,0.0244
 2024-06-23 01:06:06.661241,Copa America Futures - Copa América 2024 - Straight Forecast,"USA 1st, Argentina 2nd",0.010100000000000001,0.0345,0.0244
 2024-06-23 03:01:38.060814,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Corinthians,0.010100000000000001,0.0345,0.0244
-2024-06-23 03:01:37.978319,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,Charlotte FC,0.010100000000000001,0.0345,0.0244
-2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Chicago Bulls OR Minnesota Timberwolves,-0.010099999999999998,0.0952,0.1053
+2024-06-23 03:01:37.968696,MLS - USA MLS 2024 - Futures - To Reach the Final,Seattle Sounders,0.010100000000000001,0.0345,0.0244
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Charlotte Hornets OR Minnesota Timberwolves,-0.010099999999999998,0.0952,0.1053
-2024-06-22 17:02:33.001567,UEFA Euro 2024 Team Specials - Belgium Team Specials - Top Team Goalscorer,Yannick Carrasco,-0.010100000000000001,0.0244,0.0345
+2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Chicago Bulls OR Minnesota Timberwolves,-0.010099999999999998,0.0952,0.1053
 2024-06-23 03:01:37.956481,MLS - USA MLS 2024 - Futures - Golden Boot Award,Dejan Joveljic,-0.010100000000000001,0.0244,0.0345
 2024-06-23 03:01:39.018616,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"England Winner, France Runner Up",-0.010100000000000001,0.0244,0.0345
-2024-06-23 03:01:37.968696,MLS - USA MLS 2024 - Futures - To Reach the Final,Minnesota United,-0.0102,0.0667,0.0769
-2024-06-23 01:06:06.628825,Copa America Futures - Copa América 2024 - Tournament Winner and Top Goalscorer Parlay,Brazil & Lionel Messi,-0.0102,0.0667,0.0769
+2024-06-22 17:02:33.001567,UEFA Euro 2024 Team Specials - Belgium Team Specials - Top Team Goalscorer,Yannick Carrasco,-0.010100000000000001,0.0244,0.0345
 2024-06-23 03:01:37.968696,MLS - USA MLS 2024 - Futures - To Reach the Final,Vancouver Whitecaps,-0.0102,0.0667,0.0769
-2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,New York Knicks OR New Orleans Pelicans,-0.0102,0.0667,0.0769
+2024-06-23 01:06:06.628825,Copa America Futures - Copa América 2024 - Tournament Winner and Top Goalscorer Parlay,Brazil & Lionel Messi,-0.0102,0.0667,0.0769
 2024-06-22 19:02:56.711748,Draft Picks - Draft Picks - 9th Overall Pick,Cody Williams (Colorado),-0.0102,0.0667,0.0769
+2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,New York Knicks OR New Orleans Pelicans,-0.0102,0.0667,0.0769
+2024-06-23 05:01:32.685166,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Croatia Or Italy To Win Outright,-0.0102,0.0667,0.0769
+2024-06-23 03:01:37.968696,MLS - USA MLS 2024 - Futures - To Reach the Final,Minnesota United,-0.0102,0.0667,0.0769
 2024-06-22 23:02:07.990833,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Stephanie Kyriacou,-0.0103,0.002,0.0123
 2024-06-22 17:02:33.018798,UEFA Euro 2024 Team Specials - Romania Team Specials - Stage Of Elimination,Quarter Finals,-0.010399999999999993,0.2222,0.2326
 2024-06-23 03:01:54.475039,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Miyuu Yamashita,-0.010399999999999993,0.2222,0.2326
+2024-06-23 05:01:32.685166,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Italy Or Spain To Win Outright,-0.010499999999999982,0.2,0.2105
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Milwaukee Bucks OR Minnesota Timberwolves,-0.01050000000000001,0.1818,0.1923
 2024-06-23 01:06:17.591775,Scores - Final Round Score - Wyndham Clark - Final Round Score,Over 67.5,-0.010599999999999998,0.4545,0.4651
 2024-06-22 23:02:07.478109,Travelers Championship - 2/3 Balls - Final Round 3-Balls - T. Kim / A. Bhatia / S. Scheffler - Final Round 3-Balls,Tom Kim,-0.010599999999999998,0.2597,0.2703
 2024-06-22 19:02:56.630734,Draft Picks - Draft Picks - 10th Overall Pick,Kel'el Ware (Baylor),-0.010600000000000002,0.0217,0.0323
-2024-06-23 01:06:06.405214,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Team,Netherlands,-0.010700000000000001,0.0278,0.0385
 2024-06-22 21:02:56.185397,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - England Premier League,Ollie Watkins,-0.010700000000000001,0.0278,0.0385
-2024-06-22 21:02:56.239109,UEFA Euro 2024 Futures - Euro 2024 Futures - Most Assists,Jeremy Doku,-0.010700000000000001,0.0278,0.0385
-2024-06-22 21:02:56.239109,UEFA Euro 2024 Futures - Euro 2024 Futures - Most Assists,Harry Kane,-0.010700000000000001,0.0278,0.0385
+2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Atlanta Hawks OR Dallas Mavericks,-0.010700000000000001,0.1143,0.125
 2024-06-22 19:02:56.630734,Draft Picks - Draft Picks - 10th Overall Pick,Ja'Kobe Walter (Baylor),-0.010700000000000001,0.0278,0.0385
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Cleveland Cavaliers OR Minnesota Timberwolves,-0.010700000000000001,0.1143,0.125
-2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Atlanta Hawks OR Dallas Mavericks,-0.010700000000000001,0.1143,0.125
+2024-06-22 21:02:56.239109,UEFA Euro 2024 Futures - Euro 2024 Futures - Most Assists,Jeremy Doku,-0.010700000000000001,0.0278,0.0385
+2024-06-23 01:06:06.405214,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Team,Netherlands,-0.010700000000000001,0.0278,0.0385
+2024-06-22 21:02:56.239109,UEFA Euro 2024 Futures - Euro 2024 Futures - Most Assists,Harry Kane,-0.010700000000000001,0.0278,0.0385
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Miami Heat OR Denver Nuggets,-0.010899999999999993,0.1429,0.1538
-2024-06-22 19:02:56.850834,Draft Position - To Be Drafted in Top 10 - To Be a Top 10 Pick,Ja'Kobe Walter (Baylor),-0.010899999999999993,0.1429,0.1538
 2024-06-23 01:06:06.652527,Copa America Futures - Copa América 2024 - Runner Up,Mexico,-0.010899999999999993,0.1429,0.1538
-2024-06-23 01:06:06.661241,Copa America Futures - Copa América 2024 - Straight Forecast,"Brazil 1st, Argentina 2nd",-0.010899999999999993,0.1429,0.1538
 2024-06-22 21:02:56.262326,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Switzerland,-0.010899999999999993,0.1429,0.1538
-2024-06-23 01:06:17.509710,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 65.5,-0.01100000000000001,0.5238,0.5348
+2024-06-22 19:02:56.850834,Draft Position - To Be Drafted in Top 10 - To Be a Top 10 Pick,Ja'Kobe Walter (Baylor),-0.010899999999999993,0.1429,0.1538
+2024-06-23 01:06:06.661241,Copa America Futures - Copa América 2024 - Straight Forecast,"Brazil 1st, Argentina 2nd",-0.010899999999999993,0.1429,0.1538
 2024-06-22 21:02:56.262326,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,England,-0.01100000000000001,0.5238,0.5348
+2024-06-23 01:06:17.509710,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 65.5,-0.01100000000000001,0.5238,0.5348
+2024-06-23 03:01:53.568954,Round Match-Ups - Final Round Match-Ups - B. Harman vs S. Lowry - Final Round Match-Ups,Shane Lowry,-0.011099999999999999,0.4651,0.4762
+2024-06-22 21:02:56.223105,UEFA Euro 2024 Futures - Euro 2024 Futures - Group of Winning Team,Group D,-0.011099999999999999,0.2667,0.2778
 2024-06-22 19:02:55.148796,UEFA Euro 2024 Futures - Euro 2024 - Group E - To Advance from Group,Romania,-0.011099999999999999,0.8889,0.9
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Atlanta Hawks OR Minnesota Timberwolves,-0.011099999999999999,0.1,0.1111
-2024-06-23 03:01:53.568954,Round Match-Ups - Final Round Match-Ups - B. Harman vs S. Lowry - Final Round Match-Ups,Shane Lowry,-0.011099999999999999,0.4651,0.4762
 2024-06-22 21:02:56.193006,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Germany Bundesliga,Florian Wirtz,-0.011099999999999999,0.1,0.1111
-2024-06-22 15:02:16.398557,KLM Open - KLM Open - Winner,Sean Crocker,-0.011099999999999999,0.1,0.1111
-2024-06-22 21:02:56.223105,UEFA Euro 2024 Futures - Euro 2024 Futures - Group of Winning Team,Group D,-0.011099999999999999,0.2667,0.2778
-2024-06-23 03:01:37.944479,MLS - USA MLS 2024 - Futures - Winner,New York City FC,-0.011199999999999995,0.0476,0.0588
 2024-06-22 17:02:33.027400,UEFA Euro 2024 Team Specials - Romania Team Specials - Top Team Goalscorer,Valentin Mihaila,-0.011199999999999995,0.0476,0.0588
-2024-06-23 03:01:37.978319,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,New York City FC,-0.011199999999999995,0.0476,0.0588
-2024-06-22 19:03:09.486498,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,Miguel Angel Jimenez,-0.011199999999999995,0.0476,0.0588
 2024-06-22 19:02:56.711748,Draft Picks - Draft Picks - 9th Overall Pick,Reed Sheppard (Kentucky),-0.011199999999999995,0.0476,0.0588
+2024-06-22 19:03:09.486498,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,Miguel Angel Jimenez,-0.011199999999999995,0.0476,0.0588
+2024-06-23 03:01:37.978319,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,New York City FC,-0.011199999999999995,0.0476,0.0588
+2024-06-23 03:01:37.944479,MLS - USA MLS 2024 - Futures - Winner,New York City FC,-0.011199999999999995,0.0476,0.0588
 2024-06-22 19:02:56.711748,Draft Picks - Draft Picks - 9th Overall Pick,Yves Missi (Baylor),-0.011200000000000002,0.0132,0.0244
 2024-06-23 01:06:06.686948,Copa America Futures - Copa América 2024 - To Reach Final,Jamaica,-0.0113,0.0066,0.0179
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,New York Knicks OR Denver Nuggets,-0.011300000000000004,0.1739,0.1852
 2024-06-23 03:01:54.475039,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Madelene Sagstrom,-0.011399999999999997,0.0164,0.0278
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Miami Heat OR Minnesota Timberwolves,-0.011400000000000007,0.1176,0.129
+2024-06-23 05:01:32.685166,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Germany Or Spain To Win Outright,-0.01150000000000001,0.3333,0.3448
 2024-06-22 17:02:46.316548,Boxing Lines - Jake Paul vs Mike Perry - To Win the Bout,Mike Perry,-0.01150000000000001,0.3333,0.3448
-2024-06-22 15:02:16.398557,KLM Open - KLM Open - Winner,Joost Luiten,-0.0118,0.0099,0.0217
 2024-06-23 03:01:39.018616,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"Germany Winner, Portugal Runner Up",-0.0118,0.0099,0.0217
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Philadelphia 76ers OR Minnesota Timberwolves,-0.011899999999999994,0.1481,0.16
-2024-06-22 15:02:16.398557,KLM Open - KLM Open - Winner,Thomas Aiken,-0.0119,0.0033,0.0152
 2024-06-22 19:03:09.486498,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,Tim Petrovic,-0.0119,0.0033,0.0152
 2024-06-22 19:02:56.419386,WNBA Awards - WNBA Regular Season MVP 2024 - WNBA Regular Season MVP 2024,Napheesa Collier (MIN),-0.011900000000000008,0.0833,0.0952
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Philadelphia 76ers OR Dallas Mavericks,-0.011900000000000022,0.1667,0.1786
-2024-06-23 01:06:06.661241,Copa America Futures - Copa América 2024 - Straight Forecast,"Ecuador 1st, Brazil 2nd",-0.012100000000000001,0.0123,0.0244
 2024-06-23 01:06:06.405214,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Team,Turkey,-0.012100000000000001,0.0123,0.0244
-2024-06-22 19:02:56.779881,Draft Position - Player Draft Position - Ja’Kobe Walter (Baylor),Under 15.5 Draft Position,-0.012199999999999989,0.4878,0.5
+2024-06-23 01:06:06.661241,Copa America Futures - Copa América 2024 - Straight Forecast,"Ecuador 1st, Brazil 2nd",-0.012100000000000001,0.0123,0.0244
 2024-06-22 21:03:11.911755,Round Match-Ups - Final Round Match-Ups - J. Rahm vs B. DeChambeau - Final Round Match-Ups,Jon Rahm,-0.012199999999999989,0.5,0.5122
-2024-06-22 15:02:16.398557,KLM Open - KLM Open - Winner,Jayden Schaper,-0.012199999999999999,0.001,0.0132
+2024-06-22 19:02:56.779881,Draft Position - Player Draft Position - Ja’Kobe Walter (Baylor),Under 15.5 Draft Position,-0.012199999999999989,0.4878,0.5
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Detroit Pistons OR Dallas Mavericks,-0.012299999999999991,0.1053,0.1176
-2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Toronto Raptors OR Dallas Mavericks,-0.012299999999999991,0.1053,0.1176
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Washington Wizards OR Dallas Mavericks,-0.012299999999999991,0.1053,0.1176
+2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Toronto Raptors OR Dallas Mavericks,-0.012299999999999991,0.1053,0.1176
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Brooklyn Nets OR Dallas Mavericks,-0.012299999999999991,0.1053,0.1176
 2024-06-22 21:02:56.262326,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Netherlands,-0.012699999999999989,0.3509,0.3636
 2024-06-22 19:02:56.630734,Draft Picks - Draft Picks - 10th Overall Pick,Kyle Filipowski (Duke),-0.012700000000000003,0.0196,0.0323
 2024-06-22 19:02:56.657646,Draft Picks - Draft Picks - 3rd Overall Pick,Ron Holland (G League),-0.012700000000000003,0.0196,0.0323
 2024-06-23 03:01:38.053129,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Vitória BA,-0.012700000000000045,0.6364,0.6491
-2024-06-22 19:02:56.630734,Draft Picks - Draft Picks - 10th Overall Pick,Ron Holland (G League),-0.012899999999999995,0.1538,0.1667
 2024-06-23 01:06:06.335673,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Final,Netherlands,-0.012899999999999995,0.1538,0.1667
+2024-06-22 19:02:56.630734,Draft Picks - Draft Picks - 10th Overall Pick,Ron Holland (G League),-0.012899999999999995,0.1538,0.1667
 2024-06-22 17:02:33.027400,UEFA Euro 2024 Team Specials - Romania Team Specials - Top Team Goalscorer,Darius Olaru,-0.012899999999999998,0.0149,0.0278
-2024-06-22 19:02:56.630734,Draft Picks - Draft Picks - 10th Overall Pick,Stephon Castle (Connecticut),-0.0131,0.0345,0.0476
 2024-06-23 03:01:54.475039,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Jennifer Kupcho,-0.0131,0.0033,0.0164
-2024-06-22 15:02:16.398557,KLM Open - KLM Open - Winner,Marcel Schneider,-0.0131,0.0033,0.0164
 2024-06-22 19:02:56.666703,Draft Picks - Draft Picks - 4th Overall Pick,Reed Sheppard (Kentucky),-0.0131,0.2222,0.2353
+2024-06-22 19:02:56.630734,Draft Picks - Draft Picks - 10th Overall Pick,Stephon Castle (Connecticut),-0.0131,0.0345,0.0476
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Boston Celtics OR Dallas Mavericks,-0.013300000000000034,0.3571,0.3704
-2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Chicago Bulls OR Dallas Mavericks,-0.013899999999999996,0.1111,0.125
-2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Cleveland Cavaliers OR Dallas Mavericks,-0.013899999999999996,0.129,0.1429
-2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Charlotte Hornets OR Dallas Mavericks,-0.013899999999999996,0.1111,0.125
-2024-06-22 21:02:56.185397,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - England Premier League,Phil Foden,-0.013899999999999996,0.1111,0.125
+2024-06-23 05:01:32.685166,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either England Or France To Win Outright,-0.013800000000000034,0.3636,0.3774
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Indiana Pacers OR Minnesota Timberwolves,-0.013899999999999996,0.1111,0.125
+2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Cleveland Cavaliers OR Dallas Mavericks,-0.013899999999999996,0.129,0.1429
+2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Chicago Bulls OR Dallas Mavericks,-0.013899999999999996,0.1111,0.125
+2024-06-22 21:02:56.185397,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - England Premier League,Phil Foden,-0.013899999999999996,0.1111,0.125
+2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Charlotte Hornets OR Dallas Mavericks,-0.013899999999999996,0.1111,0.125
 2024-06-22 17:02:33.001567,UEFA Euro 2024 Team Specials - Belgium Team Specials - Top Team Goalscorer,Jeremy Doku,-0.013999999999999999,0.0769,0.0909
 2024-06-23 03:01:38.060814,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Grêmio,-0.013999999999999999,0.0769,0.0909
 2024-06-22 21:02:56.262326,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Czech Republic,-0.014099999999999994,0.0526,0.0667
-2024-06-23 03:01:39.018616,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"France Winner, Portugal Runner Up",-0.014099999999999998,0.0294,0.0435
 2024-06-23 03:01:37.956481,MLS - USA MLS 2024 - Futures - Golden Boot Award,Daniel Gazdag,-0.014099999999999998,0.0244,0.0385
-2024-06-22 19:02:56.657646,Draft Picks - Draft Picks - 3rd Overall Pick,Matas Buzelis (G League),-0.014399999999999996,0.0625,0.0769
+2024-06-23 03:01:39.018616,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"France Winner, Portugal Runner Up",-0.014099999999999998,0.0294,0.0435
+2024-06-23 05:01:34.418838,Olympics 3x3 Basketball - Women - Paris 2024 - Women's 3x3 Basketball - Outright,Germany 3x3 Women,-0.014100000000000001,0.0385,0.0526
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Milwaukee Bucks OR Dallas Mavericks,-0.014399999999999996,0.1961,0.2105
-2024-06-22 21:02:56.215317,UEFA Euro 2024 Futures - Euro 2024 Futures - Runner Up,Netherlands,-0.01440000000000001,0.0909,0.1053
+2024-06-22 19:02:56.657646,Draft Picks - Draft Picks - 3rd Overall Pick,Matas Buzelis (G League),-0.014399999999999996,0.0625,0.0769
 2024-06-22 19:02:56.850834,Draft Position - To Be Drafted in Top 10 - To Be a Top 10 Pick,Zach Edey (Purdue),-0.01440000000000001,0.0909,0.1053
+2024-06-22 21:02:56.215317,UEFA Euro 2024 Futures - Euro 2024 Futures - Runner Up,Netherlands,-0.01440000000000001,0.0909,0.1053
 2024-06-22 21:02:56.248133,UEFA Euro 2024 Futures - Euro 2024 Futures - To Be Eliminated By Penalty Shootout,Georgia,-0.014499999999999999,0.0149,0.0294
 2024-06-22 17:02:33.027400,UEFA Euro 2024 Team Specials - Romania Team Specials - Top Team Goalscorer,Deian Sorescu,-0.0145,0.0099,0.0244
-2024-06-22 23:02:07.990833,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Maja Stark,-0.014599999999999998,0.005,0.0196
 2024-06-22 19:02:56.630734,Draft Picks - Draft Picks - 10th Overall Pick,Jared McCain (Duke),-0.014599999999999998,0.0132,0.0278
-2024-06-22 19:02:55.162304,UEFA Euro 2024 Futures - Euro 2024 - Group E - Top 2 in Either Order,Belgium & Slovakia,-0.01469999999999999,0.2353,0.25
+2024-06-22 23:02:07.990833,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Maja Stark,-0.014599999999999998,0.005,0.0196
+2024-06-23 05:01:32.685166,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Germany Or Italy To Win Outright,-0.01469999999999999,0.2353,0.25
 2024-06-22 19:02:56.666703,Draft Picks - Draft Picks - 4th Overall Pick,Matas Buzelis (G League),-0.01469999999999999,0.2353,0.25
+2024-06-22 19:02:55.162304,UEFA Euro 2024 Futures - Euro 2024 - Group E - Top 2 in Either Order,Belgium & Slovakia,-0.01469999999999999,0.2353,0.25
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Miami Heat OR Dallas Mavericks,-0.014800000000000008,0.1333,0.1481
 2024-06-22 19:02:56.861419,Draft Position - To Be Drafted in Top 5  - To Be a Top 5 Pick,Isaiah Collier (USC),-0.014899999999999997,0.0476,0.0625
 2024-06-22 19:02:56.630734,Draft Picks - Draft Picks - 10th Overall Pick,Dalton Knecht (Tennessee),-0.015100000000000002,0.1667,0.1818
+2024-06-23 05:01:32.685166,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Croatia Or Spain To Win Outright,-0.015100000000000002,0.1667,0.1818
 2024-06-22 23:01:57.133452,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Young Player of The Tournament,Jude Bellingham,-0.015100000000000002,0.1667,0.1818
-2024-06-22 15:02:16.398557,KLM Open - KLM Open - Winner,Tom McKibbin,-0.015399999999999999,0.0025,0.0179
 2024-06-22 23:02:07.990833,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Rio Takeda,-0.0156,0.004,0.0196
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Orlando Magic OR Dallas Mavericks,-0.015700000000000006,0.1176,0.1333
 2024-06-22 21:02:57.685475,WNBA Commissioner's Cup - WNBA Commissioner's Cup 2024 - Champion,Minnesota Lynx,-0.016000000000000014,0.3922,0.4082
 2024-06-22 19:02:56.972010,To Make the Playoffs - Chicago Sky- To Make the 2024 WNBA Playoffs - Chicago Sky- To Make the 2024 WNBA Playoffs,No,-0.01629999999999998,0.7059,0.7222
-2024-06-22 15:02:15.812509,NFL Awards & League Leaders - Regular Season Stat Leaders - Most Rushing Yards (Regular Season),Derrick Henry,-0.016600000000000004,0.0667,0.0833
 2024-06-22 21:02:58.263497,Regular Season Wins O/U - Seattle Storm- 2024 Regular Season Wins - Seattle Storm- 2024 Regular Season Wins,Over 24.5,-0.016699999999999937,0.5833,0.6
 2024-06-22 21:02:56.262326,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Italy,-0.016699999999999993,0.25,0.2667
-2024-06-22 19:02:55.155660,UEFA Euro 2024 Futures - Euro 2024 - Group E - To Finish Bottom,Slovakia,-0.016699999999999993,0.25,0.2667
 2024-06-22 21:02:56.255309,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Romania,-0.016699999999999993,0.25,0.2667
-2024-06-23 01:06:06.694517,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Paraguay,-0.016700000000000007,0.0833,0.1
+2024-06-22 19:02:55.155660,UEFA Euro 2024 Futures - Euro 2024 - Group E - To Finish Bottom,Slovakia,-0.016699999999999993,0.25,0.2667
 2024-06-22 19:02:56.702927,Draft Picks - Draft Picks - 8th Overall Pick,Ron Holland (G League),-0.016700000000000007,0.0833,0.1
+2024-06-23 01:06:06.694517,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Paraguay,-0.016700000000000007,0.0833,0.1
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,New York Knicks OR Minnesota Timberwolves,-0.017100000000000004,0.1429,0.16
 2024-06-22 19:03:09.486498,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,Cameron Percy,-0.017100000000000004,0.0152,0.0323
 2024-06-22 19:02:56.771349,Draft Position - Player Draft Position - Isaiah Collier (USC),Under 17.5 Draft Position,-0.017299999999999982,0.4082,0.4255
-2024-06-22 15:02:15.609736,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Texas To Make the 2024-2025 College Football Playoff,Yes,-0.017300000000000093,0.697,0.7143
 2024-06-22 17:02:33.018798,UEFA Euro 2024 Team Specials - Romania Team Specials - Stage Of Elimination,Round of 16,-0.01759999999999995,0.6491,0.6667
 2024-06-22 19:03:09.486498,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,Thongchai Jaidee,-0.017599999999999998,0.002,0.0196
+2024-06-23 05:01:34.432196,Olympics 3x3 Basketball - Men - Paris 2024 - Men's 3x3 Basketball - Outright,USA 3x3,-0.017600000000000005,0.3333,0.3509
 2024-06-23 01:06:06.652527,Copa America Futures - Copa América 2024 - Runner Up,Jamaica,-0.017800000000000003,0.0066,0.0244
-2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Indiana Pacers OR Dallas Mavericks,-0.0179,0.125,0.1429
-2024-06-22 21:02:56.262326,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Turkey,-0.0179,0.125,0.1429
 2024-06-23 01:06:06.670666,Copa America Futures - Copa América 2024 - Group of Winning Team,Group B,-0.0179,0.125,0.1429
-2024-06-23 03:01:37.956481,MLS - USA MLS 2024 - Futures - Golden Boot Award,Denis Bouanga,-0.018099999999999998,0.0588,0.0769
-2024-06-22 17:02:33.027400,UEFA Euro 2024 Team Specials - Romania Team Specials - Top Team Goalscorer,George Puscas,-0.018099999999999998,0.0588,0.0769
-2024-06-23 01:06:06.686948,Copa America Futures - Copa América 2024 - To Reach Final,Canada,-0.018099999999999998,0.0345,0.0526
+2024-06-22 21:02:56.262326,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Turkey,-0.0179,0.125,0.1429
+2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Indiana Pacers OR Dallas Mavericks,-0.0179,0.125,0.1429
 2024-06-22 21:02:56.239109,UEFA Euro 2024 Futures - Euro 2024 Futures - Most Assists,Kevin De Bruyne,-0.018099999999999998,0.0588,0.0769
-2024-06-23 03:01:38.067399,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Fortaleza,-0.01820000000000002,0.1818,0.2
-2024-06-23 03:01:38.067399,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Grêmio,-0.01820000000000002,0.1818,0.2
-2024-06-23 01:06:06.405214,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Team,Spain,-0.01820000000000002,0.1818,0.2
+2024-06-22 17:02:33.027400,UEFA Euro 2024 Team Specials - Romania Team Specials - Top Team Goalscorer,George Puscas,-0.018099999999999998,0.0588,0.0769
+2024-06-23 03:01:37.956481,MLS - USA MLS 2024 - Futures - Golden Boot Award,Denis Bouanga,-0.018099999999999998,0.0588,0.0769
+2024-06-23 01:06:06.686948,Copa America Futures - Copa América 2024 - To Reach Final,Canada,-0.018099999999999998,0.0345,0.0526
 2024-06-22 19:02:56.648154,Draft Picks - Draft Picks - 2nd Overall Pick,Zaccharie Risacher (JL Bourg),-0.01820000000000002,0.1818,0.2
+2024-06-23 01:06:06.405214,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Team,Spain,-0.01820000000000002,0.1818,0.2
+2024-06-23 03:01:38.067399,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Grêmio,-0.01820000000000002,0.1818,0.2
+2024-06-23 03:01:38.067399,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Fortaleza,-0.01820000000000002,0.1818,0.2
 2024-06-22 19:02:56.861419,Draft Position - To Be Drafted in Top 5  - To Be a Top 5 Pick,Ron Holland (G League),-0.018400000000000027,0.2941,0.3125
-2024-06-22 19:02:56.657646,Draft Picks - Draft Picks - 3rd Overall Pick,Rob Dillingham (Kentucky),-0.0189,0.0196,0.0385
-2024-06-22 17:02:33.027400,UEFA Euro 2024 Team Specials - Romania Team Specials - Top Team Goalscorer,Radu Dragusin,-0.0189,0.0196,0.0385
+2024-06-23 05:01:34.418838,Olympics 3x3 Basketball - Women - Paris 2024 - Women's 3x3 Basketball - Outright,Azerbaijan 3x3 Women,-0.0189,0.0196,0.0385
 2024-06-22 17:02:33.001567,UEFA Euro 2024 Team Specials - Belgium Team Specials - Top Team Goalscorer,Charles De Ketelaere,-0.0189,0.0196,0.0385
 2024-06-22 17:02:33.001567,UEFA Euro 2024 Team Specials - Belgium Team Specials - Top Team Goalscorer,Johna Bakayoko,-0.0189,0.0196,0.0385
+2024-06-22 17:02:33.027400,UEFA Euro 2024 Team Specials - Romania Team Specials - Top Team Goalscorer,Radu Dragusin,-0.0189,0.0196,0.0385
+2024-06-22 19:02:56.657646,Draft Picks - Draft Picks - 3rd Overall Pick,Rob Dillingham (Kentucky),-0.0189,0.0196,0.0385
 2024-06-22 19:02:56.666703,Draft Picks - Draft Picks - 4th Overall Pick,Rob Dillingham (Kentucky),-0.019000000000000003,0.0435,0.0625
 2024-06-22 19:02:55.141514,UEFA Euro 2024 Futures - Euro 2024 - Group E - Not To Advance from Group,Slovakia,-0.019000000000000017,0.2667,0.2857
-2024-06-23 01:06:06.412311,UEFA Euro 2024 Futures - Euro 2024 Futures - Lowest Scoring Team,Czech Republic,-0.019099999999999992,0.0476,0.0667
 2024-06-22 19:02:56.676302,Draft Picks - Draft Picks - 5th Overall Pick,Tidjane Salaun (Cholet),-0.019099999999999992,0.0476,0.0667
+2024-06-23 01:06:06.412311,UEFA Euro 2024 Futures - Euro 2024 Futures - Lowest Scoring Team,Czech Republic,-0.019099999999999992,0.0476,0.0667
 2024-06-22 21:03:11.662148,Nashville - 2/3 Balls - Final Round 3-Balls - C. Smith / C. Ortiz / J. Rahm - Final Round 3-Balls,Jon Rahm,-0.019699999999999995,0.4348,0.4545
-2024-06-22 15:02:09.884489,Tennessee Titans - 2024-25 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U 6.5 Wins,Over 6.5 Wins,-0.01970000000000005,0.5455,0.5652
-2024-06-22 15:02:08.835014,Kansas City Chiefs - 2024-25 Regular Season Wins O/U - Regular Season Wins - Kansas City Chiefs O/U 11.5 Wins,Over 11.5 Wins,-0.01970000000000005,0.5455,0.5652
-2024-06-22 23:02:07.990833,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Madelene Sagstrom,-0.019800000000000005,0.0278,0.0476
 2024-06-22 21:02:56.193006,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Germany Bundesliga,Lois Openda,-0.019800000000000005,0.0278,0.0476
+2024-06-22 23:02:07.990833,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Madelene Sagstrom,-0.019800000000000005,0.0278,0.0476
+2024-06-23 05:01:34.432196,Olympics 3x3 Basketball - Men - Paris 2024 - Men's 3x3 Basketball - Outright,Lithuania 3x3,-0.02020000000000001,0.0909,0.1111
 2024-06-23 03:01:37.944479,MLS - USA MLS 2024 - Futures - Winner,FC Cincinnati,-0.02020000000000001,0.0909,0.1111
 2024-06-22 19:02:56.630734,Draft Picks - Draft Picks - 10th Overall Pick,Isaiah Collier (USC),-0.0203,0.0385,0.0588
 2024-06-22 21:02:56.200811,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Italy Serie A,Rafael Leao,-0.0203,0.0385,0.0588
-2024-06-22 15:02:16.398557,KLM Open - KLM Open - Winner,Nicolo Galletti,-0.0207,0.001,0.0217
 2024-06-22 19:02:56.861419,Draft Position - To Be Drafted in Top 5  - To Be a Top 5 Pick,Nikola Topic (KK Crvena Zvezda),-0.020799999999999985,0.3125,0.3333
 2024-06-22 23:02:07.990833,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Celine Boutier,-0.0211,0.0033,0.0244
 2024-06-22 21:02:57.607112,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,New York Knicks OR Dallas Mavericks,-0.021799999999999986,0.16,0.1818
+2024-06-23 03:01:37.956481,MLS - USA MLS 2024 - Futures - Golden Boot Award,Lionel Messi,-0.021999999999999964,0.2857,0.3077
 2024-06-22 19:02:56.419386,WNBA Awards - WNBA Regular Season MVP 2024 - WNBA Regular Season MVP 2024,Alyssa Thomas (CON),-0.022000000000000006,0.0833,0.1053
 2024-06-23 01:06:06.644559,Copa America Futures - Copa América 2024 - First Time Winner?,Yes,-0.022199999999999998,0.2,0.2222
 2024-06-23 03:01:37.968696,MLS - USA MLS 2024 - Futures - To Reach the Final,New York City FC,-0.022199999999999998,0.1111,0.1333
+2024-06-23 05:01:34.432196,Olympics 3x3 Basketball - Men - Paris 2024 - Men's 3x3 Basketball - Outright,France 3x3,-0.022199999999999998,0.2,0.2222
 2024-06-23 03:01:37.968696,MLS - USA MLS 2024 - Futures - To Reach the Final,Real Salt Lake,-0.022199999999999998,0.1111,0.1333
 2024-06-22 19:03:09.486498,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,Vijay Singh,-0.022400000000000003,0.002,0.0244
-2024-06-22 15:02:16.398557,KLM Open - KLM Open - Winner,Manuel Elvira,-0.022400000000000003,0.002,0.0244
 2024-06-22 19:03:09.486498,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,Paul Broadhurst,-0.022400000000000003,0.002,0.0244
 2024-06-22 21:03:11.630990,Nashville - 2/3 Balls - Final Round 3-Balls - B. DeChambeau / J. Catlin / T. Hatton - Final Round 3-Balls,Tyrrell Hatton,-0.02260000000000001,0.3774,0.4
 2024-06-22 19:02:56.796846,Draft Position - Player Draft Position - Reed Sheppard (Kentucky),Over 3.5 Draft Position,-0.022600000000000064,0.5122,0.5348
-2024-06-22 21:03:11.962758,Round Match-Ups - Final Round Match-Ups - M. Leishman vs A. Ancer - Final Round Match-Ups,Marc Leishman,-0.022600000000000064,0.5122,0.5348
 2024-06-22 21:02:56.262326,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Germany,-0.022600000000000064,0.5122,0.5348
+2024-06-22 21:03:11.962758,Round Match-Ups - Final Round Match-Ups - M. Leishman vs A. Ancer - Final Round Match-Ups,Marc Leishman,-0.022600000000000064,0.5122,0.5348
 2024-06-22 21:03:12.036942,Round Match-Ups - Final Round Match-Ups - T. Hatton vs C. Smith - Final Round Match-Ups,Cameron Smith,-0.022699999999999998,0.4651,0.4878
 2024-06-22 21:02:56.185397,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - England Premier League,Rasmus Hojlund,-0.02310000000000001,0.0769,0.1
 2024-06-23 01:06:06.694517,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Jamaica,-0.023200000000000002,0.0244,0.0476
-2024-06-22 23:02:07.990833,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Charley Hull,-0.023200000000000002,0.0244,0.0476
 2024-06-22 19:02:56.657646,Draft Picks - Draft Picks - 3rd Overall Pick,Nikola Topic (KK Crvena Zvezda),-0.023200000000000002,0.0294,0.0526
+2024-06-22 23:02:07.990833,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Charley Hull,-0.023200000000000002,0.0244,0.0476
 2024-06-22 17:02:33.027400,UEFA Euro 2024 Team Specials - Romania Team Specials - Top Team Goalscorer,Alexandru Cicaldau,-0.0236,0.0149,0.0385
 2024-06-22 21:02:56.248133,UEFA Euro 2024 Futures - Euro 2024 Futures - To Be Eliminated By Penalty Shootout,Belgium,-0.023799999999999988,0.1429,0.1667
 2024-06-22 19:02:56.822584,Draft Position - Player Draft Position - Stephon Castle,Over 5.5 Draft Position,-0.023800000000000043,0.5,0.5238
+2024-06-23 05:01:34.418838,Olympics 3x3 Basketball - Women - Paris 2024 - Women's 3x3 Basketball - Outright,Spain 3x3 Women,-0.0242,0.0667,0.0909
 2024-06-22 19:02:56.702927,Draft Picks - Draft Picks - 8th Overall Pick,Matas Buzelis (G League),-0.0242,0.0667,0.0909
 2024-06-22 19:02:56.702927,Draft Picks - Draft Picks - 8th Overall Pick,Stephon Castle (Connecticut),-0.0242,0.0667,0.0909
 2024-06-22 23:02:07.990833,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Ally Ewing,-0.024299999999999995,0.0345,0.0588
 2024-06-22 19:02:56.711748,Draft Picks - Draft Picks - 9th Overall Pick,Matas Buzelis (G League),-0.024299999999999995,0.0526,0.0769
 2024-06-23 03:01:54.475039,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Hae Ran Ryu,-0.024600000000000004,0.0099,0.0345
-2024-06-22 15:02:16.398557,KLM Open - KLM Open - Winner,Bernd Wiesberger,-0.024800000000000003,0.0278,0.0526
 2024-06-22 23:02:06.965593,Boxing Lines - Goki Kobayashi vs Joseph Sumabong - To Win the Bout,Joseph Sumabong,-0.024800000000000016,0.2105,0.2353
 2024-06-23 01:06:06.405214,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Team,England,-0.024999999999999994,0.1,0.125
 2024-06-22 21:02:56.248133,UEFA Euro 2024 Futures - Euro 2024 Futures - To Be Eliminated By Penalty Shootout,Romania,-0.024999999999999994,0.1,0.125
 2024-06-22 23:02:07.990833,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Mao Saigo,-0.0253,0.0025,0.0278
+2024-06-23 05:01:34.432196,Olympics 3x3 Basketball - Men - Paris 2024 - Men's 3x3 Basketball - Outright,Netherlands 3x3,-0.025300000000000003,0.1176,0.1429
 2024-06-23 01:06:06.405214,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Team,Germany,-0.025499999999999967,0.4,0.4255
 2024-06-23 01:06:06.335673,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Final,Germany,-0.02560000000000001,0.3077,0.3333
 2024-06-22 17:02:34.734715,"Olympics Basketball - Men - Qualification - Paris 2024 - Men's Basketball Qualification (San Juan, Puerto Rico) - Outright",Italy,-0.02679999999999999,0.2857,0.3125
-2024-06-22 15:02:16.398557,KLM Open - KLM Open - Winner,Henrik Norlander,-0.026799999999999997,0.001,0.0278
 2024-06-23 03:01:38.060814,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Athletico Paranaense,-0.02779999999999999,0.2222,0.25
-2024-06-22 19:02:56.676302,Draft Picks - Draft Picks - 5th Overall Pick,Dalton Knecht (Tennessee),-0.027800000000000005,0.0833,0.1111
+2024-06-23 03:01:37.956481,MLS - USA MLS 2024 - Futures - Golden Boot Award,Luis Suarez,-0.02779999999999999,0.2222,0.25
 2024-06-22 19:02:56.676302,Draft Picks - Draft Picks - 5th Overall Pick,Ron Holland (G League),-0.027800000000000005,0.0833,0.1111
 2024-06-23 01:06:06.405214,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Team,France,-0.027800000000000005,0.0833,0.1111
-2024-06-22 21:02:56.255309,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Czech Republic,-0.027999999999999997,0.1538,0.1818
+2024-06-22 19:02:56.676302,Draft Picks - Draft Picks - 5th Overall Pick,Dalton Knecht (Tennessee),-0.027800000000000005,0.0833,0.1111
 2024-06-22 19:02:56.711748,Draft Picks - Draft Picks - 9th Overall Pick,Ron Holland (G League),-0.027999999999999997,0.1538,0.1818
+2024-06-22 21:02:56.255309,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Czech Republic,-0.027999999999999997,0.1538,0.1818
 2024-06-22 19:02:56.711748,Draft Picks - Draft Picks - 9th Overall Pick,Nikola Topic (KK Crvena Zvezda),-0.027999999999999997,0.1053,0.1333
-2024-06-22 23:01:57.133452,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Young Player of The Tournament,Arda Guler,-0.028199999999999996,0.0385,0.0667
 2024-06-22 17:02:33.027400,UEFA Euro 2024 Team Specials - Romania Team Specials - Top Team Goalscorer,Florinel Coman,-0.028199999999999996,0.0385,0.0667
+2024-06-22 23:01:57.133452,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Young Player of The Tournament,Arda Guler,-0.028199999999999996,0.0385,0.0667
 2024-06-22 19:02:56.666703,Draft Picks - Draft Picks - 4th Overall Pick,Nikola Topic (KK Crvena Zvezda),-0.0282,0.0244,0.0526
-2024-06-22 17:02:33.001567,UEFA Euro 2024 Team Specials - Belgium Team Specials - Top Team Goalscorer,Lois Openda,-0.029299999999999993,0.0476,0.0769
 2024-06-22 19:02:56.702927,Draft Picks - Draft Picks - 8th Overall Pick,Donovan Clingan (Connecticut),-0.029299999999999993,0.0476,0.0769
-2024-06-23 01:06:06.661241,Copa America Futures - Copa América 2024 - Straight Forecast,"Brazil 1st, Ecuador 2nd",-0.0294,0.0294,0.0588
-2024-06-22 17:02:33.027400,UEFA Euro 2024 Team Specials - Romania Team Specials - Top Team Goalscorer,Daniel Birligea,-0.0294,0.0294,0.0588
+2024-06-22 17:02:33.001567,UEFA Euro 2024 Team Specials - Belgium Team Specials - Top Team Goalscorer,Lois Openda,-0.029299999999999993,0.0476,0.0769
 2024-06-23 01:06:06.612696,Copa America Futures - Copa América 2024 - Winner,Ecuador,-0.0294,0.0294,0.0588
+2024-06-22 17:02:33.027400,UEFA Euro 2024 Team Specials - Romania Team Specials - Top Team Goalscorer,Daniel Birligea,-0.0294,0.0294,0.0588
+2024-06-23 01:06:06.661241,Copa America Futures - Copa América 2024 - Straight Forecast,"Brazil 1st, Ecuador 2nd",-0.0294,0.0294,0.0588
 2024-06-22 19:02:56.657646,Draft Picks - Draft Picks - 3rd Overall Pick,Stephon Castle (Connecticut),-0.029799999999999993,0.0952,0.125
 2024-06-22 19:02:56.850834,Draft Position - To Be Drafted in Top 10 - To Be a Top 10 Pick,Jared McCain (Duke),-0.030699999999999998,0.0526,0.0833
 2024-06-22 19:02:56.736353,Draft Position - Player Draft Position - Bronny James (USC),Under 41.5 Draft Position,-0.031799999999999995,0.4444,0.4762
-2024-06-22 19:02:55.162304,UEFA Euro 2024 Futures - Euro 2024 - Group E - Top 2 in Either Order,Ukraine & Slovakia,-0.0321,0.0588,0.0909
 2024-06-22 19:02:55.169721,UEFA Euro 2024 Futures - Euro 2024 - Group E - Top 2 in Exact Order,"Ukraine 1st , Slovakia 2nd",-0.0321,0.0588,0.0909
+2024-06-22 19:02:55.162304,UEFA Euro 2024 Futures - Euro 2024 - Group E - Top 2 in Either Order,Ukraine & Slovakia,-0.0321,0.0588,0.0909
 2024-06-22 19:02:56.676302,Draft Picks - Draft Picks - 5th Overall Pick,Nikola Topic (KK Crvena Zvezda),-0.032400000000000005,0.0152,0.0476
 2024-06-22 19:03:09.486498,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,Doug Barron,-0.033,0.0196,0.0526
 2024-06-22 21:02:56.262326,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Austria,-0.033300000000000024,0.1667,0.2
@@ -454,9 +445,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-22 19:02:56.676302,Draft Picks - Draft Picks - 5th Overall Pick,Stephon Castle (Connecticut),-0.03369999999999998,0.1481,0.1818
 2024-06-22 19:02:56.694275,Draft Picks - Draft Picks - 7th Overall Pick,Nikola Topic (KK Crvena Zvezda),-0.03420000000000001,0.0769,0.1111
 2024-06-23 01:06:06.636974,Copa America Futures - Copa América 2024 - Name The Finalists,Brazil & Ecuador,-0.03439999999999999,0.0323,0.0667
-2024-06-22 15:02:08.167400,Carolina Panthers - 2024-25 Regular Season Wins O/U - Regular Season Wins - Carolina Panthers O/U 5.5 Wins,Over 5.5 Wins,-0.03479999999999994,0.5652,0.6
-2024-06-22 19:02:56.762631,Draft Position - Player Draft Position - Donovan Clingan (Connecticut),Over 3.5 Draft Position,-0.03480000000000005,0.5,0.5348
 2024-06-22 21:03:12.014244,Round Match-Ups - Final Round Match-Ups - S. Horsfield vs S. Vincent - Final Round Match-Ups,Sam Horsfield,-0.03480000000000005,0.5,0.5348
+2024-06-22 19:02:56.762631,Draft Position - Player Draft Position - Donovan Clingan (Connecticut),Over 3.5 Draft Position,-0.03480000000000005,0.5,0.5348
 2024-06-22 21:03:11.938806,Round Match-Ups - Final Round Match-Ups - L. Oosthuizen vs D. Johnson - Final Round Match-Ups,Dustin Johnson,-0.03489999999999999,0.4651,0.5
 2024-06-22 19:03:09.486498,Dick's Sporting Goods Open - Dick's Sporting Goods Open - Winner,Rocco Mediate,-0.0352,0.0033,0.0385
 2024-06-22 21:02:56.200811,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Italy Serie A,Khvicha Kvaratskhelia,-0.035300000000000005,0.0123,0.0476
@@ -469,7 +459,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-23 01:06:06.694517,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Ecuador,-0.03689999999999999,0.2857,0.3226
 2024-06-22 19:02:56.657646,Draft Picks - Draft Picks - 3rd Overall Pick,Alexandre Sarr (Perth Wildcats),-0.037500000000000006,0.0625,0.1
 2024-06-22 17:02:34.703877,"Olympics Basketball - Men - Qualification - Paris 2024 - Men's Basketball Qualification (Piraeus, Greece) - Outright",Slovenia,-0.03839999999999999,0.3125,0.3509
-2024-06-22 15:02:16.398557,KLM Open - KLM Open - Winner,Ewen Ferguson,-0.0384,0.0385,0.0769
 2024-06-23 03:01:38.060814,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,São Paulo,-0.03950000000000001,0.2105,0.25
 2024-06-23 01:06:06.686948,Copa America Futures - Copa América 2024 - To Reach Final,Argentina,-0.040999999999999925,0.5744,0.6154
 2024-06-22 19:02:56.666703,Draft Picks - Draft Picks - 4th Overall Pick,Stephon Castle (Connecticut),-0.04290000000000005,0.3571,0.4
@@ -478,22 +467,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-22 19:02:56.850834,Draft Position - To Be Drafted in Top 10 - To Be a Top 10 Pick,Ron Holland (G League),-0.04409999999999992,0.6226,0.6667
 2024-06-23 03:01:38.053129,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Vasco da Gama,-0.044399999999999995,0.4,0.4444
 2024-06-23 03:01:38.067399,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,São Paulo,-0.044399999999999995,0.4,0.4444
-2024-06-22 17:02:33.001567,UEFA Euro 2024 Team Specials - Belgium Team Specials - Top Team Goalscorer,Leandro Trossard,-0.04440000000000001,0.0667,0.1111
 2024-06-22 23:02:07.990833,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Sarah Schmelzel,-0.04440000000000001,0.0667,0.1111
+2024-06-22 17:02:33.001567,UEFA Euro 2024 Team Specials - Belgium Team Specials - Top Team Goalscorer,Leandro Trossard,-0.04440000000000001,0.0667,0.1111
+2024-06-23 05:01:34.418838,Olympics 3x3 Basketball - Women - Paris 2024 - Women's 3x3 Basketball - Outright,Australia 3x3 Women,-0.044499999999999984,0.2222,0.2667
 2024-06-23 03:01:37.986370,MLS - USA MLS 2024 - Futures - Western Conference League Winner,Real Salt Lake,-0.044499999999999984,0.2222,0.2667
 2024-06-23 03:01:37.978319,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,FC Cincinnati,-0.044499999999999984,0.2222,0.2667
-2024-06-22 15:02:16.398557,KLM Open - KLM Open - Winner,Laurie Canter,-0.0451,0.0025,0.0476
 2024-06-22 19:02:55.148796,UEFA Euro 2024 Futures - Euro 2024 - Group E - To Advance from Group,Ukraine,-0.045499999999999985,0.5,0.5455
 2024-06-22 19:02:56.850834,Draft Position - To Be Drafted in Top 10 - To Be a Top 10 Pick,Cody Williams (Colorado),-0.04619999999999991,0.8,0.8462
-2024-06-22 21:02:56.230228,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Group,Group F,-0.047599999999999976,0.2857,0.3333
 2024-06-22 21:02:56.255309,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Turkey,-0.047599999999999976,0.2857,0.3333
+2024-06-22 21:02:56.230228,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Group,Group F,-0.047599999999999976,0.2857,0.3333
 2024-06-22 21:02:56.255309,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Austria,-0.04760000000000003,0.4762,0.5238
+2024-06-23 05:01:34.418838,Olympics 3x3 Basketball - Women - Paris 2024 - Women's 3x3 Basketball - Outright,China 3x3 Women,-0.04849999999999999,0.1333,0.1818
 2024-06-22 19:02:56.850834,Draft Position - To Be Drafted in Top 10 - To Be a Top 10 Pick,Tidjane Salaun (Cholet),-0.04849999999999999,0.5348,0.5833
 2024-06-23 03:01:37.968696,MLS - USA MLS 2024 - Futures - To Reach the Final,FC Cincinnati,-0.04999999999999999,0.2,0.25
 2024-06-22 19:02:56.850834,Draft Position - To Be Drafted in Top 10 - To Be a Top 10 Pick,Dalton Knecht (Tennessee),-0.050000000000000044,0.75,0.8
 2024-06-22 19:02:56.982567,To Make the Playoffs - Indiana Fever - To Make the 2024 WNBA Playoffs - Indiana Fever - To Make the 2024 WNBA Playoffs,No,-0.05020000000000002,0.3846,0.4348
 2024-06-22 21:02:56.193006,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Germany Bundesliga,Harry Kane,-0.05059999999999998,0.5238,0.5744
-2024-06-22 15:02:16.398557,KLM Open - KLM Open - Winner,Johannes Veerman,-0.0516,0.001,0.0526
 2024-06-22 23:02:07.990833,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Hinako Shibuno,-0.052300000000000006,0.0588,0.1111
 2024-06-22 21:02:56.230228,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Group,Group E,-0.052399999999999995,0.0385,0.0909
 2024-06-22 17:02:33.027400,UEFA Euro 2024 Team Specials - Romania Team Specials - Top Team Goalscorer,Denis Alibec,-0.0524,0.0476,0.1
@@ -501,11 +490,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-23 03:01:38.067399,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,RB Bragantino,-0.055900000000000005,0.3077,0.3636
 2024-06-22 19:02:55.162304,UEFA Euro 2024 Futures - Euro 2024 - Group E - Top 2 in Either Order,Ukraine & Romania,-0.0567,0.1538,0.2105
 2024-06-22 17:02:33.010134,UEFA Euro 2024 Team Specials - Belgium Team Specials - Total Tournament Goals,Under 8.5 Goals,-0.05679999999999996,0.8182,0.875
-2024-06-22 15:02:16.398557,KLM Open - KLM Open - Winner,Ross Fisher,-0.056799999999999996,0.002,0.0588
-2024-06-22 15:02:16.398557,KLM Open - KLM Open - Winner,Matti Schmid,-0.0573,0.0196,0.0769
-2024-06-22 15:02:16.398557,KLM Open - KLM Open - Winner,James Morrison,-0.0578,0.001,0.0588
+2024-06-23 05:01:34.432196,Olympics 3x3 Basketball - Men - Paris 2024 - Men's 3x3 Basketball - Outright,Latvia 3x3,-0.05710000000000001,0.1429,0.2
 2024-06-22 23:02:07.990833,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Lexi Thompson,-0.058300000000000005,0.0667,0.125
-2024-06-22 15:02:15.865941,MLB Daily Fantasy Specials - Fantasy Picks - Hitter Matchups - Fantasy Picks - Hitter Matchups - Matt Olson v William Contreras,William Contreras (MIL),-0.05860000000000004,0.4762,0.5348
 2024-06-22 19:02:55.133434,UEFA Euro 2024 Futures - Euro 2024 - Group E - Group Winner,Slovakia,-0.05879999999999996,0.2353,0.2941
 2024-06-22 19:02:56.753720,Draft Position - Player Draft Position - Dalton Knecht (Tennessee),Over 9.5 Draft Position,-0.0595,0.4167,0.4762
 2024-06-22 19:02:56.873885,Exact Order Parlays - Top 3 Exact Order - Top 3 Exact Order,"1st - Alexandre Sarr, 2nd - Zaccharie Risacher, 3rd - Donovan Clingan",-0.06139999999999998,0.1053,0.1667
@@ -523,6 +509,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-22 23:02:07.990833,KPMG Women's PGA Championship - KPMG Women's PGA Championship - Winner,Jin Young Ko,-0.07579999999999999,0.0909,0.1667
 2024-06-23 03:01:38.053129,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Criciúma SC,-0.07710000000000006,0.5455,0.6226
 2024-06-23 01:06:06.652527,Copa America Futures - Copa América 2024 - Runner Up,Ecuador,-0.0807,0.0526,0.1333
+2024-06-23 05:01:34.418838,Olympics 3x3 Basketball - Women - Paris 2024 - Women's 3x3 Basketball - Outright,Canada 3x3 Women,-0.08329999999999999,0.25,0.3333
 2024-06-22 17:02:32.994424,UEFA Euro 2024 Team Specials - Belgium Team Specials - Stage Of Elimination,Group Stage,-0.0849,0.1818,0.2667
 2024-06-22 21:02:58.242520,Regular Season Wins O/U - Phoenix Mercury- 2024 Regular Season Wins - Phoenix Mercury- 2024 Regular Season Wins,Over 22.5,-0.08879999999999999,0.5833,0.6721
 2024-06-22 19:02:55.133434,UEFA Euro 2024 Futures - Euro 2024 - Group E - Group Winner,Romania,-0.09039999999999998,0.2667,0.3571
