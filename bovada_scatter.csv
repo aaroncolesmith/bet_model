@@ -1,553 +1,230 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-06-27 01:01:46.734384,UEFA Euro 2024 Team Specials - Georgia Team Specials - Stage Of Elimination,Round Of 16,0.8091,0.9091,0.1
-2024-06-27 01:01:46.824255,UEFA Euro 2024 Team Specials - Slovenia Team Specials - Stage Of Elimination,Round Of 16,0.5476000000000001,0.8333,0.2857
 2024-06-27 03:01:42.093274,Copa America Futures - Group B - Winner,Venezuela,0.5455000000000001,0.9091,0.3636
 2024-06-27 05:01:24.042489,UEFA Euro 2024 Team Specials - Romania Team Specials - Top Team Goalscorer,Razvan Marin,0.5110999999999999,0.7333,0.2222
 2024-06-27 05:01:24.009050,UEFA Euro 2024 Team Specials - Netherlands Team Specials - Top Team Goalscorer,Cody Gakpo,0.41420000000000007,0.7778,0.3636
 2024-06-27 03:01:42.101019,Copa America Futures - Group B - Not To Qualify From Group B,Mexico,0.3824,0.6491,0.2667
-2024-06-27 01:01:46.976492,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Netherlands,0.3571,0.8571,0.5
-2024-06-27 01:01:46.648034,UEFA Euro 2024 Team Specials - Denmark Team Specials - Stage Of Elimination,Round Of 16,0.31020000000000003,0.7647,0.4545
-2024-06-27 01:01:46.774572,UEFA Euro 2024 Team Specials - Belgium Team Specials - Stage Of Elimination,Round Of 16,0.2923,0.6923,0.4
-2024-06-27 01:01:46.582237,Copa America Team Specials - Copa America 2024 - Canada Team Specials - Stage of Elimination,Quarter Final,0.27770000000000006,0.4444,0.1667
-2024-06-27 01:01:46.655887,UEFA Euro 2024 Team Specials - Denmark Team Specials - Total Tournament Goals,Under 5.5 Goals,0.2509,0.9,0.6491
 2024-06-27 12:57:56.954514,Presidential Debates - CNN Debate June 27th: To Be Said By Joe Biden During The Debate - Biden Buzzwords,Malarkey,0.24210000000000004,0.5238,0.2817
-2024-06-27 01:01:46.929962,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Italy Serie A,Hakan Calhanoglu,0.2304,0.25,0.0196
 2024-06-27 03:01:42.107957,Copa America Futures - Group B - To Finish Bottom,Jamaica,0.22560000000000002,0.9756,0.75
-2024-06-27 01:01:46.560279,Copa America Team Specials - Copa America 2024 - Argentina Team Specials - Top Argentina Goalscorer,Lautaro Martinez,0.2143,0.5,0.2857
-2024-06-27 01:01:46.718142,UEFA Euro 2024 Team Specials - Slovakia Team Specials - Stage Of Elimaintion,Round of 16,0.20799999999999996,0.8571,0.6491
-2024-06-27 01:01:46.983255,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Netherlands,0.20590000000000003,0.5,0.2941
-2024-06-27 01:01:46.544285,Copa America Team Specials - Copa America 2024 - Colombia Team Specials - Top Colombia Goalscorer,Jefferson Lerma,0.1978,0.2222,0.0244
 2024-06-27 03:01:42.114660,Copa America Futures - Group B - To Qualify From Group B,Ecuador,0.1946,0.6491,0.4545
-2024-06-27 01:01:46.544285,Copa America Team Specials - Copa America 2024 - Colombia Team Specials - Top Colombia Goalscorer,Daniel Munoz,0.19010000000000002,0.2,0.0099
-2024-06-27 01:01:46.865064,UEFA Euro 2024 Team Specials - Romania Team Specials - Stage Of Elimination,Round of 16,0.18420000000000003,0.8333,0.6491
-2024-06-27 01:01:46.709671,UEFA Euro 2024 Team Specials - England Team Specials - Total Tournament Goals,Under 10.5 Goals,0.18280000000000007,0.9231,0.7403
-2024-06-27 01:01:46.929962,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Italy Serie A,Khvicha Kvaratskhelia,0.15439999999999998,0.1667,0.0123
-2024-06-27 01:01:46.527626,Copa America Team Specials - Copa America 2024 - Uruguay Team Specials - Top Uruguay Goalscorer,Maxilianano Araujo,0.14709999999999998,0.1667,0.0196
 2024-06-27 03:01:41.374273,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Bahia,0.14680000000000004,0.4545,0.3077
-2024-06-27 01:01:46.890163,UEFA Euro 2024 Team Specials - Turkey Team Specials - Top Team Goalscorer,Hakan Calhanoglu,0.14440000000000003,0.2353,0.0909
-2024-06-27 01:01:46.623342,UEFA Euro 2024 Team Specials - Italy Team Specials - Total Tournament Goals,Under 6.5 Goals,0.13990000000000002,0.7143,0.5744
-2024-06-27 01:01:46.840058,UEFA Euro 2024 Team Specials - Slovenia Team Specials - Top Team Goalscorer,Erik Janza,0.13979999999999998,0.4255,0.2857
-2024-06-27 01:01:46.840058,UEFA Euro 2024 Team Specials - Slovenia Team Specials - Top Team Goalscorer,Zan Karnicnik,0.13979999999999998,0.4255,0.2857
-2024-06-27 01:01:46.890163,UEFA Euro 2024 Team Specials - Turkey Team Specials - Top Team Goalscorer,Cenk Tosun,0.13729999999999998,0.1667,0.0294
 2024-06-27 11:01:09.785283,Draft Position - Player Draft Position - Bronny James (USC),Over 54.5 Draft Position,0.13490000000000002,0.7778,0.6429
 2024-06-27 12:57:56.517452,Draft Position - Player Draft Position - Kyle Filipowski (Duke),Under 33.5 Draft Position,0.13460000000000005,0.75,0.6154
-2024-06-27 01:01:46.527626,Copa America Team Specials - Copa America 2024 - Uruguay Team Specials - Top Uruguay Goalscorer,Darwin Nunez,0.12830000000000008,0.7647,0.6364
-2024-06-27 01:01:46.663823,UEFA Euro 2024 Team Specials - Denmark Team Specials - Top Team Goalscorer,Morten Hjulmand,0.12589999999999998,0.3077,0.1818
-2024-06-27 01:01:46.976492,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,England,0.125,0.875,0.75
-2024-06-27 01:01:46.807092,UEFA Euro 2024 Team Specials - Portugal Team Specials - Stage Of Elimination,Quarter Finals,0.12120000000000003,0.4545,0.3333
-2024-06-27 01:01:46.615785,UEFA Euro 2024 Team Specials - Italy Team Specials - Top Team Goalscorer,Mattia Zaccagni,0.11909999999999998,0.1667,0.0476
-2024-06-27 01:01:46.989953,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Belgium Or Netherlands To Win Outright,0.1111,0.2222,0.1111
 2024-06-27 12:57:56.942700,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Sleepy Joe,0.11010000000000003,0.4,0.2899
-2024-06-27 01:01:46.551893,Copa America Team Specials - Copa America 2024 - Colombia Team Specials - Stage of Elimination,Semi Final,0.10769999999999996,0.3077,0.2
 2024-06-27 12:57:56.865385,Presidential Debates - CNN Debate June 27th: Specials - Specials,Trump announce his vice president during the debate,0.1071,0.25,0.1429
-2024-06-27 01:01:46.781917,UEFA Euro 2024 Team Specials - Belgium Team Specials - Top Team Goalscorer,Youri Tielmans,0.1071,0.25,0.1429
 2024-06-27 05:01:23.669117,Copa America Team Specials - Copa America 2024 - USA Team Specials - Stage of Elimation,Semi Final,0.10189999999999999,0.25,0.1481
 2024-06-27 11:01:09.684178,Draft Picks - Draft Picks - Which Team will Select Bronny James,Los Angeles Lakers,0.10040000000000004,0.7778,0.6774
+2024-06-27 12:57:56.526495,Draft Position - Player Draft Position - Tyler Kolek (Marquette),Over 33.5 Draft Position,0.09999999999999998,0.6,0.5
 2024-06-27 07:01:23.533189,Presidential Debates - CNN Debate June 27th: Specials - Specials,"Trump to say ""Drill, baby, drill""",0.09999999999999998,0.5,0.4
-2024-06-27 01:01:46.976492,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Georgia,0.09720000000000001,0.125,0.0278
-2024-06-27 01:01:46.976492,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Austria,0.09230000000000005,0.6923,0.6
-2024-06-27 01:01:46.663823,UEFA Euro 2024 Team Specials - Denmark Team Specials - Top Team Goalscorer,Christian Eriksen,0.09230000000000005,0.4,0.3077
-2024-06-27 01:01:46.615785,UEFA Euro 2024 Team Specials - Italy Team Specials - Top Team Goalscorer,Alessandro Bastoni,0.0909,0.1818,0.0909
-2024-06-27 01:01:46.815356,UEFA Euro 2024 Team Specials - Portugal Team Specials - Top Team Goalscorer,Francisco Conceicao,0.0889,0.2,0.1111
 2024-06-27 03:01:41.374273,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Atlético Mineiro,0.0867,0.5122,0.4255
-2024-06-27 01:01:46.734384,UEFA Euro 2024 Team Specials - Georgia Team Specials - Stage Of Elimination,Quarter Finals,0.0865,0.125,0.0385
 2024-06-27 09:01:16.568220,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Venezuela,0.0857,0.2857,0.2
 2024-06-27 12:57:56.931327,"Presidential Debates - CNN Debate June 27th: Number of times Trump says ""stolen"" or ""rigged"" - No of time Trump says stolen/rigged",Under 9.5,0.08410000000000006,0.8667,0.7826
 2024-06-27 05:01:23.841005,UEFA Euro 2024 Team Specials - Slovakia Team Specials - Top Team Goalscorer,Ondrej Duda,0.08410000000000001,0.1429,0.0588
 2024-06-27 05:01:24.009050,UEFA Euro 2024 Team Specials - Netherlands Team Specials - Top Team Goalscorer,Memphis Depay,0.08330000000000001,0.25,0.1667
-2024-06-27 01:01:46.815356,UEFA Euro 2024 Team Specials - Portugal Team Specials - Top Team Goalscorer,Bernardo Silva,0.08150000000000002,0.2353,0.1538
 2024-06-27 12:57:56.449638,Draft Picks - Draft Picks - #10 - #35 - 32nd Overall Pick,Cam Christie,0.0804,0.1429,0.0625
 2024-06-27 12:57:56.942700,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,We're going to have the biggest deportation in history,0.07930000000000001,0.2222,0.1429
-2024-06-27 01:01:46.781917,UEFA Euro 2024 Team Specials - Belgium Team Specials - Top Team Goalscorer,Kevin De Bruyne,0.07789999999999997,0.3636,0.2857
-2024-06-27 01:01:46.608691,UEFA Euro 2024 Team Specials - Italy Team Specials - Stage Of Elimination,Round of 16,0.07619999999999999,0.4762,0.4
-2024-06-27 01:01:46.983255,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,England,0.07619999999999993,0.6,0.5238
-2024-06-27 01:01:46.989953,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either England Or Netherlands To Win Outright,0.07509999999999997,0.3077,0.2326
-2024-06-27 01:01:46.989953,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either England Or Spain To Win Outright,0.07490000000000002,0.4082,0.3333
-2024-06-27 01:01:46.758072,UEFA Euro 2024 Team Specials - Spain Team Specials - Top Team Goalscorer,Alvaro Morata,0.07440000000000002,0.5744,0.5
+2024-06-27 14:57:44.149151,Presidential Debates - CNN Debate June 27th: First Debate Topic - First Debate Topic,Economy,0.07619999999999999,0.4762,0.4
 2024-06-27 12:57:54.503770,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Germany Bundesliga,Marcel Sabitzer,0.0726,0.1111,0.0385
-2024-06-27 01:01:46.824255,UEFA Euro 2024 Team Specials - Slovenia Team Specials - Stage Of Elimination,Quarter Finals,0.07069999999999999,0.1818,0.1111
-2024-06-27 01:01:46.881961,UEFA Euro 2024 Team Specials - Turkey Team Specials - Stage Of Elimination,Quarter Finals,0.06820000000000001,0.25,0.1818
-2024-06-27 01:01:46.751165,UEFA Euro 2024 Team Specials - Spain Team Specials - Stage Of Elimination,Quarter Finals,0.067,0.4444,0.3774
 2024-06-27 12:57:56.278552,NBA Specials - Where will Paul George Play Game 1 of the 2024/2025 NBA Season - Proposition,Philadelphia 76ers,0.06670000000000001,0.2,0.1333
 2024-06-27 07:01:30.904965,MLB Futures - MLB 2024 Player Awards - American League MVP,Aaron Judge (NYY),0.06669999999999998,0.6667,0.6
-2024-06-27 01:01:46.569954,Copa America Team Specials - Copa America 2024 - Argentina Team Specials - Stage of Elimination,Runner Up,0.0635,0.2857,0.2222
-2024-06-27 01:01:46.544285,Copa America Team Specials - Copa America 2024 - Colombia Team Specials - Top Colombia Goalscorer,Jhon Cordoba,0.0635,0.1111,0.0476
-2024-06-27 01:01:57.263362,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3-Balls - B. Silverman / W. Furr / B. James - 1st Round 3-Balls,Ben Silverman,0.05980000000000002,0.4444,0.3846
 2024-06-27 11:01:10.114287,Presidential Debates - CNN Debate June 27th: Debate Winner According To CNN Poll - CNN June Debate Winner,Joe Biden,0.05910000000000004,0.7143,0.6552
-2024-06-27 01:01:46.983255,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Spain,0.05860000000000004,0.5348,0.4762
-2024-06-27 01:01:46.725713,UEFA Euro 2024 Team Specials - Slovakia Team Specials - Total Tournament Goals,Under 3.5 Goals,0.05559999999999998,0.5,0.4444
-2024-06-27 01:01:46.890163,UEFA Euro 2024 Team Specials - Turkey Team Specials - Top Team Goalscorer,Mert Muldur,0.05559999999999998,0.1667,0.1111
-2024-06-27 01:01:46.940043,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Final,Netherlands,0.05550000000000002,0.2222,0.1667
+2024-06-27 14:57:44.193363,Presidential Debates - CNN Debate June 27th: Trump and Biden to shake hands at first debate - Trump and Biden to shake hands,No,0.05789999999999995,0.6875,0.6296
+2024-06-27 12:57:56.508390,Draft Position - Player Draft Position - Johnny Furphy,Over 32.5 Draft Position,0.05689999999999995,0.5917,0.5348
+2024-06-27 12:57:56.490237,Draft Position - Player Draft Position - Bobi Klintman,Over 32.5 Draft Position,0.056400000000000006,0.8,0.7436
+2024-06-27 14:57:44.248885,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Hunter Biden,0.05489999999999995,0.7101,0.6552
 2024-06-27 11:01:07.861754,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and UEFA Player of the Tournament Parlay,Germany/Toni Kroos,0.052399999999999995,0.0909,0.0385
-2024-06-27 01:01:46.398447,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Atlético Mineiro,0.052300000000000006,0.1111,0.0588
 2024-06-27 05:01:23.841005,UEFA Euro 2024 Team Specials - Slovakia Team Specials - Top Team Goalscorer,Ivan Schranz,0.052000000000000046,0.9091,0.8571
-2024-06-27 01:01:48.878271,Presidential Debates - CNN Debate June 27th: Specials - Specials,Trump announce his vice president during the debate,0.052000000000000005,0.1429,0.0909
-2024-06-27 01:01:46.989953,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Netherlands Or Spain To Win Outright,0.05180000000000001,0.274,0.2222
-2024-06-27 01:01:46.969527,UEFA Euro 2024 Futures - Euro 2024 Futures - To Be Eliminated By Penalty Shootout,Georgia,0.0515,0.0667,0.0152
-2024-06-27 01:01:46.702007,UEFA Euro 2024 Team Specials - England Team Specials - Top England Goalscorer,Harry Kane,0.05130000000000001,0.6667,0.6154
-2024-06-27 01:01:46.997060,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Team,Spain,0.04999999999999999,0.25,0.2
-2024-06-27 01:01:47.082548,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Ecuador,0.04999999999999999,0.25,0.2
-2024-06-27 01:01:46.751165,UEFA Euro 2024 Team Specials - Spain Team Specials - Stage Of Elimination,Semi Finals,0.04999999999999999,0.25,0.2
-2024-06-27 01:01:46.953686,UEFA Euro 2024 Futures - Euro 2024 Futures - Runner Up,Netherlands,0.04849999999999999,0.1538,0.1053
-2024-06-27 01:01:46.940043,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Final,England,0.048099999999999976,0.4255,0.3774
+2024-06-27 14:57:44.248885,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Crypto or Bitcoin,0.04849999999999999,0.5833,0.5348
 2024-06-27 12:57:56.439272,Draft Picks - Draft Picks - #10 - #35 - 31st Overall Pick,Kyle Filipowski (Duke),0.045499999999999985,0.5455,0.5
-2024-06-27 01:01:46.832053,UEFA Euro 2024 Team Specials - Slovenia Team Specials - Total Tournamnt Goals,Under 2.5 Goals,0.045499999999999985,0.5455,0.5
-2024-06-27 01:01:46.615785,UEFA Euro 2024 Team Specials - Italy Team Specials - Top Team Goalscorer,Nicolo Barella,0.044499999999999984,0.2667,0.2222
-2024-06-27 01:01:46.989953,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Italy Or Spain To Win Outright,0.044499999999999984,0.2667,0.2222
-2024-06-27 01:01:46.929962,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Italy Serie A,Marko Arnautovic,0.04440000000000001,0.1111,0.0667
-2024-06-27 01:01:46.598650,Copa America Team Specials - Copa America 2024 - Brazil Team Specials - Stage of Elimination,Group Stage,0.042899999999999994,0.1429,0.1
-2024-06-27 01:01:46.989953,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either England Or Italy To Win Outright,0.04140000000000002,0.274,0.2326
-2024-06-27 01:01:56.746119,Scores - 1st Round Score - Akshay Bhatia - 1st Round Score,Under 68.5,0.04139999999999999,0.5652,0.5238
-2024-06-27 01:01:46.815356,UEFA Euro 2024 Team Specials - Portugal Team Specials - Top Team Goalscorer,Diogo Dalot,0.041,0.0476,0.0066
-2024-06-27 01:01:46.815356,UEFA Euro 2024 Team Specials - Portugal Team Specials - Top Team Goalscorer,Bruno Fernandes,0.04099999999999998,0.3077,0.2667
-2024-06-27 01:01:46.976492,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Spain,0.04070000000000007,0.9231,0.8824
-2024-06-27 01:01:46.694925,UEFA Euro 2024 Team Specials - England Team Specials - Stage Of Elimination,Winner,0.04040000000000002,0.2222,0.1818
+2024-06-27 14:57:44.138073,Presidential Debates - CNN Debate June 27th: Donald Trump Primary Colour of Tie - Donald Trump Colour of Tie,Blue\Navy,0.042899999999999994,0.1429,0.1
 2024-06-27 05:01:33.629797,Boxing Lines - Nyall Berry vs Francesco De Rosa - To Win the Bout,Nyall Berry,0.04039999999999999,0.8182,0.7778
-2024-06-27 01:01:46.758072,UEFA Euro 2024 Team Specials - Spain Team Specials - Top Team Goalscorer,Dani Carvajal,0.0392,0.0588,0.0196
-2024-06-27 01:01:46.398447,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Bahia,0.0384,0.0769,0.0385
+2024-06-27 12:57:56.535466,Draft Position - Player Draft Position - Tyler Smith,Over 34.5 Draft Position,0.03980000000000006,0.6552,0.6154
 2024-06-27 03:01:52.238138,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3-Balls - N. Dunlap / C. Kirk / E. Van Rooyen - 1st Round 3-Balls,Erik Van Rooyen,0.03640000000000004,0.4,0.3636
-2024-06-27 01:01:46.989953,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either England Or Germany To Win Outright,0.03640000000000004,0.4,0.3636
-2024-06-27 01:01:46.989953,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either England Or France To Win Outright,0.03640000000000004,0.4,0.3636
-2024-06-27 01:01:46.544285,Copa America Team Specials - Copa America 2024 - Colombia Team Specials - Top Colombia Goalscorer,Juan Quintero,0.035300000000000005,0.0476,0.0123
-2024-06-27 01:01:46.989953,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Belgium Or Spain To Win Outright,0.0353,0.2353,0.2
-2024-06-27 01:01:46.758072,UEFA Euro 2024 Team Specials - Spain Team Specials - Top Team Goalscorer,Ferran Torres,0.03420000000000001,0.1111,0.0769
 2024-06-27 09:01:16.442759,UEFA Euro 2024 Futures - Euro 2024 Futures - Most Assists,Dennis Man,0.03420000000000001,0.1111,0.0769
-2024-06-27 01:01:46.582237,Copa America Team Specials - Copa America 2024 - Canada Team Specials - Stage of Elimination,Semi Final,0.034100000000000005,0.125,0.0909
-2024-06-27 01:01:46.983255,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Italy,0.03409999999999999,0.2667,0.2326
-2024-06-27 01:01:46.535676,Copa America Team Specials - Copa America 2024 - Uruguay Team Specials - Stage of Elimination,Runner Up,0.033300000000000024,0.2,0.1667
-2024-06-27 01:01:47.082548,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Venezuela,0.033300000000000024,0.2,0.1667
-2024-06-27 01:01:46.983255,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Romania,0.0321,0.0909,0.0588
-2024-06-27 01:01:46.865064,UEFA Euro 2024 Team Specials - Romania Team Specials - Stage Of Elimination,Semi Finals,0.0321,0.0909,0.0588
 2024-06-27 03:01:52.174533,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3-Balls - M. Nesmith / H. Buckley / K. Yu - 1st Round 3-Balls,Kevin Yu,0.031799999999999995,0.4762,0.4444
 2024-06-27 07:01:23.567417,Presidential Debates - CNN Debate June 27th: To Be Said By Joe Biden During The Debate - Biden Buzzwords,Institutional racism,0.030299999999999994,0.3636,0.3333
-2024-06-27 01:01:46.989953,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either England Or Portugal To Win Outright,0.030299999999999994,0.3636,0.3333
-2024-06-27 01:01:47.068539,Copa America Futures - Copa América 2024 - Player of The Tournament,Lionel Messi,0.029899999999999982,0.2299,0.2
-2024-06-27 01:01:46.694925,UEFA Euro 2024 Team Specials - England Team Specials - Stage Of Elimination,Quarter Finals,0.029899999999999982,0.3077,0.2778
 2024-06-27 09:01:25.961320,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Chris Sale (ATL),0.029799999999999993,0.125,0.0952
 2024-06-27 11:01:09.684178,Draft Picks - Draft Picks - Which Team will Select Bronny James,San Antonio Spurs,0.029700000000000004,0.0476,0.0179
-2024-06-27 01:01:46.591009,Copa America Team Specials - Copa America 2024 - Brazil Team Specials - Top Brazil Goalscorer,Vinicius Jr.,0.029600000000000015,0.4,0.3704
 2024-06-27 11:01:07.816315,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"Spain Winner, England Runner Up",0.029299999999999993,0.0769,0.0476
 2024-06-27 11:01:07.771669,UEFA Euro 2024 Futures - Euro 2024 Futures - Name The Finalists,Germany & Netherlands to meet in the Final,0.029299999999999993,0.0769,0.0476
-2024-06-27 01:01:47.068539,Copa America Futures - Copa América 2024 - Player of The Tournament,Christuian Pulisic,0.029299999999999993,0.0769,0.0476
 2024-06-27 12:57:56.278552,NBA Specials - Where will Paul George Play Game 1 of the 2024/2025 NBA Season - Proposition,Golden State Warriors,0.028700000000000003,0.2105,0.1818
 2024-06-27 12:57:56.400441,Draft Picks - Draft Picks - Which Team will Select Bronny James,Boston Celtics,0.028199999999999996,0.0667,0.0385
-2024-06-27 01:01:46.742537,UEFA Euro 2024 Team Specials - Georgia Team Specials - Top Team Goalscorer,Khvicha Kvaratskhelia,0.028199999999999996,0.0667,0.0385
 2024-06-27 11:01:07.771669,UEFA Euro 2024 Futures - Euro 2024 Futures - Name The Finalists,Netherlands & Spain to meet in the Final,0.028199999999999996,0.0667,0.0385
-2024-06-27 01:01:46.598650,Copa America Team Specials - Copa America 2024 - Brazil Team Specials - Stage of Elimination,Semi Final,0.02779999999999999,0.2778,0.25
-2024-06-27 01:01:46.961069,UEFA Euro 2024 Futures - Euro 2024 Futures - Group of Winning Team,Group C,0.02779999999999999,0.25,0.2222
-2024-06-27 01:01:46.989953,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Belgium Or England To Win Outright,0.02779999999999999,0.25,0.2222
 2024-06-27 12:58:03.279449,NCAA Regular Season Wins - ACC Regular Season Wins - California,Under 6.5 Wins,0.02750000000000008,0.6429,0.6154
-2024-06-27 01:01:46.551893,Copa America Team Specials - Copa America 2024 - Colombia Team Specials - Stage of Elimination,Winner,0.0267,0.1176,0.0909
-2024-06-27 12:57:56.387798,To Be Drafted First - Player to be Drafted First - H2H - Johnny Furphy vs Tyler Kolek (Marquette),Tyler Kolek (Marquette),0.026500000000000024,0.3774,0.3509
 2024-06-27 12:57:56.810482,Presidential Debates - CNN Debate June 27th: Debate Winner According To CNN Poll - CNN June Debate Winner,Donald Trump,0.026500000000000024,0.3774,0.3509
+2024-06-27 12:57:56.387798,To Be Drafted First - Player to be Drafted First - H2H - Johnny Furphy vs Tyler Kolek (Marquette),Tyler Kolek (Marquette),0.026500000000000024,0.3774,0.3509
 2024-06-27 03:01:42.107957,Copa America Futures - Group B - To Finish Bottom,Mexico,0.026499999999999996,0.0588,0.0323
-2024-06-27 01:01:46.989953,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Portugal Or Spain To Win Outright,0.02560000000000001,0.3333,0.3077
-2024-06-27 01:01:46.946554,UEFA Euro 2024 Futures - Euro 2024 Futures - First Time Winner?,Yes,0.02560000000000001,0.3333,0.3077
 2024-06-27 07:01:30.917224,MLB Futures - MLB 2024 Player Awards - National League MVP,Bryce Harper (PHI),0.02560000000000001,0.3333,0.3077
-2024-06-27 01:01:56.881133,Scores - 1st Round Score - Rickie Fowler - 1st Round Score,Under 69.5,0.025599999999999956,0.6,0.5744
 2024-06-27 05:01:23.669117,Copa America Team Specials - Copa America 2024 - USA Team Specials - Stage of Elimation,Runner Up,0.024999999999999994,0.125,0.1
-2024-06-27 01:01:46.881961,UEFA Euro 2024 Team Specials - Turkey Team Specials - Stage Of Elimination,Semi Finals,0.024999999999999994,0.125,0.1
-2024-06-27 01:01:46.909129,UEFA Euro 2024 Futures - Euro 2024 Futures - Top Goalscorer,Cody Gakpo,0.024299999999999995,0.0769,0.0526
 2024-06-27 05:01:33.605080,Boxing Lines - Yves Ngabu vs Kiko Martinez - To Win the Bout,Yves Ngabu,0.0242,0.9333,0.9091
 2024-06-27 09:01:18.522055,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Glenn Youngkin,0.024,0.0625,0.0385
-2024-06-27 01:01:46.751165,UEFA Euro 2024 Team Specials - Spain Team Specials - Stage Of Elimination,Winner,0.023800000000000016,0.1905,0.1667
-2024-06-27 01:01:46.983255,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Georgia,0.023799999999999998,0.0278,0.004
-2024-06-27 01:01:46.765904,UEFA Euro 2024 Team Specials - Spain Team Specials - Total Tournament Goals,Under 9.5 Goals,0.023799999999999988,0.5,0.4762
-2024-06-27 01:01:46.591009,Copa America Team Specials - Copa America 2024 - Brazil Team Specials - Top Brazil Goalscorer,Endrick,0.023799999999999988,0.1667,0.1429
-2024-06-27 01:01:46.976492,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Portugal,0.023799999999999932,0.8571,0.8333
+2024-06-27 14:57:44.237358,Presidential Debates - CNN Debate June 27th: Will Biden stumble during debate? - Biden Stumbles During Debate,Yes,0.023799999999999988,0.1667,0.1429
 2024-06-27 11:01:09.684178,Draft Picks - Draft Picks - Which Team will Select Bronny James,Boston Celtics,0.0233,0.0385,0.0152
 2024-06-27 11:01:07.861754,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and UEFA Player of the Tournament Parlay,Portugal/Bruno Fernandes,0.023200000000000002,0.0476,0.0244
 2024-06-27 12:57:56.887419,Presidential Debates - CNN Debate June 27th: Who is asked the first debate question? - Who is asked the first debate question,Donald Trump,0.0232,0.2899,0.2667
-2024-06-27 01:01:47.075917,Copa America Futures - Copa América 2024 - To Reach Final,Ecuador,0.02310000000000001,0.1,0.0769
 2024-06-27 07:01:23.567417,Presidential Debates - CNN Debate June 27th: To Be Said By Joe Biden During The Debate - Biden Buzzwords,He's lying,0.022600000000000064,0.6226,0.6
-2024-06-27 01:01:46.527626,Copa America Team Specials - Copa America 2024 - Uruguay Team Specials - Top Uruguay Goalscorer,Matias Vina,0.022400000000000003,0.0323,0.0099
-2024-06-27 01:01:48.377426,Olympics Basketball - Men - Paris 2024 - Men's Basketball - Gold Medal Winner,USA,0.022199999999999998,0.8,0.7778
-2024-06-27 01:01:47.082548,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Brazil,0.02200000000000002,0.7143,0.6923
-2024-06-27 01:01:47.082548,Copa America Futures - Copa América 2024 - To Reach the Semi Final,USA,0.02100000000000002,0.3846,0.3636
+2024-06-27 14:57:44.078644,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,JD Vance,0.022199999999999998,0.2222,0.2
 2024-06-27 07:01:23.567417,Presidential Debates - CNN Debate June 27th: To Be Said By Joe Biden During The Debate - Biden Buzzwords,Moral obligation,0.02100000000000002,0.3846,0.3636
-2024-06-27 01:01:47.052287,Copa America Futures - Copa América 2024 - Straight Forecast,"Argentina 1st, Uruguay 2nd",0.02049999999999999,0.1538,0.1333
 2024-06-27 12:58:04.522998,Boxing Lines - Lamont Roach vs Feargal McCrory - To Win the Bout,Feargal McCrory,0.02049999999999999,0.1538,0.1333
-2024-06-27 01:01:56.144470,Boxing Lines - Darius Fulghum vs Vaughn Alexander - To Win the Bout,Vaughn Alexander,0.02020000000000001,0.1111,0.0909
-2024-06-27 01:01:47.082548,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Costa Rica,0.02020000000000001,0.1111,0.0909
 2024-06-27 09:01:18.522055,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Ben Carson,0.02020000000000001,0.1111,0.0909
+2024-06-27 14:57:50.691542,NCAA Regular Season Wins - ACC Regular Season Wins - Virginia Tech,Over 8 Wins,0.01970000000000005,0.5652,0.5455
 2024-06-27 11:01:07.816315,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"Spain Winner, Netherlands Runner Up",0.019099999999999995,0.0435,0.0244
 2024-06-27 11:01:07.861754,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and UEFA Player of the Tournament Parlay,England/Kylian Mbappe,0.019099999999999992,0.0667,0.0476
 2024-06-27 11:01:07.816315,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"England Winner, Spain Runner Up",0.019099999999999992,0.0667,0.0476
-2024-06-27 01:01:46.398447,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Botafogo,0.019099999999999992,0.0667,0.0476
-2024-06-27 01:01:46.718142,UEFA Euro 2024 Team Specials - Slovakia Team Specials - Stage Of Elimaintion,Semi Finals,0.019099999999999992,0.0667,0.0476
-2024-06-27 01:01:46.997060,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Team,Netherlands,0.019099999999999992,0.0667,0.0476
-2024-06-27 01:01:46.940043,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Final,Spain,0.019000000000000017,0.2857,0.2667
-2024-06-27 01:01:46.702007,UEFA Euro 2024 Team Specials - England Team Specials - Top England Goalscorer,Jude Bellingham,0.019000000000000017,0.2857,0.2667
 2024-06-27 11:01:10.054693,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tulsi Gabbard,0.0189,0.0385,0.0196
-2024-06-27 01:01:47.082548,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Uruguay,0.01880000000000004,0.5744,0.5556
-2024-06-27 07:01:23.555966,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Hunter Biden,0.01880000000000004,0.6552,0.6364
 2024-06-27 07:01:23.567417,Presidential Debates - CNN Debate June 27th: To Be Said By Joe Biden During The Debate - Biden Buzzwords,Who we are as a nation,0.01880000000000004,0.5744,0.5556
-2024-06-27 01:01:56.441632,Boxing Lines - Arturo Popoca vs Danny Barrios Flores - To Win the Bout,Arturo Popoca,0.018399999999999972,0.7059,0.6875
+2024-06-27 07:01:23.555966,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Hunter Biden,0.01880000000000004,0.6552,0.6364
+2024-06-27 14:57:44.149151,Presidential Debates - CNN Debate June 27th: First Debate Topic - First Debate Topic,Immigration,0.01820000000000002,0.2,0.1818
+2024-06-27 14:57:44.078644,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Marco Rubio,0.018099999999999998,0.0769,0.0588
 2024-06-27 03:01:41.374273,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Grêmio,0.018099999999999998,0.0769,0.0588
-2024-06-27 01:01:47.044390,Copa America Futures - Copa América 2024 - Runner Up,Ecuador,0.018099999999999998,0.0769,0.0588
-2024-06-27 01:01:47.075917,Copa America Futures - Copa América 2024 - To Reach Final,Venezuela,0.018099999999999998,0.0769,0.0588
-2024-06-27 01:01:46.997060,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Team,England,0.018099999999999998,0.0769,0.0588
-2024-06-27 01:01:47.022370,Copa America Futures - Copa América 2024 - Tournament Winner and Top Goalscorer Parlay,Brazil & Rodrygo,0.018099999999999998,0.0769,0.0588
-2024-06-27 01:01:46.976492,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,France,0.017900000000000027,0.875,0.8571
-2024-06-27 01:01:47.037247,Copa America Futures - Copa América 2024 - First Time Winner?,No,0.017900000000000027,0.875,0.8571
-2024-06-27 01:01:47.022370,Copa America Futures - Copa América 2024 - Tournament Winner and Top Goalscorer Parlay,Argentina & Lionel Messi,0.0179,0.1429,0.125
 2024-06-27 12:57:56.920416,Presidential Debates - CNN Debate June 27th: Will Biden stumble during debate? - Biden Stumbles During Debate,Yes,0.0179,0.1429,0.125
-2024-06-27 01:01:46.989953,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Italy Or Netherlands To Win Outright,0.0179,0.1429,0.125
-2024-06-27 01:01:46.569954,Copa America Team Specials - Copa America 2024 - Argentina Team Specials - Stage of Elimination,Semi Final,0.017600000000000005,0.3509,0.3333
-2024-06-27 01:01:46.953686,UEFA Euro 2024 Futures - Euro 2024 Futures - Runner Up,Spain,0.01759999999999999,0.1176,0.1
-2024-06-27 01:01:46.551893,Copa America Team Specials - Copa America 2024 - Colombia Team Specials - Stage of Elimination,Quarter Final,0.016699999999999993,0.4167,0.4
 2024-06-27 12:57:56.400441,Draft Picks - Draft Picks - Which Team will Select Bronny James,Cleveland Cavaliers,0.0159,0.0323,0.0164
 2024-06-27 11:01:07.771669,UEFA Euro 2024 Futures - Euro 2024 Futures - Name The Finalists,Belgium & England to meet in the Final,0.0157,0.0435,0.0278
 2024-06-27 11:01:17.965687,Boxing Lines - James Mcgivern vs Rashid Omar - To Win the Bout,Rashid Omar,0.015400000000000025,0.2564,0.241
-2024-06-27 01:01:56.257375,Boxing Lines - Conor Quinn vs Conner Kelsall - To Win the Bout,Conor Quinn,0.01539999999999997,0.6875,0.6721
-2024-06-27 01:01:46.983255,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Turkey,0.015100000000000002,0.1818,0.1667
-2024-06-27 01:01:46.535676,Copa America Team Specials - Copa America 2024 - Uruguay Team Specials - Stage of Elimination,Winner,0.015100000000000002,0.1818,0.1667
 2024-06-27 07:01:31.212947,Boxing Lines - Nyall Berry vs Francesco De Rosa - To Win the Bout,Nyall Berry,0.015100000000000002,0.8333,0.8182
-2024-06-27 01:01:46.608691,UEFA Euro 2024 Team Specials - Italy Team Specials - Stage Of Elimination,Winner,0.014899999999999997,0.0625,0.0476
-2024-06-27 01:01:47.068539,Copa America Futures - Copa América 2024 - Player of The Tournament,Nicolas De la Cruz,0.014499999999999999,0.0294,0.0149
-2024-06-27 01:01:46.718142,UEFA Euro 2024 Team Specials - Slovakia Team Specials - Stage Of Elimaintion,Runner Up,0.014499999999999999,0.0294,0.0149
-2024-06-27 01:01:46.909129,UEFA Euro 2024 Futures - Euro 2024 Futures - Top Goalscorer,Niclas Fullkrug,0.014399999999999996,0.0769,0.0625
 2024-06-27 12:57:56.876550,Presidential Debates - CNN Debate June 27th: Trump and Biden to shake hands at first debate - Trump and Biden to shake hands,No,0.014200000000000101,0.6296,0.6154
 2024-06-27 11:01:07.771669,UEFA Euro 2024 Futures - Euro 2024 Futures - Name The Finalists,Netherlands & Portugal to meet in the Final,0.014100000000000001,0.0526,0.0385
 2024-06-27 07:01:23.471841,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tulsi Gabbard,0.014099999999999998,0.0385,0.0244
-2024-06-27 01:01:47.044390,Copa America Futures - Copa América 2024 - Runner Up,Venezuela,0.014099999999999994,0.0667,0.0526
-2024-06-27 01:01:46.969527,UEFA Euro 2024 Futures - Euro 2024 Futures - To Be Eliminated By Penalty Shootout,Slovakia,0.013999999999999999,0.0909,0.0769
 2024-06-27 09:01:25.937764,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Logan Gilbert (SEA),0.013999999999999999,0.0909,0.0769
-2024-06-27 01:01:47.082548,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Argentina,0.013900000000000023,0.8889,0.875
-2024-06-27 01:01:46.969527,UEFA Euro 2024 Futures - Euro 2024 Futures - To Be Eliminated By Penalty Shootout,Turkey,0.013899999999999996,0.125,0.1111
-2024-06-27 01:01:47.068539,Copa America Futures - Copa América 2024 - Player of The Tournament,Lautaro Martinez,0.013899999999999996,0.125,0.1111
-2024-06-27 01:01:46.686400,UEFA Euro 2024 Team Specials - Germany Team Specials - Total Tournament Goals,Over 10.5 Goals,0.013799999999999923,0.6364,0.6226
-2024-06-27 01:01:56.815996,Scores - 1st Round Score - Davis Thompson - 1st Round Score,Under 69.5,0.013799999999999923,0.6364,0.6226
-2024-06-27 01:01:46.953686,UEFA Euro 2024 Futures - Euro 2024 Futures - Runner Up,England,0.0131,0.2353,0.2222
-2024-06-27 01:01:46.824255,UEFA Euro 2024 Team Specials - Slovenia Team Specials - Stage Of Elimination,Semi Finals,0.0131,0.0476,0.0345
-2024-06-27 01:01:47.030071,Copa America Futures - Copa América 2024 - Name The Finalists,Brazil & Ecuador,0.0131,0.0476,0.0345
-2024-06-27 01:01:46.582237,Copa America Team Specials - Copa America 2024 - Canada Team Specials - Stage of Elimination,Runner Up,0.0131,0.0476,0.0345
 2024-06-27 11:01:07.816315,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"England Winner, Belgium Runner Up",0.013,0.0196,0.0066
-2024-06-27 01:01:47.013966,Copa America Futures - Copa América 2024 - Top Goalscorer,Salomon Rondon,0.013,0.0196,0.0066
 2024-06-27 09:01:25.937764,MLB Futures - MLB 2024 Player Awards - American League Cy Young,George Kirby (SEA),0.012700000000000003,0.0323,0.0196
-2024-06-27 01:01:46.940043,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Final,Romania,0.012599999999999998,0.0278,0.0152
-2024-06-27 01:01:46.734384,UEFA Euro 2024 Team Specials - Georgia Team Specials - Stage Of Elimination,Semi Finals,0.012100000000000001,0.0244,0.0123
 2024-06-27 09:01:26.220623,Boxing Lines - Lorenzo Simpson vs Raiko Santana - To Win the Bout,Raiko Santana,0.0116,0.4878,0.4762
 2024-06-27 09:01:26.363308,Boxing Lines - Nico Ali Walsh vs Sona Akale - To Win the Bout,Sona Akale,0.01150000000000001,0.3448,0.3333
-2024-06-27 01:01:46.953686,UEFA Euro 2024 Futures - Euro 2024 Futures - Runner Up,Romania,0.0113,0.0179,0.0066
-2024-06-27 01:01:46.881961,UEFA Euro 2024 Team Specials - Turkey Team Specials - Stage Of Elimination,Runner Up,0.011199999999999995,0.0588,0.0476
 2024-06-27 11:01:07.771669,UEFA Euro 2024 Futures - Euro 2024 Futures - Name The Finalists,France & Netherlands to meet in the Final,0.011199999999999995,0.0588,0.0476
 2024-06-27 03:01:51.551619,Boxing Lines - Nico Ali Walsh vs Sona Akale - To Win the Bout,Nico Ali Walsh,0.011099999999999999,0.7333,0.7222
-2024-06-27 01:01:46.551893,Copa America Team Specials - Copa America 2024 - Colombia Team Specials - Stage of Elimination,Runner Up,0.010899999999999993,0.1538,0.1429
 2024-06-27 09:01:25.937764,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Seth Lugo (KC),0.010700000000000001,0.0385,0.0278
+2024-06-27 14:57:50.606325,NCAA Regular Season Wins - ACC Regular Season Wins - Louisville,Under 8.5 Wins,0.010699999999999932,0.5455,0.5348
 2024-06-27 09:01:25.961320,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Tyler Glasnow (LAD),0.010399999999999993,0.2326,0.2222
-2024-06-27 09:01:25.937764,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Cole Ragans (KC),0.0102,0.0769,0.0667
 2024-06-27 11:01:07.756709,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Ngolo Kante,0.0102,0.0769,0.0667
+2024-06-27 09:01:25.937764,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Cole Ragans (KC),0.0102,0.0769,0.0667
 2024-06-27 11:01:07.816315,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"Portugal Winner, Netherlands Runner Up",0.010100000000000001,0.0345,0.0244
 2024-06-27 12:57:54.576011,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"France Winner, Austria Runner Up",0.010100000000000001,0.0345,0.0244
 2024-06-27 09:01:20.621610,Denver Broncos - 2024-25 Regular Season Wins O/U - Regular Season Wins - Denver Broncos O/U 5.5 Wins,Under 5.5 Wins,0.010099999999999998,0.5556,0.5455
-2024-06-27 01:01:46.686400,UEFA Euro 2024 Team Specials - Germany Team Specials - Total Tournament Goals,Under 10.5 Goals,-0.010099999999999998,0.4444,0.4545
-2024-06-27 01:01:46.953686,UEFA Euro 2024 Futures - Euro 2024 Futures - Runner Up,France,-0.010099999999999998,0.0952,0.1053
-2024-06-27 01:01:47.052287,Copa America Futures - Copa América 2024 - Straight Forecast,"Colombia 1st, Mexico 2nd",-0.010100000000000001,0.0244,0.0345
 2024-06-27 07:01:31.200364,Boxing Lines - Lamont Roach vs Feargal McCrory - To Win the Bout,Lamont Roach,-0.010199999999999987,0.9231,0.9333
-2024-06-27 11:01:07.861754,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and UEFA Player of the Tournament Parlay,England/Jude Bellingham,-0.0102,0.0667,0.0769
-2024-06-27 01:01:47.007223,Copa America Futures - Copa América 2024 - Winner,USA,-0.0102,0.0667,0.0769
-2024-06-27 01:01:46.702007,UEFA Euro 2024 Team Specials - England Team Specials - Top England Goalscorer,Bukayo Saka,-0.0102,0.0667,0.0769
-2024-06-27 12:57:56.278552,NBA Specials - Where will Paul George Play Game 1 of the 2024/2025 NBA Season - Proposition,Houston Rockets,-0.0102,0.0667,0.0769
 2024-06-27 11:01:07.756709,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Ferran Torres,-0.0102,0.005,0.0152
-2024-06-27 12:57:56.449638,Draft Picks - Draft Picks - #10 - #35 - 32nd Overall Pick,Jonathan Mogbo,-0.0102,0.0667,0.0769
-2024-06-27 01:01:47.022370,Copa America Futures - Copa América 2024 - Tournament Winner and Top Goalscorer Parlay,Brazil & Darwin Nunez,-0.0102,0.0667,0.0769
+2024-06-27 11:01:07.861754,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and UEFA Player of the Tournament Parlay,England/Jude Bellingham,-0.0102,0.0667,0.0769
 2024-06-27 09:01:16.442759,UEFA Euro 2024 Futures - Euro 2024 Futures - Most Assists,Bruno Fernandes,-0.0102,0.0667,0.0769
 2024-06-27 12:57:56.449638,Draft Picks - Draft Picks - #10 - #35 - 32nd Overall Pick,Bronny James,-0.0102,0.0667,0.0769
-2024-06-27 01:01:46.694925,UEFA Euro 2024 Team Specials - England Team Specials - Stage Of Elimination,Round of 16,-0.010399999999999993,0.2222,0.2326
-2024-06-27 01:01:46.961069,UEFA Euro 2024 Futures - Euro 2024 Futures - Group of Winning Team,Group A,-0.010499999999999982,0.2,0.2105
+2024-06-27 12:57:56.449638,Draft Picks - Draft Picks - #10 - #35 - 32nd Overall Pick,Jonathan Mogbo,-0.0102,0.0667,0.0769
+2024-06-27 12:57:56.278552,NBA Specials - Where will Paul George Play Game 1 of the 2024/2025 NBA Season - Proposition,Houston Rockets,-0.0102,0.0667,0.0769
 2024-06-27 09:01:25.937764,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Joe Ryan (MIN),-0.010600000000000002,0.0217,0.0323
+2024-06-27 14:57:50.606325,NCAA Regular Season Wins - ACC Regular Season Wins - Louisville,Over 8.5 Wins,-0.01100000000000001,0.5238,0.5348
 2024-06-27 09:01:26.363308,Boxing Lines - Nico Ali Walsh vs Sona Akale - To Win the Bout,Nico Ali Walsh,-0.011099999999999999,0.7222,0.7333
-2024-06-27 01:01:46.527626,Copa America Team Specials - Copa America 2024 - Uruguay Team Specials - Top Uruguay Goalscorer,Federico Valverde,-0.011099999999999999,0.0556,0.0667
-2024-06-27 01:01:46.969527,UEFA Euro 2024 Futures - Euro 2024 Futures - To Be Eliminated By Penalty Shootout,Slovenia,-0.011099999999999999,0.1,0.1111
-2024-06-27 01:01:46.929962,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Italy Serie A,Nicolo Barella,-0.011099999999999999,0.1,0.1111
-2024-06-27 01:01:46.527626,Copa America Team Specials - Copa America 2024 - Uruguay Team Specials - Top Uruguay Goalscorer,Nicolas De la Cruz,-0.011199999999999995,0.0476,0.0588
-2024-06-27 01:01:46.815356,UEFA Euro 2024 Team Specials - Portugal Team Specials - Top Team Goalscorer,Goncalo Ramos,-0.011199999999999995,0.0476,0.0588
-2024-06-27 01:01:46.758072,UEFA Euro 2024 Team Specials - Spain Team Specials - Top Team Goalscorer,Nico Williams,-0.011199999999999995,0.0476,0.0588
-2024-06-27 11:01:09.684178,Draft Picks - Draft Picks - Which Team will Select Bronny James,Utah Jazz,-0.011199999999999995,0.0323,0.0435
-2024-06-27 11:01:07.756709,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Florian Wirtz,-0.011199999999999995,0.0476,0.0588
-2024-06-27 01:01:46.997060,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Team,France,-0.011199999999999995,0.0476,0.0588
 2024-06-27 09:01:25.961320,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Logan Webb (SF),-0.011199999999999995,0.0476,0.0588
+2024-06-27 11:01:07.756709,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Florian Wirtz,-0.011199999999999995,0.0476,0.0588
 2024-06-27 11:01:07.771669,UEFA Euro 2024 Futures - Euro 2024 Futures - Name The Finalists,France & Italy to meet in the Final,-0.011199999999999995,0.0476,0.0588
+2024-06-27 11:01:09.684178,Draft Picks - Draft Picks - Which Team will Select Bronny James,Utah Jazz,-0.011199999999999995,0.0323,0.0435
 2024-06-27 03:01:51.551619,Boxing Lines - Nico Ali Walsh vs Sona Akale - To Win the Bout,Sona Akale,-0.01150000000000001,0.3333,0.3448
 2024-06-27 09:01:20.621610,Denver Broncos - 2024-25 Regular Season Wins O/U - Regular Season Wins - Denver Broncos O/U 5.5 Wins,Over 5.5 Wins,-0.011600000000000055,0.5122,0.5238
-2024-06-27 01:01:46.940043,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Final,Germany,-0.011699999999999988,0.274,0.2857
-2024-06-27 01:01:46.598650,Copa America Team Specials - Copa America 2024 - Brazil Team Specials - Stage of Elimination,Runner Up,-0.011700000000000016,0.2105,0.2222
 2024-06-27 07:01:30.904965,MLB Futures - MLB 2024 Player Awards - American League MVP,Gunnar Henderson (BAL),-0.011899999999999994,0.2381,0.25
-2024-06-27 01:01:46.940043,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Final,Slovenia,-0.012100000000000001,0.0123,0.0244
-2024-06-27 01:01:46.527626,Copa America Team Specials - Copa America 2024 - Uruguay Team Specials - Top Uruguay Goalscorer,Nahitan Nandez,-0.012100000000000001,0.0123,0.0244
-2024-06-27 01:01:46.544285,Copa America Team Specials - Copa America 2024 - Colombia Team Specials - Top Colombia Goalscorer,Richard Rios,-0.012100000000000001,0.0123,0.0244
-2024-06-27 01:01:47.052287,Copa America Futures - Copa América 2024 - Straight Forecast,"USA 1st, Mexico 2nd",-0.012100000000000001,0.0123,0.0244
-2024-06-27 01:01:47.060844,Copa America Futures - Copa América 2024 - Group of Winning Team,Group B,-0.012299999999999991,0.1053,0.1176
 2024-06-27 11:01:07.756709,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Kai Havertz,-0.012599999999999998,0.0152,0.0278
 2024-06-27 11:01:09.684178,Draft Picks - Draft Picks - Which Team will Select Bronny James,Golden State Warriors,-0.012700000000000003,0.0196,0.0323
-2024-06-27 01:01:47.052287,Copa America Futures - Copa América 2024 - Straight Forecast,"Argentina 1st, Brazil 2nd",-0.012899999999999995,0.1538,0.1667
 2024-06-27 03:01:41.374273,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Cruzeiro MG,-0.012899999999999995,0.1538,0.1667
-2024-06-27 01:01:46.961069,UEFA Euro 2024 Futures - Euro 2024 Futures - Group of Winning Team,Group F,-0.012899999999999995,0.1538,0.1667
 2024-06-27 12:57:56.449638,Draft Picks - Draft Picks - #10 - #35 - 32nd Overall Pick,Tyler Kolek (Marquette),-0.012899999999999995,0.1538,0.1667
 2024-06-27 11:01:17.965687,Boxing Lines - James Mcgivern vs Rashid Omar - To Win the Bout,James Mcgivern,-0.0129999999999999,0.8131,0.8261
 2024-06-27 11:01:09.684178,Draft Picks - Draft Picks - Which Team will Select Bronny James,Cleveland Cavaliers,-0.012999999999999998,0.0164,0.0294
-2024-06-27 01:01:46.742537,UEFA Euro 2024 Team Specials - Georgia Team Specials - Top Team Goalscorer,Zuriko Davitashvili,-0.013,0.0066,0.0196
 2024-06-27 11:01:07.756709,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Kevin de Bruyne,-0.0131,0.0345,0.0476
-2024-06-27 01:01:46.929962,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Italy Serie A,Rafael Leao,-0.0131,0.0345,0.0476
-2024-06-27 01:01:46.989953,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Germany Or Spain To Win Outright,-0.013800000000000034,0.3636,0.3774
 2024-06-27 05:01:33.543718,Boxing Lines - Conor Quinn vs Conner Kelsall - To Win the Bout,Conner Kelsall,-0.013800000000000034,0.3636,0.3774
 2024-06-27 11:01:07.756709,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Jamal Musiala,-0.013899999999999996,0.1111,0.125
-2024-06-27 01:01:46.953686,UEFA Euro 2024 Futures - Euro 2024 Futures - Runner Up,Italy,-0.013899999999999996,0.1111,0.125
 2024-06-27 11:01:09.684178,Draft Picks - Draft Picks - Which Team will Select Bronny James,Phoenix Suns,-0.013899999999999996,0.1111,0.125
-2024-06-27 01:01:46.940043,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Final,Austria,-0.013899999999999996,0.1111,0.125
-2024-06-27 01:01:46.702007,UEFA Euro 2024 Team Specials - England Team Specials - Top England Goalscorer,Phil Foden,-0.013999999999999999,0.0769,0.0909
-2024-06-27 01:01:46.758072,UEFA Euro 2024 Team Specials - Spain Team Specials - Top Team Goalscorer,Lamine Yamal,-0.013999999999999999,0.0769,0.0909
-2024-06-27 01:01:47.068539,Copa America Futures - Copa América 2024 - Player of The Tournament,Rodrygo,-0.013999999999999999,0.0769,0.0909
-2024-06-27 01:01:47.022370,Copa America Futures - Copa América 2024 - Tournament Winner and Top Goalscorer Parlay,Argentina & Darwin Nunez,-0.013999999999999999,0.0769,0.0909
-2024-06-27 01:01:46.398447,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Internacional,-0.013999999999999999,0.0769,0.0909
 2024-06-27 12:58:04.522998,Boxing Lines - Lamont Roach vs Feargal McCrory - To Win the Bout,Lamont Roach,-0.014000000000000012,0.9091,0.9231
-2024-06-27 01:01:46.774572,UEFA Euro 2024 Team Specials - Belgium Team Specials - Stage Of Elimination,Runner Up,-0.014099999999999994,0.0526,0.0667
-2024-06-27 01:01:46.781917,UEFA Euro 2024 Team Specials - Belgium Team Specials - Top Team Goalscorer,Leandro Trossard,-0.014099999999999994,0.0526,0.0667
-2024-06-27 01:01:46.702007,UEFA Euro 2024 Team Specials - England Team Specials - Top England Goalscorer,Jarrod Bowen,-0.014099999999999998,0.0244,0.0385
+2024-06-27 11:01:09.684178,Draft Picks - Draft Picks - Which Team will Select Bronny James,Philadelphia 76ers,-0.014099999999999998,0.0244,0.0385
 2024-06-27 05:01:24.042489,UEFA Euro 2024 Team Specials - Romania Team Specials - Top Team Goalscorer,Florinel Coman,-0.014099999999999998,0.0244,0.0385
 2024-06-27 11:01:07.861754,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and UEFA Player of the Tournament Parlay,France/Harry Kane,-0.014099999999999998,0.0294,0.0435
-2024-06-27 01:01:46.615785,UEFA Euro 2024 Team Specials - Italy Team Specials - Top Team Goalscorer,Jorginho,-0.014099999999999998,0.0244,0.0385
-2024-06-27 11:01:09.684178,Draft Picks - Draft Picks - Which Team will Select Bronny James,Philadelphia 76ers,-0.014099999999999998,0.0244,0.0385
-2024-06-27 01:01:46.815356,UEFA Euro 2024 Team Specials - Portugal Team Specials - Top Team Goalscorer,Pedro Neto,-0.014099999999999998,0.0244,0.0385
-2024-06-27 01:01:56.144470,Boxing Lines - Darius Fulghum vs Vaughn Alexander - To Win the Bout,Darius Fulghum,-0.014100000000000001,0.9474,0.9615
 2024-06-27 11:01:07.771669,UEFA Euro 2024 Futures - Euro 2024 Futures - Name The Finalists,Italy & Portugal to meet in the Final,-0.014100000000000001,0.0385,0.0526
 2024-06-27 05:01:24.009050,UEFA Euro 2024 Team Specials - Netherlands Team Specials - Top Team Goalscorer,Jerdy Schouten,-0.014199999999999999,0.0152,0.0294
-2024-06-27 01:01:46.544285,Copa America Team Specials - Copa America 2024 - Colombia Team Specials - Top Colombia Goalscorer,LLuis Sinisterra,-0.014399999999999996,0.0625,0.0769
-2024-06-27 01:01:46.560279,Copa America Team Specials - Copa America 2024 - Argentina Team Specials - Top Argentina Goalscorer,Leandro Paredes,-0.014499999999999999,0.0149,0.0294
-2024-06-27 01:01:46.615785,UEFA Euro 2024 Team Specials - Italy Team Specials - Top Team Goalscorer,Nicolo Fagioli,-0.014499999999999999,0.0149,0.0294
-2024-06-27 01:01:47.052287,Copa America Futures - Copa América 2024 - Straight Forecast,"Mexico 1st, Colombia 2nd",-0.014499999999999999,0.0149,0.0294
 2024-06-27 11:01:07.861754,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and UEFA Player of the Tournament Parlay,Germany/Kai Havertz,-0.0145,0.0099,0.0244
-2024-06-27 01:01:46.989953,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either France Or Netherlands To Win Outright,-0.01469999999999999,0.2353,0.25
-2024-06-27 01:01:46.989953,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Germany Or Italy To Win Outright,-0.01469999999999999,0.2353,0.25
 2024-06-27 07:01:31.212947,Boxing Lines - Nyall Berry vs Francesco De Rosa - To Win the Bout,Francesco De Rosa,-0.01469999999999999,0.2353,0.25
-2024-06-27 01:01:56.257375,Boxing Lines - Conor Quinn vs Conner Kelsall - To Win the Bout,Conner Kelsall,-0.01479999999999998,0.3774,0.3922
-2024-06-27 01:01:46.544285,Copa America Team Specials - Copa America 2024 - Colombia Team Specials - Top Colombia Goalscorer,Jhon Arias,-0.014899999999999997,0.0476,0.0625
-2024-06-27 01:01:46.909129,UEFA Euro 2024 Futures - Euro 2024 Futures - Top Goalscorer,Jude Bellingham,-0.014899999999999997,0.0476,0.0625
-2024-06-27 01:01:47.030071,Copa America Futures - Copa América 2024 - Name The Finalists,Mexico & USA,-0.014900000000000004,0.0196,0.0345
-2024-06-27 01:01:47.052287,Copa America Futures - Copa América 2024 - Straight Forecast,"Mexico 1st, Brazil 2nd",-0.014900000000000004,0.0196,0.0345
-2024-06-27 01:01:47.052287,Copa America Futures - Copa América 2024 - Straight Forecast,"Mexico 1st, Uruguay 2nd",-0.014900000000000004,0.0196,0.0345
 2024-06-27 12:57:56.449638,Draft Picks - Draft Picks - #10 - #35 - 32nd Overall Pick,Tyler Smith,-0.015100000000000002,0.1667,0.1818
-2024-06-27 01:01:46.774572,UEFA Euro 2024 Team Specials - Belgium Team Specials - Stage Of Elimination,Winner,-0.015300000000000001,0.0323,0.0476
-2024-06-27 01:01:46.940043,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Final,Denmark,-0.015300000000000001,0.0435,0.0588
+2024-06-27 14:57:44.078644,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Doug Burgum,-0.015400000000000025,0.3846,0.4
 2024-06-27 11:01:07.764303,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Young Player of The Tournament,Joao Neves,-0.015499999999999998,0.0123,0.0278
 2024-06-27 03:01:52.174533,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3-Balls - M. Nesmith / H. Buckley / K. Yu - 1st Round 3-Balls,Matt NeSmith,-0.01579999999999998,0.3175,0.3333
 2024-06-27 05:01:23.669117,Copa America Team Specials - Copa America 2024 - USA Team Specials - Stage of Elimation,Winners,-0.016600000000000004,0.0667,0.0833
-2024-06-27 01:01:46.976492,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Italy,-0.016699999999999937,0.5833,0.6
-2024-06-27 01:01:46.940043,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Final,France,-0.016699999999999993,0.25,0.2667
-2024-06-27 01:01:46.527626,Copa America Team Specials - Copa America 2024 - Uruguay Team Specials - Top Uruguay Goalscorer,Rodrigo Bentancur,-0.017099999999999997,0.0123,0.0294
 2024-06-27 09:01:26.220623,Boxing Lines - Lorenzo Simpson vs Raiko Santana - To Win the Bout,Lorenzo Simpson,-0.017299999999999982,0.5744,0.5917
 2024-06-27 05:01:23.808693,UEFA Euro 2024 Team Specials - England Team Specials - Jude Bellingham Tournament Goals,3 or More Goals,-0.017600000000000005,0.3333,0.3509
-2024-06-27 01:01:46.560279,Copa America Team Specials - Copa America 2024 - Argentina Team Specials - Top Argentina Goalscorer,Alejandro Garnacho,-0.018099999999999998,0.0588,0.0769
 2024-06-27 11:01:07.816315,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"Germany Winner, England Runner Up",-0.018099999999999998,0.0588,0.0769
+2024-06-27 14:57:44.138073,Presidential Debates - CNN Debate June 27th: Donald Trump Primary Colour of Tie - Donald Trump Colour of Tie,Gold\Yellow,-0.018099999999999998,0.0588,0.0769
 2024-06-27 12:57:56.920416,Presidential Debates - CNN Debate June 27th: Will Biden stumble during debate? - Biden Stumbles During Debate,No,-0.018100000000000005,0.9231,0.9412
-2024-06-27 01:01:47.030071,Copa America Futures - Copa América 2024 - Name The Finalists,Colombia & Mexico,-0.018200000000000004,0.0294,0.0476
-2024-06-27 01:01:46.663823,UEFA Euro 2024 Team Specials - Denmark Team Specials - Top Team Goalscorer,Andreas Skov Olsen,-0.018200000000000004,0.0294,0.0476
 2024-06-27 05:01:24.042489,UEFA Euro 2024 Team Specials - Romania Team Specials - Top Team Goalscorer,Denis Alibec,-0.018200000000000004,0.0294,0.0476
 2024-06-27 05:01:24.042489,UEFA Euro 2024 Team Specials - Romania Team Specials - Top Team Goalscorer,Valentin Mihaila,-0.018200000000000004,0.0294,0.0476
-2024-06-27 01:01:47.037247,Copa America Futures - Copa América 2024 - First Time Winner?,Yes,-0.01820000000000002,0.1818,0.2
-2024-06-27 01:01:47.082548,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Chile,-0.01820000000000002,0.1818,0.2
-2024-06-27 01:01:46.976492,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Slovakia,-0.01820000000000002,0.1818,0.2
-2024-06-27 01:01:46.598650,Copa America Team Specials - Copa America 2024 - Brazil Team Specials - Stage of Elimination,Winners,-0.018400000000000027,0.2941,0.3125
-2024-06-27 01:01:57.263362,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3-Balls - B. Silverman / W. Furr / B. James - 1st Round 3-Balls,Benjamin James,-0.018799999999999983,0.3448,0.3636
-2024-06-27 01:01:46.840058,UEFA Euro 2024 Team Specials - Slovenia Team Specials - Top Team Goalscorer,Benjamin Verbic,-0.0189,0.0196,0.0385
-2024-06-27 01:01:46.663823,UEFA Euro 2024 Team Specials - Denmark Team Specials - Top Team Goalscorer,Joakim Maehle,-0.0189,0.0196,0.0385
-2024-06-27 01:01:46.544285,Copa America Team Specials - Copa America 2024 - Colombia Team Specials - Top Colombia Goalscorer,Yaser Asprilla,-0.0189,0.0196,0.0385
-2024-06-27 01:01:46.615785,UEFA Euro 2024 Team Specials - Italy Team Specials - Top Team Goalscorer,Andrea Cambiasso,-0.0189,0.0196,0.0385
-2024-06-27 01:01:46.840058,UEFA Euro 2024 Team Specials - Slovenia Team Specials - Top Team Goalscorer,Sandi Lovric,-0.0189,0.0196,0.0385
-2024-06-27 01:01:46.890163,UEFA Euro 2024 Team Specials - Turkey Team Specials - Top Team Goalscorer,Orkun Kokcu,-0.0189,0.0196,0.0385
 2024-06-27 05:01:24.009050,UEFA Euro 2024 Team Specials - Netherlands Team Specials - Top Team Goalscorer,Virgil van Dijk,-0.0189,0.0196,0.0385
 2024-06-27 09:01:18.522055,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tulsi Gabbard,-0.0189,0.0196,0.0385
-2024-06-27 01:01:56.815996,Scores - 1st Round Score - Davis Thompson - 1st Round Score,Over 69.5,-0.018900000000000028,0.4255,0.4444
 2024-06-27 09:01:16.442759,UEFA Euro 2024 Futures - Euro 2024 Futures - Most Assists,Kevin De Bruyne,-0.019099999999999992,0.0476,0.0667
 2024-06-27 03:01:41.889558,UEFA Euro 2024 Futures - Euro 2024 Futures - Top Goalscorer,Kai Havertz,-0.019099999999999992,0.0476,0.0667
-2024-06-27 01:01:46.815356,UEFA Euro 2024 Team Specials - Portugal Team Specials - Top Team Goalscorer,Rafeal Leao,-0.019099999999999992,0.0476,0.0667
-2024-06-27 01:01:46.615785,UEFA Euro 2024 Team Specials - Italy Team Specials - Top Team Goalscorer,Lorenzo Pellegrini,-0.019099999999999992,0.0476,0.0667
 2024-06-27 05:01:23.841005,UEFA Euro 2024 Team Specials - Slovakia Team Specials - Top Team Goalscorer,Lukas Haraslin,-0.019099999999999992,0.0476,0.0667
-2024-06-27 01:01:46.983255,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Slovakia,-0.019099999999999992,0.0476,0.0667
 2024-06-27 12:57:56.876550,Presidential Debates - CNN Debate June 27th: Trump and Biden to shake hands at first debate - Trump and Biden to shake hands,Yes,-0.019699999999999995,0.4348,0.4545
-2024-06-27 01:01:46.989953,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Belgium Or Italy To Win Outright,-0.02020000000000001,0.0909,0.1111
 2024-06-27 12:57:56.400441,Draft Picks - Draft Picks - Which Team will Select Bronny James,Phoenix Suns,-0.02020000000000001,0.0909,0.1111
-2024-06-27 12:57:56.400441,Draft Picks - Draft Picks - Which Team will Select Bronny James,Dallas Mavericks,-0.02020000000000001,0.0909,0.1111
-2024-06-27 01:01:46.840058,UEFA Euro 2024 Team Specials - Slovenia Team Specials - Top Team Goalscorer,Andraz Sporar,-0.02020000000000001,0.0909,0.1111
 2024-06-27 11:01:10.054693,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Ben Carson,-0.02020000000000001,0.0909,0.1111
-2024-06-27 01:01:46.929962,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Italy Serie A,Gianluca Scamacca,-0.0203,0.0385,0.0588
-2024-06-27 01:01:46.758072,UEFA Euro 2024 Team Specials - Spain Team Specials - Top Team Goalscorer,Joselu,-0.0203,0.0385,0.0588
-2024-06-27 01:01:46.929962,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Italy Serie A,Federico Chiesa,-0.0203,0.0385,0.0588
-2024-06-27 01:01:56.441632,Boxing Lines - Arturo Popoca vs Danny Barrios Flores - To Win the Bout,Danny Barrios Flores,-0.02030000000000004,0.3571,0.3774
+2024-06-27 12:57:56.400441,Draft Picks - Draft Picks - Which Team will Select Bronny James,Dallas Mavericks,-0.02020000000000001,0.0909,0.1111
 2024-06-27 09:01:25.961320,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Zack Wheeler (PHI),-0.020799999999999985,0.3125,0.3333
 2024-06-27 03:01:52.238138,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3-Balls - N. Dunlap / C. Kirk / E. Van Rooyen - 1st Round 3-Balls,Chris Kirk,-0.02100000000000002,0.3636,0.3846
 2024-06-27 03:01:41.374273,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Botafogo,-0.02100000000000002,0.3636,0.3846
 2024-06-27 12:57:56.810482,Presidential Debates - CNN Debate June 27th: Debate Winner According To CNN Poll - CNN June Debate Winner,Joe Biden,-0.02200000000000002,0.6923,0.7143
-2024-06-27 01:01:46.881961,UEFA Euro 2024 Team Specials - Turkey Team Specials - Stage Of Elimination,Round of 16,-0.02200000000000002,0.6923,0.7143
-2024-06-27 09:01:25.961320,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Ranger Suarez (PHI),-0.022199999999999998,0.2,0.2222
 2024-06-27 11:01:07.756709,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Toni Kroos,-0.022199999999999998,0.1111,0.1333
-2024-06-27 01:01:46.694925,UEFA Euro 2024 Team Specials - England Team Specials - Stage Of Elimination,Semi Finals,-0.022199999999999998,0.2,0.2222
-2024-06-27 01:01:46.598650,Copa America Team Specials - Copa America 2024 - Brazil Team Specials - Stage of Elimination,Quarter Final,-0.022199999999999998,0.2,0.2222
-2024-06-27 01:01:46.989953,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Italy Or Portugal To Win Outright,-0.022199999999999998,0.2,0.2222
+2024-06-27 09:01:25.961320,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Ranger Suarez (PHI),-0.022199999999999998,0.2,0.2222
 2024-06-27 12:57:56.887419,Presidential Debates - CNN Debate June 27th: Who is asked the first debate question? - Who is asked the first debate question,Joe Biden,-0.022199999999999998,0.7778,0.8
-2024-06-27 11:01:07.861754,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and UEFA Player of the Tournament Parlay,England/Bukayo Saka,-0.022200000000000004,0.0123,0.0345
 2024-06-27 05:01:24.009050,UEFA Euro 2024 Team Specials - Netherlands Team Specials - Top Team Goalscorer,Georginio Wijnaldum,-0.022200000000000004,0.0123,0.0345
-2024-06-27 01:01:56.881133,Scores - 1st Round Score - Rickie Fowler - 1st Round Score,Over 69.5,-0.022699999999999998,0.4651,0.4878
-2024-06-27 01:01:46.615785,UEFA Euro 2024 Team Specials - Italy Team Specials - Top Team Goalscorer,Stephen El Shaarawy,-0.023200000000000002,0.0244,0.0476
-2024-06-27 01:01:46.840058,UEFA Euro 2024 Team Specials - Slovenia Team Specials - Top Team Goalscorer,Adam Cerin,-0.023200000000000002,0.0244,0.0476
-2024-06-27 01:01:46.840058,UEFA Euro 2024 Team Specials - Slovenia Team Specials - Top Team Goalscorer,Zan Vipotnik,-0.023200000000000002,0.0244,0.0476
-2024-06-27 01:01:46.840058,UEFA Euro 2024 Team Specials - Slovenia Team Specials - Top Team Goalscorer,Luka Zahovic,-0.023200000000000002,0.0244,0.0476
-2024-06-27 01:01:46.663823,UEFA Euro 2024 Team Specials - Denmark Team Specials - Top Team Goalscorer,Yussuf Poulsen,-0.023200000000000002,0.0244,0.0476
-2024-06-27 01:01:46.781917,UEFA Euro 2024 Team Specials - Belgium Team Specials - Top Team Goalscorer,Dodi Lukebakio,-0.023200000000000002,0.0244,0.0476
-2024-06-27 01:01:46.615785,UEFA Euro 2024 Team Specials - Italy Team Specials - Top Team Goalscorer,Davide Frattesi,-0.023200000000000002,0.0244,0.0476
-2024-06-27 05:01:24.009050,UEFA Euro 2024 Team Specials - Netherlands Team Specials - Top Team Goalscorer,Steven Bergwijn,-0.0233,0.0152,0.0385
+2024-06-27 11:01:07.861754,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and UEFA Player of the Tournament Parlay,England/Bukayo Saka,-0.022200000000000004,0.0123,0.0345
+2024-06-27 14:57:44.237358,Presidential Debates - CNN Debate June 27th: Will Biden stumble during debate? - Biden Stumbles During Debate,No,-0.02310000000000001,0.9,0.9231
 2024-06-27 05:01:24.009050,UEFA Euro 2024 Team Specials - Netherlands Team Specials - Top Team Goalscorer,Tijjani Reijnders,-0.0233,0.0152,0.0385
 2024-06-27 05:01:24.009050,UEFA Euro 2024 Team Specials - Netherlands Team Specials - Top Team Goalscorer,Joey Veerman,-0.0233,0.0152,0.0385
-2024-06-27 01:01:46.976492,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Switzerland,-0.023799999999999988,0.4762,0.5
-2024-06-27 01:01:46.718142,UEFA Euro 2024 Team Specials - Slovakia Team Specials - Stage Of Elimaintion,Quarter Finals,-0.023799999999999988,0.1429,0.1667
-2024-06-27 01:01:46.909129,UEFA Euro 2024 Futures - Euro 2024 Futures - Top Goalscorer,Cristiano Ronaldo,-0.024,0.0385,0.0625
-2024-06-27 01:01:46.909129,UEFA Euro 2024 Futures - Euro 2024 Futures - Top Goalscorer,Romelu Lukaku,-0.024,0.0385,0.0625
-2024-06-27 01:01:46.560279,Copa America Team Specials - Copa America 2024 - Argentina Team Specials - Top Argentina Goalscorer,Angel di Maria,-0.0242,0.0667,0.0909
-2024-06-27 01:01:46.591009,Copa America Team Specials - Copa America 2024 - Brazil Team Specials - Top Brazil Goalscorer,Lucas Paqueta,-0.0242,0.0667,0.0909
-2024-06-27 01:01:46.840058,UEFA Euro 2024 Team Specials - Slovenia Team Specials - Top Team Goalscorer,Josip Ilicic,-0.024299999999999995,0.0345,0.0588
-2024-06-27 01:01:46.663823,UEFA Euro 2024 Team Specials - Denmark Team Specials - Top Team Goalscorer,Kasper Dolberg,-0.024299999999999995,0.0345,0.0588
-2024-06-27 01:01:47.052287,Copa America Futures - Copa América 2024 - Straight Forecast,"Uruguay 1st, Mexico 2nd",-0.024299999999999995,0.0345,0.0588
-2024-06-27 01:01:46.840058,UEFA Euro 2024 Team Specials - Slovenia Team Specials - Top Team Goalscorer,Miha Zajc,-0.024299999999999995,0.0345,0.0588
-2024-06-27 01:01:46.781917,UEFA Euro 2024 Team Specials - Belgium Team Specials - Top Team Goalscorer,Jeremy Doku,-0.024299999999999995,0.0526,0.0769
-2024-06-27 01:01:46.953686,UEFA Euro 2024 Futures - Euro 2024 Futures - Runner Up,Germany,-0.024999999999999994,0.1,0.125
-2024-06-27 01:01:46.535676,Copa America Team Specials - Copa America 2024 - Uruguay Team Specials - Stage of Elimination,Quarter Final,-0.025499999999999967,0.4,0.4255
-2024-06-27 01:01:46.765904,UEFA Euro 2024 Team Specials - Spain Team Specials - Total Tournament Goals,Over 9.5 Goals,-0.025599999999999956,0.5744,0.6
+2024-06-27 05:01:24.009050,UEFA Euro 2024 Team Specials - Netherlands Team Specials - Top Team Goalscorer,Steven Bergwijn,-0.0233,0.0152,0.0385
+2024-06-27 14:57:50.691542,NCAA Regular Season Wins - ACC Regular Season Wins - Virginia Tech,Under 8 Wins,-0.023800000000000043,0.5,0.5238
+2024-06-27 14:57:44.138073,Presidential Debates - CNN Debate June 27th: Donald Trump Primary Colour of Tie - Donald Trump Colour of Tie,Purple\Pink,-0.0245,0.0588,0.0833
 2024-06-27 05:01:24.009050,UEFA Euro 2024 Team Specials - Netherlands Team Specials - Top Team Goalscorer,Denzel Dumfries,-0.0262,0.0123,0.0385
 2024-06-27 12:57:56.278552,NBA Specials - Where will Paul George Play Game 1 of the 2024/2025 NBA Season - Proposition,Oklahoma City Thunder,-0.0267,0.0909,0.1176
 2024-06-27 12:57:56.387798,To Be Drafted First - Player to be Drafted First - H2H - Johnny Furphy vs Tyler Kolek (Marquette),Johnny Furphy (Kansas),-0.026800000000000046,0.6875,0.7143
-2024-06-27 01:01:46.940043,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Final,Portugal,-0.02779999999999999,0.2222,0.25
 2024-06-27 11:01:07.861754,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and UEFA Player of the Tournament Parlay,France/Kylian Mbappe,-0.027800000000000005,0.0833,0.1111
-2024-06-27 01:01:46.398447,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Athletico Paranaense,-0.028000000000000004,0.0196,0.0476
-2024-06-27 01:01:46.890163,UEFA Euro 2024 Team Specials - Turkey Team Specials - Top Team Goalscorer,Yunus Akgun,-0.028000000000000004,0.0196,0.0476
-2024-06-27 01:01:46.663823,UEFA Euro 2024 Team Specials - Denmark Team Specials - Top Team Goalscorer,Pierre Hojbjerg,-0.028000000000000004,0.0196,0.0476
-2024-06-27 01:01:46.663823,UEFA Euro 2024 Team Specials - Denmark Team Specials - Top Team Goalscorer,Mikkel Damsgaard,-0.028000000000000004,0.0196,0.0476
 2024-06-27 11:01:07.861754,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and UEFA Player of the Tournament Parlay,Germany/Harry Kane,-0.028199999999999996,0.0385,0.0667
-2024-06-27 01:01:46.758072,UEFA Euro 2024 Team Specials - Spain Team Specials - Top Team Goalscorer,Mikel Oyarzabal,-0.028199999999999996,0.0385,0.0667
-2024-06-27 01:01:46.758072,UEFA Euro 2024 Team Specials - Spain Team Specials - Top Team Goalscorer,Dani Olmo,-0.028199999999999996,0.0385,0.0667
-2024-06-27 01:01:47.030071,Copa America Futures - Copa América 2024 - Name The Finalists,Mexico & Uruguay,-0.028199999999999996,0.0385,0.0667
-2024-06-27 01:01:46.807092,UEFA Euro 2024 Team Specials - Portugal Team Specials - Stage Of Elimination,Winner,-0.028799999999999992,0.125,0.1538
-2024-06-27 01:01:46.969527,UEFA Euro 2024 Futures - Euro 2024 Futures - To Be Eliminated By Penalty Shootout,Netherlands,-0.028799999999999992,0.125,0.1538
 2024-06-27 05:01:33.605080,Boxing Lines - Yves Ngabu vs Kiko Martinez - To Win the Bout,Kiko Martinez,-0.028799999999999992,0.125,0.1538
-2024-06-27 01:01:46.815356,UEFA Euro 2024 Team Specials - Portugal Team Specials - Top Team Goalscorer,Diogo Jota,-0.029299999999999993,0.0476,0.0769
+2024-06-27 12:58:03.279449,NCAA Regular Season Wins - ACC Regular Season Wins - California,Over 6.5 Wins,-0.029000000000000026,0.4255,0.4545
 2024-06-27 05:01:23.841005,UEFA Euro 2024 Team Specials - Slovakia Team Specials - Top Team Goalscorer,Robert Bozenik,-0.029299999999999993,0.0476,0.0769
 2024-06-27 05:01:24.042489,UEFA Euro 2024 Team Specials - Romania Team Specials - Top Team Goalscorer,George Puscas,-0.0294,0.0294,0.0588
-2024-06-27 01:01:46.569954,Copa America Team Specials - Copa America 2024 - Argentina Team Specials - Stage of Elimination,Winner,-0.029600000000000015,0.3704,0.4
 2024-06-27 11:01:09.684178,Draft Picks - Draft Picks - Which Team will Select Bronny James,Toronto Raptors,-0.030199999999999998,0.0323,0.0625
-2024-06-27 01:01:46.923077,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Germany Bundesliga,Harry Kane,-0.030299999999999994,0.3333,0.3636
-2024-06-27 01:01:46.997060,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Team,Belgium,-0.0306,0.0079,0.0385
-2024-06-27 01:01:46.929962,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Italy Serie A,Olivier Giroud,-0.0321,0.0588,0.0909
-2024-06-27 01:01:47.052287,Copa America Futures - Copa América 2024 - Straight Forecast,"Brazil 1st, Mexico 2nd",-0.0321,0.0588,0.0909
-2024-06-27 01:01:46.663823,UEFA Euro 2024 Team Specials - Denmark Team Specials - Top Team Goalscorer,Jonas Wind,-0.0321,0.0588,0.0909
-2024-06-27 01:01:46.890163,UEFA Euro 2024 Team Specials - Turkey Team Specials - Top Team Goalscorer,Kenan Yildiz,-0.0321,0.0588,0.0909
-2024-06-27 01:01:47.030071,Copa America Futures - Copa América 2024 - Name The Finalists,Brazil & Mexico,-0.0321,0.0588,0.0909
+2024-06-27 14:57:44.149151,Presidential Debates - CNN Debate June 27th: First Debate Topic - First Debate Topic,Healthcare,-0.031799999999999995,0.1111,0.1429
 2024-06-27 05:01:24.009050,UEFA Euro 2024 Team Specials - Netherlands Team Specials - Top Team Goalscorer,Jeremie Frimpong,-0.032400000000000005,0.0152,0.0476
-2024-06-27 01:01:46.989953,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Belgium Or Germany To Win Outright,-0.03259999999999999,0.2,0.2326
 2024-06-27 11:01:07.771669,UEFA Euro 2024 Futures - Euro 2024 Futures - Name The Finalists,England & Portugal to meet in the Final,-0.03330000000000001,0.0667,0.1
-2024-06-27 01:01:46.989953,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Belgium Or Portugal To Win Outright,-0.033300000000000024,0.1667,0.2
-2024-06-27 01:01:46.608691,UEFA Euro 2024 Team Specials - Italy Team Specials - Stage Of Elimination,Semi Finals,-0.033399999999999985,0.1333,0.1667
-2024-06-27 01:01:46.774572,UEFA Euro 2024 Team Specials - Belgium Team Specials - Stage Of Elimination,Semi Finals,-0.033399999999999985,0.1333,0.1667
-2024-06-27 01:01:46.961069,UEFA Euro 2024 Futures - Euro 2024 Futures - Group of Winning Team,Group E,-0.0334,0.0435,0.0769
-2024-06-27 01:01:47.007223,Copa America Futures - Copa América 2024 - Winner,Mexico,-0.0334,0.0435,0.0769
 2024-06-27 03:01:41.374273,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Flamengo,-0.03410000000000002,0.875,0.9091
 2024-06-27 11:01:07.816315,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"Germany Winner, Italy Runner Up",-0.0344,0.0244,0.0588
 2024-06-27 05:01:33.629797,Boxing Lines - Nyall Berry vs Francesco De Rosa - To Win the Bout,Francesco De Rosa,-0.03570000000000001,0.25,0.2857
-2024-06-27 01:01:46.560279,Copa America Team Specials - Copa America 2024 - Argentina Team Specials - Top Argentina Goalscorer,Julian Alvarez,-0.03570000000000001,0.25,0.2857
 2024-06-27 07:01:30.904965,MLB Futures - MLB 2024 Player Awards - American League MVP,Bobby Witt Jr. (KC),-0.036199999999999996,0.1176,0.1538
-2024-06-27 01:01:57.263362,Rocket Mortgage Classic - 2/3 Balls - 1st Round 3-Balls - B. Silverman / W. Furr / B. James - 1st Round 3-Balls,Wilson Furr,-0.03710000000000002,0.3077,0.3448
-2024-06-27 01:01:46.591009,Copa America Team Specials - Copa America 2024 - Brazil Team Specials - Top Brazil Goalscorer,Francisco Evanilson,-0.038099999999999995,0.0244,0.0625
-2024-06-27 01:01:46.615785,UEFA Euro 2024 Team Specials - Italy Team Specials - Top Team Goalscorer,Federico Chiesa,-0.03889999999999999,0.1429,0.1818
-2024-06-27 01:01:46.983255,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Slovenia,-0.0398,0.0435,0.0833
+2024-06-27 14:57:44.149151,Presidential Debates - CNN Debate June 27th: First Debate Topic - First Debate Topic,Foreign Policy,-0.03889999999999999,0.1429,0.1818
 2024-06-27 11:01:07.861754,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and UEFA Player of the Tournament Parlay,England/Harry Kane,-0.0398,0.0435,0.0833
-2024-06-27 01:01:46.591009,Copa America Team Specials - Copa America 2024 - Brazil Team Specials - Top Brazil Goalscorer,Raphinha,-0.04169999999999999,0.125,0.1667
-2024-06-27 01:01:46.840058,UEFA Euro 2024 Team Specials - Slovenia Team Specials - Top Team Goalscorer,Benjamin Sesko,-0.04169999999999999,0.125,0.1667
 2024-06-27 05:01:24.009050,UEFA Euro 2024 Team Specials - Netherlands Team Specials - Top Team Goalscorer,Xavi Simons,-0.04229999999999999,0.0244,0.0667
-2024-06-27 01:01:46.527626,Copa America Team Specials - Copa America 2024 - Uruguay Team Specials - Top Uruguay Goalscorer,Facundo Pellistri,-0.04240000000000001,0.0909,0.1333
-2024-06-27 01:01:46.569954,Copa America Team Specials - Copa America 2024 - Argentina Team Specials - Stage of Elimination,Quarter Final,-0.04269999999999999,0.1111,0.1538
-2024-06-27 01:01:46.989953,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Germany Or Portugal To Win Outright,-0.043200000000000016,0.3077,0.3509
-2024-06-27 01:01:46.535676,Copa America Team Specials - Copa America 2024 - Uruguay Team Specials - Stage of Elimination,Group Stages,-0.04440000000000001,0.0667,0.1111
-2024-06-27 01:01:46.615785,UEFA Euro 2024 Team Specials - Italy Team Specials - Top Team Goalscorer,Mateo Retegui,-0.04440000000000001,0.0667,0.1111
-2024-06-27 01:01:46.774572,UEFA Euro 2024 Team Specials - Belgium Team Specials - Stage Of Elimination,Quarter Finals,-0.044499999999999984,0.2222,0.2667
-2024-06-27 01:01:46.989953,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either France Or Italy To Win Outright,-0.044499999999999984,0.2222,0.2667
-2024-06-27 01:01:46.953686,UEFA Euro 2024 Futures - Euro 2024 Futures - Runner Up,Belgium,-0.0448,0.0385,0.0833
-2024-06-27 01:01:46.983255,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Germany,-0.045499999999999985,0.4545,0.5
 2024-06-27 03:01:41.374273,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Palmeiras,-0.04619999999999991,0.8,0.8462
 2024-06-27 03:01:41.374273,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,RB Bragantino,-0.04620000000000002,0.1538,0.2
-2024-06-27 01:01:46.997060,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Team,Austria,-0.0465,0.0123,0.0588
+2024-06-27 12:57:56.535466,Draft Position - Player Draft Position - Tyler Smith,Under 34.5 Draft Position,-0.04630000000000001,0.4082,0.4545
 2024-06-27 12:57:56.439272,Draft Picks - Draft Picks - #10 - #35 - 31st Overall Pick,Johnny Furphy,-0.047599999999999976,0.2857,0.3333
-2024-06-27 01:01:46.832053,UEFA Euro 2024 Team Specials - Slovenia Team Specials - Total Tournamnt Goals,Over 2.5 Goals,-0.05059999999999998,0.5238,0.5744
 2024-06-27 03:01:41.374273,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Internacional,-0.05070000000000002,0.4255,0.4762
 2024-06-27 05:01:23.669117,Copa America Team Specials - Copa America 2024 - USA Team Specials - Stage of Elimation,Quarter Final,-0.052200000000000024,0.5556,0.6078
-2024-06-27 01:01:46.615785,UEFA Euro 2024 Team Specials - Italy Team Specials - Top Team Goalscorer,Giacomo Raspdori,-0.052300000000000006,0.0588,0.1111
 2024-06-27 11:01:09.684178,Draft Picks - Draft Picks - Which Team will Select Bronny James,Minnesota Timberwolves,-0.05249999999999999,0.0244,0.0769
 2024-06-27 05:01:24.009050,UEFA Euro 2024 Team Specials - Netherlands Team Specials - Top Team Goalscorer,Brian Brobbey,-0.05249999999999999,0.0244,0.0769
 2024-06-27 12:57:56.278552,NBA Specials - Where will Paul George Play Game 1 of the 2024/2025 NBA Season - Proposition,LA Clippers,-0.05289999999999995,0.6296,0.6825
-2024-06-27 01:01:47.082548,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Colombia,-0.05299999999999999,0.4348,0.4878
-2024-06-27 01:01:46.946554,UEFA Euro 2024 Futures - Euro 2024 Futures - First Time Winner?,No,-0.05349999999999999,0.7647,0.8182
-2024-06-27 01:01:46.807092,UEFA Euro 2024 Team Specials - Portugal Team Specials - Stage Of Elimination,Runner Up,-0.05379999999999999,0.1,0.1538
-2024-06-27 01:01:46.615785,UEFA Euro 2024 Team Specials - Italy Team Specials - Top Team Goalscorer,Gianluca Scamacca,-0.05550000000000002,0.1667,0.2222
-2024-06-27 01:01:46.544285,Copa America Team Specials - Copa America 2024 - Colombia Team Specials - Top Colombia Goalscorer,Rafael Santos Borre,-0.05550000000000002,0.1667,0.2222
-2024-06-27 01:01:56.746119,Scores - 1st Round Score - Akshay Bhatia - 1st Round Score,Over 68.5,-0.05559999999999998,0.5,0.5556
-2024-06-27 01:01:46.398447,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Palmeiras,-0.055900000000000005,0.3077,0.3636
+2024-06-27 12:57:56.490237,Draft Position - Player Draft Position - Bobi Klintman,Under 32.5 Draft Position,-0.055900000000000005,0.2667,0.3226
 2024-06-27 11:01:10.114287,Presidential Debates - CNN Debate June 27th: Debate Winner According To CNN Poll - CNN June Debate Winner,Donald Trump,-0.05730000000000002,0.3509,0.4082
+2024-06-27 14:57:44.193363,Presidential Debates - CNN Debate June 27th: Trump and Biden to shake hands at first debate - Trump and Biden to shake hands,Yes,-0.05740000000000001,0.3774,0.4348
+2024-06-27 12:57:56.508390,Draft Position - Player Draft Position - Johnny Furphy,Under 32.5 Draft Position,-0.05860000000000004,0.4762,0.5348
 2024-06-27 05:01:24.009050,UEFA Euro 2024 Team Specials - Netherlands Team Specials - Top Team Goalscorer,Donyell Malen,-0.0615,0.0294,0.0909
 2024-06-27 05:01:23.801750,UEFA Euro 2024 Team Specials - England Team Specials - Harry Kane Tournament Goals,7 or More Goals,-0.0615,0.0294,0.0909
-2024-06-27 01:01:46.953686,UEFA Euro 2024 Futures - Euro 2024 Futures - Runner Up,Denmark,-0.0616,0.0217,0.0833
-2024-06-27 01:01:46.725713,UEFA Euro 2024 Team Specials - Slovakia Team Specials - Total Tournament Goals,Over 3.5 Goals,-0.061999999999999944,0.5744,0.6364
-2024-06-27 01:01:46.527626,Copa America Team Specials - Copa America 2024 - Uruguay Team Specials - Top Uruguay Goalscorer,Luis Suarez,-0.0629,0.0909,0.1538
-2024-06-27 01:01:47.044390,Copa America Futures - Copa América 2024 - Runner Up,Mexico,-0.0629,0.0909,0.1538
-2024-06-27 01:01:46.663823,UEFA Euro 2024 Team Specials - Denmark Team Specials - Top Team Goalscorer,Rasmus Hojlund,-0.0635,0.2222,0.2857
-2024-06-27 01:01:46.890163,UEFA Euro 2024 Team Specials - Turkey Team Specials - Top Team Goalscorer,Baris Yilmaz,-0.0635,0.0476,0.1111
-2024-06-27 01:01:46.989953,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either France Or Portugal To Win Outright,-0.06519999999999998,0.2857,0.3509
-2024-06-27 01:01:46.940043,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Final,Belgium,-0.066,0.0769,0.1429
-2024-06-27 01:01:46.890163,UEFA Euro 2024 Team Specials - Turkey Team Specials - Top Team Goalscorer,Kerem Akturkoglu,-0.06669999999999998,0.2,0.2667
-2024-06-27 01:01:46.560279,Copa America Team Specials - Copa America 2024 - Argentina Team Specials - Top Argentina Goalscorer,Lionel Messi,-0.06670000000000004,0.3333,0.4
-2024-06-27 01:01:46.989953,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either Belgium Or France To Win Outright,-0.06820000000000001,0.1818,0.25
 2024-06-27 03:01:41.374273,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Athletico Paranaense,-0.06840000000000002,0.1538,0.2222
-2024-06-27 01:01:46.865064,UEFA Euro 2024 Team Specials - Romania Team Specials - Stage Of Elimination,Quarter Finals,-0.06840000000000002,0.1538,0.2222
-2024-06-27 01:01:46.989953,UEFA Euro 2024 Futures - Euro 2024 Futures - Winner Double Chance,Either France Or Germany To Win Outright,-0.06970000000000004,0.3077,0.3774
 2024-06-27 05:01:23.933024,UEFA Euro 2024 Team Specials - France Team Specials - Kylian Mbappe Tournament Goals,7 or More Goals,-0.07060000000000001,0.0294,0.1
-2024-06-27 01:01:46.807092,UEFA Euro 2024 Team Specials - Portugal Team Specials - Stage Of Elimination,Round Of 16,-0.07189999999999996,0.2222,0.2941
-2024-06-27 01:01:46.976492,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Slovenia,-0.0761,0.1739,0.25
-2024-06-27 01:01:46.983255,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Portugal,-0.0771,0.3774,0.4545
 2024-06-27 05:01:24.042489,UEFA Euro 2024 Team Specials - Romania Team Specials - Top Team Goalscorer,Dennis Man,-0.0774,0.0476,0.125
-2024-06-27 01:01:46.781917,UEFA Euro 2024 Team Specials - Belgium Team Specials - Top Team Goalscorer,Romelu Lukaku,-0.08080000000000004,0.3636,0.4444
-2024-06-27 01:01:46.983255,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Denmark,-0.08240000000000001,0.1176,0.2
-2024-06-27 01:01:46.976492,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Germany,-0.08330000000000004,0.75,0.8333
 2024-06-27 05:01:23.669117,Copa America Team Specials - Copa America 2024 - USA Team Specials - Stage of Elimation,Group Stages,-0.08549999999999999,0.125,0.2105
 2024-06-27 12:57:56.931327,"Presidential Debates - CNN Debate June 27th: Number of times Trump says ""stolen"" or ""rigged"" - No of time Trump says stolen/rigged",Over 9.5,-0.0857,0.2,0.2857
-2024-06-27 01:01:47.075917,Copa America Futures - Copa América 2024 - To Reach Final,Mexico,-0.0889,0.1111,0.2
-2024-06-27 01:01:46.976492,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Denmark,-0.08959999999999996,0.274,0.3636
 2024-06-27 05:01:24.042489,UEFA Euro 2024 Team Specials - Romania Team Specials - Top Team Goalscorer,Nicolae Stanciu,-0.1,0.1667,0.2667
-2024-06-27 01:01:46.983255,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,Belgium,-0.10390000000000002,0.1818,0.2857
+2024-06-27 12:57:56.526495,Draft Position - Player Draft Position - Tyler Kolek (Marquette),Under 33.5 Draft Position,-0.10010000000000002,0.4651,0.5652
 2024-06-27 05:01:24.042489,UEFA Euro 2024 Team Specials - Romania Team Specials - Top Team Goalscorer,Denis Deagus,-0.10390000000000002,0.1818,0.2857
-2024-06-27 01:01:46.983255,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Semi Final,France,-0.10710000000000003,0.4167,0.5238
 2024-06-27 05:01:23.801750,UEFA Euro 2024 Team Specials - England Team Specials - Harry Kane Tournament Goals,6 or More Goals,-0.1079,0.0588,0.1667
-2024-06-27 03:01:42.093274,Copa America Futures - Group B - Winner,Ecuador,-0.10910000000000002,0.0909,0.2
 2024-06-27 05:01:24.009050,UEFA Euro 2024 Team Specials - Netherlands Team Specials - Top Team Goalscorer,Wout Weghorst,-0.10910000000000002,0.0909,0.2
-2024-06-27 01:01:46.890163,UEFA Euro 2024 Team Specials - Turkey Team Specials - Top Team Goalscorer,Arda Guler,-0.11109999999999998,0.2222,0.3333
-2024-06-27 01:01:46.751165,UEFA Euro 2024 Team Specials - Spain Team Specials - Stage Of Elimination,Round of 16,-0.1238,0.1429,0.2667
+2024-06-27 03:01:42.093274,Copa America Futures - Group B - Winner,Ecuador,-0.10910000000000002,0.0909,0.2
 2024-06-27 05:01:23.933024,UEFA Euro 2024 Team Specials - France Team Specials - Kylian Mbappe Tournament Goals,5 or More Goals,-0.12639999999999998,0.1333,0.2597
 2024-06-27 11:01:09.785283,Draft Position - Player Draft Position - Bronny James (USC),Under 54.5 Draft Position,-0.12680000000000002,0.2899,0.4167
-2024-06-27 01:01:46.976492,UEFA Euro 2024 Futures - Euro 2024 Futures - To Reach The Quarter Final,Belgium,-0.1296,0.3704,0.5
-2024-06-27 01:01:46.623342,UEFA Euro 2024 Team Specials - Italy Team Specials - Total Tournament Goals,Over 6.5 Goals,-0.13640000000000002,0.3636,0.5
-2024-06-27 01:01:46.544285,Copa America Team Specials - Copa America 2024 - Colombia Team Specials - Top Colombia Goalscorer,James Rodriguez,-0.1389,0.1111,0.25
 2024-06-27 05:01:23.933024,UEFA Euro 2024 Team Specials - France Team Specials - Kylian Mbappe Tournament Goals,6 or More Goals,-0.14120000000000002,0.0588,0.2
-2024-06-27 01:01:46.815356,UEFA Euro 2024 Team Specials - Portugal Team Specials - Top Team Goalscorer,Cristiano Ronaldo,-0.14139999999999997,0.2222,0.3636
 2024-06-27 12:57:56.517452,Draft Position - Player Draft Position - Kyle Filipowski (Duke),Over 33.5 Draft Position,-0.14200000000000002,0.3125,0.4545
-2024-06-27 01:01:46.929962,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Italy Serie A,Romelu Lukaku,-0.15389999999999998,0.1538,0.3077
-2024-06-27 01:01:47.082548,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Mexico,-0.16660000000000003,0.2778,0.4444
-2024-06-27 01:01:46.551893,Copa America Team Specials - Copa America 2024 - Colombia Team Specials - Stage of Elimination,Group Stages,-0.1797,0.1429,0.3226
-2024-06-27 01:01:46.544285,Copa America Team Specials - Copa America 2024 - Colombia Team Specials - Top Colombia Goalscorer,Luis Diaz,-0.1818,0.1818,0.3636
-2024-06-27 01:01:46.997060,UEFA Euro 2024 Futures - Euro 2024 Futures - Highest Scoring Team,Portugal,-0.1842,0.1667,0.3509
 2024-06-27 05:01:23.801750,UEFA Euro 2024 Team Specials - England Team Specials - Harry Kane Tournament Goals,4 or More Goals,-0.19050000000000006,0.3333,0.5238
 2024-06-27 05:01:23.801750,UEFA Euro 2024 Team Specials - England Team Specials - Harry Kane Tournament Goals,5 or More goals,-0.19999999999999998,0.1333,0.3333
 2024-06-27 03:01:42.107957,Copa America Futures - Group B - To Finish Bottom,Ecuador,-0.2026,0.0196,0.2222
-2024-06-27 01:01:46.709671,UEFA Euro 2024 Team Specials - England Team Specials - Total Tournament Goals,Over 10.5 Goals,-0.20829999999999999,0.125,0.3333
 2024-06-27 03:01:42.101019,Copa America Futures - Group B - Not To Qualify From Group B,Ecuador,-0.22260000000000002,0.4,0.6226
 2024-06-27 05:01:23.933024,UEFA Euro 2024 Team Specials - France Team Specials - Kylian Mbappe Tournament Goals,4 or More Goals,-0.23870000000000002,0.3077,0.5464
-2024-06-27 01:01:46.655887,UEFA Euro 2024 Team Specials - Denmark Team Specials - Total Tournament Goals,Over 5.5 Goals,-0.25880000000000003,0.1667,0.4255
 2024-06-27 05:01:23.916167,UEFA Euro 2024 Team Specials - Belgium Team Specials - Romelu Lukaku Tournament Goals,3 or More Goals,-0.2948,0.0385,0.3333
-2024-06-27 01:01:46.582237,Copa America Team Specials - Copa America 2024 - Canada Team Specials - Stage of Elimination,Group Stages,-0.3304,0.4878,0.8182
 2024-06-27 03:01:42.114660,Copa America Futures - Group B - To Qualify From Group B,Mexico,-0.4,0.4,0.8
 2024-06-27 03:01:42.093274,Copa America Futures - Group B - Winner,Mexico,-0.4469000000000001,0.0769,0.5238
