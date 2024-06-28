@@ -1,6 +1,5 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-27 20:57:48.589703,Gran Hermano - Gran Hermano 2024 - Outright Winner,Emmanuel,0.2571,0.4,0.1429
-2024-06-27 12:57:56.954514,Presidential Debates - CNN Debate June 27th: To Be Said By Joe Biden During The Debate - Biden Buzzwords,Malarkey,0.24210000000000004,0.5238,0.2817
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Obama,0.22560000000000002,0.8,0.5744
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Witch hunt,0.2167,0.8,0.5833
 2024-06-27 20:57:49.444480,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,The Field,0.2021,0.4878,0.2857
@@ -10,258 +9,243 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-27 16:57:56.005906,Julian Assange - Who will interview Julian Assange first? - Assange's First Interview,Tucker Carlson,0.17820000000000003,0.6226,0.4444
 2024-06-27 16:57:57.145389,Presidential Debates - CNN Debate June 27th: To Be Said By Joe Biden During The Debate - Biden Buzzwords,Election denier,0.15000000000000002,0.4,0.25
 2024-06-27 16:57:57.145389,Presidential Debates - CNN Debate June 27th: To Be Said By Joe Biden During The Debate - Biden Buzzwords,Abortion rights,0.14549999999999996,0.6,0.4545
+2024-06-28 00:58:16.582661,Copa America Futures - Copa América 2024 - Top Goalscorer,Darwin Nunez,0.14139999999999997,0.3636,0.2222
+2024-06-28 00:58:26.931919,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Yin / Thitikul,0.1389,0.25,0.1111
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Crooked Joe Biden,0.13639999999999997,0.6364,0.5
-2024-06-27 11:01:09.785283,Draft Position - Player Draft Position - Bronny James (USC),Over 54.5 Draft Position,0.13490000000000002,0.7778,0.6429
-2024-06-27 12:57:56.517452,Draft Position - Player Draft Position - Kyle Filipowski (Duke),Under 33.5 Draft Position,0.13460000000000005,0.75,0.6154
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Fake News,0.12320000000000009,0.8333,0.7101
 2024-06-27 18:58:02.324207,Presidential Debates - CNN Debate June 27th: Trump and Biden to shake hands at first debate - Trump and Biden to shake hands,No,0.12019999999999997,0.8261,0.7059
 2024-06-27 20:57:49.433949,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Gavin Newsom,0.1167,0.25,0.1333
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Another rigged election,0.11109999999999998,0.3333,0.2222
 2024-06-27 20:57:48.566871,Julian Assange - Who will interview Julian Assange first? - Assange's First Interview,Tucker Carlson,0.11069999999999991,0.7333,0.6226
-2024-06-27 12:57:56.942700,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Sleepy Joe,0.11010000000000003,0.4,0.2899
 2024-06-27 16:57:57.000385,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Ben Carson,0.10910000000000002,0.2,0.0909
-2024-06-27 12:57:56.865385,Presidential Debates - CNN Debate June 27th: Specials - Specials,Trump announce his vice president during the debate,0.1071,0.25,0.1429
-2024-06-27 11:01:09.684178,Draft Picks - Draft Picks - Which Team will Select Bronny James,Los Angeles Lakers,0.10040000000000004,0.7778,0.6774
-2024-06-27 12:57:56.526495,Draft Position - Player Draft Position - Tyler Kolek (Marquette),Over 33.5 Draft Position,0.09999999999999998,0.6,0.5
+2024-06-28 00:58:16.630706,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Panama,0.1084,0.1429,0.0345
+2024-06-28 00:58:26.931919,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Ewing / Kupcho,0.09999999999999999,0.1667,0.0667
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Sleepy Joe,0.09999999999999998,0.5,0.4
+2024-06-28 00:58:16.020008,Copa America Team Specials - Copa America 2024 - Uruguay Team Specials - Stage of Elimination,Quarter Final,0.09999999999999998,0.5,0.4
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Andrea Pavan,0.0988,0.1111,0.0123
 2024-06-27 16:57:57.145389,Presidential Debates - CNN Debate June 27th: To Be Said By Joe Biden During The Debate - Biden Buzzwords,He's going to jail,0.09720000000000001,0.2222,0.125
-2024-06-27 12:57:56.931327,"Presidential Debates - CNN Debate June 27th: Number of times Trump says ""stolen"" or ""rigged"" - No of time Trump says stolen/rigged",Under 9.5,0.08410000000000006,0.8667,0.7826
+2024-06-28 00:58:16.630706,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Venezuela,0.0917,0.3774,0.2857
 2024-06-27 20:57:48.578486,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,Taylor Swift,0.08240000000000001,0.2,0.1176
-2024-06-27 12:57:56.449638,Draft Picks - Draft Picks - #10 - #35 - 32nd Overall Pick,Cam Christie,0.0804,0.1429,0.0625
 2024-06-27 22:58:14.368130,To Make the Playoffs - Chicago Sky- To Make the 2024 WNBA Playoffs - Chicago Sky- To Make the 2024 WNBA Playoffs,Yes,0.08039999999999997,0.5455,0.4651
-2024-06-27 12:57:56.942700,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,We're going to have the biggest deportation in history,0.07930000000000001,0.2222,0.1429
 2024-06-27 14:57:44.149151,Presidential Debates - CNN Debate June 27th: First Debate Topic - First Debate Topic,Economy,0.07619999999999999,0.4762,0.4
-2024-06-27 12:57:54.503770,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - Germany Bundesliga,Marcel Sabitzer,0.0726,0.1111,0.0385
 2024-06-27 20:57:49.367910,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Gavin Newsom,0.0694,0.125,0.0556
+2024-06-28 00:58:16.020008,Copa America Team Specials - Copa America 2024 - Uruguay Team Specials - Stage of Elimination,Winner,0.06820000000000001,0.25,0.1818
 2024-06-27 18:58:00.693151,Copa America Futures - Copa América 2024 - Winner,Uruguay,0.06820000000000001,0.25,0.1818
 2024-06-27 22:58:14.357696,To Make the Playoffs - Atlanta Dream- To Make the 2024 WNBA Playoffs - Atlanta Dream- To Make the 2024 WNBA Playoffs,No,0.06779999999999997,0.5556,0.4878
-2024-06-27 12:57:56.278552,NBA Specials - Where will Paul George Play Game 1 of the 2024/2025 NBA Season - Proposition,Philadelphia 76ers,0.06670000000000001,0.2,0.1333
 2024-06-27 20:57:49.389284,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Gavin Newsom,0.06649999999999999,0.0909,0.0244
 2024-06-27 16:57:57.111592,Presidential Debates - CNN Debate June 27th: Will Biden ask the moderator to repeat a question during the debate? - Will Biden asks the moderator to repeat a question during the debate?,Yes,0.0595,0.4762,0.4167
-2024-06-27 11:01:10.114287,Presidential Debates - CNN Debate June 27th: Debate Winner According To CNN Poll - CNN June Debate Winner,Joe Biden,0.05910000000000004,0.7143,0.6552
 2024-06-27 18:58:02.267324,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican,0.05889999999999995,0.6667,0.6078
 2024-06-27 16:57:57.057039,Presidential Debates - CNN Debate June 27th: First Mentioned State - First Mentioned State,Arizona,0.058300000000000005,0.125,0.0667
 2024-06-27 14:57:44.193363,Presidential Debates - CNN Debate June 27th: Trump and Biden to shake hands at first debate - Trump and Biden to shake hands,No,0.05789999999999995,0.6875,0.6296
 2024-06-27 16:57:56.595685,Olympics 3x3 Basketball - Men - Paris 2024 - Men's 3x3 Basketball - Gold Medal Winner,Latvia 3x3,0.05710000000000001,0.2,0.1429
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Putin,0.05709999999999993,0.8571,0.8
-2024-06-27 12:57:56.508390,Draft Position - Player Draft Position - Johnny Furphy,Over 32.5 Draft Position,0.05689999999999995,0.5917,0.5348
-2024-06-27 12:57:56.490237,Draft Position - Player Draft Position - Bobi Klintman,Over 32.5 Draft Position,0.056400000000000006,0.8,0.7436
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Adrian Otaegui,0.0555,0.0833,0.0278
 2024-06-27 14:57:44.248885,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Hunter Biden,0.05489999999999995,0.7101,0.6552
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Gavin Green,0.0544,0.0667,0.0123
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Marcus Kinhult,0.052599999999999994,0.0667,0.0141
-2024-06-27 11:01:07.861754,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and UEFA Player of the Tournament Parlay,Germany/Toni Kroos,0.052399999999999995,0.0909,0.0385
 2024-06-27 18:58:02.256717,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.05130000000000001,0.6667,0.6154
 2024-06-27 20:57:49.212602,NBA Specials - Where will Klay Thompson Play Game 1 of the 2024/2025 NBA Season - Proposition,Orlando Magic,0.05070000000000002,0.4762,0.4255
 2024-06-27 18:58:02.312073,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,The Field,0.0504,0.2857,0.2353
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Shut the border down,0.04999999999999999,0.25,0.2
-2024-06-27 14:57:44.248885,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Crypto or Bitcoin,0.04849999999999999,0.5833,0.5348
 2024-06-27 16:57:56.583797,Olympics 3x3 Basketball - Women - Paris 2024 - Women's 3x3 Basketball - Gold Medal Winner,China 3x3 Women,0.04849999999999999,0.1818,0.1333
+2024-06-27 14:57:44.248885,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Crypto or Bitcoin,0.04849999999999999,0.5833,0.5348
+2024-06-28 00:58:16.622454,Copa America Futures - Copa América 2024 - To Reach Final,Argentina,0.04820000000000002,0.6226,0.5744
 2024-06-27 16:57:56.583797,Olympics 3x3 Basketball - Women - Paris 2024 - Women's 3x3 Basketball - Gold Medal Winner,Canada 3x3 Women,0.047599999999999976,0.3333,0.2857
 2024-06-27 20:57:49.412469,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tim Scott,0.0474,0.0909,0.0435
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Sean Crocker,0.0465,0.0588,0.0123
-2024-06-27 12:57:56.439272,Draft Picks - Draft Picks - #10 - #35 - 31st Overall Pick,Kyle Filipowski (Duke),0.045499999999999985,0.5455,0.5
 2024-06-27 16:57:56.583797,Olympics 3x3 Basketball - Women - Paris 2024 - Women's 3x3 Basketball - Gold Medal Winner,Australia 3x3 Women,0.044499999999999984,0.2667,0.2222
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Rebuild our cities,0.044399999999999995,0.6,0.5556
 2024-06-27 16:57:57.089323,Presidential Debates - CNN Debate June 27th: Who is asked the first debate question? - Who is asked the first debate question,Donald Trump,0.043399999999999994,0.3333,0.2899
+2024-06-28 00:58:26.931919,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Hull / Hall,0.04329999999999999,0.0909,0.0476
 2024-06-27 14:57:44.138073,Presidential Debates - CNN Debate June 27th: Donald Trump Primary Colour of Tie - Donald Trump Colour of Tie,Blue\Navy,0.042899999999999994,0.1429,0.1
 2024-06-27 20:57:49.433949,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Kamala Harris,0.04229999999999999,0.0667,0.0244
+2024-06-28 00:58:16.434140,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - England Premier League,Cody Gakpo,0.04099999999999998,0.3077,0.2667
 2024-06-27 16:57:56.595685,Olympics 3x3 Basketball - Men - Paris 2024 - Men's 3x3 Basketball - Gold Medal Winner,France 3x3,0.04040000000000002,0.2222,0.1818
+2024-06-28 00:58:16.630706,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Chile,0.04040000000000002,0.2222,0.1818
 2024-06-27 22:58:14.106976,WNBA Awards - WNBA Regular Season MVP 2024 - WNBA Regular Season MVP 2024,A'ja Wilson (LVA),0.04039999999999999,0.8182,0.7778
-2024-06-27 12:57:56.535466,Draft Position - Player Draft Position - Tyler Smith,Over 34.5 Draft Position,0.03980000000000006,0.6552,0.6154
 2024-06-27 14:57:44.149151,Presidential Debates - CNN Debate June 27th: First Debate Topic - First Debate Topic,Supreme Court,0.03889999999999999,0.1818,0.1429
 2024-06-27 16:57:57.145389,Presidential Debates - CNN Debate June 27th: To Be Said By Joe Biden During The Debate - Biden Buzzwords,Obama,0.03709999999999991,0.6667,0.6296
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Seal the border,0.03600000000000003,0.5238,0.4878
+2024-06-28 00:58:26.931919,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Wannasaen / Boonchant,0.035300000000000005,0.0476,0.0123
+2024-06-28 00:58:16.012032,Copa America Team Specials - Copa America 2024 - Uruguay Team Specials - Top Uruguay Goalscorer,Darwin Nunez,0.0353,0.8,0.7647
 2024-06-27 16:57:57.057039,Presidential Debates - CNN Debate June 27th: First Mentioned State - First Mentioned State,Pennsylvania,0.0343,0.1176,0.0833
-2024-06-27 20:57:48.566871,Julian Assange - Who will interview Julian Assange first? - Assange's First Interview,Piers Morgan,0.03420000000000001,0.1111,0.0769
 2024-06-27 20:57:48.589703,Gran Hermano - Gran Hermano 2024 - Outright Winner,Nicolas,0.03420000000000001,0.1111,0.0769
+2024-06-27 20:57:48.566871,Julian Assange - Who will interview Julian Assange first? - Assange's First Interview,Piers Morgan,0.03420000000000001,0.1111,0.0769
+2024-06-28 00:58:16.630706,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Canada,0.033300000000000024,0.2,0.1667
 2024-06-27 20:57:48.578486,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,Donald Trump,0.033300000000000024,0.2,0.1667
 2024-06-27 20:57:48.578486,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,AI/Artificial Intelligence,0.033300000000000024,0.2,0.1667
+2024-06-28 00:58:26.931919,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Henderson / Thompson,0.03330000000000001,0.1,0.0667
 2024-06-27 18:58:02.301429,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Gavin Newsom,0.033299999999999996,0.1333,0.1
 2024-06-27 16:57:57.145389,Presidential Debates - CNN Debate June 27th: To Be Said By Joe Biden During The Debate - Biden Buzzwords,He's lying,0.03259999999999996,0.6552,0.6226
 2024-06-27 16:57:57.145389,Presidential Debates - CNN Debate June 27th: To Be Said By Joe Biden During The Debate - Biden Buzzwords,Moral obligation,0.03210000000000002,0.4167,0.3846
 2024-06-27 20:57:48.589703,Gran Hermano - Gran Hermano 2024 - Outright Winner,Bautista,0.03179999999999994,0.5556,0.5238
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Sebastian Friedrichsen,0.030500000000000003,0.0345,0.004
-2024-06-27 11:01:09.684178,Draft Picks - Draft Picks - Which Team will Select Bronny James,San Antonio Spurs,0.029700000000000004,0.0476,0.0179
 2024-06-27 20:57:57.130116,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3-Balls - N. Lashley / K. Tway / J. Dufner - 2nd Round 3-Balls,Kevin Tway,0.029600000000000015,0.4,0.3704
-2024-06-27 11:01:07.816315,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"Spain Winner, England Runner Up",0.029299999999999993,0.0769,0.0476
-2024-06-27 11:01:07.771669,UEFA Euro 2024 Futures - Euro 2024 Futures - Name The Finalists,Germany & Netherlands to meet in the Final,0.029299999999999993,0.0769,0.0476
+2024-06-28 00:58:16.582661,Copa America Futures - Copa América 2024 - Top Goalscorer,Facundo Pellistri,0.0294,0.0588,0.0294
 2024-06-27 16:57:56.005906,Julian Assange - Who will interview Julian Assange first? - Assange's First Interview,Piers Morgan,0.029299999999999993,0.0769,0.0476
-2024-06-27 12:57:56.278552,NBA Specials - Where will Paul George Play Game 1 of the 2024/2025 NBA Season - Proposition,Golden State Warriors,0.028700000000000003,0.2105,0.1818
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Ugo Coussaud,0.0286,0.0385,0.0099
-2024-06-27 12:57:56.400441,Draft Picks - Draft Picks - Which Team will Select Bronny James,Boston Celtics,0.028199999999999996,0.0667,0.0385
-2024-06-27 11:01:07.771669,UEFA Euro 2024 Futures - Euro 2024 Futures - Name The Finalists,Netherlands & Spain to meet in the Final,0.028199999999999996,0.0667,0.0385
+2024-06-28 00:58:26.931919,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,AL Kim / Noh,0.028000000000000004,0.0476,0.0196
 2024-06-27 18:58:02.279883,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,JD Vance,0.027999999999999997,0.1818,0.1538
 2024-06-27 16:57:56.498584,Euroleague - Euroleague 2024/25 - Outright,Panathinaikos,0.02779999999999999,0.25,0.2222
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Most corrupt election in American history,0.02779999999999999,0.25,0.2222
-2024-06-27 12:58:03.279449,NCAA Regular Season Wins - ACC Regular Season Wins - California,Under 6.5 Wins,0.02750000000000008,0.6429,0.6154
+2024-06-28 00:58:26.521243,Round Match-Ups - 2nd Round Match-Ups - E. Cole vs J. Lower - 2nd Round Match-Ups,Eric Cole,0.027700000000000058,0.5833,0.5556
+2024-06-28 00:58:16.012032,Copa America Team Specials - Copa America 2024 - Uruguay Team Specials - Top Uruguay Goalscorer,Rodrigo Bentancur,0.027700000000000002,0.04,0.0123
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Gunner Wiebe,0.026799999999999997,0.0278,0.001
-2024-06-27 12:57:56.387798,To Be Drafted First - Player to be Drafted First - H2H - Johnny Furphy vs Tyler Kolek (Marquette),Tyler Kolek (Marquette),0.026500000000000024,0.3774,0.3509
-2024-06-27 12:57:56.810482,Presidential Debates - CNN Debate June 27th: Debate Winner According To CNN Poll - CNN June Debate Winner,Donald Trump,0.026500000000000024,0.3774,0.3509
+2024-06-28 00:58:26.633376,Round Match-Ups - 2nd Round Match-Ups - L. List vs R. MacIntyre - 2nd Round Match-Ups,Robert MacIntyre,0.026499999999999968,0.5917,0.5652
 2024-06-27 16:57:56.595685,Olympics 3x3 Basketball - Men - Paris 2024 - Men's 3x3 Basketball - Gold Medal Winner,Netherlands 3x3,0.025300000000000003,0.1429,0.1176
 2024-06-27 16:57:56.583797,Olympics 3x3 Basketball - Women - Paris 2024 - Women's 3x3 Basketball - Gold Medal Winner,Spain 3x3 Women,0.0242,0.0909,0.0667
 2024-06-27 16:57:57.067872,Presidential Debates - CNN Debate June 27th: Specials - Specials,Biden to fall asleep at the podium,0.024,0.0625,0.0385
+2024-06-28 00:58:26.583865,Round Match-Ups - 2nd Round Match-Ups - W. Zalatoris vs R. Fowler - 2nd Round Match-Ups,Rickie Fowler,0.023800000000000043,0.5238,0.5
+2024-06-28 00:58:26.608990,Round Match-Ups - 2nd Round Match-Ups - T. Moore vs A. Svensson - 2nd Round Match-Ups,Adam Svensson,0.023800000000000043,0.5238,0.5
 2024-06-27 18:58:02.334779,Presidential Debates - CNN Debate June 27th: Will Biden stumble during debate? - Biden Stumbles During Debate,Yes,0.023800000000000016,0.1905,0.1667
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Get them out,0.023799999999999988,0.1667,0.1429
 2024-06-27 14:57:44.237358,Presidential Debates - CNN Debate June 27th: Will Biden stumble during debate? - Biden Stumbles During Debate,Yes,0.023799999999999988,0.1667,0.1429
-2024-06-27 11:01:09.684178,Draft Picks - Draft Picks - Which Team will Select Bronny James,Boston Celtics,0.0233,0.0385,0.0152
 2024-06-27 18:58:02.256717,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Gavin Newsom,0.023299999999999994,0.0556,0.0323
-2024-06-27 11:01:07.861754,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and UEFA Player of the Tournament Parlay,Portugal/Bruno Fernandes,0.023200000000000002,0.0476,0.0244
 2024-06-27 20:57:49.389284,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Kamala Harris,0.023200000000000002,0.0476,0.0244
-2024-06-27 12:57:56.887419,Presidential Debates - CNN Debate June 27th: Who is asked the first debate question? - Who is asked the first debate question,Donald Trump,0.0232,0.2899,0.2667
+2024-06-28 00:58:26.658027,Round Match-Ups - 2nd Round Match-Ups - C. Young vs T. Kim - 2nd Round Match-Ups,Tom Kim,0.022600000000000064,0.5348,0.5122
+2024-06-28 00:58:26.233130,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3-Balls - G. Higgo / K. Kraft / C. Yuan - 2nd Round 3-Balls,Carl Yuan,0.02260000000000001,0.4,0.3774
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Aaron Cockerill,0.022400000000000003,0.0323,0.0099
 2024-06-27 14:57:44.078644,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,JD Vance,0.022199999999999998,0.2222,0.2
 2024-06-27 16:57:57.156265,Presidential Debates - CNN Debate June 27th: Debate Winner According To CNN Poll - CNN June Debate Winner,Joe Biden,0.02200000000000002,0.7143,0.6923
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Francesco Laporta,0.021199999999999997,0.0278,0.0066
 2024-06-27 16:57:57.009583,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Will Doug Burgum be the Republican Vice-Presidential candidate?,No,0.02080000000000004,0.6875,0.6667
 2024-06-27 16:57:56.529704,"Olympics Basketball - Men - Qualification - Paris 2024 - Men's Basketball Qualification (Piraeus, Greece) - Outright",Slovenia,0.020799999999999985,0.3333,0.3125
-2024-06-27 12:58:04.522998,Boxing Lines - Lamont Roach vs Feargal McCrory - To Win the Bout,Feargal McCrory,0.02049999999999999,0.1538,0.1333
 2024-06-27 20:57:49.367910,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Michelle Obama,0.0203,0.0588,0.0385
 2024-06-27 16:57:56.595685,Olympics 3x3 Basketball - Men - Paris 2024 - Men's 3x3 Basketball - Gold Medal Winner,Lithuania 3x3,0.02020000000000001,0.1111,0.0909
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Make America great again,0.020199999999999996,0.9091,0.8889
+2024-06-28 00:58:26.931919,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Hsu / Cheng,0.019899999999999998,0.0278,0.0079
+2024-06-28 00:58:26.931919,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Chang / Park,0.019899999999999998,0.0278,0.0079
 2024-06-27 14:57:50.691542,NCAA Regular Season Wins - ACC Regular Season Wins - Virginia Tech,Over 8 Wins,0.01970000000000005,0.5652,0.5455
+2024-06-28 00:58:26.533968,Round Match-Ups - 2nd Round Match-Ups - A. Bhatia vs M.W. Lee - 2nd Round Match-Ups,Akshay Bhatia,0.01970000000000005,0.5652,0.5455
 2024-06-27 20:57:57.105669,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3-Balls - T. Duncan / R. Moore / B. Wu - 2nd Round 3-Balls,Tyler Duncan,0.019500000000000017,0.3704,0.3509
-2024-06-27 11:01:07.816315,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"Spain Winner, Netherlands Runner Up",0.019099999999999995,0.0435,0.0244
-2024-06-27 11:01:07.816315,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"England Winner, Spain Runner Up",0.019099999999999992,0.0667,0.0476
-2024-06-27 11:01:07.861754,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and UEFA Player of the Tournament Parlay,England/Kylian Mbappe,0.019099999999999992,0.0667,0.0476
-2024-06-27 11:01:10.054693,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tulsi Gabbard,0.0189,0.0385,0.0196
+2024-06-28 00:58:16.622454,Copa America Futures - Copa América 2024 - To Reach Final,Panama,0.019499999999999997,0.0294,0.0099
 2024-06-27 16:57:57.078454,Presidential Debates - CNN Debate June 27th: Trump and Biden to shake hands at first debate - Trump and Biden to shake hands,No,0.018399999999999972,0.7059,0.6875
 2024-06-27 14:57:44.149151,Presidential Debates - CNN Debate June 27th: First Debate Topic - First Debate Topic,Immigration,0.01820000000000002,0.2,0.1818
 2024-06-27 22:58:22.348456,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3-Balls - A. Bhatia / S. Jaeger / M.W. Lee - 2nd Round 3-Balls,Akshay Bhatia,0.018100000000000005,0.4348,0.4167
-2024-06-27 14:57:44.078644,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Marco Rubio,0.018099999999999998,0.0769,0.0588
 2024-06-27 16:57:57.000385,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Glenn Youngkin,0.018099999999999998,0.0769,0.0588
+2024-06-27 14:57:44.078644,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Marco Rubio,0.018099999999999998,0.0769,0.0588
 2024-06-27 16:57:57.057039,Presidential Debates - CNN Debate June 27th: First Mentioned State - First Mentioned State,Michigan,0.018099999999999998,0.0769,0.0588
-2024-06-27 12:57:56.920416,Presidential Debates - CNN Debate June 27th: Will Biden stumble during debate? - Biden Stumbles During Debate,Yes,0.0179,0.1429,0.125
+2024-06-28 00:58:16.622454,Copa America Futures - Copa América 2024 - To Reach Final,Canada,0.018099999999999998,0.0769,0.0588
 2024-06-27 16:57:56.517722,Olympics Basketball - Men - Paris 2024 - Men's Basketball - Leading USA Points Scorer,LeBron  James,0.0179,0.1429,0.125
 2024-06-27 16:57:56.595685,Olympics 3x3 Basketball - Men - Paris 2024 - Men's 3x3 Basketball - Gold Medal Winner,USA 3x3,0.017600000000000005,0.3509,0.3333
 2024-06-27 22:58:14.469417,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.017299999999999982,0.5917,0.5744
 2024-06-27 22:58:14.480548,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,Joe Biden,0.017299999999999982,0.5917,0.5744
+2024-06-28 00:58:16.582661,Copa America Futures - Copa América 2024 - Top Goalscorer,Federico Valverde,0.017099999999999997,0.0294,0.0123
 2024-06-27 16:57:57.057039,Presidential Debates - CNN Debate June 27th: First Mentioned State - First Mentioned State,North Carolina,0.016700000000000007,0.1,0.0833
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Adri Arnaus,0.0167,0.0217,0.005
 2024-06-27 20:57:57.044737,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3-Balls - A. Bhatia / S. Jaeger / M.W. Lee - 2nd Round 3-Balls,Akshay Bhatia,0.016699999999999993,0.4167,0.4
 2024-06-27 20:57:57.081432,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3-Balls - M. Laird / L. Griffin / D. Ghim - 2nd Round 3-Balls,Doug Ghim,0.016699999999999993,0.4167,0.4
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Angel Ayora,0.0165,0.0244,0.0079
-2024-06-27 12:57:56.400441,Draft Picks - Draft Picks - Which Team will Select Bronny James,Cleveland Cavaliers,0.0159,0.0323,0.0164
-2024-06-27 11:01:07.771669,UEFA Euro 2024 Futures - Euro 2024 Futures - Name The Finalists,Belgium & England to meet in the Final,0.0157,0.0435,0.0278
-2024-06-27 11:01:17.965687,Boxing Lines - James Mcgivern vs Rashid Omar - To Win the Bout,Rashid Omar,0.015400000000000025,0.2564,0.241
-2024-06-27 20:57:57.093559,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3-Balls - A. Baddeley / S. Ryder / M. Greyserman - 2nd Round 3-Balls,Max Greyserman,0.015400000000000025,0.4,0.3846
 2024-06-27 20:57:57.167223,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3-Balls - L. List / C. Ramey / A. Schenk - 2nd Round 3-Balls,Adam Schenk,0.015400000000000025,0.4,0.3846
+2024-06-28 00:58:26.420083,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3-Balls - J. Dahmen / A. Noren / A. Rai - 2nd Round 3-Balls,Alex Noren,0.015400000000000025,0.4,0.3846
 2024-06-27 20:57:57.203921,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3-Balls - R. MacIntyre / T. Kim / C. Young - 2nd Round 3-Balls,Tom Kim,0.015400000000000025,0.4,0.3846
+2024-06-27 20:57:57.093559,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3-Balls - A. Baddeley / S. Ryder / M. Greyserman - 2nd Round 3-Balls,Max Greyserman,0.015400000000000025,0.4,0.3846
 2024-06-27 18:58:02.256717,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,0.0145,0.0244,0.0099
 2024-06-27 18:58:02.301429,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Michelle Obama,0.01440000000000001,0.1053,0.0909
-2024-06-27 12:57:56.876550,Presidential Debates - CNN Debate June 27th: Trump and Biden to shake hands at first debate - Trump and Biden to shake hands,No,0.014200000000000101,0.6296,0.6154
-2024-06-27 11:01:07.771669,UEFA Euro 2024 Futures - Euro 2024 Futures - Name The Finalists,Netherlands & Portugal to meet in the Final,0.014100000000000001,0.0526,0.0385
+2024-06-28 00:58:26.931919,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Ryu / Lee,0.014100000000000001,0.0526,0.0385
 2024-06-27 20:57:49.367910,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,0.014099999999999998,0.0385,0.0244
 2024-06-27 20:57:49.412469,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Glenn Youngkin,0.013999999999999999,0.0909,0.0769
+2024-06-28 00:58:16.622454,Copa America Futures - Copa América 2024 - To Reach Final,Venezuela,0.013999999999999999,0.0909,0.0769
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,"Drill, drill, drill",0.013899999999999996,0.125,0.1111
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,We're going to have the biggest deportation in history,0.0131,0.2353,0.2222
-2024-06-27 11:01:07.816315,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"England Winner, Belgium Runner Up",0.013,0.0196,0.0066
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Daniel Brown,0.013,0.0196,0.0066
+2024-06-28 00:58:18.250114,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,0.011700000000000016,0.2222,0.2105
 2024-06-27 20:57:49.367910,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Hillary Clinton,0.011200000000000002,0.0244,0.0132
 2024-06-27 20:57:48.589703,Gran Hermano - Gran Hermano 2024 - Outright Winner,Dario,0.011199999999999995,0.0588,0.0476
-2024-06-27 11:01:07.771669,UEFA Euro 2024 Futures - Euro 2024 Futures - Name The Finalists,France & Netherlands to meet in the Final,0.011199999999999995,0.0588,0.0476
 2024-06-27 18:58:09.367891,Boxing Lines - Darius Fulghum vs Vaughn Alexander - To Win the Bout,Vaughn Alexander,0.011099999999999999,0.1111,0.1
 2024-06-27 20:57:56.761620,Boxing Lines - Nico Ali Walsh vs Sona Akale - To Win the Bout,Nico Ali Walsh,0.011099999999999999,0.7333,0.7222
-2024-06-27 20:57:49.367910,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.010700000000000043,0.6774,0.6667
 2024-06-27 20:57:49.378833,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican,0.010700000000000043,0.6774,0.6667
+2024-06-27 20:57:49.367910,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.010700000000000043,0.6774,0.6667
 2024-06-27 14:57:50.606325,NCAA Regular Season Wins - ACC Regular Season Wins - Louisville,Under 8.5 Wins,0.010699999999999932,0.5455,0.5348
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Joel Girrbach,0.0102,0.0152,0.005
-2024-06-27 11:01:07.756709,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Ngolo Kante,0.0102,0.0769,0.0667
-2024-06-27 11:01:07.816315,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"Portugal Winner, Netherlands Runner Up",0.010100000000000001,0.0345,0.0244
-2024-06-27 12:57:54.576011,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"France Winner, Austria Runner Up",0.010100000000000001,0.0345,0.0244
-2024-06-27 12:57:56.449638,Draft Picks - Draft Picks - #10 - #35 - 32nd Overall Pick,Jonathan Mogbo,-0.0102,0.0667,0.0769
-2024-06-27 12:57:56.278552,NBA Specials - Where will Paul George Play Game 1 of the 2024/2025 NBA Season - Proposition,Houston Rockets,-0.0102,0.0667,0.0769
+2024-06-28 00:58:26.931919,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Koerstz Madsen / Broch Estrup,0.010100000000000001,0.0345,0.0244
+2024-06-28 00:58:16.614737,Copa America Futures - Copa América 2024 - Group of Winning Team,Group B,-0.010099999999999998,0.0952,0.1053
 2024-06-27 22:58:14.106976,WNBA Awards - WNBA Regular Season MVP 2024 - WNBA Regular Season MVP 2024,Alyssa Thomas (CON),-0.0102,0.0667,0.0769
 2024-06-27 22:58:14.106976,WNBA Awards - WNBA Regular Season MVP 2024 - WNBA Regular Season MVP 2024,Napheesa Collier (MIN),-0.0102,0.0667,0.0769
-2024-06-27 11:01:07.756709,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Ferran Torres,-0.0102,0.005,0.0152
-2024-06-27 12:57:56.449638,Draft Picks - Draft Picks - #10 - #35 - 32nd Overall Pick,Bronny James,-0.0102,0.0667,0.0769
-2024-06-27 11:01:07.861754,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and UEFA Player of the Tournament Parlay,England/Jude Bellingham,-0.0102,0.0667,0.0769
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Alejandro Del Rey,-0.0103,0.002,0.0123
 2024-06-27 18:58:09.706244,Boxing Lines - Yamileth Mercado vs Ramla Ali - To Win the Bout,Ramla Ali,-0.010699999999999987,0.3226,0.3333
-2024-06-27 18:58:02.279883,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Vivek Ramaswamy,-0.010899999999999993,0.1429,0.1538
+2024-06-28 00:58:16.606339,Copa America Futures - Copa América 2024 - Straight Forecast,"USA 1st, Argentina 2nd",-0.010700000000000001,0.0278,0.0385
+2024-06-28 00:58:25.506704,Boxing Lines - Pierce O'Leary vs Darragh Foley - To Win the Bout,Darragh Foley,-0.010899999999999993,0.1429,0.1538
 2024-06-27 20:57:56.773686,Boxing Lines - Rohan Polanco vs Luis Hernandez Ramos - To Win the Bout,Luis Hernandez Ramos,-0.010899999999999993,0.1429,0.1538
+2024-06-27 18:58:02.279883,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Vivek Ramaswamy,-0.010899999999999993,0.1429,0.1538
 2024-06-27 14:57:50.606325,NCAA Regular Season Wins - ACC Regular Season Wins - Louisville,Over 8.5 Wins,-0.01100000000000001,0.5238,0.5348
 2024-06-27 16:58:04.320608,Boxing Lines - Darius Fulghum vs Vaughn Alexander - To Win the Bout,Vaughn Alexander,-0.011099999999999999,0.1,0.1111
-2024-06-27 11:01:07.771669,UEFA Euro 2024 Futures - Euro 2024 Futures - Name The Finalists,France & Italy to meet in the Final,-0.011199999999999995,0.0476,0.0588
-2024-06-27 11:01:09.684178,Draft Picks - Draft Picks - Which Team will Select Bronny James,Utah Jazz,-0.011199999999999995,0.0323,0.0435
-2024-06-27 11:01:07.756709,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Florian Wirtz,-0.011199999999999995,0.0476,0.0588
-2024-06-27 20:57:57.093559,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3-Balls - A. Baddeley / S. Ryder / M. Greyserman - 2nd Round 3-Balls,Sam Ryder,-0.01150000000000001,0.3333,0.3448
+2024-06-28 00:58:16.434140,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - England Premier League,Kevin De Bruyne,-0.011099999999999999,0.1,0.1111
 2024-06-27 20:57:56.761620,Boxing Lines - Nico Ali Walsh vs Sona Akale - To Win the Bout,Sona Akale,-0.01150000000000001,0.3333,0.3448
 2024-06-27 20:57:57.167223,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3-Balls - L. List / C. Ramey / A. Schenk - 2nd Round 3-Balls,Chad Ramey,-0.01150000000000001,0.3333,0.3448
-2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Yuto Katsuragawa,-0.0116,0.0036,0.0152
+2024-06-27 20:57:57.093559,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3-Balls - A. Baddeley / S. Ryder / M. Greyserman - 2nd Round 3-Balls,Sam Ryder,-0.01150000000000001,0.3333,0.3448
 2024-06-27 22:58:14.480548,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,The Field,-0.0116,0.4762,0.4878
+2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Yuto Katsuragawa,-0.0116,0.0036,0.0152
+2024-06-28 00:58:26.931919,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Yang / Song,-0.0116,0.0036,0.0152
+2024-06-28 00:58:26.420083,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3-Balls - J. Dahmen / A. Noren / A. Rai - 2nd Round 3-Balls,Joel Dahmen,-0.011699999999999988,0.274,0.2857
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Connor Syme,-0.011699999999999999,0.0079,0.0196
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Sam Bairstow,-0.0118,0.0099,0.0217
-2024-06-27 20:57:57.081432,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3-Balls - M. Laird / L. Griffin / D. Ghim - 2nd Round 3-Balls,Martin Laird,-0.011899999999999966,0.339,0.3509
 2024-06-27 20:57:57.081432,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3-Balls - M. Laird / L. Griffin / D. Ghim - 2nd Round 3-Balls,Lanto Griffin,-0.011899999999999966,0.339,0.3509
+2024-06-27 20:57:57.081432,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3-Balls - M. Laird / L. Griffin / D. Ghim - 2nd Round 3-Balls,Martin Laird,-0.011899999999999966,0.339,0.3509
+2024-06-28 00:58:26.931919,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Inami / Yoshida,-0.0119,0.0033,0.0152
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Niklas Norgaard,-0.012100000000000001,0.0123,0.0244
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Terminal decline,-0.012199999999999989,0.5,0.5122
-2024-06-27 11:01:07.756709,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Kai Havertz,-0.012599999999999998,0.0152,0.0278
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Danny Willett,-0.0127,0.0025,0.0152
-2024-06-27 20:57:49.378833,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Any Other,-0.012700000000000003,0.0196,0.0323
-2024-06-27 20:57:49.367910,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,"Robert Kennedy, Jr",-0.012700000000000003,0.0196,0.0323
 2024-06-27 20:57:48.566871,Julian Assange - Who will interview Julian Assange first? - Assange's First Interview,Jane Doyle,-0.012700000000000003,0.0196,0.0323
-2024-06-27 11:01:09.684178,Draft Picks - Draft Picks - Which Team will Select Bronny James,Golden State Warriors,-0.012700000000000003,0.0196,0.0323
 2024-06-27 16:57:56.005906,Julian Assange - Who will interview Julian Assange first? - Assange's First Interview,Trevor  McDonald,-0.012700000000000003,0.0196,0.0323
-2024-06-27 12:57:56.449638,Draft Picks - Draft Picks - #10 - #35 - 32nd Overall Pick,Tyler Kolek (Marquette),-0.012899999999999995,0.1538,0.1667
-2024-06-27 11:01:17.965687,Boxing Lines - James Mcgivern vs Rashid Omar - To Win the Bout,James Mcgivern,-0.0129999999999999,0.8131,0.8261
-2024-06-27 11:01:09.684178,Draft Picks - Draft Picks - Which Team will Select Bronny James,Cleveland Cavaliers,-0.012999999999999998,0.0164,0.0294
-2024-06-27 11:01:07.756709,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Kevin de Bruyne,-0.0131,0.0345,0.0476
+2024-06-27 20:57:49.367910,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,"Robert Kennedy, Jr",-0.012700000000000003,0.0196,0.0323
+2024-06-27 20:57:49.378833,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Any Other,-0.012700000000000003,0.0196,0.0323
 2024-06-27 16:57:55.174619,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and Top Goalscorer Parlay,Germany/Jamal Musiala,-0.0131,0.0345,0.0476
-2024-06-27 20:57:57.044737,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3-Balls - A. Bhatia / S. Jaeger / M.W. Lee - 2nd Round 3-Balls,Min Woo Lee,-0.013800000000000034,0.3636,0.3774
 2024-06-27 16:57:57.078454,Presidential Debates - CNN Debate June 27th: Trump and Biden to shake hands at first debate - Trump and Biden to shake hands,Yes,-0.013800000000000034,0.3636,0.3774
-2024-06-27 11:01:07.756709,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Jamal Musiala,-0.013899999999999996,0.1111,0.125
-2024-06-27 11:01:09.684178,Draft Picks - Draft Picks - Which Team will Select Bronny James,Phoenix Suns,-0.013899999999999996,0.1111,0.125
+2024-06-27 20:57:57.044737,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3-Balls - A. Bhatia / S. Jaeger / M.W. Lee - 2nd Round 3-Balls,Min Woo Lee,-0.013800000000000034,0.3636,0.3774
 2024-06-27 14:57:44.138073,Presidential Debates - CNN Debate June 27th: Donald Trump Primary Colour of Tie - Donald Trump Colour of Tie,Silver\Grey,-0.013899999999999996,0.1111,0.125
-2024-06-27 16:57:56.005906,Julian Assange - Who will interview Julian Assange first? - Assange's First Interview,Katie Couric,-0.013999999999999999,0.0769,0.0909
 2024-06-27 16:57:56.005906,Julian Assange - Who will interview Julian Assange first? - Assange's First Interview,Anderson Cooper,-0.013999999999999999,0.0769,0.0909
-2024-06-27 12:58:04.522998,Boxing Lines - Lamont Roach vs Feargal McCrory - To Win the Bout,Lamont Roach,-0.014000000000000012,0.9091,0.9231
-2024-06-27 11:01:07.861754,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and UEFA Player of the Tournament Parlay,France/Harry Kane,-0.014099999999999998,0.0294,0.0435
+2024-06-27 16:57:56.005906,Julian Assange - Who will interview Julian Assange first? - Assange's First Interview,Katie Couric,-0.013999999999999999,0.0769,0.0909
 2024-06-27 16:57:55.174619,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and Top Goalscorer Parlay,Portugal/Cristiano Ronaldo,-0.014099999999999998,0.0244,0.0385
 2024-06-27 16:57:57.000385,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tulsi Gabbard,-0.014099999999999998,0.0244,0.0385
-2024-06-27 11:01:09.684178,Draft Picks - Draft Picks - Which Team will Select Bronny James,Philadelphia 76ers,-0.014099999999999998,0.0244,0.0385
-2024-06-27 11:01:07.771669,UEFA Euro 2024 Futures - Euro 2024 Futures - Name The Finalists,Italy & Portugal to meet in the Final,-0.014100000000000001,0.0385,0.0526
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Rafael Cabrera Bello,-0.0142,0.001,0.0152
-2024-06-27 11:01:07.861754,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and UEFA Player of the Tournament Parlay,Germany/Kai Havertz,-0.0145,0.0099,0.0244
+2024-06-28 00:58:26.931919,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,D Kang / Ko,-0.0145,0.0099,0.0244
+2024-06-28 00:58:16.012032,Copa America Team Specials - Copa America 2024 - Uruguay Team Specials - Top Uruguay Goalscorer,Roland Araujo,-0.014599999999999998,0.005,0.0196
+2024-06-28 00:58:16.630706,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Ecuador,-0.01469999999999999,0.2353,0.25
 2024-06-27 16:57:56.005906,Julian Assange - Who will interview Julian Assange first? - Assange's First Interview,Lee Lin Chin,-0.014899999999999997,0.0476,0.0625
-2024-06-27 16:57:56.005906,Julian Assange - Who will interview Julian Assange first? - Assange's First Interview,Anton Enus,-0.014899999999999997,0.0476,0.0625
 2024-06-27 16:57:56.005906,Julian Assange - Who will interview Julian Assange first? - Assange's First Interview,David Koch,-0.014899999999999997,0.0476,0.0625
-2024-06-27 12:57:56.449638,Draft Picks - Draft Picks - #10 - #35 - 32nd Overall Pick,Tyler Smith,-0.015100000000000002,0.1667,0.1818
+2024-06-27 16:57:56.005906,Julian Assange - Who will interview Julian Assange first? - Assange's First Interview,Anton Enus,-0.014899999999999997,0.0476,0.0625
 2024-06-27 20:57:48.566871,Julian Assange - Who will interview Julian Assange first? - Assange's First Interview,Lee Lin Chin,-0.015300000000000001,0.0323,0.0476
-2024-06-27 16:57:57.145389,Presidential Debates - CNN Debate June 27th: To Be Said By Joe Biden During The Debate - Biden Buzzwords,"Shut up, man!",-0.015400000000000025,0.3846,0.4
 2024-06-27 14:57:44.078644,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Doug Burgum,-0.015400000000000025,0.3846,0.4
-2024-06-27 11:01:07.764303,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Young Player of The Tournament,Joao Neves,-0.015499999999999998,0.0123,0.0278
-2024-06-27 16:57:55.174619,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and Top Goalscorer Parlay,France/Harry Kane,-0.0168,0.0217,0.0385
+2024-06-27 16:57:57.145389,Presidential Debates - CNN Debate June 27th: To Be Said By Joe Biden During The Debate - Biden Buzzwords,"Shut up, man!",-0.015400000000000025,0.3846,0.4
+2024-06-28 00:58:26.931919,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,S. Lewis / Fassi,-0.0156,0.004,0.0196
+2024-06-28 00:58:26.931919,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Henseleit / Ruffels,-0.0157,0.0278,0.0435
+2024-06-28 00:58:26.931919,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Lopez / Pedersen,-0.0167,0.005,0.0217
 2024-06-27 16:57:55.174619,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and Top Goalscorer Parlay,Germany/Harry Kane,-0.0168,0.0217,0.0385
 2024-06-27 16:57:55.174619,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and Top Goalscorer Parlay,Spain/Harry Kane,-0.0168,0.0217,0.0385
+2024-06-28 00:58:26.931919,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Schmelzel / Valenzuela,-0.0168,0.0217,0.0385
+2024-06-27 16:57:55.174619,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and Top Goalscorer Parlay,France/Harry Kane,-0.0168,0.0217,0.0385
+2024-06-28 00:58:18.074889,Olympics 3x3 Basketball - Men - Paris 2024 - Men's 3x3 Basketball - Gold Medal Winner,USA 3x3,-0.017600000000000005,0.3333,0.3509
+2024-06-28 00:58:26.931919,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Anannarukarn / Ashok,-0.017800000000000003,0.0066,0.0244
+2024-06-28 00:58:26.931919,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Katsu / Shibuno,-0.0179,0.0099,0.0278
 2024-06-27 14:57:44.138073,Presidential Debates - CNN Debate June 27th: Donald Trump Primary Colour of Tie - Donald Trump Colour of Tie,Gold\Yellow,-0.018099999999999998,0.0588,0.0769
 2024-06-27 20:57:48.566871,Julian Assange - Who will interview Julian Assange first? - Assange's First Interview,Katie Couric,-0.018099999999999998,0.0588,0.0769
-2024-06-27 11:01:07.816315,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"Germany Winner, England Runner Up",-0.018099999999999998,0.0588,0.0769
-2024-06-27 12:57:56.920416,Presidential Debates - CNN Debate June 27th: Will Biden stumble during debate? - Biden Stumbles During Debate,No,-0.018100000000000005,0.9231,0.9412
 2024-06-27 18:58:02.279883,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Ben Carson,-0.01820000000000002,0.1818,0.2
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Yannik Paul,-0.0187,0.0057,0.0244
-2024-06-27 12:57:56.876550,Presidential Debates - CNN Debate June 27th: Trump and Biden to shake hands at first debate - Trump and Biden to shake hands,Yes,-0.019699999999999995,0.4348,0.4545
+2024-06-28 00:58:16.630706,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Uruguay,-0.01880000000000004,0.5556,0.5744
+2024-06-28 00:58:26.931919,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Zhang / Pano,-0.019800000000000005,0.0278,0.0476
+2024-06-28 00:58:26.931919,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Saigo / Sung,-0.019800000000000005,0.0278,0.0476
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Alex Fitzpatrick,-0.019899999999999998,0.0079,0.0278
-2024-06-27 11:01:10.054693,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Ben Carson,-0.02020000000000001,0.0909,0.1111
-2024-06-27 12:57:56.400441,Draft Picks - Draft Picks - Which Team will Select Bronny James,Phoenix Suns,-0.02020000000000001,0.0909,0.1111
-2024-06-27 12:57:56.400441,Draft Picks - Draft Picks - Which Team will Select Bronny James,Dallas Mavericks,-0.02020000000000001,0.0909,0.1111
 2024-06-27 20:57:48.566871,Julian Assange - Who will interview Julian Assange first? - Assange's First Interview,Oprah Winfrey,-0.0203,0.0385,0.0588
-2024-06-27 12:57:56.810482,Presidential Debates - CNN Debate June 27th: Debate Winner According To CNN Poll - CNN June Debate Winner,Joe Biden,-0.02200000000000002,0.6923,0.7143
+2024-06-28 00:58:16.012032,Copa America Team Specials - Copa America 2024 - Uruguay Team Specials - Top Uruguay Goalscorer,Giorgian De Arrascaeta,-0.0204,0.0196,0.04
+2024-06-28 00:58:26.608990,Round Match-Ups - 2nd Round Match-Ups - T. Moore vs A. Svensson - 2nd Round Match-Ups,Taylor Moore,-0.02169999999999994,0.5238,0.5455
+2024-06-28 00:58:26.583865,Round Match-Ups - 2nd Round Match-Ups - W. Zalatoris vs R. Fowler - 2nd Round Match-Ups,Will Zalatoris,-0.02169999999999994,0.5238,0.5455
+2024-06-28 00:58:26.633376,Round Match-Ups - 2nd Round Match-Ups - L. List vs R. MacIntyre - 2nd Round Match-Ups,Luke List,-0.021699999999999997,0.4545,0.4762
 2024-06-27 22:58:14.402939,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.022199999999999998,0.6552,0.6774
-2024-06-27 12:57:56.887419,Presidential Debates - CNN Debate June 27th: Who is asked the first debate question? - Who is asked the first debate question,Joe Biden,-0.022199999999999998,0.7778,0.8
-2024-06-27 11:01:07.756709,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Player of The Tournament,Toni Kroos,-0.022199999999999998,0.1111,0.1333
-2024-06-27 11:01:07.861754,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and UEFA Player of the Tournament Parlay,England/Bukayo Saka,-0.022200000000000004,0.0123,0.0345
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Richard Mansell,-0.022400000000000003,0.0099,0.0323
 2024-06-27 16:57:57.009583,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Will Doug Burgum be the Republican Vice-Presidential candidate?,Yes,-0.02260000000000001,0.3774,0.4
+2024-06-28 00:58:26.658027,Round Match-Ups - 2nd Round Match-Ups - C. Young vs T. Kim - 2nd Round Match-Ups,Cameron Young,-0.022600000000000064,0.5122,0.5348
+2024-06-28 00:58:26.521243,Round Match-Ups - 2nd Round Match-Ups - E. Cole vs J. Lower - 2nd Round Match-Ups,Justin Lower,-0.022699999999999998,0.4651,0.4878
+2024-06-28 00:58:16.590557,Copa America Futures - Copa América 2024 - Name The Finalists,Argentina & USA,-0.02310000000000001,0.0769,0.1
 2024-06-27 14:57:44.237358,Presidential Debates - CNN Debate June 27th: Will Biden stumble during debate? - Biden Stumbles During Debate,No,-0.02310000000000001,0.9,0.9231
 2024-06-27 16:57:55.280734,Copa America Futures - Copa América 2024 - Winner,USA,-0.0232,0.0435,0.0667
 2024-06-27 20:57:48.566871,Julian Assange - Who will interview Julian Assange first? - Assange's First Interview,David Koch,-0.023200000000000002,0.0244,0.0476
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Ewen Ferguson,-0.023399999999999997,0.0044,0.0278
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Crazy Joe Biden,-0.023799999999999988,0.1429,0.1667
+2024-06-28 00:58:26.533968,Round Match-Ups - 2nd Round Match-Ups - A. Bhatia vs M.W. Lee - 2nd Round Match-Ups,Min Woo Lee,-0.023799999999999988,0.4762,0.5
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Dementia,-0.023800000000000016,0.1667,0.1905
-2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Indemnify all police officers,-0.023800000000000043,0.5,0.5238
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Keep men out of women's sports,-0.023800000000000043,0.5,0.5238
+2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Indemnify all police officers,-0.023800000000000043,0.5,0.5238
 2024-06-27 14:57:50.691542,NCAA Regular Season Wins - ACC Regular Season Wins - Virginia Tech,Under 8 Wins,-0.023800000000000043,0.5,0.5238
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Jordan Smith,-0.023899999999999998,0.0196,0.0435
 2024-06-27 16:57:55.174619,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and Top Goalscorer Parlay,France/Kylian Mbappe,-0.0242,0.0667,0.0909
@@ -272,74 +256,65 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-27 18:58:02.334779,Presidential Debates - CNN Debate June 27th: Will Biden stumble during debate? - Biden Stumbles During Debate,No,-0.025000000000000022,0.875,0.9
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Calum Hill,-0.025799999999999997,0.002,0.0278
 2024-06-27 16:57:57.156265,Presidential Debates - CNN Debate June 27th: Debate Winner According To CNN Poll - CNN June Debate Winner,Donald Trump,-0.026500000000000024,0.3509,0.3774
-2024-06-27 12:57:56.278552,NBA Specials - Where will Paul George Play Game 1 of the 2024/2025 NBA Season - Proposition,Oklahoma City Thunder,-0.0267,0.0909,0.1176
-2024-06-27 12:57:56.387798,To Be Drafted First - Player to be Drafted First - H2H - Johnny Furphy vs Tyler Kolek (Marquette),Johnny Furphy (Kansas),-0.026800000000000046,0.6875,0.7143
-2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Radical prosecutor/s,-0.027700000000000002,0.4167,0.4444
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Biden crime family,-0.027700000000000002,0.4167,0.4444
+2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Radical prosecutor/s,-0.027700000000000002,0.4167,0.4444
 2024-06-27 16:57:57.145389,Presidential Debates - CNN Debate June 27th: To Be Said By Joe Biden During The Debate - Biden Buzzwords,Green energy economy,-0.02779999999999999,0.2222,0.25
-2024-06-27 11:01:07.861754,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and UEFA Player of the Tournament Parlay,France/Kylian Mbappe,-0.027800000000000005,0.0833,0.1111
-2024-06-27 11:01:07.861754,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and UEFA Player of the Tournament Parlay,Germany/Harry Kane,-0.028199999999999996,0.0385,0.0667
-2024-06-27 12:58:03.279449,NCAA Regular Season Wins - ACC Regular Season Wins - California,Over 6.5 Wins,-0.029000000000000026,0.4255,0.4545
-2024-06-27 11:01:09.684178,Draft Picks - Draft Picks - Which Team will Select Bronny James,Toronto Raptors,-0.030199999999999998,0.0323,0.0625
+2024-06-28 00:58:16.434140,UEFA Euro 2024 Futures - Euro 2024 Futures - Top League Goalscorer - England Premier League,Bruno Fernandes,-0.028799999999999992,0.125,0.1538
+2024-06-28 00:58:16.630706,Copa America Futures - Copa América 2024 - To Reach the Semi Final,Bolivia,-0.029500000000000002,0.005,0.0345
 2024-06-27 16:57:57.145389,Presidential Debates - CNN Debate June 27th: To Be Said By Joe Biden During The Debate - Biden Buzzwords,Choose hope over fear,-0.030299999999999994,0.3333,0.3636
 2024-06-27 16:57:57.057039,Presidential Debates - CNN Debate June 27th: First Mentioned State - First Mentioned State,Florida,-0.031,0.1429,0.1739
-2024-06-27 14:57:44.149151,Presidential Debates - CNN Debate June 27th: First Debate Topic - First Debate Topic,Healthcare,-0.031799999999999995,0.1111,0.1429
 2024-06-27 14:57:44.149151,Presidential Debates - CNN Debate June 27th: First Debate Topic - First Debate Topic,Environment,-0.031799999999999995,0.1111,0.1429
+2024-06-27 14:57:44.149151,Presidential Debates - CNN Debate June 27th: First Debate Topic - First Debate Topic,Healthcare,-0.031799999999999995,0.1111,0.1429
 2024-06-27 16:57:56.005906,Julian Assange - Who will interview Julian Assange first? - Assange's First Interview,Oprah Winfrey,-0.0321,0.0588,0.0909
 2024-06-27 22:58:14.095504,WNBA Championship - WNBA Championship 2024 - Outright Winner,Las Vegas Aces,-0.03210000000000002,0.3846,0.4167
+2024-06-28 00:58:18.250114,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.03259999999999996,0.6226,0.6552
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Matthew Jordan,-0.032799999999999996,0.0057,0.0385
 2024-06-27 16:57:57.145389,Presidential Debates - CNN Debate June 27th: To Be Said By Joe Biden During The Debate - Biden Buzzwords,Bidenomics,-0.033299999999999996,0.5122,0.5455
-2024-06-27 11:01:07.771669,UEFA Euro 2024 Futures - Euro 2024 Futures - Name The Finalists,England & Portugal to meet in the Final,-0.03330000000000001,0.0667,0.1
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Abortion rights,-0.033300000000000024,0.1667,0.2
+2024-06-28 00:58:16.020008,Copa America Team Specials - Copa America 2024 - Uruguay Team Specials - Stage of Elimination,Runner Up,-0.033300000000000024,0.1667,0.2
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Guido Migliozzi,-0.0344,0.0132,0.0476
-2024-06-27 11:01:07.816315,UEFA Euro 2024 Futures - Euro 2024 Futures - Straight Forecast,"Germany Winner, Italy Runner Up",-0.0344,0.0244,0.0588
 2024-06-27 20:57:57.130116,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3-Balls - N. Lashley / K. Tway / J. Dufner - 2nd Round 3-Balls,Nate Lashley,-0.0348,0.4,0.4348
 2024-06-27 16:57:57.145389,Presidential Debates - CNN Debate June 27th: To Be Said By Joe Biden During The Debate - Biden Buzzwords,Dog whistle,-0.03570000000000001,0.25,0.2857
 2024-06-27 16:57:57.145389,Presidential Debates - CNN Debate June 27th: To Be Said By Joe Biden During The Debate - Biden Buzzwords,Make sure Israel is secure,-0.03640000000000004,0.3636,0.4
 2024-06-27 20:57:49.412469,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Vivek Ramaswamy,-0.037599999999999995,0.1053,0.1429
 2024-06-27 14:57:44.149151,Presidential Debates - CNN Debate June 27th: First Debate Topic - First Debate Topic,Foreign Policy,-0.03889999999999999,0.1429,0.1818
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Tom McKibbin,-0.0392,0.0196,0.0588
-2024-06-27 11:01:07.861754,UEFA Euro 2024 Futures - Euro 2024 Futures - Tournament Winner and UEFA Player of the Tournament Parlay,England/Harry Kane,-0.0398,0.0435,0.0833
 2024-06-27 20:57:48.566871,Julian Assange - Who will interview Julian Assange first? - Assange's First Interview,Joe Rogan,-0.04099999999999998,0.2667,0.3077
+2024-06-28 00:58:16.622454,Copa America Futures - Copa América 2024 - To Reach Final,USA,-0.04169999999999999,0.125,0.1667
 2024-06-27 16:57:57.145389,Presidential Debates - CNN Debate June 27th: To Be Said By Joe Biden During The Debate - Biden Buzzwords,Sacrifice our democracy,-0.043399999999999994,0.5122,0.5556
 2024-06-27 16:57:57.089323,Presidential Debates - CNN Debate June 27th: Who is asked the first debate question? - Who is asked the first debate question,Joe Biden,-0.044500000000000095,0.7333,0.7778
 2024-06-27 16:58:04.883452,Italian Open - Italian Open - Winner,Laurie Canter,-0.0451,0.0025,0.0476
-2024-06-27 12:57:56.535466,Draft Position - Player Draft Position - Tyler Smith,Under 34.5 Draft Position,-0.04630000000000001,0.4082,0.4545
+2024-06-28 00:58:26.931919,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Grant / Ciganda,-0.047099999999999996,0.0196,0.0667
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Destroy the oil industry,-0.047599999999999976,0.2857,0.3333
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Death penalty,-0.047599999999999976,0.2857,0.3333
-2024-06-27 12:57:56.439272,Draft Picks - Draft Picks - #10 - #35 - 31st Overall Pick,Johnny Furphy,-0.047599999999999976,0.2857,0.3333
 2024-06-27 16:57:57.057039,Presidential Debates - CNN Debate June 27th: First Mentioned State - First Mentioned State,Georgia,-0.0504,0.7143,0.7647
-2024-06-27 18:58:02.312073,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,Joe Biden,-0.05070000000000008,0.7826,0.8333
 2024-06-27 18:58:02.301429,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.05070000000000008,0.7826,0.8333
-2024-06-27 11:01:09.684178,Draft Picks - Draft Picks - Which Team will Select Bronny James,Minnesota Timberwolves,-0.05249999999999999,0.0244,0.0769
-2024-06-27 12:57:56.278552,NBA Specials - Where will Paul George Play Game 1 of the 2024/2025 NBA Season - Proposition,LA Clippers,-0.05289999999999995,0.6296,0.6825
+2024-06-27 18:58:02.312073,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,Joe Biden,-0.05070000000000008,0.7826,0.8333
+2024-06-28 00:58:16.012032,Copa America Team Specials - Copa America 2024 - Uruguay Team Specials - Top Uruguay Goalscorer,Luis Suarez,-0.050899999999999994,0.04,0.0909
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Biden's inflation nightmare,-0.05449999999999999,0.5455,0.6
 2024-06-27 18:58:02.267324,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,-0.05509999999999998,0.3704,0.4255
 2024-06-27 16:57:57.145389,Presidential Debates - CNN Debate June 27th: To Be Said By Joe Biden During The Debate - Biden Buzzwords,Institutional racism,-0.055900000000000005,0.3077,0.3636
-2024-06-27 12:57:56.490237,Draft Position - Player Draft Position - Bobi Klintman,Under 32.5 Draft Position,-0.055900000000000005,0.2667,0.3226
-2024-06-27 11:01:10.114287,Presidential Debates - CNN Debate June 27th: Debate Winner According To CNN Poll - CNN June Debate Winner,Donald Trump,-0.05730000000000002,0.3509,0.4082
-2024-06-27 14:57:44.193363,Presidential Debates - CNN Debate June 27th: Trump and Biden to shake hands at first debate - Trump and Biden to shake hands,Yes,-0.05740000000000001,0.3774,0.4348
 2024-06-27 16:57:57.111592,Presidential Debates - CNN Debate June 27th: Will Biden ask the moderator to repeat a question during the debate? - Will Biden asks the moderator to repeat a question during the debate?,No,-0.05740000000000001,0.5917,0.6491
-2024-06-27 12:57:56.508390,Draft Position - Player Draft Position - Johnny Furphy,Under 32.5 Draft Position,-0.05860000000000004,0.4762,0.5348
+2024-06-27 14:57:44.193363,Presidential Debates - CNN Debate June 27th: Trump and Biden to shake hands at first debate - Trump and Biden to shake hands,Yes,-0.05740000000000001,0.3774,0.4348
 2024-06-27 22:58:14.357696,To Make the Playoffs - Atlanta Dream- To Make the 2024 WNBA Playoffs - Atlanta Dream- To Make the 2024 WNBA Playoffs,Yes,-0.06220000000000003,0.5122,0.5744
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,A nation in decline,-0.06669999999999998,0.6,0.6667
 2024-06-27 16:57:57.145389,Presidential Debates - CNN Debate June 27th: To Be Said By Joe Biden During The Debate - Biden Buzzwords,Can't love your country only when you win,-0.06670000000000004,0.3333,0.4
 2024-06-27 16:57:57.000385,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,JD Vance,-0.06840000000000002,0.1538,0.2222
+2024-06-28 00:58:26.931919,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Boutier / Saso,-0.0703,0.0066,0.0769
 2024-06-27 20:57:49.367910,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,-0.07520000000000002,0.2105,0.2857
 2024-06-27 22:58:14.368130,To Make the Playoffs - Chicago Sky- To Make the 2024 WNBA Playoffs - Chicago Sky- To Make the 2024 WNBA Playoffs,No,-0.07619999999999993,0.5238,0.6
+2024-06-28 00:58:26.931919,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Ko / Hataoka,-0.0766,0.0345,0.1111
 2024-06-27 16:57:57.145389,Presidential Debates - CNN Debate June 27th: To Be Said By Joe Biden During The Debate - Biden Buzzwords,Is Democracy still America's sacred cause?,-0.08080000000000004,0.3636,0.4444
 2024-06-27 18:58:02.256717,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,-0.0847,0.2857,0.3704
-2024-06-27 12:57:56.931327,"Presidential Debates - CNN Debate June 27th: Number of times Trump says ""stolen"" or ""rigged"" - No of time Trump says stolen/rigged",Over 9.5,-0.0857,0.2,0.2857
 2024-06-27 16:57:56.005906,Julian Assange - Who will interview Julian Assange first? - Assange's First Interview,Joe Rogan,-0.09230000000000005,0.3077,0.4
-2024-06-27 12:57:56.526495,Draft Position - Player Draft Position - Tyler Kolek (Marquette),Under 33.5 Draft Position,-0.10010000000000002,0.4651,0.5652
+2024-06-28 00:58:26.931919,Dow Great Lakes Bay Invitational - Dow Great Lakes Bay Invitational - Winner,Lin / Furue,-0.10969999999999999,0.0079,0.1176
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Uphold the second amendment,-0.11109999999999998,0.5556,0.6667
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Critical race theory,-0.11109999999999998,0.5556,0.6667
 2024-06-27 18:58:02.324207,Presidential Debates - CNN Debate June 27th: Trump and Biden to shake hands at first debate - Trump and Biden to shake hands,Yes,-0.12549999999999997,0.2381,0.3636
-2024-06-27 11:01:09.785283,Draft Position - Player Draft Position - Bronny James (USC),Under 54.5 Draft Position,-0.12680000000000002,0.2899,0.4167
-2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Jerome Powell,-0.13329999999999997,0.2,0.3333
 2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Protect innocent life,-0.13329999999999997,0.2,0.3333
-2024-06-27 12:57:56.517452,Draft Position - Player Draft Position - Kyle Filipowski (Duke),Over 33.5 Draft Position,-0.14200000000000002,0.3125,0.4545
+2024-06-27 16:57:57.134162,Presidential Debates - CNN Debate June 27th: To Be Said By Donald Trump During Debate - Trump Buzzwords,Jerome Powell,-0.13329999999999997,0.2,0.3333
+2024-06-28 00:58:16.630706,Copa America Futures - Copa América 2024 - To Reach the Semi Final,USA,-0.1346,0.25,0.3846
 2024-06-27 20:57:49.389284,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Joe Biden,-0.14289999999999992,0.5238,0.6667
 2024-06-27 20:57:49.399720,2024 Election Core - US Presidential Election 2024 - Party Of Popular Vote Winner - Party of Popular Vote Winner,Democratic,-0.17159999999999997,0.5652,0.7368
-2024-06-27 20:57:49.444480,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,Joe Biden,-0.20819999999999994,0.5744,0.7826
 2024-06-27 20:57:49.433949,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.20819999999999994,0.5744,0.7826
+2024-06-27 20:57:49.444480,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,Joe Biden,-0.20819999999999994,0.5744,0.7826
