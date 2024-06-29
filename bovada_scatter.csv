@@ -9,6 +9,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-28 08:58:13.701152,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,Joe Biden,0.07769999999999999,0.6429,0.5652
 2024-06-28 08:58:20.870576,Daily MLB Specials - Daily MLB Specials - Daily Strikeout Leader,Yusei Kikuchi (TOR),0.0774,0.125,0.0476
 2024-06-28 08:58:21.091650,MLB Futures - MLB 2024 Player Awards - American League ROY,Wyatt Langford (TEX),0.07579999999999999,0.1667,0.0909
+2024-06-28 18:57:58.136164,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.0726,0.75,0.6774
+2024-06-28 18:57:58.146978,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,Joe Biden,0.0726,0.75,0.6774
 2024-06-28 08:58:13.451682,Regular Season Wins O/U - Connecticut Sun- 2024 Regular Season Wins - Connecticut Sun- 2024 Regular Season Wins,Under 28.5,0.06970000000000004,0.5348,0.4651
 2024-06-28 16:57:56.970068,Italian Open - Italian Open - Winner,Adrian Otaegui,0.0596,0.1429,0.0833
 2024-06-28 08:58:13.539380,Regular Season Wins O/U - Washington Mystics- 2024 Regular Season Wins - Washington Mystics- 2024 Regular Season Wins,Under 10.5,0.057699999999999974,0.5455,0.4878
@@ -23,7 +25,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-28 16:57:47.685726,Copa America Futures - Copa América 2024 - Winner,Colombia,0.04909999999999999,0.1667,0.1176
 2024-06-28 08:58:21.138278,MLB Futures - MLB 2024 Player Awards - National League MVP,Freddie Freeman (LAD),0.048100000000000004,0.125,0.0769
 2024-06-28 08:58:13.440895,Regular Season Wins O/U - Chicago Sky- 2024 Regular Season Wins - Chicago Sky- 2024 Regular Season Wins,Over 14.5,0.04760000000000003,0.5238,0.4762
-2024-06-28 06:57:43.761283,MLB Futures - MLB 2024 World Series Winner - Winning Division,AL East,0.0476,0.2857,0.2381
 2024-06-28 08:58:20.983758,MLB Futures - MLB 2024 American League West - American League West Winner,Houston Astros,0.04630000000000001,0.3448,0.2985
 2024-06-28 08:58:20.996104,MLB Futures - MLB 2024 National League Central - National League Central Winner,Milwaukee Brewers,0.04520000000000002,0.7674,0.7222
 2024-06-28 08:58:21.045412,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Tarik Skubal (DET),0.04459999999999997,0.3571,0.3125
@@ -31,6 +32,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-28 16:57:48.796660,Western Conference - Western Conference 2024-25 - Western Conference Winner,New Orleans Pelicans,0.0411,0.0667,0.0256
 2024-06-28 08:58:13.462391,Regular Season Wins O/U - Indiana Fever - 2024 Regular Season Wins - Indiana Fever - 2024 Regular Season Wins,Under 15.5,0.03959999999999997,0.5744,0.5348
 2024-06-28 08:58:22.089394,Round Match-Ups - 2nd Round Match-Ups - A. Baddeley v L. Griffin - 2nd Round Match-Ups,Lanto Griffin,0.03959999999999997,0.5744,0.5348
+2024-06-28 18:57:56.404620,Copa America Futures - Copa América 2024 - Winner,Brazil,0.03920000000000001,0.3333,0.2941
 2024-06-28 08:58:13.372584,NBA Specials - Where will Paul George Play Game 1 of the 2024/2025 NBA Season - Proposition,LA Clippers,0.03709999999999991,0.6667,0.6296
 2024-06-28 08:58:20.971367,MLB Futures - MLB 2024 American League East - American League East Winner,Baltimore Orioles,0.03640000000000004,0.4,0.3636
 2024-06-28 08:58:21.126568,MLB Futures - MLB 2024 Player Awards - National League Manager of the Year,Pat Murphy,0.03620000000000001,0.4444,0.4082
@@ -50,28 +52,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-28 10:58:02.710921,Tight Ends - NFL 2024-25 Receiving Yards - Brock Bowers Regular Season Total Receiving Yards 2024-25,Over 650.5 Yards,0.023800000000000043,0.5238,0.5
 2024-06-28 10:58:02.658142,Tight Ends - NFL 2024-25 Receiving TD's - George Kittle Regular Season Total Receiving TDs 2024-25,Over 5.5 TD's,0.023800000000000043,0.5238,0.5
 2024-06-28 16:57:56.970068,Italian Open - Italian Open - Winner,Mikko Korhonen,0.023500000000000004,0.0345,0.011
-2024-06-28 04:57:59.187210,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Houston Astros,0.02310000000000001,0.1,0.0769
-2024-06-28 08:58:20.126418,NCAA Regular Season Wins - ACC Regular Season Wins - Pittsburgh,Under 5.5 Wins,0.022600000000000064,0.5348,0.5122
 2024-06-28 08:58:21.343526,Boxing Lines - Lorenzo Simpson vs Raiko Santana - To Win the Bout,Lorenzo Simpson,0.022600000000000064,0.6226,0.6
+2024-06-28 08:58:20.126418,NCAA Regular Season Wins - ACC Regular Season Wins - Pittsburgh,Under 5.5 Wins,0.022600000000000064,0.5348,0.5122
 2024-06-28 16:57:48.763236,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,Any Other State,0.022199999999999998,0.8,0.7778
+2024-06-28 18:57:58.113788,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Glenn Youngkin,0.022199999999999998,0.1333,0.1111
 2024-06-28 08:58:13.372584,NBA Specials - Where will Paul George Play Game 1 of the 2024/2025 NBA Season - Proposition,Philadelphia 76ers,0.022199999999999998,0.2222,0.2
 2024-06-28 16:57:56.970068,Italian Open - Italian Open - Winner,Tom Vaillant,0.021300000000000003,0.0323,0.011
 2024-06-28 08:58:21.068423,MLB Futures - MLB 2024 Player Awards - American League MVP,Aaron Judge (NYY),0.02080000000000004,0.6875,0.6667
+2024-06-28 18:58:00.490350,Los Angeles Chargers - 2024-25 Regular Season Wins O/U - Regular Season Wins - Los Angeles Chargers O/U 10.5 Wins,Over 10.5 Wins,0.020799999999999985,0.3333,0.3125
 2024-06-28 10:58:02.668200,Tight Ends - NFL 2024-25 Receiving TD's - Kyle Pitts Regular Season Total Receiving TDs 2024-25,Over 4.5 TD's,0.02079999999999993,0.5556,0.5348
 2024-06-28 16:57:56.970068,Italian Open - Italian Open - Winner,Adrien Saddier,0.0204,0.0244,0.004
-2024-06-28 08:58:13.667183,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Glenn Youngkin,0.02020000000000001,0.1111,0.0909
 2024-06-28 08:58:13.372584,NBA Specials - Where will Paul George Play Game 1 of the 2024/2025 NBA Season - Proposition,Oklahoma City Thunder,0.02020000000000001,0.1111,0.0909
+2024-06-28 08:58:13.667183,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Glenn Youngkin,0.02020000000000001,0.1111,0.0909
 2024-06-28 08:58:21.268269,Boxing Lines - Jack Turner vs Darwin Martinez - To Win the Bout,Jack Turner,0.01969999999999994,0.9852,0.9655
-2024-06-28 06:57:43.761283,MLB Futures - MLB 2024 World Series Winner - Winning Division,AL Central,0.01949999999999999,0.0909,0.0714
 2024-06-28 08:58:15.038450,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,New York Jets,0.01949999999999999,0.0909,0.0714
 2024-06-28 08:58:21.138278,MLB Futures - MLB 2024 Player Awards - National League MVP,Francisco Lindor (NYM),0.019100000000000002,0.0323,0.0132
-2024-06-28 06:57:43.772365,MLB Futures - MLB 2024 World Series Winner - Winning League,National League,0.01880000000000004,0.5744,0.5556
-2024-06-28 08:58:13.676907,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Will Doug Burgum be the Republican Vice-Presidential candidate?,No,0.018399999999999972,0.7059,0.6875
 2024-06-28 12:58:03.811847,Boxing Lines - Conor Quinn vs Conner Kelsall - To Win the Bout,Conor Quinn,0.018399999999999972,0.7059,0.6875
+2024-06-28 08:58:13.676907,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Will Doug Burgum be the Republican Vice-Presidential candidate?,No,0.018399999999999972,0.7059,0.6875
 2024-06-28 16:57:56.970068,Italian Open - Italian Open - Winner,Dan Bradbury,0.0179,0.0278,0.0099
 2024-06-28 08:58:13.274635,NBA Specials - Where will Brandon Ingram Play Game 1 of the 2024/2025 NBA Season - Proposition,Houston Rockets,0.0179,0.1429,0.125
 2024-06-28 10:58:06.493041,Boxing Lines - Colm Murphy vs Jack Turner - To Win the Bout,Jack Turner,0.0179,0.1429,0.125
-2024-06-28 04:57:59.435556,Boxing Lines - Lorenzo Simpson vs Raiko Santana - To Win the Bout,Lorenzo Simpson,0.017299999999999982,0.5917,0.5744
 2024-06-28 08:58:13.473302,Regular Season Wins O/U - Las Vegas Aces- 2024 Regular Season Wins - Las Vegas Aces- 2024 Regular Season Wins,Under 28.5,0.017299999999999982,0.5917,0.5744
 2024-06-28 12:57:54.196758,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Young Player of The Tournament,Kobbie Mainoo,0.017100000000000004,0.0323,0.0152
 2024-06-28 08:58:21.033662,MLB Futures - MLB 2024 Player Awards - American League Comeback Player of the Year,Tyler O'Neil (BOS),0.017099999999999997,0.0556,0.0385
@@ -93,29 +93,28 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-28 16:57:56.970068,Italian Open - Italian Open - Winner,Ewen Ferguson,0.013499999999999998,0.0179,0.0044
 2024-06-28 16:57:56.970068,Italian Open - Italian Open - Winner,Edoardo Molinari,0.013499999999999998,0.0179,0.0044
 2024-06-28 10:58:04.571900,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Atlanta Falcons,No,0.013300000000000034,0.3704,0.3571
-2024-06-28 06:57:43.761283,MLB Futures - MLB 2024 World Series Winner - Winning Division,NL East,0.01319999999999999,0.2632,0.25
 2024-06-28 08:58:21.293437,Boxing Lines - James Mcgivern vs Rashid Omar - To Win the Bout,James Mcgivern,0.0131,0.8131,0.8
-2024-06-28 06:57:34.979166,UEFA Euro 2024 Futures - Euro 2024 Futures - Most Assists,Ruiz Fabian,0.0131,0.0476,0.0345
 2024-06-28 08:58:21.091650,MLB Futures - MLB 2024 Player Awards - American League ROY,Mason Miller,0.012899999999999995,0.1667,0.1538
+2024-06-28 16:57:48.706893,NBA Championship - NBA Championship 2024-25 - NBA Finals Exact Matchup,Boston Celtics vs New Orleans Pelicans,0.012800000000000002,0.0244,0.0116
 2024-06-28 08:58:20.946368,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Philadelphia Phillies,0.012799999999999978,0.2985,0.2857
+2024-06-28 18:57:58.113788,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Vivek Ramaswamy,0.012299999999999991,0.1176,0.1053
 2024-06-28 08:58:13.429787,Regular Season Wins O/U - Atlanta Dream- 2024 Regular Season Wins - Atlanta Dream- 2024 Regular Season Wins,Over 14.5,0.012199999999999989,0.5,0.4878
 2024-06-28 16:57:56.970068,Italian Open - Italian Open - Winner,Richie Ramsay,0.012100000000000001,0.0244,0.0123
 2024-06-28 16:57:48.754566,NBA Championship - NBA Championship 2024-25 - NBA Champion - Multiple Chances,Philadelphia 76ers OR Sacramento Kings,0.011899999999999994,0.0833,0.0714
 2024-06-28 08:58:13.620577,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,0.011700000000000016,0.2222,0.2105
 2024-06-28 16:57:56.970068,Italian Open - Italian Open - Winner,Callum Shinkwin,0.011399999999999997,0.0278,0.0164
-2024-06-28 06:57:43.797754,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,San Diego Padres,0.011199999999999995,0.0588,0.0476
 2024-06-28 12:57:54.152871,UEFA Euro 2024 Futures - Euro 2024 Futures - Outright Winner,Germany,0.010899999999999993,0.1538,0.1429
-2024-06-28 08:58:20.933838,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Cleveland Guardians,0.010899999999999993,0.1538,0.1429
 2024-06-28 08:58:13.383445,NBA Specials - Where will Trae Young Play Game 1 of the 2024/2025 NBA Season - Proposition,Los Angeles Lakers,0.010899999999999993,0.1538,0.1429
+2024-06-28 08:58:20.933838,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Cleveland Guardians,0.010899999999999993,0.1538,0.1429
 2024-06-28 10:58:06.581533,Boxing Lines - Max Reeves vs Tonga Tongotongo - To Win the Bout,Max Reeves,0.010699999999999932,0.5455,0.5348
-2024-06-28 06:57:43.985393,Boxing Lines - James Mcgivern vs Rashid Omar - To Win the Bout,Rashid Omar,0.010299999999999976,0.2667,0.2564
 2024-06-28 08:58:13.372584,NBA Specials - Where will Paul George Play Game 1 of the 2024/2025 NBA Season - Proposition,Orlando Magic,0.0102,0.0769,0.0667
-2024-06-28 14:58:24.470288,Boxing Lines - Lester Martinez vs Carlos Gongora - To Win the Bout,Carlos Gongora,0.010099999999999998,0.3226,0.3125
 2024-06-28 08:58:21.091650,MLB Futures - MLB 2024 Player Awards - American League ROY,Ceddanne Rafaela (BOS),0.010099999999999998,0.087,0.0769
-2024-06-28 16:57:56.567414,Boxing Lines - Lester Martinez vs Carlos Gongora - To Win the Bout,Carlos Gongora,-0.010099999999999998,0.3125,0.3226
+2024-06-28 14:58:24.470288,Boxing Lines - Lester Martinez vs Carlos Gongora - To Win the Bout,Carlos Gongora,0.010099999999999998,0.3226,0.3125
 2024-06-28 08:58:13.642970,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Joe Biden,-0.010099999999999998,0.4444,0.4545
-2024-06-28 08:58:20.898347,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Los Angeles Dodgers,-0.010299999999999976,0.2564,0.2667
+2024-06-28 16:57:56.567414,Boxing Lines - Lester Martinez vs Carlos Gongora - To Win the Bout,Carlos Gongora,-0.010099999999999998,0.3125,0.3226
+2024-06-28 18:57:58.136164,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Michelle Obama,-0.0102,0.0667,0.0769
 2024-06-28 08:58:21.293437,Boxing Lines - James Mcgivern vs Rashid Omar - To Win the Bout,Rashid Omar,-0.010299999999999976,0.2564,0.2667
+2024-06-28 08:58:20.898347,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Los Angeles Dodgers,-0.010299999999999976,0.2564,0.2667
 2024-06-28 08:58:13.372584,NBA Specials - Where will Paul George Play Game 1 of the 2024/2025 NBA Season - Proposition,Golden State Warriors,-0.010499999999999982,0.2,0.2105
 2024-06-28 08:58:21.008577,MLB Futures - MLB 2024 National League East - National League East Winner,Philadelphia Phillies,-0.010500000000000065,0.7895,0.8
 2024-06-28 08:58:20.271188,NCAA Regular Season Wins - SEC Regular Season Wins - LSU,Over 9.5 Wins,-0.010599999999999998,0.4545,0.4651
@@ -123,15 +122,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-28 16:57:48.972647,Olympics 3x3 Basketball - Women - Paris 2024 - Women's 3x3 Basketball - Gold Medal Winner,Canada 3x3 Women,-0.010699999999999987,0.3226,0.3333
 2024-06-28 08:58:21.161387,MLB Futures - MLB 2024 Player Awards - National League ROY,Jared Jones (PIT),-0.010700000000000001,0.0278,0.0385
 2024-06-28 08:58:21.126568,MLB Futures - MLB 2024 Player Awards - National League Manager of the Year,David Bell,-0.010700000000000001,0.0278,0.0385
-2024-06-28 04:57:59.472092,Boxing Lines - Lamont Roach vs Feargal McCrory - To Win the Bout,Feargal McCrory,-0.010899999999999993,0.1429,0.1538
-2024-06-28 04:57:59.187210,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Cleveland Guardians,-0.010899999999999993,0.1429,0.1538
 2024-06-28 08:58:21.174943,MLB Futures - MLB 2024 Regular Season Leaders - Player To Hit The Most Home Runs,Marcell Ozuna (ATL),-0.0109,0.0417,0.0526
 2024-06-28 10:58:06.581533,Boxing Lines - Max Reeves vs Tonga Tongotongo - To Win the Bout,Tonga Tongotongo,-0.01100000000000001,0.5238,0.5348
 2024-06-28 16:57:48.886611,Euroleague - Euroleague 2024/25 - Outright,Olympiacos,-0.011099999999999999,0.1,0.1111
-2024-06-28 06:57:44.034372,Boxing Lines - Lorenzo Simpson vs Raiko Santana - To Win the Bout,Raiko Santana,-0.011099999999999999,0.4651,0.4762
 2024-06-28 16:57:56.970068,Italian Open - Italian Open - Winner,Bernd Wiesberger,-0.011399999999999997,0.0164,0.0278
 2024-06-28 08:58:20.933838,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,New York Yankees,-0.01150000000000001,0.3333,0.3448
-2024-06-28 04:57:59.435556,Boxing Lines - Lorenzo Simpson vs Raiko Santana - To Win the Bout,Raiko Santana,-0.0116,0.4762,0.4878
 2024-06-28 16:57:48.874975,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Dallas Mavericks,-0.011600000000000055,0.5122,0.5238
 2024-06-28 08:58:20.958742,MLB Futures - MLB 2024 American League Central - American League Central Winner,Detroit Tigers,-0.0118,0.0099,0.0217
 2024-06-28 16:57:56.970068,Italian Open - Italian Open - Winner,Antoine Rozner,-0.0119,0.0033,0.0152
@@ -141,23 +136,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-28 16:57:48.696671,NBA Championship - NBA Championship 2024-25 - NBA Champion,Oklahoma City Thunder,-0.012299999999999991,0.1053,0.1176
 2024-06-28 16:57:56.970068,Italian Open - Italian Open - Winner,Joe Dean,-0.0124,0.0055,0.0179
 2024-06-28 08:58:21.138278,MLB Futures - MLB 2024 Player Awards - National League MVP,William Contreras (MIL),-0.012599999999999998,0.0152,0.0278
-2024-06-28 04:57:59.187210,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Seattle Mariners,-0.012899999999999995,0.1538,0.1667
-2024-06-28 06:57:44.046749,Boxing Lines - Elijah Pierce vs Jose Sanmartin - To Win the Bout,Jose Sanmartin,-0.012899999999999995,0.1538,0.1667
 2024-06-28 16:57:48.972647,Olympics 3x3 Basketball - Women - Paris 2024 - Women's 3x3 Basketball - Gold Medal Winner,France 3x3 Women,-0.0131,0.2222,0.2353
-2024-06-28 06:57:43.985393,Boxing Lines - James Mcgivern vs Rashid Omar - To Win the Bout,James Mcgivern,-0.0131,0.8,0.8131
 2024-06-28 08:58:13.667183,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Doug Burgum,-0.013800000000000034,0.3636,0.3774
 2024-06-28 08:58:13.676907,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Will Doug Burgum be the Republican Vice-Presidential candidate?,Yes,-0.013800000000000034,0.3636,0.3774
 2024-06-28 16:57:48.886611,Euroleague - Euroleague 2024/25 - Outright,AS Monaco,-0.013899999999999996,0.1111,0.125
 2024-06-28 16:57:48.763236,NBA Championship - NBA Championship 2024-25 - State to Win the NBA Finals,New York (NY),-0.013899999999999996,0.1111,0.125
-2024-06-28 08:58:13.667183,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tim Scott,-0.013999999999999999,0.0769,0.0909
 2024-06-28 08:58:21.045412,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Logan Gilbert (SEA),-0.013999999999999999,0.0769,0.0909
+2024-06-28 08:58:13.667183,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tim Scott,-0.013999999999999999,0.0769,0.0909
 2024-06-28 08:58:20.996104,MLB Futures - MLB 2024 National League Central - National League Central Winner,Cincinnati Reds,-0.014099999999999994,0.0526,0.0667
 2024-06-28 12:57:54.351436,Copa America Futures - Copa América 2024 - Winner,Mexico,-0.014099999999999998,0.0294,0.0435
+2024-06-28 18:57:58.113788,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Tim Scott,-0.014399999999999996,0.0625,0.0769
 2024-06-28 08:58:21.045412,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Cole Ragans (KC),-0.014399999999999996,0.0625,0.0769
 2024-06-28 08:58:22.007172,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3-Balls - K. Streelman / B. Cauley / S. Gutschewski - 2nd Round 3-Balls,Kevin Streelman,-0.01479999999999998,0.3774,0.3922
 2024-06-28 16:57:48.796660,Western Conference - Western Conference 2024-25 - Western Conference Winner,Los Angeles Lakers,-0.014899999999999997,0.0476,0.0625
-2024-06-28 08:58:21.149756,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Robert Suarez (SD),-0.015100000000000002,0.1667,0.1818
 2024-06-28 08:58:20.898347,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Yankees,-0.015100000000000002,0.1667,0.1818
+2024-06-28 08:58:21.149756,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Robert Suarez (SD),-0.015100000000000002,0.1667,0.1818
+2024-06-28 18:57:58.113788,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,JD Vance,-0.015100000000000002,0.1667,0.1818
 2024-06-28 08:58:21.020921,MLB Futures - MLB 2024 National League West - National League West Winner,San Diego Padres,-0.015300000000000001,0.0323,0.0476
 2024-06-28 08:58:13.690234,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Hillary Clinton,-0.015300000000000001,0.0323,0.0476
 2024-06-28 08:58:21.174943,MLB Futures - MLB 2024 Regular Season Leaders - Player To Hit The Most Home Runs,Shohei Ohtani (LAD),-0.015700000000000006,0.1176,0.1333
@@ -168,6 +162,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-28 10:58:06.493041,Boxing Lines - Colm Murphy vs Jack Turner - To Win the Bout,Colm Murphy,-0.01660000000000006,0.9167,0.9333
 2024-06-28 08:58:13.274635,NBA Specials - Where will Brandon Ingram Play Game 1 of the 2024/2025 NBA Season - Proposition,Cleveland Cavaliers,-0.016700000000000007,0.0833,0.1
 2024-06-28 08:58:13.383445,NBA Specials - Where will Trae Young Play Game 1 of the 2024/2025 NBA Season - Proposition,Miami Heat,-0.016700000000000007,0.0833,0.1
+2024-06-28 18:58:00.490350,Los Angeles Chargers - 2024-25 Regular Season Wins O/U - Regular Season Wins - Los Angeles Chargers O/U 10.5 Wins,Under 10.5 Wins,-0.016700000000000048,0.7333,0.75
 2024-06-28 08:58:21.126568,MLB Futures - MLB 2024 Player Awards - National League Manager of the Year,Dave Roberts,-0.0168,0.0217,0.0385
 2024-06-28 08:58:21.020921,MLB Futures - MLB 2024 National League West - National League West Winner,Arizona Diamondbacks,-0.017100000000000004,0.0152,0.0323
 2024-06-28 16:57:48.805538,Western Conference - Western Conference 2024-25 - Division to Win the Western Conference,Northwest,-0.017299999999999982,0.5744,0.5917
@@ -175,29 +170,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-28 12:57:56.335085,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Kamala Harris,-0.018099999999999998,0.0588,0.0769
 2024-06-28 16:57:56.970068,Italian Open - Italian Open - Winner,Matteo Manassero,-0.0181,0.0164,0.0345
 2024-06-28 08:58:13.429787,Regular Season Wins O/U - Atlanta Dream- 2024 Regular Season Wins - Atlanta Dream- 2024 Regular Season Wins,Under 14.5,-0.018100000000000005,0.5652,0.5833
-2024-06-28 08:58:20.946368,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Atlanta Braves,-0.018100000000000005,0.2041,0.2222
 2024-06-28 10:58:04.677978,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Green Bay Packers,No,-0.018100000000000005,0.4167,0.4348
+2024-06-28 08:58:20.946368,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Atlanta Braves,-0.018100000000000005,0.2041,0.2222
 2024-06-28 16:57:48.796660,Western Conference - Western Conference 2024-25 - Western Conference Winner,Oklahoma City Thunder,-0.01820000000000002,0.1818,0.2
 2024-06-28 08:58:22.007172,Rocket Mortgage Classic - 2/3 Balls - 2nd Round 3-Balls - K. Streelman / B. Cauley / S. Gutschewski - 2nd Round 3-Balls,Scott Gutschewski,-0.019000000000000017,0.2667,0.2857
 2024-06-28 08:58:13.274635,NBA Specials - Where will Brandon Ingram Play Game 1 of the 2024/2025 NBA Season - Proposition,Atlanta Hawks,-0.019699999999999995,0.1053,0.125
-2024-06-28 10:58:02.658142,Tight Ends - NFL 2024-25 Receiving TD's - George Kittle Regular Season Total Receiving TDs 2024-25,Under 5.5 TD's,-0.01970000000000005,0.5455,0.5652
 2024-06-28 10:58:02.710921,Tight Ends - NFL 2024-25 Receiving Yards - Brock Bowers Regular Season Total Receiving Yards 2024-25,Under 650.5 Yards,-0.01970000000000005,0.5455,0.5652
-2024-06-28 16:57:56.970068,Italian Open - Italian Open - Winner,Sean Crocker,-0.0203,0.0385,0.0588
+2024-06-28 10:58:02.658142,Tight Ends - NFL 2024-25 Receiving TD's - George Kittle Regular Season Total Receiving TDs 2024-25,Under 5.5 TD's,-0.01970000000000005,0.5455,0.5652
 2024-06-28 12:57:56.266318,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Gavin Newsom,-0.0203,0.1176,0.1379
+2024-06-28 16:57:56.970068,Italian Open - Italian Open - Winner,Sean Crocker,-0.0203,0.0385,0.0588
 2024-06-28 12:58:03.811847,Boxing Lines - Conor Quinn vs Conner Kelsall - To Win the Bout,Conner Kelsall,-0.02030000000000004,0.3571,0.3774
 2024-06-28 08:58:21.343526,Boxing Lines - Lorenzo Simpson vs Raiko Santana - To Win the Bout,Raiko Santana,-0.020699999999999996,0.4444,0.4651
 2024-06-28 08:58:20.126418,NCAA Regular Season Wins - ACC Regular Season Wins - Pittsburgh,Over 5.5 Wins,-0.02079999999999993,0.5348,0.5556
-2024-06-28 08:58:21.268269,Boxing Lines - Jack Turner vs Darwin Martinez - To Win the Bout,Darwin Martinez,-0.0208,0.0625,0.0833
 2024-06-28 08:58:20.996104,MLB Futures - MLB 2024 National League Central - National League Central Winner,Chicago Cubs,-0.0208,0.0625,0.0833
+2024-06-28 08:58:21.268269,Boxing Lines - Jack Turner vs Darwin Martinez - To Win the Bout,Darwin Martinez,-0.0208,0.0625,0.0833
 2024-06-28 10:58:02.668200,Tight Ends - NFL 2024-25 Receiving TD's - Kyle Pitts Regular Season Total Receiving TDs 2024-25,Under 4.5 TD's,-0.022600000000000064,0.5122,0.5348
 2024-06-28 16:57:56.970068,Italian Open - Italian Open - Winner,Ugo Coussaud,-0.0233,0.0152,0.0385
 2024-06-28 08:58:13.473302,Regular Season Wins O/U - Las Vegas Aces- 2024 Regular Season Wins - Las Vegas Aces- 2024 Regular Season Wins,Over 28.5,-0.023799999999999988,0.4762,0.5
 2024-06-28 08:58:21.114938,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Tyler Glasnow (LAD),-0.02429999999999999,0.2083,0.2326
-2024-06-28 06:57:43.772365,MLB Futures - MLB 2024 World Series Winner - Winning League,American League,-0.024399999999999977,0.4878,0.5122
 2024-06-28 08:58:20.983758,MLB Futures - MLB 2024 American League West - American League West Winner,Seattle Mariners,-0.026499999999999968,0.661,0.6875
 2024-06-28 08:58:21.079913,MLB Futures - MLB 2024 Player Awards - American League Reliever of the Year,Clay Holmes (R),-0.0267,0.0909,0.1176
 2024-06-28 08:58:21.068423,MLB Futures - MLB 2024 Player Awards - American League MVP,Gunnar Henderson (BAL),-0.027600000000000013,0.2105,0.2381
-2024-06-28 06:57:43.761283,MLB Futures - MLB 2024 World Series Winner - Winning Division,NL Central,-0.028399999999999995,0.0625,0.0909
 2024-06-28 08:58:21.045412,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Jack Flaherty (DET),-0.029299999999999993,0.0476,0.0769
 2024-06-28 08:58:21.149756,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Ryan Helsley (R),-0.030299999999999994,0.6364,0.6667
 2024-06-28 08:58:13.690234,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Gavin Newsom,-0.031399999999999983,0.2353,0.2667
@@ -232,8 +225,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-06-28 08:58:13.451682,Regular Season Wins O/U - Connecticut Sun- 2024 Regular Season Wins - Connecticut Sun- 2024 Regular Season Wins,Over 28.5,-0.06519999999999992,0.5348,0.6
 2024-06-28 08:58:13.701152,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,The Field,-0.07450000000000001,0.4255,0.5
 2024-06-28 16:57:56.970068,Italian Open - Italian Open - Winner,Andrea Pavan,-0.0766,0.0345,0.1111
-2024-06-28 06:57:43.761283,MLB Futures - MLB 2024 World Series Winner - Winning Division,AL West,-0.07930000000000001,0.1429,0.2222
 2024-06-28 08:58:13.494902,Regular Season Wins O/U - Minnesota Lynx- 2024 Regular Season Wins - Minnesota Lynx- 2024 Regular Season Wins,Over 28.5,-0.07950000000000002,0.5122,0.5917
+2024-06-28 18:57:58.146978,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,The Field,-0.0797,0.3125,0.3922
+2024-06-28 18:57:58.136164,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Gavin Newsom,-0.08150000000000002,0.1538,0.2353
 2024-06-28 08:58:13.573856,To Make the Playoffs - Dallas Wings- To Make the 2024 WNBA Playoffs - Dallas Wings- To Make the 2024 WNBA Playoffs,No,-0.08889999999999998,0.8,0.8889
 2024-06-28 08:58:21.091650,MLB Futures - MLB 2024 Player Awards - American League ROY,Luis Gil (NYY),-0.10930000000000001,0.4651,0.5744
 2024-06-28 08:58:21.033662,MLB Futures - MLB 2024 Player Awards - American League Comeback Player of the Year,Carlos Rodon (NYY),-0.16479999999999997,0.1923,0.3571
