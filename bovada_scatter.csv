@@ -2,6 +2,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-11 04:58:05.843679,Copa America Futures - Copa América 2024 - Player of The Tournament,James Rodriguez,0.3244,0.5744,0.25
 2024-07-11 12:58:02.631824,The Evian Championship - The Evian Championship - Winner,Ayaka Furue,0.0953,0.1429,0.0476
 2024-07-11 12:57:54.438527,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,JD Vance,0.0917,0.3774,0.2857
+2024-07-11 14:57:47.618546,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,JD Vance,0.0877,0.4651,0.3774
 2024-07-11 12:58:02.631824,The Evian Championship - The Evian Championship - Winner,Hyo Joo Kim,0.0865,0.125,0.0385
 2024-07-11 12:58:02.631824,The Evian Championship - The Evian Championship - Winner,Patty Tavatanakit,0.0692,0.0833,0.0141
 2024-07-11 12:58:02.631824,The Evian Championship - The Evian Championship - Winner,Gaby Lopez,0.0681,0.0833,0.0152
@@ -10,11 +11,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-11 06:57:38.173382,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,JD Vance,0.0504,0.2857,0.2353
 2024-07-11 12:58:02.631824,The Evian Championship - The Evian Championship - Winner,Ingrid Lindblad,0.0489,0.0588,0.0099
 2024-07-11 06:57:36.655475,Copa America Futures - Copa América 2024 - Top Goalscorer,Lautaro Martinez,0.04810000000000003,0.9231,0.875
+2024-07-11 14:57:47.627062,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Will Doug Burgum be the Republican Vice-Presidential candidate?,No,0.04390000000000005,0.8,0.7561
 2024-07-11 12:58:02.631824,The Evian Championship - The Evian Championship - Winner,Hye-Jin Choi,0.0436,0.0588,0.0152
 2024-07-11 12:58:02.631824,The Evian Championship - The Evian Championship - Winner,Lydia Ko,0.0436,0.0588,0.0152
 2024-07-11 12:57:54.490021,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Roy Cooper,0.04040000000000002,0.2222,0.1818
 2024-07-11 10:57:48.159822,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,The Field,0.03980000000000006,0.6552,0.6154
 2024-07-11 08:57:43.215881,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Amy Klobuchar,0.037700000000000004,0.0476,0.0099
+2024-07-11 14:57:47.659940,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,The Field,0.03709999999999991,0.6667,0.6296
 2024-07-11 12:58:02.134191,BKFC Fight Night: Temecula - Isaiah Garcia vs Alexander Gutierrez - To Win the Bout,Alexander Gutierrez,0.03489999999999999,0.5,0.4651
 2024-07-11 12:57:54.446934,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Will Doug Burgum be the Republican Vice-Presidential candidate?,No,0.03390000000000004,0.7561,0.7222
 2024-07-11 10:57:46.491854,UEFA Euro 2024 Futures - Euro 2024 Futures - UEFA Young Player of The Tournament,Kobbie Mainoo,0.03330000000000001,0.1,0.0667
@@ -42,12 +45,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-11 08:57:41.582498,Copa America Futures - Copa América 2024 - Winner,Argentina,0.014200000000000101,0.6296,0.6154
 2024-07-11 10:57:48.149689,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Michelle Obama,0.013999999999999999,0.0909,0.0769
 2024-07-11 04:58:05.843679,Copa America Futures - Copa América 2024 - Player of The Tournament,Luis Diaz,0.013899999999999996,0.125,0.1111
-2024-07-11 02:57:46.166590,Scottish Open - 2/3 Balls - 1st Round 3-Balls - C. Davis / S. Im / M. Siem - 1st Round 3-Balls,Cam Davis,0.012699999999999989,0.3636,0.3509
+2024-07-11 14:57:48.114804,Electoral College Winner - Maine District 1 (ME CD1) - ME CD1,Republican,0.013899999999999996,0.125,0.1111
 2024-07-11 10:57:48.119092,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Marco Rubio,0.011899999999999994,0.16,0.1481
+2024-07-11 14:57:47.649634,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Kamala Harris,0.0116,0.4878,0.4762
 2024-07-11 10:57:48.170228,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Gavin Newsom,0.011099999999999999,0.1111,0.1
 2024-07-11 12:58:02.180834,BKFC Fight Night: Temecula - Victor Rosas vs Luis Iniguez - To Win the Bout,Luis Iniguez,-0.010099999999999998,0.4444,0.4545
 2024-07-11 12:58:02.631824,The Evian Championship - The Evian Championship - Winner,Yewon Lee,-0.0108,0.0033,0.0141
-2024-07-11 02:57:38.605437,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Gold Medal Winner,Germany,-0.011199999999999995,0.0323,0.0435
+2024-07-11 14:57:48.114804,Electoral College Winner - Maine District 1 (ME CD1) - ME CD1,Democrat,-0.011199999999999988,0.9412,0.9524
 2024-07-11 10:57:55.748426,BKFC Fight Night: Temecula - Luther Paipa vs Sean Hotusing - To Win the Bout,Luther Paipa,-0.0116,0.4762,0.4878
 2024-07-11 06:57:38.173382,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Doug Burgum,-0.011899999999999966,0.339,0.3509
 2024-07-11 06:57:38.181678,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Will Doug Burgum be the Republican Vice-Presidential candidate?,Yes,-0.011899999999999966,0.339,0.3509
@@ -64,7 +68,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-11 12:58:02.631824,The Evian Championship - The Evian Championship - Winner,Mao Saigo,-0.0165,0.0079,0.0244
 2024-07-11 12:58:02.631824,The Evian Championship - The Evian Championship - Winner,Yuka Saso,-0.0165,0.0079,0.0244
 2024-07-11 10:57:55.760009,BKFC Fight Night: Temecula - Squire Redfern vs Richard Brooks - To Win the Bout,Squire Redfern,-0.016699999999999993,0.4,0.4167
-2024-07-11 02:57:46.166590,Scottish Open - 2/3 Balls - 1st Round 3-Balls - C. Davis / S. Im / M. Siem - 1st Round 3-Balls,Marcel Siem,-0.016699999999999993,0.25,0.2667
 2024-07-11 12:58:02.631824,The Evian Championship - The Evian Championship - Winner,Minjee Lee,-0.017100000000000004,0.0152,0.0323
 2024-07-11 12:58:02.631824,The Evian Championship - The Evian Championship - Winner,Megan Khang,-0.017599999999999998,0.002,0.0196
 2024-07-11 12:57:52.703527,Primera Division - Chile Primera Division 2024 - Futures - Winner,Universidad Católica,-0.01820000000000002,0.1818,0.2
@@ -74,6 +77,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-11 12:57:54.438527,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Ben Carson,-0.02020000000000001,0.0909,0.1111
 2024-07-11 12:58:02.631824,The Evian Championship - The Evian Championship - Winner,Jin Young Ko,-0.0203,0.0385,0.0588
 2024-07-11 12:58:02.631824,The Evian Championship - The Evian Championship - Winner,Leona Maguire,-0.0204,0.004,0.0244
+2024-07-11 14:57:47.618546,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Marco Rubio,-0.02049999999999999,0.1333,0.1538
 2024-07-11 12:58:02.631824,The Evian Championship - The Evian Championship - Winner,Hannah Green,-0.0211,0.0033,0.0244
 2024-07-11 08:57:43.195307,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.021699999999999997,0.4545,0.4762
 2024-07-11 08:57:43.205483,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,Joe Biden,-0.021699999999999997,0.4545,0.4762
@@ -83,26 +87,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-11 12:57:54.490021,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Kamala Harris,-0.022699999999999998,0.4651,0.4878
 2024-07-11 06:57:38.224353,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Hillary Clinton,-0.024600000000000004,0.0099,0.0345
 2024-07-11 12:58:02.631824,The Evian Championship - The Evian Championship - Winner,Linn Grant,-0.0253,0.0132,0.0385
+2024-07-11 14:57:47.649634,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.025499999999999967,0.4,0.4255
 2024-07-11 12:57:54.479531,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,The Field,-0.025599999999999956,0.6296,0.6552
 2024-07-11 12:58:02.631824,The Evian Championship - The Evian Championship - Winner,Ally Ewing,-0.025900000000000003,0.0217,0.0476
 2024-07-11 12:58:02.631824,The Evian Championship - The Evian Championship - Winner,Charley Hull,-0.026799999999999997,0.001,0.0278
 2024-07-11 12:58:02.631824,The Evian Championship - The Evian Championship - Winner,Rose Zhang,-0.0273,0.005,0.0323
 2024-07-11 04:58:05.843679,Copa America Futures - Copa América 2024 - Player of The Tournament,Lionel Messi,-0.02779999999999999,0.2222,0.25
+2024-07-11 14:57:47.618546,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Ben Carson,-0.028399999999999995,0.0625,0.0909
 2024-07-11 04:58:05.843679,Copa America Futures - Copa América 2024 - Player of The Tournament,Nicolas De la Cruz,-0.028599999999999997,0.0149,0.0435
 2024-07-11 06:57:38.224353,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Susan Rice,-0.0286,0.0099,0.0385
-2024-07-11 06:57:38.224353,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Amy Klobuchar,-0.0286,0.0099,0.0385
+2024-07-11 06:57:38.224353,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Alexandria Ocasio-Cortez,-0.0286,0.0099,0.0385
 2024-07-11 06:57:38.224353,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Elizabeth Warren,-0.0286,0.0099,0.0385
 2024-07-11 06:57:38.224353,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Cory Booker,-0.0286,0.0099,0.0385
-2024-07-11 06:57:38.224353,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Alexandria Ocasio-Cortez,-0.0286,0.0099,0.0385
+2024-07-11 06:57:38.224353,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Amy Klobuchar,-0.0286,0.0099,0.0385
 2024-07-11 12:58:02.169137,BKFC Fight Night: Temecula - Squire Redfern vs Richard Brooks - To Win the Bout,Squire Redfern,-0.029600000000000015,0.3704,0.4
-2024-07-11 02:57:38.605437,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Gold Medal Winner,USA,-0.031000000000000028,0.8261,0.8571
 2024-07-11 06:57:45.503898,Match-Ups - 1st Round Match-Up - B. Hun An v S. Im - Requests,Byeong Hun An,-0.031799999999999995,0.4444,0.4762
+2024-07-11 14:57:47.618546,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Doug Burgum,-0.031799999999999995,0.2667,0.2985
 2024-07-11 12:58:02.631824,The Evian Championship - The Evian Championship - Winner,Miyuu Yamashita,-0.032400000000000005,0.0152,0.0476
 2024-07-11 12:58:02.134191,BKFC Fight Night: Temecula - Isaiah Garcia vs Alexander Gutierrez - To Win the Bout,Isaiah Garcia,-0.03479999999999994,0.5652,0.6
+2024-07-11 14:57:47.659940,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,Joe Biden,-0.0348,0.4,0.4348
 2024-07-11 12:57:52.703527,Primera Division - Chile Primera Division 2024 - Futures - Winner,Colo-Colo,-0.03570000000000001,0.25,0.2857
 2024-07-11 12:57:54.446934,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Will Doug Burgum be the Republican Vice-Presidential candidate?,Yes,-0.03710000000000002,0.3077,0.3448
 2024-07-11 10:57:48.170228,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Amy Klobuchar,-0.037700000000000004,0.0099,0.0476
 2024-07-11 12:58:02.631824,The Evian Championship - The Evian Championship - Winner,Lilia Vu,-0.0409,0.0179,0.0588
+2024-07-11 14:57:47.627062,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Will Doug Burgum be the Republican Vice-Presidential candidate?,Yes,-0.04099999999999998,0.2667,0.3077
 2024-07-11 06:57:36.655475,Copa America Futures - Copa América 2024 - Top Goalscorer,Darwin Nunez,-0.04269999999999999,0.1111,0.1538
 2024-07-11 04:58:05.843679,Copa America Futures - Copa América 2024 - Player of The Tournament,Lautaro Martinez,-0.04620000000000002,0.1538,0.2
 2024-07-11 12:57:54.438527,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Doug Burgum,-0.04630000000000001,0.2985,0.3448
