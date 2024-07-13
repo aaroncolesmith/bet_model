@@ -8,12 +8,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Hae Ran Ryu,0.07450000000000001,0.1333,0.0588
 2024-07-12 22:58:16.830465,Andalucia - 2/3 Balls - 2nd Round 3 Balls - S. Garcia / A. Lahiri / S. Horsfield - 2nd Round 3 Balls,Sergio Garcia,0.06779999999999997,0.5122,0.4444
 2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Orlando Magic,0.065,0.1176,0.0526
-2024-07-12 18:58:16.803677,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,Joe Biden,0.05559999999999998,0.5,0.4444
 2024-07-12 18:58:16.793532,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.05559999999999998,0.5,0.4444
+2024-07-12 18:58:16.803677,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,Joe Biden,0.05559999999999998,0.5,0.4444
 2024-07-13 02:58:20.137720,MLB Futures - MLB 2024 American League Central - American League Central Winner,Kansas City Royals,0.048600000000000004,0.1111,0.0625
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Boston Celtics,0.04849999999999999,0.1818,0.1333
 2024-07-12 20:58:01.375284,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Kamala Harris,0.045499999999999985,0.5,0.4545
-2024-07-12 16:58:02.749150,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Ben Carson,0.042800000000000005,0.1053,0.0625
+2024-07-13 04:57:59.424843,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Henry Martin,0.042899999999999994,0.1429,0.1
 2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Minnesota Timberwolves,0.04240000000000001,0.1333,0.0909
 2024-07-13 02:58:21.255483,Round Match-Ups - 3rd Round Match-Ups - R. McIIroy vs X. Schauffele - 3rd Round Match-Ups,Rory McIlroy,0.04139999999999999,0.5652,0.5238
 2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Stephanie Kyriacou,0.0392,0.0588,0.0196
@@ -27,19 +27,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-12 22:58:16.180646,Scores - 3rd Round Scores - Sungjae Im - 3rd Round Scores,Over 67.5,0.033299999999999996,0.4878,0.4545
 2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Houston Rockets,0.033299999999999996,0.1333,0.1
 2024-07-13 02:58:21.020141,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - C. Syme / R. Fox - 3rd Round 2-Balls,Connor Syme,0.031799999999999995,0.4762,0.4444
+2024-07-12 22:58:16.003425,Scores - 3rd Round Scores - Alex Noren - 3rd Round Scores,Over 67.5,0.03179999999999994,0.5556,0.5238
 2024-07-12 22:58:16.116445,Scores - 3rd Round Scores - Nicolai Hojgaard - 3rd Round Scores,Over 67.5,0.03179999999999994,0.5556,0.5238
 2024-07-12 22:58:16.138481,Scores - 3rd Round Scores - Rasmus Hojgaard - 3rd Round Scores,Over 67.5,0.03179999999999994,0.5556,0.5238
-2024-07-12 22:58:16.003425,Scores - 3rd Round Scores - Alex Noren - 3rd Round Scores,Over 67.5,0.03179999999999994,0.5556,0.5238
 2024-07-13 02:58:20.893056,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - T. Olesen / N. Bachem - 3rd Round 2-Balls,Thorbjorn Olesen,0.028299999999999992,0.6774,0.6491
+2024-07-13 04:57:59.432434,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Tijuana,0.0262,0.0385,0.0123
 2024-07-13 00:58:14.976124,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - C. Syme / R. Fox - 3rd Round 2-Balls,Ryan Fox,0.025599999999999956,0.6,0.5744
 2024-07-12 20:58:11.667467,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - T. Fleetwood / X. Schauffele - 3rd Round 2-Balls,Xander Schauffele,0.025599999999999956,0.6,0.5744
 2024-07-12 22:58:16.205092,Scores - 3rd Round Scores - Xander Schauffele - 3rd Round Scores,Over 66.5,0.023800000000000043,0.5238,0.5
-2024-07-12 16:58:11.163055,BKFC Fight Night: Temecula - Brett Fields vs Luis Villasenor - To Win the Bout,Luis Villasenor,0.022199999999999998,0.3448,0.3226
+2024-07-13 04:58:09.002564,MLB Futures - MLB 2024 American League West - American League West Winner,Houston Astros,0.023799999999999988,0.5,0.4762
 2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Memphis Grizzlies,0.022199999999999998,0.1333,0.1111
+2024-07-13 04:57:59.495298,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Molde FK,0.022199999999999998,0.2222,0.2
+2024-07-12 16:58:11.163055,BKFC Fight Night: Temecula - Brett Fields vs Luis Villasenor - To Win the Bout,Luis Villasenor,0.022199999999999998,0.3448,0.3226
 2024-07-12 16:58:11.246567,BKFC Fight Night: Temecula - Mike Hansen vs Anthony Yost - To Win the Bout,Mike Hansen,0.02180000000000004,0.6296,0.6078
 2024-07-13 02:58:21.170228,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - M. Hughes v N. Hojgaard - 3rd Round 2-Balls,Mackenzie Hughes,0.021699999999999997,0.4762,0.4545
-2024-07-13 02:58:21.399822,Round Match-Ups - 3rd Round Match-Ups - F. Zanotti vs M. Kinhult - 3rd Round Match-Ups,Fabrizio Zanotti,0.02169999999999994,0.5455,0.5238
 2024-07-13 02:58:21.361052,Round Match-Ups - 3rd Round Match-Ups - L. Aberg vs C. Morikawa - 3rd Round Match-Ups,Ludvig Aberg,0.02169999999999994,0.5455,0.5238
+2024-07-13 02:58:21.399822,Round Match-Ups - 3rd Round Match-Ups - F. Zanotti vs M. Kinhult - 3rd Round Match-Ups,Fabrizio Zanotti,0.02169999999999994,0.5455,0.5238
 2024-07-12 22:58:16.305108,Round Match-Ups - 3rd Round Match-Ups - C. Conners vs S. Theegala - 3rd Round Match-Ups,Sahith Theegala,0.02169999999999994,0.5455,0.5238
 2024-07-13 02:58:21.879202,Round Match-Ups - 2nd Round Match-Ups - D. Johnson vs R. Bland - 2nd Round Match-Ups,Richard Bland,0.02169999999999994,0.5455,0.5238
 2024-07-12 22:58:16.326070,Round Match-Ups - 3rd Round Match-Ups - A. Noren vs N. Hojgaard - 3rd Round Match-Ups,Alex Noren,0.02169999999999994,0.5455,0.5238
@@ -50,6 +53,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-12 20:58:01.375284,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Josh Shapiro,0.0203,0.1379,0.1176
 2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Jin Young Ko,0.0203,0.0588,0.0385
 2024-07-13 02:58:20.916757,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - T. Kim / E. Cole - 3rd Round 2-Balls,Tom Kim,0.020299999999999985,0.6429,0.6226
+2024-07-13 04:57:59.495298,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Bodø/Glimt,0.020100000000000007,0.7701,0.75
 2024-07-13 02:58:21.478273,Round Match-Ups - 3rd Round Match-Ups - N. Shipley vs H. Hall - 3rd Round Match-Ups,Harry Hall,0.01970000000000005,0.5652,0.5455
 2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Yu Jin Sung,0.019700000000000002,0.0217,0.002
 2024-07-12 16:58:11.485382,Andalucia - 2/3 Balls - 2nd Round 3 Balls - A. Ancer / J. Niemann / P. Casey - 2nd Round 3 Balls,Paul Casey,0.019600000000000006,0.3226,0.303
@@ -67,25 +71,30 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-12 16:58:10.580133,Elite Boxing - Jake Paul vs Mike Perry - To Win the Bout,Jake Paul,0.011699999999999933,0.7895,0.7778
 2024-07-12 18:58:16.762898,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,JD Vance,0.011600000000000055,0.5238,0.5122
 2024-07-12 16:58:11.275701,BKFC Fight Night: Temecula - Squire Redfern vs Richard Brooks - To Win the Bout,Squire Redfern,0.01150000000000001,0.3448,0.3333
+2024-07-13 04:57:59.495298,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,SK Brann,0.011099999999999999,0.1111,0.1
 2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Miami Heat,0.010700000000000001,0.0385,0.0278
 2024-07-12 20:57:59.724721,UEFA Euro 2024 Futures - Euro 2024 Futures - Outright Winner,England,0.010599999999999998,0.4651,0.4545
-2024-07-12 16:58:02.757443,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Will Doug Burgum be the Republican Vice-Presidential candidate?,No,0.010500000000000065,0.8182,0.8077
 2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Georgia Hall,0.010300000000000002,0.0244,0.0141
 2024-07-12 16:58:11.174636,BKFC Fight Night: Temecula - Daniel Pettit vs Van Vo - To Win the Bout,Van Vo,0.010099999999999998,0.3226,0.3125
-2024-07-12 16:58:02.779816,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,-0.010099999999999998,0.4444,0.4545
-2024-07-12 16:58:02.789987,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,Joe Biden,-0.010099999999999998,0.4444,0.4545
+2024-07-13 04:58:09.002564,MLB Futures - MLB 2024 American League West - American League West Winner,Seattle Mariners,-0.010099999999999998,0.5455,0.5556
+2024-07-13 04:57:59.424843,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Brandon Vazquez,-0.0102,0.0667,0.0769
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Charlotte Hornets,-0.0102,0.005,0.0152
+2024-07-13 04:58:09.002564,MLB Futures - MLB 2024 American League West - American League West Winner,Texas Rangers,-0.0102,0.0667,0.0769
 2024-07-12 16:58:10.656708,Boxing Lines - Roman Gonzalez vs Rober Barrera - To Win the Bout,Rober Barrera,-0.0102,0.0667,0.0769
 2024-07-12 16:58:10.580133,Elite Boxing - Jake Paul vs Mike Perry - To Win the Bout,Mike Perry,-0.010299999999999976,0.2564,0.2667
-2024-07-12 22:58:06.226141,Regular Season Wins O/U - Seattle Storm- 2024 Regular Season Wins - Seattle Storm- 2024 Regular Season Wins,Over 26.5,-0.010599999999999998,0.4545,0.4651
 2024-07-12 16:58:11.485382,Andalucia - 2/3 Balls - 2nd Round 3 Balls - A. Ancer / J. Niemann / P. Casey - 2nd Round 3 Balls,Joaquin Niemann,-0.010599999999999998,0.4545,0.4651
+2024-07-12 22:58:06.226141,Regular Season Wins O/U - Seattle Storm- 2024 Regular Season Wins - Seattle Storm- 2024 Regular Season Wins,Over 26.5,-0.010599999999999998,0.4545,0.4651
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,New Orleans Pelicans,-0.010700000000000001,0.0278,0.0385
-2024-07-12 20:58:01.375284,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Andy Beshear,-0.011099999999999999,0.1,0.1111
 2024-07-12 16:58:11.275701,BKFC Fight Night: Temecula - Squire Redfern vs Richard Brooks - To Win the Bout,Richard Brooks,-0.011099999999999999,0.7222,0.7333
+2024-07-12 20:58:01.375284,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Andy Beshear,-0.011099999999999999,0.1,0.1111
+2024-07-13 04:57:59.424843,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Alexis Vega,-0.011199999999999995,0.0476,0.0588
+2024-07-13 04:57:59.424843,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Ricardo Monreal,-0.011199999999999995,0.0476,0.0588
+2024-07-13 04:57:59.424843,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Ricardo Marin,-0.011199999999999995,0.0476,0.0588
 2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Oklahoma City Thunder,-0.011199999999999995,0.0476,0.0588
+2024-07-13 04:57:59.424843,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Diber Cambindo,-0.011199999999999995,0.0476,0.0588
 2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Charlotte Hornets,-0.011199999999999995,0.0476,0.0588
-2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Toronto Raptors,-0.0112,0.004,0.0152
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Chicago Bulls,-0.0112,0.004,0.0152
+2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Toronto Raptors,-0.0112,0.004,0.0152
 2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Alison Lee,-0.0113,0.0066,0.0179
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Houston Rockets,-0.011399999999999997,0.0164,0.0278
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Utah Jazz,-0.0119,0.0033,0.0152
@@ -104,6 +113,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-13 02:58:20.996755,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - T. Fleetwood / X. Schauffele - 3rd Round 2-Balls,Xander Schauffele,-0.016699999999999937,0.5833,0.6
 2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Ally Ewing,-0.0167,0.005,0.0217
 2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Gemma Dryburgh,-0.0179,0.0099,0.0278
+2024-07-13 04:57:59.424843,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Alejandro Zendejas,-0.018099999999999998,0.0588,0.0769
+2024-07-13 04:57:59.432434,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Chivas Guadalajara,-0.018099999999999998,0.0588,0.0769
 2024-07-13 02:58:21.170228,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - M. Hughes v N. Hojgaard - 3rd Round 2-Balls,Nicolai Hojgaard,-0.018100000000000005,0.5652,0.5833
 2024-07-12 16:58:11.163055,BKFC Fight Night: Temecula - Brett Fields vs Luis Villasenor - To Win the Bout,Brett Fields,-0.018100000000000005,0.7222,0.7403
 2024-07-12 20:58:01.332794,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Will Doug Burgum be the Republican Vice-Presidential candidate?,No,-0.018199999999999994,0.8,0.8182
@@ -112,22 +123,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Indiana Pacers,-0.0189,0.0196,0.0385
 2024-07-12 16:58:11.246567,BKFC Fight Night: Temecula - Mike Hansen vs Anthony Yost - To Win the Bout,Anthony Yost,-0.019699999999999995,0.4348,0.4545
 2024-07-12 22:58:16.205092,Scores - 3rd Round Scores - Xander Schauffele - 3rd Round Scores,Under 66.5,-0.01970000000000005,0.5455,0.5652
-2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,San Antonio Spurs,-0.019899999999999998,0.0079,0.0278
 2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Denver Nuggets,-0.019899999999999998,0.0079,0.0278
+2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,San Antonio Spurs,-0.019899999999999998,0.0079,0.0278
 2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Atthaya Thitikul,-0.0204,0.004,0.0244
 2024-07-12 20:58:11.667467,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - T. Fleetwood / X. Schauffele - 3rd Round 2-Balls,Tommy Fleetwood,-0.020699999999999996,0.4444,0.4651
 2024-07-13 00:58:14.976124,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - C. Syme / R. Fox - 3rd Round 2-Balls,Connor Syme,-0.020699999999999996,0.4444,0.4651
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Atlanta Hawks,-0.021199999999999997,0.0066,0.0278
 2024-07-12 16:58:11.151440,BKFC Fight Night: Temecula - Luther Paipa vs Sean Hotusing - To Win the Bout,Luther Paipa,-0.021699999999999997,0.4545,0.4762
 2024-07-12 22:58:16.156257,Scores - 3rd Round Scores - Rory McIIroy - 3rd Round Scores,Under 66.5,-0.022600000000000064,0.6,0.6226
-2024-07-12 16:58:02.749150,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,JD Vance,-0.022600000000000064,0.5122,0.5348
 2024-07-13 02:58:21.478273,Round Match-Ups - 3rd Round Match-Ups - N. Shipley vs H. Hall - 3rd Round Match-Ups,Neal Shipley,-0.023799999999999988,0.4762,0.5
-2024-07-12 22:58:16.773763,Andalucia - 2/3 Balls - 2nd Round 3 Balls - C. Ortiz / S. Vincent / M. Kaymer - 2nd Round 3 Balls,Carlos Ortiz,-0.023800000000000043,0.5,0.5238
 2024-07-12 20:58:01.324594,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,JD Vance,-0.023800000000000043,0.5,0.5238
-2024-07-13 02:58:21.879202,Round Match-Ups - 2nd Round Match-Ups - D. Johnson vs R. Bland - 2nd Round Match-Ups,Dustin Johnson,-0.023800000000000043,0.5,0.5238
-2024-07-12 22:58:16.305108,Round Match-Ups - 3rd Round Match-Ups - C. Conners vs S. Theegala - 3rd Round Match-Ups,Corey Conners,-0.023800000000000043,0.5,0.5238
-2024-07-12 22:58:16.326070,Round Match-Ups - 3rd Round Match-Ups - A. Noren vs N. Hojgaard - 3rd Round Match-Ups,Nicolai Hojgaard,-0.023800000000000043,0.5,0.5238
 2024-07-13 02:58:21.361052,Round Match-Ups - 3rd Round Match-Ups - L. Aberg vs C. Morikawa - 3rd Round Match-Ups,Collin Morikawa,-0.023800000000000043,0.5,0.5238
+2024-07-13 02:58:21.879202,Round Match-Ups - 2nd Round Match-Ups - D. Johnson vs R. Bland - 2nd Round Match-Ups,Dustin Johnson,-0.023800000000000043,0.5,0.5238
+2024-07-12 22:58:16.326070,Round Match-Ups - 3rd Round Match-Ups - A. Noren vs N. Hojgaard - 3rd Round Match-Ups,Nicolai Hojgaard,-0.023800000000000043,0.5,0.5238
+2024-07-12 22:58:16.305108,Round Match-Ups - 3rd Round Match-Ups - C. Conners vs S. Theegala - 3rd Round Match-Ups,Corey Conners,-0.023800000000000043,0.5,0.5238
+2024-07-12 22:58:16.773763,Andalucia - 2/3 Balls - 2nd Round 3 Balls - C. Ortiz / S. Vincent / M. Kaymer - 2nd Round 3 Balls,Carlos Ortiz,-0.023800000000000043,0.5,0.5238
 2024-07-13 02:58:21.399822,Round Match-Ups - 3rd Round Match-Ups - F. Zanotti vs M. Kinhult - 3rd Round Match-Ups,Marcus Kinhult,-0.023800000000000043,0.5,0.5238
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,L.A. Clippers,-0.023899999999999998,0.0196,0.0435
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Los Angeles Lakers,-0.024,0.0385,0.0625
@@ -142,8 +152,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Madelene Sagstrom,-0.028000000000000004,0.0196,0.0476
 2024-07-13 02:58:20.137720,MLB Futures - MLB 2024 American League Central - American League Central Winner,Cleveland Guardians,-0.028299999999999992,0.6491,0.6774
 2024-07-13 02:58:20.893056,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - T. Olesen / N. Bachem - 3rd Round 2-Balls,Nick Bachem,-0.028600000000000014,0.3636,0.3922
-2024-07-12 22:58:16.040405,Scores - 3rd Round Scores - Collin Morikawa - 3rd Round Scores,Under 66.5,-0.030399999999999983,0.5348,0.5652
 2024-07-12 22:58:16.168451,Scores - 3rd Round Scores - Sahith Theegala - 3rd Round Scores,Under 67.5,-0.030399999999999983,0.5348,0.5652
+2024-07-12 22:58:16.040405,Scores - 3rd Round Scores - Collin Morikawa - 3rd Round Scores,Under 66.5,-0.030399999999999983,0.5348,0.5652
 2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Ingrid Lindblad,-0.031,0.0278,0.0588
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Denver Nuggets,-0.0321,0.0588,0.0909
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Golden State Warriors,-0.033,0.0196,0.0526
@@ -153,8 +163,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-12 22:58:16.180646,Scores - 3rd Round Scores - Sungjae Im - 3rd Round Scores,Under 67.5,-0.033399999999999985,0.5744,0.6078
 2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Cleveland Cavaliers,-0.0335,0.005,0.0385
 2024-07-13 02:58:21.020141,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - C. Syme / R. Fox - 3rd Round 2-Balls,Ryan Fox,-0.03479999999999994,0.5652,0.6
-2024-07-13 02:58:21.128298,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - A. Scott v R. MacIntyre - 3rd Round 2-Balls,Adam Scott,-0.03489999999999999,0.4651,0.5
 2024-07-12 16:58:11.204990,BKFC Fight Night: Temecula - Isaiah Garcia vs Alexander Gutierrez - To Win the Bout,Isaiah Garcia,-0.03489999999999999,0.4651,0.5
+2024-07-13 02:58:21.128298,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - A. Scott v R. MacIntyre - 3rd Round 2-Balls,Adam Scott,-0.03489999999999999,0.4651,0.5
 2024-07-12 22:58:16.052671,Scores - 3rd Round Scores - Corey Conners - 3rd Round Scores,Under 67.5,-0.03610000000000002,0.5556,0.5917
 2024-07-12 16:58:11.287374,BKFC Fight Night: Temecula - Victor Rosas vs Luis Iniguez - To Win the Bout,Luis Iniguez,-0.03710000000000002,0.3077,0.3448
 2024-07-12 22:58:16.830465,Andalucia - 2/3 Balls - 2nd Round 3 Balls - S. Garcia / A. Lahiri / S. Horsfield - 2nd Round 3 Balls,Anirban Lahiri,-0.03710000000000002,0.3077,0.3448
