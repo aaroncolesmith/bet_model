@@ -1,10 +1,13 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Ayaka Furue,0.33330000000000004,0.4762,0.1429
 2024-07-12 22:58:16.797360,Andalucia - 2/3 Balls - 2nd Round 3 Balls - D. Burmester / D. Lee / E. Lopez-Chacarra - 2nd Round 3 Balls,Dean Burmester,0.27380000000000004,0.5238,0.25
+2024-07-13 08:58:05.221815,Angel Reese Specials - Angel Reese Specials - Angel Reese to Record a Double Double in Consecutive Games Since 6/4,16+ Games,0.2349,0.8182,0.5833
+2024-07-13 08:58:05.221815,Angel Reese Specials - Angel Reese Specials - Angel Reese to Record a Double Double in Consecutive Games Since 6/4,17+ Games,0.19999999999999996,0.6,0.4
 2024-07-12 22:58:16.809461,Andalucia - 2/3 Balls - 2nd Round 3 Balls - L. Oosthuizen / L. Westwood / R. Bland - 2nd Round 3 Balls,Louis Oosthuizen,0.17770000000000002,0.4444,0.2667
 2024-07-12 22:58:16.785598,Andalucia - 2/3 Balls - 2nd Round 3 Balls - C. Smith / P. Reed / T. Hatton - 2nd Round 3 Balls,Tyrrell Hatton,0.16660000000000003,0.4444,0.2778
+2024-07-13 08:58:05.221815,Angel Reese Specials - Angel Reese Specials - Angel Reese to Record a Double Double in Consecutive Games Since 6/4,18+ Games,0.13670000000000004,0.4444,0.3077
 2024-07-13 06:58:27.110428,MLB Futures - MLB Draft 2024 - Bryce Rainer Draft Position,Under 8.5,0.12660000000000005,0.6721,0.5455
 2024-07-13 06:58:27.222877,MLB Futures - MLB Draft 2024 - Ryan Sloan Draft Position,Under 31.5,0.12549999999999994,0.7333,0.6078
+2024-07-13 08:58:03.787708,200m - Paris 2024 - Women's 200m - Gold Medal Winner,Julien Alfred (LCA),0.123,0.1818,0.0588
 2024-07-13 06:58:17.996199,400m Hurdles - Paris 2024 - Men's 400m Hurdles - Gold Medal Winner,Rai Benjamin (USA),0.11910000000000004,0.4762,0.3571
 2024-07-12 22:58:16.773763,Andalucia - 2/3 Balls - 2nd Round 3 Balls - C. Ortiz / S. Vincent / M. Kaymer - 2nd Round 3 Balls,Martin Kaymer,0.10200000000000001,0.3125,0.2105
 2024-07-13 06:58:26.978070,MLB Futures - MLB Draft 2024 - 1st to Be Drafted - Cam Smith vs Seaver King,Cam Smith,0.09770000000000001,0.6721,0.5744
@@ -12,14 +15,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-13 06:58:26.995618,MLB Futures - MLB Draft 2024 - 1st to Be Drafted - Carson Benge vs Vance Honeycutt,Carson Benge,0.0958,0.6875,0.5917
 2024-07-12 22:58:16.809461,Andalucia - 2/3 Balls - 2nd Round 3 Balls - L. Oosthuizen / L. Westwood / R. Bland - 2nd Round 3 Balls,Richard Bland,0.08750000000000002,0.4,0.3125
 2024-07-13 06:58:27.037327,MLB Futures - MLB Draft 2024 - 1st to Be Drafted - James Tibbs vs Nick Kurtz,Nick Kurtz,0.08419999999999994,0.7333,0.6491
+2024-07-13 08:58:13.108582,MLB Futures - MLB 2024 American League East - American League East Winner,New York Yankees,0.07939999999999997,0.5556,0.4762
 2024-07-13 06:58:27.068696,MLB Futures - MLB Draft 2024 - 1st to Be Drafted - PJ Morlando vs Slade Caldwell,Slade Caldwell,0.07720000000000005,0.7647,0.6875
+2024-07-13 08:58:03.590049,100m - Paris 2024 - Women's 100m - Gold Medal Winner,Julien Alfred (LCA),0.07500000000000001,0.2,0.125
 2024-07-13 06:58:27.058262,MLB Futures - MLB Draft 2024 - 1st to Be Drafted - Kaelen Culpepper vs Tommy White,Tommy White,0.07499999999999996,0.6667,0.5917
-2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Hae Ran Ryu,0.07450000000000001,0.1333,0.0588
 2024-07-13 06:58:26.925915,MLB Futures - MLB Draft 2024 - 1st to Be Drafted - Brody Brecht vs Jurrangelo Cijntje,Jurrangelo Cijntje,0.07299999999999995,0.6078,0.5348
 2024-07-13 06:58:26.915535,MLB Futures - MLB Draft 2024 - 1st to Be Drafted - Billy Amick vs Dakota Jordan,Billy Amick,0.06789999999999996,0.5917,0.5238
 2024-07-12 22:58:16.830465,Andalucia - 2/3 Balls - 2nd Round 3 Balls - S. Garcia / A. Lahiri / S. Horsfield - 2nd Round 3 Balls,Sergio Garcia,0.06779999999999997,0.5122,0.4444
-2024-07-13 06:58:19.459413,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.06520000000000004,0.5652,0.5
 2024-07-13 06:58:19.469604,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,Joe Biden,0.06520000000000004,0.5652,0.5
+2024-07-13 08:58:05.319107,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Kamala Harris,0.06520000000000004,0.5652,0.5
+2024-07-13 06:58:19.459413,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Joe Biden,0.06520000000000004,0.5652,0.5
 2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Orlando Magic,0.065,0.1176,0.0526
 2024-07-13 06:58:26.905150,MLB Futures - MLB Draft 2024 - 1st Overall Pick,Charlie Condon,0.05710000000000001,0.2,0.1429
 2024-07-13 06:58:27.089515,MLB Futures - MLB Draft 2024 - Braden Montgomery Draft Position,Over 7.5,0.05689999999999995,0.5917,0.5348
@@ -27,98 +32,92 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-13 06:58:27.233263,MLB Futures - MLB Draft 2024 - Ryan Waldschmidt Draft Position,Under 16.5,0.05070000000000002,0.4762,0.4255
 2024-07-13 02:58:20.137720,MLB Futures - MLB 2024 American League Central - American League Central Winner,Kansas City Royals,0.048600000000000004,0.1111,0.0625
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Boston Celtics,0.04849999999999999,0.1818,0.1333
-2024-07-12 20:58:01.375284,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Kamala Harris,0.045499999999999985,0.5,0.4545
+2024-07-13 08:58:05.234877,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Joe Biden,0.0476,0.1905,0.1429
+2024-07-13 08:58:03.787708,200m - Paris 2024 - Women's 200m - Gold Medal Winner,Gabby Thomas (USA),0.045499999999999985,0.5,0.4545
 2024-07-13 06:58:27.254584,MLB Futures - MLB Draft 2024 - Theo Gillen Draft Position,Under 22.5,0.04409999999999992,0.6667,0.6226
+2024-07-13 06:58:27.006038,MLB Futures - MLB Draft 2024 - 1st to Be Drafted - Charlie Condon vs Jac Caglianone,Charlie Condon,0.04390000000000005,0.8,0.7561
 2024-07-13 04:57:59.424843,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Henry Martin,0.042899999999999994,0.1429,0.1
 2024-07-13 06:58:26.960155,MLB Futures - MLB Draft 2024 - 1st to Be Drafted - Caleb Lomavita vs Walker Janek,Walker Janek,0.04259999999999997,0.6078,0.5652
 2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Minnesota Timberwolves,0.04240000000000001,0.1333,0.0909
 2024-07-13 02:58:21.255483,Round Match-Ups - 3rd Round Match-Ups - R. McIIroy vs X. Schauffele - 3rd Round Match-Ups,Rory McIlroy,0.04139999999999999,0.5652,0.5238
-2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Stephanie Kyriacou,0.0392,0.0588,0.0196
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Milwaukee Bucks,0.037500000000000006,0.1,0.0625
 2024-07-12 22:58:16.052671,Scores - 3rd Round Scores - Corey Conners - 3rd Round Scores,Over 67.5,0.035999999999999976,0.5122,0.4762
 2024-07-12 22:58:16.040405,Scores - 3rd Round Scores - Collin Morikawa - 3rd Round Scores,Over 66.5,0.03480000000000005,0.5348,0.5
 2024-07-12 22:58:16.168451,Scores - 3rd Round Scores - Sahith Theegala - 3rd Round Scores,Over 67.5,0.03480000000000005,0.5348,0.5
-2024-07-12 20:58:00.972934,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Oklahoma City Thunder,0.0343,0.1176,0.0833
+2024-07-13 08:58:13.120410,MLB Futures - MLB 2024 American League West - American League West Winner,Houston Astros,0.03480000000000005,0.5348,0.5
 2024-07-13 06:58:27.016376,MLB Futures - MLB Draft 2024 - 1st to Be Drafted - Chase Burns vs Hagen Smith,Chase Burns,0.03379999999999994,0.7059,0.6721
 2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Houston Rockets,0.033299999999999996,0.1333,0.1
 2024-07-12 22:58:16.180646,Scores - 3rd Round Scores - Sungjae Im - 3rd Round Scores,Over 67.5,0.033299999999999996,0.4878,0.4545
 2024-07-13 02:58:21.020141,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - C. Syme / R. Fox - 3rd Round 2-Balls,Connor Syme,0.031799999999999995,0.4762,0.4444
 2024-07-12 22:58:16.003425,Scores - 3rd Round Scores - Alex Noren - 3rd Round Scores,Over 67.5,0.03179999999999994,0.5556,0.5238
-2024-07-12 22:58:16.138481,Scores - 3rd Round Scores - Rasmus Hojgaard - 3rd Round Scores,Over 67.5,0.03179999999999994,0.5556,0.5238
 2024-07-12 22:58:16.116445,Scores - 3rd Round Scores - Nicolai Hojgaard - 3rd Round Scores,Over 67.5,0.03179999999999994,0.5556,0.5238
-2024-07-13 06:58:27.047831,MLB Futures - MLB Draft 2024 - 1st to Be Drafted - Jonathan Santucci vs Ryan Prager,Jonathan Santucci,0.030299999999999994,0.697,0.6667
+2024-07-12 22:58:16.138481,Scores - 3rd Round Scores - Rasmus Hojgaard - 3rd Round Scores,Over 67.5,0.03179999999999994,0.5556,0.5238
 2024-07-13 06:58:27.275711,MLB Futures - MLB Draft 2024 - Trey Yesavage Draft Position,Over 12.5,0.030299999999999994,0.6667,0.6364
+2024-07-13 06:58:27.047831,MLB Futures - MLB Draft 2024 - 1st to Be Drafted - Jonathan Santucci vs Ryan Prager,Jonathan Santucci,0.030299999999999994,0.697,0.6667
 2024-07-13 02:58:20.893056,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - T. Olesen / N. Bachem - 3rd Round 2-Balls,Thorbjorn Olesen,0.028299999999999992,0.6774,0.6491
 2024-07-13 06:58:28.204646,Round Match-Ups - 3rd Round Match-Ups - N. Shipley vs H. Hall - 3rd Round Match-Ups,Harry Hall,0.026499999999999968,0.5917,0.5652
 2024-07-13 04:57:59.432434,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Tijuana,0.0262,0.0385,0.0123
-2024-07-12 20:58:11.667467,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - T. Fleetwood / X. Schauffele - 3rd Round 2-Balls,Xander Schauffele,0.025599999999999956,0.6,0.5744
 2024-07-13 00:58:14.976124,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - C. Syme / R. Fox - 3rd Round 2-Balls,Ryan Fox,0.025599999999999956,0.6,0.5744
 2024-07-12 22:58:16.205092,Scores - 3rd Round Scores - Xander Schauffele - 3rd Round Scores,Over 66.5,0.023800000000000043,0.5238,0.5
-2024-07-13 04:58:09.002564,MLB Futures - MLB 2024 American League West - American League West Winner,Houston Astros,0.023799999999999988,0.5,0.4762
 2024-07-13 06:58:17.784029,100m - Paris 2024 - Men's 100m - Gold Medal Winner,Oblique Seville (JAM),0.023799999999999988,0.1667,0.1429
-2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Memphis Grizzlies,0.022199999999999998,0.1333,0.1111
+2024-07-13 04:58:09.002564,MLB Futures - MLB 2024 American League West - American League West Winner,Houston Astros,0.023799999999999988,0.5,0.4762
+2024-07-13 08:58:03.787708,200m - Paris 2024 - Women's 200m - Gold Medal Winner,Dina Asher-Smith (GBR),0.0232,0.0667,0.0435
 2024-07-13 04:57:59.495298,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Molde FK,0.022199999999999998,0.2222,0.2
+2024-07-13 08:58:13.096753,MLB Futures - MLB 2024 American League Central - American League Central Winner,Kansas City Royals,0.022199999999999998,0.1333,0.1111
+2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Memphis Grizzlies,0.022199999999999998,0.1333,0.1111
 2024-07-13 02:58:21.170228,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - M. Hughes v N. Hojgaard - 3rd Round 2-Balls,Mackenzie Hughes,0.021699999999999997,0.4762,0.4545
 2024-07-13 02:58:21.361052,Round Match-Ups - 3rd Round Match-Ups - L. Aberg vs C. Morikawa - 3rd Round Match-Ups,Ludvig Aberg,0.02169999999999994,0.5455,0.5238
+2024-07-12 22:58:16.326070,Round Match-Ups - 3rd Round Match-Ups - A. Noren vs N. Hojgaard - 3rd Round Match-Ups,Alex Noren,0.02169999999999994,0.5455,0.5238
+2024-07-12 22:58:16.305108,Round Match-Ups - 3rd Round Match-Ups - C. Conners vs S. Theegala - 3rd Round Match-Ups,Sahith Theegala,0.02169999999999994,0.5455,0.5238
 2024-07-13 02:58:21.879202,Round Match-Ups - 2nd Round Match-Ups - D. Johnson vs R. Bland - 2nd Round Match-Ups,Richard Bland,0.02169999999999994,0.5455,0.5238
 2024-07-13 02:58:21.399822,Round Match-Ups - 3rd Round Match-Ups - F. Zanotti vs M. Kinhult - 3rd Round Match-Ups,Fabrizio Zanotti,0.02169999999999994,0.5455,0.5238
-2024-07-12 22:58:16.305108,Round Match-Ups - 3rd Round Match-Ups - C. Conners vs S. Theegala - 3rd Round Match-Ups,Sahith Theegala,0.02169999999999994,0.5455,0.5238
-2024-07-12 22:58:16.326070,Round Match-Ups - 3rd Round Match-Ups - A. Noren vs N. Hojgaard - 3rd Round Match-Ups,Alex Noren,0.02169999999999994,0.5455,0.5238
-2024-07-13 06:58:27.120817,MLB Futures - MLB Draft 2024 - Chase Burns Draft Position,Over 3.5,0.02079999999999993,0.5556,0.5348
 2024-07-12 22:58:16.219100,Round Match-Ups - 3rd Round Match-Ups - T. Kim vs T. Fleetwood - 3rd Round Match-Ups,Tommy Fleetwood,0.02079999999999993,0.5556,0.5348
-2024-07-13 02:58:20.996755,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - T. Fleetwood / X. Schauffele - 3rd Round 2-Balls,Tommy Fleetwood,0.020699999999999996,0.4651,0.4444
+2024-07-13 06:58:27.120817,MLB Futures - MLB Draft 2024 - Chase Burns Draft Position,Over 3.5,0.02079999999999993,0.5556,0.5348
 2024-07-12 22:58:16.156257,Scores - 3rd Round Scores - Rory McIIroy - 3rd Round Scores,Over 66.5,0.020699999999999996,0.4651,0.4444
-2024-07-12 20:58:01.375284,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Josh Shapiro,0.0203,0.1379,0.1176
-2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Jin Young Ko,0.0203,0.0588,0.0385
+2024-07-13 02:58:20.996755,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - T. Fleetwood / X. Schauffele - 3rd Round 2-Balls,Tommy Fleetwood,0.020699999999999996,0.4651,0.4444
 2024-07-13 02:58:20.916757,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - T. Kim / E. Cole - 3rd Round 2-Balls,Tom Kim,0.020299999999999985,0.6429,0.6226
 2024-07-13 04:57:59.495298,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Bodø/Glimt,0.020100000000000007,0.7701,0.75
-2024-07-13 06:58:28.093966,Round Match-Ups - 3rd Round Match-Ups - L. Aberg vs C. Morikawa - 3rd Round Match-Ups,Ludvig Aberg,0.01970000000000005,0.5652,0.5455
-2024-07-13 02:58:21.478273,Round Match-Ups - 3rd Round Match-Ups - N. Shipley vs H. Hall - 3rd Round Match-Ups,Harry Hall,0.01970000000000005,0.5652,0.5455
 2024-07-13 06:58:27.152634,MLB Futures - MLB Draft 2024 - Jurrangelo Cijntje Draft Position,Over 20.5,0.01970000000000005,0.5652,0.5455
-2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Yu Jin Sung,0.019700000000000002,0.0217,0.002
-2024-07-13 06:58:19.437145,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Will Doug Burgum be the Republican Vice-Presidential candidate?,Yes,0.019000000000000017,0.2857,0.2667
+2024-07-13 02:58:21.478273,Round Match-Ups - 3rd Round Match-Ups - N. Shipley vs H. Hall - 3rd Round Match-Ups,Harry Hall,0.01970000000000005,0.5652,0.5455
+2024-07-13 06:58:28.093966,Round Match-Ups - 3rd Round Match-Ups - L. Aberg vs C. Morikawa - 3rd Round Match-Ups,Ludvig Aberg,0.01970000000000005,0.5652,0.5455
 2024-07-13 06:58:19.428848,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Doug Burgum,0.019000000000000017,0.2857,0.2667
+2024-07-13 06:58:19.437145,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Will Doug Burgum be the Republican Vice-Presidential candidate?,Yes,0.019000000000000017,0.2857,0.2667
 2024-07-13 06:58:28.069297,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - A. Rozner v L. Aberg - 3rd Round 2-Balls,Ludvig Aberg,0.018999999999999906,0.7333,0.7143
 2024-07-12 22:58:06.216429,Regular Season Wins O/U - Phoenix Mercury- 2024 Regular Season Wins - Phoenix Mercury- 2024 Regular Season Wins,Under 22.5,0.01880000000000004,0.5744,0.5556
 2024-07-13 02:58:21.128298,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - A. Scott v R. MacIntyre - 3rd Round 2-Balls,Robert MacIntyre,0.018100000000000005,0.5833,0.5652
 2024-07-13 00:58:14.108274,Boxing Lines - Christopher Diaz vs Derlyn Hernandez - To Win the Bout,Derlyn Hernandez,0.0179,0.1429,0.125
-2024-07-12 20:58:01.324594,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Doug Burgum,0.016699999999999993,0.2667,0.25
-2024-07-12 20:58:01.332794,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Will Doug Burgum be the Republican Vice-Presidential candidate?,Yes,0.016699999999999993,0.2667,0.25
 2024-07-13 06:58:26.574689,Home Run Derby - 2024 Home Run Derby -  To Win the Home Run Derby,Marcell Ozuna (ATL),0.016600000000000004,0.1905,0.1739
 2024-07-13 06:58:27.188510,MLB Futures - MLB Draft 2024 - Malcolm Moore Draft Position,Under 26.5,0.016100000000000003,0.6078,0.5917
-2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Mi Hyang Lee,0.0151,0.0217,0.0066
-2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Lilia Vu,0.014400000000000003,0.0323,0.0179
 2024-07-13 06:58:26.905150,MLB Futures - MLB Draft 2024 - 1st Overall Pick,Jac Caglianone,0.014399999999999996,0.0769,0.0625
-2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Minnesota Timberwolves,0.013999999999999999,0.0909,0.0769
 2024-07-13 06:58:26.574689,Home Run Derby - 2024 Home Run Derby -  To Win the Home Run Derby,Teoscar Hernandez (LAD),0.013999999999999999,0.0909,0.0769
+2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Minnesota Timberwolves,0.013999999999999999,0.0909,0.0769
 2024-07-13 06:58:19.428848,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,Marco Rubio,0.012299999999999991,0.1176,0.1053
 2024-07-13 06:58:27.170587,MLB Futures - MLB Draft 2024 - Konnor Griffin Draft Position,Under 9.5,0.011600000000000055,0.5238,0.5122
 2024-07-13 04:57:59.495298,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,SK Brann,0.011099999999999999,0.1111,0.1
 2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Miami Heat,0.010700000000000001,0.0385,0.0278
-2024-07-13 06:58:27.131249,MLB Futures - MLB Draft 2024 - Hagen Smith Draft Position,Under 6.5,0.010699999999999932,0.5455,0.5348
 2024-07-13 06:58:26.876122,MLB Specials 2024 - 2024 MLB All-Star Game Specials - Proposition,American League Win the All Star Game,0.010699999999999932,0.5455,0.5348
-2024-07-12 20:57:59.724721,UEFA Euro 2024 Futures - Euro 2024 Futures - Outright Winner,England,0.010599999999999998,0.4651,0.4545
-2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Georgia Hall,0.010300000000000002,0.0244,0.0141
+2024-07-13 08:58:08.228332,Quarterbacks - NFL 2024-25 Passing TD's - Jayden Daniels Regular Season Total Passing TDs 2024-25,Over 16.5 TD's,0.010699999999999932,0.5455,0.5348
+2024-07-13 06:58:27.131249,MLB Futures - MLB Draft 2024 - Hagen Smith Draft Position,Under 6.5,0.010699999999999932,0.5455,0.5348
 2024-07-13 06:58:17.784029,100m - Paris 2024 - Men's 100m - Gold Medal Winner,Kishane Thompson (JAM),0.010099999999999998,0.4545,0.4444
 2024-07-13 06:58:27.170587,MLB Futures - MLB Draft 2024 - Konnor Griffin Draft Position,Over 9.5,-0.010099999999999998,0.5455,0.5556
+2024-07-13 08:58:05.267481,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,JD Vance,-0.010099999999999998,0.4444,0.4545
 2024-07-13 04:58:09.002564,MLB Futures - MLB 2024 American League West - American League West Winner,Seattle Mariners,-0.010099999999999998,0.5455,0.5556
-2024-07-13 04:57:59.424843,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Brandon Vazquez,-0.0102,0.0667,0.0769
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Charlotte Hornets,-0.0102,0.005,0.0152
+2024-07-13 04:57:59.424843,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Brandon Vazquez,-0.0102,0.0667,0.0769
 2024-07-13 04:58:09.002564,MLB Futures - MLB 2024 American League West - American League West Winner,Texas Rangers,-0.0102,0.0667,0.0769
 2024-07-12 22:58:06.226141,Regular Season Wins O/U - Seattle Storm- 2024 Regular Season Wins - Seattle Storm- 2024 Regular Season Wins,Over 26.5,-0.010599999999999998,0.4545,0.4651
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,New Orleans Pelicans,-0.010700000000000001,0.0278,0.0385
 2024-07-13 06:58:26.905150,MLB Futures - MLB Draft 2024 - 1st Overall Pick,Chase Burns,-0.010700000000000001,0.0278,0.0385
 2024-07-13 06:58:27.131249,MLB Futures - MLB Draft 2024 - Hagen Smith Draft Position,Over 6.5,-0.01100000000000001,0.5238,0.5348
-2024-07-12 20:58:01.375284,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Andy Beshear,-0.011099999999999999,0.1,0.1111
-2024-07-13 04:57:59.424843,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Alexis Vega,-0.011199999999999995,0.0476,0.0588
+2024-07-13 08:58:08.228332,Quarterbacks - NFL 2024-25 Passing TD's - Jayden Daniels Regular Season Total Passing TDs 2024-25,Under 16.5 TD's,-0.01100000000000001,0.5238,0.5348
 2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Charlotte Hornets,-0.011199999999999995,0.0476,0.0588
-2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Oklahoma City Thunder,-0.011199999999999995,0.0476,0.0588
-2024-07-13 04:57:59.424843,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Ricardo Monreal,-0.011199999999999995,0.0476,0.0588
 2024-07-13 04:57:59.424843,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Diber Cambindo,-0.011199999999999995,0.0476,0.0588
+2024-07-13 04:57:59.424843,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Ricardo Monreal,-0.011199999999999995,0.0476,0.0588
 2024-07-13 04:57:59.424843,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Ricardo Marin,-0.011199999999999995,0.0476,0.0588
-2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Chicago Bulls,-0.0112,0.004,0.0152
+2024-07-13 04:57:59.424843,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Alexis Vega,-0.011199999999999995,0.0476,0.0588
+2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Oklahoma City Thunder,-0.011199999999999995,0.0476,0.0588
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Toronto Raptors,-0.0112,0.004,0.0152
-2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Alison Lee,-0.0113,0.0066,0.0179
+2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Chicago Bulls,-0.0112,0.004,0.0152
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Houston Rockets,-0.011399999999999997,0.0164,0.0278
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Utah Jazz,-0.0119,0.0033,0.0152
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Brooklyn Nets,-0.0119,0.0033,0.0152
@@ -126,69 +125,65 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Portland Trail Blazers,-0.0127,0.0025,0.0152
 2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Portland Trail Blazers,-0.012700000000000003,0.0196,0.0323
 2024-07-13 06:58:17.784029,100m - Paris 2024 - Men's 100m - Gold Medal Winner,Fred Kerley (USA),-0.0131,0.0345,0.0476
-2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Washington Wizards,-0.0132,0.002,0.0152
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Detroit Pistons,-0.0132,0.002,0.0152
-2024-07-13 06:58:19.459413,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Michelle Obama,-0.013999999999999999,0.0769,0.0909
+2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Washington Wizards,-0.0132,0.002,0.0152
+2024-07-13 08:58:03.787708,200m - Paris 2024 - Women's 200m - Gold Medal Winner,Brittany Brown (USA),-0.013899999999999996,0.1111,0.125
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Philadelphia 76ers,-0.013999999999999999,0.0769,0.0909
+2024-07-13 06:58:19.459413,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Michelle Obama,-0.013999999999999999,0.0769,0.0909
+2024-07-13 08:58:05.319107,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Gavin Newsom,-0.013999999999999999,0.0769,0.0909
+2024-07-13 08:58:03.590049,100m - Paris 2024 - Women's 100m - Gold Medal Winner,Marie-Josee Ta Lou (CIV),-0.014099999999999998,0.0244,0.0385
 2024-07-13 06:58:17.784029,100m - Paris 2024 - Men's 100m - Gold Medal Winner,Ferdinand Omanyala (KEN),-0.014099999999999998,0.0294,0.0435
-2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Lauren Coughlin,-0.014099999999999998,0.0244,0.0385
+2024-07-13 08:58:03.590049,100m - Paris 2024 - Women's 100m - Gold Medal Winner,Tia Clayton (JAM),-0.014100000000000001,0.0385,0.0526
 2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Philadelphia 76ers,-0.014100000000000001,0.0385,0.0526
+2024-07-13 08:58:03.590049,100m - Paris 2024 - Women's 100m - Gold Medal Winner,Melissa Jefferson (USA),-0.014399999999999996,0.0625,0.0769
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Phoenix Suns,-0.014899999999999997,0.0476,0.0625
 2024-07-13 06:58:26.905150,MLB Futures - MLB Draft 2024 - 1st Overall Pick,Travis Bazzana,-0.01539999999999997,0.6,0.6154
-2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Patty Tavatanakit,-0.016600000000000004,0.0667,0.0833
 2024-07-13 00:58:14.108274,Boxing Lines - Christopher Diaz vs Derlyn Hernandez - To Win the Bout,Christopher Diaz,-0.01660000000000006,0.9167,0.9333
 2024-07-13 02:58:20.996755,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - T. Fleetwood / X. Schauffele - 3rd Round 2-Balls,Xander Schauffele,-0.016699999999999937,0.5833,0.6
-2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Ally Ewing,-0.0167,0.005,0.0217
 2024-07-13 06:58:19.437145,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Will Doug Burgum be the Republican Vice-Presidential candidate?,No,-0.017400000000000082,0.7826,0.8
-2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Gemma Dryburgh,-0.0179,0.0099,0.0278
 2024-07-13 04:57:59.424843,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Top Goalscorer,Alejandro Zendejas,-0.018099999999999998,0.0588,0.0769
 2024-07-13 04:57:59.432434,Liga MX - Apertura - Liga MX Apertura 2024 - Futures - Winner,Chivas Guadalajara,-0.018099999999999998,0.0588,0.0769
 2024-07-13 02:58:21.170228,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - M. Hughes v N. Hojgaard - 3rd Round 2-Balls,Nicolai Hojgaard,-0.018100000000000005,0.5652,0.5833
-2024-07-12 20:58:01.332794,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Will Doug Burgum be the Republican Vice-Presidential candidate?,No,-0.018199999999999994,0.8,0.8182
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Memphis Grizzlies,-0.018200000000000004,0.0294,0.0476
 2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Indiana Pacers,-0.0189,0.0196,0.0385
 2024-07-12 22:58:16.205092,Scores - 3rd Round Scores - Xander Schauffele - 3rd Round Scores,Under 66.5,-0.01970000000000005,0.5455,0.5652
-2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,San Antonio Spurs,-0.019899999999999998,0.0079,0.0278
 2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Denver Nuggets,-0.019899999999999998,0.0079,0.0278
-2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Atthaya Thitikul,-0.0204,0.004,0.0244
+2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,San Antonio Spurs,-0.019899999999999998,0.0079,0.0278
 2024-07-13 00:58:14.976124,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - C. Syme / R. Fox - 3rd Round 2-Balls,Connor Syme,-0.020699999999999996,0.4444,0.4651
-2024-07-12 20:58:11.667467,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - T. Fleetwood / X. Schauffele - 3rd Round 2-Balls,Tommy Fleetwood,-0.020699999999999996,0.4444,0.4651
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Atlanta Hawks,-0.021199999999999997,0.0066,0.0278
-2024-07-13 06:58:27.188510,MLB Futures - MLB Draft 2024 - Malcolm Moore Draft Position,Over 26.5,-0.021699999999999997,0.4545,0.4762
 2024-07-13 06:58:28.204646,Round Match-Ups - 3rd Round Match-Ups - N. Shipley vs H. Hall - 3rd Round Match-Ups,Neal Shipley,-0.021699999999999997,0.4545,0.4762
+2024-07-13 06:58:27.188510,MLB Futures - MLB Draft 2024 - Malcolm Moore Draft Position,Over 26.5,-0.021699999999999997,0.4545,0.4762
 2024-07-12 22:58:16.156257,Scores - 3rd Round Scores - Rory McIIroy - 3rd Round Scores,Under 66.5,-0.022600000000000064,0.6,0.6226
 2024-07-13 06:58:27.120817,MLB Futures - MLB Draft 2024 - Chase Burns Draft Position,Under 3.5,-0.022600000000000064,0.5122,0.5348
-2024-07-13 02:58:21.478273,Round Match-Ups - 3rd Round Match-Ups - N. Shipley vs H. Hall - 3rd Round Match-Ups,Neal Shipley,-0.023799999999999988,0.4762,0.5
 2024-07-13 06:58:28.093966,Round Match-Ups - 3rd Round Match-Ups - L. Aberg vs C. Morikawa - 3rd Round Match-Ups,Collin Morikawa,-0.023799999999999988,0.4762,0.5
-2024-07-12 20:58:01.324594,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,JD Vance,-0.023800000000000043,0.5,0.5238
-2024-07-13 06:58:27.152634,MLB Futures - MLB Draft 2024 - Jurrangelo Cijntje Draft Position,Under 20.5,-0.023800000000000043,0.5,0.5238
-2024-07-12 22:58:16.773763,Andalucia - 2/3 Balls - 2nd Round 3 Balls - C. Ortiz / S. Vincent / M. Kaymer - 2nd Round 3 Balls,Carlos Ortiz,-0.023800000000000043,0.5,0.5238
-2024-07-13 02:58:21.399822,Round Match-Ups - 3rd Round Match-Ups - F. Zanotti vs M. Kinhult - 3rd Round Match-Ups,Marcus Kinhult,-0.023800000000000043,0.5,0.5238
-2024-07-13 02:58:21.879202,Round Match-Ups - 2nd Round Match-Ups - D. Johnson vs R. Bland - 2nd Round Match-Ups,Dustin Johnson,-0.023800000000000043,0.5,0.5238
+2024-07-13 02:58:21.478273,Round Match-Ups - 3rd Round Match-Ups - N. Shipley vs H. Hall - 3rd Round Match-Ups,Neal Shipley,-0.023799999999999988,0.4762,0.5
 2024-07-13 02:58:21.361052,Round Match-Ups - 3rd Round Match-Ups - L. Aberg vs C. Morikawa - 3rd Round Match-Ups,Collin Morikawa,-0.023800000000000043,0.5,0.5238
-2024-07-12 22:58:16.326070,Round Match-Ups - 3rd Round Match-Ups - A. Noren vs N. Hojgaard - 3rd Round Match-Ups,Nicolai Hojgaard,-0.023800000000000043,0.5,0.5238
 2024-07-12 22:58:16.305108,Round Match-Ups - 3rd Round Match-Ups - C. Conners vs S. Theegala - 3rd Round Match-Ups,Corey Conners,-0.023800000000000043,0.5,0.5238
+2024-07-12 22:58:16.326070,Round Match-Ups - 3rd Round Match-Ups - A. Noren vs N. Hojgaard - 3rd Round Match-Ups,Nicolai Hojgaard,-0.023800000000000043,0.5,0.5238
+2024-07-13 02:58:21.879202,Round Match-Ups - 2nd Round Match-Ups - D. Johnson vs R. Bland - 2nd Round Match-Ups,Dustin Johnson,-0.023800000000000043,0.5,0.5238
+2024-07-13 06:58:27.152634,MLB Futures - MLB Draft 2024 - Jurrangelo Cijntje Draft Position,Under 20.5,-0.023800000000000043,0.5,0.5238
+2024-07-13 02:58:21.399822,Round Match-Ups - 3rd Round Match-Ups - F. Zanotti vs M. Kinhult - 3rd Round Match-Ups,Marcus Kinhult,-0.023800000000000043,0.5,0.5238
+2024-07-12 22:58:16.773763,Andalucia - 2/3 Balls - 2nd Round 3 Balls - C. Ortiz / S. Vincent / M. Kaymer - 2nd Round 3 Balls,Carlos Ortiz,-0.023800000000000043,0.5,0.5238
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,L.A. Clippers,-0.023899999999999998,0.0196,0.0435
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Los Angeles Lakers,-0.024,0.0385,0.0625
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Dallas Mavericks,-0.024299999999999995,0.0526,0.0769
-2024-07-12 22:58:16.219100,Round Match-Ups - 3rd Round Match-Ups - T. Kim vs T. Fleetwood - 3rd Round Match-Ups,Tom Kim,-0.024399999999999977,0.4878,0.5122
 2024-07-12 22:58:06.216429,Regular Season Wins O/U - Phoenix Mercury- 2024 Regular Season Wins - Phoenix Mercury- 2024 Regular Season Wins,Over 22.5,-0.024399999999999977,0.4878,0.5122
+2024-07-12 22:58:16.219100,Round Match-Ups - 3rd Round Match-Ups - T. Kim vs T. Fleetwood - 3rd Round Match-Ups,Tom Kim,-0.024399999999999977,0.4878,0.5122
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Miami Heat,-0.024800000000000003,0.0278,0.0526
 2024-07-12 22:58:16.830465,Andalucia - 2/3 Balls - 2nd Round 3 Balls - S. Garcia / A. Lahiri / S. Horsfield - 2nd Round 3 Balls,Sam Horsfield,-0.0252,0.2778,0.303
-2024-07-13 02:58:20.916757,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - T. Kim / E. Cole - 3rd Round 2-Balls,Eric Cole,-0.025499999999999967,0.4,0.4255
 2024-07-13 06:58:27.275711,MLB Futures - MLB Draft 2024 - Trey Yesavage Draft Position,Under 12.5,-0.025499999999999967,0.4,0.4255
-2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Hye-Jin Choi,-0.026499999999999996,0.0323,0.0588
-2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Madelene Sagstrom,-0.028000000000000004,0.0196,0.0476
+2024-07-13 02:58:20.916757,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - T. Kim / E. Cole - 3rd Round 2-Balls,Eric Cole,-0.025499999999999967,0.4,0.4255
 2024-07-13 02:58:20.137720,MLB Futures - MLB 2024 American League Central - American League Central Winner,Cleveland Guardians,-0.028299999999999992,0.6491,0.6774
 2024-07-13 02:58:20.893056,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - T. Olesen / N. Bachem - 3rd Round 2-Balls,Nick Bachem,-0.028600000000000014,0.3636,0.3922
 2024-07-12 22:58:16.168451,Scores - 3rd Round Scores - Sahith Theegala - 3rd Round Scores,Under 67.5,-0.030399999999999983,0.5348,0.5652
 2024-07-12 22:58:16.040405,Scores - 3rd Round Scores - Collin Morikawa - 3rd Round Scores,Under 66.5,-0.030399999999999983,0.5348,0.5652
-2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Ingrid Lindblad,-0.031,0.0278,0.0588
+2024-07-13 08:58:03.787708,200m - Paris 2024 - Women's 200m - Gold Medal Winner,McKenzie Long (USA),-0.031,0.1429,0.1739
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Denver Nuggets,-0.0321,0.0588,0.0909
 2024-07-13 00:58:04.821224,NBA In-Season Tournament Cup - Emirates NBA Cup 2024  - NBA In-Season Tournament Winner,Golden State Warriors,-0.033,0.0196,0.0526
+2024-07-12 22:58:16.003425,Scores - 3rd Round Scores - Alex Noren - 3rd Round Scores,Under 67.5,-0.033299999999999996,0.5122,0.5455
+2024-07-13 08:58:13.120410,MLB Futures - MLB 2024 American League West - American League West Winner,Seattle Mariners,-0.033299999999999996,0.5122,0.5455
 2024-07-12 22:58:16.138481,Scores - 3rd Round Scores - Rasmus Hojgaard - 3rd Round Scores,Under 67.5,-0.033299999999999996,0.5122,0.5455
 2024-07-12 22:58:16.116445,Scores - 3rd Round Scores - Nicolai Hojgaard - 3rd Round Scores,Under 67.5,-0.033299999999999996,0.5122,0.5455
-2024-07-12 22:58:16.003425,Scores - 3rd Round Scores - Alex Noren - 3rd Round Scores,Under 67.5,-0.033299999999999996,0.5122,0.5455
 2024-07-12 22:58:16.180646,Scores - 3rd Round Scores - Sungjae Im - 3rd Round Scores,Under 67.5,-0.033399999999999985,0.5744,0.6078
 2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Cleveland Cavaliers,-0.0335,0.005,0.0385
 2024-07-13 02:58:21.020141,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - C. Syme / R. Fox - 3rd Round 2-Balls,Ryan Fox,-0.03479999999999994,0.5652,0.6
@@ -196,35 +191,39 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-13 06:58:27.016376,MLB Futures - MLB Draft 2024 - 1st to Be Drafted - Chase Burns vs Hagen Smith,Hagen Smith,-0.03510000000000002,0.3571,0.3922
 2024-07-12 22:58:16.052671,Scores - 3rd Round Scores - Corey Conners - 3rd Round Scores,Under 67.5,-0.03610000000000002,0.5556,0.5917
 2024-07-13 06:58:27.047831,MLB Futures - MLB Draft 2024 - 1st to Be Drafted - Jonathan Santucci vs Ryan Prager,Ryan Prager,-0.03640000000000004,0.3636,0.4
+2024-07-13 08:58:13.096753,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,-0.03710000000000002,0.3333,0.3704
 2024-07-12 22:58:16.830465,Andalucia - 2/3 Balls - 2nd Round 3 Balls - S. Garcia / A. Lahiri / S. Horsfield - 2nd Round 3 Balls,Anirban Lahiri,-0.03710000000000002,0.3077,0.3448
+2024-07-13 08:58:05.234877,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.03889999999999999,0.1429,0.1818
 2024-07-13 06:58:27.006038,MLB Futures - MLB Draft 2024 - 1st to Be Drafted - Charlie Condon vs Jac Caglianone,Jac Caglianone,-0.04099999999999998,0.2667,0.3077
 2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Sacramento Kings,-0.041,0.0066,0.0476
 2024-07-13 06:58:19.459413,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Kamala Harris,-0.0413,0.3509,0.3922
-2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Rio Takeda,-0.0427,0.0099,0.0526
 2024-07-12 22:58:16.797360,Andalucia - 2/3 Balls - 2nd Round 3 Balls - D. Burmester / D. Lee / E. Lopez-Chacarra - 2nd Round 3 Balls,Eugenio Lopez-Chacarra,-0.04290000000000005,0.3571,0.4
 2024-07-13 06:58:28.069297,Scottish Open - 2/3 Balls - 3rd Round 2-Balls - A. Rozner v L. Aberg - 3rd Round 2-Balls,Antoine Rozner,-0.043200000000000016,0.3077,0.3509
 2024-07-13 06:58:27.254584,MLB Futures - MLB Draft 2024 - Theo Gillen Draft Position,Over 22.5,-0.044399999999999995,0.4,0.4444
 2024-07-13 06:58:27.233263,MLB Futures - MLB Draft 2024 - Ryan Waldschmidt Draft Position,Over 16.5,-0.04469999999999996,0.5917,0.6364
-2024-07-13 06:58:19.428848,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,JD Vance,-0.045499999999999985,0.4545,0.5
 2024-07-13 06:58:26.960155,MLB Futures - MLB Draft 2024 - 1st to Be Drafted - Caleb Lomavita vs Walker Janek,Caleb Lomavita,-0.045499999999999985,0.4545,0.5
+2024-07-13 06:58:19.428848,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Republican VP,JD Vance,-0.045499999999999985,0.4545,0.5
+2024-07-13 08:58:05.319107,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Josh Shapiro,-0.047,0.0909,0.1379
 2024-07-13 02:58:21.255483,Round Match-Ups - 3rd Round Match-Ups - R. McIIroy vs X. Schauffele - 3rd Round Match-Ups,Xander Schauffele,-0.04760000000000003,0.4762,0.5238
-2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Hyo Joo Kim,-0.048100000000000004,0.0769,0.125
-2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Lydia Ko,-0.0489,0.0099,0.0588
-2024-07-12 20:58:01.375284,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Roy Cooper,-0.05260000000000001,0.1379,0.1905
+2024-07-13 08:58:03.590049,100m - Paris 2024 - Women's 100m - Gold Medal Winner,Shericka Jackson (JAM),-0.05080000000000001,0.1818,0.2326
 2024-07-13 06:58:27.286237,MLB Futures - MLB Draft 2024 - William Schmidt Draft Position,Under 23.5,-0.05299999999999999,0.4348,0.4878
+2024-07-13 06:58:27.089515,MLB Futures - MLB Draft 2024 - Braden Montgomery Draft Position,Under 7.5,-0.05860000000000004,0.4762,0.5348
 2024-07-13 00:58:04.874942,NBA Summer League - 2024 NBA Summer League Championship - Champion,Utah Jazz,-0.0625,0.0625,0.125
-2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Nelly Korda,-0.06369999999999999,0.0132,0.0769
 2024-07-13 06:58:19.469604,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Joe Biden vs... - Democratic Candidate,The Field,-0.06520000000000004,0.5,0.5652
 2024-07-13 06:58:17.996199,400m Hurdles - Paris 2024 - Men's 400m Hurdles - Gold Medal Winner,Alison Dos Santos (BRA),-0.0673,0.2105,0.2778
+2024-07-13 08:58:13.108582,MLB Futures - MLB 2024 American League East - American League East Winner,Baltimore Orioles,-0.06789999999999996,0.5238,0.5917
 2024-07-13 06:58:26.915535,MLB Futures - MLB Draft 2024 - 1st to Be Drafted - Billy Amick vs Dakota Jordan,Dakota Jordan,-0.06929999999999997,0.4762,0.5455
 2024-07-13 06:58:27.068696,MLB Futures - MLB Draft 2024 - 1st to Be Drafted - PJ Morlando vs Slade Caldwell,PJ Morlando,-0.07440000000000002,0.303,0.3774
+2024-07-13 06:58:27.058262,MLB Futures - MLB Draft 2024 - 1st to Be Drafted - Kaelen Culpepper vs Tommy White,Kaelen Culpepper,-0.07619999999999999,0.4,0.4762
 2024-07-13 06:58:26.925915,MLB Futures - MLB Draft 2024 - 1st to Be Drafted - Brody Brecht vs Jurrangelo Cijntje,Brody Brecht,-0.08030000000000004,0.4545,0.5348
-2024-07-12 20:58:12.336481,The Evian Championship - The Evian Championship - Winner,Gaby Lopez,-0.0805,0.0028,0.0833
 2024-07-12 22:58:16.773763,Andalucia - 2/3 Balls - 2nd Round 3 Balls - C. Ortiz / S. Vincent / M. Kaymer - 2nd Round 3 Balls,Scott Vincent,-0.08309999999999995,0.274,0.3571
+2024-07-13 06:58:27.037327,MLB Futures - MLB Draft 2024 - 1st to Be Drafted - James Tibbs vs Nick Kurtz,James Tibbs,-0.08340000000000003,0.3333,0.4167
+2024-07-13 08:58:03.787708,200m - Paris 2024 - Women's 200m - Gold Medal Winner,Shericka Jackson (JAM),-0.09039999999999998,0.2667,0.3571
 2024-07-13 06:58:27.206462,MLB Futures - MLB Draft 2024 - Nick Kurtz Draft Position,Over 11.5,-0.0922,0.3333,0.4255
 2024-07-13 06:58:26.978070,MLB Futures - MLB Draft 2024 - 1st to Be Drafted - Cam Smith vs Seaver King,Seaver King,-0.09560000000000002,0.3922,0.4878
 2024-07-13 06:58:26.995618,MLB Futures - MLB Draft 2024 - 1st to Be Drafted - Carson Benge vs Vance Honeycutt,Vance Honeycutt,-0.0988,0.3774,0.4762
 2024-07-13 06:58:27.222877,MLB Futures - MLB Draft 2024 - Ryan Sloan Draft Position,Over 31.5,-0.12120000000000003,0.3333,0.4545
+2024-07-13 06:58:27.110428,MLB Futures - MLB Draft 2024 - Bryce Rainer Draft Position,Over 8.5,-0.13160000000000005,0.3922,0.5238
 2024-07-12 22:58:16.785598,Andalucia - 2/3 Balls - 2nd Round 3 Balls - C. Smith / P. Reed / T. Hatton - 2nd Round 3 Balls,Cameron Smith,-0.1674,0.3448,0.5122
 2024-07-12 22:58:16.797360,Andalucia - 2/3 Balls - 2nd Round 3 Balls - D. Burmester / D. Lee / E. Lopez-Chacarra - 2nd Round 3 Balls,Danny Lee,-0.23390000000000002,0.2105,0.4444
 2024-07-12 22:58:16.809461,Andalucia - 2/3 Balls - 2nd Round 3 Balls - L. Oosthuizen / L. Westwood / R. Bland - 2nd Round 3 Balls,Lee Westwood,-0.25,0.25,0.5
