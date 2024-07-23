@@ -6,13 +6,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-22 16:59:11.290527,Mountain Bike - Paris 2024 - Women's Cross Country - Gold Medal Winner,Pauline Ferrand-Prevot (FRA),0.08830000000000005,0.6296,0.5413
 2024-07-22 12:58:37.419281,Sun Belt Regular Season Wins - Sun Belt Regular Season Wins - Georgia State,Under 4.5 Wins,0.08730000000000004,0.6429,0.5556
 2024-07-22 10:58:34.399323,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading Japan Rebounds,Josh  Hawkinson,0.08330000000000004,0.5833,0.5
-2024-07-22 10:58:30.265909,Road - Paris 2024 - Men's Road Race - To Win a Medal,Wout van Aert (BEL),0.07619999999999999,0.4762,0.4
 2024-07-22 10:58:30.265909,Road - Paris 2024 - Men's Road Race - To Win a Medal,Mads Pedersen (DEN),0.07619999999999999,0.4762,0.4
+2024-07-22 10:58:30.265909,Road - Paris 2024 - Men's Road Race - To Win a Medal,Wout van Aert (BEL),0.07619999999999999,0.4762,0.4
 2024-07-22 16:59:17.215782,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading Japan Assists,Yuki  Kawamura,0.06929999999999997,0.5455,0.4762
 2024-07-22 08:58:32.192731,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Kamala Harris vs The Field - Outright,The Field,0.0676,0.2105,0.1429
-2024-07-22 12:58:23.123331,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Kamala Harris,0.06600000000000006,0.9231,0.8571
 2024-07-22 12:58:23.148806,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Kamala Harris vs The Field - Outright,Kamala Harris,0.06600000000000006,0.9231,0.8571
+2024-07-22 12:58:23.123331,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Kamala Harris,0.06600000000000006,0.9231,0.8571
 2024-07-22 16:59:17.397501,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Assists,Lebron  James,0.0635,0.2857,0.2222
+2024-07-22 16:59:17.270326,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading Japan Rebounds,Josh  Hawkinson,0.059599999999999986,0.6429,0.5833
 2024-07-22 10:58:30.256622,Road - Paris 2024 - Men's Road Race - Gold Medal Winner,Wout van Aert (BEL),0.05679999999999999,0.1818,0.125
 2024-07-22 14:58:55.467572,"Deadpool & Wolverine - Deadpool & Wolverine: Who will say ""Fuck"" the most? - To say ""fuck"" the most",Wolverine,0.05579999999999999,0.25,0.1942
 2024-07-22 12:58:15.461401,200m - Paris 2024 - Women's 200m - World Record To Be Broken,No,0.054200000000000026,0.9709,0.9167
@@ -25,49 +26,58 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-22 10:58:30.265909,Road - Paris 2024 - Men's Road Race - To Win a Medal,Julian Alaphilippe (FRA),0.04620000000000002,0.2,0.1538
 2024-07-22 10:58:30.265909,Road - Paris 2024 - Men's Road Race - To Win a Medal,Remco Evenepoel (BEL),0.03920000000000001,0.3333,0.2941
 2024-07-22 10:58:30.256622,Road - Paris 2024 - Men's Road Race - Gold Medal Winner,Mads Pedersen (DEN),0.03889999999999999,0.1818,0.1429
+2024-07-22 18:59:22.011802,200m - Paris 2024 - Men's 200m - To Win a Medal,Erriyon Knighton (USA),0.03709999999999991,0.6667,0.6296
+2024-07-22 18:59:21.022168,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Lyngby BK,0.03610000000000002,0.5917,0.5556
 2024-07-22 08:58:34.145462,Starting QB Specials - 2024-25 Las Vegas Raiders Week 1 Starting QB - 2024-25 Las Vegas Raiders Week 1 Starting QB,Aidan O'Connell,0.03600000000000003,0.5238,0.4878
 2024-07-22 14:58:55.445476,Deadpool & Wolverine - Deadpool & Wolverine: Kill Count Match Bet - Kill Count Match Bet,Wolverine,0.03570000000000001,0.2857,0.25
-2024-07-22 06:59:10.527402,Presidential Debates - Will Donald Trump and Kamala Harris participate in a presidential debate? - Trump/Harris debate?,Yes,0.0353,0.8,0.7647
+2024-07-22 16:59:34.053692,MAC Regular Season Wins - MAC Regular Season Wins - Miami Ohio,Under 7.5 Wins,0.03489999999999999,0.5,0.4651
+2024-07-22 18:59:21.016048,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Copenhagen,0.03480000000000005,0.5348,0.5
 2024-07-22 10:58:47.827069,ACC Regular Season Wins - ACC Regular Season Wins - Pittsburgh,Under 5.5 Wins,0.030399999999999983,0.5652,0.5348
-2024-07-22 06:59:10.415608,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Democrat Popular Vote,0.029899999999999982,0.3077,0.2778
+2024-07-22 18:59:29.071798,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Hillary Clinton,0.0286,0.0385,0.0099
 2024-07-22 10:58:46.793494,Season Win Record Specials - Most Regular Season Wins - Most Regular Season Wins,Philadelphia Eagles,0.028399999999999995,0.0909,0.0625
 2024-07-22 10:58:30.265909,Road - Paris 2024 - Men's Road Race - To Win a Medal,Jhonatan Narvaez (ECU),0.027999999999999997,0.1818,0.1538
+2024-07-22 18:59:21.034297,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,Viborg FF,0.027700000000000002,0.4444,0.4167
+2024-07-22 18:59:21.788369,Javelin Throw - Paris 2024 - Men's Javelin - Gold Medal Winner,Arshad Nadeem (PAK),0.0267,0.1176,0.0909
 2024-07-22 10:58:30.265909,Road - Paris 2024 - Men's Road Race - To Win a Medal,Matej Mohoric (SLO),0.024999999999999994,0.125,0.1
 2024-07-22 10:58:41.705848,Quarterbacks - NFL 2024-25 Passing TD's - Jordan Love Regular Season Total Passing TDs 2024-25,Over 28.5 TD's,0.023800000000000043,0.5238,0.5
-2024-07-22 06:59:10.752112,"Robert Kennedy, Jr Specials - Robert Kennedy, Jr: Presidential Election Popular Vote % - RFK, Jr Popular Vote %",Over 10%,0.023799999999999988,0.1667,0.1429
-2024-07-22 14:58:53.344771,400m Hurdles - Paris 2024 - Women's 400m Hurdles - World Record To Be Broken,Yes,0.022600000000000064,0.6226,0.6
+2024-07-22 18:59:27.310782,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball Stage of Elimination - Stage of Elimination - France,Quarter Final,0.023799999999999988,0.3571,0.3333
 2024-07-22 10:58:41.454435,Quarterbacks - NFL 2024-25 Passing TD's - Aaron Rodgers Regular Season Total Passing TDs 2024-25,Over 26.5 TD's,0.022600000000000064,0.5348,0.5122
-2024-07-22 16:59:16.818481,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Rebounds,Josh  Giddey,0.022199999999999998,0.3448,0.3226
+2024-07-22 14:58:53.344771,400m Hurdles - Paris 2024 - Women's 400m Hurdles - World Record To Be Broken,Yes,0.022600000000000064,0.6226,0.6
 2024-07-22 16:59:10.116859,400m - Paris 2024 - Women's 400m - Gold Medal Winner,Natalia Kaczmarek (POL),0.022199999999999998,0.1333,0.1111
+2024-07-22 16:59:16.818481,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Rebounds,Josh  Giddey,0.022199999999999998,0.3448,0.3226
 2024-07-22 10:58:30.256622,Road - Paris 2024 - Men's Road Race - Gold Medal Winner,Mathieu van der Poel (NED),0.021999999999999964,0.3077,0.2857
-2024-07-22 10:58:41.473737,Quarterbacks - NFL 2024-25 Passing TD's - Anthony Richardson Regular Season Total Passing TDs 2024-25,Under 18.5 TD's,0.02079999999999993,0.5556,0.5348
 2024-07-22 10:58:41.647317,Quarterbacks - NFL 2024-25 Passing TD's - Jared Goff Regular Season Total Passing TDs 2024-25,Under 27.5 TD's,0.02079999999999993,0.5556,0.5348
+2024-07-22 10:58:41.473737,Quarterbacks - NFL 2024-25 Passing TD's - Anthony Richardson Regular Season Total Passing TDs 2024-25,Under 18.5 TD's,0.02079999999999993,0.5556,0.5348
 2024-07-22 14:59:14.170939,MWC Regular Season Wins - MWC Regular Season Wins - San Jose State,Under 4.5 Wins,0.02079999999999993,0.5556,0.5348
 2024-07-22 10:58:29.055144,Liga FPD Apertura - Costa Rica Primera Division Apertura 2024 - Futures - Winner,San Carlos,0.02020000000000001,0.1111,0.0909
-2024-07-22 06:59:10.513155,Democratic National Convention - Democratic Convention: Will Joe Biden address the convention? - Will Biden Address The Convention?,No,0.01999999999999999,0.2105,0.1905
 2024-07-22 14:59:14.049072,MWC Regular Season Wins - MWC Regular Season Wins - Colorado State,Under 6.5 Wins,0.01970000000000005,0.5652,0.5455
 2024-07-22 14:59:15.684149,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Western Michigan,0.019699999999999995,0.125,0.1053
 2024-07-22 10:58:35.196042,NBA Specials - Bronny James Specials - Bronny James Specials,Bronny James to Record 10+ Assists in any 2024-25 Regular Season Game,0.019099999999999992,0.0667,0.0476
 2024-07-22 10:58:29.055144,Liga FPD Apertura - Costa Rica Primera Division Apertura 2024 - Futures - Winner,Herediano,0.019000000000000017,0.2857,0.2667
 2024-07-22 08:58:32.147474,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Andy Beshear,0.0189,0.0385,0.0196
+2024-07-22 18:59:21.034297,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,SønderjyskE,0.01820000000000002,0.2,0.1818
+2024-07-22 18:59:21.989323,200m - Paris 2024 - Men's 200m - Gold Medal Winner,Erriyon Knighton (USA),0.018099999999999998,0.0769,0.0588
 2024-07-22 08:58:25.403009,Olympic Games Futures - Olympic Womens Soccer 2024 - Winner,Japan (W),0.018099999999999998,0.0769,0.0588
 2024-07-22 08:58:34.171798,Starting QB Specials - 2024-25 New York Giants Week 1 Starting QB - 2024-25 New York Giants Week 1 Starting QB,Daniel Jones,0.017900000000000027,0.875,0.8571
+2024-07-22 18:59:21.034297,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,AGF Aarhus,0.01759999999999995,0.6667,0.6491
 2024-07-22 12:58:35.145101,AAC Regular Season Wins - AAC Regular Season Wins - Army,Over 5.5 Wins,0.017299999999999982,0.5917,0.5744
 2024-07-22 08:58:25.410377,Olympic Games Futures - Olympic Womens Soccer 2024 - Requested Specials,USA (W) Not to Win the Gold Medal,0.016700000000000048,0.75,0.7333
-2024-07-22 10:58:30.256622,Road - Paris 2024 - Men's Road Race - Gold Medal Winner,Remco Evenepoel (BEL),0.016700000000000007,0.1,0.0833
 2024-07-22 08:58:25.403009,Olympic Games Futures - Olympic Womens Soccer 2024 - Winner,Germany (W),0.016700000000000007,0.1,0.0833
+2024-07-22 10:58:30.256622,Road - Paris 2024 - Men's Road Race - Gold Medal Winner,Remco Evenepoel (BEL),0.016700000000000007,0.1,0.0833
 2024-07-22 12:58:21.272355,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Blocks,Anthony  Davis,0.016699999999999937,0.6,0.5833
 2024-07-22 14:59:15.684149,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Northern Illinois,0.015700000000000006,0.1333,0.1176
 2024-07-22 16:59:17.343110,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Points Scorer,Willy  Hernangomez,0.015400000000000025,0.4,0.3846
 2024-07-22 10:58:38.174833,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Los Angeles Rams,0.015300000000000001,0.0741,0.0588
+2024-07-22 18:59:29.071798,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Andy Beshear,0.015100000000000002,0.1818,0.1667
 2024-07-22 10:58:29.055144,Liga FPD Apertura - Costa Rica Primera Division Apertura 2024 - Futures - Winner,Sporting San José,0.014899999999999997,0.0625,0.0476
 2024-07-22 16:59:16.800499,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Points Scorer,Patty  Mills,0.01419999999999999,0.3846,0.3704
 2024-07-22 16:59:16.800499,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Points Scorer,Josh  Giddey,0.01419999999999999,0.3846,0.3704
-2024-07-22 06:59:10.465580,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Kamala Harris,0.014000000000000012,0.9231,0.9091
+2024-07-22 18:59:21.028278,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,FC Copenhagen,0.014000000000000012,0.9231,0.9091
 2024-07-22 10:58:30.265909,Road - Paris 2024 - Men's Road Race - To Win a Medal,Brandon McNulty (USA),0.013999999999999999,0.0909,0.0769
-2024-07-22 10:58:30.265909,Road - Paris 2024 - Men's Road Race - To Win a Medal,Michael Matthews (AUS),0.013899999999999996,0.125,0.1111
 2024-07-22 12:58:16.241274,Mens - Paris 2024 - Men's Individual - Gold Medal Winner,Kim Je Deok (KOR),0.013899999999999996,0.125,0.1111
+2024-07-22 10:58:30.265909,Road - Paris 2024 - Men's Road Race - To Win a Medal,Michael Matthews (AUS),0.013899999999999996,0.125,0.1111
 2024-07-22 16:59:10.337304,Pole Vault - Paris 2024 - Women's Pole Vault - Gold Medal Winner,Molly Caudery (GBR),0.013300000000000034,0.3704,0.3571
+2024-07-22 16:59:34.094519,MAC Regular Season Wins - MAC Regular Season Wins - Toledo,Under 8.5 Wins,0.013299999999999979,0.6429,0.6296
 2024-07-22 14:59:17.344981,Boxing Lines - Andy Cruz vs Antonio Moran - To Win the Bout,Andy Cruz,0.0131,0.9655,0.9524
 2024-07-22 08:58:25.403009,Olympic Games Futures - Olympic Womens Soccer 2024 - Winner,Spain (W),0.012699999999999989,0.3636,0.3509
 2024-07-22 10:58:41.877698,Quarterbacks - NFL 2024-25 Passing TD's - Will Levis Regular Season Total Passing TDs 2024-25,Under 19.5 TD's,0.012199999999999989,0.5122,0.5
@@ -76,53 +86,67 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-22 16:59:16.764501,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Assists,Josh  Giddey,0.011499999999999955,0.6667,0.6552
 2024-07-22 10:58:30.256622,Road - Paris 2024 - Men's Road Race - Gold Medal Winner,Julian Alaphilippe (FRA),0.011199999999999995,0.0588,0.0476
 2024-07-22 16:59:11.953671,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Aidan Walsh (IRL),0.011199999999999995,0.0588,0.0476
-2024-07-22 10:58:30.265909,Road - Paris 2024 - Men's Road Race - To Win a Medal,Jasper Stuyven (BEL),0.011099999999999999,0.1111,0.1
 2024-07-22 10:58:30.265909,Road - Paris 2024 - Men's Road Race - To Win a Medal,Tom Pidcock (GBR),0.011099999999999999,0.1111,0.1
+2024-07-22 10:58:30.265909,Road - Paris 2024 - Men's Road Race - To Win a Medal,Jasper Stuyven (BEL),0.011099999999999999,0.1111,0.1
 2024-07-22 14:59:13.858395,MAC Regular Season Wins - MAC Regular Season Wins - Central Michigan,Under 5.5 Wins,0.010599999999999998,0.4651,0.4545
+2024-07-22 18:59:21.034297,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,Randers,0.010599999999999998,0.4651,0.4545
+2024-07-22 18:59:21.034297,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,Silkeborg IF,0.010599999999999998,0.4651,0.4545
 2024-07-22 12:58:36.376059,Conference USA Regular Season Wins - Conference USA Regular Season Wins - FIU,Over 4.5 Wins,0.010099999999999998,0.4545,0.4444
 2024-07-22 14:59:13.898914,MAC Regular Season Wins - MAC Regular Season Wins - Ken State,Under 2.5 Wins,0.010099999999999998,0.4545,0.4444
 2024-07-22 10:58:41.608683,Quarterbacks - NFL 2024-25 Passing TD's - Geno Smith Regular Season Total Passing TDs 2024-25,Under 21.5 TD's,-0.010099999999999998,0.5455,0.5556
+2024-07-22 18:59:26.319790,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Group C Winner,USA,-0.010199999999999987,0.9231,0.9333
 2024-07-22 16:59:11.290527,Mountain Bike - Paris 2024 - Women's Cross Country - Gold Medal Winner,Alessandra Keller (SUI),-0.0102,0.0667,0.0769
 2024-07-22 14:59:12.443551,AAC Regular Season Wins - AAC Regular Season Wins - Navy,Over 5.5,-0.011099999999999999,0.4651,0.4762
-2024-07-22 06:59:10.465580,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Gavin Newsom,-0.011199999999999995,0.0323,0.0435
+2024-07-22 18:59:21.034297,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,FC Midtjylland,-0.011199999999999988,0.9412,0.9524
 2024-07-22 12:58:35.145101,AAC Regular Season Wins - AAC Regular Season Wins - Army,Under 5.5 Wins,-0.0116,0.4762,0.4878
 2024-07-22 10:58:41.580364,Quarterbacks - NFL 2024-25 Passing TD's - Dak Prescott Regular Season Total Passing TDs 2024-25,Over 30.5 TD's,-0.012199999999999989,0.4878,0.5
 2024-07-22 16:59:17.215782,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading Japan Assists,Yuki Togashi,-0.012899999999999995,0.1538,0.1667
+2024-07-22 16:59:17.215782,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading Japan Assists,Rui  Hachimura,-0.012899999999999995,0.1538,0.1667
+2024-07-22 16:59:17.288505,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading Japan Steals,Rui  Hachimura,-0.012899999999999995,0.1538,0.1667
+2024-07-22 18:59:21.034297,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,Aalborg BK,-0.0131,0.2222,0.2353
 2024-07-22 14:59:14.211504,MWC Regular Season Wins - MWC Regular Season Wins - Utah State,Under 5.5 Wins,-0.013299999999999979,0.6296,0.6429
-2024-07-22 16:59:16.926608,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading Canada Steals,Dwight  Powell,-0.013999999999999999,0.0769,0.0909
+2024-07-22 18:59:21.034297,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,Lyngby BK,-0.013899999999999996,0.1111,0.125
 2024-07-22 16:59:17.415706,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Blocks,LeBron  James,-0.013999999999999999,0.0769,0.0909
+2024-07-22 16:59:16.926608,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading Canada Steals,Dwight  Powell,-0.013999999999999999,0.0769,0.0909
 2024-07-22 16:59:17.415706,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Blocks,Jrue  Holiday,-0.014099999999999994,0.0526,0.0667
+2024-07-22 16:59:17.415706,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Blocks,Derrick  White,-0.014099999999999994,0.0526,0.0667
 2024-07-22 08:58:25.403009,Olympic Games Futures - Olympic Womens Soccer 2024 - Winner,Colombia (W),-0.014099999999999998,0.0244,0.0385
 2024-07-22 12:58:15.834287,200m - Paris 2024 - Men's 200m - Gold Medal Winner,Andre De Grasse (CAN),-0.014100000000000001,0.0385,0.0526
-2024-07-22 16:59:11.290527,Mountain Bike - Paris 2024 - Women's Cross Country - Gold Medal Winner,Haley Batten (USA),-0.014100000000000001,0.0385,0.0526
 2024-07-22 16:59:11.290527,Mountain Bike - Paris 2024 - Women's Cross Country - Gold Medal Winner,Evie Richards (GBR),-0.014100000000000001,0.0385,0.0526
+2024-07-22 16:59:11.290527,Mountain Bike - Paris 2024 - Women's Cross Country - Gold Medal Winner,Haley Batten (USA),-0.014100000000000001,0.0385,0.0526
+2024-07-22 18:59:27.310782,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball Stage of Elimination - Stage of Elimination - France,Semi Final,-0.01419999999999999,0.3704,0.3846
 2024-07-22 16:59:17.397501,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Assists,Anthony  Edwards,-0.01440000000000001,0.0909,0.1053
 2024-07-22 16:59:16.836493,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Steals,Josh  Giddey,-0.015100000000000002,0.1667,0.1818
 2024-07-22 14:59:13.858395,MAC Regular Season Wins - MAC Regular Season Wins - Central Michigan,Over 5.5 Wins,-0.01539999999999997,0.6,0.6154
-2024-07-22 08:58:25.394777,Olympic Games Futures - Olympic Mens Soccer 2024 - Group D - Group Winner,Mali U23,-0.01629999999999998,0.2778,0.2941
 2024-07-22 08:58:25.394777,Olympic Games Futures - Olympic Mens Soccer 2024 - Group D - Group Winner,Paraguay U23,-0.01629999999999998,0.2778,0.2941
+2024-07-22 08:58:25.394777,Olympic Games Futures - Olympic Mens Soccer 2024 - Group D - Group Winner,Mali U23,-0.01629999999999998,0.2778,0.2941
+2024-07-22 18:59:21.022168,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,SønderjyskE,-0.016699999999999993,0.4,0.4167
+2024-07-22 18:59:29.071798,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Roy Cooper,-0.016699999999999993,0.25,0.2667
 2024-07-22 14:59:17.344981,Boxing Lines - Andy Cruz vs Antonio Moran - To Win the Bout,Antonio Moran,-0.016700000000000007,0.0833,0.1
-2024-07-22 14:59:15.684149,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Bowling Green,-0.0179,0.125,0.1429
 2024-07-22 08:58:26.364105,Road - Paris 2024 - Men's Road Race - Gold Medal Winner,Wout van Aert (BEL),-0.0179,0.125,0.1429
-2024-07-22 06:59:10.513155,Democratic National Convention - Democratic Convention: Will Joe Biden address the convention? - Will Biden Address The Convention?,Yes,-0.017900000000000027,0.8571,0.875
+2024-07-22 14:59:15.684149,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Bowling Green,-0.0179,0.125,0.1429
 2024-07-22 16:59:17.397501,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Assists,Derrick  White,-0.018099999999999998,0.0588,0.0769
 2024-07-22 08:58:25.394777,Olympic Games Futures - Olympic Mens Soccer 2024 - Group D - Group Winner,Israel U23,-0.01820000000000002,0.1818,0.2
 2024-07-22 16:59:16.764501,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Assists,Patty  Mills,-0.01820000000000002,0.1818,0.2
 2024-07-22 16:59:19.477108,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Roy Cooper,-0.019000000000000017,0.2667,0.2857
+2024-07-22 16:59:17.270326,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading Japan Rebounds,Rui  Hachimura,-0.019000000000000017,0.2667,0.2857
 2024-07-22 10:58:41.705848,Quarterbacks - NFL 2024-25 Passing TD's - Jordan Love Regular Season Total Passing TDs 2024-25,Under 28.5 TD's,-0.01970000000000005,0.5455,0.5652
 2024-07-22 12:58:23.123331,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Hillary Clinton,-0.019800000000000005,0.0278,0.0476
+2024-07-22 18:59:21.016048,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Nordsjælland,-0.02020000000000001,0.0909,0.1111
 2024-07-22 16:59:17.415706,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Blocks,Kevin  Durant,-0.02020000000000001,0.0909,0.1111
 2024-07-22 16:59:16.836493,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Steals,Josh  Green,-0.02049999999999999,0.1333,0.1538
 2024-07-22 14:58:53.344771,400m Hurdles - Paris 2024 - Women's 400m Hurdles - World Record To Be Broken,No,-0.020699999999999996,0.4444,0.4651
 2024-07-22 10:58:41.454435,Quarterbacks - NFL 2024-25 Passing TD's - Aaron Rodgers Regular Season Total Passing TDs 2024-25,Under 26.5 TD's,-0.02079999999999993,0.5348,0.5556
 2024-07-22 08:58:34.171798,Starting QB Specials - 2024-25 New York Giants Week 1 Starting QB - 2024-25 New York Giants Week 1 Starting QB,Drew Lock,-0.022199999999999998,0.2,0.2222
-2024-07-22 10:58:41.647317,Quarterbacks - NFL 2024-25 Passing TD's - Jared Goff Regular Season Total Passing TDs 2024-25,Over 27.5 TD's,-0.022600000000000064,0.5122,0.5348
-2024-07-22 14:59:14.170939,MWC Regular Season Wins - MWC Regular Season Wins - San Jose State,Over 4.5 Wins,-0.022600000000000064,0.5122,0.5348
+2024-07-22 18:59:21.016048,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Midtjylland,-0.022199999999999998,0.2,0.2222
+2024-07-22 18:59:21.022168,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Aalborg BK,-0.02260000000000001,0.3774,0.4
 2024-07-22 10:58:41.473737,Quarterbacks - NFL 2024-25 Passing TD's - Anthony Richardson Regular Season Total Passing TDs 2024-25,Over 18.5 TD's,-0.022600000000000064,0.5122,0.5348
-2024-07-22 06:59:10.752112,"Robert Kennedy, Jr Specials - Robert Kennedy, Jr: Presidential Election Popular Vote % - RFK, Jr Popular Vote %",10% or under,-0.02310000000000001,0.9,0.9231
+2024-07-22 14:59:14.170939,MWC Regular Season Wins - MWC Regular Season Wins - San Jose State,Over 4.5 Wins,-0.022600000000000064,0.5122,0.5348
+2024-07-22 10:58:41.647317,Quarterbacks - NFL 2024-25 Passing TD's - Jared Goff Regular Season Total Passing TDs 2024-25,Over 27.5 TD's,-0.022600000000000064,0.5122,0.5348
 2024-07-22 16:59:16.836493,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Steals,Jock  Landale,-0.02310000000000001,0.0769,0.1
 2024-07-22 14:59:14.049072,MWC Regular Season Wins - MWC Regular Season Wins - Colorado State,Over 6.5 Wins,-0.023800000000000043,0.5,0.5238
 2024-07-22 08:58:25.403009,Olympic Games Futures - Olympic Womens Soccer 2024 - Winner,USA (W),-0.02560000000000001,0.3077,0.3333
+2024-07-22 18:59:29.071798,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Josh Shapiro,-0.02560000000000001,0.3077,0.3333
 2024-07-22 08:58:34.145462,Starting QB Specials - 2024-25 Las Vegas Raiders Week 1 Starting QB - 2024-25 Las Vegas Raiders Week 1 Starting QB,Gardner Minshew,-0.026499999999999968,0.5652,0.5917
 2024-07-22 16:59:17.397501,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Assists,Jayson  Tatum,-0.027800000000000005,0.0833,0.1111
 2024-07-22 16:59:17.511342,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball Stage of Elimination - Stage of Elimination - Australia,Semi Final,-0.027800000000000005,0.0833,0.1111
@@ -130,15 +154,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-22 12:58:23.123331,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Michelle Obama,-0.03330000000000001,0.0667,0.1
 2024-07-22 12:58:15.834287,200m - Paris 2024 - Men's 200m - Gold Medal Winner,Letsile Tobogo (BOT),-0.034100000000000005,0.0909,0.125
 2024-07-22 16:59:16.818481,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Rebounds,Jock  Landale,-0.034499999999999975,0.3226,0.3571
-2024-07-22 16:59:34.053692,MAC Regular Season Wins - MAC Regular Season Wins - Miami Ohio,Over 7.5 Wins,-0.03479999999999994,0.5652,0.6
 2024-07-22 16:59:17.511342,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball Stage of Elimination - Stage of Elimination - Australia,Quarter Final,-0.03479999999999994,0.5652,0.6
+2024-07-22 16:59:34.053692,MAC Regular Season Wins - MAC Regular Season Wins - Miami Ohio,Over 7.5 Wins,-0.03479999999999994,0.5652,0.6
 2024-07-22 10:58:47.827069,ACC Regular Season Wins - ACC Regular Season Wins - Pittsburgh,Over 5.5 Wins,-0.03480000000000005,0.5,0.5348
 2024-07-22 16:59:16.800499,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Points Scorer,Jock  Landale,-0.03889999999999999,0.1429,0.1818
 2024-07-22 16:59:17.270326,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading Japan Rebounds,Yuta  Watanabe,-0.04169999999999999,0.125,0.1667
 2024-07-22 10:58:29.990860,200m Backstroke - Paris 2024 - Men's 200m Backstroke - Gold Medal Winner,Keaton Jones (USA),-0.04169999999999999,0.125,0.1667
 2024-07-22 14:58:55.445476,Deadpool & Wolverine - Deadpool & Wolverine: Kill Count Match Bet - Kill Count Match Bet,Deadpool,-0.04380000000000006,0.7895,0.8333
-2024-07-22 06:59:10.465580,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Gretchen Whitmer,-0.044599999999999994,0.0323,0.0769
-2024-07-22 06:59:10.527402,Presidential Debates - Will Donald Trump and Kamala Harris participate in a presidential debate? - Trump/Harris debate?,No,-0.04580000000000001,0.2667,0.3125
 2024-07-22 10:58:34.399323,Olympics Basketball - Men Futures - Paris 2024 - Men's Basketball - Player Props - Leading Japan Rebounds,Rui  Hachimura,-0.047599999999999976,0.2857,0.3333
 2024-07-22 10:58:29.055144,Liga FPD Apertura - Costa Rica Primera Division Apertura 2024 - Futures - Winner,Guanacasteca,-0.048600000000000004,0.0625,0.1111
 2024-07-22 14:58:55.467572,"Deadpool & Wolverine - Deadpool & Wolverine: Who will say ""Fuck"" the most? - To say ""fuck"" the most",Deadpool,-0.04909999999999992,0.8333,0.8824
