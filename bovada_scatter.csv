@@ -4,7 +4,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-24 20:59:32.642434,The Basketball Tournament - The Basketball Tournament - Outright,Carmen's Crew,0.123,0.1818,0.0588
 2024-07-24 18:59:45.518694,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,0.12219999999999998,0.7222,0.6
 2024-07-24 16:59:41.507041,Denver Nuggets - Denver Nuggets 2024-25 - Regular Season Wins,Over 46.5,0.09600000000000009,0.8182,0.7222
-2024-07-24 14:59:09.200158,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,0.0877,0.4651,0.3774
 2024-07-24 20:59:32.642434,The Basketball Tournament - The Basketball Tournament - Outright,Happy Valley Hoopers,0.08330000000000001,0.1111,0.0278
 2024-07-24 16:59:37.097222,Ru Paul's Drag Race - Ru Paul's Drag Race: Canada Vs The World Season 2 - Outright Winner - Canada Vs The World Season 2 Outright Winner,Alexis Mateo,0.08329999999999999,0.3333,0.25
 2024-07-24 16:59:34.167211,Men's - Paris 2024 - Men's Rugby Sevens - Gold Medal Winner,Fiji (FIJ),0.08150000000000002,0.2353,0.1538
@@ -13,7 +12,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-24 16:59:41.903941,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Under 47.5,0.0675,0.75,0.6825
 2024-07-24 16:59:41.421741,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Under 53.5,0.06719999999999993,0.7101,0.6429
 2024-07-24 16:59:41.158024,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Under 61.5,0.06659999999999999,0.7333,0.6667
-2024-07-24 14:59:21.177043,Division Specials - Regular Season Division Wins - MIN Vikings Division Wins,Under 2.5 Wins,0.06220000000000003,0.5744,0.5122
 2024-07-24 16:59:32.997568,+92kg - Paris 2024 - Men's +92kg Boxing - Gold Medal Winner,Bakhodir Jalolov (UZB),0.05630000000000002,0.8182,0.7619
 2024-07-24 16:59:42.453388,Orlando Magic - Orlando Magic 2024-25 - Regular Season Wins,Over 47.5,0.05559999999999998,0.5556,0.5
 2024-07-24 16:59:42.122243,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Over 51.5,0.05559999999999998,0.5556,0.5
@@ -24,122 +22,111 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-24 16:59:37.049391,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Quinn Martin,0.04849999999999999,0.1818,0.1333
 2024-07-24 16:59:41.923462,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Under 41.5,0.0474,0.3922,0.3448
 2024-07-25 00:59:34.732201,Scores - 1st Round Score - Tony Finau - 1st Round Score,Under 67.5,0.047099999999999975,0.5122,0.4651
-2024-07-24 14:59:02.355772,Men's - Paris 2024 - B-Boys - Gold Medal Winner,B-Boy Phil Wizard - Philip Kim (CAN),0.044399999999999995,0.4444,0.4
-2024-07-24 18:59:44.609255,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Under 52.5,0.043399999999999994,0.5556,0.5122
+2024-07-25 02:58:59.124892,Freestyle 86kg - Paris 2024 - Men's Freestyle 86kg - Gold Medal Winner,Aaron Brooks (USA),0.044399999999999995,0.4444,0.4
 2024-07-24 16:59:41.724888,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Over 42.5,0.043399999999999994,0.5556,0.5122
+2024-07-24 18:59:44.609255,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Under 52.5,0.043399999999999994,0.5556,0.5122
 2024-07-24 16:59:41.884504,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Over 43.5,0.043399999999999994,0.5556,0.5122
 2024-07-24 16:59:41.857512,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 41.5,0.043399999999999994,0.5556,0.5122
 2024-07-24 16:59:41.572926,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Under 27.5,0.035699999999999954,0.75,0.7143
 2024-07-24 20:59:32.642434,The Basketball Tournament - The Basketball Tournament - Outright,Forever Coogs,0.03420000000000001,0.1111,0.0769
 2024-07-24 20:59:32.642434,The Basketball Tournament - The Basketball Tournament - Outright,The Ville,0.03369999999999998,0.1818,0.1481
-2024-07-24 14:59:11.320773,CFL - CFL Futures -  Grey Cup Winner 2024,Saskatchewan Roughriders,0.033300000000000024,0.2,0.1667
 2024-07-24 18:59:43.954560,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Under 41.5,0.033299999999999996,0.5455,0.5122
 2024-07-24 18:59:43.367088,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Under 19.5,0.033299999999999996,0.5455,0.5122
 2024-07-24 16:59:43.364460,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Michelle Obama,0.032900000000000006,0.0714,0.0385
 2024-07-24 16:59:43.411800,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Kamala Harris vs The Field - Outright,The Field,0.031799999999999995,0.1429,0.1111
-2024-07-24 16:59:41.196865,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Over 57.5,0.03179999999999994,0.5556,0.5238
-2024-07-24 16:59:42.320914,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Over 53.5,0.03179999999999994,0.5556,0.5238
 2024-07-24 16:59:41.592380,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Over 24.5,0.03179999999999994,0.5556,0.5238
+2024-07-24 16:59:42.320914,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Over 53.5,0.03179999999999994,0.5556,0.5238
 2024-07-24 16:59:42.254894,New Orleans Pelicans - New Orleans Pelicans 2024-25 - Regular Season Wins,Over 45.5,0.03179999999999994,0.5556,0.5238
-2024-07-24 16:59:42.188484,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Over 52.5,0.03179999999999994,0.5556,0.5238
 2024-07-24 16:59:42.056116,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Over 44.5,0.03179999999999994,0.5556,0.5238
 2024-07-24 16:59:41.989766,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Over 47.5,0.03179999999999994,0.5556,0.5238
+2024-07-24 16:59:42.188484,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Over 52.5,0.03179999999999994,0.5556,0.5238
+2024-07-25 02:59:28.021594,Round Match-Ups - 1st Round Match-Up - C. Ortiz vs T. Gooch - 1st Round Match-Up,Carlos Ortiz,0.03179999999999994,0.5556,0.5238
+2024-07-24 16:59:41.196865,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Over 57.5,0.03179999999999994,0.5556,0.5238
 2024-07-25 00:59:34.368191,Scores - 1st Round Score - Adam Hadwin - 1st Round Score,Under 68.5,0.030399999999999983,0.5652,0.5348
 2024-07-25 00:59:10.539823,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Points Scorer,Stephen  Curry,0.02779999999999999,0.25,0.2222
-2024-07-24 14:59:28.508620,Round Match-Ups - 1st Round Match-Ups - A. Svensson v J. Knapp - 1st Round Match-Ups,Adam Svensson,0.027700000000000058,0.5833,0.5556
 2024-07-24 16:59:41.638908,Golden State Warriors - Golden State Warriors 2024-25 - Regular Season Wins,Under 46.5,0.027599999999999958,0.7101,0.6825
 2024-07-24 18:59:36.536776,Rifle - Paris 2024 - Mixed Team 10m Air Rifle - Gold Medal Winner,China (CHN),0.02750000000000008,0.6429,0.6154
 2024-07-24 18:59:45.469428,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Josh Shapiro,0.026000000000000023,0.2857,0.2597
 2024-07-24 16:59:41.130988,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Under 35.5,0.024399999999999977,0.5122,0.4878
 2024-07-24 18:59:45.369612,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Kamala Harris,0.023699999999999943,0.6154,0.5917
-2024-07-24 14:59:20.990201,Division Specials - Regular Season Division Wins - DET Lions Division Wins,Over 3.5,0.022600000000000064,0.6226,0.6
 2024-07-24 18:59:44.347546,New Orleans Pelicans - New Orleans Pelicans 2024-25 - Regular Season Wins,Under 45.5,0.022600000000000064,0.5348,0.5122
 2024-07-24 18:59:32.860979,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win West 6,Seattle Sounders,0.022600000000000064,0.5348,0.5122
 2024-07-25 00:59:06.718858,Freestyle 86kg - Paris 2024 - Men's Freestyle 86kg - Gold Medal Winner,Aaron Brooks (USA),0.02260000000000001,0.4,0.3774
 2024-07-24 16:59:39.840450,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Points Scorer,Stephen  Curry,0.022199999999999998,0.2222,0.2
-2024-07-24 19:00:07.336723,3M Open - 2/3 Balls - 1st Round 3-Balls - B. Silverman / N. Lindheim / R. Pereda - 1st Round 3-Balls,Ben Silverman,0.02169999999999994,0.5455,0.5238
 2024-07-24 18:59:44.938474,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Under 30.5,0.02169999999999994,0.5455,0.5238
-2024-07-24 14:59:28.560078,Round Match-Ups - 1st Round Match-Ups - G. Sigg v H. Springer - 1st Round Match-Ups,Hayden Springer,0.02169999999999994,0.5455,0.5238
-2024-07-24 14:58:59.244739,Total Medals - Paris 2024 - Total Gold Medals - Brazil Total Gold Medals,Under 7.5,0.02080000000000004,0.6875,0.6667
-2024-07-24 16:59:42.586143,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Over 46.5,0.02079999999999993,0.5556,0.5348
-2024-07-24 14:59:31.652594,Match-Ups - 1st Round Match-Up - T. Hoge v N. Dunlap - Requests,Tom Hoge,0.02079999999999993,0.5556,0.5348
-2024-07-24 16:59:42.786334,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Over 35.5,0.02079999999999993,0.5556,0.5348
+2024-07-24 19:00:07.336723,3M Open - 2/3 Balls - 1st Round 3-Balls - B. Silverman / N. Lindheim / R. Pereda - 1st Round 3-Balls,Ben Silverman,0.02169999999999994,0.5455,0.5238
 2024-07-24 16:59:41.262929,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Over 19.5,0.02079999999999993,0.5556,0.5348
-2024-07-24 16:59:41.328750,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Over 29.5,0.02079999999999993,0.5556,0.5348
-2024-07-24 16:59:41.791492,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Over 46.5,0.02079999999999993,0.5556,0.5348
-2024-07-24 20:59:55.414454,Round Match-Ups - 1st Round Match-Ups - T. Hoge v C. Davis - 1st Round Match-Ups,Tom Hoge,0.02079999999999993,0.5556,0.5348
+2024-07-24 16:59:42.786334,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Over 35.5,0.02079999999999993,0.5556,0.5348
 2024-07-24 16:59:42.519899,Philadelphia 76ers - Philadelphia 76ers - Regular Season Wins,Over 52.5,0.02079999999999993,0.5556,0.5348
+2024-07-24 16:59:41.328750,Charlotte Hornets - Charlotte Hornets 2024-25 - Regular Season Wins,Over 29.5,0.02079999999999993,0.5556,0.5348
+2024-07-24 16:59:42.586143,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Over 46.5,0.02079999999999993,0.5556,0.5348
+2024-07-24 20:59:55.414454,Round Match-Ups - 1st Round Match-Ups - T. Hoge v C. Davis - 1st Round Match-Ups,Tom Hoge,0.02079999999999993,0.5556,0.5348
+2024-07-24 14:59:31.652594,Match-Ups - 1st Round Match-Up - T. Hoge v N. Dunlap - Requests,Tom Hoge,0.02079999999999993,0.5556,0.5348
+2024-07-24 16:59:41.791492,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Over 46.5,0.02079999999999993,0.5556,0.5348
 2024-07-24 16:59:34.167211,Men's - Paris 2024 - Men's Rugby Sevens - Gold Medal Winner,Ireland (IRL),0.02020000000000001,0.1111,0.0909
 2024-07-24 20:59:32.642434,The Basketball Tournament - The Basketball Tournament - Outright,Eberlein Drive,0.019699999999999995,0.125,0.1053
-2024-07-24 18:59:44.478273,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Over 55.5,0.01880000000000004,0.5744,0.5556
 2024-07-24 22:59:43.975348,Match-Ups - 1st Round Match-Up - T. Hoge v N. Dunlap - Requests,Tom Hoge,0.01880000000000004,0.5744,0.5556
+2024-07-24 18:59:44.478273,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Over 55.5,0.01880000000000004,0.5744,0.5556
 2024-07-24 18:59:44.439637,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Over 58.5,0.018100000000000005,0.4348,0.4167
 2024-07-24 20:59:32.642434,The Basketball Tournament - The Basketball Tournament - Outright,Takeover BC,0.018099999999999998,0.0769,0.0588
+2024-07-25 00:59:10.539823,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Points Scorer,LeBron  James,0.0179,0.1429,0.125
+2024-07-25 02:58:55.348086,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Boca Juniors,0.0179,0.1429,0.125
 2024-07-24 16:59:41.355766,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Under 50.5,0.01759999999999995,0.6667,0.6491
-2024-07-24 14:59:21.032689,Division Specials - Regular Season Division Wins - HOU Texans Division Wins,Over 3.5,0.017299999999999982,0.5917,0.5744
 2024-07-24 22:59:41.100006,Boxing Lines - Umar Khan vs Kaddour Hmiani - To Win the Bout,Kaddour Hmiani,0.016700000000000007,0.1,0.0833
 2024-07-24 16:59:37.097222,Ru Paul's Drag Race - Ru Paul's Drag Race: Canada Vs The World Season 2 - Outright Winner - Canada Vs The World Season 2 Outright Winner,Kennedy Davenport,0.016699999999999993,0.2667,0.25
-2024-07-24 14:59:27.405759,Boxing Lines - Ryan Garner vs Archie Sharp - To Win the Bout,Ryan Garner,0.01629999999999998,0.7222,0.7059
-2024-07-24 14:59:28.534440,Round Match-Ups - 1st Round Match-Ups - C. Gotterup v M. Wallace - 1st Round Match-Ups,Matt Wallace,0.016100000000000003,0.6078,0.5917
 2024-07-24 20:59:35.153999,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Mark Kelly,0.016000000000000014,0.4082,0.3922
 2024-07-24 18:59:44.852811,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Over 38.5,0.015400000000000025,0.4,0.3846
-2024-07-24 14:59:11.320773,CFL - CFL Futures -  Grey Cup Winner 2024,Montreal Alouettes,0.015000000000000013,0.2817,0.2667
+2024-07-25 02:58:55.534198,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Unión de Santa Fe,0.014900000000000004,0.0345,0.0196
 2024-07-24 18:59:45.444899,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Kamala Harris,0.014399999999999968,0.9375,0.9231
+2024-07-25 02:59:05.938618,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Kamala Harris vs The Field - Outright,Kamala Harris,0.014399999999999968,0.9375,0.9231
 2024-07-24 16:59:43.389212,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Andy Beshear,0.013999999999999999,0.0909,0.0769
-2024-07-24 14:59:21.103577,Division Specials - Regular Season Division Wins - LA Chargers Division Wins,Over 3.5,0.013800000000000034,0.3774,0.3636
+2024-07-25 02:58:55.348086,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Cruzeiro MG,0.013899999999999996,0.125,0.1111
 2024-07-24 19:00:07.550193,Totals - 1st Round Birdies - Nick Dunlap - 1st Round Birdies,Over 4.5,0.013799999999999923,0.6364,0.6226
 2024-07-24 16:59:41.394756,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Under 47.5,0.012199999999999989,0.5122,0.5
 2024-07-24 16:59:42.652393,Portland Trail Blazers - Portland Trail Blazers 2024-25 - Regular Season Wins,Under 21.5,0.012199999999999989,0.5122,0.5
 2024-07-24 18:59:44.458933,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Over 52.5,0.0121,0.7222,0.7101
 2024-07-24 18:59:44.833152,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Over 32.5,0.011900000000000022,0.7619,0.75
 2024-07-24 18:59:44.872326,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Under 35.5,0.011600000000000055,0.5238,0.5122
-2024-07-24 18:59:44.412897,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Under 53.5,0.011600000000000055,0.5238,0.5122
 2024-07-24 18:59:44.740488,Portland Trail Blazers - Portland Trail Blazers 2024-25 - Regular Season Wins,Under 21.5,0.011600000000000055,0.5238,0.5122
+2024-07-24 18:59:44.412897,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Under 53.5,0.011600000000000055,0.5238,0.5122
 2024-07-24 16:59:37.049391,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Leah Peters,0.011199999999999995,0.0588,0.0476
-2024-07-24 14:59:27.136372,Boxing Lines - Kaipo Gallegos vs Armando Frausto - To Win the Bout,Kaipo Gallegos,0.011199999999999988,0.9524,0.9412
 2024-07-24 20:59:54.205796,Boxing Lines - Lucas Miller vs Clay AJ Waterman - To Win the Bout,Clay AJ Waterman,0.011099999999999999,0.7937,0.7826
 2024-07-24 18:59:45.004598,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Over 21.5,0.01100000000000001,0.5348,0.5238
 2024-07-24 18:59:45.004598,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Under 21.5,0.01100000000000001,0.5348,0.5238
-2024-07-24 14:59:21.134770,Division Specials - Regular Season Division Wins - LV Raiders Division Wins,Over 2.5,0.010699999999999932,0.5455,0.5348
 2024-07-24 20:59:31.223534,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Canada Rebounds,Kelly  Olynyk,0.010499999999999982,0.2105,0.2
 2024-07-24 16:59:37.049391,Big Brother - BB26: Outright Winner - BB26 Outright Winner,T'kor Clottey,0.0102,0.0769,0.0667
-2024-07-24 16:59:41.659007,Golden State Warriors - Golden State Warriors 2024-25 - Regular Season Wins,Over 43.5,0.010099999999999998,0.5556,0.5455
 2024-07-24 16:59:42.719977,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Over 46.5,0.010099999999999998,0.5556,0.5455
+2024-07-24 16:59:41.659007,Golden State Warriors - Golden State Warriors 2024-25 - Regular Season Wins,Over 43.5,0.010099999999999998,0.5556,0.5455
 2024-07-24 16:59:41.394756,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Over 47.5,0.010099999999999998,0.5556,0.5455
 2024-07-24 16:59:42.652393,Portland Trail Blazers - Portland Trail Blazers 2024-25 - Regular Season Wins,Over 21.5,0.010099999999999998,0.5556,0.5455
-2024-07-24 18:59:44.740488,Portland Trail Blazers - Portland Trail Blazers 2024-25 - Regular Season Wins,Over 21.5,-0.010099999999999998,0.5455,0.5556
-2024-07-24 19:00:07.336723,3M Open - 2/3 Balls - 1st Round 3-Balls - B. Silverman / N. Lindheim / R. Pereda - 1st Round 3-Balls,Nicholas Lindheim,-0.010099999999999998,0.3125,0.3226
-2024-07-24 18:59:44.872326,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Over 35.5,-0.010099999999999998,0.5455,0.5556
 2024-07-24 18:59:44.412897,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Over 53.5,-0.010099999999999998,0.5455,0.5556
+2024-07-24 18:59:44.740488,Portland Trail Blazers - Portland Trail Blazers 2024-25 - Regular Season Wins,Over 21.5,-0.010099999999999998,0.5455,0.5556
+2024-07-24 18:59:44.872326,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Over 35.5,-0.010099999999999998,0.5455,0.5556
+2024-07-24 19:00:07.336723,3M Open - 2/3 Balls - 1st Round 3-Balls - B. Silverman / N. Lindheim / R. Pereda - 1st Round 3-Balls,Nicholas Lindheim,-0.010099999999999998,0.3125,0.3226
+2024-07-25 00:59:06.718858,Freestyle 86kg - Paris 2024 - Men's Freestyle 86kg - Gold Medal Winner,Azamat Dauletbekov (KAZ),-0.0102,0.0667,0.0769
 2024-07-24 16:59:37.049391,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Angela Murray,-0.0102,0.0667,0.0769
 2024-07-24 20:59:54.180600,Boxing Lines - Max Mcintyre vs Micah Rivetti - To Win the Bout,Micah Rivetti,-0.0102,0.0667,0.0769
-2024-07-24 14:59:27.024082,Boxing Lines - Xavier Fletcher vs Suitama Manuele - To Win the Bout,Suitama Manuele,-0.0102,0.0667,0.0769
-2024-07-25 00:59:06.718858,Freestyle 86kg - Paris 2024 - Men's Freestyle 86kg - Gold Medal Winner,Azamat Dauletbekov (KAZ),-0.0102,0.0667,0.0769
 2024-07-24 18:59:32.860979,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win West 6,Minnesota United,-0.010699999999999987,0.3226,0.3333
-2024-07-24 14:59:21.134770,Division Specials - Regular Season Division Wins - LV Raiders Division Wins,Under 2.5,-0.01100000000000001,0.5238,0.5348
-2024-07-24 14:59:27.161605,Boxing Lines - Miy Sean Mason vs Thomas Guillemette - To Win the Bout,Thomas Guillemette,-0.011099999999999999,0.1,0.1111
-2024-07-24 14:59:11.320773,CFL - CFL Futures -  Grey Cup Winner 2024,Winnipeg Blue Bombers,-0.011099999999999999,0.1,0.1111
 2024-07-25 00:59:10.539823,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Points Scorer,Joel  Embiid,-0.011099999999999999,0.1,0.1111
-2024-07-24 14:59:21.032689,Division Specials - Regular Season Division Wins - HOU Texans Division Wins,Under 3.5,-0.0116,0.4762,0.4878
-2024-07-24 16:59:41.989766,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Under 47.5,-0.011600000000000055,0.5122,0.5238
+2024-07-25 02:58:55.348086,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Corinthians,-0.011099999999999999,0.1,0.1111
+2024-07-24 16:59:41.659007,Golden State Warriors - Golden State Warriors 2024-25 - Regular Season Wins,Under 43.5,-0.011600000000000055,0.5122,0.5238
 2024-07-24 16:59:41.196865,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Under 57.5,-0.011600000000000055,0.5122,0.5238
+2024-07-24 16:59:42.719977,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Under 46.5,-0.011600000000000055,0.5122,0.5238
 2024-07-24 16:59:41.592380,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Under 24.5,-0.011600000000000055,0.5122,0.5238
+2024-07-24 16:59:42.320914,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Under 53.5,-0.011600000000000055,0.5122,0.5238
+2024-07-24 16:59:41.989766,Memphis Grizzlies - Memphis Grizzlies 2024-25 - Regular Season Wins,Under 47.5,-0.011600000000000055,0.5122,0.5238
 2024-07-24 16:59:42.254894,New Orleans Pelicans - New Orleans Pelicans 2024-25 - Regular Season Wins,Under 45.5,-0.011600000000000055,0.5122,0.5238
 2024-07-24 16:59:42.188484,Minnesota Timberwolves - Minnesota Timberwolves 2024-25 - Regular Season Wins,Under 52.5,-0.011600000000000055,0.5122,0.5238
-2024-07-24 16:59:42.719977,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Under 46.5,-0.011600000000000055,0.5122,0.5238
 2024-07-24 16:59:42.056116,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Under 44.5,-0.011600000000000055,0.5122,0.5238
-2024-07-24 16:59:41.659007,Golden State Warriors - Golden State Warriors 2024-25 - Regular Season Wins,Under 43.5,-0.011600000000000055,0.5122,0.5238
-2024-07-24 16:59:42.320914,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Under 53.5,-0.011600000000000055,0.5122,0.5238
 2024-07-24 16:59:43.389212,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Roy Cooper,-0.011899999999999994,0.1481,0.16
 2024-07-24 18:59:43.823970,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Under 42.5,-0.012199999999999989,0.5,0.5122
 2024-07-24 18:59:44.458933,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Under 52.5,-0.012299999999999978,0.3448,0.3571
-2024-07-24 14:59:27.405759,Boxing Lines - Ryan Garner vs Archie Sharp - To Win the Bout,Archie Sharp,-0.012299999999999978,0.3448,0.3571
-2024-07-24 14:59:09.051152,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Josh Shapiro,-0.012799999999999978,0.2857,0.2985
-2024-07-24 14:59:11.320773,CFL - CFL Futures -  Grey Cup Winner 2024,Toronto Argonauts,-0.012899999999999995,0.1538,0.1667
 2024-07-24 22:59:41.100006,Boxing Lines - Umar Khan vs Kaddour Hmiani - To Win the Bout,Umar Khan,-0.0131,0.9524,0.9655
-2024-07-24 16:59:32.997568,+92kg - Paris 2024 - Men's +92kg Boxing - Gold Medal Winner,Teremoana Junior (AUS),-0.013999999999999999,0.0769,0.0909
-2024-07-25 00:59:31.286709,Boxing Lines - Justis Huni vs Troy Pilcher - To Win the Bout,Troy Pilcher,-0.013999999999999999,0.0769,0.0909
+2024-07-25 02:59:05.938618,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Kamala Harris vs The Field - Outright,The Field,-0.013899999999999996,0.129,0.1429
+2024-07-25 02:58:55.348086,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Fortaleza,-0.013899999999999996,0.1111,0.125
 2024-07-25 00:59:10.539823,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Points Scorer,Devin  Booker,-0.013999999999999999,0.0769,0.0909
+2024-07-25 00:59:31.286709,Boxing Lines - Justis Huni vs Troy Pilcher - To Win the Bout,Troy Pilcher,-0.013999999999999999,0.0769,0.0909
+2024-07-24 16:59:32.997568,+92kg - Paris 2024 - Men's +92kg Boxing - Gold Medal Winner,Teremoana Junior (AUS),-0.013999999999999999,0.0769,0.0909
 2024-07-24 16:59:37.097222,Ru Paul's Drag Race - Ru Paul's Drag Race: Canada Vs The World Season 2 - Outright Winner - Canada Vs The World Season 2 Outright Winner,Aquarelo,-0.014399999999999996,0.0625,0.0769
 2024-07-24 16:59:37.097222,Ru Paul's Drag Race - Ru Paul's Drag Race: Canada Vs The World Season 2 - Outright Winner - Canada Vs The World Season 2 Outright Winner,Gia Metric,-0.014399999999999996,0.0625,0.0769
 2024-07-24 18:59:32.860979,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win West 6,Necaxa,-0.01469999999999999,0.2353,0.25
@@ -147,26 +134,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-24 20:59:35.153999,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Tim Walz,-0.015300000000000001,0.0323,0.0476
 2024-07-24 18:59:44.852811,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Under 38.5,-0.015800000000000036,0.6667,0.6825
 2024-07-24 16:59:41.355766,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Over 50.5,-0.016699999999999993,0.4,0.4167
-2024-07-24 14:59:27.136372,Boxing Lines - Kaipo Gallegos vs Armando Frausto - To Win the Bout,Armando Frausto,-0.01759999999999999,0.1,0.1176
-2024-07-24 14:59:21.103577,Division Specials - Regular Season Division Wins - LA Chargers Division Wins,Under 3.5,-0.018399999999999972,0.6875,0.7059
-2024-07-24 19:00:07.550193,Totals - 1st Round Birdies - Nick Dunlap - 1st Round Birdies,Under 4.5,-0.018900000000000028,0.4255,0.4444
+2024-07-25 02:58:55.719286,100m - Paris 2024 - Men's 100m - Gold Medal Winner,Noah Lyles (USA),-0.018100000000000005,0.4167,0.4348
 2024-07-24 18:59:45.369612,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Donald Trump,-0.018900000000000028,0.4255,0.4444
+2024-07-24 19:00:07.550193,Totals - 1st Round Birdies - Nick Dunlap - 1st Round Birdies,Under 4.5,-0.018900000000000028,0.4255,0.4444
 2024-07-24 18:59:44.439637,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Under 58.5,-0.019499999999999962,0.6296,0.6491
-2024-07-24 14:59:28.534440,Round Match-Ups - 1st Round Match-Ups - C. Gotterup v M. Wallace - 1st Round Match-Ups,Chris Gotterup,-0.019699999999999995,0.4348,0.4545
-2024-07-24 14:59:20.990201,Division Specials - Regular Season Division Wins - DET Lions Division Wins,Under 3.5,-0.020699999999999996,0.4444,0.4651
 2024-07-24 18:59:44.347546,New Orleans Pelicans - New Orleans Pelicans 2024-25 - Regular Season Wins,Over 45.5,-0.02079999999999993,0.5348,0.5556
-2024-07-24 14:58:59.244739,Total Medals - Paris 2024 - Total Gold Medals - Brazil Total Gold Medals,Over 7.5,-0.02260000000000001,0.3774,0.4
-2024-07-24 16:59:41.884504,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Under 43.5,-0.022600000000000064,0.5122,0.5348
 2024-07-24 16:59:41.857512,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Under 41.5,-0.022600000000000064,0.5122,0.5348
 2024-07-24 16:59:41.724888,Houston Rockets - Houston Rockets 2024-25 - Regular Season Wins,Under 42.5,-0.022600000000000064,0.5122,0.5348
-2024-07-24 14:59:28.508620,Round Match-Ups - 1st Round Match-Ups - A. Svensson v J. Knapp - 1st Round Match-Ups,Jake Knapp,-0.022699999999999998,0.4651,0.4878
+2024-07-24 16:59:41.884504,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Under 43.5,-0.022600000000000064,0.5122,0.5348
 2024-07-24 22:59:43.975348,Match-Ups - 1st Round Match-Up - T. Hoge v N. Dunlap - Requests,Nick Dunlap,-0.022699999999999998,0.4651,0.4878
 2024-07-25 00:59:10.539823,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Points Scorer,Tyrese  Haliburton,-0.023200000000000002,0.0244,0.0476
-2024-07-24 14:59:28.560078,Round Match-Ups - 1st Round Match-Ups - G. Sigg v H. Springer - 1st Round Match-Ups,Greyson Sigg,-0.023800000000000043,0.5,0.5238
+2024-07-24 18:59:44.478273,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Under 55.5,-0.024399999999999977,0.4878,0.5122
 2024-07-24 20:59:55.414454,Round Match-Ups - 1st Round Match-Ups - T. Hoge v C. Davis - 1st Round Match-Ups,Cam Davis,-0.024399999999999977,0.4878,0.5122
 2024-07-24 14:59:31.652594,Match-Ups - 1st Round Match-Up - T. Hoge v N. Dunlap - Requests,Nick Dunlap,-0.024399999999999977,0.4878,0.5122
-2024-07-24 18:59:44.478273,Oklahoma City Thunder - Oklahoma City Thunder 2024-25 - Regular Season Wins,Under 55.5,-0.024399999999999977,0.4878,0.5122
-2024-07-24 14:59:08.966203,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.024500000000000022,0.3922,0.4167
 2024-07-24 16:59:41.091749,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Over 38.5,-0.02560000000000001,0.3448,0.3704
 2024-07-24 16:59:43.389212,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Josh Shapiro,-0.026000000000000023,0.2597,0.2857
 2024-07-24 16:59:41.638908,Golden State Warriors - Golden State Warriors 2024-25 - Regular Season Wins,Over 46.5,-0.027500000000000024,0.3571,0.3846
@@ -175,14 +155,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-24 16:59:43.364460,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Kamala Harris,-0.029299999999999993,0.9231,0.9524
 2024-07-24 16:59:43.411800,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Kamala Harris vs The Field - Outright,Kamala Harris,-0.029299999999999993,0.9231,0.9524
 2024-07-24 20:59:32.642434,The Basketball Tournament - The Basketball Tournament - Outright,La Familia,-0.030999999999999972,0.2222,0.2532
-2024-07-24 18:59:43.954560,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 41.5,-0.03179999999999994,0.5238,0.5556
 2024-07-24 18:59:43.367088,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Over 19.5,-0.03179999999999994,0.5238,0.5556
-2024-07-24 16:59:42.453388,Orlando Magic - Orlando Magic 2024-25 - Regular Season Wins,Under 47.5,-0.033299999999999996,0.5122,0.5455
+2024-07-24 18:59:43.954560,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 41.5,-0.03179999999999994,0.5238,0.5556
 2024-07-24 16:59:42.122243,Milwaukee Bucks - Milwaukee Bucks 2024-25 - Regular Season Wins,Under 51.5,-0.033299999999999996,0.5122,0.5455
-2024-07-24 16:59:37.097222,Ru Paul's Drag Race - Ru Paul's Drag Race: Canada Vs The World Season 2 - Outright Winner - Canada Vs The World Season 2 Outright Winner,Miss Fiercalicious,-0.033300000000000024,0.1667,0.2
+2024-07-24 16:59:42.453388,Orlando Magic - Orlando Magic 2024-25 - Regular Season Wins,Under 47.5,-0.033299999999999996,0.5122,0.5455
 2024-07-24 16:59:37.049391,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Cam Sullivan-Brown,-0.033300000000000024,0.1667,0.2
-2024-07-24 14:59:11.320773,CFL - CFL Futures -  Grey Cup Winner 2024,British Columbia Lions,-0.0348,0.2985,0.3333
+2024-07-24 16:59:37.097222,Ru Paul's Drag Race - Ru Paul's Drag Race: Canada Vs The World Season 2 - Outright Winner - Canada Vs The World Season 2 Outright Winner,Miss Fiercalicious,-0.033300000000000024,0.1667,0.2
 2024-07-25 00:59:34.368191,Scores - 1st Round Score - Adam Hadwin - 1st Round Score,Over 68.5,-0.03480000000000005,0.5,0.5348
+2024-07-25 02:58:55.534198,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,River Plate,-0.03570000000000001,0.25,0.2857
+2024-07-25 02:59:28.021594,Round Match-Ups - 1st Round Match-Up - C. Ortiz vs T. Gooch - 1st Round Match-Up,Talor Gooch,-0.03600000000000003,0.4878,0.5238
 2024-07-24 16:59:34.167211,Men's - Paris 2024 - Men's Rugby Sevens - Gold Medal Winner,South Africa (RSA),-0.0373,0.0294,0.0667
 2024-07-24 16:59:34.167211,Men's - Paris 2024 - Men's Rugby Sevens - Gold Medal Winner,Australia (AUS),-0.038299999999999994,0.0526,0.0909
 2024-07-24 16:59:41.572926,Detroit Pistons - Detroit Pistons 2024-25 - Regular Season Wins,Over 27.5,-0.03839999999999999,0.3125,0.3509
@@ -196,10 +177,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-24 16:59:41.111335,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Under 32.5,-0.06659999999999999,0.2667,0.3333
 2024-07-24 16:59:41.158024,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Over 61.5,-0.06670000000000004,0.3333,0.4
 2024-07-24 18:59:45.469428,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,William McRaven,-0.06699999999999999,0.0099,0.0769
-2024-07-24 14:59:21.177043,Division Specials - Regular Season Division Wins - MIN Vikings Division Wins,Over 2.5 Wins,-0.06779999999999997,0.4878,0.5556
 2024-07-24 16:59:41.421741,Dallas Mavericks - Dallas Mavericks 2024-25 - Regular Season Wins,Over 53.5,-0.06840000000000002,0.3571,0.4255
 2024-07-24 16:59:41.903941,Los Angeles Lakers - Los Angeles Lakers 2024-25 - Regular Season Wins,Over 47.5,-0.0721,0.3125,0.3846
-2024-07-24 14:59:09.200158,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,-0.08750000000000002,0.6,0.6875
 2024-07-24 16:59:41.507041,Denver Nuggets - Denver Nuggets 2024-25 - Regular Season Wins,Under 46.5,-0.0948,0.25,0.3448
 2024-07-24 18:59:45.518694,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,-0.12030000000000002,0.3448,0.4651
 2024-07-24 16:59:41.526493,Denver Nuggets - Denver Nuggets 2024-25 - Regular Season Wins,Under 49.5,-0.13479999999999998,0.3774,0.5122
