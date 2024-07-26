@@ -1,11 +1,11 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-26 06:58:46.329340,Olympic Games Futures - Olympic Womens Soccer 2024 - Group B - Group Winner,Germany (W),0.26570000000000005,0.4762,0.2105
-2024-07-25 18:59:21.938244,Men's - Paris 2024 - Men's Rugby Sevens - Gold Medal Winner,Fiji (FIJ),0.19050000000000006,0.5238,0.3333
-2024-07-25 18:59:21.938244,Men's - Paris 2024 - Men's Rugby Sevens - Gold Medal Winner,France (FRA),0.1795,0.3333,0.1538
 2024-07-26 04:58:37.123215,Womens - Paris 2024 - Women's Team Archery - Gold Medal Winner,South Korea (W),0.17459999999999998,0.8889,0.7143
 2024-07-26 06:58:46.337043,Olympic Games Futures - Olympic Womens Soccer 2024 - Group C - Group Winner,Spain (W),0.13340000000000007,0.8667,0.7333
 2024-07-26 02:58:47.242676,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Leah Peters,0.1079,0.1667,0.0588
-2024-07-25 18:59:21.938244,Men's - Paris 2024 - Men's Rugby Sevens - Gold Medal Winner,South Africa (RSA),0.0988,0.1333,0.0345
+2024-07-26 08:58:43.372129,MLB Futures - MLB 2024 Player Awards - American League ROY,Colton Cowser (BAL),0.10370000000000001,0.3704,0.2667
+2024-07-26 08:58:27.499777,Regular Season Wins O/U - Washington Mystics- 2024 Regular Season Wins - Washington Mystics- 2024 Regular Season Wins,Over 11.5,0.10109999999999997,0.5455,0.4444
+2024-07-26 08:58:43.282542,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Corbin Burnes (BAL),0.10039999999999999,0.3636,0.2632
 2024-07-26 02:59:13.264405,Match-Ups - 2nd Round Match-Up - A. Novak v R. Hisatsune - 2nd Round Match-Up ,Ryo Hisatsune,0.09830000000000005,0.5238,0.4255
 2024-07-26 00:59:19.943584,Scores - 2nd Round Score - Tony Finau - 2nd Round Score,Over 67.5,0.09820000000000001,0.5744,0.4762
 2024-07-26 04:58:37.134565,Mens - Paris 2024 - Men's Team Archery - Gold Medal Winner,France (FRA),0.0953,0.1429,0.0476
@@ -14,25 +14,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-26 04:58:37.134565,Mens - Paris 2024 - Men's Team Archery - Gold Medal Winner,India (IND),0.08099999999999999,0.0909,0.0099
 2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Lauren Coughlin,0.0809,0.1053,0.0244
 2024-07-26 04:58:39.350184,Men's - Paris 2024 - Men's 102kg - Gold Medal Winner,Akbar Djuraev (UZB),0.0769,0.1538,0.0769
-2024-07-25 18:59:28.010656,Tournament Futures - Paris 2024 - Men's Basketball Tournament Match-Ups - Canada vs France,Canada,0.07110000000000005,0.5833,0.5122
 2024-07-26 06:58:46.629600,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Vitória BA,0.0625,0.75,0.6875
 2024-07-26 02:59:13.291284,Match-Ups - 2nd Round Match-Up - A. Eckroat v D. Riley - 2nd Round Match-Up ,Austin Eckroat,0.059799999999999964,0.6154,0.5556
+2024-07-26 08:58:27.474741,Regular Season Wins O/U - Seattle Storm- 2024 Regular Season Wins - Seattle Storm- 2024 Regular Season Wins,Under 26.5,0.057699999999999974,0.5455,0.4878
 2024-07-26 04:58:37.123215,Womens - Paris 2024 - Women's Team Archery - Gold Medal Winner,India (W),0.05650000000000001,0.0714,0.0149
 2024-07-26 06:58:46.635691,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Cruzeiro MG,0.055900000000000005,0.3636,0.3077
 2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Jennifer Kupcho,0.05249999999999999,0.0769,0.0244
-2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Hannah Green,0.052399999999999995,0.0909,0.0385
 2024-07-26 06:58:46.629600,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Vasco da Gama,0.052399999999999995,0.0909,0.0385
+2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Hannah Green,0.052399999999999995,0.0909,0.0385
 2024-07-25 20:59:01.471839,Tournament Futures - Paris 2024 - Men's Basketball Tournament Match-Ups - France vs Serbia,Serbia,0.051100000000000034,0.4082,0.3571
+2024-07-26 08:58:43.395588,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Zack Wheeler (PHI),0.05020000000000002,0.4348,0.3846
 2024-07-26 04:58:37.253020,Road - Paris 2024 - Men's Road Race - Gold Medal Winner,Mathieu van der Poel (NED),0.0494,0.3571,0.3077
+2024-07-26 08:58:17.809981,Total Medals - Paris 2024 - Total Gold Medals - France Total Gold Medals,Under 25.5,0.04760000000000009,0.7143,0.6667
+2024-07-26 08:58:43.170115,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,0.047599999999999976,0.3333,0.2857
 2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Ariya Jutanugarn,0.047099999999999996,0.0667,0.0196
 2024-07-26 04:59:04.260759,Scores - 2nd Round Score - Sahith Theegala - 2nd Round Score,Over 68.5,0.045499999999999985,0.5,0.4545
 2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Minjee Lee,0.044599999999999994,0.0769,0.0323
 2024-07-26 04:58:37.253020,Road - Paris 2024 - Men's Road Race - Gold Medal Winner,Remco Evenepoel (BEL),0.042899999999999994,0.1429,0.1
 2024-07-26 04:58:37.123215,Womens - Paris 2024 - Women's Team Archery - Gold Medal Winner,Mexico (W),0.04229999999999999,0.0667,0.0244
+2024-07-26 06:59:14.951022,Round Match-Ups - 2nd Round Match-Ups - A. Bhatia vs L. Clanton - 2nd Round Match-Ups,Akshay Bhatia,0.04139999999999999,0.5652,0.5238
 2024-07-25 20:59:23.905627,3M Open - 2/3 Balls - 2nd Round 3-Balls - D. Riley / A. Eckroat / J. Knapp - 2nd Round 3-Balls,Austin Eckroat,0.04139999999999999,0.4762,0.4348
 2024-07-26 02:59:12.192953,Round Match-Ups - 2nd Round Match-Ups - M. Hughes vs T. Pendrith - 2nd Round Match-Ups,Taylor Pendrith,0.04139999999999999,0.5652,0.5238
-2024-07-26 06:59:14.951022,Round Match-Ups - 2nd Round Match-Ups - A. Bhatia vs L. Clanton - 2nd Round Match-Ups,Akshay Bhatia,0.04139999999999999,0.5652,0.5238
-2024-07-25 18:59:21.938244,Men's - Paris 2024 - Men's Rugby Sevens - Gold Medal Winner,Australia (AUS),0.0407,0.1176,0.0769
 2024-07-26 06:58:57.106416,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Kamala Harris,0.03980000000000006,0.6552,0.6154
 2024-07-25 20:59:23.930865,3M Open - 2/3 Balls - 2nd Round 3-Balls - C. Gotterup / M. Wallace / K. Kisner - 2nd Round 3-Balls,Matt Wallace,0.039600000000000024,0.4651,0.4255
 2024-07-26 06:58:46.641721,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Cruzeiro MG,0.036900000000000044,0.6369,0.6
@@ -41,53 +43,56 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-26 02:58:47.242676,Big Brother - BB26: Outright Winner - BB26 Outright Winner,T'kor Clottey,0.03420000000000001,0.1111,0.0769
 2024-07-26 04:58:37.134565,Mens - Paris 2024 - Men's Team Archery - Gold Medal Winner,South Korea (KOR),0.033399999999999985,0.8667,0.8333
 2024-07-26 06:58:57.228455,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Kamala Harris vs The Field - Outright,Kamala Harris,0.03279999999999994,0.9852,0.9524
-2024-07-26 04:59:04.133551,Scores - 2nd Round Score - Keith Mitchell - 2nd Round Score,Over 68.5,0.030399999999999983,0.5652,0.5348
 2024-07-26 04:59:04.213878,Scores - 2nd Round Score - Mackenzie Hughes - 2nd Round Score,Over 68.5,0.030399999999999983,0.5652,0.5348
+2024-07-26 04:59:04.133551,Scores - 2nd Round Score - Keith Mitchell - 2nd Round Score,Over 68.5,0.030399999999999983,0.5652,0.5348
+2024-07-26 08:58:43.441988,MLB Futures - MLB 2024 Player Awards - National League MVP,Shohei Ohtani (LAD),0.028800000000000048,0.875,0.8462
 2024-07-26 06:58:46.635691,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Flamengo,0.028299999999999992,0.9231,0.8948
 2024-07-26 04:58:39.350184,Men's - Paris 2024 - Men's 102kg - Gold Medal Winner,Lesman Paredes (BRN),0.0282,0.0526,0.0244
 2024-07-26 04:58:45.555073,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Kamala Harris,0.028000000000000025,0.9804,0.9524
 2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Hae Ran Ryu,0.027800000000000005,0.1111,0.0833
-2024-07-25 18:59:27.910079,Tournament Futures - Paris 2024 - Men's Basketball Stage of Elimination - Stage of Elimination - South Sudan,Quarter Final,0.02779999999999999,0.25,0.2222
 2024-07-26 02:59:13.106888,3M Open - 2/3 Balls - 2nd Round 3-Balls - A. Smalley / J. Bramlett / W. Gordon - 2nd Round 3-Balls,Joseph Bramlett,0.027700000000000002,0.4444,0.4167
 2024-07-26 06:58:46.629600,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Juventude,0.02560000000000001,0.3333,0.3077
-2024-07-26 04:59:04.107039,Scores - 2nd Round Score - Keegan Bradley - 2nd Round Score,Over 68.5,0.025599999999999956,0.6,0.5744
-2024-07-26 04:59:04.054097,Scores - 2nd Round Score - Cam Davis - 2nd Round Score,Over 68.5,0.025599999999999956,0.6,0.5744
 2024-07-26 04:59:04.080622,Scores - 2nd Round Score - Emiliano Grillo - 2nd Round Score,Over 68.5,0.025599999999999956,0.6,0.5744
 2024-07-26 04:59:04.160423,Scores - 2nd Round Score - Kurt Kitayama - 2nd Round Score,Over 68.5,0.025599999999999956,0.6,0.5744
+2024-07-26 04:59:04.054097,Scores - 2nd Round Score - Cam Davis - 2nd Round Score,Over 68.5,0.025599999999999956,0.6,0.5744
 2024-07-26 04:59:04.276936,Scores - 2nd Round Score - Tony Finau - 2nd Round Score,Over 67.5,0.025599999999999956,0.6,0.5744
+2024-07-26 04:59:04.107039,Scores - 2nd Round Score - Keegan Bradley - 2nd Round Score,Over 68.5,0.025599999999999956,0.6,0.5744
 2024-07-26 02:59:12.567475,3M Open - 2/3 Balls - 2nd Round 3-Balls - C. Gribble / D. Lipsky / G. Sigg - 2nd Round 3-Balls,Greyson Sigg,0.025499999999999967,0.4255,0.4
 2024-07-26 02:58:47.242676,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Makensy Manbeck,0.024999999999999994,0.125,0.1
 2024-07-26 02:59:13.506271,Scores - 2nd Round Score - Luke Clanton - 2nd Round Score,Under 68.5,0.024399999999999977,0.5122,0.4878
 2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Lydia Ko,0.023899999999999998,0.0435,0.0196
-2024-07-26 04:59:04.035162,Scores - 2nd Round Score - Akshay Bhatia - 2nd Round Score,Over 68.5,0.023800000000000043,0.5238,0.5
+2024-07-26 02:59:13.137745,3M Open - 2/3 Balls - 2nd Round 3-Balls - A. Hadwin / N. Watney / Z. Blair - 2nd Round 3-Balls,Adam Hadwin,0.023800000000000043,0.5238,0.5
 2024-07-25 20:59:23.734953,3M Open - 2/3 Balls - 2nd Round 3-Balls - A. Baddeley / W. McGirt / D. Ghim - 2nd Round 3-Balls,Doug Ghim,0.023800000000000043,0.5238,0.5
+2024-07-26 04:59:04.035162,Scores - 2nd Round Score - Akshay Bhatia - 2nd Round Score,Over 68.5,0.023800000000000043,0.5238,0.5
 2024-07-26 02:59:12.065065,Round Match-Ups - 2nd Round Match-Ups - A. Bhatia vs L. Clanton - 2nd Round Match-Ups,Luke Clanton,0.023800000000000043,0.5238,0.5
 2024-07-25 22:57:16.038977,3M Open - 2/3 Balls - 2nd Round 3-Balls - R. Streb / R. Knox / B. Hossler - 2nd Round 3-Balls,Beau Hossler,0.023800000000000043,0.5238,0.5
-2024-07-26 02:59:13.137745,3M Open - 2/3 Balls - 2nd Round 3-Balls - A. Hadwin / N. Watney / Z. Blair - 2nd Round 3-Balls,Adam Hadwin,0.023800000000000043,0.5238,0.5
-2024-07-25 22:57:01.303023,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Points Scorer,LeBron  James,0.023799999999999988,0.1667,0.1429
 2024-07-26 02:59:12.491472,3M Open - 2/3 Balls - 2nd Round 3-Balls - D. Riley / A. Eckroat / J. Knapp - 2nd Round 3-Balls,Austin Eckroat,0.023799999999999988,0.5,0.4762
-2024-07-26 04:59:04.019038,Scores - 2nd Round Score - Adam Svensson - 2nd Round Score,Over 68.5,0.022600000000000064,0.6226,0.6
-2024-07-26 02:59:13.474218,Scores - 2nd Round Score - Keith Mitchell - 2nd Round Score,Under 68.5,0.022600000000000064,0.5348,0.5122
+2024-07-25 22:57:01.303023,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Points Scorer,LeBron  James,0.023799999999999988,0.1667,0.1429
 2024-07-26 02:59:13.528124,Scores - 2nd Round Score - Mackenzie Hughes - 2nd Round Score,Under 68.5,0.022600000000000064,0.5348,0.5122
 2024-07-26 04:59:04.240440,Scores - 2nd Round Score - Maverick McNealy - 2nd Round Score,Over 68.5,0.022600000000000064,0.6226,0.6
+2024-07-26 02:59:13.474218,Scores - 2nd Round Score - Keith Mitchell - 2nd Round Score,Under 68.5,0.022600000000000064,0.5348,0.5122
+2024-07-26 04:59:04.019038,Scores - 2nd Round Score - Adam Svensson - 2nd Round Score,Over 68.5,0.022600000000000064,0.6226,0.6
 2024-07-26 00:59:18.964247,3M Open - 2/3 Balls - 2nd Round 3-Balls - A. Hadwin / N. Watney / Z. Blair - 2nd Round 3-Balls,Zac Blair,0.02260000000000001,0.4,0.3774
+2024-07-26 08:58:23.713988,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Canada Rebounds,RJ  Barrett,0.022199999999999998,0.2222,0.2
 2024-07-26 00:59:20.278969,Round Match-Ups - 1st Round Match-Up - B. DeChambeau vs J. Rahm - 1st Round Match-Up,Jon Rahm,0.02169999999999994,0.5455,0.5238
 2024-07-25 20:59:01.491323,Tournament Futures - Paris 2024 - Men's Basketball Tournament Match-Ups - Germany v Greece,Germany,0.02100000000000002,0.6364,0.6154
 2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Hye Jin Choi,0.0203,0.0588,0.0385
-2024-07-25 18:59:19.664697,800m - Paris 2024 - Men's 800m - To Win a Medal,Bryce Hoppel (USA),0.02020000000000001,0.1111,0.0909
 2024-07-26 02:59:13.317756,Match-Ups - 2nd Round Match-Up - L. Clanton v A. Hadwin - 2nd Round Match-Up ,Luke Clanton,0.01970000000000005,0.5652,0.5455
 2024-07-26 02:59:12.142287,Round Match-Ups - 2nd Round Match-Ups - N. Dunlap vs K. Bradley - 2nd Round Match-Ups,Keegan Bradley,0.01970000000000005,0.5652,0.5455
 2024-07-26 00:59:18.440730,3M Open - 2/3 Balls - 2nd Round 3-Balls - B. Silverman / N. Lindheim / R. Pereda - 2nd Round 3-Balls,Ben Silverman,0.01970000000000005,0.5652,0.5455
+2024-07-26 08:58:43.395588,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Dylan Cease (SD),0.019100000000000002,0.0323,0.0132
 2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Alison Lee,0.019099999999999995,0.0435,0.0244
+2024-07-26 08:58:27.706027,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Josh Shapiro,0.019000000000000017,0.2857,0.2667
 2024-07-26 02:58:41.480148,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Palestino,0.0189,0.0385,0.0196
 2024-07-25 22:56:55.544981,Total Medals - Paris 2024 - Total Gold Medals - Netherlands Total Gold Medals,Under 15.5,0.01880000000000004,0.5744,0.5556
-2024-07-25 18:59:23.742210,Tennis - Paris 2024 - Men's Olympics Tennis 2024 - Gold Medal Winner,Carlos Alcaraz,0.01880000000000004,0.5744,0.5556
+2024-07-26 08:58:43.372129,MLB Futures - MLB 2024 Player Awards - American League ROY,Ceddanne Rafaela (BOS),0.01830000000000001,0.0952,0.0769
+2024-07-26 08:58:43.395588,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Chris Sale (ATL),0.018100000000000005,0.4348,0.4167
 2024-07-26 00:59:17.991319,3M Open - 2/3 Balls - 2nd Round 3-Balls - C. Tarren / M. Schmid / M. Meissner - 2nd Round 3-Balls,Mac Meissner,0.018100000000000005,0.4348,0.4167
 2024-07-25 20:59:24.209439,3M Open - 2/3 Balls - 2nd Round 3-Balls - G. Higgo / S. O'Hair / H. Buckley - 2nd Round 3-Balls,Sean O'Hair,0.017299999999999982,0.303,0.2857
+2024-07-26 06:58:57.077512,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,0.016699999999999993,0.4167,0.4
+2024-07-25 20:59:23.684281,3M Open - 2/3 Balls - 2nd Round 3-Balls - C. Tarren / M. Schmid / M. Meissner - 2nd Round 3-Balls,Mac Meissner,0.016699999999999993,0.4167,0.4
 2024-07-25 22:57:15.992624,3M Open - 2/3 Balls - 2nd Round 3-Balls - A. Smalley / J. Bramlett / W. Gordon - 2nd Round 3-Balls,Joseph Bramlett,0.016699999999999993,0.4167,0.4
 2024-07-26 06:58:46.321002,Olympic Games Futures - Olympic Womens Soccer 2024 - Group A - Group Winner,Canada (W),0.016699999999999993,0.2667,0.25
-2024-07-25 20:59:23.684281,3M Open - 2/3 Balls - 2nd Round 3-Balls - C. Tarren / M. Schmid / M. Meissner - 2nd Round 3-Balls,Mac Meissner,0.016699999999999993,0.4167,0.4
-2024-07-26 06:58:57.077512,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,0.016699999999999993,0.4167,0.4
 2024-07-26 02:59:10.920543,Boxing Lines - Gor Yeritsyan vs Aram Amirkhanyan - To Win the Bout,Aram Amirkhanyan,0.016600000000000004,0.1905,0.1739
 2024-07-26 06:59:15.247570,Totals - 2nd Round Birdies - Neal Shipley - 2nd Round Birdies,Under 4.5,0.016100000000000003,0.6078,0.5917
 2024-07-26 06:58:46.629600,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Atlético Goianiense,0.015900000000000025,0.8621,0.8462
@@ -96,86 +101,99 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-26 06:58:57.126552,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Democrat Popular Vote,0.014900000000000024,0.3226,0.3077
 2024-07-26 02:58:41.480148,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Athletico Paranaense,0.01440000000000001,0.1053,0.0909
 2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Jenny Shin,0.014099999999999998,0.0385,0.0244
-2024-07-26 04:58:39.350184,Men's - Paris 2024 - Men's 102kg - Gold Medal Winner,Garik Karapetyan (ARM),0.013999999999999999,0.0909,0.0769
 2024-07-26 02:58:41.480148,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,RB Bragantino,0.013999999999999999,0.0909,0.0769
+2024-07-26 04:58:39.350184,Men's - Paris 2024 - Men's 102kg - Gold Medal Winner,Garik Karapetyan (ARM),0.013999999999999999,0.0909,0.0769
 2024-07-25 20:59:22.774872,Boxing Lines - Gor Yeritsyan vs Aram Amirkhanyan - To Win the Bout,Gor Yeritsyan,0.013900000000000023,0.8889,0.875
 2024-07-26 02:58:45.073829,Men's - Paris 2024 - Men's Surfing - Gold Medal Winner,Kauli Vaast (FRA),0.013899999999999996,0.125,0.1111
 2024-07-25 22:56:55.580947,Total Medals - Paris 2024 - Total Gold Medals - USA Total Gold Medals,Over 39.5,0.013799999999999923,0.6364,0.6226
+2024-07-26 08:58:43.508810,Elite Boxing - Joseph Joyce vs Dereck Chisora - To Win the Bout,Dereck Chisora,0.0131,0.2353,0.2222
+2024-07-26 08:58:43.220298,MLB Futures - MLB 2024 American League West - American League West Winner,Texas Rangers,0.012899999999999995,0.1667,0.1538
 2024-07-26 00:59:18.491633,3M Open - 2/3 Balls - 2nd Round 3-Balls - J. Dahmen / M. Laird / J. Lower - 2nd Round 3-Balls,Joel Dahmen,0.012299999999999978,0.3571,0.3448
 2024-07-26 00:59:18.964247,3M Open - 2/3 Balls - 2nd Round 3-Balls - A. Hadwin / N. Watney / Z. Blair - 2nd Round 3-Balls,Adam Hadwin,0.012199999999999989,0.5,0.4878
+2024-07-26 08:58:43.093264,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Los Angeles Dodgers,0.011899999999999994,0.25,0.2381
 2024-07-26 04:58:36.069424,Total Medals - Paris 2024 - Total Gold Medals - Great Britain Total Gold Medals,Over 16.5,0.011600000000000055,0.5238,0.5122
 2024-07-25 20:59:24.184154,3M Open - 2/3 Balls - 2nd Round 3-Balls - J. Dahmen / M. Laird / J. Lower - 2nd Round 3-Balls,Joel Dahmen,0.01150000000000001,0.3448,0.3333
 2024-07-26 02:58:47.242676,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Brooklyn Rivera,0.011199999999999995,0.0588,0.0476
-2024-07-25 18:59:31.036152,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Tim Walz,0.011199999999999995,0.0588,0.0476
-2024-07-26 02:58:41.480148,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Racing Club,0.0102,0.0769,0.0667
 2024-07-26 04:58:39.350184,Men's - Paris 2024 - Men's 102kg - Gold Medal Winner,Fares El-Bakh (QAT),0.0102,0.0769,0.0667
+2024-07-26 02:58:41.480148,Copa Sudamericana - Copa Sudamericana 2024 - Futures - Winner,Racing Club,0.0102,0.0769,0.0667
 2024-07-25 20:58:52.258748,Olympic Games Futures - Olympic Womens Soccer 2024 - Winner,Colombia (W),0.010100000000000001,0.0345,0.0244
 2024-07-26 02:59:11.196300,Boxing Lines - Ryan Garner vs Archie Sharp - To Win the Bout,Archie Sharp,0.010099999999999998,0.3226,0.3125
-2024-07-25 20:59:23.051438,Boxing Lines - Ryan Garner vs Archie Sharp - To Win the Bout,Archie Sharp,-0.010099999999999998,0.3125,0.3226
+2024-07-26 08:58:43.916579,Boxing Lines - Ryan Garner vs Archie Sharp - To Win the Bout,Archie Sharp,-0.010099999999999998,0.3125,0.3226
 2024-07-26 00:59:18.440730,3M Open - 2/3 Balls - 2nd Round 3-Balls - B. Silverman / N. Lindheim / R. Pereda - 2nd Round 3-Balls,Nicholas Lindheim,-0.010099999999999998,0.3125,0.3226
+2024-07-25 20:59:23.051438,Boxing Lines - Ryan Garner vs Archie Sharp - To Win the Bout,Archie Sharp,-0.010099999999999998,0.3125,0.3226
 2024-07-26 04:58:36.069424,Total Medals - Paris 2024 - Total Gold Medals - Great Britain Total Gold Medals,Under 16.5,-0.010099999999999998,0.5455,0.5556
+2024-07-26 08:58:43.282542,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Logan Gilbert (SEA),-0.0102,0.0667,0.0769
 2024-07-26 04:58:36.358456,400m - Paris 2024 - Women's 400m - Gold Medal Winner,Salwa Eid-Naser (BRN),-0.0102,0.0667,0.0769
+2024-07-26 08:58:43.395588,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Tyler Glasnow (LAD),-0.010600000000000002,0.0217,0.0323
+2024-07-26 08:58:43.395588,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Ranger Suarez (PHI),-0.010600000000000002,0.0217,0.0323
 2024-07-25 20:59:23.981466,3M Open - 2/3 Balls - 2nd Round 3-Balls - C. Gribble / D. Lipsky / G. Sigg - 2nd Round 3-Balls,Cody Gribble,-0.010699999999999987,0.3226,0.3333
+2024-07-26 08:58:43.282542,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Garrett Crochet (CWS),-0.010700000000000001,0.0278,0.0385
+2024-07-26 08:58:43.372129,MLB Futures - MLB 2024 Player Awards - American League ROY,Lawrence Butler (OAK),-0.011200000000000002,0.0132,0.0244
+2024-07-26 08:58:43.195614,MLB Futures - MLB 2024 American League East - American League East Winner,New York Yankees,-0.011600000000000055,0.5122,0.5238
 2024-07-26 06:59:14.028805,Boxing Lines - Andy Ruiz Jr. vs Jarrell Miller - To Win the Bout,Andy Ruiz Jr.,-0.011699999999999933,0.7778,0.7895
-2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Jin Hee Im,-0.011699999999999999,0.0079,0.0196
 2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Sarah Schmelzel,-0.011699999999999999,0.0079,0.0196
+2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Jin Hee Im,-0.011699999999999999,0.0079,0.0196
+2024-07-26 08:58:18.656951,200m Butterfly - Paris 2024 - Women's 200m Butterfly - Gold Medal Winner,Regan Smith (USA),-0.012299999999999978,0.3448,0.3571
 2024-07-26 00:59:17.991319,3M Open - 2/3 Balls - 2nd Round 3-Balls - C. Tarren / M. Schmid / M. Meissner - 2nd Round 3-Balls,Matti Schmid,-0.012699999999999989,0.3509,0.3636
 2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Hinako Shibuno,-0.0127,0.0025,0.0152
+2024-07-26 08:58:43.395588,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Logan Webb (SF),-0.012700000000000003,0.0196,0.0323
 2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Lexi Thompson,-0.012800000000000002,0.0217,0.0345
 2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Sei Young Kim,-0.012899999999999998,0.005,0.0179
 2024-07-26 06:58:46.635691,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Palmeiras,-0.012900000000000023,0.8621,0.875
 2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Megan Khang,-0.013,0.0066,0.0196
 2024-07-26 02:59:12.491472,3M Open - 2/3 Balls - 2nd Round 3-Balls - D. Riley / A. Eckroat / J. Knapp - 2nd Round 3-Balls,Davis Riley,-0.0131,0.2899,0.303
 2024-07-25 20:59:23.734953,3M Open - 2/3 Balls - 2nd Round 3-Balls - A. Baddeley / W. McGirt / D. Ghim - 2nd Round 3-Balls,Aaron Baddeley,-0.013300000000000034,0.3571,0.3704
-2024-07-25 20:59:23.684281,3M Open - 2/3 Balls - 2nd Round 3-Balls - C. Tarren / M. Schmid / M. Meissner - 2nd Round 3-Balls,Matti Schmid,-0.013800000000000034,0.3636,0.3774
 2024-07-26 02:59:12.567475,3M Open - 2/3 Balls - 2nd Round 3-Balls - C. Gribble / D. Lipsky / G. Sigg - 2nd Round 3-Balls,David Lipsky,-0.013800000000000034,0.3636,0.3774
+2024-07-25 20:59:23.684281,3M Open - 2/3 Balls - 2nd Round 3-Balls - C. Tarren / M. Schmid / M. Meissner - 2nd Round 3-Balls,Matti Schmid,-0.013800000000000034,0.3636,0.3774
 2024-07-26 06:58:46.635691,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,São Paulo,-0.013800000000000034,0.3636,0.3774
 2024-07-26 02:59:10.920543,Boxing Lines - Gor Yeritsyan vs Aram Amirkhanyan - To Win the Bout,Gor Yeritsyan,-0.013900000000000023,0.875,0.8889
+2024-07-26 08:58:43.282542,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Seth Lugo (KC),-0.013999999999999999,0.0769,0.0909
 2024-07-26 06:58:46.641721,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Vasco da Gama,-0.013999999999999999,0.0769,0.0909
-2024-07-25 18:59:31.036152,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Pete Buttigieg,-0.013999999999999999,0.0769,0.0909
 2024-07-26 04:58:37.123215,Womens - Paris 2024 - Women's Team Archery - Gold Medal Winner,France (W),-0.014099999999999994,0.0526,0.0667
 2024-07-26 04:58:37.123215,Womens - Paris 2024 - Women's Team Archery - Gold Medal Winner,Chinese Taipei (W),-0.014099999999999998,0.0244,0.0385
-2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Andrea Lee,-0.0145,0.0099,0.0244
 2024-07-26 04:58:37.123215,Womens - Paris 2024 - Women's Team Archery - Gold Medal Winner,Netherlands (W),-0.0145,0.0099,0.0244
+2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Andrea Lee,-0.0145,0.0099,0.0244
 2024-07-26 00:59:18.491633,3M Open - 2/3 Balls - 2nd Round 3-Balls - J. Dahmen / M. Laird / J. Lower - 2nd Round 3-Balls,Justin Lower,-0.01479999999999998,0.3774,0.3922
 2024-07-26 02:59:12.567475,3M Open - 2/3 Balls - 2nd Round 3-Balls - C. Gribble / D. Lipsky / G. Sigg - 2nd Round 3-Balls,Cody Gribble,-0.014900000000000024,0.3077,0.3226
 2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Leona Maguire,-0.0151,0.0066,0.0217
 2024-07-26 02:58:47.242676,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Quinn Martin,-0.015100000000000002,0.1667,0.1818
-2024-07-25 20:58:52.258748,Olympic Games Futures - Olympic Womens Soccer 2024 - Winner,Australia (W),-0.015300000000000001,0.0435,0.0588
 2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Brooke Henderson,-0.015300000000000001,0.0435,0.0588
+2024-07-25 20:58:52.258748,Olympic Games Futures - Olympic Womens Soccer 2024 - Winner,Australia (W),-0.015300000000000001,0.0435,0.0588
 2024-07-25 22:57:15.992624,3M Open - 2/3 Balls - 2nd Round 3-Balls - A. Smalley / J. Bramlett / W. Gordon - 2nd Round 3-Balls,Will Gordon,-0.015400000000000025,0.2703,0.2857
 2024-07-25 20:59:24.184154,3M Open - 2/3 Balls - 2nd Round 3-Balls - J. Dahmen / M. Laird / J. Lower - 2nd Round 3-Balls,Justin Lower,-0.016000000000000014,0.3922,0.4082
 2024-07-25 20:59:22.774872,Boxing Lines - Gor Yeritsyan vs Aram Amirkhanyan - To Win the Bout,Aram Amirkhanyan,-0.016600000000000004,0.1739,0.1905
+2024-07-26 08:58:27.706027,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Mark Kelly,-0.017299999999999982,0.4082,0.4255
 2024-07-26 06:58:46.635691,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Bahia,-0.0174,0.2326,0.25
-2024-07-25 18:59:23.742210,Tennis - Paris 2024 - Men's Olympics Tennis 2024 - Gold Medal Winner,Casper Ruud,-0.018099999999999998,0.0588,0.0769
+2024-07-26 08:58:43.093264,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Philadelphia Phillies,-0.01820000000000002,0.1818,0.2
 2024-07-26 02:59:13.506271,Scores - 2nd Round Score - Luke Clanton - 2nd Round Score,Over 68.5,-0.01880000000000004,0.5556,0.5744
-2024-07-25 22:56:55.580947,Total Medals - Paris 2024 - Total Gold Medals - USA Total Gold Medals,Under 39.5,-0.018900000000000028,0.4255,0.4444
+2024-07-26 08:58:43.372129,MLB Futures - MLB 2024 Player Awards - American League ROY,Mason Miller (OAK),-0.0189,0.0196,0.0385
 2024-07-25 20:59:24.209439,3M Open - 2/3 Balls - 2nd Round 3-Balls - G. Higgo / S. O'Hair / H. Buckley - 2nd Round 3-Balls,Hayden Buckley,-0.018900000000000028,0.4255,0.4444
+2024-07-25 22:56:55.580947,Total Medals - Paris 2024 - Total Gold Medals - USA Total Gold Medals,Under 39.5,-0.018900000000000028,0.4255,0.4444
 2024-07-26 06:58:46.635691,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Fortaleza,-0.019000000000000017,0.2667,0.2857
 2024-07-26 04:59:04.035162,Scores - 2nd Round Score - Akshay Bhatia - 2nd Round Score,Under 68.5,-0.01970000000000005,0.5455,0.5652
+2024-07-26 08:58:43.372129,MLB Futures - MLB 2024 Player Awards - American League ROY,Wilyer Abreu (BOS),-0.019800000000000005,0.0278,0.0476
 2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Allisen Corpuz,-0.020000000000000004,0.0123,0.0323
+2024-07-26 08:58:43.441988,MLB Futures - MLB 2024 Player Awards - National League MVP,Bryce Harper (PHI),-0.02049999999999999,0.1333,0.1538
 2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Mao Saigo,-0.0206,0.0179,0.0385
-2024-07-26 04:59:04.240440,Scores - 2nd Round Score - Maverick McNealy - 2nd Round Score,Under 68.5,-0.020699999999999996,0.4444,0.4651
 2024-07-26 04:59:04.019038,Scores - 2nd Round Score - Adam Svensson - 2nd Round Score,Under 68.5,-0.020699999999999996,0.4444,0.4651
+2024-07-26 04:59:04.240440,Scores - 2nd Round Score - Maverick McNealy - 2nd Round Score,Under 68.5,-0.020699999999999996,0.4444,0.4651
 2024-07-26 02:59:13.528124,Scores - 2nd Round Score - Mackenzie Hughes - 2nd Round Score,Over 68.5,-0.02079999999999993,0.5348,0.5556
 2024-07-26 02:59:13.474218,Scores - 2nd Round Score - Keith Mitchell - 2nd Round Score,Over 68.5,-0.02079999999999993,0.5348,0.5556
 2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Na Rin An,-0.021199999999999997,0.0066,0.0278
 2024-07-26 02:59:12.065065,Round Match-Ups - 2nd Round Match-Ups - A. Bhatia vs L. Clanton - 2nd Round Match-Ups,Akshay Bhatia,-0.02169999999999994,0.5238,0.5455
-2024-07-26 06:59:15.247570,Totals - 2nd Round Birdies - Neal Shipley - 2nd Round Birdies,Over 4.5,-0.021699999999999997,0.4545,0.4762
 2024-07-26 04:58:36.358456,400m - Paris 2024 - Women's 400m - Gold Medal Winner,Nickisha Pryce (JAM),-0.021699999999999997,0.4545,0.4762
+2024-07-26 06:59:15.247570,Totals - 2nd Round Birdies - Neal Shipley - 2nd Round Birdies,Over 4.5,-0.021699999999999997,0.4545,0.4762
 2024-07-25 20:58:52.258748,Olympic Games Futures - Olympic Womens Soccer 2024 - Winner,USA (W),-0.021999999999999964,0.2857,0.3077
 2024-07-25 20:59:23.981466,3M Open - 2/3 Balls - 2nd Round 3-Balls - C. Gribble / D. Lipsky / G. Sigg - 2nd Round 3-Balls,David Lipsky,-0.02260000000000001,0.3774,0.4
-2024-07-26 04:59:04.054097,Scores - 2nd Round Score - Cam Davis - 2nd Round Score,Under 68.5,-0.022699999999999998,0.4651,0.4878
-2024-07-26 04:59:04.080622,Scores - 2nd Round Score - Emiliano Grillo - 2nd Round Score,Under 68.5,-0.022699999999999998,0.4651,0.4878
-2024-07-26 04:59:04.107039,Scores - 2nd Round Score - Keegan Bradley - 2nd Round Score,Under 68.5,-0.022699999999999998,0.4651,0.4878
-2024-07-26 04:59:04.160423,Scores - 2nd Round Score - Kurt Kitayama - 2nd Round Score,Under 68.5,-0.022699999999999998,0.4651,0.4878
 2024-07-26 04:59:04.276936,Scores - 2nd Round Score - Tony Finau - 2nd Round Score,Under 67.5,-0.022699999999999998,0.4651,0.4878
-2024-07-26 02:59:12.142287,Round Match-Ups - 2nd Round Match-Ups - N. Dunlap vs K. Bradley - 2nd Round Match-Ups,Nick Dunlap,-0.023799999999999988,0.4762,0.5
+2024-07-26 04:59:04.054097,Scores - 2nd Round Score - Cam Davis - 2nd Round Score,Under 68.5,-0.022699999999999998,0.4651,0.4878
+2024-07-26 04:59:04.107039,Scores - 2nd Round Score - Keegan Bradley - 2nd Round Score,Under 68.5,-0.022699999999999998,0.4651,0.4878
+2024-07-26 04:59:04.080622,Scores - 2nd Round Score - Emiliano Grillo - 2nd Round Score,Under 68.5,-0.022699999999999998,0.4651,0.4878
+2024-07-26 04:59:04.160423,Scores - 2nd Round Score - Kurt Kitayama - 2nd Round Score,Under 68.5,-0.022699999999999998,0.4651,0.4878
 2024-07-26 02:59:13.317756,Match-Ups - 2nd Round Match-Up - L. Clanton v A. Hadwin - 2nd Round Match-Up ,Adam Hadwin,-0.023799999999999988,0.4762,0.5
-2024-07-25 18:59:23.742210,Tennis - Paris 2024 - Men's Olympics Tennis 2024 - Gold Medal Winner,Alexander Zverev,-0.023799999999999988,0.1429,0.1667
+2024-07-26 02:59:12.142287,Round Match-Ups - 2nd Round Match-Ups - N. Dunlap vs K. Bradley - 2nd Round Match-Ups,Nick Dunlap,-0.023799999999999988,0.4762,0.5
 2024-07-25 20:59:23.905627,3M Open - 2/3 Balls - 2nd Round 3-Balls - D. Riley / A. Eckroat / J. Knapp - 2nd Round 3-Balls,Jake Knapp,-0.023799999999999988,0.3333,0.3571
 2024-07-26 00:59:20.278969,Round Match-Ups - 1st Round Match-Up - B. DeChambeau vs J. Rahm - 1st Round Match-Up,Bryson DeChambeau,-0.023800000000000043,0.5,0.5238
-2024-07-25 18:59:23.742210,Tennis - Paris 2024 - Men's Olympics Tennis 2024 - Gold Medal Winner,Rafael Nadal,-0.0242,0.0667,0.0909
 2024-07-26 04:58:37.134565,Mens - Paris 2024 - Men's Team Archery - Gold Medal Winner,China (CHN),-0.0242,0.0667,0.0909
 2024-07-25 20:58:52.258748,Olympic Games Futures - Olympic Womens Soccer 2024 - Winner,Japan (W),-0.024299999999999995,0.0526,0.0769
 2024-07-25 22:56:55.544981,Total Medals - Paris 2024 - Total Gold Medals - Netherlands Total Gold Medals,Over 15.5,-0.024399999999999977,0.4878,0.5122
@@ -185,6 +203,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-26 06:58:46.321002,Olympic Games Futures - Olympic Womens Soccer 2024 - Group A - Group Winner,New Zealand (W),-0.0262,0.0123,0.0385
 2024-07-26 06:58:46.337043,Olympic Games Futures - Olympic Womens Soccer 2024 - Group C - Group Winner,Nigeria (W),-0.027099999999999996,0.0164,0.0435
 2024-07-26 06:58:46.629600,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Grêmio,-0.027700000000000002,0.4167,0.4444
+2024-07-26 08:58:43.372129,MLB Futures - MLB 2024 Player Awards - American League ROY,Ben Rice (NYY),-0.028000000000000004,0.0196,0.0476
 2024-07-26 02:58:47.242676,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Kimo Apaka,-0.02840000000000001,0.0769,0.1053
 2024-07-25 20:59:01.491323,Tournament Futures - Paris 2024 - Men's Basketball Tournament Match-Ups - Germany v Greece,Greece,-0.029000000000000026,0.4255,0.4545
 2024-07-26 04:58:37.134565,Mens - Paris 2024 - Men's Team Archery - Gold Medal Winner,Italy (ITA),-0.0294,0.0294,0.0588
@@ -193,13 +212,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-25 20:59:23.930865,3M Open - 2/3 Balls - 2nd Round 3-Balls - C. Gotterup / M. Wallace / K. Kisner - 2nd Round 3-Balls,Chris Gotterup,-0.030799999999999994,0.3774,0.4082
 2024-07-26 02:58:47.242676,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Tucker Des Lauriers,-0.031799999999999995,0.1111,0.1429
 2024-07-26 02:58:47.242676,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Rubina Bernabe,-0.0321,0.0588,0.0909
+2024-07-26 08:58:43.170115,MLB Futures - MLB 2024 American League Central - American League Central Winner,Cleveland Guardians,-0.032299999999999995,0.6552,0.6875
 2024-07-25 20:59:01.471839,Tournament Futures - Paris 2024 - Men's Basketball Tournament Match-Ups - France vs Serbia,France,-0.032299999999999995,0.6552,0.6875
 2024-07-26 00:59:18.964247,3M Open - 2/3 Balls - 2nd Round 3-Balls - A. Hadwin / N. Watney / Z. Blair - 2nd Round 3-Balls,Nick Watney,-0.03259999999999999,0.2,0.2326
 2024-07-26 06:58:57.228455,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Kamala Harris vs The Field - Outright,The Field,-0.03420000000000001,0.0769,0.1111
 2024-07-26 04:58:37.123215,Womens - Paris 2024 - Women's Team Archery - Gold Medal Winner,United States (W),-0.0347,0.0278,0.0625
 2024-07-26 04:59:04.213878,Scores - 2nd Round Score - Mackenzie Hughes - 2nd Round Score,Under 68.5,-0.03480000000000005,0.5,0.5348
 2024-07-26 04:59:04.133551,Scores - 2nd Round Score - Keith Mitchell - 2nd Round Score,Under 68.5,-0.03480000000000005,0.5,0.5348
-2024-07-25 18:59:23.742210,Tennis - Paris 2024 - Men's Olympics Tennis 2024 - Gold Medal Winner,Novak Djokovic,-0.03570000000000001,0.25,0.2857
 2024-07-26 04:59:04.187280,Scores - 2nd Round Score - Luke Clanton - 2nd Round Score,Under 68.5,-0.035999999999999976,0.4762,0.5122
 2024-07-26 00:59:21.410950,CP Women's Open - CP Women's Open - Winner,Xiyu Lin,-0.036199999999999996,0.0164,0.0526
 2024-07-26 06:58:46.329340,Olympic Games Futures - Olympic Womens Soccer 2024 - Group B - Group Winner,Zambia (W),-0.036899999999999995,0.0066,0.0435
@@ -209,12 +228,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-26 06:59:14.951022,Round Match-Ups - 2nd Round Match-Ups - A. Bhatia vs L. Clanton - 2nd Round Match-Ups,Luke Clanton,-0.04760000000000003,0.4762,0.5238
 2024-07-26 02:59:12.192953,Round Match-Ups - 2nd Round Match-Ups - M. Hughes vs T. Pendrith - 2nd Round Match-Ups,Mackenzie Hughes,-0.04760000000000003,0.4762,0.5238
 2024-07-26 02:58:47.242676,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Joseph Rodriguez,-0.048100000000000004,0.0769,0.125
+2024-07-26 08:58:17.809981,Total Medals - Paris 2024 - Total Gold Medals - France Total Gold Medals,Over 25.5,-0.04910000000000003,0.3509,0.4
+2024-07-26 08:58:27.474741,Regular Season Wins O/U - Seattle Storm- 2024 Regular Season Wins - Seattle Storm- 2024 Regular Season Wins,Over 26.5,-0.05059999999999998,0.5238,0.5744
 2024-07-26 04:58:37.134565,Mens - Paris 2024 - Men's Team Archery - Gold Medal Winner,Turkey (TUR),-0.052399999999999995,0.0385,0.0909
 2024-07-26 04:58:37.134565,Mens - Paris 2024 - Men's Team Archery - Gold Medal Winner,Chinese Taepei (TPE),-0.052399999999999995,0.0385,0.0909
-2024-07-25 18:59:28.010656,Tournament Futures - Paris 2024 - Men's Basketball Tournament Match-Ups - Canada vs France,France,-0.05559999999999998,0.5,0.5556
 2024-07-26 02:59:13.291284,Match-Ups - 2nd Round Match-Up - A. Eckroat v D. Riley - 2nd Round Match-Up ,Davis Riley,-0.06230000000000002,0.4255,0.4878
 2024-07-26 04:58:37.123215,Womens - Paris 2024 - Women's Team Archery - Gold Medal Winner,China (W),-0.06670000000000001,0.1333,0.2
 2024-07-26 06:58:46.321002,Olympic Games Futures - Olympic Womens Soccer 2024 - Group A - Group Winner,Colombia (W),-0.0769,0.0769,0.1538
+2024-07-26 08:58:27.499777,Regular Season Wins O/U - Washington Mystics- 2024 Regular Season Wins - Washington Mystics- 2024 Regular Season Wins,Under 11.5,-0.0988,0.5238,0.6226
 2024-07-26 00:59:19.943584,Scores - 2nd Round Score - Tony Finau - 2nd Round Score,Under 67.5,-0.11219999999999997,0.4878,0.6
 2024-07-26 02:59:13.264405,Match-Ups - 2nd Round Match-Up - A. Novak v R. Hisatsune - 2nd Round Match-Up ,Andrew Novak,-0.11259999999999992,0.5238,0.6364
 2024-07-26 04:58:39.350184,Men's - Paris 2024 - Men's 102kg - Gold Medal Winner,Liu Huanhua (CHN),-0.11370000000000002,0.8667,0.9804
