@@ -4,6 +4,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-27 02:59:12.928560,Happy Gilmore 2 - Happy Gilmore 2: To appear in the movie - To Appear,Chris Rock,0.2727,0.3636,0.0909
 2024-07-26 17:00:04.782167,Senior Open Championship - Senior Open Championship - Winner,K J Choi,0.20829999999999999,0.3333,0.125
 2024-07-27 02:59:08.589233,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win West 7,Los Angeles FC,0.1744,0.8667,0.6923
+2024-07-27 04:58:46.609182,400m Freestyle - Paris 2024 - Men's 400m Freestyle - Gold Medal Winner,Lukas Martens (GER),0.1729,0.6491,0.4762
 2024-07-27 02:59:20.475681,Electoral College Winner - Nevada (NV) - NV,Democrat,0.1603,0.4167,0.2564
 2024-07-27 02:59:08.522721,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 2,Orlando City,0.1552,0.7778,0.6226
 2024-07-27 02:59:20.428152,Electoral College Winner - Nebraska District 2 (NE CD2) - NE CD2,Democrat,0.15159999999999996,0.726,0.5744
@@ -16,6 +17,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-26 18:59:36.910080,100m Butterfly - Paris 2024 - Men's 100m Butterfly - Gold Medal Winner,Caeleb Dressel (USA),0.0948,0.3448,0.25
 2024-07-26 17:00:04.782167,Senior Open Championship - Senior Open Championship - Winner,Padraig Harrington,0.08329999999999999,0.3333,0.25
 2024-07-27 02:59:10.071983,Road - Paris 2024 - Men's Individual Time Trial - Gold Medal Winner,Filippo Ganna (ITA),0.07789999999999997,0.3636,0.2857
+2024-07-27 04:59:13.570099,Round Match-Ups - 3rd Round Match-Ups - K. Bradley vs K. Mitchell - 3rd Round Match-Ups,Keith Mitchell,0.06930000000000003,0.5238,0.4545
 2024-07-26 23:00:13.080047,CP Women's Open - CP Women's Open - Winner,Lauren Coughlin,0.0686,0.1739,0.1053
 2024-07-27 02:59:38.842307,Round Match-Ups - 3rd Round Match-Ups - S. Burns vs T. Finau - 3rd Round Match-Ups,Sam Burns,0.06779999999999997,0.5556,0.4878
 2024-07-27 02:59:14.040796,Ru Paul's Drag Race - Ru Paul's Drag Race: Canada Vs The World Season 2 - Outright Winner - Canada Vs The World Season 2 Outright Winner,Alexis Mateo,0.06670000000000004,0.4,0.3333
@@ -23,14 +25,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-26 23:00:13.080047,CP Women's Open - CP Women's Open - Winner,Hannah Green,0.0629,0.1538,0.0909
 2024-07-27 02:59:38.767063,Round Match-Ups - 3rd Round Match-Ups - A. Bhatia vs S. Theegala - 3rd Round Match-Ups,Sahith Theegala,0.0595,0.5833,0.5238
 2024-07-26 20:59:37.036239,Women's - Paris 2024 - Women's Street Skateboarding - Gold Medal Winner,Rayssa Leal (BRA),0.055900000000000005,0.3636,0.3077
+2024-07-27 04:58:46.661609,400m Freestyle - Paris 2024 - Women's 400m Freestyle - Gold Medal Winner,Katie Ledecky (USA),0.05550000000000002,0.2222,0.1667
 2024-07-27 02:59:20.594287,Electoral College Winner - North Carolina (NC) - NC,Democrat,0.043800000000000006,0.25,0.2062
 2024-07-26 18:59:44.986738,Group A - Paris 2024 - Women's Basketball - Group A - Winner,Spain (W),0.04290000000000005,0.6429,0.6
 2024-07-26 18:59:37.447663,Women's - Paris 2024 - Women's Basketball - Group A Winner,Spain (W),0.04290000000000005,0.6429,0.6
 2024-07-26 22:59:38.622504,100m Butterfly - Paris 2024 - Men's 100m Butterfly - Gold Medal Winner,Caeleb Dressel (USA),0.0398,0.3846,0.3448
 2024-07-27 02:59:39.540310,Match-Ups - 3rd Round Match-Ups - E. Grillo v K. Kitayama - Requests,Kurt Kitayama,0.03959999999999997,0.5744,0.5348
 2024-07-27 02:59:38.892511,Round Match-Ups - 3rd Round Match-Ups - R. Streb vs S. Cink - 3rd Round Match-Ups,Stewart Cink,0.03959999999999997,0.5744,0.5348
-2024-07-26 23:00:13.080047,CP Women's Open - CP Women's Open - Winner,Lilia Vu,0.034100000000000005,0.125,0.0909
+2024-07-27 04:58:46.609182,400m Freestyle - Paris 2024 - Men's 400m Freestyle - Gold Medal Winner,Guilherme Costa (BRA),0.0373,0.0667,0.0294
 2024-07-26 20:59:37.009865,Men's - Paris 2024 - Men's Park - Gold Medal Winner,Tom Schaar (USA),0.034100000000000005,0.125,0.0909
+2024-07-26 23:00:13.080047,CP Women's Open - CP Women's Open - Winner,Lilia Vu,0.034100000000000005,0.125,0.0909
 2024-07-26 16:59:44.828012,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Roy Cooper,0.033399999999999985,0.1667,0.1333
 2024-07-26 17:00:04.782167,Senior Open Championship - Senior Open Championship - Winner,Angel Cabrera,0.032400000000000005,0.0476,0.0152
 2024-07-26 17:00:04.782167,Senior Open Championship - Senior Open Championship - Winner,Darren Clarke,0.0312,0.0435,0.0123
@@ -39,20 +43,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-27 02:59:38.717120,Round Match-Ups - 3rd Round Match-Ups - K. Bradley vs K. Mitchell - 3rd Round Match-Ups,Keegan Bradley,0.027700000000000058,0.5833,0.5556
 2024-07-27 00:59:33.947141,Scores - 2nd Round Score - Cameron Smith - 2nd Round Score ,Under 68.5,0.026499999999999968,0.5917,0.5652
 2024-07-27 02:59:39.730970,Round Match-Ups - 2nd Round Match-Ups - A. Ancer vs S. Horsfield - 2nd Round Match-Ups,Abraham Ancer,0.025599999999999956,0.6,0.5744
+2024-07-27 04:59:13.789726,Round Match-Ups - 3rd Round Match-Ups - S. Burns vs T. Finau - 3rd Round Match-Ups,Tony Finau,0.024399999999999977,0.5122,0.4878
 2024-07-27 02:59:08.511557,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Seattle Sounders,0.0242,0.0909,0.0667
-2024-07-26 20:59:37.036239,Women's - Paris 2024 - Women's Street Skateboarding - Gold Medal Winner,Chloe Covell (AUS),0.023799999999999988,0.1667,0.1429
 2024-07-27 02:59:08.511557,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Los Angeles FC,0.023799999999999988,0.1667,0.1429
+2024-07-26 20:59:37.036239,Women's - Paris 2024 - Women's Street Skateboarding - Gold Medal Winner,Chloe Covell (AUS),0.023799999999999988,0.1667,0.1429
 2024-07-27 02:59:37.518528,Boxing Lines - Cameran Pankey vs Shaileik Paisley - To Win the Bout,Cameran Pankey,0.023799999999999932,0.8571,0.8333
 2024-07-27 02:59:08.670694,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Winner,Los Angeles FC,0.02310000000000001,0.1,0.0769
+2024-07-27 04:59:13.645217,Round Match-Ups - 3rd Round Match-Ups - A. Bhatia vs S. Theegala - 3rd Round Match-Ups,Akshay Bhatia,0.022699999999999998,0.4878,0.4651
 2024-07-26 18:59:39.269040,67kg - Paris 2024 - Women's 67kg - Gold Medal Winner,Kristina Teachout (USA),0.022400000000000003,0.0323,0.0099
 2024-07-27 02:59:38.792489,Round Match-Ups - 3rd Round Match-Ups - T. Pendrith vs C. Davis - 3rd Round Match-Ups,Taylor Pendrith,0.02169999999999994,0.5455,0.5238
 2024-07-27 00:59:14.282147,Electoral College Winner - New Mexico (NM) - NM,Republican,0.020799999999999985,0.3333,0.3125
-2024-07-26 23:00:12.010550,Round Match-Ups - 3rd Round Match-Ups - K. Bradley vs K. Mitchell - 3rd Round Match-Ups,Keegan Bradley,0.02079999999999993,0.5556,0.5348
 2024-07-27 02:59:39.850389,Round Match-Ups - 2nd Round Match-Ups - P. Casey vs A. Meronk - 2nd Round Match-Ups,Paul Casey,0.02079999999999993,0.5556,0.5348
+2024-07-26 23:00:12.010550,Round Match-Ups - 3rd Round Match-Ups - K. Bradley vs K. Mitchell - 3rd Round Match-Ups,Keegan Bradley,0.02079999999999993,0.5556,0.5348
 2024-07-27 02:59:10.081397,Road - Paris 2024 - Men's Individual Time Trial - To Win a Medal,Luke Plapp (AUS),0.0203,0.0588,0.0385
-2024-07-27 02:59:19.369971,Donald Trump Specials - Donald Trump Favorability Rating August 31st 2024 - Trump Favorability Aug 31st,Under 42.7,0.01970000000000005,0.5652,0.5455
 2024-07-27 02:59:39.777821,Round Match-Ups - 2nd Round Match-Ups - J. Niemann vs S. Garcia - 2nd Round Match-Ups,Joaquin Niemann,0.01970000000000005,0.5652,0.5455
+2024-07-27 02:59:19.369971,Donald Trump Specials - Donald Trump Favorability Rating August 31st 2024 - Trump Favorability Aug 31st,Under 42.7,0.01970000000000005,0.5652,0.5455
 2024-07-27 02:59:38.164745,3M Open - 2/3 Balls - 3rd Round 3-Balls - R. Hoey / J. Highsmith / K. Mitchell - 3rd Round 3-Balls,Keith Mitchell,0.019699999999999995,0.4545,0.4348
+2024-07-27 04:59:13.905049,Round Match-Ups - 3rd Round Match-Ups - K. Kitayama vs A. Novak - 3rd Round Match-Ups,Kurt Kitayama,0.01880000000000004,0.5744,0.5556
 2024-07-27 02:59:09.168188,100m - Paris 2024 - Men's 100m - Gold Medal Winner,Noah Lyles (USA),0.018100000000000005,0.4348,0.4167
 2024-07-26 20:59:38.768150,Tennis - Paris 2024 - Men's Olympics Tennis 2024 - Gold Medal Winner,Carlos Alcaraz,0.017299999999999982,0.5917,0.5744
 2024-07-27 02:59:08.550616,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 7  ,Santos Laguna,0.016699999999999993,0.2667,0.25
@@ -60,12 +67,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-27 02:59:08.522721,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 2,Atlético San Luis,0.015100000000000002,0.1818,0.1667
 2024-07-26 17:00:04.782167,Senior Open Championship - Senior Open Championship - Winner,Peter Baker,0.014900000000000004,0.0345,0.0196
 2024-07-27 02:59:19.340964,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,0.014600000000000057,0.7368,0.7222
+2024-07-27 04:58:51.701497,Tournament Futures - Paris 2024 - Men's Basketball - Gold Medal Winner,Australia,0.014099999999999998,0.0435,0.0294
+2024-07-27 04:58:46.661609,400m Freestyle - Paris 2024 - Women's 400m Freestyle - Gold Medal Winner,Erika Fairweather (NZL),0.014099999999999994,0.0667,0.0526
 2024-07-27 02:59:08.511557,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Orlando City,0.014099999999999994,0.0667,0.0526
 2024-07-27 02:59:38.563830,3M Open - 2/3 Balls - 3rd Round 3-Balls - S. Cink / R. Streb / M. McNealy - 3rd Round 3-Balls,Stewart Cink,0.013600000000000001,0.3077,0.2941
 2024-07-26 17:00:04.782167,Senior Open Championship - Senior Open Championship - Winner,Miguel Angel Martin,0.0132,0.0152,0.002
 2024-07-27 02:59:08.670694,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Winner,Seattle Sounders,0.0131,0.0476,0.0345
-2024-07-26 21:00:05.823619,Boxing Lines - Michel Rivera vs Hugo Alberto Roldan - To Win the Bout,Hugo Alberto Roldan,0.012899999999999995,0.1667,0.1538
 2024-07-26 18:59:45.064326,Olympics 3x3 Basketball - Women - Paris 2024 - Women's 3x3 Basketball - Gold Medal Winner,Australia 3x3 Women,0.012899999999999995,0.1667,0.1538
+2024-07-26 21:00:05.823619,Boxing Lines - Michel Rivera vs Hugo Alberto Roldan - To Win the Bout,Hugo Alberto Roldan,0.012899999999999995,0.1667,0.1538
 2024-07-26 18:59:37.475804,Women's - Paris 2024 - 3x3 Women's Basketball - Gold Medal Winner,Australia 3x3 Women,0.012899999999999995,0.1667,0.1538
 2024-07-26 19:00:07.391113,UK - 2/3 Balls - 2nd Round 3 Balls - B. Koepka / P. Casey / G. McDowell - 2nd Round 3 Balls ,Graeme McDowell,0.012799999999999978,0.2128,0.2
 2024-07-27 02:59:08.511557,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Austin FC,0.012700000000000003,0.0323,0.0196
@@ -73,14 +82,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-26 20:59:41.694081,WNBA Awards - WNBA Rookie of the Year 2024 - WNBA Rookie of the Year 2024,Angel Reese (CHI),0.0121,0.1333,0.1212
 2024-07-26 20:59:37.009865,Men's - Paris 2024 - Men's Park - Gold Medal Winner,Kieran Woolley (AUS),0.011099999999999999,0.1111,0.1
 2024-07-26 22:59:46.583401,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading France Points Scorer,Evan  Fournier,0.010899999999999993,0.1538,0.1429
-2024-07-26 20:59:37.009865,Men's - Paris 2024 - Men's Park - Gold Medal Winner,Gavin Bottger (USA),0.010899999999999993,0.1538,0.1429
 2024-07-26 17:00:03.887594,Boxing Lines - Michel Rivera vs Hugo Alberto Roldan - To Win the Bout,Hugo Alberto Roldan,0.010899999999999993,0.1538,0.1429
+2024-07-26 20:59:37.009865,Men's - Paris 2024 - Men's Park - Gold Medal Winner,Gavin Bottger (USA),0.010899999999999993,0.1538,0.1429
 2024-07-26 17:00:04.782167,Senior Open Championship - Senior Open Championship - Winner,Thomas Bjorn,-0.010100000000000001,0.0244,0.0345
 2024-07-27 02:59:08.971853,Primera Division - Chile Primera Division 2024 - Futures - Winner,Everton Viña del Mar,-0.010700000000000001,0.0278,0.0385
 2024-07-26 18:59:37.475804,Women's - Paris 2024 - 3x3 Women's Basketball - Gold Medal Winner,France 3x3 Women,-0.010899999999999993,0.1429,0.1538
 2024-07-26 18:59:45.064326,Olympics 3x3 Basketball - Women - Paris 2024 - Women's 3x3 Basketball - Gold Medal Winner,France 3x3 Women,-0.010899999999999993,0.1429,0.1538
-2024-07-27 02:59:38.563830,3M Open - 2/3 Balls - 3rd Round 3-Balls - S. Cink / R. Streb / M. McNealy - 3rd Round 3-Balls,Robert Streb,-0.011099999999999999,0.2667,0.2778
 2024-07-26 16:59:40.292652,Euroleague - Euroleague 2024/25 - Outright,Barcelona,-0.011099999999999999,0.1,0.1111
+2024-07-27 02:59:38.563830,3M Open - 2/3 Balls - 3rd Round 3-Balls - S. Cink / R. Streb / M. McNealy - 3rd Round 3-Balls,Robert Streb,-0.011099999999999999,0.2667,0.2778
 2024-07-26 16:59:40.292652,Euroleague - Euroleague 2024/25 - Outright,Milano,-0.011199999999999995,0.0476,0.0588
 2024-07-27 00:59:12.875870,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Roy Cooper,-0.012899999999999995,0.1538,0.1667
 2024-07-26 23:00:13.080047,CP Women's Open - CP Women's Open - Winner,Lexi Thompson,-0.0138,0.0079,0.0217
@@ -100,23 +109,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-27 02:59:19.340964,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,-0.01689999999999997,0.3279,0.3448
 2024-07-26 18:59:37.416405,Men's - Paris 2024 - 3x3 Men's Basketball - Gold Medal Winner,Netherlands 3x3,-0.0179,0.125,0.1429
 2024-07-26 23:00:13.080047,CP Women's Open - CP Women's Open - Winner,Jennifer Kupcho,-0.018099999999999998,0.0588,0.0769
+2024-07-27 04:59:13.645217,Round Match-Ups - 3rd Round Match-Ups - A. Bhatia vs S. Theegala - 3rd Round Match-Ups,Sahith Theegala,-0.018100000000000005,0.5652,0.5833
 2024-07-26 16:59:44.828012,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Josh Shapiro,-0.019000000000000017,0.2667,0.2857
 2024-07-26 17:00:04.782167,Senior Open Championship - Senior Open Championship - Winner,Alex Cejka,-0.0194,0.005,0.0244
 2024-07-26 18:59:37.416405,Men's - Paris 2024 - 3x3 Men's Basketball - Gold Medal Winner,Lithuania 3x3,-0.02020000000000001,0.0909,0.1111
 2024-07-26 23:00:13.080047,CP Women's Open - CP Women's Open - Winner,Hye Jin Choi,-0.0203,0.0385,0.0588
+2024-07-27 04:59:13.789726,Round Match-Ups - 3rd Round Match-Ups - S. Burns vs T. Finau - 3rd Round Match-Ups,Sam Burns,-0.02079999999999993,0.5348,0.5556
 2024-07-26 17:00:04.782167,Senior Open Championship - Senior Open Championship - Winner,Bradley Dredge,-0.021199999999999997,0.0066,0.0278
-2024-07-26 18:59:37.416405,Men's - Paris 2024 - 3x3 Men's Basketball - Gold Medal Winner,France 3x3,-0.022199999999999998,0.2,0.2222
+2024-07-27 04:58:46.661609,400m Freestyle - Paris 2024 - Women's 400m Freestyle - Gold Medal Winner,Summer McIntosh (CAN),-0.021699999999999997,0.2222,0.2439
 2024-07-26 20:59:37.036239,Women's - Paris 2024 - Women's Street Skateboarding - Gold Medal Winner,Coco Yoshizawa (JPN),-0.022199999999999998,0.2,0.2222
 2024-07-26 18:59:45.092113,Olympics 3x3 Basketball - Men - Paris 2024 - Men's 3x3 Basketball - Gold Medal Winner,France 3x3,-0.022199999999999998,0.2,0.2222
+2024-07-26 18:59:37.416405,Men's - Paris 2024 - 3x3 Men's Basketball - Gold Medal Winner,France 3x3,-0.022199999999999998,0.2,0.2222
+2024-07-27 04:59:13.905049,Round Match-Ups - 3rd Round Match-Ups - K. Kitayama vs A. Novak - 3rd Round Match-Ups,Andrew Novak,-0.022699999999999998,0.4651,0.4878
+2024-07-27 02:59:39.777821,Round Match-Ups - 2nd Round Match-Ups - J. Niemann vs S. Garcia - 2nd Round Match-Ups,Sergio Garcia,-0.023799999999999988,0.4762,0.5
+2024-07-26 20:59:37.009865,Men's - Paris 2024 - Men's Park - Gold Medal Winner,Keegan Palmer (AUS),-0.023799999999999988,0.3333,0.3571
 2024-07-26 18:59:45.092113,Olympics 3x3 Basketball - Men - Paris 2024 - Men's 3x3 Basketball - Gold Medal Winner,Latvia 3x3,-0.023799999999999988,0.1429,0.1667
 2024-07-27 00:59:33.947141,Scores - 2nd Round Score - Cameron Smith - 2nd Round Score ,Over 68.5,-0.023799999999999988,0.4762,0.5
-2024-07-26 20:59:37.009865,Men's - Paris 2024 - Men's Park - Gold Medal Winner,Keegan Palmer (AUS),-0.023799999999999988,0.3333,0.3571
-2024-07-27 02:59:39.777821,Round Match-Ups - 2nd Round Match-Ups - J. Niemann vs S. Garcia - 2nd Round Match-Ups,Sergio Garcia,-0.023799999999999988,0.4762,0.5
 2024-07-27 02:59:19.369971,Donald Trump Specials - Donald Trump Favorability Rating August 31st 2024 - Trump Favorability Aug 31st,42.7 or over,-0.023800000000000043,0.5,0.5238
 2024-07-27 02:59:38.792489,Round Match-Ups - 3rd Round Match-Ups - T. Pendrith vs C. Davis - 3rd Round Match-Ups,Cam Davis,-0.023800000000000043,0.5,0.5238
 2024-07-27 02:59:10.081397,Road - Paris 2024 - Men's Individual Time Trial - To Win a Medal,Tobias Foss (NOR),-0.024299999999999995,0.0526,0.0769
-2024-07-27 02:59:39.850389,Round Match-Ups - 2nd Round Match-Ups - P. Casey vs A. Meronk - 2nd Round Match-Ups,Adrian Meronk,-0.024399999999999977,0.4878,0.5122
 2024-07-26 23:00:12.010550,Round Match-Ups - 3rd Round Match-Ups - K. Bradley vs K. Mitchell - 3rd Round Match-Ups,Keith Mitchell,-0.024399999999999977,0.4878,0.5122
+2024-07-27 02:59:39.850389,Round Match-Ups - 2nd Round Match-Ups - P. Casey vs A. Meronk - 2nd Round Match-Ups,Adrian Meronk,-0.024399999999999977,0.4878,0.5122
 2024-07-27 02:59:37.518528,Boxing Lines - Cameran Pankey vs Shaileik Paisley - To Win the Bout,Shaileik Paisley,-0.024800000000000016,0.2105,0.2353
 2024-07-26 23:00:13.080047,CP Women's Open - CP Women's Open - Winner,Jenny Shin,-0.0286,0.0099,0.0385
 2024-07-27 02:59:39.730970,Round Match-Ups - 2nd Round Match-Ups - A. Ancer vs S. Horsfield - 2nd Round Match-Ups,Sam Horsfield,-0.030299999999999994,0.4348,0.4651
@@ -125,6 +138,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-27 02:59:39.747205,Round Match-Ups - 2nd Round Match-Ups - C. Smith vs T. Gooch - 2nd Round Match-Ups,Talor Gooch,-0.03489999999999999,0.4651,0.5
 2024-07-26 23:00:13.080047,CP Women's Open - CP Women's Open - Winner,Alison Lee,-0.0378,0.0057,0.0435
 2024-07-26 17:00:04.782167,Senior Open Championship - Senior Open Championship - Winner,Paul Broadhurst,-0.0384,0.0385,0.0769
+2024-07-27 04:58:46.609182,400m Freestyle - Paris 2024 - Men's 400m Freestyle - Gold Medal Winner,Oliver Klemet (AUT),-0.0392,0.0196,0.0588
 2024-07-27 02:59:08.583734,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win West 6,Necaxa,-0.03950000000000001,0.2105,0.25
 2024-07-26 23:00:13.080047,CP Women's Open - CP Women's Open - Winner,Ariya Jutanugarn,-0.04229999999999999,0.0244,0.0667
 2024-07-27 02:59:10.081397,Road - Paris 2024 - Men's Individual Time Trial - To Win a Medal,Joshua Tarling (GBR),-0.043300000000000005,0.9091,0.9524
@@ -133,20 +147,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-27 02:59:38.892511,Round Match-Ups - 3rd Round Match-Ups - R. Streb vs S. Cink - 3rd Round Match-Ups,Robert Streb,-0.047099999999999975,0.4651,0.5122
 2024-07-27 02:59:39.540310,Match-Ups - 3rd Round Match-Ups - E. Grillo v K. Kitayama - Requests,Emiliano Grillo,-0.047099999999999975,0.4651,0.5122
 2024-07-26 17:00:04.782167,Senior Open Championship - Senior Open Championship - Winner,Scott Hend,-0.0482,0.0044,0.0526
+2024-07-27 04:58:46.609182,400m Freestyle - Paris 2024 - Men's 400m Freestyle - Gold Medal Winner,Elijah Winnington (AUS),-0.04999999999999999,0.2,0.25
 2024-07-27 02:59:10.071983,Road - Paris 2024 - Men's Individual Time Trial - Gold Medal Winner,Joshua Tarling (GBR),-0.05059999999999998,0.5238,0.5744
 2024-07-27 02:59:10.081397,Road - Paris 2024 - Men's Individual Time Trial - To Win a Medal,Stefan Kung (SUI),-0.055499999999999994,0.2778,0.3333
 2024-07-27 02:59:08.589233,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win West 7,Vancouver Whitecaps,-0.05630000000000002,0.1818,0.2381
 2024-07-26 18:59:37.416405,Men's - Paris 2024 - 3x3 Men's Basketball - Gold Medal Winner,Latvia 3x3,-0.05710000000000001,0.1429,0.2
 2024-07-27 02:59:38.767063,Round Match-Ups - 3rd Round Match-Ups - A. Bhatia vs S. Theegala - 3rd Round Match-Ups,Akshay Bhatia,-0.05870000000000003,0.4651,0.5238
+2024-07-27 04:59:13.570099,Round Match-Ups - 3rd Round Match-Ups - K. Bradley vs K. Mitchell - 3rd Round Match-Ups,Keegan Bradley,-0.0595,0.5238,0.5833
+2024-07-27 04:58:46.609182,400m Freestyle - Paris 2024 - Men's 400m Freestyle - Gold Medal Winner,Kim Woo-min (KOR),-0.061500000000000006,0.0385,0.1
 2024-07-27 02:59:10.071983,Road - Paris 2024 - Men's Individual Time Trial - Gold Medal Winner,Remco Evenepoel (BEL),-0.0635,0.2222,0.2857
 2024-07-27 02:59:38.842307,Round Match-Ups - 3rd Round Match-Ups - S. Burns vs T. Finau - 3rd Round Match-Ups,Tony Finau,-0.06779999999999997,0.4878,0.5556
 2024-07-27 00:59:13.540345,Electoral College Winner - Arizona (AZ) - AZ,Republican,-0.06829999999999992,0.7143,0.7826
 2024-07-26 23:00:13.080047,CP Women's Open - CP Women's Open - Winner,Minjee Lee,-0.07329999999999999,0.0036,0.0769
+2024-07-27 04:58:46.661609,400m Freestyle - Paris 2024 - Women's 400m Freestyle - Gold Medal Winner,Ariarne Titmus (AUS),-0.07689999999999997,0.6491,0.726
 2024-07-27 02:59:08.589233,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win West 7,Tijuana,-0.08339999999999999,0.0833,0.1667
 2024-07-26 17:00:04.782167,Senior Open Championship - Senior Open Championship - Winner,Steven Alker,-0.08410000000000001,0.0588,0.1429
 2024-07-27 02:59:19.857346,Electoral College Winner - Arizona (AZ) - AZ,Republican,-0.0989000000000001,0.6154,0.7143
 2024-07-27 02:59:08.550616,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 7  ,Atlanta United,-0.1058,0.3704,0.4762
 2024-07-27 02:59:21.353979,2024 Presidential Election - Venezualan Presidential Election Winner - Election Winner,Nicolás Maduro,-0.10939999999999994,0.7368,0.8462
+2024-07-27 04:58:46.609182,400m Freestyle - Paris 2024 - Men's 400m Freestyle - Gold Medal Winner,Samuel Short (AUS),-0.11109999999999998,0.2222,0.3333
 2024-07-27 02:59:10.081397,Road - Paris 2024 - Men's Individual Time Trial - To Win a Medal,Magnus Sheffield (USA),-0.11109999999999998,0.2222,0.3333
 2024-07-27 02:59:10.081397,Road - Paris 2024 - Men's Individual Time Trial - To Win a Medal,Remco Evenepoel (BEL),-0.11960000000000004,0.75,0.8696
 2024-07-27 02:59:08.522721,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 2,CF Montréal,-0.12589999999999998,0.1818,0.3077
