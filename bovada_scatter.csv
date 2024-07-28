@@ -9,7 +9,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-27 14:59:17.956530,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Assists,Josh  Giddey,0.19479999999999997,0.9091,0.7143
 2024-07-27 18:59:26.672546,Slalom - Paris 2024 - Men's C-1 Slalom - Gold Medal Winner,Nicolas Gestin (FRA),0.18480000000000002,0.4348,0.25
 2024-07-27 17:00:01.842213,Senior Open Championship - Senior Open Championship - Winner,Richard Green,0.18269999999999997,0.3077,0.125
+2024-07-28 02:57:13.134671,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Nationality of Winner,Mexico,0.16690000000000002,0.3774,0.2105
 2024-07-27 22:57:00.798714,Women's - Paris 2024 - Women's Handball - Group A Winner,Sweden (W),0.1614,0.2667,0.1053
+2024-07-28 02:57:13.185122,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Fortaleza,0.16019999999999995,0.6364,0.4762
 2024-07-27 22:57:26.558071,CP Women's Open - CP Women's Open - Winner,Lauren Coughlin,0.1594,0.3333,0.1739
 2024-07-27 16:59:33.905213,Men's - Paris 2024 - Men's Basketball - Group A Winner,Australia,0.1587,0.3125,0.1538
 2024-07-27 16:59:40.061111,Group A - Paris 2024 - Men's Basketball Group A - Winner,Australia,0.1587,0.3125,0.1538
@@ -20,10 +22,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-27 16:59:34.366477,Men's - Paris 2024 - Men's Handball - Group A Winner,Germany (GER),0.12310000000000001,0.2,0.0769
 2024-07-27 20:59:42.312708,Pistol - Paris 2024 - Women's 10m Air Pistol - Gold Medal Winner,Veronika Major (HUN),0.11909999999999998,0.1667,0.0476
 2024-07-27 14:59:17.993946,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Points Scorer,Patty  Mills,0.1154,0.5,0.3846
+2024-07-28 02:57:13.185122,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Cruzeiro MG,0.11309999999999998,0.75,0.6369
 2024-07-27 14:59:13.605552,Men's - Paris 2024 - Men's Handball - Gold Medal Winner,Denmark (DEN),0.11260000000000003,0.4762,0.3636
+2024-07-28 02:57:13.173347,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Juventude,0.11110000000000003,0.4444,0.3333
+2024-07-28 02:57:13.179270,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Fortaleza,0.11070000000000002,0.3774,0.2667
 2024-07-27 14:59:17.975263,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Blocks,Will  Magnay,0.1071,0.25,0.1429
 2024-07-27 14:59:18.106544,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Rebounds,Daniel  Theis,0.1068,0.3846,0.2778
 2024-07-27 14:59:13.142650,Men's - Paris 2024 - Men's Field Hockey - Gold Medal Winner,Great Britain (GBR),0.1,0.2,0.1
+2024-07-28 02:57:16.718628,Ru Paul's Drag Race - Ru Paul's Drag Race: Global All Stars - Global All Stars Outright Winner,Kween Kong,0.1,0.2667,0.1667
 2024-07-27 14:59:23.515180,Starting QB Specials - 2024-25 New England Patriots Week 1 Starting QB - 2024-25 New England Patriots Week 1 Starting QB,Jacoby Brissett,0.09999999999999998,0.9,0.8
 2024-07-27 16:59:40.086131,Group B - Paris 2024 - Men's Basketball Group B - Winner,Germany,0.09740000000000004,0.4545,0.3571
 2024-07-27 16:59:33.913483,Men's - Paris 2024 - Men's Basketball - Group B Winner,Germany,0.09740000000000004,0.4545,0.3571
@@ -37,10 +43,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-27 20:59:42.312708,Pistol - Paris 2024 - Women's 10m Air Pistol - Gold Medal Winner,Jiang Ranxin (CHN),0.08329999999999999,0.3333,0.25
 2024-07-27 14:59:18.300056,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Assists,Lorenzo  Brown,0.08199999999999996,0.9709,0.8889
 2024-07-27 14:59:18.050069,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Assists,Dennis  Schroder,0.08099999999999996,0.9901,0.9091
+2024-07-28 02:57:13.179270,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Cruzeiro MG,0.08080000000000004,0.4444,0.3636
 2024-07-27 22:57:00.798714,Women's - Paris 2024 - Women's Handball - Group A Winner,Denmark (W),0.07789999999999997,0.3636,0.2857
 2024-07-27 14:59:18.068927,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Blocks,Franz  Wagner,0.07500000000000001,0.2,0.125
-2024-07-27 14:59:18.031334,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Steals,Will  Magnay,0.0726,0.1111,0.0385
 2024-07-27 14:59:18.012593,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Rebounds,Jack  McVeigh,0.0726,0.1111,0.0385
+2024-07-27 14:59:18.031334,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Steals,Will  Magnay,0.0726,0.1111,0.0385
 2024-07-27 20:59:41.751627,Double Sculls - Paris 2024 - Men's Double Sculls - Gold Medal Winner,Ireland,0.07239999999999999,0.125,0.0526
 2024-07-27 20:59:42.269407,Pistol - Paris 2024 - Men's 10m Air Pistol - Gold Medal Winner,Federico Nillo Maldini (ITA),0.07069999999999999,0.1818,0.1111
 2024-07-27 14:59:18.031334,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Steals,Patty  Mills,0.06670000000000001,0.2,0.1333
@@ -57,28 +64,38 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-28 00:58:43.604029,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,Djurgårdens,0.05559999999999998,0.1667,0.1111
 2024-07-27 14:59:17.975263,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Blocks,Jock  Landale,0.05520000000000003,0.4,0.3448
 2024-07-27 14:59:18.031334,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Steals,Nick  Kay,0.0524,0.1,0.0476
+2024-07-28 02:57:16.718628,Ru Paul's Drag Race - Ru Paul's Drag Race: Global All Stars - Global All Stars Outright Winner,Alyssa Edwards,0.052000000000000005,0.1429,0.0909
 2024-07-27 18:59:26.060930,Women's - Paris 2024 - Women's Beach Volleyball - Gold Medal Winner,Stam / Schoon (NED),0.052000000000000005,0.1429,0.0909
-2024-07-27 12:59:20.542969,New Orleans Saints - New Orleans Saints - Regular Season Specials 2024-25 - New Orleans Saints - Regular Season Specials 2024-25,New Orleans Saints to Score 1+ Touchdown in every Regular Season Game,0.05130000000000001,0.3846,0.3333
 2024-07-27 18:59:32.917230,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Serbia Blocks,Nikola  Jokic,0.05020000000000002,0.4348,0.3846
+2024-07-28 02:57:17.875287,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Rebounds,Anthony  Davis,0.04999999999999999,0.25,0.2
 2024-07-27 18:59:25.287500,Most Medals - Paris 2024 - Most Gold Medals - Outright,China,0.04999999999999999,0.25,0.2
+2024-07-28 02:57:14.383284,800m Freestyle - Paris 2024 - Women's 800m Freestyle - Gold Medal Winner,Ariarne Titmus (AUS),0.04999999999999999,0.25,0.2
 2024-07-27 18:59:26.060930,Women's - Paris 2024 - Women's Beach Volleyball - Gold Medal Winner,Santos Lisboa / Silva Ramos (BRA),0.04910000000000003,0.4,0.3509
 2024-07-27 22:57:02.120738,Tennis - Paris 2024 - Women's Olympics Tennis 2024 - Gold Medal Winner,Iga Swiatek,0.04760000000000009,0.7143,0.6667
+2024-07-28 02:57:13.173347,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Cuiabá,0.04760000000000003,0.5238,0.4762
+2024-07-28 02:57:13.578111,Manager Specials - Next Permanent England Manager - Next Permanent England Manager,Graham Potter,0.047599999999999976,0.3333,0.2857
+2024-07-28 02:57:17.852574,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament MVP,LeBron  James (USA),0.047599999999999976,0.3333,0.2857
 2024-07-27 14:59:18.318893,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Blocks,Santi  Aldama,0.047599999999999976,0.3333,0.2857
+2024-07-28 02:57:13.442847,Primera Division - Chile Primera Division 2024 - Futures - Winner,Colo-Colo,0.047599999999999976,0.3333,0.2857
 2024-07-27 14:59:18.106544,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Rebounds,Isaac  Bonga,0.047400000000000005,0.1,0.0526
+2024-07-28 02:57:13.173347,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Atlético Goianiense,0.04700000000000004,0.9091,0.8621
+2024-07-28 02:57:13.159803,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Flamengo,0.045499999999999985,0.5,0.4545
 2024-07-28 00:59:13.141153,UK - 2/3 Balls - Final Round 3 Balls - J. Niemann / S. Horsfield / C. Tringale - Final Round 3 Balls ,Joaquin Niemann,0.045499999999999985,0.5,0.4545
 2024-07-27 20:59:42.312708,Pistol - Paris 2024 - Women's 10m Air Pistol - Gold Medal Winner,Trinh Thu Vinh (VIE),0.044599999999999994,0.0769,0.0323
-2024-07-27 16:59:33.905213,Men's - Paris 2024 - Men's Basketball - Group A Winner,Canada,0.04459999999999997,0.6875,0.6429
 2024-07-27 16:59:40.061111,Group A - Paris 2024 - Men's Basketball Group A - Winner,Canada,0.04459999999999997,0.6875,0.6429
+2024-07-27 16:59:33.905213,Men's - Paris 2024 - Men's Basketball - Group A Winner,Canada,0.04459999999999997,0.6875,0.6429
 2024-07-27 20:59:42.269407,Pistol - Paris 2024 - Men's 10m Air Pistol - Gold Medal Winner,Paolo Monna (ITA),0.04269999999999999,0.1538,0.1111
 2024-07-27 14:59:18.119079,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Steals,Isaac  Bonga,0.04269999999999999,0.1538,0.1111
 2024-07-27 18:59:26.060930,Women's - Paris 2024 - Women's Beach Volleyball - Gold Medal Winner,Brunner / Huberli (SUI),0.0417,0.125,0.0833
+2024-07-28 02:57:13.034568,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Inter Miami,0.04040000000000002,0.2222,0.1818
 2024-07-27 20:59:42.269407,Pistol - Paris 2024 - Men's 10m Air Pistol - Gold Medal Winner,Lee Won-ho (KOR),0.03860000000000001,0.1053,0.0667
 2024-07-27 18:59:26.072430,Men's - Paris 2024 - Men's Beach Volleyballl - Gold Medal Winner,Alayo Moliner / Diaz Amaro (CUB),0.0384,0.0769,0.0385
+2024-07-28 02:57:19.806687,US Senate Elections 2024 - Senate Election Winner - Montana - Winner,Republican,0.037900000000000045,0.6296,0.5917
 2024-07-27 18:59:33.163068,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Rebounds,Anthony  Davis,0.037800000000000056,0.5833,0.5455
 2024-07-27 22:57:26.558071,CP Women's Open - CP Women's Open - Winner,Mao Saigo,0.0365,0.0385,0.002
 2024-07-27 22:57:07.274827,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Josh Shapiro,0.03640000000000004,0.4,0.3636
-2024-07-27 12:59:20.258317,Houston Texans - Houston Texans - Regular Season Specials 2024-25 - Houston Texans - Regular Season Specials 2024-25,Will Anderson Jr. to Record 10+ Sacks in the Regular Season,0.03570000000000001,0.2857,0.25
 2024-07-27 16:59:36.372944,Tennis - Paris 2024 - Men's Olympics Tennis 2024 - Gold Medal Winner,Novak Djokovic,0.03570000000000001,0.2857,0.25
+2024-07-28 02:57:16.718628,Ru Paul's Drag Race - Ru Paul's Drag Race: Global All Stars - Global All Stars Outright Winner,Nehellenia,0.03570000000000001,0.2857,0.25
 2024-07-27 14:59:28.832243,Wide Receivers - NFL 2024-25 Receiving TD's - Cooper Kupp Regular Season Total Receiving TDs 2024-25,Over 6.5 TD's,0.03480000000000005,0.5348,0.5
 2024-07-27 22:56:59.885541,200m Freestyle - Paris 2024 - Women's 200m Freestyle - Gold Medal Winner,Ariarne Titmus (AUS),0.03479999999999994,0.6,0.5652
 2024-07-27 18:59:26.672546,Slalom - Paris 2024 - Men's C-1 Slalom - Gold Medal Winner,Adam Burgess(GBR),0.03420000000000001,0.1111,0.0769
@@ -87,159 +104,219 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-27 20:59:42.312708,Pistol - Paris 2024 - Women's 10m Air Pistol - Gold Medal Winner,Li Xue (CHN),0.033399999999999985,0.1667,0.1333
 2024-07-27 14:59:23.491963,Starting QB Specials - 2024-25 Minnesota Vikings Week 1 Starting QB - 2024-25 Minnesota Vikings Week 1 Starting QB,Sam Darnold,0.033299999999999996,0.8333,0.8
 2024-07-27 14:59:38.302142,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Brock Purdy,0.0321,0.0909,0.0588
-2024-07-27 17:00:01.842213,Senior Open Championship - Senior Open Championship - Winner,K J Choi,0.030299999999999994,0.3636,0.3333
 2024-07-27 18:59:33.182900,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Steals,Anthony  Edwards,0.030299999999999994,0.3636,0.3333
+2024-07-27 17:00:01.842213,Senior Open Championship - Senior Open Championship - Winner,K J Choi,0.030299999999999994,0.3636,0.3333
 2024-07-27 16:59:34.366477,Men's - Paris 2024 - Men's Handball - Group A Winner,Spain (ESP),0.029600000000000015,0.4,0.3704
 2024-07-28 00:58:43.613398,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Degerfors IF,0.028799999999999992,0.1538,0.125
 2024-07-27 18:59:26.631747,Slalom - Paris 2024 - Women's K-1 Slalom - Gold Medal Winner,Evy Leibfarth (USA),0.0286,0.0385,0.0099
+2024-07-28 02:57:13.159803,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Cruzeiro MG,0.028199999999999996,0.0667,0.0385
 2024-07-27 14:59:17.993946,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Points Scorer,Jack  McVeigh,0.028000000000000004,0.0476,0.0196
 2024-07-27 18:59:26.072430,Men's - Paris 2024 - Men's Beach Volleyballl - Gold Medal Winner,Younousse / Tijan (QAT),0.027999999999999997,0.0625,0.0345
 2024-07-27 18:59:32.836778,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Japan Points Scorer,Rui  Hachimura,0.027999999999999914,0.8462,0.8182
+2024-07-28 02:57:19.696098,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,0.027900000000000036,0.7647,0.7368
 2024-07-27 14:59:17.956530,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Assists,Jock  Landale,0.027900000000000008,0.0714,0.0435
+2024-07-28 02:57:13.578111,Manager Specials - Next Permanent England Manager - Next Permanent England Manager,Lee Carsley,0.02779999999999999,0.25,0.2222
+2024-07-28 02:57:17.864022,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Points Scorer,Shai  Gilgeous-Alexander,0.02779999999999999,0.25,0.2222
 2024-07-27 14:59:18.356593,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Rebounds,Santi  Aldama,0.027500000000000024,0.3846,0.3571
 2024-07-28 00:59:13.217274,UK - 2/3 Balls - Final Round 3 Balls - S. Munoz / P. Uihlein / S. Vincent - Final Round 3 Balls,Scott Vincent,0.02679999999999999,0.3125,0.2857
 2024-07-27 14:59:21.247503,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Tim Walz,0.0267,0.16,0.1333
 2024-07-27 22:57:00.806814,Women's - Paris 2024 - Women's Handball - Group B Winner,Netherlands (W),0.026100000000000012,0.2,0.1739
+2024-07-28 02:57:14.317971,1500m Freestyle - Paris 2024 - Men's 1500m Freestyle - Gold Medal Winner,Bobby Finke (USA),0.02560000000000001,0.3704,0.3448
 2024-07-27 20:59:41.703579,Single Sculls - Paris 2024 - Men's Single Sculls - Gold Medal Winner,Mihai Chiruta (ROU),0.0253,0.0385,0.0132
 2024-07-27 20:59:42.312708,Pistol - Paris 2024 - Women's 10m Air Pistol - Gold Medal Winner,Sevval Tarhan (TUR),0.024299999999999995,0.0588,0.0345
 2024-07-27 20:59:41.084585,Women's - Paris 2024 - Women's Team Epee - Gold Medal Winner,Ukraine (W),0.0242,0.0909,0.0667
 2024-07-27 18:59:33.102244,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Assists,Lebron  James,0.023800000000000043,0.5238,0.5
-2024-07-27 18:59:33.182900,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Steals,Jrue  Holiday,0.023799999999999988,0.1667,0.1429
 2024-07-27 20:59:41.680664,Single Sculls - Paris 2024 - Women's Single Sculls - Gold Medal Winner,Emma Twigg (NZL),0.023799999999999988,0.1667,0.1429
+2024-07-27 18:59:33.182900,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Steals,Jrue  Holiday,0.023799999999999988,0.1667,0.1429
 2024-07-27 14:59:13.605552,Men's - Paris 2024 - Men's Handball - Gold Medal Winner,Germany (GER),0.023200000000000002,0.0526,0.0294
-2024-07-27 14:59:18.031334,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Steals,Jock  Landale,0.02310000000000001,0.1,0.0769
+2024-07-28 02:57:13.159803,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Fortaleza,0.023200000000000002,0.0476,0.0244
+2024-07-28 02:57:30.032463,NFL Awards & League Leaders - Regular Season Stat Leaders - Most Passing Touchdowns (Regular Season),C.J. Stroud,0.02310000000000001,0.1,0.0769
 2024-07-27 16:59:35.210271,Men's - Paris 2024 - Men's Street Skateboarding - Gold Medal Winner,Gustavo Ribeiro (POR),0.02310000000000001,0.1,0.0769
+2024-07-27 14:59:18.031334,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Steals,Jock  Landale,0.02310000000000001,0.1,0.0769
 2024-07-27 18:59:26.072430,Men's - Paris 2024 - Men's Beach Volleyballl - Gold Medal Winner,Loyola Stein / Wanderley (BRA),0.02310000000000001,0.1,0.0769
+2024-07-28 02:57:31.250190,Round Match-Ups - Final Round Match-Ups - K.H. Lee vs M. NeSmith - Final Round Match-Ups,Matt NeSmith,0.022600000000000064,0.5348,0.5122
+2024-07-28 02:57:31.163069,Round Match-Ups - Final Round Match-Ups - K. Kraft vs S. Power - Final Round Match-Ups,Seamus Power,0.022600000000000064,0.6226,0.6
 2024-07-28 00:59:13.242679,UK - 2/3 Balls - Final Round 3 Balls - T. Hatton / C. Smith / A. Ogletree - Final Round 3 Balls,Tyrrell Hatton,0.022600000000000064,0.5348,0.5122
 2024-07-27 22:57:02.120738,Tennis - Paris 2024 - Women's Olympics Tennis 2024 - Gold Medal Winner,Karolina Muchova,0.022200000000000004,0.0345,0.0123
-2024-07-27 14:59:14.008708,Rifle - Paris 2024 - Women's 10m Air Rifle - Gold Medal Winner,Han Jiayu (CHN),0.022199999999999998,0.2222,0.2
 2024-07-27 14:59:14.008708,Rifle - Paris 2024 - Women's 10m Air Rifle - Gold Medal Winner,Seonaid McIntosh (GBR),0.022199999999999998,0.1333,0.1111
+2024-07-27 14:59:14.008708,Rifle - Paris 2024 - Women's 10m Air Rifle - Gold Medal Winner,Han Jiayu (CHN),0.022199999999999998,0.2222,0.2
 2024-07-27 22:57:07.274827,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Tim Walz,0.021799999999999986,0.1818,0.16
 2024-07-28 00:58:43.613398,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Landskrona BoIS,0.021699999999999997,0.4762,0.4545
+2024-07-28 02:57:31.133911,Round Match-Ups - Final Round Match-Ups - M. Hughes vs E. Grillo - Final Round Match-Ups,Mackenzie Hughes,0.02169999999999994,0.5455,0.5238
 2024-07-28 00:59:13.272083,CP Women's Open - CP Women's Open - Winner,Hae Ran Ryu,0.02100000000000002,0.6364,0.6154
 2024-07-27 14:59:28.871661,Wide Receivers - NFL 2024-25 Receiving TD's - D.K. Metcalf Regular Season Total Receiving TDs 2024-25,Over 6.5 TD's,0.02079999999999993,0.5556,0.5348
 2024-07-27 14:59:18.050069,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Assists,Moritz  Wagner,0.020600000000000004,0.05,0.0294
-2024-07-27 12:59:20.232619,Green Bay Packers - Green Bay Packers - Regular Season Specials 2024-25 - Green Bay Packers - Regular Season Specials 2024-25,Rashan Gary to Record 10+ Sacks in the Regular Season,0.02049999999999999,0.2128,0.1923
+2024-07-28 02:57:16.693233,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Cedric Hodges,0.02049999999999999,0.1538,0.1333
+2024-07-28 02:57:30.797001,3M Open - 2/3 Balls - Final Round 3-Balls - D. Skinns / R. Shelton / C. Gotterup - Final Round 3-Balls,Robby Shelton,0.02030000000000004,0.3774,0.3571
 2024-07-28 00:58:43.613398,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Utsiktens,0.0203,0.0588,0.0385
 2024-07-27 20:59:41.703579,Single Sculls - Paris 2024 - Men's Single Sculls - Gold Medal Winner,Stefanos Ntouskos (GRE),0.02020000000000001,0.1111,0.0909
+2024-07-28 02:57:31.206661,Round Match-Ups - Final Round Match-Ups - T. Moore vs J. Suh - Final Round Match-Ups,Taylor Moore,0.01970000000000005,0.5652,0.5455
+2024-07-28 02:57:30.855181,3M Open - 2/3 Balls - Final Round 3-Balls - T. Crowe / K. Bradley / R. Hoey - Final Round 3-Balls,Keegan Bradley,0.019699999999999995,0.4545,0.4348
+2024-07-28 02:57:19.602440,Donald Trump Specials - Will Joe Biden pardon Donald Trump? - Will Joe Biden pardon Donald Trump?,Joe Biden to pardon Donald Trump for all potential federal crimes before the 2024 election,0.019699999999999995,0.125,0.1053
 2024-07-27 18:59:26.072430,Men's - Paris 2024 - Men's Beach Volleyballl - Gold Medal Winner,Ehlers / Wickler (GER),0.019099999999999992,0.0667,0.0476
 2024-07-27 14:59:14.008708,Rifle - Paris 2024 - Women's 10m Air Rifle - Gold Medal Winner,Jeanette Hegg Duestad (NOR),0.019099999999999992,0.0667,0.0476
 2024-07-27 18:59:26.072430,Men's - Paris 2024 - Men's Beach Volleyballl - Gold Medal Winner,Losiak / Bryl (POL),0.019099999999999992,0.0667,0.0476
-2024-07-27 12:59:20.343093,Kansas City Chiefs - Kansas City Chiefs - Regular Season Specials 2024-25 - Kansas City Chiefs - Regular Season Specials 2024-25,Kansas City Chiefs to Score 1+ Field Goal in every Regular Season Game,0.018800000000000004,0.0714,0.0526
 2024-07-27 14:59:18.012593,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Rebounds,Josh  Giddey,0.018799999999999983,0.3636,0.3448
 2024-07-27 14:59:37.516078,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,KJ Jefferson,0.0182,0.0323,0.0141
 2024-07-27 18:59:26.072430,Men's - Paris 2024 - Men's Beach Volleyballl - Gold Medal Winner,Perusic / Schweiner (CZE),0.018099999999999998,0.0769,0.0588
-2024-07-27 12:59:20.511836,New England Patriots - New England Patriots - Regular Season Specials 2024-25 - New England Patriots - Regular Season Specials 2024-25,Rhamondre Stevenson to Score 10+ Rushing Touchdowns in the Regular Season,0.0179,0.1429,0.125
 2024-07-28 00:58:43.549108,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Copenhagen,0.017199999999999993,0.5455,0.5283
 2024-07-27 20:59:42.356159,Pistol - Paris 2024 - Mixed Team 10m Air Pistol - Gold Medal Winner,India (IND),0.016700000000000007,0.1,0.0833
-2024-07-27 16:59:39.095651,Tournament Futures - Paris 2024 - Men's Basketball - Gold Medal Winner,Canada,0.016700000000000007,0.1,0.0833
 2024-07-27 16:59:33.895824,Men's - Paris 2024 - Men's Basketball - Gold Medal Winner,Canada,0.016700000000000007,0.1,0.0833
+2024-07-27 16:59:39.095651,Tournament Futures - Paris 2024 - Men's Basketball - Gold Medal Winner,Canada,0.016700000000000007,0.1,0.0833
+2024-07-28 02:57:16.706697,Ru Paul's Drag Race - Ru Paul's Drag Race: Canada Vs The World Season 2 - Outright Winner - Canada Vs The World Season 2 Outright Winner,Kennedy Davenport,0.016699999999999993,0.2667,0.25
 2024-07-28 00:59:13.115730,UK - 2/3 Balls - Final Round 3 Balls - B. Koepka / T. Gooch / M. Wolff - Final Round 3 Balls,Brooks Koepka,0.016699999999999993,0.4167,0.4
 2024-07-27 18:59:32.895341,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Serbia Assists,Nikola  Jokic,0.016699999999999937,0.6,0.5833
-2024-07-27 18:59:26.060930,Women's - Paris 2024 - Women's Beach Volleyball - Gold Medal Winner,Humana-Paredes / Wilkerson (CAN),0.016600000000000004,0.0833,0.0667
 2024-07-27 18:59:26.060930,Women's - Paris 2024 - Women's Beach Volleyball - Gold Medal Winner,Graudina / Samoilova (LAT),0.016600000000000004,0.0833,0.0667
+2024-07-27 18:59:26.060930,Women's - Paris 2024 - Women's Beach Volleyball - Gold Medal Winner,Humana-Paredes / Wilkerson (CAN),0.016600000000000004,0.0833,0.0667
 2024-07-27 14:59:37.516078,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Will Howard,0.01580000000000001,0.0714,0.0556
+2024-07-28 02:57:15.515876,Women's - Paris 2024 - Women's Street Skateboarding - Gold Medal Winner,Rayssa Leal (BRA),0.015400000000000025,0.4,0.3846
 2024-07-27 14:59:36.536811,Sun Belt Regular Season Wins - Sun Belt Regular Season Wins - Old Dominion,Under 4.5 Wins,0.01539999999999997,0.6154,0.6
 2024-07-27 14:59:14.008708,Rifle - Paris 2024 - Women's 10m Air Rifle - Gold Medal Winner,Huang Yiting (CHN),0.015100000000000002,0.1818,0.1667
+2024-07-28 02:57:15.539125,Men's - Paris 2024 - Men's Street Skateboarding - Gold Medal Winner,Nyjah Huston (USA),0.01469999999999999,0.25,0.2353
 2024-07-27 22:57:02.120738,Tennis - Paris 2024 - Women's Olympics Tennis 2024 - Gold Medal Winner,Angelique Kerber,0.014599999999999998,0.0196,0.005
 2024-07-27 18:59:26.672546,Slalom - Paris 2024 - Men's C-1 Slalom - Gold Medal Winner,Matej Benus (SVK),0.01440000000000001,0.1053,0.0909
-2024-07-27 20:59:41.680664,Single Sculls - Paris 2024 - Women's Single Sculls - Gold Medal Winner,Viktorija Senkute (LTU),0.014099999999999998,0.0385,0.0244
+2024-07-28 02:57:30.032463,NFL Awards & League Leaders - Regular Season Stat Leaders - Most Passing Touchdowns (Regular Season),Joe Burrow,0.01440000000000001,0.1053,0.0909
 2024-07-27 20:59:41.703579,Single Sculls - Paris 2024 - Men's Single Sculls - Gold Medal Winner,Sverri Nielsen (DEN),0.014099999999999998,0.0435,0.0294
-2024-07-27 18:59:26.072430,Men's - Paris 2024 - Men's Beach Volleyballl - Gold Medal Winner,Immers / van de Velde (NED),0.014099999999999998,0.0435,0.0294
+2024-07-27 20:59:41.680664,Single Sculls - Paris 2024 - Women's Single Sculls - Gold Medal Winner,Viktorija Senkute (LTU),0.014099999999999998,0.0385,0.0244
 2024-07-27 18:59:26.072430,Men's - Paris 2024 - Men's Beach Volleyballl - Gold Medal Winner,Lanci / Oliveira Junior (BRA),0.014099999999999998,0.0435,0.0294
-2024-07-27 12:59:20.258317,Houston Texans - Houston Texans - Regular Season Specials 2024-25 - Houston Texans - Regular Season Specials 2024-25,CJ Stroud to Throw 40+ Passing Touchdowns in the Regular Season,0.013999999999999999,0.0909,0.0769
+2024-07-27 18:59:26.072430,Men's - Paris 2024 - Men's Beach Volleyballl - Gold Medal Winner,Immers / van de Velde (NED),0.014099999999999998,0.0435,0.0294
+2024-07-28 02:57:13.423126,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Huracán,0.014099999999999998,0.0385,0.0244
+2024-07-28 02:57:13.034568,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Philadelphia Union,0.014099999999999994,0.0667,0.0526
+2024-07-28 02:57:13.179270,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,RB Bragantino,0.013999999999999999,0.0909,0.0769
+2024-07-28 02:57:13.185122,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Vasco da Gama,0.013999999999999999,0.0909,0.0769
 2024-07-28 00:58:43.585358,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Molde FK,0.013899999999999996,0.125,0.1111
+2024-07-28 02:57:16.693233,Big Brother - BB26: Outright Winner - BB26 Outright Winner,T'kor Clottey,0.013899999999999996,0.125,0.1111
+2024-07-28 02:57:13.179270,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Atlético Mineiro,0.013899999999999996,0.125,0.1111
 2024-07-28 00:58:55.386088,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Green Bay Packers,0.013899999999999996,0.125,0.1111
 2024-07-27 22:57:00.806814,Women's - Paris 2024 - Women's Handball - Group B Winner,Brazil (W),0.0131,0.0476,0.0345
 2024-07-27 22:57:00.798714,Women's - Paris 2024 - Women's Handball - Group A Winner,South Korea (W),0.013,0.0196,0.0066
-2024-07-27 12:59:20.038490,Baltimore Ravens - Baltimore Ravens - Regular Season Specials 2024-25 - Baltimore Ravens - Regular Season Specials 2024-25,Mark Andrews to Have 1000+ Receiving Yards in the Regular Season,0.012799999999999978,0.2985,0.2857
 2024-07-27 14:59:29.319712,Wide Receivers - NFL 2024-25 Receiving TD's - Tank Dell Regular Season Total Receiving TDs 2024-25,Over 4.5 TD's,0.012199999999999989,0.5122,0.5
 2024-07-27 14:59:29.040310,Wide Receivers - NFL 2024-25 Receiving TD's - Jaylen Waddle Regular Season Total Receiving TDs 2024-25,Over 5.5 TD's,0.012199999999999989,0.5,0.4878
 2024-07-27 18:59:26.072430,Men's - Paris 2024 - Men's Beach Volleyballl - Gold Medal Winner,Budinger / Evans (USA),0.012100000000000001,0.0244,0.0123
 2024-07-27 14:59:13.142650,Men's - Paris 2024 - Men's Field Hockey - Gold Medal Winner,Belgium (BEL),0.011899999999999994,0.25,0.2381
-2024-07-27 12:59:20.065845,Buffalo Bills - Buffalo Bills - Regular Season Specials 2024-25 - Buffalo Bills - Regular Season Specials 2024-25,Josh Allen to Throw 40+ Passing Touchdowns in the Regular Season,0.011899999999999994,0.0833,0.0714
 2024-07-28 00:59:13.272083,CP Women's Open - CP Women's Open - Winner,Lauren Coughlin,0.01150000000000001,0.3448,0.3333
+2024-07-28 02:57:14.291876,100m Breaststroke - Paris 2024 - Men's 100m Breaststroke - Gold Medal Winner,Adam Peaty (GBR),0.011499999999999955,0.6667,0.6552
 2024-07-27 14:59:13.131374,Women's - Paris 2024 - Women's Field Hockey - Gold Medal Winner,Netherlands (W),0.011499999999999955,0.6667,0.6552
-2024-07-27 22:57:02.120738,Tennis - Paris 2024 - Women's Olympics Tennis 2024 - Gold Medal Winner,Jasmine Paolini,0.011199999999999995,0.0588,0.0476
+2024-07-28 02:57:16.693233,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Chelsie Baham,0.011199999999999995,0.0588,0.0476
 2024-07-27 17:00:01.842213,Senior Open Championship - Senior Open Championship - Winner,Angel Cabrera,0.011199999999999995,0.0588,0.0476
-2024-07-27 18:59:33.163068,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Rebounds,Lebron  James,0.011099999999999999,0.1111,0.1
+2024-07-27 22:57:02.120738,Tennis - Paris 2024 - Women's Olympics Tennis 2024 - Gold Medal Winner,Jasmine Paolini,0.011199999999999995,0.0588,0.0476
 2024-07-27 16:59:34.374686,Men's - Paris 2024 - Men's Handball - Group B Winner,Egypt (EGY),0.011099999999999999,0.1111,0.1
+2024-07-27 18:59:33.163068,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Rebounds,Lebron  James,0.011099999999999999,0.1111,0.1
+2024-07-28 02:57:13.141273,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Winner,Inter Miami,0.011099999999999999,0.1111,0.1
+2024-07-28 02:57:31.279317,Round Match-Ups - Final Round Match-Ups - J. Vegas vs M. Wallace - Final Round Match-Ups,Matt Wallace,0.01100000000000001,0.5348,0.5238
 2024-07-27 22:57:02.120738,Tennis - Paris 2024 - Women's Olympics Tennis 2024 - Gold Medal Winner,Coco Gauff,0.010899999999999993,0.1538,0.1429
 2024-07-27 14:59:14.626535,Women's - Paris 2024 - Women's Water Polo - Gold Medal Winner,Spain (W),0.010899999999999993,0.1538,0.1429
+2024-07-28 02:57:13.442847,Primera Division - Chile Primera Division 2024 - Futures - Winner,Unión Española,0.010700000000000001,0.0385,0.0278
+2024-07-28 02:57:13.141273,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Winner,Philadelphia Union,0.010700000000000001,0.0385,0.0278
 2024-07-28 00:59:13.166534,UK - 2/3 Balls - Final Round 3 Balls - J. Rahm / L. Oosthuizen / P. Casey - Final Round 3 Balls ,Louis Oosthuizen,0.010699999999999987,0.3333,0.3226
+2024-07-28 02:57:31.043989,3M Open - 2/3 Balls - Final Round 3-Balls - J. Vegas / M. Kuchar / M. McNealy - Final Round 3-Balls,Matt Kuchar,0.010699999999999987,0.3333,0.3226
 2024-07-28 00:59:12.567657,Round Match-Ups - Final Round Match-Ups - M. Meissner vs P. Rodgers - Final Round Match-Ups,Mac Meissner,0.010699999999999932,0.5455,0.5348
-2024-07-27 20:59:41.084585,Women's - Paris 2024 - Women's Team Epee - Gold Medal Winner,China (W),0.0102,0.0769,0.0667
 2024-07-28 00:58:43.585358,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,SK Brann,0.0102,0.0769,0.0667
+2024-07-27 20:59:41.084585,Women's - Paris 2024 - Women's Team Epee - Gold Medal Winner,China (W),0.0102,0.0769,0.0667
+2024-07-28 02:57:17.852574,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament MVP,Shai  Gilgeous-Alexander (CAN),0.0102,0.0769,0.0667
 2024-07-27 18:59:26.072430,Men's - Paris 2024 - Men's Beach Volleyballl - Gold Medal Winner,Krou / Gauthier-Rat (FRA),0.010100000000000001,0.0345,0.0244
+2024-07-28 02:57:31.119296,Round Match-Ups - Final Round Match-Ups - M. Meissner vs P. Rodgers - Final Round Match-Ups,Mac Meissner,0.010099999999999998,0.5556,0.5455
 2024-07-28 00:59:13.115730,UK - 2/3 Balls - Final Round 3 Balls - B. Koepka / T. Gooch / M. Wolff - Final Round 3 Balls,Matthew Wolff,-0.010099999999999998,0.3125,0.3226
 2024-07-28 00:59:13.141153,UK - 2/3 Balls - Final Round 3 Balls - J. Niemann / S. Horsfield / C. Tringale - Final Round 3 Balls ,Sam Horsfield,-0.010099999999999998,0.3125,0.3226
 2024-07-27 14:59:18.318893,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Blocks,Alex  Abrines,-0.010100000000000001,0.0244,0.0345
 2024-07-27 14:59:18.119079,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Steals,Oscar  Da Silva,-0.010100000000000001,0.0244,0.0345
 2024-07-27 14:59:18.119079,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Steals,Niels  Giffey,-0.010100000000000001,0.0244,0.0345
 2024-07-27 14:59:18.318893,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Blocks,Xabi  Lopez-Arostegui,-0.010100000000000001,0.0244,0.0345
+2024-07-28 02:57:16.693233,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Joseph Rodriguez,-0.0102,0.0667,0.0769
 2024-07-27 18:59:32.875861,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Japan Steals,Keisei Tominaga,-0.0102,0.0667,0.0769
 2024-07-27 14:59:36.536811,Sun Belt Regular Season Wins - Sun Belt Regular Season Wins - Old Dominion,Over 4.5 Wins,-0.010599999999999998,0.4545,0.4651
-2024-07-27 20:59:41.513074,Women's - Paris 2024 - Women's 52kg - Gold Medal Winner,Distria Krasniqi (KOS),-0.010899999999999993,0.1429,0.1538
+2024-07-28 02:57:13.159803,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,São Paulo,-0.010700000000000001,0.0278,0.0385
+2024-07-28 02:57:13.179270,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Athletico Paranaense,-0.010899999999999993,0.1429,0.1538
 2024-07-27 14:59:18.375378,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Steals,Rudy  Fernandez,-0.010899999999999993,0.1429,0.1538
-2024-07-28 00:58:55.386088,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,San Francisco 49ers,-0.011099999999999999,0.2667,0.2778
+2024-07-27 20:59:41.513074,Women's - Paris 2024 - Women's 52kg - Gold Medal Winner,Distria Krasniqi (KOS),-0.010899999999999993,0.1429,0.1538
 2024-07-28 00:58:55.386088,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,Dallas Cowboys,-0.011099999999999999,0.1,0.1111
-2024-07-27 14:59:14.008708,Rifle - Paris 2024 - Women's 10m Air Rifle - Gold Medal Winner,Elavenil Valarivan (IND),-0.011199999999999995,0.0476,0.0588
-2024-07-27 16:59:40.086131,Group B - Paris 2024 - Men's Basketball Group B - Winner,Brazil,-0.011199999999999995,0.0323,0.0435
-2024-07-27 16:59:33.913483,Men's - Paris 2024 - Men's Basketball - Group B Winner,Brazil,-0.011199999999999995,0.0323,0.0435
-2024-07-27 22:57:02.120738,Tennis - Paris 2024 - Women's Olympics Tennis 2024 - Gold Medal Winner,Mirra Andreeva,-0.011199999999999995,0.0476,0.0588
+2024-07-28 02:57:16.718628,Ru Paul's Drag Race - Ru Paul's Drag Race: Global All Stars - Global All Stars Outright Winner,Gala Varo,-0.011099999999999999,0.1,0.1111
+2024-07-28 02:57:30.855181,3M Open - 2/3 Balls - Final Round 3-Balls - T. Crowe / K. Bradley / R. Hoey - Final Round 3-Balls,Trace Crowe,-0.011099999999999999,0.2667,0.2778
+2024-07-28 02:57:16.718628,Ru Paul's Drag Race - Ru Paul's Drag Race: Global All Stars - Global All Stars Outright Winner,Vanity Vain,-0.011099999999999999,0.1,0.1111
+2024-07-28 02:57:14.317971,1500m Freestyle - Paris 2024 - Men's 1500m Freestyle - Gold Medal Winner,Samuel Short (AUS),-0.011099999999999999,0.1,0.1111
+2024-07-28 00:58:55.386088,NFC Championship - NFC Championship 2024/25 - NFC Champion 2024/25,San Francisco 49ers,-0.011099999999999999,0.2667,0.2778
 2024-07-27 14:59:18.012593,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Rebounds,Will  Magnay,-0.011199999999999995,0.0476,0.0588
+2024-07-27 16:59:40.086131,Group B - Paris 2024 - Men's Basketball Group B - Winner,Brazil,-0.011199999999999995,0.0323,0.0435
+2024-07-28 02:57:13.423126,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Independiente,-0.011199999999999995,0.0476,0.0588
+2024-07-28 02:57:13.578111,Manager Specials - Next Permanent England Manager - Next Permanent England Manager,Jurgen Klopp,-0.011199999999999995,0.0476,0.0588
+2024-07-27 22:57:02.120738,Tennis - Paris 2024 - Women's Olympics Tennis 2024 - Gold Medal Winner,Mirra Andreeva,-0.011199999999999995,0.0476,0.0588
+2024-07-27 16:59:33.913483,Men's - Paris 2024 - Men's Basketball - Group B Winner,Brazil,-0.011199999999999995,0.0323,0.0435
+2024-07-27 14:59:14.008708,Rifle - Paris 2024 - Women's 10m Air Rifle - Gold Medal Winner,Elavenil Valarivan (IND),-0.011199999999999995,0.0476,0.0588
+2024-07-28 02:57:31.279317,Round Match-Ups - Final Round Match-Ups - J. Vegas vs M. Wallace - Final Round Match-Ups,Jhonattan Vegas,-0.011600000000000055,0.5122,0.5238
 2024-07-27 14:59:18.337688,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Points Scorer,Xabi  Lopez-Arostegui,-0.011699999999999999,0.0079,0.0196
 2024-07-28 00:59:12.567657,Round Match-Ups - Final Round Match-Ups - M. Meissner vs P. Rodgers - Final Round Match-Ups,Patrick Rodgers,-0.012199999999999989,0.5,0.5122
+2024-07-28 02:57:31.119296,Round Match-Ups - Final Round Match-Ups - M. Meissner vs P. Rodgers - Final Round Match-Ups,Patrick Rodgers,-0.012199999999999989,0.4878,0.5
 2024-07-27 18:59:32.875861,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Japan Steals,Akira Jacobs,-0.012499999999999997,0.05,0.0625
 2024-07-27 17:00:01.842213,Senior Open Championship - Senior Open Championship - Winner,Bernhard Langer,-0.012599999999999998,0.0152,0.0278
-2024-07-27 16:59:34.346622,Women's - Paris 2024 - Women's Handball - Gold Medal Winner,Denmark (W),-0.012899999999999995,0.1538,0.1667
+2024-07-28 02:57:31.043989,3M Open - 2/3 Balls - Final Round 3-Balls - J. Vegas / M. Kuchar / M. McNealy - Final Round 3-Balls,Jhonattan Vegas,-0.012699999999999989,0.3509,0.3636
 2024-07-27 20:59:41.084585,Women's - Paris 2024 - Women's Team Epee - Gold Medal Winner,Poland (W),-0.012899999999999995,0.1538,0.1667
+2024-07-28 02:57:16.718628,Ru Paul's Drag Race - Ru Paul's Drag Race: Global All Stars - Global All Stars Outright Winner,Soa de Muse,-0.012899999999999995,0.1538,0.1667
+2024-07-28 02:57:16.693233,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Leah Peters,-0.012899999999999995,0.1538,0.1667
+2024-07-27 16:59:34.346622,Women's - Paris 2024 - Women's Handball - Gold Medal Winner,Denmark (W),-0.012899999999999995,0.1538,0.1667
+2024-07-28 02:57:16.693233,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Cam Sullivan-Brown,-0.012899999999999995,0.1538,0.1667
 2024-07-27 14:59:18.337688,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Points Scorer,Jaime  Pradilla,-0.013,0.0066,0.0196
 2024-07-27 14:59:18.337688,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Points Scorer,Alberto  Diaz,-0.013,0.0066,0.0196
 2024-07-27 18:59:26.631747,Slalom - Paris 2024 - Women's K-1 Slalom - Gold Medal Winner,Kimberley Woods (GBR),-0.0131,0.0345,0.0476
+2024-07-28 02:57:16.718628,Ru Paul's Drag Race - Ru Paul's Drag Race: Global All Stars - Global All Stars Outright Winner,Eva Le Queen,-0.013899999999999996,0.1111,0.125
+2024-07-28 02:57:16.718628,Ru Paul's Drag Race - Ru Paul's Drag Race: Global All Stars - Global All Stars Outright Winner,Kitty Scott-Claus,-0.013899999999999996,0.1111,0.125
+2024-07-28 02:57:13.179270,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Internacional,-0.013899999999999996,0.1111,0.125
+2024-07-28 02:57:13.166328,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Paulinho (Atletico MG),-0.013899999999999996,0.1111,0.125
 2024-07-27 18:59:32.917230,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Serbia Blocks,Filip  Petrusev,-0.013899999999999996,0.1111,0.125
+2024-07-28 02:57:16.718628,Ru Paul's Drag Race - Ru Paul's Drag Race: Global All Stars - Global All Stars Outright Winner,Miranda Lebrao,-0.013999999999999999,0.0769,0.0909
+2024-07-28 02:57:13.173347,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Vasco da Gama,-0.013999999999999999,0.0769,0.0909
+2024-07-28 02:57:13.179270,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Flamengo,-0.014000000000000012,0.9091,0.9231
 2024-07-27 18:59:26.672546,Slalom - Paris 2024 - Men's C-1 Slalom - Gold Medal Winner,Raffaelo Ivaldi (ITA),-0.014099999999999994,0.0526,0.0667
-2024-07-27 14:59:18.337688,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Points Scorer,Sergio  Llull,-0.014099999999999994,0.0526,0.0667
 2024-07-27 18:59:26.083770,Mountain Bike - Paris 2024 - Women's Cross Country - Gold Medal Winner,Alessandra Keller (SUI),-0.014099999999999994,0.0526,0.0667
+2024-07-27 14:59:18.337688,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Points Scorer,Sergio  Llull,-0.014099999999999994,0.0526,0.0667
+2024-07-27 14:59:18.050069,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Assists,Johannes  Voigtmann,-0.014099999999999998,0.0244,0.0385
 2024-07-27 14:59:17.993946,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Points Scorer,Josh  Green,-0.014099999999999998,0.0294,0.0435
 2024-07-27 14:59:18.087816,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Points Scorer,Johannes  Thiemann,-0.014099999999999998,0.0294,0.0435
-2024-07-27 14:59:18.050069,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Assists,Johannes  Voigtmann,-0.014099999999999998,0.0244,0.0385
-2024-07-27 18:59:33.121741,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Blocks,Derrick  White,-0.014100000000000001,0.0385,0.0526
-2024-07-27 14:59:14.626535,Women's - Paris 2024 - Women's Water Polo - Gold Medal Winner,Australia (W),-0.014100000000000001,0.0385,0.0526
 2024-07-27 14:59:18.318893,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Blocks,Lorenzo  Brown,-0.014100000000000001,0.0385,0.0526
-2024-07-27 16:59:36.372944,Tennis - Paris 2024 - Men's Olympics Tennis 2024 - Gold Medal Winner,Alex de Minaur,-0.014499999999999999,0.0149,0.0294
+2024-07-27 14:59:14.626535,Women's - Paris 2024 - Women's Water Polo - Gold Medal Winner,Australia (W),-0.014100000000000001,0.0385,0.0526
+2024-07-28 02:57:13.134671,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Nationality of Winner,Canada,-0.014100000000000001,0.0385,0.0526
+2024-07-27 18:59:33.121741,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Blocks,Derrick  White,-0.014100000000000001,0.0385,0.0526
+2024-07-28 02:57:16.718628,Ru Paul's Drag Race - Ru Paul's Drag Race: Global All Stars - Global All Stars Outright Winner,Pythia,-0.014399999999999996,0.0625,0.0769
+2024-07-28 02:57:16.718628,Ru Paul's Drag Race - Ru Paul's Drag Race: Global All Stars - Global All Stars Outright Winner,Athena Likis,-0.014399999999999996,0.0625,0.0769
 2024-07-27 14:59:18.087816,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Points Scorer,Oscar  Da Silva,-0.014499999999999999,0.0149,0.0294
+2024-07-27 16:59:36.372944,Tennis - Paris 2024 - Men's Olympics Tennis 2024 - Gold Medal Winner,Alex de Minaur,-0.014499999999999999,0.0149,0.0294
 2024-07-27 16:59:34.374686,Men's - Paris 2024 - Men's Handball - Group B Winner,Hungary (HUN),-0.0145,0.0099,0.0244
 2024-07-27 14:59:17.956530,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Assists,Jack  McVeigh,-0.014599999999999998,0.005,0.0196
+2024-07-28 02:57:13.185122,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Botafogo,-0.014900000000000024,0.9375,0.9524
+2024-07-28 02:57:13.185122,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Palmeiras,-0.014900000000000024,0.9375,0.9524
 2024-07-28 00:59:13.242679,UK - 2/3 Balls - Final Round 3 Balls - T. Hatton / C. Smith / A. Ogletree - Final Round 3 Balls,Andy Ogletree,-0.015100000000000002,0.1667,0.1818
 2024-07-28 00:58:55.310110,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Kansas City Chiefs,-0.015100000000000002,0.1667,0.1818
 2024-07-27 17:00:01.842213,Senior Open Championship - Senior Open Championship - Winner,Steven Alker,-0.015300000000000001,0.0435,0.0588
+2024-07-28 02:57:15.539125,Men's - Paris 2024 - Men's Street Skateboarding - Gold Medal Winner,Aurelien Giraud (FRA),-0.015700000000000006,0.1176,0.1333
 2024-07-27 18:59:33.182900,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Steals,Derrick  White,-0.016600000000000004,0.0667,0.0833
-2024-07-27 14:59:13.131374,Women's - Paris 2024 - Women's Field Hockey - Gold Medal Winner,Belgium (W),-0.016600000000000004,0.0667,0.0833
 2024-07-27 14:59:18.050069,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Assists,Maodo  Lo,-0.016600000000000004,0.0667,0.0833
-2024-07-27 18:59:32.895341,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Serbia Assists,Vasilije  Micic,-0.016699999999999993,0.4,0.4167
-2024-07-28 00:58:55.336297,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Kansas City Chiefs,-0.016699999999999993,0.25,0.2667
+2024-07-27 14:59:13.131374,Women's - Paris 2024 - Women's Field Hockey - Gold Medal Winner,Belgium (W),-0.016600000000000004,0.0667,0.0833
 2024-07-27 14:59:17.956530,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Assists,Dante  Exum,-0.016699999999999993,0.05,0.0667
-2024-07-27 16:59:35.246433,Men's - Paris 2024 - Men's Park - Gold Medal Winner,Keegan Palmer (AUS),-0.016699999999999993,0.25,0.2667
+2024-07-28 00:58:55.336297,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Kansas City Chiefs,-0.016699999999999993,0.25,0.2667
 2024-07-27 18:59:26.083770,Mountain Bike - Paris 2024 - Women's Cross Country - Gold Medal Winner,Puck Pieterse (NED),-0.016699999999999993,0.25,0.2667
+2024-07-27 18:59:32.895341,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Serbia Assists,Vasilije  Micic,-0.016699999999999993,0.4,0.4167
+2024-07-27 16:59:35.246433,Men's - Paris 2024 - Men's Park - Gold Medal Winner,Keegan Palmer (AUS),-0.016699999999999993,0.25,0.2667
 2024-07-27 20:59:41.751627,Double Sculls - Paris 2024 - Men's Double Sculls - Gold Medal Winner,Romania,-0.01759999999999999,0.1,0.1176
 2024-07-27 20:59:41.680664,Single Sculls - Paris 2024 - Women's Single Sculls - Gold Medal Winner,Jovana Arsic (SRB),-0.017800000000000003,0.0066,0.0244
 2024-07-27 18:59:33.163068,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Rebounds,Bam  Adebayo,-0.0179,0.125,0.1429
 2024-07-27 20:59:41.392057,Men's - Paris 2024 - Men's 66kg - Gold Medal Winner,Battogtokhyn Erkhembayar (MGL),-0.018099999999999998,0.0588,0.0769
 2024-07-27 14:59:17.993946,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Points Scorer,Matthew  Dellavedova,-0.018200000000000004,0.0294,0.0476
-2024-07-27 18:59:33.163068,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Rebounds,Joel  Embiid,-0.01820000000000002,0.1818,0.2
 2024-07-27 14:59:13.142650,Men's - Paris 2024 - Men's Field Hockey - Gold Medal Winner,Australia (AUS),-0.01820000000000002,0.1818,0.2
+2024-07-28 02:57:13.185122,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,RB Bragantino,-0.01820000000000002,0.1818,0.2
+2024-07-27 18:59:33.163068,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Rebounds,Joel  Embiid,-0.01820000000000002,0.1818,0.2
 2024-07-28 00:58:43.549108,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Midtjylland,-0.01820000000000002,0.1818,0.2
 2024-07-27 17:00:01.842213,Senior Open Championship - Senior Open Championship - Winner,Thomas Bjorn,-0.0187,0.0057,0.0244
 2024-07-27 22:57:00.806814,Women's - Paris 2024 - Women's Handball - Group B Winner,Hungary (W),-0.0189,0.0196,0.0385
+2024-07-28 02:57:13.442847,Primera Division - Chile Primera Division 2024 - Futures - Winner,Universidad de Chile,-0.018900000000000028,0.4255,0.4444
+2024-07-28 02:57:31.163069,Round Match-Ups - Final Round Match-Ups - K. Kraft vs S. Power - Final Round Match-Ups,Kelly Kraft,-0.018900000000000028,0.4255,0.4444
 2024-07-28 00:59:13.166534,UK - 2/3 Balls - Final Round 3 Balls - J. Rahm / L. Oosthuizen / P. Casey - Final Round 3 Balls ,Paul Casey,-0.019000000000000017,0.2667,0.2857
 2024-07-27 14:59:18.119079,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Steals,Maodo  Lo,-0.019099999999999992,0.0476,0.0667
 2024-07-27 14:59:18.087816,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Points Scorer,Moritz  Wagner,-0.019099999999999992,0.0476,0.0667
 2024-07-28 00:58:43.613398,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Sandvikens IF,-0.019099999999999992,0.0476,0.0667
-2024-07-27 16:59:33.895824,Men's - Paris 2024 - Men's Basketball - Gold Medal Winner,Greece,-0.019099999999999995,0.0244,0.0435
-2024-07-27 14:59:17.993946,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Points Scorer,Joe  Ingles,-0.019099999999999995,0.0244,0.0435
 2024-07-27 16:59:39.095651,Tournament Futures - Paris 2024 - Men's Basketball - Gold Medal Winner,Greece,-0.019099999999999995,0.0244,0.0435
+2024-07-27 14:59:17.993946,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Points Scorer,Joe  Ingles,-0.019099999999999995,0.0244,0.0435
 2024-07-27 14:59:18.087816,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Points Scorer,Johannes  Voigtmann,-0.019099999999999995,0.0244,0.0435
+2024-07-27 16:59:33.895824,Men's - Paris 2024 - Men's Basketball - Gold Medal Winner,Greece,-0.019099999999999995,0.0244,0.0435
+2024-07-28 02:57:14.243842,100m Butterfly - Paris 2024 - Women's 100m Butterfly - Gold Medal Winner,Zhang Yufei (CHN),-0.01949999999999999,0.0714,0.0909
 2024-07-27 16:59:34.374686,Men's - Paris 2024 - Men's Handball - Group B Winner,Norway (NOR),-0.01949999999999999,0.0714,0.0909
 2024-07-27 14:59:18.106544,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Rebounds,Dennis  Schroder,-0.019499999999999997,0.0099,0.0294
 2024-07-27 14:59:12.777420,100m Breaststroke - Paris 2024 - Men's 100m Breaststroke - Gold Medal Winner,Melvin Imoudu (GER),-0.019499999999999997,0.0099,0.0294
@@ -248,25 +325,38 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-27 18:59:32.875861,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Japan Steals,Yuta  Watanabe,-0.02020000000000001,0.0909,0.1111
 2024-07-27 18:59:32.875861,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Japan Steals,Yuki Togashi,-0.02020000000000001,0.0909,0.1111
 2024-07-27 14:59:17.975263,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Blocks,Nick  Kay,-0.02020000000000001,0.0909,0.1111
-2024-07-27 14:59:18.375378,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Steals,Xabi  Lopez-Arostegui,-0.0203,0.0385,0.0588
+2024-07-28 02:57:19.696098,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,-0.02020000000000005,0.3077,0.3279
+2024-07-28 02:57:19.602440,Donald Trump Specials - Will Joe Biden pardon Donald Trump? - Will Joe Biden pardon Donald Trump?,Joe Biden NOT to pardon Donald Trump before the 2024 election,-0.020299999999999985,0.9412,0.9615
 2024-07-27 18:59:26.072430,Men's - Paris 2024 - Men's Beach Volleyballl - Gold Medal Winner,Benesh / Partain (USA),-0.0203,0.0385,0.0588
+2024-07-27 14:59:18.375378,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Steals,Xabi  Lopez-Arostegui,-0.0203,0.0385,0.0588
 2024-07-27 16:59:35.210271,Men's - Paris 2024 - Men's Street Skateboarding - Gold Medal Winner,Aurelien Giraud (FRA),-0.02049999999999999,0.1333,0.1538
 2024-07-27 16:59:35.246433,Men's - Paris 2024 - Men's Park - Gold Medal Winner,Gavin Bottger (USA),-0.02049999999999999,0.1333,0.1538
+2024-07-28 02:57:13.185122,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Internacional,-0.021999999999999964,0.2857,0.3077
+2024-07-28 02:57:13.578111,Manager Specials - Next Permanent England Manager - Next Permanent England Manager,Eddie Howe,-0.022199999999999998,0.2,0.2222
+2024-07-28 02:57:30.797001,3M Open - 2/3 Balls - Final Round 3-Balls - D. Skinns / R. Shelton / C. Gotterup - Final Round 3-Balls,Chris Gotterup,-0.02260000000000001,0.3774,0.4
 2024-07-27 14:59:28.871661,Wide Receivers - NFL 2024-25 Receiving TD's - D.K. Metcalf Regular Season Total Receiving TDs 2024-25,Under 6.5 TD's,-0.022600000000000064,0.5122,0.5348
-2024-07-27 18:59:33.163068,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Rebounds,Kevin  Durant,-0.02310000000000001,0.0769,0.1
+2024-07-28 02:57:31.250190,Round Match-Ups - Final Round Match-Ups - K.H. Lee vs M. NeSmith - Final Round Match-Ups,K H Lee,-0.022600000000000064,0.5122,0.5348
+2024-07-28 02:57:13.578111,Manager Specials - Next Permanent England Manager - Next Permanent England Manager,Mauricio Pochettino,-0.02310000000000001,0.0769,0.1
 2024-07-27 14:59:18.119079,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Steals,Johannes  Thiemann,-0.02310000000000001,0.0769,0.1
+2024-07-27 18:59:33.163068,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Rebounds,Kevin  Durant,-0.02310000000000001,0.0769,0.1
 2024-07-27 14:59:13.605552,Men's - Paris 2024 - Men's Handball - Gold Medal Winner,Croatia (CRO),-0.0232,0.0435,0.0667
 2024-07-27 14:59:17.956530,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Assists,Matthew  Dellavedova,-0.0232,0.0435,0.0667
+2024-07-28 02:57:14.383284,800m Freestyle - Paris 2024 - Women's 800m Freestyle - Gold Medal Winner,Li Bingjie (CHN),-0.0232,0.0435,0.0667
+2024-07-28 02:57:14.383284,800m Freestyle - Paris 2024 - Women's 800m Freestyle - Gold Medal Winner,Isabel Gose (GER),-0.023200000000000002,0.0244,0.0476
 2024-07-27 14:59:18.087816,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Points Scorer,Andreas  Obst,-0.023200000000000002,0.0294,0.0526
 2024-07-27 14:59:18.087816,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Points Scorer,Maodo  Lo,-0.023200000000000002,0.0294,0.0526
 2024-07-27 22:57:26.558071,CP Women's Open - CP Women's Open - Winner,Ariya Jutanugarn,-0.0234,0.001,0.0244
-2024-07-27 14:59:18.012593,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Rebounds,Joe  Ingles,-0.0236,0.0149,0.0385
 2024-07-27 14:59:18.106544,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Rebounds,Oscar  Da Silva,-0.0236,0.0149,0.0385
+2024-07-27 14:59:18.012593,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Rebounds,Joe  Ingles,-0.0236,0.0149,0.0385
+2024-07-28 02:57:15.515876,Women's - Paris 2024 - Women's Street Skateboarding - Gold Medal Winner,Coco Yoshizawa (JPN),-0.023799999999999988,0.1429,0.1667
+2024-07-28 02:57:31.206661,Round Match-Ups - Final Round Match-Ups - T. Moore vs J. Suh - Final Round Match-Ups,Justin Suh,-0.023799999999999988,0.4762,0.5
 2024-07-27 14:59:18.031334,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Steals,Josh  Giddey,-0.023799999999999988,0.1429,0.1667
+2024-07-28 02:57:31.133911,Round Match-Ups - Final Round Match-Ups - M. Hughes vs E. Grillo - Final Round Match-Ups,Emiliano Grillo,-0.023800000000000043,0.5,0.5238
+2024-07-28 02:57:13.442847,Primera Division - Chile Primera Division 2024 - Futures - Winner,Coquimbo Unido,-0.0242,0.0667,0.0909
 2024-07-27 20:59:41.392057,Men's - Paris 2024 - Men's 66kg - Gold Medal Winner,Vazha Margvelashvili (GEO),-0.0242,0.0667,0.0909
 2024-07-27 18:59:33.182900,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Steals,Jayson  Tatum,-0.0242,0.0667,0.0909
-2024-07-27 18:59:26.631747,Slalom - Paris 2024 - Women's K-1 Slalom - Gold Medal Winner,Eliska Mintalova (SVK),-0.024299999999999995,0.0526,0.0769
 2024-07-27 14:59:18.119079,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Steals,Andreas  Obst,-0.024299999999999995,0.0345,0.0588
+2024-07-27 18:59:26.631747,Slalom - Paris 2024 - Women's K-1 Slalom - Gold Medal Winner,Eliska Mintalova (SVK),-0.024299999999999995,0.0526,0.0769
 2024-07-27 18:59:26.672546,Slalom - Paris 2024 - Men's C-1 Slalom - Gold Medal Winner,Miguel Trave (ESP),-0.024299999999999995,0.0526,0.0769
 2024-07-27 14:59:18.106544,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Rebounds,Nick  Weiler-Babb,-0.024399999999999998,0.005,0.0294
 2024-07-27 14:59:17.975263,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Blocks,Josh  Giddey,-0.024999999999999994,0.1,0.125
@@ -274,46 +364,52 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-27 14:59:18.119079,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Steals,Dennis  Schroder,-0.02560000000000001,0.3077,0.3333
 2024-07-27 14:59:18.356593,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Rebounds,Jaime  Pradilla,-0.0262,0.0123,0.0385
 2024-07-27 14:59:12.777420,100m Breaststroke - Paris 2024 - Men's 100m Breaststroke - Gold Medal Winner,Nic Fink (USA),-0.027700000000000002,0.0556,0.0833
-2024-07-27 20:59:42.312708,Pistol - Paris 2024 - Women's 10m Air Pistol - Gold Medal Winner,Kim Ye-ji (KOR),-0.027999999999999997,0.1538,0.1818
 2024-07-27 20:59:41.183381,Men's - Paris 2024 - Men's Team Sabre - Gold Medal Winner,France,-0.027999999999999997,0.1538,0.1818
+2024-07-28 02:57:14.243842,100m Butterfly - Paris 2024 - Women's 100m Butterfly - Gold Medal Winner,Torri Huske (USA),-0.027999999999999997,0.1538,0.1818
+2024-07-27 20:59:42.312708,Pistol - Paris 2024 - Women's 10m Air Pistol - Gold Medal Winner,Kim Ye-ji (KOR),-0.027999999999999997,0.1538,0.1818
 2024-07-27 16:59:34.366477,Men's - Paris 2024 - Men's Handball - Group A Winner,Slovenia (SLO),-0.028000000000000004,0.0196,0.0476
-2024-07-27 18:59:26.631747,Slalom - Paris 2024 - Women's K-1 Slalom - Gold Medal Winner,Maialen Chourraut (ESP),-0.028199999999999996,0.0385,0.0667
 2024-07-27 14:59:18.375378,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Steals,Alex  Abrines,-0.028199999999999996,0.0385,0.0667
+2024-07-27 18:59:26.631747,Slalom - Paris 2024 - Women's K-1 Slalom - Gold Medal Winner,Maialen Chourraut (ESP),-0.028199999999999996,0.0385,0.0667
 2024-07-27 14:59:18.031334,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Steals,Duop  Reath,-0.0282,0.0244,0.0526
 2024-07-27 18:59:33.182900,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Steals,Tyrese  Haliburton,-0.028799999999999992,0.125,0.1538
 2024-07-27 20:59:41.513074,Women's - Paris 2024 - Women's 52kg - Gold Medal Winner,Uta Abe (JPN),-0.029299999999999993,0.8182,0.8475
 2024-07-27 18:59:26.631747,Slalom - Paris 2024 - Women's K-1 Slalom - Gold Medal Winner,Stefanie Horn (ITA),-0.029299999999999993,0.0476,0.0769
 2024-07-27 14:59:14.626535,Women's - Paris 2024 - Women's Water Polo - Gold Medal Winner,Greece (W),-0.0294,0.0294,0.0588
-2024-07-27 14:59:18.318893,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Blocks,Rudy  Fernandez,-0.0294,0.0294,0.0588
 2024-07-27 14:59:18.012593,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Rebounds,Josh  Green,-0.0294,0.0294,0.0588
+2024-07-27 14:59:18.318893,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Blocks,Rudy  Fernandez,-0.0294,0.0294,0.0588
+2024-07-28 02:57:13.179270,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,São Paulo,-0.030299999999999994,0.3333,0.3636
 2024-07-27 14:59:28.832243,Wide Receivers - NFL 2024-25 Receiving TD's - Cooper Kupp Regular Season Total Receiving TDs 2024-25,Under 6.5 TD's,-0.030399999999999983,0.5348,0.5652
-2024-07-27 18:59:33.182900,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Steals,Devin  Booker,-0.030699999999999998,0.0526,0.0833
 2024-07-27 18:59:33.182900,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Steals,Kevin  Durant,-0.030699999999999998,0.0526,0.0833
+2024-07-27 18:59:33.182900,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Steals,Devin  Booker,-0.030699999999999998,0.0526,0.0833
 2024-07-27 14:59:12.777420,100m Breaststroke - Paris 2024 - Men's 100m Breaststroke - Gold Medal Winner,Casper Corbeau (NED),-0.031,0.0278,0.0588
-2024-07-27 14:59:18.337688,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Points Scorer,Usman  Garuba,-0.0312,0.0123,0.0435
 2024-07-27 14:59:18.337688,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Points Scorer,Rudy  Fernandez,-0.0312,0.0123,0.0435
+2024-07-27 14:59:18.337688,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Points Scorer,Usman  Garuba,-0.0312,0.0123,0.0435
 2024-07-27 14:59:18.031334,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Steals,Matthew  Dellavedova,-0.0314,0.0455,0.0769
 2024-07-27 18:59:26.631747,Slalom - Paris 2024 - Women's K-1 Slalom - Gold Medal Winner,Jessica Fox (AUS),-0.03169999999999995,0.5744,0.6061
 2024-07-27 18:59:33.102244,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Assists,Tyrese  Haliburton,-0.031799999999999995,0.1111,0.1429
 2024-07-27 18:59:25.287500,Most Medals - Paris 2024 - Most Gold Medals - Outright,USA,-0.03180000000000005,0.8571,0.8889
-2024-07-27 14:59:17.956530,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Assists,Joe  Ingles,-0.03219999999999999,0.0345,0.0667
 2024-07-27 14:59:18.300056,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Assists,Dario  Brizuela,-0.03219999999999999,0.0345,0.0667
+2024-07-27 14:59:17.956530,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Assists,Joe  Ingles,-0.03219999999999999,0.0345,0.0667
 2024-07-27 17:00:01.842213,Senior Open Championship - Senior Open Championship - Winner,Peter Baker,-0.0325,0.002,0.0345
+2024-07-28 02:57:13.179270,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Bahia,-0.03259999999999999,0.2,0.2326
 2024-07-28 00:59:13.217274,UK - 2/3 Balls - Final Round 3 Balls - S. Munoz / P. Uihlein / S. Vincent - Final Round 3 Balls,Peter Uihlein,-0.03260000000000002,0.3448,0.3774
 2024-07-27 14:59:18.337688,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Points Scorer,Alex  Abrines,-0.03270000000000001,0.0149,0.0476
 2024-07-27 20:59:41.392057,Men's - Paris 2024 - Men's 66kg - Gold Medal Winner,Walide Khyar (FRA),-0.033,0.0196,0.0526
 2024-07-27 22:57:00.798714,Women's - Paris 2024 - Women's Handball - Group A Winner,Germany (W),-0.033100000000000004,0.0294,0.0625
 2024-07-27 14:59:14.626535,Women's - Paris 2024 - Women's Water Polo - Gold Medal Winner,Hungary (W),-0.03330000000000001,0.0667,0.1
-2024-07-27 14:59:18.318893,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Blocks,Willy  Hernangomez,-0.033300000000000024,0.1667,0.2
 2024-07-27 20:59:42.269407,Pistol - Paris 2024 - Men's 10m Air Pistol - Gold Medal Winner,Robin Walter (GER),-0.033300000000000024,0.1667,0.2
+2024-07-27 14:59:18.318893,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Blocks,Willy  Hernangomez,-0.033300000000000024,0.1667,0.2
 2024-07-27 14:59:14.626535,Women's - Paris 2024 - Women's Water Polo - Gold Medal Winner,Netherlands (W),-0.033399999999999985,0.1333,0.1667
 2024-07-27 22:57:00.806814,Women's - Paris 2024 - Women's Handball - Group B Winner,Spain (W),-0.0336,0.0099,0.0435
 2024-07-27 14:59:17.993946,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Points Scorer,Josh  Giddey,-0.03370000000000001,0.3509,0.3846
 2024-07-27 14:59:18.012593,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Rebounds,Dante  Exum,-0.0344,0.0244,0.0588
+2024-07-28 02:57:14.291876,100m Breaststroke - Paris 2024 - Men's 100m Breaststroke - Gold Medal Winner,Qin Haiyang (CHN),-0.03510000000000002,0.3571,0.3922
+2024-07-28 02:57:13.159803,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Botafogo,-0.03570000000000001,0.25,0.2857
+2024-07-28 02:57:13.159803,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Palmeiras,-0.03570000000000001,0.25,0.2857
 2024-07-27 14:59:23.491963,Starting QB Specials - 2024-25 Minnesota Vikings Week 1 Starting QB - 2024-25 Minnesota Vikings Week 1 Starting QB,J.J. McCarthy,-0.03570000000000001,0.25,0.2857
 2024-07-28 00:59:13.141153,UK - 2/3 Balls - Final Round 3 Balls - J. Niemann / S. Horsfield / C. Tringale - Final Round 3 Balls ,Cameron Tringale,-0.03689999999999999,0.2857,0.3226
-2024-07-27 14:59:18.012593,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Rebounds,Patty  Mills,-0.036899999999999995,0.04,0.0769
 2024-07-27 17:00:01.842213,Senior Open Championship - Senior Open Championship - Winner,Darren Clarke,-0.036899999999999995,0.0066,0.0435
+2024-07-27 14:59:18.012593,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Rebounds,Patty  Mills,-0.036899999999999995,0.04,0.0769
 2024-07-27 14:59:12.777420,100m Breaststroke - Paris 2024 - Men's 100m Breaststroke - Gold Medal Winner,Nicolo Martinenghi (ITA),-0.037099999999999994,0.0217,0.0588
 2024-07-27 14:59:18.050069,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Assists,Franz  Wagner,-0.0373,0.0294,0.0667
 2024-07-27 22:57:26.558071,CP Women's Open - CP Women's Open - Winner,Hye Jin Choi,-0.0375,0.001,0.0385
@@ -322,8 +418,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-27 14:59:17.993946,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Points Scorer,Duop  Reath,-0.037700000000000004,0.0099,0.0476
 2024-07-27 22:56:59.885541,200m Freestyle - Paris 2024 - Women's 200m Freestyle - Gold Medal Winner,Mollie O'Callaghan (AUS),-0.0378,0.4167,0.4545
 2024-07-27 14:59:18.031334,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Steals,Joe  Ingles,-0.0378,0.0455,0.0833
-2024-07-27 18:59:33.182900,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Steals,Bam  Adebayo,-0.038299999999999994,0.0526,0.0909
 2024-07-27 18:59:33.182900,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Steals,Joel  Embiid,-0.038299999999999994,0.0526,0.0909
+2024-07-27 18:59:33.182900,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Steals,Bam  Adebayo,-0.038299999999999994,0.0526,0.0909
 2024-07-27 20:59:41.392057,Men's - Paris 2024 - Men's 66kg - Gold Medal Winner,Denis Vieru (MDA),-0.0384,0.0385,0.0769
 2024-07-27 18:59:33.102244,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Assists,Jrue  Holiday,-0.03889999999999999,0.1429,0.1818
 2024-07-27 16:59:35.210271,Men's - Paris 2024 - Men's Street Skateboarding - Gold Medal Winner,Ginwoo Onodera (JPN),-0.03889999999999999,0.1429,0.1818
@@ -333,8 +429,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-27 16:59:33.913483,Men's - Paris 2024 - Men's Basketball - Group B Winner,France,-0.03920000000000001,0.6667,0.7059
 2024-07-27 14:59:18.087816,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Points Scorer,Daniel  Theis,-0.0398,0.0435,0.0833
 2024-07-27 22:57:26.558071,CP Women's Open - CP Women's Open - Winner,Jennifer Kupcho,-0.0409,0.0179,0.0588
-2024-07-27 14:59:18.031334,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Steals,Josh  Green,-0.04240000000000001,0.0909,0.1333
+2024-07-28 02:57:19.806687,US Senate Elections 2024 - Senate Election Winner - Montana - Winner,Democrat,-0.04139999999999999,0.4348,0.4762
 2024-07-27 14:59:18.031334,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Steals,Dante  Exum,-0.04240000000000001,0.0909,0.1333
+2024-07-27 14:59:18.031334,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Steals,Josh  Green,-0.04240000000000001,0.0909,0.1333
+2024-07-28 02:57:14.317971,1500m Freestyle - Paris 2024 - Men's 1500m Freestyle - Gold Medal Winner,Gregorio Paltrinieri (ITA),-0.04269999999999999,0.1111,0.1538
 2024-07-27 18:59:32.875861,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Japan Steals,Rui  Hachimura,-0.04269999999999999,0.1111,0.1538
 2024-07-27 20:59:42.356159,Pistol - Paris 2024 - Mixed Team 10m Air Pistol - Gold Medal Winner,China (CHN),-0.04290000000000005,0.6,0.6429
 2024-07-27 14:59:21.247503,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Andy Beshear,-0.04329999999999999,0.0476,0.0909
@@ -353,41 +451,49 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-27 14:59:13.605552,Men's - Paris 2024 - Men's Handball - Gold Medal Winner,Sweden (SWE),-0.052000000000000005,0.0909,0.1429
 2024-07-27 14:59:17.993946,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Points Scorer,Dante  Exum,-0.0539,0.0294,0.0833
 2024-07-27 20:59:41.703579,Single Sculls - Paris 2024 - Men's Single Sculls - Gold Medal Winner,Simon van Dorp (NED),-0.05449999999999999,0.4,0.4545
-2024-07-27 16:59:35.226438,Men's - Paris 2024 - Men's Street Skateboarding - To Win a Medal,Ginwoo Onodera (JPN),-0.05559999999999998,0.5,0.5556
 2024-07-27 16:59:34.366477,Men's - Paris 2024 - Men's Handball - Group A Winner,Croatia (CRO),-0.05559999999999998,0.1111,0.1667
+2024-07-27 16:59:35.226438,Men's - Paris 2024 - Men's Street Skateboarding - To Win a Medal,Ginwoo Onodera (JPN),-0.05559999999999998,0.5,0.5556
 2024-07-27 22:57:26.558071,CP Women's Open - CP Women's Open - Winner,Ally Ewing,-0.0566,0.0022,0.0588
-2024-07-27 20:59:41.084585,Women's - Paris 2024 - Women's Team Epee - Gold Medal Winner,France (W),-0.05710000000000001,0.1429,0.2
 2024-07-27 14:59:18.106544,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Rebounds,Moritz  Wagner,-0.05710000000000001,0.1429,0.2
+2024-07-27 20:59:41.084585,Women's - Paris 2024 - Women's Team Epee - Gold Medal Winner,France (W),-0.05710000000000001,0.1429,0.2
 2024-07-27 14:59:18.375378,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Steals,Jaime  Pradilla,-0.058899999999999994,0.0244,0.0833
 2024-07-27 14:59:18.119079,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Steals,Johannes  Voigtmann,-0.060000000000000005,0.04,0.1
 2024-07-27 14:59:18.356593,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Rebounds,Juancho  Hernangomez,-0.066,0.0769,0.1429
 2024-07-27 14:59:17.956530,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Assists,Patty  Mills,-0.06669999999999998,0.1,0.1667
-2024-07-27 14:59:13.605552,Men's - Paris 2024 - Men's Handball - Gold Medal Winner,France (FRA),-0.06670000000000004,0.3333,0.4
 2024-07-27 14:59:18.068927,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Blocks,Daniel  Theis,-0.06670000000000004,0.3333,0.4
+2024-07-27 14:59:13.605552,Men's - Paris 2024 - Men's Handball - Gold Medal Winner,France (FRA),-0.06670000000000004,0.3333,0.4
 2024-07-27 14:59:18.337688,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Points Scorer,Juancho  Hernangomez,-0.0684,0.0149,0.0833
 2024-07-27 14:59:18.375378,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Steals,Usman  Garuba,-0.06840000000000002,0.1538,0.2222
 2024-07-27 20:59:41.392057,Men's - Paris 2024 - Men's 66kg - Gold Medal Winner,Hifume Abi (JPN),-0.0696,0.8,0.8696
 2024-07-27 14:59:18.318893,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Blocks,Jaime  Pradilla,-0.07060000000000001,0.0294,0.1
+2024-07-28 02:57:14.243842,100m Butterfly - Paris 2024 - Women's 100m Butterfly - Gold Medal Winner,Mizuki Hirai (JPN),-0.0713,0.0196,0.0909
+2024-07-28 02:57:13.185122,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Bahia,-0.07450000000000001,0.4255,0.5
 2024-07-27 14:59:18.337688,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Points Scorer,Dario  Brizuela,-0.076,0.0149,0.0909
 2024-07-27 16:59:34.366477,Men's - Paris 2024 - Men's Handball - Group A Winner,Sweden (SWE),-0.07619999999999999,0.4,0.4762
+2024-07-28 02:57:13.173347,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Vitória BA,-0.08330000000000004,0.6667,0.75
 2024-07-27 18:59:26.650340,Slalom - Paris 2024 - Women's C-1 Slalom - Gold Medal Winner,Mallory Franklin (GBR),-0.0849,0.1818,0.2667
+2024-07-28 02:57:13.134671,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Nationality of Winner,USA,-0.08490000000000009,0.7333,0.8182
 2024-07-27 14:59:18.012593,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Rebounds,Duop  Reath,-0.0867,0.0244,0.1111
 2024-07-27 14:59:18.375378,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Steals,Lorenzo  Brown,-0.0909,0.0909,0.1818
 2024-07-27 18:59:26.672546,Slalom - Paris 2024 - Men's C-1 Slalom - Gold Medal Winner,Lukas Rohan (CZE),-0.095,0.0588,0.1538
+2024-07-28 02:57:13.179270,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Botafogo,-0.09750000000000003,0.75,0.8475
+2024-07-28 02:57:13.185122,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,São Paulo,-0.10209999999999997,0.5348,0.6369
 2024-07-27 14:59:18.375378,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Steals,Dario  Brizuela,-0.10439999999999999,0.0385,0.1429
 2024-07-27 14:59:18.119079,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Steals,Franz  Wagner,-0.1094,0.1538,0.2632
 2024-07-27 22:57:26.558071,CP Women's Open - CP Women's Open - Winner,Lilia Vu,-0.1098,0.0152,0.125
 2024-07-27 14:59:18.318893,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Blocks,Usman  Garuba,-0.11109999999999998,0.2222,0.3333
-2024-07-27 14:59:23.515180,Starting QB Specials - 2024-25 New England Patriots Week 1 Starting QB - 2024-25 New England Patriots Week 1 Starting QB,Drake Maye,-0.11900000000000002,0.1667,0.2857
+2024-07-28 02:57:13.179270,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Palmeiras,-0.11209999999999998,0.75,0.8621
 2024-07-27 14:59:17.975263,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Blocks,Duop  Reath,-0.11900000000000002,0.1667,0.2857
+2024-07-27 14:59:23.515180,Starting QB Specials - 2024-25 New England Patriots Week 1 Starting QB - 2024-25 New England Patriots Week 1 Starting QB,Drake Maye,-0.11900000000000002,0.1667,0.2857
 2024-07-27 14:59:18.375378,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Steals,Alberto  Diaz,-0.11909999999999998,0.0476,0.1667
 2024-07-27 17:00:01.842213,Senior Open Championship - Senior Open Championship - Winner,Stephen Ames,-0.12319999999999999,0.0435,0.1667
 2024-07-27 20:59:41.751627,Double Sculls - Paris 2024 - Men's Double Sculls - Gold Medal Winner,Croatia,-0.1349,0.1429,0.2778
+2024-07-28 02:57:13.173347,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Criciúma SC,-0.13640000000000002,0.3636,0.5
 2024-07-27 14:59:18.087816,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Points Scorer,Dennis  Schroder,-0.14200000000000002,0.3125,0.4545
 2024-07-27 22:57:26.558071,CP Women's Open - CP Women's Open - Winner,Hannah Green,-0.1439,0.0099,0.1538
 2024-07-27 14:59:18.337688,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Points Scorer,Lorenzo  Brown,-0.148,0.0625,0.2105
-2024-07-27 16:59:33.905213,Men's - Paris 2024 - Men's Basketball - Group A Winner,Greece,-0.1524,0.0476,0.2
 2024-07-27 16:59:40.061111,Group A - Paris 2024 - Men's Basketball Group A - Winner,Greece,-0.1524,0.0476,0.2
+2024-07-27 16:59:33.905213,Men's - Paris 2024 - Men's Basketball - Group A Winner,Greece,-0.1524,0.0476,0.2
 2024-07-27 18:59:26.672546,Slalom - Paris 2024 - Men's C-1 Slalom - Gold Medal Winner,Benjamin Savsek (SLO),-0.16359999999999997,0.2,0.3636
 2024-07-27 17:00:01.842213,Senior Open Championship - Senior Open Championship - Winner,Padraig Harrington,-0.25639999999999996,0.0769,0.3333
 2024-07-27 22:57:00.798714,Women's - Paris 2024 - Women's Handball - Group A Winner,Norway (W),-0.2571,0.4444,0.7015
