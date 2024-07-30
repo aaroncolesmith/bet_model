@@ -1,371 +1,135 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-07-29 18:58:39.834066,Pistol - Paris 2024 - Mixed Team 10m Air Pistol - Gold Medal Winner,Turkey (TUR),0.5309,0.6078,0.0769
-2024-07-29 22:59:16.435969,Women's - Paris 2024 - Women's Basketball - Group B Winner,France (W),0.39169999999999994,0.8462,0.4545
 2024-07-29 22:59:20.541140,Group B - Paris 2024 - Women's Basketball Group B - Winner,France (W),0.39169999999999994,0.8462,0.4545
-2024-07-29 18:58:39.834066,Pistol - Paris 2024 - Mixed Team 10m Air Pistol - Gold Medal Winner,Serbia (SRB),0.37760000000000005,0.4545,0.0769
-2024-07-29 18:58:40.250641,Women's - Paris 2024 - Women's Volleyball - Pool A Winner,China (W),0.25,0.5,0.25
-2024-07-29 16:59:30.944375,Men's - Paris 2024 - Men's Handball - Group A Winner,Germany (GER),0.2444,0.4444,0.2
-2024-07-29 18:58:40.228113,Men's - Paris 2024 - Men's Volleyball - Pool C Winner,USA (USA),0.19440000000000002,0.75,0.5556
-2024-07-29 18:58:43.930234,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Blocks,Victor  Wembanyama,0.18330000000000002,0.5833,0.4
-2024-07-29 18:58:43.909530,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Assists,Dennis  Schroder,0.1704,0.3704,0.2
-2024-07-29 18:58:40.228113,Men's - Paris 2024 - Men's Volleyball - Pool C Winner,Germany (GER),0.13330000000000003,0.2,0.0667
-2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Zeyad Ishaish (JOR),0.13219999999999998,0.1667,0.0345
-2024-07-29 18:58:40.219151,Men's - Paris 2024 - Men's Volleyball - Pool B Winner,Italy (ITA),0.13140000000000002,0.4762,0.3448
-2024-07-29 16:59:30.915111,Women's - Paris 2024 - Women's Handball - Group A Winner,Norway (W),0.13,0.5744,0.4444
-2024-07-29 18:58:39.685293,Coxless Four - Paris 2024 - Men's Coxless Four - Gold Medal Winner,New Zealand,0.125,0.25,0.125
-2024-07-29 16:59:29.448087,100m Freestyle - Paris 2024 - Women's 100m Freestyle - Gold Medal Winner,Mollie O'Callaghan (AUS),0.12260000000000004,0.6226,0.5
-2024-07-29 18:58:43.969448,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Steals,Victor  Wembanyama,0.11670000000000001,0.2,0.0833
-2024-07-29 18:58:39.788456,Shotgun - Paris 2024 - Men's Trap - Gold Medal Winner,Giovanni Cernogoraz (CRO),0.11110000000000003,0.4444,0.3333
+2024-07-29 22:59:16.435969,Women's - Paris 2024 - Women's Basketball - Group B Winner,France (W),0.39169999999999994,0.8462,0.4545
+2024-07-30 06:59:16.706149,Match-Ups - Tournament Match-Up - D. Puig v E. Grillo - Requests,Emiliano Grillo,0.11070000000000002,0.5652,0.4545
 2024-07-30 04:59:06.200352,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Daniel Wiffen (IRL),0.11069999999999997,0.5455,0.4348
-2024-07-29 18:58:40.268682,Women's - Paris 2024 - Women's Volleyball - Pool C Winner,Italy (W),0.10899999999999999,0.6923,0.5833
-2024-07-29 18:58:43.969448,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Steals,Nikola  Jokic,0.1079,0.1667,0.0588
-2024-07-29 22:59:20.527338,Group A - Paris 2024 - Women's Basketball - Group A - Winner,Spain (W),0.10709999999999997,0.8571,0.75
+2024-07-30 06:58:55.330083,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Gold Medal Winner,Jack Alexy (USA),0.11039999999999998,0.1818,0.0714
 2024-07-29 22:59:16.427396,Women's - Paris 2024 - Women's Basketball - Group A Winner,Spain (W),0.10709999999999997,0.8571,0.75
-2024-07-29 16:59:29.458545,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Gold Medal Winner,Leon Marchand (FRA),0.10390000000000002,0.2857,0.1818
-2024-07-29 16:59:30.944375,Men's - Paris 2024 - Men's Handball - Group A Winner,Sweden (SWE),0.09999999999999998,0.5,0.4
-2024-07-29 18:58:39.685293,Coxless Four - Paris 2024 - Men's Coxless Four - Gold Medal Winner,Great Britain,0.09820000000000001,0.5744,0.4762
-2024-07-29 18:58:40.259686,Women's - Paris 2024 - Women's Volleyball - Pool B Winner,Poland (W),0.09689999999999999,0.3636,0.2667
-2024-07-29 16:59:30.915111,Women's - Paris 2024 - Women's Handball - Group A Winner,Sweden (W),0.09689999999999999,0.3636,0.2667
-2024-07-29 16:59:30.923639,Women's - Paris 2024 - Women's Handball - Group B Winner,France (W),0.09530000000000005,0.9524,0.8571
-2024-07-29 18:58:43.909530,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Assists,Josh  Giddey,0.08979999999999999,0.1667,0.0769
-2024-07-29 16:59:29.547326,200m Butterfly - Paris 2024 - Women's 200m Butterfly - Gold Medal Winner,Summer McIntosh (CAN),0.0847,0.7143,0.6296
-2024-07-29 16:59:30.935700,Men's - Paris 2024 - Men's Handball - Gold Medal Winner,Denmark (DEN),0.07939999999999997,0.5556,0.4762
-2024-07-29 16:59:31.339629,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Caroline Marks (USA),0.07930000000000001,0.2222,0.1429
-2024-07-29 18:58:39.672740,Coxless Four - Paris 2024 - Women's Coxless Four - Gold Medal Winner,Netherlands,0.07789999999999997,0.3636,0.2857
-2024-07-29 16:59:30.542797,Men's - Paris 2024 - Men's Basketball - Group C Winner,USA,0.07589999999999997,0.999,0.9231
-2024-07-29 18:58:43.969448,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Steals,Bruno  Caboclo,0.0726,0.1111,0.0385
-2024-07-29 16:59:29.526039,200m Breaststroke - Paris 2024 - Women's 200m Breaststroke - Gold Medal Winner,Mona McSharry (IRL),0.07189999999999999,0.0769,0.005
-2024-07-29 16:59:30.623779,57kg - Paris 2024 - Men's 57kg Boxing - Gold Medal Winner,Abdulmalik Khalokov (UZB),0.06670000000000004,0.4,0.3333
-2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Asadkhuja Muydinkhujaev (UZB),0.06670000000000001,0.2,0.1333
-2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Nikolai Terteryan (DEN),0.0666,0.1333,0.0667
-2024-07-29 18:58:39.660227,Double Sculls - Paris 2024 - Men's Double Sculls - Gold Medal Winner,Netherlands,0.06659999999999999,0.7333,0.6667
-2024-07-29 18:58:39.660227,Double Sculls - Paris 2024 - Men's Double Sculls - Gold Medal Winner,France,0.06649999999999999,0.0909,0.0244
-2024-07-29 16:59:30.611915,54kg - Paris 2024 - Women's 54kg Boxing - Gold Medal Winner,Jutamas Jitpong (THA),0.0635,0.1111,0.0476
+2024-07-29 22:59:20.527338,Group A - Paris 2024 - Women's Basketball - Group A - Winner,Spain (W),0.10709999999999997,0.8571,0.75
+2024-07-30 06:58:55.419749,800m Freestyle - Paris 2024 - Men's 800m Freestyle - To Win a Medal,Bobby Finke (USA),0.07779999999999998,0.7701,0.6923
+2024-07-30 06:58:55.412939,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Bobby Finke (USA),0.0635,0.2857,0.2222
 2024-07-30 00:57:42.855306,51kg - Yusuf Chothia (AUS) vs Rafael Lozano (ESP) - To Win the Bout,Rafael Lozano (ESP),0.05960000000000004,0.4167,0.3571
-2024-07-29 18:58:40.210135,Men's - Paris 2024 - Men's Volleyball - Pool A Winner,France (FRA),0.05889999999999995,0.6667,0.6078
-2024-07-29 16:59:30.953019,Men's - Paris 2024 - Men's Handball - Group B Winner,Denmark (DEN),0.05830000000000002,0.9333,0.875
-2024-07-29 18:58:39.647585,Double Sculls - Paris 2024 - Women's Double Sculls - Gold Medal Winner,Romania,0.05590000000000006,0.6923,0.6364
-2024-07-29 16:59:30.600178,80kg - Paris 2024 - Men's 80kg Boxing - Gold Medal Winner,Arlen Lopez (CUB),0.055900000000000005,0.3226,0.2667
-2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Merco Verde (MEX),0.05559999999999998,0.1667,0.1111
 2024-07-30 02:58:45.245203,Men's - Paris 2024 - Men's Triathlon - Gold Medal Winner,Hayden Wilde (NZL),0.05559999999999998,0.2778,0.2222
-2024-07-29 16:59:30.611915,54kg - Paris 2024 - Women's 54kg Boxing - Gold Medal Winner,Mongontsetsegiin Enkhjargal (MGL),0.0539,0.0833,0.0294
-2024-07-29 16:59:30.953019,Men's - Paris 2024 - Men's Handball - Group B Winner,Norway (NOR),0.053599999999999995,0.125,0.0714
-2024-07-29 16:59:29.536721,200m Backstroke - Paris 2024 - Men's 200m Backstroke - Gold Medal Winner,Hubert Kos (HUN),0.053100000000000036,0.4167,0.3636
-2024-07-29 16:59:31.339629,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Carissa Moore (USA),0.052000000000000005,0.1429,0.0909
-2024-07-29 16:59:30.935700,Men's - Paris 2024 - Men's Handball - Gold Medal Winner,Norway (NOR),0.0474,0.0909,0.0435
-2024-07-29 18:58:43.949863,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Rebounds,Victor  Wembanyama,0.04409999999999997,0.2941,0.25
-2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Sewon Okazawa (JAP),0.042899999999999994,0.1429,0.1
-2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Rami Mofid Kiwan (BUL),0.04240000000000001,0.1333,0.0909
+2024-07-30 06:58:55.330083,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Gold Medal Winner,Kyle Chalmers (AUS),0.047599999999999976,0.3333,0.2857
 2024-07-30 02:58:45.245203,Men's - Paris 2024 - Men's Triathlon - Gold Medal Winner,Kristian Blummenfelt (NOR),0.0417,0.125,0.0833
-2024-07-29 16:59:30.248965,Men's - Paris 2024 - Men's Beach Volleyball - Gold Medal Winner,Mol / Sørum (NOR),0.04040000000000002,0.2222,0.1818
-2024-07-29 18:58:40.210135,Men's - Paris 2024 - Men's Volleyball - Pool A Winner,Slovenia (SLO),0.03920000000000001,0.3333,0.2941
-2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Makan Traore (FRA),0.0392,0.0588,0.0196
-2024-07-29 16:59:30.248965,Men's - Paris 2024 - Men's Beach Volleyball - Gold Medal Winner,Younousse / Tijan (QAT),0.037500000000000006,0.1,0.0625
-2024-07-29 16:59:30.348727,Road - Paris 2024 - Men's Road Race - Gold Medal Winner,Mathieu van der Poel (NED),0.03640000000000004,0.4,0.3636
-2024-07-29 16:59:30.357593,Road - Paris 2024 - Men's Road Race - To Win a Medal,Mathieu van der Poel (NED),0.0363,0.7333,0.697
-2024-07-29 16:59:44.631360,Tight Ends - NFL 2024-25 Receiving TD's - Mark Andrews Regular Season Total Receiving TDs 2024-25,Over 6.5 TD's,0.035999999999999976,0.5122,0.4762
-2024-07-29 16:59:32.009149,Tennis - Paris 2024 - Women's Olympics Tennis 2024 - Gold Medal Winner,Iga Swiatek,0.035699999999999954,0.75,0.7143
-2024-07-29 16:59:30.935700,Men's - Paris 2024 - Men's Handball - Gold Medal Winner,Sweden (SWE),0.034100000000000005,0.125,0.0909
+2024-07-30 06:58:55.472622,100m Freestyle - Paris 2024 - Women's 100m Freestyle - Gold Medal Winner,Siobhan Haughey (HGK),0.04099999999999998,0.3077,0.2667
+2024-07-30 06:59:16.730783,Match-Ups - Tournament Match-Up - K. Nakajima v E. Grillo - Requests,Emiliano Grillo,0.03480000000000005,0.5348,0.5
+2024-07-30 06:59:16.755445,Match-Ups - Tournament Match-Up - M. Fitzpatrick v M. W. Lee - Requests,Matt Fitzpatrick,0.03479999999999994,0.6,0.5652
 2024-07-29 22:59:15.266078,100m Butterfly - Paris 2024 - Men's 100m Butterfly - Gold Medal Winner,Matthew Temple (AUS),0.033399999999999985,0.1667,0.1333
-2024-07-29 16:59:31.339629,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Tyler Wright (AUS),0.03330000000000001,0.1,0.0667
-2024-07-29 16:59:30.611915,54kg - Paris 2024 - Women's 54kg Boxing - Gold Medal Winner,Huang Hsiao-Wen (TPE),0.033299999999999996,0.1333,0.1
-2024-07-29 16:59:37.703156,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Mark Kelly,0.033299999999999996,0.4255,0.3922
-2024-07-29 18:58:43.949863,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Rebounds,Wenyen  Gabriel,0.03270000000000001,0.0476,0.0149
-2024-07-29 16:59:30.611915,54kg - Paris 2024 - Women's 54kg Boxing - Gold Medal Winner,Hatice Akbas (TUR),0.03219999999999999,0.0667,0.0345
-2024-07-29 18:58:39.660227,Double Sculls - Paris 2024 - Men's Double Sculls - Gold Medal Winner,Spain,0.03219999999999999,0.0667,0.0345
-2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Lewis Richardson (GBR),0.03219999999999999,0.0667,0.0345
+2024-07-30 06:58:55.330083,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Gold Medal Winner,Nandor Nemeth (HUN),0.03270000000000001,0.0476,0.0149
+2024-07-30 06:58:55.472622,100m Freestyle - Paris 2024 - Women's 100m Freestyle - Gold Medal Winner,Yang Junxuan (CHN),0.03219999999999999,0.0667,0.0345
 2024-07-29 22:59:15.266078,100m Butterfly - Paris 2024 - Men's 100m Butterfly - Gold Medal Winner,Caeleb Dressel (USA),0.03210000000000002,0.4167,0.3846
 2024-07-30 02:58:43.504310,100m - Paris 2024 - Women's 100m - To Win a Medal,Ewa Swoboda (POL),0.0321,0.0909,0.0588
-2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Omari Jones (USA),0.0321,0.0909,0.0588
+2024-07-30 06:58:55.330083,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Gold Medal Winner,Maxime Grousset (FRA),0.0321,0.0909,0.0588
 2024-07-30 02:58:43.091811,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Landskrona BoIS,0.031799999999999995,0.4762,0.4444
-2024-07-29 18:58:43.861630,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Steals,Derrick  White,0.031799999999999995,0.1429,0.1111
-2024-07-29 22:59:16.444504,Women's - Paris 2024 - Women's Basketball - Group C Winner,Germany (W),0.031199999999999995,0.0556,0.0244
 2024-07-29 22:59:20.562117,Group C - Paris 2024 - Women's Basketball Group C - Winner,Germany (W),0.031199999999999995,0.0556,0.0244
-2024-07-29 18:58:40.200048,Men's - Paris 2024 - Men's Volleyball - Gold Medal Winner,Germany (GER),0.030699999999999998,0.0833,0.0526
-2024-07-29 18:59:02.876664,51kg - Billal Bennama (FRA) vs Roscoe Hill (USA) - To Win the Bout,Roscoe Hill (USA),0.030399999999999983,0.5652,0.5348
-2024-07-29 16:59:44.588135,Tight Ends - NFL 2024-25 Receiving TD's - George Kittle Regular Season Total Receiving TDs 2024-25,Under 5.5 TD's,0.030399999999999983,0.5652,0.5348
+2024-07-29 22:59:16.444504,Women's - Paris 2024 - Women's Basketball - Group C Winner,Germany (W),0.031199999999999995,0.0556,0.0244
 2024-07-29 20:59:06.565161,Shot Put - Paris 2024 - Men's Shot Put - Gold Medal Winner,Ryan Crouser (USA),0.02960000000000007,0.6296,0.6
-2024-07-29 18:58:43.949863,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Rebounds,Rui  Hachimura,0.0294,0.0588,0.0294
-2024-07-29 16:59:30.611915,54kg - Paris 2024 - Women's 54kg Boxing - Gold Medal Winner,Preeti Pawar (IND),0.0294,0.0588,0.0294
-2024-07-29 18:58:43.949863,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Rebounds,Jock  Landale,0.028199999999999996,0.0667,0.0385
-2024-07-29 18:58:43.890058,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Points Scorer,Anthony  Edwards,0.028000000000000004,0.0476,0.0196
-2024-07-29 18:58:43.949863,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Rebounds,Konstantinos  Mitoglou,0.028000000000000004,0.0476,0.0196
-2024-07-29 16:59:30.944375,Men's - Paris 2024 - Men's Handball - Group A Winner,Slovenia (SLO),0.028000000000000004,0.0476,0.0196
-2024-07-29 18:58:43.890058,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Points Scorer,Santi  Aldama,0.028000000000000004,0.0476,0.0196
-2024-07-29 16:59:34.361378,Tournament Futures - Paris 2024 - Men's Basketball - USA vs The Field,USA,0.027999999999999914,0.8462,0.8182
-2024-07-29 16:59:30.611915,54kg - Paris 2024 - Women's 54kg Boxing - Gold Medal Winner,Pang Chol-Mi (PRK),0.02779999999999999,0.25,0.2222
-2024-07-29 18:58:39.672740,Coxless Four - Paris 2024 - Women's Coxless Four - Gold Medal Winner,Great Britain,0.026499999999999968,0.6491,0.6226
-2024-07-29 18:58:43.930234,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Blocks,Yuta  Watanabe,0.0262,0.0385,0.0123
 2024-07-30 02:59:03.360005,80kg - Callum Peters (AUS) vs Nurbek Oralbay (KAZ) - To Win the Bout,Callum Peters (AUS),0.026000000000000023,0.2857,0.2597
 2024-07-30 02:59:03.483268,54kg - Jennifer Lehane (IRL) vs Chang Yuan (CHN) - To Win the Bout,Jennifer Lehane (IRL),0.02560000000000001,0.3333,0.3077
-2024-07-29 16:59:30.611915,54kg - Paris 2024 - Women's 54kg Boxing - Gold Medal Winner,Stanmira Petrova (BUL),0.02560000000000001,0.3333,0.3077
-2024-07-29 18:58:43.930234,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Blocks,Shai  Gilgeous-Alexander,0.0245,0.0833,0.0588
-2024-07-29 18:58:40.200048,Men's - Paris 2024 - Men's Volleyball - Gold Medal Winner,Serbia (SRB),0.024299999999999995,0.0769,0.0526
-2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Vahid Abasov (SRB),0.024299999999999995,0.0588,0.0345
-2024-07-29 18:58:43.890058,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Points Scorer,Patty  Mills,0.024299999999999995,0.0588,0.0345
-2024-07-29 16:59:30.935700,Men's - Paris 2024 - Men's Handball - Gold Medal Winner,Germany (GER),0.024299999999999995,0.0769,0.0526
-2024-07-29 18:58:43.969448,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Steals,Anthony  Edwards,0.0242,0.0909,0.0667
-2024-07-29 22:59:16.435969,Women's - Paris 2024 - Women's Basketball - Group B Winner,Nigeria (W),0.024,0.0625,0.0385
 2024-07-29 22:59:20.541140,Group B - Paris 2024 - Women's Basketball Group B - Winner,Nigeria (W),0.024,0.0625,0.0385
-2024-07-29 18:58:43.827805,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Blocks,Anthony  Davis,0.023800000000000043,0.5238,0.5
-2024-07-29 18:58:40.240514,Women's - Paris 2024 - Women's Volleyball - Gold Medal Winner,Serbia (W),0.023799999999999988,0.1667,0.1429
-2024-07-29 18:58:43.775784,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Rebounds,Usman  Garuba,0.023799999999999988,0.3571,0.3333
-2024-07-29 16:59:44.652031,Tight Ends - NFL 2024-25 Receiving TD's - Sam LaPorta Regular Season Total Receiving TDs 2024-25,Over 7.5 TD's,0.023799999999999988,0.5,0.4762
-2024-07-29 18:58:39.623065,Single Sculls - Paris 2024 - Women's Single Sculls - Gold Medal Winner,Tara Rigney (AUS),0.023799999999999988,0.1667,0.1429
-2024-07-29 16:59:31.339629,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Brisa Hennessy (CRC),0.023799999999999988,0.1667,0.1429
-2024-07-29 18:58:43.890058,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Points Scorer,Bogdan  Bogdanovic,0.023200000000000002,0.0526,0.0294
-2024-07-29 18:58:43.890058,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Points Scorer,Dennis  Schroder,0.023200000000000002,0.0476,0.0244
-2024-07-29 16:59:31.339629,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Luana Silva  (BRA),0.023200000000000002,0.0476,0.0244
-2024-07-29 16:59:31.339629,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Nadia Erostabe (ESP),0.0228,0.0294,0.0066
+2024-07-29 22:59:16.435969,Women's - Paris 2024 - Women's Basketball - Group B Winner,Nigeria (W),0.024,0.0625,0.0385
 2024-07-30 02:58:43.043245,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Vejle BK,0.022600000000000064,0.6226,0.6
 2024-07-30 04:59:06.221903,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Match Up - Finke vs Wiffen,Daniel Wiffen (IRL),0.022199999999999998,0.6774,0.6552
 2024-07-30 04:59:05.618098,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,Brøndby IF,0.02200000000000002,0.7143,0.6923
-2024-07-29 16:59:29.526039,200m Breaststroke - Paris 2024 - Women's 200m Breaststroke - Gold Medal Winner,Tatjana Smith (RSA),0.02200000000000002,0.7143,0.6923
 2024-07-30 04:59:27.788909,Tournament Match-Ups - Tournament Match-Up - A. Meronk vs M. Pavon - Tournament Match-Up,Adrian Meronk,0.02169999999999994,0.5455,0.5238
 2024-07-30 02:59:03.459590,54kg - Stanmira Petrova (BUL) vs Huang Hsiao-Wen (TPE) - To Win the Bout,Huang Hsiao-Wen (TPE),0.020799999999999985,0.3333,0.3125
-2024-07-29 16:59:30.525259,Men's - Paris 2024 - Men's Basketball - Group A Winner,Australia,0.020799999999999985,0.3333,0.3125
-2024-07-29 16:59:35.292260,Group A - Paris 2024 - Men's Basketball Group A - Winner,Australia,0.020799999999999985,0.3333,0.3125
+2024-07-30 06:59:17.450923,Tournament Match-Ups - Tournament Match-Up - M. Fitzpatrick vs M.W. Lee - Tournament Match-Up,Matt Fitzpatrick,0.01970000000000005,0.5652,0.5455
 2024-07-30 04:59:27.764859,Tournament Match-Ups - Tournament Match-Up - A. Ancer vs C. Bezuidenhout - Tournament Match-Up,Christiaan Bezuidenhout,0.01970000000000005,0.5652,0.5455
 2024-07-30 04:59:28.060228,Match-Ups - Tournament Match-Up - D. Puig v E. Grillo - Requests,Emiliano Grillo,0.019699999999999995,0.4545,0.4348
-2024-07-29 16:59:30.623779,57kg - Paris 2024 - Men's 57kg Boxing - Gold Medal Winner,Charlie Senior (AUS),0.019499999999999997,0.0294,0.0099
-2024-07-29 18:58:43.909530,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Assists,Thomas  Walkup,0.019499999999999997,0.0294,0.0099
-2024-07-29 18:58:43.949863,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Rebounds,Usman  Garuba,0.0194,0.0244,0.005
-2024-07-29 18:58:43.949863,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Rebounds,Josh  Hawkinson,0.019099999999999992,0.0667,0.0476
-2024-07-29 18:58:39.788456,Shotgun - Paris 2024 - Men's Trap - Gold Medal Winner,Mitchell Iles (AUS),0.019099999999999992,0.0667,0.0476
-2024-07-29 16:59:30.575961,Women's - Paris 2024 - Women's Basketball - Gold Medal Winner,France (W),0.019000000000000003,0.0625,0.0435
-2024-07-29 16:59:35.378123,Tournament Futures - Paris 2024 - Women's Basketball - Gold Medal Winner,France (W),0.019000000000000003,0.0625,0.0435
-2024-07-29 18:58:46.475654,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Mark Kelly,0.018900000000000028,0.4444,0.4255
-2024-07-29 16:59:30.261101,Women's - Paris 2024 - Women's Beach Volleyball - Gold Medal Winner,Bobner / Verge-Depre (SUI),0.0189,0.0385,0.0196
-2024-07-29 16:59:37.703156,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Tim Walz,0.01820000000000002,0.2,0.1818
-2024-07-29 18:58:40.240514,Women's - Paris 2024 - Women's Volleyball - Gold Medal Winner,Brazil (W),0.01820000000000002,0.2,0.1818
-2024-07-29 16:59:29.526039,200m Breaststroke - Paris 2024 - Women's 200m Breaststroke - Gold Medal Winner,Lilly King (USA),0.018200000000000004,0.0476,0.0294
-2024-07-29 18:58:43.949863,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Rebounds,Josh  Giddey,0.018200000000000004,0.0476,0.0294
-2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Tugrulhan Erdemir (TUR),0.018200000000000004,0.0476,0.0294
-2024-07-29 18:58:43.909530,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Assists,Yuki  Kawamura,0.018200000000000004,0.0476,0.0294
-2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Nishant Dev (IND),0.018099999999999998,0.0526,0.0345
-2024-07-29 18:58:43.890058,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Points Scorer,Stephen  Curry,0.018099999999999998,0.0526,0.0345
-2024-07-29 16:59:30.623779,57kg - Paris 2024 - Men's 57kg Boxing - Gold Medal Winner,Saidel Horta (CUB),0.018099999999999998,0.0769,0.0588
+2024-07-30 06:58:55.330083,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Gold Medal Winner,David Popovici (ROU),0.019000000000000017,0.2857,0.2667
 2024-07-30 02:58:45.223753,Women's - Paris 2024 - Women's Triathlon - Gold Medal Winner,Georgia Taylor Brown (GBR),0.018099999999999998,0.0769,0.0588
 2024-07-30 02:58:43.091811,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Helsingborgs IF,0.018099999999999998,0.0769,0.0588
-2024-07-29 18:58:39.140072,51kg - Paris 2024 - Men's 51kg Boxing - Gold Medal Winner,Billal Bennama (FRA),0.018099999999999998,0.0769,0.0588
-2024-07-29 22:59:16.444504,Women's - Paris 2024 - Women's Basketball - Group C Winner,USA (W),0.017800000000000038,0.9877,0.9699
 2024-07-29 22:59:20.562117,Group C - Paris 2024 - Women's Basketball Group C - Winner,USA (W),0.017800000000000038,0.9877,0.9699
-2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Tiago Muxanga (MOZ),0.017800000000000003,0.0244,0.0066
-2024-07-29 18:58:39.788456,Shotgun - Paris 2024 - Men's Trap - Gold Medal Winner,James Willett (AUS),0.01759999999999999,0.1176,0.1
-2024-07-29 16:59:30.214897,Womens - Paris 2024 - Women's Individual Archery - Gold Medal Winner,Lim Sihyeon (KOR),0.01759999999999995,0.6667,0.6491
-2024-07-29 16:59:30.611915,54kg - Paris 2024 - Women's 54kg Boxing - Gold Medal Winner,Nigina Uktamova (UZB),0.017099999999999997,0.0294,0.0123
-2024-07-29 18:58:43.969448,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Steals,Thomas  Walkup,0.016700000000000007,0.1,0.0833
-2024-07-29 16:59:29.526039,200m Breaststroke - Paris 2024 - Women's 200m Breaststroke - Gold Medal Winner,Kate Douglass (USA),0.016699999999999993,0.2667,0.25
-2024-07-29 16:59:29.416730,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Gold Medal Winner,Leon Marchand (FRA),0.016699999999999937,0.6,0.5833
-2024-07-29 18:58:43.930234,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Blocks,Wenyen  Gabriel,0.016600000000000004,0.0833,0.0667
+2024-07-29 22:59:16.444504,Women's - Paris 2024 - Women's Basketball - Group C Winner,USA (W),0.017800000000000038,0.9877,0.9699
+2024-07-30 06:58:55.412939,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Gregorio Paltrinieri (ITA),0.016700000000000007,0.1,0.0833
 2024-07-29 20:59:08.774933,Freestyle 57kg - Paris 2024 - Men's Freestyle 57kg - Gold Medal Winner,Spencer Lee (USA),0.015400000000000025,0.4,0.3846
 2024-07-30 02:59:03.336383,80kg - Hussein Ishaish (JOR) vs Gabrijel Veocic (CRO) - To Win the Bout,Hussein Ishaish (JOR),0.015400000000000025,0.4,0.3846
-2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Jose Rodriguez Tenorio (ECU),0.015300000000000001,0.0476,0.0323
-2024-07-29 16:59:30.542797,Men's - Paris 2024 - Men's Basketball - Group C Winner,South Sudan,0.015300000000000001,0.0476,0.0323
-2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Kan Chia-Wei (TPE),0.0145,0.0244,0.0099
-2024-07-29 18:58:43.909530,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Assists,Jose  Alvarado,0.014499999999999999,0.0294,0.0149
-2024-07-29 18:58:43.969448,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Steals,Tremont  Waters,0.014100000000000001,0.0526,0.0385
 2024-07-30 02:58:45.223753,Women's - Paris 2024 - Women's Triathlon - Gold Medal Winner,Kate Waugh (GBR),0.014099999999999998,0.0385,0.0244
-2024-07-29 16:59:30.248965,Men's - Paris 2024 - Men's Beach Volleyball - Gold Medal Winner,Budinger / Evans (USA),0.014099999999999998,0.0385,0.0244
-2024-07-29 16:59:30.611915,54kg - Paris 2024 - Women's 54kg Boxing - Gold Medal Winner,Im Ae-Ji (KOR),0.014099999999999998,0.0435,0.0294
-2024-07-29 18:58:43.890058,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Points Scorer,RJ  Barrett,0.014099999999999994,0.0667,0.0526
-2024-07-29 16:59:30.611915,54kg - Paris 2024 - Women's 54kg Boxing - Gold Medal Winner,Chang Yuan (CHN),0.014099999999999994,0.0667,0.0526
-2024-07-29 18:58:40.240514,Women's - Paris 2024 - Women's Volleyball - Gold Medal Winner,Japan (W),0.013999999999999999,0.0909,0.0769
-2024-07-29 18:58:43.890058,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Points Scorer,Victor  Wembanyama,0.013999999999999999,0.0909,0.0769
-2024-07-29 18:58:39.635042,Single Sculls - Paris 2024 - Men's Single Sculls - Gold Medal Winner,Stefanos Ntouskos (GRE),0.013899999999999996,0.125,0.1111
-2024-07-29 18:58:40.240514,Women's - Paris 2024 - Women's Volleyball - Gold Medal Winner,China (W),0.013899999999999996,0.125,0.1111
+2024-07-30 06:58:55.412939,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Ahmed Jaouadi (TUN),0.013999999999999999,0.0909,0.0769
+2024-07-30 06:58:55.419749,800m Freestyle - Paris 2024 - Men's 800m Freestyle - To Win a Medal,Daniel Wiffen (IRL),0.013900000000000023,0.8889,0.875
+2024-07-30 06:58:55.412939,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Elijah Winnington (AUS),0.013899999999999996,0.125,0.1111
 2024-07-30 02:59:05.484141,Portland Classic - Portland Classic - Winner,Gemma Dryburgh,0.013400000000000002,0.0244,0.011
-2024-07-29 22:59:23.027362,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Pete Buttigieg,0.0131,0.0476,0.0345
+2024-07-30 06:59:16.291551,Boxing Lines - David Morrell vs Radivoje Kalajdzic - To Win the Bout,David Morrell,0.0131,0.9655,0.9524
 2024-07-30 02:59:03.653930,57kg - Alyssa Mendoza (USA) vs Mijgona Samadova (TJK) - To Win the Bout,Mijgona Samadova (TJK),0.0131,0.2353,0.2222
-2024-07-30 04:59:07.193840,Men's - Paris 2024 - Men's Basketball - Gold Medal Winner,Spain,0.013,0.0196,0.0066
+2024-07-29 22:59:23.027362,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Pete Buttigieg,0.0131,0.0476,0.0345
 2024-07-30 04:59:09.700307,Tournament Futures - Paris 2024 - Men's Basketball - Gold Medal Winner,Spain,0.013,0.0196,0.0066
-2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Shannan Davey (AUS),0.012999999999999998,0.0294,0.0164
-2024-07-29 18:58:46.475654,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Josh Shapiro,0.012699999999999989,0.3636,0.3509
+2024-07-30 04:59:07.193840,Men's - Paris 2024 - Men's Basketball - Gold Medal Winner,Spain,0.013,0.0196,0.0066
 2024-07-30 04:59:27.928831,Tournament Match-Ups - Tournament Match-Up - R. McIlroy vs J. Rahm - Tournament Match-Up,Jon Rahm,0.012199999999999989,0.5122,0.5
-2024-07-29 16:59:30.611915,54kg - Paris 2024 - Women's 54kg Boxing - Gold Medal Winner,Tatiana De Jesus (BRA),0.012100000000000001,0.0244,0.0123
-2024-07-29 18:58:43.890058,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Points Scorer,Shai  Gilgeous-Alexander,0.011700000000000016,0.2222,0.2105
 2024-07-30 02:58:43.036915,Superligaen - Denmark Superligaen 2024/2025 - Winner,Brøndby IF,0.011700000000000016,0.2222,0.2105
-2024-07-29 16:59:30.623779,57kg - Paris 2024 - Men's 57kg Boxing - Gold Medal Winner,Nebil Ibrahim (SWE),0.0113,0.0196,0.0083
-2024-07-29 18:58:43.949863,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Rebounds,Johannes  Voigtmann,0.011199999999999995,0.0588,0.0476
 2024-07-30 02:58:43.082120,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Vélez Sarsfield,0.011199999999999995,0.0588,0.0476
-2024-07-29 18:58:43.890058,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Points Scorer,Josh  Giddey,0.011199999999999995,0.0588,0.0476
-2024-07-29 18:58:43.890058,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Points Scorer,LeBron  James,0.011099999999999999,0.1111,0.1
-2024-07-29 18:58:40.651545,Men's - Gold Medal Winner - Gold Medal Winner,Rory McIlroy,0.011099999999999999,0.1111,0.1
-2024-07-29 18:59:03.511590,Mens - Mens - Gold Medal Winner,Rory McIlroy,0.011099999999999999,0.1111,0.1
-2024-07-29 16:59:32.009149,Tennis - Paris 2024 - Women's Olympics Tennis 2024 - Gold Medal Winner,Elina Svitolina,0.010100000000000001,0.0345,0.0244
-2024-07-29 16:59:32.009149,Tennis - Paris 2024 - Women's Olympics Tennis 2024 - Gold Medal Winner,Maria Sakkari,0.010100000000000001,0.0345,0.0244
-2024-07-30 02:58:45.245203,Men's - Paris 2024 - Men's Triathlon - Gold Medal Winner,Csongor Lehmann (HUN),-0.010100000000000001,0.0244,0.0345
+2024-07-30 06:58:59.034245,Tournament Futures - Paris 2024 - Men's Basketball - Gold Medal Winner,Canada,0.011099999999999999,0.1111,0.1
+2024-07-30 06:58:56.397522,Men's - Paris 2024 - Men's Basketball - Gold Medal Winner,Canada,0.011099999999999999,0.1111,0.1
+2024-07-30 06:58:55.448352,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Match Up - Finke vs Wiffen,Daniel Wiffen (IRL),0.010099999999999998,0.6875,0.6774
 2024-07-30 02:58:45.223753,Women's - Paris 2024 - Women's Triathlon - Gold Medal Winner,Sophie Linn (AUS),-0.010100000000000001,0.0244,0.0345
-2024-07-29 18:58:40.200048,Men's - Paris 2024 - Men's Volleyball - Gold Medal Winner,Canada (CAN),-0.0102,0.0667,0.0769
-2024-07-30 02:58:45.245203,Men's - Paris 2024 - Men's Triathlon - Gold Medal Winner,Dorian Coninx (FRA),-0.0102,0.0667,0.0769
-2024-07-29 16:59:30.623779,57kg - Paris 2024 - Men's 57kg Boxing - Gold Medal Winner,Yilmar Gonzalez (COL),-0.0102,0.0667,0.0769
-2024-07-30 02:58:45.245203,Men's - Paris 2024 - Men's Triathlon - Gold Medal Winner,Leo Bergere (FRA),-0.0102,0.0667,0.0769
+2024-07-30 02:58:45.245203,Men's - Paris 2024 - Men's Triathlon - Gold Medal Winner,Csongor Lehmann (HUN),-0.010100000000000001,0.0244,0.0345
 2024-07-30 02:59:05.484141,Portland Classic - Portland Classic - Winner,Jenny Shin,-0.0102,0.0667,0.0769
-2024-07-29 18:58:39.685293,Coxless Four - Paris 2024 - Men's Coxless Four - Gold Medal Winner,Italy,-0.010300000000000002,0.0141,0.0244
-2024-07-29 16:59:35.378123,Tournament Futures - Paris 2024 - Women's Basketball - Gold Medal Winner,Spain (W),-0.010700000000000001,0.0278,0.0385
-2024-07-29 16:59:30.575961,Women's - Paris 2024 - Women's Basketball - Gold Medal Winner,Spain (W),-0.010700000000000001,0.0278,0.0385
+2024-07-30 02:58:45.245203,Men's - Paris 2024 - Men's Triathlon - Gold Medal Winner,Leo Bergere (FRA),-0.0102,0.0667,0.0769
+2024-07-30 06:59:16.631765,Mens - Mens - Gold Medal Winner,Ludvig Aberg,-0.0102,0.0667,0.0769
+2024-07-30 02:58:45.245203,Men's - Paris 2024 - Men's Triathlon - Gold Medal Winner,Dorian Coninx (FRA),-0.0102,0.0667,0.0769
 2024-07-30 02:59:03.336383,80kg - Hussein Ishaish (JOR) vs Gabrijel Veocic (CRO) - To Win the Bout,Gabrijel Veocic (CRO),-0.010700000000000043,0.6667,0.6774
-2024-07-29 18:58:43.890058,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Points Scorer,Kevin  Durant,-0.011099999999999999,0.1,0.1111
 2024-07-30 02:58:45.223753,Women's - Paris 2024 - Women's Triathlon - Gold Medal Winner,Taylor Knibb (USA),-0.011099999999999999,0.1,0.1111
-2024-07-30 02:59:05.484141,Portland Classic - Portland Classic - Winner,Mao Saigo,-0.011099999999999999,0.1,0.1111
+2024-07-30 06:59:16.631765,Mens - Mens - Gold Medal Winner,Rory McIlroy,-0.011099999999999999,0.1,0.1111
 2024-07-30 04:59:27.943043,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs X. Schauffele - Tournament Match-Up,Xander Schauffele,-0.011099999999999999,0.4651,0.4762
-2024-07-29 16:59:34.372350,Tournament Futures - Paris 2024 - Men's Basketball - Winners Group,Group B,-0.011099999999999999,0.1,0.1111
-2024-07-29 16:59:31.339629,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Tatiana Weston-Webb (BRA),-0.011099999999999999,0.1,0.1111
-2024-07-29 18:58:40.200048,Men's - Paris 2024 - Men's Volleyball - Gold Medal Winner,Brazil (BRA),-0.011099999999999999,0.1,0.1111
-2024-07-29 18:58:43.861630,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading USA Steals,LeBron  James,-0.011099999999999999,0.1,0.1111
-2024-07-29 16:59:29.416730,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Gold Medal Winner,Kristof Milak (HUN),-0.011699999999999988,0.274,0.2857
+2024-07-30 02:59:05.484141,Portland Classic - Portland Classic - Winner,Mao Saigo,-0.011099999999999999,0.1,0.1111
+2024-07-30 06:58:59.034245,Tournament Futures - Paris 2024 - Men's Basketball - Gold Medal Winner,Australia,-0.011199999999999995,0.0323,0.0435
+2024-07-30 06:58:56.397522,Men's - Paris 2024 - Men's Basketball - Gold Medal Winner,Australia,-0.011199999999999995,0.0323,0.0435
 2024-07-30 04:59:06.207368,800m Freestyle - Paris 2024 - Men's 800m Freestyle - To Win a Medal,Elijah Winnington (AUS),-0.012199999999999989,0.5,0.5122
 2024-07-30 02:59:03.653930,57kg - Alyssa Mendoza (USA) vs Mijgona Samadova (TJK) - To Win the Bout,Alyssa Mendoza (USA),-0.012899999999999912,0.8333,0.8462
 2024-07-30 02:58:45.223753,Women's - Paris 2024 - Women's Triathlon - Gold Medal Winner,Jeanne Lehair (LUX),-0.012999999999999998,0.0164,0.0294
-2024-07-29 16:59:32.009149,Tennis - Paris 2024 - Women's Olympics Tennis 2024 - Gold Medal Winner,Angelique Kerber,-0.013,0.0066,0.0196
-2024-07-29 16:59:35.378123,Tournament Futures - Paris 2024 - Women's Basketball - Gold Medal Winner,Japan (W),-0.013,0.0066,0.0196
-2024-07-29 16:59:30.542797,Men's - Paris 2024 - Men's Basketball - Group C Winner,Puerto Rico,-0.013,0.0066,0.0196
-2024-07-29 16:59:30.575961,Women's - Paris 2024 - Women's Basketball - Gold Medal Winner,Japan (W),-0.013,0.0066,0.0196
 2024-07-30 02:58:43.091811,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Sandvikens IF,-0.0131,0.0345,0.0476
-2024-07-29 16:59:32.009149,Tennis - Paris 2024 - Women's Olympics Tennis 2024 - Gold Medal Winner,Danielle Collins,-0.0131,0.0345,0.0476
 2024-07-29 20:59:06.565161,Shot Put - Paris 2024 - Men's Shot Put - Gold Medal Winner,Joe Kovacs (USA),-0.01319999999999999,0.25,0.2632
-2024-07-29 18:58:40.162449,Men's - Paris 2024 - Men's Triathlon - Gold Medal Winner,Leo Bergere (FRA),-0.013999999999999999,0.0769,0.0909
-2024-07-29 18:58:40.162449,Men's - Paris 2024 - Men's Triathlon - Gold Medal Winner,Dorian Coninx (FRA),-0.013999999999999999,0.0769,0.0909
-2024-07-29 18:58:43.969448,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Steals,Dennis  Schroder,-0.014099999999999994,0.0526,0.0667
-2024-07-29 18:58:40.268682,Women's - Paris 2024 - Women's Volleyball - Pool C Winner,Netherlands (W),-0.014099999999999994,0.0526,0.0667
 2024-07-30 02:58:45.223753,Women's - Paris 2024 - Women's Triathlon - Gold Medal Winner,Taylor Spivey (USA),-0.014099999999999994,0.0526,0.0667
-2024-07-29 18:58:43.930234,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Blocks,Willy  Hernangomez,-0.014099999999999998,0.0294,0.0435
 2024-07-30 02:58:45.245203,Men's - Paris 2024 - Men's Triathlon - Gold Medal Winner,Tim Hellwig (GER),-0.014099999999999998,0.0244,0.0385
 2024-07-30 02:58:45.245203,Men's - Paris 2024 - Men's Triathlon - Gold Medal Winner,Vasco Vilaca (POR),-0.014099999999999998,0.0294,0.0435
-2024-07-29 16:59:37.703156,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Pete Buttigieg,-0.014100000000000001,0.0385,0.0526
-2024-07-29 18:58:39.788456,Shotgun - Paris 2024 - Men's Trap - Gold Medal Winner,Giovanni Pellielo (ITA),-0.014100000000000001,0.0385,0.0526
 2024-07-30 04:59:28.060228,Match-Ups - Tournament Match-Up - D. Puig v E. Grillo - Requests,David Puig,-0.014200000000000101,0.6154,0.6296
-2024-07-29 18:58:43.930234,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Blocks,Duop  Reath,-0.014499999999999999,0.0149,0.0294
-2024-07-29 16:59:30.261101,Women's - Paris 2024 - Women's Beach Volleyball - Gold Medal Winner,Lippmann / Ludwig (GER),-0.014499999999999999,0.0149,0.0294
-2024-07-29 22:59:20.562117,Group C - Paris 2024 - Women's Basketball Group C - Winner,Belgium (W),-0.014899999999999997,0.0476,0.0625
 2024-07-29 22:59:16.444504,Women's - Paris 2024 - Women's Basketball - Group C Winner,Belgium (W),-0.014899999999999997,0.0476,0.0625
-2024-07-29 18:58:39.685293,Coxless Four - Paris 2024 - Men's Coxless Four - Gold Medal Winner,Netherlands,-0.014900000000000004,0.0196,0.0345
-2024-07-29 18:58:39.672740,Coxless Four - Paris 2024 - Women's Coxless Four - Gold Medal Winner,China,-0.014900000000000004,0.0196,0.0345
-2024-07-29 16:59:34.383223,Tournament Futures - Paris 2024 - Men's Basketball - Winning Confederation,Americas,-0.014900000000000024,0.9375,0.9524
+2024-07-29 22:59:20.562117,Group C - Paris 2024 - Women's Basketball Group C - Winner,Belgium (W),-0.014899999999999997,0.0476,0.0625
 2024-07-30 02:58:43.036915,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Midtjylland,-0.015100000000000002,0.1667,0.1818
-2024-07-29 18:58:39.788456,Shotgun - Paris 2024 - Men's Trap - Gold Medal Winner,Alberto Fernandez (ESP),-0.015100000000000002,0.1667,0.1818
-2024-07-29 18:58:39.660227,Double Sculls - Paris 2024 - Men's Double Sculls - Gold Medal Winner,China,-0.0153,0.0141,0.0294
-2024-07-29 18:58:43.969448,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Steals,Josh  Green,-0.015300000000000001,0.0435,0.0588
 2024-07-30 02:58:45.245203,Men's - Paris 2024 - Men's Triathlon - Gold Medal Winner,Pierre La Corre (FRA),-0.016600000000000004,0.0667,0.0833
 2024-07-30 02:58:43.043245,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Lyngby BK,-0.016699999999999937,0.5833,0.6
-2024-07-29 18:58:43.909530,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Assists,Lorenzo  Brown,-0.016700000000000007,0.0833,0.1
+2024-07-30 06:59:16.291551,Boxing Lines - David Morrell vs Radivoje Kalajdzic - To Win the Bout,Radivoje Kalajdzic,-0.016700000000000007,0.0833,0.1
 2024-07-30 02:59:03.459590,54kg - Stanmira Petrova (BUL) vs Huang Hsiao-Wen (TPE) - To Win the Bout,Stanmira Petrova (BUL),-0.016700000000000048,0.7333,0.75
-2024-07-29 16:59:30.915111,Women's - Paris 2024 - Women's Handball - Group A Winner,South Korea (W),-0.0171,0.0025,0.0196
-2024-07-29 18:58:43.930234,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Blocks,Rudy  Gobert,-0.0179,0.125,0.1429
 2024-07-29 22:59:23.027362,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Mark Kelly,-0.018900000000000028,0.4255,0.4444
-2024-07-29 18:58:43.930234,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Blocks,Bruno  Caboclo,-0.019099999999999992,0.0476,0.0667
-2024-07-29 16:59:31.339629,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Johanne Defay (FRA),-0.019099999999999992,0.0476,0.0667
-2024-07-29 16:59:35.378123,Tournament Futures - Paris 2024 - Women's Basketball - Gold Medal Winner,Australia (W),-0.019099999999999995,0.0244,0.0435
-2024-07-29 16:59:30.575961,Women's - Paris 2024 - Women's Basketball - Gold Medal Winner,Australia (W),-0.019099999999999995,0.0244,0.0435
-2024-07-29 18:58:39.660227,Double Sculls - Paris 2024 - Men's Double Sculls - Gold Medal Winner,Germany,-0.019600000000000003,0.0149,0.0345
-2024-07-29 18:58:43.969448,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Steals,Usman  Garuba,-0.0203,0.0385,0.0588
-2024-07-29 18:58:43.909530,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Assists,Victor  Wembanyama,-0.0203,0.0385,0.0588
-2024-07-29 18:58:43.969448,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Steals,Giannis  Antetokounmpo,-0.021199999999999997,0.0455,0.0667
 2024-07-30 04:59:27.788909,Tournament Match-Ups - Tournament Match-Up - A. Meronk vs M. Pavon - Tournament Match-Up,Matthieu Pavon,-0.02169999999999994,0.5238,0.5455
+2024-07-30 06:58:55.412939,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Daniel Wiffen (IRL),-0.02169999999999994,0.5238,0.5455
 2024-07-30 04:59:06.207368,800m Freestyle - Paris 2024 - Men's 800m Freestyle - To Win a Medal,Bobby Finke (USA),-0.02200000000000002,0.6923,0.7143
-2024-07-29 16:59:35.378123,Tournament Futures - Paris 2024 - Women's Basketball - Gold Medal Winner,Belgium (W),-0.022099999999999998,0.0164,0.0385
-2024-07-29 16:59:30.575961,Women's - Paris 2024 - Women's Basketball - Gold Medal Winner,Belgium (W),-0.022099999999999998,0.0164,0.0385
-2024-07-29 18:58:43.890058,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Points Scorer,Giannis  Antetokounmpo,-0.022199999999999998,0.2,0.2222
-2024-07-29 18:58:40.651545,Men's - Gold Medal Winner - Gold Medal Winner,Scottie Scheffler,-0.022199999999999998,0.2,0.2222
-2024-07-29 18:58:40.200048,Men's - Paris 2024 - Men's Volleyball - Gold Medal Winner,Poland (POL),-0.022199999999999998,0.2,0.2222
-2024-07-29 18:58:39.672740,Coxless Four - Paris 2024 - Women's Coxless Four - Gold Medal Winner,Australia,-0.022200000000000004,0.0123,0.0345
-2024-07-29 16:59:30.915111,Women's - Paris 2024 - Women's Handball - Group A Winner,Germany (W),-0.0228,0.0066,0.0294
 2024-07-30 02:59:03.483268,54kg - Jennifer Lehane (IRL) vs Chang Yuan (CHN) - To Win the Bout,Chang Yuan (CHN),-0.022800000000000042,0.7333,0.7561
 2024-07-30 02:58:45.223753,Women's - Paris 2024 - Women's Triathlon - Gold Medal Winner,Leonie Periault (FRA),-0.0232,0.0435,0.0667
 2024-07-30 02:58:43.082120,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Godoy Cruz,-0.023200000000000002,0.0244,0.0476
-2024-07-29 18:58:39.672740,Coxless Four - Paris 2024 - Women's Coxless Four - Gold Medal Winner,United States,-0.023200000000000002,0.0244,0.0476
 2024-07-30 04:59:06.221903,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Match Up - Finke vs Wiffen,Bobby Finke (USA),-0.02360000000000001,0.3846,0.4082
-2024-07-29 18:58:40.240514,Women's - Paris 2024 - Women's Volleyball - Gold Medal Winner,Turkey (W),-0.023799999999999988,0.1429,0.1667
+2024-07-30 06:58:55.419749,800m Freestyle - Paris 2024 - Men's 800m Freestyle - To Win a Medal,Elijah Winnington (AUS),-0.023799999999999988,0.4762,0.5
+2024-07-30 06:59:17.450923,Tournament Match-Ups - Tournament Match-Up - M. Fitzpatrick vs M.W. Lee - Tournament Match-Up,Min Woo Lee,-0.023800000000000043,0.5,0.5238
 2024-07-30 04:59:27.764859,Tournament Match-Ups - Tournament Match-Up - A. Ancer vs C. Bezuidenhout - Tournament Match-Up,Abraham Ancer,-0.023800000000000043,0.5,0.5238
-2024-07-29 18:58:40.210135,Men's - Paris 2024 - Men's Volleyball - Pool A Winner,Serbia (SRB),-0.0242,0.0667,0.0909
+2024-07-30 06:58:55.472622,100m Freestyle - Paris 2024 - Women's 100m Freestyle - Gold Medal Winner,Shayna Jack (AUS),-0.0242,0.0667,0.0909
+2024-07-30 06:58:55.472622,100m Freestyle - Paris 2024 - Women's 100m Freestyle - Gold Medal Winner,Marrit Steenbergen (NED),-0.024999999999999994,0.1,0.125
 2024-07-30 04:59:06.141981,100m Backstroke - Paris 2024 - Women's 100m Backstroke - Gold Medal Winner,Katharine Berkoff (USA),-0.024999999999999994,0.1,0.125
-2024-07-29 18:58:39.660227,Double Sculls - Paris 2024 - Men's Double Sculls - Gold Medal Winner,Croatia,-0.025300000000000003,0.1176,0.1429
-2024-07-29 16:59:30.623779,57kg - Paris 2024 - Men's 57kg Boxing - Gold Medal Winner,Javier Ibanez Diaz (BUL),-0.025300000000000003,0.1176,0.1429
-2024-07-29 16:59:34.372350,Tournament Futures - Paris 2024 - Men's Basketball - Winners Group,Group A,-0.025300000000000003,0.1176,0.1429
 2024-07-30 02:58:45.211397,Mixed - Paris 2024 - Triathlon Mixed Relay - Gold Medal Winner,Mexico (MEX),-0.0262,0.0123,0.0385
-2024-07-29 16:59:44.652031,Tight Ends - NFL 2024-25 Receiving TD's - Sam LaPorta Regular Season Total Receiving TDs 2024-25,Under 7.5 TD's,-0.026499999999999968,0.5652,0.5917
 2024-07-30 02:58:43.543412,100m Backstroke - Paris 2024 - Women's 100m Backstroke - Gold Medal Winner,Kaylee McKeown (AUS),-0.027700000000000002,0.4167,0.4444
-2024-07-29 18:58:40.162449,Men's - Paris 2024 - Men's Triathlon - Gold Medal Winner,Hayden Wilde (NZL),-0.02779999999999999,0.2222,0.25
-2024-07-29 16:59:34.361378,Tournament Futures - Paris 2024 - Men's Basketball - USA vs The Field,Any Other Team,-0.02779999999999999,0.2222,0.25
 2024-07-30 04:59:06.200352,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Bobby Finke (USA),-0.02779999999999999,0.2222,0.25
-2024-07-29 18:58:39.685293,Coxless Four - Paris 2024 - Men's Coxless Four - Gold Medal Winner,Australia,-0.027999999999999997,0.0345,0.0625
-2024-07-29 16:59:30.923639,Women's - Paris 2024 - Women's Handball - Group B Winner,Brazil (W),-0.028000000000000004,0.0196,0.0476
-2024-07-29 22:59:15.266078,100m Butterfly - Paris 2024 - Men's 100m Butterfly - Gold Medal Winner,Hubert Kos (HUN),-0.028199999999999996,0.0385,0.0667
 2024-07-29 22:59:15.266078,100m Butterfly - Paris 2024 - Men's 100m Butterfly - Gold Medal Winner,Nyls Korstanje (NED),-0.028199999999999996,0.0385,0.0667
-2024-07-29 18:58:43.930234,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Blocks,Nikola  Milutinov,-0.028199999999999996,0.0385,0.0667
+2024-07-29 22:59:15.266078,100m Butterfly - Paris 2024 - Men's 100m Butterfly - Gold Medal Winner,Hubert Kos (HUN),-0.028199999999999996,0.0385,0.0667
 2024-07-30 02:58:43.543412,100m Backstroke - Paris 2024 - Women's 100m Backstroke - Gold Medal Winner,Katharine Berkoff (USA),-0.028799999999999992,0.125,0.1538
-2024-07-29 16:59:30.506489,Men's - Paris 2024 - Men's Basketball - Gold Medal Winner,USA,-0.028800000000000048,0.8462,0.875
-2024-07-29 18:58:43.930234,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Blocks,Usman  Garuba,-0.0294,0.0294,0.0588
+2024-07-30 06:59:16.730783,Match-Ups - Tournament Match-Up - K. Nakajima v E. Grillo - Requests,Keita Nakajima,-0.030399999999999983,0.5348,0.5652
 2024-07-30 02:59:03.360005,80kg - Callum Peters (AUS) vs Nurbek Oralbay (KAZ) - To Win the Bout,Nurbek Oralbay (KAZ),-0.03169999999999995,0.7778,0.8095
 2024-07-30 04:59:06.207368,800m Freestyle - Paris 2024 - Men's 800m Freestyle - To Win a Medal,Gregorio Paltrinieri (ITA),-0.031799999999999995,0.4444,0.4762
 2024-07-30 04:59:06.200352,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Elijah Winnington (AUS),-0.031799999999999995,0.1111,0.1429
-2024-07-29 18:58:39.647585,Double Sculls - Paris 2024 - Women's Double Sculls - Gold Medal Winner,Norway,-0.03270000000000001,0.0149,0.0476
-2024-07-29 18:58:40.162449,Men's - Paris 2024 - Men's Triathlon - Gold Medal Winner,Matthew Hauser (AUS),-0.03330000000000001,0.0667,0.1
-2024-07-29 18:58:43.949863,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Rebounds,Joel  Embiid,-0.03330000000000001,0.0667,0.1
-2024-07-29 18:58:39.660227,Double Sculls - Paris 2024 - Men's Double Sculls - Gold Medal Winner,Romania,-0.03330000000000001,0.0667,0.1
-2024-07-29 16:59:30.935700,Men's - Paris 2024 - Men's Handball - Gold Medal Winner,Spain (ESP),-0.03330000000000001,0.0667,0.1
-2024-07-29 22:59:16.427396,Women's - Paris 2024 - Women's Basketball - Group A Winner,China (W),-0.033300000000000024,0.1667,0.2
 2024-07-29 22:59:20.527338,Group A - Paris 2024 - Women's Basketball - Group A - Winner,China (W),-0.033300000000000024,0.1667,0.2
+2024-07-29 22:59:16.427396,Women's - Paris 2024 - Women's Basketball - Group A Winner,China (W),-0.033300000000000024,0.1667,0.2
 2024-07-30 04:59:06.200352,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Ahmed Jaouadi (TUN),-0.03420000000000001,0.0769,0.1111
-2024-07-29 16:59:30.953019,Men's - Paris 2024 - Men's Handball - Group B Winner,Egypt (EGY),-0.03420000000000001,0.0769,0.1111
-2024-07-29 18:59:02.876664,51kg - Billal Bennama (FRA) vs Roscoe Hill (USA) - To Win the Bout,Billal Bennama (FRA),-0.03480000000000005,0.5,0.5348
-2024-07-29 16:59:44.588135,Tight Ends - NFL 2024-25 Receiving TD's - George Kittle Regular Season Total Receiving TDs 2024-25,Over 5.5 TD's,-0.03480000000000005,0.5,0.5348
-2024-07-29 16:59:30.935700,Men's - Paris 2024 - Men's Handball - Gold Medal Winner,Croatia (CRO),-0.03559999999999999,0.0079,0.0435
-2024-07-29 16:59:30.261101,Women's - Paris 2024 - Women's Beach Volleyball - Gold Medal Winner,Graudina / Samoilova (LAT),-0.035699999999999996,0.0476,0.0833
-2024-07-29 18:58:43.930234,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Blocks,Giannis  Antetokounmpo,-0.035699999999999996,0.0476,0.0833
-2024-07-29 16:59:44.631360,Tight Ends - NFL 2024-25 Receiving TD's - Mark Andrews Regular Season Total Receiving TDs 2024-25,Under 6.5 TD's,-0.03610000000000002,0.5556,0.5917
-2024-07-29 18:58:43.775784,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Rebounds,Willy  Hernangomez,-0.04089999999999999,0.3846,0.4255
-2024-07-29 16:59:37.703156,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Josh Shapiro,-0.0413,0.3509,0.3922
-2024-07-29 16:59:29.536721,200m Backstroke - Paris 2024 - Men's 200m Backstroke - Gold Medal Winner,Hugo Gonzalez (ESP),-0.04169999999999999,0.125,0.1667
-2024-07-29 18:58:39.623065,Single Sculls - Paris 2024 - Women's Single Sculls - Gold Medal Winner,Emma Twigg (NZL),-0.04169999999999999,0.125,0.1667
-2024-07-29 16:59:29.526039,200m Breaststroke - Paris 2024 - Women's 200m Breaststroke - Gold Medal Winner,Tes Schouten (NED),-0.04169999999999999,0.125,0.1667
-2024-07-29 16:59:29.448087,100m Freestyle - Paris 2024 - Women's 100m Freestyle - Gold Medal Winner,Marrit Steenbergen (NED),-0.04169999999999999,0.125,0.1667
-2024-07-29 18:58:40.240514,Women's - Paris 2024 - Women's Volleyball - Gold Medal Winner,USA (W),-0.04269999999999999,0.1111,0.1538
-2024-07-29 16:59:29.458545,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Gold Medal Winner,Zac Stubblety-Cook (AUS),-0.04409999999999997,0.25,0.2941
-2024-07-30 02:58:45.223753,Women's - Paris 2024 - Women's Triathlon - Gold Medal Winner,Lisa Tertsch (GER),-0.04440000000000001,0.0667,0.1111
+2024-07-30 06:59:16.755445,Match-Ups - Tournament Match-Up - M. Fitzpatrick v M. W. Lee - Requests,Min Woo Lee,-0.03489999999999999,0.4651,0.5
 2024-07-30 02:58:45.245203,Men's - Paris 2024 - Men's Triathlon - Gold Medal Winner,Morgan Pearson (USA),-0.04440000000000001,0.0667,0.1111
-2024-07-29 16:59:31.339629,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Vahine Fierro (FRA),-0.044499999999999984,0.2222,0.2667
+2024-07-30 02:58:45.223753,Women's - Paris 2024 - Women's Triathlon - Gold Medal Winner,Lisa Tertsch (GER),-0.04440000000000001,0.0667,0.1111
 2024-07-30 02:58:43.091811,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Östers IF,-0.044499999999999984,0.2222,0.2667
-2024-07-29 16:59:29.536721,200m Backstroke - Paris 2024 - Men's 200m Backstroke - Gold Medal Winner,Keaton Jones (USA),-0.048100000000000004,0.0769,0.125
-2024-07-29 16:59:30.623779,57kg - Paris 2024 - Men's 57kg Boxing - Gold Medal Winner,Makhmud Sabyrkhan (KAZ),-0.04849999999999999,0.1333,0.1818
-2024-07-29 18:58:43.969448,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Steals,Dyson  Daniels,-0.05,0.05,0.1
+2024-07-30 06:58:55.472622,100m Freestyle - Paris 2024 - Women's 100m Freestyle - Gold Medal Winner,Mollie O'Callaghan (AUS),-0.04820000000000002,0.5744,0.6226
+2024-07-30 06:58:55.419749,800m Freestyle - Paris 2024 - Men's 800m Freestyle - To Win a Medal,Sven Schwarz (GER),-0.04999999999999999,0.2,0.25
 2024-07-30 04:59:06.200352,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Gregorio Paltrinieri (ITA),-0.05,0.0833,0.1333
-2024-07-29 18:58:39.623065,Single Sculls - Paris 2024 - Women's Single Sculls - Gold Medal Winner,Karolien Florijn (NED),-0.050000000000000044,0.75,0.8
-2024-07-29 18:58:43.775784,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Spain Rebounds,Santi  Aldama,-0.05130000000000001,0.3333,0.3846
-2024-07-29 18:58:43.909530,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Assists,Tyrese  Haliburton,-0.052399999999999995,0.0385,0.0909
 2024-07-30 00:57:42.855306,51kg - Yusuf Chothia (AUS) vs Rafael Lozano (ESP) - To Win the Bout,Yusuf Chothia (AUS),-0.05679999999999996,0.6491,0.7059
-2024-07-29 16:59:34.383223,Tournament Futures - Paris 2024 - Men's Basketball - Winning Confederation,Europe,-0.05710000000000001,0.1429,0.2
-2024-07-29 16:59:29.547326,200m Butterfly - Paris 2024 - Women's 200m Butterfly - Gold Medal Winner,Regan Smith (USA),-0.059099999999999986,0.2857,0.3448
-2024-07-29 18:58:43.969448,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Steals,Shai  Gilgeous-Alexander,-0.0629,0.0909,0.1538
-2024-07-29 18:58:43.949863,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Rebounds,Giannis  Antetokounmpo,-0.0635,0.0476,0.1111
-2024-07-29 16:59:29.448087,100m Freestyle - Paris 2024 - Women's 100m Freestyle - Gold Medal Winner,Siobhan Haughey (HGK),-0.06659999999999999,0.2667,0.3333
-2024-07-29 22:59:20.527338,Group A - Paris 2024 - Women's Basketball - Group A - Winner,Serbia (W),-0.06669999999999998,0.1,0.1667
 2024-07-29 22:59:16.427396,Women's - Paris 2024 - Women's Basketball - Group A Winner,Serbia (W),-0.06669999999999998,0.1,0.1667
-2024-07-29 18:58:40.250641,Women's - Paris 2024 - Women's Volleyball - Pool A Winner,Serbia (W),-0.06670000000000004,0.3333,0.4
-2024-07-29 16:59:29.536721,200m Backstroke - Paris 2024 - Men's 200m Backstroke - Gold Medal Winner,Ryan Murphy (USA),-0.06990000000000002,0.3846,0.4545
-2024-07-29 18:58:43.949863,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Rebounds,Nikola  Jokic,-0.07029999999999997,0.2,0.2703
-2024-07-29 16:59:30.944375,Men's - Paris 2024 - Men's Handball - Group A Winner,Croatia (CRO),-0.0726,0.0385,0.1111
-2024-07-29 18:58:39.672740,Coxless Four - Paris 2024 - Women's Coxless Four - Gold Medal Winner,Romania,-0.07579999999999999,0.0909,0.1667
-2024-07-29 16:59:29.458545,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Gold Medal Winner,Qin Haiyang (CHN),-0.08189999999999997,0.4444,0.5263
-2024-07-29 16:59:30.953019,Men's - Paris 2024 - Men's Handball - Group B Winner,France (FRA),-0.0843,0.0066,0.0909
-2024-07-29 18:58:40.210135,Men's - Paris 2024 - Men's Volleyball - Pool A Winner,Canada (CAN),-0.08510000000000001,0.0149,0.1
-2024-07-29 16:59:30.923639,Women's - Paris 2024 - Women's Handball - Group B Winner,Netherlands (W),-0.0889,0.1111,0.2
-2024-07-29 18:58:40.228113,Men's - Paris 2024 - Men's Volleyball - Pool C Winner,Argentina (ARG),-0.0915,0.0196,0.1111
-2024-07-29 16:59:30.542797,Men's - Paris 2024 - Men's Basketball - Group C Winner,Serbia,-0.1006,0.0244,0.125
-2024-07-29 18:58:43.909530,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Assists,Nick  Calathes,-0.10910000000000002,0.0909,0.2
-2024-07-29 18:58:40.259686,Women's - Paris 2024 - Women's Volleyball - Pool B Winner,Japan (W),-0.11049999999999999,0.1,0.2105
-2024-07-29 18:58:40.268682,Women's - Paris 2024 - Women's Volleyball - Pool C Winner,Turkey (W),-0.11220000000000002,0.3226,0.4348
-2024-07-29 18:58:43.949863,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Rebounds,Rudy  Gobert,-0.11409999999999998,0.0526,0.1667
+2024-07-29 22:59:20.527338,Group A - Paris 2024 - Women's Basketball - Group A - Winner,Serbia (W),-0.06669999999999998,0.1,0.1667
+2024-07-30 06:59:16.706149,Match-Ups - Tournament Match-Up - D. Puig v E. Grillo - Requests,David Puig,-0.11539999999999995,0.5,0.6154
 2024-07-29 22:59:16.435969,Women's - Paris 2024 - Women's Basketball - Group B Winner,Canada (W),-0.11909999999999998,0.0476,0.1667
 2024-07-29 22:59:20.541140,Group B - Paris 2024 - Women's Basketball Group B - Winner,Canada (W),-0.11909999999999998,0.0476,0.1667
-2024-07-29 16:59:30.935700,Men's - Paris 2024 - Men's Handball - Gold Medal Winner,France (FRA),-0.13329999999999997,0.2,0.3333
-2024-07-29 18:58:40.219151,Men's - Paris 2024 - Men's Volleyball - Pool B Winner,Brazil (BRA),-0.14440000000000003,0.0909,0.2353
-2024-07-29 18:58:43.930234,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Blocks,Anthony  Davis,-0.15,0.1,0.25
-2024-07-29 18:58:43.909530,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament Top Total Assists,Vasilije  Micic,-0.1524,0.0476,0.2
-2024-07-29 18:58:40.250641,Women's - Paris 2024 - Women's Volleyball - Pool A Winner,USA (W),-0.1688,0.2857,0.4545
-2024-07-29 18:58:39.685293,Coxless Four - Paris 2024 - Men's Coxless Four - Gold Medal Winner,United States,-0.2143,0.2857,0.5
-2024-07-29 16:59:30.915111,Women's - Paris 2024 - Women's Handball - Group A Winner,Denmark (W),-0.22069999999999998,0.1429,0.3636
-2024-07-29 18:58:40.228113,Men's - Paris 2024 - Men's Volleyball - Pool C Winner,Japan (JPN),-0.25249999999999995,0.1111,0.3636
 2024-07-29 22:59:16.435969,Women's - Paris 2024 - Women's Basketball - Group B Winner,Australia (W),-0.27270000000000005,0.1818,0.4545
 2024-07-29 22:59:20.541140,Group B - Paris 2024 - Women's Basketball Group B - Winner,Australia (W),-0.27270000000000005,0.1818,0.4545
-2024-07-29 16:59:30.944375,Men's - Paris 2024 - Men's Handball - Group A Winner,Spain (ESP),-0.28890000000000005,0.1111,0.4
+2024-07-30 06:58:55.330083,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Gold Medal Winner,Pan Zhanle (CHN),-0.3233,0.2222,0.5455
