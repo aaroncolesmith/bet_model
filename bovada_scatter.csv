@@ -1,11 +1,15 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
+2024-07-30 14:59:22.152000,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Gold Medal Winner,Pan Zhanle (CHN),0.3191,0.5413,0.2222
 2024-07-30 10:59:22.426274,Women's - Paris 2024 - Women's Team Epee - Gold Medal Winner,France (W),0.2417,0.3846,0.1429
 2024-07-30 08:58:58.174618,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Gold Medal Winner,Kristof Milak (HUN),0.23819999999999997,0.5122,0.274
+2024-07-30 14:59:22.112456,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Gold Medal Winner,Kristof Milak (HUN),0.22309999999999997,0.7353,0.5122
 2024-07-30 10:59:22.426274,Women's - Paris 2024 - Women's Team Epee - Gold Medal Winner,Italy (W),0.21219999999999994,0.6667,0.4545
 2024-07-30 12:58:22.273506,Double Sculls - Paris 2024 - Women's Double Sculls - Gold Medal Winner,New Zealand,0.2088,0.2857,0.0769
+2024-07-30 14:59:22.141398,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Gold Medal Winner,Leon Marchand (FRA),0.18159999999999998,0.5816,0.4
 2024-07-30 12:58:22.311192,Coxless Four - Paris 2024 - Men's Coxless Four - Gold Medal Winner,United States,0.1688,0.4545,0.2857
 2024-07-30 08:58:58.343682,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Gold Medal Winner,Zac Stubblety-Cook (AUS),0.15000000000000002,0.4,0.25
 2024-07-30 12:58:26.016111,The Basketball Tournament - The Basketball Tournament - Outright,La Familia,0.13330000000000003,0.4,0.2667
+2024-07-30 14:59:22.184018,1500m Freestyle - Paris 2024 - Men's 1500m Freestyle - Gold Medal Winner,Daniel Wiffen (IRL),0.13140000000000002,0.4762,0.3448
 2024-07-30 08:58:59.437545,66kg - Paris 2024 - Women's 66kg - Gold Medal Winner,Imane Khelif (ALG),0.1307,0.3125,0.1818
 2024-07-30 08:59:04.133732,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Andy Beshear,0.11529999999999999,0.1538,0.0385
 2024-07-30 08:58:58.343682,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Gold Medal Winner,Leon Marchand (FRA),0.11430000000000001,0.4,0.2857
@@ -17,224 +21,229 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-30 12:58:26.016111,The Basketball Tournament - The Basketball Tournament - Outright,Carmen's Crew,0.10390000000000002,0.2857,0.1818
 2024-07-30 12:58:22.273506,Double Sculls - Paris 2024 - Women's Double Sculls - Gold Medal Winner,Netherlands,0.1039,0.1333,0.0294
 2024-07-30 12:58:22.298730,Coxless Four - Paris 2024 - Women's Coxless Four - Gold Medal Winner,Great Britain,0.0877,0.7368,0.6491
+2024-07-30 14:59:26.582160,BIG3 Basketball - BIG3 Basketball Championship Winner - 2024 - Championship Winner,Bivouac,0.08549999999999996,0.3077,0.2222
 2024-07-30 12:58:22.273506,Double Sculls - Paris 2024 - Women's Double Sculls - Gold Medal Winner,Great Britain,0.0791,0.1176,0.0385
 2024-07-30 06:58:55.419749,800m Freestyle - Paris 2024 - Men's 800m Freestyle - To Win a Medal,Bobby Finke (USA),0.07779999999999998,0.7701,0.6923
 2024-07-30 12:58:22.286174,Double Sculls - Paris 2024 - Men's Double Sculls - Gold Medal Winner,Ireland,0.07719999999999999,0.2105,0.1333
+2024-07-30 14:59:22.141398,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Gold Medal Winner,Zac Stubblety-Cook (AUS),0.07619999999999999,0.4762,0.4
 2024-07-30 12:58:20.910585,4 x 200m Freestyle Relay - Paris 2024 - Men's 4 x 200m Freestyle Relay - To Win a Medal,USA,0.07499999999999996,0.875,0.8
 2024-07-30 08:58:58.343682,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Gold Medal Winner,Cho Sung Jae (KOR),0.06899999999999999,0.0769,0.0079
 2024-07-30 12:58:28.194533,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Tim Walz,0.0686,0.1739,0.1053
 2024-07-30 08:59:19.796523,Match-Ups - Tournament Match-Up - A. Tosti v J. Niemann - Requests,Joaquin Niemann,0.06669999999999998,0.8667,0.8
 2024-07-30 06:58:55.412939,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Bobby Finke (USA),0.0635,0.2857,0.2222
-2024-07-30 02:58:45.245203,Men's - Paris 2024 - Men's Triathlon - Gold Medal Winner,Hayden Wilde (NZL),0.05559999999999998,0.2778,0.2222
+2024-07-30 14:59:22.162688,200m Backstroke - Paris 2024 - Women's 200m Backstroke - Gold Medal Winner,Kaylee McKeown (AUS),0.057699999999999974,0.75,0.6923
 2024-07-30 12:58:28.118286,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Republican Popular Vote,0.0529,0.3704,0.3175
 2024-07-30 12:58:22.286174,Double Sculls - Paris 2024 - Men's Double Sculls - Gold Medal Winner,United States,0.0518,0.0667,0.0149
 2024-07-30 10:59:37.804009,ACC Regular Season Wins - ACC Regular Season Wins - Stanford,Over 3.5 Wins,0.05130000000000001,0.6667,0.6154
 2024-07-30 10:59:21.414812,Most Medals - Paris 2024 - Most Gold Medals - Outright,China,0.0504,0.2857,0.2353
 2024-07-30 12:58:20.910585,4 x 200m Freestyle Relay - Paris 2024 - Men's 4 x 200m Freestyle Relay - To Win a Medal,South Korea,0.04999999999999999,0.25,0.2
+2024-07-30 14:59:24.329693,Tennis - Paris 2024 - Women's Olympics Tennis 2024 - Gold Medal Winner,Qinwen Zheng,0.048100000000000004,0.125,0.0769
 2024-07-30 06:58:55.330083,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Gold Medal Winner,Kyle Chalmers (AUS),0.047599999999999976,0.3333,0.2857
+2024-07-30 14:59:47.628996,Positions - Finishing Position - Jon Rahm - Finishing Position,10th or better,0.04620000000000002,0.5917,0.5455
 2024-07-30 12:58:20.892860,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Semi Final 2,Leon Marchand (FRA),0.045499999999999985,0.5455,0.5
 2024-07-30 08:58:58.174618,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Gold Medal Winner,Ilya Kharun (CAN),0.04239999999999999,0.0769,0.0345
-2024-07-30 02:58:45.245203,Men's - Paris 2024 - Men's Triathlon - Gold Medal Winner,Kristian Blummenfelt (NOR),0.0417,0.125,0.0833
 2024-07-30 06:58:55.472622,100m Freestyle - Paris 2024 - Women's 100m Freestyle - Gold Medal Winner,Siobhan Haughey (HGK),0.04099999999999998,0.3077,0.2667
 2024-07-30 12:58:20.924839,4 x 200m Freestyle Relay - Paris 2024 - Men's 4 x 200m Freestyle Relay - Match Up - Japan v South Korea,South Korea,0.040999999999999925,0.7333,0.6923
-2024-07-30 10:59:21.107393,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Semi Final 1,Ilya Kharun (CAN),0.03570000000000001,0.2857,0.25
+2024-07-30 14:59:23.094677,Men's - Paris 2024 - Men's Basketball - Group C Winner,Serbia,0.038099999999999995,0.0625,0.0244
 2024-07-30 12:58:22.311192,Coxless Four - Paris 2024 - Men's Coxless Four - Gold Medal Winner,New Zealand,0.03570000000000001,0.2857,0.25
+2024-07-30 10:59:21.107393,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Semi Final 1,Ilya Kharun (CAN),0.03570000000000001,0.2857,0.25
 2024-07-30 06:59:16.730783,Match-Ups - Tournament Match-Up - K. Nakajima v E. Grillo - Requests,Emiliano Grillo,0.03480000000000005,0.5348,0.5
 2024-07-30 06:59:16.755445,Match-Ups - Tournament Match-Up - M. Fitzpatrick v M. W. Lee - Requests,Matt Fitzpatrick,0.03479999999999994,0.6,0.5652
 2024-07-30 08:58:58.174618,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Gold Medal Winner,Alberto Razzeti (ITA),0.0344,0.0588,0.0244
+2024-07-30 14:59:40.517921,Season Win Record Specials - Last Winless Team - Last Winless Team,Tennessee Titans,0.034100000000000005,0.125,0.0909
 2024-07-30 12:58:22.298730,Coxless Four - Paris 2024 - Women's Coxless Four - Gold Medal Winner,Romania,0.034100000000000005,0.125,0.0909
+2024-07-30 14:59:21.941486,CONCACAF Central American Cup - CONCACAF Central American Cup 2024 - Futures - Winner,CD Olimpia,0.033300000000000024,0.2,0.1667
 2024-07-30 12:58:20.885692,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Semi Final 1,Caspar Corbeau (NED),0.033300000000000024,0.2,0.1667
 2024-07-30 12:58:22.286174,Double Sculls - Paris 2024 - Men's Double Sculls - Gold Medal Winner,Spain,0.03330000000000001,0.1,0.0667
 2024-07-30 06:58:55.330083,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Gold Medal Winner,Nandor Nemeth (HUN),0.03270000000000001,0.0476,0.0149
 2024-07-30 06:58:55.472622,100m Freestyle - Paris 2024 - Women's 100m Freestyle - Gold Medal Winner,Yang Junxuan (CHN),0.03219999999999999,0.0667,0.0345
-2024-07-30 02:58:43.504310,100m - Paris 2024 - Women's 100m - To Win a Medal,Ewa Swoboda (POL),0.0321,0.0909,0.0588
 2024-07-30 06:58:55.330083,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Gold Medal Winner,Maxime Grousset (FRA),0.0321,0.0909,0.0588
-2024-07-30 02:58:43.091811,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Landskrona BoIS,0.031799999999999995,0.4762,0.4444
+2024-07-30 14:59:22.184018,1500m Freestyle - Paris 2024 - Men's 1500m Freestyle - Gold Medal Winner,Gregorio Paltrinieri (ITA),0.031799999999999995,0.1429,0.1111
+2024-07-30 14:59:47.064408,Match-Ups - Tournament Match-Up - M. Schmid v S. Sharma - Requests,Shubhankar Sharma,0.030399999999999983,0.5652,0.5348
 2024-07-30 08:59:14.803592,ACC Regular Season Wins - ACC Regular Season Wins - Duke,Under 5.5 Wins,0.02960000000000007,0.6296,0.6
 2024-07-30 08:58:58.174618,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Gold Medal Winner,Noe Ponti (SUI),0.0294,0.0588,0.0294
+2024-07-30 14:59:28.920068,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Josh Shapiro,0.028600000000000014,0.3922,0.3636
+2024-07-30 14:59:22.101985,100m Freestyle - Paris 2024 - Women's 100m Freestyle - Gold Medal Winner,Torri Huske (USA),0.028199999999999996,0.0667,0.0385
 2024-07-30 12:58:21.203942,400m - Paris 2024 - Men's 400m - Gold Medal Winner,Steven Gardiner (BAH),0.027999999999999997,0.1818,0.1538
+2024-07-30 14:59:46.863255,Mens - 2/3 Balls - 1st Round 3 Balls - S. Sharma / R. Campos / C. Ortiz - 1st Round 3 Balls,Shubhankar Sharma,0.027500000000000024,0.3846,0.3571
 2024-07-30 12:58:20.917627,4 x 200m Freestyle Relay - Paris 2024 - Men's 4 x 200m Freestyle Relay - Match Up - Australia v USA,United States,0.02739999999999998,0.7333,0.7059
 2024-07-30 10:59:21.083123,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Semi Final 1,Kyle Chalmers (AUS),0.026499999999999968,0.6491,0.6226
 2024-07-30 08:59:20.763577,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs L. Aberg - Tournament Match-Up,Collin Morikawa,0.026499999999999968,0.5917,0.5652
-2024-07-30 02:59:03.360005,80kg - Callum Peters (AUS) vs Nurbek Oralbay (KAZ) - To Win the Bout,Callum Peters (AUS),0.026000000000000023,0.2857,0.2597
-2024-07-30 02:59:03.483268,54kg - Jennifer Lehane (IRL) vs Chang Yuan (CHN) - To Win the Bout,Jennifer Lehane (IRL),0.02560000000000001,0.3333,0.3077
 2024-07-30 10:59:21.206523,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Winner Without Daniel Wiffen,Bobby Finke (USA),0.023800000000000043,0.5238,0.5
 2024-07-30 12:58:21.507546,Pole Vault - Paris 2024 - Women's Pole Vault - Gold Medal Winner,Nina Kennedy (AUS),0.023799999999999988,0.5,0.4762
-2024-07-30 02:58:43.043245,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Vejle BK,0.022600000000000064,0.6226,0.6
 2024-07-30 04:59:06.221903,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Match Up - Finke vs Wiffen,Daniel Wiffen (IRL),0.022199999999999998,0.6774,0.6552
 2024-07-30 04:59:05.618098,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,Brøndby IF,0.02200000000000002,0.7143,0.6923
 2024-07-30 12:58:20.356393,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,PSV Eindhoven,0.021699999999999997,0.4762,0.4545
 2024-07-30 08:59:20.114829,Round Match-Ups - 1st Round Match-Up - S. Scheffler vs X. Schauffele - 1st Round Match-Up,Xander Schauffele,0.021699999999999997,0.4762,0.4545
 2024-07-30 04:59:27.788909,Tournament Match-Ups - Tournament Match-Up - A. Meronk vs M. Pavon - Tournament Match-Up,Adrian Meronk,0.02169999999999994,0.5455,0.5238
-2024-07-30 02:59:03.459590,54kg - Stanmira Petrova (BUL) vs Huang Hsiao-Wen (TPE) - To Win the Bout,Huang Hsiao-Wen (TPE),0.020799999999999985,0.3333,0.3125
 2024-07-30 10:59:21.131704,100m Backstroke - Paris 2024 - Women's 100m Backstroke - To Win a Medal,Kylie Masse (CAN),0.01999999999999999,0.2105,0.1905
-2024-07-30 06:59:17.450923,Tournament Match-Ups - Tournament Match-Up - M. Fitzpatrick vs M.W. Lee - Tournament Match-Up,Matt Fitzpatrick,0.01970000000000005,0.5652,0.5455
 2024-07-30 04:59:27.764859,Tournament Match-Ups - Tournament Match-Up - A. Ancer vs C. Bezuidenhout - Tournament Match-Up,Christiaan Bezuidenhout,0.01970000000000005,0.5652,0.5455
+2024-07-30 06:59:17.450923,Tournament Match-Ups - Tournament Match-Up - M. Fitzpatrick vs M.W. Lee - Tournament Match-Up,Matt Fitzpatrick,0.01970000000000005,0.5652,0.5455
 2024-07-30 04:59:28.060228,Match-Ups - Tournament Match-Up - D. Puig v E. Grillo - Requests,Emiliano Grillo,0.019699999999999995,0.4545,0.4348
 2024-07-30 08:59:14.217073,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Las Vegas Raiders,Yes,0.019000000000000017,0.2857,0.2667
 2024-07-30 06:58:55.330083,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Gold Medal Winner,David Popovici (ROU),0.019000000000000017,0.2857,0.2667
 2024-07-30 10:59:21.124740,100m Backstroke - Paris 2024 - Women's 100m Backstroke - Gold Medal Winner,Kaylee McKeown (AUS),0.018100000000000005,0.4348,0.4167
-2024-07-30 02:58:45.223753,Women's - Paris 2024 - Women's Triathlon - Gold Medal Winner,Georgia Taylor Brown (GBR),0.018099999999999998,0.0769,0.0588
-2024-07-30 02:58:43.091811,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Helsingborgs IF,0.018099999999999998,0.0769,0.0588
+2024-07-30 14:59:21.941486,CONCACAF Central American Cup - CONCACAF Central American Cup 2024 - Futures - Winner,Herediano,0.0179,0.1429,0.125
 2024-07-30 08:58:58.045293,Liga FPD Apertura - Costa Rica Primera Division Apertura 2024 - Futures - Winner,Sporting San José,0.0179,0.1429,0.125
 2024-07-30 12:58:28.194533,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Mark Kelly,0.017600000000000005,0.3509,0.3333
 2024-07-30 10:59:39.299111,SEC Regular Season Wins - SEC Regular Season Wins - Tennessee,Under 8.5 Wins,0.017299999999999982,0.4255,0.4082
 2024-07-30 12:58:22.286174,Double Sculls - Paris 2024 - Men's Double Sculls - Gold Medal Winner,New Zealand,0.0168,0.0385,0.0217
+2024-07-30 14:59:26.582160,BIG3 Basketball - BIG3 Basketball Championship Winner - 2024 - Championship Winner,Trilogy,0.0168,0.0385,0.0217
 2024-07-30 12:58:22.286174,Double Sculls - Paris 2024 - Men's Double Sculls - Gold Medal Winner,Netherlands,0.016700000000000048,0.75,0.7333
 2024-07-30 06:58:55.412939,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Gregorio Paltrinieri (ITA),0.016700000000000007,0.1,0.0833
+2024-07-30 14:59:26.582160,BIG3 Basketball - BIG3 Basketball Championship Winner - 2024 - Championship Winner,Ghost Ballers,0.016600000000000004,0.0833,0.0667
+2024-07-30 14:59:28.920068,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Andy Beshear,0.016600000000000004,0.1905,0.1739
 2024-07-30 10:59:39.311128,SEC Regular Season Wins - SEC Regular Season Wins - Texas,Under 10.5 Wins,0.01639999999999997,0.6774,0.661
+2024-07-30 14:59:24.329693,Tennis - Paris 2024 - Women's Olympics Tennis 2024 - Gold Medal Winner,Anna Karolina Schmiedlova,0.0163,0.0196,0.0033
 2024-07-30 08:58:58.343682,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Gold Medal Winner,Caspar Corbeau (NED),0.0157,0.0435,0.0278
 2024-07-30 08:59:13.984523,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Baltimore Ravens,No,0.015400000000000025,0.3279,0.3125
-2024-07-30 02:59:03.336383,80kg - Hussein Ishaish (JOR) vs Gabrijel Veocic (CRO) - To Win the Bout,Hussein Ishaish (JOR),0.015400000000000025,0.4,0.3846
+2024-07-30 14:59:22.101985,100m Freestyle - Paris 2024 - Women's 100m Freestyle - Gold Medal Winner,Siobhan Haughey (HGK),0.014900000000000024,0.3226,0.3077
 2024-07-30 08:59:17.501387,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Miami Florida,0.014800000000000008,0.2,0.1852
+2024-07-30 14:59:24.329693,Tennis - Paris 2024 - Women's Olympics Tennis 2024 - Gold Medal Winner,Iga Swiatek,0.014700000000000046,0.7647,0.75
 2024-07-30 12:58:28.194533,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Gary Peters,0.014599999999999998,0.0278,0.0132
 2024-07-30 12:58:22.273506,Double Sculls - Paris 2024 - Women's Double Sculls - Gold Medal Winner,Norway,0.014499999999999999,0.0294,0.0149
-2024-07-30 02:58:45.223753,Women's - Paris 2024 - Women's Triathlon - Gold Medal Winner,Kate Waugh (GBR),0.014099999999999998,0.0385,0.0244
 2024-07-30 06:58:55.412939,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Ahmed Jaouadi (TUN),0.013999999999999999,0.0909,0.0769
 2024-07-30 06:58:55.419749,800m Freestyle - Paris 2024 - Men's 800m Freestyle - To Win a Medal,Daniel Wiffen (IRL),0.013900000000000023,0.8889,0.875
 2024-07-30 06:58:55.412939,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Elijah Winnington (AUS),0.013899999999999996,0.125,0.1111
 2024-07-30 08:59:04.133732,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Josh Shapiro,0.013800000000000034,0.3774,0.3636
-2024-07-30 02:59:05.484141,Portland Classic - Portland Classic - Winner,Gemma Dryburgh,0.013400000000000002,0.0244,0.011
 2024-07-30 10:59:39.233012,SEC Regular Season Wins - SEC Regular Season Wins - Mississippi State,Over 3.5 Wins,0.013299999999999979,0.6429,0.6296
 2024-07-30 10:59:39.193597,SEC Regular Season Wins - SEC Regular Season Wins - LSU,Under 9.5 Wins,0.013299999999999979,0.6429,0.6296
-2024-07-30 02:59:03.653930,57kg - Alyssa Mendoza (USA) vs Mijgona Samadova (TJK) - To Win the Bout,Mijgona Samadova (TJK),0.0131,0.2353,0.2222
 2024-07-30 06:59:16.291551,Boxing Lines - David Morrell vs Radivoje Kalajdzic - To Win the Bout,David Morrell,0.0131,0.9655,0.9524
-2024-07-30 04:59:07.193840,Men's - Paris 2024 - Men's Basketball - Gold Medal Winner,Spain,0.013,0.0196,0.0066
 2024-07-30 04:59:09.700307,Tournament Futures - Paris 2024 - Men's Basketball - Gold Medal Winner,Spain,0.013,0.0196,0.0066
+2024-07-30 14:59:22.112456,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Gold Medal Winner,Kregor Zirk (EST),0.013,0.0196,0.0066
+2024-07-30 04:59:07.193840,Men's - Paris 2024 - Men's Basketball - Gold Medal Winner,Spain,0.013,0.0196,0.0066
 2024-07-30 12:58:20.903404,4 x 200m Freestyle Relay - Paris 2024 - Men's 4 x 200m Freestyle Relay - Gold Medal Winner,USA,0.012899999999999995,0.1667,0.1538
+2024-07-30 14:59:26.582160,BIG3 Basketball - BIG3 Basketball Championship Winner - 2024 - Championship Winner,3 Headed Monsters,0.012700000000000003,0.0323,0.0196
+2024-07-30 10:59:37.590368,ACC Regular Season Wins - ACC Regular Season Wins - Syracuse ,Over 7.5 Wins,0.012199999999999989,0.5,0.4878
 2024-07-30 08:58:58.279919,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Winner Without Daniel Wiffen,Bobby Finke (USA),0.012199999999999989,0.5,0.4878
 2024-07-30 04:59:27.928831,Tournament Match-Ups - Tournament Match-Up - R. McIlroy vs J. Rahm - Tournament Match-Up,Jon Rahm,0.012199999999999989,0.5122,0.5
-2024-07-30 10:59:37.590368,ACC Regular Season Wins - ACC Regular Season Wins - Syracuse ,Over 7.5 Wins,0.012199999999999989,0.5,0.4878
-2024-07-30 02:58:43.036915,Superligaen - Denmark Superligaen 2024/2025 - Winner,Brøndby IF,0.011700000000000016,0.2222,0.2105
 2024-07-30 08:59:20.855774,Tournament Match-Ups - Tournament Match-Up - R. McIlroy vs J. Rahm - Tournament Match-Up,Jon Rahm,0.011600000000000055,0.5238,0.5122
+2024-07-30 10:59:39.130832,SEC Regular Season Wins - SEC Regular Season Wins - Auburn,Over 7.5 Wins,0.0116,0.4878,0.4762
 2024-07-30 10:59:39.213274,SEC Regular Season Wins - SEC Regular Season Wins - Mississippi,Under 9.5 Wins,0.0116,0.4878,0.4762
 2024-07-30 10:59:37.784309,ACC Regular Season Wins - ACC Regular Season Wins - SMU,Over 8.5 Wins,0.0116,0.4878,0.4762
-2024-07-30 10:59:39.130832,SEC Regular Season Wins - SEC Regular Season Wins - Auburn,Over 7.5 Wins,0.0116,0.4878,0.4762
-2024-07-30 02:58:43.082120,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Vélez Sarsfield,0.011199999999999995,0.0588,0.0476
+2024-07-30 14:59:22.141398,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Gold Medal Winner,Dong Zhihao (CHN),0.011199999999999995,0.0435,0.0323
 2024-07-30 06:58:59.034245,Tournament Futures - Paris 2024 - Men's Basketball - Gold Medal Winner,Canada,0.011099999999999999,0.1111,0.1
 2024-07-30 06:58:56.397522,Men's - Paris 2024 - Men's Basketball - Gold Medal Winner,Canada,0.011099999999999999,0.1111,0.1
 2024-07-30 12:58:20.892860,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Semi Final 2,Cho Sung Jae (KOR),0.010899999999999993,0.1538,0.1429
-2024-07-30 06:58:55.448352,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Match Up - Finke vs Wiffen,Daniel Wiffen (IRL),0.010099999999999998,0.6875,0.6774
+2024-07-30 14:59:22.101985,100m Freestyle - Paris 2024 - Women's 100m Freestyle - Gold Medal Winner,Shayna Jack (AUS),0.0102,0.0769,0.0667
 2024-07-30 10:59:39.173908,SEC Regular Season Wins - SEC Regular Season Wins - Kentucky,Over 6.5 Wins,0.010099999999999998,0.5556,0.5455
+2024-07-30 06:58:55.448352,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Match Up - Finke vs Wiffen,Daniel Wiffen (IRL),0.010099999999999998,0.6875,0.6774
 2024-07-30 08:59:20.855774,Tournament Match-Ups - Tournament Match-Up - R. McIlroy vs J. Rahm - Tournament Match-Up,Rory McIlroy,-0.010099999999999998,0.5455,0.5556
-2024-07-30 02:58:45.223753,Women's - Paris 2024 - Women's Triathlon - Gold Medal Winner,Sophie Linn (AUS),-0.010100000000000001,0.0244,0.0345
-2024-07-30 02:58:45.245203,Men's - Paris 2024 - Men's Triathlon - Gold Medal Winner,Csongor Lehmann (HUN),-0.010100000000000001,0.0244,0.0345
-2024-07-30 02:58:45.245203,Men's - Paris 2024 - Men's Triathlon - Gold Medal Winner,Leo Bergere (FRA),-0.0102,0.0667,0.0769
 2024-07-30 06:59:16.631765,Mens - Mens - Gold Medal Winner,Ludvig Aberg,-0.0102,0.0667,0.0769
-2024-07-30 02:59:05.484141,Portland Classic - Portland Classic - Winner,Jenny Shin,-0.0102,0.0667,0.0769
-2024-07-30 02:58:45.245203,Men's - Paris 2024 - Men's Triathlon - Gold Medal Winner,Dorian Coninx (FRA),-0.0102,0.0667,0.0769
 2024-07-30 12:58:23.235541,Men's - Gold Medal Winner - Gold Medal Winner,Ludvig Aberg,-0.0102,0.0667,0.0769
-2024-07-30 02:59:03.336383,80kg - Hussein Ishaish (JOR) vs Gabrijel Veocic (CRO) - To Win the Bout,Gabrijel Veocic (CRO),-0.010700000000000043,0.6667,0.6774
-2024-07-30 02:59:05.484141,Portland Classic - Portland Classic - Winner,Mao Saigo,-0.011099999999999999,0.1,0.1111
-2024-07-30 04:59:27.943043,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs X. Schauffele - Tournament Match-Up,Xander Schauffele,-0.011099999999999999,0.4651,0.4762
-2024-07-30 12:58:45.967330,Boxing Lines - Israil Madrimov vs Terence Crawford - To Win the Bout,Terence Crawford,-0.011099999999999999,0.8889,0.9
-2024-07-30 02:58:45.223753,Women's - Paris 2024 - Women's Triathlon - Gold Medal Winner,Taylor Knibb (USA),-0.011099999999999999,0.1,0.1111
 2024-07-30 12:58:23.235541,Men's - Gold Medal Winner - Gold Medal Winner,Rory McIlroy,-0.011099999999999999,0.1,0.1111
 2024-07-30 06:59:16.631765,Mens - Mens - Gold Medal Winner,Rory McIlroy,-0.011099999999999999,0.1,0.1111
+2024-07-30 04:59:27.943043,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs X. Schauffele - Tournament Match-Up,Xander Schauffele,-0.011099999999999999,0.4651,0.4762
+2024-07-30 12:58:45.967330,Boxing Lines - Israil Madrimov vs Terence Crawford - To Win the Bout,Terence Crawford,-0.011099999999999999,0.8889,0.9
 2024-07-30 06:58:56.397522,Men's - Paris 2024 - Men's Basketball - Gold Medal Winner,Australia,-0.011199999999999995,0.0323,0.0435
-2024-07-30 12:58:20.885692,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Semi Final 1,Josh Matheny (USA),-0.011199999999999995,0.0476,0.0588
 2024-07-30 06:58:59.034245,Tournament Futures - Paris 2024 - Men's Basketball - Gold Medal Winner,Australia,-0.011199999999999995,0.0323,0.0435
+2024-07-30 12:58:20.885692,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Semi Final 1,Josh Matheny (USA),-0.011199999999999995,0.0476,0.0588
 2024-07-30 10:59:26.852608,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Gary Peters,-0.011200000000000002,0.0132,0.0244
 2024-07-30 10:59:39.173908,SEC Regular Season Wins - SEC Regular Season Wins - Kentucky,Under 6.5 Wins,-0.011600000000000055,0.5122,0.5238
 2024-07-30 08:58:58.343682,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Gold Medal Winner,Joshua Yong (AUS),-0.0118,0.0099,0.0217
 2024-07-30 08:59:20.811595,Tournament Match-Ups - Tournament Match-Up - M. Fitzpatrick vs M.W. Lee - Tournament Match-Up,Min Woo Lee,-0.012199999999999989,0.4878,0.5
 2024-07-30 10:59:39.272402,SEC Regular Season Wins - SEC Regular Season Wins - Oklahoma ,Under 7.5 Wins,-0.012199999999999989,0.5,0.5122
 2024-07-30 04:59:06.207368,800m Freestyle - Paris 2024 - Men's 800m Freestyle - To Win a Medal,Elijah Winnington (AUS),-0.012199999999999989,0.5,0.5122
-2024-07-30 02:59:03.653930,57kg - Alyssa Mendoza (USA) vs Mijgona Samadova (TJK) - To Win the Bout,Alyssa Mendoza (USA),-0.012899999999999912,0.8333,0.8462
 2024-07-30 10:59:21.206523,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Winner Without Daniel Wiffen,Ahmed Jaouadi (TUN),-0.012899999999999995,0.1538,0.1667
-2024-07-30 02:58:45.223753,Women's - Paris 2024 - Women's Triathlon - Gold Medal Winner,Jeanne Lehair (LUX),-0.012999999999999998,0.0164,0.0294
-2024-07-30 02:58:43.091811,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Sandvikens IF,-0.0131,0.0345,0.0476
 2024-07-30 10:59:21.206523,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Winner Without Daniel Wiffen,Elijah Winnington (AUS),-0.0131,0.2222,0.2353
 2024-07-30 08:59:13.984523,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Baltimore Ravens,Yes,-0.01319999999999999,0.7368,0.75
 2024-07-30 10:59:26.852608,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Josh Shapiro,-0.013800000000000034,0.3636,0.3774
-2024-07-30 02:58:45.223753,Women's - Paris 2024 - Women's Triathlon - Gold Medal Winner,Taylor Spivey (USA),-0.014099999999999994,0.0526,0.0667
-2024-07-30 02:58:45.245203,Men's - Paris 2024 - Men's Triathlon - Gold Medal Winner,Tim Hellwig (GER),-0.014099999999999998,0.0244,0.0385
+2024-07-30 14:59:22.152000,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Gold Medal Winner,Maxime Grousset (FRA),-0.013999999999999999,0.0769,0.0909
 2024-07-30 08:58:58.438805,1500m Freestyle - Paris 2024 - Women's 1500m Freestyle - Gold Medal Winner,Anastasiia Kirpichnikova (FRA),-0.014099999999999998,0.0244,0.0385
-2024-07-30 02:58:45.245203,Men's - Paris 2024 - Men's Triathlon - Gold Medal Winner,Vasco Vilaca (POR),-0.014099999999999998,0.0294,0.0435
 2024-07-30 04:59:28.060228,Match-Ups - Tournament Match-Up - D. Puig v E. Grillo - Requests,David Puig,-0.014200000000000101,0.6154,0.6296
 2024-07-30 08:58:58.279919,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Winner Without Daniel Wiffen,Elijah Winnington (AUS),-0.01469999999999999,0.2353,0.25
-2024-07-30 02:58:43.036915,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Midtjylland,-0.015100000000000002,0.1667,0.1818
 2024-07-30 10:59:21.206523,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Winner Without Daniel Wiffen,Gregorio Paltrinieri (ITA),-0.015100000000000002,0.1667,0.1818
 2024-07-30 12:58:20.910585,4 x 200m Freestyle Relay - Paris 2024 - Men's 4 x 200m Freestyle Relay - To Win a Medal,China,-0.015700000000000006,0.1176,0.1333
+2024-07-30 14:59:46.863255,Mens - 2/3 Balls - 1st Round 3 Balls - S. Sharma / R. Campos / C. Ortiz - 1st Round 3 Balls,Rafael Campos,-0.015899999999999997,0.2222,0.2381
 2024-07-30 10:59:39.311128,SEC Regular Season Wins - SEC Regular Season Wins - Texas,Over 10.5 Wins,-0.016000000000000014,0.3922,0.4082
-2024-07-30 02:58:45.245203,Men's - Paris 2024 - Men's Triathlon - Gold Medal Winner,Pierre La Corre (FRA),-0.016600000000000004,0.0667,0.0833
-2024-07-30 02:58:43.043245,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Lyngby BK,-0.016699999999999937,0.5833,0.6
+2024-07-30 14:59:22.184018,1500m Freestyle - Paris 2024 - Men's 1500m Freestyle - Gold Medal Winner,Samuel Short (AUS),-0.016700000000000007,0.0833,0.1
 2024-07-30 06:59:16.291551,Boxing Lines - David Morrell vs Radivoje Kalajdzic - To Win the Bout,Radivoje Kalajdzic,-0.016700000000000007,0.0833,0.1
-2024-07-30 02:59:03.459590,54kg - Stanmira Petrova (BUL) vs Huang Hsiao-Wen (TPE) - To Win the Bout,Stanmira Petrova (BUL),-0.016700000000000048,0.7333,0.75
-2024-07-30 10:59:39.213274,SEC Regular Season Wins - SEC Regular Season Wins - Mississippi,Over 9.5 Wins,-0.017299999999999982,0.5744,0.5917
-2024-07-30 10:59:37.784309,ACC Regular Season Wins - ACC Regular Season Wins - SMU,Under 8.5 Wins,-0.017299999999999982,0.5744,0.5917
 2024-07-30 10:59:39.130832,SEC Regular Season Wins - SEC Regular Season Wins - Auburn,Under 7.5 Wins,-0.017299999999999982,0.5744,0.5917
+2024-07-30 10:59:37.784309,ACC Regular Season Wins - ACC Regular Season Wins - SMU,Under 8.5 Wins,-0.017299999999999982,0.5744,0.5917
+2024-07-30 10:59:39.213274,SEC Regular Season Wins - SEC Regular Season Wins - Mississippi,Over 9.5 Wins,-0.017299999999999982,0.5744,0.5917
 2024-07-30 08:59:14.217073,To Make the Playoffs - 2024-25 To Make the Playoffs - To Make the Playoffs - Las Vegas Raiders,No,-0.017400000000000082,0.7826,0.8
 2024-07-30 10:59:21.107393,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Semi Final 1,Leon Marchand (FRA),-0.01759999999999995,0.6491,0.6667
-2024-07-30 08:59:20.114829,Round Match-Ups - 1st Round Match-Up - S. Scheffler vs X. Schauffele - 1st Round Match-Up,Scottie Scheffler,-0.018100000000000005,0.5652,0.5833
 2024-07-30 10:59:39.299111,SEC Regular Season Wins - SEC Regular Season Wins - Tennessee,Over 8.5 Wins,-0.018100000000000005,0.6429,0.661
+2024-07-30 08:59:20.114829,Round Match-Ups - 1st Round Match-Up - S. Scheffler vs X. Schauffele - 1st Round Match-Up,Scottie Scheffler,-0.018100000000000005,0.5652,0.5833
 2024-07-30 08:58:58.174618,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Gold Medal Winner,Genki Terakado (JPN),-0.0189,0.0196,0.0385
+2024-07-30 14:59:22.141398,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Gold Medal Winner,Yu Hanaguruma (JPN),-0.0189,0.0196,0.0385
 2024-07-30 08:58:58.045293,Liga FPD Apertura - Costa Rica Primera Division Apertura 2024 - Futures - Winner,Herediano,-0.019000000000000017,0.2667,0.2857
 2024-07-30 10:59:21.083123,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Semi Final 1,Matt Richards (GBR),-0.019099999999999992,0.0476,0.0667
+2024-07-30 14:59:22.184018,1500m Freestyle - Paris 2024 - Men's 1500m Freestyle - Gold Medal Winner,Bobby Finke (USA),-0.019500000000000017,0.3509,0.3704
 2024-07-30 12:58:20.910585,4 x 200m Freestyle Relay - Paris 2024 - Men's 4 x 200m Freestyle Relay - To Win a Medal,Japan,-0.02020000000000001,0.0909,0.1111
+2024-07-30 14:59:22.112456,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Gold Medal Winner,Noe Ponti (SUI),-0.0203,0.0385,0.0588
+2024-07-30 14:59:22.152000,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Gold Medal Winner,Kyle Chalmers (AUS),-0.020799999999999985,0.3125,0.3333
 2024-07-30 06:58:55.412939,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Daniel Wiffen (IRL),-0.02169999999999994,0.5238,0.5455
 2024-07-30 04:59:27.788909,Tournament Match-Ups - Tournament Match-Up - A. Meronk vs M. Pavon - Tournament Match-Up,Matthieu Pavon,-0.02169999999999994,0.5238,0.5455
 2024-07-30 04:59:06.207368,800m Freestyle - Paris 2024 - Men's 800m Freestyle - To Win a Medal,Bobby Finke (USA),-0.02200000000000002,0.6923,0.7143
 2024-07-30 10:59:21.083123,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Semi Final 1,Nandor Nemeth (HUN),-0.022199999999999998,0.1111,0.1333
-2024-07-30 02:59:03.483268,54kg - Jennifer Lehane (IRL) vs Chang Yuan (CHN) - To Win the Bout,Chang Yuan (CHN),-0.022800000000000042,0.7333,0.7561
+2024-07-30 14:59:22.101985,100m Freestyle - Paris 2024 - Women's 100m Freestyle - Gold Medal Winner,Marrit Steenbergen (NED),-0.02310000000000001,0.0769,0.1
 2024-07-30 12:58:20.885692,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Semi Final 1,Dong Zhihao (CHN),-0.02310000000000001,0.0769,0.1
-2024-07-30 02:58:45.223753,Women's - Paris 2024 - Women's Triathlon - Gold Medal Winner,Leonie Periault (FRA),-0.0232,0.0435,0.0667
 2024-07-30 08:59:04.133732,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Gary Peters,-0.023200000000000002,0.0244,0.0476
-2024-07-30 02:58:43.082120,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Godoy Cruz,-0.023200000000000002,0.0244,0.0476
 2024-07-30 04:59:06.221903,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Match Up - Finke vs Wiffen,Bobby Finke (USA),-0.02360000000000001,0.3846,0.4082
 2024-07-30 06:58:55.419749,800m Freestyle - Paris 2024 - Men's 800m Freestyle - To Win a Medal,Elijah Winnington (AUS),-0.023799999999999988,0.4762,0.5
-2024-07-30 08:59:20.763577,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs L. Aberg - Tournament Match-Up,Ludvig Aberg,-0.023799999999999988,0.4762,0.5
 2024-07-30 12:58:20.917627,4 x 200m Freestyle Relay - Paris 2024 - Men's 4 x 200m Freestyle Relay - Match Up - Australia v USA,Australia,-0.023799999999999988,0.3333,0.3571
 2024-07-30 10:59:21.090022,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Semi Final 2,Jack Alexy (USA),-0.023799999999999988,0.3333,0.3571
+2024-07-30 08:59:20.763577,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs L. Aberg - Tournament Match-Up,Ludvig Aberg,-0.023799999999999988,0.4762,0.5
 2024-07-30 12:58:20.903404,4 x 200m Freestyle Relay - Paris 2024 - Men's 4 x 200m Freestyle Relay - Gold Medal Winner,France,-0.0238,0.0476,0.0714
 2024-07-30 06:59:17.450923,Tournament Match-Ups - Tournament Match-Up - M. Fitzpatrick vs M.W. Lee - Tournament Match-Up,Min Woo Lee,-0.023800000000000043,0.5,0.5238
 2024-07-30 04:59:27.764859,Tournament Match-Ups - Tournament Match-Up - A. Ancer vs C. Bezuidenhout - Tournament Match-Up,Abraham Ancer,-0.023800000000000043,0.5,0.5238
 2024-07-30 06:58:55.472622,100m Freestyle - Paris 2024 - Women's 100m Freestyle - Gold Medal Winner,Shayna Jack (AUS),-0.0242,0.0667,0.0909
-2024-07-30 06:58:55.472622,100m Freestyle - Paris 2024 - Women's 100m Freestyle - Gold Medal Winner,Marrit Steenbergen (NED),-0.024999999999999994,0.1,0.125
 2024-07-30 04:59:06.141981,100m Backstroke - Paris 2024 - Women's 100m Backstroke - Gold Medal Winner,Katharine Berkoff (USA),-0.024999999999999994,0.1,0.125
-2024-07-30 02:58:45.211397,Mixed - Paris 2024 - Triathlon Mixed Relay - Gold Medal Winner,Mexico (MEX),-0.0262,0.0123,0.0385
+2024-07-30 06:58:55.472622,100m Freestyle - Paris 2024 - Women's 100m Freestyle - Gold Medal Winner,Marrit Steenbergen (NED),-0.024999999999999994,0.1,0.125
+2024-07-30 14:59:22.141398,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Gold Medal Winner,Ippei Watanabe (JPN),-0.026199999999999998,0.0294,0.0556
 2024-07-30 10:59:21.090022,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Semi Final 2,Pan Zhanle (CHN),-0.02679999999999999,0.2857,0.3125
-2024-07-30 02:58:43.543412,100m Backstroke - Paris 2024 - Women's 100m Backstroke - Gold Medal Winner,Kaylee McKeown (AUS),-0.027700000000000002,0.4167,0.4444
 2024-07-30 04:59:06.200352,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Bobby Finke (USA),-0.02779999999999999,0.2222,0.25
 2024-07-30 08:58:58.438805,1500m Freestyle - Paris 2024 - Women's 1500m Freestyle - Gold Medal Winner,Li Bingjie (CHN),-0.028599999999999997,0.0149,0.0435
-2024-07-30 02:58:43.543412,100m Backstroke - Paris 2024 - Women's 100m Backstroke - Gold Medal Winner,Katharine Berkoff (USA),-0.028799999999999992,0.125,0.1538
+2024-07-30 14:59:22.112456,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Gold Medal Winner,Ilya Kharun (CAN),-0.029299999999999993,0.0476,0.0769
 2024-07-30 08:59:14.803592,ACC Regular Season Wins - ACC Regular Season Wins - Duke,Over 5.5 Wins,-0.030299999999999994,0.4348,0.4651
 2024-07-30 06:59:16.730783,Match-Ups - Tournament Match-Up - K. Nakajima v E. Grillo - Requests,Keita Nakajima,-0.030399999999999983,0.5348,0.5652
-2024-07-30 02:59:03.360005,80kg - Callum Peters (AUS) vs Nurbek Oralbay (KAZ) - To Win the Bout,Nurbek Oralbay (KAZ),-0.03169999999999995,0.7778,0.8095
-2024-07-30 04:59:06.200352,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Elijah Winnington (AUS),-0.031799999999999995,0.1111,0.1429
 2024-07-30 04:59:06.207368,800m Freestyle - Paris 2024 - Men's 800m Freestyle - To Win a Medal,Gregorio Paltrinieri (ITA),-0.031799999999999995,0.4444,0.4762
+2024-07-30 14:59:22.184018,1500m Freestyle - Paris 2024 - Men's 1500m Freestyle - Gold Medal Winner,Florian Wellbrock (GER),-0.031799999999999995,0.1111,0.1429
+2024-07-30 04:59:06.200352,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Elijah Winnington (AUS),-0.031799999999999995,0.1111,0.1429
 2024-07-30 08:58:58.438805,1500m Freestyle - Paris 2024 - Women's 1500m Freestyle - Gold Medal Winner,Isabel Gose (GER),-0.033,0.0196,0.0526
 2024-07-30 12:58:20.892860,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Semi Final 2,Matt Fallon (USA),-0.033399999999999985,0.1333,0.1667
 2024-07-30 04:59:06.200352,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Ahmed Jaouadi (TUN),-0.03420000000000001,0.0769,0.1111
+2024-07-30 14:59:22.152000,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Gold Medal Winner,Chris Guiliano (USA),-0.0344,0.0244,0.0588
+2024-07-30 14:59:47.064408,Match-Ups - Tournament Match-Up - M. Schmid v S. Sharma - Requests,Matti Schmid,-0.03480000000000005,0.5,0.5348
 2024-07-30 06:59:16.755445,Match-Ups - Tournament Match-Up - M. Fitzpatrick v M. W. Lee - Requests,Min Woo Lee,-0.03489999999999999,0.4651,0.5
 2024-07-30 08:58:58.258439,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Bobby Finke (USA),-0.03570000000000001,0.25,0.2857
 2024-07-30 08:59:04.133732,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Tim Walz,-0.03670000000000001,0.1538,0.1905
 2024-07-30 12:58:20.924839,4 x 200m Freestyle Relay - Paris 2024 - Men's 4 x 200m Freestyle Relay - Match Up - Japan v South Korea,Japan,-0.03710000000000002,0.3333,0.3704
 2024-07-30 10:59:26.852608,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Mark Kelly,-0.03710000000000002,0.3333,0.3704
 2024-07-30 10:59:21.083123,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Semi Final 1,Maxime Grousset (FRA),-0.038099999999999995,0.2,0.2381
+2024-07-30 14:59:22.112456,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Gold Medal Winner,Alberto Razzeti (ITA),-0.0392,0.0196,0.0588
 2024-07-30 10:59:21.414812,Most Medals - Paris 2024 - Most Gold Medals - Outright,USA,-0.04039999999999999,0.7778,0.8182
 2024-07-30 10:59:21.107393,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Semi Final 1,Alberto Razzeti (ITA),-0.04040000000000002,0.1818,0.2222
 2024-07-30 12:58:28.118286,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Democrat Popular Vote,-0.04089999999999999,0.2817,0.3226
-2024-07-30 02:58:45.245203,Men's - Paris 2024 - Men's Triathlon - Gold Medal Winner,Morgan Pearson (USA),-0.04440000000000001,0.0667,0.1111
-2024-07-30 02:58:45.223753,Women's - Paris 2024 - Women's Triathlon - Gold Medal Winner,Lisa Tertsch (GER),-0.04440000000000001,0.0667,0.1111
+2024-07-30 14:59:26.582160,BIG3 Basketball - BIG3 Basketball Championship Winner - 2024 - Championship Winner,Tri-State,-0.04240000000000001,0.0909,0.1333
+2024-07-30 14:59:28.920068,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Mark Kelly,-0.043200000000000016,0.3077,0.3509
 2024-07-30 12:58:20.892860,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Semi Final 2,Qin Haiyang (CHN),-0.044499999999999984,0.2222,0.2667
-2024-07-30 02:58:43.091811,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Östers IF,-0.044499999999999984,0.2222,0.2667
+2024-07-30 14:59:26.582160,BIG3 Basketball - BIG3 Basketball Championship Winner - 2024 - Championship Winner,Ball Hogs,-0.044599999999999994,0.0323,0.0769
+2024-07-30 14:59:47.628996,Positions - Finishing Position - Jon Rahm - Finishing Position,11th or worse,-0.04760000000000003,0.4762,0.5238
 2024-07-30 06:58:55.472622,100m Freestyle - Paris 2024 - Women's 100m Freestyle - Gold Medal Winner,Mollie O'Callaghan (AUS),-0.04820000000000002,0.5744,0.6226
+2024-07-30 14:59:22.101985,100m Freestyle - Paris 2024 - Women's 100m Freestyle - Gold Medal Winner,Mollie O'Callaghan (AUS),-0.04830000000000001,0.5261,0.5744
 2024-07-30 10:59:26.852608,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Tim Walz,-0.04849999999999999,0.1053,0.1538
 2024-07-30 06:58:55.419749,800m Freestyle - Paris 2024 - Men's 800m Freestyle - To Win a Medal,Sven Schwarz (GER),-0.04999999999999999,0.2,0.25
+2024-07-30 14:59:26.582160,BIG3 Basketball - BIG3 Basketball Championship Winner - 2024 - Championship Winner,3's Company,-0.04999999999999999,0.2,0.25
 2024-07-30 04:59:06.200352,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Gregorio Paltrinieri (ITA),-0.05,0.0833,0.1333
 2024-07-30 12:58:20.885692,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Semi Final 1,Zac Stubblety-Cook (AUS),-0.050000000000000044,0.75,0.8
 2024-07-30 10:59:37.804009,ACC Regular Season Wins - ACC Regular Season Wins - Stanford,Under 3.5 Wins,-0.05449999999999999,0.4,0.4545
 2024-07-30 08:59:04.133732,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Mark Kelly,-0.05509999999999998,0.3704,0.4255
 2024-07-30 12:58:22.273506,Double Sculls - Paris 2024 - Women's Double Sculls - Gold Medal Winner,Romania,-0.06269999999999998,0.6296,0.6923
-2024-07-30 08:59:19.796523,Match-Ups - Tournament Match-Up - A. Tosti v J. Niemann - Requests,Alejandro Tosti,-0.06669999999999998,0.2,0.2667
+2024-07-30 14:59:22.162688,200m Backstroke - Paris 2024 - Women's 200m Backstroke - Gold Medal Winner,Regan Smith (USA),-0.063,0.2941,0.3571
 2024-07-30 08:58:58.343682,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Gold Medal Winner,Matt Fallon (USA),-0.06669999999999998,0.1,0.1667
+2024-07-30 08:59:19.796523,Match-Ups - Tournament Match-Up - A. Tosti v J. Niemann - Requests,Alejandro Tosti,-0.06669999999999998,0.2,0.2667
 2024-07-30 12:58:22.298730,Coxless Four - Paris 2024 - Women's Coxless Four - Gold Medal Winner,Netherlands,-0.07789999999999997,0.2857,0.3636
 2024-07-30 12:58:22.273506,Double Sculls - Paris 2024 - Women's Double Sculls - Gold Medal Winner,France,-0.0791,0.0385,0.1176
 2024-07-30 12:58:20.910585,4 x 200m Freestyle Relay - Paris 2024 - Men's 4 x 200m Freestyle Relay - To Win a Medal,Australia,-0.08339999999999992,0.5833,0.6667
+2024-07-30 14:59:22.112456,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Gold Medal Winner,Leon Marchand (FRA),-0.09000000000000002,0.3448,0.4348
 2024-07-30 12:58:28.194533,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Andy Beshear,-0.0928,0.1739,0.2667
+2024-07-30 14:59:22.101985,100m Freestyle - Paris 2024 - Women's 100m Freestyle - Gold Medal Winner,Sarah Sjostrom (SWE),-0.09960000000000001,0.0909,0.1905
+2024-07-30 14:59:22.152000,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Gold Medal Winner,Jack Alexy (USA),-0.11039999999999998,0.0714,0.1818
 2024-07-30 08:59:19.772596,Match-Ups - 1st Round Match-Up - A. Tosti v J. Niemann - Requests,Alejandro Tosti,-0.11410000000000003,0.2941,0.4082
 2024-07-30 06:59:16.706149,Match-Ups - Tournament Match-Up - D. Puig v E. Grillo - Requests,David Puig,-0.11539999999999995,0.5,0.6154
+2024-07-30 14:59:22.152000,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Gold Medal Winner,David Popovici (ROU),-0.11900000000000002,0.1667,0.2857
 2024-07-30 12:58:22.311192,Coxless Four - Paris 2024 - Men's Coxless Four - Gold Medal Winner,Great Britain,-0.1577,0.4167,0.5744
 2024-07-30 08:58:58.174618,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Gold Medal Winner,Leon Marchand (FRA),-0.16519999999999996,0.4348,0.6
 2024-07-30 08:58:58.343682,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Gold Medal Winner,Qin Haiyang (CHN),-0.27770000000000006,0.1667,0.4444
