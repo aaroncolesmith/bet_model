@@ -1,49 +1,57 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-07-29 04:58:11.539040,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 4,Philadelphia Union,0.4,0.8,0.4
-2024-07-29 04:58:13.221674,Womens - Paris 2024 - Women's Individual Archery - Gold Medal Winner,Lim Sihyeon (KOR),0.3158,0.6491,0.3333
-2024-07-29 04:58:11.598483,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win West 8,Atlas FC,0.30160000000000003,0.5238,0.2222
-2024-07-29 04:58:11.582222,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win West 5,Portland Timbers,0.2613,0.6061,0.3448
-2024-07-29 04:58:11.533522,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 3,Inter Miami,0.23230000000000006,0.7778,0.5455
-2024-07-29 04:58:11.566065,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win West 2,San Jose Earthquakes,0.19999999999999998,0.3333,0.1333
-2024-07-29 04:58:11.576827,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win West 4,Sporting Kansas City,0.1955,0.5464,0.3509
-2024-07-29 04:58:11.544454,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 5,New England Revolution,0.18280000000000002,0.5464,0.3636
-2024-07-29 04:58:13.723957,Artistic - Paris 2024 - Women's Team All-Around - Gold Medal Winner,USA (USA),0.1765,0.9412,0.7647
+2024-07-29 16:59:30.944375,Men's - Paris 2024 - Men's Handball - Group A Winner,Germany (GER),0.2444,0.4444,0.2
 2024-07-29 06:58:25.212434,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Daniel Wiffen (IRL),0.16810000000000003,0.4348,0.2667
-2024-07-29 04:58:11.571446,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win West 3,St. Louis City SC,0.1552,0.7778,0.6226
-2024-07-29 04:58:11.549841,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 6,Toronto FC,0.14680000000000004,0.4545,0.3077
 2024-07-29 06:58:33.532144,Irish Politics - Irish Presidential Election 2025 - Irish Presidential Election Winner,Micheal Martin,0.14229999999999998,0.1667,0.0244
-2024-07-29 04:58:21.113614,Electoral College Winner - New Mexico (NM) - NM,Democrat,0.12380000000000002,0.8571,0.7333
-2024-07-29 04:58:21.808026,UK Party Leaders - Next Conservative Party Leader - Next Conservative Leader After Rishi Sunak,Robert Jenrick,0.11900000000000002,0.2857,0.1667
+2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Zeyad Ishaish (JOR),0.13219999999999998,0.1667,0.0345
+2024-07-29 16:59:30.915111,Women's - Paris 2024 - Women's Handball - Group A Winner,Norway (W),0.13,0.5744,0.4444
+2024-07-29 16:59:29.448087,100m Freestyle - Paris 2024 - Women's 100m Freestyle - Gold Medal Winner,Mollie O'Callaghan (AUS),0.12260000000000004,0.6226,0.5
 2024-07-29 06:58:26.327014,Team - Paris 2024 - Team Dressage - To Win a Medal,Great Britain,0.11560000000000004,0.7647,0.6491
+2024-07-29 16:59:29.458545,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Gold Medal Winner,Leon Marchand (FRA),0.10390000000000002,0.2857,0.1818
 2024-07-29 06:58:26.608480,Quadruple Sculls - Paris 2024 - Women's Quadruple Sculls - Gold Medal Winner,Great Britain,0.10389999999999999,0.8182,0.7143
-2024-07-29 04:58:13.210647,Mens - Paris 2024 - Men's Individual Archery - Gold Medal Winner,Kim Woojin (KOR),0.09799999999999998,0.3333,0.2353
+2024-07-29 16:59:30.944375,Men's - Paris 2024 - Men's Handball - Group A Winner,Sweden (SWE),0.09999999999999998,0.5,0.4
+2024-07-29 16:59:30.915111,Women's - Paris 2024 - Women's Handball - Group A Winner,Sweden (W),0.09689999999999999,0.3636,0.2667
+2024-07-29 16:59:30.923639,Women's - Paris 2024 - Women's Handball - Group B Winner,France (W),0.09530000000000005,0.9524,0.8571
 2024-07-29 10:58:21.743941,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Mark Kelly,0.09410000000000002,0.4167,0.3226
 2024-07-29 14:58:33.828545,Women's - Paris 2024 - Women's Rugby Sevens - Gold Medal Winner,New Zealand (W),0.09089999999999998,0.6364,0.5455
 2024-07-29 06:58:26.587148,Quadruple Sculls - Paris 2024 - Men's Quadruple Sculls - Gold Medal Winner,Netherlands,0.08889999999999998,0.8667,0.7778
 2024-07-29 06:58:25.212434,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Ahmed Jaouadi (TUN),0.0867,0.1111,0.0244
 2024-07-29 12:58:25.355135,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Gold Medal Winner,Kyle Chalmers (AUS),0.0857,0.2857,0.2
 2024-07-29 14:58:34.179245,Men's - Paris 2024 - Men's Water Polo - Gold Medal Winner,Hungary,0.08549999999999996,0.3077,0.2222
+2024-07-29 16:59:29.547326,200m Butterfly - Paris 2024 - Women's 200m Butterfly - Gold Medal Winner,Summer McIntosh (CAN),0.0847,0.7143,0.6296
 2024-07-29 10:58:37.472324,60kg - Jajaira Gonzalez (USA) vs Beatriz Ferreira (BRA) - To Win the Bout,Beatriz Ferreira (BRA),0.08330000000000004,0.75,0.6667
 2024-07-29 06:58:26.318735,Team - Paris 2024 - Team Dressage - Gold Medal Winner,Great Britain,0.08330000000000001,0.25,0.1667
 2024-07-29 06:58:24.970854,100m Backstroke - Paris 2024 - Women's 100m Backstroke - Gold Medal Winner,Katharine Berkoff (USA),0.08179999999999998,0.1818,0.1
-2024-07-29 04:58:21.808026,UK Party Leaders - Next Conservative Party Leader - Next Conservative Leader After Rishi Sunak,Tom Tugendhat,0.07930000000000001,0.2222,0.1429
+2024-07-29 16:59:30.935700,Men's - Paris 2024 - Men's Handball - Gold Medal Winner,Denmark (DEN),0.07939999999999997,0.5556,0.4762
+2024-07-29 16:59:31.339629,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Caroline Marks (USA),0.07930000000000001,0.2222,0.1429
 2024-07-29 08:58:39.906567,Portland Classic - Portland Classic - Winner,Lauren Coughlin,0.0759,0.0769,0.001
+2024-07-29 16:59:30.542797,Men's - Paris 2024 - Men's Basketball - Group C Winner,USA,0.07589999999999997,0.999,0.9231
 2024-07-29 08:58:39.906567,Portland Classic - Portland Classic - Winner,Jenny Shin,0.07289999999999999,0.0769,0.004
+2024-07-29 16:59:29.526039,200m Breaststroke - Paris 2024 - Women's 200m Breaststroke - Gold Medal Winner,Mona McSharry (IRL),0.07189999999999999,0.0769,0.005
 2024-07-29 08:58:39.906567,Portland Classic - Portland Classic - Winner,Jennifer Kupcho,0.06699999999999999,0.0769,0.0099
 2024-07-29 06:58:30.590545,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Under 38.5,0.06670000000000004,0.4,0.3333
-2024-07-29 06:58:47.672695,60kg - Jajaira Gonzalez (USA) vs Beatriz Ferreira (BRA) - To Win the Bout,Jajaira Gonzalez (USA),0.06670000000000004,0.4,0.3333
 2024-07-29 10:58:14.413971,Liga FPD Apertura - Costa Rica Primera Division Apertura 2024 - Futures - Winner,Saprissa,0.06670000000000004,0.4,0.3333
+2024-07-29 16:59:30.623779,57kg - Paris 2024 - Men's 57kg Boxing - Gold Medal Winner,Abdulmalik Khalokov (UZB),0.06670000000000004,0.4,0.3333
+2024-07-29 06:58:47.672695,60kg - Jajaira Gonzalez (USA) vs Beatriz Ferreira (BRA) - To Win the Bout,Jajaira Gonzalez (USA),0.06670000000000004,0.4,0.3333
+2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Asadkhuja Muydinkhujaev (UZB),0.06670000000000001,0.2,0.1333
 2024-07-29 06:58:25.212434,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Gregorio Paltrinieri (ITA),0.0666,0.1333,0.0667
+2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Nikolai Terteryan (DEN),0.0666,0.1333,0.0667
 2024-07-29 08:58:15.565813,"10,000m - Paris 2024 - Men's 10,000m - Gold Medal Winner",Joshua Cheptegei (UGA),0.06490000000000001,0.3774,0.3125
 2024-07-29 08:58:39.906567,Portland Classic - Portland Classic - Winner,Allisen Corpuz,0.0642,0.0667,0.0025
+2024-07-29 16:59:30.611915,54kg - Paris 2024 - Women's 54kg Boxing - Gold Medal Winner,Jutamas Jitpong (THA),0.0635,0.1111,0.0476
+2024-07-29 16:59:30.953019,Men's - Paris 2024 - Men's Handball - Group B Winner,Denmark (DEN),0.05830000000000002,0.9333,0.875
 2024-07-29 14:58:34.192200,Women's - Paris 2024 - Women's Water Polo - Gold Medal Winner,Netherlands (W),0.0572,0.1905,0.1333
 2024-07-29 08:58:15.565813,"10,000m - Paris 2024 - Men's 10,000m - Gold Medal Winner",Jacob Kiplimo (UGA),0.05710000000000001,0.2,0.1429
+2024-07-29 16:59:30.600178,80kg - Paris 2024 - Men's 80kg Boxing - Gold Medal Winner,Arlen Lopez (CUB),0.055900000000000005,0.3226,0.2667
+2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Merco Verde (MEX),0.05559999999999998,0.1667,0.1111
 2024-07-29 12:58:25.344837,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Gold Medal Winner,Leon Marchand (FRA),0.05559999999999998,0.5556,0.5
-2024-07-29 04:58:11.521933,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 1,FC Cincinnati,0.05449999999999999,0.6,0.5455
+2024-07-29 16:59:30.611915,54kg - Paris 2024 - Women's 54kg Boxing - Gold Medal Winner,Mongontsetsegiin Enkhjargal (MGL),0.0539,0.0833,0.0294
+2024-07-29 16:59:30.953019,Men's - Paris 2024 - Men's Handball - Group B Winner,Norway (NOR),0.053599999999999995,0.125,0.0714
 2024-07-29 10:58:15.778547,Men's - Paris 2024 - Men's Field Hockey - Gold Medal Winner,Australia (AUS),0.05350000000000002,0.2353,0.1818
-2024-07-29 04:58:11.521933,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 1,New York City FC,0.053100000000000036,0.4167,0.3636
+2024-07-29 16:59:29.536721,200m Backstroke - Paris 2024 - Men's 200m Backstroke - Gold Medal Winner,Hubert Kos (HUN),0.053100000000000036,0.4167,0.3636
 2024-07-29 06:58:30.088040,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Under 35.5,0.05300000000000005,0.5652,0.5122
-2024-07-29 04:58:21.808026,UK Party Leaders - Next Conservative Party Leader - Next Conservative Leader After Rishi Sunak,James Cleverly,0.052000000000000005,0.1429,0.0909
+2024-07-29 16:59:31.339629,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Carissa Moore (USA),0.052000000000000005,0.1429,0.0909
+2024-07-29 14:58:34.610272,Tennis - Paris 2024 - Men's Olympics Tennis 2024 - Gold Medal Winner,Novak Djokovic,0.047599999999999976,0.3333,0.2857
+2024-07-29 16:59:30.935700,Men's - Paris 2024 - Men's Handball - Gold Medal Winner,Norway (NOR),0.0474,0.0909,0.0435
 2024-07-29 08:58:39.906567,Portland Classic - Portland Classic - Winner,Na Rin An,0.0466,0.0476,0.001
 2024-07-29 06:58:30.069359,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Under 32.5,0.04580000000000001,0.3125,0.2667
 2024-07-29 12:58:25.355135,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Gold Medal Winner,Pan Zhanle (CHN),0.045499999999999985,0.5455,0.5
@@ -51,172 +59,208 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-29 14:58:37.244586,The Basketball Tournament - The Basketball Tournament - Outright,La Familia,0.044499999999999984,0.2667,0.2222
 2024-07-29 06:58:30.288738,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Over 47.5,0.044399999999999995,0.6,0.5556
 2024-07-29 06:58:31.303821,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Under 46.5,0.043399999999999994,0.5556,0.5122
-2024-07-29 04:58:13.210647,Mens - Paris 2024 - Men's Individual Archery - Gold Medal Winner,Kim Je Deok (KOR),0.04269999999999999,0.1538,0.1111
-2024-07-29 04:58:13.210647,Mens - Paris 2024 - Men's Individual Archery - Gold Medal Winner,Mete Gazoz (TUR),0.04269999999999999,0.1538,0.1111
-2024-07-29 04:58:21.821580,UK Party Leaders - Next Labour Party Leader - Next Labour Leader After Keir Starmer,Rachel Reeves,0.04169999999999999,0.1667,0.125
-2024-07-29 04:58:11.571446,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win West 3,FC Juárez,0.03889999999999999,0.1818,0.1429
+2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Sewon Okazawa (JAP),0.042899999999999994,0.1429,0.1
+2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Rami Mofid Kiwan (BUL),0.04240000000000001,0.1333,0.0909
+2024-07-29 16:59:30.248965,Men's - Paris 2024 - Men's Beach Volleyball - Gold Medal Winner,Mol / Sørum (NOR),0.04040000000000002,0.2222,0.1818
+2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Makan Traore (FRA),0.0392,0.0588,0.0196
+2024-07-29 16:59:30.248965,Men's - Paris 2024 - Men's Beach Volleyball - Gold Medal Winner,Younousse / Tijan (QAT),0.037500000000000006,0.1,0.0625
 2024-07-29 14:58:34.192200,Women's - Paris 2024 - Women's Water Polo - Gold Medal Winner,Spain (W),0.03670000000000001,0.1905,0.1538
-2024-07-29 10:58:33.412299,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Indiana,Over 5.5 Wins,0.03610000000000002,0.5917,0.5556
+2024-07-29 16:59:30.348727,Road - Paris 2024 - Men's Road Race - Gold Medal Winner,Mathieu van der Poel (NED),0.03640000000000004,0.4,0.3636
+2024-07-29 16:59:30.357593,Road - Paris 2024 - Men's Road Race - To Win a Medal,Mathieu van der Poel (NED),0.0363,0.7333,0.697
 2024-07-29 10:58:33.528080,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Nebraska,Over 7.5 Wins,0.03610000000000002,0.5917,0.5556
+2024-07-29 10:58:33.412299,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Indiana,Over 5.5 Wins,0.03610000000000002,0.5917,0.5556
+2024-07-29 16:59:44.631360,Tight Ends - NFL 2024-25 Receiving TD's - Mark Andrews Regular Season Total Receiving TDs 2024-25,Over 6.5 TD's,0.035999999999999976,0.5122,0.4762
+2024-07-29 16:59:32.009149,Tennis - Paris 2024 - Women's Olympics Tennis 2024 - Gold Medal Winner,Iga Swiatek,0.035699999999999954,0.75,0.7143
 2024-07-29 06:58:26.345483,Team - Paris 2024 - Team Jumping - To Win a Medal,United States,0.034499999999999975,0.3571,0.3226
-2024-07-29 04:58:13.210647,Mens - Paris 2024 - Men's Individual Archery - Gold Medal Winner,Florian Unruh (GER),0.0344,0.0588,0.0244
+2024-07-29 16:59:30.935700,Men's - Paris 2024 - Men's Handball - Gold Medal Winner,Sweden (SWE),0.034100000000000005,0.125,0.0909
 2024-07-29 08:58:39.906567,Portland Classic - Portland Classic - Winner,Ariya Jutanugarn,0.0335,0.0476,0.0141
+2024-07-29 16:59:31.339629,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Tyler Wright (AUS),0.03330000000000001,0.1,0.0667
+2024-07-29 16:59:37.703156,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Mark Kelly,0.033299999999999996,0.4255,0.3922
+2024-07-29 16:59:30.611915,54kg - Paris 2024 - Women's 54kg Boxing - Gold Medal Winner,Huang Hsiao-Wen (TPE),0.033299999999999996,0.1333,0.1
 2024-07-29 06:58:24.970854,100m Backstroke - Paris 2024 - Women's 100m Backstroke - Gold Medal Winner,Regan Smith (USA),0.03269999999999995,0.5455,0.5128
+2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Lewis Richardson (GBR),0.03219999999999999,0.0667,0.0345
+2024-07-29 16:59:30.611915,54kg - Paris 2024 - Women's 54kg Boxing - Gold Medal Winner,Hatice Akbas (TUR),0.03219999999999999,0.0667,0.0345
+2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Omari Jones (USA),0.0321,0.0909,0.0588
 2024-07-29 06:58:33.532144,Irish Politics - Irish Presidential Election 2025 - Irish Presidential Election Winner,Fergus Finlay,0.031799999999999995,0.1429,0.1111
-2024-07-29 04:58:12.327492,400m Individual Medley - Paris 2024 - Women's 400m Individual Medley - Gold Medal Winner,Summer McIntosh (CAN),0.02859999999999996,0.9901,0.9615
+2024-07-29 16:59:44.588135,Tight Ends - NFL 2024-25 Receiving TD's - George Kittle Regular Season Total Receiving TDs 2024-25,Under 5.5 TD's,0.030399999999999983,0.5652,0.5348
+2024-07-29 16:59:30.611915,54kg - Paris 2024 - Women's 54kg Boxing - Gold Medal Winner,Preeti Pawar (IND),0.0294,0.0588,0.0294
 2024-07-29 06:58:33.532144,Irish Politics - Irish Presidential Election 2025 - Irish Presidential Election Winner,Miriam O'Callaghan,0.028399999999999995,0.0909,0.0625
 2024-07-29 08:58:39.906567,Portland Classic - Portland Classic - Winner,Grace Kim,0.028300000000000002,0.0323,0.004
+2024-07-29 16:59:30.944375,Men's - Paris 2024 - Men's Handball - Group A Winner,Slovenia (SLO),0.028000000000000004,0.0476,0.0196
 2024-07-29 10:58:14.413971,Liga FPD Apertura - Costa Rica Primera Division Apertura 2024 - Futures - Winner,Cartaginés,0.028000000000000004,0.0476,0.0196
+2024-07-29 16:59:34.361378,Tournament Futures - Paris 2024 - Men's Basketball - USA vs The Field,USA,0.027999999999999914,0.8462,0.8182
 2024-07-29 10:58:14.545726,400m Individual Medley - Paris 2024 - Women's 400m Individual Medley - World Record In Final?,No,0.027800000000000047,0.7778,0.75
 2024-07-29 06:58:30.050589,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Under 38.5,0.027800000000000047,0.75,0.7222
 2024-07-29 14:58:33.394754,80kg - Paris 2024 - Men's 80kg Boxing - Gold Medal Winner,Toqtarbek Tanatqan (CHN),0.027800000000000005,0.1111,0.0833
+2024-07-29 16:59:30.611915,54kg - Paris 2024 - Women's 54kg Boxing - Gold Medal Winner,Pang Chol-Mi (PRK),0.02779999999999999,0.25,0.2222
 2024-07-29 14:58:32.300467,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Gold Medal Winner,Leon Marchand (FRA),0.027700000000000058,0.5833,0.5556
 2024-07-29 08:58:39.906567,Portland Classic - Portland Classic - Winner,Sei Young Kim,0.0273,0.0323,0.005
 2024-07-29 06:58:30.999830,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Under 56.5,0.02729999999999999,0.6825,0.6552
 2024-07-29 10:58:33.451159,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Maryland,Under 6.5 Wins,0.026499999999999968,0.5917,0.5652
 2024-07-29 06:58:31.904370,Donald Trump Specials - Donald Trump Favorability Rating August 31st 2024 - Trump Favorability Aug 31st,Under 42.7,0.026499999999999968,0.5917,0.5652
+2024-07-29 16:59:30.611915,54kg - Paris 2024 - Women's 54kg Boxing - Gold Medal Winner,Stanmira Petrova (BUL),0.02560000000000001,0.3333,0.3077
 2024-07-29 06:58:30.251094,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Over 50.5,0.025499999999999967,0.4255,0.4
 2024-07-29 12:58:25.406705,100m Backstroke - Paris 2024 - Women's 100m Backstroke - Gold Medal Winner,Regan Smith (USA),0.02529999999999999,0.5708,0.5455
-2024-07-29 04:58:13.221674,Womens - Paris 2024 - Women's Individual Archery - Gold Medal Winner,Suhyean Nam (KOR),0.024999999999999994,0.125,0.1
-2024-07-29 04:58:13.210647,Mens - Paris 2024 - Men's Individual Archery - Gold Medal Winner,Matias Grande (MEX),0.024399999999999998,0.0294,0.005
 2024-07-29 14:58:33.394754,80kg - Paris 2024 - Men's 80kg Boxing - Gold Medal Winner,Kaan Aykutsun (TUR),0.024399999999999998,0.0294,0.005
-2024-07-29 04:58:14.581637,Women's - Gold Medal Winner - Gold Medal Winner,Rose Zhang,0.024299999999999995,0.0769,0.0526
+2024-07-29 16:59:30.935700,Men's - Paris 2024 - Men's Handball - Gold Medal Winner,Germany (GER),0.024299999999999995,0.0769,0.0526
+2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Vahid Abasov (SRB),0.024299999999999995,0.0588,0.0345
 2024-07-29 14:58:34.192200,Women's - Paris 2024 - Women's Water Polo - Gold Medal Winner,Hungary (W),0.0242,0.0909,0.0667
 2024-07-29 10:58:14.679315,100m Backstroke - Paris 2024 - Men's 100m Backstroke - To Win a Medal,Ryan Murphy (USA),0.023800000000000043,0.5238,0.5
+2024-07-29 16:59:44.652031,Tight Ends - NFL 2024-25 Receiving TD's - Sam LaPorta Regular Season Total Receiving TDs 2024-25,Over 7.5 TD's,0.023799999999999988,0.5,0.4762
 2024-07-29 14:58:41.230747,CFL - CFL Futures -  Grey Cup Winner 2024,Toronto Argonauts,0.023799999999999988,0.1667,0.1429
-2024-07-29 04:58:14.581637,Women's - Gold Medal Winner - Gold Medal Winner,Nelly Korda,0.023799999999999988,0.1667,0.1429
+2024-07-29 16:59:31.339629,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Brisa Hennessy (CRC),0.023799999999999988,0.1667,0.1429
 2024-07-29 10:58:13.700421,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Top Goalscorer,Daniel Rios,0.0236,0.0385,0.0149
-2024-07-29 08:58:39.906567,Portland Classic - Portland Classic - Winner,Pajaree Anannarukarn,0.0234,0.0244,0.001
 2024-07-29 08:58:39.906567,Portland Classic - Portland Classic - Winner,Moriya Jutanugarn,0.0234,0.0244,0.001
+2024-07-29 08:58:39.906567,Portland Classic - Portland Classic - Winner,Pajaree Anannarukarn,0.0234,0.0244,0.001
 2024-07-29 06:58:30.609357,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Under 44.5,0.023399999999999976,0.7059,0.6825
+2024-07-29 16:59:31.339629,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Luana Silva  (BRA),0.023200000000000002,0.0476,0.0244
 2024-07-29 06:58:31.456737,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Under 19.5,0.0232,0.2899,0.2667
-2024-07-29 10:58:36.078413,NCAA Football Futures - 2024 Big 12 Conference Championship  - Championship Game Winner,Iowa State,0.02310000000000001,0.1,0.0769
-2024-07-29 06:58:29.930910,NBA Awards - NBA Awards 2024-25 - Coach of the Year ,Taylor Jenkins,0.02310000000000001,0.1,0.0769
 2024-07-29 06:58:29.930910,NBA Awards - NBA Awards 2024-25 - Coach of the Year ,Ime Udoka,0.02310000000000001,0.1,0.0769
+2024-07-29 06:58:29.930910,NBA Awards - NBA Awards 2024-25 - Coach of the Year ,Taylor Jenkins,0.02310000000000001,0.1,0.0769
+2024-07-29 10:58:36.078413,NCAA Football Futures - 2024 Big 12 Conference Championship  - Championship Game Winner,Iowa State,0.02310000000000001,0.1,0.0769
+2024-07-29 16:59:31.339629,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Nadia Erostabe (ESP),0.0228,0.0294,0.0066
 2024-07-29 06:58:30.819354,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Under 44.5,0.022600000000000064,0.5348,0.5122
 2024-07-29 06:58:33.605757,Scottish Politics - Next Independence Referendum Result - Next Scottish Independence Referendum Result,For Independence,0.022600000000000064,0.5348,0.5122
 2024-07-29 06:58:24.057011,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Club América,0.022199999999999998,0.2222,0.2
+2024-07-29 16:59:29.526039,200m Breaststroke - Paris 2024 - Women's 200m Breaststroke - Gold Medal Winner,Tatjana Smith (RSA),0.02200000000000002,0.7143,0.6923
 2024-07-29 12:58:25.375667,800m Freestyle - Paris 2024 - Women's 800m Freestyle - Gold Medal Winner,Ariarne Titmus (AUS),0.021999999999999964,0.3077,0.2857
 2024-07-29 06:58:31.018681,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Under 53.5,0.02169999999999994,0.5455,0.5238
-2024-07-29 04:58:13.210647,Mens - Paris 2024 - Men's Individual Archery - Gold Medal Winner,Nicholas D'Amour (ISV),0.0215,0.0294,0.0079
 2024-07-29 06:58:31.292562,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Under 49.5,0.02080000000000004,0.6875,0.6667
-2024-07-29 06:58:24.933872,200m Freestyle - Paris 2024 - Men's 200m Freestyle - To Win a Medal,Lukas Martens (GER),0.020699999999999996,0.4651,0.4444
+2024-07-29 16:59:35.292260,Group A - Paris 2024 - Men's Basketball Group A - Winner,Australia,0.020799999999999985,0.3333,0.3125
+2024-07-29 16:59:30.525259,Men's - Paris 2024 - Men's Basketball - Group A Winner,Australia,0.020799999999999985,0.3333,0.3125
 2024-07-29 12:58:45.056587,MWC Regular Season Wins - MWC Regular Season Wins - UNVL,Over 7.5 Wins,0.020699999999999996,0.4651,0.4444
+2024-07-29 06:58:24.933872,200m Freestyle - Paris 2024 - Men's 200m Freestyle - To Win a Medal,Lukas Martens (GER),0.020699999999999996,0.4651,0.4444
 2024-07-29 06:58:24.057011,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Portland Timbers,0.0203,0.0588,0.0385
-2024-07-29 06:58:26.337119,Team - Paris 2024 - Team Jumping - Gold Medal Winner,United States,0.02020000000000001,0.1111,0.0909
 2024-07-29 12:58:27.528632,Olympic Specials - Paris 2024 - Athletics Specials - Athletics Specials,Noah Lyles To Win Gold In Men's 100m & Italy To Win Gold In Men's Shot Put,0.02020000000000001,0.1111,0.0909
+2024-07-29 06:58:26.337119,Team - Paris 2024 - Team Jumping - Gold Medal Winner,United States,0.02020000000000001,0.1111,0.0909
 2024-07-29 06:58:31.363756,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Over 35.5,0.01970000000000005,0.5652,0.5455
+2024-07-29 06:58:31.467957,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Under 22.5,0.01970000000000005,0.5652,0.5455
 2024-07-29 06:58:31.427545,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Under 30.5,0.01970000000000005,0.5652,0.5455
 2024-07-29 06:58:30.628119,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Under 41.5,0.01970000000000005,0.5652,0.5455
-2024-07-29 06:58:31.467957,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Under 22.5,0.01970000000000005,0.5652,0.5455
+2024-07-29 16:59:30.623779,57kg - Paris 2024 - Men's 57kg Boxing - Gold Medal Winner,Charlie Senior (AUS),0.019499999999999997,0.0294,0.0099
 2024-07-29 12:58:25.307183,200m Freestyle - Paris 2024 - Women's 200m Freestyle - Match Up - Weinstein vs Haughey,Siobhan Haughey (HKG),0.019499999999999962,0.6491,0.6296
+2024-07-29 16:59:30.575961,Women's - Paris 2024 - Women's Basketball - Gold Medal Winner,France (W),0.019000000000000003,0.0625,0.0435
+2024-07-29 16:59:35.378123,Tournament Futures - Paris 2024 - Women's Basketball - Gold Medal Winner,France (W),0.019000000000000003,0.0625,0.0435
+2024-07-29 16:59:30.261101,Women's - Paris 2024 - Women's Beach Volleyball - Gold Medal Winner,Bobner / Verge-Depre (SUI),0.0189,0.0385,0.0196
 2024-07-29 14:58:53.761655,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Miami Florida,0.0189,0.0385,0.0196
-2024-07-29 04:58:12.327492,400m Individual Medley - Paris 2024 - Women's 400m Individual Medley - Gold Medal Winner,Emma Weyant (USA),0.0189,0.0385,0.0196
-2024-07-29 04:58:12.484089,200m Freestyle - Paris 2024 - Women's 200m Freestyle - Gold Medal Winner,Ariarne Titmus (AUS),0.01880000000000004,0.5744,0.5556
 2024-07-29 06:58:31.281180,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Under 43.5,0.018799999999999983,0.3636,0.3448
 2024-07-29 06:58:30.781833,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Under 41.5,0.018799999999999983,0.3636,0.3448
 2024-07-29 08:58:39.906567,Portland Classic - Portland Classic - Winner,Yealimi Noh,0.0183,0.0196,0.0013
+2024-07-29 16:59:37.703156,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Tim Walz,0.01820000000000002,0.2,0.1818
+2024-07-29 16:59:29.526039,200m Breaststroke - Paris 2024 - Women's 200m Breaststroke - Gold Medal Winner,Lilly King (USA),0.018200000000000004,0.0476,0.0294
 2024-07-29 06:58:26.608480,Quadruple Sculls - Paris 2024 - Women's Quadruple Sculls - Gold Medal Winner,Switzerland,0.018200000000000004,0.0476,0.0294
+2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Tugrulhan Erdemir (TUR),0.018200000000000004,0.0476,0.0294
+2024-07-29 16:59:30.623779,57kg - Paris 2024 - Men's 57kg Boxing - Gold Medal Winner,Saidel Horta (CUB),0.018099999999999998,0.0769,0.0588
+2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Nishant Dev (IND),0.018099999999999998,0.0526,0.0345
 2024-07-29 06:58:26.608480,Quadruple Sculls - Paris 2024 - Women's Quadruple Sculls - Gold Medal Winner,Germany,0.018099999999999998,0.0769,0.0588
 2024-07-29 14:58:33.394754,80kg - Paris 2024 - Men's 80kg Boxing - Gold Medal Winner,Callum Peters (AUS),0.018099999999999998,0.0769,0.0588
-2024-07-29 14:58:33.394754,80kg - Paris 2024 - Men's 80kg Boxing - Gold Medal Winner,Nurbek Oralbay (KAZ),0.0179,0.1429,0.125
 2024-07-29 06:58:25.212434,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Elijah Winnington (AUS),0.0179,0.1429,0.125
+2024-07-29 14:58:33.394754,80kg - Paris 2024 - Men's 80kg Boxing - Gold Medal Winner,Nurbek Oralbay (KAZ),0.0179,0.1429,0.125
+2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Tiago Muxanga (MOZ),0.017800000000000003,0.0244,0.0066
 2024-07-29 06:58:30.111615,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Over 61.5,0.017600000000000005,0.3509,0.3333
+2024-07-29 16:59:30.214897,Womens - Paris 2024 - Women's Individual Archery - Gold Medal Winner,Lim Sihyeon (KOR),0.01759999999999995,0.6667,0.6491
 2024-07-29 06:58:31.445524,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Under 25.5,0.017400000000000082,0.8,0.7826
 2024-07-29 12:58:44.876115,MWC Regular Season Wins - MWC Regular Season Wins - Air Force,Over 6.5 Wins,0.017299999999999982,0.5917,0.5744
 2024-07-29 12:58:44.997356,MWC Regular Season Wins - MWC Regular Season Wins - New Mexico,Under 2.5 Wins,0.017299999999999982,0.5917,0.5744
+2024-07-29 16:59:30.611915,54kg - Paris 2024 - Women's 54kg Boxing - Gold Medal Winner,Nigina Uktamova (UZB),0.017099999999999997,0.0294,0.0123
 2024-07-29 14:58:34.192200,Women's - Paris 2024 - Women's Water Polo - Gold Medal Winner,Australia (W),0.017099999999999997,0.0556,0.0385
 2024-07-29 06:58:30.269860,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Over 44.5,0.016700000000000048,0.75,0.7333
 2024-07-29 06:58:31.344838,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Over 38.5,0.016699999999999993,0.4167,0.4
-2024-07-29 04:58:14.581637,Women's - Gold Medal Winner - Gold Medal Winner,Jin Young Ko,0.016600000000000004,0.0833,0.0667
+2024-07-29 16:59:29.526039,200m Breaststroke - Paris 2024 - Women's 200m Breaststroke - Gold Medal Winner,Kate Douglass (USA),0.016699999999999993,0.2667,0.25
+2024-07-29 16:59:29.416730,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Gold Medal Winner,Leon Marchand (FRA),0.016699999999999937,0.6,0.5833
 2024-07-29 06:58:31.408739,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Under 33.5,0.01629999999999998,0.7222,0.7059
 2024-07-29 06:58:31.326007,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Over 32.5,0.015900000000000025,0.7778,0.7619
 2024-07-29 10:58:33.671023,Big Ten Regular Season Wins - Big Ten Regular Season Wins - UCLA ,Under 5.5 Wins,0.015800000000000036,0.6825,0.6667
+2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Jose Rodriguez Tenorio (ECU),0.015300000000000001,0.0476,0.0323
+2024-07-29 16:59:30.542797,Men's - Paris 2024 - Men's Basketball - Group C Winner,South Sudan,0.015300000000000001,0.0476,0.0323
 2024-07-29 08:58:39.906567,Portland Classic - Portland Classic - Winner,Arpichaya Yubol,0.015100000000000002,0.0164,0.0013
-2024-07-29 04:58:13.221674,Womens - Paris 2024 - Women's Individual Archery - Gold Medal Winner,Chiara Rebagliati (ITA),0.0145,0.0244,0.0099
+2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Kan Chia-Wei (TPE),0.0145,0.0244,0.0099
 2024-07-29 14:58:32.449503,Most Medals - Paris 2024 - Most Overall Medals - Outright,USA,0.014499999999999957,0.9901,0.9756
-2024-07-29 04:58:13.210647,Mens - Paris 2024 - Men's Individual Archery - Gold Medal Winner,Thomas Chirault (FRA),0.014199999999999999,0.0294,0.0152
-2024-07-29 14:58:33.394754,80kg - Paris 2024 - Men's 80kg Boxing - Gold Medal Winner,Turabek Khabibullaev (UZB),0.014100000000000001,0.0526,0.0385
 2024-07-29 12:58:31.942469,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Pete Buttigieg,0.014100000000000001,0.0526,0.0385
-2024-07-29 06:58:24.057011,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Sporting Kansas City,0.014099999999999998,0.0385,0.0244
+2024-07-29 14:58:33.394754,80kg - Paris 2024 - Men's 80kg Boxing - Gold Medal Winner,Turabek Khabibullaev (UZB),0.014100000000000001,0.0526,0.0385
 2024-07-29 14:58:34.192200,Women's - Paris 2024 - Women's Water Polo - Gold Medal Winner,Greece (W),0.014099999999999998,0.0435,0.0294
+2024-07-29 16:59:30.611915,54kg - Paris 2024 - Women's 54kg Boxing - Gold Medal Winner,Im Ae-Ji (KOR),0.014099999999999998,0.0435,0.0294
+2024-07-29 16:59:30.248965,Men's - Paris 2024 - Men's Beach Volleyball - Gold Medal Winner,Budinger / Evans (USA),0.014099999999999998,0.0385,0.0244
+2024-07-29 06:58:24.057011,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Sporting Kansas City,0.014099999999999998,0.0385,0.0244
+2024-07-29 16:59:30.611915,54kg - Paris 2024 - Women's 54kg Boxing - Gold Medal Winner,Chang Yuan (CHN),0.014099999999999994,0.0667,0.0526
 2024-07-29 06:58:31.389986,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Under 27.5,0.014000000000000012,0.3125,0.2985
-2024-07-29 04:58:37.320953,Mens - Mens - Gold Medal Winner,Jon Rahm,0.013999999999999999,0.0909,0.0769
-2024-07-29 04:58:14.568690,Men's - Gold Medal Winner - Gold Medal Winner,Jon Rahm,0.013999999999999999,0.0909,0.0769
 2024-07-29 10:58:14.413971,Liga FPD Apertura - Costa Rica Primera Division Apertura 2024 - Futures - Winner,Sporting San José,0.013899999999999996,0.125,0.1111
 2024-07-29 06:58:26.337119,Team - Paris 2024 - Team Jumping - Gold Medal Winner,Ireland,0.013899999999999996,0.125,0.1111
 2024-07-29 06:58:26.345483,Team - Paris 2024 - Team Jumping - To Win a Medal,Ireland,0.013800000000000034,0.3774,0.3636
 2024-07-29 08:58:15.093462,100m Backstroke - Paris 2024 - Men's 100m Backstroke - Match Up - Ceccon vs Jiayu,Thomas Ceccon (ITA),0.013300000000000034,0.3704,0.3571
 2024-07-29 10:58:15.778547,Men's - Paris 2024 - Men's Field Hockey - Gold Medal Winner,Netherlands (NED),0.0131,0.2353,0.2222
-2024-07-29 04:58:13.221674,Womens - Paris 2024 - Women's Individual Archery - Gold Medal Winner,Michelle Kroppen (GER),0.012700000000000003,0.0323,0.0196
+2024-07-29 16:59:30.635605,71kg - Paris 2024 - Men's 71kg Boxing - Gold Medal Winner,Shannan Davey (AUS),0.012999999999999998,0.0294,0.0164
+2024-07-29 16:59:30.611915,54kg - Paris 2024 - Women's 54kg Boxing - Gold Medal Winner,Tatiana De Jesus (BRA),0.012100000000000001,0.0244,0.0123
 2024-07-29 06:58:30.572360,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Under 46.5,0.011600000000000055,0.5238,0.5122
 2024-07-29 08:58:39.906567,Portland Classic - Portland Classic - Winner,Xiaowen Yin,0.011300000000000001,0.0123,0.001
+2024-07-29 16:59:30.623779,57kg - Paris 2024 - Men's 57kg Boxing - Gold Medal Winner,Nebil Ibrahim (SWE),0.0113,0.0196,0.0083
 2024-07-29 10:58:33.709734,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Wisconsin ,Under 6.5 Wins,0.011099999999999999,0.4762,0.4651
 2024-07-29 06:58:30.170620,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Over 19.5,0.01100000000000001,0.5348,0.5238
 2024-07-29 08:58:39.906567,Portland Classic - Portland Classic - Winner,Jasmine Suwannapura,0.0103,0.0123,0.002
 2024-07-29 06:58:25.041228,100m Backstroke - Paris 2024 - Men's 100m Backstroke - Gold Medal Winner,Thomas Ceccon (ITA),0.010299999999999976,0.2667,0.2564
 2024-07-29 10:58:15.778547,Men's - Paris 2024 - Men's Field Hockey - Gold Medal Winner,India (IND),0.0102,0.0769,0.0667
-2024-07-29 04:58:13.221674,Womens - Paris 2024 - Women's Individual Archery - Gold Medal Winner,Yang Xiaolei Yang (CHN),0.0102,0.0769,0.0667
 2024-07-29 06:58:24.057011,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Philadelphia Union,0.0102,0.0769,0.0667
 2024-07-29 06:58:24.057011,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,New York City FC,0.0102,0.0769,0.0667
 2024-07-29 06:58:24.057011,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Deportivo Toluca,0.0102,0.0769,0.0667
+2024-07-29 16:59:32.009149,Tennis - Paris 2024 - Women's Olympics Tennis 2024 - Gold Medal Winner,Elina Svitolina,0.010100000000000001,0.0345,0.0244
+2024-07-29 16:59:32.009149,Tennis - Paris 2024 - Women's Olympics Tennis 2024 - Gold Medal Winner,Maria Sakkari,0.010100000000000001,0.0345,0.0244
 2024-07-29 06:58:30.800641,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Under 47.5,0.010099999999999998,0.6875,0.6774
-2024-07-29 04:58:19.905808,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Mark Kelly,0.010099999999999998,0.3226,0.3125
 2024-07-29 06:58:30.572360,Indiana Pacers - Indiana Pacers 2024-25 - Regular Season Wins,Over 46.5,-0.010099999999999998,0.5455,0.5556
-2024-07-29 04:58:19.905808,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Josh Shapiro,-0.010099999999999998,0.4444,0.4545
-2024-07-29 04:58:13.723957,Artistic - Paris 2024 - Women's Team All-Around - Gold Medal Winner,Brazil (BRA),-0.0102,0.0667,0.0769
-2024-07-29 06:58:29.942509,NBA Awards - NBA Awards 2024-25 - Defensive Player of the Year,Rudy Gobert (FRA),-0.0102,0.0667,0.0769
+2024-07-29 16:59:30.623779,57kg - Paris 2024 - Men's 57kg Boxing - Gold Medal Winner,Yilmar Gonzalez (COL),-0.0102,0.0667,0.0769
 2024-07-29 06:58:24.927149,200m Freestyle - Paris 2024 - Men's 200m Freestyle - Gold Medal Winner,Duncan Scott (GBR),-0.0102,0.0667,0.0769
-2024-07-29 04:58:11.661335,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Winner,Columbus Crew,-0.0102,0.0667,0.0769
 2024-07-29 06:58:29.930910,NBA Awards - NBA Awards 2024-25 - Coach of the Year ,Mark Daigneault,-0.0102,0.0667,0.0769
 2024-07-29 10:58:13.700421,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Top Goalscorer,Lionel Messi,-0.0102,0.0667,0.0769
+2024-07-29 06:58:29.942509,NBA Awards - NBA Awards 2024-25 - Defensive Player of the Year,Rudy Gobert (FRA),-0.0102,0.0667,0.0769
 2024-07-29 12:58:25.280368,200m Freestyle - Paris 2024 - Women's 200m Freestyle - Gold Medal Winner,Mollie O'Callaghan (AUS),-0.010599999999999998,0.4545,0.4651
 2024-07-29 06:58:30.170620,Brooklyn Nets - Brooklyn Nets 2024-25 - Regular Season Wins,Under 19.5,-0.010699999999999932,0.5348,0.5455
-2024-07-29 04:58:14.568690,Men's - Gold Medal Winner - Gold Medal Winner,Hideki Matsuyama,-0.010700000000000001,0.0278,0.0385
-2024-07-29 04:58:37.320953,Mens - Mens - Gold Medal Winner,Hideki Matsuyama,-0.010700000000000001,0.0278,0.0385
+2024-07-29 16:59:30.575961,Women's - Paris 2024 - Women's Basketball - Gold Medal Winner,Spain (W),-0.010700000000000001,0.0278,0.0385
+2024-07-29 16:59:35.378123,Tournament Futures - Paris 2024 - Women's Basketball - Gold Medal Winner,Spain (W),-0.010700000000000001,0.0278,0.0385
+2024-07-29 16:59:31.339629,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Tatiana Weston-Webb (BRA),-0.011099999999999999,0.1,0.1111
 2024-07-29 06:58:25.085413,200m Freestyle - Paris 2024 - Women's 200m Freestyle - Gold Medal Winner,Mollie O'Callaghan (AUS),-0.011099999999999999,0.4651,0.4762
+2024-07-29 16:59:34.372350,Tournament Futures - Paris 2024 - Men's Basketball - Winners Group,Group B,-0.011099999999999999,0.1,0.1111
 2024-07-29 06:58:26.327014,Team - Paris 2024 - Team Dressage - To Win a Medal,Germany,-0.011199999999999988,0.9412,0.9524
-2024-07-29 06:58:25.041228,100m Backstroke - Paris 2024 - Men's 100m Backstroke - Gold Medal Winner,Yohann Ndoye-Brouard (FRA),-0.011199999999999995,0.0476,0.0588
-2024-07-29 10:58:13.700421,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Top Goalscorer,Andre-Pierre Gignac,-0.011199999999999995,0.0476,0.0588
 2024-07-29 10:58:13.700421,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Top Goalscorer,Cristian Arango,-0.011199999999999995,0.0476,0.0588
+2024-07-29 10:58:13.700421,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Top Goalscorer,Andre-Pierre Gignac,-0.011199999999999995,0.0476,0.0588
+2024-07-29 06:58:25.041228,100m Backstroke - Paris 2024 - Men's 100m Backstroke - Gold Medal Winner,Yohann Ndoye-Brouard (FRA),-0.011199999999999995,0.0476,0.0588
 2024-07-29 06:58:24.995532,100m Breaststroke - Paris 2024 - Women's 100m Breaststroke - Gold Medal Winner,Alina Zmushka (AIN),-0.011200000000000002,0.0132,0.0244
 2024-07-29 10:58:14.679315,100m Backstroke - Paris 2024 - Men's 100m Backstroke - To Win a Medal,Yohann Ndoye-Brouard (FRA),-0.01150000000000001,0.3333,0.3448
 2024-07-29 12:58:44.997356,MWC Regular Season Wins - MWC Regular Season Wins - New Mexico,Over 2.5 Wins,-0.0116,0.4762,0.4878
 2024-07-29 12:58:44.876115,MWC Regular Season Wins - MWC Regular Season Wins - Air Force,Under 6.5 Wins,-0.0116,0.4762,0.4878
 2024-07-29 14:58:33.394754,80kg - Paris 2024 - Men's 80kg Boxing - Gold Medal Winner,Oleksandr Khyzhniak (UKR),-0.0116,0.4762,0.4878
+2024-07-29 16:59:29.416730,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Gold Medal Winner,Kristof Milak (HUN),-0.011699999999999988,0.274,0.2857
 2024-07-29 12:58:25.406705,100m Backstroke - Paris 2024 - Women's 100m Backstroke - Gold Medal Winner,Emma Torebo (FRA),-0.011699999999999999,0.0079,0.0196
 2024-07-29 08:58:39.906567,Portland Classic - Portland Classic - Winner,Gina Kim,-0.0121,0.002,0.0141
-2024-07-29 04:58:21.808026,UK Party Leaders - Next Conservative Party Leader - Next Conservative Leader After Rishi Sunak,David Cameron,-0.012100000000000001,0.0123,0.0244
 2024-07-29 12:58:45.017580,MWC Regular Season Wins - MWC Regular Season Wins - San Diego State,Over 5.5 Wins,-0.012199999999999989,0.5,0.5122
 2024-07-29 06:58:24.888903,400m Individual Medley - Paris 2024 - Women's 400m Individual Medley - Gold Medal Winner,Katie Grimes (USA),-0.012600000000000007,0.0588,0.0714
 2024-07-29 06:58:24.927149,200m Freestyle - Paris 2024 - Men's 200m Freestyle - Gold Medal Winner,Luke Hobson (USA),-0.012600000000000007,0.0588,0.0714
-2024-07-29 04:58:21.808026,UK Party Leaders - Next Conservative Party Leader - Next Conservative Leader After Rishi Sunak,Boris Johnson,-0.012700000000000003,0.0196,0.0323
-2024-07-29 04:58:13.723957,Artistic - Paris 2024 - Women's Team All-Around - Gold Medal Winner,Japan (JPN),-0.012700000000000003,0.0196,0.0323
-2024-07-29 04:58:13.210647,Mens - Paris 2024 - Men's Individual Archery - Gold Medal Winner,Federico Musolesi (ITA),-0.013,0.0066,0.0196
-2024-07-29 08:58:15.565813,"10,000m - Paris 2024 - Men's 10,000m - Gold Medal Winner",Daniel Mateiko (KEN),-0.0131,0.0345,0.0476
+2024-07-29 16:59:30.542797,Men's - Paris 2024 - Men's Basketball - Group C Winner,Puerto Rico,-0.013,0.0066,0.0196
+2024-07-29 16:59:35.378123,Tournament Futures - Paris 2024 - Women's Basketball - Gold Medal Winner,Japan (W),-0.013,0.0066,0.0196
+2024-07-29 16:59:30.575961,Women's - Paris 2024 - Women's Basketball - Gold Medal Winner,Japan (W),-0.013,0.0066,0.0196
+2024-07-29 16:59:32.009149,Tennis - Paris 2024 - Women's Olympics Tennis 2024 - Gold Medal Winner,Danielle Collins,-0.0131,0.0345,0.0476
 2024-07-29 06:58:31.326007,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Under 32.5,-0.0131,0.2899,0.303
+2024-07-29 08:58:15.565813,"10,000m - Paris 2024 - Men's 10,000m - Gold Medal Winner",Daniel Mateiko (KEN),-0.0131,0.0345,0.0476
 2024-07-29 08:58:15.093462,100m Backstroke - Paris 2024 - Men's 100m Backstroke - Match Up - Ceccon vs Jiayu,Xu Jiayu (CHN),-0.013599999999999945,0.6923,0.7059
-2024-07-29 04:58:11.654657,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Nationality of Winner,Mexico,-0.013800000000000034,0.3636,0.3774
-2024-07-29 06:58:24.057011,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,CF Monterrey,-0.013999999999999999,0.0769,0.0909
 2024-07-29 14:58:34.179245,Men's - Paris 2024 - Men's Water Polo - Gold Medal Winner,Serbia,-0.013999999999999999,0.0769,0.0909
-2024-07-29 04:58:13.210647,Mens - Paris 2024 - Men's Individual Archery - Gold Medal Winner,Steve Wijler (NED),-0.014099999999999998,0.0244,0.0385
-2024-07-29 12:58:25.406705,100m Backstroke - Paris 2024 - Women's 100m Backstroke - Gold Medal Winner,Kylie Masse (CAN),-0.014099999999999998,0.0244,0.0385
+2024-07-29 06:58:24.057011,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,CF Monterrey,-0.013999999999999999,0.0769,0.0909
 2024-07-29 06:58:25.085413,200m Freestyle - Paris 2024 - Women's 200m Freestyle - Gold Medal Winner,Claire Weinstein (USA),-0.014099999999999998,0.0244,0.0385
 2024-07-29 06:58:24.057011,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Houston Dynamo,-0.014099999999999998,0.0244,0.0385
-2024-07-29 06:58:24.888903,400m Individual Medley - Paris 2024 - Women's 400m Individual Medley - Gold Medal Winner,Emma Weyant (USA),-0.014099999999999998,0.0244,0.0385
 2024-07-29 14:58:33.828545,Women's - Paris 2024 - Women's Rugby Sevens - Gold Medal Winner,USA (W),-0.014099999999999998,0.0294,0.0435
-2024-07-29 04:58:12.327492,400m Individual Medley - Paris 2024 - Women's 400m Individual Medley - Gold Medal Winner,Freya Colbert (GBR),-0.014100000000000001,0.0385,0.0526
-2024-07-29 04:58:13.210647,Mens - Paris 2024 - Men's Individual Archery - Gold Medal Winner,Eric Peters (CAN),-0.014100000000000001,0.0385,0.0526
+2024-07-29 06:58:24.888903,400m Individual Medley - Paris 2024 - Women's 400m Individual Medley - Gold Medal Winner,Emma Weyant (USA),-0.014099999999999998,0.0244,0.0385
+2024-07-29 12:58:25.406705,100m Backstroke - Paris 2024 - Women's 100m Backstroke - Gold Medal Winner,Kylie Masse (CAN),-0.014099999999999998,0.0244,0.0385
+2024-07-29 16:59:37.703156,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Pete Buttigieg,-0.014100000000000001,0.0385,0.0526
+2024-07-29 16:59:30.261101,Women's - Paris 2024 - Women's Beach Volleyball - Gold Medal Winner,Lippmann / Ludwig (GER),-0.014499999999999999,0.0149,0.0294
 2024-07-29 10:58:15.778547,Men's - Paris 2024 - Men's Field Hockey - Gold Medal Winner,Belgium (BEL),-0.01469999999999999,0.2353,0.25
 2024-07-29 06:58:30.800641,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Over 47.5,-0.01479999999999998,0.3774,0.3922
 2024-07-29 06:58:33.532144,Irish Politics - Irish Presidential Election 2025 - Irish Presidential Election Winner,John Finucane,-0.014899999999999997,0.0476,0.0625
+2024-07-29 16:59:34.383223,Tournament Futures - Paris 2024 - Men's Basketball - Winning Confederation,Americas,-0.014900000000000024,0.9375,0.9524
 2024-07-29 10:58:15.778547,Men's - Paris 2024 - Men's Field Hockey - Gold Medal Winner,Great Britain (GBR),-0.015100000000000002,0.1667,0.1818
 2024-07-29 10:58:14.679315,100m Backstroke - Paris 2024 - Men's 100m Backstroke - To Win a Medal,Apostolos Christou (GRE),-0.015400000000000025,0.3846,0.4
 2024-07-29 10:58:33.671023,Big Ten Regular Season Wins - Big Ten Regular Season Wins - UCLA ,Over 5.5 Wins,-0.015400000000000025,0.3846,0.4
-2024-07-29 06:58:31.281180,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Over 43.5,-0.01629999999999998,0.7059,0.7222
 2024-07-29 06:58:30.781833,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Over 41.5,-0.01629999999999998,0.7059,0.7222
+2024-07-29 06:58:31.281180,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Over 43.5,-0.01629999999999998,0.7059,0.7222
 2024-07-29 10:58:21.743941,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Tim Walz,-0.016600000000000004,0.1739,0.1905
 2024-07-29 06:58:25.041228,100m Backstroke - Paris 2024 - Men's 100m Backstroke - Gold Medal Winner,Apostolos Christou (GRE),-0.016600000000000004,0.0667,0.0833
+2024-07-29 16:59:30.915111,Women's - Paris 2024 - Women's Handball - Group A Winner,South Korea (W),-0.0171,0.0025,0.0196
 2024-07-29 06:58:31.389986,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Over 27.5,-0.01739999999999997,0.75,0.7674
 2024-07-29 06:58:31.344838,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Under 38.5,-0.01759999999999995,0.6491,0.6667
 2024-07-29 06:58:24.057011,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Columbus Crew,-0.0179,0.125,0.1429
@@ -227,135 +271,128 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-07-29 06:58:31.408739,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Over 33.5,-0.018799999999999983,0.3448,0.3636
 2024-07-29 06:58:26.345483,Team - Paris 2024 - Team Jumping - To Win a Medal,Belgium,-0.018799999999999983,0.3448,0.3636
 2024-07-29 06:58:24.057011,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Club León,-0.0189,0.0196,0.0385
-2024-07-29 04:58:12.484089,200m Freestyle - Paris 2024 - Women's 200m Freestyle - Gold Medal Winner,Yang Junxuan (CHN),-0.0189,0.0196,0.0385
-2024-07-29 04:58:13.221674,Womens - Paris 2024 - Women's Individual Archery - Gold Medal Winner,Satsuki Noda (JPN),-0.0189,0.0196,0.0385
-2024-07-29 04:58:13.221674,Womens - Paris 2024 - Women's Individual Archery - Gold Medal Winner,Lisa Barbelin (FRA),-0.0189,0.0196,0.0385
-2024-07-29 04:58:13.221674,Womens - Paris 2024 - Women's Individual Archery - Gold Medal Winner,Elia Canales (ESP),-0.0189,0.0196,0.0385
-2024-07-29 04:58:11.654657,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Nationality of Winner,USA,-0.018999999999999906,0.7143,0.7333
 2024-07-29 06:58:30.111615,Boston Celtics - Boston Celtics 2024-25 - Regular Season Wins,Under 61.5,-0.018999999999999906,0.7143,0.7333
 2024-07-29 06:58:31.445524,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Over 25.5,-0.019000000000000017,0.2667,0.2857
-2024-07-29 04:58:12.484089,200m Freestyle - Paris 2024 - Women's 200m Freestyle - Gold Medal Winner,Siobhan Haughey (HKG),-0.019099999999999992,0.0476,0.0667
-2024-07-29 06:58:26.318735,Team - Paris 2024 - Team Dressage - Gold Medal Winner,Netherlands,-0.019099999999999992,0.0476,0.0667
+2024-07-29 16:59:31.339629,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Johanne Defay (FRA),-0.019099999999999992,0.0476,0.0667
 2024-07-29 08:58:15.565813,"10,000m - Paris 2024 - Men's 10,000m - Gold Medal Winner",Grant Fisher (USA),-0.019099999999999992,0.0476,0.0667
-2024-07-29 04:58:13.210647,Mens - Paris 2024 - Men's Individual Archery - Gold Medal Winner,Brady Ellison (USA),-0.019099999999999992,0.0476,0.0667
+2024-07-29 06:58:26.318735,Team - Paris 2024 - Team Dressage - Gold Medal Winner,Netherlands,-0.019099999999999992,0.0476,0.0667
+2024-07-29 16:59:35.378123,Tournament Futures - Paris 2024 - Women's Basketball - Gold Medal Winner,Australia (W),-0.019099999999999995,0.0244,0.0435
+2024-07-29 16:59:30.575961,Women's - Paris 2024 - Women's Basketball - Gold Medal Winner,Australia (W),-0.019099999999999995,0.0244,0.0435
 2024-07-29 08:58:39.906567,Portland Classic - Portland Classic - Winner,Danielle Kang,-0.0194,0.005,0.0244
-2024-07-29 04:58:14.581637,Women's - Gold Medal Winner - Gold Medal Winner,Ana Belac,-0.0194,0.005,0.0244
-2024-07-29 04:58:12.327492,400m Individual Medley - Paris 2024 - Women's 400m Individual Medley - Gold Medal Winner,Katie Grimes (USA),-0.01949999999999999,0.0714,0.0909
 2024-07-29 06:58:24.970854,100m Backstroke - Paris 2024 - Women's 100m Backstroke - Gold Medal Winner,Iona Anderson (AUS),-0.019800000000000005,0.0278,0.0476
 2024-07-29 06:58:26.337119,Team - Paris 2024 - Team Jumping - Gold Medal Winner,Netherlands,-0.020100000000000007,0.1538,0.1739
 2024-07-29 06:58:26.337119,Team - Paris 2024 - Team Jumping - Gold Medal Winner,Switzerland,-0.02020000000000001,0.0909,0.1111
 2024-07-29 06:58:25.212434,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Sven Schwarz (GER),-0.0203,0.0385,0.0588
-2024-07-29 04:58:13.221674,Womens - Paris 2024 - Women's Individual Archery - Gold Medal Winner,Li Jiaman (CHN),-0.0203,0.0385,0.0588
-2024-07-29 06:58:30.819354,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Over 44.5,-0.02079999999999993,0.5348,0.5556
 2024-07-29 06:58:33.605757,Scottish Politics - Next Independence Referendum Result - Next Scottish Independence Referendum Result,Against Independence,-0.02079999999999993,0.5348,0.5556
+2024-07-29 06:58:30.819354,Miami Heat - Miami Heat 2024-25 - Regular Season Wins,Over 44.5,-0.02079999999999993,0.5348,0.5556
 2024-07-29 06:58:30.269860,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Under 44.5,-0.020799999999999985,0.3125,0.3333
 2024-07-29 06:58:30.609357,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 44.5,-0.02100000000000002,0.3636,0.3846
 2024-07-29 06:58:31.018681,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Over 53.5,-0.02169999999999994,0.5238,0.5455
 2024-07-29 10:58:14.413971,Liga FPD Apertura - Costa Rica Primera Division Apertura 2024 - Futures - Winner,Herediano,-0.021999999999999964,0.2857,0.3077
-2024-07-29 06:58:26.608480,Quadruple Sculls - Paris 2024 - Women's Quadruple Sculls - Gold Medal Winner,Netherlands,-0.022199999999999998,0.2,0.2222
+2024-07-29 16:59:30.575961,Women's - Paris 2024 - Women's Basketball - Gold Medal Winner,Belgium (W),-0.022099999999999998,0.0164,0.0385
+2024-07-29 16:59:35.378123,Tournament Futures - Paris 2024 - Women's Basketball - Gold Medal Winner,Belgium (W),-0.022099999999999998,0.0164,0.0385
 2024-07-29 06:58:31.456737,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Over 19.5,-0.022199999999999998,0.7778,0.8
+2024-07-29 06:58:26.608480,Quadruple Sculls - Paris 2024 - Women's Quadruple Sculls - Gold Medal Winner,Netherlands,-0.022199999999999998,0.2,0.2222
 2024-07-29 10:58:38.052324,Mens - Mens - Gold Medal Winner,Scottie Scheffler,-0.022199999999999998,0.2,0.2222
-2024-07-29 04:58:21.808026,UK Party Leaders - Next Conservative Party Leader - Next Conservative Leader After Rishi Sunak,Steve Barclay,-0.022400000000000003,0.0099,0.0323
 2024-07-29 06:58:31.292562,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Over 49.5,-0.02260000000000001,0.3774,0.4
-2024-07-29 06:58:25.041228,100m Backstroke - Paris 2024 - Men's 100m Backstroke - Gold Medal Winner,Xu Jiayu (CHN),-0.022600000000000064,0.6,0.6226
 2024-07-29 12:58:45.056587,MWC Regular Season Wins - MWC Regular Season Wins - UNVL,Under 7.5 Wins,-0.022600000000000064,0.6,0.6226
-2024-07-29 04:58:11.661335,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Winner,Los Angeles FC,-0.02310000000000001,0.0769,0.1
+2024-07-29 06:58:25.041228,100m Backstroke - Paris 2024 - Men's 100m Backstroke - Gold Medal Winner,Xu Jiayu (CHN),-0.022600000000000064,0.6,0.6226
+2024-07-29 16:59:30.915111,Women's - Paris 2024 - Women's Handball - Group A Winner,Germany (W),-0.0228,0.0066,0.0294
 2024-07-29 14:58:41.230747,CFL - CFL Futures -  Grey Cup Winner 2024,Winnipeg Blue Bombers,-0.02310000000000001,0.0769,0.1
 2024-07-29 06:58:24.057011,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,New York Red Bulls,-0.02310000000000001,0.0769,0.1
-2024-07-29 12:58:25.344837,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Gold Medal Winner,Thomas Heilman (USA),-0.0232,0.0435,0.0667
 2024-07-29 12:58:25.344837,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Gold Medal Winner,Krzysztof Chmielewski (POL),-0.0232,0.0435,0.0667
+2024-07-29 12:58:25.344837,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Gold Medal Winner,Thomas Heilman (USA),-0.0232,0.0435,0.0667
 2024-07-29 06:58:30.999830,New York Knicks - New York Knicks 2024-25 - Regular Season Wins,Over 56.5,-0.02360000000000001,0.3846,0.4082
 2024-07-29 06:58:30.251094,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Under 50.5,-0.023799999999999932,0.6429,0.6667
-2024-07-29 06:58:31.904370,Donald Trump Specials - Donald Trump Favorability Rating August 31st 2024 - Trump Favorability Aug 31st,42.7 or over,-0.023799999999999988,0.4762,0.5
-2024-07-29 04:58:11.555215,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 7  ,DC United,-0.023799999999999988,0.4762,0.5
 2024-07-29 06:58:24.057011,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Los Angeles FC,-0.023799999999999988,0.1429,0.1667
+2024-07-29 06:58:31.904370,Donald Trump Specials - Donald Trump Favorability Rating August 31st 2024 - Trump Favorability Aug 31st,42.7 or over,-0.023799999999999988,0.4762,0.5
 2024-07-29 10:58:33.451159,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Maryland,Over 6.5 Wins,-0.023799999999999988,0.4762,0.5
 2024-07-29 06:58:30.628119,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 41.5,-0.023800000000000043,0.5,0.5238
-2024-07-29 06:58:31.427545,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Over 30.5,-0.023800000000000043,0.5,0.5238
 2024-07-29 06:58:31.363756,San Antonio Spurs - San Antonio Spurs 2024-25 - Regular Season Wins,Under 35.5,-0.023800000000000043,0.5,0.5238
+2024-07-29 06:58:31.427545,Toronto Raptors - Toronto Raptors 2024-25 - Regular Season Wins,Over 30.5,-0.023800000000000043,0.5,0.5238
 2024-07-29 14:58:34.192200,Women's - Paris 2024 - Women's Water Polo - Gold Medal Winner,Italy (W),-0.023899999999999998,0.0196,0.0435
 2024-07-29 06:58:26.337119,Team - Paris 2024 - Team Jumping - Gold Medal Winner,Germany,-0.0242,0.0667,0.0909
 2024-07-29 06:58:26.345483,Team - Paris 2024 - Team Jumping - To Win a Medal,Netherlands,-0.024399999999999977,0.4878,0.5122
 2024-07-29 12:58:31.942469,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Mark Kelly,-0.024500000000000022,0.3922,0.4167
+2024-07-29 16:59:30.623779,57kg - Paris 2024 - Men's 57kg Boxing - Gold Medal Winner,Javier Ibanez Diaz (BUL),-0.025300000000000003,0.1176,0.1429
 2024-07-29 12:58:25.324511,100m Butterfly - Paris 2024 - Men's 100m Butterfly - Gold Medal Winner,Kristof Milak (HUN),-0.025300000000000003,0.1176,0.1429
+2024-07-29 16:59:34.372350,Tournament Futures - Paris 2024 - Men's Basketball - Winners Group,Group A,-0.025300000000000003,0.1176,0.1429
+2024-07-29 16:59:44.652031,Tight Ends - NFL 2024-25 Receiving TD's - Sam LaPorta Regular Season Total Receiving TDs 2024-25,Under 7.5 TD's,-0.026499999999999968,0.5652,0.5917
 2024-07-29 06:58:26.337119,Team - Paris 2024 - Team Jumping - Gold Medal Winner,France,-0.0267,0.0909,0.1176
 2024-07-29 10:58:14.545726,400m Individual Medley - Paris 2024 - Women's 400m Individual Medley - World Record In Final?,Yes,-0.02679999999999999,0.2857,0.3125
+2024-07-29 16:59:34.361378,Tournament Futures - Paris 2024 - Men's Basketball - USA vs The Field,Any Other Team,-0.02779999999999999,0.2222,0.25
 2024-07-29 12:58:25.406705,100m Backstroke - Paris 2024 - Women's 100m Backstroke - Gold Medal Winner,Katharine Berkoff (USA),-0.027999999999999997,0.1538,0.1818
 2024-07-29 12:58:25.324511,100m Butterfly - Paris 2024 - Men's 100m Butterfly - Gold Medal Winner,Maxime Grousset (FRA),-0.027999999999999997,0.1538,0.1818
+2024-07-29 16:59:30.923639,Women's - Paris 2024 - Women's Handball - Group B Winner,Brazil (W),-0.028000000000000004,0.0196,0.0476
 2024-07-29 06:58:24.970854,100m Backstroke - Paris 2024 - Women's 100m Backstroke - Gold Medal Winner,Kylie Masse (CAN),-0.028199999999999996,0.0385,0.0667
-2024-07-29 04:58:13.221674,Womens - Paris 2024 - Women's Individual Archery - Gold Medal Winner,Deepika Kumari (IND),-0.0282,0.0244,0.0526
 2024-07-29 12:58:25.355135,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Gold Medal Winner,Chris Guiliano (USA),-0.028399999999999995,0.0625,0.0909
-2024-07-29 06:58:26.345483,Team - Paris 2024 - Team Jumping - To Win a Medal,Switzerland,-0.030299999999999994,0.3333,0.3636
+2024-07-29 16:59:30.506489,Men's - Paris 2024 - Men's Basketball - Gold Medal Winner,USA,-0.028800000000000048,0.8462,0.875
 2024-07-29 06:58:26.337119,Team - Paris 2024 - Team Jumping - Gold Medal Winner,Sweden,-0.030299999999999994,0.3333,0.3636
+2024-07-29 06:58:26.345483,Team - Paris 2024 - Team Jumping - To Win a Medal,Switzerland,-0.030299999999999994,0.3333,0.3636
 2024-07-29 14:58:32.440154,Most Medals - Paris 2024 - Most Gold Medals - Outright,China,-0.031399999999999983,0.2353,0.2667
 2024-07-29 06:58:24.970854,100m Backstroke - Paris 2024 - Women's 100m Backstroke - Gold Medal Winner,Kaylee McKeown (AUS),-0.031799999999999995,0.4444,0.4762
 2024-07-29 06:58:30.050589,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Over 38.5,-0.032299999999999995,0.3125,0.3448
 2024-07-29 10:58:14.413971,Liga FPD Apertura - Costa Rica Primera Division Apertura 2024 - Futures - Winner,San Carlos,-0.033100000000000004,0.0294,0.0625
-2024-07-29 06:58:26.318735,Team - Paris 2024 - Team Dressage - Gold Medal Winner,Denmark,-0.033300000000000024,0.1667,0.2
+2024-07-29 16:59:30.935700,Men's - Paris 2024 - Men's Handball - Gold Medal Winner,Spain (ESP),-0.03330000000000001,0.0667,0.1
 2024-07-29 12:58:25.324511,100m Butterfly - Paris 2024 - Men's 100m Butterfly - Gold Medal Winner,Noe Ponti (SUI),-0.033300000000000024,0.1667,0.2
+2024-07-29 06:58:26.318735,Team - Paris 2024 - Team Dressage - Gold Medal Winner,Denmark,-0.033300000000000024,0.1667,0.2
 2024-07-29 06:58:26.587148,Quadruple Sculls - Paris 2024 - Men's Quadruple Sculls - Gold Medal Winner,Great Britain,-0.034100000000000005,0.0909,0.125
+2024-07-29 16:59:30.953019,Men's - Paris 2024 - Men's Handball - Group B Winner,Egypt (EGY),-0.03420000000000001,0.0769,0.1111
 2024-07-29 14:58:34.179245,Men's - Paris 2024 - Men's Water Polo - Gold Medal Winner,Italy,-0.0353,0.2,0.2353
-2024-07-29 04:58:11.549841,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 6,CF Pachuca,-0.03570000000000001,0.25,0.2857
-2024-07-29 10:58:33.528080,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Nebraska,Under 7.5 Wins,-0.035999999999999976,0.4762,0.5122
+2024-07-29 16:59:30.935700,Men's - Paris 2024 - Men's Handball - Gold Medal Winner,Croatia (CRO),-0.03559999999999999,0.0079,0.0435
+2024-07-29 16:59:30.261101,Women's - Paris 2024 - Women's Beach Volleyball - Gold Medal Winner,Graudina / Samoilova (LAT),-0.035699999999999996,0.0476,0.0833
 2024-07-29 10:58:33.412299,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Indiana,Under 5.5 Wins,-0.035999999999999976,0.4762,0.5122
-2024-07-29 04:58:12.484089,200m Freestyle - Paris 2024 - Women's 200m Freestyle - Gold Medal Winner,Claire Weinstein (USA),-0.0384,0.0385,0.0769
+2024-07-29 10:58:33.528080,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Nebraska,Under 7.5 Wins,-0.035999999999999976,0.4762,0.5122
+2024-07-29 16:59:44.631360,Tight Ends - NFL 2024-25 Receiving TD's - Mark Andrews Regular Season Total Receiving TDs 2024-25,Under 6.5 TD's,-0.03610000000000002,0.5556,0.5917
 2024-07-29 14:58:37.244586,The Basketball Tournament - The Basketball Tournament - Outright,The Ville,-0.03889999999999999,0.1429,0.1818
 2024-07-29 06:58:24.995532,100m Breaststroke - Paris 2024 - Women's 100m Breaststroke - Gold Medal Winner,Tatjana Smith (RSA),-0.040999999999999925,0.6923,0.7333
-2024-07-29 04:58:21.821580,UK Party Leaders - Next Labour Party Leader - Next Labour Leader After Keir Starmer,Andy Burnham,-0.04169999999999999,0.125,0.1667
+2024-07-29 16:59:37.703156,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Josh Shapiro,-0.0413,0.3509,0.3922
+2024-07-29 16:59:29.526039,200m Breaststroke - Paris 2024 - Women's 200m Breaststroke - Gold Medal Winner,Tes Schouten (NED),-0.04169999999999999,0.125,0.1667
+2024-07-29 16:59:29.536721,200m Backstroke - Paris 2024 - Men's 200m Backstroke - Gold Medal Winner,Hugo Gonzalez (ESP),-0.04169999999999999,0.125,0.1667
+2024-07-29 16:59:29.448087,100m Freestyle - Paris 2024 - Women's 100m Freestyle - Gold Medal Winner,Marrit Steenbergen (NED),-0.04169999999999999,0.125,0.1667
 2024-07-29 08:58:15.565813,"10,000m - Paris 2024 - Men's 10,000m - Gold Medal Winner",Benard Kibet (KEN),-0.04200000000000001,0.0294,0.0714
 2024-07-29 06:58:31.303821,Sacramento Kings - Sacramento Kings 2024-25 - Regular Season Wins,Over 46.5,-0.043399999999999994,0.5122,0.5556
+2024-07-29 16:59:29.458545,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Gold Medal Winner,Zac Stubblety-Cook (AUS),-0.04409999999999997,0.25,0.2941
 2024-07-29 06:58:26.327014,Team - Paris 2024 - Team Dressage - To Win a Medal,Netherlands,-0.044399999999999995,0.4,0.4444
-2024-07-29 04:58:13.210647,Mens - Paris 2024 - Men's Individual Archery - Gold Medal Winner,Mauro Nespoli (ITA),-0.044599999999999994,0.0323,0.0769
-2024-07-29 04:58:11.544454,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 5,Nashville SC,-0.045499999999999985,0.5,0.5455
+2024-07-29 16:59:31.339629,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Vahine Fierro (FRA),-0.044499999999999984,0.2222,0.2667
 2024-07-29 06:58:30.288738,Cleveland Cavaliers - Cleveland Cavaliers 2024-25 - Regular Season Wins,Under 47.5,-0.047099999999999975,0.4651,0.5122
 2024-07-29 06:58:26.327014,Team - Paris 2024 - Team Dressage - To Win a Medal,Sweden,-0.047599999999999976,0.2857,0.3333
-2024-07-29 06:58:26.327014,Team - Paris 2024 - Team Dressage - To Win a Medal,Denmark,-0.04760000000000009,0.6667,0.7143
 2024-07-29 06:58:26.318735,Team - Paris 2024 - Team Dressage - Gold Medal Winner,Germany,-0.04760000000000009,0.6667,0.7143
+2024-07-29 06:58:26.327014,Team - Paris 2024 - Team Dressage - To Win a Medal,Denmark,-0.04760000000000009,0.6667,0.7143
 2024-07-29 12:58:44.956939,MWC Regular Season Wins - MWC Regular Season Wins - Hawaii,Under 4.5 Wins,-0.048099999999999976,0.3774,0.4255
+2024-07-29 16:59:29.536721,200m Backstroke - Paris 2024 - Men's 200m Backstroke - Gold Medal Winner,Keaton Jones (USA),-0.048100000000000004,0.0769,0.125
+2024-07-29 16:59:30.623779,57kg - Paris 2024 - Men's 57kg Boxing - Gold Medal Winner,Makhmud Sabyrkhan (KAZ),-0.04849999999999999,0.1333,0.1818
 2024-07-29 06:58:30.069359,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Over 32.5,-0.050000000000000044,0.75,0.8
 2024-07-29 10:58:21.743941,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Josh Shapiro,-0.052200000000000024,0.3922,0.4444
 2024-07-29 06:58:26.608480,Quadruple Sculls - Paris 2024 - Women's Quadruple Sculls - Gold Medal Winner,China,-0.052399999999999995,0.0385,0.0909
-2024-07-29 04:58:13.221674,Womens - Paris 2024 - Women's Individual Archery - Gold Medal Winner,Alejandra Valencia (MEX),-0.0524,0.0476,0.1
-2024-07-29 04:58:13.221674,Womens - Paris 2024 - Women's Individual Archery - Gold Medal Winner,Casey Kaufhold (USA),-0.0524,0.0476,0.1
 2024-07-29 08:58:15.565813,"10,000m - Paris 2024 - Men's 10,000m - Gold Medal Winner",Berihu Aregawi (ETH),-0.05550000000000002,0.1667,0.2222
-2024-07-29 06:58:31.467957,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Over 22.5,-0.05559999999999998,0.5,0.5556
 2024-07-29 06:58:30.088040,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Over 35.5,-0.05559999999999998,0.5,0.5556
-2024-07-29 04:58:11.566065,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win West 2,Chivas Guadalajara,-0.057699999999999974,0.25,0.3077
+2024-07-29 06:58:31.467957,Washington Wizards - Washington Wizards 2024-25 - Regular Season Wins,Over 22.5,-0.05559999999999998,0.5,0.5556
+2024-07-29 16:59:34.383223,Tournament Futures - Paris 2024 - Men's Basketball - Winning Confederation,Europe,-0.05710000000000001,0.1429,0.2
+2024-07-29 16:59:29.547326,200m Butterfly - Paris 2024 - Women's 200m Butterfly - Gold Medal Winner,Regan Smith (USA),-0.059099999999999986,0.2857,0.3448
 2024-07-29 12:58:25.344837,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Gold Medal Winner,Kristof Milak (HUN),-0.059099999999999986,0.2857,0.3448
-2024-07-29 04:58:21.808026,UK Party Leaders - Next Conservative Party Leader - Next Conservative Leader After Rishi Sunak,Suella Braverman,-0.06309999999999999,0.0278,0.0909
-2024-07-29 06:58:29.942509,NBA Awards - NBA Awards 2024-25 - Defensive Player of the Year,Victor Wembanyama (FRA),-0.06659999999999999,0.6667,0.7333
-2024-07-29 06:58:30.590545,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 38.5,-0.06659999999999999,0.6667,0.7333
-2024-07-29 06:58:47.672695,60kg - Jajaira Gonzalez (USA) vs Beatriz Ferreira (BRA) - To Win the Bout,Beatriz Ferreira (BRA),-0.06659999999999999,0.6667,0.7333
 2024-07-29 12:58:25.355135,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Gold Medal Winner,David Popovici (ROU),-0.06659999999999999,0.2667,0.3333
-2024-07-29 04:58:11.533522,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 3,FC Puebla,-0.0666,0.0667,0.1333
+2024-07-29 06:58:47.672695,60kg - Jajaira Gonzalez (USA) vs Beatriz Ferreira (BRA) - To Win the Bout,Beatriz Ferreira (BRA),-0.06659999999999999,0.6667,0.7333
+2024-07-29 06:58:30.590545,L.A. Clippers - L.A. Clippers  2024-25 - Regular Season Wins,Over 38.5,-0.06659999999999999,0.6667,0.7333
+2024-07-29 16:59:29.448087,100m Freestyle - Paris 2024 - Women's 100m Freestyle - Gold Medal Winner,Siobhan Haughey (HGK),-0.06659999999999999,0.2667,0.3333
+2024-07-29 06:58:29.942509,NBA Awards - NBA Awards 2024-25 - Defensive Player of the Year,Victor Wembanyama (FRA),-0.06659999999999999,0.6667,0.7333
 2024-07-29 10:58:14.413971,Liga FPD Apertura - Costa Rica Primera Division Apertura 2024 - Futures - Winner,Alajuelense,-0.06670000000000004,0.3333,0.4
+2024-07-29 16:59:29.536721,200m Backstroke - Paris 2024 - Men's 200m Backstroke - Gold Medal Winner,Ryan Murphy (USA),-0.06990000000000002,0.3846,0.4545
 2024-07-29 12:58:25.355135,100m Freestyle - Paris 2024 - Men's 100m Freestyle - Gold Medal Winner,Jack Alexy (USA),-0.0715,0.0714,0.1429
-2024-07-29 04:58:13.723957,Artistic - Paris 2024 - Women's Team All-Around - Gold Medal Winner,Great Britain (GBR),-0.0726,0.0385,0.1111
-2024-07-29 04:58:13.221674,Womens - Paris 2024 - Women's Individual Archery - Gold Medal Winner,Jeon Hunyoung (KOR),-0.0741,0.0435,0.1176
+2024-07-29 16:59:30.944375,Men's - Paris 2024 - Men's Handball - Group A Winner,Croatia (CRO),-0.0726,0.0385,0.1111
 2024-07-29 06:58:26.318735,Team - Paris 2024 - Team Dressage - Gold Medal Winner,United States,-0.0794,0.1111,0.1905
 2024-07-29 12:58:25.231594,100m - Paris 2024 - Men's 100m - Gold Medal Winner,Kishane Thompson (JAM),-0.07940000000000003,0.4444,0.5238
+2024-07-29 16:59:29.458545,200m Breaststroke - Paris 2024 - Men's 200m Breaststroke - Gold Medal Winner,Qin Haiyang (CHN),-0.08189999999999997,0.4444,0.5263
 2024-07-29 06:58:26.345483,Team - Paris 2024 - Team Jumping - To Win a Medal,Germany,-0.08329999999999999,0.25,0.3333
+2024-07-29 16:59:30.953019,Men's - Paris 2024 - Men's Handball - Group B Winner,France (FRA),-0.0843,0.0066,0.0909
 2024-07-29 10:58:37.472324,60kg - Jajaira Gonzalez (USA) vs Beatriz Ferreira (BRA) - To Win the Bout,Jajaira Gonzalez (USA),-0.08750000000000002,0.3125,0.4
-2024-07-29 04:58:11.582222,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win West 5,Colorado Rapids,-0.09040000000000004,0.4444,0.5348
-2024-07-29 04:58:11.521933,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 1,Querétaro FC,-0.0909,0.0909,0.1818
-2024-07-29 04:58:11.576827,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win West 4,Deportivo Toluca,-0.09099999999999997,0.4545,0.5455
+2024-07-29 16:59:30.923639,Women's - Paris 2024 - Women's Handball - Group B Winner,Netherlands (W),-0.0889,0.1111,0.2
 2024-07-29 06:58:25.212434,800m Freestyle - Paris 2024 - Men's 800m Freestyle - Gold Medal Winner,Bobby Finke (USA),-0.0948,0.25,0.3448
 2024-07-29 12:58:25.344837,200m Butterfly - Paris 2024 - Men's 200m Butterfly - Gold Medal Winner,Tomoru Honda (JPN),-0.09720000000000001,0.125,0.2222
-2024-07-29 04:58:11.576827,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win West 4,Chicago Fire,-0.09720000000000001,0.125,0.2222
-2024-07-29 04:58:11.549841,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 6,New York Red Bulls,-0.09999999999999998,0.4,0.5
-2024-07-29 04:58:13.210647,Mens - Paris 2024 - Men's Individual Archery - Gold Medal Winner,Marcus D'Almeida (BRA),-0.09999999999999999,0.0667,0.1667
+2024-07-29 16:59:30.542797,Men's - Paris 2024 - Men's Basketball - Group C Winner,Serbia,-0.1006,0.0244,0.125
 2024-07-29 06:58:26.345483,Team - Paris 2024 - Team Jumping - To Win a Medal,France,-0.10420000000000001,0.3125,0.4167
-2024-07-29 04:58:21.808026,UK Party Leaders - Next Conservative Party Leader - Next Conservative Leader After Rishi Sunak,Kemi Badenoch,-0.11110000000000003,0.3333,0.4444
-2024-07-29 04:58:11.544454,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 5,Mazatlán FC,-0.1151,0.0667,0.1818
-2024-07-29 04:58:11.598483,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win West 8,Real Salt Lake,-0.11810000000000004,0.4167,0.5348
 2024-07-29 12:58:25.231594,100m - Paris 2024 - Men's 100m - Gold Medal Winner,Noah Lyles (USA),-0.12,0.4255,0.5455
-2024-07-29 04:58:21.113614,Electoral College Winner - New Mexico (NM) - NM,Republican,-0.12279999999999999,0.2105,0.3333
-2024-07-29 04:58:11.566065,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win West 2,LA Galaxy,-0.13139999999999996,0.5238,0.6552
-2024-07-29 04:58:13.723957,Artistic - Paris 2024 - Women's Team All-Around - Gold Medal Winner,China (CHN),-0.13330000000000003,0.0667,0.2
-2024-07-29 04:58:11.582222,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win West 5,Club León,-0.1453,0.0769,0.2222
+2024-07-29 16:59:30.935700,Men's - Paris 2024 - Men's Handball - Gold Medal Winner,France (FRA),-0.13329999999999997,0.2,0.3333
 2024-07-29 06:58:26.327014,Team - Paris 2024 - Team Dressage - To Win a Medal,United States,-0.15870000000000006,0.5556,0.7143
-2024-07-29 04:58:11.533522,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 3,Tigres UANL,-0.1588,0.2667,0.4255
-2024-07-29 04:58:11.571446,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win West 3,FC Dallas,-0.1666,0.1667,0.3333
-2024-07-29 04:58:11.539040,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 4,Cruz Azul,-0.16740000000000002,0.2326,0.4
-2024-07-29 04:58:11.598483,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win West 8,Houston Dynamo,-0.1781,0.1667,0.3448
-2024-07-29 04:58:11.539040,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 4,Charlotte FC,-0.21719999999999998,0.0769,0.2941
+2024-07-29 16:59:30.915111,Women's - Paris 2024 - Women's Handball - Group A Winner,Denmark (W),-0.22069999999999998,0.1429,0.3636
+2024-07-29 16:59:30.944375,Men's - Paris 2024 - Men's Handball - Group A Winner,Spain (ESP),-0.28890000000000005,0.1111,0.4
