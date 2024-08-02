@@ -1,125 +1,88 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-08-01 17:00:12.527718,Rifle - Paris 2024 - Women's 50m Rifle Three Positions - Gold Medal Winner,Zhang Qiongyue (CHN),0.38530000000000003,0.4762,0.0909
-2024-08-01 17:00:11.734634,Team - Paris 2024 - Team Jumping - To Win a Medal,Germany,0.3056,0.5556,0.25
+2024-08-02 05:00:01.184490,100m - Paris 2024 - Women's 100m - To Win a Medal,Marie-Josee Ta Lou (CIV),0.3889,0.5556,0.1667
 2024-08-02 01:00:01.495572,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win West 4,Deportivo Toluca,0.21219999999999994,0.6667,0.4545
-2024-08-01 17:00:11.734634,Team - Paris 2024 - Team Jumping - To Win a Medal,France,0.1875,0.5,0.3125
 2024-08-01 19:00:29.414734,Scores - 2nd Round Score - Xander Schauffele - 2nd Round Score,Under 68.5,0.18230000000000002,0.6078,0.4255
 2024-08-02 01:00:01.450922,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 1,FC Cincinnati,0.17780000000000007,0.7778,0.6
-2024-08-01 17:00:12.527718,Rifle - Paris 2024 - Women's 50m Rifle Three Positions - Gold Medal Winner,Sagen Maddalena (USA),0.17650000000000002,0.2353,0.0588
-2024-08-01 17:00:11.734634,Team - Paris 2024 - Team Jumping - To Win a Medal,Great Britain,0.16670000000000007,0.5238,0.3571
-2024-08-01 17:00:11.560967,51kg - Paris 2024 - Men's 51kg Boxing - Gold Medal Winner,Hasanboy Dusmatov (UZB),0.14549999999999996,0.5455,0.4
 2024-08-02 03:00:04.709318,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Caroline Marks (USA),0.13979999999999998,0.4255,0.2857
-2024-08-01 17:00:12.730559,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Carissa Moore (USA),0.1238,0.2667,0.1429
 2024-08-02 03:00:04.915816,Mixed - Paris 2024 - Triathlon Mixed Relay - Gold Medal Winner,France (FRA),0.12079999999999996,0.5556,0.4348
-2024-08-01 17:00:11.734634,Team - Paris 2024 - Team Jumping - To Win a Medal,United States,0.11910000000000004,0.4762,0.3571
-2024-08-01 17:00:11.719473,Team - Paris 2024 - Team Jumping - Gold Medal Winner,Germany,0.1151,0.1818,0.0667
+2024-08-02 05:00:02.336092,BMX - Paris 2024 - Women's BMX Racing - Gold Medal Winner,Beth Shriever (GBR),0.11719999999999997,0.3077,0.1905
 2024-08-02 03:00:04.709318,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Tatiana Weston-Webb (BRA),0.1129,0.2667,0.1538
-2024-08-01 17:00:13.839751,Tennis - Paris 2024 - Men's Olympics Tennis 2024 - Gold Medal Winner,Carlos Alcaraz,0.10899999999999999,0.6923,0.5833
 2024-08-02 03:00:04.709318,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Johanne Defay (FRA),0.1072,0.1739,0.0667
 2024-08-01 19:00:05.923773,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Australia Blocks,Dyson  Daniels,0.10109999999999997,0.5556,0.4545
-2024-08-01 17:00:11.583468,80kg - Paris 2024 - Men's 80kg Boxing - Gold Medal Winner,Oleksandr Khyzhniak (UKR),0.09820000000000001,0.5744,0.4762
 2024-08-02 03:00:04.686841,Men's - Paris 2024 - Men's Surfing - Gold Medal Winner,Kauli Vaast (FRA),0.09519999999999998,0.3333,0.2381
-2024-08-01 17:00:12.263268,Lightweight Double Sculls - Paris 2024 - Men's Lightweight Double Sculls - Gold Medal Winner,Ireland,0.09350000000000003,0.6491,0.5556
-2024-08-01 17:00:13.839751,Tennis - Paris 2024 - Men's Olympics Tennis 2024 - Gold Medal Winner,Lorenzo Musetti,0.0867,0.1111,0.0244
-2024-08-01 17:00:12.527718,Rifle - Paris 2024 - Women's 50m Rifle Three Positions - Gold Medal Winner,Chiara Leone (SUI),0.08239999999999999,0.1538,0.0714
-2024-08-01 17:00:12.527718,Rifle - Paris 2024 - Women's 50m Rifle Three Positions - Gold Medal Winner,Jeanette Hegg Duestad (NOR),0.0804,0.1429,0.0625
+2024-08-02 05:00:01.170090,100m - Paris 2024 - Women's 100m - Gold Medal Winner,Marie-Josee Ta Lou (CIV),0.0915,0.1111,0.0196
+2024-08-02 05:00:05.233264,76th Primetime Emmy Awards - Emmys: Lead Actor In A Drama Series - Lead Actor Drama,Hiroyuki Sanada - Shogun,0.08330000000000004,0.8333,0.75
+2024-08-02 05:00:05.254440,76th Primetime Emmy Awards - Emmys: Lead Actress In A Comedy Series - Lead Actress Comedy,Jean Smart - Hacks,0.08330000000000004,0.75,0.6667
 2024-08-02 03:00:04.686841,Men's - Paris 2024 - Men's Surfing - Gold Medal Winner,Gabriel Medina (BRA),0.07739999999999997,0.5122,0.4348
 2024-08-01 22:59:42.729316,Portland Classic - Portland Classic - Winner,Nataliya Guseva,0.0745,0.0909,0.0164
-2024-08-01 17:00:11.475708,Men's - Paris 2024 - 3x3 Men's Basketball - Gold Medal Winner,Latvia 3x3,0.07239999999999996,0.3077,0.2353
-2024-08-01 17:00:16.532758,Olympics 3x3 Basketball - Men - Paris 2024 - Men's 3x3 Basketball - Gold Medal Winner,Latvia 3x3,0.07239999999999996,0.3077,0.2353
-2024-08-01 17:00:10.860614,100m Butterfly - Paris 2024 - Men's 100m Butterfly - Gold Medal Winner,Caeleb Dressel (USA),0.0695,0.3636,0.2941
-2024-08-01 17:00:11.560967,51kg - Paris 2024 - Men's 51kg Boxing - Gold Medal Winner,Saken Bibossinov (KAZ),0.06860000000000002,0.2353,0.1667
-2024-08-01 17:00:12.730559,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Tyler Wright (AUS),0.06669999999999998,0.1667,0.1
-2024-08-01 17:00:11.560967,51kg - Paris 2024 - Men's 51kg Boxing - Gold Medal Winner,Alejandro Claro (CUB),0.06620000000000001,0.125,0.0588
-2024-08-01 17:00:11.560967,51kg - Paris 2024 - Men's 51kg Boxing - Gold Medal Winner,Billal Bennama (FRA),0.066,0.1429,0.0769
-2024-08-01 17:00:09.682051,100m - Paris 2024 - Women's 100m - To Win a Medal,Shelly-Ann Fraser-Pryce (JAM),0.06440000000000001,0.4348,0.3704
-2024-08-01 17:00:11.845055,Trampoline - Paris 2024 - Women's Trampoline - Gold Medal Winner,Anzhela Bladtceva (AIN),0.0635,0.2857,0.2222
-2024-08-01 17:00:12.730559,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Caroline Marks (USA),0.0635,0.2857,0.2222
-2024-08-01 17:00:11.106211,Men's - Paris 2024 - Men's Beach Volleyball - Gold Medal Winner,Mol / Sørum (NOR),0.0635,0.2857,0.2222
-2024-08-01 17:00:11.719473,Team - Paris 2024 - Team Jumping - Gold Medal Winner,Great Britain,0.0628,0.1739,0.1111
-2024-08-01 17:00:12.287132,Lightweight Double Sculls - Paris 2024 - Women's Lightweight Double Sculls - Gold Medal Winner,Great Britain,0.05589999999999995,0.7333,0.6774
-2024-08-01 17:00:11.719473,Team - Paris 2024 - Team Jumping - Gold Medal Winner,United States,0.05559999999999998,0.1667,0.1111
-2024-08-01 17:00:12.730559,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Tatiana Weston-Webb (BRA),0.05379999999999999,0.1538,0.1
-2024-08-01 17:00:12.527718,Rifle - Paris 2024 - Women's 50m Rifle Three Positions - Gold Medal Winner,Yesugen Oyunbat (MGL),0.05249999999999999,0.0769,0.0244
-2024-08-01 17:00:11.845055,Trampoline - Paris 2024 - Women's Trampoline - Gold Medal Winner,Zhu Xueying (CHN),0.04999999999999999,0.25,0.2
+2024-08-02 05:00:02.283894,BMX - Paris 2024 - Men's BMX Racing - Gold Medal Winner,Sylvain Andre (FRA),0.0705,0.1538,0.0833
+2024-08-02 05:00:02.283894,BMX - Paris 2024 - Men's BMX Racing - Gold Medal Winner,Romain Mahieu (FRA),0.06669999999999998,0.2667,0.2
+2024-08-02 05:00:01.184490,100m - Paris 2024 - Women's 100m - To Win a Medal,Shelly-Ann Fraser-Pryce (JAM),0.06519999999999998,0.5,0.4348
+2024-08-02 05:00:10.375292,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Josh Shapiro,0.050799999999999956,0.7333,0.6825
+2024-08-02 05:00:01.184490,100m - Paris 2024 - Women's 100m - To Win a Medal,Audrey Leduc (CAN),0.0475,0.0769,0.0294
 2024-08-02 03:00:11.832438,Presidential Debates - Will Donald Trump and Kamala Harris participate in a presidential debate? - Trump/Harris debate?,No,0.0474,0.2326,0.1852
 2024-08-02 01:00:29.915692,51kg - Billal Bennama (FRA) vs Alejandro Claro (CUB) - To Win the Bout,Billal Bennama (FRA),0.047099999999999975,0.5122,0.4651
 2024-08-01 19:00:29.187635,Scores - 2nd Round Score - Jon Rahm - 2nd Round Score,Under 68.5,0.04620000000000002,0.5917,0.5455
 2024-08-01 20:59:47.921985,57kg - Paris 2024 - Women's 57kg Boxing - Gold Medal Winner,Lin Yu-ting (TPE),0.044500000000000095,0.7778,0.7333
 2024-08-02 03:00:04.709318,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Brisa Hennessy (CRC),0.044499999999999984,0.2667,0.2222
-2024-08-01 17:00:13.839751,Tennis - Paris 2024 - Men's Olympics Tennis 2024 - Gold Medal Winner,Felix Auger Aliassime,0.043899999999999995,0.0588,0.0149
+2024-08-02 05:00:01.184490,100m - Paris 2024 - Women's 100m - To Win a Medal,Daryll Neita (GBR),0.04440000000000001,0.1111,0.0667
 2024-08-02 03:00:06.815298,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Quinn Martin,0.043800000000000006,0.2105,0.1667
-2024-08-01 17:00:11.560967,51kg - Paris 2024 - Men's 51kg Boxing - Gold Medal Winner,Junior Alcantara (DOM),0.04239999999999999,0.0588,0.0164
+2024-08-02 05:00:01.184490,100m - Paris 2024 - Women's 100m - To Win a Medal,Ewa Swoboda (POL),0.04329999999999999,0.0909,0.0476
 2024-08-01 19:00:09.501075,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Mark Kelly,0.0407,0.1176,0.0769
-2024-08-01 17:00:12.730559,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Brisa Hennessy (CRC),0.04040000000000002,0.2222,0.1818
-2024-08-01 17:00:11.560967,51kg - Paris 2024 - Men's 51kg Boxing - Gold Medal Winner,Patrick Chinyemba (ZAM),0.0392,0.0588,0.0196
 2024-08-02 01:00:30.039667,80kg - Nurbek Oralbay (KAZ) vs Murad Allahverdiyev (AZE) - To Win the Bout,Nurbek Oralbay (KAZ),0.038899999999999935,0.8571,0.8182
-2024-08-01 17:00:11.475708,Men's - Paris 2024 - 3x3 Men's Basketball - Gold Medal Winner,Serbia 3x3,0.03640000000000004,0.4,0.3636
-2024-08-01 17:00:16.532758,Olympics 3x3 Basketball - Men - Paris 2024 - Men's 3x3 Basketball - Gold Medal Winner,Serbia 3x3,0.03640000000000004,0.4,0.3636
-2024-08-01 17:00:13.062951,Women's - Paris 2024 - Women's Volleyball - Pool A Winner,Serbia (W),0.035999999999999976,0.5122,0.4762
+2024-08-02 05:00:01.184490,100m - Paris 2024 - Women's 100m - To Win a Medal,Melissa Jefferson (USA),0.03640000000000004,0.4,0.3636
+2024-08-02 05:00:02.283894,BMX - Paris 2024 - Men's BMX Racing - Gold Medal Winner,Joris Daudet (FRA),0.03640000000000004,0.4,0.3636
 2024-08-01 22:59:16.293748,50m Freestlye - Paris 2024 - Men's 50m Freestyle - Gold Medal Winner,Cameron McEvoy (AUS),0.035999999999999976,0.5122,0.4762
 2024-08-01 22:59:42.729316,Portland Classic - Portland Classic - Winner,Hyo Joon Jang,0.03559999999999999,0.0435,0.0079
 2024-08-02 03:00:00.555757,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Austin FC,0.0344,0.0588,0.0244
-2024-08-01 17:00:20.234302,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,0.033299999999999996,0.4878,0.4545
 2024-08-02 03:00:06.815298,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Chelsie Baham,0.0321,0.0909,0.0588
 2024-08-01 22:59:42.729316,Portland Classic - Portland Classic - Winner,Polly Mack,0.031200000000000002,0.0345,0.0033
+2024-08-02 05:00:19.858485,Running Backs - NFL 2024-25 Rushing Yards - Josh Jacobs Regular Season Total Rushing Yards 2024-25,Under 975.5 Yards,0.030399999999999983,0.5652,0.5348
 2024-08-01 17:00:37.966758,Elite Boxing - Israil Madrimov vs Terence Crawford - To Win the Bout,Israil Madrimov,0.028799999999999992,0.1667,0.1379
 2024-08-01 22:59:42.729316,Portland Classic - Portland Classic - Winner,Lauren Coughlin,0.02840000000000001,0.1053,0.0769
-2024-08-01 17:00:11.106211,Men's - Paris 2024 - Men's Beach Volleyball - Gold Medal Winner,Benesh / Partain (USA),0.028199999999999996,0.0667,0.0385
-2024-08-01 17:00:20.311491,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Pete Buttigieg,0.028000000000000004,0.0476,0.0196
 2024-08-02 03:00:03.354772,200m Backstroke - Paris 2024 - Women's 200m Backstroke - Gold Medal Winner,Kaylee McKeown (AUS),0.027999999999999914,0.8462,0.8182
-2024-08-01 17:00:11.560967,51kg - Paris 2024 - Men's 51kg Boxing - Gold Medal Winner,Rafael Lozano (ESP),0.0275,0.0385,0.011
 2024-08-01 22:59:23.439675,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Josh Shapiro,0.02729999999999999,0.6825,0.6552
 2024-08-01 22:59:23.396133,2024 Election Core - US Presidential Election 2024 - Party Of Popular Vote Winner - Party of Popular Vote Winner,Democratic,0.026800000000000046,0.7143,0.6875
 2024-08-01 22:59:23.349671,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Kamala Harris,0.026800000000000046,0.7143,0.6875
-2024-08-01 17:00:11.719473,Team - Paris 2024 - Team Jumping - Gold Medal Winner,France,0.0267,0.1176,0.0909
 2024-08-02 01:00:29.791793,57kg - Alyssa Mendoza (USA) vs Jucielen Romeu (BRA) - To Win the Bout,Alyssa Mendoza (USA),0.026499999999999968,0.5917,0.5652
-2024-08-01 17:00:11.106211,Men's - Paris 2024 - Men's Beach Volleyball - Gold Medal Winner,Younousse / Tijan (QAT),0.024999999999999994,0.125,0.1
 2024-08-02 03:00:00.555757,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Tigres UANL,0.024999999999999994,0.125,0.1
 2024-08-01 20:59:55.114314,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Pete Buttigieg,0.024299999999999995,0.0769,0.0526
 2024-08-01 22:59:42.729316,Portland Classic - Portland Classic - Winner,Jenny Shin,0.0242,0.0909,0.0667
-2024-08-01 15:00:33.747453,MLB Futures - MLB 2024 Player Awards - American League ROY,Wilyer Abreu (BOS),0.024,0.0625,0.0385
 2024-08-02 01:00:31.685881,Round Match-Ups - 2nd Round Match-Up - J. Niemann vs T. Kim - 2nd Round Match-Up,Tom Kim,0.023800000000000043,0.5238,0.5
-2024-08-01 17:00:12.287132,Lightweight Double Sculls - Paris 2024 - Women's Lightweight Double Sculls - Gold Medal Winner,Romania,0.023799999999999988,0.1667,0.1429
+2024-08-02 05:00:01.809422,50m Freestlye - Paris 2024 - Men's 50m Freestyle - Gold Medal Winner,Cameron McEvoy (AUS),0.023800000000000043,0.5238,0.5
 2024-08-02 01:00:30.139505,Over 92kg - Teremoana Junior (AUS) vs Bakhodir Jalolov (UZB) - To Win the Bout,Teremoana Junior (AUS),0.023799999999999988,0.1667,0.1429
 2024-08-02 01:00:30.015400,80kg - Cristian Pinales (DOM) vs Gabrijel Veocic (CRO) - To Win the Bout,Gabrijel Veocic (CRO),0.02360000000000001,0.4082,0.3846
 2024-08-02 03:00:00.555757,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Deportivo Toluca,0.02310000000000001,0.1,0.0769
 2024-08-02 01:00:31.734360,Round Match-Ups - 2nd Round Match-Up - C. Conners vs H. Matsuyama - 2nd Round Match-Up,Corey Conners,0.022600000000000064,0.5348,0.5122
-2024-08-01 17:00:11.407556,Women's - Paris 2024 - Women's Field Hockey - Gold Medal Winner,Netherlands (W),0.02200000000000002,0.7143,0.6923
 2024-08-01 22:59:41.877466,Scores - 2nd Round Score - Joaquin Niemann - 2nd Round Score,Under 69.5,0.02180000000000004,0.6296,0.6078
-2024-08-01 15:00:35.137042,Round Match-Ups - 2nd Round Match-Up - S. Scheffler vs X. Schauffele - 2nd Round Match-Up,Xander Schauffele,0.021699999999999997,0.4762,0.4545
 2024-08-02 01:00:31.613142,Round Match-Ups - 2nd Round Match-Up - C. Morikawa vs L. Aberg - 2nd Round Match-Up,Ludvig Aberg,0.020699999999999996,0.4651,0.4444
-2024-08-02 03:00:00.637172,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Winner,Deportivo Toluca,0.0203,0.0588,0.0385
 2024-08-02 03:00:00.555757,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,St. Louis City SC,0.0203,0.0588,0.0385
+2024-08-02 03:00:00.637172,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Winner,Deportivo Toluca,0.0203,0.0588,0.0385
 2024-08-01 22:59:42.729316,Portland Classic - Portland Classic - Winner,Grace Kim,0.019800000000000005,0.0476,0.0278
 2024-08-01 22:59:42.026344,Scores - 2nd Round Score - Shane Lowry - 2nd Round Score,Under 69.5,0.01970000000000005,0.5652,0.5455
 2024-08-01 22:59:16.293748,50m Freestlye - Paris 2024 - Men's 50m Freestyle - Gold Medal Winner,Caeleb Dressel (USA),0.019699999999999995,0.125,0.1053
-2024-08-01 17:00:09.982760,Shot Put - Paris 2024 - Men's Shot Put - Gold Medal Winner,Ryan Crouser (USA),0.019499999999999962,0.6491,0.6296
 2024-08-01 22:59:42.729316,Portland Classic - Portland Classic - Winner,Pajaree Anannarukarn,0.019099999999999995,0.0435,0.0244
-2024-08-01 17:00:12.730559,Women's - Paris 2024 - Women's Surfing - Gold Medal Winner,Johanne Defay (FRA),0.019099999999999992,0.0667,0.0476
 2024-08-01 19:00:00.875523,57kg - Paris 2024 - Women's 57kg Boxing - Gold Medal Winner,Lin Yu-ting (TPE),0.018999999999999906,0.7333,0.7143
-2024-08-01 17:00:11.845055,Trampoline - Paris 2024 - Women's Trampoline - Gold Medal Winner,Hu Yicheng (CHN),0.01820000000000002,0.2,0.1818
-2024-08-01 17:00:11.734634,Team - Paris 2024 - Team Jumping - To Win a Medal,Israel,0.0181,0.0345,0.0164
-2024-08-01 17:00:13.044851,Women's - Paris 2024 - Women's Volleyball - Gold Medal Winner,Serbia (W),0.0179,0.1429,0.125
+2024-08-02 05:00:10.300856,2024 Election Core - US Presidential Election 2024 - Party Of Popular Vote Winner - Party of Popular Vote Winner,Democratic,0.018999999999999906,0.7333,0.7143
+2024-08-02 05:00:10.250489,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Kamala Harris,0.018999999999999906,0.7333,0.7143
+2024-08-02 05:00:01.184490,100m - Paris 2024 - Women's 100m - To Win a Medal,Mujinga Kambundji (SUI),0.018200000000000004,0.0476,0.0294
+2024-08-02 05:00:01.170090,100m - Paris 2024 - Women's 100m - Gold Medal Winner,Tia Clayton (JAM),0.018200000000000004,0.0476,0.0294
 2024-08-01 22:59:42.729316,Portland Classic - Portland Classic - Winner,So Mi Lee,0.0179,0.0278,0.0099
 2024-08-01 22:59:42.729316,Portland Classic - Portland Classic - Winner,Emma Talley,0.0167,0.0217,0.005
-2024-08-01 17:00:11.475708,Men's - Paris 2024 - 3x3 Men's Basketball - Gold Medal Winner,Lithuania 3x3,0.016600000000000004,0.0833,0.0667
-2024-08-01 17:00:16.532758,Olympics 3x3 Basketball - Men - Paris 2024 - Men's 3x3 Basketball - Gold Medal Winner,Lithuania 3x3,0.016600000000000004,0.0833,0.0667
-2024-08-01 17:00:11.106211,Men's - Paris 2024 - Men's Beach Volleyball - Gold Medal Winner,Ehlers / Wickler (GER),0.016600000000000004,0.0833,0.0667
+2024-08-02 05:00:02.283894,BMX - Paris 2024 - Men's BMX Racing - Gold Medal Winner,Izaac Kennedy (AUS),0.016600000000000004,0.0833,0.0667
 2024-08-01 22:59:41.898802,Scores - 2nd Round Score - Jon Rahm - 2nd Round Score,Under 68.5,0.016100000000000003,0.6078,0.5917
 2024-08-01 22:59:41.847221,Scores - 2nd Round Score - Hideki Matsuyama - 2nd Round Score,Under 69.5,0.016100000000000003,0.6078,0.5917
 2024-08-01 20:59:55.087041,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Will JD Vance be replaced as Republican VP nominee?,Yes,0.015700000000000006,0.1333,0.1176
 2024-08-01 22:59:42.729316,Portland Classic - Portland Classic - Winner,Angel Yin,0.015499999999999998,0.0278,0.0123
-2024-08-01 17:00:11.583468,80kg - Paris 2024 - Men's 80kg Boxing - Gold Medal Winner,Cristian Pinales (DOM),0.015300000000000001,0.0588,0.0435
 2024-08-01 22:59:17.082483,Men's - Paris 2024 - Men's Kite - Gold Medal Winner,Maximilian Maeder (SGP),0.015100000000000002,0.5556,0.5405
 2024-08-02 01:00:29.939717,51kg - Rafael Lozano (ESP) vs Yunior Alcantara Reyes (DOM) - To Win the Bout,Yunior Alcantara Reyes (DOM),0.014900000000000024,0.6923,0.6774
-2024-08-01 17:00:11.106211,Men's - Paris 2024 - Men's Beach Volleyball - Gold Medal Winner,Cottafava / Nicolai (ITA),0.014899999999999997,0.0625,0.0476
 2024-08-01 22:59:16.904546,Single Sculls - Paris 2024 - Men's Single Sculls - Gold Medal Winner,Tom Mackintosh (NZL),0.014899999999999997,0.0625,0.0476
 2024-08-01 19:00:27.544401,Boxing Lines - Isaac Cruz vs Jose Valenzuela - To Win the Bout,Jose Valenzuela,0.01469999999999999,0.25,0.2353
 2024-08-02 03:00:00.555757,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,New England Revolution,0.014099999999999998,0.0385,0.0244
+2024-08-02 05:00:02.336092,BMX - Paris 2024 - Women's BMX Racing - Gold Medal Winner,Molly Simpson (CAN),0.014099999999999998,0.0385,0.0244
 2024-08-02 03:00:00.555757,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Toronto FC,0.014099999999999998,0.0385,0.0244
-2024-08-01 17:00:20.311491,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Tim Walz,0.014099999999999994,0.0667,0.0526
-2024-08-01 17:00:11.407556,Women's - Paris 2024 - Women's Field Hockey - Gold Medal Winner,Belgium (W),0.013999999999999999,0.0909,0.0769
+2024-08-02 05:00:02.336092,BMX - Paris 2024 - Women's BMX Racing - Gold Medal Winner,Manon Veenstra (NED),0.014099999999999998,0.0385,0.0244
+2024-08-02 05:00:01.170090,100m - Paris 2024 - Women's 100m - Gold Medal Winner,Shelly-Ann Fraser-Pryce (JAM),0.013999999999999999,0.0909,0.0769
 2024-08-01 22:59:42.729316,Portland Classic - Portland Classic - Winner,Samantha Wagner,0.0139,0.0152,0.0013
 2024-08-01 21:00:12.248201,57kg - Lin Yu-ting (TPE) vs Sitora Turdibekova (UZB) - To Win the Bout,Sitora Turdibekova (UZB),0.013899999999999996,0.125,0.1111
 2024-08-01 22:59:41.776456,Match-Ups - 2nd Round Match-Up - M.W. Lee v C. Conners - Requests,Corey Conners,0.013799999999999923,0.6364,0.6226
@@ -130,148 +93,129 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-01 20:59:54.991968,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,0.012199999999999989,0.5,0.4878
 2024-08-01 20:59:54.968133,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,0.012199999999999989,0.5,0.4878
 2024-08-02 03:00:04.686841,Men's - Paris 2024 - Men's Surfing - Gold Medal Winner,Jack Robinson (AUS),0.011700000000000016,0.2222,0.2105
-2024-08-01 17:00:20.234302,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Democrat Popular Vote,0.011699999999999988,0.2857,0.274
+2024-08-02 05:00:01.170090,100m - Paris 2024 - Women's 100m - Gold Medal Winner,Daryll Neita (GBR),0.011699999999999999,0.0196,0.0079
 2024-08-01 21:00:12.296116,57kg - Khouloud Hlimi (TUN) vs Esra Yildiz (TUR) - To Win the Bout,Khouloud Hlimi (TUN),0.01150000000000001,0.3448,0.3333
 2024-08-02 03:00:00.555757,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,CF Pachuca,0.011199999999999995,0.0588,0.0476
 2024-08-02 03:00:00.637172,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Winner,FC Cincinnati,0.011199999999999995,0.0588,0.0476
-2024-08-01 17:00:11.583468,80kg - Paris 2024 - Men's 80kg Boxing - Gold Medal Winner,Nurbek Oralbay (KAZ),0.010899999999999993,0.1538,0.1429
-2024-08-01 17:00:16.532758,Olympics 3x3 Basketball - Men - Paris 2024 - Men's 3x3 Basketball - Gold Medal Winner,Poland 3x3,0.0102,0.0769,0.0667
-2024-08-01 17:00:11.475708,Men's - Paris 2024 - 3x3 Men's Basketball - Gold Medal Winner,Poland 3x3,0.0102,0.0769,0.0667
+2024-08-02 05:00:01.184490,100m - Paris 2024 - Women's 100m - To Win a Medal,Sha'carri Richardson (USA),0.011199999999999988,0.9524,0.9412
 2024-08-02 01:00:31.637400,Round Match-Ups - 2nd Round Match-Up - C. Ortiz vs G. Pereira - 2nd Round Match-Up,Guillermo Pereira,0.010099999999999998,0.4545,0.4444
-2024-08-01 17:00:11.583468,80kg - Paris 2024 - Men's 80kg Boxing - Gold Medal Winner,Arlen Lopez (CUB),-0.010099999999999998,0.3125,0.3226
 2024-08-01 20:59:54.991968,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican,-0.010099999999999998,0.5455,0.5556
-2024-08-01 19:00:29.263377,Scores - 2nd Round Score - Scottie Scheffler - 2nd Round Score,Over 68.5,-0.010099999999999998,0.4444,0.4545
 2024-08-01 20:59:54.968133,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.010099999999999998,0.5455,0.5556
+2024-08-01 19:00:29.263377,Scores - 2nd Round Score - Scottie Scheffler - 2nd Round Score,Over 68.5,-0.010099999999999998,0.4444,0.4545
 2024-08-02 03:00:06.815298,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Kimo Apaka,-0.0102,0.0667,0.0769
 2024-08-01 22:59:23.466195,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Kamala Harris vs The Field - Outright,The Field,-0.0102,0.0667,0.0769
-2024-08-01 17:00:09.682051,100m - Paris 2024 - Women's 100m - To Win a Medal,Daryll Neita (GBR),-0.0102,0.0667,0.0769
-2024-08-01 15:00:33.886575,Elite Boxing - Israil Madrimov vs Terence Crawford - To Win the Bout,Israil Madrimov,-0.010200000000000015,0.1379,0.1481
 2024-08-01 22:59:42.729316,Portland Classic - Portland Classic - Winner,Nicole Broch Estrup,-0.0106,0.0017,0.0123
-2024-08-02 03:00:06.815298,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Cedric Hodges,-0.010899999999999993,0.1429,0.1538
 2024-08-02 03:00:06.815298,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Cam Sullivan-Brown,-0.010899999999999993,0.1429,0.1538
+2024-08-02 03:00:06.815298,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Cedric Hodges,-0.010899999999999993,0.1429,0.1538
 2024-08-02 01:00:31.710119,Round Match-Ups - 2nd Round Match-Up - C. Bezuidenhout vs J. Day - 2nd Round Match-Up,Christiaan Bezuidenhout,-0.01100000000000001,0.5238,0.5348
 2024-08-02 01:00:31.710119,Round Match-Ups - 2nd Round Match-Up - C. Bezuidenhout vs J. Day - 2nd Round Match-Up,Jason Day,-0.01100000000000001,0.5238,0.5348
-2024-08-01 17:00:11.868003,Trampoline - Paris 2024 - Men's Trampoline - Gold Medal Winner,Yan Langyu (CHN),-0.011099999999999999,0.2667,0.2778
 2024-08-01 21:00:12.296116,57kg - Khouloud Hlimi (TUN) vs Esra Yildiz (TUR) - To Win the Bout,Esra Yildiz (TUR),-0.011099999999999999,0.7222,0.7333
-2024-08-01 17:00:09.682051,100m - Paris 2024 - Women's 100m - To Win a Medal,Sha'carri Richardson (USA),-0.011199999999999988,0.9412,0.9524
-2024-08-01 17:00:11.734634,Team - Paris 2024 - Team Jumping - To Win a Medal,Belgium,-0.01150000000000001,0.3333,0.3448
+2024-08-02 05:00:02.067049,200m Individual Medley - Paris 2024 - Men's 200m Individual Medley - Gold Medal Winner,Duncan Scott (GBR),-0.011199999999999995,0.0476,0.0588
 2024-08-01 22:59:16.293748,50m Freestlye - Paris 2024 - Men's 50m Freestyle - Gold Medal Winner,Ben Proud (GBR),-0.01150000000000001,0.3333,0.3448
-2024-08-01 17:00:13.062951,Women's - Paris 2024 - Women's Volleyball - Pool A Winner,China (W),-0.012199999999999989,0.5,0.5122
+2024-08-02 05:00:02.283894,BMX - Paris 2024 - Men's BMX Racing - Gold Medal Winner,Mauricio Molina (CHI),-0.011699999999999999,0.0079,0.0196
 2024-08-02 03:00:03.246184,50m Freestlye - Paris 2024 - Men's 50m Freestyle - Gold Medal Winner,Cameron McEvoy (AUS),-0.012199999999999989,0.5,0.5122
 2024-08-01 22:59:42.729316,Portland Classic - Portland Classic - Winner,Aditi Ashok,-0.012400000000000001,0.004,0.0164
-2024-08-01 17:00:10.860614,100m Butterfly - Paris 2024 - Men's 100m Butterfly - Gold Medal Winner,Kristof Milak (HUN),-0.012899999999999995,0.1538,0.1667
-2024-08-01 17:00:11.845055,Trampoline - Paris 2024 - Women's Trampoline - Gold Medal Winner,Sophiane Methot (CAN),-0.0131,0.0345,0.0476
+2024-08-02 05:00:01.184490,100m - Paris 2024 - Women's 100m - To Win a Medal,Gina Luckemkemper (GER),-0.012999999999999998,0.0164,0.0294
 2024-08-01 22:59:42.729316,Portland Classic - Portland Classic - Winner,Ryann OToole,-0.0131,0.0033,0.0164
 2024-08-01 22:59:42.729316,Portland Classic - Portland Classic - Winner,Yealimi Noh,-0.013699999999999999,0.0141,0.0278
+2024-08-02 05:00:05.233264,76th Primetime Emmy Awards - Emmys: Lead Actor In A Drama Series - Lead Actor Drama,Walton Goggins - Fallout,-0.013899999999999996,0.1111,0.125
 2024-08-02 03:00:00.555757,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Columbus Crew,-0.013899999999999996,0.1111,0.125
-2024-08-02 03:00:00.555757,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Seattle Sounders,-0.013999999999999999,0.0769,0.0909
-2024-08-01 22:59:17.082483,Men's - Paris 2024 - Men's Kite - Gold Medal Winner,Denis Taradin (CYP),-0.013999999999999999,0.0769,0.0909
 2024-08-02 03:00:00.555757,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,LA Galaxy,-0.013999999999999999,0.0769,0.0909
+2024-08-01 22:59:17.082483,Men's - Paris 2024 - Men's Kite - Gold Medal Winner,Denis Taradin (CYP),-0.013999999999999999,0.0769,0.0909
+2024-08-02 03:00:00.555757,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Seattle Sounders,-0.013999999999999999,0.0769,0.0909
+2024-08-02 05:00:05.254440,76th Primetime Emmy Awards - Emmys: Lead Actress In A Comedy Series - Lead Actress Comedy,Kristen Wiig - Palm Royale,-0.013999999999999999,0.0769,0.0909
 2024-08-02 03:00:03.246184,50m Freestlye - Paris 2024 - Men's 50m Freestyle - Gold Medal Winner,Leonardo Delplano (ITA),-0.014099999999999994,0.0526,0.0667
-2024-08-01 17:00:11.696825,Men's - Paris 2024 - Men's 3m Synchronized Springboard - Gold Medal Winner,Adrian Abadia/Nicolas Garcia (ESP),-0.014099999999999998,0.0294,0.0435
 2024-08-01 20:59:47.921985,57kg - Paris 2024 - Women's 57kg Boxing - Gold Medal Winner,Jucielen Romeu (BRA),-0.014099999999999998,0.0294,0.0435
+2024-08-02 05:00:01.184490,100m - Paris 2024 - Women's 100m - To Win a Medal,Rosemary Chukwuma (NGR),-0.014099999999999998,0.0244,0.0385
+2024-08-02 05:00:02.336092,BMX - Paris 2024 - Women's BMX Racing - Gold Medal Winner,Lauren Reynolds (AUS),-0.014099999999999998,0.0244,0.0385
 2024-08-01 21:00:12.248201,57kg - Lin Yu-ting (TPE) vs Sitora Turdibekova (UZB) - To Win the Bout,Lin Yu-ting (TPE),-0.014100000000000001,0.9333,0.9474
 2024-08-02 03:00:04.915816,Mixed - Paris 2024 - Triathlon Mixed Relay - Gold Medal Winner,Australia (AUS),-0.014100000000000001,0.0385,0.0526
 2024-08-02 01:00:29.939717,51kg - Rafael Lozano (ESP) vs Yunior Alcantara Reyes (DOM) - To Win the Bout,Rafael Lozano (ESP),-0.01419999999999999,0.3704,0.3846
-2024-08-01 17:00:16.640857,Tournament Futures - Paris 2024 - Men's Basketball - Winning Confederation,Americas,-0.014399999999999968,0.9231,0.9375
-2024-08-01 17:00:10.860614,100m Butterfly - Paris 2024 - Men's 100m Butterfly - Gold Medal Winner,Josh Liendo (CAN),-0.01469999999999999,0.2353,0.25
+2024-08-02 05:00:02.336092,BMX - Paris 2024 - Women's BMX Racing - Gold Medal Winner,Merel Smulders (NED),-0.014499999999999999,0.0149,0.0294
 2024-08-01 20:59:47.921985,57kg - Paris 2024 - Women's 57kg Boxing - Gold Medal Winner,Julia Szeremeta (POL),-0.014900000000000004,0.0196,0.0345
 2024-08-01 19:00:27.544401,Boxing Lines - Isaac Cruz vs Jose Valenzuela - To Win the Bout,Isaac Cruz,-0.015100000000000002,0.8182,0.8333
-2024-08-01 22:59:42.729316,Portland Classic - Portland Classic - Winner,Na Rin An,-0.015300000000000001,0.0323,0.0476
+2024-08-02 05:00:01.184490,100m - Paris 2024 - Women's 100m - To Win a Medal,Gina Bass (GAM),-0.015300000000000001,0.0323,0.0476
+2024-08-02 05:00:02.336092,BMX - Paris 2024 - Women's BMX Racing - Gold Medal Winner,Laura Smulders (NED),-0.015300000000000001,0.0435,0.0588
 2024-08-02 03:00:03.450750,200m Individual Medley - Paris 2024 - Men's 200m Individual Medley - Gold Medal Winner,Daiya Seto (JPN),-0.015300000000000001,0.0435,0.0588
+2024-08-01 22:59:42.729316,Portland Classic - Portland Classic - Winner,Na Rin An,-0.015300000000000001,0.0323,0.0476
+2024-08-02 05:00:02.067049,200m Individual Medley - Paris 2024 - Men's 200m Individual Medley - Gold Medal Winner,Daiya Seto (JPN),-0.0157,0.0278,0.0435
 2024-08-01 20:59:47.921985,57kg - Paris 2024 - Women's 57kg Boxing - Gold Medal Winner,Nasthy Petecio (PHI),-0.015700000000000006,0.1176,0.1333
 2024-08-01 22:59:16.293748,50m Freestlye - Paris 2024 - Men's 50m Freestyle - Gold Medal Winner,Jordan Crooks (CAY),-0.016600000000000004,0.0667,0.0833
 2024-08-02 01:00:30.139505,Over 92kg - Teremoana Junior (AUS) vs Bakhodir Jalolov (UZB) - To Win the Bout,Bakhodir Jalolov (UZB),-0.016699999999999937,0.9,0.9167
 2024-08-01 20:59:55.087041,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Will JD Vance be replaced as Republican VP nominee?,No,-0.016699999999999937,0.9333,0.95
 2024-08-01 22:59:16.904546,Single Sculls - Paris 2024 - Men's Single Sculls - Gold Medal Winner,Oliver Zeidler (GER),-0.016700000000000048,0.7333,0.75
-2024-08-01 17:00:11.106211,Men's - Paris 2024 - Men's Beach Volleyball - Gold Medal Winner,Krou / Gauthier-Rat (FRA),-0.017099999999999997,0.0123,0.0294
 2024-08-01 22:59:41.776456,Match-Ups - 2nd Round Match-Up - M.W. Lee v C. Conners - Requests,Min Woo Lee,-0.017299999999999982,0.4082,0.4255
 2024-08-01 22:59:42.729316,Portland Classic - Portland Classic - Winner,Yu Jin Sung,-0.017300000000000003,0.0071,0.0244
-2024-08-01 17:00:13.044851,Women's - Paris 2024 - Women's Volleyball - Gold Medal Winner,Turkey (W),-0.0179,0.125,0.1429
-2024-08-02 03:00:00.555757,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Los Angeles FC,-0.0179,0.125,0.1429
 2024-08-01 22:59:42.729316,Portland Classic - Portland Classic - Winner,Gemme Dryburgh,-0.0179,0.0099,0.0278
+2024-08-02 03:00:00.555757,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Los Angeles FC,-0.0179,0.125,0.1429
+2024-08-02 05:00:05.233264,76th Primetime Emmy Awards - Emmys: Lead Actor In A Drama Series - Lead Actor Drama,Idris Elba - Hijack,-0.0179,0.125,0.1429
+2024-08-02 05:00:01.809422,50m Freestlye - Paris 2024 - Men's 50m Freestyle - Gold Medal Winner,Leonardo Delplano (ITA),-0.018099999999999998,0.0345,0.0526
 2024-08-02 03:00:00.555757,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,CF Monterrey,-0.018099999999999998,0.0588,0.0769
 2024-08-02 03:00:00.555757,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,New York City FC,-0.018099999999999998,0.0588,0.0769
-2024-08-01 17:00:11.845055,Trampoline - Paris 2024 - Women's Trampoline - Gold Medal Winner,Viyaleta Bardzilouskaya (AIN),-0.018200000000000004,0.0294,0.0476
-2024-08-01 17:00:09.682051,100m - Paris 2024 - Women's 100m - To Win a Medal,Mujinga Kambundji (SUI),-0.018200000000000004,0.0294,0.0476
-2024-08-02 03:00:04.915816,Mixed - Paris 2024 - Triathlon Mixed Relay - Gold Medal Winner,Germany (GER),-0.01820000000000002,0.1818,0.2
 2024-08-02 03:00:02.391942,"10,000m - Paris 2024 - Men's 10,000m - Gold Medal Winner",Jacob Kiplimo (UGA),-0.01820000000000002,0.1818,0.2
+2024-08-02 03:00:04.915816,Mixed - Paris 2024 - Triathlon Mixed Relay - Gold Medal Winner,Germany (GER),-0.01820000000000002,0.1818,0.2
 2024-08-01 22:59:23.452885,Democrats - US Presidential Election 2024 - Democratic Presidential Candidate - Democratic Candidate,Michelle Obama,-0.0189,0.0196,0.0385
+2024-08-02 05:00:01.809422,50m Freestlye - Paris 2024 - Men's 50m Freestyle - Gold Medal Winner,Josh Liendo (CAN),-0.0189,0.0196,0.0385
 2024-08-01 22:59:41.975237,Scores - 2nd Round Score - Scottie Scheffler - 2nd Round Score,Over 68.5,-0.018900000000000028,0.4255,0.4444
-2024-08-01 15:00:33.747453,MLB Futures - MLB 2024 Player Awards - American League ROY,Luis Gil (NYY),-0.019000000000000017,0.2667,0.2857
-2024-08-01 17:00:09.473210,Most Medals - Paris 2024 - Most Gold Medals - Outright,China,-0.019000000000000017,0.2667,0.2857
-2024-08-01 17:00:11.106211,Men's - Paris 2024 - Men's Beach Volleyball - Gold Medal Winner,Loyola Stein / Wanderley (BRA),-0.019099999999999992,0.0476,0.0667
-2024-08-01 17:00:12.263268,Lightweight Double Sculls - Paris 2024 - Men's Lightweight Double Sculls - Gold Medal Winner,Norway,-0.019499999999999997,0.0099,0.0294
+2024-08-02 05:00:02.283894,BMX - Paris 2024 - Men's BMX Racing - Gold Medal Winner,Simon Marquart (SUI),-0.019600000000000003,0.0149,0.0345
 2024-08-01 22:59:41.877466,Scores - 2nd Round Score - Joaquin Niemann - 2nd Round Score,Over 69.5,-0.019699999999999995,0.4348,0.4545
 2024-08-02 01:00:31.661615,Round Match-Ups - 2nd Round Match-Up - T. Olesen vs V. Perez - 2nd Round Match-Up,Victor Perez,-0.01970000000000005,0.5455,0.5652
 2024-08-01 22:59:42.729316,Portland Classic - Portland Classic - Winner,Chanettee Wannasaen,-0.019800000000000005,0.0278,0.0476
+2024-08-02 05:00:10.375292,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Andy Beshear,-0.020100000000000007,0.1538,0.1739
+2024-08-02 05:00:02.283894,BMX - Paris 2024 - Men's BMX Racing - Gold Medal Winner,Kamren Larsen (USA),-0.02020000000000001,0.0909,0.1111
 2024-08-02 03:00:00.555757,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Colorado Rapids,-0.0203,0.0385,0.0588
 2024-08-02 03:00:03.354772,200m Backstroke - Paris 2024 - Women's 200m Backstroke - Gold Medal Winner,Phoebe Bacon (USA),-0.0208,0.0625,0.0833
 2024-08-01 22:59:41.847221,Scores - 2nd Round Score - Hideki Matsuyama - 2nd Round Score,Over 69.5,-0.021699999999999997,0.4545,0.4762
 2024-08-01 22:59:41.898802,Scores - 2nd Round Score - Jon Rahm - 2nd Round Score,Over 68.5,-0.021699999999999997,0.4545,0.4762
-2024-08-01 15:00:33.747453,MLB Futures - MLB 2024 Player Awards - American League ROY,Wyatt Langford (TEX),-0.022000000000000006,0.0833,0.1053
+2024-08-02 05:00:05.233264,76th Primetime Emmy Awards - Emmys: Lead Actor In A Drama Series - Lead Actor Drama,Dominic West - The Crown,-0.022199999999999998,0.2,0.2222
 2024-08-02 01:00:30.015400,80kg - Cristian Pinales (DOM) vs Gabrijel Veocic (CRO) - To Win the Bout,Cristian Pinales (DOM),-0.022199999999999998,0.6552,0.6774
-2024-08-01 17:00:09.682051,100m - Paris 2024 - Women's 100m - To Win a Medal,Julien Alfred (LCA),-0.022199999999999998,0.7778,0.8
+2024-08-02 05:00:19.858485,Running Backs - NFL 2024-25 Rushing Yards - Josh Jacobs Regular Season Total Rushing Yards 2024-25,Over 975.5 Yards,-0.022600000000000064,0.5122,0.5348
 2024-08-01 20:59:47.921985,57kg - Paris 2024 - Women's 57kg Boxing - Gold Medal Winner,Amina Zidani FRA),-0.02310000000000001,0.0769,0.1
 2024-08-01 20:59:47.921985,57kg - Paris 2024 - Women's 57kg Boxing - Gold Medal Winner,Xu Zichun (CHN),-0.0232,0.0435,0.0667
-2024-08-01 17:00:11.845055,Trampoline - Paris 2024 - Women's Trampoline - Gold Medal Winner,Lea Labrousse (FRA),-0.023200000000000002,0.0244,0.0476
+2024-08-02 05:00:02.283894,BMX - Paris 2024 - Men's BMX Racing - Gold Medal Winner,Cedric Butti (SUI),-0.023200000000000002,0.0294,0.0526
+2024-08-02 05:00:10.300856,2024 Election Core - US Presidential Election 2024 - Party Of Popular Vote Winner - Party of Popular Vote Winner,Republican,-0.023799999999999988,0.3333,0.3571
+2024-08-02 05:00:10.250489,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Donald Trump,-0.023799999999999988,0.3333,0.3571
 2024-08-02 01:00:29.791793,57kg - Alyssa Mendoza (USA) vs Jucielen Romeu (BRA) - To Win the Bout,Jucielen Romeu (BRA),-0.023799999999999988,0.4762,0.5
 2024-08-01 22:59:42.026344,Scores - 2nd Round Score - Shane Lowry - 2nd Round Score,Over 69.5,-0.023800000000000043,0.5,0.5238
 2024-08-01 22:59:16.293748,50m Freestlye - Paris 2024 - Men's 50m Freestyle - Gold Medal Winner,Florent Manaudou (FRA),-0.0242,0.0667,0.0909
-2024-08-01 17:00:11.868003,Trampoline - Paris 2024 - Men's Trampoline - Gold Medal Winner,Pierre Gouzou (FRA),-0.024299999999999995,0.0345,0.0588
-2024-08-01 17:00:10.860614,100m Butterfly - Paris 2024 - Men's 100m Butterfly - Gold Medal Winner,Matthew Temple (AUS),-0.024999999999999994,0.1,0.125
+2024-08-02 05:00:01.184490,100m - Paris 2024 - Women's 100m - To Win a Medal,Twanisha Terry (USA),-0.024999999999999994,0.1,0.125
+2024-08-02 05:00:01.809422,50m Freestlye - Paris 2024 - Men's 50m Freestyle - Gold Medal Winner,Ben Proud (GBR),-0.02560000000000001,0.3077,0.3333
+2024-08-02 05:00:01.170090,100m - Paris 2024 - Women's 100m - Gold Medal Winner,Julien Alfred (LCA),-0.026100000000000012,0.1739,0.2
 2024-08-01 22:59:23.439675,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Mark Kelly,-0.0267,0.0909,0.1176
 2024-08-01 17:00:37.966758,Elite Boxing - Israil Madrimov vs Terence Crawford - To Win the Bout,Terence Crawford,-0.026700000000000057,0.8824,0.9091
-2024-08-01 22:59:23.396133,2024 Election Core - US Presidential Election 2024 - Party Of Popular Vote Winner - Party of Popular Vote Winner,Republican,-0.027500000000000024,0.3571,0.3846
 2024-08-01 22:59:23.349671,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Donald Trump,-0.027500000000000024,0.3571,0.3846
-2024-08-01 17:00:20.311491,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Josh Shapiro,-0.027800000000000047,0.7222,0.75
-2024-08-01 17:00:11.696825,Men's - Paris 2024 - Men's 3m Synchronized Springboard - Gold Medal Winner,Wang Zongyuan/Long Daoyi (CHN),-0.028000000000000025,0.9524,0.9804
+2024-08-01 22:59:23.396133,2024 Election Core - US Presidential Election 2024 - Party Of Popular Vote Winner - Party of Popular Vote Winner,Republican,-0.027500000000000024,0.3571,0.3846
 2024-08-01 22:59:42.729316,Portland Classic - Portland Classic - Winner,Jennifer Kupcho,-0.029299999999999993,0.0476,0.0769
 2024-08-01 22:59:42.729316,Portland Classic - Portland Classic - Winner,Ariya Jutanugarn,-0.029700000000000004,0.0179,0.0476
 2024-08-02 01:00:31.637400,Round Match-Ups - 2nd Round Match-Up - C. Ortiz vs G. Pereira - 2nd Round Match-Up,Carlos Ortiz,-0.03090000000000004,0.5917,0.6226
+2024-08-02 05:00:05.254440,76th Primetime Emmy Awards - Emmys: Lead Actress In A Comedy Series - Lead Actress Comedy,Maya Rudolph - Loot,-0.031799999999999995,0.1111,0.1429
+2024-08-02 05:00:05.254440,76th Primetime Emmy Awards - Emmys: Lead Actress In A Comedy Series - Lead Actress Comedy,Quinta Brunson - Abbott Elementary,-0.031799999999999995,0.1111,0.1429
+2024-08-02 05:00:02.067049,200m Individual Medley - Paris 2024 - Men's 200m Individual Medley - Gold Medal Winner,Leon Marchand (FRA),-0.03210000000000002,0.9091,0.9412
 2024-08-01 20:59:55.114314,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Josh Shapiro,-0.032299999999999995,0.6552,0.6875
+2024-08-02 05:00:02.336092,BMX - Paris 2024 - Women's BMX Racing - Gold Medal Winner,Zoe Claessens (SUI),-0.03330000000000001,0.0667,0.1
 2024-08-02 03:00:02.391942,"10,000m - Paris 2024 - Men's 10,000m - Gold Medal Winner",Berihu Aregawi (ETH),-0.033399999999999985,0.1333,0.1667
-2024-08-01 17:00:11.719473,Team - Paris 2024 - Team Jumping - Gold Medal Winner,Ireland,-0.034100000000000005,0.0909,0.125
+2024-08-02 05:00:02.336092,BMX - Paris 2024 - Women's BMX Racing - Gold Medal Winner,Saya Sakakibara (AUS),-0.03370000000000001,0.3509,0.3846
 2024-08-01 19:00:09.501075,Democrats - US Presidential Election 2024 - Democratic Vice Presidential Candidate - Democratic VP,Josh Shapiro,-0.03469999999999995,0.6875,0.7222
-2024-08-01 17:00:11.734634,Team - Paris 2024 - Team Jumping - To Win a Medal,Mexico,-0.0373,0.0294,0.0667
 2024-08-02 01:00:31.613142,Round Match-Ups - 2nd Round Match-Up - C. Morikawa vs L. Aberg - 2nd Round Match-Up,Collin Morikawa,-0.0393,0.5833,0.6226
 2024-08-02 01:00:30.039667,80kg - Nurbek Oralbay (KAZ) vs Murad Allahverdiyev (AZE) - To Win the Bout,Murad Allahverdiyev (AZE),-0.03950000000000001,0.2105,0.25
-2024-08-01 17:00:11.868003,Trampoline - Paris 2024 - Men's Trampoline - Gold Medal Winner,Dylan Schmidt (NZL),-0.04040000000000002,0.1818,0.2222
-2024-08-02 03:00:00.555757,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Club América,-0.04040000000000002,0.1818,0.2222
 2024-08-02 03:00:00.555757,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Inter Miami,-0.04040000000000002,0.1818,0.2222
+2024-08-02 03:00:00.555757,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Club América,-0.04040000000000002,0.1818,0.2222
+2024-08-02 05:00:02.283894,BMX - Paris 2024 - Men's BMX Racing - Gold Medal Winner,Diego Arboleda (COL),-0.04120000000000001,0.0588,0.1
 2024-08-02 01:00:31.685881,Round Match-Ups - 2nd Round Match-Up - J. Niemann vs T. Kim - 2nd Round Match-Up,Joaquin Niemann,-0.04139999999999999,0.5238,0.5652
-2024-08-01 17:00:11.719473,Team - Paris 2024 - Team Jumping - Gold Medal Winner,Netherlands,-0.04269999999999999,0.1111,0.1538
-2024-08-01 17:00:13.062951,Women's - Paris 2024 - Women's Volleyball - Pool A Winner,USA (W),-0.04329999999999999,0.0476,0.0909
-2024-08-01 17:00:09.682051,100m - Paris 2024 - Women's 100m - To Win a Medal,Ewa Swoboda (POL),-0.04329999999999999,0.0476,0.0909
+2024-08-02 05:00:02.283894,BMX - Paris 2024 - Men's BMX Racing - Gold Medal Winner,Kye Whyte (GBR),-0.04200000000000001,0.0294,0.0714
 2024-08-02 01:00:31.734360,Round Match-Ups - 2nd Round Match-Up - C. Conners vs H. Matsuyama - 2nd Round Match-Up,Hideki Matsuyama,-0.043399999999999994,0.5122,0.5556
 2024-08-02 01:00:29.915692,51kg - Billal Bennama (FRA) vs Alejandro Claro (CUB) - To Win the Bout,Alejandro Claro (CUB),-0.044399999999999995,0.5556,0.6
-2024-08-01 17:00:13.839751,Tennis - Paris 2024 - Men's Olympics Tennis 2024 - Gold Medal Winner,Novak Djokovic,-0.04580000000000001,0.2667,0.3125
-2024-08-01 17:00:09.682051,100m - Paris 2024 - Women's 100m - To Win a Medal,Dina Asher-Smith (GBR),-0.04620000000000002,0.1538,0.2
-2024-08-01 17:00:11.845055,Trampoline - Paris 2024 - Women's Trampoline - Gold Medal Winner,Jessica Stevens (USA),-0.047400000000000005,0.0526,0.1
 2024-08-01 19:00:29.187635,Scores - 2nd Round Score - Jon Rahm - 2nd Round Score,Over 68.5,-0.04760000000000003,0.4762,0.5238
 2024-08-02 03:00:11.832438,Presidential Debates - Will Donald Trump and Kamala Harris participate in a presidential debate? - Trump/Harris debate?,Yes,-0.04909999999999992,0.8333,0.8824
-2024-08-01 17:00:20.234302,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Republican Popular Vote,-0.0494,0.3077,0.3571
 2024-08-01 22:59:42.729316,Portland Classic - Portland Classic - Winner,Allisen Corpuz,-0.0503,0.0164,0.0667
-2024-08-01 17:00:09.982760,Shot Put - Paris 2024 - Men's Shot Put - Gold Medal Winner,Leonardo Fabbri (ITA),-0.05299999999999999,0.25,0.303
-2024-08-01 17:00:09.682051,100m - Paris 2024 - Women's 100m - To Win a Medal,Melissa Jefferson (USA),-0.053100000000000036,0.3636,0.4167
 2024-08-02 03:00:04.915816,Mixed - Paris 2024 - Triathlon Mixed Relay - Gold Medal Winner,United States (USA),-0.05559999999999998,0.1111,0.1667
 2024-08-01 22:59:42.729316,Portland Classic - Portland Classic - Winner,Mao Saigo,-0.061500000000000006,0.0385,0.1
+2024-08-02 05:00:01.184490,100m - Paris 2024 - Women's 100m - To Win a Medal,Dina Asher-Smith (GBR),-0.0629,0.0909,0.1538
 2024-08-02 03:00:02.391942,"10,000m - Paris 2024 - Men's 10,000m - Gold Medal Winner",Joshua Cheptegei (UGA),-0.06490000000000001,0.3125,0.3774
 2024-08-02 03:00:00.555757,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Cruz Azul,-0.066,0.0769,0.1429
+2024-08-02 05:00:05.254440,76th Primetime Emmy Awards - Emmys: Lead Actress In A Comedy Series - Lead Actress Comedy,Ayo Edibiri - The Bear,-0.06670000000000004,0.3333,0.4
 2024-08-01 20:59:47.921985,57kg - Paris 2024 - Women's 57kg Boxing - Gold Medal Winner,Svetlana Staneva (BUL),-0.0676,0.1429,0.2105
-2024-08-01 17:00:11.734634,Team - Paris 2024 - Team Jumping - To Win a Medal,Ireland,-0.06970000000000004,0.3077,0.3774
-2024-08-01 17:00:12.287132,Lightweight Double Sculls - Paris 2024 - Women's Lightweight Double Sculls - Gold Medal Winner,United States,-0.07239999999999999,0.0526,0.125
-2024-08-01 17:00:11.734634,Team - Paris 2024 - Team Jumping - To Win a Medal,Sweden,-0.07790000000000008,0.6364,0.7143
-2024-08-01 17:00:12.287132,Lightweight Double Sculls - Paris 2024 - Women's Lightweight Double Sculls - Gold Medal Winner,New Zealand,-0.07930000000000001,0.1429,0.2222
-2024-08-01 17:00:09.982760,Shot Put - Paris 2024 - Men's Shot Put - Gold Medal Winner,Joe Kovacs (USA),-0.08330000000000001,0.1667,0.25
-2024-08-01 17:00:12.263268,Lightweight Double Sculls - Paris 2024 - Men's Lightweight Double Sculls - Gold Medal Winner,Switzerland,-0.0849,0.1818,0.2667
-2024-08-01 17:00:09.682051,100m - Paris 2024 - Women's 100m - To Win a Medal,Rosemary Chukwuma (NGR),-0.0948,0.0385,0.1333
-2024-08-01 17:00:09.682051,100m - Paris 2024 - Women's 100m - To Win a Medal,Tia Clayton (JAM),-0.11109999999999998,0.2222,0.3333
-2024-08-01 17:00:11.719473,Team - Paris 2024 - Team Jumping - Gold Medal Winner,Sweden,-0.11109999999999998,0.2222,0.3333
+2024-08-02 05:00:02.336092,BMX - Paris 2024 - Women's BMX Racing - Gold Medal Winner,Alise Willoughby (USA),-0.09350000000000003,0.3509,0.4444
 2024-08-02 01:00:01.450922,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 1,New York City FC,-0.131,0.2857,0.4167
 2024-08-02 01:00:01.495572,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win West 4,Sporting Kansas City,-0.14639999999999997,0.4,0.5464
-2024-08-01 17:00:11.106211,Men's - Paris 2024 - Men's Beach Volleyball - Gold Medal Winner,Aahman / Hellvig (SWE),-0.15000000000000002,0.25,0.4
-2024-08-01 17:00:11.845055,Trampoline - Paris 2024 - Women's Trampoline - Gold Medal Winner,Bryony Page (GBR),-0.1515,0.1818,0.3333
-2024-08-01 17:00:11.734634,Team - Paris 2024 - Team Jumping - To Win a Medal,Netherlands,-0.15450000000000003,0.3333,0.4878
-2024-08-01 17:00:09.682051,100m - Paris 2024 - Women's 100m - To Win a Medal,Twanisha Terry (USA),-0.1607,0.125,0.2857
 2024-08-01 19:00:29.414734,Scores - 2nd Round Score - Xander Schauffele - 2nd Round Score,Over 68.5,-0.18189999999999995,0.4545,0.6364
