@@ -5,7 +5,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-06 19:02:59.396832,Team - Paris 2024 - Open Team Event - Gold Medal Winner,China,0.3234,0.9901,0.6667
 2024-08-06 17:02:52.852588,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Rebounds,Daniel  Theis,0.3095,0.8333,0.5238
 2024-08-06 15:02:41.111663,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading France Assists,Victor  Wembanyama,0.30160000000000003,0.7778,0.4762
-2024-08-06 08:59:19.944803,Freestyle 57kg - Paris 2024 - Men's Freestyle 57kg - Gold Medal Winner,Spencer Lee (USA),0.2738,0.75,0.4762
 2024-08-06 17:02:52.959319,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Serbia Steals,Nikola  Jokic,0.246,0.8889,0.6429
 2024-08-06 15:02:36.674238,400m - Paris 2024 - Men's 400m - Gold Medal Winner,Matthew Hudson-Smith (GBR),0.19199999999999995,0.6364,0.4444
 2024-08-06 17:02:48.840542,Men's - Paris 2024 - Men's 3m Springboard - Gold Medal Winner,Wang Zongyuan (CHN),0.19009999999999994,0.9901,0.8
@@ -17,11 +16,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-06 17:02:52.834818,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Points Scorer,Franz  Wagner,0.119,0.8333,0.7143
 2024-08-06 17:02:49.041641,Men's - Paris 2024 - Men's Boulder & Lead - Gold Medal Winner,Sorato Anraku (JPN),0.10970000000000002,0.4545,0.3448
 2024-08-06 19:02:58.868515,Pole Vault - Paris 2024 - Women's Pole Vault - To Win a Medal,Katie Moon (USA),0.10650000000000004,0.7143,0.6078
-2024-08-06 08:59:19.640843,Sprint - Paris 2024 - Men's Kayak Four 500m - Gold Medal Winner,Australia,0.10390000000000002,0.2857,0.1818
 2024-08-06 17:02:48.391618,Women's - Paris 2024 - Women's Beach Volleyball - Gold Medal Winner,Brunner / Huberli (SUI),0.1,0.2667,0.1667
 2024-08-06 17:02:47.474373,High Jump - Paris 2024 - Men's High Jump - Gold Medal Winner,Mutaz Esa Barshim (QAT),0.09889999999999999,0.3846,0.2857
 2024-08-06 17:02:52.888294,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Serbia Assists,Nikola  Jokic,0.09530000000000005,0.9524,0.8571
-2024-08-06 08:59:19.630540,Sprint - Paris 2024 - Men's Canoe Double 500m - Gold Medal Winner,China,0.09090000000000004,0.4545,0.3636
 2024-08-06 19:02:59.574188,Track - Paris 2024 - Women's Keirin - To Win a Medal,Emma Hinze (GER),0.09090000000000004,0.4545,0.3636
 2024-08-06 11:04:22.857098,Sprint - Paris 2024 - Men's Kayak Double 500m - Gold Medal Winner,Green / Van Der Westhuizen (AUS),0.0889,0.2222,0.1333
 2024-08-06 17:02:49.018722,Park - Paris 2024 - Men's Park - Gold Medal Winner,Keegan Palmer (AUS),0.08549999999999996,0.3077,0.2222
@@ -31,242 +28,189 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-06 17:02:49.041641,Men's - Paris 2024 - Men's Boulder & Lead - Gold Medal Winner,Adam Ondra (CZE),0.0762,0.1429,0.0667
 2024-08-06 19:02:59.735639,57kg - Paris 2024 - Women's 57kg Boxing - Gold Medal Winner,Lin Yu-ting (TPE),0.07499999999999996,0.875,0.8
 2024-08-06 17:02:52.923774,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Serbia Points Scorer,Nikola  Jokic,0.07140000000000002,0.7143,0.6429
-2024-08-06 17:02:48.573242,Men's - Paris 2024 - Men's Basketball - Gold Medal Winner,France,0.0708,0.0952,0.0244
 2024-08-06 17:02:52.689086,Tournament Futures - Paris 2024 - Men's Basketball - Gold Medal Winner,France,0.0708,0.0952,0.0244
+2024-08-06 17:02:48.573242,Men's - Paris 2024 - Men's Basketball - Gold Medal Winner,France,0.0708,0.0952,0.0244
 2024-08-06 11:04:22.794195,Sprint - Paris 2024 - Women's Kayak Double 500m - Gold Medal Winner,Klatt / Wisniewska (POL),0.07069999999999999,0.1818,0.1111
-2024-08-06 08:59:19.587267,Sprint - Paris 2024 - Women's Canoe Double 500m - Gold Medal Winner,Canada,0.0683,0.2857,0.2174
 2024-08-06 11:04:42.829067,MLB Futures - MLB 2024 Top Seeds - American League 1 Seed,New York Yankees,0.06779999999999997,0.5556,0.4878
 2024-08-06 19:03:07.883902,Electoral College Winner - Michigan (MI) - MI,Democrat,0.06440000000000001,0.6296,0.5652
 2024-08-06 13:02:09.269939,Women's - Paris 2024 - Women's Water Polo - Gold Medal Winner,Spain (W),0.0635,0.2857,0.2222
 2024-08-06 17:02:52.763686,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading France Rebounds,Victor  Wembanyama,0.0615,0.999,0.9375
-2024-08-06 08:59:38.729371,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Robert Suarez (SD),0.0595,0.4762,0.4167
 2024-08-06 19:03:07.906156,Electoral College Winner - Minnesota (MN) - MN,Democrat,0.058800000000000074,0.905,0.8462
 2024-08-06 19:03:04.149406,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament MVP,LeBron  James (USA),0.05870000000000003,0.5238,0.4651
 2024-08-06 15:02:41.147213,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading France Points Scorer,Evan  Fournier,0.05859999999999999,0.0909,0.0323
 2024-08-06 15:02:34.952832,Premiership - Scotland Premiership 2024/25 - Winner,Celtic,0.057699999999999974,0.75,0.6923
-2024-08-06 08:59:19.576798,Sprint - Paris 2024 - Women's Kayak Four 500m - Gold Medal Winner,Germany,0.057699999999999974,0.3077,0.25
 2024-08-06 17:02:48.391618,Women's - Paris 2024 - Women's Beach Volleyball - Gold Medal Winner,Santos Lisboa / Silva Ramos (BRA),0.05559999999999998,0.5556,0.5
 2024-08-06 13:02:09.269939,Women's - Paris 2024 - Women's Water Polo - Gold Medal Winner,Netherlands (W),0.05550000000000002,0.2222,0.1667
 2024-08-06 17:02:52.906034,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Serbia Blocks,Nikola  Jokic,0.053100000000000036,0.4167,0.3636
 2024-08-06 15:02:41.147213,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading France Points Scorer,Guerschon Yabusele (FRA),0.052399999999999995,0.0909,0.0385
 2024-08-06 15:02:36.856028,400m Hurdles - Paris 2024 - Women's 400m Hurdles - Gold Medal Winner,Sydney McLaughlin-Levrone (USA),0.04930000000000001,0.7826,0.7333
 2024-08-06 17:02:47.474373,High Jump - Paris 2024 - Men's High Jump - Gold Medal Winner,Woo Sang-hyeok (KOR),0.048600000000000004,0.1111,0.0625
-2024-08-06 08:59:18.805482,5000m - Paris 2024 - Men's 5000m - Gold Medal Winner,Jakob Ingebrigtsen (NOR),0.04799999999999993,0.7403,0.6923
-2024-08-06 08:59:38.803678,71kg - Lewis Richardson (GBR) vs Marco Verde (MEX) - To Win the Bout,Lewis Richardson (GBR),0.04780000000000001,0.3704,0.3226
-2024-08-06 08:59:24.047415,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Democrat Popular Vote,0.047599999999999976,0.3333,0.2857
-2024-08-06 08:59:17.240148,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 5,Nashville SC,0.0448,0.0833,0.0385
 2024-08-06 15:02:35.878323,Liga FPD Apertura - Costa Rica Primera Division Apertura 2024 - Futures - Winner,Alajuelense,0.044399999999999995,0.4444,0.4
 2024-08-06 17:02:49.041641,Men's - Paris 2024 - Men's Boulder & Lead - Gold Medal Winner,Tomoa Narasaki (JPN),0.04329999999999999,0.0909,0.0476
-2024-08-06 08:59:19.630540,Sprint - Paris 2024 - Men's Canoe Double 500m - Gold Medal Winner,AIN,0.04269999999999999,0.1538,0.1111
-2024-08-06 08:59:17.240148,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 5,New England Revolution,0.040999999999999925,0.7333,0.6923
 2024-08-06 11:04:42.782290,MLB Futures - MLB 2024 National League East - National League East Winner,Atlanta Braves,0.04040000000000002,0.2222,0.1818
-2024-08-06 08:59:38.708340,MLB Futures - MLB 2024 Player Awards - National League MVP,Ketel Marte (ARI),0.0384,0.0769,0.0385
 2024-08-06 11:04:21.510717,Premier League Futures/Specials - English Premier League 2024/25 - Team Total Points Milestones,Arsenal 80+ Total Points,0.03639999999999999,0.6364,0.6
 2024-08-06 11:04:42.712103,MLB Futures - MLB 2024 American League East - American League East Winner,New York Yankees,0.03639999999999999,0.6364,0.6
 2024-08-06 17:02:48.950268,Women's - Paris 2024 - Women's Handball - Gold Medal Winner,Denmark (W),0.036199999999999996,0.1538,0.1176
 2024-08-06 19:02:59.488094,Track - Paris 2024 - Men's Sprint - Gold Medal Winner,Harrie Lavreysen (NED),0.035699999999999954,0.75,0.7143
-2024-08-06 08:59:19.944803,Freestyle 57kg - Paris 2024 - Men's Freestyle 57kg - Gold Medal Winner,Arsen Harutyunyan (ARM),0.0353,0.0909,0.0556
 2024-08-06 19:02:59.574188,Track - Paris 2024 - Women's Keirin - To Win a Medal,Steffie van der Peet (NED),0.0353,0.0909,0.0556
 2024-08-06 19:02:59.502977,Track - Paris 2024 - Men's Sprint - To Win a Medal,Hamish Turnbull (GBR),0.03420000000000001,0.1111,0.0769
-2024-08-06 08:59:19.576798,Sprint - Paris 2024 - Women's Kayak Four 500m - Gold Medal Winner,Spain,0.03420000000000001,0.1111,0.0769
-2024-08-06 08:59:19.944803,Freestyle 57kg - Paris 2024 - Men's Freestyle 57kg - Gold Medal Winner,Rei Higuchi (JPN),0.03409999999999999,0.2667,0.2326
 2024-08-06 17:02:49.273670,Women's - Paris 2024 - Women's Volleyball - Gold Medal Winner,USA (W),0.033300000000000024,0.2,0.1667
-2024-08-06 11:04:42.735458,MLB Futures - MLB 2024 American League West - American League West Winner,Seattle Mariners,0.033299999999999996,0.5455,0.5122
 2024-08-06 11:04:22.857098,Sprint - Paris 2024 - Men's Kayak Double 500m - Gold Medal Winner,Lemke / Schopf (GER),0.033299999999999996,0.1333,0.1
+2024-08-06 11:04:42.735458,MLB Futures - MLB 2024 American League West - American League West Winner,Seattle Mariners,0.033299999999999996,0.5455,0.5122
 2024-08-06 17:02:49.273670,Women's - Paris 2024 - Women's Volleyball - Gold Medal Winner,Turkey (W),0.031799999999999995,0.1429,0.1111
 2024-08-06 11:04:42.576209,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Cleveland Guardians,0.031,0.1739,0.1429
 2024-08-06 15:02:52.324330,Wide Receivers - NFL 2024-25 Receiving Yards - Christian Watson Regular Season Total Receiving Yards 2024-25,Under 750.5 Yards,0.030399999999999983,0.5652,0.5348
 2024-08-06 15:02:35.878323,Liga FPD Apertura - Costa Rica Primera Division Apertura 2024 - Futures - Winner,Saprissa,0.030299999999999994,0.3636,0.3333
-2024-08-06 19:02:59.502977,Track - Paris 2024 - Men's Sprint - To Win a Medal,Matthew Glaetzer (AUS),0.029600000000000015,0.4,0.3704
 2024-08-06 19:02:59.502977,Track - Paris 2024 - Men's Sprint - To Win a Medal,Kaiya Ota (JPN),0.029600000000000015,0.4,0.3704
+2024-08-06 19:02:59.502977,Track - Paris 2024 - Men's Sprint - To Win a Medal,Matthew Glaetzer (AUS),0.029600000000000015,0.4,0.3704
 2024-08-06 17:02:48.391618,Women's - Paris 2024 - Women's Beach Volleyball - Gold Medal Winner,Del Solar / Clancy (AUS),0.0286,0.1,0.0714
 2024-08-06 13:02:09.269939,Women's - Paris 2024 - Women's Water Polo - Gold Medal Winner,Australia (W),0.0286,0.1,0.0714
 2024-08-06 11:04:42.688586,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,0.02560000000000001,0.3333,0.3077
-2024-08-06 08:59:19.640843,Sprint - Paris 2024 - Men's Kayak Four 500m - Gold Medal Winner,Spain,0.025300000000000003,0.1429,0.1176
 2024-08-06 17:03:13.145949,63.5kg - Sofiane Oumiha (FRA) vs Erislandy Alvarez (CUB) - To Win the Bout,Erislandy Alvarez (CUB),0.024399999999999977,0.5122,0.4878
 2024-08-06 11:04:22.794195,Sprint - Paris 2024 - Women's Kayak Double 500m - Gold Medal Winner,Naja / Pulawska (POL),0.024299999999999995,0.0769,0.0526
 2024-08-06 11:04:42.735458,MLB Futures - MLB 2024 American League West - American League West Winner,Texas Rangers,0.0242,0.0909,0.0667
 2024-08-06 19:02:59.735639,57kg - Paris 2024 - Women's 57kg Boxing - Gold Medal Winner,Julia Szeremeta (POL),0.023899999999999998,0.0435,0.0196
 2024-08-06 11:04:42.620348,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Arizona Diamondbacks,0.0238,0.0714,0.0476
 2024-08-06 19:02:59.559175,Track - Paris 2024 - Women's Keirin - Gold Medal Winner,Emma Finucane (GBR),0.023799999999999988,0.5,0.4762
-2024-08-06 08:59:28.663632,Tampa Bay Buccaneers - 2024-25 Regular Season Wins O/U - Regular Season Wins - Tampa Bay Buccaneers O/U 8.5 Wins,Under 8.5 Wins,0.023699999999999943,0.6154,0.5917
 2024-08-06 19:03:04.149406,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament MVP,Victor  Wembanyama (FRA),0.023200000000000002,0.0476,0.0244
-2024-08-06 17:02:52.906034,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Serbia Blocks,Bogdan  Bogdanovic,0.022199999999999998,0.2222,0.2
 2024-08-06 17:02:47.497222,Javelin Throw - Paris 2024 - Women's Javelin Throw - Gold Medal Winner,Flor Ruiz (COL),0.022199999999999998,0.2222,0.2
-2024-08-06 08:59:19.944803,Freestyle 57kg - Paris 2024 - Men's Freestyle 57kg - Gold Medal Winner,Gulomjon Abdullaev (UZB),0.022099999999999998,0.0385,0.0164
-2024-08-06 08:59:19.630540,Sprint - Paris 2024 - Men's Canoe Double 500m - Gold Medal Winner,Spain,0.022000000000000006,0.1053,0.0833
-2024-08-06 08:59:19.122441,400m - Paris 2024 - Women's 400m - Gold Medal Winner,Nickisha Pryce (JAM),0.021999999999999964,0.3077,0.2857
+2024-08-06 17:02:52.906034,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Serbia Blocks,Bogdan  Bogdanovic,0.022199999999999998,0.2222,0.2
 2024-08-06 15:02:36.977060,Men's - Paris 2024 - Men's Beach Volleyball - Gold Medal Winner,Mol / Sørum (NOR),0.021999999999999964,0.3077,0.2857
-2024-08-06 08:59:38.666175,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Chris Sale (ATL),0.021699999999999997,0.4762,0.4545
 2024-08-06 15:02:50.359592,Quarterbacks - NFL 2024-25 Passing Yards - Patrick Mahomes Regular Season Total Passing Yards 2024-25,Over 4300.5 Yards,0.02079999999999993,0.5556,0.5348
 2024-08-06 15:02:36.674238,400m - Paris 2024 - Men's 400m - Gold Medal Winner,Kirani James (GRN),0.0203,0.0588,0.0385
-2024-08-06 08:59:19.630540,Sprint - Paris 2024 - Men's Canoe Double 500m - Gold Medal Winner,Brazil,0.0203,0.0588,0.0385
-2024-08-06 11:04:22.794195,Sprint - Paris 2024 - Women's Kayak Double 500m - Gold Medal Winner,Hake / Paszek (GER),0.02020000000000001,0.1111,0.0909
 2024-08-06 17:02:47.497222,Javelin Throw - Paris 2024 - Women's Javelin Throw - Gold Medal Winner,Victoria Hudson (AUT),0.02020000000000001,0.1111,0.0909
+2024-08-06 11:04:22.794195,Sprint - Paris 2024 - Women's Kayak Double 500m - Gold Medal Winner,Hake / Paszek (GER),0.02020000000000001,0.1111,0.0909
 2024-08-06 15:02:41.111663,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading France Assists,Evan  Fournier,0.019699999999999995,0.125,0.1053
-2024-08-06 08:59:19.587267,Sprint - Paris 2024 - Women's Canoe Double 500m - Gold Medal Winner,Poland,0.019499999999999997,0.0294,0.0099
 2024-08-06 17:02:47.474373,High Jump - Paris 2024 - Men's High Jump - Gold Medal Winner,Hamish Kerr (NZL),0.019100000000000006,0.25,0.2309
 2024-08-06 15:02:41.147213,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading France Points Scorer,Isaia Cordinier (FRA),0.019099999999999995,0.0435,0.0244
-2024-08-06 08:59:19.944803,Freestyle 57kg - Paris 2024 - Men's Freestyle 57kg - Gold Medal Winner,Meirambek Kartay (KAZ),0.0189,0.0385,0.0196
 2024-08-06 17:02:52.781314,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading France Steals,Victor  Wembanyama,0.01859999999999995,0.999,0.9804
-2024-08-06 08:59:38.312547,MLB Futures - MLB 2024 World Series Winner - Winning Division,NL West,0.018500000000000016,0.2817,0.2632
-2024-08-06 08:59:38.312547,MLB Futures - MLB 2024 World Series Winner - Winning Division,AL East,0.018500000000000016,0.2817,0.2632
-2024-08-06 08:59:19.640843,Sprint - Paris 2024 - Men's Kayak Four 500m - Gold Medal Winner,Serbia,0.018200000000000004,0.0476,0.0294
 2024-08-06 17:02:49.550770,Freestyle 53kg - Paris 2024 - Women's Freestyle 53kg - Gold Medal Winner,Akari Fujinami (JPN),0.018199999999999994,0.8182,0.8
-2024-08-06 19:02:59.191786,400m - Paris 2024 - Men's 400m - Gold Medal Winner,Kirani James (GRN),0.018099999999999998,0.0769,0.0588
 2024-08-06 11:04:42.511497,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Cleveland Guardians,0.018099999999999998,0.0769,0.0588
-2024-08-06 19:03:00.224326,Women's - Paris 2024 - Womens Speed - Gold Medal Winner,Desak Made Rita Kusuma Dewi (INA),0.018099999999999998,0.0769,0.0588
 2024-08-06 19:03:23.455841,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Malik Nabers (NYG),0.018099999999999998,0.0769,0.0588
+2024-08-06 19:03:00.224326,Women's - Paris 2024 - Womens Speed - Gold Medal Winner,Desak Made Rita Kusuma Dewi (INA),0.018099999999999998,0.0769,0.0588
+2024-08-06 19:02:59.191786,400m - Paris 2024 - Men's 400m - Gold Medal Winner,Kirani James (GRN),0.018099999999999998,0.0769,0.0588
 2024-08-06 19:02:58.932033,110m Hurdles - Paris 2024 - Men's 110m Hurdles - World Record To Be Broken,No,0.01759999999999995,0.6667,0.6491
 2024-08-06 13:02:08.755014,Long Jump - Paris 2024 - Women's Long Jump - Gold Medal Winner,Malaika Mihambo (GER),0.017299999999999982,0.5917,0.5744
 2024-08-06 11:04:42.620348,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,San Diego Padres,0.016700000000000007,0.1,0.0833
 2024-08-06 17:02:52.816921,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Blocks,Daniel  Theis,0.016699999999999993,0.4167,0.4
 2024-08-06 15:02:36.674238,400m - Paris 2024 - Men's 400m - Gold Medal Winner,Quincy Hall (USA),0.016699999999999993,0.4167,0.4
-2024-08-06 08:59:19.587267,Sprint - Paris 2024 - Women's Canoe Double 500m - Gold Medal Winner,Ukraine,0.015300000000000001,0.0588,0.0435
-2024-08-06 08:59:38.644800,MLB Futures - MLB 2024 Player Awards - American League ROY,Luis Gil (NYY),0.015000000000000013,0.2817,0.2667
 2024-08-06 17:03:13.069032,57kg - Nasthy Petecio (PHI) vs Julia Szeremeta (POL) - To Win the Bout,Julia Szeremeta (POL),0.015000000000000013,0.2817,0.2667
-2024-08-06 08:59:19.944803,Freestyle 57kg - Paris 2024 - Men's Freestyle 57kg - Gold Medal Winner,Zou Wanhao (CHN),0.014900000000000004,0.0345,0.0196
-2024-08-06 08:59:19.944803,Freestyle 57kg - Paris 2024 - Men's Freestyle 57kg - Gold Medal Winner,Aliabbas Rzazade (AZE),0.0145,0.0244,0.0099
 2024-08-06 17:02:49.041641,Men's - Paris 2024 - Men's Boulder & Lead - Gold Medal Winner,Hannes van Duysen (BEL),0.0145,0.0244,0.0099
-2024-08-06 08:59:19.468889,Men's - Paris 2024 - Men's Basketball - Gold Medal Winner,Serbia,0.014100000000000001,0.0526,0.0385
 2024-08-06 11:04:42.620348,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,New York Mets,0.014100000000000001,0.0526,0.0385
-2024-08-06 08:59:21.680877,Tournament Futures - Paris 2024 - Men's Basketball - Gold Medal Winner,Serbia,0.014100000000000001,0.0526,0.0385
 2024-08-06 19:02:59.735639,57kg - Paris 2024 - Women's 57kg Boxing - Gold Medal Winner,Esra Yildiz (TUR),0.014099999999999998,0.0385,0.0244
 2024-08-06 17:02:52.781314,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading France Steals,Isaia Cordinier (FRA),0.014099999999999998,0.0435,0.0294
 2024-08-06 11:04:42.576209,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Kansas City Royals,0.014099999999999994,0.0667,0.0526
-2024-08-06 08:59:38.666175,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Hunter Greene (CIN),0.014099999999999994,0.0667,0.0526
-2024-08-06 08:59:38.644800,MLB Futures - MLB 2024 Player Awards - American League ROY,Ceddanne Rafaela (BOS),0.014099999999999994,0.0667,0.0526
 2024-08-06 19:02:59.502977,Track - Paris 2024 - Men's Sprint - To Win a Medal,Kevin Quintero (COL),0.013999999999999999,0.0909,0.0769
 2024-08-06 19:02:59.502977,Track - Paris 2024 - Men's Sprint - To Win a Medal,Sam Dakin (NZL),0.013999999999999999,0.0909,0.0769
-2024-08-06 08:59:19.576798,Sprint - Paris 2024 - Women's Kayak Four 500m - Gold Medal Winner,Hungary,0.013899999999999996,0.125,0.1111
 2024-08-06 11:04:21.855861,Long Jump - Paris 2024 - Men's Long Jump - Straight Forecast,Gold - Miltiadis Tentoglou & Silver - Mattia Furlani,0.0131,0.2353,0.2222
 2024-08-06 11:04:21.899448,1500m - Paris 2024 - Men's 1500m - Gold Medal Winner,Hobbs Kessler (USA),0.013,0.0196,0.0066
-2024-08-06 08:59:18.805482,5000m - Paris 2024 - Men's 5000m - Gold Medal Winner,Hagos Gebrhiwet (ETH),0.012899999999999995,0.1667,0.1538
 2024-08-06 17:02:47.497222,Javelin Throw - Paris 2024 - Women's Javelin Throw - Gold Medal Winner,Haruka Kitaguchi (JPN),0.012699999999999989,0.3636,0.3509
-2024-08-06 08:59:38.325397,MLB Futures - MLB 2024 World Series Winner - Winning League,American League,0.012199999999999989,0.5122,0.5
 2024-08-06 15:02:51.164102,Tight Ends - NFL 2024-25 Receiving TD's - Sam LaPorta Regular Season Total Receiving TDs 2024-25,Over 7.5 TD's,0.012199999999999989,0.5122,0.5
 2024-08-06 15:02:36.977060,Men's - Paris 2024 - Men's Beach Volleyball - Gold Medal Winner,Benesh / Partain (USA),0.011899999999999994,0.0833,0.0714
 2024-08-06 11:04:42.576209,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Tampa Bay Rays,0.0118,0.0217,0.0099
-2024-08-06 11:04:42.511497,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Minnesota Twins,0.011199999999999995,0.0588,0.0476
 2024-08-06 11:04:22.794195,Sprint - Paris 2024 - Women's Kayak Double 500m - Gold Medal Winner,Jagsch / Rohlings (GER),0.011199999999999995,0.0435,0.0323
+2024-08-06 11:04:42.511497,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Minnesota Twins,0.011199999999999995,0.0588,0.0476
 2024-08-06 13:02:14.801523,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Will JD Vance be replaced as Republican VP nominee?,No,0.011199999999999988,0.9524,0.9412
-2024-08-06 17:02:48.391618,Women's - Paris 2024 - Women's Beach Volleyball - Gold Medal Winner,Humana-Paredes / Wilkerson (CAN),0.011099999999999999,0.1111,0.1
 2024-08-06 13:02:30.443656,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Quinn Ewers,0.011099999999999999,0.1111,0.1
-2024-08-06 17:02:48.573242,Men's - Paris 2024 - Men's Basketball - Gold Medal Winner,USA,0.01090000000000002,0.8571,0.8462
-2024-08-06 19:03:03.862321,Tournament Futures - Paris 2024 - Men's Basketball - USA vs The Field,USA,0.01090000000000002,0.8571,0.8462
+2024-08-06 17:02:48.391618,Women's - Paris 2024 - Women's Beach Volleyball - Gold Medal Winner,Humana-Paredes / Wilkerson (CAN),0.011099999999999999,0.1111,0.1
 2024-08-06 17:02:52.689086,Tournament Futures - Paris 2024 - Men's Basketball - Gold Medal Winner,USA,0.01090000000000002,0.8571,0.8462
+2024-08-06 19:03:03.862321,Tournament Futures - Paris 2024 - Men's Basketball - USA vs The Field,USA,0.01090000000000002,0.8571,0.8462
+2024-08-06 17:02:48.573242,Men's - Paris 2024 - Men's Basketball - Gold Medal Winner,USA,0.01090000000000002,0.8571,0.8462
 2024-08-06 15:02:36.977060,Men's - Paris 2024 - Men's Beach Volleyball - Gold Medal Winner,Ehlers / Wickler (GER),0.010899999999999993,0.1538,0.1429
-2024-08-06 08:59:38.623585,MLB Futures - MLB 2024 Player Awards - American League MVP,Bobby Witt Jr. (KC),0.010899999999999993,0.1538,0.1429
 2024-08-06 19:03:08.366554,Electoral College Winner - Pennsylvania (PA) - PA,Democrat,0.010699999999999932,0.5455,0.5348
 2024-08-06 17:03:13.045853,57kg - Lin Yu-ting (TPE) vs Esra Yildiz (TUR) - To Win the Bout,Lin Yu-ting (TPE),0.010199999999999987,0.9333,0.9231
 2024-08-06 11:04:42.620348,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Milwaukee Brewers,0.010099999999999998,0.1053,0.0952
 2024-08-06 17:02:49.018722,Park - Paris 2024 - Men's Park - Gold Medal Winner,Hampus Winberg (SWE),-0.0102,0.0667,0.0769
-2024-08-06 08:59:38.602603,MLB Futures - MLB 2024 Player Awards - American League Manager of the Year,Stephen Vogt,-0.010400000000000076,0.7674,0.7778
-2024-08-06 19:03:03.799470,Tournament Futures - Paris 2024 - Women's Basketball - Gold Medal Winner,Germany (W),-0.010700000000000001,0.0278,0.0385
 2024-08-06 17:02:48.531803,Women's - Paris 2024 - Women's Basketball - Gold Medal Winner,Germany (W),-0.010700000000000001,0.0278,0.0385
+2024-08-06 19:03:03.799470,Tournament Futures - Paris 2024 - Women's Basketball - Gold Medal Winner,Germany (W),-0.010700000000000001,0.0278,0.0385
 2024-08-06 11:04:22.857098,Sprint - Paris 2024 - Men's Kayak Double 500m - Gold Medal Winner,Baptista / Ribeiro (POR),-0.010899999999999993,0.1429,0.1538
 2024-08-06 19:03:08.366554,Electoral College Winner - Pennsylvania (PA) - PA,Republican,-0.01100000000000001,0.5238,0.5348
 2024-08-06 17:02:47.520199,800m - Paris 2024 - Men's 800m - Gold Medal Winner,Marco Arop (CAN),-0.011099999999999999,0.1,0.1111
-2024-08-06 08:59:38.312547,MLB Futures - MLB 2024 World Series Winner - Winning Division,NL East,-0.011300000000000004,0.2326,0.2439
 2024-08-06 19:03:03.862321,Tournament Futures - Paris 2024 - Men's Basketball - USA vs The Field,Any Other Team,-0.011700000000000016,0.2105,0.2222
 2024-08-06 17:02:48.531803,Women's - Paris 2024 - Women's Basketball - Gold Medal Winner,Nigeria (W),-0.0121,0.002,0.0141
-2024-08-06 15:02:41.129434,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading France Blocks,Isaia Cordinier (FRA),-0.012100000000000001,0.0123,0.0244
 2024-08-06 17:02:52.816921,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Blocks,Johannes  Thiemann,-0.012100000000000001,0.0123,0.0244
+2024-08-06 15:02:41.129434,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading France Blocks,Isaia Cordinier (FRA),-0.012100000000000001,0.0123,0.0244
 2024-08-06 19:03:24.105847,63.5kg - Sofiane Oumiha (FRA) vs Erislandy Alvarez (CUB) - To Win the Bout,Erislandy Alvarez (CUB),-0.012199999999999989,0.5,0.5122
 2024-08-06 17:02:52.941565,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Serbia Rebounds,Bogdan  Bogdanovic,-0.012300000000000002,0.0294,0.0417
-2024-08-06 17:02:48.531803,Women's - Paris 2024 - Women's Basketball - Gold Medal Winner,Australia (W),-0.012700000000000003,0.0196,0.0323
 2024-08-06 17:02:48.531803,Women's - Paris 2024 - Women's Basketball - Gold Medal Winner,Belgium (W),-0.012700000000000003,0.0196,0.0323
-2024-08-06 19:03:03.818362,Tournament Futures - Paris 2024 - Women's Basketball - Betting Without USA Women,Serbia (W),-0.012700000000000003,0.0196,0.0323
+2024-08-06 17:02:48.531803,Women's - Paris 2024 - Women's Basketball - Gold Medal Winner,Australia (W),-0.012700000000000003,0.0196,0.0323
 2024-08-06 19:03:03.799470,Tournament Futures - Paris 2024 - Women's Basketball - Gold Medal Winner,Australia (W),-0.012700000000000003,0.0196,0.0323
+2024-08-06 19:03:03.818362,Tournament Futures - Paris 2024 - Women's Basketball - Betting Without USA Women,Serbia (W),-0.012700000000000003,0.0196,0.0323
 2024-08-06 19:03:03.799470,Tournament Futures - Paris 2024 - Women's Basketball - Gold Medal Winner,Belgium (W),-0.012700000000000003,0.0196,0.0323
 2024-08-06 17:02:48.550107,Women's - Paris 2024 - Women's Basketball - Betting Without USA Women,Serbia (W),-0.012700000000000003,0.0196,0.0323
 2024-08-06 11:04:42.620348,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Atlanta Braves,-0.012899999999999995,0.1538,0.1667
 2024-08-06 15:02:36.674238,400m - Paris 2024 - Men's 400m - Gold Medal Winner,Chris Bailey (USA),-0.013,0.0066,0.0196
 2024-08-06 17:02:49.041641,Men's - Paris 2024 - Men's Boulder & Lead - Gold Medal Winner,Alexander Megos (GER),-0.0131,0.0345,0.0476
 2024-08-06 19:02:59.191786,400m - Paris 2024 - Men's 400m - Gold Medal Winner,Matthew Hudson-Smith (GBR),-0.013799999999999923,0.6226,0.6364
-2024-08-06 08:59:19.944803,Freestyle 57kg - Paris 2024 - Men's Freestyle 57kg - Gold Medal Winner,Zelimkhan Abakarov (ALB),-0.013899999999999996,0.1111,0.125
 2024-08-06 13:02:14.801523,Republicans - US Presidential Election 2024 - Republican Vice Presidential Candidate - Will JD Vance be replaced as Republican VP nominee?,Yes,-0.013899999999999996,0.1111,0.125
 2024-08-06 17:02:49.041641,Men's - Paris 2024 - Men's Boulder & Lead - Gold Medal Winner,Colin Duffy (USA),-0.013899999999999996,0.1111,0.125
 2024-08-06 11:04:42.829067,MLB Futures - MLB 2024 Top Seeds - American League 1 Seed,Seattle Mariners,-0.0139,0.004,0.0179
-2024-08-06 19:02:59.502977,Track - Paris 2024 - Men's Sprint - To Win a Medal,Mohd Azizulhasni Awang (MAS),-0.013999999999999999,0.0769,0.0909
 2024-08-06 11:04:42.511497,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Atlanta Braves,-0.013999999999999999,0.0769,0.0909
+2024-08-06 19:02:59.502977,Track - Paris 2024 - Men's Sprint - To Win a Medal,Mohd Azizulhasni Awang (MAS),-0.013999999999999999,0.0769,0.0909
 2024-08-06 11:04:22.794195,Sprint - Paris 2024 - Women's Kayak Double 500m - Gold Medal Winner,Csipes / Gazso (HUN),-0.013999999999999999,0.0769,0.0909
 2024-08-06 11:04:42.511497,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Houston Astros,-0.014099999999999994,0.0526,0.0667
 2024-08-06 17:02:52.799000,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Assists,Franz  Wagner,-0.014099999999999998,0.0244,0.0385
-2024-08-06 17:02:52.834818,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Points Scorer,Daniel  Theis,-0.014099999999999998,0.0294,0.0435
 2024-08-06 11:04:22.857098,Sprint - Paris 2024 - Men's Kayak Double 500m - Gold Medal Winner,Del Rio / Walz (ESP),-0.014099999999999998,0.0294,0.0435
-2024-08-06 08:59:38.708340,MLB Futures - MLB 2024 Player Awards - National League MVP,Shohei Ohtani (LAD),-0.014100000000000001,0.9333,0.9474
-2024-08-06 08:59:38.708340,MLB Futures - MLB 2024 Player Awards - National League MVP,Bryce Harper (PHI),-0.014399999999999996,0.0625,0.0769
+2024-08-06 17:02:52.834818,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Points Scorer,Daniel  Theis,-0.014099999999999998,0.0294,0.0435
 2024-08-06 19:02:59.396832,Team - Paris 2024 - Open Team Event - Gold Medal Winner,Egypt,-0.014400000000000001,0.002,0.0164
-2024-08-06 08:59:38.312547,MLB Futures - MLB 2024 World Series Winner - Winning Division,AL West,-0.01440000000000001,0.0909,0.1053
-2024-08-06 08:59:38.602603,MLB Futures - MLB 2024 Player Awards - American League Manager of the Year,Alex Cora,-0.01440000000000001,0.0909,0.1053
 2024-08-06 17:02:52.923774,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Serbia Points Scorer,Aleksa  Avramovic,-0.014499999999999999,0.0149,0.0294
 2024-08-06 17:02:47.474373,High Jump - Paris 2024 - Men's High Jump - Gold Medal Winner,Luis Zayas (CUB),-0.0145,0.0099,0.0244
 2024-08-06 17:02:47.520199,800m - Paris 2024 - Men's 800m - Gold Medal Winner,Wyclife Kinyamal (KEN),-0.014899999999999997,0.0476,0.0625
 2024-08-06 11:04:42.829067,MLB Futures - MLB 2024 Top Seeds - American League 1 Seed,Houston Astros,-0.0156,0.004,0.0196
 2024-08-06 19:03:04.149406,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament MVP,Joel  Embiid (USA),-0.0157,0.0278,0.0435
-2024-08-06 08:59:19.587267,Sprint - Paris 2024 - Women's Canoe Double 500m - Gold Medal Winner,Spain,-0.015700000000000006,0.1176,0.1333
 2024-08-06 17:02:48.531803,Women's - Paris 2024 - Women's Basketball - Gold Medal Winner,Spain (W),-0.0159,0.0164,0.0323
 2024-08-06 19:03:03.799470,Tournament Futures - Paris 2024 - Women's Basketball - Gold Medal Winner,Spain (W),-0.0159,0.0164,0.0323
-2024-08-06 19:02:58.932033,110m Hurdles - Paris 2024 - Men's 110m Hurdles - World Record To Be Broken,Yes,-0.016699999999999993,0.4,0.4167
 2024-08-06 15:02:35.878323,Liga FPD Apertura - Costa Rica Primera Division Apertura 2024 - Futures - Winner,Herediano,-0.016699999999999993,0.25,0.2667
-2024-08-06 08:59:38.729371,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Jeff Hoffman (R),-0.016700000000000007,0.0833,0.1
+2024-08-06 19:02:58.932033,110m Hurdles - Paris 2024 - Men's 110m Hurdles - World Record To Be Broken,Yes,-0.016699999999999993,0.4,0.4167
 2024-08-06 17:02:52.816921,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Blocks,Isaac  Bonga,-0.016700000000000007,0.0833,0.1
-2024-08-06 17:02:52.763686,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading France Rebounds,Mathias Lessort (FRA),-0.017099999999999997,0.0123,0.0294
 2024-08-06 15:02:41.147213,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading France Points Scorer,Matthew Strazel (FRA),-0.017099999999999997,0.0123,0.0294
+2024-08-06 17:02:52.763686,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading France Rebounds,Mathias Lessort (FRA),-0.017099999999999997,0.0123,0.0294
 2024-08-06 17:03:13.069032,57kg - Nasthy Petecio (PHI) vs Julia Szeremeta (POL) - To Win the Bout,Nasthy Petecio (PHI),-0.017400000000000082,0.7826,0.8
-2024-08-06 19:02:59.488094,Track - Paris 2024 - Men's Sprint - Gold Medal Winner,Matthew Richardson (AUS),-0.01759999999999999,0.1,0.1176
 2024-08-06 11:04:42.688586,MLB Futures - MLB 2024 American League Central - American League Central Winner,Kansas City Royals,-0.01759999999999999,0.1,0.1176
+2024-08-06 19:02:59.488094,Track - Paris 2024 - Men's Sprint - Gold Medal Winner,Matthew Richardson (AUS),-0.01759999999999999,0.1,0.1176
 2024-08-06 19:02:59.502977,Track - Paris 2024 - Men's Sprint - To Win a Medal,Ed Lowe (GBR),-0.018099999999999998,0.0588,0.0769
 2024-08-06 19:02:59.488094,Track - Paris 2024 - Men's Sprint - Gold Medal Winner,Kaiya Ota (JPN),-0.018099999999999998,0.0588,0.0769
 2024-08-06 17:02:49.018722,Park - Paris 2024 - Men's Park - Gold Medal Winner,Pedro Barros (BRA),-0.018099999999999998,0.0588,0.0769
-2024-08-06 08:59:38.729371,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Matt Strahm,-0.018200000000000004,0.0294,0.0476
 2024-08-06 17:02:52.834818,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Points Scorer,Moritz  Wagner,-0.018200000000000004,0.0294,0.0476
 2024-08-06 15:02:41.147213,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading France Points Scorer,Nicolas  Batum,-0.018200000000000004,0.0294,0.0476
 2024-08-06 19:03:04.149406,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament MVP,Kevin  Durant (USA),-0.01820000000000002,0.1818,0.2
 2024-08-06 11:04:42.511497,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Yankees,-0.018599999999999978,0.1481,0.1667
-2024-08-06 17:02:47.520199,800m - Paris 2024 - Men's 800m - Gold Medal Winner,Djamel Sedjati (ALG),-0.01880000000000004,0.5556,0.5744
 2024-08-06 17:03:13.145949,63.5kg - Sofiane Oumiha (FRA) vs Erislandy Alvarez (CUB) - To Win the Bout,Sofiane Oumiha (FRA),-0.01880000000000004,0.5556,0.5744
+2024-08-06 17:02:47.520199,800m - Paris 2024 - Men's 800m - Gold Medal Winner,Djamel Sedjati (ALG),-0.01880000000000004,0.5556,0.5744
+2024-08-06 11:04:22.857098,Sprint - Paris 2024 - Men's Kayak Double 500m - Gold Medal Winner,McTavish / Poulin (CAN),-0.0189,0.0196,0.0385
 2024-08-06 17:02:52.888294,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Serbia Assists,Bogdan  Bogdanovic,-0.0189,0.0196,0.0385
 2024-08-06 19:03:00.224326,Women's - Paris 2024 - Womens Speed - Gold Medal Winner,Leslie Romero Perez (ESP),-0.0189,0.0196,0.0385
-2024-08-06 11:04:22.857098,Sprint - Paris 2024 - Men's Kayak Double 500m - Gold Medal Winner,McTavish / Poulin (CAN),-0.0189,0.0196,0.0385
 2024-08-06 17:02:49.041641,Men's - Paris 2024 - Men's Boulder & Lead - Gold Medal Winner,Alberto Gines Lopez (ESP),-0.019099999999999992,0.0476,0.0667
 2024-08-06 17:02:52.959319,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Serbia Steals,Ognjen  Dobric,-0.0194,0.005,0.0244
-2024-08-06 15:02:41.147213,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading France Points Scorer,Rudy  Gobert,-0.019499999999999997,0.0099,0.0294
 2024-08-06 17:02:52.763686,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading France Rebounds,Guerschon Yabusele (FRA),-0.019499999999999997,0.0099,0.0294
-2024-08-06 15:02:36.674238,400m - Paris 2024 - Men's 400m - Gold Medal Winner,Jereem Richards (TTO),-0.019499999999999997,0.0099,0.0294
+2024-08-06 15:02:41.147213,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading France Points Scorer,Rudy  Gobert,-0.019499999999999997,0.0099,0.0294
 2024-08-06 17:02:52.959319,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Serbia Steals,Filip  Petrusev,-0.019499999999999997,0.0099,0.0294
 2024-08-06 17:02:52.923774,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Serbia Points Scorer,Ognjen  Dobric,-0.019499999999999997,0.0099,0.0294
+2024-08-06 15:02:36.674238,400m - Paris 2024 - Men's 400m - Gold Medal Winner,Jereem Richards (TTO),-0.019499999999999997,0.0099,0.0294
 2024-08-06 17:02:52.834818,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Points Scorer,Andreas  Obst,-0.019499999999999997,0.0099,0.0294
-2024-08-06 08:59:19.640843,Sprint - Paris 2024 - Men's Kayak Four 500m - Gold Medal Winner,Lithuania,-0.020000000000000004,0.0123,0.0323
-2024-08-06 17:02:52.816921,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Blocks,Johannes  Voigtmann,-0.02020000000000001,0.0909,0.1111
 2024-08-06 17:02:47.497222,Javelin Throw - Paris 2024 - Women's Javelin Throw - Gold Medal Winner,Adriana Vilagos (SRB),-0.02020000000000001,0.0909,0.1111
+2024-08-06 17:02:52.816921,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Blocks,Johannes  Voigtmann,-0.02020000000000001,0.0909,0.1111
 2024-08-06 17:02:52.763686,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading France Rebounds,Nicolas  Batum,-0.0204,0.0196,0.04
-2024-08-06 08:59:38.623585,MLB Futures - MLB 2024 Player Awards - American League MVP,Aaron Judge (NYY),-0.02080000000000004,0.9167,0.9375
 2024-08-06 17:02:52.959319,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Serbia Steals,Bogdan  Bogdanovic,-0.0215,0.0079,0.0294
-2024-08-06 08:59:28.663632,Tampa Bay Buccaneers - 2024-25 Regular Season Wins O/U - Regular Season Wins - Tampa Bay Buccaneers O/U 8.5 Wins,Over 8.5 Wins,-0.021699999999999997,0.4545,0.4762
 2024-08-06 11:04:42.712103,MLB Futures - MLB 2024 American League East - American League East Winner,Baltimore Orioles,-0.021699999999999997,0.4545,0.4762
 2024-08-06 11:04:42.620348,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Los Angeles Dodgers,-0.021799999999999986,0.3704,0.3922
 2024-08-06 19:02:59.396832,Team - Paris 2024 - Open Team Event - Gold Medal Winner,France,-0.022400000000000003,0.0099,0.0323
 2024-08-06 15:02:50.359592,Quarterbacks - NFL 2024-25 Passing Yards - Patrick Mahomes Regular Season Total Passing Yards 2024-25,Under 4300.5 Yards,-0.022600000000000064,0.5122,0.5348
-2024-08-06 08:59:38.312547,MLB Futures - MLB 2024 World Series Winner - Winning Division,NL Central,-0.022799999999999994,0.0541,0.0769
 2024-08-06 11:04:42.805748,MLB Futures - MLB 2024 National League West - National League West Winner,Los Angeles Dodgers,-0.02310000000000001,0.9,0.9231
-2024-08-06 17:02:52.870552,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Steals,Andreas  Obst,-0.023200000000000002,0.0294,0.0526
 2024-08-06 17:02:49.018722,Park - Paris 2024 - Men's Park - Gold Medal Winner,Vincent Matheron (FRA),-0.023200000000000002,0.0244,0.0476
+2024-08-06 17:02:52.870552,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Steals,Andreas  Obst,-0.023200000000000002,0.0294,0.0526
 2024-08-06 17:02:48.760052,Sprint - Paris 2024 - Men's Canoe Single 1000m - Gold Medal Winner,Martin Fuksa (CZE),-0.023799999999999988,0.3333,0.3571
 2024-08-06 11:04:42.576209,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Baltimore Orioles,-0.023800000000000016,0.2326,0.2564
 2024-08-06 17:02:52.941565,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Serbia Rebounds,Filip  Petrusev,-0.024,0.0385,0.0625
 2024-08-06 17:02:48.760052,Sprint - Paris 2024 - Men's Canoe Single 1000m - Gold Medal Winner,Adrien Bart (FRA),-0.0242,0.0667,0.0909
-2024-08-06 08:59:38.729371,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Raisel Iglesias (ATL),-0.024299999999999995,0.0526,0.0769
 2024-08-06 19:02:59.521412,Track - Paris 2024 - Men's Team Pursuit - Gold Medal Winner,Great Britain,-0.02560000000000001,0.3077,0.3333
 2024-08-06 11:04:42.688586,MLB Futures - MLB 2024 American League Central - American League Central Winner,Cleveland Guardians,-0.025600000000000067,0.6667,0.6923
-2024-08-06 11:04:42.511497,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Philadelphia Phillies,-0.027999999999999997,0.1538,0.1818
-2024-08-06 11:04:42.758915,MLB Futures - MLB 2024 National League Central - National League Central Winner,St. Louis Cardinals,-0.027999999999999997,0.1053,0.1333
 2024-08-06 17:02:48.840542,Men's - Paris 2024 - Men's 3m Springboard - Gold Medal Winner,Osmar Olivera (MEX),-0.027999999999999997,0.0345,0.0625
 2024-08-06 11:04:42.576209,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Houston Astros,-0.027999999999999997,0.1053,0.1333
+2024-08-06 11:04:42.758915,MLB Futures - MLB 2024 National League Central - National League Central Winner,St. Louis Cardinals,-0.027999999999999997,0.1053,0.1333
+2024-08-06 11:04:42.511497,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Philadelphia Phillies,-0.027999999999999997,0.1538,0.1818
 2024-08-06 17:02:52.870552,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Steals,Johannes  Voigtmann,-0.0282,0.0244,0.0526
 2024-08-06 19:02:59.396832,Team - Paris 2024 - Open Team Event - Gold Medal Winner,Italy,-0.028300000000000002,0.004,0.0323
-2024-08-06 08:59:38.708340,MLB Futures - MLB 2024 Player Awards - National League MVP,Francisco Lindor (NYM),-0.029299999999999993,0.0476,0.0769
 2024-08-06 19:02:58.860918,Pole Vault - Paris 2024 - Women's Pole Vault - Gold Medal Winner,Wilma Murto (FIN),-0.0294,0.0294,0.0588
 2024-08-06 17:02:52.852588,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Rebounds,Isaac  Bonga,-0.030699999999999998,0.0526,0.0833
 2024-08-06 17:02:52.870552,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Steals,Moritz  Wagner,-0.03270000000000001,0.0149,0.0476
@@ -274,49 +218,37 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-06 11:04:22.857098,Sprint - Paris 2024 - Men's Kayak Double 500m - Gold Medal Winner,Nadas / Totka (HUN),-0.033299999999999996,0.1,0.1333
 2024-08-06 17:02:52.816921,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Blocks,Moritz  Wagner,-0.03330000000000001,0.0667,0.1
 2024-08-06 19:02:59.502977,Track - Paris 2024 - Men's Sprint - To Win a Medal,Nicholas Paul (TTO),-0.033300000000000024,0.1667,0.2
-2024-08-06 08:59:19.576798,Sprint - Paris 2024 - Women's Kayak Four 500m - Gold Medal Winner,China,-0.033300000000000024,0.1667,0.2
 2024-08-06 15:02:52.324330,Wide Receivers - NFL 2024-25 Receiving Yards - Christian Watson Regular Season Total Receiving Yards 2024-25,Over 750.5 Yards,-0.03480000000000005,0.5,0.5348
-2024-08-06 19:02:59.396832,Team - Paris 2024 - Open Team Event - Gold Medal Winner,Spain,-0.035300000000000005,0.0123,0.0476
 2024-08-06 19:03:00.224326,Women's - Paris 2024 - Womens Speed - Gold Medal Winner,Rajiah Sallsabillah (INA),-0.035300000000000005,0.0123,0.0476
+2024-08-06 19:02:59.396832,Team - Paris 2024 - Open Team Event - Gold Medal Winner,Spain,-0.035300000000000005,0.0123,0.0476
 2024-08-06 19:02:59.396832,Team - Paris 2024 - Open Team Event - Gold Medal Winner,Mexico,-0.0357,0.0028,0.0385
-2024-08-06 08:59:38.644800,MLB Futures - MLB 2024 Player Awards - American League ROY,Colton Cowser (BAL),-0.03639999999999999,0.6,0.6364
 2024-08-06 17:02:52.852588,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Rebounds,Moritz  Wagner,-0.038299999999999994,0.0526,0.0909
-2024-08-06 08:59:19.587267,Sprint - Paris 2024 - Women's Canoe Double 500m - Gold Medal Winner,China,-0.040999999999999925,0.6923,0.7333
 2024-08-06 11:04:42.620348,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Philadelphia Phillies,-0.04099999999999998,0.2667,0.3077
 2024-08-06 17:02:52.888294,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Serbia Assists,Aleksa  Avramovic,-0.041,0.0066,0.0476
 2024-08-06 17:02:52.852588,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Rebounds,Franz  Wagner,-0.04240000000000001,0.0909,0.1333
-2024-08-06 08:59:19.587267,Sprint - Paris 2024 - Women's Canoe Double 500m - Gold Medal Winner,Hungary,-0.04329999999999999,0.0476,0.0909
 2024-08-06 19:03:00.224326,Women's - Paris 2024 - Womens Speed - Gold Medal Winner,Zhou Yafei (CHN),-0.04440000000000001,0.0667,0.1111
 2024-08-06 19:02:59.502977,Track - Paris 2024 - Men's Sprint - To Win a Medal,Mateusz Rudyk (POL),-0.04620000000000002,0.1538,0.2
 2024-08-06 19:03:00.224326,Women's - Paris 2024 - Womens Speed - Gold Medal Winner,Emma Hunt (USA),-0.04620000000000002,0.1538,0.2
 2024-08-06 17:02:52.870552,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Germany Steals,Isaac  Bonga,-0.047400000000000005,0.0526,0.1
-2024-08-06 08:59:38.803678,71kg - Lewis Richardson (GBR) vs Marco Verde (MEX) - To Win the Bout,Marco Verde (MEX),-0.04799999999999993,0.6923,0.7403
 2024-08-06 11:04:42.782290,MLB Futures - MLB 2024 National League East - National League East Winner,Philadelphia Phillies,-0.048900000000000055,0.8261,0.875
-2024-08-06 08:59:19.576798,Sprint - Paris 2024 - Women's Kayak Four 500m - Gold Medal Winner,New Zealand,-0.0494,0.3077,0.3571
-2024-08-06 08:59:19.576798,Sprint - Paris 2024 - Women's Kayak Four 500m - Gold Medal Winner,Poland,-0.04999999999999999,0.2,0.25
 2024-08-06 19:02:59.627312,Track - Paris 2024 - Women's Team Pursuit - Gold Medal Winner,United States (W),-0.04999999999999999,0.2,0.25
-2024-08-06 08:59:19.630540,Sprint - Paris 2024 - Men's Canoe Double 500m - Gold Medal Winner,France,-0.052300000000000006,0.0588,0.1111
-2024-08-06 08:59:19.640843,Sprint - Paris 2024 - Men's Kayak Four 500m - Gold Medal Winner,Ukraine,-0.05249999999999999,0.0244,0.0769
 2024-08-06 19:02:59.191786,400m - Paris 2024 - Men's 400m - Gold Medal Winner,Quincy Hall (USA),-0.053100000000000036,0.3636,0.4167
 2024-08-06 15:02:35.878323,Liga FPD Apertura - Costa Rica Primera Division Apertura 2024 - Futures - Winner,Sporting San José,-0.05559999999999998,0.1111,0.1667
-2024-08-06 19:02:59.574188,Track - Paris 2024 - Women's Keirin - To Win a Medal,Lea Friedrich (GER),-0.05559999999999998,0.4444,0.5
 2024-08-06 19:02:59.574188,Track - Paris 2024 - Women's Keirin - To Win a Medal,Martha Bayona (COL),-0.05559999999999998,0.4444,0.5
+2024-08-06 19:02:59.574188,Track - Paris 2024 - Women's Keirin - To Win a Medal,Lea Friedrich (GER),-0.05559999999999998,0.4444,0.5
 2024-08-06 19:02:58.868515,Pole Vault - Paris 2024 - Women's Pole Vault - To Win a Medal,Angelica Moser (SUI),-0.05579999999999996,0.7143,0.7701
 2024-08-06 17:02:52.959319,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Serbia Steals,Marko  Guduric,-0.05679999999999999,0.125,0.1818
 2024-08-06 15:02:36.856028,400m Hurdles - Paris 2024 - Women's 400m Hurdles - Gold Medal Winner,Femke Bol (NED),-0.05680000000000002,0.2941,0.3509
 2024-08-06 19:02:59.627312,Track - Paris 2024 - Women's Team Pursuit - Gold Medal Winner,Italy (W),-0.058300000000000005,0.0667,0.125
 2024-08-06 11:04:42.735458,MLB Futures - MLB 2024 American League West - American League West Winner,Houston Astros,-0.05860000000000004,0.4762,0.5348
 2024-08-06 15:02:41.111663,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading France Assists,Frank  Ntilikina,-0.0596,0.0833,0.1429
-2024-08-06 08:59:38.666175,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Zack Wheeler (PHI),-0.06059999999999999,0.303,0.3636
 2024-08-06 19:03:07.906156,Electoral College Winner - Minnesota (MN) - MN,Republican,-0.062200000000000005,0.16,0.2222
 2024-08-06 19:03:07.883902,Electoral College Winner - Michigan (MI) - MI,Republican,-0.06519999999999998,0.4348,0.5
-2024-08-06 08:59:19.640843,Sprint - Paris 2024 - Men's Kayak Four 500m - Gold Medal Winner,Germany,-0.06579999999999997,0.5833,0.6491
 2024-08-06 17:02:52.906034,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Serbia Blocks,Filip  Petrusev,-0.06669999999999998,0.1,0.1667
-2024-08-06 19:03:04.149406,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament MVP,Stephen  Curry (USA),-0.06770000000000001,0.0323,0.1
 2024-08-06 19:03:04.149406,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament MVP,Anthony  Davis (USA),-0.06770000000000001,0.0323,0.1
+2024-08-06 19:03:04.149406,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Tournament MVP,Stephen  Curry (USA),-0.06770000000000001,0.0323,0.1
 2024-08-06 17:02:52.923774,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Serbia Points Scorer,Bogdan  Bogdanovic,-0.07190000000000002,0.3448,0.4167
 2024-08-06 19:02:59.396832,Team - Paris 2024 - Open Team Event - Gold Medal Winner,Australia,-0.0741,0.0028,0.0769
-2024-08-06 08:59:17.240148,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Win East 5,Mazatlán FC,-0.07789999999999997,0.2857,0.3636
 2024-08-06 19:02:59.396832,Team - Paris 2024 - Open Team Event - Gold Medal Winner,Japan,-0.07859999999999999,0.0123,0.0909
 2024-08-06 11:04:42.829067,MLB Futures - MLB 2024 Top Seeds - American League 1 Seed,Baltimore Orioles,-0.0797,0.3125,0.3922
 2024-08-06 11:04:22.857098,Sprint - Paris 2024 - Men's Kayak Double 500m - Gold Medal Winner,Kopasz / Varga (HUN),-0.08079999999999998,0.5556,0.6364
@@ -327,9 +259,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-06 17:02:52.763686,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading France Rebounds,Rudy  Gobert,-0.08339999999999999,0.0833,0.1667
 2024-08-06 17:02:52.906034,Tournament Futures - Paris 2024 - Men's Basketball - Player Props - Leading Serbia Blocks,Nikola  Milutinov,-0.08730000000000004,0.3571,0.4444
 2024-08-06 19:02:59.559175,Track - Paris 2024 - Women's Keirin - Gold Medal Winner,Ellesse Andrews (NZL),-0.0889,0.1333,0.2222
-2024-08-06 08:59:38.729371,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Ryan Helsley (STL),-0.0917,0.5,0.5917
 2024-08-06 17:02:49.018722,Park - Paris 2024 - Men's Park - Gold Medal Winner,Tate Carew (USA),-0.09799999999999998,0.2353,0.3333
-2024-08-06 08:59:19.630540,Sprint - Paris 2024 - Men's Canoe Double 500m - Gold Medal Winner,Germany,-0.0988,0.3774,0.4762
 2024-08-06 15:02:34.952832,Premiership - Scotland Premiership 2024/25 - Winner,Rangers,-0.09889999999999999,0.2857,0.3846
 2024-08-06 17:02:49.018722,Park - Paris 2024 - Men's Park - Gold Medal Winner,Tom Schaar (USA),-0.1071,0.1429,0.25
 2024-08-06 19:02:58.860918,Pole Vault - Paris 2024 - Women's Pole Vault - Gold Medal Winner,Angelica Moser (SUI),-0.10769999999999996,0.2,0.3077
