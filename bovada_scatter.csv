@@ -1,15 +1,14 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-08-08 07:03:18.487307,Shot Put - Paris 2024 - Women's Shot Put - Gold Medal Winner,Sarah Mitton (CAN),0.38100000000000006,0.7143,0.3333
 2024-08-08 11:03:14.749390,68kg - Paris 2024 - Men's 68kg Taekwondo - Gold Medal Winner,Ulugbek Rashitov (UZB),0.3651,0.8889,0.5238
 2024-08-08 17:02:05.927926,Tournament Futures - Paris 2024 - Women's Basketball - Betting Without USA Women,France (W),0.2787,0.6491,0.3704
 2024-08-08 19:00:54.324060,Women's - Paris 2024 - Women's Basketball - Betting Without USA Women,France (W),0.2787,0.6491,0.3704
 2024-08-08 17:02:01.691606,Heptathlon - Paris 2024 - Women's Heptathlon - Gold Medal Winner,Katarina Johnson-Thompson (GBR),0.1969,0.3636,0.1667
 2024-08-08 17:02:02.889970,Men's - Paris 2024 - Men's Boulder & Lead - Gold Medal Winner,Sorato Anraku (JPN),0.18189999999999995,0.6364,0.4545
-2024-08-08 07:03:17.675453,Heptathlon - Paris 2024 - Women's Heptathlon - Gold Medal Winner,Nafissatou Thiam (BEL),0.17000000000000004,0.7778,0.6078
 2024-08-08 17:02:01.887028,4 x 100m Relay - Paris 2024 - Men's 4 x 100m Relay - Gold Medal Winner,USA (USA),0.14279999999999993,0.8571,0.7143
 2024-08-08 19:00:54.324060,Women's - Paris 2024 - Women's Basketball - Betting Without USA Women,Belgium (W),0.1422,0.3922,0.25
 2024-08-08 17:02:05.927926,Tournament Futures - Paris 2024 - Women's Basketball - Betting Without USA Women,Belgium (W),0.1422,0.3922,0.25
 2024-08-08 17:02:02.844114,Rhythmic - Paris 2024 - Women's Individual All-Around - Gold Medal Winner,Sofia Raffaeli (ITA),0.141,0.3077,0.1667
+2024-08-08 21:00:13.435653,800m - Paris 2024 - Men's 800m - To Win a Medal,Gabriel Tual (FRA),0.13640000000000002,0.5,0.3636
 2024-08-08 09:03:13.433199,Freestyle 57kg - Paris 2024 - Men's Freestyle 57kg - Gold Medal Winner,Rei Higuchi (JPN),0.13329999999999997,0.3333,0.2
 2024-08-08 15:01:06.029108,1500m - Paris 2024 - Women's 1500m - Gold Medal Winner,Diribe Welteji (ETH),0.13,0.2353,0.1053
 2024-08-08 11:03:15.154564,Women's - Paris 2024 - B-Girls - Gold Medal Winner,B-Girl Ami - Ami Yuasa (JPN),0.10089999999999999,0.3509,0.25
@@ -25,13 +24,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-08 09:03:13.456319,Freestyle 86kg - Paris 2024 - Men's Freestyle 86kg - Gold Medal Winner,Hassan Yazdani (IRI),0.05910000000000004,0.7143,0.6552
 2024-08-08 17:02:02.755191,Sprint - Paris 2024 - Men's K-1 1000m Sprint - Gold Medal Winner,Balint Kopasz (HUN),0.05889999999999995,0.6667,0.6078
 2024-08-08 17:02:02.801482,Women's - Paris 2024 - Women's 3m Springboard - Gold Medal Winner,Chen Yiwen (CHN),0.05730000000000002,0.9804,0.9231
-2024-08-08 17:02:02.397941,Track - Paris 2024 - Women's Sprint - Gold Medal Winner,Ellesse Andrews (NZL),0.05350000000000002,0.2353,0.1818
+2024-08-08 21:00:13.435653,800m - Paris 2024 - Men's 800m - To Win a Medal,Hobbs Kessler (USA),0.05639999999999999,0.0909,0.0345
 2024-08-08 17:02:02.413471,Track - Paris 2024 - Women's Sprint - To Win a Medal,Martha Bayona (COL),0.05350000000000002,0.2353,0.1818
+2024-08-08 17:02:02.397941,Track - Paris 2024 - Women's Sprint - Gold Medal Winner,Ellesse Andrews (NZL),0.05350000000000002,0.2353,0.1818
+2024-08-08 21:00:13.435653,800m - Paris 2024 - Men's 800m - To Win a Medal,Elliott Crestan (BEL),0.052399999999999995,0.0909,0.0385
 2024-08-08 17:02:02.566744,Track - Paris 2024 - Men's Madison - Gold Medal Winner,Italy,0.05080000000000001,0.2326,0.1818
 2024-08-08 17:02:02.413471,Track - Paris 2024 - Women's Sprint - To Win a Medal,Ellesse Andrews (NZL),0.05069999999999997,0.7059,0.6552
 2024-08-08 17:02:02.014901,"10,000m - Paris 2024 - Women's 10,000m - Gold Medal Winner",Beatrice Chebet (KEN),0.0504,0.7647,0.7143
 2024-08-08 13:00:58.760991,Boxing Lines - Cecilia Braekhus vs Maricela Cornejo - To Win the Bout,Maricela Cornejo,0.048099999999999976,0.4255,0.3774
-2024-08-08 07:03:48.378065,Tournament Match-Ups - Tournament Match-Up - C. Davis vs T. Detry - Tournament Match-Up,Cam Davis,0.04760000000000003,0.5238,0.4762
 2024-08-08 19:01:09.270808,Boxing Lines - Cecilia Braekhus vs Maricela Cornejo - To Win the Bout,Maricela Cornejo,0.04700000000000004,0.5348,0.4878
 2024-08-08 17:02:25.920011,Boxing Lines - Cecilia Braekhus vs Maricela Cornejo - To Win the Bout,Maricela Cornejo,0.043399999999999994,0.4878,0.4444
 2024-08-08 17:02:02.549945,Track - Paris 2024 - Men's Keirin - Gold Medal Winner,Harrie Lavreysen (NED),0.043200000000000016,0.6923,0.6491
@@ -39,134 +39,111 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-08 13:00:46.780930,Electoral College Winner - North Carolina (NC) - NC,Democrat,0.03989999999999999,0.2899,0.25
 2024-08-08 09:03:12.064511,4 x 100m Relay - Paris 2024 - Women's 4 x 100m Relay - Gold Medal Winner,Germany (GER),0.0344,0.0476,0.0132
 2024-08-08 17:02:02.912826,Women's - Paris 2024 - Women's Boulder & Lead - Gold Medal Winner,Janja Garnbret  (SLO),0.034399999999999986,0.9756,0.9412
-2024-08-08 07:03:18.033904,400m Hurdles - Paris 2024 - Women's 400m Hurdles - To Win a Medal,Jasmine Jones (USA),0.033300000000000024,0.2,0.1667
 2024-08-08 11:03:13.276955,400m Hurdles - Paris 2024 - Women's 400m Hurdles - World Record To Be Broken,Yes,0.030299999999999994,0.6667,0.6364
 2024-08-08 17:02:02.505092,Track - Paris 2024 - Men's Sprint - Gold Medal Winner,Jeffrey Hoogland (NED),0.029299999999999993,0.0769,0.0476
 2024-08-08 17:02:01.887028,4 x 100m Relay - Paris 2024 - Men's 4 x 100m Relay - Gold Medal Winner,Great Britain (GBR),0.028199999999999996,0.0667,0.0385
-2024-08-08 07:03:18.033904,400m Hurdles - Paris 2024 - Women's 400m Hurdles - To Win a Medal,Savannah Sutherland (CAN),0.028000000000000004,0.0476,0.0196
+2024-08-08 21:00:13.435653,800m - Paris 2024 - Men's 800m - To Win a Medal,Andreas Kramer (SWE),0.027999999999999997,0.0625,0.0345
 2024-08-08 15:01:05.419810,CONCACAF Central American Cup - CONCACAF Central American Cup 2024 - Futures - Winner,Managua FC,0.0273,0.0323,0.005
+2024-08-08 21:00:29.545396,Elite Boxing - Jake Paul vs Mike Tyson - To Win the Bout,Mike Tyson,0.02560000000000001,0.3333,0.3077
 2024-08-08 15:01:23.990843,71kg - Asadkhuja Muydinkhujaev (UZB) vs Marco Verde (MEX) - To Win the Bout,Marco Verde (MEX),0.025499999999999967,0.4255,0.4
 2024-08-08 17:02:25.988042,Boxing Lines - Lindolfo Delgado vs Bryan Flores - To Win the Bout,Lindolfo Delgado,0.025000000000000022,0.9,0.875
 2024-08-08 09:03:11.446739,Javelin Throw - Paris 2024 - Men's Javelin - Gold Medal Winner,Neeraj Chopra (IND),0.023800000000000043,0.5238,0.5
 2024-08-08 09:03:12.064511,4 x 100m Relay - Paris 2024 - Women's 4 x 100m Relay - Gold Medal Winner,Great Britain (GBR),0.023799999999999988,0.1667,0.1429
 2024-08-08 09:03:12.064511,4 x 100m Relay - Paris 2024 - Women's 4 x 100m Relay - Gold Medal Winner,France (FRA),0.023200000000000002,0.0526,0.0294
-2024-08-08 07:03:18.283522,110m Hurdles - Paris 2024 - Men's 110m Hurdles - Match Up - Llopis vs Parchement,Hansle Parchement (JAM),0.022600000000000064,0.6226,0.6
 2024-08-08 17:02:02.566744,Track - Paris 2024 - Men's Madison - Gold Medal Winner,Belgium,0.022199999999999998,0.1333,0.1111
-2024-08-08 07:03:44.407191,75kg - Cindy Ngamba (EOR) vs Atheyna Bylon (PAN) - To Win the Bout,Cindy Ngamba (EOR),0.021700000000000053,0.7778,0.7561
 2024-08-08 19:00:53.885636,Triple Jump - Paris 2024 - Men's Triple Jump - To Win a Medal,Jaydon Hibbert (JAM),0.02100000000000002,0.6364,0.6154
 2024-08-08 09:03:13.479517,Freestyle 57kg - Paris 2024 - Women's Freestyle 57kg - Gold Medal Winner,Hong Kexin (CHN),0.02020000000000001,0.1111,0.0909
 2024-08-08 15:01:24.063251,66kg - Imane Khelif (ALG) vs Yang Liu (CHN) - To Win the Bout,Yang Liu (CHN),0.020100000000000007,0.1739,0.1538
 2024-08-08 17:02:02.566744,Track - Paris 2024 - Men's Madison - Gold Medal Winner,Portugal,0.019099999999999995,0.0435,0.0244
-2024-08-08 17:02:02.889970,Men's - Paris 2024 - Men's Boulder & Lead - Gold Medal Winner,Alberto Gines Lopez (ESP),0.019099999999999992,0.0667,0.0476
 2024-08-08 17:02:02.844114,Rhythmic - Paris 2024 - Women's Individual All-Around - Gold Medal Winner,Taisiia Onofriichuk (UKR),0.019099999999999992,0.0667,0.0476
+2024-08-08 17:02:02.889970,Men's - Paris 2024 - Men's Boulder & Lead - Gold Medal Winner,Alberto Gines Lopez (ESP),0.019099999999999992,0.0667,0.0476
 2024-08-08 17:02:02.079101,400m Hurdles - Paris 2024 - Men's 400m Hurdles - Match Up - Warholm vs Benjamin,Rai Benjamin (USA),0.018999999999999906,0.7333,0.7143
 2024-08-08 15:01:24.263892,Boxing Lines - Cecilia Braekhus vs Maricela Cornejo - To Win the Bout,Maricela Cornejo,0.018900000000000028,0.4444,0.4255
-2024-08-08 07:03:18.204198,110m Hurdles - Paris 2024 - Men's 110m Hurdles - To Win a Medal,Freddie Crittenden (USA),0.018799999999999983,0.3636,0.3448
 2024-08-08 17:02:02.889970,Men's - Paris 2024 - Men's Boulder & Lead - Gold Medal Winner,Toby Roberts (GBR),0.01820000000000002,0.2,0.1818
-2024-08-08 07:03:18.017463,400m Hurdles - Paris 2024 - Women's 400m Hurdles - Gold Medal Winner,Sydney McLaughlin-Levrone (USA),0.018199999999999994,0.8182,0.8
-2024-08-08 07:03:46.700530,Round Match-Ups - 1st Round Match-Ups - A. Rai vs M.W. Lee - 1st Round Match-Ups,Aaron Rai,0.018100000000000005,0.5833,0.5652
 2024-08-08 17:02:02.374780,Duet - Paris 2024 - Women's Duet - Gold Medal Winner,Japan,0.0179,0.1429,0.125
 2024-08-08 17:02:02.735590,Sprint - Paris 2024 - Men's Canoe Single 1000m - Gold Medal Winner,Martin Fuksa (CZE),0.017600000000000005,0.3509,0.3333
 2024-08-08 17:02:02.549945,Track - Paris 2024 - Men's Keirin - Gold Medal Winner,Kaiya Ota (JPN),0.01759999999999999,0.1176,0.1
-2024-08-08 07:03:18.487307,Shot Put - Paris 2024 - Women's Shot Put - Gold Medal Winner,Maddison-Lee Wesche (NZL),0.017400000000000002,0.0323,0.0149
+2024-08-08 21:00:13.435653,800m - Paris 2024 - Men's 800m - To Win a Medal,Emmanuel Wanyonyi (KEN),0.01759999999999995,0.6667,0.6491
 2024-08-08 17:02:02.397941,Track - Paris 2024 - Women's Sprint - Gold Medal Winner,Hetty van de Vouw (NED),0.016600000000000004,0.0833,0.0667
-2024-08-08 09:03:13.456319,Freestyle 86kg - Paris 2024 - Men's Freestyle 86kg - Gold Medal Winner,Magomed Ramazanov (BUL),0.014900000000000004,0.0345,0.0196
 2024-08-08 17:02:02.549945,Track - Paris 2024 - Men's Keirin - Gold Medal Winner,Sam Dakin (NZL),0.014900000000000004,0.0345,0.0196
+2024-08-08 09:03:13.456319,Freestyle 86kg - Paris 2024 - Men's Freestyle 86kg - Gold Medal Winner,Magomed Ramazanov (BUL),0.014900000000000004,0.0345,0.0196
 2024-08-08 15:01:05.419810,CONCACAF Central American Cup - CONCACAF Central American Cup 2024 - Futures - Winner,FC Motagua,0.014899999999999997,0.0625,0.0476
-2024-08-08 07:03:18.033904,400m Hurdles - Paris 2024 - Women's 400m Hurdles - To Win a Medal,Louise Maraval (FRA),0.014499999999999999,0.0294,0.0149
+2024-08-08 21:00:13.435653,800m - Paris 2024 - Men's 800m - To Win a Medal,Max Burgin (GBR),0.014899999999999997,0.0625,0.0476
 2024-08-08 15:01:05.419810,CONCACAF Central American Cup - CONCACAF Central American Cup 2024 - Futures - Winner,Comunicaciones,0.014399999999999996,0.0769,0.0625
 2024-08-08 17:02:02.549945,Track - Paris 2024 - Men's Keirin - Gold Medal Winner,Hamish Turnbull (GBR),0.014099999999999998,0.0385,0.0244
-2024-08-08 17:02:02.505092,Track - Paris 2024 - Men's Sprint - Gold Medal Winner,Jack Carlin (GBR),0.013999999999999999,0.0909,0.0769
 2024-08-08 17:02:03.252620,Women's - Paris 2024 - B-Girls - Gold Medal Winner,B-Girl India - India Dewi Sardjoe (NED),0.013999999999999999,0.0909,0.0769
+2024-08-08 17:02:02.505092,Track - Paris 2024 - Men's Sprint - Gold Medal Winner,Jack Carlin (GBR),0.013999999999999999,0.0909,0.0769
 2024-08-08 17:02:02.413471,Track - Paris 2024 - Women's Sprint - To Win a Medal,Hetty van de Vouw (NED),0.013600000000000001,0.3077,0.2941
-2024-08-08 15:01:24.017570,50kg - Wu Yu (CHN) vs Buse Naz Cakiroglu (TUR) - To Win the Bout,Wu Yu (CHN),0.0131,0.2353,0.2222
 2024-08-08 17:02:02.824649,Rhythmic - Paris 2024 - Women's Group All-Around - Gold Medal Winner,China (CHN),0.0131,0.2353,0.2222
-2024-08-08 07:03:17.675453,Heptathlon - Paris 2024 - Women's Heptathlon - Gold Medal Winner,Katarina Johnson-Thompson (GBR),0.012899999999999995,0.1667,0.1538
+2024-08-08 15:01:24.017570,50kg - Wu Yu (CHN) vs Buse Naz Cakiroglu (TUR) - To Win the Bout,Wu Yu (CHN),0.0131,0.2353,0.2222
 2024-08-08 17:02:01.887028,4 x 100m Relay - Paris 2024 - Men's 4 x 100m Relay - Gold Medal Winner,Japan (JPN),0.012100000000000001,0.0244,0.0123
 2024-08-08 19:00:54.610900,Freestyle 74kg - Paris 2024 - Men's Freestyle 74kg - Gold Medal Winner,Younes Emami (IRI),0.012100000000000001,0.0244,0.0123
 2024-08-08 17:02:02.505092,Track - Paris 2024 - Men's Sprint - Gold Medal Winner,Matthew Richardson (AUS),0.011700000000000016,0.2222,0.2105
 2024-08-08 17:02:02.549945,Track - Paris 2024 - Men's Keirin - Gold Medal Winner,Matthew Glaetzer (AUS),0.011199999999999995,0.0588,0.0476
-2024-08-08 07:03:17.510309,200m - Paris 2024 - Men's 200m - To Win a Medal,Erriyon Knighton (USA),0.010699999999999987,0.3333,0.3226
-2024-08-08 07:03:18.268240,110m Hurdles - Paris 2024 - Men's 110m Hurdles - Match Up - Crittenden vs Broadbell,Freddie Crittenden (USA),0.010599999999999998,0.4651,0.4545
 2024-08-08 11:03:12.764583,200m - Paris 2024 - Men's 200m - Match Up - Bednarek vs Tobogo,Kenny Bednarek (USA),0.010599999999999998,0.4651,0.4545
 2024-08-08 17:02:02.566744,Track - Paris 2024 - Men's Madison - Gold Medal Winner,Great Britain,0.010399999999999993,0.2326,0.2222
 2024-08-08 17:02:03.252620,Women's - Paris 2024 - B-Girls - Gold Medal Winner,B-Girl Logistx - Logan Elanna Edra (USA),0.0102,0.0769,0.0667
-2024-08-08 07:03:17.675453,Heptathlon - Paris 2024 - Women's Heptathlon - Gold Medal Winner,Noor Vidts (BEL),0.010100000000000001,0.0345,0.0244
 2024-08-08 13:00:46.419181,Electoral College Winner - Georgia (GA) - GA,Democrat,0.010099999999999998,0.4545,0.4444
-2024-08-08 07:03:18.033904,400m Hurdles - Paris 2024 - Women's 400m Hurdles - To Win a Medal,Shiann Salmon (JAM),-0.0102,0.0667,0.0769
 2024-08-08 17:02:02.397941,Track - Paris 2024 - Women's Sprint - Gold Medal Winner,Mathilde Gros (FRA),-0.0102,0.0667,0.0769
 2024-08-08 17:02:02.566744,Track - Paris 2024 - Men's Madison - Gold Medal Winner,Netherlands,-0.010699999999999987,0.3226,0.3333
 2024-08-08 17:02:02.549945,Track - Paris 2024 - Men's Keirin - Gold Medal Winner,Jack Carlin (GBR),-0.010899999999999993,0.1429,0.1538
 2024-08-08 19:01:09.338734,Boxing Lines - Lindolfo Delgado vs Bryan Flores - To Win the Bout,Lindolfo Delgado,-0.011099999999999999,0.8889,0.9
-2024-08-08 07:03:46.700530,Round Match-Ups - 1st Round Match-Ups - A. Rai vs M.W. Lee - 1st Round Match-Ups,Min Woo Lee,-0.011099999999999999,0.4651,0.4762
-2024-08-08 07:03:18.378132,100m Hurdles - Paris 2024 - Women's 100m Hurdles - Gold Medal Winner,Cyrena Samba-Mayela (FRA),-0.011099999999999999,0.1,0.1111
 2024-08-08 17:02:02.912826,Women's - Paris 2024 - Women's Boulder & Lead - Gold Medal Winner,Brooke Raboutou (USA),-0.011199999999999995,0.0476,0.0588
 2024-08-08 17:02:01.691606,Heptathlon - Paris 2024 - Women's Heptathlon - Gold Medal Winner,Carolin Schafer (GER),-0.011699999999999999,0.0079,0.0196
-2024-08-08 07:03:17.675453,Heptathlon - Paris 2024 - Women's Heptathlon - Gold Medal Winner,Emma Oosterwegel (NED),-0.012100000000000001,0.0123,0.0244
 2024-08-08 15:01:24.017570,50kg - Wu Yu (CHN) vs Buse Naz Cakiroglu (TUR) - To Win the Bout,Buse Naz Cakiroglu (TUR),-0.012899999999999912,0.8333,0.8462
 2024-08-08 17:02:02.014901,"10,000m - Paris 2024 - Women's 10,000m - Gold Medal Winner",Lilian Kasait Rengeruk (KEN),-0.0131,0.0345,0.0476
 2024-08-08 15:01:24.263892,Boxing Lines - Cecilia Braekhus vs Maricela Cornejo - To Win the Bout,Cecilia Braekhus,-0.013799999999999923,0.6226,0.6364
-2024-08-08 07:03:18.378132,100m Hurdles - Paris 2024 - Women's 100m Hurdles - Gold Medal Winner,Masai Russell (USA),-0.013899999999999996,0.1111,0.125
 2024-08-08 17:02:02.566744,Track - Paris 2024 - Men's Madison - Gold Medal Winner,Denmark,-0.014099999999999994,0.0526,0.0667
-2024-08-08 17:02:02.691776,Sprint - Paris 2024 - Women's Kayak Single 500m - Gold Medal Winner,Alyce Wood (AUS),-0.014099999999999998,0.0244,0.0385
 2024-08-08 17:02:02.844114,Rhythmic - Paris 2024 - Women's Individual All-Around - Gold Medal Winner,Wang Zilu (CHN),-0.014099999999999998,0.0244,0.0385
+2024-08-08 17:02:02.691776,Sprint - Paris 2024 - Women's Kayak Single 500m - Gold Medal Winner,Alyce Wood (AUS),-0.014099999999999998,0.0244,0.0385
 2024-08-08 17:02:02.824649,Rhythmic - Paris 2024 - Women's Group All-Around - Gold Medal Winner,France (FRA),-0.014499999999999999,0.0149,0.0294
 2024-08-08 09:03:13.456319,Freestyle 86kg - Paris 2024 - Men's Freestyle 86kg - Gold Medal Winner,Aaron Brooks (USA),-0.016699999999999993,0.4,0.4167
 2024-08-08 17:02:02.079101,400m Hurdles - Paris 2024 - Men's 400m Hurdles - Match Up - Warholm vs Benjamin,Karsten Warholm (NOR),-0.017600000000000005,0.3333,0.3509
 2024-08-08 17:02:01.679385,Most Medals - Paris 2024 - Most Gold Medals - Outright,China,-0.0179,0.125,0.1429
 2024-08-08 17:02:02.374780,Duet - Paris 2024 - Women's Duet - Gold Medal Winner,Spain,-0.018099999999999998,0.0345,0.0526
-2024-08-08 07:03:17.495261,200m - Paris 2024 - Men's 200m - Gold Medal Winner,Noah Lyles (USA),-0.018199999999999994,0.8,0.8182
 2024-08-08 17:02:02.912826,Women's - Paris 2024 - Women's Boulder & Lead - Gold Medal Winner,Oriane Bertone (FRA),-0.018200000000000004,0.0294,0.0476
 2024-08-08 17:02:02.735590,Sprint - Paris 2024 - Men's Canoe Single 1000m - Gold Medal Winner,Adrien Bart (FRA),-0.019099999999999992,0.0476,0.0667
 2024-08-08 15:01:24.063251,66kg - Imane Khelif (ALG) vs Yang Liu (CHN) - To Win the Bout,Imane Khelif (ALG),-0.020199999999999996,0.8889,0.9091
 2024-08-08 17:02:02.566744,Track - Paris 2024 - Men's Madison - Gold Medal Winner,New Zealand,-0.02020000000000001,0.0909,0.1111
 2024-08-08 17:02:02.755191,Sprint - Paris 2024 - Men's K-1 1000m Sprint - Gold Medal Winner,Jakob Thordsen (GER),-0.0203,0.0385,0.0588
 2024-08-08 17:02:02.735590,Sprint - Paris 2024 - Men's Canoe Single 1000m - Gold Medal Winner,Serghei Tarnovschi (MDA),-0.0203,0.0385,0.0588
-2024-08-08 07:03:18.283522,110m Hurdles - Paris 2024 - Men's 110m Hurdles - Match Up - Llopis vs Parchement,Enrique Llopis (ESP),-0.020699999999999996,0.4444,0.4651
-2024-08-08 07:03:44.407191,75kg - Cindy Ngamba (EOR) vs Atheyna Bylon (PAN) - To Win the Bout,Atheyna Bylon (PAN),-0.021999999999999964,0.2857,0.3077
 2024-08-08 17:02:02.549945,Track - Paris 2024 - Men's Keirin - Gold Medal Winner,Matthew Richardson (AUS),-0.022199999999999998,0.1111,0.1333
 2024-08-08 17:02:02.413471,Track - Paris 2024 - Women's Sprint - To Win a Medal,Emma Finucane (GBR),-0.02310000000000001,0.9,0.9231
-2024-08-08 07:03:17.510309,200m - Paris 2024 - Men's 200m - To Win a Medal,Letsile Tobogo (BOT),-0.02310000000000001,0.9,0.9231
 2024-08-08 17:02:25.988042,Boxing Lines - Lindolfo Delgado vs Bryan Flores - To Win the Bout,Bryan Flores,-0.023800000000000016,0.1667,0.1905
 2024-08-08 17:02:01.691606,Heptathlon - Paris 2024 - Women's Heptathlon - Gold Medal Winner,Anouk Vetter (NED),-0.023899999999999998,0.0196,0.0435
-2024-08-08 07:03:18.188844,110m Hurdles - Paris 2024 - Men's 110m Hurdles - Gold Medal Winner,Grant Holloway (USA),-0.0242,0.9091,0.9333
 2024-08-08 17:02:02.374780,Duet - Paris 2024 - Women's Duet - Gold Medal Winner,Israel,-0.0242,0.0667,0.0909
 2024-08-08 17:02:02.735590,Sprint - Paris 2024 - Men's Canoe Single 1000m - Gold Medal Winner,Balazs Adolf (HUN),-0.024299999999999995,0.0345,0.0588
 2024-08-08 17:02:02.566744,Track - Paris 2024 - Men's Madison - Gold Medal Winner,Australia,-0.024299999999999995,0.0345,0.0588
 2024-08-08 17:02:02.374780,Duet - Paris 2024 - Women's Duet - Gold Medal Winner,Italy,-0.024299999999999995,0.0526,0.0769
-2024-08-08 17:02:02.824649,Rhythmic - Paris 2024 - Women's Group All-Around - Gold Medal Winner,Italy (ITA),-0.025300000000000003,0.1176,0.1429
 2024-08-08 17:02:02.374780,Duet - Paris 2024 - Women's Duet - Gold Medal Winner,Canada,-0.025300000000000003,0.1176,0.1429
+2024-08-08 17:02:02.824649,Rhythmic - Paris 2024 - Women's Group All-Around - Gold Medal Winner,Italy (ITA),-0.025300000000000003,0.1176,0.1429
 2024-08-08 11:03:13.276955,400m Hurdles - Paris 2024 - Women's 400m Hurdles - World Record To Be Broken,No,-0.025499999999999967,0.4,0.4255
-2024-08-08 07:03:18.378132,100m Hurdles - Paris 2024 - Women's 100m Hurdles - Gold Medal Winner,Tobi Amusan (NGR),-0.026100000000000012,0.1739,0.2
+2024-08-08 21:00:29.545396,Elite Boxing - Jake Paul vs Mike Tyson - To Win the Bout,Jake Paul,-0.025999999999999912,0.7143,0.7403
 2024-08-08 17:02:02.691776,Sprint - Paris 2024 - Women's Kayak Single 500m - Gold Medal Winner,Emma Jorgenson (DEN),-0.0267,0.0909,0.1176
-2024-08-08 07:03:18.017463,400m Hurdles - Paris 2024 - Women's 400m Hurdles - Gold Medal Winner,Femke Bol (NED),-0.02779999999999999,0.25,0.2778
 2024-08-08 11:03:15.154564,Women's - Paris 2024 - B-Girls - Gold Medal Winner,B-Girl 671- Qingyi Liu (CHN),-0.02779999999999999,0.2222,0.25
-2024-08-08 17:02:02.844114,Rhythmic - Paris 2024 - Women's Individual All-Around - Gold Medal Winner,Milena Baldassarri (ITA),-0.028199999999999996,0.0385,0.0667
 2024-08-08 15:01:06.029108,1500m - Paris 2024 - Women's 1500m - Gold Medal Winner,Nikki Hiltz (USA),-0.028199999999999996,0.0385,0.0667
-2024-08-08 07:03:17.675453,Heptathlon - Paris 2024 - Women's Heptathlon - Gold Medal Winner,Auriana Lazraq-Khlass (FRA),-0.0286,0.0099,0.0385
+2024-08-08 17:02:02.844114,Rhythmic - Paris 2024 - Women's Individual All-Around - Gold Medal Winner,Milena Baldassarri (ITA),-0.028199999999999996,0.0385,0.0667
 2024-08-08 17:02:02.145993,High Jump - Paris 2024 - Men's High Jump - Gold Medal Winner,Shelby McEwen (USA),-0.028700000000000003,0.1818,0.2105
 2024-08-08 17:02:02.755191,Sprint - Paris 2024 - Men's K-1 1000m Sprint - Gold Medal Winner,Adam Varga (HUN),-0.028700000000000003,0.1818,0.2105
 2024-08-08 15:01:06.029108,1500m - Paris 2024 - Women's 1500m - Gold Medal Winner,Gudaf Tsegay (ETH),-0.030199999999999998,0.0323,0.0625
 2024-08-08 15:01:23.990843,71kg - Asadkhuja Muydinkhujaev (UZB) vs Marco Verde (MEX) - To Win the Bout,Asadkhuja Muydinkhujaev (UZB),-0.030299999999999994,0.6364,0.6667
 2024-08-08 09:03:13.433199,Freestyle 57kg - Paris 2024 - Men's Freestyle 57kg - Gold Medal Winner,Spencer Lee (USA),-0.031400000000000095,0.7333,0.7647
-2024-08-08 07:03:18.188844,110m Hurdles - Paris 2024 - Men's 110m Hurdles - Gold Medal Winner,Daniel Roberts (USA),-0.0321,0.0588,0.0909
 2024-08-08 17:02:02.844114,Rhythmic - Paris 2024 - Women's Individual All-Around - Gold Medal Winner,Ekaterina Vedeneeva (SLO),-0.03219999999999999,0.0345,0.0667
 2024-08-08 17:02:02.374780,Duet - Paris 2024 - Women's Duet - Gold Medal Winner,Ukraine,-0.033300000000000024,0.1667,0.2
 2024-08-08 17:02:02.145993,High Jump - Paris 2024 - Men's High Jump - Gold Medal Winner,Hamish Kerr (NZL),-0.03370000000000001,0.3509,0.3846
+2024-08-08 21:00:13.435653,800m - Paris 2024 - Men's 800m - To Win a Medal,Catalin Tecuceanu (ITA),-0.034100000000000005,0.0909,0.125
 2024-08-08 17:02:02.755191,Sprint - Paris 2024 - Men's K-1 1000m Sprint - Gold Medal Winner,Josef Dostal (CZE),-0.034100000000000005,0.0909,0.125
 2024-08-08 17:02:02.413471,Track - Paris 2024 - Women's Sprint - To Win a Medal,Emma Hinze (GER),-0.03689999999999999,0.2857,0.3226
 2024-08-08 19:01:09.270808,Boxing Lines - Cecilia Braekhus vs Maricela Cornejo - To Win the Bout,Cecilia Braekhus,-0.03959999999999997,0.5348,0.5744
 2024-08-08 13:00:46.780930,Electoral College Winner - North Carolina (NC) - NC,Republican,-0.04039999999999999,0.7778,0.8182
 2024-08-08 15:01:06.029108,1500m - Paris 2024 - Women's 1500m - Gold Medal Winner,Jessica Hull (AUS),-0.04269999999999999,0.1111,0.1538
-2024-08-08 07:03:48.378065,Tournament Match-Ups - Tournament Match-Up - C. Davis vs T. Detry - Tournament Match-Up,Thomas Detry,-0.04620000000000002,0.5455,0.5917
 2024-08-08 17:02:02.824649,Rhythmic - Paris 2024 - Women's Group All-Around - Gold Medal Winner,Germany (GER),-0.047400000000000005,0.0526,0.1
 2024-08-08 17:02:25.920011,Boxing Lines - Cecilia Braekhus vs Maricela Cornejo - To Win the Bout,Cecilia Braekhus,-0.04820000000000002,0.5744,0.6226
-2024-08-08 07:03:17.510309,200m - Paris 2024 - Men's 200m - To Win a Medal,Kenny Bednarek (USA),-0.04849999999999999,0.8182,0.8667
 2024-08-08 11:03:15.154564,Women's - Paris 2024 - B-Girls - Gold Medal Winner,B-Girl Nicka - Dominika Banevic (LTU),-0.04999999999999999,0.2,0.25
 2024-08-08 13:00:58.760991,Boxing Lines - Cecilia Braekhus vs Maricela Cornejo - To Win the Bout,Cecilia Braekhus,-0.051100000000000034,0.6364,0.6875
 2024-08-08 17:02:02.801482,Women's - Paris 2024 - Women's 3m Springboard - Gold Medal Winner,Chang Yani (CHN),-0.052000000000000005,0.0909,0.1429
+2024-08-08 21:00:13.435653,800m - Paris 2024 - Men's 800m - To Win a Medal,Ben Pattison (GBR),-0.05550000000000002,0.1667,0.2222
 2024-08-08 17:02:02.844114,Rhythmic - Paris 2024 - Women's Individual All-Around - Gold Medal Winner,Daria Atamanov (ISR),-0.05559999999999998,0.2222,0.2778
-2024-08-08 07:03:17.675453,Heptathlon - Paris 2024 - Women's Heptathlon - Gold Medal Winner,Anouk Vetter (NED),-0.05650000000000001,0.0435,0.1
 2024-08-08 17:02:02.755191,Sprint - Paris 2024 - Men's K-1 1000m Sprint - Gold Medal Winner,Fernando Pimenta (POR),-0.06669999999999998,0.2,0.2667
 2024-08-08 17:02:01.691606,Heptathlon - Paris 2024 - Women's Heptathlon - Gold Medal Winner,Anna Hall (USA),-0.06669999999999998,0.1,0.1667
 2024-08-08 17:02:25.681842,57kg - Lin Yu-ting (TPE) vs Julia Szeremeta (POL) - To Win the Bout,Julia Szeremeta (POL),-0.06840000000000002,0.1538,0.2222
@@ -176,14 +153,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-08 17:02:02.505092,Track - Paris 2024 - Men's Sprint - Gold Medal Winner,Harrie Lavreysen (NED),-0.07790000000000008,0.7403,0.8182
 2024-08-08 17:02:02.889970,Men's - Paris 2024 - Men's Boulder & Lead - Gold Medal Winner,Colin Duffy (USA),-0.08170000000000001,0.0294,0.1111
 2024-08-08 17:02:02.691776,Sprint - Paris 2024 - Women's Kayak Single 500m - Gold Medal Winner,Tamara Csipes (HUN),-0.08430000000000001,0.1538,0.2381
-2024-08-08 17:02:05.927926,Tournament Futures - Paris 2024 - Women's Basketball - Betting Without USA Women,Australia (W),-0.0865,0.0385,0.125
+2024-08-08 21:00:13.435653,800m - Paris 2024 - Men's 800m - To Win a Medal,Mohamed Attaoui (ESP),-0.08549999999999996,0.2222,0.3077
 2024-08-08 11:03:14.529718,Women's - Paris 2024 - Women's Basketball - Betting Without USA Women,Australia (W),-0.0865,0.0385,0.125
+2024-08-08 17:02:05.927926,Tournament Futures - Paris 2024 - Women's Basketball - Betting Without USA Women,Australia (W),-0.0865,0.0385,0.125
 2024-08-08 17:02:02.889970,Men's - Paris 2024 - Men's Boulder & Lead - Gold Medal Winner,Jakob Schubert (AUT),-0.0909,0.0909,0.1818
 2024-08-08 09:03:12.064511,4 x 100m Relay - Paris 2024 - Women's 4 x 100m Relay - Gold Medal Winner,Jamaica (JAM),-0.0927,0.0323,0.125
 2024-08-08 17:02:02.397941,Track - Paris 2024 - Women's Sprint - Gold Medal Winner,Emma Finucane (GBR),-0.09960000000000002,0.5556,0.6552
-2024-08-08 07:03:17.675453,Heptathlon - Paris 2024 - Women's Heptathlon - Gold Medal Winner,Anna Hall (USA),-0.1,0.1667,0.2667
-2024-08-08 07:03:18.204198,110m Hurdles - Paris 2024 - Men's 110m Hurdles - To Win a Medal,Daniel Roberts (USA),-0.10360000000000003,0.5455,0.6491
 2024-08-08 17:02:01.691606,Heptathlon - Paris 2024 - Women's Heptathlon - Gold Medal Winner,Nafissatou Thiam (BEL),-0.11110000000000009,0.6667,0.7778
 2024-08-08 17:02:02.014901,"10,000m - Paris 2024 - Women's 10,000m - Gold Medal Winner",Gudaf Tsegay (ETH),-0.125,0.125,0.25
-2024-08-08 07:03:18.033904,400m Hurdles - Paris 2024 - Women's 400m Hurdles - To Win a Medal,Anna Cockrell (USA),-0.13180000000000003,0.3333,0.4651
 2024-08-08 17:02:02.413471,Track - Paris 2024 - Women's Sprint - To Win a Medal,Lea Friedrich (GER),-0.1372,0.4545,0.5917
