@@ -32,7 +32,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-09 11:03:16.101234,Olympics Daily Specials - Medal Games Specials - Mens Basketball,"Anthony Edwards, Evan Fournier, Isaia Cordinier, Aleksa Avramovic, Daniel Theis & Franz Wagner 110+ Combined Points",0.029500000000000002,0.0323,0.0028
 2024-08-09 11:03:36.400714,71kg - Asadkhuja Muydinkhujaev (UZB) vs Marco Verde (MEX) - To Win the Bout,Marco Verde (MEX),0.029000000000000026,0.4545,0.4255
 2024-08-09 09:02:52.049744,MLB Futures - MLB 2024 National League East - National League East Winner,Philadelphia Phillies,0.02839999999999998,0.9375,0.9091
-2024-08-09 09:02:24.747620,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Napoli,0.025600000000000067,0.6923,0.6667
 2024-08-09 15:03:23.761271,Men's - Paris 2024 - Men's 10m Platform - Gold Medal Winner,Cao Yuan (CHN),0.02560000000000001,0.3333,0.3077
 2024-08-09 09:02:52.073116,MLB Futures - MLB 2024 National League West - National League West Winner,San Diego Padres,0.023800000000000016,0.1905,0.1667
 2024-08-09 19:03:28.672915,Electoral College Winner - Nevada (NV) - NV,Democrat,0.023799999999999988,0.5,0.4762
@@ -64,12 +63,12 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-09 09:02:51.956433,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,-0.01150000000000001,0.3333,0.3448
 2024-08-09 17:03:28.397530,Track - Paris 2024 - Women's Sprint - Gold Medal Winner,Ellesse Andrews (NZL),-0.0131,0.2222,0.2353
 2024-08-09 09:02:52.159011,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Hunter Greene (CIN),-0.014099999999999994,0.0526,0.0667
-2024-08-09 17:03:28.397530,Track - Paris 2024 - Women's Sprint - Gold Medal Winner,Emma Hinze (GER),-0.016600000000000004,0.0667,0.0833
 2024-08-09 17:03:28.397530,Track - Paris 2024 - Women's Sprint - Gold Medal Winner,Hetty van de Vouw (NED),-0.016600000000000004,0.0667,0.0833
+2024-08-09 17:03:28.397530,Track - Paris 2024 - Women's Sprint - Gold Medal Winner,Emma Hinze (GER),-0.016600000000000004,0.0667,0.0833
 2024-08-09 09:02:51.956433,MLB Futures - MLB 2024 American League Central - American League Central Winner,Cleveland Guardians,-0.01880000000000004,0.6364,0.6552
 2024-08-09 11:03:12.100676,400m Hurdles - Paris 2024 - Men's 400m Hurdles - Straight Forecast,"Gold - Rai Benjamin, Silver - Karsten Warholm",-0.01880000000000004,0.5556,0.5744
-2024-08-09 09:02:52.117271,MLB Futures - MLB 2024 Player Awards - American League MVP,Gunnar Henderson (BAL),-0.019000000000000003,0.0435,0.0625
 2024-08-09 09:02:52.003127,MLB Futures - MLB 2024 American League West - American League West Winner,Texas Rangers,-0.019000000000000003,0.0435,0.0625
+2024-08-09 09:02:52.117271,MLB Futures - MLB 2024 Player Awards - American League MVP,Gunnar Henderson (BAL),-0.019000000000000003,0.0435,0.0625
 2024-08-09 17:03:28.397530,Track - Paris 2024 - Women's Sprint - Gold Medal Winner,Mathilde Gros (FRA),-0.019099999999999992,0.0476,0.0667
 2024-08-09 09:02:52.117271,MLB Futures - MLB 2024 Player Awards - American League MVP,Juan Soto (NYY),-0.019099999999999995,0.0244,0.0435
 2024-08-09 09:02:27.745649,Marathon - Men's Marathon - Gold Medal Winner,Alexander Mutiso (KEN),-0.02020000000000001,0.0909,0.1111
