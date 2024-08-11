@@ -1,46 +1,52 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-08-10 05:03:41.315347,Freestyle 74kg - Paris 2024 - Men's Freestyle 74kg - Gold Medal Winner,Razembek Zharnalov (UZB),0.5593999999999999,0.7333,0.1739
-2024-08-10 05:03:41.358489,Freestyle 62kg - Paris 2024 - Women's Freestyle 62kg - Gold Medal Winner,Sakura Motoki (JPN),0.42910000000000004,0.6923,0.2632
-2024-08-10 05:03:41.315347,Freestyle 74kg - Paris 2024 - Men's Freestyle 74kg - Gold Medal Winner,Daichi Takatani (JPN),0.2898,0.3333,0.0435
-2024-08-10 05:03:41.358489,Freestyle 62kg - Paris 2024 - Women's Freestyle 62kg - Gold Medal Winner,Iryna Koliadenko (UKR),0.2371,0.3704,0.1333
-2024-08-10 05:03:40.425257,High Jump - Paris 2024 - Men's High Jump - To Win a Medal,Woo Sang-hyeok (KOR),0.2143,0.5,0.2857
-2024-08-10 05:03:41.336954,Freestyle 125kg - Paris 2024 - Men's Freestyle 125kg - Gold Medal Winner,Amir Hossein Zare (IRI),0.20830000000000004,0.875,0.6667
-2024-08-10 05:03:40.425257,High Jump - Paris 2024 - Men's High Jump - To Win a Medal,Shelby McEwen (USA),0.15559999999999996,0.5556,0.4
-2024-08-10 05:03:40.684931,Javelin Throw - Paris 2024 - Women's Javelin Throw - To Win a Medal,Elina Tzengo (GRE),0.14120000000000002,0.2,0.0588
+2024-08-10 19:02:32.105595,Freestyle 65kg - Paris 2024 - Men's Freestlye 65kg - Gold Medal Winner,Rahman Amouzad (IRI),0.5146999999999999,0.75,0.2353
+2024-08-10 19:02:32.127565,Freestyle 76kg - Paris 2024 - Women's Freestyle 76kg - Gold Medal Winner,Kennedy Blades (USA),0.26550000000000007,0.6226,0.3571
+2024-08-10 19:02:32.116625,Freestyle 97kg - Paris 2024 - Men's Freestyle 97kg - Gold Medal Winner,Akhmed Tazhudinov (BRN),0.2564000000000001,0.9231,0.6667
+2024-08-10 19:02:32.105595,Freestyle 65kg - Paris 2024 - Men's Freestlye 65kg - Gold Medal Winner,Kotaro Kiyooka (JPN),0.2537,0.3125,0.0588
+2024-08-10 19:02:32.127565,Freestyle 76kg - Paris 2024 - Women's Freestyle 76kg - Gold Medal Winner,Yuka Kagami (JPN),0.1587,0.4444,0.2857
 2024-08-10 09:02:40.073630,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Top Goalscorer,Jeremy Ebobisse,0.135,0.1429,0.0079
 2024-08-10 17:03:08.988566,Championship - England Championship 2024/25 - Top 6 Finish,Sunderland,0.1274,0.3774,0.25
 2024-08-10 09:02:46.669440,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Democrat Win - Over 5% margin,0.11900000000000002,0.2857,0.1667
 2024-08-10 07:03:11.488331,High Jump - Paris 2024 - Men's High Jump - To Win a Medal,Shelby McEwen (USA),0.11109999999999998,0.6667,0.5556
 2024-08-10 07:03:11.488331,High Jump - Paris 2024 - Men's High Jump - To Win a Medal,Woo Sang-hyeok (KOR),0.1078,0.6078,0.5
+2024-08-10 19:02:31.172971,League Two - England League Two 2024/25 - Top 7 Finish,Port Vale,0.09049999999999997,0.5556,0.4651
 2024-08-10 15:03:37.622224,Track - Paris 2024 - Women's Sprint - Gold Medal Winner,Lea Friedrich (GER),0.09039999999999998,0.3571,0.2667
 2024-08-10 15:03:37.603948,Track - Paris 2024 - Women's Omnium - To Win a Medal,Amalie Didriksen (DEN),0.0885,0.2703,0.1818
 2024-08-10 15:03:37.603948,Track - Paris 2024 - Women's Omnium - To Win a Medal,Neah Evans (GBR),0.0865,0.125,0.0385
 2024-08-10 09:02:40.080146,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,New York City FC,0.08410000000000001,0.1429,0.0588
 2024-08-10 09:02:47.411031,US Senate Elections 2024 - Senate Election Winner - Nevada - Winner,Democrat,0.08389999999999997,0.6491,0.5652
+2024-08-10 19:02:31.146217,League Two - England League Two 2024/25 - To Be Promoted,Bradford City,0.08329999999999999,0.3333,0.25
+2024-08-10 19:02:31.172971,League Two - England League Two 2024/25 - Top 7 Finish,Cheltenham Town,0.08329999999999999,0.3333,0.25
 2024-08-10 11:04:03.831682,MAC Regular Season Wins - MAC Regular Season Wins - Western Michigan,Over 6.5 Wins,0.07950000000000002,0.5917,0.5122
+2024-08-10 19:02:32.116625,Freestyle 97kg - Paris 2024 - Men's Freestyle 97kg - Gold Medal Winner,Givi Matcharashvili (GEO),0.0777,0.1333,0.0556
+2024-08-10 19:02:31.172971,League Two - England League Two 2024/25 - Top 7 Finish,Bradford City,0.06930000000000003,0.5238,0.4545
 2024-08-10 07:03:11.473912,High Jump - Paris 2024 - Men's High Jump - Gold Medal Winner,Shelby McEwen (USA),0.06840000000000002,0.2222,0.1538
+2024-08-10 19:02:31.166312,League Two - England League Two 2024/25 - Top 3 Finish,Bradford City,0.06820000000000001,0.25,0.1818
 2024-08-10 17:03:08.988566,Championship - England Championship 2024/25 - Top 6 Finish,West Bromwich Albion,0.06670000000000004,0.4,0.3333
-2024-08-10 05:03:41.230466,Men's - Paris 2024 - Men's 10m Platform - Gold Medal Winner,Cao Yuan (CHN),0.06670000000000004,0.4,0.3333
 2024-08-10 17:03:08.964033,Championship - England Championship 2024/25 - To Be Relegated,Millwall,0.06669999999999998,0.2667,0.2
 2024-08-10 15:03:37.658532,Track - Paris 2024 - Men's Keirin - To Win a Medal,Hamish Turnbull (GBR),0.06669999999999998,0.1667,0.1
 2024-08-10 17:03:08.988566,Championship - England Championship 2024/25 - Top 6 Finish,Stoke City,0.06659999999999999,0.3333,0.2667
-2024-08-10 05:03:40.425257,High Jump - Paris 2024 - Men's High Jump - To Win a Medal,Hamish Kerr (NZL),0.0635,0.7778,0.7143
 2024-08-10 09:02:46.781128,Republicans - US Presidential Election 2024 - Republican Electoral College Votes - Republican Electoral College Votes,Under 311.5,0.0615,0.8948,0.8333
 2024-08-10 15:03:37.622224,Track - Paris 2024 - Women's Sprint - Gold Medal Winner,Hetty van de Vouw (NED),0.058300000000000005,0.125,0.0667
+2024-08-10 19:02:31.172971,League Two - England League Two 2024/25 - Top 7 Finish,Barrow FC,0.057699999999999974,0.3077,0.25
+2024-08-10 19:02:31.166312,League Two - England League Two 2024/25 - Top 3 Finish,Doncaster Rovers,0.057699999999999974,0.3077,0.25
 2024-08-10 09:02:41.802658,4 x 400m Relay - Paris 2024 - Men's 4 x 400m Relay - Match Up - France v Japan,France (FRA),0.05740000000000001,0.6226,0.5652
 2024-08-10 17:03:08.976254,Championship - England Championship 2024/25 - Top 2 Finish,Sunderland,0.056400000000000006,0.1333,0.0769
 2024-08-10 09:02:40.080146,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,FC Cincinnati,0.05559999999999998,0.1667,0.1111
 2024-08-10 17:03:08.951811,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,0.05559999999999998,0.1667,0.1111
+2024-08-10 19:02:31.152857,League Two - England League Two 2024/25 - To Be Relegated,Newport County,0.05550000000000002,0.2222,0.1667
 2024-08-10 17:03:08.951811,Championship - England Championship 2024/25 - To Be Promoted,West Bromwich Albion,0.05550000000000002,0.2222,0.1667
+2024-08-10 19:02:31.146217,League Two - England League Two 2024/25 - To Be Promoted,AFC Wimbledon,0.05550000000000002,0.2222,0.1667
+2024-08-10 19:02:31.172971,League Two - England League Two 2024/25 - Top 7 Finish,Gillingham,0.05449999999999999,0.6,0.5455
 2024-08-10 09:02:40.080146,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Mazatlán FC,0.05249999999999999,0.0769,0.0244
 2024-08-10 09:02:40.080146,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Colorado Rapids,0.052300000000000006,0.1111,0.0588
-2024-08-10 05:03:40.533806,800m - Paris 2024 - Men's 800m - To Win a Medal,Max Burgin (GBR),0.048100000000000004,0.125,0.0769
+2024-08-10 19:02:31.172971,League Two - England League Two 2024/25 - Top 7 Finish,Walsall,0.047599999999999976,0.3333,0.2857
 2024-08-10 07:03:08.970362,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Winner,New York City FC,0.0475,0.0769,0.0294
 2024-08-10 09:02:59.944065,AAC Regular Season Wins - AAC Regular Season Wins - Temple,Under 2.5 Wins,0.04620000000000002,0.5917,0.5455
 2024-08-10 07:03:11.662380,800m - Paris 2024 - Men's 800m - Winner Without Djamel Sedjati,Emmanuel Wanyonyi (KEN),0.046099999999999974,0.3636,0.3175
 2024-08-10 09:02:47.368178,US Senate Elections 2024 - Senate Election Winner - Michigan - Winner,Democrat,0.04579999999999995,0.7333,0.6875
 2024-08-10 09:02:46.648090,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,0.045499999999999985,0.5455,0.5
-2024-08-10 05:03:40.784534,100m Hurdles - Paris 2024 - Women's 100m Hurdles - To Win a Medal,Masai Russell (USA),0.045499999999999985,0.5,0.4545
+2024-08-10 19:02:31.146217,League Two - England League Two 2024/25 - To Be Promoted,Gillingham,0.04410000000000003,0.3774,0.3333
 2024-08-10 17:03:08.988566,Championship - England Championship 2024/25 - Top 6 Finish,Sheffield United,0.04290000000000005,0.4,0.3571
 2024-08-10 07:03:12.417875,4 x 400m Relay - Paris 2024 - Men's 4 x 400m Relay - Match Up - France v Japan,France (FRA),0.04139999999999999,0.5652,0.5238
 2024-08-10 17:03:08.964033,Championship - England Championship 2024/25 - To Be Relegated,Derby County,0.04040000000000002,0.2222,0.1818
@@ -49,88 +55,101 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-10 17:03:08.964033,Championship - England Championship 2024/25 - To Be Relegated,Swansea City,0.03889999999999999,0.1818,0.1429
 2024-08-10 09:03:03.795911,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,0.0378,0.4545,0.4167
 2024-08-10 07:03:11.488331,High Jump - Paris 2024 - Men's High Jump - To Win a Medal,Mutaz Esa Barshim (QAT),0.03709999999999991,0.6667,0.6296
-2024-08-10 05:04:02.893385,57kg - Lin Yu-ting (TPE) vs Julia Szeremeta (POL) - To Win the Bout,Julia Szeremeta (POL),0.03670000000000001,0.1905,0.1538
+2024-08-10 19:02:31.146217,League Two - England League Two 2024/25 - To Be Promoted,Doncaster Rovers,0.03640000000000004,0.4,0.3636
 2024-08-10 17:03:08.976254,Championship - England Championship 2024/25 - Top 2 Finish,West Bromwich Albion,0.036199999999999996,0.1538,0.1176
+2024-08-10 19:02:31.166312,League Two - England League Two 2024/25 - Top 3 Finish,Port Vale,0.03570000000000001,0.2857,0.25
 2024-08-10 17:03:08.976254,Championship - England Championship 2024/25 - Top 2 Finish,Burnley,0.03570000000000001,0.2857,0.25
-2024-08-10 05:03:40.425257,High Jump - Paris 2024 - Men's High Jump - To Win a Medal,Jan Stefala (CZE),0.035699999999999996,0.0833,0.0476
 2024-08-10 09:02:40.086923,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Nationality of Winner,USA,0.035699999999999954,0.75,0.7143
 2024-08-10 17:03:08.988566,Championship - England Championship 2024/25 - Top 6 Finish,Middlesbrough,0.03489999999999999,0.5,0.4651
 2024-08-10 09:02:48.215167,Electoral College Winner - Nevada (NV) - NV,Democrat,0.03480000000000005,0.5348,0.5
-2024-08-10 05:03:40.714500,Javelin Throw - Paris 2024 - Women's Javelin Throw - Match Up - Kitaguchi vs Little,Haruka Kitaguchi (JPN),0.03479999999999994,0.6,0.5652
-2024-08-10 05:03:40.425257,High Jump - Paris 2024 - Men's High Jump - To Win a Medal,Oleh Doroshchuk (UKR),0.03420000000000001,0.1111,0.0769
 2024-08-10 09:02:46.626603,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Kamala Harris,0.03420000000000001,0.7778,0.7436
 2024-08-10 09:02:46.734250,2024 Election Core - US Presidential Election 2024 - Party Of Popular Vote Winner - Party of Popular Vote Winner,Democratic,0.03420000000000001,0.7778,0.7436
-2024-08-10 09:02:40.080146,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Deportivo Toluca,0.034100000000000005,0.125,0.0909
+2024-08-10 19:02:31.152857,League Two - England League Two 2024/25 - To Be Relegated,Crewe Alexandra,0.03420000000000001,0.1111,0.0769
+2024-08-10 19:02:31.159530,League Two - England League Two 2024/25 - To Finish Bottom,Newport County,0.034100000000000005,0.125,0.0909
 2024-08-10 17:03:08.938326,Championship - England Championship 2024/25 - Top Goalscorer,Emmanuel Latte Lath,0.034100000000000005,0.125,0.0909
+2024-08-10 19:02:31.166312,League Two - England League Two 2024/25 - Top 3 Finish,Fleetwood Town,0.034100000000000005,0.125,0.0909
+2024-08-10 09:02:40.080146,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Deportivo Toluca,0.034100000000000005,0.125,0.0909
 2024-08-10 07:03:11.473912,High Jump - Paris 2024 - Men's High Jump - Gold Medal Winner,Hamish Kerr (NZL),0.03370000000000001,0.3846,0.3509
 2024-08-10 15:03:37.658532,Track - Paris 2024 - Men's Keirin - To Win a Medal,Matthew Richardson (AUS),0.033399999999999985,0.6078,0.5744
-2024-08-10 05:03:41.336954,Freestyle 125kg - Paris 2024 - Men's Freestyle 125kg - Gold Medal Winner,Geno Petriashvili (GEO),0.033300000000000024,0.2,0.1667
+2024-08-10 19:02:31.139511,League Two - England League Two 2024/25 - Winner,Bradford City,0.03330000000000001,0.1,0.0667
 2024-08-10 07:03:34.669532,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,0.03210000000000002,0.4167,0.3846
 2024-08-10 07:03:08.970362,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Winner,FC Cincinnati,0.0321,0.0909,0.0588
 2024-08-10 09:02:40.080146,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,St. Louis City SC,0.0321,0.0909,0.0588
-2024-08-10 05:03:40.670738,Javelin Throw - Paris 2024 - Women's Javelin Throw - Gold Medal Winner,Elina Tzengo (GRE),0.0319,0.0385,0.0066
-2024-08-10 09:02:40.080146,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Cruz Azul,0.031799999999999995,0.1429,0.1111
+2024-08-10 19:02:31.159530,League Two - England League Two 2024/25 - To Finish Bottom,Harrogate Town,0.031799999999999995,0.1429,0.1111
 2024-08-10 09:02:40.080146,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Columbus Crew,0.031799999999999995,0.1429,0.1111
+2024-08-10 09:02:40.080146,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Cruz Azul,0.031799999999999995,0.1429,0.1111
 2024-08-10 15:03:37.644105,Track - Paris 2024 - Men's Keirin - Gold Medal Winner,Matthew Richardson (AUS),0.031799999999999995,0.1429,0.1111
-2024-08-10 15:03:37.603948,Track - Paris 2024 - Women's Omnium - To Win a Medal,Olivija Baleisyte (LTU),0.031,0.0588,0.0278
 2024-08-10 07:03:11.488331,High Jump - Paris 2024 - Men's High Jump - To Win a Medal,Stefano Sottile (ITA),0.031,0.1739,0.1429
+2024-08-10 15:03:37.603948,Track - Paris 2024 - Women's Omnium - To Win a Medal,Olivija Baleisyte (LTU),0.031,0.0588,0.0278
 2024-08-10 09:03:03.910151,MLB Futures - MLB 2024 National League West - National League West Winner,Los Angeles Dodgers,0.03080000000000005,0.8182,0.7874
 2024-08-10 07:03:08.970362,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Winner,Colorado Rapids,0.0294,0.0588,0.0294
 2024-08-10 17:03:08.964033,Championship - England Championship 2024/25 - To Be Relegated,Queens Park Rangers,0.028799999999999992,0.1538,0.125
 2024-08-10 17:03:08.964033,Championship - England Championship 2024/25 - To Be Relegated,Norwich City,0.028399999999999995,0.0909,0.0625
+2024-08-10 19:02:31.159530,League Two - England League Two 2024/25 - To Finish Bottom,Crewe Alexandra,0.028199999999999996,0.0667,0.0385
 2024-08-10 17:03:08.938326,Championship - England Championship 2024/25 - Top Goalscorer,Josh Maja,0.028000000000000004,0.0476,0.0196
-2024-08-10 05:03:40.411126,High Jump - Paris 2024 - Men's High Jump - Gold Medal Winner,Mutaz Esa Barshim (QAT),0.02739999999999998,0.2941,0.2667
+2024-08-10 19:02:31.152857,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,0.027999999999999997,0.1818,0.1538
 2024-08-10 15:03:37.658532,Track - Paris 2024 - Men's Keirin - To Win a Medal,Sam Dakin (NZL),0.0267,0.1176,0.0909
 2024-08-10 07:03:08.970362,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Winner,Mazatlán FC,0.0262,0.0385,0.0123
-2024-08-10 05:03:40.684931,Javelin Throw - Paris 2024 - Women's Javelin Throw - To Win a Medal,Sara Kolak (CRO),0.02560000000000001,0.3333,0.3077
 2024-08-10 09:02:47.611947,Electoral College Winner - Arizona (AZ) - AZ,Democrat,0.025499999999999967,0.4255,0.4
 2024-08-10 15:03:37.589445,Track - Paris 2024 - Women's Omnium - Gold Medal Winner,Neah Evans (GBR),0.024600000000000004,0.0345,0.0099
-2024-08-10 17:03:08.964033,Championship - England Championship 2024/25 - To Be Relegated,Coventry City,0.024299999999999995,0.0769,0.0526
 2024-08-10 17:03:08.988566,Championship - England Championship 2024/25 - Top 6 Finish,Oxford United,0.024299999999999995,0.0769,0.0526
+2024-08-10 17:03:08.964033,Championship - England Championship 2024/25 - To Be Relegated,Coventry City,0.024299999999999995,0.0769,0.0526
+2024-08-10 19:02:31.159530,League Two - England League Two 2024/25 - To Finish Bottom,Grimsby Town,0.0242,0.0909,0.0667
+2024-08-10 19:02:31.146217,League Two - England League Two 2024/25 - To Be Promoted,Fleetwood Town,0.023799999999999988,0.1667,0.1429
 2024-08-10 17:03:08.988566,Championship - England Championship 2024/25 - Top 6 Finish,Watford,0.023799999999999988,0.1667,0.1429
+2024-08-10 19:02:31.146217,League Two - England League Two 2024/25 - To Be Promoted,Barrow FC,0.023799999999999988,0.1667,0.1429
+2024-08-10 19:02:53.253387,Elite Boxing - Serhii Bohachuk vs Vergil Ortiz - To Win the Bout,Vergil Ortiz,0.023799999999999932,0.8571,0.8333
 2024-08-10 17:03:08.976254,Championship - England Championship 2024/25 - Top 2 Finish,Stoke City,0.02310000000000001,0.1,0.0769
+2024-08-10 19:02:31.172971,League Two - England League Two 2024/25 - Top 7 Finish,Doncaster Rovers,0.022600000000000064,0.6226,0.6
+2024-08-10 07:03:11.488331,High Jump - Paris 2024 - Men's High Jump - To Win a Medal,Oleh Doroshchuk (UKR),0.022199999999999998,0.1333,0.1111
 2024-08-10 09:02:47.524054,Requested Specials - Requested Specials - Win Electoral College,Texas (Republican) / Florida (Republican) / Ohio (Republican) / Iowa (Republican) / North Carolina (Republican) / Alaska (Republican),0.022199999999999998,0.8,0.7778
 2024-08-10 09:02:40.080146,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,Club América,0.022199999999999998,0.2222,0.2
-2024-08-10 07:03:11.488331,High Jump - Paris 2024 - Men's High Jump - To Win a Medal,Oleh Doroshchuk (UKR),0.022199999999999998,0.1333,0.1111
+2024-08-10 19:02:31.172971,League Two - England League Two 2024/25 - Top 7 Finish,Bromley,0.022199999999999998,0.1333,0.1111
+2024-08-10 19:02:31.152857,League Two - England League Two 2024/25 - To Be Relegated,Harrogate Town,0.022199999999999998,0.2222,0.2
 2024-08-10 07:03:11.488331,High Jump - Paris 2024 - Men's High Jump - To Win a Medal,Hamish Kerr (NZL),0.022199999999999998,0.8,0.7778
 2024-08-10 17:03:08.964033,Championship - England Championship 2024/25 - To Be Relegated,Hull City,0.022199999999999998,0.1333,0.1111
+2024-08-10 19:02:31.139511,League Two - England League Two 2024/25 - Winner,Gillingham,0.022199999999999998,0.1333,0.1111
+2024-08-10 19:02:31.166312,League Two - England League Two 2024/25 - Top 3 Finish,Gillingham,0.021999999999999964,0.3077,0.2857
 2024-08-10 07:03:34.691882,MLB Futures - MLB 2024 American League East - American League East Winner,Baltimore Orioles,0.021699999999999997,0.4762,0.4545
-2024-08-10 07:03:36.639394,Round Match-Ups - 2nd Round Match-Up - C. Young vs S. Lowry - 2nd Round Match-Up,Shane Lowry,0.02169999999999994,0.5455,0.5238
 2024-08-10 07:03:36.663029,Round Match-Ups - 2nd Round Match-Up - M. Wallace vs R. Fox - 2nd Round Match-Up,Matt Wallace,0.02169999999999994,0.5455,0.5238
+2024-08-10 07:03:36.639394,Round Match-Ups - 2nd Round Match-Up - C. Young vs S. Lowry - 2nd Round Match-Up,Shane Lowry,0.02169999999999994,0.5455,0.5238
 2024-08-10 09:02:41.314818,High Jump - Paris 2024 - Men's High Jump - Gold Medal Winner,Mutaz Esa Barshim (QAT),0.020799999999999985,0.3333,0.3125
 2024-08-10 09:02:46.848879,Democrats - US Presidential Election 2024 - Democratic Electoral College Votes - Democratic Electoral College Votes,Over 269.5,0.02079999999999993,0.5556,0.5348
+2024-08-10 19:02:31.139511,League Two - England League Two 2024/25 - Winner,Port Vale,0.02020000000000001,0.1111,0.0909
 2024-08-10 17:03:08.964033,Championship - England Championship 2024/25 - To Be Relegated,Sheffield Wednesday,0.02020000000000001,0.1111,0.0909
 2024-08-10 07:03:12.341818,4 x 400m Relay - Paris 2024 - Men's 4 x 400m Relay - To Win a Medal,Belgium (BEL),0.02020000000000001,0.1111,0.0909
 2024-08-10 13:03:43.169152,75kg - Li Qian (CHN) vs Atheyna Bylon (PAN) - To Win the Bout,Atheyna Bylon (PAN),0.01999999999999999,0.2105,0.1905
-2024-08-10 07:03:08.970362,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Winner,Deportivo Toluca,0.019099999999999992,0.0667,0.0476
 2024-08-10 17:03:08.926461,Championship - England Championship 2024/25 - Winner,West Bromwich Albion,0.019099999999999992,0.0667,0.0476
+2024-08-10 07:03:08.970362,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Winner,Deportivo Toluca,0.019099999999999992,0.0667,0.0476
 2024-08-10 07:03:34.714235,MLB Futures - MLB 2024 American League West - American League West Winner,Seattle Mariners,0.018900000000000028,0.4444,0.4255
 2024-08-10 15:03:37.603948,Track - Paris 2024 - Women's Omnium - To Win a Medal,Aline Seitz (SUI),0.0189,0.0385,0.0196
+2024-08-10 19:02:31.139511,League Two - England League Two 2024/25 - Winner,Cheltenham Town,0.0189,0.0385,0.0196
+2024-08-10 19:02:31.159530,League Two - England League Two 2024/25 - To Finish Bottom,Carlisle United,0.0189,0.0385,0.0196
 2024-08-10 07:03:11.473912,High Jump - Paris 2024 - Men's High Jump - Gold Medal Winner,Mutaz Esa Barshim (QAT),0.018400000000000027,0.3125,0.2941
 2024-08-10 17:03:08.976254,Championship - England Championship 2024/25 - Top 2 Finish,Luton Town,0.01820000000000002,0.2,0.1818
+2024-08-10 19:02:31.159530,League Two - England League Two 2024/25 - To Finish Bottom,Morecambe,0.01820000000000002,0.2,0.1818
 2024-08-10 07:03:08.970362,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Winner,St. Louis City SC,0.018200000000000004,0.0476,0.0294
+2024-08-10 07:03:08.970362,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Winner,Columbus Crew,0.018099999999999998,0.0769,0.0588
 2024-08-10 17:03:08.951811,Championship - England Championship 2024/25 - To Be Promoted,Blackburn Rovers,0.018099999999999998,0.0769,0.0588
 2024-08-10 07:03:08.970362,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Winner,Cruz Azul,0.018099999999999998,0.0769,0.0588
-2024-08-10 07:03:08.970362,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Winner,Columbus Crew,0.018099999999999998,0.0769,0.0588
 2024-08-10 07:03:12.341818,4 x 400m Relay - Paris 2024 - Men's 4 x 400m Relay - To Win a Medal,France (FRA),0.0179,0.1429,0.125
 2024-08-10 17:03:08.951811,Championship - England Championship 2024/25 - To Be Promoted,Stoke City,0.0179,0.1429,0.125
-2024-08-10 05:03:40.533806,800m - Paris 2024 - Men's 800m - To Win a Medal,Bryce Hoppel (USA),0.017600000000000005,0.3509,0.3333
+2024-08-10 19:02:31.146217,League Two - England League Two 2024/25 - To Be Promoted,Port Vale,0.017600000000000005,0.3509,0.3333
 2024-08-10 17:03:08.951811,Championship - England Championship 2024/25 - To Be Promoted,Sheffield Wednesday,0.01759999999999999,0.1176,0.1
-2024-08-10 05:03:40.670738,Javelin Throw - Paris 2024 - Women's Javelin Throw - Gold Medal Winner,Flor Ruiz (COL),0.0174,0.2174,0.2
 2024-08-10 07:03:11.488331,High Jump - Paris 2024 - Men's High Jump - To Win a Medal,Jan Stefala (CZE),0.016700000000000007,0.1,0.0833
-2024-08-10 17:03:08.964033,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,0.016699999999999993,0.2667,0.25
-2024-08-10 17:03:08.964033,Championship - England Championship 2024/25 - To Be Relegated,Preston North End,0.016699999999999993,0.2667,0.25
 2024-08-10 17:03:08.951811,Championship - England Championship 2024/25 - To Be Promoted,Middlesbrough,0.016699999999999993,0.2667,0.25
-2024-08-10 15:03:37.589445,Track - Paris 2024 - Women's Omnium - Gold Medal Winner,Lotte Kopecky (BEL),0.016699999999999993,0.4167,0.4
+2024-08-10 17:03:08.964033,Championship - England Championship 2024/25 - To Be Relegated,Preston North End,0.016699999999999993,0.2667,0.25
 2024-08-10 07:03:09.995611,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,River Plate,0.016699999999999993,0.2667,0.25
+2024-08-10 17:03:08.964033,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,0.016699999999999993,0.2667,0.25
+2024-08-10 15:03:37.589445,Track - Paris 2024 - Women's Omnium - Gold Medal Winner,Lotte Kopecky (BEL),0.016699999999999993,0.4167,0.4
 2024-08-10 07:03:34.736618,MLB Futures - MLB 2024 National League Central - National League Central Winner,Milwaukee Brewers,0.016699999999999937,0.9167,0.9
 2024-08-10 17:03:08.951811,Championship - England Championship 2024/25 - To Be Promoted,Watford,0.016600000000000004,0.0833,0.0667
 2024-08-10 15:03:37.589445,Track - Paris 2024 - Women's Omnium - Gold Medal Winner,Amalie Didriksen (DEN),0.015300000000000001,0.0588,0.0435
+2024-08-10 09:02:46.712661,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 65 - 104,0.015100000000000002,0.1818,0.1667
 2024-08-10 17:03:33.903065,Elite Boxing - Serhii Bohachuk vs Vergil Ortiz - To Win the Bout,Vergil Ortiz,0.015100000000000002,0.8333,0.8182
 2024-08-10 07:03:11.473912,High Jump - Paris 2024 - Men's High Jump - Gold Medal Winner,Woo Sang-hyeok (KOR),0.015100000000000002,0.1818,0.1667
-2024-08-10 17:03:08.976254,Championship - England Championship 2024/25 - Top 2 Finish,Middlesbrough,0.015100000000000002,0.1818,0.1667
-2024-08-10 09:02:46.712661,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 65 - 104,0.015100000000000002,0.1818,0.1667
 2024-08-10 17:03:08.988566,Championship - England Championship 2024/25 - Top 6 Finish,Bristol City,0.015100000000000002,0.1818,0.1667
+2024-08-10 17:03:08.976254,Championship - England Championship 2024/25 - Top 2 Finish,Middlesbrough,0.015100000000000002,0.1818,0.1667
 2024-08-10 07:03:34.759013,MLB Futures - MLB 2024 National League East - National League East Winner,Philadelphia Phillies,0.014900000000000024,0.9524,0.9375
 2024-08-10 09:02:40.073630,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Top Goalscorer,Santiago Rodriguez,0.0145,0.0244,0.0099
 2024-08-10 17:03:08.926461,Championship - England Championship 2024/25 - Winner,Sheffield United,0.014399999999999996,0.0769,0.0625
@@ -139,157 +158,189 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-10 17:03:08.951811,Championship - England Championship 2024/25 - To Be Promoted,Oxford United,0.014099999999999998,0.0385,0.0244
 2024-08-10 11:04:06.271057,MLB Futures - MLB 2024 National League East - National League East Winner,New York Mets,0.014099999999999998,0.0385,0.0244
 2024-08-10 17:03:08.951811,Championship - England Championship 2024/25 - To Be Promoted,Portsmouth,0.013999999999999999,0.0909,0.0769
-2024-08-10 05:03:40.533806,800m - Paris 2024 - Men's 800m - To Win a Medal,Tshepiso Masalela (BOT),0.013999999999999999,0.0909,0.0769
+2024-08-10 19:02:31.152857,League Two - England League Two 2024/25 - To Be Relegated,Colchester United,0.013899999999999996,0.125,0.1111
 2024-08-10 07:03:08.970362,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Winner,Club América,0.013899999999999996,0.125,0.1111
 2024-08-10 15:03:37.589445,Track - Paris 2024 - Women's Omnium - Gold Medal Winner,Jennifer Valente (USA),0.013300000000000034,0.3704,0.3571
-2024-08-10 05:03:40.784534,100m Hurdles - Paris 2024 - Women's 100m Hurdles - To Win a Medal,Cyrena Samba-Mayela (FRA),0.0131,0.2353,0.2222
+2024-08-10 19:02:53.413336,Boxing Lines - Luis Alberto Lopez vs Angelo Leo - To Win the Bout,Angelo Leo,0.012799999999999978,0.2597,0.2469
 2024-08-10 17:03:08.951811,Championship - England Championship 2024/25 - To Be Promoted,Burnley,0.012699999999999989,0.3636,0.3509
 2024-08-10 09:02:46.712661,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 15 - 34,0.011900000000000008,0.0952,0.0833
-2024-08-10 13:03:40.426900,Conference USA Regular Season Wins - Conference USA Regular Season Wins - Louisiana,Under 7.5 Wins,0.0116,0.4878,0.4762
 2024-08-10 11:04:06.694957,Boxing Lines - Luis Alberto Lopez vs Angelo Leo - To Win the Bout,Angelo Leo,0.0116,0.2469,0.2353
-2024-08-10 09:02:40.080146,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,San Jose Earthquakes,0.011199999999999995,0.0588,0.0476
+2024-08-10 13:03:40.426900,Conference USA Regular Season Wins - Conference USA Regular Season Wins - Louisiana,Under 7.5 Wins,0.0116,0.4878,0.4762
+2024-08-10 07:03:11.384168,LOI Premier Division - Ireland LOI Premier 2024 - Winner,Waterford,0.011199999999999995,0.0588,0.0476
 2024-08-10 17:03:08.938326,Championship - England Championship 2024/25 - Top Goalscorer,Patrick Bamford,0.011199999999999995,0.0588,0.0476
 2024-08-10 09:02:40.073630,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Top Goalscorer,Henry Martin,0.011199999999999995,0.0588,0.0476
-2024-08-10 07:03:11.384168,LOI Premier Division - Ireland LOI Premier 2024 - Winner,Waterford,0.011199999999999995,0.0588,0.0476
+2024-08-10 19:02:31.152857,League Two - England League Two 2024/25 - To Be Relegated,Salford City,0.011199999999999995,0.0588,0.0476
+2024-08-10 09:02:40.080146,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - To Reach the Final,San Jose Earthquakes,0.011199999999999995,0.0588,0.0476
 2024-08-10 07:03:12.341818,4 x 400m Relay - Paris 2024 - Men's 4 x 400m Relay - To Win a Medal,South Africa (RSA),0.011099999999999999,0.1111,0.1
+2024-08-10 19:02:31.166312,League Two - England League Two 2024/25 - Top 3 Finish,Barrow FC,0.011099999999999999,0.1111,0.1
 2024-08-10 17:03:08.938326,Championship - England Championship 2024/25 - Top Goalscorer,Mateo Joseph,0.011099999999999999,0.1111,0.1
+2024-08-10 07:03:11.384168,LOI Premier Division - Ireland LOI Premier 2024 - Winner,Shelbourne FC,0.01100000000000001,0.5348,0.5238
 2024-08-10 09:02:46.605021,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,0.01100000000000001,0.5348,0.5238
 2024-08-10 09:02:46.582727,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,0.01100000000000001,0.5348,0.5238
-2024-08-10 07:03:11.384168,LOI Premier Division - Ireland LOI Premier 2024 - Winner,Shelbourne FC,0.01100000000000001,0.5348,0.5238
+2024-08-10 19:02:31.152857,League Two - England League Two 2024/25 - To Be Relegated,Grimsby Town,0.010899999999999993,0.1538,0.1429
 2024-08-10 17:03:08.988566,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,0.010899999999999993,0.1538,0.1429
 2024-08-10 07:03:09.995611,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Boca Juniors,0.010899999999999993,0.1538,0.1429
-2024-08-10 15:03:42.495144,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,0.010699999999999932,0.5455,0.5348
 2024-08-10 15:03:42.516981,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,0.010699999999999932,0.5455,0.5348
+2024-08-10 15:03:42.495144,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,0.010699999999999932,0.5455,0.5348
 2024-08-10 09:02:41.938792,Freestyle 125kg - Paris 2024 - Men's Freestyle 125kg - Gold Medal Winner,Geno Petriashvili (GEO),0.010499999999999982,0.2105,0.2
 2024-08-10 15:03:37.622224,Track - Paris 2024 - Women's Sprint - Gold Medal Winner,Ellesse Andrews (NZL),0.010399999999999993,0.2326,0.2222
-2024-08-10 05:03:40.670738,Javelin Throw - Paris 2024 - Women's Javelin Throw - Gold Medal Winner,Sara Kolak (CRO),0.0102,0.0769,0.0667
-2024-08-10 05:03:40.519569,800m - Paris 2024 - Men's 800m - Gold Medal Winner,Gabriel Tual (FRA),0.0102,0.0769,0.0667
+2024-08-10 19:02:31.159530,League Two - England League Two 2024/25 - To Finish Bottom,Swindon Town,0.0102,0.0769,0.0667
 2024-08-10 07:03:12.050156,5000m - Paris 2024 - Men's 5000m - To Win a Medal,Biniam Mehary (ETH),0.0102,0.0769,0.0667
-2024-08-10 05:03:40.684931,Javelin Throw - Paris 2024 - Women's Javelin Throw - To Win a Medal,Yulenmis Aguilar (ESP),0.0102,0.0769,0.0667
 2024-08-10 09:03:04.340720,Boxing Lines - Serhii Bohachuk vs Vergil Ortiz - To Win the Bout,Vergil Ortiz,0.010199999999999987,0.8039,0.7937
-2024-08-10 05:03:40.728434,Javelin Throw - Paris 2024 - Women's Javelin Throw - Match Up - Ruiz vs Andrejczyk,Flor Ruiz (COL),0.010099999999999998,0.5556,0.5455
 2024-08-10 09:02:48.431239,Electoral College Winner - Pennsylvania (PA) - PA,Democrat,0.010099999999999998,0.5556,0.5455
 2024-08-10 11:04:06.181124,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,-0.010099999999999998,0.4444,0.4545
+2024-08-10 19:02:31.159530,League Two - England League Two 2024/25 - To Finish Bottom,AFC Wimbledon,-0.010100000000000001,0.0244,0.0345
+2024-08-10 19:02:31.152857,League Two - England League Two 2024/25 - To Be Relegated,Port Vale,-0.010100000000000001,0.0244,0.0345
 2024-08-10 17:03:08.926461,Championship - England Championship 2024/25 - Winner,Queens Park Rangers,-0.010100000000000001,0.0244,0.0345
-2024-08-10 17:03:08.988566,Championship - England Championship 2024/25 - Top 6 Finish,Plymouth Argyle,-0.0102,0.0667,0.0769
 2024-08-10 07:03:12.034986,5000m - Paris 2024 - Men's 5000m - Gold Medal Winner,Grant Fisher (USA),-0.0102,0.0667,0.0769
+2024-08-10 17:03:08.988566,Championship - England Championship 2024/25 - Top 6 Finish,Plymouth Argyle,-0.0102,0.0667,0.0769
 2024-08-10 09:03:03.887331,MLB Futures - MLB 2024 National League East - National League East Winner,Atlanta Braves,-0.0102,0.0667,0.0769
+2024-08-10 19:02:31.146217,League Two - England League Two 2024/25 - To Be Promoted,Notts County,-0.010399999999999993,0.2222,0.2326
 2024-08-10 09:03:04.340720,Boxing Lines - Serhii Bohachuk vs Vergil Ortiz - To Win the Bout,Serhii Bohachuk,-0.010800000000000032,0.2632,0.274
-2024-08-10 17:03:34.063261,Boxing Lines - Charles Conwell vs Khiary Gray - To Win the Bout,Khiary Gray,-0.011099999999999999,0.0556,0.0667
 2024-08-10 15:03:37.589445,Track - Paris 2024 - Women's Omnium - Gold Medal Winner,Lara Gillespie (IRL),-0.011099999999999999,0.0556,0.0667
 2024-08-10 07:03:09.974432,Super Lig - Turkey Super Lig 2024/25 - Outright,Besiktas,-0.011099999999999999,0.1,0.1111
+2024-08-10 17:03:34.063261,Boxing Lines - Charles Conwell vs Khiary Gray - To Win the Bout,Khiary Gray,-0.011099999999999999,0.0556,0.0667
 2024-08-10 17:03:08.964033,Championship - England Championship 2024/25 - To Be Relegated,West Bromwich Albion,-0.011199999999999995,0.0476,0.0588
+2024-08-10 19:02:31.166312,League Two - England League Two 2024/25 - Top 3 Finish,Newport County,-0.011199999999999995,0.0476,0.0588
+2024-08-10 19:02:31.152857,League Two - England League Two 2024/25 - To Be Relegated,AFC Wimbledon,-0.011199999999999995,0.0476,0.0588
 2024-08-10 17:03:08.926461,Championship - England Championship 2024/25 - Winner,Norwich City,-0.011199999999999995,0.0476,0.0588
 2024-08-10 07:03:09.974432,Super Lig - Turkey Super Lig 2024/25 - Outright,Galatasaray,-0.0116,0.4762,0.4878
-2024-08-10 05:03:40.728434,Javelin Throw - Paris 2024 - Women's Javelin Throw - Match Up - Ruiz vs Andrejczyk,Marie Andrejczyk (POL),-0.011600000000000055,0.5122,0.5238
 2024-08-10 09:02:48.431239,Electoral College Winner - Pennsylvania (PA) - PA,Republican,-0.011600000000000055,0.5122,0.5238
 2024-08-10 09:02:46.605021,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican,-0.011600000000000055,0.5122,0.5238
 2024-08-10 09:02:46.582727,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.011600000000000055,0.5122,0.5238
 2024-08-10 07:03:12.165709,1500m - Paris 2024 - Women's 1500m - Gold Medal Winner,Diribe Welteji (ETH),-0.011700000000000016,0.2105,0.2222
 2024-08-10 11:04:06.694957,Boxing Lines - Luis Alberto Lopez vs Angelo Leo - To Win the Bout,Luis Alberto Lopez,-0.011900000000000022,0.8214,0.8333
+2024-08-10 19:02:53.413336,Boxing Lines - Luis Alberto Lopez vs Angelo Leo - To Win the Bout,Luis Alberto Lopez,-0.011900000000000022,0.8095,0.8214
 2024-08-10 15:03:42.495144,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.012199999999999989,0.5,0.5122
 2024-08-10 15:03:42.516981,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican,-0.012199999999999989,0.5,0.5122
+2024-08-10 19:02:31.172971,League Two - England League Two 2024/25 - Top 7 Finish,Carlisle United,-0.012699999999999989,0.3509,0.3636
+2024-08-10 19:02:31.146217,League Two - England League Two 2024/25 - To Be Promoted,Chesterfield,-0.012699999999999989,0.3509,0.3636
 2024-08-10 07:03:11.662380,800m - Paris 2024 - Men's 800m - Winner Without Djamel Sedjati,Marco Arop (CAN),-0.0131,0.2222,0.2353
 2024-08-10 11:04:06.717180,Boxing Lines - Serhii Bohachuk vs Vergil Ortiz - To Win the Bout,Serhii Bohachuk,-0.01319999999999999,0.25,0.2632
 2024-08-10 07:03:11.384168,LOI Premier Division - Ireland LOI Premier 2024 - Winner,Derry City,-0.013800000000000034,0.3636,0.3774
+2024-08-10 19:02:31.172971,League Two - England League Two 2024/25 - Top 7 Finish,AFC Wimbledon,-0.013800000000000034,0.3636,0.3774
+2024-08-10 19:02:31.146217,League Two - England League Two 2024/25 - To Be Promoted,Swindon Town,-0.013899999999999996,0.1111,0.125
+2024-08-10 19:02:31.166312,League Two - England League Two 2024/25 - Top 3 Finish,Swindon Town,-0.013999999999999999,0.0769,0.0909
+2024-08-10 19:02:31.146217,League Two - England League Two 2024/25 - To Be Promoted,Newport County,-0.013999999999999999,0.0769,0.0909
+2024-08-10 19:02:31.159530,League Two - England League Two 2024/25 - To Finish Bottom,Walsall,-0.014099999999999998,0.0244,0.0385
 2024-08-10 07:03:12.034986,5000m - Paris 2024 - Men's 5000m - Gold Medal Winner,Narve Gilje Nordas (NOR),-0.014099999999999998,0.0244,0.0385
-2024-08-10 07:03:11.662380,800m - Paris 2024 - Men's 800m - Winner Without Djamel Sedjati,Tshepiso Masalela (BOT),-0.014100000000000001,0.0385,0.0526
+2024-08-10 19:02:31.139511,League Two - England League Two 2024/25 - Winner,Crewe Alexandra,-0.014099999999999998,0.0244,0.0385
+2024-08-10 19:02:31.166312,League Two - England League Two 2024/25 - Top 3 Finish,Morecambe,-0.014099999999999998,0.0244,0.0385
 2024-08-10 17:03:08.951811,Championship - England Championship 2024/25 - To Be Promoted,Preston North End,-0.014100000000000001,0.0385,0.0526
+2024-08-10 19:02:31.139511,League Two - England League Two 2024/25 - Winner,Salford City,-0.014100000000000001,0.0385,0.0526
+2024-08-10 07:03:11.662380,800m - Paris 2024 - Men's 800m - Winner Without Djamel Sedjati,Tshepiso Masalela (BOT),-0.014100000000000001,0.0385,0.0526
 2024-08-10 07:03:12.165709,1500m - Paris 2024 - Women's 1500m - Gold Medal Winner,Gudaf Tsegay (ETH),-0.014499999999999999,0.0149,0.0294
 2024-08-10 09:02:46.712661,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 105 - 154,-0.014899999999999997,0.0476,0.0625
-2024-08-10 09:02:46.712661,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 65 - 104,-0.015100000000000002,0.1667,0.1818
 2024-08-10 17:03:08.988566,Championship - England Championship 2024/25 - Top 6 Finish,Portsmouth,-0.015100000000000002,0.1667,0.1818
-2024-08-10 05:03:40.411126,High Jump - Paris 2024 - Men's High Jump - Gold Medal Winner,Woo Sang-hyeok (KOR),-0.015100000000000002,0.1667,0.1818
+2024-08-10 09:02:46.712661,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 65 - 104,-0.015100000000000002,0.1667,0.1818
 2024-08-10 09:02:46.712661,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 155 - 214,-0.015300000000000001,0.0323,0.0476
 2024-08-10 11:04:06.203556,MLB Futures - MLB 2024 American League East - American League East Winner,New York Yankees,-0.01539999999999997,0.6,0.6154
 2024-08-10 07:03:34.669532,MLB Futures - MLB 2024 American League Central - American League Central Winner,Cleveland Guardians,-0.016699999999999937,0.5833,0.6
 2024-08-10 17:03:08.988566,Championship - England Championship 2024/25 - Top 6 Finish,Sheffield Wednesday,-0.016699999999999993,0.25,0.2667
 2024-08-10 09:02:41.314818,High Jump - Paris 2024 - Men's High Jump - Gold Medal Winner,Gianmarco Tamberi (ITA),-0.016700000000000007,0.0833,0.1
+2024-08-10 19:02:31.152857,League Two - England League Two 2024/25 - To Be Relegated,Barrow FC,-0.016700000000000007,0.0833,0.1
 2024-08-10 17:03:08.938326,Championship - England Championship 2024/25 - Top Goalscorer,Tommy Conway,-0.017099999999999997,0.0123,0.0294
 2024-08-10 13:03:40.426900,Conference USA Regular Season Wins - Conference USA Regular Season Wins - Louisiana,Over 7.5 Wins,-0.017299999999999982,0.5744,0.5917
 2024-08-10 07:03:11.662380,800m - Paris 2024 - Men's 800m - Winner Without Djamel Sedjati,Mohamed Attaoui (ESP),-0.01759999999999999,0.1,0.1176
 2024-08-10 17:03:08.964033,Championship - England Championship 2024/25 - To Be Relegated,Plymouth Argyle,-0.017600000000000005,0.3333,0.3509
 2024-08-10 15:03:37.603948,Track - Paris 2024 - Women's Omnium - To Win a Medal,Maggie Coles-Lyster (CAN),-0.0179,0.125,0.1429
-2024-08-10 13:03:43.169152,75kg - Li Qian (CHN) vs Atheyna Bylon (PAN) - To Win the Bout,Li Qian (CHN),-0.017900000000000027,0.8571,0.875
 2024-08-10 09:02:41.938792,Freestyle 125kg - Paris 2024 - Men's Freestyle 125kg - Gold Medal Winner,Amir Hossein Zare (IRI),-0.017900000000000027,0.8571,0.875
-2024-08-10 07:03:12.050156,5000m - Paris 2024 - Men's 5000m - To Win a Medal,Ronald Kwemoi (KEN),-0.018099999999999998,0.0588,0.0769
-2024-08-10 17:03:08.976254,Championship - England Championship 2024/25 - Top 2 Finish,Hull City,-0.018099999999999998,0.0588,0.0769
+2024-08-10 13:03:43.169152,75kg - Li Qian (CHN) vs Atheyna Bylon (PAN) - To Win the Bout,Li Qian (CHN),-0.017900000000000027,0.8571,0.875
+2024-08-10 19:02:31.139511,League Two - England League Two 2024/25 - Winner,Carlisle United,-0.018099999999999998,0.0588,0.0769
 2024-08-10 17:03:08.964033,Championship - England Championship 2024/25 - To Be Relegated,Stoke City,-0.018099999999999998,0.0588,0.0769
+2024-08-10 17:03:08.976254,Championship - England Championship 2024/25 - Top 2 Finish,Hull City,-0.018099999999999998,0.0588,0.0769
+2024-08-10 07:03:12.050156,5000m - Paris 2024 - Men's 5000m - To Win a Medal,Ronald Kwemoi (KEN),-0.018099999999999998,0.0588,0.0769
+2024-08-10 19:02:31.146217,League Two - England League Two 2024/25 - To Be Promoted,Milton Keynes Dons,-0.018100000000000005,0.4167,0.4348
 2024-08-10 11:04:06.293540,MLB Futures - MLB 2024 National League West - National League West Winner,Los Angeles Dodgers,-0.018199999999999994,0.8,0.8182
+2024-08-10 19:02:31.159530,League Two - England League Two 2024/25 - To Finish Bottom,Fleetwood Town,-0.018200000000000004,0.0294,0.0476
 2024-08-10 17:03:08.976254,Championship - England Championship 2024/25 - Top 2 Finish,Swansea City,-0.018200000000000004,0.0294,0.0476
+2024-08-10 19:02:31.159530,League Two - England League Two 2024/25 - To Finish Bottom,Barrow FC,-0.018200000000000004,0.0294,0.0476
+2024-08-10 19:02:31.166312,League Two - England League Two 2024/25 - Top 3 Finish,Notts County,-0.01820000000000002,0.1818,0.2
+2024-08-10 19:02:31.172971,League Two - England League Two 2024/25 - Top 7 Finish,Swindon Town,-0.01820000000000002,0.1818,0.2
 2024-08-10 17:03:08.976254,Championship - England Championship 2024/25 - Top 2 Finish,Cardiff City,-0.0189,0.0196,0.0385
 2024-08-10 17:03:08.976254,Championship - England Championship 2024/25 - Top 2 Finish,Leeds United,-0.018900000000000028,0.4255,0.4444
 2024-08-10 17:03:08.926461,Championship - England Championship 2024/25 - Winner,Leeds United,-0.019000000000000017,0.2667,0.2857
 2024-08-10 17:03:08.976254,Championship - England Championship 2024/25 - Top 2 Finish,Queens Park Rangers,-0.019099999999999992,0.0476,0.0667
 2024-08-10 17:03:08.976254,Championship - England Championship 2024/25 - Top 2 Finish,Portsmouth,-0.019099999999999992,0.0476,0.0667
 2024-08-10 17:03:08.976254,Championship - England Championship 2024/25 - Top 2 Finish,Derby County,-0.019099999999999995,0.0244,0.0435
-2024-08-10 05:03:40.533806,800m - Paris 2024 - Men's 800m - To Win a Medal,Djamel Sedjati (ALG),-0.019100000000000006,0.9333,0.9524
 2024-08-10 17:03:08.976254,Championship - England Championship 2024/25 - Top 2 Finish,Preston North End,-0.019600000000000003,0.0149,0.0345
+2024-08-10 19:02:53.253387,Elite Boxing - Serhii Bohachuk vs Vergil Ortiz - To Win the Bout,Serhii Bohachuk,-0.01999999999999999,0.1905,0.2105
 2024-08-10 17:03:08.976254,Championship - England Championship 2024/25 - Top 2 Finish,Norwich City,-0.02020000000000001,0.0909,0.1111
+2024-08-10 19:02:31.146217,League Two - England League Two 2024/25 - To Be Promoted,Morecambe,-0.0203,0.0385,0.0588
 2024-08-10 15:03:37.644105,Track - Paris 2024 - Men's Keirin - Gold Medal Winner,Matthew Glaetzer (AUS),-0.0203,0.0385,0.0588
-2024-08-10 05:03:40.784534,100m Hurdles - Paris 2024 - Women's 100m Hurdles - To Win a Medal,Nadine Visser (NED),-0.0204,0.2105,0.2309
+2024-08-10 19:02:31.139511,League Two - England League Two 2024/25 - Winner,Milton Keynes Dons,-0.02049999999999999,0.1333,0.1538
+2024-08-10 19:02:31.172971,League Two - England League Two 2024/25 - Top 7 Finish,Accrington Stanley,-0.02049999999999999,0.1333,0.1538
 2024-08-10 09:02:41.314818,High Jump - Paris 2024 - Men's High Jump - Gold Medal Winner,Hamish Kerr (NZL),-0.02100000000000002,0.3636,0.3846
-2024-08-10 17:03:08.988566,Championship - England Championship 2024/25 - Top 6 Finish,Leeds United,-0.022199999999999998,0.7778,0.8
 2024-08-10 17:03:08.988566,Championship - England Championship 2024/25 - Top 6 Finish,Queens Park Rangers,-0.022199999999999998,0.2,0.2222
-2024-08-10 05:03:40.769062,100m Hurdles - Paris 2024 - Women's 100m Hurdles - Gold Medal Winner,Alaysha Johnson (USA),-0.022199999999999998,0.2,0.2222
-2024-08-10 05:03:40.533806,800m - Paris 2024 - Men's 800m - To Win a Medal,Mohamed Attaoui (ESP),-0.022199999999999998,0.2,0.2222
-2024-08-10 05:03:40.519569,800m - Paris 2024 - Men's 800m - Gold Medal Winner,Emmanuel Wanyonyi (KEN),-0.022199999999999998,0.2,0.2222
+2024-08-10 17:03:08.988566,Championship - England Championship 2024/25 - Top 6 Finish,Leeds United,-0.022199999999999998,0.7778,0.8
 2024-08-10 09:02:46.848879,Democrats - US Presidential Election 2024 - Democratic Electoral College Votes - Democratic Electoral College Votes,Under 269.5,-0.022600000000000064,0.5122,0.5348
 2024-08-10 07:03:12.050156,5000m - Paris 2024 - Men's 5000m - To Win a Medal,George Mills (GBR),-0.02310000000000001,0.0769,0.1
 2024-08-10 09:02:46.712661,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,DEM 5 - 14,-0.02310000000000001,0.0769,0.1
+2024-08-10 19:02:31.152857,League Two - England League Two 2024/25 - To Be Relegated,Fleetwood Town,-0.02310000000000001,0.0769,0.1
+2024-08-10 19:02:31.172971,League Two - England League Two 2024/25 - Top 7 Finish,Morecambe,-0.02310000000000001,0.0769,0.1
 2024-08-10 07:03:12.326982,4 x 400m Relay - Paris 2024 - Men's 4 x 400m Relay - Gold Medal Winner,Great Britain (GBR),-0.0232,0.0435,0.0667
-2024-08-10 05:03:41.230466,Men's - Paris 2024 - Men's 10m Platform - Gold Medal Winner,Oleksii Sereda (UKR),-0.023200000000000002,0.0244,0.0476
 2024-08-10 09:02:47.611947,Electoral College Winner - Arizona (AZ) - AZ,Republican,-0.023799999999999932,0.6429,0.6667
-2024-08-10 07:03:36.639394,Round Match-Ups - 2nd Round Match-Up - C. Young vs S. Lowry - 2nd Round Match-Up,Cameron Young,-0.023800000000000043,0.5,0.5238
+2024-08-10 19:02:31.172971,League Two - England League Two 2024/25 - Top 7 Finish,Newport County,-0.023799999999999988,0.1429,0.1667
 2024-08-10 07:03:36.663029,Round Match-Ups - 2nd Round Match-Up - M. Wallace vs R. Fox - 2nd Round Match-Up,Ryan Fox,-0.023800000000000043,0.5,0.5238
+2024-08-10 07:03:36.639394,Round Match-Ups - 2nd Round Match-Up - C. Young vs S. Lowry - 2nd Round Match-Up,Cameron Young,-0.023800000000000043,0.5,0.5238
 2024-08-10 17:03:08.951811,Championship - England Championship 2024/25 - To Be Promoted,Leeds United,-0.023800000000000043,0.5,0.5238
 2024-08-10 17:03:08.976254,Championship - England Championship 2024/25 - Top 2 Finish,Millwall,-0.023899999999999998,0.0196,0.0435
-2024-08-10 17:03:08.938326,Championship - England Championship 2024/25 - Top Goalscorer,Josh Sargent,-0.0242,0.0667,0.0909
 2024-08-10 17:03:08.951811,Championship - England Championship 2024/25 - To Be Promoted,Queens Park Rangers,-0.0242,0.0667,0.0909
+2024-08-10 17:03:08.938326,Championship - England Championship 2024/25 - Top Goalscorer,Josh Sargent,-0.0242,0.0667,0.0909
 2024-08-10 17:03:08.951811,Championship - England Championship 2024/25 - To Be Promoted,Millwall,-0.024299999999999995,0.0526,0.0769
+2024-08-10 19:02:31.146217,League Two - England League Two 2024/25 - To Be Promoted,Colchester United,-0.024999999999999994,0.1,0.125
 2024-08-10 17:03:08.976254,Championship - England Championship 2024/25 - Top 2 Finish,Coventry City,-0.025300000000000003,0.1176,0.1429
 2024-08-10 15:03:37.644105,Track - Paris 2024 - Men's Keirin - Gold Medal Winner,Harrie Lavreysen (NED),-0.025600000000000067,0.6667,0.6923
 2024-08-10 07:03:12.050156,5000m - Paris 2024 - Men's 5000m - To Win a Medal,Hagos Gebrhiwet (ETH),-0.025999999999999912,0.7143,0.7403
+2024-08-10 19:02:31.172971,League Two - England League Two 2024/25 - Top 7 Finish,Chesterfield,-0.027700000000000058,0.5556,0.5833
+2024-08-10 19:02:31.172971,League Two - England League Two 2024/25 - Top 7 Finish,Tranmere Rovers,-0.02779999999999999,0.2222,0.25
 2024-08-10 17:03:08.951811,Championship - England Championship 2024/25 - To Be Promoted,Hull City,-0.027800000000000005,0.0833,0.1111
+2024-08-10 19:02:31.166312,League Two - England League Two 2024/25 - Top 3 Finish,Tranmere Rovers,-0.027800000000000005,0.0833,0.1111
 2024-08-10 07:03:12.034986,5000m - Paris 2024 - Men's 5000m - Gold Medal Winner,Jakob Ingebrigtsen (NOR),-0.027800000000000047,0.75,0.7778
 2024-08-10 17:03:08.964033,Championship - England Championship 2024/25 - To Be Relegated,Portsmouth,-0.027999999999999997,0.1538,0.1818
-2024-08-10 05:03:40.411126,High Jump - Paris 2024 - Men's High Jump - Gold Medal Winner,Shelby McEwen (USA),-0.027999999999999997,0.1538,0.1818
 2024-08-10 17:03:08.938326,Championship - England Championship 2024/25 - Top Goalscorer,Joel Piroe,-0.028199999999999996,0.0385,0.0667
 2024-08-10 07:03:12.326982,4 x 400m Relay - Paris 2024 - Men's 4 x 400m Relay - Gold Medal Winner,USA (USA),-0.028799999999999937,0.8333,0.8621
+2024-08-10 19:02:31.146217,League Two - England League Two 2024/25 - To Be Promoted,Tranmere Rovers,-0.028799999999999992,0.125,0.1538
 2024-08-10 07:03:12.034986,5000m - Paris 2024 - Men's 5000m - Gold Medal Winner,Dominic Lobalu (EOR),-0.029299999999999993,0.0476,0.0769
+2024-08-10 19:02:31.146217,League Two - England League Two 2024/25 - To Be Promoted,Harrogate Town,-0.029299999999999993,0.0476,0.0769
+2024-08-10 19:02:31.172971,League Two - England League Two 2024/25 - Top 7 Finish,Salford City,-0.030299999999999994,0.3333,0.3636
 2024-08-10 09:02:46.669440,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Democrat Win - 0.01 to 5% margin,-0.030299999999999994,0.6364,0.6667
 2024-08-10 09:02:48.215167,Electoral College Winner - Nevada (NV) - NV,Republican,-0.030399999999999983,0.5348,0.5652
+2024-08-10 19:02:31.172971,League Two - England League Two 2024/25 - Top 7 Finish,Harrogate Town,-0.031799999999999995,0.1111,0.1429
 2024-08-10 17:03:08.988566,Championship - England Championship 2024/25 - Top 6 Finish,Cardiff City,-0.033299999999999996,0.1,0.1333
-2024-08-10 05:03:40.411126,High Jump - Paris 2024 - Men's High Jump - Gold Medal Winner,Gianmarco Tamberi (ITA),-0.033300000000000024,0.1667,0.2
-2024-08-10 17:03:08.951811,Championship - England Championship 2024/25 - To Be Promoted,Norwich City,-0.033399999999999985,0.1333,0.1667
+2024-08-10 19:02:31.172971,League Two - England League Two 2024/25 - Top 7 Finish,Grimsby Town,-0.033300000000000024,0.1667,0.2
+2024-08-10 19:02:31.166312,League Two - England League Two 2024/25 - Top 3 Finish,Carlisle United,-0.033300000000000024,0.1667,0.2
+2024-08-10 19:02:31.146217,League Two - England League Two 2024/25 - To Be Promoted,Salford City,-0.033300000000000024,0.1667,0.2
 2024-08-10 15:03:37.603948,Track - Paris 2024 - Women's Omnium - To Win a Medal,Ally Wollaston (NZL),-0.033399999999999985,0.8333,0.8667
 2024-08-10 17:03:08.964033,Championship - England Championship 2024/25 - To Be Relegated,Bristol City,-0.033399999999999985,0.1333,0.1667
-2024-08-10 05:04:02.893385,57kg - Lin Yu-ting (TPE) vs Julia Szeremeta (POL) - To Win the Bout,Lin Yu-ting (TPE),-0.03410000000000002,0.875,0.9091
+2024-08-10 17:03:08.951811,Championship - England Championship 2024/25 - To Be Promoted,Norwich City,-0.033399999999999985,0.1333,0.1667
+2024-08-10 19:02:31.146217,League Two - England League Two 2024/25 - To Be Promoted,Grimsby Town,-0.034100000000000005,0.0909,0.125
 2024-08-10 15:03:37.603948,Track - Paris 2024 - Women's Omnium - To Win a Medal,Lotte Kopecky (BEL),-0.03410000000000002,0.875,0.9091
-2024-08-10 05:03:40.714500,Javelin Throw - Paris 2024 - Women's Javelin Throw - Match Up - Kitaguchi vs Little,Mackenzie Little (AUS),-0.03489999999999999,0.4651,0.5
-2024-08-10 09:02:46.626603,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Donald Trump,-0.03689999999999999,0.2857,0.3226
+2024-08-10 19:02:31.146217,League Two - England League Two 2024/25 - To Be Promoted,Accrington Stanley,-0.03420000000000001,0.0769,0.1111
+2024-08-10 19:02:31.166312,League Two - England League Two 2024/25 - Top 3 Finish,Crewe Alexandra,-0.03420000000000001,0.0769,0.1111
 2024-08-10 09:02:46.734250,2024 Election Core - US Presidential Election 2024 - Party Of Popular Vote Winner - Party of Popular Vote Winner,Republican,-0.03689999999999999,0.2857,0.3226
-2024-08-10 05:03:40.670738,Javelin Throw - Paris 2024 - Women's Javelin Throw - Gold Medal Winner,Haruka Kitaguchi (JPN),-0.03710000000000002,0.3333,0.3704
+2024-08-10 09:02:46.626603,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Donald Trump,-0.03689999999999999,0.2857,0.3226
 2024-08-10 09:03:03.795911,MLB Futures - MLB 2024 American League Central - American League Central Winner,Cleveland Guardians,-0.037800000000000056,0.5455,0.5833
 2024-08-10 17:03:33.903065,Elite Boxing - Serhii Bohachuk vs Vergil Ortiz - To Win the Bout,Serhii Bohachuk,-0.03950000000000001,0.2105,0.25
-2024-08-10 05:03:40.784534,100m Hurdles - Paris 2024 - Women's 100m Hurdles - To Win a Medal,Grace Stark (USA),-0.039600000000000024,0.4255,0.4651
 2024-08-10 09:02:47.454068,US Senate Elections 2024 - Senate Election Winner - Pennsylvania - Winner,Republican,-0.03989999999999999,0.25,0.2899
 2024-08-10 15:03:37.658532,Track - Paris 2024 - Men's Keirin - To Win a Medal,Matthew Glaetzer (AUS),-0.04040000000000002,0.1818,0.2222
 2024-08-10 15:03:37.644105,Track - Paris 2024 - Men's Keirin - Gold Medal Winner,Kaiya Ota (JPN),-0.0407,0.0769,0.1176
 2024-08-10 07:03:12.050156,5000m - Paris 2024 - Men's 5000m - To Win a Medal,Narve Gilje Nordas (NOR),-0.04169999999999999,0.125,0.1667
+2024-08-10 19:02:31.146217,League Two - England League Two 2024/25 - To Be Promoted,Crewe Alexandra,-0.04269999999999999,0.1111,0.1538
 2024-08-10 17:03:08.988566,Championship - England Championship 2024/25 - Top 6 Finish,Derby County,-0.04269999999999999,0.1111,0.1538
+2024-08-10 19:02:31.159530,League Two - England League Two 2024/25 - To Finish Bottom,Bromley,-0.04269999999999999,0.1111,0.1538
 2024-08-10 17:03:08.988566,Championship - England Championship 2024/25 - Top 6 Finish,Millwall,-0.042899999999999994,0.1,0.1429
 2024-08-10 07:03:09.995611,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Racing Club,-0.042899999999999994,0.1,0.1429
-2024-08-10 05:03:40.769062,100m Hurdles - Paris 2024 - Women's 100m Hurdles - Gold Medal Winner,Grace Stark (USA),-0.042899999999999994,0.1,0.1429
 2024-08-10 17:03:08.964033,Championship - England Championship 2024/25 - To Be Relegated,Sunderland,-0.04329999999999999,0.0476,0.0909
 2024-08-10 09:02:47.368178,US Senate Elections 2024 - Senate Election Winner - Michigan - Winner,Republican,-0.04410000000000003,0.3333,0.3774
 2024-08-10 09:02:46.669440,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Republican Win - Over 5% margin,-0.04440000000000001,0.0667,0.1111
+2024-08-10 19:02:31.172971,League Two - England League Two 2024/25 - Top 7 Finish,Colchester United,-0.044499999999999984,0.2222,0.2667
 2024-08-10 07:03:12.417875,4 x 400m Relay - Paris 2024 - Men's 4 x 400m Relay - Match Up - France v Japan,Japan (JPN),-0.045499999999999985,0.5,0.5455
 2024-08-10 15:03:37.603948,Track - Paris 2024 - Women's Omnium - To Win a Medal,Lara Gillespie (IRL),-0.04580000000000001,0.2667,0.3125
 2024-08-10 17:03:08.964033,Championship - England Championship 2024/25 - To Be Relegated,Watford,-0.04620000000000002,0.1538,0.2
+2024-08-10 19:02:31.166312,League Two - England League Two 2024/25 - Top 3 Finish,Chesterfield,-0.047599999999999976,0.2857,0.3333
 2024-08-10 17:03:08.988566,Championship - England Championship 2024/25 - Top 6 Finish,Norwich City,-0.047599999999999976,0.2857,0.3333
 2024-08-10 09:02:59.944065,AAC Regular Season Wins - AAC Regular Season Wins - Temple,Over 2.5 Wins,-0.04760000000000003,0.4762,0.5238
-2024-08-10 05:03:41.230466,Men's - Paris 2024 - Men's 10m Platform - Gold Medal Winner,Yang Hao (CHN),-0.04760000000000009,0.6667,0.7143
 2024-08-10 17:03:08.988566,Championship - England Championship 2024/25 - Top 6 Finish,Coventry City,-0.048099999999999976,0.3774,0.4255
 2024-08-10 17:03:08.988566,Championship - England Championship 2024/25 - Top 6 Finish,Preston North End,-0.048100000000000004,0.0769,0.125
 2024-08-10 17:03:08.988566,Championship - England Championship 2024/25 - Top 6 Finish,Swansea City,-0.04849999999999999,0.1333,0.1818
@@ -297,30 +348,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-10 07:03:12.165709,1500m - Paris 2024 - Women's 1500m - Gold Medal Winner,Faith Kipyegon (KEN),-0.04930000000000001,0.7333,0.7826
 2024-08-10 15:03:37.589445,Track - Paris 2024 - Women's Omnium - Gold Medal Winner,Ally Wollaston (NZL),-0.0494,0.3077,0.3571
 2024-08-10 17:03:08.988566,Championship - England Championship 2024/25 - Top 6 Finish,Hull City,-0.04999999999999999,0.2,0.25
+2024-08-10 19:02:31.146217,League Two - England League Two 2024/25 - To Be Promoted,Carlisle United,-0.04999999999999999,0.2,0.25
+2024-08-10 19:02:31.166312,League Two - England League Two 2024/25 - Top 3 Finish,Milton Keynes Dons,-0.05130000000000001,0.3333,0.3846
 2024-08-10 17:03:08.964033,Championship - England Championship 2024/25 - To Be Relegated,Blackburn Rovers,-0.05350000000000002,0.1818,0.2353
-2024-08-10 05:03:40.519569,800m - Paris 2024 - Men's 800m - Gold Medal Winner,Marco Arop (CAN),-0.05379999999999999,0.1,0.1538
+2024-08-10 19:02:31.172971,League Two - England League Two 2024/25 - Top 7 Finish,Notts County,-0.05449999999999999,0.4,0.4545
 2024-08-10 17:03:08.951811,Championship - England Championship 2024/25 - To Be Promoted,Coventry City,-0.05550000000000002,0.1667,0.2222
-2024-08-10 05:03:40.684931,Javelin Throw - Paris 2024 - Women's Javelin Throw - To Win a Medal,Marie Andrejczyk (POL),-0.05559999999999998,0.5,0.5556
 2024-08-10 09:02:41.802658,4 x 400m Relay - Paris 2024 - Men's 4 x 400m Relay - Match Up - France v Japan,Japan (JPN),-0.05559999999999998,0.4444,0.5
 2024-08-10 09:02:40.086923,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Nationality of Winner,Mexico,-0.055900000000000005,0.3077,0.3636
 2024-08-10 07:03:11.488331,High Jump - Paris 2024 - Men's High Jump - To Win a Medal,Gianmarco Tamberi (ITA),-0.05740000000000001,0.3774,0.4348
 2024-08-10 09:02:46.781128,Republicans - US Presidential Election 2024 - Republican Electoral College Votes - Republican Electoral College Votes,Over 311.5,-0.0595,0.1905,0.25
 2024-08-10 07:03:12.341818,4 x 400m Relay - Paris 2024 - Men's 4 x 400m Relay - To Win a Medal,Botswana (BOT),-0.061799999999999966,0.9091,0.9709
-2024-08-10 05:03:40.684931,Javelin Throw - Paris 2024 - Women's Javelin Throw - To Win a Medal,Haruka Kitaguchi (JPN),-0.0635,0.7143,0.7778
 2024-08-10 07:03:11.473912,High Jump - Paris 2024 - Men's High Jump - Gold Medal Winner,Gianmarco Tamberi (ITA),-0.06669999999999998,0.1,0.1667
 2024-08-10 07:03:12.050156,5000m - Paris 2024 - Men's 5000m - To Win a Medal,Jacob Krop (KEN),-0.06670000000000004,0.3333,0.4
 2024-08-10 09:02:46.669440,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Republican Win - 0.01 to 5% margin,-0.06820000000000001,0.1818,0.25
+2024-08-10 19:02:31.172971,League Two - England League Two 2024/25 - Top 7 Finish,Crewe Alexandra,-0.06820000000000001,0.1818,0.25
 2024-08-10 11:04:03.831682,MAC Regular Season Wins - MAC Regular Season Wins - Western Michigan,Under 6.5 Wins,-0.07939999999999997,0.4762,0.5556
 2024-08-10 09:02:47.411031,US Senate Elections 2024 - Senate Election Winner - Nevada - Winner,Republican,-0.08329999999999999,0.4167,0.5
-2024-08-10 05:03:40.670738,Javelin Throw - Paris 2024 - Women's Javelin Throw - Gold Medal Winner,Mackenzie Little (AUS),-0.08329999999999999,0.25,0.3333
 2024-08-10 07:03:12.050156,5000m - Paris 2024 - Men's 5000m - To Win a Medal,Grant Fisher (USA),-0.08340000000000003,0.3333,0.4167
-2024-08-10 05:03:40.425257,High Jump - Paris 2024 - Men's High Jump - To Win a Medal,Mutaz Esa Barshim (QAT),-0.0847,0.6296,0.7143
+2024-08-10 19:02:31.152857,League Two - England League Two 2024/25 - To Be Relegated,Bromley,-0.0857,0.2,0.2857
 2024-08-10 17:03:08.964033,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,-0.0877,0.3774,0.4651
-2024-08-10 05:03:40.533806,800m - Paris 2024 - Men's 800m - To Win a Medal,Emmanuel Wanyonyi (KEN),-0.10389999999999999,0.6364,0.7403
-2024-08-10 05:03:40.425257,High Jump - Paris 2024 - Men's High Jump - To Win a Medal,Stefano Sottile (ITA),-0.1071,0.1429,0.25
 2024-08-10 09:02:41.322318,High Jump - Paris 2024 - Men's High Jump - To Win a Medal,Gianmarco Tamberi (ITA),-0.1552,0.2222,0.3774
 2024-08-10 07:03:12.341818,4 x 400m Relay - Paris 2024 - Men's 4 x 400m Relay - To Win a Medal,Great Britain (GBR),-0.15560000000000007,0.7333,0.8889
-2024-08-10 05:03:40.533806,800m - Paris 2024 - Men's 800m - To Win a Medal,Marco Arop (CAN),-0.15870000000000006,0.5556,0.7143
 2024-08-10 07:03:12.050156,5000m - Paris 2024 - Men's 5000m - To Win a Medal,Dominic Lobalu (EOR),-0.1945,0.2222,0.4167
-2024-08-10 05:03:40.684931,Javelin Throw - Paris 2024 - Women's Javelin Throw - To Win a Medal,Mackenzie Little (AUS),-0.25,0.5,0.75
-2024-08-10 05:03:40.425257,High Jump - Paris 2024 - Men's High Jump - To Win a Medal,Gianmarco Tamberi (ITA),-0.43549999999999994,0.4348,0.8703
