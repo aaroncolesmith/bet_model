@@ -12,13 +12,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-11 07:03:07.296157,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Bowling Green,0.028799999999999992,0.1538,0.125
 2024-08-11 15:03:50.996603,MLB Futures - MLB 2024 National League West - National League West Winner,Los Angeles Dodgers,0.02870000000000006,0.8182,0.7895
 2024-08-11 11:03:11.272496,ACC Regular Season Wins - ACC Regular Season Wins - Pittsburgh,Under 5.5 Wins,0.026499999999999968,0.5917,0.5652
-2024-08-11 09:03:35.942940,MWC Regular Season Wins - MWC Regular Season Wins - Wyoming,Over 6.5 Wins,0.024399999999999977,0.5122,0.4878
 2024-08-11 09:03:34.916766,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Rutgers,Over 6.5 Wins,0.024399999999999977,0.5122,0.4878
+2024-08-11 09:03:35.942940,MWC Regular Season Wins - MWC Regular Season Wins - Wyoming,Over 6.5 Wins,0.024399999999999977,0.5122,0.4878
 2024-08-11 11:03:11.291317,ACC Regular Season Wins - ACC Regular Season Wins - SMU,Over 8.5 Wins,0.023800000000000043,0.5238,0.5
 2024-08-11 07:03:08.699465,MLB Futures - MLB 2024 National League East - National League East Winner,Philadelphia Phillies,0.0232,0.9756,0.9524
 2024-08-11 11:02:58.133842,2024 Election Core - US Presidential Election 2024 - Popular Vote Winner - Popular Vote Winner,Kamala Harris,0.022199999999999998,0.8,0.7778
-2024-08-11 11:03:09.134451,Division Specials - Division Exact Position - Las Vegas Raiders,3rd,0.021999999999999964,0.3077,0.2857
 2024-08-11 07:02:46.125621,La Liga - Spain La Liga 2024/25 - Top 3 - Any Order,Real Madrid/Barcelona/Atletico Madrid,0.021999999999999964,0.3077,0.2857
+2024-08-11 11:03:09.134451,Division Specials - Division Exact Position - Las Vegas Raiders,3rd,0.021999999999999964,0.3077,0.2857
 2024-08-11 17:03:23.942754,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Democrat Win - Over 5% margin,0.021999999999999964,0.3077,0.2857
 2024-08-11 09:03:26.941060,Tampa Bay Buccaneers - 2024-25 Regular Season Wins O/U - Regular Season Wins - Tampa Bay Buccaneers O/U 6.5 Wins,Under 6.5 Wins,0.020799999999999985,0.3333,0.3125
 2024-08-11 09:03:34.956991,Big Ten Regular Season Wins - Big Ten Regular Season Wins - USC,Under 7.5 Wins,0.02079999999999993,0.5556,0.5348
@@ -37,12 +37,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-11 15:03:50.882966,MLB Futures - MLB 2024 American League Central - American League Central Winner,Cleveland Guardians,0.018100000000000005,0.5833,0.5652
 2024-08-11 07:03:04.906502,AAC Regular Season Wins - AAC Regular Season Wins - UTSA,Under 8.5 Wins,0.017299999999999982,0.5917,0.5744
 2024-08-11 09:03:26.535443,Philadelphia Eagles - 2024-25 Regular Season Wins O/U - Regular Season Wins - Philadelphia Eagles O/U 10.5 Wins,Over 10.5 Wins,0.017299999999999982,0.5917,0.5744
+2024-08-11 19:00:56.888952,WNBA Championship - WNBA Championship 2024 - Outright Winner,Indiana Fever,0.017100000000000004,0.0323,0.0152
 2024-08-11 09:03:31.864311,Division Specials - 1-2 Exact Division Order AFC North - AFC North,1st Cincinnati Bengals / 2nd Baltimore Ravens,0.01680000000000001,0.2273,0.2105
 2024-08-11 09:03:27.073610,Tennessee Titans - 2024-25 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U 7.5 Wins,Over 7.5 Wins,0.015400000000000025,0.3279,0.3125
 2024-08-11 11:03:14.180096,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Utah To Make the 2024-2025 College Football Playoff,Yes,0.015400000000000025,0.3279,0.3125
+2024-08-11 11:03:11.179401,ACC Regular Season Wins - ACC Regular Season Wins - Georgia Tech ,Over 4.5 Wins,0.01539999999999997,0.6154,0.6
 2024-08-11 07:03:04.757458,AAC Regular Season Wins - AAC Regular Season Wins - Navy,Under 5.5,0.01539999999999997,0.6154,0.6
 2024-08-11 09:03:26.862116,Seattle Seahawks - 2024-25 Regular Season Wins O/U - Regular Season Wins - Seattle Seahawks O/U 7.5 Wins,Over 7.5 Wins,0.01539999999999997,0.6154,0.6
-2024-08-11 11:03:11.179401,ACC Regular Season Wins - ACC Regular Season Wins - Georgia Tech ,Over 4.5 Wins,0.01539999999999997,0.6154,0.6
 2024-08-11 07:03:04.850841,AAC Regular Season Wins - AAC Regular Season Wins - Tulane ,Over 7.5 Wins,0.01539999999999997,0.6154,0.6
 2024-08-11 07:02:52.502145,Requested Specials - Requested Specials - Win Electoral College,Colorado (Democrat) / Florida (Republican),0.015100000000000002,0.8333,0.8182
 2024-08-11 09:03:31.954534,Division Specials - 1-2 Exact Division Order NFC North - NFC North,1st Detroit Lions / 2nd Gren Bay Packers,0.01469999999999999,0.25,0.2353
@@ -54,58 +55,58 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-11 09:03:31.909361,Division Specials - 1-2 Exact Division Order AFC West  - AFC West,1st Kansas City Chiefs / 2nd Las Vegas Raiders,0.0131,0.2353,0.2222
 2024-08-11 11:03:00.480952,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Cincinnati Bengals,0.012600000000000007,0.0714,0.0588
 2024-08-11 09:03:24.319276,Baltimore Ravens - 2024-25 Regular Season Wins O/U - Regular Season Wins - Baltimore Ravens O/U 11.5 Wins,Under 11.5 Wins,0.012299999999999978,0.6552,0.6429
+2024-08-11 11:03:13.280596,Sun Belt Regular Season Wins - Sun Belt Regular Season Wins - Texas State,Over 8.5 Wins,0.012199999999999989,0.5122,0.5
 2024-08-11 11:03:11.928991,Big Twelve Regular Season Wins - Big Twelve Regular Season Wins - Oklahoma State,Over 8.5 Wins,0.012199999999999989,0.5,0.4878
 2024-08-11 09:03:35.547342,MAC Regular Season Wins - MAC Regular Season Wins - Bowling Green,Over 6.5 Wins,0.012199999999999989,0.5,0.4878
-2024-08-11 11:03:13.280596,Sun Belt Regular Season Wins - Sun Belt Regular Season Wins - Texas State,Over 8.5 Wins,0.012199999999999989,0.5122,0.5
 2024-08-11 09:03:26.632056,Pittsburgh Steelers - 2024-25 Regular Season Wins O/U - Regular Season Wins - Pittsburgh Steelers O/U 10.5 Wins,Over 10.5 Wins,0.011700000000000016,0.2222,0.2105
 2024-08-11 09:03:25.027634,Denver Broncos - 2024-25 Regular Season Wins O/U - Regular Season Wins - Denver Broncos O/U 5.5 Wins,Over 5.5 Wins,0.011600000000000055,0.5238,0.5122
-2024-08-11 11:03:11.835948,Big Twelve Regular Season Wins - Big Twelve Regular Season Wins - Colorado,Under 5.5 Wins,0.0116,0.4878,0.4762
 2024-08-11 09:03:35.000276,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Wisconsin ,Under 6.5 Wins,0.0116,0.4878,0.4762
-2024-08-11 09:03:16.639132,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer,Dominic Solanke (Tottenham),0.011199999999999995,0.0588,0.0476
+2024-08-11 11:03:11.835948,Big Twelve Regular Season Wins - Big Twelve Regular Season Wins - Colorado,Under 5.5 Wins,0.0116,0.4878,0.4762
 2024-08-11 07:03:08.463146,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,San Diego Padres,0.011199999999999995,0.0588,0.0476
+2024-08-11 09:03:16.639132,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer,Dominic Solanke (Tottenham),0.011199999999999995,0.0588,0.0476
 2024-08-11 09:03:35.586799,MAC Regular Season Wins - MAC Regular Season Wins - Central Michigan,Under 5.5 Wins,0.011099999999999999,0.4762,0.4651
 2024-08-11 09:03:35.905269,MWC Regular Season Wins - MWC Regular Season Wins - UNVL,Over 7.5 Wins,0.011099999999999999,0.4762,0.4651
-2024-08-11 09:03:25.431027,Indianapolis Colts - 2024-25 Regular Season Wins O/U - Regular Season Wins - Indianapolis Colts O/U 8.5 Wins,Over 8.5 Wins,0.01100000000000001,0.5348,0.5238
 2024-08-11 11:03:12.737711,Pac 12 Regular Season Wins - Pac 12 Regular Season Wins - Washington State,Under 7.5 Wins,0.01100000000000001,0.5348,0.5238
+2024-08-11 09:03:25.431027,Indianapolis Colts - 2024-25 Regular Season Wins O/U - Regular Season Wins - Indianapolis Colts O/U 8.5 Wins,Over 8.5 Wins,0.01100000000000001,0.5348,0.5238
 2024-08-11 09:03:33.263121,Season Win Record Specials - Fewest Regular Season Wins - Fewest Regular Season Wins,Denver Broncos,0.010899999999999993,0.1538,0.1429
-2024-08-11 07:03:07.227826,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,Memphis,0.010699999999999987,0.3333,0.3226
 2024-08-11 11:03:09.338210,Division Specials - Division Exact Position - San Francisco 49ers,2nd,0.010699999999999987,0.3333,0.3226
+2024-08-11 07:03:07.227826,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,Memphis,0.010699999999999987,0.3333,0.3226
 2024-08-11 09:03:26.958863,Tampa Bay Buccaneers - 2024-25 Regular Season Wins O/U - Regular Season Wins - Tampa Bay Buccaneers O/U 7.5 Wins,Under 7.5 Wins,0.010599999999999998,0.4651,0.4545
 2024-08-11 07:03:08.654671,MLB Futures - MLB 2024 American League West - American League West Winner,Seattle Mariners,0.010599999999999998,0.4651,0.4545
 2024-08-11 09:03:16.639132,Premier League Futures/Specials - English Premier League 2024/25 - Top Goalscorer,Alexander Isak (Newcastle),0.0102,0.0769,0.0667
 2024-08-11 11:03:13.580881,NCAA Football Futures - 2024 Big 12 Conference Championship  - Championship Game Winner,Kansas,0.010099999999999998,0.1053,0.0952
-2024-08-11 09:03:26.897883,Seattle Seahawks - 2024-25 Regular Season Wins O/U - Regular Season Wins - Seattle Seahawks O/U 9.5 Wins,Over 9.5 Wins,0.010099999999999998,0.3226,0.3125
 2024-08-11 11:03:11.873066,Big Twelve Regular Season Wins - Big Twelve Regular Season Wins - Iowa State,Over 7.5 Wins,0.010099999999999998,0.5556,0.5455
 2024-08-11 09:03:25.298992,Houston Texans - 2024-25 Regular Season Wins O/U - Regular Season Wins - Houston Texans O/U 11.5 Wins,Over 11.5 Wins,0.010099999999999998,0.3226,0.3125
+2024-08-11 09:03:26.897883,Seattle Seahawks - 2024-25 Regular Season Wins O/U - Regular Season Wins - Seattle Seahawks O/U 9.5 Wins,Over 9.5 Wins,0.010099999999999998,0.3226,0.3125
 2024-08-11 11:03:09.338210,Division Specials - Division Exact Position - San Francisco 49ers,1st,-0.010099999999999998,0.6774,0.6875
 2024-08-11 09:03:25.027634,Denver Broncos - 2024-25 Regular Season Wins O/U - Regular Season Wins - Denver Broncos O/U 5.5 Wins,Under 5.5 Wins,-0.010099999999999998,0.5455,0.5556
-2024-08-11 07:03:04.850841,AAC Regular Season Wins - AAC Regular Season Wins - Tulane ,Under 7.5 Wins,-0.010599999999999998,0.4545,0.4651
-2024-08-11 09:03:26.862116,Seattle Seahawks - 2024-25 Regular Season Wins O/U - Regular Season Wins - Seattle Seahawks O/U 7.5 Wins,Under 7.5 Wins,-0.010599999999999998,0.4545,0.4651
-2024-08-11 07:03:04.757458,AAC Regular Season Wins - AAC Regular Season Wins - Navy,Over 5.5,-0.010599999999999998,0.4545,0.4651
 2024-08-11 11:03:11.179401,ACC Regular Season Wins - ACC Regular Season Wins - Georgia Tech ,Under 4.5 Wins,-0.010599999999999998,0.4545,0.4651
+2024-08-11 07:03:04.850841,AAC Regular Season Wins - AAC Regular Season Wins - Tulane ,Under 7.5 Wins,-0.010599999999999998,0.4545,0.4651
+2024-08-11 07:03:04.757458,AAC Regular Season Wins - AAC Regular Season Wins - Navy,Over 5.5,-0.010599999999999998,0.4545,0.4651
 2024-08-11 09:03:38.240101,MLB Futures - MLB 2024 American League West - American League West Winner,Seattle Mariners,-0.010599999999999998,0.4545,0.4651
-2024-08-11 11:03:12.737711,Pac 12 Regular Season Wins - Pac 12 Regular Season Wins - Washington State,Over 7.5 Wins,-0.010699999999999932,0.5348,0.5455
+2024-08-11 09:03:26.862116,Seattle Seahawks - 2024-25 Regular Season Wins O/U - Regular Season Wins - Seattle Seahawks O/U 7.5 Wins,Under 7.5 Wins,-0.010599999999999998,0.4545,0.4651
 2024-08-11 09:03:25.431027,Indianapolis Colts - 2024-25 Regular Season Wins O/U - Regular Season Wins - Indianapolis Colts O/U 8.5 Wins,Under 8.5 Wins,-0.010699999999999932,0.5348,0.5455
+2024-08-11 11:03:12.737711,Pac 12 Regular Season Wins - Pac 12 Regular Season Wins - Washington State,Over 7.5 Wins,-0.010699999999999932,0.5348,0.5455
 2024-08-11 07:03:08.699465,MLB Futures - MLB 2024 National League East - National League East Winner,New York Mets,-0.010700000000000001,0.0278,0.0385
 2024-08-11 09:03:26.632056,Pittsburgh Steelers - 2024-25 Regular Season Wins O/U - Regular Season Wins - Pittsburgh Steelers O/U 10.5 Wins,Under 10.5 Wins,-0.01090000000000002,0.8462,0.8571
 2024-08-11 07:03:04.795152,AAC Regular Season Wins - AAC Regular Season Wins - Rice,Under 6.5 Wins,-0.011099999999999999,0.4651,0.4762
-2024-08-11 09:03:35.849100,MWC Regular Season Wins - MWC Regular Season Wins - New Mexico,Over 2.5 Wins,-0.011099999999999999,0.4651,0.4762
+2024-08-11 11:03:08.948162,Division Specials - Division Exact Position - Cincinnati Bengals,3rd,-0.011099999999999999,0.2667,0.2778
 2024-08-11 09:03:34.646147,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Indiana,Under 5.5 Wins,-0.011099999999999999,0.4651,0.4762
 2024-08-11 09:03:34.708334,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Maryland,Over 6.5 Wins,-0.011099999999999999,0.4651,0.4762
+2024-08-11 09:03:35.849100,MWC Regular Season Wins - MWC Regular Season Wins - New Mexico,Over 2.5 Wins,-0.011099999999999999,0.4651,0.4762
 2024-08-11 11:03:11.067564,ACC Regular Season Wins - ACC Regular Season Wins - Syracuse ,Over 7.5 Wins,-0.011099999999999999,0.4651,0.4762
-2024-08-11 11:03:08.948162,Division Specials - Division Exact Position - Cincinnati Bengals,3rd,-0.011099999999999999,0.2667,0.2778
+2024-08-11 07:03:04.906502,AAC Regular Season Wins - AAC Regular Season Wins - UTSA,Over 8.5 Wins,-0.0116,0.4762,0.4878
 2024-08-11 09:03:26.535443,Philadelphia Eagles - 2024-25 Regular Season Wins O/U - Regular Season Wins - Philadelphia Eagles O/U 10.5 Wins,Under 10.5 Wins,-0.0116,0.4762,0.4878
 2024-08-11 11:03:09.152932,Division Specials - Division Exact Position - Los Angeles Chargers,2nd,-0.0116,0.4762,0.4878
-2024-08-11 07:03:04.906502,AAC Regular Season Wins - AAC Regular Season Wins - UTSA,Over 8.5 Wins,-0.0116,0.4762,0.4878
-2024-08-11 11:03:11.873066,Big Twelve Regular Season Wins - Big Twelve Regular Season Wins - Iowa State,Under 7.5 Wins,-0.011600000000000055,0.5122,0.5238
 2024-08-11 15:03:50.905807,MLB Futures - MLB 2024 American League East - American League East Winner,Baltimore Orioles,-0.011600000000000055,0.5122,0.5238
-2024-08-11 09:03:25.737556,Las Vegas Raiders - 2024-25 Regular Season Wins O/U - Regular Season Wins - Las Vegas Raiders O/U 8.5 Wins,Under 8.5 Wins,-0.011900000000000022,0.75,0.7619
+2024-08-11 11:03:11.873066,Big Twelve Regular Season Wins - Big Twelve Regular Season Wins - Iowa State,Under 7.5 Wins,-0.011600000000000055,0.5122,0.5238
 2024-08-11 09:03:24.529189,Carolina Panthers - 2024-25 Regular Season Wins O/U - Regular Season Wins - Carolina Panthers O/U 4.5 Wins,Over 4.5 Wins,-0.011900000000000022,0.75,0.7619
+2024-08-11 09:03:25.737556,Las Vegas Raiders - 2024-25 Regular Season Wins O/U - Regular Season Wins - Las Vegas Raiders O/U 8.5 Wins,Under 8.5 Wins,-0.011900000000000022,0.75,0.7619
+2024-08-11 11:03:12.719047,Pac 12 Regular Season Wins - Pac 12 Regular Season Wins - Oregon State,Over 7.5 Wins,-0.012199999999999989,0.5,0.5122
 2024-08-11 11:03:14.047301,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Ole Miss To Make the 2024-2025 College Football Playoff,No,-0.012199999999999989,0.4878,0.5
 2024-08-11 07:03:06.513224,Non Conference Regular Season Wins - Non Conference Regular Season Wins - Connecticut,Under 4.5,-0.012199999999999989,0.4878,0.5
-2024-08-11 11:03:12.719047,Pac 12 Regular Season Wins - Pac 12 Regular Season Wins - Oregon State,Over 7.5 Wins,-0.012199999999999989,0.5,0.5122
-2024-08-11 07:02:53.394110,Electoral College Winner - Pennsylvania (PA) - PA,Republican,-0.012199999999999989,0.5,0.5122
 2024-08-11 11:03:12.951125,SEC Regular Season Wins - SEC Regular Season Wins - Oklahoma ,Under 7.5 Wins,-0.012199999999999989,0.4878,0.5
+2024-08-11 07:02:53.394110,Electoral College Winner - Pennsylvania (PA) - PA,Republican,-0.012199999999999989,0.5,0.5122
 2024-08-11 11:03:14.180096,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Utah To Make the 2024-2025 College Football Playoff,No,-0.01319999999999999,0.7368,0.75
 2024-08-11 09:03:27.073610,Tennessee Titans - 2024-25 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U 7.5 Wins,Under 7.5 Wins,-0.01319999999999999,0.7368,0.75
 2024-08-11 09:03:25.719801,Las Vegas Raiders - 2024-25 Regular Season Wins O/U - Regular Season Wins - Las Vegas Raiders O/U 7.5 Wins,Under 7.5 Wins,-0.013299999999999979,0.6296,0.6429
@@ -131,8 +132,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-11 07:03:08.722004,MLB Futures - MLB 2024 National League West - National League West Winner,San Diego Padres,-0.01820000000000002,0.1818,0.2
 2024-08-11 09:03:34.916766,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Rutgers,Under 6.5 Wins,-0.01880000000000004,0.5556,0.5744
 2024-08-11 09:03:35.942940,MWC Regular Season Wins - MWC Regular Season Wins - Wyoming,Under 6.5 Wins,-0.01880000000000004,0.5556,0.5744
-2024-08-11 11:03:13.932650,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Michigan To Make the 2024-2025 College Football Playoff,Yes,-0.018900000000000028,0.4255,0.4444
 2024-08-11 09:03:38.194752,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,-0.018900000000000028,0.4255,0.4444
+2024-08-11 11:03:13.932650,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Michigan To Make the 2024-2025 College Football Playoff,Yes,-0.018900000000000028,0.4255,0.4444
 2024-08-11 09:03:26.976661,Tampa Bay Buccaneers - 2024-25 Regular Season Wins O/U - Regular Season Wins - Tampa Bay Buccaneers O/U 8.5 Wins,Over 8.5 Wins,-0.019699999999999995,0.4348,0.4545
 2024-08-11 11:03:11.291317,ACC Regular Season Wins - ACC Regular Season Wins - SMU,Under 8.5 Wins,-0.01970000000000005,0.5455,0.5652
 2024-08-11 09:03:26.703414,Pittsburgh Steelers - 2024-25 Regular Season Wins O/U - Regular Season Wins - Pittsburgh Steelers O/U 9.5 Wins,Under 9.5 Wins,-0.020000000000000018,0.7674,0.7874
@@ -146,8 +147,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-11 11:03:09.301068,Division Specials - Division Exact Position - Philadelphia Eagles,2nd,-0.027500000000000024,0.3571,0.3846
 2024-08-11 11:02:58.155212,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Republican Popular Vote,-0.02779999999999999,0.2222,0.25
 2024-08-11 09:03:38.308366,MLB Futures - MLB 2024 National League West - National League West Winner,Los Angeles Dodgers,-0.02870000000000006,0.7895,0.8182
-2024-08-11 09:03:35.754854,MWC Regular Season Wins - MWC Regular Season Wins - Boise State,Under 9.5 Wins,-0.030399999999999983,0.5348,0.5652
 2024-08-11 07:03:04.701848,AAC Regular Season Wins - AAC Regular Season Wins - East Carolina,Under 6.5 Wins,-0.030399999999999983,0.5348,0.5652
+2024-08-11 09:03:35.754854,MWC Regular Season Wins - MWC Regular Season Wins - Boise State,Under 9.5 Wins,-0.030399999999999983,0.5348,0.5652
 2024-08-11 09:03:26.685506,Pittsburgh Steelers - 2024-25 Regular Season Wins O/U - Regular Season Wins - Pittsburgh Steelers O/U 8.5 Wins,Under 8.5 Wins,-0.03090000000000004,0.5917,0.6226
 2024-08-11 07:03:07.341931,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Troy,-0.0321,0.0588,0.0909
 2024-08-11 09:03:34.687868,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Iowa,Under 7.5 Wins,-0.033299999999999996,0.3922,0.4255
