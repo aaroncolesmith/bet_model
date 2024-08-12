@@ -10,15 +10,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-11 23:03:01.835254,Tennessee Titans - 2024-25 Regular Season Wins O/U - Regular Season Wins - Tennessee Titans O/U 6.5 Wins,Under 6.5 Wins,0.028900000000000037,0.5744,0.5455
 2024-08-11 15:03:50.996603,MLB Futures - MLB 2024 National League West - National League West Winner,Los Angeles Dodgers,0.02870000000000006,0.8182,0.7895
 2024-08-11 23:02:50.053890,Championship - England Championship 2024/25 - Top 6 Finish,Cardiff City,0.024999999999999994,0.125,0.1
-2024-08-11 23:02:50.053890,Championship - England Championship 2024/25 - Top 6 Finish,Leeds United,0.022199999999999998,0.8,0.7778
 2024-08-11 23:02:50.053890,Championship - England Championship 2024/25 - Top 6 Finish,Hull City,0.022199999999999998,0.2222,0.2
+2024-08-11 23:02:50.053890,Championship - England Championship 2024/25 - Top 6 Finish,Leeds United,0.022199999999999998,0.8,0.7778
 2024-08-11 17:03:23.942754,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Democrat Win - Over 5% margin,0.021999999999999964,0.3077,0.2857
 2024-08-11 23:02:50.046074,Championship - England Championship 2024/25 - Top 2 Finish,Sheffield United,0.02049999999999999,0.1538,0.1333
 2024-08-11 23:02:50.037733,Championship - England Championship 2024/25 - To Finish Bottom,Plymouth Argyle,0.02049999999999999,0.1538,0.1333
-2024-08-11 11:03:13.932650,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Michigan To Make the 2024-2025 College Football Playoff,No,0.020299999999999985,0.6429,0.6226
 2024-08-11 15:03:50.735006,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Los Angeles Dodgers,0.019299999999999984,0.2632,0.2439
-2024-08-11 23:02:50.028755,Championship - England Championship 2024/25 - To Be Relegated,Sunderland,0.019099999999999992,0.0667,0.0476
 2024-08-11 23:02:50.037733,Championship - England Championship 2024/25 - To Finish Bottom,Portsmouth,0.019099999999999992,0.0667,0.0476
+2024-08-11 23:02:50.028755,Championship - England Championship 2024/25 - To Be Relegated,Sunderland,0.019099999999999992,0.0667,0.0476
 2024-08-11 23:02:50.046074,Championship - England Championship 2024/25 - Top 2 Finish,Millwall,0.0189,0.0385,0.0196
 2024-08-11 23:02:50.037733,Championship - England Championship 2024/25 - To Finish Bottom,Sheffield United,0.0189,0.0385,0.0196
 2024-08-11 23:02:50.037733,Championship - England Championship 2024/25 - To Finish Bottom,Norwich City,0.0189,0.0385,0.0196
@@ -27,9 +26,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-11 23:02:50.028755,Championship - England Championship 2024/25 - To Be Relegated,Plymouth Argyle,0.017600000000000005,0.3509,0.3333
 2024-08-11 19:00:56.888952,WNBA Championship - WNBA Championship 2024 - Outright Winner,Indiana Fever,0.017100000000000004,0.0323,0.0152
 2024-08-11 23:02:50.053890,Championship - England Championship 2024/25 - Top 6 Finish,Sheffield Wednesday,0.016699999999999993,0.2667,0.25
-2024-08-11 11:03:14.180096,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Utah To Make the 2024-2025 College Football Playoff,Yes,0.015400000000000025,0.3279,0.3125
 2024-08-11 23:02:50.019121,Championship - England Championship 2024/25 - To Be Promoted,Coventry City,0.015100000000000002,0.1818,0.1667
-2024-08-11 11:03:13.838037,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Florida To Make the 2024-2025 College Football Playoff,Yes,0.014399999999999996,0.0769,0.0625
+2024-08-12 01:02:50.182663,Boxing Lines - Christian Mbilli vs Sergiy Derevyanchenko - To Win the Bout,Sergiy Derevyanchenko,0.01469999999999999,0.25,0.2353
 2024-08-11 23:02:50.053890,Championship - England Championship 2024/25 - Top 6 Finish,Preston North End,0.013999999999999999,0.0909,0.0769
 2024-08-11 23:02:50.019121,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,0.0131,0.2353,0.2222
 2024-08-11 23:02:50.053890,Championship - England Championship 2024/25 - Top 6 Finish,Burnley,0.012700000000000045,0.6491,0.6364
@@ -37,22 +35,19 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-11 23:02:50.019121,Championship - England Championship 2024/25 - To Be Promoted,Luton Town,0.011099999999999999,0.2778,0.2667
 2024-08-11 23:02:50.053890,Championship - England Championship 2024/25 - Top 6 Finish,Plymouth Argyle,0.0102,0.0769,0.0667
 2024-08-11 23:02:49.998315,Championship - England Championship 2024/25 - Winner,West Bromwich Albion,0.0102,0.0769,0.0667
-2024-08-11 11:03:13.580881,NCAA Football Futures - 2024 Big 12 Conference Championship  - Championship Game Winner,Kansas,0.010099999999999998,0.1053,0.0952
 2024-08-11 23:02:50.053890,Championship - England Championship 2024/25 - Top 6 Finish,Oxford United,-0.0102,0.0667,0.0769
-2024-08-11 23:02:50.046074,Championship - England Championship 2024/25 - Top 2 Finish,West Bromwich Albion,-0.010899999999999993,0.1429,0.1538
 2024-08-11 23:02:50.053890,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,-0.010899999999999993,0.1429,0.1538
+2024-08-11 23:02:50.046074,Championship - England Championship 2024/25 - Top 2 Finish,West Bromwich Albion,-0.010899999999999993,0.1429,0.1538
 2024-08-11 15:03:50.905807,MLB Futures - MLB 2024 American League East - American League East Winner,Baltimore Orioles,-0.011600000000000055,0.5122,0.5238
-2024-08-11 11:03:14.047301,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Ole Miss To Make the 2024-2025 College Football Playoff,No,-0.012199999999999989,0.4878,0.5
 2024-08-11 23:02:50.019121,Championship - England Championship 2024/25 - To Be Promoted,Burnley,-0.012699999999999989,0.3509,0.3636
-2024-08-11 11:03:14.180096,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Utah To Make the 2024-2025 College Football Playoff,No,-0.01319999999999999,0.7368,0.75
-2024-08-11 23:02:50.028755,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,-0.013800000000000034,0.3636,0.3774
 2024-08-11 23:02:50.053890,Championship - England Championship 2024/25 - Top 6 Finish,Coventry City,-0.013800000000000034,0.3636,0.3774
+2024-08-11 23:02:50.028755,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,-0.013800000000000034,0.3636,0.3774
 2024-08-11 23:02:50.008083,Championship - England Championship 2024/25 - Top Goalscorer,Emmanuel Latte Lath,-0.013899999999999996,0.1111,0.125
 2024-08-11 23:02:50.046074,Championship - England Championship 2024/25 - Top 2 Finish,Norwich City,-0.013999999999999999,0.0769,0.0909
-2024-08-11 23:02:50.037733,Championship - England Championship 2024/25 - To Finish Bottom,Watford,-0.014099999999999998,0.0294,0.0435
 2024-08-11 23:02:50.028755,Championship - England Championship 2024/25 - To Be Relegated,Middlesbrough,-0.014099999999999998,0.0244,0.0385
+2024-08-11 23:02:50.037733,Championship - England Championship 2024/25 - To Finish Bottom,Watford,-0.014099999999999998,0.0294,0.0435
 2024-08-11 23:02:50.028755,Championship - England Championship 2024/25 - To Be Relegated,Luton Town,-0.014099999999999998,0.0244,0.0385
-2024-08-11 11:03:13.625215,NCAA Football Futures - 2024 SEC Conference Championship  - Championship Game Winner,Missouri,-0.014899999999999997,0.0476,0.0625
+2024-08-12 01:02:50.182663,Boxing Lines - Christian Mbilli vs Sergiy Derevyanchenko - To Win the Bout,Christian Mbilli,-0.015100000000000002,0.8182,0.8333
 2024-08-11 23:02:49.998315,Championship - England Championship 2024/25 - Winner,Leeds United,-0.016699999999999993,0.25,0.2667
 2024-08-11 23:02:50.037733,Championship - England Championship 2024/25 - To Finish Bottom,Cardiff City,-0.01759999999999999,0.1,0.1176
 2024-08-11 23:02:50.019121,Championship - England Championship 2024/25 - To Be Promoted,Blackburn Rovers,-0.018099999999999998,0.0588,0.0769
@@ -60,19 +55,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-11 23:02:50.028755,Championship - England Championship 2024/25 - To Be Relegated,Sheffield United,-0.018200000000000004,0.0294,0.0476
 2024-08-11 23:02:50.028755,Championship - England Championship 2024/25 - To Be Relegated,West Bromwich Albion,-0.018200000000000004,0.0294,0.0476
 2024-08-11 23:02:50.046074,Championship - England Championship 2024/25 - Top 2 Finish,Luton Town,-0.01820000000000002,0.1818,0.2
-2024-08-11 11:03:13.932650,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Michigan To Make the 2024-2025 College Football Playoff,Yes,-0.018900000000000028,0.4255,0.4444
 2024-08-11 23:02:50.053890,Championship - England Championship 2024/25 - Top 6 Finish,Norwich City,-0.019000000000000017,0.2667,0.2857
 2024-08-11 23:02:50.008083,Championship - England Championship 2024/25 - Top Goalscorer,Mateo Joseph,-0.02020000000000001,0.0909,0.1111
-2024-08-11 23:02:50.053890,Championship - England Championship 2024/25 - Top 6 Finish,Derby County,-0.02020000000000001,0.0909,0.1111
 2024-08-11 23:02:50.028755,Championship - England Championship 2024/25 - To Be Relegated,Sheffield Wednesday,-0.02020000000000001,0.0909,0.1111
+2024-08-11 23:02:50.053890,Championship - England Championship 2024/25 - Top 6 Finish,Derby County,-0.02020000000000001,0.0909,0.1111
 2024-08-11 23:02:50.037733,Championship - England Championship 2024/25 - To Finish Bottom,Sheffield Wednesday,-0.0203,0.0385,0.0588
-2024-08-11 11:03:14.085266,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Penn State To Make the 2024-2025 College Football Playoff,No,-0.021699999999999997,0.4545,0.4762
 2024-08-11 23:02:50.028755,Championship - England Championship 2024/25 - To Be Relegated,Hull City,-0.022199999999999998,0.1111,0.1333
-2024-08-11 23:02:50.019121,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,-0.023799999999999988,0.1429,0.1667
-2024-08-11 23:02:50.053890,Championship - England Championship 2024/25 - Top 6 Finish,Middlesbrough,-0.023799999999999988,0.4762,0.5
 2024-08-11 23:02:50.053890,Championship - England Championship 2024/25 - Top 6 Finish,Luton Town,-0.023799999999999988,0.4762,0.5
+2024-08-11 23:02:50.053890,Championship - England Championship 2024/25 - Top 6 Finish,Middlesbrough,-0.023799999999999988,0.4762,0.5
+2024-08-11 23:02:50.019121,Championship - England Championship 2024/25 - To Be Promoted,Sunderland,-0.023799999999999988,0.1429,0.1667
 2024-08-11 23:02:50.037733,Championship - England Championship 2024/25 - To Finish Bottom,Blackburn Rovers,-0.0242,0.0667,0.0909
 2024-08-11 23:02:50.046074,Championship - England Championship 2024/25 - Top 2 Finish,Leeds United,-0.025499999999999967,0.4,0.4255
+2024-08-12 01:02:30.756982,Euroleague - Euroleague 2024/25 - Outright,Panathinaikos,-0.02779999999999999,0.2222,0.25
 2024-08-11 23:02:50.053890,Championship - England Championship 2024/25 - Top 6 Finish,Bristol City,-0.027999999999999997,0.1538,0.1818
 2024-08-11 23:02:50.019121,Championship - England Championship 2024/25 - To Be Promoted,Derby County,-0.028199999999999996,0.0385,0.0667
 2024-08-11 23:02:50.028755,Championship - England Championship 2024/25 - To Be Relegated,Watford,-0.028799999999999992,0.125,0.1538
