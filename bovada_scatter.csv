@@ -17,8 +17,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-18 07:01:09.598408,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Tarik Skubal (DET),0.06669999999999998,0.9615,0.8948
 2024-08-18 03:00:32.710432,Scores - Final Round Score - Tommy Fleetwood - Final Round Score,Under 68.5,0.06230000000000002,0.6078,0.5455
 2024-08-18 07:01:11.166462,Rogers Charity Classic - Rogers Charity Classic - Winner,Boo Weekley,0.0573,0.0769,0.0196
-2024-08-18 05:01:12.528253,Scores - Final Round Score - Aaron Rai - Final Round Score,Over 68.5,0.05689999999999995,0.5917,0.5348
 2024-08-18 03:00:32.629292,Scores - Final Round Score - Patrick Cantlay - Final Round Score,Over 67.5,0.05689999999999995,0.5917,0.5348
+2024-08-18 05:01:12.528253,Scores - Final Round Score - Aaron Rai - Final Round Score,Over 68.5,0.05689999999999995,0.5917,0.5348
 2024-08-18 03:00:18.533462,National League - English National League - To Be Promoted,Barnet,0.055900000000000005,0.3636,0.3077
 2024-08-18 05:00:57.539571,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Fortaleza,0.05559999999999998,0.5556,0.5
 2024-08-18 05:00:57.545793,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Fortaleza,0.055499999999999994,0.8333,0.7778
@@ -29,6 +29,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-18 09:00:31.659278,Season Win Record Specials - Last Undefeated Team - Last Undefeated Team ,Detroit Lions,0.04169999999999999,0.1667,0.125
 2024-08-18 01:00:40.693465,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Aston Villa,0.04169999999999996,0.875,0.8333
 2024-08-18 03:00:18.009465,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Napoli,0.040999999999999925,0.7333,0.6923
+2024-08-18 11:00:16.058026,AAC Regular Season Wins - AAC Regular Season Wins - Florida Atlantic,Under 6.5 Wins,0.040999999999999925,0.6154,0.5744
+2024-08-18 11:00:17.802850,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Texas State,0.03570000000000001,0.2857,0.25
 2024-08-18 03:00:18.044604,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Lille,0.03570000000000001,0.2857,0.25
 2024-08-18 03:00:18.615403,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Bournemouth,0.035699999999999954,0.75,0.7143
 2024-08-18 05:00:57.545793,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Bahia,0.0348,0.4348,0.4
@@ -47,6 +49,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-18 05:01:10.946145,NFL Awards & League Leaders - NFL Season Requested Specials - Season Leader/Awards Requested Parlays,Patrick Mahomes Regular Season MVP & Caleb Williams Offensive Rookie Of The Year,0.028399999999999995,0.0909,0.0625
 2024-08-18 03:00:18.525275,National League - English National League - Outright Winner 2024/25,Barnet,0.027999999999999997,0.1818,0.1538
 2024-08-18 05:00:57.527230,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Fortaleza,0.0267,0.1176,0.0909
+2024-08-18 11:00:17.741397,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,UTSA,0.02560000000000001,0.1923,0.1667
 2024-08-18 05:00:57.839918,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,Sporting CP,0.025499999999999967,0.4255,0.4
 2024-08-18 03:00:18.533462,National League - English National League - To Be Promoted,Gateshead,0.025300000000000003,0.1429,0.1176
 2024-08-18 03:00:18.533462,National League - English National League - To Be Promoted,Solihull Moors,0.025300000000000003,0.1429,0.1176
@@ -55,21 +58,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-18 03:00:18.031547,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Mason Greenwood (Marseille),0.0242,0.0909,0.0667
 2024-08-18 05:01:12.713122,Scores - Final Round Score - Sam Burns - Final Round Score,Over 68.5,0.023800000000000043,0.5238,0.5
 2024-08-18 01:00:40.700032,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Ipswich Town,0.023800000000000043,0.5238,0.5
-2024-08-18 05:01:12.012960,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - B. Todd v A. Noren - Final Round 2 Balls,Brendon Todd,0.023799999999999988,0.5,0.4762
 2024-08-18 03:00:18.463651,Super Lig - Turkey Super Lig 2024/25 - Outright,Galatasaray,0.023799999999999988,0.5,0.4762
+2024-08-18 05:01:12.012960,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - B. Todd v A. Noren - Final Round 2 Balls,Brendon Todd,0.023799999999999988,0.5,0.4762
 2024-08-18 03:00:18.615403,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Chelsea,0.023799999999999988,0.1667,0.1429
 2024-08-18 09:00:32.937160,Conference USA Regular Season Wins - Conference USA Regular Season Wins - New Mexico,Under 2.5 Wins,0.023699999999999943,0.6154,0.5917
-2024-08-18 01:00:40.693465,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Fulham,0.022199999999999998,0.2222,0.2
-2024-08-18 01:00:40.700032,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Nottingham Forest,0.022199999999999998,0.8,0.7778
 2024-08-18 01:00:40.693465,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Brentford,0.022199999999999998,0.2222,0.2
+2024-08-18 01:00:40.700032,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Nottingham Forest,0.022199999999999998,0.8,0.7778
+2024-08-18 01:00:40.693465,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Fulham,0.022199999999999998,0.2222,0.2
 2024-08-18 01:00:40.660233,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Everton,0.021999999999999964,0.3077,0.2857
 2024-08-18 03:00:17.997379,Serie A - Italy Serie A 2024/25 - To Be Relegated,Hellas Verona,0.021699999999999997,0.4762,0.4545
-2024-08-18 05:01:12.835886,Scores - Final Round Score - Xander Schauffele - Final Round Score,Under 67.5,0.02169999999999994,0.5455,0.5238
 2024-08-18 03:00:18.615403,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,West Ham United,0.02169999999999994,0.5455,0.5238
+2024-08-18 05:01:12.835886,Scores - Final Round Score - Xander Schauffele - Final Round Score,Under 67.5,0.02169999999999994,0.5455,0.5238
 2024-08-18 03:00:18.504433,Primera Division - Chile Primera Division 2024 - Futures - Winner,Universidad de Chile,0.02100000000000002,0.3846,0.3636
 2024-08-18 05:01:11.683142,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - M. Greyserman v C. Young - Final Round 2 Balls,Cameron Young,0.02079999999999993,0.5556,0.5348
 2024-08-18 07:01:09.712982,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Tanner Scott (SD),0.0203,0.0588,0.0385
 2024-08-18 05:00:57.869811,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Vélez Sarsfield,0.02020000000000001,0.1111,0.0909
+2024-08-18 11:00:07.538511,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Illinois,0.02020000000000001,0.1111,0.0909
 2024-08-18 05:01:11.734708,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - B. Harman v M. Hughes - Final Round 2 Balls,Brian Harman,0.01970000000000005,0.5652,0.5455
 2024-08-18 09:00:31.659278,Season Win Record Specials - Last Undefeated Team - Last Undefeated Team ,Miami Dolphins,0.01949999999999999,0.0909,0.0714
 2024-08-18 03:00:18.413558,Serie B - Italy Serie B 2024/25 - To Be Promoted,Salernitana,0.019000000000000017,0.2857,0.2667
@@ -86,6 +90,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-18 03:00:18.533462,National League - English National League - To Be Promoted,Eastleigh,0.018099999999999998,0.0769,0.0588
 2024-08-18 05:00:57.472678,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Winner,Philadelphia Union,0.0179,0.1429,0.125
 2024-08-18 09:00:31.659278,Season Win Record Specials - Last Undefeated Team - Last Undefeated Team ,San Francisco 49ers,0.0179,0.1429,0.125
+2024-08-18 11:00:17.296932,Non Conference Regular Season Wins - Non Conference Regular Season Wins - Connecticut,Over 4.5,0.017299999999999982,0.5917,0.5744
+2024-08-18 11:00:17.848137,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Kyron Drones,0.017099999999999997,0.0294,0.0123
 2024-08-18 03:00:18.038405,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Brest,0.016700000000000007,0.1,0.0833
 2024-08-18 03:00:21.765332,Joe Biden Specials - Will Hunter Biden be pardoned by Joe Biden in his first term as president? - Will Joe Biden pardon Hunter Biden?,Yes,0.016699999999999993,0.2667,0.25
 2024-08-18 09:00:31.659278,Season Win Record Specials - Last Undefeated Team - Last Undefeated Team ,Seattle Seahawks,0.0157,0.0435,0.0278
@@ -100,7 +106,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-18 03:00:17.990697,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Alvaro Morata (AC Milan),0.013999999999999999,0.0909,0.0769
 2024-08-18 05:00:57.472678,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Winner,Colorado Rapids,0.013899999999999996,0.125,0.1111
 2024-08-18 03:00:18.376526,Ligue 2 - France Ligue 2 2024/25 - Outright,Paris FC,0.013899999999999996,0.125,0.1111
+2024-08-18 11:00:18.429206,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Christian McCaffrey (SF),0.012700000000000003,0.0323,0.0196
+2024-08-18 11:00:18.429206,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Jalen Hurts (PHI),0.012600000000000007,0.0714,0.0588
+2024-08-18 11:00:16.092768,AAC Regular Season Wins - AAC Regular Season Wins - North Texas,Under 5.5 Wins,0.012199999999999989,0.5,0.4878
 2024-08-18 01:00:40.660233,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Southampton,0.011600000000000055,0.5238,0.5122
+2024-08-18 11:00:16.139721,AAC Regular Season Wins - AAC Regular Season Wins - South Florida,Over 7.5 Wins,0.0116,0.4878,0.4762
 2024-08-18 05:00:57.527230,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Flamengo,0.011599999999999944,0.5464,0.5348
 2024-08-18 01:00:40.673525,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Aston Villa,0.011199999999999995,0.0588,0.0476
 2024-08-18 01:00:40.660233,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,West Ham United,0.011199999999999995,0.0588,0.0476
@@ -110,49 +120,53 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-18 03:00:18.525275,National League - English National League - Outright Winner 2024/25,Eastleigh,0.010700000000000001,0.0385,0.0278
 2024-08-18 07:01:10.821618,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 66.5,0.010699999999999932,0.5455,0.5348
 2024-08-18 05:00:57.533421,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Cuiabá,0.010400000000000076,0.7778,0.7674
-2024-08-18 03:00:18.273143,League One - England League One 2024/25 - Top 6 Finish,Crawley Town,0.0102,0.0769,0.0667
-2024-08-18 05:00:57.869811,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Independiente,0.0102,0.0769,0.0667
 2024-08-18 01:00:40.666867,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Wolverhampton Wanderers,0.0102,0.0769,0.0667
-2024-08-18 01:00:40.673525,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Tottenham Hotspur,0.0102,0.0769,0.0667
+2024-08-18 05:00:57.869811,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Independiente,0.0102,0.0769,0.0667
 2024-08-18 03:00:18.525275,National League - English National League - Outright Winner 2024/25,Solihull Moors,0.0102,0.0769,0.0667
-2024-08-18 01:00:40.693465,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Newcastle United,0.010199999999999987,0.9333,0.9231
+2024-08-18 01:00:40.673525,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Tottenham Hotspur,0.0102,0.0769,0.0667
+2024-08-18 03:00:18.273143,League One - England League One 2024/25 - Top 6 Finish,Crawley Town,0.0102,0.0769,0.0667
 2024-08-18 01:00:40.693465,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Tottenham Hotspur,0.010199999999999987,0.9333,0.9231
+2024-08-18 01:00:40.693465,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Newcastle United,0.010199999999999987,0.9333,0.9231
 2024-08-18 03:00:17.990697,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Mateo Reteguei (Genoa),0.010100000000000001,0.0345,0.0244
 2024-08-18 07:01:09.693915,MLB Futures - MLB 2024 Player Awards - National League MVP,Ketel Marte (ARI),-0.010099999999999998,0.0952,0.1053
-2024-08-18 03:00:18.038405,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Angers,-0.010099999999999998,0.4444,0.4545
 2024-08-18 03:00:17.997379,Serie A - Italy Serie A 2024/25 - To Be Relegated,Empoli,-0.010099999999999998,0.5455,0.5556
-2024-08-18 07:01:09.655853,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Paul Skenes (PIT),-0.0102,0.0667,0.0769
-2024-08-18 03:00:18.525275,National League - English National League - Outright Winner 2024/25,Hartlepool United,-0.0102,0.0667,0.0769
+2024-08-18 03:00:18.038405,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Angers,-0.010099999999999998,0.4444,0.4545
 2024-08-18 03:00:18.525275,National League - English National League - Outright Winner 2024/25,Rochdale,-0.0102,0.0667,0.0769
-2024-08-18 01:00:40.693465,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Southampton,-0.0102,0.0667,0.0769
 2024-08-18 03:00:18.533462,National League - English National League - To Be Promoted,Yeovil Town,-0.0102,0.0667,0.0769
+2024-08-18 01:00:40.693465,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Southampton,-0.0102,0.0667,0.0769
+2024-08-18 07:01:09.655853,MLB Futures - MLB 2024 Player Awards - National League Cy Young,Paul Skenes (PIT),-0.0102,0.0667,0.0769
+2024-08-18 11:00:17.741397,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,Rice,-0.0102,0.0667,0.0769
+2024-08-18 03:00:18.525275,National League - English National League - Outright Winner 2024/25,Hartlepool United,-0.0102,0.0667,0.0769
 2024-08-18 03:00:21.753946,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,No,-0.010499999999999982,0.2,0.2105
-2024-08-18 07:01:09.621146,MLB Futures - MLB 2024 Player Awards - American League MVP,Bobby Witt Jr. (KC),-0.010899999999999993,0.1429,0.1538
 2024-08-18 03:00:18.376526,Ligue 2 - France Ligue 2 2024/25 - Outright,Rodez Aveyron,-0.010899999999999993,0.1429,0.1538
+2024-08-18 07:01:09.621146,MLB Futures - MLB 2024 Player Awards - American League MVP,Bobby Witt Jr. (KC),-0.010899999999999993,0.1429,0.1538
 2024-08-18 09:00:26.521974,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Cleveland Browns,-0.0109,0.0417,0.0526
 2024-08-18 03:00:18.615403,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Brentford,-0.01090000000000002,0.8462,0.8571
 2024-08-18 03:00:18.615403,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Fulham,-0.01090000000000002,0.8462,0.8571
 2024-08-18 07:01:10.821618,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Under 66.5,-0.01100000000000001,0.5238,0.5348
-2024-08-18 07:01:10.436383,Round Match-Ups - Final Round Match-Up - C. Bezuidenhout vs E. Van Rooyen - Final Round Match-Up,Erik Van Rooyen,-0.011099999999999999,0.4651,0.4762
-2024-08-18 03:00:18.615403,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Manchester United,-0.011099999999999999,0.1,0.1111
 2024-08-18 07:01:10.125856,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - C. Bezuidenhout v V. Perez - Final Round 2 Balls,Victor Perez,-0.011099999999999999,0.4651,0.4762
+2024-08-18 03:00:18.615403,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Manchester United,-0.011099999999999999,0.1,0.1111
 2024-08-18 03:00:18.615403,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Manchester City,-0.011099999999999999,0.1,0.1111
+2024-08-18 07:01:10.436383,Round Match-Ups - Final Round Match-Up - C. Bezuidenhout vs E. Van Rooyen - Final Round Match-Up,Erik Van Rooyen,-0.011099999999999999,0.4651,0.4762
+2024-08-18 11:00:16.158821,AAC Regular Season Wins - AAC Regular Season Wins - Temple,Over 2.5 Wins,-0.011099999999999999,0.4651,0.4762
+2024-08-18 09:00:26.521974,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Los Angeles Chargers,-0.011199999999999995,0.0323,0.0435
 2024-08-18 01:00:40.660233,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Brighton & Hove Albion,-0.011199999999999995,0.0476,0.0588
 2024-08-18 03:00:18.031547,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Iuri Moreira (Marseille),-0.011199999999999995,0.0476,0.0588
 2024-08-18 03:00:18.024964,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Brest,-0.011199999999999995,0.0476,0.0588
-2024-08-18 09:00:26.521974,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Los Angeles Chargers,-0.011199999999999995,0.0323,0.0435
-2024-08-18 01:00:40.639168,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Southampton,-0.012100000000000001,0.0123,0.0244
+2024-08-18 11:00:17.296932,Non Conference Regular Season Wins - Non Conference Regular Season Wins - Connecticut,Under 4.5,-0.0116,0.4762,0.4878
 2024-08-18 07:01:11.166462,Rogers Charity Classic - Rogers Charity Classic - Winner,Y.E. Yang,-0.012100000000000001,0.0123,0.0244
+2024-08-18 01:00:40.639168,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Southampton,-0.012100000000000001,0.0123,0.0244
 2024-08-18 07:01:09.724540,MLB Futures - MLB 2024 Player Awards - National League ROY,Paul Skenes (PIT),-0.012299999999999978,0.6429,0.6552
 2024-08-18 01:00:40.639168,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Leicester City,-0.013,0.0066,0.0196
 2024-08-18 07:01:10.729073,Scores - Final Round Score - Hideki Matsuyama - Final Round Score,Over 67.5,-0.013799999999999923,0.6226,0.6364
 2024-08-18 07:01:09.636677,MLB Futures - MLB 2024 Player Awards - American League ROY,Colton Cowser (BAL),-0.013899999999999912,0.7778,0.7917
-2024-08-18 03:00:18.615403,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Newcastle United,-0.013899999999999996,0.1111,0.125
 2024-08-18 03:00:18.615403,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Tottenham Hotspur,-0.013899999999999996,0.1111,0.125
+2024-08-18 03:00:18.615403,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Newcastle United,-0.013899999999999996,0.1111,0.125
 2024-08-18 03:00:18.525275,National League - English National League - Outright Winner 2024/25,Southend Utd,-0.013999999999999999,0.0769,0.0909
-2024-08-18 03:00:18.031547,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Folarin Balogun (Monaco),-0.013999999999999999,0.0769,0.0909
-2024-08-18 03:00:18.533462,National League - English National League - To Be Promoted,Halifax Town,-0.013999999999999999,0.0769,0.0909
 2024-08-18 03:00:18.533462,National League - English National League - To Be Promoted,Altrincham,-0.013999999999999999,0.0769,0.0909
+2024-08-18 03:00:18.031547,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Folarin Balogun (Monaco),-0.013999999999999999,0.0769,0.0909
+2024-08-18 11:00:17.802850,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,South Alabama,-0.013999999999999999,0.0769,0.0909
+2024-08-18 03:00:18.533462,National League - English National League - To Be Promoted,Halifax Town,-0.013999999999999999,0.0769,0.0909
 2024-08-18 03:00:18.533462,National League - English National League - To Be Promoted,Maidenhead United,-0.014099999999999994,0.0526,0.0667
 2024-08-18 05:00:57.465159,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Top Goalscorer,Mateusz Bogusz,-0.014199999999999999,0.0152,0.0294
 2024-08-18 03:00:18.044604,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Reims,-0.01440000000000001,0.0909,0.1053
@@ -160,36 +174,38 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-18 05:00:57.465159,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Top Goalscorer,Olivier Giroud,-0.014599999999999998,0.005,0.0196
 2024-08-18 03:00:19.126488,Royal Family - Harry & Meghan: 2024 Specials - 2024 Specials,Harry & Meghan to relocate and make UK their main residence,-0.014899999999999997,0.0476,0.0625
 2024-08-18 03:00:19.126488,Royal Family - Harry & Meghan: 2024 Specials - 2024 Specials,Harry to entirely shave his head,-0.014899999999999997,0.0476,0.0625
-2024-08-18 07:01:09.636677,MLB Futures - MLB 2024 Player Awards - American League ROY,Luis Gil (NYY),-0.015100000000000002,0.1667,0.1818
-2024-08-18 03:00:18.533462,National League - English National League - To Be Promoted,Oldham Athletic,-0.015100000000000002,0.1667,0.1818
-2024-08-18 03:00:18.326329,First Division A - Belgium First Division A 2024/25 - Outright,Royal Antwerp,-0.015100000000000002,0.1667,0.1818
 2024-08-18 01:00:40.573880,Super League - Greece Super League 2024/25 - Winner,Panathinaikos,-0.015100000000000002,0.1667,0.1818
+2024-08-18 03:00:18.326329,First Division A - Belgium First Division A 2024/25 - Outright,Royal Antwerp,-0.015100000000000002,0.1667,0.1818
 2024-08-18 01:00:40.700032,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Wolverhampton Wanderers,-0.015100000000000002,0.8182,0.8333
 2024-08-18 01:00:40.660233,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Fulham,-0.015100000000000002,0.1667,0.1818
+2024-08-18 07:01:09.636677,MLB Futures - MLB 2024 Player Awards - American League ROY,Luis Gil (NYY),-0.015100000000000002,0.1667,0.1818
+2024-08-18 03:00:18.533462,National League - English National League - To Be Promoted,Oldham Athletic,-0.015100000000000002,0.1667,0.1818
 2024-08-18 03:00:18.003458,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Parma,-0.015700000000000006,0.1176,0.1333
 2024-08-18 03:00:18.038405,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Nantes,-0.016699999999999993,0.25,0.2667
 2024-08-18 03:00:18.038405,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Strasbourg,-0.016699999999999993,0.25,0.2667
+2024-08-18 11:00:16.139721,AAC Regular Season Wins - AAC Regular Season Wins - South Florida,Under 7.5 Wins,-0.017299999999999982,0.5744,0.5917
 2024-08-18 03:00:18.533462,National League - English National League - To Be Promoted,Dagenham & Redbridge,-0.01759999999999999,0.1,0.1176
 2024-08-18 03:00:18.453479,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,Djurgårdens,-0.0179,0.125,0.1429
+2024-08-18 11:00:17.741397,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,South Florida,-0.0179,0.125,0.1429
 2024-08-18 01:00:40.660233,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Bournemouth,-0.0179,0.125,0.1429
 2024-08-18 03:00:21.765332,Joe Biden Specials - Will Hunter Biden be pardoned by Joe Biden in his first term as president? - Will Joe Biden pardon Hunter Biden?,No,-0.018199999999999994,0.8,0.8182
-2024-08-18 01:00:40.639168,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Crystal Palace,-0.018200000000000004,0.0294,0.0476
 2024-08-18 01:00:40.639168,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Bournemouth,-0.018200000000000004,0.0294,0.0476
 2024-08-18 03:00:18.525275,National League - English National League - Outright Winner 2024/25,AFC Fylde,-0.018200000000000004,0.0294,0.0476
+2024-08-18 01:00:40.639168,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Crystal Palace,-0.018200000000000004,0.0294,0.0476
 2024-08-18 01:00:40.700032,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Southampton,-0.01880000000000004,0.5556,0.5744
 2024-08-18 01:00:40.660233,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Nottingham Forest,-0.019000000000000017,0.2667,0.2857
 2024-08-18 03:00:18.376526,Ligue 2 - France Ligue 2 2024/25 - Outright,SM Caen,-0.019099999999999992,0.0476,0.0667
 2024-08-18 01:00:40.639168,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Everton,-0.019600000000000003,0.0149,0.0345
 2024-08-18 05:01:12.012960,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - B. Todd v A. Noren - Final Round 2 Balls,Alex Noren,-0.01970000000000005,0.5455,0.5652
 2024-08-18 05:01:12.713122,Scores - Final Round Score - Sam Burns - Final Round Score,Under 68.5,-0.01970000000000005,0.5455,0.5652
-2024-08-18 03:00:17.997379,Serie A - Italy Serie A 2024/25 - To Be Relegated,Lecce,-0.020100000000000007,0.2299,0.25
 2024-08-18 01:00:40.700032,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Everton,-0.020100000000000007,0.75,0.7701
+2024-08-18 03:00:17.997379,Serie A - Italy Serie A 2024/25 - To Be Relegated,Lecce,-0.020100000000000007,0.2299,0.25
 2024-08-18 01:00:40.693465,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Chelsea,-0.020199999999999996,0.8889,0.9091
 2024-08-18 05:01:12.106203,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - S. Power v A. Bhatia - Final Round 2 Balls,Akshay Bhatia,-0.02079999999999993,0.5348,0.5556
 2024-08-18 01:00:40.573880,Super League - Greece Super League 2024/25 - Winner,AEK Athens,-0.020799999999999985,0.3125,0.3333
 2024-08-18 05:00:57.539571,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Flamengo,-0.02080000000000004,0.9167,0.9375
-2024-08-18 01:00:40.639168,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Newcastle United,-0.02169999999999994,0.5238,0.5455
 2024-08-18 05:01:12.835886,Scores - Final Round Score - Xander Schauffele - Final Round Score,Over 67.5,-0.02169999999999994,0.5238,0.5455
+2024-08-18 01:00:40.639168,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Newcastle United,-0.02169999999999994,0.5238,0.5455
 2024-08-18 09:00:32.937160,Conference USA Regular Season Wins - Conference USA Regular Season Wins - New Mexico,Over 2.5 Wins,-0.021699999999999997,0.4545,0.4762
 2024-08-18 07:01:11.166462,Rogers Charity Classic - Rogers Charity Classic - Winner,Scott Parel,-0.022099999999999998,0.0164,0.0385
 2024-08-18 03:00:18.044604,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Brest,-0.022199999999999998,0.1111,0.1333
@@ -200,21 +216,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-18 03:00:18.413558,Serie B - Italy Serie B 2024/25 - To Be Promoted,Bari,-0.0242,0.0667,0.0909
 2024-08-18 03:00:18.615403,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Nottingham Forest,-0.0242,0.9091,0.9333
 2024-08-18 05:01:11.683142,FedEx St. Jude Championship - 2/3 Balls - Final Round 2 Balls - M. Greyserman v C. Young - Final Round 2 Balls,Max Greyserman,-0.024399999999999977,0.4878,0.5122
-2024-08-18 05:00:57.545793,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,RB Bragantino,-0.025300000000000003,0.1176,0.1429
 2024-08-18 09:00:26.521974,AFC Championship - AFC Championship 2024/25 - AFC Champion 2024/25,Buffalo Bills,-0.025300000000000003,0.1176,0.1429
+2024-08-18 05:00:57.545793,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,RB Bragantino,-0.025300000000000003,0.1176,0.1429
 2024-08-18 03:00:18.413558,Serie B - Italy Serie B 2024/25 - To Be Promoted,Sassuolo,-0.025499999999999967,0.4,0.4255
-2024-08-18 03:00:18.038405,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Le Havre,-0.02560000000000001,0.3077,0.3333
 2024-08-18 03:00:18.009465,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AS Roma,-0.02560000000000001,0.3077,0.3333
+2024-08-18 03:00:18.038405,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Le Havre,-0.02560000000000001,0.3077,0.3333
 2024-08-18 03:00:18.525275,National League - English National League - Outright Winner 2024/25,Forest Green Rovers,-0.0267,0.0909,0.1176
 2024-08-18 03:00:18.533462,National League - English National League - To Be Promoted,York City,-0.0267,0.0909,0.1176
 2024-08-18 01:00:40.660233,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Manchester City,-0.027800000000000005,0.0833,0.1111
 2024-08-18 01:00:40.693465,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,West Ham United,-0.028900000000000037,0.5455,0.5744
 2024-08-18 05:01:12.602674,Scores - Final Round Score - Hideki Matsuyama - Final Round Score,Under 67.5,-0.029000000000000026,0.4255,0.4545
 2024-08-18 01:00:40.639168,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",West Ham United,-0.029299999999999993,0.0476,0.0769
-2024-08-18 03:00:17.990697,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Lautaro Martinez (Inter Milan),-0.030299999999999994,0.3333,0.3636
 2024-08-18 03:00:17.997379,Serie A - Italy Serie A 2024/25 - To Be Relegated,Parma,-0.030299999999999994,0.3333,0.3636
+2024-08-18 03:00:17.990697,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Lautaro Martinez (Inter Milan),-0.030299999999999994,0.3333,0.3636
 2024-08-18 03:00:18.463651,Super Lig - Turkey Super Lig 2024/25 - Outright,Fenerbahce,-0.03179999999999994,0.5238,0.5556
 2024-08-18 03:00:18.533462,National League - English National League - To Be Promoted,AFC Fylde,-0.0321,0.0588,0.0909
+2024-08-18 11:00:16.058026,AAC Regular Season Wins - AAC Regular Season Wins - Florida Atlantic,Over 6.5 Wins,-0.033299999999999996,0.4545,0.4878
 2024-08-18 01:00:40.693465,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Everton,-0.033300000000000024,0.1667,0.2
 2024-08-18 03:00:18.533462,National League - English National League - To Be Promoted,Forest Green Rovers,-0.033300000000000024,0.1667,0.2
 2024-08-18 05:00:57.465159,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Top Goalscorer,Cristian Olivera,-0.033399999999999985,0.1333,0.1667
@@ -228,9 +245,10 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-18 07:01:11.166462,Rogers Charity Classic - Rogers Charity Classic - Winner,K.J. Choi,-0.0448,0.0385,0.0833
 2024-08-18 01:00:40.693465,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Wolverhampton Wanderers,-0.04620000000000002,0.1538,0.2
 2024-08-18 05:00:57.465159,Leagues Cup - 2024 - Leagues Cup 2024 - Futures - Top Goalscorer,Rafael Leal Navarro,-0.0465,0.0123,0.0588
+2024-08-18 09:00:32.926629,Conference USA Regular Season Wins - Conference USA Regular Season Wins - Middle Tennessee,Under 4.5 Wins,-0.04760000000000003,0.4762,0.5238
 2024-08-18 01:00:40.693465,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Bournemouth,-0.055900000000000005,0.3077,0.3636
-2024-08-18 03:00:32.629292,Scores - Final Round Score - Patrick Cantlay - Final Round Score,Under 67.5,-0.05860000000000004,0.4762,0.5348
 2024-08-18 05:01:12.528253,Scores - Final Round Score - Aaron Rai - Final Round Score,Under 68.5,-0.05860000000000004,0.4762,0.5348
+2024-08-18 03:00:32.629292,Scores - Final Round Score - Patrick Cantlay - Final Round Score,Under 67.5,-0.05860000000000004,0.4762,0.5348
 2024-08-18 03:00:32.710432,Scores - Final Round Score - Tommy Fleetwood - Final Round Score,Over 68.5,-0.06930000000000003,0.4545,0.5238
 2024-08-17 23:00:32.844064,Regular Season Wins O/U - Connecticut Sun- 2024 Regular Season Wins - Connecticut Sun- 2024 Regular Season Wins,Under 28.5,-0.07939999999999997,0.4762,0.5556
 2024-08-18 07:01:09.598408,MLB Futures - MLB 2024 Player Awards - American League Cy Young,Corbin Burnes (BAL),-0.083,0.0909,0.1739
