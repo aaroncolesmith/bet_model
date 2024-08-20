@@ -10,56 +10,33 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-20 03:00:58.686603,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Atalanta,0.05379999999999999,0.1538,0.1
 2024-08-20 03:00:58.700285,Serie A - Italy Serie A 2024/25 - To Be Relegated,Parma,0.05130000000000001,0.3846,0.3333
 2024-08-20 03:00:59.188535,Super Lig - Turkey Super Lig 2024/25 - Outright,Besiktas,0.04849999999999999,0.1818,0.1333
-2024-08-20 03:00:58.902486,La Liga - Spain La Liga 2024/25 - To Be Relegated,Celta de Vigo,0.048100000000000004,0.125,0.0769
 2024-08-20 05:01:10.695677,Presidential Debates - ABC Debate Sept 10th: Colour Of Kamala Harris' Outfit - Colour Of Harris' Outfit,White/Cream,0.048100000000000004,0.125,0.0769
+2024-08-20 03:00:58.902486,La Liga - Spain La Liga 2024/25 - To Be Relegated,Celta de Vigo,0.048100000000000004,0.125,0.0769
 2024-08-20 05:01:06.897750,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Tucker Des Lauriers,0.042899999999999994,0.1429,0.1
-2024-08-20 01:00:22.480260,MLB Futures - MLB 2024 American League Central - American League Central Winner,Kansas City Royals,0.04169999999999999,0.1667,0.125
 2024-08-20 05:01:06.897750,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Leah Peters,0.04169999999999999,0.1667,0.125
+2024-08-20 01:00:22.480260,MLB Futures - MLB 2024 American League Central - American League Central Winner,Kansas City Royals,0.04169999999999999,0.1667,0.125
 2024-08-20 05:01:10.596631,Joe Biden Specials - Will Joe Biden finish his first term? - Will Joe Biden finish his first term as President?,Yes,0.04169999999999996,0.875,0.8333
 2024-08-20 05:01:10.608521,Joe Biden Specials - Will Hunter Biden be pardoned by Joe Biden in his first term as president? - Will Joe Biden pardon Hunter Biden?,Yes,0.04099999999999998,0.3077,0.2667
 2024-08-20 03:00:59.087238,Ligue 2 - France Ligue 2 2024/25 - Outright,Lorient,0.04040000000000002,0.2222,0.1818
 2024-08-20 03:00:58.791411,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Vasco da Gama,0.03889999999999999,0.1818,0.1429
 2024-08-20 03:00:58.909038,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Mallorca,0.0384,0.0769,0.0385
 2024-08-19 19:02:23.554173,NFC South - NFC South 2024/25 - NFC South Winner,Tampa Bay Buccaneers,0.03749999999999998,0.2597,0.2222
-2024-08-20 03:00:59.344298,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Kevin de Bruyne,0.03570000000000001,0.2857,0.25
+2024-08-20 07:00:53.952004,NFL Awards & League Leaders - NFL Honors - Defensive Rookie of the Year (Regular Season 2024/25 DROY),Marshawn Kneeland (DAL),0.036199999999999996,0.0526,0.0164
 2024-08-20 05:01:10.533891,Donald Trump Specials - Donald Trump to be a guest on The Joe Rogan Experience - Trump & Joe Rogan,Trump to guest on The Joe Rogan Experience before the 2024 presidential election,0.03570000000000001,0.2857,0.25
+2024-08-20 03:00:59.344298,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Kevin de Bruyne,0.03570000000000001,0.2857,0.25
 2024-08-20 03:00:59.066301,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,AGF Aarhus,0.0353,0.8,0.7647
 2024-08-20 05:01:10.721349,US Senate Elections 2024 - Number of Republican Senate seats after Election? - Number of Republican Senate seats after Election?,49 or fewer,0.033300000000000024,0.2,0.1667
 2024-08-20 03:00:58.712639,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Atalanta,0.031799999999999995,0.4762,0.4444
 2024-08-20 01:00:08.464126,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Tottenham Hotspur,0.031799999999999995,0.1429,0.1111
 2024-08-19 21:02:37.995331,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Southampton,0.03179999999999994,0.5556,0.5238
-2024-08-19 17:01:51.423691,Average Threes Made Per Game - Average Threes Per Game  - Desmond Bane (MEM) - Threes Per Game,Over 2.9,0.030399999999999983,0.5652,0.5348
-2024-08-19 17:01:51.493237,Average Threes Made Per Game - Average Threes Per Game  - Klay Thompson (DAL) - Threes Per Game,Under 3.6,0.030399999999999983,0.5652,0.5348
-2024-08-19 17:01:50.684570,Average Assists Per Game - Average Assists Per Game  - Cade Cunningham (DET) - APG,Under 8.4,0.030399999999999983,0.5652,0.5348
-2024-08-19 17:01:51.510701,Average Threes Made Per Game - Average Threes Per Game  - LaMelo Ball (CHA) - Threes Per Game,Under 3.7,0.030399999999999983,0.5652,0.5348
-2024-08-19 17:01:51.580852,Average Threes Made Per Game - Average Threes Per Game  - Luka Doncic (DAL) - Threes Per Game,Under 4.1,0.030399999999999983,0.5652,0.5348
-2024-08-19 17:01:51.432391,Average Threes Made Per Game - Average Threes Per Game  - Donovan Mitchell (CLE) - Threes Per Game,Under 3.7,0.030399999999999983,0.5652,0.5348
-2024-08-19 17:01:51.449767,Average Threes Made Per Game - Average Threes Per Game  - Fred VanVleet (HOU) - Threes Per Game,Under 3.2,0.030399999999999983,0.5652,0.5348
-2024-08-19 17:01:51.280950,Average Rebounds Per Game - Average Rebounds Per Game - Ivica Zubac (LAC) - RPG,Over 9.5,0.030399999999999983,0.5652,0.5348
-2024-08-19 17:01:51.563413,Average Threes Made Per Game - Average Threes Per Game  - Tyler Herro (MIA) - Threes Per Game,Under 3.4,0.030399999999999983,0.5652,0.5348
-2024-08-19 17:01:51.263564,Average Rebounds Per Game - Average Rebounds Per Game - Evan Mobley (CLE) - RPG,Over 9.6,0.030399999999999983,0.5652,0.5348
-2024-08-19 17:01:51.254850,Average Rebounds Per Game - Average Rebounds Per Game - Donovan Clingan (POR) - RPG,Under 6.9,0.030399999999999983,0.5652,0.5348
-2024-08-19 17:01:51.554618,Average Threes Made Per Game - Average Threes Per Game  - Trae Young (ATL) - Threes Per Game,Over 3.1,0.030399999999999983,0.5652,0.5348
-2024-08-19 17:01:51.458479,Average Threes Made Per Game - Average Threes Per Game  - Immanuel Quickley (TOR) - Threes Per Game,Under 3.1,0.030399999999999983,0.5652,0.5348
-2024-08-19 17:01:51.484538,Average Threes Made Per Game - Average Threes Per Game  - Jayson Tatum (BOS) - Threes Per Game,Under 3.4,0.030399999999999983,0.5652,0.5348
-2024-08-19 17:01:51.519356,Average Threes Made Per Game - Average Threes Per Game  - Lauri Markkanen (UTA) - Threes Per Game,Under 3.4,0.030399999999999983,0.5652,0.5348
-2024-08-19 17:01:51.380128,Average Threes Made Per Game - Average Threes Per Game  - Anfernee Simons (POR) - Threes Per Game,Under 3.8,0.030399999999999983,0.5652,0.5348
-2024-08-19 17:01:50.744558,Average Assists Per Game - Average Assists Per Game  - Donovan Mitchell (CLE) - APG,Under 6.4,0.030399999999999983,0.5652,0.5348
-2024-08-19 17:01:50.839355,Average Assists Per Game - Average Assists Per Game  - Nikola Jokic (DEN) - APG,Under 9.6,0.030399999999999983,0.5652,0.5348
-2024-08-19 17:01:50.718835,Average Assists Per Game - Average Assists Per Game  - De'Aaron Fox (SAC) - APG,Under 6.1,0.030399999999999983,0.5652,0.5348
-2024-08-19 17:01:50.710280,Average Assists Per Game - Average Assists Per Game  - Darius Garland (CLE) - APG,Under 7.1,0.030399999999999983,0.5652,0.5348
-2024-08-19 17:01:50.693163,Average Assists Per Game - Average Assists Per Game  - Chris Paul (SAS) - APG,Over 6.6,0.030399999999999983,0.5652,0.5348
-2024-08-19 17:01:50.761690,Average Assists Per Game - Average Assists Per Game  - Fred VanVleet (HOU) - APG,Over 7.4,0.030399999999999983,0.5652,0.5348
-2024-08-19 17:01:50.701692,Average Assists Per Game - Average Assists Per Game  - Damian Lillard (MIL) - APG,Under 7.3,0.030399999999999983,0.5652,0.5348
-2024-08-19 17:01:50.813531,Average Assists Per Game - Average Assists Per Game  - LaMelo Ball (CHA) - APG,Under 8.7,0.030399999999999983,0.5652,0.5348
 2024-08-20 03:00:58.902486,La Liga - Spain La Liga 2024/25 - To Be Relegated,Real Sociedad,0.0294,0.0588,0.0294
 2024-08-20 03:00:58.700285,Serie A - Italy Serie A 2024/25 - To Be Relegated,Cagliari,0.029000000000000026,0.4545,0.4255
 2024-08-20 05:01:10.695677,Presidential Debates - ABC Debate Sept 10th: Colour Of Kamala Harris' Outfit - Colour Of Harris' Outfit,Brown/Beige,0.028399999999999995,0.0909,0.0625
 2024-08-20 03:00:59.108411,Super League - Greece Super League 2024/25 - Winner,PAOK Thessaloniki,0.027999999999999997,0.1818,0.1538
 2024-08-20 03:00:59.344298,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Mohamed Salah,0.027800000000000005,0.1111,0.0833
-2024-08-19 17:01:49.144230,Serie A - Italy Serie A 2024/25 - Winner,Juventus,0.02779999999999999,0.25,0.2222
 2024-08-20 01:00:08.457270,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Brentford,0.02779999999999999,0.25,0.2222
 2024-08-20 01:00:22.493224,MLB Futures - MLB 2024 American League East - American League East Winner,New York Yankees,0.02750000000000008,0.6429,0.6154
+2024-08-20 07:00:39.104227,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 20th August - UEFA Champions League Specials - Tuesday, 20th August",Under 6.5 goals scored,0.02560000000000001,0.3333,0.3077
 2024-08-20 01:00:08.422930,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Manchester United,0.0245,0.0833,0.0588
 2024-08-20 03:00:58.693282,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Mateo Reteguei (Genoa),0.024299999999999995,0.0588,0.0345
 2024-08-20 03:00:58.909038,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Sevilla,0.0242,0.0909,0.0667
@@ -71,108 +48,76 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-20 03:00:58.902486,La Liga - Spain La Liga 2024/25 - To Be Relegated,Espanyol,0.021999999999999964,0.3077,0.2857
 2024-08-20 01:00:08.470869,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Leicester City,0.02100000000000002,0.3846,0.3636
 2024-08-20 03:00:59.414232,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Mohamed Salah (Liverpool),0.0208,0.0833,0.0625
-2024-08-19 17:01:51.545765,Average Threes Made Per Game - Average Threes Per Game  - Stephen Curry (GSW) - Threes Per Game,Over 4.4,0.02079999999999993,0.5556,0.5348
-2024-08-19 17:01:50.753128,Average Assists Per Game - Average Assists Per Game  - Draymond Green (GSW) - APG,Under 6.7,0.02079999999999993,0.5556,0.5348
-2024-08-19 17:01:50.727489,Average Assists Per Game - Average Assists Per Game  - Devin Booker (PHX) - APG,Over 6.5,0.02079999999999993,0.5556,0.5348
-2024-08-19 17:01:51.572169,Average Threes Made Per Game - Average Threes Per Game  - Tyrese Maxey (PHI) - Threes Per Game,Over 2.6,0.02079999999999993,0.5556,0.5348
-2024-08-19 17:01:51.475897,Average Threes Made Per Game - Average Threes Per Game  - James Harden (LAC) - Threes Per Game,Under 3.1,0.02079999999999993,0.5556,0.5348
-2024-08-19 17:01:51.502017,Average Threes Made Per Game - Average Threes Per Game  - Kyrie Irving (DAL) - Threes Per Game,Over 2.6,0.02079999999999993,0.5556,0.5348
-2024-08-19 17:01:50.736029,Average Assists Per Game - Average Assists Per Game  - Domantas Sabonis (SAC) - APG,Under 7.7,0.02079999999999993,0.5556,0.5348
-2024-08-19 17:01:51.537041,Average Threes Made Per Game - Average Threes Per Game  - Paul George (PHI) - Threes Per Game,Over 2.8,0.02079999999999993,0.5556,0.5348
-2024-08-19 17:01:50.877742,Average Points Per Game - Average Points Per Game - Alexandre Sarr (WAS) - PPG,Under 10.2,0.02079999999999993,0.5556,0.5348
-2024-08-19 17:01:51.467171,Average Threes Made Per Game - Average Threes Per Game  - Jalen Green (HOU) - Threes Per Game,Over 2.4,0.02079999999999993,0.5556,0.5348
-2024-08-19 17:01:50.770342,Average Assists Per Game - Average Assists Per Game  - Giannis Antetokounmpo (MIL) - APG,Over 6.1,0.02079999999999993,0.5556,0.5348
-2024-08-19 17:01:50.787774,Average Assists Per Game - Average Assists Per Game  - Ja Morant (MEM) - APG,Over 7.3,0.02079999999999993,0.5556,0.5348
-2024-08-19 17:01:51.211359,Average Rebounds Per Game - Average Rebounds Per Game - Alexandre Sarr (WAS) - RPG,Under 7.2,0.02079999999999993,0.5556,0.5348
-2024-08-19 17:01:50.804967,Average Assists Per Game - Average Assists Per Game  - James Harden (LAC) - APG,Under 9.7,0.02079999999999993,0.5556,0.5348
-2024-08-19 17:01:51.415003,Average Threes Made Per Game - Average Threes Per Game  - Damian Lillard (MIL) - Threes Per Game,Under 3.4,0.02079999999999993,0.5556,0.5348
-2024-08-19 17:01:50.822168,Average Assists Per Game - Average Assists Per Game  - LeBron James (LAL) - APG,Over 7.6,0.02079999999999993,0.5556,0.5348
-2024-08-19 17:01:51.388833,Average Threes Made Per Game - Average Threes Per Game  - Anthony Edwards (MIN) - Threes Per Game,Over 2.4,0.02079999999999993,0.5556,0.5348
-2024-08-19 17:01:50.830765,Average Assists Per Game - Average Assists Per Game  - Luka Doncic (DAL) - APG,Under 9.4,0.02079999999999993,0.5556,0.5348
-2024-08-19 17:01:51.315752,Average Rebounds Per Game - Average Rebounds Per Game - Jusuf Nurkic (PHX) - RPG,Over 10.1,0.02079999999999993,0.5556,0.5348
-2024-08-19 17:01:50.847961,Average Assists Per Game - Average Assists Per Game  - Shai Gilgeous-Alexander (OKC) - APG,Over  6.1,0.02079999999999993,0.5556,0.5348
-2024-08-19 17:01:50.856588,Average Assists Per Game - Average Assists Per Game  - Trae Young (ATL) - APG,Over 10.4,0.02079999999999993,0.5556,0.5348
-2024-08-19 17:01:50.865205,Average Assists Per Game - Average Assists Per Game  - Tyrese Haliburton (IND) - APG,Over 10.5,0.02079999999999993,0.5556,0.5348
-2024-08-19 17:01:51.441061,Average Threes Made Per Game - Average Threes Per Game  - Donte DiVincenzo (NYK) - Threes Per Game,Over 2.7,0.02079999999999993,0.5556,0.5348
 2024-08-20 03:00:58.888416,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Villarreal,0.0203,0.0588,0.0385
+2024-08-20 07:00:39.104227,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 20th August - UEFA Champions League Specials - Tuesday, 20th August",Under 7.5 goals scored,0.019699999999999995,0.4545,0.4348
 2024-08-19 21:02:37.995331,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Nottingham Forest,0.019000000000000017,0.2857,0.2667
 2024-08-20 03:00:59.254048,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,Universitario de Deportes,0.019000000000000017,0.2857,0.2667
 2024-08-20 05:01:10.533891,Donald Trump Specials - Donald Trump to be a guest on The Joe Rogan Experience - Trump & Joe Rogan,Trump to guest on The Joe Rogan Experience any time in 2024,0.018799999999999983,0.3636,0.3448
 2024-08-20 03:00:59.066301,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,SønderjyskE,0.01820000000000002,0.2,0.1818
 2024-08-20 03:00:58.712639,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Monza,0.018200000000000004,0.0476,0.0294
+2024-08-20 07:00:39.104227,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 20th August - UEFA Champions League Specials - Tuesday, 20th August",Under 8.5 goals scored,0.018100000000000005,0.5833,0.5652
 2024-08-20 03:00:59.201136,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Huracán,0.018099999999999998,0.0769,0.0588
-2024-08-19 21:02:37.815620,Superligaen - Denmark Superligaen 2024/2025 - Winner,AGF Aarhus,0.018099999999999998,0.0769,0.0588
 2024-08-20 03:00:58.909038,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Valencia,0.018099999999999998,0.0769,0.0588
 2024-08-20 05:01:06.897750,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Kimo Apaka,0.018099999999999998,0.0769,0.0588
+2024-08-19 21:02:37.815620,Superligaen - Denmark Superligaen 2024/2025 - Winner,AGF Aarhus,0.018099999999999998,0.0769,0.0588
 2024-08-19 21:02:37.995331,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Bournemouth,0.0179,0.1429,0.125
 2024-08-20 05:01:10.659539,Presidential Debates - ABC Debate Sept 10th: First State Mentioned By Either Harris Or Trump - First Mentioned State,New York,0.0179,0.1429,0.125
 2024-08-20 03:00:59.414232,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Phil Foden (Man City),0.0179,0.1429,0.125
 2024-08-20 01:00:08.464126,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Crystal Palace,0.01759999999999995,0.6667,0.6491
 2024-08-20 05:01:10.633873,"Robert Kennedy, Jr Specials - Robert Kennedy, Jr: Presidential Election Popular Vote % - RFK, Jr Popular Vote %",10% or under,0.016699999999999937,0.95,0.9333
-2024-08-20 03:00:59.344298,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,James Maddison,0.015300000000000001,0.0476,0.0323
 2024-08-20 03:00:58.686603,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Lazio,0.015300000000000001,0.0588,0.0435
+2024-08-20 03:00:59.344298,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,James Maddison,0.015300000000000001,0.0476,0.0323
 2024-08-20 03:00:58.909038,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Valladolid,0.014900000000000004,0.0345,0.0196
-2024-08-20 03:00:58.909038,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Las Palmas,0.0145,0.0244,0.0099
 2024-08-20 03:00:58.706502,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Bologna,0.0145,0.0244,0.0099
+2024-08-20 03:00:58.909038,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Las Palmas,0.0145,0.0244,0.0099
 2024-08-20 03:00:58.791411,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Athletico Paranaense,0.014499999999999999,0.0294,0.0149
 2024-08-20 01:00:22.480260,MLB Futures - MLB 2024 American League Central - American League Central Winner,Cleveland Guardians,0.014200000000000101,0.6296,0.6154
 2024-08-20 03:00:58.888416,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Valencia,0.014099999999999998,0.0385,0.0244
 2024-08-20 03:00:59.414232,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Bernardo Silva (Man City),0.014099999999999998,0.0385,0.0244
-2024-08-19 17:01:49.274556,La Liga - Spain La Liga 2024/25 - Winner,Real Sociedad,0.014099999999999998,0.0385,0.0244
 2024-08-20 03:00:59.201136,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Atlético Tucumán,0.014099999999999994,0.0667,0.0526
 2024-08-20 01:00:08.470869,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Brentford,0.014000000000000012,0.9231,0.9091
-2024-08-20 03:00:58.693282,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Marcus Thuram (Inter Milan),0.013999999999999999,0.0909,0.0769
 2024-08-19 21:02:38.002140,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Brighton & Hove Albion,0.013999999999999999,0.0909,0.0769
-2024-08-20 01:00:22.506163,MLB Futures - MLB 2024 American League West - American League West Winner,Houston Astros,0.013900000000000023,0.8889,0.875
+2024-08-20 03:00:58.693282,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Marcus Thuram (Inter Milan),0.013999999999999999,0.0909,0.0769
 2024-08-20 03:00:58.804003,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Fortaleza,0.013900000000000023,0.8889,0.875
+2024-08-20 01:00:22.506163,MLB Futures - MLB 2024 American League West - American League West Winner,Houston Astros,0.013900000000000023,0.8889,0.875
 2024-08-20 03:00:58.797696,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Botafogo,0.013900000000000023,0.8889,0.875
 2024-08-20 05:01:10.683562,Presidential Debates - ABC Debate Sept 10th: Colour Of Donald Trump's Tie - Colour Of Trump's Tie,Blue,0.013899999999999996,0.125,0.1111
 2024-08-20 03:00:58.797696,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Fortaleza,0.013799999999999923,0.6364,0.6226
-2024-08-19 21:02:38.002140,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Aston Villa,0.0131,0.2353,0.2222
 2024-08-20 01:00:08.422930,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Aston Villa,0.0131,0.0476,0.0345
+2024-08-19 21:02:38.002140,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Aston Villa,0.0131,0.2353,0.2222
 2024-08-20 03:00:58.706502,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Como,0.0131,0.0476,0.0345
 2024-08-20 03:00:58.693282,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Valentin Castellanos (Lazio),0.0131,0.0476,0.0345
 2024-08-20 03:01:14.088837,Boxing Lines - Yoshiki Takei vs Daigo Higa - To Win the Bout,Yoshiki Takei,0.0131,0.7778,0.7647
 2024-08-20 03:00:58.693282,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Dusan Vlahovic (Juventus),0.012899999999999995,0.1667,0.1538
 2024-08-20 05:01:10.584780,Joe Biden Specials - Hunter Biden: California Income Tax Trial - Will he be found guilty on one or more counts? - Guilty In Income Tax Trial?,No,0.01150000000000001,0.3448,0.3333
 2024-08-19 21:02:37.822151,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Vejle BK,0.011499999999999955,0.6667,0.6552
-2024-08-19 17:02:08.679838,BMW Championship - BMW Championship - Winner,Hideki Matsuyama,0.011199999999999995,0.0588,0.0476
 2024-08-20 01:00:08.457270,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Chelsea,0.011099999999999999,0.9,0.8889
 2024-08-20 01:00:08.450465,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,West Ham United,0.010899999999999993,0.1538,0.1429
-2024-08-19 17:01:51.228624,Average Rebounds Per Game - Average Rebounds Per Game - Anthony Davis (LAL) - RPG,Under 12.4,0.010699999999999932,0.5455,0.5348
-2024-08-19 17:01:51.237215,Average Rebounds Per Game - Average Rebounds Per Game - Bam Adebayo (MIA) - RPG,Under 10.2,0.010699999999999932,0.5455,0.5348
-2024-08-19 17:01:50.796387,Average Assists Per Game - Average Assists Per Game  - Jalen Brunson (NYK) - APG,Over 6.3,0.010699999999999932,0.5455,0.5348
-2024-08-19 17:01:51.350391,Average Rebounds Per Game - Average Rebounds Per Game - Victor Wembanyama (SAS) - RPG,Under 11.7,0.010699999999999932,0.5455,0.5348
 2024-08-20 03:00:59.066301,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,Viborg FF,0.010499999999999982,0.2105,0.2
-2024-08-19 17:01:49.393523,Coppa Italia - Coppa Italia 2024/25 - Winner,Torino,0.010100000000000001,0.0345,0.0244
+2024-08-20 07:00:39.104227,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 20th August - UEFA Champions League Specials - Tuesday, 20th August",Under 5.5 goals scored,0.010499999999999982,0.2105,0.2
 2024-08-20 03:00:58.888416,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Atlético Madrid,0.010099999999999998,0.5556,0.5455
 2024-08-19 19:02:21.149597,Regular Season Wins O/U - Dallas Wings- 2024 Regular Season Wins - Dallas Wings- 2024 Regular Season Wins,Over 10.5,-0.010099999999999998,0.4444,0.4545
 2024-08-20 01:00:08.470869,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Southampton,-0.010099999999999998,0.5455,0.5556
 2024-08-20 03:00:58.693282,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Kenan Yildiz (Juventus),-0.010100000000000001,0.0244,0.0345
-2024-08-20 01:00:08.436712,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Tottenham Hotspur,-0.0102,0.0667,0.0769
 2024-08-20 05:01:10.545822,Donald Trump Specials - Donald & Melania: Year of Divorce - Year Of Divorce,2026,-0.0102,0.0667,0.0769
-2024-08-20 03:00:58.888416,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Real Betis,-0.0102,0.0667,0.0769
+2024-08-20 01:00:08.436712,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Tottenham Hotspur,-0.0102,0.0667,0.0769
 2024-08-20 03:01:14.254052,BMW Championship - BMW Championship - Winner,Rory McIlroy,-0.0102,0.0667,0.0769
+2024-08-20 03:00:58.888416,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Real Betis,-0.0102,0.0667,0.0769
 2024-08-20 03:00:59.066301,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,FC Midtjylland,-0.010699999999999932,0.9615,0.9722
 2024-08-20 03:00:59.336064,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,Alisson,-0.010899999999999993,0.1429,0.1538
-2024-08-19 17:01:50.796387,Average Assists Per Game - Average Assists Per Game  - Jalen Brunson (NYK) - APG,Under 6.3,-0.01100000000000001,0.5238,0.5348
 2024-08-20 03:00:58.804003,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Bahia,-0.01100000000000001,0.5238,0.5348
-2024-08-19 17:01:51.228624,Average Rebounds Per Game - Average Rebounds Per Game - Anthony Davis (LAL) - RPG,Over 12.4,-0.01100000000000001,0.5238,0.5348
-2024-08-19 17:01:51.350391,Average Rebounds Per Game - Average Rebounds Per Game - Victor Wembanyama (SAS) - RPG,Over 11.7,-0.01100000000000001,0.5238,0.5348
-2024-08-19 17:01:51.237215,Average Rebounds Per Game - Average Rebounds Per Game - Bam Adebayo (MIA) - RPG,Over 10.2,-0.01100000000000001,0.5238,0.5348
-2024-08-20 05:01:06.897750,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Chelsie Baham,-0.011099999999999999,0.1,0.1111
-2024-08-20 01:00:08.450465,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Crystal Palace,-0.011099999999999999,0.1,0.1111
 2024-08-20 05:01:10.584780,Joe Biden Specials - Hunter Biden: California Income Tax Trial - Will he be found guilty on one or more counts? - Guilty In Income Tax Trial?,Yes,-0.011099999999999999,0.7222,0.7333
+2024-08-20 01:00:08.450465,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Crystal Palace,-0.011099999999999999,0.1,0.1111
+2024-08-20 05:01:06.897750,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Chelsie Baham,-0.011099999999999999,0.1,0.1111
 2024-08-20 01:00:08.470869,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Crystal Palace,-0.011199999999999988,0.9412,0.9524
-2024-08-20 03:00:59.201136,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Argentinos Juniors,-0.011199999999999995,0.0476,0.0588
 2024-08-20 03:00:59.336064,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,Jordan Pickford,-0.011199999999999995,0.0476,0.0588
-2024-08-19 17:01:49.274556,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,-0.011899999999999994,0.2381,0.25
+2024-08-20 03:00:59.201136,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,Argentinos Juniors,-0.011199999999999995,0.0476,0.0588
 2024-08-20 03:00:58.902486,La Liga - Spain La Liga 2024/25 - To Be Relegated,Rayo Vallecano,-0.011899999999999994,0.2381,0.25
 2024-08-19 21:02:37.815620,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Copenhagen,-0.012199999999999989,0.5,0.5122
-2024-08-19 17:01:50.920811,Average Points Per Game - Average Points Per Game - Cam Thomas (ARI) - PPG,Under 24.2,-0.012199999999999989,0.5,0.5122
+2024-08-20 07:00:39.104227,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 20th August - UEFA Champions League Specials - Tuesday, 20th August",9 or more goals scored,-0.012199999999999989,0.5,0.5122
+2024-08-20 03:00:59.359769,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Leicester City,-0.012699999999999989,0.3509,0.3636
 2024-08-19 21:02:38.002140,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester United,-0.012699999999999989,0.3509,0.3636
 2024-08-20 01:00:08.436712,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Liverpool,-0.012699999999999989,0.3509,0.3636
-2024-08-20 03:00:59.359769,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Leicester City,-0.012699999999999989,0.3509,0.3636
 2024-08-20 03:01:14.254052,BMW Championship - BMW Championship - Winner,Corey Conners,-0.012700000000000003,0.0196,0.0323
 2024-08-20 01:00:08.464126,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Chelsea,-0.012899999999999995,0.1538,0.1667
 2024-08-20 03:00:59.066301,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,Aalborg BK,-0.0131,0.2222,0.2353
@@ -190,14 +135,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-20 05:01:10.633873,"Robert Kennedy, Jr Specials - Robert Kennedy, Jr: Presidential Election Popular Vote % - RFK, Jr Popular Vote %",Over 10%,-0.015700000000000006,0.1176,0.1333
 2024-08-20 03:00:59.344298,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Cole Palmer,-0.016600000000000004,0.0667,0.0833
 2024-08-20 03:01:14.088837,Boxing Lines - Yoshiki Takei vs Daigo Higa - To Win the Bout,Daigo Higa,-0.017299999999999982,0.2857,0.303
-2024-08-19 17:01:49.274556,La Liga - Spain La Liga 2024/25 - Winner,Atlético Madrid,-0.01759999999999999,0.1,0.1176
-2024-08-20 03:00:58.909038,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Celta de Vigo,-0.01759999999999999,0.1,0.1176
 2024-08-20 03:00:58.700285,Serie A - Italy Serie A 2024/25 - To Be Relegated,Genoa,-0.01759999999999999,0.1,0.1176
+2024-08-20 03:00:58.909038,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Celta de Vigo,-0.01759999999999999,0.1,0.1176
 2024-08-20 03:00:58.686603,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,AS Roma,-0.018099999999999998,0.0588,0.0769
-2024-08-20 03:00:58.700285,Serie A - Italy Serie A 2024/25 - To Be Relegated,Fiorentina,-0.018200000000000004,0.0294,0.0476
 2024-08-20 03:00:59.336064,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,Bart Verbruggen,-0.018200000000000004,0.0294,0.0476
-2024-08-20 03:00:59.344298,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Ollie Watkins,-0.018200000000000004,0.0294,0.0476
+2024-08-20 03:00:58.700285,Serie A - Italy Serie A 2024/25 - To Be Relegated,Fiorentina,-0.018200000000000004,0.0294,0.0476
 2024-08-20 03:00:59.344298,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Kieran Trippier,-0.018200000000000004,0.0294,0.0476
+2024-08-20 03:00:59.344298,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Ollie Watkins,-0.018200000000000004,0.0294,0.0476
 2024-08-20 03:00:58.706502,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Cagliari,-0.01820000000000002,0.1818,0.2
 2024-08-20 05:01:06.897750,Big Brother - BB26: Outright Winner - BB26 Outright Winner,Quinn Martin,-0.01820000000000002,0.1818,0.2
 2024-08-20 03:00:58.804003,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Cruzeiro MG,-0.01880000000000004,0.6364,0.6552
@@ -205,37 +149,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-20 03:00:58.791411,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Vitória BA,-0.018999999999999906,0.7143,0.7333
 2024-08-20 03:00:58.706502,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Venezia,-0.019000000000000017,0.2667,0.2857
 2024-08-20 03:00:58.902486,La Liga - Spain La Liga 2024/25 - To Be Relegated,Alavés,-0.019000000000000017,0.2667,0.2857
+2024-08-20 07:00:39.104227,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 20th August - UEFA Champions League Specials - Tuesday, 20th August",11 or more goals scored,-0.019000000000000017,0.2667,0.2857
 2024-08-20 03:00:59.066301,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,Brøndby IF,-0.019100000000000006,0.9333,0.9524
 2024-08-20 03:00:59.344298,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Anthony Gordon,-0.0203,0.0385,0.0588
 2024-08-20 03:00:59.059484,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,FC Nordsjælland,-0.02030000000000004,0.3571,0.3774
-2024-08-19 17:01:49.274556,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,-0.02200000000000002,0.6923,0.7143
 2024-08-19 21:02:37.995331,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Leicester City,-0.02200000000000002,0.6923,0.7143
 2024-08-20 03:00:58.706502,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Empoli,-0.022199999999999998,0.2,0.2222
 2024-08-20 03:00:59.336064,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,Ederson,-0.022199999999999998,0.2,0.2222
-2024-08-19 17:01:50.856588,Average Assists Per Game - Average Assists Per Game  - Trae Young (ATL) - APG,Under 10.4,-0.022600000000000064,0.5122,0.5348
 2024-08-20 01:00:08.450465,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Newcastle United,-0.022600000000000064,0.6,0.6226
-2024-08-19 17:01:51.315752,Average Rebounds Per Game - Average Rebounds Per Game - Jusuf Nurkic (PHX) - RPG,Under 10.1,-0.022600000000000064,0.5122,0.5348
-2024-08-19 17:01:51.211359,Average Rebounds Per Game - Average Rebounds Per Game - Alexandre Sarr (WAS) - RPG,Over 7.2,-0.022600000000000064,0.5122,0.5348
-2024-08-19 17:01:50.877742,Average Points Per Game - Average Points Per Game - Alexandre Sarr (WAS) - PPG,Over 10.2,-0.022600000000000064,0.5122,0.5348
-2024-08-19 17:01:50.865205,Average Assists Per Game - Average Assists Per Game  - Tyrese Haliburton (IND) - APG,Under 10.5,-0.022600000000000064,0.5122,0.5348
-2024-08-19 17:01:50.736029,Average Assists Per Game - Average Assists Per Game  - Domantas Sabonis (SAC) - APG,Over 7.7,-0.022600000000000064,0.5122,0.5348
-2024-08-19 17:01:50.847961,Average Assists Per Game - Average Assists Per Game  - Shai Gilgeous-Alexander (OKC) - APG,Under 6.1,-0.022600000000000064,0.5122,0.5348
-2024-08-19 17:01:50.830765,Average Assists Per Game - Average Assists Per Game  - Luka Doncic (DAL) - APG,Over 9.4,-0.022600000000000064,0.5122,0.5348
-2024-08-19 17:01:50.822168,Average Assists Per Game - Average Assists Per Game  - LeBron James (LAL) - APG,Under 7.6,-0.022600000000000064,0.5122,0.5348
-2024-08-19 17:01:50.753128,Average Assists Per Game - Average Assists Per Game  - Draymond Green (GSW) - APG,Over 6.7,-0.022600000000000064,0.5122,0.5348
-2024-08-19 17:01:51.388833,Average Threes Made Per Game - Average Threes Per Game  - Anthony Edwards (MIN) - Threes Per Game,Under 2.4,-0.022600000000000064,0.5122,0.5348
-2024-08-19 17:01:50.727489,Average Assists Per Game - Average Assists Per Game  - Devin Booker (PHX) - APG,Under 6.5,-0.022600000000000064,0.5122,0.5348
-2024-08-19 17:01:50.787774,Average Assists Per Game - Average Assists Per Game  - Ja Morant (MEM) - APG,Under 7.3,-0.022600000000000064,0.5122,0.5348
-2024-08-19 17:01:50.770342,Average Assists Per Game - Average Assists Per Game  - Giannis Antetokounmpo (MIL) - APG,Under 6.1,-0.022600000000000064,0.5122,0.5348
-2024-08-19 17:01:50.804967,Average Assists Per Game - Average Assists Per Game  - James Harden (LAC) - APG,Over 9.7,-0.022600000000000064,0.5122,0.5348
-2024-08-19 17:01:51.467171,Average Threes Made Per Game - Average Threes Per Game  - Jalen Green (HOU) - Threes Per Game,Under 2.4,-0.022600000000000064,0.5122,0.5348
-2024-08-19 17:01:51.537041,Average Threes Made Per Game - Average Threes Per Game  - Paul George (PHI) - Threes Per Game,Under 2.8,-0.022600000000000064,0.5122,0.5348
-2024-08-19 17:01:51.572169,Average Threes Made Per Game - Average Threes Per Game  - Tyrese Maxey (PHI) - Threes Per Game,Under 2.6,-0.022600000000000064,0.5122,0.5348
-2024-08-19 17:01:51.441061,Average Threes Made Per Game - Average Threes Per Game  - Donte DiVincenzo (NYK) - Threes Per Game,Under 2.7,-0.022600000000000064,0.5122,0.5348
-2024-08-19 17:01:51.475897,Average Threes Made Per Game - Average Threes Per Game  - James Harden (LAC) - Threes Per Game,Over 3.1,-0.022600000000000064,0.5122,0.5348
-2024-08-19 17:01:51.502017,Average Threes Made Per Game - Average Threes Per Game  - Kyrie Irving (DAL) - Threes Per Game,Under 2.6,-0.022600000000000064,0.5122,0.5348
-2024-08-19 17:01:51.415003,Average Threes Made Per Game - Average Threes Per Game  - Damian Lillard (MIL) - Threes Per Game,Over 3.4,-0.022600000000000064,0.5122,0.5348
-2024-08-19 17:01:51.545765,Average Threes Made Per Game - Average Threes Per Game  - Stephen Curry (GSW) - Threes Per Game,Under 4.4,-0.022600000000000064,0.5122,0.5348
 2024-08-19 19:02:23.554173,NFC South - NFC South 2024/25 - NFC South Winner,New Orleans Saints,-0.02300000000000002,0.177,0.2
 2024-08-20 03:00:58.712639,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Torino,-0.02310000000000001,0.0769,0.1
 2024-08-20 03:00:58.902486,La Liga - Spain La Liga 2024/25 - To Be Relegated,Villarreal,-0.02310000000000001,0.0769,0.1
@@ -245,49 +166,25 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-20 01:00:08.457270,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Crystal Palace,-0.025499999999999967,0.4,0.4255
 2024-08-20 01:00:08.422930,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Arsenal,-0.025599999999999956,0.5744,0.6
 2024-08-19 21:02:38.002140,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Tottenham Hotspur,-0.02560000000000001,0.3077,0.3333
-2024-08-19 17:01:49.144230,Serie A - Italy Serie A 2024/25 - Winner,Napoli,-0.027800000000000005,0.0833,0.1111
 2024-08-20 03:00:59.059484,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,FC Midtjylland,-0.027800000000000047,0.75,0.7778
 2024-08-20 01:00:08.464126,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Brentford,-0.027999999999999914,0.8182,0.8462
-2024-08-20 03:00:58.693282,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Victor Osimhen (Napoli),-0.028799999999999992,0.125,0.1538
 2024-08-20 03:00:58.888416,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Girona,-0.028799999999999992,0.125,0.1538
+2024-08-20 03:00:58.693282,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Victor Osimhen (Napoli),-0.028799999999999992,0.125,0.1538
 2024-08-20 03:00:58.706502,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Udinese,-0.029299999999999993,0.0476,0.0769
+2024-08-20 07:00:39.104227,"Daily Soccer Specials - UEFA Champions League Specials - Tuesday, 20th August - UEFA Champions League Specials - Tuesday, 20th August",10 or more goals scored,-0.029600000000000015,0.3704,0.4
 2024-08-20 03:00:59.066301,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,FC Nordsjælland,-0.029900000000000038,0.7701,0.8
-2024-08-20 01:00:22.493224,MLB Futures - MLB 2024 American League East - American League East Winner,Baltimore Orioles,-0.030299999999999994,0.4348,0.4651
-2024-08-20 03:00:58.902486,La Liga - Spain La Liga 2024/25 - To Be Relegated,Real Valladolid,-0.030299999999999994,0.3333,0.3636
 2024-08-20 03:00:58.902486,La Liga - Spain La Liga 2024/25 - To Be Relegated,Getafe,-0.030299999999999994,0.3333,0.3636
-2024-08-20 03:00:59.414232,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Rodri (Man City),-0.031799999999999995,0.1111,0.1429
+2024-08-20 03:00:58.902486,La Liga - Spain La Liga 2024/25 - To Be Relegated,Real Valladolid,-0.030299999999999994,0.3333,0.3636
+2024-08-20 01:00:22.493224,MLB Futures - MLB 2024 American League East - American League East Winner,Baltimore Orioles,-0.030299999999999994,0.4348,0.4651
 2024-08-20 03:00:58.693282,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Arthen Dovbyk (AS Roma),-0.031799999999999995,0.1111,0.1429
+2024-08-20 03:00:59.414232,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Rodri (Man City),-0.031799999999999995,0.1111,0.1429
 2024-08-20 03:00:58.791411,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Atlético Goianiense,-0.03210000000000002,0.9091,0.9412
 2024-08-20 03:00:58.902486,La Liga - Spain La Liga 2024/25 - To Be Relegated,Mallorca,-0.033300000000000024,0.1667,0.2
 2024-08-20 03:00:58.888416,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Real Sociedad,-0.034100000000000005,0.0909,0.125
 2024-08-20 03:00:58.712639,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Fiorentina,-0.0343,0.0833,0.1176
 2024-08-19 19:02:18.990657,WNBA Awards - WNBA Regular Season MVP 2024 - WNBA Regular Season MVP 2024,Satou Sabally (DAL),-0.0345,0.004,0.0385
 2024-08-20 03:00:58.712639,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Napoli,-0.03480000000000005,0.5,0.5348
-2024-08-19 17:01:50.684570,Average Assists Per Game - Average Assists Per Game  - Cade Cunningham (DET) - APG,Over 8.4,-0.03480000000000005,0.5,0.5348
-2024-08-19 17:01:51.554618,Average Threes Made Per Game - Average Threes Per Game  - Trae Young (ATL) - Threes Per Game,Under 3.1,-0.03480000000000005,0.5,0.5348
-2024-08-19 17:01:51.563413,Average Threes Made Per Game - Average Threes Per Game  - Tyler Herro (MIA) - Threes Per Game,Over 3.4,-0.03480000000000005,0.5,0.5348
-2024-08-19 17:01:51.519356,Average Threes Made Per Game - Average Threes Per Game  - Lauri Markkanen (UTA) - Threes Per Game,Over 3.4,-0.03480000000000005,0.5,0.5348
-2024-08-19 17:01:51.510701,Average Threes Made Per Game - Average Threes Per Game  - LaMelo Ball (CHA) - Threes Per Game,Over 3.7,-0.03480000000000005,0.5,0.5348
-2024-08-19 17:01:51.493237,Average Threes Made Per Game - Average Threes Per Game  - Klay Thompson (DAL) - Threes Per Game,Over 3.6,-0.03480000000000005,0.5,0.5348
-2024-08-19 17:01:51.484538,Average Threes Made Per Game - Average Threes Per Game  - Jayson Tatum (BOS) - Threes Per Game,Over 3.4,-0.03480000000000005,0.5,0.5348
-2024-08-19 17:01:51.458479,Average Threes Made Per Game - Average Threes Per Game  - Immanuel Quickley (TOR) - Threes Per Game,Over 3.1,-0.03480000000000005,0.5,0.5348
-2024-08-19 17:01:51.449767,Average Threes Made Per Game - Average Threes Per Game  - Fred VanVleet (HOU) - Threes Per Game,Over 3.2,-0.03480000000000005,0.5,0.5348
-2024-08-19 17:01:51.432391,Average Threes Made Per Game - Average Threes Per Game  - Donovan Mitchell (CLE) - Threes Per Game,Over 3.7,-0.03480000000000005,0.5,0.5348
-2024-08-19 17:01:51.423691,Average Threes Made Per Game - Average Threes Per Game  - Desmond Bane (MEM) - Threes Per Game,Under 2.9,-0.03480000000000005,0.5,0.5348
-2024-08-19 17:01:51.380128,Average Threes Made Per Game - Average Threes Per Game  - Anfernee Simons (POR) - Threes Per Game,Over 3.8,-0.03480000000000005,0.5,0.5348
-2024-08-19 17:01:51.280950,Average Rebounds Per Game - Average Rebounds Per Game - Ivica Zubac (LAC) - RPG,Under 9.5,-0.03480000000000005,0.5,0.5348
-2024-08-19 17:01:51.263564,Average Rebounds Per Game - Average Rebounds Per Game - Evan Mobley (CLE) - RPG,Under 9.6,-0.03480000000000005,0.5,0.5348
-2024-08-19 17:01:51.254850,Average Rebounds Per Game - Average Rebounds Per Game - Donovan Clingan (POR) - RPG,Over 6.9,-0.03480000000000005,0.5,0.5348
-2024-08-19 17:01:50.839355,Average Assists Per Game - Average Assists Per Game  - Nikola Jokic (DEN) - APG,Over 9.6,-0.03480000000000005,0.5,0.5348
-2024-08-19 17:01:50.813531,Average Assists Per Game - Average Assists Per Game  - LaMelo Ball (CHA) - APG,Over 8.7,-0.03480000000000005,0.5,0.5348
-2024-08-19 17:01:50.761690,Average Assists Per Game - Average Assists Per Game  - Fred VanVleet (HOU) - APG,Under 7.4,-0.03480000000000005,0.5,0.5348
-2024-08-19 17:01:50.744558,Average Assists Per Game - Average Assists Per Game  - Donovan Mitchell (CLE) - APG,Over 6.4,-0.03480000000000005,0.5,0.5348
-2024-08-19 17:01:50.718835,Average Assists Per Game - Average Assists Per Game  - De'Aaron Fox (SAC) - APG,Over 6.1,-0.03480000000000005,0.5,0.5348
-2024-08-19 17:01:50.710280,Average Assists Per Game - Average Assists Per Game  - Darius Garland (CLE) - APG,Over 7.1,-0.03480000000000005,0.5,0.5348
 2024-08-20 03:00:58.700285,Serie A - Italy Serie A 2024/25 - To Be Relegated,Empoli,-0.03480000000000005,0.5,0.5348
-2024-08-19 17:01:50.701692,Average Assists Per Game - Average Assists Per Game  - Damian Lillard (MIL) - APG,Over 7.3,-0.03480000000000005,0.5,0.5348
-2024-08-19 17:01:50.693163,Average Assists Per Game - Average Assists Per Game  - Chris Paul (SAS) - APG,Under 6.6,-0.03480000000000005,0.5,0.5348
-2024-08-19 17:01:51.580852,Average Threes Made Per Game - Average Threes Per Game  - Luka Doncic (DAL) - Threes Per Game,Over 4.1,-0.03480000000000005,0.5,0.5348
 2024-08-20 03:00:58.700285,Serie A - Italy Serie A 2024/25 - To Be Relegated,Venezia,-0.037800000000000056,0.5455,0.5833
 2024-08-20 03:00:58.712639,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Bologna,-0.04120000000000001,0.0588,0.1
 2024-08-20 03:00:58.706502,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Hellas Verona,-0.04169999999999999,0.125,0.1667
