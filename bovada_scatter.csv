@@ -4,7 +4,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-22 03:01:03.089069,Copa Argentina - Copa Argentina 2024 - Winner,Central Córdoba,0.0475,0.0769,0.0294
 2024-08-22 01:00:33.252063,BMW Championship - 2/3 Balls - 1st Round 2 Ball - M. Homa vs SW Kim - 1st Round 2 Ball,Si Woo Kim,0.045499999999999985,0.5455,0.5
 2024-08-21 23:02:01.974903,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AS Roma,0.044499999999999984,0.2667,0.2222
-2024-08-21 21:03:08.215803,Tournament Match-Ups - Tournament Match-Up - C. Davis v E. Cole - Tournament Match-Up,Eric Cole,0.04139999999999999,0.5652,0.5238
 2024-08-22 03:01:07.335620,Democratic National Convention - Democratic Convention: Kamala Harris Speech - To Be Said During Main DNC Speech - Harris Speech - To Be Said,Project 25,0.03639999999999999,0.6364,0.6
 2024-08-22 05:00:30.427789,Totals - 1st Round Birdies - Tommy Fleetwood - 1st Round Birdies ,Under 4.5,0.03600000000000003,0.5238,0.4878
 2024-08-22 05:00:30.399606,Totals - 1st Round Birdies - Hideki Matsuyama - 1st Round Birdies ,Under 4.5,0.035999999999999976,0.5122,0.4762
@@ -13,53 +12,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-22 07:00:49.874883,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score ,Over 67.5,0.030399999999999983,0.5652,0.5348
 2024-08-22 09:01:24.338021,MLB Futures - MLB 2024 National League East - National League East Winner,Philadelphia Phillies,0.02400000000000002,0.9615,0.9375
 2024-08-22 03:01:18.808845,BMW Championship - 2/3 Balls - 1st Round 2 Ball - S. Lowry vs R. MacIntyre - 1st Round 2 Ball ,Robert MacIntyre,0.023799999999999988,0.5,0.4762
-2024-08-21 21:03:08.421342,Tournament Match-Ups - Tournament Match-Up - W. Zalatoris v S. Straka - Tournament Match-Up,Sepp Straka,0.022600000000000064,0.5348,0.5122
-2024-08-21 21:03:08.101077,Tournament Match-Ups - Tournament Match-Up - A. Eckroat v T. Hoge - Tournament Match-Up,Austin Eckroat,0.02169999999999994,0.5455,0.5238
 2024-08-22 03:01:18.640756,BMW Championship - 2/3 Balls - 1st Round 2 Ball - L. Aberg vs S. Theegala - 1st Round 2 Ball ,Ludvig Aberg,0.02169999999999994,0.5455,0.5238
-2024-08-21 21:03:08.081610,Tournament Match-Ups - Tournament Match-Up - A. Bhatia v S. Lowry - Tournament Match-Up,Akshay Bhatia,0.02079999999999993,0.5556,0.5348
-2024-08-21 21:03:08.124004,Tournament Match-Ups - Tournament Match-Up - A. Hadwin v S. Jaeger - Tournament Match-Up ,Adam Hadwin,0.02079999999999993,0.5556,0.5348
-2024-08-21 21:03:08.169881,Tournament Match-Ups - Tournament Match-Up - A. Scott v C. Bezuidenhout - Tournament Match-Up ,Adam Scott,0.02079999999999993,0.5556,0.5348
-2024-08-21 21:03:08.352527,Tournament Match-Ups - Tournament Match-Up - P. Cantlay v T. Fleetwood - Tournament Match-Up,Patrick Cantlay,0.02079999999999993,0.5556,0.5348
 2024-08-22 01:00:34.356505,Match-Ups - Tournament Match-Up - C. Young vs J. Thomas - Requests,Justin Thomas,0.01970000000000005,0.5652,0.5455
 2024-08-21 23:02:02.111828,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Atlético Madrid,0.01880000000000004,0.5744,0.5556
+2024-08-22 11:01:17.696268,Boxing Lines - Yudai Shigeoka vs Samuel Salva - To Win the Bout,Yudai Shigeoka,0.017900000000000027,0.875,0.8571
 2024-08-22 05:00:30.463496,Totals - 1st Round Birdies - Wyndham Clark - 1st Round Birdies ,Over 4.5,0.017299999999999982,0.5917,0.5744
 2024-08-21 23:02:05.050943,WNBA Championship - WNBA Championship 2024 - Outright Winner,Seattle Storm,0.013999999999999999,0.0909,0.0769
 2024-08-22 03:01:03.089069,Copa Argentina - Copa Argentina 2024 - Winner,Huracán,0.013899999999999996,0.125,0.1111
 2024-08-22 09:01:24.283316,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,0.013500000000000012,0.2667,0.2532
-2024-08-22 09:01:24.315023,MLB Futures - MLB 2024 American League West - American League West Winner,Seattle Mariners,0.012899999999999995,0.1667,0.1538
 2024-08-22 03:01:03.089069,Copa Argentina - Copa Argentina 2024 - Winner,Talleres,0.012899999999999995,0.1667,0.1538
+2024-08-22 09:01:24.315023,MLB Futures - MLB 2024 American League West - American League West Winner,Seattle Mariners,0.012899999999999995,0.1667,0.1538
 2024-08-22 03:01:19.064835,Round Match-Ups - 1st Round Match-Up - S. Lowry vs M. Fitzpatrick - 1st Round Match-Up ,Matt Fitzpatrick,0.011600000000000055,0.5238,0.5122
-2024-08-21 21:03:08.192851,Tournament Match-Ups - Tournament Match-Up - B. H-An v T. Pendrith - Tournament Match-Up,Byeong Hun An,0.01100000000000001,0.5348,0.5238
-2024-08-21 21:03:08.239036,Tournament Match-Ups - Tournament Match-Up - C. Kirk v M. Homa - Tournament Match-Up,Max Homa,0.01100000000000001,0.5348,0.5238
-2024-08-21 21:03:08.253448,Tournament Match-Ups - Tournament Match-Up - C. Young v J. Day - Tournament Match-Up,Cameron Young,0.01100000000000001,0.5348,0.5238
-2024-08-21 21:03:08.253448,Tournament Match-Ups - Tournament Match-Up - C. Young v J. Day - Tournament Match-Up,Jason Day,0.01100000000000001,0.5348,0.5238
-2024-08-21 21:03:08.266885,Tournament Match-Ups - Tournament Match-Up - D. Thompson v W. Clark - Tournament Match-Up ,Davis Thompson,0.01100000000000001,0.5348,0.5238
-2024-08-21 21:03:08.266885,Tournament Match-Ups - Tournament Match-Up - D. Thompson v W. Clark - Tournament Match-Up ,Wyndham Clark,0.01100000000000001,0.5348,0.5238
-2024-08-21 21:03:08.280367,Tournament Match-Ups - Tournament Match-Up - H. Matsuyama v V. Hovland - Tournament Match-Up,Hideki Matsuyama,0.01100000000000001,0.5348,0.5238
-2024-08-21 21:03:08.280367,Tournament Match-Ups - Tournament Match-Up - H. Matsuyama v V. Hovland - Tournament Match-Up,Viktor Hovland,0.01100000000000001,0.5348,0.5238
-2024-08-21 21:03:08.192851,Tournament Match-Ups - Tournament Match-Up - B. H-An v T. Pendrith - Tournament Match-Up,Taylor Pendrith,0.01100000000000001,0.5348,0.5238
-2024-08-21 21:03:08.293942,Tournament Match-Ups - Tournament Match-Up - J. Thomas v S. Im - Tournament Match-Up,Justin Thomas,0.01100000000000001,0.5348,0.5238
-2024-08-21 21:03:08.293942,Tournament Match-Ups - Tournament Match-Up - J. Thomas v S. Im - Tournament Match-Up,Sungjae Im,0.01100000000000001,0.5348,0.5238
-2024-08-21 21:03:08.307432,Tournament Match-Ups - Tournament Match-Up - K. Bradley v S. W. Kim - Tournament Match-Up ,Keegan Bradley,0.01100000000000001,0.5348,0.5238
-2024-08-21 21:03:08.307432,Tournament Match-Ups - Tournament Match-Up - K. Bradley v S. W. Kim - Tournament Match-Up ,Si Woo Kim,0.01100000000000001,0.5348,0.5238
-2024-08-21 21:03:08.329601,Tournament Match-Ups - Tournament Match-Up - N. Dunlap v M. Greyserman - Tournament Match-Up,Max Greyserman,0.01100000000000001,0.5348,0.5238
-2024-08-21 21:03:08.329601,Tournament Match-Ups - Tournament Match-Up - N. Dunlap v M. Greyserman - Tournament Match-Up,Nick Dunlap,0.01100000000000001,0.5348,0.5238
-2024-08-21 21:02:52.612359,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican,0.01100000000000001,0.5348,0.5238
-2024-08-21 21:03:08.239036,Tournament Match-Ups - Tournament Match-Up - C. Kirk v M. Homa - Tournament Match-Up,Chris Kirk,0.01100000000000001,0.5348,0.5238
-2024-08-21 21:02:52.600132,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.01100000000000001,0.5348,0.5238
-2024-08-21 21:03:08.146933,Tournament Match-Ups - Tournament Match-Up - A. Noren v R. MacIntyre - Tournament Match-Up,Robert MacIntyre,0.01100000000000001,0.5348,0.5238
-2024-08-21 21:03:08.146933,Tournament Match-Ups - Tournament Match-Up - A. Noren v R. MacIntyre - Tournament Match-Up,Alex Noren,0.01100000000000001,0.5348,0.5238
 2024-08-22 09:01:24.562886,Boxing Lines - Alan Picasso Romero vs Azat Hovhannisyan - To Win the Bout,Azat Hovhannisyan,0.010499999999999982,0.2105,0.2
 2024-08-22 09:01:24.360973,MLB Futures - MLB 2024 National League West - National League West Winner,Arizona Diamondbacks,0.0102,0.0769,0.0667
 2024-08-22 03:01:19.064835,Round Match-Ups - 1st Round Match-Up - S. Lowry vs M. Fitzpatrick - 1st Round Match-Up ,Shane Lowry,-0.01100000000000001,0.5238,0.5348
 2024-08-22 05:00:30.463496,Totals - 1st Round Birdies - Wyndham Clark - 1st Round Birdies ,Under 4.5,-0.0116,0.4762,0.4878
-2024-08-21 21:02:52.600132,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.011600000000000055,0.5122,0.5238
-2024-08-21 21:02:52.612359,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,-0.011600000000000055,0.5122,0.5238
 2024-08-22 09:01:24.315023,MLB Futures - MLB 2024 American League West - American League West Winner,Houston Astros,-0.014000000000000012,0.9091,0.9231
 2024-08-22 09:01:24.283316,MLB Futures - MLB 2024 American League Central - American League Central Winner,Cleveland Guardians,-0.014900000000000024,0.6774,0.6923
 2024-08-22 03:01:18.640756,BMW Championship - 2/3 Balls - 1st Round 2 Ball - L. Aberg vs S. Theegala - 1st Round 2 Ball ,Sahith Theegala,-0.019699999999999995,0.4348,0.4545
+2024-08-22 11:01:17.696268,Boxing Lines - Yudai Shigeoka vs Samuel Salva - To Win the Bout,Samuel Salva,-0.01999999999999999,0.1905,0.2105
 2024-08-22 03:01:18.808845,BMW Championship - 2/3 Balls - 1st Round 2 Ball - S. Lowry vs R. MacIntyre - 1st Round 2 Ball ,Shane Lowry,-0.023799999999999988,0.4762,0.5
-2024-08-21 21:03:08.215803,Tournament Match-Ups - Tournament Match-Up - C. Davis v E. Cole - Tournament Match-Up,Cam Davis,-0.023800000000000043,0.5,0.5238
 2024-08-22 01:00:34.356505,Match-Ups - Tournament Match-Up - C. Young vs J. Thomas - Requests,Cameron Young,-0.023800000000000043,0.5,0.5238
 2024-08-22 09:01:24.283316,MLB Futures - MLB 2024 American League Central - American League Central Winner,Kansas City Royals,-0.027999999999999997,0.1538,0.1818
 2024-08-22 05:00:30.427789,Totals - 1st Round Birdies - Tommy Fleetwood - 1st Round Birdies ,Over 4.5,-0.028900000000000037,0.5455,0.5744
