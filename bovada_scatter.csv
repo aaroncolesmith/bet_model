@@ -1,12 +1,6 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-08-25 09:01:17.160972,MWC Regular Season Wins - MWC Regular Season Wins - New Mexico,Under 2.5 Wins,0.09699999999999998,0.697,0.6
-2024-08-25 09:01:17.150382,MWC Regular Season Wins - MWC Regular Season Wins - Nevada,Over 2.5 Wins,0.04700000000000004,0.5348,0.4878
-2024-08-25 09:01:16.051563,ACC Regular Season Wins - ACC Regular Season Wins - Syracuse ,Under 7.5 Wins,0.03639999999999999,0.6364,0.6
 2024-08-25 17:01:41.538449,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Manchester City,0.029000000000000026,0.4545,0.4255
 2024-08-25 11:01:14.854151,NFL Awards & League Leaders - Regular Season Stat Leaders - Most Sacks (Regular Season),Aidan Hutchinson (DET),0.0245,0.0833,0.0588
-2024-08-25 09:01:18.423023,NFL Awards & League Leaders - Regular Season Stat Leaders - Most Receiving Yards (Regular Season),Garrett Wilson (NYJ),0.0242,0.0909,0.0667
-2024-08-25 09:01:18.423023,NFL Awards & League Leaders - Regular Season Stat Leaders - Most Receiving Yards (Regular Season),D.J. Moore (CHI),0.023200000000000002,0.0476,0.0244
-2024-08-25 09:01:16.222915,ACC Regular Season Wins - ACC Regular Season Wins - Virginia Tech,Over 8.5 Wins,0.022600000000000064,0.5348,0.5122
 2024-08-25 17:01:41.234057,Championship - England Championship 2024/25 - Winner,Burnley,0.022199999999999998,0.2222,0.2
 2024-08-25 11:01:14.854151,NFL Awards & League Leaders - Regular Season Stat Leaders - Most Sacks (Regular Season),Will Anderson (HOU),0.019100000000000002,0.0323,0.0132
 2024-08-25 11:01:14.828915,"NFL Awards & League Leaders - Regular Season Stat Leaders - Most Rush + Receiving Touchdowns (Combined, Regular Season)",Christian McCaffrey (SF),0.019000000000000017,0.2857,0.2667
@@ -14,24 +8,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-25 11:01:14.854151,NFL Awards & League Leaders - Regular Season Stat Leaders - Most Sacks (Regular Season),T.J. Watt (PIT),0.01820000000000002,0.2,0.1818
 2024-08-25 17:01:41.538449,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Chelsea,0.014099999999999998,0.0385,0.0244
 2024-08-25 17:01:41.320205,Serie A - Italy Serie A 2024/25 - Winner,Napoli,0.013999999999999999,0.0909,0.0769
-2024-08-25 09:01:17.229722,MWC Regular Season Wins - MWC Regular Season Wins - Wyoming,Over 6.5 Wins,0.011600000000000055,0.5238,0.5122
-2024-08-25 09:01:18.946094,MLB Futures - MLB 2024 Player Awards - National League ROY,Paul Skenes (PIT),0.011600000000000055,0.5238,0.5122
-2024-08-25 09:01:18.375093,NFL Awards & League Leaders - Regular Season Stat Leaders - Most Rushing Yards (Regular Season),James Cook (BUF),0.011300000000000001,0.0357,0.0244
-2024-08-25 11:01:03.697375,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,0.01100000000000001,0.5348,0.5238
 2024-08-25 11:01:03.708707,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,0.01100000000000001,0.5348,0.5238
+2024-08-25 11:01:03.697375,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,0.01100000000000001,0.5348,0.5238
 2024-08-25 17:01:41.538449,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Liverpool,0.010899999999999993,0.1538,0.1429
-2024-08-25 09:01:17.229722,MWC Regular Season Wins - MWC Regular Season Wins - Wyoming,Under 6.5 Wins,-0.010099999999999998,0.5455,0.5556
 2024-08-25 17:01:41.234057,Championship - England Championship 2024/25 - Winner,Sheffield United,-0.0102,0.0667,0.0769
 2024-08-25 17:01:41.234057,Championship - England Championship 2024/25 - Winner,West Bromwich Albion,-0.0102,0.0667,0.0769
-2024-08-25 09:01:17.193200,MWC Regular Season Wins - MWC Regular Season Wins - UNVL,Over 7.5 Wins,-0.011099999999999999,0.4651,0.4762
-2024-08-25 11:01:03.697375,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.011600000000000055,0.5122,0.5238
 2024-08-25 11:01:03.708707,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican,-0.011600000000000055,0.5122,0.5238
+2024-08-25 11:01:03.697375,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.011600000000000055,0.5122,0.5238
 2024-08-25 17:01:41.320205,Serie A - Italy Serie A 2024/25 - Winner,Atalanta,-0.014099999999999994,0.0526,0.0667
 2024-08-25 17:01:41.234057,Championship - England Championship 2024/25 - Winner,Sunderland,-0.016600000000000004,0.0667,0.0833
 2024-08-25 17:01:43.754324,WNBA Championship - WNBA Championship 2024 - Outright Winner,Las Vegas Aces,-0.02020000000000005,0.3077,0.3279
-2024-08-25 09:01:18.946094,MLB Futures - MLB 2024 Player Awards - National League ROY,Jackson Merrill (SD),-0.02079999999999993,0.5348,0.5556
-2024-08-25 09:01:16.222915,ACC Regular Season Wins - ACC Regular Season Wins - Virginia Tech,Under 8.5 Wins,-0.02079999999999993,0.5348,0.5556
 2024-08-25 17:01:41.538449,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Arsenal,-0.03210000000000002,0.3846,0.4167
-2024-08-25 09:01:17.150382,MWC Regular Season Wins - MWC Regular Season Wins - Nevada,Under 2.5 Wins,-0.03959999999999997,0.5348,0.5744
-2024-08-25 09:01:16.051563,ACC Regular Season Wins - ACC Regular Season Wins - Syracuse ,Over 7.5 Wins,-0.039600000000000024,0.4255,0.4651
-2024-08-25 09:01:17.160972,MWC Regular Season Wins - MWC Regular Season Wins - New Mexico,Over 2.5 Wins,-0.0947,0.3704,0.4651
