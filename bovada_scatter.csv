@@ -4,11 +4,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-26 07:02:04.990051,Presidential Debates - ABC Debate Sept 10th: To Be Said By Kamala Harris During The Debate - To Be Said By Kamala Harris,Not going back,0.23330000000000006,0.8333,0.6
 2024-08-26 03:02:10.847438,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Monaco,0.1491,0.5,0.3509
 2024-08-25 23:02:28.879756,Serie A - Italy Serie A 2024/25 - To Be Relegated,Monza,0.1428,0.2857,0.1429
-2024-08-26 07:02:04.974461,Presidential Debates - ABC Debate Sept 10th: To Be Said By Donald Trump - To Be Said By Donald Trump,Most unpopular vice president in history,0.13640000000000002,0.5,0.3636
 2024-08-26 07:02:04.974461,Presidential Debates - ABC Debate Sept 10th: To Be Said By Donald Trump - To Be Said By Donald Trump,Nation in decline,0.13640000000000002,0.5,0.3636
+2024-08-26 07:02:04.974461,Presidential Debates - ABC Debate Sept 10th: To Be Said By Donald Trump - To Be Said By Donald Trump,Most unpopular vice president in history,0.13640000000000002,0.5,0.3636
 2024-08-26 03:02:10.828362,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Monaco,0.12589999999999998,0.3077,0.1818
-2024-08-25 23:02:28.961622,La Liga - Spain La Liga 2024/25 - To Be Relegated,Las Palmas,0.1154,0.5,0.3846
 2024-08-26 03:02:11.135918,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,AGF Aarhus,0.1154,0.5,0.3846
+2024-08-25 23:02:28.961622,La Liga - Spain La Liga 2024/25 - To Be Relegated,Las Palmas,0.1154,0.5,0.3846
 2024-08-26 07:02:04.990051,Presidential Debates - ABC Debate Sept 10th: To Be Said By Kamala Harris During The Debate - To Be Said By Kamala Harris,American dream,0.11259999999999992,0.6364,0.5238
 2024-08-25 23:02:28.967478,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Sociedad,0.11109999999999998,0.3333,0.2222
 2024-08-26 03:02:11.142422,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,AGF Aarhus,0.10909999999999997,0.9091,0.8
@@ -18,8 +18,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-26 07:02:19.913206,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Raisel Iglesias (ATL),0.0915999999999999,0.6154,0.5238
 2024-08-26 03:02:11.817371,MTV VMAs - MTV VMAs - Song Of The Year - Song Of The Year,Taylor Swift ft. Post Malone - Fortnight,0.09090000000000004,0.4545,0.3636
 2024-08-25 23:02:28.879756,Serie A - Italy Serie A 2024/25 - To Be Relegated,Venezia,0.09089999999999998,0.6364,0.5455
-2024-08-26 07:02:04.990051,Presidential Debates - ABC Debate Sept 10th: To Be Said By Kamala Harris During The Debate - To Be Said By Kamala Harris,Project 2025,0.08979999999999999,0.9231,0.8333
 2024-08-26 03:02:11.199762,Serie B - Italy Serie B 2024/25 - To Be Promoted,Pisa,0.08979999999999999,0.1667,0.0769
+2024-08-26 07:02:04.990051,Presidential Debates - ABC Debate Sept 10th: To Be Said By Kamala Harris During The Debate - To Be Said By Kamala Harris,Project 2025,0.08979999999999999,0.9231,0.8333
 2024-08-26 03:02:11.504075,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Sing Sing,0.0889,0.2,0.1111
 2024-08-26 07:02:04.974461,Presidential Debates - ABC Debate Sept 10th: To Be Said By Donald Trump - To Be Said By Donald Trump,Violent crime,0.08889999999999998,0.8889,0.8
 2024-08-25 23:02:28.885484,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Napoli,0.08330000000000004,0.5833,0.5
@@ -32,20 +32,21 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-25 23:02:28.961622,La Liga - Spain La Liga 2024/25 - To Be Relegated,Espanyol,0.06970000000000004,0.3774,0.3077
 2024-08-26 03:02:10.841431,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Angers,0.06969999999999998,0.6923,0.6226
 2024-08-26 01:02:14.355477,CFL - CFL Futures -  Grey Cup Winner 2024,Montreal Alouettes,0.06670000000000004,0.4,0.3333
-2024-08-26 07:02:04.962261,Presidential Debates - ABC Debate Sept 10th: Colour Of Kamala Harris' Outfit - Colour Of Harris' Outfit,Blue,0.06669999999999998,0.6667,0.6
 2024-08-26 03:02:10.894875,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Internacional,0.06669999999999998,0.2667,0.2
+2024-08-26 07:02:04.962261,Presidential Debates - ABC Debate Sept 10th: Colour Of Kamala Harris' Outfit - Colour Of Harris' Outfit,Blue,0.06669999999999998,0.6667,0.6
 2024-08-26 03:02:11.419822,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Crystal Palace,0.06659999999999999,0.7333,0.6667
 2024-08-26 03:02:11.129423,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Vejle BK,0.06659999999999999,0.7333,0.6667
 2024-08-25 23:02:28.967478,La Liga - Spain La Liga 2024/25 - Top 4 Finish,FC Barcelona,0.06600000000000006,0.9231,0.8571
 2024-08-26 03:02:11.412752,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Brighton & Hove Albion,0.06520000000000004,0.7143,0.6491
 2024-08-26 03:02:10.879626,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Fluminense,0.0635,0.2857,0.2222
 2024-08-26 03:02:11.827145,MTV VMAs - MTV VMAs 2024 - Artist Of The Year - Artist Of The Year,Taylor Swift,0.0635,0.7778,0.7143
+2024-08-26 11:01:58.730478,Big Twelve Regular Season Wins - Big Twelve Regular Season Wins - Iowa State,Over 7.5 Wins,0.0635,0.6552,0.5917
 2024-08-26 03:02:10.663966,Championship - England Championship 2024/25 - To Be Promoted,Burnley,0.05870000000000003,0.5238,0.4651
 2024-08-26 03:02:10.885709,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,São Paulo,0.055900000000000005,0.3636,0.3077
-2024-08-26 07:02:04.926325,Presidential Debates - ABC Debate Sept 10th: First State Mentioned By Either Harris Or Trump - First Mentioned State,Pennsylvania,0.05559999999999998,0.5,0.4444
-2024-08-26 03:02:11.199762,Serie B - Italy Serie B 2024/25 - To Be Promoted,Sassuolo,0.05559999999999998,0.5,0.4444
 2024-08-26 03:02:11.639145,Beetlejuice Beetlejuice - Beetlejuice Beetlejuice Opening Weekend Domestic Box Office Gross - Beetlejuice Beetlejuice Opening Weekend,Under $100 million,0.05559999999999998,0.5,0.4444
 2024-08-26 07:02:04.926325,Presidential Debates - ABC Debate Sept 10th: First State Mentioned By Either Harris Or Trump - First Mentioned State,California,0.05559999999999998,0.5,0.4444
+2024-08-26 07:02:04.926325,Presidential Debates - ABC Debate Sept 10th: First State Mentioned By Either Harris Or Trump - First Mentioned State,Pennsylvania,0.05559999999999998,0.5,0.4444
+2024-08-26 03:02:11.199762,Serie B - Italy Serie B 2024/25 - To Be Promoted,Sassuolo,0.05559999999999998,0.5,0.4444
 2024-08-25 23:02:28.961622,La Liga - Spain La Liga 2024/25 - To Be Relegated,Mallorca,0.05550000000000002,0.2222,0.1667
 2024-08-26 03:02:11.182788,Super League - Greece Super League 2024/25 - Winner,PAOK Thessaloniki,0.05550000000000002,0.2222,0.1667
 2024-08-26 03:02:11.412752,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,West Ham United,0.05449999999999999,0.6,0.5455
@@ -53,13 +54,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-26 03:02:11.361755,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,David Raya,0.05130000000000001,0.3846,0.3333
 2024-08-26 03:02:11.129423,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Aalborg BK,0.0504,0.2857,0.2353
 2024-08-26 07:02:04.990051,Presidential Debates - ABC Debate Sept 10th: To Be Said By Kamala Harris During The Debate - To Be Said By Kamala Harris,Not a serious man,0.04999999999999999,0.25,0.2
-2024-08-26 03:02:12.065120,Harry Potter Reboot - Who will play Severus Snape? - Who will play Severus Snape?,Adam Driver,0.04999999999999999,0.25,0.2
 2024-08-26 03:02:11.291333,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,Sporting Cristal,0.04999999999999999,0.25,0.2
+2024-08-26 03:02:12.065120,Harry Potter Reboot - Who will play Severus Snape? - Who will play Severus Snape?,Adam Driver,0.04999999999999999,0.25,0.2
 2024-08-26 07:02:19.742071,MLB Futures - MLB 2024 American League East - American League East Winner,New York Yankees,0.04910000000000003,0.6491,0.6
 2024-08-26 07:02:20.210446,Tour Championship - Tour Championship - Winner,Scottie Scheffler,0.0484,0.4651,0.4167
 2024-08-25 23:02:28.885484,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Torino,0.048100000000000004,0.125,0.0769
-2024-08-25 23:02:28.879756,Serie A - Italy Serie A 2024/25 - To Be Relegated,Como,0.04620000000000002,0.2,0.1538
+2024-08-26 11:01:58.622877,Big Twelve Regular Season Wins - Big Twelve Regular Season Wins - Arizona,Over 7.5 Wins,0.04620000000000002,0.5917,0.5455
 2024-08-26 03:02:10.788048,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Napoli,0.04620000000000002,0.2,0.1538
+2024-08-25 23:02:28.879756,Serie A - Italy Serie A 2024/25 - To Be Relegated,Como,0.04620000000000002,0.2,0.1538
 2024-08-26 09:02:02.626884,MLB Futures - MLB 2024 National League West - National League West Winner,Arizona Diamondbacks,0.04619999999999999,0.1176,0.0714
 2024-08-26 03:02:11.426866,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Nottingham Forest,0.04619999999999991,0.8462,0.8
 2024-08-26 03:02:10.879626,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Corinthians,0.045499999999999985,0.5455,0.5
@@ -81,26 +83,27 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-26 03:02:11.730186,Blake Lively Specials - How many NFL games will Blake Lively attend in the 2024 season? - Blake Lively NFL Games,Over 1.5,0.037800000000000056,0.5833,0.5455
 2024-08-26 05:01:25.266718,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Landskrona BoIS,0.037800000000000056,0.5833,0.5455
 2024-08-25 23:02:29.152151,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Chelsea,0.03639999999999999,0.6364,0.6
+2024-08-26 03:02:11.377322,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Wolverhampton Wanderers,0.03570000000000001,0.2857,0.25
 2024-08-25 23:02:28.949991,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,0.03570000000000001,0.2857,0.25
 2024-08-26 07:02:00.448267,Grammy Awards 2025 - Grammys: Album Of The Year - Album Of The Year,Billie Eilish - Hit Me Hard And Soft,0.03570000000000001,0.2857,0.25
-2024-08-26 03:02:11.377322,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Wolverhampton Wanderers,0.03570000000000001,0.2857,0.25
-2024-08-26 03:02:11.916779,76th Primetime Emmy Awards - Emmys: Writing For A Limited Or Anthology Series - Writing Limited/Anthology,Richard Gadd - Baby Reindeer,0.035699999999999954,0.75,0.7143
 2024-08-25 23:02:29.145847,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Liverpool,0.035699999999999954,0.75,0.7143
-2024-08-26 03:02:10.894875,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Fortaleza,0.03420000000000001,0.9231,0.8889
+2024-08-26 03:02:11.916779,76th Primetime Emmy Awards - Emmys: Writing For A Limited Or Anthology Series - Writing Limited/Anthology,Richard Gadd - Baby Reindeer,0.035699999999999954,0.75,0.7143
+2024-08-26 11:01:58.786996,Big Twelve Regular Season Wins - Big Twelve Regular Season Wins - Oklahoma State,Over 8.5 Wins,0.03480000000000005,0.5348,0.5
 2024-08-26 03:02:11.419822,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Everton,0.03420000000000001,0.9231,0.8889
 2024-08-26 03:02:11.426866,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Fulham,0.03420000000000001,0.9231,0.8889
+2024-08-26 03:02:10.894875,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Fortaleza,0.03420000000000001,0.9231,0.8889
 2024-08-26 07:02:20.210446,Tour Championship - Tour Championship - Winner,Keegan Bradley,0.0335,0.0385,0.005
 2024-08-26 03:02:11.172789,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,Fortuna Düsseldorf,0.033399999999999985,0.1667,0.1333
 2024-08-26 01:02:14.355477,CFL - CFL Futures -  Grey Cup Winner 2024,Saskatchewan Roughriders,0.033399999999999985,0.1667,0.1333
 2024-08-26 03:02:10.866807,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Fortaleza,0.033399999999999985,0.1667,0.1333
+2024-08-26 03:02:11.817371,MTV VMAs - MTV VMAs - Song Of The Year - Song Of The Year,Kendrick Lamar - Not Like Us,0.033300000000000024,0.2,0.1667
 2024-08-26 03:02:10.695752,Championship - England Championship 2024/25 - Top 6 Finish,Hull City,0.033300000000000024,0.2,0.1667
 2024-08-26 03:02:11.435826,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Kevin De Bruyne (Man City),0.033300000000000024,0.2,0.1667
-2024-08-26 03:02:11.817371,MTV VMAs - MTV VMAs - Song Of The Year - Song Of The Year,Kendrick Lamar - Not Like Us,0.033300000000000024,0.2,0.1667
 2024-08-26 03:02:11.122901,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Nordsjælland,0.03330000000000001,0.1,0.0667
 2024-08-26 03:02:11.412752,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Chelsea,0.033299999999999996,0.9333,0.9
 2024-08-26 03:02:11.199762,Serie B - Italy Serie B 2024/25 - To Be Promoted,FC Südtirol,0.0321,0.0909,0.0588
-2024-08-26 07:02:04.974461,Presidential Debates - ABC Debate Sept 10th: To Be Said By Donald Trump - To Be Said By Donald Trump,I get bigger crowds than you,0.031799999999999995,0.1429,0.1111
 2024-08-26 03:02:11.419822,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Newcastle United,0.031799999999999995,0.1429,0.1111
+2024-08-26 07:02:04.974461,Presidential Debates - ABC Debate Sept 10th: To Be Said By Donald Trump - To Be Said By Donald Trump,I get bigger crowds than you,0.031799999999999995,0.1429,0.1111
 2024-08-26 07:02:20.210446,Tour Championship - Tour Championship - Winner,Collin Morikawa,0.0306,0.0385,0.0079
 2024-08-26 03:02:10.894875,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,São Paulo,0.030299999999999994,0.6667,0.6364
 2024-08-26 03:02:11.142422,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,FC Nordsjælland,0.029900000000000038,0.8,0.7701
@@ -112,18 +115,18 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-26 03:02:11.793906,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,Robert F Kennedy Jr,0.029299999999999993,0.0769,0.0476
 2024-08-26 03:02:10.841431,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Saint-Étienne,0.029000000000000026,0.4545,0.4255
 2024-08-26 03:02:11.858107,76th Primetime Emmy Awards - Emmys: Best Drama Series - Best Drama Series,The Crown,0.028799999999999992,0.1538,0.125
+2024-08-26 03:02:10.753004,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Florian Wirtz (Bayer Leverkusen),0.028199999999999996,0.0667,0.0385
 2024-08-26 03:02:10.695752,Championship - England Championship 2024/25 - Top 6 Finish,Plymouth Argyle,0.028199999999999996,0.0667,0.0385
 2024-08-26 03:02:10.695752,Championship - England Championship 2024/25 - Top 6 Finish,Oxford United,0.028199999999999996,0.0667,0.0385
-2024-08-26 03:02:10.753004,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Florian Wirtz (Bayer Leverkusen),0.028199999999999996,0.0667,0.0385
 2024-08-25 23:02:29.152151,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,West Ham United,0.027999999999999997,0.1818,0.1538
 2024-08-26 03:02:11.419822,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Brentford,0.027999999999999914,0.8462,0.8182
 2024-08-26 03:02:11.135918,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,FC Midtjylland,0.027800000000000047,0.7778,0.75
 2024-08-26 03:02:11.659863,Megalopolis - Megalopolis: Rotten Tomatoes Tomatometer One Month After Release - Tomatometer,Rotten,0.027800000000000047,0.75,0.7222
 2024-08-26 03:02:10.807119,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Lecce,0.027800000000000005,0.1111,0.0833
-2024-08-26 03:02:11.412752,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Fulham,0.02779999999999999,0.25,0.2222
 2024-08-26 03:02:10.671551,Championship - England Championship 2024/25 - To Be Relegated,Preston North End,0.02779999999999999,0.25,0.2222
-2024-08-26 03:02:10.695752,Championship - England Championship 2024/25 - Top 6 Finish,Stoke City,0.02779999999999999,0.25,0.2222
 2024-08-26 03:02:10.695752,Championship - England Championship 2024/25 - Top 6 Finish,Watford,0.02779999999999999,0.25,0.2222
+2024-08-26 03:02:10.695752,Championship - England Championship 2024/25 - Top 6 Finish,Stoke City,0.02779999999999999,0.25,0.2222
+2024-08-26 03:02:11.412752,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Fulham,0.02779999999999999,0.25,0.2222
 2024-08-26 03:02:10.879626,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Vitória BA,0.025999999999999912,0.7403,0.7143
 2024-08-26 03:02:11.209950,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,PSV Eindhoven,0.025600000000000067,0.6923,0.6667
 2024-08-25 23:02:28.967478,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Girona,0.02560000000000001,0.3333,0.3077
@@ -131,54 +134,55 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-26 03:02:10.688064,Championship - England Championship 2024/25 - Top 2 Finish,Burnley,0.025499999999999967,0.4255,0.4
 2024-08-25 23:02:29.152151,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Aston Villa,0.025499999999999967,0.4255,0.4
 2024-08-26 03:02:10.885709,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Flamengo,0.025000000000000022,0.9,0.875
-2024-08-26 03:02:11.199762,Serie B - Italy Serie B 2024/25 - To Be Promoted,Spezia,0.024999999999999994,0.125,0.1
 2024-08-26 03:02:10.671551,Championship - England Championship 2024/25 - To Be Relegated,Sheffield Wednesday,0.024999999999999994,0.125,0.1
 2024-08-26 03:02:11.419822,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Manchester United,0.024999999999999994,0.125,0.1
+2024-08-26 03:02:11.199762,Serie B - Italy Serie B 2024/25 - To Be Promoted,Spezia,0.024999999999999994,0.125,0.1
 2024-08-26 03:02:10.841431,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Lyon,0.024299999999999995,0.0588,0.0345
 2024-08-26 03:02:10.885709,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Internacional,0.0242,0.0909,0.0667
 2024-08-26 03:02:10.695752,Championship - England Championship 2024/25 - Top 6 Finish,Derby County,0.0242,0.0909,0.0667
+2024-08-26 03:02:10.759405,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Holstein Kiel,0.023799999999999988,0.5,0.4762
 2024-08-26 03:02:11.877590,76th Primetime Emmy Awards - Emmys: Lead Actor In A Comedy Series - Lead Actor Comedy,D'Pharaoh Woon-A-Tai - Rerservation Dogs,0.023799999999999988,0.1667,0.1429
 2024-08-26 03:02:11.412752,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Nottingham Forest,0.023799999999999988,0.1667,0.1429
-2024-08-26 03:02:10.759405,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Holstein Kiel,0.023799999999999988,0.5,0.4762
 2024-08-25 23:02:28.879756,Serie A - Italy Serie A 2024/25 - To Be Relegated,Lazio,0.0236,0.0385,0.0149
 2024-08-26 07:02:04.869115,Kamala Harris Specials - Who will Kamala Harris livestream with on her Twitch account first? - Who will Harris stream with first?,Beyonce,0.023200000000000002,0.0476,0.0244
 2024-08-26 03:02:11.192969,Serie B - Italy Serie B 2024/25 - Winner,Pisa,0.023200000000000002,0.0476,0.0244
 2024-08-26 07:02:05.148083,US Senate Elections 2024 - Senate Election Winner - Ohio - Winner,Democrat,0.022600000000000064,0.6226,0.6
-2024-08-26 03:02:11.867878,76th Primetime Emmy Awards - Emmys: Best Limited Or Anthology Series - Best Limited/Anthology Series,Fargo,0.022199999999999998,0.2222,0.2
 2024-08-26 03:02:10.879626,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Cuiabá,0.022199999999999998,0.8,0.7778
-2024-08-26 03:02:10.663966,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,0.022199999999999998,0.2222,0.2
-2024-08-25 23:02:28.849584,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,RB Leipzig,0.022199999999999998,0.2222,0.2
-2024-08-26 03:02:11.240340,Premiership - Scotland Premiership 2024/25 - Winner,Celtic,0.022199999999999998,0.8,0.7778
 2024-08-26 03:02:10.841431,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,AJ Auxerre,0.022199999999999998,0.2222,0.2
-2024-08-26 07:02:19.826934,MLB Futures - MLB 2024 Player Awards - American League Manager of the Year,Stephen Vogt,0.02200000000000002,0.7143,0.6923
+2024-08-26 03:02:10.663966,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,0.022199999999999998,0.2222,0.2
+2024-08-26 03:02:11.240340,Premiership - Scotland Premiership 2024/25 - Winner,Celtic,0.022199999999999998,0.8,0.7778
+2024-08-26 03:02:11.867878,76th Primetime Emmy Awards - Emmys: Best Limited Or Anthology Series - Best Limited/Anthology Series,Fargo,0.022199999999999998,0.2222,0.2
+2024-08-25 23:02:28.849584,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,RB Leipzig,0.022199999999999998,0.2222,0.2
 2024-08-25 23:02:29.139531,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Arsenal,0.02200000000000002,0.7143,0.6923
-2024-08-26 03:02:11.377322,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Leicester City,0.02200000000000002,0.7143,0.6923
 2024-08-26 03:02:11.142422,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,Silkeborg IF,0.02200000000000002,0.7143,0.6923
+2024-08-26 03:02:11.377322,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Leicester City,0.02200000000000002,0.7143,0.6923
+2024-08-26 07:02:19.826934,MLB Futures - MLB 2024 Player Awards - American League Manager of the Year,Stephen Vogt,0.02200000000000002,0.7143,0.6923
 2024-08-26 03:02:10.847438,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Lille,0.021999999999999964,0.3077,0.2857
 2024-08-26 03:02:10.759405,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Bochum,0.021999999999999964,0.3077,0.2857
-2024-08-26 03:02:10.688064,Championship - England Championship 2024/25 - Top 2 Finish,Leeds United,0.02169999999999994,0.5455,0.5238
 2024-08-26 03:02:11.250526,Super Lig - Turkey Super Lig 2024/25 - Outright,Fenerbahce,0.02169999999999994,0.5455,0.5238
+2024-08-26 03:02:10.688064,Championship - England Championship 2024/25 - Top 2 Finish,Leeds United,0.02169999999999994,0.5455,0.5238
 2024-08-26 03:02:11.793906,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,Kamala Harris,0.020799999999999985,0.3333,0.3125
-2024-08-26 03:02:12.024885,Harry Potter Reboot - To Make A Credited Appearance In Series 1 - To Appear,Daniel Radcliffe,0.02020000000000001,0.1111,0.0909
-2024-08-26 03:02:12.065120,Harry Potter Reboot - Who will play Severus Snape? - Who will play Severus Snape?,Idris Elba,0.02020000000000001,0.1111,0.0909
 2024-08-26 03:02:12.024885,Harry Potter Reboot - To Make A Credited Appearance In Series 1 - To Appear,Emma Watson,0.02020000000000001,0.1111,0.0909
-2024-08-26 03:02:12.024885,Harry Potter Reboot - To Make A Credited Appearance In Series 1 - To Appear,Rupert Grint,0.02020000000000001,0.1111,0.0909
+2024-08-26 03:02:12.024885,Harry Potter Reboot - To Make A Credited Appearance In Series 1 - To Appear,Daniel Radcliffe,0.02020000000000001,0.1111,0.0909
 2024-08-26 05:01:25.964375,Royal Family - Harry & Meghan: Year Of Divorce - Harry & Meghan: Year Of Divorce,2025,0.02020000000000001,0.1111,0.0909
+2024-08-26 03:02:12.024885,Harry Potter Reboot - To Make A Credited Appearance In Series 1 - To Appear,Rupert Grint,0.02020000000000001,0.1111,0.0909
+2024-08-26 03:02:12.065120,Harry Potter Reboot - Who will play Severus Snape? - Who will play Severus Snape?,Idris Elba,0.02020000000000001,0.1111,0.0909
 2024-08-26 05:01:25.236139,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,Djurgårdens,0.02020000000000001,0.1111,0.0909
+2024-08-26 11:01:59.862704,Sun Belt Regular Season Wins - Sun Belt Regular Season Wins - South Alabama,Under 6.5 Wins,0.019699999999999995,0.4545,0.4348
 2024-08-26 03:02:10.841431,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Brest,0.019699999999999995,0.125,0.1053
 2024-08-26 03:02:11.435826,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Cole Palmer (Chelsea),0.019099999999999992,0.0667,0.0476
 2024-08-26 03:02:11.192969,Serie B - Italy Serie B 2024/25 - Winner,FC Südtirol,0.0189,0.0385,0.0196
 2024-08-26 03:02:11.377322,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Southampton,0.01880000000000004,0.5744,0.5556
-2024-08-26 03:02:10.807119,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Cagliari,0.01820000000000002,0.2,0.1818
 2024-08-26 03:02:10.695752,Championship - England Championship 2024/25 - Top 6 Finish,Norwich City,0.01820000000000002,0.2,0.1818
+2024-08-26 03:02:10.807119,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Cagliari,0.01820000000000002,0.2,0.1818
 2024-08-25 23:02:28.885484,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Udinese,0.018200000000000004,0.0476,0.0294
-2024-08-26 03:02:11.354027,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Heung-Min Son (Tottenham),0.018200000000000004,0.0476,0.0294
 2024-08-26 03:02:10.807119,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Monza,0.018200000000000004,0.0476,0.0294
+2024-08-26 03:02:11.354027,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Heung-Min Son (Tottenham),0.018200000000000004,0.0476,0.0294
 2024-08-26 03:02:11.199762,Serie B - Italy Serie B 2024/25 - To Be Promoted,Reggiana,0.018200000000000004,0.0476,0.0294
 2024-08-26 07:02:20.210446,Tour Championship - Tour Championship - Winner,Wyndham Clark,0.0182,0.0323,0.0141
 2024-08-26 03:02:11.426866,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Bournemouth,0.018100000000000005,0.9412,0.9231
-2024-08-25 23:02:28.885484,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Bologna,0.018099999999999998,0.0769,0.0588
 2024-08-26 03:02:10.663966,Championship - England Championship 2024/25 - To Be Promoted,Queens Park Rangers,0.018099999999999998,0.0769,0.0588
+2024-08-25 23:02:28.885484,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Bologna,0.018099999999999998,0.0769,0.0588
 2024-08-26 03:02:11.199762,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cesena,0.0179,0.1429,0.125
 2024-08-26 03:02:11.301589,J1 League - Japan J1 League 2024 - Winner,Vissel Kobe,0.0179,0.1429,0.125
 2024-08-26 03:02:10.847438,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Lens,0.017600000000000005,0.3509,0.3333
@@ -189,60 +193,61 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-26 03:02:10.834771,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Mason Greenwood (Marseille),0.015700000000000006,0.1333,0.1176
 2024-08-26 07:02:20.210446,Tour Championship - Tour Championship - Winner,Tony Finau,0.0156,0.0196,0.004
 2024-08-26 03:02:10.866807,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Flamengo,0.015400000000000025,0.4,0.3846
+2024-08-26 03:02:10.663966,Championship - England Championship 2024/25 - To Be Promoted,Coventry City,0.015100000000000002,0.1818,0.1667
 2024-08-26 03:02:10.828362,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lens,0.015100000000000002,0.1818,0.1667
 2024-08-26 03:02:11.182788,Super League - Greece Super League 2024/25 - Winner,Panathinaikos,0.015100000000000002,0.1818,0.1667
 2024-08-26 03:02:11.897180,76th Primetime Emmy Awards - Emmys: Lead Actress In A Comedy Series - Lead Actress Comedy,Ayo Edibiri - The Bear,0.015100000000000002,0.1818,0.1667
-2024-08-26 03:02:10.663966,Championship - England Championship 2024/25 - To Be Promoted,Coventry City,0.015100000000000002,0.1818,0.1667
 2024-08-25 23:02:28.879756,Serie A - Italy Serie A 2024/25 - To Be Relegated,AS Roma,0.014499999999999999,0.0294,0.0149
 2024-08-26 03:02:10.894875,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Flamengo,0.014499999999999957,0.9901,0.9756
 2024-08-26 03:02:12.034973,Harry Potter Reboot - Who will play Albus Dumbledore? - Who will play Albus Dumbledore?,Pierce Brosnan,0.014399999999999996,0.0769,0.0625
 2024-08-26 03:02:11.848283,76th Primetime Emmy Awards - Emmys: Best Comedy Series - Best Comedy Series,The Bear,0.014399999999999968,0.9375,0.9231
 2024-08-26 03:02:11.419822,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Southampton,0.01429999999999998,0.9852,0.9709
 2024-08-26 03:02:27.485824,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Georgia Tech,0.014100000000000001,0.0526,0.0385
-2024-08-26 03:02:10.894875,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Vasco da Gama,0.014099999999999998,0.0435,0.0294
 2024-08-26 05:01:24.920977,Tournament Futures - FIFA World Cup 2026 - Winner,Uruguay,0.014099999999999998,0.0385,0.0244
-2024-08-26 03:02:10.753004,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Andrej Kramaric (Hoffenheim),0.014099999999999998,0.0385,0.0244
+2024-08-26 03:02:10.894875,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Vasco da Gama,0.014099999999999998,0.0435,0.0294
 2024-08-26 03:02:10.894875,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Grêmio,0.014099999999999998,0.0385,0.0244
+2024-08-26 03:02:10.753004,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Andrej Kramaric (Hoffenheim),0.014099999999999998,0.0385,0.0244
 2024-08-26 03:02:11.412752,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Tottenham Hotspur,0.014000000000000012,0.9231,0.9091
 2024-08-26 07:02:19.765363,MLB Futures - MLB 2024 American League West - American League West Winner,Houston Astros,0.014000000000000012,0.9231,0.9091
-2024-08-26 03:02:10.695752,Championship - England Championship 2024/25 - Top 6 Finish,Portsmouth,0.013999999999999999,0.0909,0.0769
 2024-08-26 03:02:11.384437,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Wolverhampton Wanderers,0.013999999999999999,0.0909,0.0769
-2024-08-25 23:02:29.139531,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Chelsea,0.013999999999999999,0.0909,0.0769
+2024-08-26 03:02:10.695752,Championship - England Championship 2024/25 - Top 6 Finish,Portsmouth,0.013999999999999999,0.0909,0.0769
 2024-08-26 07:02:04.869115,Kamala Harris Specials - Who will Kamala Harris livestream with on her Twitch account first? - Who will Harris stream with first?,Oprah Winfrey,0.013999999999999999,0.0909,0.0769
-2024-08-26 03:02:12.065120,Harry Potter Reboot - Who will play Severus Snape? - Who will play Severus Snape?,Oscar Isaac,0.013899999999999996,0.125,0.1111
+2024-08-25 23:02:29.139531,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Chelsea,0.013999999999999999,0.0909,0.0769
 2024-08-26 03:02:11.192969,Serie B - Italy Serie B 2024/25 - Winner,Cremonese,0.013899999999999996,0.125,0.1111
+2024-08-26 03:02:12.065120,Harry Potter Reboot - Who will play Severus Snape? - Who will play Severus Snape?,Oscar Isaac,0.013899999999999996,0.125,0.1111
 2024-08-26 03:02:11.291333,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,AD Tarma,0.0131,0.0476,0.0345
 2024-08-25 23:02:28.885484,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Hellas Verona,0.013,0.0196,0.0066
 2024-08-26 05:01:26.115530,Nobel Prizes - Nobel Literature Prize 2024 - Nobel Literature Prize 2024,Margaret Atwood,0.012700000000000003,0.0323,0.0196
-2024-08-25 23:02:29.139531,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Liverpool,0.012699999999999989,0.3636,0.3509
 2024-08-26 03:02:11.280973,Primera Division - Chile Primera Division 2024 - Futures - Winner,Colo-Colo,0.012699999999999989,0.3636,0.3509
 2024-08-26 03:02:11.384437,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Leicester City,0.012699999999999989,0.3636,0.3509
+2024-08-25 23:02:29.139531,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Liverpool,0.012699999999999989,0.3636,0.3509
 2024-08-26 03:02:15.381346,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.011600000000000055,0.5238,0.5122
 2024-08-26 03:02:15.393502,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican,0.011600000000000055,0.5238,0.5122
-2024-08-26 03:02:11.369644,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,James Maddison,0.011199999999999995,0.0588,0.0476
-2024-08-26 03:02:10.879626,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,RB Bragantino,0.011199999999999995,0.0588,0.0476
 2024-08-26 03:02:11.199762,Serie B - Italy Serie B 2024/25 - To Be Promoted,Mantova,0.011199999999999995,0.0588,0.0476
+2024-08-26 03:02:11.369644,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,James Maddison,0.011199999999999995,0.0588,0.0476
 2024-08-26 03:02:10.688064,Championship - England Championship 2024/25 - Top 2 Finish,Stoke City,0.011199999999999995,0.0588,0.0476
+2024-08-26 03:02:10.879626,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,RB Bragantino,0.011199999999999995,0.0588,0.0476
 2024-08-26 03:02:11.412752,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Manchester United,0.011199999999999988,0.9524,0.9412
-2024-08-26 03:02:11.122901,Superligaen - Denmark Superligaen 2024/2025 - Winner,AGF Aarhus,0.011099999999999999,0.1111,0.1
 2024-08-26 03:02:10.688064,Championship - England Championship 2024/25 - Top 2 Finish,Coventry City,0.011099999999999999,0.1111,0.1
 2024-08-25 23:02:28.879756,Serie A - Italy Serie A 2024/25 - To Be Relegated,Genoa,0.011099999999999999,0.1111,0.1
+2024-08-26 03:02:11.122901,Superligaen - Denmark Superligaen 2024/2025 - Winner,AGF Aarhus,0.011099999999999999,0.1111,0.1
 2024-08-26 03:02:11.361755,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,Alisson,0.010899999999999993,0.1538,0.1429
 2024-08-26 03:02:11.906896,76th Primetime Emmy Awards - Emmys: Lead Actress In A Drama Series - Lead Actress Drama,Reese Witherspoon - The Morning Show,0.010700000000000001,0.0385,0.0278
 2024-08-26 03:02:11.142422,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,FC Midtjylland,0.010699999999999932,0.9722,0.9615
 2024-08-25 23:02:29.139531,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Tottenham Hotspur,0.0102,0.0769,0.0667
 2024-08-26 03:02:10.695752,Championship - England Championship 2024/25 - Top 6 Finish,Cardiff City,0.0102,0.0769,0.0667
 2024-08-26 03:02:10.807119,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Bologna,0.010100000000000001,0.0345,0.0244
+2024-08-26 11:01:58.417483,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Minnesota,Over 5.5 Wins,0.010099999999999998,0.5556,0.5455
 2024-08-26 03:02:11.648660,Beetlejuice Beetlejuice - Rotten Tomatoes Audience Score After One Month - Beetlejuice Beetlejuice,Over 75%,0.010099999999999998,0.5556,0.5455
 2024-08-25 23:02:28.967478,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Valladolid,-0.010100000000000001,0.0244,0.0345
+2024-08-26 03:02:11.793906,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,Sam Altman,-0.0102,0.0667,0.0769
 2024-08-26 03:02:11.384437,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Nottingham Forest,-0.0102,0.0667,0.0769
 2024-08-26 03:02:10.834771,Ligue 1 - France Ligue 1 2024/25 - Top Goalscorer,Folarin Balogun (Monaco),-0.0102,0.0667,0.0769
-2024-08-26 03:02:11.848283,76th Primetime Emmy Awards - Emmys: Best Comedy Series - Best Comedy Series,Reservation Dogs,-0.0102,0.0667,0.0769
-2024-08-26 03:02:11.793906,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,Sam Altman,-0.0102,0.0667,0.0769
-2024-08-26 03:02:11.848283,76th Primetime Emmy Awards - Emmys: Best Comedy Series - Best Comedy Series,Abbott Elementary,-0.0102,0.0667,0.0769
 2024-08-26 03:02:11.858107,76th Primetime Emmy Awards - Emmys: Best Drama Series - Best Drama Series,Slow Horses,-0.0102,0.0667,0.0769
-2024-08-25 23:02:29.145847,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,West Ham United,-0.0102,0.0667,0.0769
 2024-08-25 23:02:29.152151,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Crystal Palace,-0.0102,0.0667,0.0769
+2024-08-25 23:02:29.145847,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,West Ham United,-0.0102,0.0667,0.0769
+2024-08-26 03:02:11.848283,76th Primetime Emmy Awards - Emmys: Best Comedy Series - Best Comedy Series,Abbott Elementary,-0.0102,0.0667,0.0769
+2024-08-26 03:02:11.848283,76th Primetime Emmy Awards - Emmys: Best Comedy Series - Best Comedy Series,Reservation Dogs,-0.0102,0.0667,0.0769
 2024-08-26 03:02:11.867878,76th Primetime Emmy Awards - Emmys: Best Limited Or Anthology Series - Best Limited/Anthology Series,Lessons In Chemistry,-0.0102,0.0667,0.0769
 2024-08-26 03:02:11.142422,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,Viborg FF,-0.010499999999999982,0.2,0.2105
 2024-08-26 03:02:10.695752,Championship - England Championship 2024/25 - Top 6 Finish,Sheffield United,-0.010599999999999998,0.4545,0.4651
@@ -255,44 +260,47 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-26 03:02:11.135918,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,FC Copenhagen,-0.01090000000000002,0.8462,0.8571
 2024-08-26 03:02:15.393502,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,-0.01100000000000001,0.5238,0.5348
 2024-08-26 03:02:15.381346,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.01100000000000001,0.5238,0.5348
-2024-08-26 03:02:11.793906,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,Taylor Swift,-0.011099999999999999,0.1,0.1111
 2024-08-26 03:02:11.793906,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,AI/Artificial Intelligence,-0.011099999999999999,0.1,0.1111
 2024-08-26 03:02:11.220055,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,SK Brann,-0.011099999999999999,0.1,0.1111
 2024-08-26 03:02:11.435826,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Rodri (Man City),-0.011099999999999999,0.1,0.1111
-2024-08-26 03:02:11.827145,MTV VMAs - MTV VMAs 2024 - Artist Of The Year - Artist Of The Year,Eminem,-0.011099999999999999,0.1,0.1111
 2024-08-26 07:02:04.926325,Presidential Debates - ABC Debate Sept 10th: First State Mentioned By Either Harris Or Trump - First Mentioned State,Wisconsin,-0.011099999999999999,0.1,0.1111
-2024-08-26 05:01:24.920977,Tournament Futures - FIFA World Cup 2026 - Winner,Netherlands,-0.011199999999999995,0.0476,0.0588
-2024-08-26 03:02:11.793906,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,MrBeast,-0.011199999999999995,0.0476,0.0588
-2024-08-26 03:02:10.788048,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Lazio,-0.011199999999999995,0.0476,0.0588
-2024-08-25 23:02:28.961622,La Liga - Spain La Liga 2024/25 - To Be Relegated,Real Betis,-0.011199999999999995,0.0476,0.0588
-2024-08-26 03:02:11.384437,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Fulham,-0.011199999999999995,0.0476,0.0588
-2024-08-26 03:02:11.377322,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,West Ham United,-0.011199999999999995,0.0476,0.0588
-2024-08-26 03:02:11.412752,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Ipswich Town,-0.011199999999999995,0.0476,0.0588
-2024-08-26 03:02:11.361755,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,Emi Martinez,-0.011199999999999995,0.0476,0.0588
+2024-08-26 03:02:11.793906,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,Taylor Swift,-0.011099999999999999,0.1,0.1111
+2024-08-26 03:02:11.827145,MTV VMAs - MTV VMAs 2024 - Artist Of The Year - Artist Of The Year,Eminem,-0.011099999999999999,0.1,0.1111
 2024-08-26 03:02:11.369644,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Bruno Fernandes,-0.011199999999999995,0.0476,0.0588
-2024-08-26 03:02:11.369644,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Heung-min Son,-0.011199999999999995,0.0476,0.0588
+2024-08-26 03:02:11.377322,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,West Ham United,-0.011199999999999995,0.0476,0.0588
+2024-08-26 03:02:11.793906,Time Person of the Year - Time Person Of The Year 2024 - Time Person Of The Year,MrBeast,-0.011199999999999995,0.0476,0.0588
+2024-08-26 03:02:11.384437,Premier League Futures/Specials - English Premier League 2024/25 - To Finish Bottom,Fulham,-0.011199999999999995,0.0476,0.0588
 2024-08-26 03:02:10.788048,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,AS Roma,-0.011199999999999995,0.0476,0.0588
-2024-08-26 01:02:08.425597,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Wolverhampton Wanderers,-0.012100000000000001,0.0123,0.0244
+2024-08-26 03:02:11.361755,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,Emi Martinez,-0.011199999999999995,0.0476,0.0588
+2024-08-26 03:02:10.788048,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,Lazio,-0.011199999999999995,0.0476,0.0588
+2024-08-26 03:02:11.412752,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Ipswich Town,-0.011199999999999995,0.0476,0.0588
+2024-08-26 03:02:11.369644,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Heung-min Son,-0.011199999999999995,0.0476,0.0588
+2024-08-26 05:01:24.920977,Tournament Futures - FIFA World Cup 2026 - Winner,Netherlands,-0.011199999999999995,0.0476,0.0588
+2024-08-25 23:02:28.961622,La Liga - Spain La Liga 2024/25 - To Be Relegated,Real Betis,-0.011199999999999995,0.0476,0.0588
+2024-08-26 11:01:58.417483,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Minnesota,Under 5.5 Wins,-0.011600000000000055,0.5122,0.5238
 2024-08-26 03:02:11.135918,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,SønderjyskE,-0.012100000000000001,0.0123,0.0244
+2024-08-26 01:02:08.425597,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Wolverhampton Wanderers,-0.012100000000000001,0.0123,0.0244
+2024-08-26 11:01:58.608140,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Wisconsin ,Under 6.5 Wins,-0.012199999999999989,0.4878,0.5
 2024-08-25 23:02:28.955795,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Athletic Bilbao,-0.013899999999999996,0.1111,0.125
+2024-08-26 03:02:11.199762,Serie B - Italy Serie B 2024/25 - To Be Promoted,Modena,-0.013899999999999996,0.1111,0.125
 2024-08-26 03:02:10.753004,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Victor Boniface (Bayer Leverkusen),-0.013899999999999996,0.1111,0.125
 2024-08-26 03:02:11.916779,76th Primetime Emmy Awards - Emmys: Writing For A Limited Or Anthology Series - Writing Limited/Anthology,Steven Zaillian - Ripley,-0.013899999999999996,0.1111,0.125
-2024-08-26 03:02:11.199762,Serie B - Italy Serie B 2024/25 - To Be Promoted,Modena,-0.013899999999999996,0.1111,0.125
 2024-08-26 03:02:11.877590,76th Primetime Emmy Awards - Emmys: Lead Actor In A Comedy Series - Lead Actor Comedy,Jeremy Allen White - The Bear,-0.013900000000000023,0.875,0.8889
-2024-08-26 03:02:12.065120,Harry Potter Reboot - Who will play Severus Snape? - Who will play Severus Snape?,Paul Bettany,-0.013999999999999999,0.0769,0.0909
-2024-08-26 03:02:10.753004,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Benjamin Sesko (RB Leipzig),-0.013999999999999999,0.0769,0.0909
 2024-08-26 03:02:11.887454,76th Primetime Emmy Awards - Emmys: Lead Actor In A Drama Series - Lead Actor Drama,Donald Glover - Mr & Mrs Smith,-0.013999999999999999,0.0769,0.0909
+2024-08-26 03:02:10.753004,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Benjamin Sesko (RB Leipzig),-0.013999999999999999,0.0769,0.0909
 2024-08-26 03:02:12.001586,Half Time Show Specials - 2025 Halftime Show - Main Headliner - Proposition,Drake,-0.013999999999999999,0.0769,0.0909
-2024-08-26 03:02:12.034973,Harry Potter Reboot - Who will play Albus Dumbledore? - Who will play Albus Dumbledore?,Samuel L Jackson,-0.013999999999999999,0.0769,0.0909
 2024-08-26 03:02:10.759405,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Hoffenheim,-0.013999999999999999,0.0769,0.0909
 2024-08-26 03:02:11.897180,76th Primetime Emmy Awards - Emmys: Lead Actress In A Comedy Series - Lead Actress Comedy,Quinta Brunson - Abbott Elementary,-0.013999999999999999,0.0769,0.0909
+2024-08-26 03:02:12.065120,Harry Potter Reboot - Who will play Severus Snape? - Who will play Severus Snape?,Paul Bettany,-0.013999999999999999,0.0769,0.0909
+2024-08-26 03:02:12.034973,Harry Potter Reboot - Who will play Albus Dumbledore? - Who will play Albus Dumbledore?,Samuel L Jackson,-0.013999999999999999,0.0769,0.0909
 2024-08-26 07:02:04.962261,Presidential Debates - ABC Debate Sept 10th: Colour Of Kamala Harris' Outfit - Colour Of Harris' Outfit,Pink/Purple,-0.013999999999999999,0.0769,0.0909
-2024-08-26 03:02:11.426866,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Brentford,-0.014000000000000012,0.9091,0.9231
 2024-08-26 03:02:11.220055,Eliteserien - Norway Eliteserien 2024 - Norway Eliteserien 2024,Bodø/Glimt,-0.014000000000000012,0.9091,0.9231
-2024-08-25 23:02:28.967478,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Sevilla,-0.014099999999999994,0.0526,0.0667
+2024-08-26 03:02:11.426866,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Brentford,-0.014000000000000012,0.9091,0.9231
 2024-08-25 23:02:28.967478,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Valencia,-0.014099999999999994,0.0526,0.0667
+2024-08-25 23:02:28.967478,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Sevilla,-0.014099999999999994,0.0526,0.0667
 2024-08-26 03:02:11.129423,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Randers,-0.014099999999999994,0.0526,0.0667
 2024-08-26 03:02:10.688064,Championship - England Championship 2024/25 - Top 2 Finish,Blackburn Rovers,-0.014100000000000001,0.0385,0.0526
+2024-08-26 11:01:59.862704,Sun Belt Regular Season Wins - Sun Belt Regular Season Wins - South Alabama,Over 6.5 Wins,-0.014200000000000101,0.6154,0.6296
 2024-08-26 03:02:11.916779,76th Primetime Emmy Awards - Emmys: Writing For A Limited Or Anthology Series - Writing Limited/Anthology,Ron Nyswaner - Fellow Travelers,-0.014399999999999996,0.0625,0.0769
 2024-08-26 03:02:11.916779,76th Primetime Emmy Awards - Emmys: Writing For A Limited Or Anthology Series - Writing Limited/Anthology,Charlie Brooker - Black Mirror,-0.014399999999999996,0.0625,0.0769
 2024-08-26 03:02:11.906896,76th Primetime Emmy Awards - Emmys: Lead Actress In A Drama Series - Lead Actress Drama,Carrie Coon - The Gilded Age,-0.014399999999999996,0.0625,0.0769
@@ -300,56 +308,56 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-25 23:02:28.967478,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Espanyol,-0.014499999999999999,0.0149,0.0294
 2024-08-25 23:02:28.955795,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Mallorca,-0.0145,0.0099,0.0244
 2024-08-26 03:02:10.885709,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,RB Bragantino,-0.0145,0.0099,0.0244
-2024-08-26 05:01:25.256493,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,River Plate,-0.01469999999999999,0.2353,0.25
 2024-08-26 03:02:11.129423,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Viborg FF,-0.01469999999999999,0.2353,0.25
+2024-08-26 05:01:25.256493,Liga Profesional de Fútbol - Argentina Liga Profesional de Fútbol 2024 - Winner,River Plate,-0.01469999999999999,0.2353,0.25
 2024-08-26 03:02:12.034973,Harry Potter Reboot - Who will play Albus Dumbledore? - Who will play Albus Dumbledore?,John Cleese,-0.014899999999999997,0.0476,0.0625
 2024-08-26 05:01:25.519741,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Long Day's Journey Into Night,-0.014899999999999997,0.0476,0.0625
 2024-08-26 03:02:11.887454,76th Primetime Emmy Awards - Emmys: Lead Actor In A Drama Series - Lead Actor Drama,Idris Elba - Hijack,-0.014899999999999997,0.0476,0.0625
 2024-08-26 03:02:10.866807,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Cruzeiro MG,-0.014900000000000004,0.0196,0.0345
 2024-08-26 05:01:25.236139,Allsvenskan - Sweden Allsvenskan 2024 - Sweden Allsvenskan 2024,Malmö FF,-0.014900000000000024,0.9375,0.9524
-2024-08-26 03:02:11.172789,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,FC Köln,-0.015100000000000002,0.1667,0.1818
 2024-08-26 03:02:11.135918,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,Silkeborg IF,-0.015100000000000002,0.1667,0.1818
 2024-08-26 03:02:11.250526,Super Lig - Turkey Super Lig 2024/25 - Outright,Besiktas,-0.015100000000000002,0.1667,0.1818
+2024-08-26 03:02:11.172789,2. Bundesliga - Germany Bundesliga 2 2024/25 - Winner,FC Köln,-0.015100000000000002,0.1667,0.1818
 2024-08-26 07:02:00.448267,Grammy Awards 2025 - Grammys: Album Of The Year - Album Of The Year,Chris Stapleton - Higher,-0.015300000000000001,0.0323,0.0476
 2024-08-25 23:02:29.152151,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Newcastle United,-0.016699999999999937,0.5833,0.6
+2024-08-26 03:02:10.807119,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Venezia,-0.016699999999999993,0.25,0.2667
+2024-08-25 23:02:28.885484,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AS Roma,-0.016699999999999993,0.25,0.2667
 2024-08-26 03:02:11.182788,Super League - Greece Super League 2024/25 - Winner,AEK Athens,-0.016699999999999993,0.25,0.2667
 2024-08-25 23:02:28.961622,La Liga - Spain La Liga 2024/25 - To Be Relegated,Alavés,-0.016699999999999993,0.25,0.2667
-2024-08-25 23:02:28.885484,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AS Roma,-0.016699999999999993,0.25,0.2667
-2024-08-26 03:02:11.291333,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,Universitario de Deportes,-0.016699999999999993,0.25,0.2667
-2024-08-26 03:02:10.807119,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Venezia,-0.016699999999999993,0.25,0.2667
 2024-08-26 03:02:11.240340,Premiership - Scotland Premiership 2024/25 - Winner,Rangers,-0.016699999999999993,0.25,0.2667
-2024-08-26 03:02:11.419822,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Bournemouth,-0.016700000000000048,0.7333,0.75
+2024-08-26 03:02:11.291333,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,Universitario de Deportes,-0.016699999999999993,0.25,0.2667
 2024-08-26 03:02:11.426866,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Everton,-0.016700000000000048,0.7333,0.75
+2024-08-26 03:02:11.419822,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Bournemouth,-0.016700000000000048,0.7333,0.75
 2024-08-25 23:02:28.967478,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Las Palmas,-0.017800000000000003,0.0066,0.0244
-2024-08-26 03:02:11.419822,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Tottenham Hotspur,-0.0179,0.125,0.1429
 2024-08-26 03:02:11.858107,76th Primetime Emmy Awards - Emmys: Best Drama Series - Best Drama Series,Mr & Mrs Smith,-0.0179,0.125,0.1429
+2024-08-26 03:02:11.419822,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Tottenham Hotspur,-0.0179,0.125,0.1429
 2024-08-26 03:02:11.435826,Premier League Futures/Specials - English Premier League 2024/25 - PFA Player of the Year,Phil Foden (Man City),-0.0179,0.125,0.1429
 2024-08-26 03:02:10.695752,Championship - England Championship 2024/25 - Top 6 Finish,Leeds United,-0.017900000000000027,0.8571,0.875
+2024-08-26 03:02:10.828362,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Nice,-0.018099999999999998,0.0588,0.0769
+2024-08-26 03:02:11.361755,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,Andre Onana,-0.018099999999999998,0.0588,0.0769
+2024-08-25 23:02:29.139531,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Newcastle United,-0.018099999999999998,0.0588,0.0769
 2024-08-26 05:01:25.519741,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,The Nickel Boys,-0.018099999999999998,0.0588,0.0769
 2024-08-26 03:02:10.847438,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Brest,-0.018099999999999998,0.0588,0.0769
 2024-08-26 03:02:10.872904,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Luciano Neves (Sao Paulo),-0.018099999999999998,0.0588,0.0769
-2024-08-26 03:02:11.361755,Premier League Futures/Specials - English Premier League 2024/25 - Golden Glove ,Andre Onana,-0.018099999999999998,0.0588,0.0769
-2024-08-25 23:02:29.139531,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Newcastle United,-0.018099999999999998,0.0588,0.0769
-2024-08-26 03:02:10.828362,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Nice,-0.018099999999999998,0.0588,0.0769
 2024-08-25 23:02:29.152151,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Brentford,-0.018200000000000004,0.0294,0.0476
 2024-08-26 03:02:11.377322,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Brighton & Hove Albion,-0.018200000000000004,0.0294,0.0476
 2024-08-25 23:02:29.145847,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Aston Villa,-0.01820000000000002,0.1818,0.2
 2024-08-25 23:02:28.856401,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,RB Leipzig,-0.018999999999999906,0.7143,0.7333
-2024-08-25 23:02:28.967478,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Athletic Bilbao,-0.019000000000000017,0.2667,0.2857
 2024-08-26 03:02:11.199762,Serie B - Italy Serie B 2024/25 - To Be Promoted,Frosinone,-0.019000000000000017,0.2667,0.2857
-2024-08-26 03:02:10.847438,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Reims,-0.019099999999999992,0.0476,0.0667
+2024-08-25 23:02:28.967478,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Athletic Bilbao,-0.019000000000000017,0.2667,0.2857
 2024-08-26 03:02:11.412752,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Southampton,-0.019099999999999992,0.0476,0.0667
+2024-08-26 03:02:10.847438,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Reims,-0.019099999999999992,0.0476,0.0667
 2024-08-26 07:02:19.800948,MLB Futures - MLB 2024 National League West - National League West Winner,Arizona Diamondbacks,-0.01949999999999999,0.0714,0.0909
 2024-08-26 03:02:11.280973,Primera Division - Chile Primera Division 2024 - Futures - Winner,Universidad Católica,-0.020100000000000007,0.2299,0.25
 2024-08-26 03:02:11.419822,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Nottingham Forest,-0.020199999999999996,0.8889,0.9091
 2024-08-26 03:02:11.897180,76th Primetime Emmy Awards - Emmys: Lead Actress In A Comedy Series - Lead Actress Comedy,Jean Smart - Hacks,-0.020199999999999996,0.8889,0.9091
-2024-08-26 05:01:25.964375,Royal Family - Harry & Meghan: Year Of Divorce - Harry & Meghan: Year Of Divorce,2024,-0.02020000000000001,0.0909,0.1111
-2024-08-26 03:02:11.192969,Serie B - Italy Serie B 2024/25 - Winner,Frosinone,-0.02020000000000001,0.0909,0.1111
 2024-08-26 03:02:11.199762,Serie B - Italy Serie B 2024/25 - To Be Promoted,Catanzaro,-0.02020000000000001,0.0909,0.1111
 2024-08-26 03:02:10.671551,Championship - England Championship 2024/25 - To Be Relegated,Hull City,-0.02020000000000001,0.0909,0.1111
-2024-08-26 03:02:11.192969,Serie B - Italy Serie B 2024/25 - Winner,Salernitana,-0.02020000000000001,0.0909,0.1111
+2024-08-26 03:02:11.192969,Serie B - Italy Serie B 2024/25 - Winner,Frosinone,-0.02020000000000001,0.0909,0.1111
 2024-08-26 03:02:12.034973,Harry Potter Reboot - Who will play Albus Dumbledore? - Who will play Albus Dumbledore?,Paddy Considine,-0.02020000000000001,0.0909,0.1111
+2024-08-26 03:02:11.192969,Serie B - Italy Serie B 2024/25 - Winner,Salernitana,-0.02020000000000001,0.0909,0.1111
 2024-08-26 05:01:25.266718,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,IK Brage,-0.02020000000000001,0.0909,0.1111
+2024-08-26 05:01:25.964375,Royal Family - Harry & Meghan: Year Of Divorce - Harry & Meghan: Year Of Divorce,2024,-0.02020000000000001,0.0909,0.1111
 2024-08-26 03:02:11.369644,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Martin Odegaard,-0.0203,0.0385,0.0588
 2024-08-25 23:02:29.139531,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Aston Villa,-0.0203,0.0385,0.0588
 2024-08-26 03:02:10.688064,Championship - England Championship 2024/25 - Top 2 Finish,West Bromwich Albion,-0.02049999999999999,0.1333,0.1538
@@ -358,85 +366,86 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-26 07:02:05.148083,US Senate Elections 2024 - Senate Election Winner - Ohio - Winner,Republican,-0.020699999999999996,0.4444,0.4651
 2024-08-26 03:02:10.695752,Championship - England Championship 2024/25 - Top 6 Finish,West Bromwich Albion,-0.020699999999999996,0.4444,0.4651
 2024-08-26 03:02:11.426866,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Leicester City,-0.02100000000000002,0.3636,0.3846
-2024-08-26 03:02:11.301589,J1 League - Japan J1 League 2024 - Winner,Machida Zelvia,-0.02100000000000002,0.3636,0.3846
 2024-08-26 07:02:19.826934,MLB Futures - MLB 2024 Player Awards - American League Manager of the Year,Matt Quatraro,-0.02100000000000002,0.3636,0.3846
+2024-08-26 03:02:11.301589,J1 League - Japan J1 League 2024 - Winner,Machida Zelvia,-0.02100000000000002,0.3636,0.3846
 2024-08-26 03:02:10.663966,Championship - England Championship 2024/25 - To Be Promoted,Middlesbrough,-0.021999999999999964,0.2857,0.3077
 2024-08-25 23:02:28.949991,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,-0.02200000000000002,0.6923,0.7143
-2024-08-26 03:02:10.663966,Championship - England Championship 2024/25 - To Be Promoted,West Bromwich Albion,-0.022199999999999998,0.2,0.2222
 2024-08-26 03:02:10.788048,Serie A - Italy Serie A 2024/25 - Winner without Inter Milan,AC Milan,-0.022199999999999998,0.2,0.2222
+2024-08-26 03:02:10.663966,Championship - England Championship 2024/25 - To Be Promoted,West Bromwich Albion,-0.022199999999999998,0.2,0.2222
 2024-08-26 03:02:11.129423,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Lyngby BK,-0.022600000000000064,0.6,0.6226
-2024-08-26 07:02:04.962261,Presidential Debates - ABC Debate Sept 10th: Colour Of Kamala Harris' Outfit - Colour Of Harris' Outfit,Silver/Grey,-0.02310000000000001,0.0769,0.1
 2024-08-26 03:02:10.671551,Championship - England Championship 2024/25 - To Be Relegated,Norwich City,-0.02310000000000001,0.0769,0.1
-2024-08-25 23:02:28.967478,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Villarreal,-0.023799999999999988,0.1429,0.1667
-2024-08-25 23:02:28.961622,La Liga - Spain La Liga 2024/25 - To Be Relegated,Sevilla,-0.023799999999999988,0.1429,0.1667
-2024-08-26 03:02:11.848283,76th Primetime Emmy Awards - Emmys: Best Comedy Series - Best Comedy Series,Hacks,-0.023799999999999988,0.1429,0.1667
+2024-08-26 07:02:04.962261,Presidential Debates - ABC Debate Sept 10th: Colour Of Kamala Harris' Outfit - Colour Of Harris' Outfit,Silver/Grey,-0.02310000000000001,0.0769,0.1
 2024-08-26 03:02:11.250526,Super Lig - Turkey Super Lig 2024/25 - Outright,Galatasaray,-0.023799999999999988,0.4762,0.5
+2024-08-25 23:02:28.967478,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Villarreal,-0.023799999999999988,0.1429,0.1667
+2024-08-26 03:02:11.848283,76th Primetime Emmy Awards - Emmys: Best Comedy Series - Best Comedy Series,Hacks,-0.023799999999999988,0.1429,0.1667
 2024-08-26 07:02:00.448267,Grammy Awards 2025 - Grammys: Album Of The Year - Album Of The Year,Taylor Swift - The Tortured Poets Department,-0.023799999999999988,0.3333,0.3571
+2024-08-25 23:02:28.961622,La Liga - Spain La Liga 2024/25 - To Be Relegated,Sevilla,-0.023799999999999988,0.1429,0.1667
 2024-08-26 03:02:11.129423,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,SønderjyskE,-0.023799999999999988,0.3333,0.3571
-2024-08-26 07:02:19.718840,MLB Futures - MLB 2024 American League Central - American League Central Winner,Kansas City Royals,-0.023800000000000016,0.1667,0.1905
 2024-08-26 03:02:11.122901,Superligaen - Denmark Superligaen 2024/2025 - Winner,Brøndby IF,-0.023800000000000016,0.1667,0.1905
+2024-08-26 07:02:19.718840,MLB Futures - MLB 2024 American League Central - American League Central Winner,Kansas City Royals,-0.023800000000000016,0.1667,0.1905
 2024-08-26 03:02:10.894875,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Bahia,-0.023800000000000043,0.5,0.5238
 2024-08-26 05:01:25.519741,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Megalopolis,-0.024,0.0385,0.0625
-2024-08-26 03:02:11.412752,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Newcastle United,-0.0242,0.9091,0.9333
-2024-08-25 23:02:29.139531,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Manchester United,-0.0242,0.0667,0.0909
-2024-08-26 03:02:10.828362,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Rennes,-0.0242,0.0667,0.0909
-2024-08-25 23:02:28.961622,La Liga - Spain La Liga 2024/25 - To Be Relegated,Celta de Vigo,-0.0242,0.0667,0.0909
-2024-08-26 03:02:10.663966,Championship - England Championship 2024/25 - To Be Promoted,Blackburn Rovers,-0.0242,0.0667,0.0909
 2024-08-26 03:02:10.894875,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,RB Bragantino,-0.0242,0.0667,0.0909
-2024-08-26 03:02:11.916779,76th Primetime Emmy Awards - Emmys: Writing For A Limited Or Anthology Series - Writing Limited/Anthology,Issa López - True Detective: Night Country,-0.024999999999999994,0.1,0.125
+2024-08-25 23:02:28.961622,La Liga - Spain La Liga 2024/25 - To Be Relegated,Celta de Vigo,-0.0242,0.0667,0.0909
+2024-08-26 03:02:11.412752,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Newcastle United,-0.0242,0.9091,0.9333
+2024-08-26 03:02:10.828362,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Rennes,-0.0242,0.0667,0.0909
+2024-08-25 23:02:29.139531,Premier League Futures/Specials - English Premier League 2024/25 - Top 2 Finish,Manchester United,-0.0242,0.0667,0.0909
+2024-08-26 03:02:10.663966,Championship - England Championship 2024/25 - To Be Promoted,Blackburn Rovers,-0.0242,0.0667,0.0909
 2024-08-26 03:02:10.807119,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Parma,-0.024999999999999994,0.1,0.125
 2024-08-26 05:01:25.519741,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Anora,-0.024999999999999994,0.1,0.125
+2024-08-26 03:02:11.916779,76th Primetime Emmy Awards - Emmys: Writing For A Limited Or Anthology Series - Writing Limited/Anthology,Issa López - True Detective: Night Country,-0.024999999999999994,0.1,0.125
 2024-08-26 03:02:11.142422,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,Randers,-0.025499999999999967,0.4,0.4255
 2024-08-26 03:02:10.695752,Championship - England Championship 2024/25 - Top 6 Finish,Middlesbrough,-0.025599999999999956,0.5744,0.6
-2024-08-26 03:02:11.199762,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cremonese,-0.02560000000000001,0.3077,0.3333
 2024-08-26 03:02:11.639145,Beetlejuice Beetlejuice - Beetlejuice Beetlejuice Opening Weekend Domestic Box Office Gross - Beetlejuice Beetlejuice Opening Weekend,Over $120 million,-0.02560000000000001,0.3077,0.3333
 2024-08-26 03:02:11.639145,Beetlejuice Beetlejuice - Beetlejuice Beetlejuice Opening Weekend Domestic Box Office Gross - Beetlejuice Beetlejuice Opening Weekend,$100 to $120 million,-0.02560000000000001,0.3077,0.3333
-2024-08-26 01:02:08.425597,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Aston Villa,-0.02560000000000001,0.3077,0.3333
+2024-08-26 03:02:11.199762,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cremonese,-0.02560000000000001,0.3077,0.3333
 2024-08-25 23:02:29.152151,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Brighton & Hove Albion,-0.02560000000000001,0.3077,0.3333
+2024-08-26 01:02:08.425597,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Aston Villa,-0.02560000000000001,0.3077,0.3333
 2024-08-26 03:02:10.753004,1. Bundesliga - Germany Bundesliga 2024/25 - Top Goalscorer,Harry Kane (Bayern Munich),-0.025600000000000067,0.6667,0.6923
 2024-08-26 09:02:02.626884,MLB Futures - MLB 2024 National League West - National League West Winner,San Diego Padres,-0.0267,0.0909,0.1176
+2024-08-26 07:02:19.913206,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Ryan Helsley (STL),-0.02779999999999999,0.2222,0.25
+2024-08-25 23:02:28.961622,La Liga - Spain La Liga 2024/25 - To Be Relegated,Rayo Vallecano,-0.02779999999999999,0.2222,0.25
 2024-08-26 03:02:11.291333,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,FBC Melgar,-0.02779999999999999,0.2222,0.25
 2024-08-26 07:02:04.962261,Presidential Debates - ABC Debate Sept 10th: Colour Of Kamala Harris' Outfit - Colour Of Harris' Outfit,Black,-0.02779999999999999,0.2222,0.25
 2024-08-26 03:02:11.412752,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Brentford,-0.02779999999999999,0.2222,0.25
-2024-08-25 23:02:28.961622,La Liga - Spain La Liga 2024/25 - To Be Relegated,Rayo Vallecano,-0.02779999999999999,0.2222,0.25
-2024-08-26 07:02:19.913206,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Ryan Helsley (STL),-0.02779999999999999,0.2222,0.25
 2024-08-26 03:02:11.419822,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Fulham,-0.027999999999999914,0.8182,0.8462
 2024-08-26 03:02:10.879626,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Internacional,-0.028000000000000004,0.0196,0.0476
 2024-08-25 23:02:28.885484,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Monza,-0.028000000000000004,0.0196,0.0476
-2024-08-26 03:02:11.192969,Serie B - Italy Serie B 2024/25 - Winner,Brescia,-0.028199999999999996,0.0385,0.0667
 2024-08-25 23:02:28.967478,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Mallorca,-0.028199999999999996,0.0385,0.0667
 2024-08-25 23:02:28.955795,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Villarreal,-0.028199999999999996,0.0385,0.0667
+2024-08-26 03:02:11.192969,Serie B - Italy Serie B 2024/25 - Winner,Brescia,-0.028199999999999996,0.0385,0.0667
 2024-08-26 05:01:25.519741,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Gladiator 2,-0.028199999999999996,0.0385,0.0667
-2024-08-26 03:02:10.759405,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Freiburg,-0.028799999999999992,0.125,0.1538
 2024-08-26 07:02:04.926325,Presidential Debates - ABC Debate Sept 10th: First State Mentioned By Either Harris Or Trump - First Mentioned State,New York,-0.028799999999999992,0.125,0.1538
+2024-08-26 03:02:10.759405,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Freiburg,-0.028799999999999992,0.125,0.1538
 2024-08-26 03:02:11.412752,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Aston Villa,-0.028800000000000048,0.8462,0.875
 2024-08-26 03:02:10.885709,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Bahia,-0.029899999999999982,0.2,0.2299
-2024-08-26 03:02:11.659863,Megalopolis - Megalopolis: Rotten Tomatoes Tomatometer One Month After Release - Tomatometer,Fresh,-0.030299999999999994,0.3333,0.3636
 2024-08-25 23:02:29.152151,Premier League Futures/Specials - English Premier League 2024/25 - Top 6 Finish,Tottenham Hotspur,-0.030299999999999994,0.6364,0.6667
-2024-08-26 07:02:00.448267,Grammy Awards 2025 - Grammys: Album Of The Year - Album Of The Year,Kacey Musgraves - Deeper Well,-0.031799999999999995,0.1111,0.1429
-2024-08-26 03:02:11.122901,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Copenhagen,-0.031799999999999995,0.4444,0.4762
-2024-08-26 03:02:12.001586,Half Time Show Specials - 2025 Halftime Show - Main Headliner - Proposition,Nicki Minaj,-0.031799999999999995,0.1111,0.1429
+2024-08-26 03:02:11.659863,Megalopolis - Megalopolis: Rotten Tomatoes Tomatometer One Month After Release - Tomatometer,Fresh,-0.030299999999999994,0.3333,0.3636
+2024-08-26 11:01:58.786996,Big Twelve Regular Season Wins - Big Twelve Regular Season Wins - Oklahoma State,Under 8.5 Wins,-0.030399999999999983,0.5348,0.5652
 2024-08-26 07:02:04.962261,Presidential Debates - ABC Debate Sept 10th: Colour Of Kamala Harris' Outfit - Colour Of Harris' Outfit,Red/Burgundy,-0.031799999999999995,0.1111,0.1429
+2024-08-26 03:02:11.122901,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Copenhagen,-0.031799999999999995,0.4444,0.4762
+2024-08-26 07:02:00.448267,Grammy Awards 2025 - Grammys: Album Of The Year - Album Of The Year,Kacey Musgraves - Deeper Well,-0.031799999999999995,0.1111,0.1429
+2024-08-26 03:02:12.001586,Half Time Show Specials - 2025 Halftime Show - Main Headliner - Proposition,Nicki Minaj,-0.031799999999999995,0.1111,0.1429
 2024-08-26 03:02:10.885709,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Botafogo,-0.03180000000000005,0.8571,0.8889
 2024-08-26 03:02:10.885709,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Atlético Mineiro,-0.0321,0.0588,0.0909
 2024-08-25 23:02:28.885484,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Juventus,-0.033299999999999996,0.8,0.8333
-2024-08-26 03:02:11.447027,LOI Premier Division - Ireland LOI Premier 2024 - Winner,Shamrock Rovers,-0.033300000000000024,0.1667,0.2
 2024-08-26 03:02:11.142422,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,SønderjyskE,-0.033300000000000024,0.1667,0.2
-2024-08-26 03:02:10.807119,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Empoli,-0.033300000000000024,0.1667,0.2
+2024-08-26 03:02:11.447027,LOI Premier Division - Ireland LOI Premier 2024 - Winner,Shamrock Rovers,-0.033300000000000024,0.1667,0.2
 2024-08-26 05:01:25.266718,Superettan - Sweden Superettan 2024 - Sweden Superettan 2024,Östers IF,-0.033300000000000024,0.1667,0.2
 2024-08-26 07:02:04.974461,Presidential Debates - ABC Debate Sept 10th: To Be Said By Donald Trump - To Be Said By Donald Trump,Whatever her name is,-0.033300000000000024,0.1667,0.2
-2024-08-25 23:02:28.879756,Serie A - Italy Serie A 2024/25 - To Be Relegated,Udinese,-0.033399999999999985,0.1333,0.1667
+2024-08-26 03:02:10.807119,Serie A - Italy Serie A 2024/25 - To Finish Bottom,Empoli,-0.033300000000000024,0.1667,0.2
 2024-08-26 03:02:11.887454,76th Primetime Emmy Awards - Emmys: Lead Actor In A Drama Series - Lead Actor Drama,Gary Oldman - Slow Horses,-0.033399999999999985,0.1333,0.1667
+2024-08-25 23:02:28.879756,Serie A - Italy Serie A 2024/25 - To Be Relegated,Udinese,-0.033399999999999985,0.1333,0.1667
 2024-08-26 03:02:10.794548,Serie A - Italy Serie A 2024/25 - Top Goalscorer,Victor Osimhen (Napoli),-0.034100000000000005,0.0909,0.125
 2024-08-26 03:02:10.695752,Championship - England Championship 2024/25 - Top 6 Finish,Preston North End,-0.03420000000000001,0.0769,0.1111
-2024-08-26 03:02:11.858107,76th Primetime Emmy Awards - Emmys: Best Drama Series - Best Drama Series,Fallout,-0.03420000000000001,0.0769,0.1111
 2024-08-26 03:02:11.897180,76th Primetime Emmy Awards - Emmys: Lead Actress In A Comedy Series - Lead Actress Comedy,Maya Rudolph - Loot,-0.03420000000000001,0.0769,0.1111
+2024-08-26 03:02:11.858107,76th Primetime Emmy Awards - Emmys: Best Drama Series - Best Drama Series,Fallout,-0.03420000000000001,0.0769,0.1111
 2024-08-25 23:02:28.961622,La Liga - Spain La Liga 2024/25 - To Be Relegated,Real Sociedad,-0.0344,0.0244,0.0588
 2024-08-26 03:02:10.828362,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Lyon,-0.035699999999999996,0.0476,0.0833
 2024-08-26 03:02:11.916779,76th Primetime Emmy Awards - Emmys: Writing For A Limited Or Anthology Series - Writing Limited/Anthology,Noah Hawley - Fargo,-0.03570000000000001,0.25,0.2857
-2024-08-26 03:02:10.841431,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Le Havre,-0.03570000000000001,0.25,0.2857
-2024-08-25 23:02:28.961622,La Liga - Spain La Liga 2024/25 - To Be Relegated,Osasuna,-0.03570000000000001,0.25,0.2857
 2024-08-26 03:02:11.209950,Eredivisie - Dutch Eredivisie 2024/25 - Dutch Eredivisie 2024/25,Feyenoord,-0.03570000000000001,0.25,0.2857
+2024-08-25 23:02:28.961622,La Liga - Spain La Liga 2024/25 - To Be Relegated,Osasuna,-0.03570000000000001,0.25,0.2857
+2024-08-26 03:02:10.841431,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Le Havre,-0.03570000000000001,0.25,0.2857
 2024-08-26 03:02:10.663966,Championship - England Championship 2024/25 - To Be Promoted,Leeds United,-0.03639999999999999,0.6,0.6364
 2024-08-26 07:02:04.990051,Presidential Debates - ABC Debate Sept 10th: To Be Said By Kamala Harris During The Debate - To Be Said By Kamala Harris,Divisive battles,-0.03640000000000004,0.3636,0.4
 2024-08-26 07:02:00.594524,The Matrix 5 - Will Laurence Fishburne appear as Morpheus? - Laurence Fishburne To Appear,No,-0.037800000000000056,0.5455,0.5833
@@ -445,14 +454,14 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-26 03:02:10.695752,Championship - England Championship 2024/25 - Top 6 Finish,Blackburn Rovers,-0.03889999999999999,0.1429,0.1818
 2024-08-25 23:02:28.885484,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AC Milan,-0.0393,0.5833,0.6226
 2024-08-26 03:02:11.426866,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Wolverhampton Wanderers,-0.04039999999999999,0.7778,0.8182
-2024-08-26 03:02:11.827145,MTV VMAs - MTV VMAs 2024 - Artist Of The Year - Artist Of The Year,Sabrina Carpenter,-0.04040000000000002,0.1818,0.2222
 2024-08-26 03:02:11.142422,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,Aalborg BK,-0.04040000000000002,0.1818,0.2222
 2024-08-26 03:02:11.192969,Serie B - Italy Serie B 2024/25 - Winner,Palermo,-0.04040000000000002,0.1818,0.2222
-2024-08-26 03:02:11.199762,Serie B - Italy Serie B 2024/25 - To Be Promoted,Salernitana,-0.04099999999999998,0.2667,0.3077
+2024-08-26 03:02:11.827145,MTV VMAs - MTV VMAs 2024 - Artist Of The Year - Artist Of The Year,Sabrina Carpenter,-0.04040000000000002,0.1818,0.2222
 2024-08-26 03:02:10.759405,1. Bundesliga - Germany Bundesliga 2024/25 - To Be Relegated,Heidenheim,-0.04099999999999998,0.2667,0.3077
-2024-08-26 03:02:12.034973,Harry Potter Reboot - Who will play Albus Dumbledore? - Who will play Albus Dumbledore?,Brian Cox,-0.04169999999999999,0.125,0.1667
+2024-08-26 03:02:11.199762,Serie B - Italy Serie B 2024/25 - To Be Promoted,Salernitana,-0.04099999999999998,0.2667,0.3077
 2024-08-26 03:02:11.412752,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Everton,-0.04169999999999999,0.125,0.1667
 2024-08-26 03:02:11.377322,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Fulham,-0.04169999999999999,0.125,0.1667
+2024-08-26 03:02:12.034973,Harry Potter Reboot - Who will play Albus Dumbledore? - Who will play Albus Dumbledore?,Brian Cox,-0.04169999999999999,0.125,0.1667
 2024-08-26 07:02:19.787504,MLB Futures - MLB 2024 National League East - National League East Winner,Atlanta Braves,-0.04240000000000001,0.0909,0.1333
 2024-08-26 03:02:11.419822,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,Chelsea,-0.04269999999999999,0.1111,0.1538
 2024-08-26 03:02:11.377322,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Bournemouth,-0.042899999999999994,0.1,0.1429
@@ -460,28 +469,29 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-26 03:02:10.847438,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Marseille,-0.044399999999999995,0.4,0.4444
 2024-08-26 07:02:04.990051,Presidential Debates - ABC Debate Sept 10th: To Be Said By Kamala Harris During The Debate - To Be Said By Kamala Harris,Peaceful transfer of power,-0.044399999999999995,0.4,0.4444
 2024-08-26 03:02:11.369644,Premier League Futures/Specials - English Premier League 2024/25 - Most Assists,Mohamed Salah,-0.04440000000000001,0.0667,0.1111
-2024-08-26 03:02:11.730186,Blake Lively Specials - How many NFL games will Blake Lively attend in the 2024 season? - Blake Lively NFL Games,Under 1.5,-0.045499999999999985,0.5,0.5455
 2024-08-26 03:02:11.426866,Premier League Futures/Specials - English Premier League 2024/25 - To Stay Up,Southampton,-0.045499999999999985,0.5,0.5455
+2024-08-26 03:02:11.730186,Blake Lively Specials - How many NFL games will Blake Lively attend in the 2024 season? - Blake Lively NFL Games,Under 1.5,-0.045499999999999985,0.5,0.5455
 2024-08-26 03:02:10.847438,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Rennes,-0.04620000000000002,0.1538,0.2
 2024-08-26 03:02:11.301589,J1 League - Japan J1 League 2024 - Winner,Kashima Antlers,-0.04620000000000002,0.1538,0.2
-2024-08-26 07:02:04.990051,Presidential Debates - ABC Debate Sept 10th: To Be Said By Kamala Harris During The Debate - To Be Said By Kamala Harris,Justice for all,-0.047599999999999976,0.2857,0.3333
-2024-08-25 23:02:29.145847,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Newcastle United,-0.047599999999999976,0.2857,0.3333
 2024-08-26 07:02:04.974461,Presidential Debates - ABC Debate Sept 10th: To Be Said By Donald Trump - To Be Said By Donald Trump,"Border, inflation and crime",-0.047599999999999976,0.2857,0.3333
-2024-08-25 23:02:29.145847,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester United,-0.047599999999999976,0.2857,0.3333
+2024-08-25 23:02:29.145847,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Newcastle United,-0.047599999999999976,0.2857,0.3333
 2024-08-26 03:02:10.866807,Brasileirão Série A - Brasileiro Serie A 2024 - Outright,Botafogo,-0.047599999999999976,0.2857,0.3333
+2024-08-26 07:02:04.990051,Presidential Debates - ABC Debate Sept 10th: To Be Said By Kamala Harris During The Debate - To Be Said By Kamala Harris,Justice for all,-0.047599999999999976,0.2857,0.3333
+2024-08-25 23:02:29.145847,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester United,-0.047599999999999976,0.2857,0.3333
+2024-08-26 11:01:58.622877,Big Twelve Regular Season Wins - Big Twelve Regular Season Wins - Arizona,Under 7.5 Wins,-0.04760000000000003,0.4762,0.5238
 2024-08-26 03:02:12.001586,Half Time Show Specials - 2025 Halftime Show - Main Headliner - Proposition,Miley Cyrus,-0.04760000000000009,0.6667,0.7143
 2024-08-26 07:02:19.718840,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,-0.04930000000000001,0.2632,0.3125
-2024-08-26 03:02:10.894875,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Atlético Mineiro,-0.04999999999999999,0.2,0.25
 2024-08-26 03:02:10.828362,Ligue 1 - France Ligue 1 2024/25 - Winner without PSG,Marseille,-0.04999999999999999,0.2,0.25
 2024-08-26 07:02:04.974461,Presidential Debates - ABC Debate Sept 10th: To Be Said By Donald Trump - To Be Said By Donald Trump,AI-generated,-0.04999999999999999,0.2,0.25
+2024-08-26 03:02:10.894875,Brasileirão Série A - Brasileiro Serie A 2024 - Top 6 Finish,Atlético Mineiro,-0.04999999999999999,0.2,0.25
 2024-08-26 03:02:11.867878,76th Primetime Emmy Awards - Emmys: Best Limited Or Anthology Series - Best Limited/Anthology Series,Baby Reindeer,-0.052000000000000046,0.8571,0.9091
 2024-08-25 23:02:28.879756,Serie A - Italy Serie A 2024/25 - To Be Relegated,Cagliari,-0.05449999999999999,0.4,0.4545
 2024-08-25 23:02:28.885484,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Lazio,-0.05550000000000002,0.1667,0.2222
 2024-08-26 03:02:10.688064,Championship - England Championship 2024/25 - Top 2 Finish,Sunderland,-0.05559999999999998,0.1111,0.1667
 2024-08-26 07:02:04.990051,Presidential Debates - ABC Debate Sept 10th: To Be Said By Kamala Harris During The Debate - To Be Said By Kamala Harris,Elon Musk,-0.05559999999999998,0.5,0.5556
 2024-08-26 03:02:11.192969,Serie B - Italy Serie B 2024/25 - Winner,Sampdoria,-0.05559999999999998,0.1111,0.1667
-2024-08-26 03:02:11.199762,Serie B - Italy Serie B 2024/25 - To Be Promoted,Brescia,-0.05679999999999999,0.125,0.1818
 2024-08-26 03:02:10.879626,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Grêmio,-0.05679999999999999,0.125,0.1818
+2024-08-26 03:02:11.199762,Serie B - Italy Serie B 2024/25 - To Be Promoted,Brescia,-0.05679999999999999,0.125,0.1818
 2024-08-26 05:01:25.519741,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Maria,-0.05859999999999999,0.0323,0.0909
 2024-08-26 07:02:19.913206,MLB Futures - MLB 2024 Player Awards - National League Reliever of the Year,Robert Suarez (SD),-0.059099999999999986,0.2857,0.3448
 2024-08-26 07:02:19.742071,MLB Futures - MLB 2024 American League East - American League East Winner,Baltimore Orioles,-0.0595,0.4167,0.4762
@@ -489,8 +499,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-26 03:02:11.377322,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Nottingham Forest,-0.0635,0.2222,0.2857
 2024-08-26 03:02:10.847438,Ligue 1 - France Ligue 1 2024/25 - Top 3 Finish,Lyon,-0.0642,0.1176,0.1818
 2024-08-26 05:01:25.519741,97th Academy Awards - 2025 Oscars - Best Picture - Best Picture,Joker: Folie A Deux,-0.066,0.0769,0.1429
-2024-08-26 03:02:10.872904,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Pedro (Flamengo),-0.06670000000000004,0.3333,0.4
 2024-08-26 03:02:11.412752,Premier League Futures/Specials - English Premier League 2024/25 - Top 10 Finish,Crystal Palace,-0.06670000000000004,0.3333,0.4
+2024-08-26 03:02:10.872904,Brasileirão Série A - Brasileiro Serie A 2024 - Top Goalscorer,Pedro (Flamengo),-0.06670000000000004,0.3333,0.4
+2024-08-26 11:01:58.730478,Big Twelve Regular Season Wins - Big Twelve Regular Season Wins - Iowa State,Under 7.5 Wins,-0.068,0.4082,0.4762
 2024-08-26 03:02:10.841431,Ligue 1 - France Ligue 1 2024/25 - To Be Relegated,Nantes,-0.06840000000000002,0.1538,0.2222
 2024-08-26 03:02:11.419822,Premier League Futures/Specials - English Premier League 2024/25 - Bottom 10 Finish,West Ham United,-0.06929999999999997,0.4762,0.5455
 2024-08-26 03:02:11.199762,Serie B - Italy Serie B 2024/25 - To Be Promoted,Palermo,-0.06929999999999997,0.4762,0.5455
