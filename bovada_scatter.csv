@@ -3,11 +3,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-26 11:01:58.730478,Big Twelve Regular Season Wins - Big Twelve Regular Season Wins - Iowa State,Over 7.5 Wins,0.0635,0.6552,0.5917
 2024-08-26 19:03:19.127155,Electoral College Winner - New Mexico (NM) - NM,Democrat,0.052000000000000046,0.9091,0.8571
 2024-08-26 11:01:58.622877,Big Twelve Regular Season Wins - Big Twelve Regular Season Wins - Arizona,Over 7.5 Wins,0.04620000000000002,0.5917,0.5455
-2024-08-26 09:02:02.626884,MLB Futures - MLB 2024 National League West - National League West Winner,Arizona Diamondbacks,0.04619999999999999,0.1176,0.0714
 2024-08-26 13:02:39.943979,British Masters - British Masters - Winner,Tom McKibbin,0.042499999999999996,0.0435,0.001
 2024-08-26 13:02:39.943979,British Masters - British Masters - Winner,Thorbjorn Olesen,0.042199999999999994,0.0435,0.0013
 2024-08-26 13:02:29.586855,San Francisco 49ers - 2024-25 Regular Season Wins O/U - Regular Season Wins - San Francisco 49ers O/U 11.5 Wins,Under 11.5 Wins,0.040999999999999925,0.6154,0.5744
 2024-08-26 13:02:39.943979,British Masters - British Masters - Winner,Ewen Ferguson,0.036899999999999995,0.0435,0.0066
+2024-08-26 21:03:26.824736,Serie A - Italy Serie A 2024/25 - Winner,Juventus,0.03570000000000001,0.2857,0.25
 2024-08-26 11:01:58.786996,Big Twelve Regular Season Wins - Big Twelve Regular Season Wins - Oklahoma State,Over 8.5 Wins,0.03480000000000005,0.5348,0.5
 2024-08-26 13:02:39.943979,British Masters - British Masters - Winner,Thriston Lawrence,0.033800000000000004,0.0345,0.0007
 2024-08-26 15:02:23.842325,Wide Receivers - NFL 2024-25 Receiving Yards - Davante Adams Regular Season Total Receiving Yards 2024-25,Over 1000.5 Yards,0.030399999999999983,0.5652,0.5348
@@ -29,21 +29,26 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-26 13:02:39.943979,British Masters - British Masters - Winner,Paul Waring,0.011600000000000001,0.0123,0.0007
 2024-08-26 13:02:39.943979,British Masters - British Masters - Winner,Rasmus Hojgaard,0.011199999999999995,0.0435,0.0323
 2024-08-26 17:02:59.196999,Quarterbacks - NFL 2024-25 Passing Yards - Trevor Lawrence Regular Season Total Passing Yards 2024-25,Over 3800.5 Yards,0.01100000000000001,0.5348,0.5238
+2024-08-26 21:03:33.535831,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,0.01100000000000001,0.5348,0.5238
+2024-08-26 21:03:33.513890,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,0.01100000000000001,0.5348,0.5238
 2024-08-26 13:02:39.943979,British Masters - British Masters - Winner,Johannes Veerman,0.011,0.0123,0.0013
 2024-08-26 15:02:33.193747,Boxing Lines - Conor Wallace vs Jerome Pampellone - To Win the Bout,Conor Wallace,0.010699999999999932,0.5455,0.5348
 2024-08-26 13:02:39.943979,British Masters - British Masters - Winner,Jordan Smith,0.010300000000000002,0.0244,0.0141
 2024-08-26 11:01:58.417483,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Minnesota,Over 5.5 Wins,0.010099999999999998,0.5556,0.5455
 2024-08-26 17:02:59.196999,Quarterbacks - NFL 2024-25 Passing Yards - Trevor Lawrence Regular Season Total Passing Yards 2024-25,Under 3800.5 Yards,-0.010699999999999932,0.5348,0.5455
 2024-08-26 15:02:33.193747,Boxing Lines - Conor Wallace vs Jerome Pampellone - To Win the Bout,Jerome Pampellone,-0.01100000000000001,0.5238,0.5348
+2024-08-26 21:03:26.824736,Serie A - Italy Serie A 2024/25 - Winner,AC Milan,-0.011099999999999999,0.1,0.1111
 2024-08-26 17:03:04.041208,Big Twelve Regular Season Wins - Big Twelve Regular Season Wins - Colorado,Under 5.5 Wins,-0.0116,0.4762,0.4878
+2024-08-26 21:03:33.513890,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.011600000000000055,0.5122,0.5238
 2024-08-26 11:01:58.417483,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Minnesota,Under 5.5 Wins,-0.011600000000000055,0.5122,0.5238
+2024-08-26 21:03:33.535831,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican,-0.011600000000000055,0.5122,0.5238
 2024-08-26 11:01:58.608140,Big Ten Regular Season Wins - Big Ten Regular Season Wins - Wisconsin ,Under 6.5 Wins,-0.012199999999999989,0.4878,0.5
 2024-08-26 11:01:59.862704,Sun Belt Regular Season Wins - Sun Belt Regular Season Wins - South Alabama,Over 6.5 Wins,-0.014200000000000101,0.6154,0.6296
+2024-08-26 21:03:26.824736,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,-0.016699999999999937,0.5833,0.6
 2024-08-26 13:02:29.597129,San Francisco 49ers - 2024-25 Regular Season Wins O/U - Regular Season Wins - San Francisco 49ers O/U 12.5 Wins,Over 12.5 Wins,-0.020799999999999985,0.3125,0.3333
 2024-08-26 17:03:06.919269,Boxing Lines - Conor Wallace vs Jerome Pampellone - To Win the Bout,Conor Wallace,-0.02169999999999994,0.5238,0.5455
 2024-08-26 13:02:29.576556,San Francisco 49ers - 2024-25 Regular Season Wins O/U - Regular Season Wins - San Francisco 49ers O/U 10.5 Wins,Over 10.5 Wins,-0.023799999999999932,0.6429,0.6667
 2024-08-26 19:03:34.856801,Boxing Lines - Conor Wallace vs Jerome Pampellone - To Win the Bout,Conor Wallace,-0.023800000000000043,0.5,0.5238
-2024-08-26 09:02:02.626884,MLB Futures - MLB 2024 National League West - National League West Winner,San Diego Padres,-0.0267,0.0909,0.1176
 2024-08-26 13:02:39.943979,British Masters - British Masters - Winner,Justin Walters,-0.0273,0.005,0.0323
 2024-08-26 11:01:58.786996,Big Twelve Regular Season Wins - Big Twelve Regular Season Wins - Oklahoma State,Under 8.5 Wins,-0.030399999999999983,0.5348,0.5652
 2024-08-26 13:02:29.586855,San Francisco 49ers - 2024-25 Regular Season Wins O/U - Regular Season Wins - San Francisco 49ers O/U 11.5 Wins,Over 11.5 Wins,-0.033299999999999996,0.4545,0.4878
