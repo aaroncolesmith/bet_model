@@ -13,14 +13,16 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-27 11:03:12.234406,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Arizona Diamondbacks,0.0338,0.129,0.0952
 2024-08-27 17:04:13.549732,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Oregon To Make the 2024-2025 College Football Playoff,Yes,0.03260000000000007,0.8,0.7674
 2024-08-27 17:04:13.569107,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Utah To Make the 2024-2025 College Football Playoff,Yes,0.03260000000000002,0.3774,0.3448
+2024-08-27 19:03:09.908365,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,0.031399999999999983,0.2667,0.2353
 2024-08-27 13:03:12.219161,Running Backs - NFL 2024-25 Rushing TD's - Zack Moss 2024-25 Regular Season Total Rushing TDs,Over 5.5 TD's,0.030399999999999983,0.5652,0.5348
+2024-08-27 19:03:09.908365,La Liga - Spain La Liga 2024/25 - Winner,Atlético Madrid,0.0267,0.1176,0.0909
 2024-08-27 11:03:11.105041,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Kansas To Make the 2024-2025 College Football Playoff,No,0.024500000000000077,0.9412,0.9167
 2024-08-27 11:02:54.110458,Denver Nuggets - Denver Nuggets 2024-25 - Regular Season Wins,Under 49.5,0.024500000000000022,0.4167,0.3922
 2024-08-27 17:04:14.015657,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - USC To Make the 2024-2025 College Football Playoff,Yes,0.02429999999999999,0.2326,0.2083
 2024-08-27 13:03:02.403209,Men's Basketball Conferences - Big 10 Conference Winner - Big 10 (Regular Season),Purdue,0.023799999999999988,0.1667,0.1429
 2024-08-27 17:04:13.802173,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Michigan To Make the 2024-2025 College Football Playoff,No,0.023799999999999932,0.6667,0.6429
-2024-08-27 11:03:12.211354,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Kansas City Royals,0.02310000000000001,0.1,0.0769
 2024-08-27 17:04:13.510414,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Texas Tech To Make the 2024-2025 College Football Playoff,Yes,0.02310000000000001,0.1,0.0769
+2024-08-27 11:03:12.211354,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Kansas City Royals,0.02310000000000001,0.1,0.0769
 2024-08-27 17:04:13.976821,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Texas A&M To Make the 2024-2025 College Football Playoff,Yes,0.020799999999999985,0.3333,0.3125
 2024-08-27 11:03:12.349065,MLB Futures - MLB 2024 National League West - National League West Winner,San Diego Padres,0.02020000000000001,0.1111,0.0909
 2024-08-27 17:04:13.957373,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Tennessee To Make the 2024-2025 College Football Playoff,Yes,0.019500000000000017,0.3704,0.3509
@@ -34,9 +36,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-27 11:03:12.303367,MLB Futures - MLB 2024 American League West - American League West Winner,Seattle Mariners,0.015100000000000002,0.1818,0.1667
 2024-08-27 17:04:13.879709,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Ohio State To Make the 2024-2025 College Football Playoff,Yes,0.014800000000000035,0.8667,0.8519
 2024-08-27 17:04:13.763126,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - LSU To Make the 2024-2025 College Football Playoff,No,0.014200000000000101,0.6296,0.6154
-2024-08-27 17:03:56.888947,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.011600000000000055,0.5238,0.5122
-2024-08-27 17:03:56.911368,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican,0.011600000000000055,0.5238,0.5122
 2024-08-27 13:03:21.941134,Boxing Lines - Conor Wallace vs Jerome Pampellone - To Win the Bout,Conor Wallace,0.011600000000000055,0.5238,0.5122
+2024-08-27 17:03:56.911368,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican,0.011600000000000055,0.5238,0.5122
+2024-08-27 17:03:56.888947,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.011600000000000055,0.5238,0.5122
 2024-08-27 15:03:57.846718,Season Win Record Specials - Most Regular Season Wins - Most Regular Season Wins,Cleveland Browns,0.011600000000000003,0.0333,0.0217
 2024-08-27 11:03:12.188253,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Arizona Diamondbacks,0.011199999999999995,0.0588,0.0476
 2024-08-27 11:03:03.392298,Quarterbacks - Regular Season Player Specials - Regular Season Pass TDs Matchup,Joe Burrow (CIN),0.01100000000000001,0.5348,0.5238
@@ -49,8 +51,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-27 11:03:03.392298,Quarterbacks - Regular Season Player Specials - Regular Season Pass TDs Matchup,Brock Purdy (SF),-0.010699999999999932,0.5348,0.5455
 2024-08-27 11:02:55.045203,Phoenix Suns - Phoenix Suns 2024-25 - Regular Season Wins,Under 49.5,-0.010700000000000043,0.6667,0.6774
 2024-08-27 11:03:12.188253,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,New York Yankees,-0.010899999999999993,0.1429,0.1538
-2024-08-27 17:03:56.888947,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.01100000000000001,0.5238,0.5348
 2024-08-27 17:03:56.911368,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,-0.01100000000000001,0.5238,0.5348
+2024-08-27 17:03:56.888947,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.01100000000000001,0.5238,0.5348
 2024-08-27 11:02:53.802435,Atlanta Hawks - Atlanta Hawks 2024-25 - Regular Season Wins,Under 38.5,-0.011499999999999955,0.6552,0.6667
 2024-08-27 11:02:54.247003,Golden State Warriors - Golden State Warriors 2024-25 - Regular Season Wins,Under 46.5,-0.011499999999999955,0.6552,0.6667
 2024-08-27 11:02:54.229576,Golden State Warriors - Golden State Warriors 2024-25 - Regular Season Wins,Under 43.5,-0.012199999999999989,0.5,0.5122
@@ -79,6 +81,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-27 17:04:13.782716,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Miami FL To Make the 2024-2025 College Football Playoff,No,-0.03969999999999996,0.6825,0.7222
 2024-08-27 17:04:13.588524,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Alabama To Make the 2024-2025 College Football Playoff,No,-0.043399999999999994,0.5122,0.5556
 2024-08-27 17:04:13.569107,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Utah To Make the 2024-2025 College Football Playoff,No,-0.04579999999999995,0.6875,0.7333
+2024-08-27 19:03:09.908365,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,-0.04760000000000009,0.6667,0.7143
 2024-08-27 11:03:12.349065,MLB Futures - MLB 2024 National League West - National League West Winner,Los Angeles Dodgers,-0.053100000000000036,0.8519,0.905
 2024-08-27 11:03:12.234406,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Philadelphia Phillies,-0.0625,0.25,0.3125
 2024-08-27 11:03:11.298379,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Arizona To Make the 2024-2025 College Football Playoff,Yes,-0.0629,0.0909,0.1538
