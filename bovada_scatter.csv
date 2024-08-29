@@ -8,9 +8,9 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-28 13:02:02.007216,Awards - Ballon d'Or Winner 2024 - Ballon d'Or Winner 2024,Vinicius Junior,0.05910000000000004,0.7143,0.6552
 2024-08-28 17:03:06.711707,US Senate Elections 2024 - Senate Election Winner - Michigan - Winner,Democrat,0.05630000000000002,0.8182,0.7619
 2024-08-28 19:03:14.235303,New York Jets - 2024-25 Regular Season Wins O/U - Regular Season Wins - New York Jets O/U 10.5 Wins,Over 10.5  Wins,0.0484,0.4651,0.4167
-2024-08-28 11:02:20.289984,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Mike Macdonald,0.048100000000000004,0.125,0.0769
 2024-08-28 13:02:02.167532,Beetlejuice Beetlejuice - Beetlejuice Beetlejuice Opening Weekend Domestic Box Office Gross - Beetlejuice Beetlejuice Opening Weekend,Under $100 million,0.045499999999999985,0.5455,0.5
 2024-08-28 15:02:51.771302,Positions - Rory McIlroy - Rory McIlroy,7th or better,0.043399999999999994,0.5556,0.5122
+2024-08-28 23:02:45.201371,Boxing Lines - Elijah Pierce vs Jose Sanmartin - To Win the Bout,Jose Sanmartin,0.03670000000000001,0.1905,0.1538
 2024-08-28 13:02:23.565763,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs X. Schauffele - Tournament Match-Up,Xander Schauffele,0.03620000000000001,0.4444,0.4082
 2024-08-28 15:02:51.799721,Positions - Sam Burns - Sam Burns,10th or better,0.03610000000000002,0.5917,0.5556
 2024-08-28 17:03:01.264617,Awards - Ballon d'Or Winner 2024 - Ballon d'Or Winner 2024,Vinicius Junior,0.035699999999999954,0.75,0.7143
@@ -19,22 +19,17 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-28 15:02:51.662332,Positions - Collin Morikawa  - Collin Morikawa,10th or better,0.03179999999999994,0.5556,0.5238
 2024-08-28 15:02:51.891956,Positions - Tommy Fleetwood - Tommy Fleetwood,15th or better,0.030399999999999983,0.5652,0.5348
 2024-08-28 13:02:02.007216,Awards - Ballon d'Or Winner 2024 - Ballon d'Or Winner 2024,Rodri,0.030299999999999994,0.3636,0.3333
-2024-08-28 11:02:20.311257,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Kyler Murray (ARI),0.030199999999999998,0.0625,0.0323
 2024-08-28 17:03:06.733104,US Senate Elections 2024 - Senate Election Winner - Montana - Winner,Republican,0.029899999999999927,0.7222,0.6923
 2024-08-28 15:02:51.867946,Positions - Sungjae Im - Sungjae Im,13th or worse,0.028900000000000037,0.5744,0.5455
 2024-08-28 17:03:06.797146,US Senate Elections 2024 - Senate Election Winner - Pennsylvania - Winner,Democratic,0.028800000000000048,0.875,0.8462
-2024-08-28 11:02:20.289984,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jim Harbaugh,0.027800000000000005,0.1111,0.0833
 2024-08-28 17:03:06.490740,Presidential Debates - ABC Debate Sept 10th: Debate Winner According To ABC Poll - ABC Debate Winner,Donald Trump,0.026500000000000024,0.3774,0.3509
 2024-08-28 17:03:00.792289,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,0.025600000000000067,0.6923,0.6667
-2024-08-28 11:02:04.466719,2024 Election Core - US Presidential Election 2024 - Popular Vote Winning Margin - Popular Vote Winning Margin,Democrat Win - Over 5% margin,0.02560000000000001,0.3333,0.3077
 2024-08-28 17:03:07.494336,Electoral College Winner - Nebraska District 2 (NE CD2) - NE CD2,Democrat,0.02400000000000002,0.75,0.726
-2024-08-28 17:03:06.512324,Presidential Debates - ABC Debate Sept 10th: First State Mentioned By Either Harris Or Trump - First Mentioned State,California,0.023800000000000043,0.5238,0.5
 2024-08-28 17:03:06.512324,Presidential Debates - ABC Debate Sept 10th: First State Mentioned By Either Harris Or Trump - First Mentioned State,Pennsylvania,0.023800000000000043,0.5238,0.5
-2024-08-28 17:03:06.636143,US Senate Elections 2024 - Senate Election Winner - Arizona - Winner,Democrat,0.023799999999999932,0.8571,0.8333
+2024-08-28 17:03:06.512324,Presidential Debates - ABC Debate Sept 10th: First State Mentioned By Either Harris Or Trump - First Mentioned State,California,0.023800000000000043,0.5238,0.5
 2024-08-28 17:03:06.818351,US Senate Elections 2024 - Senate Election Winner - Wisconsin - Winner,Democrat,0.023799999999999932,0.8571,0.8333
+2024-08-28 17:03:06.636143,US Senate Elections 2024 - Senate Election Winner - Arizona - Winner,Democrat,0.023799999999999932,0.8571,0.8333
 2024-08-28 19:03:13.645552,Los Angeles Chargers - 2024-25 Regular Season Wins O/U - Regular Season Wins - Los Angeles Chargers O/U 7.5 Wins,Under 7.5 Wins,0.022999999999999965,0.3509,0.3279
-2024-08-28 11:02:20.806720,Boxing Lines - Ismael Barroso vs Andy Hiraoka - To Win the Bout,Ismael Barroso,0.022199999999999998,0.2222,0.2
-2024-08-28 11:02:12.742318,Quarterbacks - NFL 2024-25 Passing TD's - Kirk Cousins Regular Season Total Passing TDs 2024-25,Under 27.5 TD's,0.01970000000000005,0.5652,0.5455
 2024-08-28 15:02:51.638332,Positions - Billy Horschel - Billy Horschel,18th or worse,0.01970000000000005,0.5652,0.5455
 2024-08-28 15:02:51.686395,Positions - Hideki Matsuyama - Hideki Matsuyama,6th or worse,0.01970000000000005,0.5652,0.5455
 2024-08-28 15:02:51.843949,Positions - Shane Lowry - Shane Lowry,16th or worse,0.01880000000000004,0.5744,0.5556
@@ -42,42 +37,37 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-28 15:02:30.732483,B League - Japan B-League 2024/25 - Outright,Chiba Jets,0.01820000000000002,0.2,0.1818
 2024-08-28 17:03:07.558281,Electoral College Winner - New Hampshire (NH) - NH,Democrat,0.018199999999999994,0.8182,0.8
 2024-08-28 13:02:21.571331,Main Markets - 1st Round 2 Balls - B. Horschel v T. Fleetwood - 1st Round 2 Balls,Tommy Fleetwood,0.018100000000000005,0.5833,0.5652
-2024-08-28 11:02:20.311257,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Sam Darnold (MIN),0.013999999999999999,0.0909,0.0769
+2024-08-28 23:02:26.859285,WNBA Championship - WNBA Championship 2024 - Championship Winner,Seattle Storm,0.01440000000000001,0.1053,0.0909
 2024-08-28 17:03:06.256167,Donald Trump Specials - Donald & Melania: Year of Divorce - Year Of Divorce,2025,0.013999999999999999,0.0909,0.0769
 2024-08-28 17:03:07.068078,Electoral College Winner - Florida (FL) - FL,Democrat,0.0131,0.2353,0.2222
 2024-08-28 17:03:06.533478,Presidential Debates - ABC Debate Sept 10th: Will Harris and Trump shake hands? - Handshake?,Yes,0.011699999999999988,0.2857,0.274
 2024-08-28 19:03:14.245584,New York Jets - 2024-25 Regular Season Wins O/U - Regular Season Wins - New York Jets O/U 11.5 Wins,Over 11.5 Wins,0.01150000000000001,0.3448,0.3333
 2024-08-28 19:03:14.277276,New York Jets - 2024-25 Regular Season Wins O/U - Regular Season Wins - New York Jets O/U 8.5 Wins,Over 8.5 Wins,0.011099999999999999,0.7333,0.7222
-2024-08-28 11:02:10.523093,Wide Receivers - NFL 2024-25 Receiving Yards - Mike Evans Regular Season Total Receiving Yards 2024-25 (Alternate),Under 999.5,0.011099999999999999,0.4762,0.4651
-2024-08-28 11:02:07.979566,Jacksonville Jaguars - 2024-25 Regular Season Wins O/U - Regular Season Wins - Jacksonville Jaguars O/U 8.5 Wins,Under 8.5 Wins,0.01100000000000001,0.5348,0.5238
 2024-08-28 13:02:21.529619,Main Markets - 1st Round 2 Balls - T. Pendrith v C. Kirk - 1st Round 2 Balls,Taylor Pendrith,0.01100000000000001,0.5348,0.5238
-2024-08-28 13:02:23.510183,Tournament Match-Ups - Tournament Match-Up - S. Lowry vs S. Theegala - Tournament Match-Up,Shane Lowry,0.010699999999999932,0.5455,0.5348
 2024-08-28 13:02:21.746054,Main Markets - 1st Round 2 Balls - L. Aberg v R. McIlroy - 1st Round 2 Balls,Rory McIlroy,0.010699999999999932,0.5455,0.5348
 2024-08-28 15:02:51.964149,Positions - Wyndham Clark - Wyndham Clark,11th or worse,0.010699999999999932,0.5455,0.5348
-2024-08-28 11:02:07.979566,Jacksonville Jaguars - 2024-25 Regular Season Wins O/U - Regular Season Wins - Jacksonville Jaguars O/U 8.5 Wins,Over 8.5 Wins,-0.010699999999999932,0.5348,0.5455
-2024-08-28 13:02:23.510183,Tournament Match-Ups - Tournament Match-Up - S. Lowry vs S. Theegala - Tournament Match-Up,Sahith Theegala,-0.01100000000000001,0.5238,0.5348
+2024-08-28 13:02:23.510183,Tournament Match-Ups - Tournament Match-Up - S. Lowry vs S. Theegala - Tournament Match-Up,Shane Lowry,0.010699999999999932,0.5455,0.5348
 2024-08-28 15:02:51.964149,Positions - Wyndham Clark - Wyndham Clark,10th or better,-0.01100000000000001,0.5238,0.5348
+2024-08-28 13:02:23.510183,Tournament Match-Ups - Tournament Match-Up - S. Lowry vs S. Theegala - Tournament Match-Up,Sahith Theegala,-0.01100000000000001,0.5238,0.5348
+2024-08-28 13:02:21.571331,Main Markets - 1st Round 2 Balls - B. Horschel v T. Fleetwood - 1st Round 2 Balls,Billy Horschel,-0.011099999999999999,0.4651,0.4762
 2024-08-28 19:03:14.245584,New York Jets - 2024-25 Regular Season Wins O/U - Regular Season Wins - New York Jets O/U 11.5 Wins,Under 11.5 Wins,-0.011099999999999999,0.7222,0.7333
 2024-08-28 15:02:49.662675,Boxing Lines - Diego Pacheco vs Maciej Sulecki - To Win the Bout,Maciej Sulecki,-0.011099999999999999,0.1,0.1111
-2024-08-28 13:02:21.571331,Main Markets - 1st Round 2 Balls - B. Horschel v T. Fleetwood - 1st Round 2 Balls,Billy Horschel,-0.011099999999999999,0.4651,0.4762
 2024-08-28 19:03:14.277276,New York Jets - 2024-25 Regular Season Wins O/U - Regular Season Wins - New York Jets O/U 8.5 Wins,Under 8.5 Wins,-0.01150000000000001,0.3333,0.3448
 2024-08-28 13:02:21.529619,Main Markets - 1st Round 2 Balls - T. Pendrith v C. Kirk - 1st Round 2 Balls,Chris Kirk,-0.011600000000000055,0.5122,0.5238
+2024-08-28 23:02:26.068870,Average Threes Made Per Game - Average Threes Per Game  - Anfernee Simons (POR) - Threes Per Game,Over 3.8,-0.012199999999999989,0.5,0.5122
 2024-08-28 13:02:21.746054,Main Markets - 1st Round 2 Balls - L. Aberg v R. McIlroy - 1st Round 2 Balls,Ludvig Aberg,-0.012199999999999989,0.5,0.5122
 2024-08-28 17:03:07.068078,Electoral College Winner - Florida (FL) - FL,Republican,-0.012899999999999912,0.8333,0.8462
-2024-08-28 17:03:06.512324,Presidential Debates - ABC Debate Sept 10th: First State Mentioned By Either Harris Or Trump - First Mentioned State,New York,-0.013899999999999996,0.1111,0.125
 2024-08-28 15:02:30.707875,Euroleague - Euroleague 2024/25 - Outright,AS Monaco,-0.013899999999999996,0.1111,0.125
+2024-08-28 17:03:06.512324,Presidential Debates - ABC Debate Sept 10th: First State Mentioned By Either Harris Or Trump - First Mentioned State,New York,-0.013899999999999996,0.1111,0.125
 2024-08-28 17:03:07.558281,Electoral College Winner - New Hampshire (NH) - NH,Republican,-0.016699999999999993,0.25,0.2667
 2024-08-28 17:03:00.792289,La Liga - Spain La Liga 2024/25 - Winner,Atlético Madrid,-0.01759999999999999,0.1,0.1176
-2024-08-28 11:02:04.445443,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,-0.01880000000000004,0.5556,0.5744
 2024-08-28 13:02:21.300191,Boxing Lines - Ismael Barroso vs Andy Hiraoka - To Win the Bout,Andy Hiraoka,-0.020100000000000007,0.8261,0.8462
-2024-08-28 11:02:20.806720,Boxing Lines - Ismael Barroso vs Andy Hiraoka - To Win the Bout,Andy Hiraoka,-0.020500000000000074,0.8462,0.8667
 2024-08-28 13:02:02.167532,Beetlejuice Beetlejuice - Beetlejuice Beetlejuice Opening Weekend Domestic Box Office Gross - Beetlejuice Beetlejuice Opening Weekend,$100 to $120 million,-0.021999999999999964,0.2857,0.3077
 2024-08-28 13:02:02.167532,Beetlejuice Beetlejuice - Beetlejuice Beetlejuice Opening Weekend Domestic Box Office Gross - Beetlejuice Beetlejuice Opening Weekend,Over $120 million,-0.021999999999999964,0.2857,0.3077
 2024-08-28 17:03:06.818351,US Senate Elections 2024 - Senate Election Winner - Wisconsin - Winner,Republican,-0.02210000000000001,0.2105,0.2326
 2024-08-28 17:03:06.636143,US Senate Elections 2024 - Senate Election Winner - Arizona - Winner,Republican,-0.02210000000000001,0.2105,0.2326
 2024-08-28 19:03:13.645552,Los Angeles Chargers - 2024-25 Regular Season Wins O/U - Regular Season Wins - Los Angeles Chargers O/U 7.5 Wins,Over 7.5 Wins,-0.022499999999999964,0.7143,0.7368
 2024-08-28 15:02:51.638332,Positions - Billy Horschel - Billy Horschel,17th or better,-0.023800000000000043,0.5,0.5238
-2024-08-28 11:02:12.742318,Quarterbacks - NFL 2024-25 Passing TD's - Kirk Cousins Regular Season Total Passing TDs 2024-25,Over 27.5 TD's,-0.023800000000000043,0.5,0.5238
 2024-08-28 15:02:51.686395,Positions - Hideki Matsuyama - Hideki Matsuyama,5th or better,-0.023800000000000043,0.5,0.5238
 2024-08-28 15:02:51.843949,Positions - Shane Lowry - Shane Lowry,15th or better,-0.024399999999999977,0.4878,0.5122
 2024-08-28 17:03:06.490740,Presidential Debates - ABC Debate Sept 10th: Debate Winner According To ABC Poll - ABC Debate Winner,Kamala Harris,-0.026800000000000046,0.6875,0.7143
@@ -89,6 +79,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-28 17:03:06.733104,US Senate Elections 2024 - Senate Election Winner - Montana - Winner,Democrat,-0.03260000000000002,0.3448,0.3774
 2024-08-28 17:03:07.869999,Electoral College Winner - Texas (TX) - TX,Republican,-0.033299999999999996,0.9,0.9333
 2024-08-28 15:02:51.662332,Positions - Collin Morikawa  - Collin Morikawa,9th or better,-0.033299999999999996,0.5122,0.5455
+2024-08-28 23:02:45.201371,Boxing Lines - Elijah Pierce vs Jose Sanmartin - To Win the Bout,Elijah Pierce,-0.03410000000000002,0.875,0.9091
 2024-08-28 15:02:51.891956,Positions - Tommy Fleetwood - Tommy Fleetwood,16th or worse,-0.03480000000000005,0.5,0.5348
 2024-08-28 15:02:51.799721,Positions - Sam Burns - Sam Burns,11th or worse,-0.035999999999999976,0.4762,0.5122
 2024-08-28 15:02:51.867946,Positions - Sungjae Im - Sungjae Im,12th or better,-0.03600000000000003,0.4878,0.5238
