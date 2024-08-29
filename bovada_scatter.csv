@@ -15,8 +15,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-29 03:02:33.258608,Scores - 1st Round Score - Russell Henley - 1st Round Score,Over 68.5,0.05059999999999998,0.5744,0.5238
 2024-08-29 03:02:33.155603,Scores - 1st Round Score - Billy Horschel - 1st Round Score,Over 68.5,0.04820000000000002,0.6226,0.5744
 2024-08-29 03:02:33.358201,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Over 67.5,0.045499999999999985,0.5455,0.5
-2024-08-29 03:02:33.287393,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Over 67.5,0.045499999999999985,0.5455,0.5
 2024-08-29 03:02:33.187957,Scores - 1st Round Score - Hideki Matsuyama - 1st Round Score,Over 68.5,0.045499999999999985,0.5455,0.5
+2024-08-29 03:02:33.287393,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Over 67.5,0.045499999999999985,0.5455,0.5
 2024-08-29 03:02:10.310088,Serie B - Italy Serie B 2024/25 - To Be Promoted,Sampdoria,0.04409999999999997,0.2941,0.25
 2024-08-29 03:02:10.310088,Serie B - Italy Serie B 2024/25 - To Be Promoted,Reggiana,0.04329999999999999,0.0909,0.0476
 2024-08-29 09:01:42.762769,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 65 - 104,0.04169999999999999,0.1667,0.125
@@ -36,99 +36,103 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-29 03:02:10.099470,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Alavés,0.028199999999999996,0.0667,0.0385
 2024-08-29 03:02:10.099470,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Celta de Vigo,0.025300000000000003,0.1429,0.1176
 2024-08-29 01:03:20.712876,MLB Futures - MLB 2024 American League East - American League East Winner,Baltimore Orioles,0.024399999999999977,0.5122,0.4878
-2024-08-29 03:02:10.092941,La Liga - Spain La Liga 2024/25 - To Be Relegated,Girona,0.024299999999999995,0.0588,0.0345
 2024-08-29 03:02:10.099470,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Osasuna,0.024299999999999995,0.0588,0.0345
+2024-08-29 03:02:10.092941,La Liga - Spain La Liga 2024/25 - To Be Relegated,Girona,0.024299999999999995,0.0588,0.0345
 2024-08-29 09:01:42.762769,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 105 - 154,0.024299999999999995,0.0769,0.0526
 2024-08-29 03:02:10.310088,Serie B - Italy Serie B 2024/25 - To Be Promoted,Palermo,0.023800000000000043,0.5238,0.5
+2024-08-29 11:02:00.792755,Electoral College Winner - Pennsylvania (PA) - PA,Republican,0.023800000000000043,0.5238,0.5
 2024-08-29 03:02:10.099470,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Athletic Bilbao,0.021999999999999964,0.3077,0.2857
-2024-08-29 09:01:57.597267,Round Match-Ups - 1st Round Match-Up - A. Scott vs T. Finau - 1st Round Match-Up,Tony Finau,0.02169999999999994,0.5455,0.5238
-2024-08-29 03:02:34.006585,Match-Ups - Tournament Match-Up - T. Fleetwood v V. Hovland - Requests,Viktor Hovland,0.02169999999999994,0.5455,0.5238
 2024-08-29 03:02:33.329867,Scores - 1st Round Score - Viktor Hovland - 1st Round Score,Over 68.5,0.02169999999999994,0.5455,0.5238
+2024-08-29 03:02:34.006585,Match-Ups - Tournament Match-Up - T. Fleetwood v V. Hovland - Requests,Viktor Hovland,0.02169999999999994,0.5455,0.5238
+2024-08-29 09:01:57.597267,Round Match-Ups - 1st Round Match-Up - A. Scott vs T. Finau - 1st Round Match-Up,Tony Finau,0.02169999999999994,0.5455,0.5238
 2024-08-29 09:01:57.918057,Round Match-Ups - 2nd Round Match-Up - R. Ramsay v C. Syme - 2nd Round Match-Up,Connor Syme,0.02079999999999993,0.5556,0.5348
 2024-08-29 03:02:10.078975,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Celta de Vigo,0.0203,0.0588,0.0385
 2024-08-29 03:02:10.078975,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Real Sociedad,0.02020000000000001,0.1111,0.0909
 2024-08-29 01:03:23.481598,Tournament Match-Ups - Tournament Match-Up - S. Lowry vs S. Theegala - Tournament Match-Up,Shane Lowry,0.01970000000000005,0.5652,0.5455
 2024-08-29 03:02:10.303238,Serie B - Italy Serie B 2024/25 - Winner,Reggiana,0.0189,0.0385,0.0196
-2024-08-29 03:02:33.910588,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs P. Cantlay - Tournament Match-Up,Collin Morikawa,0.01880000000000004,0.5744,0.5556
 2024-08-29 03:02:33.936211,Tournament Match-Ups - Tournament Match-Up - S. Burns vs W. Clark - Tournament Match-Up,Sam Burns,0.01880000000000004,0.5744,0.5556
 2024-08-29 07:01:47.003161,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs X. Schauffele - Tournament Match-Up,Scottie Scheffler,0.01880000000000004,0.5744,0.5556
+2024-08-29 03:02:33.910588,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs P. Cantlay - Tournament Match-Up,Collin Morikawa,0.01880000000000004,0.5744,0.5556
 2024-08-29 03:02:10.310088,Serie B - Italy Serie B 2024/25 - To Be Promoted,Cesena,0.01820000000000002,0.2,0.1818
 2024-08-29 03:02:10.310088,Serie B - Italy Serie B 2024/25 - To Be Promoted,Carrarese,0.018200000000000004,0.0476,0.0294
 2024-08-29 03:02:32.910260,Round Match-Ups - 1st Round Match-Up - T. Hoge v M. Pavon - 1st Round Match-Up,Tom Hoge,0.018100000000000005,0.5833,0.5652
 2024-08-29 03:02:09.978687,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,RB Bragantino,0.018099999999999998,0.0769,0.0588
 2024-08-29 09:01:57.812558,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs X. Schauffele - Tournament Match-Up,Scottie Scheffler,0.017299999999999982,0.5917,0.5744
-2024-08-29 01:03:21.525314,Main Markets - 1st Round 2 Balls - C. Morikawa v W. Clark - 1st Round 2 Balls,Collin Morikawa,0.016699999999999937,0.6,0.5833
 2024-08-29 05:02:07.291210,Main Markets - 1st Round 2 Balls - B. Horschel v T. Fleetwood - 1st Round 2 Balls,Tommy Fleetwood,0.016699999999999937,0.6,0.5833
+2024-08-29 01:03:21.525314,Main Markets - 1st Round 2 Balls - C. Morikawa v W. Clark - 1st Round 2 Balls,Collin Morikawa,0.016699999999999937,0.6,0.5833
 2024-08-29 09:01:56.772282,Boxing Lines - Andreas Katzourakis vs Robert Terry - To Win the Bout,Robert Terry,0.015400000000000025,0.4,0.3846
 2024-08-29 07:01:44.559116,Boxing Lines - Brandon Adams vs Francisco Veron - To Win the Bout,Brandon Adams,0.014800000000000035,0.6226,0.6078
 2024-08-29 03:02:10.078975,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Alavés,0.014499999999999999,0.0294,0.0149
 2024-08-28 23:02:26.859285,WNBA Championship - WNBA Championship 2024 - Championship Winner,Seattle Storm,0.01440000000000001,0.1053,0.0909
-2024-08-29 05:02:09.883156,Futures - The Masters 2025 - Winner,Xander Schauffele,0.013999999999999999,0.0909,0.0769
 2024-08-29 07:01:27.781726,WNBA Championship - WNBA Championship 2024 - Championship Winner,Indiana Fever,0.013999999999999999,0.0909,0.0769
+2024-08-29 05:02:09.883156,Futures - The Masters 2025 - Winner,Xander Schauffele,0.013999999999999999,0.0909,0.0769
 2024-08-29 05:02:06.784566,Boxing Lines - Andreas Katzourakis vs Robert Terry - To Win the Bout,Robert Terry,0.013800000000000034,0.3774,0.3636
-2024-08-29 03:02:33.244470,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Over 67.5,0.013799999999999923,0.6364,0.6226
 2024-08-29 03:02:33.202063,Scores - 1st Round Score - Keegan Bradley - 1st Round Score,Over 68.5,0.013799999999999923,0.6364,0.6226
+2024-08-29 03:02:33.244470,Scores - 1st Round Score - Rory McIlroy - 1st Round Score,Over 67.5,0.013799999999999923,0.6364,0.6226
 2024-08-29 03:02:10.412732,Copa do Brasil - Copa do Brasil 2024 - Winner,Flamengo,0.012699999999999989,0.3636,0.3509
 2024-08-29 03:02:10.303238,Serie B - Italy Serie B 2024/25 - Winner,Juve Stabia,0.012100000000000001,0.0244,0.0123
 2024-08-29 03:02:34.020783,Match-Ups - Tournament Match-Up - W. Clark v P. Cantlay - Requests,Wyndham Clark,0.011600000000000055,0.5238,0.5122
 2024-08-29 03:02:10.310088,Serie B - Italy Serie B 2024/25 - To Be Promoted,Juve Stabia,0.011199999999999995,0.0588,0.0476
 2024-08-29 03:02:10.303238,Serie B - Italy Serie B 2024/25 - Winner,Cesena,0.011199999999999995,0.0588,0.0476
 2024-08-29 03:02:31.214747,Boxing Lines - Adelaida Ruiz vs Ginny Fuchs - To Win the Bout,Ginny Fuchs,0.011099999999999999,0.4762,0.4651
+2024-08-29 01:03:22.832019,Scores - 1st Round Score - Wyndham Clark - 1st Round Score,Over 68.5,0.01100000000000001,0.5348,0.5238
 2024-08-29 03:02:32.937671,Round Match-Ups - 1st Round Match-Up - S. Straka vs S. Theegala - 1st Round Match-Up,Sepp Straka,0.01100000000000001,0.5348,0.5238
 2024-08-29 03:02:33.272695,Scores - 1st Round Score - Sam Burns - 1st Round Score,Over 68.5,0.01100000000000001,0.5348,0.5238
-2024-08-29 01:03:22.832019,Scores - 1st Round Score - Wyndham Clark - 1st Round Score,Over 68.5,0.01100000000000001,0.5348,0.5238
-2024-08-29 07:01:46.134536,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Under 68.5,0.010699999999999932,0.5455,0.5348
+2024-08-29 11:02:13.642506,Boxing Lines - Andreas Katzourakis vs Robert Terry - To Win the Bout,Andreas Katzourakis,0.010700000000000043,0.6774,0.6667
 2024-08-29 03:02:33.960827,Tournament Match-Ups - Tournament Match-Up - L. Aberg vs R. McIlroy - Tournament Match-Up,Ludvig Aberg,0.010699999999999932,0.5455,0.5348
+2024-08-29 07:01:46.134536,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Under 68.5,0.010699999999999932,0.5455,0.5348
 2024-08-29 03:02:34.020783,Match-Ups - Tournament Match-Up - W. Clark v P. Cantlay - Requests,Patrick Cantlay,0.010699999999999932,0.5455,0.5348
-2024-08-29 07:01:44.559116,Boxing Lines - Brandon Adams vs Francisco Veron - To Win the Bout,Francisco Veron,-0.010099999999999998,0.4444,0.4545
 2024-08-29 07:01:44.579704,Boxing Lines - Andreas Katzourakis vs Robert Terry - To Win the Bout,Andreas Katzourakis,-0.010099999999999998,0.6774,0.6875
+2024-08-29 07:01:44.559116,Boxing Lines - Brandon Adams vs Francisco Veron - To Win the Bout,Francisco Veron,-0.010099999999999998,0.4444,0.4545
 2024-08-29 03:02:09.804699,MLS - USA MLS 2024 - Futures - Winner,New York City FC,-0.010100000000000001,0.0244,0.0345
-2024-08-29 03:02:09.817554,MLS - USA MLS 2024 - Futures - To Reach the Final,New York Red Bulls,-0.0102,0.0667,0.0769
 2024-08-29 03:02:10.078975,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Villarreal,-0.0102,0.0667,0.0769
 2024-08-29 03:02:09.817554,MLS - USA MLS 2024 - Futures - To Reach the Final,New York City FC,-0.0102,0.0667,0.0769
+2024-08-29 03:02:09.817554,MLS - USA MLS 2024 - Futures - To Reach the Final,New York Red Bulls,-0.0102,0.0667,0.0769
 2024-08-29 09:01:56.772282,Boxing Lines - Andreas Katzourakis vs Robert Terry - To Win the Bout,Andreas Katzourakis,-0.010700000000000043,0.6667,0.6774
 2024-08-29 03:02:10.310088,Serie B - Italy Serie B 2024/25 - To Be Promoted,Pisa,-0.010899999999999993,0.1429,0.1538
 2024-08-29 03:02:33.960827,Tournament Match-Ups - Tournament Match-Up - L. Aberg vs R. McIlroy - Tournament Match-Up,Rory McIlroy,-0.01100000000000001,0.5238,0.5348
 2024-08-29 07:01:46.134536,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Over 68.5,-0.01100000000000001,0.5238,0.5348
-2024-08-29 01:03:21.043647,Boxing Lines - Adelaida Ruiz vs Ginny Fuchs - To Win the Bout,Ginny Fuchs,-0.011099999999999999,0.4651,0.4762
 2024-08-29 03:02:32.910260,Round Match-Ups - 1st Round Match-Up - T. Hoge v M. Pavon - 1st Round Match-Up,Matthieu Pavon,-0.011099999999999999,0.4651,0.4762
+2024-08-29 01:03:21.043647,Boxing Lines - Adelaida Ruiz vs Ginny Fuchs - To Win the Bout,Ginny Fuchs,-0.011099999999999999,0.4651,0.4762
 2024-08-29 07:01:44.633476,Boxing Lines - Adelaida Ruiz vs Ginny Fuchs - To Win the Bout,Ginny Fuchs,-0.011099999999999999,0.4651,0.4762
-2024-08-29 03:02:10.099470,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Valencia,-0.011199999999999995,0.0476,0.0588
-2024-08-29 03:02:10.092941,La Liga - Spain La Liga 2024/25 - To Be Relegated,Villarreal,-0.011199999999999995,0.0476,0.0588
-2024-08-29 03:02:10.099470,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Mallorca,-0.011199999999999995,0.0476,0.0588
-2024-08-29 03:02:10.422979,Primera Division - Chile Primera Division 2024 - Futures - Winner,Coquimbo Unido,-0.011199999999999995,0.0476,0.0588
 2024-08-29 03:02:10.078975,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Real Betis,-0.011199999999999995,0.0476,0.0588
+2024-08-29 03:02:10.422979,Primera Division - Chile Primera Division 2024 - Futures - Winner,Coquimbo Unido,-0.011199999999999995,0.0476,0.0588
+2024-08-29 03:02:10.092941,La Liga - Spain La Liga 2024/25 - To Be Relegated,Villarreal,-0.011199999999999995,0.0476,0.0588
+2024-08-29 03:02:10.099470,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Valencia,-0.011199999999999995,0.0476,0.0588
+2024-08-29 03:02:10.099470,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Mallorca,-0.011199999999999995,0.0476,0.0588
 2024-08-29 09:01:57.812558,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs X. Schauffele - Tournament Match-Up,Xander Schauffele,-0.0116,0.4762,0.4878
 2024-08-29 03:02:32.937671,Round Match-Ups - 1st Round Match-Up - S. Straka vs S. Theegala - 1st Round Match-Up,Sahith Theegala,-0.011600000000000055,0.5122,0.5238
 2024-08-29 03:02:10.078975,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Mallorca,-0.012100000000000001,0.0123,0.0244
 2024-08-28 23:02:26.068870,Average Threes Made Per Game - Average Threes Per Game  - Anfernee Simons (POR) - Threes Per Game,Over 3.8,-0.012199999999999989,0.5,0.5122
 2024-08-29 03:02:10.092941,La Liga - Spain La Liga 2024/25 - To Be Relegated,Sevilla,-0.012899999999999995,0.1538,0.1667
-2024-08-29 03:02:10.310088,Serie B - Italy Serie B 2024/25 - To Be Promoted,Modena,-0.013999999999999999,0.0769,0.0909
 2024-08-29 03:02:10.310088,Serie B - Italy Serie B 2024/25 - To Be Promoted,Catanzaro,-0.013999999999999999,0.0769,0.0909
+2024-08-29 03:02:10.310088,Serie B - Italy Serie B 2024/25 - To Be Promoted,Modena,-0.013999999999999999,0.0769,0.0909
 2024-08-29 03:02:10.099470,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Villarreal,-0.015100000000000002,0.1667,0.1818
 2024-08-29 01:03:20.690197,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,-0.015199999999999991,0.2174,0.2326
+2024-08-29 11:02:13.642506,Boxing Lines - Andreas Katzourakis vs Robert Terry - To Win the Bout,Robert Terry,-0.015400000000000025,0.3846,0.4
 2024-08-29 07:01:27.781726,WNBA Championship - WNBA Championship 2024 - Championship Winner,Las Vegas Aces,-0.016699999999999993,0.25,0.2667
 2024-08-29 03:02:10.078975,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Valencia,-0.017099999999999997,0.0123,0.0294
-2024-08-29 03:02:10.412732,Copa do Brasil - Copa do Brasil 2024 - Winner,Athletico Paranaense,-0.0179,0.125,0.1429
 2024-08-29 03:02:09.817554,MLS - USA MLS 2024 - Futures - To Reach the Final,FC Cincinnati,-0.0179,0.125,0.1429
+2024-08-29 03:02:10.412732,Copa do Brasil - Copa do Brasil 2024 - Winner,Athletico Paranaense,-0.0179,0.125,0.1429
 2024-08-29 03:02:09.804699,MLS - USA MLS 2024 - Futures - Winner,FC Cincinnati,-0.018099999999999998,0.0588,0.0769
 2024-08-29 03:02:10.422979,Primera Division - Chile Primera Division 2024 - Futures - Winner,Unión Española,-0.0189,0.0196,0.0385
+2024-08-29 11:02:00.792755,Electoral College Winner - Pennsylvania (PA) - PA,Democrat,-0.01970000000000005,0.5455,0.5652
 2024-08-29 03:02:09.823299,MLS - USA MLS 2024 - Futures - Eastern Conference League Winner,FC Cincinnati,-0.02020000000000001,0.0909,0.1111
 2024-08-29 03:02:10.092941,La Liga - Spain La Liga 2024/25 - To Be Relegated,Real Sociedad,-0.0203,0.0385,0.0588
-2024-08-29 05:02:07.291210,Main Markets - 1st Round 2 Balls - B. Horschel v T. Fleetwood - 1st Round 2 Balls,Billy Horschel,-0.020699999999999996,0.4444,0.4651
 2024-08-29 01:03:21.525314,Main Markets - 1st Round 2 Balls - C. Morikawa v W. Clark - 1st Round 2 Balls,Wyndham Clark,-0.020699999999999996,0.4444,0.4651
-2024-08-29 01:03:22.832019,Scores - 1st Round Score - Wyndham Clark - 1st Round Score,Under 68.5,-0.02079999999999993,0.5348,0.5556
+2024-08-29 05:02:07.291210,Main Markets - 1st Round 2 Balls - B. Horschel v T. Fleetwood - 1st Round 2 Balls,Billy Horschel,-0.020699999999999996,0.4444,0.4651
 2024-08-29 03:02:33.272695,Scores - 1st Round Score - Sam Burns - 1st Round Score,Under 68.5,-0.02079999999999993,0.5348,0.5556
+2024-08-29 01:03:22.832019,Scores - 1st Round Score - Wyndham Clark - 1st Round Score,Under 68.5,-0.02079999999999993,0.5348,0.5556
 2024-08-29 03:02:10.078975,La Liga - Spain La Liga 2024/25 - Winner without Real Madrid & Barcelona,Atlético Madrid,-0.02169999999999994,0.5238,0.5455
-2024-08-29 01:03:20.780927,MLB Futures - MLB 2024 National League West - National League West Winner,San Diego Padres,-0.022199999999999998,0.1111,0.1333
 2024-08-29 03:02:10.092941,La Liga - Spain La Liga 2024/25 - To Be Relegated,Osasuna,-0.022199999999999998,0.2,0.2222
+2024-08-29 01:03:20.780927,MLB Futures - MLB 2024 National League West - National League West Winner,San Diego Padres,-0.022199999999999998,0.1111,0.1333
 2024-08-29 09:01:57.918057,Round Match-Ups - 2nd Round Match-Up - R. Ramsay v C. Syme - 2nd Round Match-Up,Richie Ramsay,-0.022600000000000064,0.5122,0.5348
 2024-08-29 03:02:10.310088,Serie B - Italy Serie B 2024/25 - To Be Promoted,Sassuolo,-0.023799999999999988,0.4762,0.5
-2024-08-29 09:01:57.597267,Round Match-Ups - 1st Round Match-Up - A. Scott vs T. Finau - 1st Round Match-Up,Adam Scott,-0.023800000000000043,0.5,0.5238
 2024-08-29 01:03:23.481598,Tournament Match-Ups - Tournament Match-Up - S. Lowry vs S. Theegala - Tournament Match-Up,Sahith Theegala,-0.023800000000000043,0.5,0.5238
+2024-08-29 09:01:57.597267,Round Match-Ups - 1st Round Match-Up - A. Scott vs T. Finau - 1st Round Match-Up,Adam Scott,-0.023800000000000043,0.5,0.5238
 2024-08-29 03:02:10.092941,La Liga - Spain La Liga 2024/25 - To Be Relegated,Celta de Vigo,-0.0242,0.0667,0.0909
-2024-08-29 07:01:47.003161,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs X. Schauffele - Tournament Match-Up,Xander Schauffele,-0.024399999999999977,0.4878,0.5122
 2024-08-29 03:02:33.936211,Tournament Match-Ups - Tournament Match-Up - S. Burns vs W. Clark - Tournament Match-Up,Wyndham Clark,-0.024399999999999977,0.4878,0.5122
+2024-08-29 07:01:47.003161,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs X. Schauffele - Tournament Match-Up,Xander Schauffele,-0.024399999999999977,0.4878,0.5122
 2024-08-29 03:02:33.910588,Tournament Match-Ups - Tournament Match-Up - C. Morikawa vs P. Cantlay - Tournament Match-Up,Patrick Cantlay,-0.024399999999999977,0.4878,0.5122
 2024-08-29 03:02:09.978687,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Criciúma SC,-0.025499999999999967,0.4,0.4255
 2024-08-29 03:02:10.092941,La Liga - Spain La Liga 2024/25 - To Be Relegated,Real Valladolid,-0.02560000000000001,0.3077,0.3333
@@ -139,15 +143,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-28 23:02:45.201371,Boxing Lines - Elijah Pierce vs Jose Sanmartin - To Win the Bout,Elijah Pierce,-0.03410000000000002,0.875,0.9091
 2024-08-29 03:02:33.887496,Tournament Match-Ups - Tournament Match-Up - S. Lowry vs S. Theegala - Tournament Match-Up,Sahith Theegala,-0.03489999999999999,0.4651,0.5
 2024-08-29 07:01:44.985025,Main Markets - 1st Round 2 Balls - C. Bezuidenhout v J. Thomas - 1st Round 2 Balls,Justin Thomas,-0.037800000000000056,0.5455,0.5833
-2024-08-29 03:02:33.315688,Scores - 1st Round Score - Tommy Fleetwood - 1st Round Score,Under 68.5,-0.03959999999999997,0.5348,0.5744
 2024-08-29 03:02:33.173855,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Under 68.5,-0.03959999999999997,0.5348,0.5744
+2024-08-29 03:02:33.315688,Scores - 1st Round Score - Tommy Fleetwood - 1st Round Score,Under 68.5,-0.03959999999999997,0.5348,0.5744
 2024-08-29 01:03:20.712876,MLB Futures - MLB 2024 American League East - American League East Winner,New York Yankees,-0.040999999999999925,0.5744,0.6154
 2024-08-29 03:02:33.343971,Scores - 1st Round Score - Wyndham Clark - 1st Round Score,Under 68.5,-0.04700000000000004,0.4878,0.5348
 2024-08-29 03:02:10.092941,La Liga - Spain La Liga 2024/25 - To Be Relegated,Rayo Vallecano,-0.04999999999999999,0.2,0.25
 2024-08-29 03:02:10.099470,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Atlético Madrid,-0.050000000000000044,0.75,0.8
-2024-08-29 03:02:33.358201,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Under 67.5,-0.05059999999999998,0.5238,0.5744
-2024-08-29 03:02:33.287393,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Under 67.5,-0.05059999999999998,0.5238,0.5744
 2024-08-29 03:02:33.187957,Scores - 1st Round Score - Hideki Matsuyama - 1st Round Score,Under 68.5,-0.05059999999999998,0.5238,0.5744
+2024-08-29 03:02:33.287393,Scores - 1st Round Score - Scottie Scheffler - 1st Round Score,Under 67.5,-0.05059999999999998,0.5238,0.5744
+2024-08-29 03:02:33.358201,Scores - 1st Round Score - Xander Schauffele - 1st Round Score,Under 67.5,-0.05059999999999998,0.5238,0.5744
 2024-08-29 03:02:33.230287,Scores - 1st Round Score - Patrick Cantlay - 1st Round Score,Under 68.5,-0.05559999999999998,0.5,0.5556
 2024-08-29 03:02:33.155603,Scores - 1st Round Score - Billy Horschel - 1st Round Score,Under 68.5,-0.05559999999999998,0.4444,0.5
 2024-08-29 03:02:10.099470,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Betis,-0.05559999999999998,0.1111,0.1667
