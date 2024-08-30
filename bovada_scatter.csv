@@ -6,7 +6,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-29 09:01:42.762769,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 65 - 104,0.04169999999999999,0.1667,0.125
 2024-08-29 17:03:29.622073,Electoral College Winner - North Carolina (NC) - NC,Republican,0.03709999999999991,0.6667,0.6296
 2024-08-29 17:03:44.825885,Elite Boxing - Jake Paul vs Mike Tyson - To Win the Bout,Jake Paul,0.035699999999999954,0.75,0.7143
-2024-08-29 07:01:44.985025,Main Markets - 1st Round 2 Balls - C. Bezuidenhout v J. Thomas - 1st Round 2 Balls,Christiaan Bezuidenhout,0.03489999999999999,0.5,0.4651
 2024-08-29 17:03:45.409638,British Masters - British Masters - Winner,Laurie Canter,0.031,0.0588,0.0278
 2024-08-29 15:02:51.043089,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Republican Presidency & Republican Popular Vote,0.02779999999999999,0.25,0.2222
 2024-08-29 09:01:42.762769,2024 Election Core - US Presidential Election 2024 - Electoral College Winning Margin - Electoral College Winning Margin,GOP 105 - 154,0.024299999999999995,0.0769,0.0526
@@ -17,42 +16,37 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-29 09:01:57.918057,Round Match-Ups - 2nd Round Match-Up - R. Ramsay v C. Syme - 2nd Round Match-Up,Connor Syme,0.02079999999999993,0.5556,0.5348
 2024-08-29 17:03:45.409638,British Masters - British Masters - Winner,Jeong Weon Ko,0.019200000000000002,0.0217,0.0025
 2024-08-29 15:02:45.826924,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,0.019000000000000017,0.2857,0.2667
-2024-08-29 07:01:47.003161,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs X. Schauffele - Tournament Match-Up,Scottie Scheffler,0.01880000000000004,0.5744,0.5556
 2024-08-29 09:01:57.812558,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs X. Schauffele - Tournament Match-Up,Scottie Scheffler,0.017299999999999982,0.5917,0.5744
 2024-08-29 13:01:45.192586,UEFA Champions League - UEFA Champions League 2024/25 - Top Goalscorer,Erling Haaland (Man City),0.016699999999999993,0.2667,0.25
 2024-08-29 09:01:56.772282,Boxing Lines - Andreas Katzourakis vs Robert Terry - To Win the Bout,Robert Terry,0.015400000000000025,0.4,0.3846
-2024-08-29 07:01:44.559116,Boxing Lines - Brandon Adams vs Francisco Veron - To Win the Bout,Brandon Adams,0.014800000000000035,0.6226,0.6078
 2024-08-29 17:03:45.409638,British Masters - British Masters - Winner,David Micheluzzi,0.0145,0.0244,0.0099
 2024-08-29 17:03:45.409638,British Masters - British Masters - Winner,Jordan Smith,0.014099999999999998,0.0385,0.0244
 2024-08-29 13:02:06.456315,Boxing Lines - Cain Sandoval vs Romero Duno - To Win the Bout,Cain Sandoval,0.014000000000000012,0.9231,0.9091
-2024-08-29 07:01:27.781726,WNBA Championship - WNBA Championship 2024 - Championship Winner,Indiana Fever,0.013999999999999999,0.0909,0.0769
 2024-08-29 17:03:45.409638,British Masters - British Masters - Winner,Andrew Wilson,0.0138,0.0217,0.0079
 2024-08-29 17:03:45.409638,British Masters - British Masters - Winner,Andrea Pavan,0.0118,0.0217,0.0099
 2024-08-29 15:03:06.793394,Boxing Lines - Andreas Katzourakis vs Robert Terry - To Win the Bout,Andreas Katzourakis,0.011499999999999955,0.6667,0.6552
 2024-08-29 17:03:45.409638,British Masters - British Masters - Winner,Tom Vaillant,0.0113,0.0179,0.0066
 2024-08-29 13:02:06.388143,Boxing Lines - Fabian Rojo vs Alejandro Rodriguez - To Win the Bout,Fabian Rojo,0.011199999999999988,0.9524,0.9412
 2024-08-29 13:02:06.433611,Boxing Lines - Adelaida Ruiz vs Ginny Fuchs - To Win the Bout,Ginny Fuchs,0.011099999999999999,0.4762,0.4651
-2024-08-29 13:01:45.185820,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Arsenal,0.011099999999999999,0.1111,0.1
 2024-08-29 13:02:06.365461,Boxing Lines - Elijah Pierce vs Jose Sanmartin - To Win the Bout,Elijah Pierce,0.011099999999999999,0.9,0.8889
+2024-08-29 13:01:45.185820,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Arsenal,0.011099999999999999,0.1111,0.1
+2024-08-29 19:03:58.953579,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,0.01100000000000001,0.5348,0.5238
+2024-08-29 19:03:58.976050,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,0.01100000000000001,0.5348,0.5238
 2024-08-29 11:02:13.642506,Boxing Lines - Andreas Katzourakis vs Robert Terry - To Win the Bout,Andreas Katzourakis,0.010700000000000043,0.6774,0.6667
-2024-08-29 07:01:46.134536,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Under 68.5,0.010699999999999932,0.5455,0.5348
 2024-08-29 13:01:45.185820,UEFA Champions League - UEFA Champions League 2024/25 - Winner,FC Barcelona,0.0102,0.0769,0.0667
 2024-08-29 17:03:45.409638,British Masters - British Masters - Winner,Andy Sullivan,0.010100000000000001,0.0345,0.0244
 2024-08-29 15:02:51.043089,2024 Election Core - Presidency/Popular Vote Winner Parlays - Presidency/Pop Vote Winners,Democrat Presidency & Democrat Popular Vote,-0.010099999999999998,0.5455,0.5556
-2024-08-29 07:01:44.579704,Boxing Lines - Andreas Katzourakis vs Robert Terry - To Win the Bout,Andreas Katzourakis,-0.010099999999999998,0.6774,0.6875
-2024-08-29 07:01:44.559116,Boxing Lines - Brandon Adams vs Francisco Veron - To Win the Bout,Francisco Veron,-0.010099999999999998,0.4444,0.4545
 2024-08-29 17:03:45.409638,British Masters - British Masters - Winner,Julien Guerrier,-0.0101,0.004,0.0141
 2024-08-29 09:01:56.772282,Boxing Lines - Andreas Katzourakis vs Robert Terry - To Win the Bout,Andreas Katzourakis,-0.010700000000000043,0.6667,0.6774
-2024-08-29 07:01:46.134536,Scores - 1st Round Score - Collin Morikawa - 1st Round Score,Over 68.5,-0.01100000000000001,0.5238,0.5348
-2024-08-29 07:01:44.633476,Boxing Lines - Adelaida Ruiz vs Ginny Fuchs - To Win the Bout,Ginny Fuchs,-0.011099999999999999,0.4651,0.4762
 2024-08-29 13:01:45.185820,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Paris Saint-Germain,-0.011199999999999995,0.0476,0.0588
 2024-08-29 17:03:45.409638,British Masters - British Masters - Winner,Richard Mansell,-0.011399999999999997,0.0164,0.0278
 2024-08-29 09:01:57.812558,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs X. Schauffele - Tournament Match-Up,Xander Schauffele,-0.0116,0.4762,0.4878
+2024-08-29 19:03:58.976050,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican,-0.011600000000000055,0.5122,0.5238
+2024-08-29 19:03:58.953579,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,-0.011600000000000055,0.5122,0.5238
 2024-08-29 15:03:06.806694,Boxing Lines - Elijah Pierce vs Jose Sanmartin - To Win the Bout,Jose Sanmartin,-0.012899999999999995,0.1538,0.1667
 2024-08-29 17:03:45.409638,British Masters - British Masters - Winner,Sam Bairstow,-0.0139,0.0057,0.0196
 2024-08-29 17:03:45.409638,British Masters - British Masters - Winner,Matthew Jordan,-0.0145,0.0099,0.0244
 2024-08-29 11:02:13.642506,Boxing Lines - Andreas Katzourakis vs Robert Terry - To Win the Bout,Robert Terry,-0.015400000000000025,0.3846,0.4
-2024-08-29 07:01:27.781726,WNBA Championship - WNBA Championship 2024 - Championship Winner,Las Vegas Aces,-0.016699999999999993,0.25,0.2667
 2024-08-29 13:02:06.388143,Boxing Lines - Fabian Rojo vs Alejandro Rodriguez - To Win the Bout,Alejandro Rodriguez,-0.01759999999999999,0.1,0.1176
 2024-08-29 17:03:45.409638,British Masters - British Masters - Winner,Alex Fitzpatrick,-0.0177,0.004,0.0217
 2024-08-29 17:03:45.409638,British Masters - British Masters - Winner,Sami Valimaki,-0.017800000000000003,0.0066,0.0244
@@ -66,13 +60,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-29 09:01:57.918057,Round Match-Ups - 2nd Round Match-Up - R. Ramsay v C. Syme - 2nd Round Match-Up,Richie Ramsay,-0.022600000000000064,0.5122,0.5348
 2024-08-29 17:03:45.409638,British Masters - British Masters - Winner,Guido Migliozzi,-0.023500000000000004,0.011,0.0345
 2024-08-29 09:01:57.597267,Round Match-Ups - 1st Round Match-Up - A. Scott vs T. Finau - 1st Round Match-Up,Adam Scott,-0.023800000000000043,0.5,0.5238
-2024-08-29 07:01:47.003161,Tournament Match-Ups - Tournament Match-Up - S. Scheffler vs X. Schauffele - Tournament Match-Up,Xander Schauffele,-0.024399999999999977,0.4878,0.5122
 2024-08-29 17:03:45.409638,British Masters - British Masters - Winner,Ewen Ferguson,-0.026600000000000002,0.0057,0.0323
 2024-08-29 17:03:45.409638,British Masters - British Masters - Winner,Rasmus Hojgaard,-0.027099999999999996,0.0164,0.0435
 2024-08-29 17:03:45.409638,British Masters - British Masters - Winner,Tom McKibbin,-0.0286,0.0099,0.0385
 2024-08-29 17:03:29.622073,Electoral College Winner - North Carolina (NC) - NC,Democrat,-0.0348,0.4,0.4348
 2024-08-29 15:02:45.826924,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,-0.03710000000000002,0.6552,0.6923
-2024-08-29 07:01:44.985025,Main Markets - 1st Round 2 Balls - C. Bezuidenhout v J. Thomas - 1st Round 2 Balls,Justin Thomas,-0.037800000000000056,0.5455,0.5833
 2024-08-29 17:03:44.825885,Elite Boxing - Jake Paul vs Mike Tyson - To Win the Bout,Mike Tyson,-0.03920000000000001,0.2941,0.3333
 2024-08-29 13:01:45.185820,UEFA Champions League - UEFA Champions League 2024/25 - Winner,Real Madrid,-0.044499999999999984,0.2222,0.2667
 2024-08-29 17:03:45.409638,British Masters - British Masters - Winner,Matt Wallace,-0.049800000000000004,0.0028,0.0526
