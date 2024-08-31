@@ -8,6 +8,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-30 17:03:53.407526,British Masters - British Masters - Winner,Niklas Norgaard,0.06309999999999999,0.0909,0.0278
 2024-08-30 17:03:30.175692,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Oklahoma City Thunder,0.05870000000000003,0.5238,0.4651
 2024-08-30 13:02:48.906910,Brasileirão Série A - Brasileiro Serie A 2024 - To Be Relegated,Corinthians,0.05449999999999999,0.6,0.5455
+2024-08-30 21:04:16.630149,Round Match-Ups - 3rd Round Match-Ups - X. Schauffele vs S. Scheffler - 3rd Round Match-Ups,Xander Schauffele,0.04760000000000003,0.5238,0.4762
 2024-08-30 19:03:52.995046,Superligaen - Denmark Superligaen 2024/2025 - To Be Relegated,Vejle BK,0.044500000000000095,0.7778,0.7333
 2024-08-30 19:03:52.317725,Championship - England Championship 2024/25 - To Be Relegated,Derby County,0.03570000000000001,0.2857,0.25
 2024-08-30 19:03:52.317725,Championship - England Championship 2024/25 - To Be Relegated,Portsmouth,0.03570000000000001,0.2857,0.25
@@ -23,7 +24,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-30 17:03:53.407526,British Masters - British Masters - Winner,Joost Luiten,0.022400000000000003,0.0323,0.0099
 2024-08-30 19:03:52.304929,Championship - England Championship 2024/25 - To Be Promoted,Middlesbrough,0.021999999999999964,0.3077,0.2857
 2024-08-30 17:03:53.407526,British Masters - British Masters - Winner,Lucas Bjerregaard,0.019899999999999998,0.0278,0.0079
-2024-08-30 09:02:44.747430,Round Match-Ups - 2nd Round Match-Ups - R. McIIroy vs L. Aberg - 2nd Round Match-Ups,Rory McIlroy,0.01970000000000005,0.5652,0.5455
 2024-08-30 15:03:19.360897,Boxing Lines - Adelaida Ruiz vs Ginny Fuchs - To Win the Bout,Ginny Fuchs,0.019699999999999995,0.4545,0.4348
 2024-08-30 13:02:48.913052,Brasileirão Série A - Brasileiro Serie A 2024 - Top 4 Finish,Fortaleza,0.018999999999999906,0.7333,0.7143
 2024-08-30 11:02:53.317030,BKFC Prospect Series: Edmonton - Kimani Crawford vs Danasabe Mohammed - To Win the Bout,Kimani Crawford,0.018999999999999906,0.7333,0.7143
@@ -32,33 +32,37 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-30 15:03:17.688709,NCAA Football Futures - 2024 Mountain West Conference Championship - Championship Game Winner,Boise State,0.016699999999999937,0.6,0.5833
 2024-08-30 19:03:52.447801,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,0.016699999999999937,0.6,0.5833
 2024-08-30 17:03:51.244675,NCAA Football Futures - 2024 Mountain West Conference Championship - Championship Game Winner,Boise State,0.01539999999999997,0.6154,0.6
+2024-08-30 21:03:55.345178,WNBA Championship - WNBA Championship 2024 - Championship Winner,Minnesota Lynx,0.015100000000000002,0.1818,0.1667
+2024-08-30 21:04:16.304755,Main Markets - 3rd Round 2-Balls - X. Schauffele / S. Theegala - 3rd Round 2-Balls,Xander Schauffele,0.014900000000000024,0.6923,0.6774
 2024-08-30 11:02:53.144489,BKFC Prospect Series: Edmonton - Chad Lucanas vs Zachary Pannell - To Win the Bout,Chad Lucanas,0.014700000000000046,0.7647,0.75
 2024-08-30 17:03:30.175692,Northwest Division - Northwest Division 2024-25 - Northwest Division Winner,Minnesota Timberwolves,0.014500000000000013,0.3175,0.303
 2024-08-30 19:03:52.291007,Championship - England Championship 2024/25 - Top Goalscorer,Oscar Estupinian,0.014499999999999999,0.0294,0.0149
 2024-08-30 19:03:52.317725,Championship - England Championship 2024/25 - To Be Relegated,Norwich City,0.013999999999999999,0.0909,0.0769
 2024-08-30 17:03:52.877032,Boxing Lines - Diego Pacheco vs Maciej Sulecki - To Win the Bout,Diego Pacheco,0.011199999999999988,0.9524,0.9412
 2024-08-30 17:03:30.244245,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,Houston Rockets,0.011099999999999999,0.1111,0.1
+2024-08-30 21:04:16.538171,Round Match-Ups - 3rd Round Match-Ups - R. McIIroy vs C. Morikawa - 3rd Round Match-Ups,Collin Morikawa,0.01100000000000001,0.5348,0.5238
 2024-08-30 19:03:52.304929,Championship - England Championship 2024/25 - To Be Promoted,Burnley,0.01100000000000001,0.5348,0.5238
-2024-08-30 11:02:53.167482,BKFC Prospect Series: Edmonton - Drew Stuve vs Sonny Smith - To Win the Bout,Drew Stuve,0.010700000000000043,0.6774,0.6667
 2024-08-30 11:02:53.098158,BKFC Prospect Series: Edmonton - Alexandra Lucia Delgado-Lopez vs Jennifer Ruiz - To Win the Bout,Alexandra Lucia Delgado-Lopez,0.010700000000000043,0.6774,0.6667
+2024-08-30 11:02:53.167482,BKFC Prospect Series: Edmonton - Drew Stuve vs Sonny Smith - To Win the Bout,Drew Stuve,0.010700000000000043,0.6774,0.6667
 2024-08-30 11:02:53.259715,BKFC Prospect Series: Edmonton - Robert Desharnais vs Glendel Futrell - To Win the Bout,Glendel Futrell,0.010699999999999932,0.5455,0.5348
 2024-08-30 19:03:52.304929,Championship - England Championship 2024/25 - To Be Promoted,Blackburn Rovers,0.0102,0.0769,0.0667
-2024-08-30 19:03:52.278081,Championship - England Championship 2024/25 - Winner,Sunderland,0.0102,0.0769,0.0667
 2024-08-30 19:03:52.278081,Championship - England Championship 2024/25 - Winner,Sheffield United,0.0102,0.0769,0.0667
+2024-08-30 19:03:52.278081,Championship - England Championship 2024/25 - Winner,Sunderland,0.0102,0.0769,0.0667
 2024-08-30 13:03:11.781966,BKFC Prospect Series: Edmonton - Robert Desharnais vs Glendel Futrell - To Win the Bout,Glendel Futrell,0.010099999999999998,0.5556,0.5455
-2024-08-30 09:02:43.528462,Boxing Lines - Donte Layne vs Noah Kidd - To Win the Bout,Noah Kidd,-0.0102,0.0667,0.0769
 2024-08-30 17:03:53.407526,British Masters - British Masters - Winner,Connor Syme,-0.0103,0.002,0.0123
-2024-08-30 11:02:53.236620,BKFC Prospect Series: Edmonton - Matt Socholotiuk vs Nash Diederichs - To Win the Bout,Nash Diederichs,-0.010699999999999987,0.3226,0.3333
 2024-08-30 11:02:53.121338,BKFC Prospect Series: Edmonton - Caeden Scott vs Dan Godoy - To Win the Bout,Dan Godoy,-0.010699999999999987,0.3226,0.3333
+2024-08-30 11:02:53.236620,BKFC Prospect Series: Edmonton - Matt Socholotiuk vs Nash Diederichs - To Win the Bout,Nash Diederichs,-0.010699999999999987,0.3226,0.3333
 2024-08-30 11:02:53.259715,BKFC Prospect Series: Edmonton - Robert Desharnais vs Glendel Futrell - To Win the Bout,Robert Desharnais,-0.01100000000000001,0.5238,0.5348
 2024-08-30 15:03:19.181887,Boxing Lines - Maliek Montgomery vs Oscar Escandon - To Win the Bout,Oscar Escandon,-0.011099999999999999,0.1,0.1111
 2024-08-30 17:03:28.490004,Ligue 1 - France Ligue 1 2024/25 - Winner,Monaco,-0.011099999999999999,0.1,0.1111
 2024-08-30 19:03:52.447801,Serie A - Italy Serie A 2024/25 - Winner,Atalanta,-0.011199999999999995,0.0476,0.0588
+2024-08-30 21:04:16.538171,Round Match-Ups - 3rd Round Match-Ups - R. McIIroy vs C. Morikawa - 3rd Round Match-Ups,Rory McIlroy,-0.011600000000000055,0.5122,0.5238
 2024-08-30 13:03:11.781966,BKFC Prospect Series: Edmonton - Robert Desharnais vs Glendel Futrell - To Win the Bout,Robert Desharnais,-0.011600000000000055,0.5122,0.5238
 2024-08-30 19:03:52.278081,Championship - England Championship 2024/25 - Winner,Burnley,-0.011700000000000016,0.2105,0.2222
 2024-08-30 17:03:53.407526,British Masters - British Masters - Winner,Antoine Rozner,-0.012100000000000001,0.0123,0.0244
 2024-08-30 17:03:53.195619,BKFC Prospect Series: Edmonton - Jonathan Miller vs Bohdan Kotok - To Win the Bout,Bohdan Kotok,-0.012199999999999989,0.5,0.5122
 2024-08-30 15:03:17.688709,NCAA Football Futures - 2024 Mountain West Conference Championship - Championship Game Winner,Air Force,-0.012600000000000007,0.0588,0.0714
+2024-08-30 21:04:16.304755,Main Markets - 3rd Round 2-Balls - X. Schauffele / S. Theegala - 3rd Round 2-Balls,Sahith Theegala,-0.012699999999999989,0.3509,0.3636
 2024-08-30 17:03:53.666658,FM Championship - FM Championship - Winner,Amy Yang,-0.012799999999999999,0.0013,0.0141
 2024-08-30 19:03:52.317725,Championship - England Championship 2024/25 - To Be Relegated,Blackburn Rovers,-0.012899999999999995,0.1538,0.1667
 2024-08-30 19:03:52.981581,Superligaen - Denmark Superligaen 2024/2025 - Winner,Brøndby IF,-0.012899999999999995,0.1538,0.1667
@@ -66,13 +70,13 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-30 17:03:53.666658,FM Championship - FM Championship - Winner,Grace Kim,-0.0142,0.001,0.0152
 2024-08-30 17:03:53.407526,British Masters - British Masters - Winner,Thriston Lawrence,-0.01440000000000001,0.0909,0.1053
 2024-08-30 19:03:52.317725,Championship - England Championship 2024/25 - To Be Relegated,Preston North End,-0.01469999999999999,0.2353,0.25
-2024-08-30 17:03:53.407526,British Masters - British Masters - Winner,Andrea Pavan,-0.0151,0.0066,0.0217
 2024-08-30 17:03:53.407526,British Masters - British Masters - Winner,Andrew Wilson,-0.0151,0.0066,0.0217
+2024-08-30 17:03:53.407526,British Masters - British Masters - Winner,Andrea Pavan,-0.0151,0.0066,0.0217
 2024-08-30 19:03:52.317725,Championship - England Championship 2024/25 - To Be Relegated,Swansea City,-0.015100000000000002,0.1667,0.1818
 2024-08-30 11:02:53.098158,BKFC Prospect Series: Edmonton - Alexandra Lucia Delgado-Lopez vs Jennifer Ruiz - To Win the Bout,Jennifer Ruiz,-0.015400000000000025,0.3846,0.4
 2024-08-30 11:02:53.167482,BKFC Prospect Series: Edmonton - Drew Stuve vs Sonny Smith - To Win the Bout,Sonny Smith,-0.015400000000000025,0.3846,0.4
-2024-08-30 17:03:53.407526,British Masters - British Masters - Winner,Thorbjorn Olesen,-0.0163,0.0033,0.0196
 2024-08-30 17:03:53.666658,FM Championship - FM Championship - Winner,Gaby Lopez,-0.0163,0.0033,0.0196
+2024-08-30 17:03:53.407526,British Masters - British Masters - Winner,Thorbjorn Olesen,-0.0163,0.0033,0.0196
 2024-08-30 19:03:52.447801,Serie A - Italy Serie A 2024/25 - Winner,AC Milan,-0.016700000000000007,0.0833,0.1
 2024-08-30 17:03:53.666658,FM Championship - FM Championship - Winner,Yuri Yoshida,-0.0171,0.0025,0.0196
 2024-08-30 17:03:52.877032,Boxing Lines - Diego Pacheco vs Maciej Sulecki - To Win the Bout,Maciej Sulecki,-0.01759999999999999,0.1,0.1176
@@ -81,7 +85,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-30 15:03:19.360897,Boxing Lines - Adelaida Ruiz vs Ginny Fuchs - To Win the Bout,Adelaida Ruiz,-0.02180000000000004,0.6078,0.6296
 2024-08-30 17:03:30.244245,Southwest Division - Southwest Division 2024-25 - Southwest Division Winner,New Orleans Pelicans,-0.022199999999999998,0.2,0.2222
 2024-08-30 17:03:53.407526,British Masters - British Masters - Winner,David Micheluzzi,-0.022400000000000003,0.002,0.0244
-2024-08-30 09:02:44.747430,Round Match-Ups - 2nd Round Match-Ups - R. McIIroy vs L. Aberg - 2nd Round Match-Ups,Ludvig Aberg,-0.023799999999999988,0.4762,0.5
 2024-08-30 17:03:53.666658,FM Championship - FM Championship - Winner,Sarah Schmelzel,-0.0253,0.0132,0.0385
 2024-08-30 17:03:53.666658,FM Championship - FM Championship - Winner,Nicole Broch Estrup,-0.0265,0.0013,0.0278
 2024-08-30 17:03:53.666658,FM Championship - FM Championship - Winner,Lexi Thompson,-0.0274,0.0071,0.0345
@@ -90,6 +93,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-30 17:03:53.407526,British Masters - British Masters - Winner,Jordan Smith,-0.0319,0.0066,0.0385
 2024-08-30 17:03:53.666658,FM Championship - FM Championship - Winner,Nasa Hataoka,-0.0347,0.0179,0.0526
 2024-08-30 17:03:30.221353,Southeast Division - Southeast Division 2024-25 - Southeast Division Winner,Miami Heat,-0.0348,0.4,0.4348
+2024-08-30 21:04:16.630149,Round Match-Ups - 3rd Round Match-Ups - X. Schauffele vs S. Scheffler - 3rd Round Match-Ups,Scottie Scheffler,-0.04139999999999999,0.5238,0.5652
 2024-08-30 17:03:53.666658,FM Championship - FM Championship - Winner,Marina Alex,-0.044700000000000004,0.0079,0.0526
 2024-08-30 17:03:53.666658,FM Championship - FM Championship - Winner,Megan Khang,-0.047799999999999995,0.011,0.0588
 2024-08-30 17:03:53.666658,FM Championship - FM Championship - Winner,Lauren Coughlin,-0.048100000000000004,0.0769,0.125
