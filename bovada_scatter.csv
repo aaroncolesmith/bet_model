@@ -1,72 +1,34 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-09-01 03:03:48.660662,Chicago - Chicago - Winner,Joaquin Niemann,0.0524,0.1,0.0476
 2024-09-01 05:03:58.016520,Scores - Final Round Score - Xander Schauffele - Final Round Score,Over 67.5,0.05059999999999998,0.5744,0.5238
 2024-09-01 07:03:44.412917,Main Markets - Final Round 2-Balls - K. Bradley / A. Bhatia - Final Round 2-Balls,Akshay Bhatia,0.04760000000000003,0.5238,0.4762
 2024-09-01 07:03:44.771197,Scores - Final Round Score - Collin Morikawa - Final Round Score,Over 68.5,0.045499999999999985,0.5455,0.5
 2024-09-01 07:03:45.205588,Round Match-Ups - Final Round Match-Ups - C. Morikawa vs W. Clark - Final Round Match-Ups,Collin Morikawa,0.037800000000000056,0.5833,0.5455
-2024-09-01 03:03:48.660662,Chicago - Chicago - Winner,Louis Oosthuizen,0.025900000000000003,0.0476,0.0217
+2024-09-01 15:04:17.898868,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Liverpool,0.027999999999999997,0.1818,0.1538
+2024-09-01 15:04:17.434859,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayer Leverkusen,0.02739999999999998,0.2941,0.2667
 2024-09-01 05:03:57.898613,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 67.5,0.025599999999999956,0.6,0.5744
 2024-09-01 07:03:45.117909,Round Match-Ups - Final Round Match-Ups - L. Aberg vs V. Hovland - Final Round Match-Ups,Viktor Hovland,0.023800000000000043,0.5238,0.5
 2024-09-01 07:03:45.095923,Round Match-Ups - Final Round Match-Ups - A. Scott vs J. Thomas - Final Round Match-Ups,Adam Scott,0.023800000000000043,0.5238,0.5
 2024-09-01 13:03:59.284157,Wide Receivers - NFL 2024-25 Receiving Yards - Michael Pittman Jr. Regular Season Total Receiving Yards 2024-25,Under 975.5 Yards,0.02079999999999993,0.5556,0.5348
-2024-09-01 01:04:07.296490,Scores - Final Round Score - Xander Schauffele - Final Round Score,Under 67.5,0.02079999999999993,0.5556,0.5348
-2024-09-01 03:03:48.660662,Chicago - Chicago - Winner,Sergio Garcia,0.019800000000000005,0.0476,0.0278
-2024-09-01 01:04:06.996725,Scores - Final Round Score - Collin Morikawa - Final Round Score,Under 68.5,0.01970000000000005,0.5652,0.5455
-2024-09-01 01:04:06.834354,Main Markets - Final Round 2-Balls - W. Clark / A. Scott - Final Round 2-Balls,Wyndham Clark,0.01970000000000005,0.5652,0.5455
-2024-09-01 01:04:06.973858,Scores - Final Round Score - Adam Scott - Final Round Score,Over 68.5,0.01880000000000004,0.6552,0.6364
 2024-09-01 07:03:45.274841,Match-Ups - Final Round Match-Up - X. Schauffele v S. Lowry - Requests,Xander Schauffele,0.01759999999999995,0.6667,0.6491
-2024-09-01 01:04:07.755134,British Masters - British Masters - Winner,Thriston Lawrence,0.017299999999999982,0.303,0.2857
-2024-09-01 03:03:48.660662,Chicago - Chicago - Winner,Richard Bland,0.017100000000000004,0.0323,0.0152
-2024-09-01 01:04:07.019772,Scores - Final Round Score - Hideki Matsuyama - Final Round Score,Over 68.5,0.014800000000000035,0.6226,0.6078
-2024-09-01 03:03:46.453969,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Nico Iamaleava,0.014399999999999996,0.0769,0.0625
 2024-09-01 07:03:43.851220,MLB Futures - MLB 2024 National League East - National League East Winner,Philadelphia Phillies,0.014100000000000001,0.9756,0.9615
-2024-09-01 03:03:48.660662,Chicago - Chicago - Winner,Bryson DeChambeau,0.013899999999999996,0.125,0.1111
-2024-09-01 03:03:48.660662,Chicago - Chicago - Winner,Paul Casey,0.012599999999999998,0.0278,0.0152
 2024-09-01 07:03:43.872965,MLB Futures - MLB 2024 National League West - National League West Winner,Los Angeles Dodgers,0.012300000000000089,0.9804,0.9681
 2024-09-01 07:03:44.369304,Main Markets - Final Round 2-Balls - C. Kirk / B. Horschel - Final Round 2-Balls,Chris Kirk,0.012199999999999989,0.5,0.4878
 2024-09-01 07:03:43.829429,MLB Futures - MLB 2024 American League West - American League West Winner,Houston Astros,0.011500000000000066,0.9615,0.95
 2024-09-01 07:03:45.227580,Round Match-Ups - Final Round Match-Ups - S. Scheffler vs X. Schauffele - Final Round Match-Ups,Scottie Scheffler,0.01100000000000001,0.5348,0.5238
 2024-09-01 07:03:43.785712,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,0.010499999999999982,0.2105,0.2
-2024-09-01 03:03:46.453969,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Drew Allar,0.010100000000000001,0.0345,0.0244
-2024-09-01 01:04:07.157700,Scores - Final Round Score - Sam Burns - Final Round Score,Under 68.5,0.010099999999999998,0.5556,0.5455
-2024-09-01 01:04:07.273349,Scores - Final Round Score - Wyndham Clark - Final Round Score,Over 68.5,0.010099999999999998,0.5556,0.5455
-2024-09-01 01:04:07.204041,Scores - Final Round Score - Shane Lowry - Final Round Score,Over 69.5,0.010099999999999998,0.5556,0.5455
-2024-09-01 01:04:07.111867,Scores - Final Round Score - Russell Henley - Final Round Score,Over 68.5,0.010099999999999998,0.5556,0.5455
 2024-09-01 07:03:44.369304,Main Markets - Final Round 2-Balls - C. Kirk / B. Horschel - Final Round 2-Balls,Billy Horschel,-0.010099999999999998,0.5455,0.5556
-2024-09-01 03:03:46.453969,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Quinn Ewers,-0.0102,0.0667,0.0769
-2024-09-01 03:03:48.660662,Chicago - Chicago - Winner,Cameron Tringale,-0.010600000000000002,0.0217,0.0323
 2024-09-01 05:03:35.178096,Ligue 2 - France Ligue 2 2024/25 - Outright,Metz,-0.010899999999999993,0.1429,0.1538
-2024-09-01 01:04:07.296490,Scores - Final Round Score - Xander Schauffele - Final Round Score,Over 67.5,-0.01100000000000001,0.5238,0.5348
-2024-09-01 03:03:46.453969,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,D.J. Uiagalelei,-0.011200000000000002,0.0132,0.0244
 2024-09-01 07:03:45.227580,Round Match-Ups - Final Round Match-Ups - S. Scheffler vs X. Schauffele - Final Round Match-Ups,Xander Schauffele,-0.011600000000000055,0.5122,0.5238
-2024-09-01 03:03:48.660662,Chicago - Chicago - Winner,Charles Howell III,-0.012100000000000001,0.0123,0.0244
 2024-09-01 07:03:43.851220,MLB Futures - MLB 2024 National League East - National League East Winner,Atlanta Braves,-0.013999999999999999,0.0769,0.0909
-2024-09-01 03:03:46.453969,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Jalen Milroe,-0.01440000000000001,0.0909,0.1053
-2024-09-01 03:03:48.660662,Chicago - Chicago - Winner,Jason Kokrak,-0.0159,0.0164,0.0323
-2024-09-01 03:03:48.660662,Chicago - Chicago - Winner,Anirban Lahiri,-0.017100000000000004,0.0152,0.0323
-2024-09-01 03:03:46.453969,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Dillon Gabriel,-0.0179,0.125,0.1429
-2024-09-01 03:03:48.660662,Chicago - Chicago - Winner,Brendan Steele,-0.0179,0.0099,0.0278
-2024-09-01 03:03:48.660662,Chicago - Chicago - Winner,Talor Gooch,-0.018099999999999998,0.0588,0.0769
-2024-09-01 03:03:46.453969,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Kyron Drones,-0.019499999999999997,0.0099,0.0294
-2024-09-01 03:03:48.660662,Chicago - Chicago - Winner,Patrick Reed,-0.0203,0.0385,0.0588
-2024-09-01 07:03:45.117909,Round Match-Ups - Final Round Match-Ups - L. Aberg vs V. Hovland - Final Round Match-Ups,Ludvig Aberg,-0.02169999999999994,0.5238,0.5455
+2024-09-01 15:04:17.898868,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Manchester United,-0.014499999999999999,0.0149,0.0294
 2024-09-01 07:03:45.095923,Round Match-Ups - Final Round Match-Ups - A. Scott vs J. Thomas - Final Round Match-Ups,Justin Thomas,-0.02169999999999994,0.5238,0.5455
+2024-09-01 07:03:45.117909,Round Match-Ups - Final Round Match-Ups - L. Aberg vs V. Hovland - Final Round Match-Ups,Ludvig Aberg,-0.02169999999999994,0.5238,0.5455
 2024-09-01 07:03:45.274841,Match-Ups - Final Round Match-Up - X. Schauffele v S. Lowry - Requests,Shane Lowry,-0.02260000000000001,0.3774,0.4
 2024-09-01 13:03:59.284157,Wide Receivers - NFL 2024-25 Receiving Yards - Michael Pittman Jr. Regular Season Total Receiving Yards 2024-25,Over 975.5 Yards,-0.022600000000000064,0.5122,0.5348
-2024-09-01 03:03:46.453969,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,KJ Jefferson,-0.022900000000000004,0.0116,0.0345
 2024-09-01 05:03:57.898613,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Under 67.5,-0.023799999999999988,0.4762,0.5
-2024-09-01 01:04:06.834354,Main Markets - Final Round 2-Balls - W. Clark / A. Scott - Final Round 2-Balls,Adam Scott,-0.023799999999999988,0.4762,0.5
-2024-09-01 01:04:06.996725,Scores - Final Round Score - Collin Morikawa - Final Round Score,Over 68.5,-0.023800000000000043,0.5,0.5238
-2024-09-01 03:03:48.660662,Chicago - Chicago - Winner,Brooks Koepka,-0.0242,0.0667,0.0909
-2024-09-01 03:03:48.660662,Chicago - Chicago - Winner,Branden Grace,-0.024499999999999997,0.0033,0.0278
+2024-09-01 15:04:17.434859,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayern Munich,-0.025600000000000067,0.6667,0.6923
 2024-09-01 05:03:35.178096,Ligue 2 - France Ligue 2 2024/25 - Outright,Lorient,-0.02779999999999999,0.2222,0.25
-2024-09-01 03:03:48.660662,Chicago - Chicago - Winner,Harold Varner III,-0.0286,0.0099,0.0385
-2024-09-01 03:03:46.453969,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Cam Ward,-0.034100000000000005,0.0909,0.125
 2024-09-01 07:03:45.205588,Round Match-Ups - Final Round Match-Ups - C. Morikawa vs W. Clark - Final Round Match-Ups,Wyndham Clark,-0.03489999999999999,0.4651,0.5
-2024-09-01 03:03:46.453969,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Travis Hunter,-0.038299999999999994,0.0526,0.0909
 2024-09-01 07:03:44.771197,Scores - Final Round Score - Collin Morikawa - Final Round Score,Under 68.5,-0.04139999999999999,0.5238,0.5652
 2024-09-01 07:03:44.412917,Main Markets - Final Round 2-Balls - K. Bradley / A. Bhatia - Final Round 2-Balls,Keegan Bradley,-0.04139999999999999,0.5238,0.5652
-2024-09-01 03:03:48.660662,Chicago - Chicago - Winner,Mito Pereira,-0.0489,0.0099,0.0588
-2024-09-01 03:03:48.660662,Chicago - Chicago - Winner,Dustin Johnson,-0.0491,0.0278,0.0769
 2024-09-01 05:03:58.016520,Scores - Final Round Score - Xander Schauffele - Final Round Score,Under 67.5,-0.05559999999999998,0.5,0.5556
-2024-09-01 03:03:48.660662,Chicago - Chicago - Winner,Cameron Smith,-0.0762,0.0667,0.1429
