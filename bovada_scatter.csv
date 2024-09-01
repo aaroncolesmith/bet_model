@@ -10,9 +10,11 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-31 23:04:16.490925,League One - England League One 2024/25 - Top 6 Finish,Wrexham,0.1301,0.5556,0.4255
 2024-08-31 23:04:16.450459,League One - England League One 2024/25 - To Be Relegated,Crawley Town,0.12259999999999999,0.5,0.3774
 2024-08-31 23:04:16.402673,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Villarreal,0.11900000000000002,0.2857,0.1667
+2024-09-01 01:03:45.125247,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Erling Haaland (Man City),0.119,0.8333,0.7143
+2024-09-01 01:03:44.454871,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,RB Leipzig,0.11360000000000003,0.75,0.6364
 2024-08-31 23:04:16.144746,Championship - England Championship 2024/25 - Top 2 Finish,Sunderland,0.1111,0.2222,0.1111
-2024-08-31 23:04:16.437062,League One - England League One 2024/25 - To Be Promoted,Wrexham,0.11109999999999998,0.3333,0.2222
 2024-08-31 21:03:05.767669,League Two - England League Two 2024/25 - To Finish Bottom,Morecambe,0.11109999999999998,0.3333,0.2222
+2024-08-31 23:04:16.437062,League One - England League One 2024/25 - To Be Promoted,Wrexham,0.11109999999999998,0.3333,0.2222
 2024-08-31 23:04:38.663067,Scores - Final Round Score - Scottie Scheffler - Final Round Score,Over 67.5,0.11070000000000002,0.5652,0.4545
 2024-08-31 23:04:16.106624,Championship - England Championship 2024/25 - To Be Promoted,Leeds United,0.11069999999999991,0.7333,0.6226
 2024-08-31 21:03:05.780155,League Two - England League Two 2024/25 - Top 7 Finish,Barrow FC,0.10900000000000004,0.4167,0.3077
@@ -34,43 +36,48 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-31 13:04:14.986221,BKFC Prospect Series: Edmonton - Caeden Scott vs Dan Godoy - To Win the Bout,Caeden Scott,0.07720000000000005,0.8333,0.7561
 2024-08-31 23:04:16.490925,League One - England League One 2024/25 - Top 6 Finish,Stockport County,0.07440000000000002,0.5744,0.5
 2024-08-31 23:04:16.477410,League One - England League One 2024/25 - Top 2 Finish,Birmingham City,0.06969999999999998,0.6923,0.6226
-2024-08-31 23:04:16.210839,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AS Roma,0.06820000000000001,0.25,0.1818
+2024-09-01 01:03:45.140245,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Southampton,0.0685,0.6429,0.5744
 2024-08-31 17:03:41.913179,League Two - England League Two 2024/25 - To Be Promoted,AFC Wimbledon,0.06820000000000001,0.25,0.1818
+2024-08-31 23:04:16.210839,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AS Roma,0.06820000000000001,0.25,0.1818
 2024-08-31 23:04:16.210839,Serie A - Italy Serie A 2024/25 - Top 4 Finish,AC Milan,0.06700000000000006,0.6226,0.5556
 2024-08-31 21:03:05.780155,League Two - England League Two 2024/25 - Top 7 Finish,Walsall,0.06670000000000004,0.4,0.3333
 2024-08-31 21:03:05.773847,League Two - England League Two 2024/25 - Top 3 Finish,Doncaster Rovers,0.06670000000000004,0.4,0.3333
 2024-08-31 21:03:05.773847,League Two - England League Two 2024/25 - Top 3 Finish,AFC Wimbledon,0.06670000000000001,0.2,0.1333
 2024-08-31 21:03:05.773847,League Two - England League Two 2024/25 - Top 3 Finish,Walsall,0.06670000000000001,0.2,0.1333
-2024-08-31 23:04:16.198100,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,0.06669999999999998,0.6667,0.6
-2024-08-31 23:04:16.210839,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Fiorentina,0.06669999999999998,0.1667,0.1
-2024-08-31 23:04:16.132042,Championship - England Championship 2024/25 - To Finish Bottom,Plymouth Argyle,0.06669999999999998,0.2667,0.2
 2024-08-31 23:04:16.119330,Championship - England Championship 2024/25 - To Be Relegated,Hull City,0.06669999999999998,0.1667,0.1
+2024-08-31 23:04:16.132042,Championship - England Championship 2024/25 - To Finish Bottom,Plymouth Argyle,0.06669999999999998,0.2667,0.2
+2024-08-31 23:04:16.210839,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Fiorentina,0.06669999999999998,0.1667,0.1
+2024-08-31 23:04:16.198100,Serie A - Italy Serie A 2024/25 - Winner,Inter Milan,0.06669999999999998,0.6667,0.6
 2024-08-31 23:04:16.157565,Championship - England Championship 2024/25 - Top 6 Finish,Leeds United,0.06600000000000006,0.9231,0.8571
 2024-08-31 21:03:05.761475,League Two - England League Two 2024/25 - To Be Relegated,Carlisle United,0.061500000000000006,0.1,0.0385
 2024-08-31 17:04:03.639276,FM Championship - FM Championship - Winner,Carlota Ciganda,0.0612,0.0667,0.0055
 2024-08-31 23:04:16.389486,La Liga - Spain La Liga 2024/25 - To Be Relegated,Espanyol,0.05980000000000002,0.4444,0.3846
 2024-08-31 23:04:16.376280,La Liga - Spain La Liga 2024/25 - Winner,FC Barcelona,0.059099999999999986,0.3448,0.2857
 2024-08-31 23:04:38.547745,Scores - Final Round Score - Patrick Cantlay - Final Round Score,Over 68.5,0.05860000000000004,0.5348,0.4762
-2024-08-31 23:04:16.490925,League One - England League One 2024/25 - Top 6 Finish,Reading,0.057699999999999974,0.3077,0.25
-2024-08-31 23:04:16.437062,League One - England League One 2024/25 - To Be Promoted,Stockport County,0.057699999999999974,0.3077,0.25
 2024-08-31 23:04:16.437062,League One - England League One 2024/25 - To Be Promoted,Birmingham City,0.057699999999999974,0.75,0.6923
+2024-08-31 23:04:16.437062,League One - England League One 2024/25 - To Be Promoted,Stockport County,0.057699999999999974,0.3077,0.25
+2024-09-01 01:03:44.923542,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,AGF Aarhus,0.057699999999999974,0.5455,0.4878
+2024-08-31 23:04:16.490925,League One - England League One 2024/25 - Top 6 Finish,Reading,0.057699999999999974,0.3077,0.25
 2024-08-31 23:04:16.477410,League One - England League One 2024/25 - Top 2 Finish,Wrexham,0.05710000000000001,0.2,0.1429
 2024-08-31 21:03:05.773847,League Two - England League Two 2024/25 - Top 3 Finish,Milton Keynes Dons,0.055900000000000005,0.3636,0.3077
 2024-08-31 23:04:16.490925,League One - England League One 2024/25 - Top 6 Finish,Barnsley,0.055900000000000005,0.3636,0.3077
-2024-08-31 23:04:16.157565,Championship - England Championship 2024/25 - Top 6 Finish,West Bromwich Albion,0.05559999999999998,0.5,0.4444
 2024-08-31 23:04:16.766643,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Brighton & Hove Albion,0.05559999999999998,0.1667,0.1111
 2024-08-31 21:03:05.767669,League Two - England League Two 2024/25 - To Finish Bottom,Accrington Stanley,0.05559999999999998,0.1667,0.1111
+2024-08-31 23:04:16.157565,Championship - England Championship 2024/25 - Top 6 Finish,West Bromwich Albion,0.05559999999999998,0.5,0.4444
 2024-08-31 23:04:16.477410,League One - England League One 2024/25 - Top 2 Finish,Stockport County,0.05550000000000002,0.2222,0.1667
 2024-08-31 21:03:05.761475,League Two - England League Two 2024/25 - To Be Relegated,Morecambe,0.05449999999999999,0.4545,0.4
 2024-08-31 23:04:16.402673,La Liga - Spain La Liga 2024/25 - Top 4 Finish,FC Barcelona,0.0524,0.9615,0.9091
 2024-08-31 23:04:16.463958,League One - England League One 2024/25 - To Finish Bottom,Crawley Town,0.052000000000000005,0.1429,0.0909
 2024-08-31 23:04:16.106624,Championship - England Championship 2024/25 - To Be Promoted,West Bromwich Albion,0.04999999999999999,0.25,0.2
+2024-09-01 01:03:44.442258,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,RB Leipzig,0.04999999999999999,0.25,0.2
 2024-08-31 23:04:16.450459,League One - England League One 2024/25 - To Be Relegated,Stevenage,0.04999999999999999,0.25,0.2
 2024-08-31 21:03:05.761475,League Two - England League Two 2024/25 - To Be Relegated,Harrogate Town,0.04999999999999999,0.25,0.2
+2024-09-01 01:03:44.331871,Championship - England Championship 2024/25 - Winner,Leeds United,0.04910000000000003,0.4,0.3509
+2024-09-01 01:04:05.535129,NCAA Football Futures - 2024 Mountain West Conference Championship - Championship Game Winner,Fresno State,0.04909999999999999,0.1667,0.1176
 2024-08-31 23:04:16.157565,Championship - England Championship 2024/25 - Top 6 Finish,Middlesbrough,0.04820000000000002,0.6226,0.5744
-2024-08-31 23:04:16.119330,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,0.047599999999999976,0.3333,0.2857
 2024-08-31 23:04:16.490925,League One - England League One 2024/25 - Top 6 Finish,Rotherham Utd,0.047599999999999976,0.3333,0.2857
 2024-08-31 23:04:16.119330,Championship - England Championship 2024/25 - To Be Relegated,Portsmouth,0.047599999999999976,0.3333,0.2857
+2024-08-31 23:04:16.119330,Championship - England Championship 2024/25 - To Be Relegated,Cardiff City,0.047599999999999976,0.3333,0.2857
 2024-08-31 15:04:16.371949,BKFC Prospect Series: Edmonton - Robert Desharnais vs Glendel Futrell - To Win the Bout,Glendel Futrell,0.04700000000000004,0.5348,0.4878
 2024-08-31 23:04:16.450459,League One - England League One 2024/25 - To Be Relegated,Wigan Athletic,0.04620000000000002,0.2,0.1538
 2024-08-31 23:04:16.752935,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Manchester City,0.045499999999999985,0.5,0.4545
@@ -89,18 +96,23 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-31 23:04:16.389486,La Liga - Spain La Liga 2024/25 - To Be Relegated,Osasuna,0.0368,0.2667,0.2299
 2024-08-31 21:03:05.780155,League Two - England League Two 2024/25 - Top 7 Finish,AFC Wimbledon,0.03640000000000004,0.4,0.3636
 2024-08-31 13:04:14.964505,BKFC Prospect Series: Edmonton - Alexandra Lucia Delgado-Lopez vs Jennifer Ruiz - To Win the Bout,Alexandra Lucia Delgado-Lopez,0.0363,0.7333,0.697
-2024-08-31 21:03:05.761475,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,0.03570000000000001,0.2857,0.25
 2024-08-31 23:04:16.157565,Championship - England Championship 2024/25 - Top 6 Finish,Stoke City,0.03570000000000001,0.2857,0.25
+2024-08-31 21:03:05.761475,League Two - England League Two 2024/25 - To Be Relegated,Accrington Stanley,0.03570000000000001,0.2857,0.25
 2024-08-31 17:04:03.252830,BKFC Prospect Series: Edmonton - Trevor Bozniak vs Kayden Giroux - To Win the Bout,Trevor Bozniak,0.03470000000000001,0.3125,0.2778
+2024-09-01 01:03:44.936619,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,AGF Aarhus,0.03420000000000001,0.9231,0.8889
+2024-09-01 01:03:44.331871,Championship - England Championship 2024/25 - Winner,Sunderland,0.03420000000000001,0.1111,0.0769
 2024-08-31 23:04:16.490925,League One - England League One 2024/25 - Top 6 Finish,Exeter City,0.03420000000000001,0.1111,0.0769
 2024-08-31 21:03:05.773847,League Two - England League Two 2024/25 - Top 3 Finish,Tranmere Rovers,0.034100000000000005,0.125,0.0909
+2024-09-01 01:03:45.140245,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Everton,0.03370000000000001,0.3846,0.3509
+2024-08-31 23:04:16.144746,Championship - England Championship 2024/25 - Top 2 Finish,West Bromwich Albion,0.033399999999999985,0.1667,0.1333
 2024-08-31 21:03:05.780155,League Two - England League Two 2024/25 - Top 7 Finish,Grimsby Town,0.033399999999999985,0.1667,0.1333
 2024-08-31 15:04:16.457717,BKFC Prospect Series: Edmonton - Trevor Bozniak vs Kayden Giroux - To Win the Bout,Kayden Giroux,0.033399999999999985,0.7895,0.7561
-2024-08-31 23:04:16.144746,Championship - England Championship 2024/25 - Top 2 Finish,West Bromwich Albion,0.033399999999999985,0.1667,0.1333
 2024-08-31 21:03:05.780155,League Two - England League Two 2024/25 - Top 7 Finish,Newport County,0.033300000000000024,0.2,0.1667
 2024-08-31 23:04:16.157565,Championship - England Championship 2024/25 - Top 6 Finish,Bristol City,0.033300000000000024,0.2,0.1667
 2024-08-31 15:04:16.001844,Boxing Lines - Adelaida Ruiz vs Ginny Fuchs - To Win the Bout,Ginny Fuchs,0.033299999999999996,0.4878,0.4545
+2024-09-01 01:04:06.048261,MLB Futures - MLB 2024 American League West - American League West Winner,Houston Astros,0.033299999999999996,0.95,0.9167
 2024-08-31 13:04:15.030163,BKFC Prospect Series: Edmonton - Jonathan Miller vs Bohdan Kotok - To Win the Bout,Bohdan Kotok,0.03179999999999994,0.5556,0.5238
+2024-09-01 01:04:05.578681,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,James Madison,0.031,0.16,0.129
 2024-08-31 19:03:15.462975,Boxing Lines - Yoshiki Takei vs Daigo Higa - To Win the Bout,Yoshiki Takei,0.03080000000000005,0.8403,0.8095
 2024-08-31 21:03:05.780155,League Two - England League Two 2024/25 - Top 7 Finish,Milton Keynes Dons,0.030299999999999994,0.6667,0.6364
 2024-08-31 13:04:15.182363,BKFC Prospect Series: Edmonton - Drew Stuve vs Sonny Smith - To Win the Bout,Drew Stuve,0.029899999999999927,0.7222,0.6923
@@ -108,145 +120,202 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-31 17:03:41.900427,League Two - England League Two 2024/25 - Winner,AFC Wimbledon,0.028199999999999996,0.0667,0.0385
 2024-08-31 23:04:16.210839,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Inter Milan,0.028000000000000025,0.9804,0.9524
 2024-08-31 23:04:16.402673,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Madrid,0.028000000000000025,0.9804,0.9524
-2024-08-31 17:04:03.210078,BKFC Prospect Series: Edmonton - Matt Socholotiuk vs Nash Diederichs - To Win the Bout,Matt Socholotiuk,0.027800000000000047,0.7778,0.75
 2024-08-31 23:04:16.766643,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Liverpool,0.027800000000000047,0.7778,0.75
+2024-08-31 17:04:03.210078,BKFC Prospect Series: Edmonton - Matt Socholotiuk vs Nash Diederichs - To Win the Bout,Matt Socholotiuk,0.027800000000000047,0.7778,0.75
 2024-08-31 23:04:16.402673,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Sociedad,0.02779999999999999,0.25,0.2222
 2024-08-31 17:04:03.188640,BKFC Prospect Series: Edmonton - Taylor Bull vs Christopher Hamlett - To Win the Bout,Taylor Bull,0.027700000000000002,0.4444,0.4167
 2024-08-31 17:04:03.102761,BKFC Prospect Series: Edmonton - Caeden Scott vs Dan Godoy - To Win the Bout,Caeden Scott,0.027200000000000002,0.8403,0.8131
 2024-08-31 17:04:03.639276,FM Championship - FM Championship - Winner,Alexandra Fosterling,0.0265,0.0278,0.0013
 2024-08-31 23:04:16.092589,Championship - England Championship 2024/25 - Top Goalscorer,Lyle Foster,0.026499999999999996,0.0588,0.0323
 2024-08-31 17:04:03.274371,BKFC Prospect Series: Edmonton - Hasan Alghanim vs Ryan Ibsen - To Win the Bout,Hasan Alghanim,0.025600000000000067,0.6923,0.6667
+2024-09-01 01:03:45.096710,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Aston Villa,0.02560000000000001,0.3333,0.3077
+2024-08-31 17:03:41.913179,League Two - England League Two 2024/25 - To Be Promoted,Bradford City,0.02560000000000001,0.3333,0.3077
 2024-08-31 21:03:05.773847,League Two - England League Two 2024/25 - Top 3 Finish,Chesterfield,0.02560000000000001,0.3333,0.3077
 2024-08-31 23:04:16.106624,Championship - England Championship 2024/25 - To Be Promoted,Middlesbrough,0.02560000000000001,0.3333,0.3077
-2024-08-31 17:03:41.913179,League Two - England League Two 2024/25 - To Be Promoted,Bradford City,0.02560000000000001,0.3333,0.3077
+2024-09-01 01:03:44.897184,Superligaen - Denmark Superligaen 2024/2025 - Winner,AGF Aarhus,0.025300000000000003,0.1429,0.1176
 2024-08-31 23:04:16.132042,Championship - England Championship 2024/25 - To Finish Bottom,Portsmouth,0.024999999999999994,0.125,0.1
 2024-08-31 23:04:16.477410,League One - England League One 2024/25 - Top 2 Finish,Rotherham Utd,0.0242,0.0909,0.0667
-2024-08-31 23:04:16.490925,League One - England League One 2024/25 - Top 6 Finish,Bristol Rovers,0.023799999999999988,0.1667,0.1429
 2024-08-31 23:04:38.732244,Scores - Final Round Score - Viktor Hovland - Final Round Score,Over 68.5,0.023799999999999988,0.5,0.4762
+2024-08-31 23:04:16.490925,League One - England League One 2024/25 - Top 6 Finish,Bristol Rovers,0.023799999999999988,0.1667,0.1429
+2024-09-01 01:04:06.026202,MLB Futures - MLB 2024 American League East - American League East Winner,New York Yankees,0.023799999999999932,0.6667,0.6429
 2024-08-31 21:03:05.767669,League Two - England League Two 2024/25 - To Finish Bottom,Carlisle United,0.0236,0.0385,0.0149
-2024-08-31 23:04:16.423745,League One - England League One 2024/25 - Winner,Wrexham,0.02310000000000001,0.1,0.0769
 2024-08-31 17:03:41.913179,League Two - England League Two 2024/25 - To Be Promoted,Newport County,0.02310000000000001,0.1,0.0769
+2024-08-31 23:04:16.423745,League One - England League One 2024/25 - Winner,Wrexham,0.02310000000000001,0.1,0.0769
 2024-08-31 23:04:16.766643,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Chelsea,0.02260000000000001,0.4,0.3774
 2024-08-31 21:03:05.767669,League Two - England League Two 2024/25 - To Finish Bottom,Harrogate Town,0.022199999999999998,0.1333,0.1111
-2024-08-31 13:04:15.117238,BKFC Prospect Series: Edmonton - Kimani Crawford vs Danasabe Mohammed - To Win the Bout,Kimani Crawford,0.022199999999999998,0.8,0.7778
 2024-08-31 23:04:16.157565,Championship - England Championship 2024/25 - Top 6 Finish,Norwich City,0.022199999999999998,0.2222,0.2
+2024-08-31 13:04:15.117238,BKFC Prospect Series: Edmonton - Kimani Crawford vs Danasabe Mohammed - To Win the Bout,Kimani Crawford,0.022199999999999998,0.8,0.7778
+2024-09-01 01:03:44.923542,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,FC Midtjylland,0.022199999999999998,0.8,0.7778
 2024-08-31 21:03:05.780155,League Two - England League Two 2024/25 - Top 7 Finish,Bradford City,0.02169999999999994,0.5455,0.5238
 2024-08-31 15:04:16.307623,BKFC Prospect Series: Edmonton - Caeden Scott vs Dan Godoy - To Win the Bout,Dan Godoy,0.021100000000000008,0.2564,0.2353
 2024-08-31 19:03:16.123280,British Masters - British Masters - Winner,Niklas Norgaard,0.02080000000000004,0.6875,0.6667
-2024-08-31 23:04:16.437062,League One - England League One 2024/25 - To Be Promoted,Rotherham Utd,0.02049999999999999,0.1538,0.1333
+2024-09-01 01:03:44.897184,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Midtjylland,0.020799999999999985,0.3333,0.3125
+2024-09-01 01:04:07.296490,Scores - Final Round Score - Xander Schauffele - Final Round Score,Under 67.5,0.02079999999999993,0.5556,0.5348
 2024-08-31 21:03:05.780155,League Two - England League Two 2024/25 - Top 7 Finish,Crewe Alexandra,0.02049999999999999,0.1538,0.1333
+2024-08-31 23:04:16.437062,League One - England League One 2024/25 - To Be Promoted,Rotherham Utd,0.02049999999999999,0.1538,0.1333
 2024-08-31 23:04:16.766643,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester City,0.020299999999999985,0.9615,0.9412
-2024-08-31 23:04:16.210839,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Torino,0.02020000000000001,0.1111,0.0909
 2024-08-31 23:04:16.106624,Championship - England Championship 2024/25 - To Be Promoted,Stoke City,0.02020000000000001,0.1111,0.0909
+2024-09-01 01:03:44.331871,Championship - England Championship 2024/25 - Winner,Middlesbrough,0.02020000000000001,0.1111,0.0909
+2024-08-31 23:04:16.210839,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Torino,0.02020000000000001,0.1111,0.0909
 2024-08-31 23:04:16.157565,Championship - England Championship 2024/25 - Top 6 Finish,Watford,0.020100000000000007,0.25,0.2299
+2024-09-01 01:04:06.834354,Main Markets - Final Round 2-Balls - W. Clark / A. Scott - Final Round 2-Balls,Wyndham Clark,0.01970000000000005,0.5652,0.5455
+2024-09-01 01:04:06.996725,Scores - Final Round Score - Collin Morikawa - Final Round Score,Under 68.5,0.01970000000000005,0.5652,0.5455
+2024-09-01 01:04:05.404922,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Louisville,0.019699999999999995,0.125,0.1053
+2024-09-01 01:03:45.110311,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Liverpool,0.019000000000000017,0.2857,0.2667
 2024-08-31 23:04:16.477410,League One - England League One 2024/25 - Top 2 Finish,Huddersfield Town,0.019000000000000017,0.2857,0.2667
-2024-08-31 23:04:16.144746,Championship - England Championship 2024/25 - Top 2 Finish,Derby County,0.0189,0.0385,0.0196
+2024-09-01 01:03:45.140245,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Leicester City,0.018999999999999906,0.7333,0.7143
 2024-08-31 23:04:16.144746,Championship - England Championship 2024/25 - Top 2 Finish,Millwall,0.0189,0.0385,0.0196
+2024-08-31 23:04:16.144746,Championship - England Championship 2024/25 - Top 2 Finish,Derby County,0.0189,0.0385,0.0196
+2024-09-01 01:04:06.973858,Scores - Final Round Score - Adam Scott - Final Round Score,Over 68.5,0.01880000000000004,0.6552,0.6364
+2024-09-01 01:03:45.096710,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Brighton & Hove Albion,0.01820000000000002,0.2,0.1818
+2024-09-01 01:03:44.454871,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Eintracht Frankfurt,0.01820000000000002,0.2,0.1818
 2024-08-31 23:04:16.450459,League One - England League One 2024/25 - To Be Relegated,Charlton Athletic,0.018200000000000004,0.0476,0.0294
+2024-09-01 01:03:44.454871,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Bayer Leverkusen,0.018100000000000005,0.9412,0.9231
+2024-09-01 01:04:05.578681,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Coastal Carolina,0.018099999999999998,0.0769,0.0588
 2024-08-31 21:03:05.773847,League Two - England League Two 2024/25 - Top 3 Finish,Newport County,0.018099999999999998,0.0769,0.0588
-2024-08-31 21:03:05.780155,League Two - England League Two 2024/25 - Top 7 Finish,Bromley,0.0179,0.1429,0.125
 2024-08-31 23:04:16.463958,League One - England League One 2024/25 - To Finish Bottom,Burton Albion,0.0179,0.1429,0.125
+2024-08-31 21:03:05.780155,League Two - England League Two 2024/25 - Top 7 Finish,Bromley,0.0179,0.1429,0.125
 2024-08-31 23:04:16.437062,League One - England League One 2024/25 - To Be Promoted,Barnsley,0.0179,0.1429,0.125
 2024-08-31 17:03:41.913179,League Two - England League Two 2024/25 - To Be Promoted,Tranmere Rovers,0.0179,0.1429,0.125
 2024-08-31 23:04:16.376280,La Liga - Spain La Liga 2024/25 - Winner,Atlético Madrid,0.01759999999999999,0.1176,0.1
+2024-09-01 01:04:07.755134,British Masters - British Masters - Winner,Thriston Lawrence,0.017299999999999982,0.303,0.2857
+2024-09-01 01:04:05.513449,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Toledo,0.016699999999999993,0.2667,0.25
+2024-09-01 01:04:05.426673,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,Tulane,0.016699999999999993,0.2667,0.25
+2024-09-01 01:03:44.454871,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Wolfsburg,0.016600000000000004,0.0833,0.0667
 2024-08-31 23:04:16.402673,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Sevilla,0.016600000000000004,0.0833,0.0667
 2024-08-31 23:04:16.463958,League One - England League One 2024/25 - To Finish Bottom,Leyton Orient,0.016600000000000004,0.0833,0.0667
 2024-08-31 13:04:15.138963,BKFC Prospect Series: Edmonton - Trevor Bozniak vs Kayden Giroux - To Win the Bout,Kayden Giroux,0.015800000000000036,0.7561,0.7403
 2024-08-31 23:04:16.119330,Championship - England Championship 2024/25 - To Be Relegated,Sheffield Wednesday,0.015700000000000006,0.1333,0.1176
 2024-08-31 23:04:16.119330,Championship - England Championship 2024/25 - To Be Relegated,Swansea City,0.015100000000000002,0.1818,0.1667
+2024-09-01 01:04:05.491772,NCAA Football Futures - 2024 Conference USA Championship - Championship Game Winner,Western Kentucky,0.015100000000000002,0.1818,0.1667
+2024-09-01 01:04:07.019772,Scores - Final Round Score - Hideki Matsuyama - Final Round Score,Over 68.5,0.014800000000000035,0.6226,0.6078
 2024-08-31 15:04:04.622413,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Cincinnati Bengals,0.014399999999999996,0.0769,0.0625
 2024-08-31 23:04:16.450459,League One - England League One 2024/25 - To Be Relegated,Peterborough United,0.014100000000000001,0.0526,0.0385
-2024-08-31 23:04:16.132042,Championship - England Championship 2024/25 - To Finish Bottom,Hull City,0.014099999999999998,0.0385,0.0244
+2024-09-01 01:04:05.426673,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,North Texas,0.014100000000000001,0.0526,0.0385
 2024-08-31 21:03:05.761475,League Two - England League Two 2024/25 - To Be Relegated,Port Vale,0.014099999999999998,0.0385,0.0244
+2024-08-31 23:04:16.132042,Championship - England Championship 2024/25 - To Finish Bottom,Hull City,0.014099999999999998,0.0385,0.0244
 2024-08-31 23:04:16.092589,Championship - England Championship 2024/25 - Top Goalscorer,Mateo Joseph,0.013999999999999999,0.0909,0.0769
-2024-08-31 23:04:16.106624,Championship - England Championship 2024/25 - To Be Promoted,Queens Park Rangers,0.013999999999999999,0.0909,0.0769
 2024-08-31 23:04:16.423745,League One - England League One 2024/25 - Winner,Stockport County,0.013999999999999999,0.0909,0.0769
 2024-08-31 23:04:16.477410,League One - England League One 2024/25 - Top 2 Finish,Barnsley,0.013999999999999999,0.0909,0.0769
 2024-08-31 23:04:16.177812,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,RB Leipzig,0.013999999999999999,0.0909,0.0769
+2024-08-31 23:04:16.106624,Championship - England Championship 2024/25 - To Be Promoted,Queens Park Rangers,0.013999999999999999,0.0909,0.0769
 2024-08-31 23:04:16.437062,League One - England League One 2024/25 - To Be Promoted,Reading,0.013899999999999996,0.125,0.1111
+2024-09-01 01:03:44.442258,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,Bayer Leverkusen,0.013799999999999923,0.6364,0.6226
 2024-08-31 23:04:16.144746,Championship - England Championship 2024/25 - Top 2 Finish,Queens Park Rangers,0.0131,0.0476,0.0345
 2024-08-31 23:04:16.210839,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Hellas Verona,0.013,0.0196,0.0066
+2024-09-01 01:04:05.513449,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Bowling Green,0.012899999999999995,0.1667,0.1538
 2024-08-31 13:04:15.073802,BKFC Prospect Series: Edmonton - Taylor Bull vs Christopher Hamlett - To Win the Bout,Christopher Hamlett,0.012700000000000045,0.6491,0.6364
 2024-08-31 23:04:38.755391,Scores - Final Round Score - Wyndham Clark - Final Round Score,Under 68.5,0.011600000000000055,0.5238,0.5122
 2024-08-31 17:04:03.390697,British Masters - British Masters - Winner,Andrew Wilson,0.0113,0.0179,0.0066
-2024-08-31 21:03:05.767669,League Two - England League Two 2024/25 - To Finish Bottom,Salford City,0.011199999999999995,0.0588,0.0476
-2024-08-31 23:04:16.402673,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Rayo Vallecano,0.011199999999999995,0.0588,0.0476
 2024-08-31 15:04:04.622413,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,New York Jets,0.011199999999999995,0.0588,0.0476
+2024-09-01 01:03:45.110311,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Tottenham Hotspur,0.011199999999999995,0.0588,0.0476
 2024-08-31 23:04:16.144746,Championship - England Championship 2024/25 - Top 2 Finish,Norwich City,0.011199999999999995,0.0588,0.0476
+2024-08-31 23:04:16.402673,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Rayo Vallecano,0.011199999999999995,0.0588,0.0476
+2024-08-31 21:03:05.767669,League Two - England League Two 2024/25 - To Finish Bottom,Salford City,0.011199999999999995,0.0588,0.0476
 2024-08-31 15:04:16.436279,BKFC Prospect Series: Edmonton - Kimani Crawford vs Danasabe Mohammed - To Win the Bout,Danasabe Mohammed,0.011099999999999999,0.2778,0.2667
 2024-08-31 23:04:38.778632,Scores - Final Round Score - Xander Schauffele - Final Round Score,Over 67.5,0.01100000000000001,0.5348,0.5238
 2024-08-31 17:04:02.884285,Boxing Lines - Cheavon Clarke vs Efetobor Apochi - To Win the Bout,Cheavon Clarke,0.01090000000000002,0.8571,0.8462
-2024-08-31 17:03:41.900427,League Two - England League Two 2024/25 - Winner,Doncaster Rovers,0.010899999999999993,0.1538,0.1429
 2024-08-31 17:03:41.900427,League Two - England League Two 2024/25 - Winner,Milton Keynes Dons,0.010899999999999993,0.1538,0.1429
+2024-08-31 17:03:41.900427,League Two - England League Two 2024/25 - Winner,Doncaster Rovers,0.010899999999999993,0.1538,0.1429
+2024-09-01 01:03:44.331871,Championship - England Championship 2024/25 - Winner,West Bromwich Albion,0.0102,0.0769,0.0667
 2024-08-31 17:03:41.913179,League Two - England League Two 2024/25 - To Be Promoted,Grimsby Town,0.0102,0.0769,0.0667
 2024-08-31 23:04:16.437062,League One - England League One 2024/25 - To Be Promoted,Exeter City,0.010100000000000001,0.0345,0.0244
 2024-08-31 13:04:14.678889,Boxing Lines - Adelaida Ruiz vs Ginny Fuchs - To Win the Bout,Ginny Fuchs,0.010099999999999998,0.4545,0.4444
-2024-08-31 23:04:38.755391,Scores - Final Round Score - Wyndham Clark - Final Round Score,Over 68.5,-0.010099999999999998,0.5455,0.5556
+2024-09-01 01:04:07.111867,Scores - Final Round Score - Russell Henley - Final Round Score,Over 68.5,0.010099999999999998,0.5556,0.5455
+2024-09-01 01:04:07.273349,Scores - Final Round Score - Wyndham Clark - Final Round Score,Over 68.5,0.010099999999999998,0.5556,0.5455
+2024-09-01 01:04:07.204041,Scores - Final Round Score - Shane Lowry - Final Round Score,Over 69.5,0.010099999999999998,0.5556,0.5455
+2024-09-01 01:04:07.157700,Scores - Final Round Score - Sam Burns - Final Round Score,Under 68.5,0.010099999999999998,0.5556,0.5455
 2024-08-31 23:04:16.157565,Championship - England Championship 2024/25 - Top 6 Finish,Sheffield United,-0.010099999999999998,0.4444,0.4545
-2024-08-31 21:03:05.767669,League Two - England League Two 2024/25 - To Finish Bottom,Crewe Alexandra,-0.0102,0.0667,0.0769
+2024-09-01 01:03:44.923542,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,Brøndby IF,-0.010099999999999998,0.5455,0.5556
+2024-08-31 23:04:38.755391,Scores - Final Round Score - Wyndham Clark - Final Round Score,Over 68.5,-0.010099999999999998,0.5455,0.5556
 2024-08-31 23:04:16.157565,Championship - England Championship 2024/25 - Top 6 Finish,Preston North End,-0.0102,0.0667,0.0769
+2024-09-01 01:03:44.331871,Championship - England Championship 2024/25 - Winner,Sheffield United,-0.0102,0.0667,0.0769
+2024-09-01 01:03:45.096710,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",West Ham United,-0.0102,0.0667,0.0769
+2024-08-31 21:03:05.767669,League Two - England League Two 2024/25 - To Finish Bottom,Crewe Alexandra,-0.0102,0.0667,0.0769
 2024-08-31 17:04:03.639276,FM Championship - FM Championship - Winner,Sarah Schmelzel,-0.0104,0.0028,0.0132
 2024-08-31 15:04:16.436279,BKFC Prospect Series: Edmonton - Kimani Crawford vs Danasabe Mohammed - To Win the Bout,Kimani Crawford,-0.010500000000000065,0.7895,0.8
 2024-08-31 23:04:38.778632,Scores - Final Round Score - Xander Schauffele - Final Round Score,Under 67.5,-0.010699999999999932,0.5348,0.5455
-2024-08-31 17:03:41.900427,League Two - England League Two 2024/25 - Winner,Bradford City,-0.011099999999999999,0.1,0.1111
-2024-08-31 23:04:16.437062,League One - England League One 2024/25 - To Be Promoted,Blackpool,-0.011099999999999999,0.1,0.1111
+2024-09-01 01:04:05.426673,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,Memphis,-0.010699999999999987,0.3226,0.3333
+2024-09-01 01:03:44.897184,Superligaen - Denmark Superligaen 2024/2025 - Winner,Brøndby IF,-0.010899999999999993,0.1429,0.1538
+2024-09-01 01:04:07.296490,Scores - Final Round Score - Xander Schauffele - Final Round Score,Over 67.5,-0.01100000000000001,0.5238,0.5348
 2024-08-31 23:04:16.450459,League One - England League One 2024/25 - To Be Relegated,Wycombe,-0.011099999999999999,0.1,0.1111
-2024-08-31 23:04:16.106624,Championship - England Championship 2024/25 - To Be Promoted,Swansea City,-0.011199999999999995,0.0476,0.0588
+2024-08-31 23:04:16.437062,League One - England League One 2024/25 - To Be Promoted,Blackpool,-0.011099999999999999,0.1,0.1111
+2024-08-31 17:03:41.900427,League Two - England League Two 2024/25 - Winner,Bradford City,-0.011099999999999999,0.1,0.1111
+2024-09-01 01:03:45.125247,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Alexander Isak (Newcastle),-0.011199999999999995,0.0476,0.0588
 2024-08-31 21:03:05.761475,League Two - England League Two 2024/25 - To Be Relegated,Fleetwood Town,-0.011199999999999995,0.0476,0.0588
-2024-08-31 23:04:16.210839,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Genoa,-0.011199999999999995,0.0476,0.0588
 2024-08-31 23:04:16.490925,League One - England League One 2024/25 - Top 6 Finish,Burton Albion,-0.011199999999999995,0.0476,0.0588
+2024-09-01 01:04:05.535129,NCAA Football Futures - 2024 Mountain West Conference Championship - Championship Game Winner,Colorado State,-0.011199999999999995,0.0476,0.0588
+2024-08-31 23:04:16.106624,Championship - England Championship 2024/25 - To Be Promoted,Swansea City,-0.011199999999999995,0.0476,0.0588
+2024-08-31 23:04:16.210839,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Genoa,-0.011199999999999995,0.0476,0.0588
 2024-08-31 23:04:16.106624,Championship - England Championship 2024/25 - To Be Promoted,Plymouth Argyle,-0.0113,0.0066,0.0179
 2024-08-31 17:04:02.884285,Boxing Lines - Cheavon Clarke vs Efetobor Apochi - To Win the Bout,Efetobor Apochi,-0.011700000000000016,0.2105,0.2222
 2024-08-31 23:04:16.144746,Championship - England Championship 2024/25 - Top 2 Finish,Portsmouth,-0.012100000000000001,0.0123,0.0244
-2024-08-31 23:04:16.119330,Championship - England Championship 2024/25 - To Be Relegated,West Bromwich Albion,-0.012100000000000001,0.0123,0.0244
 2024-08-31 23:04:16.106624,Championship - England Championship 2024/25 - To Be Promoted,Cardiff City,-0.012100000000000001,0.0123,0.0244
+2024-08-31 23:04:16.119330,Championship - England Championship 2024/25 - To Be Relegated,West Bromwich Albion,-0.012100000000000001,0.0123,0.0244
+2024-09-01 01:03:44.923542,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,FC Copenhagen,-0.012899999999999912,0.8333,0.8462
 2024-08-31 23:04:16.210839,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Juventus,-0.012899999999999912,0.8333,0.8462
+2024-09-01 01:03:44.923542,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,Silkeborg IF,-0.012899999999999995,0.1538,0.1667
 2024-08-31 23:04:16.450459,League One - England League One 2024/25 - To Be Relegated,Bristol Rovers,-0.012899999999999995,0.1538,0.1667
 2024-08-31 23:04:16.119330,Championship - England Championship 2024/25 - To Be Relegated,Preston North End,-0.0131,0.2222,0.2353
-2024-08-31 23:04:16.157565,Championship - England Championship 2024/25 - Top 6 Finish,Swansea City,-0.013899999999999996,0.1111,0.125
+2024-09-01 01:04:05.556871,NCAA Football Futures - 2024 SEC Conference Championship - Championship Game Winner,Auburn,-0.013400000000000002,0.011,0.0244
 2024-08-31 21:03:05.761475,League Two - England League Two 2024/25 - To Be Relegated,Crewe Alexandra,-0.013899999999999996,0.1111,0.125
+2024-08-31 23:04:16.157565,Championship - England Championship 2024/25 - Top 6 Finish,Swansea City,-0.013899999999999996,0.1111,0.125
 2024-08-31 23:04:16.450459,League One - England League One 2024/25 - To Be Relegated,Blackpool,-0.013999999999999999,0.0769,0.0909
-2024-08-31 23:04:16.092589,Championship - England Championship 2024/25 - Top Goalscorer,Josh Sargent,-0.013999999999999999,0.0769,0.0909
-2024-08-31 17:03:41.913179,League Two - England League Two 2024/25 - To Be Promoted,Colchester United,-0.013999999999999999,0.0769,0.0909
-2024-08-31 23:04:16.157565,Championship - England Championship 2024/25 - Top 6 Finish,Derby County,-0.013999999999999999,0.0769,0.0909
+2024-09-01 01:04:05.578681,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Arkansas State,-0.013999999999999999,0.0769,0.0909
 2024-08-31 23:04:16.106624,Championship - England Championship 2024/25 - To Be Promoted,Norwich City,-0.013999999999999999,0.0769,0.0909
+2024-08-31 23:04:16.092589,Championship - England Championship 2024/25 - Top Goalscorer,Josh Sargent,-0.013999999999999999,0.0769,0.0909
+2024-08-31 23:04:16.157565,Championship - England Championship 2024/25 - Top 6 Finish,Derby County,-0.013999999999999999,0.0769,0.0909
 2024-08-31 23:04:16.177812,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Borussia Dortmund,-0.013999999999999999,0.0769,0.0909
+2024-08-31 17:03:41.913179,League Two - England League Two 2024/25 - To Be Promoted,Colchester United,-0.013999999999999999,0.0769,0.0909
 2024-08-31 23:04:16.766643,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,West Ham United,-0.014099999999999994,0.0526,0.0667
 2024-08-31 23:04:16.198100,Serie A - Italy Serie A 2024/25 - Winner,AS Roma,-0.014099999999999998,0.0244,0.0385
-2024-08-31 21:03:05.767669,League Two - England League Two 2024/25 - To Finish Bottom,Fleetwood Town,-0.014099999999999998,0.0244,0.0385
 2024-08-31 21:03:05.773847,League Two - England League Two 2024/25 - Top 3 Finish,Accrington Stanley,-0.014099999999999998,0.0244,0.0385
 2024-08-31 23:04:16.437062,League One - England League One 2024/25 - To Be Promoted,Leyton Orient,-0.014099999999999998,0.0244,0.0385
+2024-08-31 21:03:05.767669,League Two - England League Two 2024/25 - To Finish Bottom,Fleetwood Town,-0.014099999999999998,0.0244,0.0385
+2024-09-01 01:03:44.454871,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Werder Bremen,-0.014099999999999998,0.0294,0.0435
+2024-09-01 01:04:06.092242,MLB Futures - MLB 2024 National League West - National League West Winner,Arizona Diamondbacks,-0.014100000000000001,0.0385,0.0526
+2024-09-01 01:04:06.092242,MLB Futures - MLB 2024 National League West - National League West Winner,San Diego Padres,-0.014100000000000001,0.0385,0.0526
+2024-09-01 01:04:05.404922,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,SMU,-0.014399999999999996,0.0625,0.0769
 2024-08-31 21:03:05.767669,League Two - England League Two 2024/25 - To Finish Bottom,Barrow FC,-0.014499999999999999,0.0149,0.0294
+2024-09-01 01:03:44.454871,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Heidenheim,-0.014499999999999999,0.0149,0.0294
 2024-08-31 23:04:16.376280,La Liga - Spain La Liga 2024/25 - Winner,Girona,-0.014499999999999999,0.0149,0.0294
-2024-08-31 23:04:16.463958,League One - England League One 2024/25 - To Finish Bottom,Reading,-0.0145,0.0099,0.0244
-2024-08-31 21:03:05.767669,League Two - England League Two 2024/25 - To Finish Bottom,Walsall,-0.0145,0.0099,0.0244
 2024-08-31 21:03:05.767669,League Two - England League Two 2024/25 - To Finish Bottom,AFC Wimbledon,-0.0145,0.0099,0.0244
+2024-08-31 21:03:05.767669,League Two - England League Two 2024/25 - To Finish Bottom,Walsall,-0.0145,0.0099,0.0244
+2024-08-31 23:04:16.463958,League One - England League One 2024/25 - To Finish Bottom,Reading,-0.0145,0.0099,0.0244
+2024-09-01 01:03:44.454871,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Bochum,-0.014599999999999998,0.005,0.0196
 2024-08-31 13:04:14.678889,Boxing Lines - Adelaida Ruiz vs Ginny Fuchs - To Win the Bout,Adelaida Ruiz,-0.014800000000000035,0.6078,0.6226
 2024-08-31 13:04:15.138963,BKFC Prospect Series: Edmonton - Trevor Bozniak vs Kayden Giroux - To Win the Bout,Trevor Bozniak,-0.014900000000000024,0.3077,0.3226
 2024-08-31 21:03:05.780155,League Two - England League Two 2024/25 - Top 7 Finish,Colchester United,-0.015100000000000002,0.1667,0.1818
+2024-09-01 01:04:05.426673,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,UTSA,-0.015100000000000002,0.1667,0.1818
+2024-09-01 01:04:05.382893,NCAA Football Futures - 2024-2025 - NCAA National Championship Game Winner - 2024-2025 CFP Winner,Washington,-0.0156,0.004,0.0196
 2024-08-31 17:03:41.900427,League Two - England League Two 2024/25 - Winner,Chesterfield,-0.015700000000000006,0.1176,0.1333
-2024-08-31 23:04:16.389486,La Liga - Spain La Liga 2024/25 - To Be Relegated,Real Betis,-0.016700000000000007,0.0833,0.1
+2024-09-01 01:03:44.897184,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Copenhagen,-0.016699999999999993,0.4,0.4167
 2024-08-31 23:04:16.132042,Championship - England Championship 2024/25 - To Finish Bottom,Preston North End,-0.016700000000000007,0.0833,0.1
+2024-08-31 23:04:16.389486,La Liga - Spain La Liga 2024/25 - To Be Relegated,Real Betis,-0.016700000000000007,0.0833,0.1
 2024-08-31 19:03:16.123280,British Masters - British Masters - Winner,Thriston Lawrence,-0.017299999999999982,0.2857,0.303
-2024-08-31 23:04:16.119330,Championship - England Championship 2024/25 - To Be Relegated,Watford,-0.018099999999999998,0.0588,0.0769
+2024-09-01 01:03:45.140245,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Brentford,-0.0179,0.125,0.1429
+2024-09-01 01:04:05.491772,NCAA Football Futures - 2024 Conference USA Championship - Championship Game Winner,Sam Houston State,-0.018099999999999998,0.0588,0.0769
 2024-08-31 17:03:41.913179,League Two - England League Two 2024/25 - To Be Promoted,Swindon Town,-0.018099999999999998,0.0588,0.0769
-2024-08-31 23:04:16.106624,Championship - England Championship 2024/25 - To Be Promoted,Bristol City,-0.018099999999999998,0.0588,0.0769
-2024-08-31 23:04:16.437062,League One - England League One 2024/25 - To Be Promoted,Wigan Athletic,-0.018099999999999998,0.0588,0.0769
-2024-08-31 23:04:16.423745,League One - England League One 2024/25 - Winner,Charlton Athletic,-0.018099999999999998,0.0588,0.0769
 2024-08-31 21:03:05.780155,League Two - England League Two 2024/25 - Top 7 Finish,Morecambe,-0.018099999999999998,0.0588,0.0769
+2024-08-31 23:04:16.119330,Championship - England Championship 2024/25 - To Be Relegated,Watford,-0.018099999999999998,0.0588,0.0769
+2024-08-31 23:04:16.423745,League One - England League One 2024/25 - Winner,Charlton Athletic,-0.018099999999999998,0.0588,0.0769
+2024-08-31 23:04:16.437062,League One - England League One 2024/25 - To Be Promoted,Wigan Athletic,-0.018099999999999998,0.0588,0.0769
+2024-08-31 23:04:16.106624,Championship - England Championship 2024/25 - To Be Promoted,Bristol City,-0.018099999999999998,0.0588,0.0769
+2024-09-01 01:04:06.026202,MLB Futures - MLB 2024 American League East - American League East Winner,Baltimore Orioles,-0.018100000000000005,0.4167,0.4348
 2024-08-31 23:04:16.766643,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Arsenal,-0.018100000000000005,0.9231,0.9412
-2024-08-31 17:03:41.913179,League Two - England League Two 2024/25 - To Be Promoted,Accrington Stanley,-0.018200000000000004,0.0294,0.0476
 2024-08-31 23:04:16.477410,League One - England League One 2024/25 - Top 2 Finish,Mansfield Town,-0.018200000000000004,0.0294,0.0476
+2024-08-31 17:03:41.913179,League Two - England League Two 2024/25 - To Be Promoted,Accrington Stanley,-0.018200000000000004,0.0294,0.0476
 2024-08-31 21:03:05.773847,League Two - England League Two 2024/25 - Top 3 Finish,Notts County,-0.01820000000000002,0.1818,0.2
 2024-08-31 23:04:16.376280,La Liga - Spain La Liga 2024/25 - Winner,Real Madrid,-0.01880000000000004,0.6364,0.6552
-2024-08-31 21:03:05.761475,League Two - England League Two 2024/25 - To Be Relegated,Barrow FC,-0.0189,0.0196,0.0385
+2024-08-31 23:04:16.106624,Championship - England Championship 2024/25 - To Be Promoted,Portsmouth,-0.0189,0.0196,0.0385
 2024-08-31 23:04:16.144746,Championship - England Championship 2024/25 - Top 2 Finish,Sheffield Wednesday,-0.0189,0.0196,0.0385
 2024-08-31 21:03:05.767669,League Two - England League Two 2024/25 - To Finish Bottom,Tranmere Rovers,-0.0189,0.0196,0.0385
-2024-08-31 23:04:16.106624,Championship - England Championship 2024/25 - To Be Promoted,Portsmouth,-0.0189,0.0196,0.0385
+2024-08-31 21:03:05.761475,League Two - England League Two 2024/25 - To Be Relegated,Barrow FC,-0.0189,0.0196,0.0385
 2024-08-31 21:03:05.761475,League Two - England League Two 2024/25 - To Be Relegated,AFC Wimbledon,-0.0189,0.0196,0.0385
 2024-08-31 21:03:05.761475,League Two - England League Two 2024/25 - To Be Relegated,Walsall,-0.0189,0.0196,0.0385
 2024-08-31 23:04:16.144746,Championship - England Championship 2024/25 - Top 2 Finish,Swansea City,-0.0189,0.0196,0.0385
 2024-08-31 13:04:15.117238,BKFC Prospect Series: Edmonton - Kimani Crawford vs Danasabe Mohammed - To Win the Bout,Danasabe Mohammed,-0.019000000000000017,0.2667,0.2857
+2024-09-01 01:03:44.454871,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,VfB Stuttgart,-0.019000000000000017,0.2667,0.2857
 2024-08-31 23:04:16.463958,League One - England League One 2024/25 - To Finish Bottom,Shrewsbury Town,-0.019000000000000017,0.2667,0.2857
 2024-08-31 23:04:16.157565,Championship - England Championship 2024/25 - Top 6 Finish,Oxford United,-0.019099999999999992,0.0476,0.0667
 2024-08-31 23:04:16.402673,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Alavés,-0.019099999999999992,0.0476,0.0667
@@ -257,63 +326,75 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-31 15:04:16.307623,BKFC Prospect Series: Edmonton - Caeden Scott vs Dan Godoy - To Win the Bout,Caeden Scott,-0.020199999999999996,0.8131,0.8333
 2024-08-31 21:03:05.761475,League Two - England League Two 2024/25 - To Be Relegated,Salford City,-0.02020000000000001,0.0909,0.1111
 2024-08-31 23:04:16.423745,League One - England League One 2024/25 - Winner,Bolton Wanderers,-0.02020000000000001,0.0909,0.1111
-2024-08-31 21:03:05.773847,League Two - England League Two 2024/25 - Top 3 Finish,Swindon Town,-0.0203,0.0385,0.0588
 2024-08-31 23:04:16.477410,League One - England League One 2024/25 - Top 2 Finish,Wycombe,-0.0203,0.0385,0.0588
-2024-08-31 23:04:16.490925,League One - England League One 2024/25 - Top 6 Finish,Crawley Town,-0.0203,0.0385,0.0588
+2024-08-31 21:03:05.773847,League Two - England League Two 2024/25 - Top 3 Finish,Swindon Town,-0.0203,0.0385,0.0588
+2024-09-01 01:03:44.331871,Championship - England Championship 2024/25 - Winner,Coventry City,-0.0203,0.0385,0.0588
 2024-08-31 17:03:41.913179,League Two - England League Two 2024/25 - To Be Promoted,Harrogate Town,-0.0203,0.0385,0.0588
+2024-08-31 23:04:16.490925,League One - England League One 2024/25 - Top 6 Finish,Crawley Town,-0.0203,0.0385,0.0588
+2024-09-01 01:03:45.140245,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Ipswich Town,-0.02079999999999993,0.5348,0.5556
 2024-08-31 15:04:04.622413,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Green Bay Packers,-0.0208,0.0625,0.0833
 2024-08-31 17:04:03.390697,British Masters - British Masters - Winner,Lucas Bjerregaard,-0.022099999999999998,0.0057,0.0278
 2024-08-31 23:04:16.132042,Championship - England Championship 2024/25 - To Finish Bottom,Oxford United,-0.022199999999999998,0.1111,0.1333
+2024-09-01 01:03:45.140245,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Nottingham Forest,-0.022199999999999998,0.2,0.2222
 2024-08-31 21:03:05.761475,League Two - England League Two 2024/25 - To Be Relegated,Colchester United,-0.022199999999999998,0.1111,0.1333
 2024-08-31 17:04:03.639276,FM Championship - FM Championship - Winner,Yealimi Noh,-0.022200000000000004,0.0123,0.0345
 2024-08-31 23:04:16.450459,League One - England League One 2024/25 - To Be Relegated,Lincoln City,-0.02310000000000001,0.0769,0.1
+2024-09-01 01:03:45.140245,Premier League Futures/Specials - English Premier League 2024/25 - To Be Relegated,Bournemouth,-0.02310000000000001,0.0769,0.1
 2024-08-31 23:04:16.490925,League One - England League One 2024/25 - Top 6 Finish,Leyton Orient,-0.02310000000000001,0.0769,0.1
+2024-09-01 01:03:45.125247,Premier League Futures/Specials - English Premier League 2024/25 - Golden Boot,Mohamed Salah (Liverpool),-0.02310000000000001,0.0769,0.1
 2024-08-31 23:04:16.437062,League One - England League One 2024/25 - To Be Promoted,Wycombe,-0.02310000000000001,0.0769,0.1
 2024-08-31 23:04:16.389486,La Liga - Spain La Liga 2024/25 - To Be Relegated,Villarreal,-0.023200000000000002,0.0244,0.0476
 2024-08-31 23:04:16.210839,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Monza,-0.0236,0.0149,0.0385
+2024-09-01 01:04:06.834354,Main Markets - Final Round 2-Balls - W. Clark / A. Scott - Final Round 2-Balls,Adam Scott,-0.023799999999999988,0.4762,0.5
 2024-08-31 23:04:16.450459,League One - England League One 2024/25 - To Be Relegated,Burton Albion,-0.023799999999999988,0.4762,0.5
+2024-09-01 01:04:06.996725,Scores - Final Round Score - Collin Morikawa - Final Round Score,Over 68.5,-0.023800000000000043,0.5,0.5238
 2024-08-31 17:04:03.390697,British Masters - British Masters - Winner,Harry Hall,-0.0239,0.0005,0.0244
-2024-08-31 23:04:16.437062,League One - England League One 2024/25 - To Be Promoted,Mansfield Town,-0.0242,0.0667,0.0909
 2024-08-31 21:03:05.767669,League Two - England League Two 2024/25 - To Finish Bottom,Bromley,-0.0242,0.0667,0.0909
+2024-08-31 23:04:16.437062,League One - England League One 2024/25 - To Be Promoted,Mansfield Town,-0.0242,0.0667,0.0909
+2024-09-01 01:03:44.454871,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Freiburg,-0.024299999999999995,0.0526,0.0769
 2024-08-31 23:04:16.402673,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Real Valladolid,-0.024399999999999998,0.005,0.0294
 2024-08-31 17:03:41.900427,League Two - England League Two 2024/25 - Winner,Port Vale,-0.0245,0.0588,0.0833
 2024-08-31 13:04:15.182363,BKFC Prospect Series: Edmonton - Drew Stuve vs Sonny Smith - To Win the Bout,Sonny Smith,-0.02560000000000001,0.3448,0.3704
-2024-08-31 23:04:38.732244,Scores - Final Round Score - Viktor Hovland - Final Round Score,Under 68.5,-0.026499999999999968,0.5652,0.5917
+2024-09-01 01:03:44.454871,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Borussia Dortmund,-0.025600000000000067,0.6667,0.6923
 2024-08-31 17:04:03.188640,BKFC Prospect Series: Edmonton - Taylor Bull vs Christopher Hamlett - To Win the Bout,Christopher Hamlett,-0.026499999999999968,0.6226,0.6491
+2024-08-31 23:04:38.732244,Scores - Final Round Score - Viktor Hovland - Final Round Score,Under 68.5,-0.026499999999999968,0.5652,0.5917
 2024-08-31 23:04:16.423745,League One - England League One 2024/25 - Winner,Peterborough United,-0.026499999999999996,0.0323,0.0588
 2024-08-31 17:04:03.210078,BKFC Prospect Series: Edmonton - Matt Socholotiuk vs Nash Diederichs - To Win the Bout,Nash Diederichs,-0.02679999999999999,0.2857,0.3125
 2024-08-31 23:04:16.106624,Championship - England Championship 2024/25 - To Be Promoted,Sheffield United,-0.02779999999999999,0.2222,0.25
 2024-08-31 23:04:16.490925,League One - England League One 2024/25 - Top 6 Finish,Blackpool,-0.02779999999999999,0.2222,0.25
-2024-08-31 23:04:16.144746,Championship - England Championship 2024/25 - Top 2 Finish,Hull City,-0.028000000000000004,0.0196,0.0476
 2024-08-31 23:04:16.477410,League One - England League One 2024/25 - Top 2 Finish,Wigan Athletic,-0.028000000000000004,0.0196,0.0476
+2024-08-31 23:04:16.144746,Championship - England Championship 2024/25 - Top 2 Finish,Hull City,-0.028000000000000004,0.0196,0.0476
 2024-08-31 21:03:05.767669,League Two - England League Two 2024/25 - To Finish Bottom,Newport County,-0.028199999999999996,0.0385,0.0667
 2024-08-31 23:04:16.450459,League One - England League One 2024/25 - To Be Relegated,Barnsley,-0.028199999999999996,0.0385,0.0667
 2024-08-31 23:04:16.119330,Championship - England Championship 2024/25 - To Be Relegated,Sunderland,-0.0286,0.0099,0.0385
 2024-08-31 23:04:16.389486,La Liga - Spain La Liga 2024/25 - To Be Relegated,Alavés,-0.028799999999999992,0.125,0.1538
 2024-08-31 17:04:03.102761,BKFC Prospect Series: Edmonton - Caeden Scott vs Dan Godoy - To Win the Bout,Dan Godoy,-0.029100000000000015,0.2273,0.2564
-2024-08-31 21:03:05.773847,League Two - England League Two 2024/25 - Top 3 Finish,Cheltenham Town,-0.029299999999999993,0.0476,0.0769
-2024-08-31 23:04:16.106624,Championship - England Championship 2024/25 - To Be Promoted,Hull City,-0.029299999999999993,0.0476,0.0769
-2024-08-31 23:04:16.157565,Championship - England Championship 2024/25 - Top 6 Finish,Cardiff City,-0.029299999999999993,0.0476,0.0769
 2024-08-31 21:03:05.761475,League Two - England League Two 2024/25 - To Be Relegated,Tranmere Rovers,-0.029299999999999993,0.0476,0.0769
-2024-08-31 23:04:16.119330,Championship - England Championship 2024/25 - To Be Relegated,Stoke City,-0.029299999999999993,0.0476,0.0769
+2024-08-31 23:04:16.106624,Championship - England Championship 2024/25 - To Be Promoted,Hull City,-0.029299999999999993,0.0476,0.0769
 2024-08-31 23:04:16.106624,Championship - England Championship 2024/25 - To Be Promoted,Sheffield Wednesday,-0.029299999999999993,0.0476,0.0769
-2024-08-31 23:04:16.132042,Championship - England Championship 2024/25 - To Finish Bottom,Blackburn Rovers,-0.0294,0.0294,0.0588
+2024-08-31 23:04:16.119330,Championship - England Championship 2024/25 - To Be Relegated,Stoke City,-0.029299999999999993,0.0476,0.0769
+2024-08-31 23:04:16.157565,Championship - England Championship 2024/25 - Top 6 Finish,Cardiff City,-0.029299999999999993,0.0476,0.0769
+2024-08-31 21:03:05.773847,League Two - England League Two 2024/25 - Top 3 Finish,Cheltenham Town,-0.029299999999999993,0.0476,0.0769
 2024-08-31 23:04:16.402673,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Osasuna,-0.0294,0.0294,0.0588
+2024-08-31 23:04:16.132042,Championship - England Championship 2024/25 - To Finish Bottom,Blackburn Rovers,-0.0294,0.0294,0.0588
 2024-08-31 17:04:03.274371,BKFC Prospect Series: Edmonton - Hasan Alghanim vs Ryan Ibsen - To Win the Bout,Ryan Ibsen,-0.029600000000000015,0.3704,0.4
 2024-08-31 17:04:03.390697,British Masters - British Masters - Winner,Joost Luiten,-0.029800000000000004,0.0025,0.0323
 2024-08-31 15:04:16.457717,BKFC Prospect Series: Edmonton - Trevor Bozniak vs Kayden Giroux - To Win the Bout,Trevor Bozniak,-0.029899999999999982,0.2778,0.3077
-2024-08-31 23:04:16.389486,La Liga - Spain La Liga 2024/25 - To Be Relegated,Las Palmas,-0.030299999999999994,0.3333,0.3636
 2024-08-31 13:04:14.964505,BKFC Prospect Series: Edmonton - Alexandra Lucia Delgado-Lopez vs Jennifer Ruiz - To Win the Bout,Jennifer Ruiz,-0.030299999999999994,0.3333,0.3636
-2024-08-31 21:03:05.761475,League Two - England League Two 2024/25 - To Be Relegated,Newport County,-0.031799999999999995,0.1111,0.1429
+2024-08-31 23:04:16.389486,La Liga - Spain La Liga 2024/25 - To Be Relegated,Las Palmas,-0.030299999999999994,0.3333,0.3636
+2024-09-01 01:04:05.491772,NCAA Football Futures - 2024 Conference USA Championship - Championship Game Winner,Liberty,-0.031299999999999994,0.661,0.6923
 2024-08-31 23:04:16.477410,League One - England League One 2024/25 - Top 2 Finish,Charlton Athletic,-0.031799999999999995,0.1111,0.1429
+2024-08-31 21:03:05.761475,League Two - England League Two 2024/25 - To Be Relegated,Newport County,-0.031799999999999995,0.1111,0.1429
+2024-08-31 23:04:16.157565,Championship - England Championship 2024/25 - Top 6 Finish,Portsmouth,-0.0321,0.0588,0.0909
 2024-08-31 17:03:41.913179,League Two - England League Two 2024/25 - To Be Promoted,Cheltenham Town,-0.0321,0.0588,0.0909
 2024-08-31 23:04:16.119330,Championship - England Championship 2024/25 - To Be Relegated,Norwich City,-0.0321,0.0588,0.0909
-2024-08-31 23:04:16.157565,Championship - England Championship 2024/25 - Top 6 Finish,Portsmouth,-0.0321,0.0588,0.0909
 2024-08-31 19:03:15.462975,Boxing Lines - Yoshiki Takei vs Daigo Higa - To Win the Bout,Daigo Higa,-0.032399999999999984,0.2273,0.2597
 2024-08-31 21:03:05.773847,League Two - England League Two 2024/25 - Top 3 Finish,Harrogate Town,-0.03270000000000001,0.0149,0.0476
 2024-08-31 13:04:15.030163,BKFC Prospect Series: Edmonton - Jonathan Miller vs Bohdan Kotok - To Win the Bout,Jonathan Miller,-0.033299999999999996,0.5122,0.5455
-2024-08-31 23:04:16.132042,Championship - England Championship 2024/25 - To Finish Bottom,Millwall,-0.03330000000000001,0.0667,0.1
 2024-08-31 23:04:16.463958,League One - England League One 2024/25 - To Finish Bottom,Exeter City,-0.03330000000000001,0.0667,0.1
+2024-08-31 23:04:16.132042,Championship - England Championship 2024/25 - To Finish Bottom,Millwall,-0.03330000000000001,0.0667,0.1
+2024-09-01 01:03:44.454871,1. Bundesliga - Germany Bundesliga 2024/25 - Top 4 Finish,Hoffenheim,-0.03330000000000001,0.0667,0.1
+2024-09-01 01:03:44.442258,1. Bundesliga - Germany Bundesliga 2024/25 - Winner without Bayern Munich,Borussia Dortmund,-0.033300000000000024,0.1667,0.2
 2024-08-31 23:04:16.157565,Championship - England Championship 2024/25 - Top 6 Finish,Sheffield Wednesday,-0.033399999999999985,0.1333,0.1667
 2024-08-31 15:04:16.001844,Boxing Lines - Adelaida Ruiz vs Ginny Fuchs - To Win the Bout,Adelaida Ruiz,-0.033399999999999985,0.5744,0.6078
 2024-08-31 17:03:41.913179,League Two - England League Two 2024/25 - To Be Promoted,Salford City,-0.034100000000000005,0.0909,0.125
@@ -323,27 +404,32 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-31 23:04:16.766643,Premier League Futures/Specials - English Premier League 2024/25 - Top 4 Finish,Manchester United,-0.03570000000000001,0.25,0.2857
 2024-08-31 23:04:16.490925,League One - England League One 2024/25 - Top 6 Finish,Bolton Wanderers,-0.03639999999999999,0.6,0.6364
 2024-08-31 23:04:16.437062,League One - England League One 2024/25 - To Be Promoted,Huddersfield Town,-0.03640000000000004,0.3636,0.4
+2024-09-01 01:03:44.897184,Superligaen - Denmark Superligaen 2024/2025 - Winner,FC Nordsjælland,-0.037500000000000006,0.0625,0.1
 2024-08-31 21:03:05.767669,League Two - England League Two 2024/25 - To Finish Bottom,Colchester United,-0.0384,0.0385,0.0769
 2024-08-31 23:04:16.106624,Championship - England Championship 2024/25 - To Be Promoted,Coventry City,-0.03889999999999999,0.1429,0.1818
 2024-08-31 23:04:16.490925,League One - England League One 2024/25 - Top 6 Finish,Wigan Athletic,-0.03889999999999999,0.1429,0.1818
 2024-08-31 17:04:03.252830,BKFC Prospect Series: Edmonton - Trevor Bozniak vs Kayden Giroux - To Win the Bout,Kayden Giroux,-0.03949999999999998,0.75,0.7895
+2024-09-01 01:04:05.578681,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Texas State,-0.03950000000000001,0.2105,0.25
 2024-08-31 15:04:16.371949,BKFC Prospect Series: Edmonton - Robert Desharnais vs Glendel Futrell - To Win the Bout,Robert Desharnais,-0.03959999999999997,0.5348,0.5744
 2024-08-31 23:04:16.490925,League One - England League One 2024/25 - Top 6 Finish,Wycombe,-0.04040000000000002,0.1818,0.2222
 2024-08-31 23:04:16.437062,League One - England League One 2024/25 - To Be Promoted,Charlton Athletic,-0.04040000000000002,0.1818,0.2222
 2024-08-31 23:04:16.423745,League One - England League One 2024/25 - Winner,Huddersfield Town,-0.04169999999999999,0.125,0.1667
 2024-08-31 23:04:16.157565,Championship - England Championship 2024/25 - Top 6 Finish,Plymouth Argyle,-0.04229999999999999,0.0244,0.0667
-2024-08-31 23:04:16.477410,League One - England League One 2024/25 - Top 2 Finish,Peterborough United,-0.04240000000000001,0.0909,0.1333
 2024-08-31 23:04:16.119330,Championship - England Championship 2024/25 - To Be Relegated,Queens Park Rangers,-0.04240000000000001,0.0909,0.1333
+2024-09-01 01:04:06.048261,MLB Futures - MLB 2024 American League West - American League West Winner,Seattle Mariners,-0.04240000000000001,0.0909,0.1333
+2024-08-31 23:04:16.477410,League One - England League One 2024/25 - Top 2 Finish,Peterborough United,-0.04240000000000001,0.0909,0.1333
 2024-08-31 13:04:15.008128,BKFC Prospect Series: Edmonton - Chad Lucanas vs Zachary Pannell - To Win the Bout,Zachary Pannell,-0.04249999999999998,0.2353,0.2778
 2024-08-31 21:03:05.780155,League Two - England League Two 2024/25 - Top 7 Finish,Swindon Town,-0.04269999999999999,0.1111,0.1538
 2024-08-31 23:04:16.119330,Championship - England Championship 2024/25 - To Be Relegated,Blackburn Rovers,-0.04269999999999999,0.1111,0.1538
 2024-08-31 23:04:16.450459,League One - England League One 2024/25 - To Be Relegated,Shrewsbury Town,-0.043200000000000016,0.6491,0.6923
-2024-08-31 23:04:16.144746,Championship - England Championship 2024/25 - Top 2 Finish,Luton Town,-0.04329999999999999,0.0476,0.0909
 2024-08-31 23:04:16.450459,League One - England League One 2024/25 - To Be Relegated,Rotherham Utd,-0.04329999999999999,0.0476,0.0909
+2024-08-31 23:04:16.144746,Championship - England Championship 2024/25 - Top 2 Finish,Luton Town,-0.04329999999999999,0.0476,0.0909
+2024-09-01 01:03:45.110311,Premier League Futures/Specials - English Premier League 2024/25 - Winner without Manchester City,Arsenal,-0.04409999999999992,0.6226,0.6667
 2024-08-31 23:04:16.402673,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Athletic Bilbao,-0.04409999999999997,0.25,0.2941
 2024-08-31 23:04:16.437062,League One - England League One 2024/25 - To Be Promoted,Bolton Wanderers,-0.04410000000000003,0.3333,0.3774
 2024-08-31 17:04:03.390697,British Masters - British Masters - Winner,Tom Vaillant,-0.044300000000000006,0.0033,0.0476
 2024-08-31 23:04:16.450459,League One - England League One 2024/25 - To Be Relegated,Northampton Town,-0.044399999999999995,0.4,0.4444
+2024-09-01 01:03:45.096710,"Premier League Futures/Specials - English Premier League 2024/25 - Winner without ""The Big 6""",Newcastle United,-0.044399999999999995,0.4,0.4444
 2024-08-31 23:04:16.450459,League One - England League One 2024/25 - To Be Relegated,Reading,-0.04440000000000001,0.0667,0.1111
 2024-08-31 21:03:05.780155,League Two - England League Two 2024/25 - Top 7 Finish,Accrington Stanley,-0.04440000000000001,0.0667,0.1111
 2024-08-31 23:04:16.402673,La Liga - Spain La Liga 2024/25 - Top 4 Finish,Girona,-0.044499999999999984,0.2222,0.2667
@@ -352,17 +438,20 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-31 23:04:16.106624,Championship - England Championship 2024/25 - To Be Promoted,Luton Town,-0.04849999999999999,0.1333,0.1818
 2024-08-31 21:03:05.761475,League Two - England League Two 2024/25 - To Be Relegated,Bromley,-0.04909999999999999,0.1176,0.1667
 2024-08-31 21:03:05.780155,League Two - England League Two 2024/25 - Top 7 Finish,Salford City,-0.04999999999999999,0.2,0.25
+2024-09-01 01:03:44.936619,Superligaen - Denmark Superligaen 2024/2025 - Top 6 Finish,FC Nordsjælland,-0.050000000000000044,0.75,0.8
+2024-09-01 01:04:05.535129,NCAA Football Futures - 2024 Mountain West Conference Championship - Championship Game Winner,Boise State,-0.05019999999999991,0.5652,0.6154
 2024-08-31 23:04:16.752935,Premier League Futures/Specials - English Premier League 2024/25 - Winner,Arsenal,-0.05130000000000001,0.3333,0.3846
 2024-08-31 21:03:05.767669,League Two - England League Two 2024/25 - To Finish Bottom,Grimsby Town,-0.052399999999999995,0.0385,0.0909
 2024-08-31 23:04:16.490925,League One - England League One 2024/25 - Top 6 Finish,Charlton Athletic,-0.05449999999999999,0.4,0.4545
-2024-08-31 23:04:16.437062,League One - England League One 2024/25 - To Be Promoted,Peterborough United,-0.05550000000000002,0.1667,0.2222
 2024-08-31 23:04:16.490925,League One - England League One 2024/25 - Top 6 Finish,Mansfield Town,-0.05550000000000002,0.1667,0.2222
-2024-08-31 21:03:05.780155,League Two - England League Two 2024/25 - Top 7 Finish,Port Vale,-0.05559999999999998,0.4444,0.5
+2024-08-31 23:04:16.437062,League One - England League One 2024/25 - To Be Promoted,Peterborough United,-0.05550000000000002,0.1667,0.2222
 2024-08-31 21:03:05.761475,League Two - England League Two 2024/25 - To Be Relegated,Grimsby Town,-0.05559999999999998,0.1111,0.1667
+2024-08-31 21:03:05.780155,League Two - England League Two 2024/25 - Top 7 Finish,Port Vale,-0.05559999999999998,0.4444,0.5
+2024-09-01 01:03:44.331871,Championship - England Championship 2024/25 - Winner,Burnley,-0.0567,0.1538,0.2105
 2024-08-31 23:04:38.547745,Scores - Final Round Score - Patrick Cantlay - Final Round Score,Under 68.5,-0.05689999999999995,0.5348,0.5917
 2024-08-31 17:03:41.913179,League Two - England League Two 2024/25 - To Be Promoted,Fleetwood Town,-0.05710000000000001,0.1429,0.2
-2024-08-31 17:03:41.913179,League Two - England League Two 2024/25 - To Be Promoted,Port Vale,-0.057699999999999974,0.25,0.3077
 2024-08-31 23:04:16.450459,League One - England League One 2024/25 - To Be Relegated,Exeter City,-0.057699999999999974,0.25,0.3077
+2024-08-31 17:03:41.913179,League Two - England League Two 2024/25 - To Be Promoted,Port Vale,-0.057699999999999974,0.25,0.3077
 2024-08-31 23:04:16.389486,La Liga - Spain La Liga 2024/25 - To Be Relegated,Sevilla,-0.0629,0.0909,0.1538
 2024-08-31 23:04:16.389486,La Liga - Spain La Liga 2024/25 - To Be Relegated,Valencia,-0.0632,0.1667,0.2299
 2024-08-31 23:04:16.119330,Championship - England Championship 2024/25 - To Be Relegated,Derby County,-0.0635,0.2222,0.2857
@@ -372,14 +461,15 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-08-31 23:04:16.177812,1. Bundesliga - Germany Bundesliga 2024/25 - Winner,Bayer Leverkusen,-0.06659999999999999,0.2667,0.3333
 2024-08-31 23:04:16.477410,League One - England League One 2024/25 - Top 2 Finish,Bolton Wanderers,-0.06669999999999998,0.2,0.2667
 2024-08-31 21:03:05.780155,League Two - England League Two 2024/25 - Top 7 Finish,Cheltenham Town,-0.06670000000000001,0.1333,0.2
-2024-08-31 23:04:16.389486,La Liga - Spain La Liga 2024/25 - To Be Relegated,Mallorca,-0.06670000000000001,0.1333,0.2
 2024-08-31 23:04:16.157565,Championship - England Championship 2024/25 - Top 6 Finish,Hull City,-0.06670000000000001,0.1333,0.2
-2024-08-31 17:03:41.913179,League Two - England League Two 2024/25 - To Be Promoted,Gillingham,-0.06670000000000004,0.3333,0.4
+2024-08-31 23:04:16.389486,La Liga - Spain La Liga 2024/25 - To Be Relegated,Mallorca,-0.06670000000000001,0.1333,0.2
 2024-08-31 23:04:16.157565,Championship - England Championship 2024/25 - Top 6 Finish,Luton Town,-0.06670000000000004,0.3333,0.4
-2024-08-31 23:04:16.119330,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,-0.06670000000000004,0.3333,0.4
+2024-08-31 17:03:41.913179,League Two - England League Two 2024/25 - To Be Promoted,Gillingham,-0.06670000000000004,0.3333,0.4
 2024-08-31 23:04:16.157565,Championship - England Championship 2024/25 - Top 6 Finish,Coventry City,-0.06670000000000004,0.3333,0.4
+2024-08-31 23:04:16.119330,Championship - England Championship 2024/25 - To Be Relegated,Oxford United,-0.06670000000000004,0.3333,0.4
 2024-08-31 23:04:16.210839,Serie A - Italy Serie A 2024/25 - Top 4 Finish,Atalanta,-0.067,0.3774,0.4444
 2024-08-31 23:04:16.119330,Championship - England Championship 2024/25 - To Be Relegated,Millwall,-0.06820000000000001,0.1818,0.25
+2024-09-01 01:03:44.923542,Superligaen - Denmark Superligaen 2024/2025 - Top 3 Finish,FC Nordsjælland,-0.07139999999999996,0.2857,0.3571
 2024-08-31 13:04:14.986221,BKFC Prospect Series: Edmonton - Caeden Scott vs Dan Godoy - To Win the Bout,Dan Godoy,-0.07239999999999996,0.2353,0.3077
 2024-08-31 17:04:03.390697,British Masters - British Masters - Winner,Brandon Stone,-0.07339999999999999,0.0099,0.0833
 2024-08-31 23:04:16.389486,La Liga - Spain La Liga 2024/25 - To Be Relegated,Rayo Vallecano,-0.07500000000000001,0.125,0.2
