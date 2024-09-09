@@ -13,6 +13,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-08 19:03:06.187227,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Penn State To Make the 2024-2025 College Football Playoff,Yes,0.054099999999999926,0.697,0.6429
 2024-09-08 09:04:03.176220,NFL Weekly Specials - NFL Week 1 - RedZone Specials - Sunday September 8 - Early Games,"Bills, Dolphins and Texans each to score 2+ touchdowns",0.05019999999999991,0.6154,0.5652
 2024-09-08 19:03:06.297379,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Washington To Make the 2024-2025 College Football Playoff,No,0.04399999999999993,0.9852,0.9412
+2024-09-08 19:03:05.806180,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Northern Illinois,0.04169999999999999,0.1667,0.125
 2024-09-08 19:03:05.719500,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,Tulane,0.04140000000000002,0.274,0.2326
 2024-09-08 19:03:05.806180,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Bowling Green,0.04040000000000002,0.2222,0.1818
 2024-09-08 19:03:06.279036,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Utah To Make the 2024-2025 College Football Playoff,No,0.03849999999999998,0.726,0.6875
@@ -22,8 +23,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-08 19:03:05.806180,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Ohio,0.0321,0.0909,0.0588
 2024-09-08 19:03:06.315913,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Wisconsin To Make the 2024-2025 College Football Playoff,No,0.02639999999999998,0.9852,0.9588
 2024-09-08 09:04:03.868303,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Philadelphia Phillies,0.02560000000000001,0.3333,0.3077
-2024-09-08 19:03:06.003358,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Georgia To Make the 2024-2025 College Football Playoff,Yes,0.022199999999999998,0.8889,0.8667
 2024-09-08 19:03:06.132095,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Ohio State To Make the 2024-2025 College Football Playoff,Yes,0.022199999999999998,0.8889,0.8667
+2024-09-08 19:03:06.003358,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Georgia To Make the 2024-2025 College Football Playoff,Yes,0.022199999999999998,0.8889,0.8667
 2024-09-08 19:03:05.719500,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,South Florida,0.021699999999999997,0.1429,0.1212
 2024-09-08 09:04:03.868303,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,New York Mets,0.0203,0.0588,0.0385
 2024-09-08 19:03:05.948097,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Arizona To Make the 2024-2025 College Football Playoff,No,0.020299999999999985,0.9615,0.9412
@@ -38,18 +39,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-08 09:04:03.822072,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,San Diego Padres,0.0102,0.0769,0.0667
 2024-09-08 19:03:06.676146,Boxing Lines - Liam Smith vs Josh Kelly - To Win the Bout,Josh Kelly,-0.010099999999999998,0.5455,0.5556
 2024-09-08 19:03:05.784560,NCAA Football Futures - 2024 Conference USA Championship - Championship Game Winner,Middle Tennessee State,-0.010100000000000001,0.0244,0.0345
+2024-09-08 21:03:16.842885,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Houston Texans,-0.0102,0.0667,0.0769
 2024-09-08 19:03:06.095444,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Missouri To Make the 2024-2025 College Football Playoff,No,-0.010700000000000043,0.6667,0.6774
 2024-09-08 19:03:05.871284,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Troy,-0.012300000000000002,0.0294,0.0417
 2024-09-08 19:03:05.784560,NCAA Football Futures - 2024 Conference USA Championship - Championship Game Winner,UTEP,-0.013,0.0066,0.0196
 2024-09-08 09:04:03.868303,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Arizona Diamondbacks,-0.013999999999999999,0.0769,0.0909
+2024-09-08 21:03:16.842885,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Baltimore Ravens,-0.013999999999999999,0.0769,0.0909
+2024-09-08 21:03:16.842885,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Cincinnati Bengals,-0.014399999999999996,0.0625,0.0769
 2024-09-08 19:03:05.719500,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,Florida Atlantic,-0.017099999999999997,0.0123,0.0294
 2024-09-08 19:03:05.806180,NCAA Football Futures - 2024 MAC Conference Championship - Championship Game Winner,Toledo,-0.0174,0.2326,0.25
 2024-09-08 19:02:59.607864,WNBA Awards - WNBA Finals MVP 2024 - Outright,A'ja Wilson (LVA),-0.0184,0.1739,0.1923
 2024-09-08 19:03:05.719500,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,UAB,-0.019100000000000002,0.0132,0.0323
 2024-09-08 19:03:05.871284,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Arkansas State,-0.01949999999999999,0.0714,0.0909
 2024-09-08 19:03:05.871284,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,South Alabama,-0.01949999999999999,0.0714,0.0909
-2024-09-08 19:03:06.003358,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Georgia To Make the 2024-2025 College Football Playoff,No,-0.021400000000000002,0.1786,0.2
 2024-09-08 19:03:06.132095,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Ohio State To Make the 2024-2025 College Football Playoff,No,-0.021400000000000002,0.1786,0.2
+2024-09-08 19:03:06.003358,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Georgia To Make the 2024-2025 College Football Playoff,No,-0.021400000000000002,0.1786,0.2
+2024-09-08 21:03:16.842885,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,Philadelphia Eagles,-0.02310000000000001,0.0769,0.1
 2024-09-08 19:03:05.948097,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Arizona To Make the 2024-2025 College Football Playoff,Yes,-0.0237,0.1053,0.129
 2024-09-08 09:04:03.868303,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Milwaukee Brewers,-0.024999999999999994,0.1,0.125
 2024-09-08 19:03:05.871284,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,James Madison,-0.0267,0.1333,0.16
