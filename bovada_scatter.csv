@@ -1,54 +1,38 @@
 date,title,description,Pct_Change,Implied_Probability,Prev_Probability
-2024-09-09 03:03:22.451886,CFL - CFL Futures -  Grey Cup Winner 2024,British Columbia Lions,0.12589999999999998,0.3077,0.1818
 2024-09-09 05:02:58.255797,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Jayden Daniels (WAS),0.1071,0.25,0.1429
+2024-09-09 15:03:21.288807,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - NC State To Make the 2024-20245 College Football Playoff,No,0.0947,0.9804,0.8857
 2024-09-09 03:03:23.711406,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),T.J. Watt (PIT),0.0889,0.2,0.1111
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Bernhard Langer,0.0804,0.1,0.0196
 2024-09-09 09:03:00.400008,Electoral College Winner - Pennsylvania (PA) - PA,Republican,0.08030000000000004,0.5348,0.4545
-2024-09-09 01:03:42.145314,To Make the Playoffs - Sacramento Kings 2024-25 - To Make the Playoffs,Yes,0.07499999999999996,0.6667,0.5917
-2024-09-09 03:03:22.451886,CFL - CFL Futures -  Grey Cup Winner 2024,Winnipeg Blue Bombers,0.06840000000000002,0.2222,0.1538
 2024-09-09 03:03:23.691540,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jerod Mayo,0.06770000000000001,0.1,0.0323
-2024-09-09 01:03:48.286868,NFC West - NFC West 2024/25 - NFC West Winner,Seattle Seahawks,0.0676,0.2105,0.1429
 2024-09-09 05:02:58.189798,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Aaron Rodgers (NYJ),0.067,0.4444,0.3774
 2024-09-09 05:02:58.189798,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Sam Darnold (MIN),0.06620000000000001,0.125,0.0588
 2024-09-09 09:02:59.461150,Electoral College Winner - Arizona (AZ) - AZ,Republican,0.059799999999999964,0.6154,0.5556
 2024-09-09 05:02:58.189798,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Justin Fields (PIT),0.0573,0.0769,0.0196
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Richard Green,0.056799999999999996,0.0667,0.0099
-2024-09-09 01:03:49.203610,MLB Futures - MLB 2024 American League Central - American League Central Winner,Kansas City Royals,0.05679999999999999,0.1818,0.125
 2024-09-09 03:03:23.671347,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Josh Allen (BUF),0.05559999999999998,0.1667,0.1111
 2024-09-09 05:02:58.231746,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Saquon Barkley (PHI),0.052700000000000004,0.1053,0.0526
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Ernie Els,0.052599999999999994,0.0667,0.0141
 2024-09-09 07:02:41.610155,Irish Open - Irish Open - Winner,Shane Lowry,0.052399999999999995,0.0909,0.0385
 2024-09-09 05:02:58.255797,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Xavier Worthy (KC),0.052300000000000006,0.1111,0.0588
-2024-09-09 01:03:48.163253,NFC North - NFC North 2024/25 - NFC North Winner,Minnesota Vikings,0.052000000000000005,0.1429,0.0909
 2024-09-09 05:02:58.189798,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),J.K. Dobbins (LAC),0.051,0.0833,0.0323
 2024-09-09 09:03:00.687139,Electoral College Winner - Wisconsin (WI) - WI,Republican,0.05070000000000002,0.4762,0.4255
-2024-09-09 03:03:20.309556,Presidential Debates - ABC Debate Sept 10th: Colour Of Kamala Harris' Outfit - Colour Of Harris' Outfit,Black,0.04999999999999999,0.25,0.2
-2024-09-09 03:03:22.451886,CFL - CFL Futures -  Grey Cup Winner 2024,Ottawa Redblacks,0.0489,0.1739,0.125
 2024-09-09 03:03:23.691540,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Mike Tomlin,0.0475,0.0769,0.0294
 2024-09-09 07:02:41.610155,Irish Open - Irish Open - Winner,Aaron Rai,0.0389,0.0667,0.0278
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Jerry Kelly,0.0385,0.0526,0.0141
 2024-09-09 07:02:41.272300,Boxing Lines - Anthony Cacace vs Josh Warrington - To Win the Bout,Anthony Cacace,0.036900000000000044,0.7143,0.6774
-2024-09-09 03:03:20.357019,Presidential Debates - ABC Debate Sept 10th: To Be Said By Kamala Harris During The Debate - To Be Said By Kamala Harris,Convicted felon,0.03639999999999999,0.6364,0.6
-2024-09-09 01:03:41.853544,To Make the Playoffs - Indiana Pacers 2024-25 - To Make the Playoffs,Yes,0.03620000000000001,0.8824,0.8462
-2024-09-09 01:03:43.297125,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Jayson Tatum (BOS),0.036199999999999996,0.1538,0.1176
-2024-09-09 01:03:41.832878,To Make the Playoffs - Houston Rockets 2024-25 - To Make the Playoffs,Yes,0.035999999999999976,0.5122,0.4762
-2024-09-09 01:03:48.163253,NFC North - NFC North 2024/25 - NFC North Winner,Detroit Lions,0.03479999999999994,0.6,0.5652
-2024-09-09 01:03:42.103820,To Make the Playoffs - Phoenix Suns 2024-25 - To Make the Playoffs,Yes,0.03469999999999995,0.7222,0.6875
 2024-09-09 09:03:02.894307,Boxing Lines - Anthony Cacace vs Josh Warrington - To Win the Bout,Josh Warrington,0.03370000000000001,0.3846,0.3509
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Darren Clarke,0.0335,0.0476,0.0141
 2024-09-09 09:02:59.616959,Electoral College Winner - Florida (FL) - FL,Republican,0.033399999999999985,0.8667,0.8333
 2024-09-09 03:03:23.711406,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Micah Parsons (DAL),0.033300000000000024,0.2,0.1667
 2024-09-09 03:03:23.691540,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Matt Eberflus,0.03330000000000001,0.1,0.0667
-2024-09-09 01:03:41.770616,To Make the Playoffs - Denver Nuggets 2024-25 - To Make the Playoffs,No,0.03140000000000001,0.1852,0.1538
-2024-09-09 01:03:41.729046,To Make the Playoffs - Cleveland Cavaliers 2024-25 - To Make the Playoffs,Yes,0.02839999999999998,0.9375,0.9091
 2024-09-09 13:02:53.708775,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Cleveland Guardians,0.027999999999999997,0.1818,0.1538
 2024-09-09 07:02:41.610155,Irish Open - Irish Open - Winner,Thriston Lawrence,0.026600000000000002,0.0345,0.0079
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Harrison Frazar,0.025799999999999997,0.0278,0.002
 2024-09-09 05:02:58.231746,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Tyreek Hill (MIA),0.025300000000000003,0.1429,0.1176
 2024-09-09 03:03:23.691540,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dan Campbell,0.024,0.0625,0.0385
-2024-09-09 07:02:41.610155,Irish Open - Irish Open - Winner,Seamus Power,0.023899999999999998,0.0435,0.0196
 2024-09-09 07:02:41.610155,Irish Open - Irish Open - Winner,Rasmus Hojgaard,0.023899999999999998,0.0435,0.0196
-2024-09-09 01:03:49.246467,MLB Futures - MLB 2024 American League West - American League West Winner,Seattle Mariners,0.0238,0.0714,0.0476
+2024-09-09 07:02:41.610155,Irish Open - Irish Open - Winner,Seamus Power,0.023899999999999998,0.0435,0.0196
 2024-09-09 09:02:59.644181,Electoral College Winner - Georgia (GA) - GA,Republican,0.022600000000000064,0.6226,0.6
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Steve Flesch,0.0222,0.0244,0.0022
 2024-09-09 07:02:41.315505,Boxing Lines - Liam Smith vs Josh Kelly - To Win the Bout,Liam Smith,0.02169999999999994,0.5455,0.5238
@@ -57,149 +41,96 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-09 11:02:51.435532,WNBA Awards - WNBA Finals MVP 2024 - Outright,Caitlin Clark (IND),0.0208,0.0625,0.0417
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Thongchai Jaidee,0.02,0.0217,0.0017
 2024-09-09 07:02:39.454454,UK Party Leaders - Next Conservative Party Leader - Next Conservative Leader After Rishi Sunak,James Cleverly,0.01820000000000002,0.2,0.1818
-2024-09-09 01:03:43.258272,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Chet Holmgren (OKC),0.018099999999999998,0.0769,0.0588
-2024-09-09 01:03:43.239422,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Chris Finch,0.018099999999999998,0.0769,0.0588
-2024-09-09 05:02:59.048010,Chicago - Chicago - Winner,Cameron Smith,0.018099999999999998,0.0769,0.0588
 2024-09-09 05:02:58.231746,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Bijan Robinson (ATL),0.018099999999999998,0.0769,0.0588
-2024-09-09 03:03:20.309556,Presidential Debates - ABC Debate Sept 10th: Colour Of Kamala Harris' Outfit - Colour Of Harris' Outfit,White/Cream,0.0179,0.1429,0.125
+2024-09-09 05:02:59.048010,Chicago - Chicago - Winner,Cameron Smith,0.018099999999999998,0.0769,0.0588
 2024-09-09 13:02:53.730814,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Milwaukee Brewers,0.01759999999999999,0.1176,0.1
-2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Paul Broadhurst,0.017100000000000004,0.0323,0.0152
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Miguel Angel Jimenez,0.017100000000000004,0.0323,0.0152
+2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Paul Broadhurst,0.017100000000000004,0.0323,0.0152
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Retief Goosen,0.0171,0.0196,0.0025
 2024-09-09 07:02:41.610155,Irish Open - Irish Open - Winner,Tom McKibbin,0.0168,0.0278,0.011
 2024-09-09 13:02:53.708775,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Kansas City Royals,0.016700000000000007,0.1,0.0833
-2024-09-09 01:03:43.258272,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Rudy Gobert (MIN),0.016600000000000004,0.0833,0.0667
 2024-09-09 03:03:23.711406,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Aidan Hutchinson (DET),0.016600000000000004,0.0833,0.0667
 2024-09-09 07:02:41.610155,Irish Open - Irish Open - Winner,Sebastian Soderberg,0.0165,0.0244,0.0079
+2024-09-09 15:03:14.992631,Euroleague - Euroleague 2024/25 - Outright,Panathinaikos,0.015899999999999997,0.2381,0.2222
 2024-09-09 05:02:58.231746,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Christian McCaffrey (SF),0.015899999999999997,0.1111,0.0952
-2024-09-09 05:02:58.231746,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Josh Allen (BUF),0.0157,0.0435,0.0278
 2024-09-09 05:02:58.255797,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Keon Coleman (BUF),0.0157,0.0435,0.0278
-2024-09-09 01:03:43.334720,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Kel'el Ware (MIA),0.015300000000000001,0.0476,0.0323
+2024-09-09 05:02:58.231746,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Josh Allen (BUF),0.0157,0.0435,0.0278
 2024-09-09 05:02:58.231746,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Puka Nacua (LAR),0.015300000000000001,0.0588,0.0435
 2024-09-09 05:02:58.231746,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Jahmyr Gibbs (DET),0.014900000000000004,0.0345,0.0196
-2024-09-09 01:03:43.277619,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Paolo Banchero (ORL),0.014899999999999997,0.0625,0.0476
 2024-09-09 07:02:41.610155,Irish Open - Irish Open - Winner,Erik Van Rooyen,0.0145,0.0244,0.0099
 2024-09-09 03:03:23.711406,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Nick Bosa (SF),0.01440000000000001,0.1053,0.0909
-2024-09-09 01:03:43.239422,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Tom Thibodeau,0.01440000000000001,0.1053,0.0909
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Bob Estes,0.0142,0.0164,0.0022
 2024-09-09 13:02:53.686772,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Arizona Diamondbacks,0.014100000000000001,0.0526,0.0385
-2024-09-09 01:03:43.334720,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Terrence Shannon Jr. (MIN),0.014099999999999998,0.0385,0.0244
-2024-09-09 01:03:43.334720,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Matas Buzelis (CHI),0.013999999999999999,0.0909,0.0769
-2024-09-09 01:03:43.239422,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Nick Nurse,0.013999999999999999,0.0909,0.0769
 2024-09-09 13:02:53.730814,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Arizona Diamondbacks,0.013999999999999999,0.0909,0.0769
 2024-09-09 03:03:23.691540,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Jim Harbaugh,0.013899999999999996,0.125,0.1111
-2024-09-09 03:03:20.262654,Presidential Debates - ABC Debate Sept 10th: Will Harris and Trump shake hands? - Handshake?,Yes,0.013600000000000001,0.3077,0.2941
 2024-09-09 07:02:41.610155,Irish Open - Irish Open - Winner,Niklas Norgaard,0.013400000000000002,0.0244,0.011
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Ken Tanigawa,0.0132,0.0152,0.002
+2024-09-09 15:03:14.992631,Euroleague - Euroleague 2024/25 - Outright,Olympiacos,0.0131,0.2353,0.2222
 2024-09-09 05:02:58.189798,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),T.J. Watt (PIT),0.013,0.0196,0.0066
 2024-09-09 05:02:58.231746,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Kyren Williams (LAR),0.012999999999999998,0.0294,0.0164
-2024-09-09 03:03:22.451886,CFL - CFL Futures -  Grey Cup Winner 2024,Edmonton Elks,0.012700000000000003,0.0323,0.0196
-2024-09-09 01:03:41.998629,To Make the Playoffs - New Orleans Pelicans 2024-25 - To Make the Playoffs,Yes,0.012299999999999978,0.6552,0.6429
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Billy Andrade,0.012199999999999999,0.0132,0.001
-2024-09-09 03:03:20.333197,Presidential Debates - ABC Debate Sept 10th: To Be Said By Donald Trump - To Be Said By Donald Trump,Drill baby drill,0.012199999999999989,0.5122,0.5
 2024-09-09 07:02:41.610155,Irish Open - Irish Open - Winner,Guido Migliozzi,0.012100000000000001,0.0244,0.0123
+2024-09-09 15:03:21.507523,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Nebraska To Make the 2024-2025 College Football Playoff,Yes,0.0121,0.1333,0.1212
 2024-09-09 05:02:58.189798,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Trevon Diggs (DAL),0.011699999999999999,0.0196,0.0079
-2024-09-09 01:03:49.616616,Boxing Lines - Anthony Joshua vs Daniel Dubois - To Win the Bout,Daniel Dubois,0.0116,0.2469,0.2353
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Brett Quigley,0.011300000000000001,0.0123,0.001
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Rod Pampling,0.0113,0.0179,0.0066
 2024-09-09 03:03:23.711406,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Khalil Mack (LAC),0.011200000000000002,0.0244,0.0132
-2024-09-09 03:03:09.565998,UEFA Nations League - UEFA Nations League 2024/25 - Winner,Portugal,0.010899999999999993,0.1538,0.1429
-2024-09-09 01:03:43.221022,NBA Awards & League Leaders - NBA Awards 2024-25 - Clutch Player of the Year,LeBron James (LAL),0.010700000000000001,0.0385,0.0278
-2024-09-09 03:03:09.565998,UEFA Nations League - UEFA Nations League 2024/25 - Winner,Spain,0.010499999999999982,0.2105,0.2
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Shane Bertsch,0.0103,0.0123,0.002
-2024-09-09 03:03:23.691540,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Demeco Ryans,0.0102,0.0769,0.0667
 2024-09-09 03:03:23.691540,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Kevin O'Connell,0.0102,0.0769,0.0667
-2024-09-09 05:02:58.255797,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Brian Thomas (JAX),0.010100000000000001,0.0345,0.0244
+2024-09-09 03:03:23.691540,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Demeco Ryans,0.0102,0.0769,0.0667
 2024-09-09 07:02:41.610155,Irish Open - Irish Open - Winner,Thomas Detry,0.010100000000000001,0.0345,0.0244
-2024-09-09 01:03:43.297125,NBA Awards & League Leaders - NBA Awards 2024-25 - NBA Finals MVP,Jaylen Brown (BOS),-0.010099999999999998,0.0952,0.1053
+2024-09-09 05:02:58.255797,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Brian Thomas (JAX),0.010100000000000001,0.0345,0.0244
 2024-09-09 03:03:23.691540,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Zac Taylor,-0.010100000000000001,0.0244,0.0345
-2024-09-09 01:03:41.977893,To Make the Playoffs - Minnesota Timberwolves 2024-25 - To Make the Playoffs,Yes,-0.010199999999999987,0.9231,0.9333
-2024-09-09 03:03:22.451886,CFL - CFL Futures -  Grey Cup Winner 2024,Calgary Stampeders,-0.010300000000000002,0.0141,0.0244
 2024-09-09 03:03:23.671347,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Anthony Richardson (IND),-0.010600000000000002,0.0294,0.04
-2024-09-09 13:02:53.686772,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Baltimore Orioles,-0.010700000000000001,0.1143,0.125
 2024-09-09 03:03:23.671347,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Justin Herbert (LAC),-0.010700000000000001,0.0278,0.0385
-2024-09-09 01:03:49.246467,MLB Futures - MLB 2024 American League West - American League West Winner,Houston Astros,-0.011099999999999999,0.9722,0.9833
-2024-09-09 01:03:49.864774,Chicago - Chicago - Winner,Talor Gooch,-0.011199999999999995,0.0476,0.0588
+2024-09-09 13:02:53.686772,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Baltimore Orioles,-0.010700000000000001,0.1143,0.125
+2024-09-09 15:03:14.992631,Euroleague - Euroleague 2024/25 - Outright,AS Monaco,-0.011099999999999999,0.1,0.1111
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Alex Cejka,-0.011199999999999995,0.0476,0.0588
 2024-09-09 13:02:53.708775,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Baltimore Orioles,-0.011899999999999994,0.2381,0.25
-2024-09-09 01:03:49.616616,Boxing Lines - Anthony Joshua vs Daniel Dubois - To Win the Bout,Anthony Joshua,-0.011900000000000022,0.8214,0.8333
-2024-09-09 01:03:43.258272,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Jrue Holiday (BOS),-0.012100000000000001,0.0123,0.0244
+2024-09-09 15:03:13.464029,Average Points Per Game - Average Points Per Game - Victor Wembanyama (SAS) - PPG,Under 24.5,-0.012199999999999989,0.5,0.5122
 2024-09-09 03:03:23.671347,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),C.J. Stroud (HOU),-0.012299999999999991,0.1053,0.1176
 2024-09-09 03:03:23.671347,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Christian McCaffrey (SF),-0.012700000000000003,0.0196,0.0323
 2024-09-09 03:03:23.671347,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Kirk Cousins (ATL),-0.012700000000000003,0.0196,0.0323
-2024-09-09 01:03:49.864774,Chicago - Chicago - Winner,Jon Rahm,-0.012899999999999995,0.1538,0.1667
 2024-09-09 03:03:23.671347,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Caleb Williams (CHI),-0.012999999999999998,0.0164,0.0294
-2024-09-09 01:03:43.334720,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Tidjane Salaun (CHA),-0.013699999999999999,0.0141,0.0278
 2024-09-09 13:02:53.708775,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Minnesota Twins,-0.013899999999999996,0.1111,0.125
 2024-09-09 03:03:23.711406,NFL Awards & League Leaders - NFL Honors - Defensive Player of the Year (Regular Season 2024/25 DPOY),Myles Garrett (CLE),-0.013899999999999996,0.1111,0.125
-2024-09-09 01:03:49.864774,Chicago - Chicago - Winner,Bryson DeChambeau,-0.013899999999999996,0.1111,0.125
 2024-09-09 05:02:58.255797,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Bo Nix (DEN),-0.013999999999999999,0.0769,0.0909
-2024-09-09 01:03:43.239422,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Joe Mazzulla,-0.013999999999999999,0.0769,0.0909
-2024-09-09 01:03:49.203610,MLB Futures - MLB 2024 American League Central - American League Central Winner,Minnesota Twins,-0.013999999999999999,0.0769,0.0909
-2024-09-09 05:02:58.231746,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Ja'Marr Chase (CIN),-0.014099999999999994,0.0526,0.0667
-2024-09-09 03:03:23.691540,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Raheem Morris,-0.014099999999999994,0.0526,0.0667
 2024-09-09 05:02:58.231746,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),A.J. Brown (PHI),-0.014099999999999994,0.0526,0.0667
-2024-09-09 01:03:43.334720,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Cody Williams (UTA),-0.014099999999999998,0.0244,0.0385
-2024-09-09 01:03:43.277619,NBA Awards & League Leaders - NBA Awards 2024-25 - Most Improved Player,Coby White (CHI),-0.014099999999999998,0.0244,0.0385
-2024-09-09 01:03:43.239422,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Michael Malone,-0.014100000000000001,0.0385,0.0526
+2024-09-09 03:03:23.691540,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Raheem Morris,-0.014099999999999994,0.0526,0.0667
+2024-09-09 05:02:58.231746,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Ja'Marr Chase (CIN),-0.014099999999999994,0.0526,0.0667
 2024-09-09 03:03:23.671347,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Brock Purdy (SF),-0.014399999999999996,0.0625,0.0769
-2024-09-09 01:03:48.286868,NFC West - NFC West 2024/25 - NFC West Winner,Arizona Cardinals,-0.014399999999999996,0.0625,0.0769
 2024-09-09 05:02:58.231746,NFL Awards & League Leaders - NFL Honors - Offensive Player of the Year (Regular Season 2024/25 OPOY),Amon-Ra St. Brown (DET),-0.015300000000000001,0.0435,0.0588
-2024-09-09 03:03:20.262654,Presidential Debates - ABC Debate Sept 10th: Will Harris and Trump shake hands? - Handshake?,No,-0.01660000000000006,0.7561,0.7727
-2024-09-09 01:03:49.864774,Chicago - Chicago - Winner,Tyrrell Hatton,-0.016700000000000007,0.0833,0.1
-2024-09-09 01:03:41.998629,To Make the Playoffs - New Orleans Pelicans 2024-25 - To Make the Playoffs,No,-0.017299999999999982,0.4082,0.4255
-2024-09-09 03:03:11.251398,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,Alianza Lima,-0.017600000000000005,0.3333,0.3509
+2024-09-09 15:03:15.051689,Euro Cup - Euro Cup 2024/25 - Outright,Valencia,-0.01820000000000002,0.1818,0.2
 2024-09-09 03:03:23.691540,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Shane Steichen,-0.019099999999999992,0.0476,0.0667
 2024-09-09 07:02:41.610155,Irish Open - Irish Open - Winner,Vincent Norrman,-0.0194,0.005,0.0244
 2024-09-09 09:02:59.644181,Electoral College Winner - Georgia (GA) - GA,Democrat,-0.020699999999999996,0.4444,0.4651
-2024-09-09 01:03:43.202134,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Jordan Clarkson (UTA),-0.0208,0.0625,0.0833
-2024-09-09 07:02:41.315505,Boxing Lines - Liam Smith vs Josh Kelly - To Win the Bout,Josh Kelly,-0.02169999999999994,0.5238,0.5455
 2024-09-09 09:03:02.937444,Boxing Lines - Liam Smith vs Josh Kelly - To Win the Bout,Liam Smith,-0.02169999999999994,0.5238,0.5455
+2024-09-09 07:02:41.315505,Boxing Lines - Liam Smith vs Josh Kelly - To Win the Bout,Josh Kelly,-0.02169999999999994,0.5238,0.5455
 2024-09-09 05:02:58.255797,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Marvin Harrison Jr. (ARI),-0.022199999999999998,0.1111,0.1333
-2024-09-09 01:03:43.239422,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Erik Spoelstra,-0.0232,0.0435,0.0667
-2024-09-09 01:03:43.258272,NBA Awards & League Leaders - NBA Awards 2024-25 - Defensive Player of the Year,Victor Wembanyama (SAS),-0.023799999999999932,0.6429,0.6667
 2024-09-09 07:02:39.454454,UK Party Leaders - Next Conservative Party Leader - Next Conservative Leader After Rishi Sunak,Robert Jenrick,-0.023799999999999988,0.4762,0.5
 2024-09-09 07:02:39.454454,UK Party Leaders - Next Conservative Party Leader - Next Conservative Leader After Rishi Sunak,Tom Tugendhat,-0.0242,0.0667,0.0909
-2024-09-09 01:03:41.729046,To Make the Playoffs - Cleveland Cavaliers 2024-25 - To Make the Playoffs,No,-0.02479999999999999,0.129,0.1538
 2024-09-09 05:02:58.189798,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Daniel Jones (NYG),-0.024800000000000003,0.0278,0.0526
-2024-09-09 03:03:23.691540,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Mike Macdonald,-0.025300000000000003,0.1176,0.1429
 2024-09-09 05:02:58.189798,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Kirk Cousins (ATL),-0.025300000000000003,0.1176,0.1429
+2024-09-09 03:03:23.691540,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Mike Macdonald,-0.025300000000000003,0.1176,0.1429
 2024-09-09 13:02:53.730814,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Philadelphia Phillies,-0.02560000000000001,0.3077,0.3333
-2024-09-09 01:03:41.770616,To Make the Playoffs - Denver Nuggets 2024-25 - To Make the Playoffs,Yes,-0.026700000000000057,0.8824,0.9091
-2024-09-09 01:03:43.202134,NBA Awards & League Leaders - NBA Awards 2024-25 - 6th Man of the Year,Caris LeVert (CLE),-0.027700000000000002,0.0556,0.0833
-2024-09-09 03:03:11.251398,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,Universitario de Deportes,-0.02779999999999999,0.2222,0.25
-2024-09-09 03:03:11.251398,Primera División - Peru Liga 1 Clausura 2024 - Futures - Winner,Sporting Cristal,-0.02779999999999999,0.2222,0.25
-2024-09-09 01:03:48.163253,NFC North - NFC North 2024/25 - NFC North Winner,Chicago Bears,-0.02779999999999999,0.2222,0.25
-2024-09-09 01:03:43.239422,NBA Awards & League Leaders - NBA Awards 2024-25 - Coach of the Year ,Jamahl Mosley,-0.028399999999999995,0.0625,0.0909
+2024-09-09 03:03:23.671347,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Deebo Samuel (SF),-0.0286,0.0099,0.0385
 2024-09-09 03:03:23.671347,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Maxx Crosby (LV),-0.0286,0.0099,0.0385
 2024-09-09 03:03:23.671347,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Michael Penix Jr. (ATL),-0.0286,0.0099,0.0385
-2024-09-09 03:03:23.671347,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Deebo Samuel (SF),-0.0286,0.0099,0.0385
-2024-09-09 01:03:48.286868,NFC West - NFC West 2024/25 - NFC West Winner,Los Angeles Rams,-0.031700000000000006,0.1905,0.2222
-2024-09-09 01:03:42.103820,To Make the Playoffs - Phoenix Suns 2024-25 - To Make the Playoffs,No,-0.03260000000000002,0.3448,0.3774
-2024-09-09 03:03:22.451886,CFL - CFL Futures -  Grey Cup Winner 2024,Toronto Argonauts,-0.033299999999999996,0.1,0.1333
+2024-09-09 15:03:14.992631,Euroleague - Euroleague 2024/25 - Outright,Real Madrid,-0.033300000000000024,0.1667,0.2
 2024-09-09 07:02:41.272300,Boxing Lines - Anthony Cacace vs Josh Warrington - To Win the Bout,Josh Warrington,-0.03370000000000001,0.3509,0.3846
-2024-09-09 01:03:43.334720,NBA Awards & League Leaders - NBA Awards 2024-25 - Rookie of the Year,Zaccharie Risacher (ATL),-0.03420000000000001,0.0769,0.1111
 2024-09-09 03:03:23.691540,NFL Awards & League Leaders - NFL Honors - Coach of the Year (Regular Season 2024/25 COTY),Dave Canales,-0.03439999999999999,0.0323,0.0667
 2024-09-09 09:02:59.616959,Electoral College Winner - Florida (FL) - FL,Democrat,-0.0353,0.2,0.2353
-2024-09-09 01:03:41.832878,To Make the Playoffs - Houston Rockets 2024-25 - To Make the Playoffs,No,-0.03610000000000002,0.5556,0.5917
-2024-09-09 03:03:20.309556,Presidential Debates - ABC Debate Sept 10th: Colour Of Kamala Harris' Outfit - Colour Of Harris' Outfit,Blue,-0.03639999999999999,0.6,0.6364
 2024-09-09 09:03:02.894307,Boxing Lines - Anthony Cacace vs Josh Warrington - To Win the Bout,Anthony Cacace,-0.036900000000000044,0.6774,0.7143
-2024-09-09 01:03:41.853544,To Make the Playoffs - Indiana Pacers 2024-25 - To Make the Playoffs,No,-0.037000000000000005,0.1852,0.2222
 2024-09-09 05:02:58.255797,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Drake Maye (NE),-0.0389,0.0278,0.0667
-2024-09-09 01:03:49.203610,MLB Futures - MLB 2024 American League Central - American League Central Winner,Cleveland Guardians,-0.04169999999999996,0.8333,0.875
 2024-09-09 03:03:23.671347,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Joe Burrow (CIN),-0.04650000000000001,0.0588,0.1053
 2024-09-09 09:03:00.687139,Electoral College Winner - Wisconsin (WI) - WI,Democrat,-0.05120000000000002,0.5917,0.6429
 2024-09-09 07:02:41.610155,Irish Open - Irish Open - Winner,Rory McIlroy,-0.05550000000000002,0.1667,0.2222
-2024-09-09 01:03:48.163253,NFC North - NFC North 2024/25 - NFC North Winner,Green Bay Packers,-0.05710000000000001,0.1429,0.2
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Joe Durant,-0.0573,0.0196,0.0769
 2024-09-09 09:02:59.461150,Electoral College Winner - Arizona (AZ) - AZ,Democrat,-0.057699999999999974,0.4545,0.5122
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Robert Karlsson,-0.0617,0.0152,0.0769
 2024-09-09 05:02:58.255797,NFL Awards & League Leaders - NFL Honors - Offensive Rookie of the Year (Regular Season 2024/25 OROY),Caleb Williams (CHI),-0.06990000000000002,0.3846,0.4545
-2024-09-09 01:03:42.145314,To Make the Playoffs - Sacramento Kings 2024-25 - To Make the Playoffs,No,-0.07619999999999999,0.4,0.4762
 2024-09-09 09:03:00.400008,Electoral College Winner - Pennsylvania (PA) - PA,Democrat,-0.0805999999999999,0.5348,0.6154
-2024-09-09 03:03:22.451886,CFL - CFL Futures -  Grey Cup Winner 2024,Saskatchewan Roughriders,-0.08979999999999999,0.0769,0.1667
 2024-09-09 03:03:23.671347,NFL Awards & League Leaders - NFL Honors -  Most Valuable Player (Regular Season 2024/25 MVP),Jordan Love (GB),-0.1012,0.0099,0.1111
-2024-09-09 03:03:22.451886,CFL - CFL Futures -  Grey Cup Winner 2024,Montreal Alouettes,-0.11430000000000001,0.2857,0.4
 2024-09-09 05:02:58.189798,NFL Awards & League Leaders - NFL Honors - Comeback Player of the Year (Regular Season 2024/25 CPOY),Joe Burrow (CIN),-0.11900000000000002,0.1667,0.2857
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,David Toms,-0.16219999999999998,0.0196,0.1818
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Steve Stricker,-0.2944,0.1818,0.4762
