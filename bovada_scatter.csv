@@ -15,6 +15,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-09 19:03:05.754323,NCAA Football Futures - 2024-2025 - Heisman Trophy Winner - Heisman ,Quinn Ewers,0.023799999999999988,0.1667,0.1429
 2024-09-09 09:02:59.644181,Electoral College Winner - Georgia (GA) - GA,Republican,0.022600000000000064,0.6226,0.6
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Steve Flesch,0.0222,0.0244,0.0022
+2024-09-09 21:02:20.719773,NFC West - NFC West 2024/25 - NFC West Winner,San Francisco 49ers,0.022199999999999998,0.6774,0.6552
 2024-09-09 09:03:02.937444,Boxing Lines - Liam Smith vs Josh Kelly - To Win the Bout,Josh Kelly,0.02169999999999994,0.5455,0.5238
 2024-09-09 11:02:51.435532,WNBA Awards - WNBA Finals MVP 2024 - Outright,Caitlin Clark (IND),0.0208,0.0625,0.0417
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Thongchai Jaidee,0.02,0.0217,0.0017
@@ -24,6 +25,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Retief Goosen,0.0171,0.0196,0.0025
 2024-09-09 13:02:53.708775,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Kansas City Royals,0.016700000000000007,0.1,0.0833
 2024-09-09 15:03:14.992631,Euroleague - Euroleague 2024/25 - Outright,Panathinaikos,0.015899999999999997,0.2381,0.2222
+2024-09-09 21:02:20.370146,Super Bowl LIX - Super Bowl 59 (2025) - Super Bowl 59 Winner,San Francisco 49ers,0.014800000000000008,0.1481,0.1333
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Bob Estes,0.0142,0.0164,0.0022
 2024-09-09 13:02:53.686772,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Arizona Diamondbacks,0.014100000000000001,0.0526,0.0385
 2024-09-09 17:02:58.709069,B League - Japan B-League 2024/25 - Outright,Yokohama B-Corsairs,0.014099999999999998,0.0435,0.0294
@@ -34,16 +36,22 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-09 15:03:21.507523,NCAA Football Futures - To Make the 2024-2025 College Football Playoff - Nebraska To Make the 2024-2025 College Football Playoff,Yes,0.0121,0.1333,0.1212
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Brett Quigley,0.011300000000000001,0.0123,0.001
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Rod Pampling,0.0113,0.0179,0.0066
+2024-09-09 21:02:17.791262,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Donald Trump Sr.,0.010699999999999932,0.5455,0.5348
+2024-09-09 21:02:17.814914,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Republican,0.010699999999999932,0.5455,0.5348
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Shane Bertsch,0.0103,0.0123,0.002
 2024-09-09 13:02:53.686772,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Baltimore Orioles,-0.010700000000000001,0.1143,0.125
 2024-09-09 15:03:14.992631,Euroleague - Euroleague 2024/25 - Outright,AS Monaco,-0.011099999999999999,0.1,0.1111
 2024-09-09 09:03:03.340926,Sanford International - Sanford International - Winner,Alex Cejka,-0.011199999999999995,0.0476,0.0588
 2024-09-09 13:02:53.708775,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Baltimore Orioles,-0.011899999999999994,0.2381,0.25
+2024-09-09 21:02:17.791262,2024 Election Core - US Presidential Election 2024 - Odds to Win - US Presidential Election 2024 Winner,Kamala Harris,-0.012199999999999989,0.5,0.5122
+2024-09-09 21:02:17.814914,2024 Election Core - US Presidential Election 2024 - Winning Party - Winning Party,Democratic,-0.012199999999999989,0.5,0.5122
 2024-09-09 15:03:13.464029,Average Points Per Game - Average Points Per Game - Victor Wembanyama (SAS) - PPG,Under 24.5,-0.012199999999999989,0.5,0.5122
+2024-09-09 21:02:20.610264,AFC East - AFC East 2024/25 - AFC East Winner,New York Jets,-0.012299999999999978,0.3448,0.3571
 2024-09-09 13:02:53.708775,MLB Futures - MLB 2024 American League Winner - MLB 2024 American League Winner,Minnesota Twins,-0.013899999999999996,0.1111,0.125
 2024-09-09 15:03:15.051689,Euro Cup - Euro Cup 2024/25 - Outright,Valencia,-0.01820000000000002,0.1818,0.2
 2024-09-09 09:02:59.644181,Electoral College Winner - Georgia (GA) - GA,Democrat,-0.020699999999999996,0.4444,0.4651
 2024-09-09 09:03:02.937444,Boxing Lines - Liam Smith vs Josh Kelly - To Win the Bout,Liam Smith,-0.02169999999999994,0.5238,0.5455
+2024-09-09 21:02:20.719773,NFC West - NFC West 2024/25 - NFC West Winner,Los Angeles Rams,-0.023800000000000016,0.1667,0.1905
 2024-09-09 13:02:53.730814,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Philadelphia Phillies,-0.02560000000000001,0.3077,0.3333
 2024-09-09 15:03:14.992631,Euroleague - Euroleague 2024/25 - Outright,Real Madrid,-0.033300000000000024,0.1667,0.2
 2024-09-09 09:02:59.616959,Electoral College Winner - Florida (FL) - FL,Democrat,-0.0353,0.2,0.2353
