@@ -13,7 +13,6 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-21 06:59:32.042673,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,Clemson,0.029899999999999982,0.3077,0.2778
 2024-09-21 06:59:32.135271,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Troy,0.0294,0.0588,0.0294
 2024-09-21 08:59:19.173944,Presidential Debates - Number of Debates between Trump and Harris - Number of Debates between Trump and Harris,2,0.028599999999999987,0.2667,0.2381
-2024-09-20 23:00:07.065795,NFL Weekly Specials - NFL Week 3- Leaders - Lowest Scoring Game (Sunday Only),SF 49ers @ LA Rams,0.0267,0.1176,0.0909
 2024-09-21 02:59:48.881670,Primeira Liga - Portugal Primeira Liga 2024/25 - Portugal Primeira Liga 2024/25,Sporting CP,0.025599999999999956,0.6,0.5744
 2024-09-21 06:59:32.054446,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,South Florida,0.023799999999999988,0.1667,0.1429
 2024-09-21 08:59:20.678140,Elite Boxing - Anthony Cacace vs Josh Warrington - To Win the Bout,Anthony Cacace,0.023399999999999976,0.7059,0.6825
@@ -24,6 +23,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-21 06:59:32.135271,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,South Alabama,0.01949999999999999,0.0909,0.0714
 2024-09-21 08:59:20.652260,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Philadelphia Phillies,0.018400000000000027,0.3125,0.2941
 2024-09-21 08:59:20.652260,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Los Angeles Dodgers,0.015400000000000025,0.4,0.3846
+2024-09-21 12:59:56.806384,Elite Boxing - Anthony Joshua vs Daniel Dubois - To Win the Bout,Anthony Joshua,0.015100000000000002,0.8333,0.8182
 2024-09-21 01:00:11.560719,Elite Boxing - Anthony Joshua vs Daniel Dubois - To Win the Bout,Anthony Joshua,0.015100000000000002,0.8333,0.8182
 2024-09-21 06:59:32.089142,NCAA Football Futures - 2024 Conference USA Championship - Championship Game Winner,Jacksonville State,0.01440000000000001,0.1053,0.0909
 2024-09-21 06:59:32.042673,NCAA Football Futures - 2024 ACC Conference Championship - Championship Game Winner,SMU,0.014099999999999998,0.0435,0.0294
@@ -37,6 +37,7 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-21 08:59:20.627858,MLB Futures - MLB 2024 World Series Winner - MLB 2024 World Series Winner,Los Angeles Dodgers,0.011300000000000004,0.2439,0.2326
 2024-09-21 06:59:32.135271,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Marshall,0.011199999999999995,0.0588,0.0476
 2024-09-21 02:59:48.810847,Ligue 2 - France Ligue 2 2024/25 - Outright,Grenoble,0.0102,0.0769,0.0667
+2024-09-21 12:59:56.806384,Elite Boxing - Anthony Joshua vs Daniel Dubois - To Win the Bout,Daniel Dubois,-0.011700000000000016,0.2105,0.2222
 2024-09-21 01:00:11.560719,Elite Boxing - Anthony Joshua vs Daniel Dubois - To Win the Bout,Daniel Dubois,-0.011700000000000016,0.2105,0.2222
 2024-09-21 08:59:19.173944,Presidential Debates - Number of Debates between Trump and Harris - Number of Debates between Trump and Harris,1,-0.011900000000000022,0.75,0.7619
 2024-09-21 02:59:55.805589,Elite Boxing - Anthony Cacace vs Josh Warrington - To Win the Bout,Josh Warrington,-0.012699999999999989,0.3509,0.3636
@@ -57,8 +58,8 @@ date,title,description,Pct_Change,Implied_Probability,Prev_Probability
 2024-09-21 08:59:20.652260,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,New York Mets,-0.02310000000000001,0.0769,0.1
 2024-09-21 06:59:32.135271,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Arkansas State,-0.0238,0.0476,0.0714
 2024-09-21 08:59:20.678140,Elite Boxing - Anthony Cacace vs Josh Warrington - To Win the Bout,Josh Warrington,-0.024599999999999955,0.339,0.3636
-2024-09-21 06:59:32.135271,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Appalachian State,-0.027999999999999997,0.1538,0.1818
 2024-09-21 08:59:20.652260,MLB Futures - MLB 2024 National League Winner - MLB 2024 National League Winner,Milwaukee Brewers,-0.027999999999999997,0.1053,0.1333
+2024-09-21 06:59:32.135271,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,Appalachian State,-0.027999999999999997,0.1538,0.1818
 2024-09-21 06:59:32.135271,NCAA Football Futures - 2024 Sun Belt Conference Championship - Championship Game Winner,UL Lafayette,-0.031799999999999995,0.1111,0.1429
 2024-09-21 02:59:48.757965,First Division A - Belgium First Division A 2024/25 - Outright,Union Saint-Gilloise,-0.033300000000000024,0.1667,0.2
 2024-09-21 06:59:32.054446,NCAA Football Futures - 2024 American Athletic Conference Championship - Championship Game Winner,UTSA,-0.0509,0.0667,0.1176
